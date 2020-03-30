@@ -1,0 +1,3 @@
+module.exports = function (options) {
+    return '<span class="Px(0.2em) Fw(b) Fz(1.3em) C(smbPageSecondaryText)">' + options.fn(this) + '</span>';
+};
