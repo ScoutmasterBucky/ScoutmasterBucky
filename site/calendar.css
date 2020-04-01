@@ -1,0 +1,308 @@
+.calendar  * {
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+.calendar {
+    cursor: default;
+    display: flex;
+}
+
+.calendar .c-pad-top {
+    padding-top: 7px;
+}
+
+.c-grid {
+    box-shadow: 2px 2px 5px #888888;
+    height: inherit;
+    flex-shrink: 2;
+    min-width: 230px;
+}
+
+@media screen and (max-width: 768px) {
+    .calendar {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+.c-day {
+    width: 14.28%;
+    height: 13%;
+    background-color: #EFF4F9;
+    float: left;
+    text-align: center;
+}
+
+.c-day-previous-month {
+    width: 14.28%;
+    height: 13%;
+    background-color: #F9FBFD;
+    float: left;
+    text-align: center;
+    color: gray;
+}
+
+.c-day-next-month {
+	width: 14.28%;
+	height: 13%;
+	background-color: #F9FBFD;
+	float: left;
+	text-align: center;
+	color: gray;
+}
+.c-week-day {
+	width: 14.28%;
+	height: 10.38%;
+	background-color: #7BA64C;
+	color: #FFFFFF;
+	float: left;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 1%;
+}
+
+.c-next {
+    width: 12.5%;
+    height: 12%;
+    padding: 2% 2% 0 2%;
+    text-align: right;
+    cursor: pointer;
+}
+
+.c-previous {
+    width: 12.5%;
+    height: 12%;
+    padding: 2% 2% 0 2%;
+    text-align: left;
+    cursor: pointer;
+}
+
+.c-month {
+    width: 75%;
+    height: 12%;
+    text-align: center;
+}
+
+.c-nav-btn-over {
+	background-color: #7BA64C;
+	font-weight: bold;
+}
+.c-today {
+	background-color: #CCFF99;
+	font-weight: bold;
+	color: #5B8800;
+}
+
+.c-event {
+    background-color: rgb(166, 166, 166);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.c-grid {
+    float: left;
+    width: 50%;
+}
+
+.c-event-grid {
+    margin-left: 1px;
+    height: inherit;
+    width: 100%;
+    float: left;
+    box-shadow: 2px 2px 5px #888888;
+}
+
+.c-grid-title {
+	font-weight: bold;
+	float: left;
+	background-color: #5D8E21;
+	color: white;
+}
+.c-event-title {
+	width: 100%;
+	height: 12%;
+	text-align: center;
+	font-weight: bold;
+	background-color: #5D8E21;
+	color: white;
+}
+
+.c-event-body {
+    background-color: #EFF4F9;
+    height: 88.1%;
+}
+
+.c-event-list {
+    padding: 7 0 0 0;
+    overflow: auto;
+    height: 95%;
+}
+
+.c-event-item > .title {
+    font-weight: bold;
+}
+
+.c-event-item > div {
+    text-overflow: ellipsis;
+    width: inherit;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.c-event-item {
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+.c-event-over {
+    background-color: lightgray;
+    font-weight: bold;
+    color: black;
+}
+
+.c-event-over > .description {
+    font-weight: normal;
+}
+.c-grid .aqua {
+	background-color: #A8DBC8;
+}
+.c-grid .black {
+	background-color: #000000;
+}
+.c-grid .blue {
+	background-color: #0000ff;
+}
+.c-grid .blue-otr {
+	background-color: #003F87;
+}
+.c-grid .blue-pale {
+	background-color: #006699;
+}
+.c-grid .blue-royal {
+	background-color: #000080;
+}
+.c-grid .blue-sea-scout {
+	background-color: #26316F;
+}
+.c-grid .blue-sky {
+	background-color: #3399ff;
+}
+.c-grid .blue-tedge {
+	background-color: #035c9f;
+}
+.c-grid .blue-vet {
+	background-color: #27597C;
+}
+.c-grid .brown {
+	background-color: #3F2502;
+}
+.c-grid .brown-light {
+	background-color: #6C3301;
+}
+.c-grid .dark-yellow {
+	background-color: #FFCC00;
+}
+.c-grid .gold {
+	background-color: #CC9900;
+}
+.c-grid .green {
+	background-color: #009933;
+}
+.c-grid .green-forest {
+	background-color: #336600;
+}
+.c-grid .green-khaki {
+	background-color: #285945;
+}
+.c-grid .green-lime {
+	background-color: #96C93E;
+}
+.c-grid .green-pine {
+	background-color: #3C643D;
+}
+.c-grid .green-nssm {
+	background-color: #377E46;
+}
+.c-grid .lavender {
+	background-color: #BC95EE;
+}
+.c-grid .light-blue {
+	background-color: #CCFFFF;
+}
+.c-grid .light-brown {
+	background-color: #996633;
+}
+.c-grid .light-orange {
+	background-color: #FFCC99;
+}
+.c-grid .light-purple {
+	background-color: #7E1FFF;
+}
+.c-grid .lt-green-background {
+	background-color:#D5E3C1
+}
+.c-grid .orange {
+	background-color: #FF6600;
+}
+.c-grid .pink {
+	background-color: #FFCCFF;
+}
+.c-grid .pink-hot {
+	background-color: #FF00FF;
+}
+.c-grid .purple {
+	background-color: #800080;
+}
+.c-grid .purple-se {
+	background-color: #3E3096;
+}
+.c-grid .red {
+	background-color: #FF0000;
+}
+.c-grid .red-ls {
+	background-color: #AB162B;
+}
+.c-grid .red-otr {
+	background-color: #AF1E2D;
+}
+.c-grid .red-rust {
+	background-color: #993333;
+}
+.c-grid .red-sea-scout {
+	background-color: #90191B;
+}
+.c-grid .rose {
+	background-color: #DEAD94;
+}
+.c-grid .SMB-green {
+	background-color: #5B8800;
+}
+.c-grid .SMB-online {
+	background-color: #CC9900;
+}
+.c-grid .TR1 {
+	background-color:582E00;
+}
+.c-grid .TR2 {
+	background-color:#D6BC90;
+}
+.c-grid .wild-cream {
+	background-color:#E2D6B5;
+}
+.c-grid .wild-red {
+	background-color:#AF2324;
+}
+.c-grid .wild-green {
+	background-color:#024930;
+}
+.c-grid .white-background {
+	background-color:#FFFFFF
+}
+.c-grid .yellow {
+	background-color: #FFDE00;
+}
+.c-grid .yellow-gold {
+	background-color: #FDC745;
+}

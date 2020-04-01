@@ -1,1 +1,11 @@
 /* Stylesheets for Scoutmaster Bucky */
+#menu {
+    left: calc(-100% + 60px);
+    width: calc(100% - 60px);
+    transition: left 0.5s;
+    transition-timing-function: ease-in-out;
+}
+
+#menu.flyout {
+    left: 0;
+}

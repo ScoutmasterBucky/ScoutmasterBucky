@@ -19,10 +19,6 @@ sugar.use("metalsmith-on-build", () => {
 
     // Load or reload metadata
     const metadata = require("./metadata.json");
-    const d = new Date();
-    metadata.site.buildYear = d.getFullYear();
-    metadata.site.buildMonth = d.getMonth() + 1;
-    metadata.site.buildDay = d.getDate();
 
     if (process.env.SERVE) {
         metadata.liveReload = true;
@@ -84,9 +80,9 @@ sugar.use("metalsmith-atomizer", {
     acssConfig: {
         breakPoints: {
             xs: "@media screen and (max-width: 575px)",
-            sm: "@media screen and (max-width: 768px)",
-            md: "@media screen and (max-width: 992px)",
-            lg: "@media screen and (max-width: 1170px)"
+            s: "@media screen and (max-width: 768px)",
+            m: "@media screen and (max-width: 992px)",
+            l: "@media screen and (max-width: 1002px)"
         },
         custom: {
             smbPageBackground: "black",
@@ -98,15 +94,21 @@ sugar.use("metalsmith-atomizer", {
             smbButtonCaptionText: "black",
             smbHeadingBackground: "#5b8800",
             smbHeadingText: "white"
-        }
+        },
+        rules: [
+            {
+                type: 'helper',
+                id: 'Fill',
+                name: 'Fill',
+                matcher: 'Fill',
+                noParams: false,
+                styles: {
+                    fill: "$0"
+                }
+            }
+        ]
     },
     destination: "atomic.css"
-});
-
-// Static assets outside of the source folder.
-sugar.use("metalsmith-assets", {
-    destination: ".",
-    source: "./assets"
 });
 
 if (process.env.SERVE) {
@@ -121,12 +123,14 @@ if (process.env.SERVE) {
     sugar.use("metalsmith-watch", {
         livereload: true,
         paths: {
-            "${source}/**/*.html": "**/*.{html,md,css}",
-            "${source}/**/*.md": "**/*.{html,md,css}",
-            "${source}/**/*.css": "**/*.{html,md,css}",
+            "${source}/**/*.html": "**/*.{html,md,css,js}",
+            "${source}/**/*.md": "**/*.{html,md,css,js}",
+            "${source}/**/*.css": "**/*.{html,md,css,js}",
+            "${source}/**/*.js": "**/*.{html,md,css,js}",
             "${source}/**/*.jpg": true,
-            "helpers/**/*": "**/*.{html,md,css}",
-            "layouts/**/*": "**/*.{html,md,css}"
+            "helpers/**/*": "**/*.{html,md,css,js}",
+            "layouts/**/*": "**/*.{html,md,css,js}",
+            "partials/**/*": "**/*.{html,md,css,js}"
         }
     });
 }
