@@ -34,6 +34,6 @@ code, tt, pre {
     font-family: "Anonymous Pro Regular", monospace;
 }
 
-p {
-    margin-bottom: 1.2em;
+p + p {
+    margin-top: 1.2em;
 }

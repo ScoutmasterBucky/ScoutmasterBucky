@@ -1,5 +1,4 @@
 ---
-layout: smb-special
 title: Scoutmaster Bucky Merit Badge Special
 date: 2020-03-28
 morning:

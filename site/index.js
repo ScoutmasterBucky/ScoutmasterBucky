@@ -29,3 +29,13 @@ $(function () {
         ]
     });
 });
+
+function toggleClass(ele, findClass, toggleClass) {
+    while (ele && !ele.classList.contains(findClass)) {
+        ele = ele.parentElement;
+    }
+
+    if (ele) {
+        ele.classList.toggle(toggleClass);
+    }
+}

@@ -23,6 +23,7 @@ sugar.use("metalsmith-on-build", () => {
     if (process.env.SERVE) {
         metadata.liveReload = true;
     }
+    metadata.site.buildDate = new Date().toISOString();
 
     defaultMetadata.defaults = metadata;
 });
@@ -58,7 +59,11 @@ sugar.use("metalsmith-mustache-metadata", {
 // "../../" etc.
 sugar.use("metalsmith-rootpath");
 
-// Process Markdown with Handlebars first
+// Process Markdown with Handlebars.
+sugar.use("metalsmith-handlebars-contents", {
+    helpers: ['./helpers/**/*.js'],
+    match: 'events/**/*.md'
+});
 sugar.use("metalsmith-handlebars-contents", {
     helpers: ['./helpers/**/*.js']
 });
@@ -79,10 +84,11 @@ sugar.use("metalsmith-rename", [[/\.md$/, ".html"]]);
 sugar.use("metalsmith-atomizer", {
     acssConfig: {
         breakPoints: {
-            xs: "@media screen and (max-width: 575px)",
-            s: "@media screen and (max-width: 768px)",
+            // Order matters for rule generation
+            l: "@media screen and (max-width: 1002px)",
             m: "@media screen and (max-width: 992px)",
-            l: "@media screen and (max-width: 1002px)"
+            s: "@media screen and (max-width: 768px)",
+            xs: "@media screen and (max-width: 575px)"
         },
         custom: {
             smbPageBackground: "black",
@@ -93,7 +99,11 @@ sugar.use("metalsmith-atomizer", {
             smbButtonText: "white",
             smbButtonCaptionText: "black",
             smbHeadingBackground: "#5b8800",
-            smbHeadingText: "white"
+            smbHeadingText: "white",
+            smbHeading3Text: "#336600",
+            smbEventTitleText: "red",
+            smbEventOnline: "#CC9900",
+            smbEventMeritBadge: "#009933"
         },
         rules: [
             {
