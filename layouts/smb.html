@@ -24,21 +24,21 @@
 <script>
 (function () {
     var d = new Date();
-    var picture = '<img src="images/header-' + (d.getMonth() + 1) + '.jpg" class="W(100%)" height="279" width="1002">';
+    var picture = '<img src="/images/header-' + (d.getMonth() + 1) + '.jpg" class="W(100%) H(a)" height="279" width="1002">';
     document.write(picture);
 })();
 </script>
             </div>
-            <div class="Bgc(smbButtonBarBackground) D(f) Jc(se) Pt(1em) Pb(1em) D(n)--xs Fz(0.9em)--s">
-                {{> smb-menu-button url="merit-badges/" text="Merit Badges" }}
-                {{> smb-menu-button url="scout-ranks/" text="Scout Ranks" }}
-                {{> smb-menu-button url="other-awards/" text="Other Scout Awards" }}
-                {{> smb-menu-button url="memorabilia/" text="Memorabilia" }}
+            <div class="Bgc(smbButtonBarBackground) D(f) Jc(se) Pt(1em) Pb(1em) D(n)--s Fz(0.9em)--m">
+                {{> smb-menu-button url="/merit-badges/" text="Merit Badges" }}
+                {{> smb-menu-button url="/scout-ranks/" text="Scout Ranks" }}
+                {{> smb-menu-button url="/other-awards/" text="Other Scout Awards" }}
+                {{> smb-menu-button url="/memorabilia/" text="Memorabilia" }}
             </div>
-            <div class="Bgc(smbButtonBarBackground) D(f) Jc(se) Pb(1em) D(n)--xs Fz(0.9em)--s">
-                {{> smb-cross-link-button image="cubmaster-bob-katt/images/cbk-small.png" text="Cubmaster Bob Katt" caption="an area for Cub Scouting"}}
-                {{> smb-cross-link-button image="advisor-kodi/images/ak-small.png" text="Advisor Kodi" caption="an area for Venturing"}}
-                {{> smb-cross-link-button image="ss-seagal/images/sss-small.png" text="S.S. Seagal" caption="an area for Sea Scouting"}}
+            <div class="Bgc(smbButtonBarBackground) D(f) Jc(se) Pb(1em) D(n)--s Fz(0.9em)--m">
+                {{> smb-cross-link-button image="/cubmaster-bob-katt/images/cbk-small.png" text="Cubmaster Bob Katt" caption="an area for Cub Scouting" width="33" height="35"}}
+                {{> smb-cross-link-button image="/advisor-kodi/images/ak-small.png" text="Advisor Kodi" caption="an area for Venturing" width="35" height="35"}}
+                {{> smb-cross-link-button image="/ss-seagal/images/sss-small.png" text="S.S. Seagal" caption="an area for Sea Scouting" width="35" height="35"}}
             </div>
             <div class="P(20px)">
 
@@ -46,8 +46,8 @@
 
             </div>
         </div>
-        <div id="menu" class="Bgc(smbButtonBarBackground) Pos(a) T(0) D(n) D(b)--xs C(smbButtonText) P(8px)">
-            <a class="Pos(a) T(0) Start(100%) D(n) D(b)--xs Bgc(smbButtonBarBackground) C(smbButtonText) P(8px)"
+        <div id="menu" class="Bgc(smbButtonBarBackground) Pos(a) T(0) D(n) D(b)--s C(smbButtonText) P(8px)">
+            <a class="Pos(a) T(0) Start(100%) D(n) D(b)--s Bgc(smbButtonBarBackground) C(smbButtonText) P(8px)"
                 onclick="document.getElementById('menu').classList.toggle('flyout')">
                 {{>hamburger-menu class="Fill(smbButtonText)"}}
             </a>
@@ -58,13 +58,13 @@
             {{> smb-menu-button url="memorabilia/" text="Memorabilia" class="Mb(24px)" }}
 
             <div class="Mb(8px)">
-                {{> smb-cross-link-button image="cubmaster-bob-katt/images/cbk-small.png" text="Cubmaster Bob Katt" caption="an area for Cub Scouting" }}
+                {{> smb-cross-link-button image="/cubmaster-bob-katt/images/cbk-small.png" text="Cubmaster Bob Katt" caption="an area for Cub Scouting" width="33" height="35" }}
             </div>
             <div class="Mb(8px)">
-                {{> smb-cross-link-button image="advisor-kodi/images/ak-small.png" text="Advisor Kodi" caption="an area for Venturing" }}
+                {{> smb-cross-link-button image="/advisor-kodi/images/ak-small.png" text="Advisor Kodi" caption="an area for Venturing" width="35" height="35" }}
             </div>
             <div class="Mb(8px)">
-                {{> smb-cross-link-button image="ss-seagal/images/sss-small.png" text="S.S. Seagal" caption="an area for Sea Scouting" }}
+                {{> smb-cross-link-button image="/ss-seagal/images/sss-small.png" text="S.S. Seagal" caption="an area for Sea Scouting" width="35" height="35" }}
             </div>
         </div>
     </body>

@@ -15,7 +15,7 @@ js:
     - index.js
 ---
 
-# <div class="D(f) Jc(sb) Ai(b) Fxd(c)--xs"><div>Welcome</div><div class="Fz(0.4em) Fw(n) Tt(n)">Last Update: {{#date format="MMMM D, YYYY"}}{{site.buildDate}}{{/date}}</div></div>
+# <div class="D(f) Jc(sb) Ai(b) Fxd(c)--s"><div>Welcome</div><div class="Fz(0.4em) Fw(n) Tt(n)">Last Update: {{#date format="MMMM D, YYYY"}}{{site.buildDate}}{{/date}}</div></div>
 
 <div class="C(smbPageSecondaryText) Fw(b) Fz(2em) D(f) Jc(c)">Scoutmaster Bucky</div>
 <div class="D(f) Jc(c) Pb(1em)">Serving Scouts since January 2009</div>
@@ -30,24 +30,24 @@ js:
 
 ## Scoutmaster Bucky Event Calendar
 
-<div id="calendar" class="Mb(0.9em)"></div>
+<div id="calendar" class="Mb(0.9em) H(218px) H(426px)--m"></div>
 
 Registration opens at 12:05 am on the first of the month for the following month's activities. The only exception is that February events open on January 2 at 12:05 am. Some events do open for registration earlier, so please check events carefully below.
 
 ## News
 
-<div class="D(f) Fxd(c)--s">
-    <div class="Maw(189px) Mx(a)--s W(30%)--s">
-        <img src="images/bucky-with-newspaper.jpg" class="W(100%)" />
-    </div>
-    <div>
+<div class="D(f) Fxd(c)--m">
+<div class="Maw(189px) Mx(a)--m W(30%)--m">
+<img src="/images/bucky-with-newspaper.jpg" class="W(100%) H(a)" width="189" height="225" />
+</div>
+<div>
 {{#news}}
-        <div class="D(f)">
-            <div class="D(f) C(red) Fw(b) Px(8px)">NEW!</div>
-            <div>{{.}}</div>
-        </div>
+<div class="D(f)">
+<div class="D(f) C(red) Fw(b) Px(8px)">NEW!</div>
+<div>{{.}}</div>
+</div>
 {{/news}}
-    </div>
+</div>
 </div>
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vdI1j549x1Ft6VQmoRYcZaIH5etwe0vz" class="W(100%) H(480px) Mah(50vh) Mt(0.9em)" loading="lazy"></iframe>
@@ -58,7 +58,7 @@ The Scoutmaster Bucky program is a volunteer run program managed and maintained 
 
 ## Refund Policy & Contact Information
 
-<div class="D(f) Fxd(c)--xs"><div>
+<div class="D(f) Fxd(c)--s"><div>
 
 Requests for refunds or cancellations will be honored up to a week prior to any event.
 
@@ -67,7 +67,10 @@ Scoutmaster Bucky is Brian Reiners and is registered in Northern Star Scouting o
 Contact number: 612-483-0665<br />
 Email: <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry">ScoutmasterBucky@yahoo.com</a>
 
-</div><div class="Maw(30%)--xs M(a)--xs"><img src="images/bucky-waving.jpg" alt="Bucky Waving" class="W(100%)" /></div>
+</div>
+<div class="Maw(30%)--s M(a)--s">
+<img src="images/bucky-waving.jpg" alt="Bucky Waving" class="W(100%) H(a)" width="300" height="357" />
+</div>
 </div>
 
 {{#ancestry.childrenByName.events.ancestry.members}}

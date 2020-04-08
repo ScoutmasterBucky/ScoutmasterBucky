@@ -24,6 +24,10 @@
         flex-direction: column;
         align-items: center;
     }
+
+    .calendar .c-grid, .calendar .c-event-grid {
+        height: 50%;
+    }
 }
 
 .c-day {

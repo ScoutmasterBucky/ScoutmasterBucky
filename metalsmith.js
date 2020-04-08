@@ -85,25 +85,25 @@ sugar.use("metalsmith-atomizer", {
     acssConfig: {
         breakPoints: {
             // Order matters for rule generation
-            l: "@media screen and (max-width: 1002px)",
-            m: "@media screen and (max-width: 992px)",
-            s: "@media screen and (max-width: 768px)",
-            xs: "@media screen and (max-width: 575px)"
+            l: "@media screen and (max-width: 992px)", // Tablet landscape
+            m: "@media screen and (max-width: 768px)", // Tablet portrait, phone landscape
+            s: "@media screen and (max-width: 575px)" // Phone portrait
         },
         custom: {
+            smbButtonBackground: "#5b8800",
+            smbButtonBarBackground: "#a4c57c",
+            smbButtonCaptionText: "black",
+            smbButtonText: "white",
+            smbEventMeritBadge: "#009933",
+            smbEventOnline: "#CC9900",
+            smbEventTitleText: "red",
+            smbHeading3Text: "#336600",
+            smbHeadingBackground: "#5b8800",
+            smbHeadingText: "white",
             smbPageBackground: "black",
             smbPageForeground: "white",
             smbPageSecondaryText: "#719D3E",
-            smbButtonBarBackground: "#a4c57c",
-            smbButtonBackground: "#5b8800",
-            smbButtonText: "white",
-            smbButtonCaptionText: "black",
-            smbHeadingBackground: "#5b8800",
-            smbHeadingText: "white",
-            smbHeading3Text: "#336600",
-            smbEventTitleText: "red",
-            smbEventOnline: "#CC9900",
-            smbEventMeritBadge: "#009933"
+            whiteGlow: '-2px 0 2px white, 0 -2px 2px white, 2px 0 2px white, 0 2px 2px white'
         },
         rules: [
             {
