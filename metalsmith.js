@@ -97,6 +97,7 @@ sugar.use("metalsmith-atomizer", {
             smbEventMeritBadge: "#009933",
             smbEventOnline: "#CC9900",
             smbEventTitleText: "red",
+            smbGold: '#CC9900',
             smbHeading3Text: "#336600",
             smbHeadingBackground: "#5b8800",
             smbHeadingText: "white",

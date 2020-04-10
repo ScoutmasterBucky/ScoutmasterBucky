@@ -5,8 +5,8 @@
 {{#date format='MMMM D, YYYY'}}{{start}}{{/date}}
 </div>
 
-<div class="Ta(c) Fw(b)">
+<div class="Ta(c) Fw(b) Mb(1em)">
 {{#date format='h:mm a'}}{{start}}{{/date}} - {{#date format='h:mm a z'}}{{end}}{{/date}}
 </div>
 
-{{badge-name badge=badge}}
+<script>eventTime('{{start}}', '{{end}}');</script>

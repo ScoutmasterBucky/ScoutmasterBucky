@@ -37,3 +37,7 @@ code, tt, pre {
 p + p {
     margin-top: 1.2em;
 }
+
+hr {
+    border: 1px inset black;
+}

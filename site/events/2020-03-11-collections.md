@@ -12,4 +12,4 @@ online: true
 
 ### Registration
 
-{{>eventbrite badge="collections" event="73178973279" open=true start=eventDateStart end=eventDateEnd}}
+{{>eventbrite badge="collections" event="73178973279" start=eventDateStart end=eventDateEnd}}
