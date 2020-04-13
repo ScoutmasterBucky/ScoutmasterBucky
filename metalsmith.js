@@ -23,8 +23,15 @@ sugar.use("metalsmith-on-build", () => {
     if (process.env.SERVE) {
         metadata.liveReload = true;
     }
-    metadata.site.buildDate = new Date().toISOString();
 
+    metadata.site.buildDate = new Date().toISOString();
+    const meritBadges = require('./merit-badges.json');
+    metadata.meritBadges = meritBadges;
+    const meta = {
+        active: Object.values(meritBadges).filter(x => x.active)
+    };
+    meta.activeCount = meta.active.length;
+    metadata.meritBadgeMeta = meta
     defaultMetadata.defaults = metadata;
 });
 
@@ -138,6 +145,7 @@ if (process.env.SERVE) {
             "${source}/**/*.md": "**/*.{html,md,css,js}",
             "${source}/**/*.css": "**/*.{html,md,css,js}",
             "${source}/**/*.js": "**/*.{html,md,css,js}",
+            "${source}/**/*.gif": true,
             "${source}/**/*.jpg": true,
             "helpers/**/*": "**/*.{html,md,css,js}",
             "layouts/**/*": "**/*.{html,md,css,js}",

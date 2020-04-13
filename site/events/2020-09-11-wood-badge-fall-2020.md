@@ -18,13 +18,16 @@ By attending Wood Badge, the participants will internalize the 5 themes of Wood 
 
 Journey to Excellence requirements emphasize the need to have at least one unit leader Wood Badge trained.  This is your opportunity to become Wood Badge trained.
 
-![Wood Badge Beads](beads.jpg)
+<div class="W(50%) W(100%)--s M(a)">
+<img src="/images/wood-badge/wood-badge-beads.jpg" alt="Wood Badge Logo" class="W(100%)" />
+</div>
 
 Sign up now for the 2020 Fall Wood Badge Course. You must attend both scheduled weekends of the course (two weekends).
 
 Cost is $250. Fee covers all meals and course materials. A $100 deposit is required with the balance due by July 1, 2020. Financial aid requests can be made.
 
-<div class="Bgc(#ccffff) D(f) Ai(c)">
+<div class="Bgc(#ccffff) D(f) Jc(se) Fxd(c)--s">
+<div class="D(f) Fxd(c) Jc(c) P(0.2em)">
 
 Stearns Scout Camp<br />
 September 11 - 13, 2020<br />
@@ -35,12 +38,12 @@ and October 3 - 4, 2020
 Only 41 spaces left as of 01-02-2020
 
 </div>
-<div class="D(f) Ai(c)">
+<div class="D(f) Fxd(c) Jc(c) P(0.2em)">
 
 Registration closes in: <br />
-{{> countdown to="2020-09-09T23:59:59CDT"}}
+{{> countdown to="2020-09-09T23:59:59-05:00"}}
 
 This course **WILL** fill up completely<br />
 Don't wait or you may not get a spot!
 
-</div>
+</div></div>

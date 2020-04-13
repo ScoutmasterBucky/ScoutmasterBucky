@@ -27,7 +27,7 @@ All proceeds will be given to NMMRC to further their community outreach.
 
 The following are the requirements that will be covered and worked on during this class opportunity:
 
-{{#requirements}} 
+{{#requirements}}
 1. Do THREE of the following:
     a. Name three types of modern freight trains. Explain why unit trains are more efficient than mixed freight trains.
     b. Name one Class I or regional railroad. Explain what major cities it serves, the locations of major terminals, service facilities, and crew change points, and the major commodities it carries.
@@ -39,14 +39,17 @@ The following are the requirements that will be covered and worked on during thi
 
 3. Do ONE of the following:
     c. Name four rail support industries, Describe the function of each one.
+        i. stuff
+        ii. things
 
 4. Explain the purpose of Operation Lifesaver and its mission.
 
-   Another line of text
+    Another line of text
+        This is a test
 
-   **Bolded Option 1**
+    **Bolded Option 1**
 
-   Another line of text
+    Another line of text
 
 5. Do THREE of the following:
     a. List five safety precautions that help make trains safer for workers and passengers.

@@ -1,0 +1,9 @@
+{{>smb-layout-header}}
+
+        <title>{{#with (lookup @root.meritBadges badge)}}{{name}}{{/with}} Merit Badge</title>
+
+{{>smb-layout-body}}
+
+{{#smb-transform-elements}}{{{contents}}}{{/smb-transform-elements}}
+
+{{>smb-layout-footer}}

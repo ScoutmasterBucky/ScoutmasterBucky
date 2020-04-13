@@ -1,3 +1,5 @@
+var marked = require('marked');
+
 module.exports = function (obj) {
     let lines = obj.fn(this);
 
@@ -10,12 +12,13 @@ module.exports = function (obj) {
         let level = match ? match[0].length / 4 : 0;
         let trimmed = line.trim();
 
-        let numberMatch = trimmed.match(/^([0-9][0-9]?|[a-z]|[ivx]+)\./);
-        let number = null;
+        let numberMatch = trimmed.match(/^[^a-zA-Z0-9]*([0-9][0-9]?|[a-z]|[ivx]+)[^a-zA-Z0-9 ]* /);
+        let number = '';
 
         if (numberMatch) {
             number = numberMatch[0];
-            trimmed = trimmed.replace(/^[^.]*\. */, '')
+            trimmed = trimmed.replace(number, '')
+            level += 1;
         }
 
         return {
@@ -28,10 +31,23 @@ module.exports = function (obj) {
     // Drop blank lines
     lines = lines.filter(line => line.content !== '');
 
-    console.log(lines);
+    // Wrap and add the padding to the left, plus convert from object back to
+    // text
+    lines = lines.map(line => {
+        const increment = 32;
+        let pad = Math.max(0, (line.level - 1) * increment);
+        let w = Math.max(0, line.level * increment);
 
-    // Join back into text
-    lines = lines.map(line => line.content);
+        return `
+
+<div class="D(f) My(0.6em)"><div class="Pend(0.2em) Pstart(${pad}px) Fxs(0) W(${w}px)">${marked(line.number.trim())}</div><div>
+
+${line.content}
+
+</div></div>
+
+`;
+    });
 
     return lines.join('\n');
 };

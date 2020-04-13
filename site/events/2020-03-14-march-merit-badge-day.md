@@ -17,7 +17,7 @@ pmEnd: 2020-03-14T15:30-05:00
 
 ### Morning Classes
 
-{{>badge-list-start}}
+{{#badge-list}}
 {{>badge badge="citizenship-in-the-world"}}
 {{>badge badge="communication"}}
 {{>badge badge="composite-materials"}}
@@ -26,11 +26,11 @@ pmEnd: 2020-03-14T15:30-05:00
 {{>badge badge="robotics"}}
 {{>badge badge="search-and-rescue"}}
 {{>badge badge="truck-transportation"}}
-{{>badge-list-end}}
+{{/badge-list}}
 
 ### Afternoon Classes
 
-{{>badge-list-start}}
+{{#badge-list}}
 {{>badge badge="athletics" badge2="sports"}}
 {{>badge badge="citizenship-in-the-nation"}}
 {{>badge badge="communication"}}
@@ -39,7 +39,7 @@ pmEnd: 2020-03-14T15:30-05:00
 {{>badge badge="soil-and-water-conservation"}}
 {{>badge badge="surveying"}}
 {{>badge badge="textile"}}
-{{>badge-list-end}}
+{{/badge-list}}
 
 ### Morning Classes
 
