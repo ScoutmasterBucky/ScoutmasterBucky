@@ -6,9 +6,9 @@ eventDateEnd: 2020-03-11T21:30-05:00
 online: true
 ---
 
-{{>badge-list-start}}
+{{#badge-list}}
 {{>badge badge="collections"}}
-{{>badge-list-end}}
+{{/badge-list}}
 
 ### Registration
 
