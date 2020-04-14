@@ -10,7 +10,7 @@ layout: smb-merit-badge
     (c) Show that you know first aid for and how to prevent injuries or illnesses that could occur while camping, including hypothermia, frostbite, heat reactions, dehydration, altitude sickness, insect stings, tick bites, snakebite, blisters, and hyperventilation.
 2. Learn the Leave No Trace principles and the Outdoor Code and explain what they mean. Write a personal and group plan for implementing these principles on your next outing.
 3. Make a written plan for an overnight trek and show how to get to your camping spot by using a topographical map and one of the following:
-    *To complete this requirement, you may use the <a href="/documents/scout-planning-worksheet.pdf">Scout Planning Worksheet</a>.*
+    *To complete this requirement, you may use the <a href="{{@root.rootPath}}documents/scout-planning-worksheet.pdf">Scout Planning Worksheet</a>.*
     (a) A compass
     (b) A GPS receiver
         If a GPS-equipped device is not available, explain how to use one to get to your camping spot.

@@ -19,7 +19,7 @@ By attending Wood Badge, the participants will internalize the 5 themes of Wood 
 Journey to Excellence requirements emphasize the need to have at least one unit leader Wood Badge trained.  This is your opportunity to become Wood Badge trained.
 
 <div class="W(50%) W(100%)--s M(a)">
-<img src="/images/wood-badge/wood-badge-beads.jpg" alt="Wood Badge Logo" class="W(100%)" />
+<img src="{{@root.rootPath}}images/wood-badge/wood-badge-beads.jpg" alt="Wood Badge Logo" class="W(100%)" />
 </div>
 
 Sign up now for the 2020 Fall Wood Badge Course. You must attend both scheduled weekends of the course (two weekends).

@@ -16,22 +16,20 @@ const defaultMetadata = {
 sugar.use("metalsmith-on-build", () => {
     // Clear the require cache
     Object.keys(require.cache).forEach((key) => delete require.cache[key]);
-
-    // Load or reload metadata
-    const metadata = require("./metadata.json");
+    const metadata = {};
 
     if (process.env.SERVE) {
         metadata.liveReload = true;
     }
 
-    metadata.site.buildDate = new Date().toISOString();
-    const meritBadges = require('./merit-badges.json');
+    metadata.buildDate = new Date().toISOString();
+    const meritBadges = require("./merit-badges.json");
     metadata.meritBadges = meritBadges;
     const meta = {
-        active: Object.values(meritBadges).filter(x => x.active)
+        active: Object.values(meritBadges).filter((x) => x.active)
     };
     meta.activeCount = meta.active.length;
-    metadata.meritBadgeMeta = meta
+    metadata.meritBadgeMeta = meta;
     defaultMetadata.defaults = metadata;
 });
 
@@ -55,24 +53,28 @@ sugar.use("metalsmith-ancestry");
 // Allow Mustache templates to build sub-links
 sugar.use("metalsmith-relative-links");
 
-// Add `propName?` and `_parent` properties throughout the metadata.  This
-// is added early for mustache parsing in markdown before templating.
-sugar.use("metalsmith-mustache-metadata", {
-    match: "**/*.md"
-});
-
 // Add a `rootPath` metadata property to all files.  It's relative, allowing
 // the site to be hosted under any path.  "" = at root, or could be "../" or
 // "../../" etc.
 sugar.use("metalsmith-rootpath");
 
-// Process Markdown with Handlebars.
+// "Fix" the rootPath for events because they are embedded into the index page,
+// so their rootPath should be "".
+sugar.use("metalsmith-each", (file, filename) => {
+    if (filename.match(/^events\//)) {
+        file.rootPath = "";
+    }
+});
+
+// Process Markdown with Handlebars. First handle the events so they can be
+// included into the index page. Only the index page may include the events
+// because the links and images are made with the rootPath from above.
 sugar.use("metalsmith-handlebars-contents", {
-    helpers: ['./helpers/**/*.js'],
-    match: 'events/**/*.md'
+    helpers: ["./helpers/**/*.js"],
+    match: ["events/*.md"]
 });
 sugar.use("metalsmith-handlebars-contents", {
-    helpers: ['./helpers/**/*.js']
+    helpers: ["./helpers/**/*.js"]
 });
 
 // Then change Markdown to HTML
@@ -81,7 +83,7 @@ sugar.use("metalsmith-markdown");
 // Wrap HTML content in layouts and allow layout files to use Mustache-like
 // syntax.
 sugar.use("metalsmith-handlebars-layouts", {
-    helpers: ['./layouts/helpers/**/*.js']
+    helpers: ["./layouts/helpers/**/*.js"]
 });
 
 // Rename *.md to *.html
@@ -104,21 +106,22 @@ sugar.use("metalsmith-atomizer", {
             smbEventMeritBadge: "#009933",
             smbEventOnline: "#CC9900",
             smbEventTitleText: "red",
-            smbGold: '#CC9900',
+            smbGold: "#CC9900",
             smbHeading3Text: "#336600",
             smbHeadingBackground: "#5b8800",
             smbHeadingText: "white",
             smbPageBackground: "black",
             smbPageForeground: "white",
             smbPageSecondaryText: "#719D3E",
-            whiteGlow: '-2px 0 2px white, 0 -2px 2px white, 2px 0 2px white, 0 2px 2px white'
+            whiteGlow:
+                "-2px 0 2px white, 0 -2px 2px white, 2px 0 2px white, 0 2px 2px white"
         },
         rules: [
             {
-                type: 'helper',
-                id: 'Fill',
-                name: 'Fill',
-                matcher: 'Fill',
+                type: "helper",
+                id: "Fill",
+                name: "Fill",
+                matcher: "Fill",
                 noParams: false,
                 styles: {
                     fill: "$0"

@@ -2,23 +2,24 @@
         </div>
         <div id="menu" class="Bgc(smbButtonBarBackground) Pos(a) T(0) D(n) D(b)--s C(smbButtonText) P(8px)">
             <a class="Pos(a) T(0) Start(100%) D(n) D(b)--s Bgc(smbButtonBarBackground) C(smbButtonText) P(8px)"
-                onclick="document.getElementById('menu').classList.toggle('flyout')">
+                onclick="document.getElementById('menu').classList.toggle('flyout')"
+                href="#">
                 {{>hamburger-menu class="Fill(smbButtonText)"}}
             </a>
 
-            {{> smb-menu-button url="/merit-badges/" text="Merit Badges" class="Mb(8px)" }}
-            {{> smb-menu-button url="/scout-ranks/" text="Scout Ranks" class="Mb(8px)" }}
-            {{> smb-menu-button url="/other-awards/" text="Other Scout Awards" class="Mb(8px)" }}
-            {{> smb-menu-button url="/memorabilia/" text="Memorabilia" class="Mb(24px)" }}
+            {{> smb-menu-button url="merit-badges/" text="Merit Badges" class="Mb(8px)" }}
+            {{> smb-menu-button url="scout-ranks/" text="Scout Ranks" class="Mb(8px)" }}
+            {{> smb-menu-button url="other-awards/" text="Other Scout Awards" class="Mb(8px)" }}
+            {{> smb-menu-button url="memorabilia/" text="Memorabilia" class="Mb(24px)" }}
 
             <div class="Mb(8px)">
-                {{> smb-cross-link-button image="/cubmaster-bob-katt/images/cbk-small.png" text="Cubmaster Bob Katt" caption="an area for Cub Scouting" width="33" height="35" }}
+                {{> smb-cross-link-button image="cubmaster-bob-katt/images/cbk-small.png" text="Cubmaster Bob Katt" caption="an area for Cub Scouting" width="33" height="35" }}
             </div>
             <div class="Mb(8px)">
-                {{> smb-cross-link-button image="/advisor-kodi/images/ak-small.png" text="Advisor Kodi" caption="an area for Venturing" width="35" height="35" }}
+                {{> smb-cross-link-button image="advisor-kodi/images/ak-small.png" text="Advisor Kodi" caption="an area for Venturing" width="35" height="35" }}
             </div>
             <div class="Mb(8px)">
-                {{> smb-cross-link-button image="/ss-seagal/images/sss-small.png" text="S.S. Seagal" caption="an area for Sea Scouting" width="35" height="35" }}
+                {{> smb-cross-link-button image="ss-seagal/images/sss-small.png" text="S.S. Seagal" caption="an area for Sea Scouting" width="35" height="35" }}
             </div>
         </div>
     </body>
