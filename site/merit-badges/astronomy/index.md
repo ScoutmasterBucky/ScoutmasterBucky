@@ -41,7 +41,7 @@ layout: smb-merit-badge
         (3) Telescopes and other instruments being used
         (4) Celestial objects you observed
     (b) Plan and participate in a three-hour observation session that includes using binoculars or a telescope. List the celestial objects you want to observe, and find each on a star chart or in a guidebook. Prepare a log or notebook. Discuss with your counselor what you hope to observe prior to your observation session. Review your log or notebook with your counselor afterward.
-        *To complete this requirement, you may use the <a href="/documents/scout-planning-worksheet.pdf">Scout Planning Worksheet</a>.*
+        *To complete this requirement, you may use the <a href="{{@root.rootPath}}documents/scout-planning-worksheet.pdf">Scout Planning Worksheet</a>.*
     (c) Plan and host a star party for your Scout troop or other group such as your class at school. Use binoculars or a telescope to show and explain celestial objects to the group.
     (d) Help an astronomy club in your community hold a star party that is open to the public.
     (e) Personally take a series of photographs or digital images of the movement of the Moon, a planet, an asteroid, meteor, or a comet. In your visual display, label each image and include the date and time it was taken. Show all positions on a star chart or map. Show your display at school or at a troop meeting. Explain the changes you observed.

@@ -2,23 +2,29 @@
     <body class="Ovx(h) Bgc(smbPageBackground)">
         <div class="Maw(1002px) Mx(a) Bgc(smbPageForeground)">
             <div>
+{{#if @root.rootPath}}
+                <a href="{{@root.rootPath}}">
+{{/if}}
 <script>
 (function () {
     var d = new Date();
-    var picture = '<img src="/images/header-month-' + (d.getMonth() + 1) + '.jpg" class="W(100%) H(a)" height="279" width="1002">';
+    var picture = '<img src="{{@root.rootPath}}images/header-month-' + (d.getMonth() + 1) + '.jpg" class="W(100%) H(a)" height="279" width="1002">';
     document.write(picture);
 })();
 </script>
+{{#if @root.rootPath}}
+                </a>
+{{/if}}
             </div>
             <div class="Bgc(smbButtonBarBackground) D(f) Jc(se) Pt(1em) Pb(1em) D(n)--s Fz(0.9em)--m">
-                {{> smb-menu-button url="/merit-badges/" text="Merit Badges" }}
-                {{> smb-menu-button url="/scout-ranks/" text="Scout Ranks" }}
-                {{> smb-menu-button url="/other-awards/" text="Other Scout Awards" }}
-                {{> smb-menu-button url="/memorabilia/" text="Memorabilia" }}
+                {{> smb-menu-button url="merit-badges/" text="Merit Badges" }}
+                {{> smb-menu-button url="scout-ranks/" text="Scout Ranks" }}
+                {{> smb-menu-button url="other-awards/" text="Other Scout Awards" }}
+                {{> smb-menu-button url="memorabilia/" text="Memorabilia" }}
             </div>
             <div class="Bgc(smbButtonBarBackground) D(f) Jc(se) Pb(1em) D(n)--s Fz(0.9em)--m">
-                {{> smb-cross-link-button image="/cubmaster-bob-katt/images/cbk-small.png" text="Cubmaster Bob Katt" caption="an area for Cub Scouting" width="33" height="35"}}
-                {{> smb-cross-link-button image="/advisor-kodi/images/ak-small.png" text="Advisor Kodi" caption="an area for Venturing" width="35" height="35"}}
-                {{> smb-cross-link-button image="/ss-seagal/images/sss-small.png" text="S.S. Seagal" caption="an area for Sea Scouting" width="35" height="35"}}
+                {{> smb-cross-link-button image="cubmaster-bob-katt/images/cbk-small.png" text="Cubmaster Bob Katt" caption="an area for Cub Scouting" width="33" height="35"}}
+                {{> smb-cross-link-button image="advisor-kodi/images/ak-small.png" text="Advisor Kodi" caption="an area for Venturing" width="35" height="35"}}
+                {{> smb-cross-link-button image="ss-seagal/images/sss-small.png" text="S.S. Seagal" caption="an area for Sea Scouting" width="35" height="35"}}
             </div>
             <div class="P(20px)">

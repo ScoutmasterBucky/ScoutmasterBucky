@@ -10,12 +10,12 @@ news:
 css:
     - calendar.css
 js:
-    - /js/jquery-3.4.1.min.js
-    - /js/jquery.e-calendar-0.9.2.js
+    - js/jquery-3.4.1.min.js
+    - js/jquery.e-calendar-0.9.2.js
     - index.js
 ---
 
-# <div class="D(f) Jc(sb) Ai(b) Fxd(c)--s"><div>Welcome</div><div class="Fz(0.4em) Fw(n) Tt(n)">Last Update: {{#date format="MMMM D, YYYY"}}{{site.buildDate}}{{/date}}</div></div>
+# <div class="D(f) Jc(sb) Ai(b) Fxd(c)--s"><div>Welcome</div><div class="Fz(0.4em) Fw(n) Tt(n)">Last Update: {{#date format="MMMM D, YYYY"}}{{buildDate}}{{/date}}</div></div>
 
 <div class="C(smbPageSecondaryText) Fw(b) Fz(2em) D(f) Jc(c)">Scoutmaster Bucky</div>
 <div class="D(f) Jc(c) Pb(1em)">Serving Scouts since January 2009</div>
@@ -38,7 +38,7 @@ Registration opens at 12:05 am on the first of the month for the following month
 
 <div class="D(f) Fxd(c)--m">
 <div class="Maw(189px) Mx(a)--m W(30%)--m">
-<img src="/images/bucky-with-newspaper.jpg" class="W(100%) H(a)" width="189" height="225" />
+<img src="{{@root.rootPath}}images/bucky-with-newspaper.jpg" class="W(100%) H(a)" width="189" height="225" />
 </div>
 <div>
 {{#news}}
