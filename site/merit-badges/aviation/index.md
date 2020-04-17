@@ -1,6 +1,7 @@
 ---
 badge: aviation
 layout: smb-merit-badge
+year: 2020
 ---
 
 {{#requirements}}

@@ -17,7 +17,7 @@ In 1910, the American Scouting movement was incorporated by William D Boyce and 
 
 <div class="D(f) Jc(c) Mx(a)"><img src="ernest-thompson-seton-watercolor.jpg" alt="Ernest Thompson Seton"></div>
 
-Ernest Thompson-Seton, an author, nature artist, and naturalist from New York, was commissioned to adapt Scouting for Boys into a manual for the new BSA organization and his 1910 publication included 14 Badges of Merit. The following year, a more comprehensive manual was released by the BSA and is considered the original handbook. The Official Handbook for Boys listed 57 different merit badges available to Scouts. From that point on, national leaders of the organization have considered and approved merit badges on subjects that interest boys and help achieve the purposes of the BSA.
+Ernest Thompson-Seton, an author, nature artist, and naturalist from New York, was commissioned to adapt Scouting for Boys into a manual for the new BSA organization and his 1910 publication included 14 Badges of Merit. The following year, a more comprehensive manual was released by the BSA and is considered the original handbook. The Official Handbook for Boys listed 57 different merit badges available to Scouts. From that point on, national leaders of the organization have considered and approved merit badges on subjects that interest boys and helped to achieve the purposes of the BSA.
 
 ## Merit Badge History Pages
 
