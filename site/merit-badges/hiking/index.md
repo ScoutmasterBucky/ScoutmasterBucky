@@ -1,6 +1,7 @@
 ---
 badge: hiking
 layout: smb-merit-badge
+year: 2020
 ---
 
 {{#requirements}}
