@@ -1,0 +1,6 @@
+---
+badge: coin-collecting
+layout: smb-merit-badge
+workbook: true
+---
+

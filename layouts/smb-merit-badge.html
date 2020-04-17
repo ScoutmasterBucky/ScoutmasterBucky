@@ -1,6 +1,10 @@
 {{>smb-layout-header}}
 
+{{#if workbook}}
+        <title>{{#with (lookup @root.meritBadges badge)}}{{name}}{{/with}} Merit Badge Workbook</title>
+{{else}}
         <title>{{#with (lookup @root.meritBadges badge)}}{{name}}{{/with}} Merit Badge</title>
+{{/if}}
 
 {{>smb-layout-body}}
 
