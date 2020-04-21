@@ -283,6 +283,54 @@ sugar.use("metalsmith-atomizer", {
             styles: {
                 "column-width": "$0"
             }
+        },
+        {
+            type: "pattern",
+            name: "Pba",
+            matcher: "Pba",
+            allowParamToValue: false,
+            shorthand: true,
+            styles: {
+                "page-break-after": "$0"
+            },
+            arguments: [{
+                a: "auto",
+                av: "avoid",
+                al: "always",
+                left: "left",
+                right: "right"
+            }]
+        },
+        {
+            type: "pattern",
+            name: "Pbb",
+            matcher: "Pbb",
+            allowParamToValue: false,
+            shorthand: true,
+            styles: {
+                "page-break-before": "$0"
+            },
+            arguments: [{
+                a: "auto",
+                av: "avoid",
+                al: "always",
+                left: "left",
+                right: "right"
+            }]
+        },
+        {
+            type: "pattern",
+            name: "Pbi",
+            matcher: "Pbi",
+            allowParamToValue: false,
+            shorthand: true,
+            styles: {
+                "page-break-inside": "$0"
+            },
+            arguments: [{
+                a: "auto",
+                av: "avoid"
+            }]
         }
     ],
     destination: "atomic.css"
