@@ -1,6 +1,7 @@
 ---
 badge: scuba-diving
 layout: smb-merit-badge
+requirements: true
 year: 2020
 ---
 

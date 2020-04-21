@@ -1,6 +1,7 @@
 ---
 badge: swimming
 layout: smb-merit-badge
+requirements: true
 year: 2020
 ---
 

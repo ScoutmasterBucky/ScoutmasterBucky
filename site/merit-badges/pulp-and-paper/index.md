@@ -1,6 +1,7 @@
 ---
 badge: pulp-and-paper
 layout: smb-merit-badge
+requirements: true
 year: 2020
 ---
 

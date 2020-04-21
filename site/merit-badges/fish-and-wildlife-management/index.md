@@ -1,6 +1,7 @@
 ---
 badge: fish-and-wildlife-management
 layout: smb-merit-badge
+requirements: true
 year: 2020
 ---
 

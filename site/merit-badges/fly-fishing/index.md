@@ -1,6 +1,7 @@
 ---
 badge: fly-fishing
 layout: smb-merit-badge
+requirements: true
 year: 2020
 ---
 

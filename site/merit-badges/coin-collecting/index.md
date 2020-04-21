@@ -1,6 +1,7 @@
 ---
 badge: coin-collecting
 layout: smb-merit-badge
+requirements: true
 year: 2020
 ---
 
