@@ -1,13 +1,45 @@
 {{>smb-layout-header}}
 
+        <script src="{{@root.rootPath}}js/merit-badge.js"></script>
+
 {{#if workbook}}
-        <title>{{#with (lookup @root.meritBadges badge)}}{{name}}{{/with}} Merit Badge Workbook</title>
+        <title>{{>badge-name badge=badge}} Merit Badge Workbook</title>
 {{else}}
-        <title>{{#with (lookup @root.meritBadges badge)}}{{name}}{{/with}} Merit Badge</title>
+        <title>{{>badge-name badge=badge}} Merit Badge</title>
 {{/if}}
 
 {{>smb-layout-body}}
 
-{{#smb-transform-elements}}{{{contents}}}{{/smb-transform-elements}}
+            <div class="P(0.4em) Bgc(smbHeadingBackground) Jc(se) D(f) Fxd(c)--s Ai(c) D(n)--p">
+                {{#unless requirements}}
+                <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/" class="C(gold)">Merit Badge Requirements</a>
+                {{/unless}}
+                {{#unless workbook}}
+                <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/workbook/" class="C(gold)">Merit Badge Workbook</a>
+                {{/unless}}
+                {{#unless history}}
+                <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/history/" class="C(gold)">Merit Badge History</a>
+                {{/unless}}
+            </div>
+            <div class="notesToggles">
+{{#if @root.requirements}}
+                <div class="D(f) Jc(se) Ai(st) D(n)--p">
+                    {{>top-down-tab short="Requirements" long="Requirements Only" type="none"}}
+                    {{>top-down-tab short="In-Person Notes" long="In-Person Class Prep Notes" type="inPerson"}}
+                    {{>top-down-tab short="Online Notes" long="Online Class Prep Notes" type="online"}}
+                </div>
+{{/if}}
+                <div class="P(20px) P(0)--p">
+
+{{#smb-transform-elements}}
+
+{{#if @root.requirements}}{{>smb-merit-badge-heading-requirements}}{{/if}}
+
+{{{contents}}}
+
+{{/smb-transform-elements}}
+
+                </div>
+            </div>
 
 {{>smb-layout-footer}}

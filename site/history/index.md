@@ -5,7 +5,7 @@ layout: smb
 
 # Merit Badge History Pages
 
-When one is asked about the icons of Scouting, the most commonly identified are: the campfire, the uniform, and merit badges. The merit badge program has delivered knowledge, skill,s and career awareness to millions of youth for the last 100 years.
+When one is asked about the icons of Scouting, the most commonly identified are: the campfire, the uniform, and merit badges. The merit badge program has delivered knowledge, skills and career awareness to millions of youth for the last 100 years.
 
 <div class="D(f) Jc(c) Mx(a)"><img src="robert-stephenson-smyth-baden-powell-watercolor.jpg" alt="Robert Stephenson Smyth Baden-Powell"></div>
 

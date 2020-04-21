@@ -96,7 +96,8 @@ sugar.use("metalsmith-atomizer", {
             // Order matters for rule generation
             l: "@media screen and (max-width: 992px)", // Tablet landscape
             m: "@media screen and (max-width: 768px)", // Tablet portrait, phone landscape
-            s: "@media screen and (max-width: 575px)" // Phone portrait
+            s: "@media screen and (max-width: 575px)", // Phone portrait,
+            p: "@media print"
         },
         custom: {
             smbButtonBackground: "#5b8800",
@@ -106,18 +107,90 @@ sugar.use("metalsmith-atomizer", {
             smbEventMeritBadge: "#009933",
             smbEventOnline: "#CC9900",
             smbEventTitleText: "red",
+            smbFadedText: "#999999",
             smbGold: "#CC9900",
+            smbAccentGold: "#FFFF99",
             smbHeading3Text: "#336600",
             smbHeadingBackground: "#5b8800",
             smbHeadingText: "white",
             smbPageBackground: "black",
             smbPageForeground: "white",
             smbPageSecondaryText: "#719D3E",
+            smbAlertText: "red",
             whiteGlow:
                 "-2px 0 2px white, 0 -2px 2px white, 2px 0 2px white, 0 2px 2px white"
         }
     },
     addRules: [
+        {
+            type: "pattern",
+            name: "Ba",
+            matcher: "Ba",
+            allowParamToValue: false,
+            shorthand: true,
+            styles: {
+                "break-after": "$0"
+            },
+            arguments: [{
+                a: "auto",
+                av: "avoid",
+                alw: "always",
+                all: "all",
+                ap: "avoid-page",
+                p: "page",
+                start: "left",
+                end: "right",
+                ro: "recto",
+                vo: "verso",
+                ac: "avoid-column",
+                c: "column",
+                ar: "avoid-region",
+                r: "region"
+            }]
+        },
+        {
+            type: "pattern",
+            name: "Bb",
+            matcher: "Bb",
+            allowParamToValue: false,
+            shorthand: true,
+            styles: {
+                "break-before": "$0"
+            },
+            arguments: [{
+                a: "auto",
+                av: "avoid",
+                alw: "always",
+                all: "all",
+                ap: "avoid-page",
+                p: "page",
+                start: "left",
+                end: "right",
+                ro: "recto",
+                vo: "verso",
+                ac: "avoid-column",
+                c: "column",
+                ar: "avoid-region",
+                r: "region"
+            }]
+        },
+        {
+            type: "pattern",
+            name: "Bi",
+            matcher: "Bi",
+            allowParamToValue: false,
+            shorthand: true,
+            styles: {
+                "break-inside": "$0"
+            },
+            arguments: [{
+                a: "auto",
+                av: "avoid",
+                ap: "avoid-page",
+                ac: "avoid-column",
+                ar: "avoid-region"
+            }]
+        },
         {
             type: "pattern",
             name: "Cc",
