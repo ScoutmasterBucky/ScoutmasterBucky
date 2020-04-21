@@ -2,5 +2,45 @@
 badge: public-health
 layout: smb-merit-badge
 workbook: true
+year: 2020
 ---
 
+{{#requirements}}
+1. Do the following:
+    (a) Explain what public health is. Explain how Escherichia coli (E. coli), tetanus, HIV/AIDS, malaria, salmonellosis, and Lyme disease are contracted.
+    (b) Choose any FOUR of the following diseases or conditions, and explain how each one is contracted and possibly prevented: gonorrhea, West Nile virus, Zika, botulism, influenza, syphilis, hepatitis, emphysema, meningitis, herpes, lead poisoning.
+    (c) For each disease or condition in requirement 1b, explain:
+        (i) The type or form of the malady (viral, bacterial, environmental, toxin)
+        (ii) Any possible vectors for transmission
+        (iii) Ways to help prevent exposure or the spread of infection
+        (iv) Available treatments
+2. Do the following:
+    (a) Explain the meaning of *immunization*.
+    (b) Name eight diseases against which a young child should be immunized, two diseases against which everyone should be reimmunized periodically, and one immunization everyone should receive annually.
+    (c) Using the list of diseases and conditions in requirement 1b, discuss with your counselor those which currently have no immunization available.
+3. Discuss the importance of safe drinking water in terms of the spread of disease. Then, demonstrate two ways for making water safe to drink that can be used while at camp. In your demonstration, explain how dishes and utensils should be washed, dried, and kept sanitary at home and in camp.
+4. Explain what a vector is and how insects and rodents can be controlled in your home, in your community, and at camp. Tell why this is important. In your discussion, explain which vectors can be easily controlled by individuals and which ones require long-term, collective action.
+5. With your parent's and counselor's approval, do ONE of the following:
+    (a) Visit a municipal wastewater treatment facility OR a solid-waste management operation in your community.
+        1. Describe how the facility safely treats and disposes of sewage or solid waste.
+        2. Discuss your visit and what you learned with your counselor.
+        3. Describe how sewage and solid waste should be disposed of under wilderness camping conditions.
+    (b) Visit a food service facility, such as a restaurant or school cafeteria.
+        1. Observe food preparation, handling, and storage. Learn how the facility keeps food from becoming contaminated.
+        2. Find out what conditions allow micro-organisms to multiply in food, what can be done to help prevent them from growing and spreading, and how to kill them.
+        3. Discuss the importance of using a thermometer to check food temperatures.
+        4. Discuss your visit and what you learned with your counselor.
+6. Do the following:
+    (a) Describe the health dangers from air, water, and noise pollution.
+    (b) Describe health dangers from tobacco use and alcohol and drug abuse.
+    (c) Describe the health dangers from abusing illegal and prescription drugs.
+7. With your parent's and counselor's approval:
+    Do ONE of the following:
+    (a) Visit your city, county, or state public health agency.
+    (b) Familiarize yourself with your city, county, or state health agency's website.
+    After completing either 7a or 7b, do the following:
+        (i) Compare the four leading causes of mortality (death) in your community for any of the past five years with the four leading causes of disease in your community. Explain how the public health agency you visited is trying to reduce the mortality and morbidity rates of these leading causes of illness and death.
+        (ii) Explain the role of your health agency as it relates to the outbreak of diseases.
+        (iii) Discuss the kinds of public assistance the agency is able to provide in case of disasters such as floods, storms, tornadoes, earthquakes, and other acts of destruction. Your discussion can include the cleanup necessary after the disaster.
+8. Pick a profession in the public health sector that interests you. Find out the education, training, and experience required to work in this profession. Discuss what you learn with your counselor.
+{{/requirements}}
