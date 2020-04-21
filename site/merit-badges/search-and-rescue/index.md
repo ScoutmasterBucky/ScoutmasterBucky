@@ -1,6 +1,7 @@
 ---
 badge: search-and-rescue
 layout: smb-merit-badge
+requirements: true
 year: 2020
 ---
 

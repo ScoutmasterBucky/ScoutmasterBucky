@@ -1,8 +1,14 @@
 ---
 badge: archery
 layout: smb-merit-badge
+requirements: true
 year: 2020
+whatToBring:
+    - Permission slip signed by parent or guardian, when and if required by the facility or location the Archery activity is being held at (check with Scoutmaster Bucky if you are uncertain whether a permission slip is needed)
+    - A long-sleeved shirt is recommended for wear when shooting archery
 ---
+
+{{#note type="inPerson"}}{{>safety-warning}}{{/note}}
 
 {{#requirements}}
 1. Do the following:
@@ -16,14 +22,14 @@ year: 2020
     (a) Name and point to the parts of an arrow.
     (b) Describe three or more different types of arrows.
     (c) Name the four principle materials for making arrow shafts.
-    (d) Do ONE of the following:
+    (d) Do ONE of the following: {{#note type="inPerson"}}Scouts will complete one of these requirement components as part of the class.{{/note}}
         (1) Make a complete arrow from a bare shaft using appropriate equipment available to you.
         (2) To demonstrate arrow repair, inspect the shafts and prepare and replace at least three vanes, one point, and one nock. You may use as many arrows as necessary to accomplish this. The repairs can be done on wood, fiberglass, or aluminum arrows.
     (e) Explain how to properly care for and store arrows.
 3. Do the following:
     (a) Explain the proper use, care, and storage of, as well as the reasons for using tabs, arm guards, shooting gloves, and quivers.
     (b) Explain the following terms: cast, draw weight, string height, aiming, spine, mechanical release, and barebow.
-    (c) Make a bowstring using appropriate materials.
+    (c) Make a bowstring using appropriate materials. {{#note type="inPerson"}}Scouts will complete 3c as part of the class.{{/note}}
 4. Explain the following:
     (a) The importance of obedience to a range officer or other person in charge of a range
     (b) The difference between an end and a round
@@ -31,7 +37,7 @@ year: 2020
     (d) How the five-color World Archery Federation target is scored.
     (e) How the National Field Archery Association (NFAA) black-and-white field targets and blue indoor targets are scored
 5. Do ONE of the following options.
-    **Option A - Using a Recurve Bow or Longbow**
+    **Option A - Using a Recurve Bow or Longbow** {{#note type="inPerson"}}This option will NOT be done in the class as the class will focus on the other option (Option B - compound bow) for this requirement.{{/note}}
     (a) Name and point to the parts of the recurve or longbow you are shooting.
     (b) Explain how to properly care for and store recurve bows and longbows.
     (c) Show the ten steps of good shooting for the bow you are shooting.
@@ -67,3 +73,5 @@ year: 2020
         (3) As a member of the USA Archery Junior Olympic Archery Development program (JOAD), earn your indoor or outdoor green, purple, and gray achievement award pins using a compound bow.
         (4) As a member of the NFAA's Junior Division, earn a Cub or Youth 100-score Progression Patch.
 {{/requirements}}
+
+{{#note type="inPerson"}}Most of the requirements will be done during the class, however Scouts should review Option B requirements 5a, 5b, 5c, and 5d prior to the class and come with a knowledge to expedite discussion on these items. Option B requirement 5e will be covered in the class and Option B requirement 5f2 will be utilized as the measure of shooting proficiency that must be attained by Scouts when shooting. Please note that this is a skill-based requirement and only Scouts that are able to meet the standards will have the opportunity of completing this component of the requirement.{{/note}}
