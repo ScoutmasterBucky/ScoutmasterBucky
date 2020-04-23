@@ -3,7 +3,7 @@ let textAreaNum = 0;
 module.exports = function (obj) {
     var height = obj.hash.lines * (22 * 1.2); // 22px font size, 1.2em line height
     var content = obj.fn(this);
-    var result = '<div class="P(wbP) Mt(wbMt) Bdw(wbBdw) Bi(av) Pbi(av) Lh(wbLh)">';
+    var result = '<div class="P(wbP) Mt(wbMt) Bdw(wbBdw)">';
 
     if (content.trim().length) {
         result += `<div class="Mb(0.25em)">${content}</div>`;

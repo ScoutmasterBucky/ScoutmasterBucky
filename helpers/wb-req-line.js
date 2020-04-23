@@ -2,7 +2,7 @@ let inputNum = 0;
 
 module.exports = function (obj) {
     var content = obj.fn(this);
-    var result = '<div class="P(wbP) Mt(wbMt) Bdw(wbBdw) Bi(av) Pbi(av) Lh(wbLh) D(f) Ai(c)">';
+    var result = '<div class="P(wbP) Mt(wbMt) Bdw(wbBdw) D(f) Ai(c)">';
 
     if (content.trim().length) {
         result += `<div class="Fxs(0) Pend(1em)">${content}</div>`;
