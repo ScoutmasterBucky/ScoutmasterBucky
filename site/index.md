@@ -1,12 +1,11 @@
 ---
 title: Scoutmaster Bucky
 layout: smb
-opportunities: 13,875
-online: 990
+opportunities: 14,050+
+online: 1,335+
 news:
     - ONLINE Opportunities added
-    - March 28th and April 25th in-person Scoutmaster Bucky Events have been cancelled. Refunds have been distributed and will be made in full starting March 16.
-    - With many Scouts out of school, we have ramped up our online offerings to help accommodate the demand for merit badge opportunities. We will do what we can to make as many opportunities available to as many Scouts as possible. Keep checking the website for new and more opportunities
+    - With many Scouts out of school, we have ramped up our online offerings to help accommodate the deamnd for merit badge opportunities.  We will do what we can to make as many opportunities available to as many Scouts as possible.  Keep checking the website for new and more opportunities.
 css:
     - calendar.css
 js:
