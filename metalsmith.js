@@ -117,6 +117,10 @@ sugar.use("metalsmith-atomizer", {
             smbPageForeground: "white",
             smbPageSecondaryText: "#719D3E",
             smbAlertText: "red",
+            wbBdw: "1px",
+            wbLh: "1.2em",
+            wbMt: "-1px",
+            wbP: "0.25em",
             whiteGlow:
                 "-2px 0 2px white, 0 -2px 2px white, 2px 0 2px white, 0 2px 2px white"
         }
@@ -131,22 +135,24 @@ sugar.use("metalsmith-atomizer", {
             styles: {
                 "break-after": "$0"
             },
-            arguments: [{
-                a: "auto",
-                av: "avoid",
-                alw: "always",
-                all: "all",
-                ap: "avoid-page",
-                p: "page",
-                start: "left",
-                end: "right",
-                ro: "recto",
-                vo: "verso",
-                ac: "avoid-column",
-                c: "column",
-                ar: "avoid-region",
-                r: "region"
-            }]
+            arguments: [
+                {
+                    a: "auto",
+                    av: "avoid",
+                    alw: "always",
+                    all: "all",
+                    ap: "avoid-page",
+                    p: "page",
+                    start: "left",
+                    end: "right",
+                    ro: "recto",
+                    vo: "verso",
+                    ac: "avoid-column",
+                    c: "column",
+                    ar: "avoid-region",
+                    r: "region"
+                }
+            ]
         },
         {
             type: "pattern",
@@ -157,22 +163,24 @@ sugar.use("metalsmith-atomizer", {
             styles: {
                 "break-before": "$0"
             },
-            arguments: [{
-                a: "auto",
-                av: "avoid",
-                alw: "always",
-                all: "all",
-                ap: "avoid-page",
-                p: "page",
-                start: "left",
-                end: "right",
-                ro: "recto",
-                vo: "verso",
-                ac: "avoid-column",
-                c: "column",
-                ar: "avoid-region",
-                r: "region"
-            }]
+            arguments: [
+                {
+                    a: "auto",
+                    av: "avoid",
+                    alw: "always",
+                    all: "all",
+                    ap: "avoid-page",
+                    p: "page",
+                    start: "left",
+                    end: "right",
+                    ro: "recto",
+                    vo: "verso",
+                    ac: "avoid-column",
+                    c: "column",
+                    ar: "avoid-region",
+                    r: "region"
+                }
+            ]
         },
         {
             type: "pattern",
@@ -183,13 +191,15 @@ sugar.use("metalsmith-atomizer", {
             styles: {
                 "break-inside": "$0"
             },
-            arguments: [{
-                a: "auto",
-                av: "avoid",
-                ap: "avoid-page",
-                ac: "avoid-column",
-                ar: "avoid-region"
-            }]
+            arguments: [
+                {
+                    a: "auto",
+                    av: "avoid",
+                    ap: "avoid-page",
+                    ac: "avoid-column",
+                    ar: "avoid-region"
+                }
+            ]
         },
         {
             type: "pattern",
@@ -209,10 +219,12 @@ sugar.use("metalsmith-atomizer", {
             styles: {
                 "column-fill": "$0"
             },
-            arguments: [{
-                a: "auto",
-                b: "balance"
-            }]
+            arguments: [
+                {
+                    a: "auto",
+                    b: "balance"
+                }
+            ]
         },
         {
             type: "pattern",
@@ -241,18 +253,20 @@ sugar.use("metalsmith-atomizer", {
             styles: {
                 "column-rule-style": "$0"
             },
-            arguments: [{
-                d: "dotted",
-                da: "dashed",
-                do: "double",
-                g: "groove",
-                h: "hidden",
-                i: "inset",
-                n: "none",
-                o: "outset",
-                r: "ridge",
-                s: "solid"
-            }]
+            arguments: [
+                {
+                    d: "dotted",
+                    da: "dashed",
+                    do: "double",
+                    g: "groove",
+                    h: "hidden",
+                    i: "inset",
+                    n: "none",
+                    o: "outset",
+                    r: "ridge",
+                    s: "solid"
+                }
+            ]
         },
         {
             type: "pattern",
@@ -271,10 +285,12 @@ sugar.use("metalsmith-atomizer", {
             styles: {
                 "column-span": "$0"
             },
-            arguments: [{
-                a: "all",
-                n: "none"
-            }]
+            arguments: [
+                {
+                    a: "all",
+                    n: "none"
+                }
+            ]
         },
         {
             type: "pattern",
@@ -293,13 +309,15 @@ sugar.use("metalsmith-atomizer", {
             styles: {
                 "page-break-after": "$0"
             },
-            arguments: [{
-                a: "auto",
-                av: "avoid",
-                al: "always",
-                left: "left",
-                right: "right"
-            }]
+            arguments: [
+                {
+                    a: "auto",
+                    av: "avoid",
+                    al: "always",
+                    left: "left",
+                    right: "right"
+                }
+            ]
         },
         {
             type: "pattern",
@@ -310,13 +328,15 @@ sugar.use("metalsmith-atomizer", {
             styles: {
                 "page-break-before": "$0"
             },
-            arguments: [{
-                a: "auto",
-                av: "avoid",
-                al: "always",
-                left: "left",
-                right: "right"
-            }]
+            arguments: [
+                {
+                    a: "auto",
+                    av: "avoid",
+                    al: "always",
+                    left: "left",
+                    right: "right"
+                }
+            ]
         },
         {
             type: "pattern",
@@ -327,10 +347,12 @@ sugar.use("metalsmith-atomizer", {
             styles: {
                 "page-break-inside": "$0"
             },
-            arguments: [{
-                a: "auto",
-                av: "avoid"
-            }]
+            arguments: [
+                {
+                    a: "auto",
+                    av: "avoid"
+                }
+            ]
         }
     ],
     destination: "atomic.css"
