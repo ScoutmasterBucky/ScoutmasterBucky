@@ -16,19 +16,7 @@
                 </a>
 {{/if}}
             </div>
-{{#if @root.workbook}}
-            <div class="D(n) D(b)--p Mb(1em)">
-                <div class="Bgc(smbButtonBackground) C(white) Fw(b) Tt(u) Ta(c) P(0.25em)">Coin Collecting Merit Badge</div>
-                <div class="Bdstartw(1pt) Bdendw(1pt) C(smbFadedText) Ta(c)">This Scoutmaster Bucky Merit Badge Workbook is based off the <em>{{year}} Scouts BSA Requirements</em>.</div>
-                <div class="Bdw(0.25em) Bdc(red) Bgc(smbAccentGold) P(1em)">
-                    <p>Consider also using the {{>badge-name badge=badge}} merit badge class preparation page for clarification and expections when participating in a Scoutmaster Bucky merit badge opportunity (online or in-person).</p>
-                    <p class="Ta(c)"><a href="{{@root.rootPath}}/merit-badge/{{badge}}/">https://scoutmasterbucky.com/merit-badge/{{badge}}/</a></p>
-                </div>
-                <div class="Ai(c) D(f) H(3em) Bdw(1pt) My(1em) P(0.25em) Bi(av)">
-                    Scout's Name:
-                </div>
-            </div>
-{{/if}}
+
             <div class="Bgc(smbButtonBarBackground) D(f) Jc(se) Pt(0.4em) D(n)--s Fz(0.9em)--m Flw(w) D(n)--p">
                 {{> smb-menu-button url="merit-badges/" text="Merit Badges" }}
                 {{> smb-menu-button url="workbooks/" text="Workbooks" }}
@@ -37,6 +25,7 @@
                 {{> smb-menu-button url="other-awards/" text="Other Scout Awards" }}
                 {{> smb-menu-button url="memorabilia/" text="Memorabilia" }}
             </div>
+
             <div class="Bgc(smbButtonBarBackground) D(f) Jc(se) D(n)--s Fz(0.9em)--m D(n)--p">
                 {{> smb-cross-link-button image="cubmaster-bob-katt/images/cbk-small.png" text="Cubmaster Bob Katt" caption="an area for Cub Scouting" width="33" height="35"}}
                 {{> smb-cross-link-button image="advisor-kodi/images/ak-small.png" text="Advisor Kodi" caption="an area for Venturing" width="35" height="35"}}
