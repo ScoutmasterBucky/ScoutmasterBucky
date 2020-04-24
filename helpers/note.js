@@ -10,7 +10,7 @@ module.exports = function(obj) {
         .join(" ");
 
     return (
-        '<div class="C(smbAlertText) Fw(b) Fs(i) D(n) Pb(0.6em) ' +
+        '<div class="C(smbAlertText) Fw(b) Fs(i) D(n) Pb(smbReqP) ' +
         notesToggles +
         '">' +
         obj.fn(this) +

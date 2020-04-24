@@ -117,6 +117,7 @@ sugar.use("metalsmith-atomizer", {
             smbPageForeground: "white",
             smbPageSecondaryText: "#719D3E",
             smbAlertText: "red",
+            smbReqP: "1em",
             wbBdw: "1px",
             wbLh: "1.2em",
             wbMt: "-1px",
