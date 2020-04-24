@@ -38,11 +38,18 @@ module.exports = function (obj) {
         let pad = Math.max(0, (line.level - 1) * increment);
         let w = Math.max(0, line.level * increment);
 
+        let content = line.content;
+
+        // Add a bit of padding after paragraphs
+        if (content.charAt(0) !== '<') {
+            content = `<div class="Pb(0.6em)">${content}</div>`;
+        }
+
         return `
 
-<div class="D(f) My(0.6em)"><div class="Pend(0.2em) Pstart(${pad}px) Fxs(0) W(${w}px)">${marked(line.number.trim())}</div><div>
+<div class="D(f)"><div class="Pend(0.2em) Pstart(${pad}px) Fxs(0) W(${w}px)">${marked(line.number.trim())}</div><div>
 
-${line.content}
+${content}
 
 </div></div>
 
