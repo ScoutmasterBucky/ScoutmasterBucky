@@ -9,11 +9,11 @@ module.exports = function(obj) {
         .map((x) => `notesToggles-${x}_D(b)`)
         .join(" ");
 
-    return (
-        '<div class="C(smbAlertText) Fw(b) Fs(i) D(n) Pb(smbReqP) ' +
-        notesToggles +
-        '">' +
-        obj.fn(this) +
-        "</div>"
-    );
+    return `
+<div class="C(smbAlertText) Fw(b) Fs(i) D(n) Pb(smbReqP) ${notesToggles}">
+
+${obj.fn(this)}
+
+</div>
+`;
 };
