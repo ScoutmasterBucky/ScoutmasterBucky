@@ -174,7 +174,6 @@ year: 2020
 
 {{#wb-req item="10b" requirement="With your parent's permission, attend a coin show or coin club meeting, or view the website of the U.S. Mint or a coin dealer, and report what you learned."}}
 {{>wb-signature signator="Parent" checkbox="Approved"}}
-{{>wb-signature signator="Counselor" checkbox="Seen"}}
 {{#wb-req-short}}Coin show, coin club meeting, or web site visited:{{/wb-req-short}}
 {{#wb-req-short}}Visited date:{{/wb-req-short}}
 {{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
