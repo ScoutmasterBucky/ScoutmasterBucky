@@ -30,7 +30,7 @@ year: 2020
         Explain how the environment and time can affect the interpretation of an artifact and the overall archaeological site. Tell how you would share the results of your analysis with other researchers and the public.
         *Note: To find out how to make a simulated archaeological site, talk with a professional archaeologist, trained avocational archaeologist, museum school instructor, junior high or high school science teacher, advisor from a local archaeology society, or other qualified instructor.*
 9. Under the supervision of a qualified archaeologist or instructor, do ONE of the following:
-    (a) Help prepare an archaeological exhibit for display in a museum, visitor center, school, or other public are(a)
+    (a) Help prepare an archaeological exhibit for display in a museum, visitor center, school, or other public area.
     (b) Use the methods of experimental archaeology to re-create an item or to practice a skill from the past. Write a brief report explaining the experiment and its results.
 10. Research a group of people who lived in your area more than 100 years ago. Find out about their ways of life, including housing, clothing, arts and crafts, tools, trade and markets, rituals and religions, and diets, and their relationships with other groups of people in the area. Describe what you would expect to find at an archaeological site where these people lived. Explain how these people influenced your current community.
 11. Identify three career opportunities in archaeology. Pick one and explain how to prepare for such a career. Discuss with your counselor what education and training are required, and explain why this profession might interest you.

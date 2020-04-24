@@ -42,7 +42,7 @@ module.exports = function (obj) {
 
         // Add a bit of padding after paragraphs
         if (content.charAt(0) !== '<') {
-            content = `<div class="Pb(0.6em)">${content}</div>`;
+            content = `<div class="Pb(smbReqP)">${content}</div>`;
         }
 
         return `
