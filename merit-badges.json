@@ -103,11 +103,27 @@
         "image": "merit-badges/athletics/athletics.jpg",
         "name": "Athletics"
     },
+    "atomic-energy": {
+        "active": false,
+        "name": "Atomic Energy"
+    },
+    "auto-mechanics": {
+        "active": false,
+        "name": "Auto Mechanics"
+    },
+    "automobiling": {
+        "active": false,
+        "name": "Automobiling"
+    },
     "automotive-maintenance": {
         "active": true,
         "bucky": "merit-badges/automotive-maintenance/automotive-maintenance-bucky.jpg",
         "image": "merit-badges/automotive-maintenance/automotive-maintenance.jpg",
         "name": "Automotive Maintenance"
+    },
+    "automotive-safety": {
+        "active": false,
+        "name": "Automotive Safety"
     },
     "aviation": {
         "active": true,
@@ -127,17 +143,49 @@
         "image": "merit-badges/basketry/basketry.jpg",
         "name": "Basketry"
     },
+    "bee-farming": {
+        "active": false,
+        "name": "Bee Farming"
+    },
+    "bee-keeping": {
+        "active": false,
+        "name": "Bee Keeping"
+    },
+    "beef-production": {
+        "active": false,
+        "name": "Beef Production"
+    },
+    "beekeeping": {
+        "active": false,
+        "name": "Beekeeping"
+    },
     "bird-study": {
         "active": true,
         "bucky": "merit-badges/bird-study/bird-study-bucky.jpg",
         "image": "merit-badges/bird-study/bird-study.jpg",
         "name": "Bird Study"
     },
+    "blacksmithing": {
+        "active": false,
+        "name": "Blacksmithing"
+    },
+    "bookbinding": {
+        "active": false,
+        "name": "Bookbinding"
+    },
+    "botany": {
+        "active": false,
+        "name": "Botany"
+    },
     "bugling": {
         "active": true,
         "bucky": "merit-badges/bugling/bugling-bucky.jpg",
         "image": "merit-badges/bugling/bugling.jpg",
         "name": "Bugling"
+    },
+    "business": {
+        "active": false,
+        "name": "Business"
     },
     "camping": {
         "active": true,
@@ -152,6 +200,14 @@
         "image": "merit-badges/canoeing/canoeing.jpg",
         "name": "Canoeing"
     },
+    "carpentry": {
+        "active": false,
+        "name": "Carpentry"
+    },
+    "cement-work": {
+        "active": false,
+        "name": "Cement Work"
+    },
     "chemistry": {
         "active": true,
         "bucky": "merit-badges/chemistry/chemistry-bucky.jpg",
@@ -164,12 +220,24 @@
         "image": "merit-badges/chess/chess.jpg",
         "name": "Chess"
     },
+    "cinematography": {
+        "active": false,
+        "name": "Cinematography"
+    },
+    "citizenship": {
+        "active": false,
+        "name": "Citizenship"
+    },
     "citizenship-in-the-community": {
         "active": true,
         "bucky": "merit-badges/citizenship-in-the-community/citizenship-in-the-community-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/citizenship-in-the-community/citizenship-in-the-community.jpg",
         "name": "Citizenship in the Community"
+    },
+    "citizenship-in-the-home": {
+        "active": false,
+        "name": "Citizenship in the Home"
     },
     "citizenship-in-the-nation": {
         "active": true,
@@ -184,6 +252,14 @@
         "eagle": true,
         "image": "merit-badges/citizenship-in-the-world/citizenship-in-the-world.jpg",
         "name": "Citizenship in the World"
+    },
+    "citrus-fruit-culture": {
+        "active": false,
+        "name": "Citrus Fruit Culture"
+    },
+    "civics": {
+        "active": false,
+        "name": "Civics"
     },
     "climbing": {
         "active": true,
@@ -216,12 +292,40 @@
         "image": "merit-badges/composite-materials/composite-materials.jpg",
         "name": "Composite Materials"
     },
+    "computers": {
+        "active": false,
+        "name": "Computers"
+    },
+    "conservation": {
+        "active": false,
+        "name": "Conservation"
+    },
+    "conservation-of-natural-resources": {
+        "active": false,
+        "name": "Conservation of Natural Resources"
+    },
+    "consumer-buying": {
+        "active": false,
+        "name": "Consumer Buying"
+    },
     "cooking": {
         "active": true,
         "bucky": "merit-badges/cooking/cooking-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/cooking/cooking.jpg",
         "name": "Cooking"
+    },
+    "corn-farming": {
+        "active": false,
+        "name": "Corn Farming"
+    },
+    "cotton-farming": {
+        "active": false,
+        "name": "Cotton Farming"
+    },
+    "craftsmanship": {
+        "active": false,
+        "name": "Craftsmanship"
     },
     "crime-prevention": {
         "active": true,
@@ -235,6 +339,10 @@
         "eagle": true,
         "image": "merit-badges/cycling/cycling.jpg",
         "name": "Cycling"
+    },
+    "dairying": {
+        "active": false,
+        "name": "Dairying"
     },
     "dentistry": {
         "active": true,
@@ -265,6 +373,10 @@
         "bucky": "merit-badges/drafting/drafting-bucky.jpg",
         "image": "merit-badges/drafting/drafting.jpg",
         "name": "Drafting"
+    },
+    "dramatics": {
+        "active": false,
+        "name": "Dramatics"
     },
     "electricity": {
         "active": true,
@@ -323,11 +435,35 @@
         "image": "merit-badges/family-life/family-life.jpg",
         "name": "Family Life"
     },
+    "farm-and-ranch-management": {
+        "active": false,
+        "name": "Farm and Ranch Management"
+    },
+    "farm-arrangement": {
+        "active": false,
+        "name": "Farm Arrangement"
+    },
+    "farm-home-and-its-planning": {
+        "active": false,
+        "name": "Farm Home and its Planning"
+    },
+    "farm-layout-and-building-arrangement": {
+        "active": false,
+        "name": "Farm Layout and Building Arrangement"
+    },
     "farm-mechanics": {
         "active": true,
         "bucky": "merit-badges/farm-mechanics/farm-mechanics-bucky.jpg",
         "image": "merit-badges/farm-mechanics/farm-mechanics.jpg",
         "name": "Farm Mechanics"
+    },
+    "farm-records": {
+        "active": false,
+        "name": "Farm Records"
+    },
+    "farm-records-and-bookkeeping": {
+        "active": false,
+        "name": "Farm Records and Bookkeeping"
     },
     "fingerprinting": {
         "active": true,
@@ -341,12 +477,20 @@
         "image": "merit-badges/fire-safety/fire-safety.jpg",
         "name": "Fire Safety"
     },
+    "firemanship": {
+        "active": false,
+        "name": "Firemanship"
+    },
     "first-aid": {
         "active": true,
         "bucky": "merit-badges/first-aid/first-aid-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/first-aid/first-aid.jpg",
         "name": "First Aid"
+    },
+    "first-aid-to-animals": {
+        "active": false,
+        "name": "First Aid to Animals"
     },
     "fish-and-wildlife-management": {
         "active": true,
@@ -366,11 +510,31 @@
         "image": "merit-badges/fly-fishing/fly-fishing.jpg",
         "name": "Fly Fishing"
     },
+    "food-systems": {
+        "active": false,
+        "name": "Food Systems"
+    },
+    "forage-crops": {
+        "active": false,
+        "name": "Forage Crops"
+    },
     "forestry": {
         "active": true,
         "bucky": "merit-badges/forestry/forestry-bucky.jpg",
         "image": "merit-badges/forestry/forestry.jpg",
         "name": "Forestry"
+    },
+    "foundry-practice": {
+        "active": false,
+        "name": "Foundry Practice"
+    },
+    "fruit-and-nut-growing": {
+        "active": false,
+        "name": "Fruit and Nut Growing"
+    },
+    "fruit-culture": {
+        "active": false,
+        "name": "Fruit Culture"
     },
     "game-design": {
         "active": true,
@@ -389,6 +553,10 @@
         "bucky": "merit-badges/genealogy/genealogy-bucky.jpg",
         "image": "merit-badges/genealogy/genealogy.jpg",
         "name": "Genealogy"
+    },
+    "general-science": {
+        "active": false,
+        "name": "General Science"
     },
     "geocaching": {
         "active": true,
@@ -414,12 +582,32 @@
         "image": "merit-badges/graphic-arts/graphic-arts.jpg",
         "name": "Graphic Arts"
     },
+    "grasses-legumes-and-forage-crops": {
+        "active": false,
+        "name": "Grasses, Legumes, and Forage Crops"
+    },
+    "handicapped-awareness": {
+        "active": false,
+        "name": "Handicapped Awareness"
+    },
+    "handicraft": {
+        "active": false,
+        "name": "Handicraft"
+    },
     "hiking": {
         "active": true,
         "bucky": "merit-badges/hiking/hiking-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/hiking/hiking.jpg",
         "name": "Hiking"
+    },
+    "hog-and-pork-production": {
+        "active": false,
+        "name": "Hog and Pork Production"
+    },
+    "hog-production": {
+        "active": false,
+        "name": "Hog Production"
     },
     "home-repairs": {
         "active": true,
@@ -439,17 +627,29 @@
         "image": "merit-badges/indian-lore/indian-lore.jpg",
         "name": "Indian Lore"
     },
+    "insect-life": {
+        "active": false,
+        "name": "Insect Life"
+    },
     "insect-study": {
         "active": true,
         "bucky": "merit-badges/insect-study/insect-study-bucky.jpg",
         "image": "merit-badges/insect-study/insect-study.jpg",
         "name": "Insect Study"
     },
+    "interpreting": {
+        "active": false,
+        "name": "Interpreting"
+    },
     "inventing": {
         "active": true,
         "bucky": "merit-badges/inventing/inventing-bucky.jpg",
         "image": "merit-badges/inventing/inventing.jpg",
         "name": "Inventing"
+    },
+    "invention": {
+        "active": false,
+        "name": "Invention"
     },
     "journalism": {
         "active": true,
@@ -469,11 +669,23 @@
         "image": "merit-badges/landscape-architecture/landscape-architecture.jpg",
         "name": "Landscape Architecture"
     },
+    "landscape-gardening": {
+        "active": false,
+        "name": "Landscape Gardening"
+    },
+    "landscaping": {
+        "active": false,
+        "name": "Landscaping"
+    },
     "law": {
         "active": true,
         "bucky": "merit-badges/law/law-bucky.jpg",
         "image": "merit-badges/law/law.jpg",
         "name": "Law"
+    },
+    "leathercraft": {
+        "active": false,
+        "name": "Leathercraft"
     },
     "leatherwork": {
         "active": true,
@@ -487,11 +699,31 @@
         "image": "merit-badges/lifesaving/lifesaving.jpg",
         "name": "Lifesaving"
     },
+    "machinery": {
+        "active": false,
+        "name": "Machinery"
+    },
     "mammal-study": {
         "active": true,
         "bucky": "merit-badges/mammal-study/mammal-study-bucky.jpg",
         "image": "merit-badges/mammal-study/mammal-study.jpg",
         "name": "Mammal Study"
+    },
+    "mammals": {
+        "active": false,
+        "name": "Mammals"
+    },
+    "markmanship": {
+        "active": false,
+        "name": "Markmanship"
+    },
+    "masonry": {
+        "active": false,
+        "name": "Masonry"
+    },
+    "mechanical-drawing": {
+        "active": false,
+        "name": "Mechanical Drawing"
     },
     "medicine": {
         "active": true,
@@ -499,11 +731,23 @@
         "image": "merit-badges/medicine/medicine.jpg",
         "name": "Medicine"
     },
+    "metallurgy": {
+        "active": false,
+        "name": "Metallurgy"
+    },
+    "metals-engineering": {
+        "active": false,
+        "name": "Metals Engineering"
+    },
     "metalwork": {
         "active": true,
         "bucky": "merit-badges/metalwork/metalwork-bucky.jpg",
         "image": "merit-badges/metalwork/metalwork.jpg",
         "name": "Metalwork"
+    },
+    "mining": {
+        "active": false,
+        "name": "Mining"
     },
     "mining-in-society": {
         "active": true,
@@ -547,6 +791,10 @@
         "image": "merit-badges/nuclear-science/nuclear-science.jpg",
         "name": "Nuclear Science"
     },
+    "nut-culture": {
+        "active": false,
+        "name": "Nut Culture"
+    },
     "oceanography": {
         "active": true,
         "bucky": "merit-badges/oceanography/oceanography-bucky.jpg",
@@ -559,11 +807,23 @@
         "image": "merit-badges/orienteering/orienteering.jpg",
         "name": "Orienteering"
     },
+    "ornithology": {
+        "active": false,
+        "name": "Ornithology"
+    },
     "painting": {
         "active": true,
         "bucky": "merit-badges/painting/painting-bucky.jpg",
         "image": "merit-badges/painting/painting.jpg",
         "name": "Painting"
+    },
+    "pathfinding": {
+        "active": false,
+        "name": "Pathfinding"
+    },
+    "personal-finances": {
+        "active": false,
+        "name": "Personal Finances"
     },
     "personal-fitness": {
         "active": true,
@@ -571,6 +831,10 @@
         "eagle": true,
         "image": "merit-badges/personal-fitness/personal-fitness.jpg",
         "name": "Personal Fitness"
+    },
+    "personal-health": {
+        "active": false,
+        "name": "Personal Health"
     },
     "personal-management": {
         "active": true,
@@ -590,6 +854,14 @@
         "bucky": "merit-badges/photography/photography-bucky.jpg",
         "image": "merit-badges/photography/photography.jpg",
         "name": "Photography"
+    },
+    "physical-development": {
+        "active": false,
+        "name": "Physical Development"
+    },
+    "pigeon-raising": {
+        "active": false,
+        "name": "Pigeon Raising"
     },
     "pioneering": {
         "active": true,
@@ -615,6 +887,14 @@
         "image": "merit-badges/pottery/pottery.jpg",
         "name": "Pottery"
     },
+    "poultry-keeping": {
+        "active": false,
+        "name": "Poultry Keeping"
+    },
+    "printing": {
+        "active": false,
+        "name": "Printing"
+    },
     "programming": {
         "active": true,
         "bucky": "merit-badges/programming/programming-bucky.jpg",
@@ -638,6 +918,10 @@
         "bucky": "merit-badges/pulp-and-paper/pulp-and-paper-bucky.jpg",
         "image": "merit-badges/pulp-and-paper/pulp-and-paper.jpg",
         "name": "Pulp and Paper"
+    },
+    "rabbit-raising": {
+        "active": false,
+        "name": "Rabbit Raising"
     },
     "radio": {
         "active": true,
@@ -663,6 +947,14 @@
         "image": "merit-badges/reptile-and-amphibian-study/reptile-and-amphibian-study.jpg",
         "name": "Reptile and Amphibian Study"
     },
+    "reptile-study": {
+        "active": false,
+        "name": "Reptile Study"
+    },
+    "rifle-and-shotgun-shooting": {
+        "active": false,
+        "name": "Rifle and Shotgun Shooting"
+    },
     "rifle-shooting": {
         "active": true,
         "bucky": "merit-badges/rifle-shooting/rifle-shooting-bucky.jpg",
@@ -674,6 +966,10 @@
         "bucky": "merit-badges/robotics/robotics-bucky.jpg",
         "image": "merit-badges/robotics/robotics.jpg",
         "name": "Robotics"
+    },
+    "rocks-and-minerals": {
+        "active": false,
+        "name": "Rocks and Minerals"
     },
     "rowing": {
         "active": true,

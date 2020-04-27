@@ -359,9 +359,10 @@ sugar.use("metalsmith-atomizer", {
     destination: "atomic.css"
 });
 
-// sugar.use("metalsmith-redirect", {
-//     redirections: require("./redirects.json")
-// });
+sugar.use("metalsmith-redirect", {
+    htmlExtensions: ['.htm', '.html'],
+    redirections: require("./redirects.json")
+});
 
 if (process.env.SERVE) {
     // Serve files with livereload enabled.
