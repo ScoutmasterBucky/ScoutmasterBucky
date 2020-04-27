@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es" class="M(0) P(0)">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <!-- Do not include reset.css - it messes up the print headers by adding 100% width to html and body -->
+        <link rel="stylesheet" href="{{@root.rootPath}}atomic.css" />
+        <link rel="stylesheet" href="{{@root.rootPath}}site.css" />
+        <title>Scoutmaster Bucky {{>badge-name badge=badge}} Merit Badge Workbook</title>
+    </head>
+    <body class="M(0) P(0)">
+        <div class="D(tb) W(100%)">
+            <div class="D(tbc) W(30%) Va(m)">
+                <img src="{{@root.rootPath}}{{#with (lookup @root.meritBadges badge)}}{{bucky}}{{/with}}" class="H(1in) W(a)" />
+            </div>
+            <div class="D(tbc) W(70%) Va(m) Ta(c)">
+                <div class="Ta(c) C(smbButtonBackground) Fz(1.2em) Fs(i) Fw(b)">Scoutmaster Bucky</div>
+                <div class="Ta(c) Tt(u) Fz(1.2em) Fw(b)">{{>badge-name badge=badge}}</div>
+                <div class="Ta(c) C(smbButtonBackground) Fz(1.2em) Fs(i) Fw(b)">Merit Badge Workbook</div>
+                <div class="Ta(c) C(blue)">www.ScoutmasterBucky.com</div>
+            </div>
+        </div>
+    </body>
+</html>
