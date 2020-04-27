@@ -1,977 +1,872 @@
 {
+    "aerodynamics": {
+        "active": false,
+        "name": "Aerodynamics"
+    },
+    "aeronautics": {
+        "active": false,
+        "name": "Aeronautics"
+    },
+    "agribusiness": {
+        "active": false,
+        "name": "Agribusiness"
+    },
+    "agriculture": {
+        "active": false,
+        "name": "Agriculture"
+    },
+    "airplane-design": {
+        "active": false,
+        "name": "Airplane Design"
+    },
+    "airplane-structure": {
+        "active": false,
+        "name": "Airplane Structure"
+    },
     "american-business": {
         "active": true,
         "bucky": "merit-badges/american-business/american-business-bucky.jpg",
         "image": "merit-badges/american-business/american-business.jpg",
-        "name": "American Business",
-        "workbook": "merit-badges/american-business/workbook/american-business-workbook.pdf"
+        "name": "American Business"
     },
     "american-cultures": {
         "active": true,
         "bucky": "merit-badges/american-cultures/american-cultures-bucky.jpg",
         "image": "merit-badges/american-cultures/american-cultures.jpg",
-        "name": "American Cultures",
-        "workbook": "merit-badges/american-cultures/workbook/american-cultures-workbook.pdf"
+        "name": "American Cultures"
     },
     "american-heritage": {
         "active": true,
         "bucky": "merit-badges/american-heritage/american-heritage-bucky.jpg",
         "image": "merit-badges/american-heritage/american-heritage.jpg",
-        "name": "American Heritage",
-        "workbook": "merit-badges/american-heritage/workbook/american-heritage-workbook.pdf"
+        "name": "American Heritage"
     },
     "american-labor": {
         "active": true,
         "bucky": "merit-badges/american-labor/american-labor-bucky.jpg",
         "image": "merit-badges/american-labor/american-labor.jpg",
-        "name": "American Labor",
-        "workbook": "merit-badges/american-labor/workbook/american-labor-workbook.pdf"
+        "name": "American Labor"
+    },
+    "angling": {
+        "active": false,
+        "name": "Angling"
+    },
+    "animal-industry": {
+        "active": false,
+        "name": "Animal Industry"
     },
     "animal-science": {
         "active": true,
         "bucky": "merit-badges/animal-science/animal-science-bucky.jpg",
         "image": "merit-badges/animal-science/animal-science.jpg",
-        "name": "Animal Science",
-        "workbook": "merit-badges/animal-science/workbook/animal-science-workbook.pdf"
+        "name": "Animal Science"
     },
     "animation": {
         "active": true,
         "bucky": "merit-badges/animation/animation-bucky.gif",
         "image": "merit-badges/animation/animation.jpg",
-        "name": "Animation",
-        "workbook": "merit-badges/animation/workbook/animation-workbook.pdf"
+        "name": "Animation"
     },
     "archaeology": {
         "active": true,
         "bucky": "merit-badges/archaeology/archaeology-bucky.jpg",
         "image": "merit-badges/archaeology/archaeology.jpg",
-        "name": "Archaeology",
-        "workbook": "merit-badges/archaeology/workbook/archaeology-workbook.pdf"
+        "name": "Archaeology"
     },
     "archery": {
         "active": true,
         "bucky": "merit-badges/archery/archery-bucky.jpg",
         "image": "merit-badges/archery/archery.jpg",
-        "name": "Archery",
-        "workbook": "merit-badges/archery/workbook/archery-workbook.pdf"
+        "name": "Archery"
     },
     "architecture": {
         "active": true,
         "bucky": "merit-badges/architecture/architecture-bucky.jpg",
         "image": "merit-badges/architecture/architecture.jpg",
-        "name": "Architecture",
-        "workbook": "merit-badges/architecture/workbook/architecture-workbook.pdf"
+        "name": "Architecture"
     },
     "art": {
         "active": true,
         "bucky": "merit-badges/art/art-bucky.jpg",
         "image": "merit-badges/art/art.jpg",
-        "name": "Art",
-        "workbook": "merit-badges/art/workbook/art-workbook.pdf"
+        "name": "Art"
     },
     "astronomy": {
         "active": true,
         "bucky": "merit-badges/astronomy/astronomy-bucky.jpg",
         "image": "merit-badges/astronomy/astronomy.jpg",
-        "name": "Astronomy",
-        "workbook": "merit-badges/astronomy/workbook/astronomy-workbook.pdf"
+        "name": "Astronomy"
     },
     "athletics": {
         "active": true,
         "bucky": "merit-badges/athletics/athletics-bucky.jpg",
         "image": "merit-badges/athletics/athletics.jpg",
-        "name": "Athletics",
-        "workbook": "merit-badges/athletics/workbook/athletics-workbook.pdf"
+        "name": "Athletics"
     },
     "automotive-maintenance": {
         "active": true,
         "bucky": "merit-badges/automotive-maintenance/automotive-maintenance-bucky.jpg",
         "image": "merit-badges/automotive-maintenance/automotive-maintenance.jpg",
-        "name": "Automotive Maintenance",
-        "workbook": "merit-badges/automotive-maintenance/workbook/automotive-maintenance-workbook.pdf"
+        "name": "Automotive Maintenance"
     },
     "aviation": {
         "active": true,
         "bucky": "merit-badges/aviation/aviation-bucky.jpg",
         "image": "merit-badges/aviation/aviation.jpg",
-        "name": "Aviation",
-        "workbook": "merit-badges/aviation/workbook/aviation-workbook.pdf"
+        "name": "Aviation"
     },
     "backpacking": {
         "active": true,
         "bucky": "merit-badges/backpacking/backpacking-bucky.jpg",
         "image": "merit-badges/backpacking/backpacking.jpg",
-        "name": "Backpacking",
-        "workbook": "merit-badges/backpacking/workbook/backpacking-workbook.pdf"
+        "name": "Backpacking"
     },
     "basketry": {
         "active": true,
         "bucky": "merit-badges/basketry/basketry-bucky.jpg",
         "image": "merit-badges/basketry/basketry.jpg",
-        "name": "Basketry",
-        "workbook": "merit-badges/basketry/workbook/basketry-workbook.pdf"
+        "name": "Basketry"
     },
     "bird-study": {
         "active": true,
         "bucky": "merit-badges/bird-study/bird-study-bucky.jpg",
         "image": "merit-badges/bird-study/bird-study.jpg",
-        "name": "Bird Study",
-        "workbook": "merit-badges/bird-study/workbook/bird-study-workbook.pdf"
+        "name": "Bird Study"
     },
     "bugling": {
         "active": true,
         "bucky": "merit-badges/bugling/bugling-bucky.jpg",
         "image": "merit-badges/bugling/bugling.jpg",
-        "name": "Bugling",
-        "workbook": "merit-badges/bugling/workbook/bugling-workbook.pdf"
+        "name": "Bugling"
     },
     "camping": {
         "active": true,
         "bucky": "merit-badges/camping/camping-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/camping/camping.jpg",
-        "name": "Camping",
-        "workbook": "merit-badges/camping/workbook/camping-workbook.pdf"
+        "name": "Camping"
     },
     "canoeing": {
         "active": true,
         "bucky": "merit-badges/canoeing/canoeing-bucky.jpg",
         "image": "merit-badges/canoeing/canoeing.jpg",
-        "name": "Canoeing",
-        "workbook": "merit-badges/canoeing/workbook/canoeing-workbook.pdf"
+        "name": "Canoeing"
     },
     "chemistry": {
         "active": true,
         "bucky": "merit-badges/chemistry/chemistry-bucky.jpg",
         "image": "merit-badges/chemistry/chemistry.jpg",
-        "name": "Chemistry",
-        "workbook": "merit-badges/chemistry/workbook/chemistry-workbook.pdf"
+        "name": "Chemistry"
     },
     "chess": {
         "active": true,
         "bucky": "merit-badges/chess/chess-bucky.jpg",
         "image": "merit-badges/chess/chess.jpg",
-        "name": "Chess",
-        "workbook": "merit-badges/chess/workbook/chess-workbook.pdf"
+        "name": "Chess"
     },
     "citizenship-in-the-community": {
         "active": true,
         "bucky": "merit-badges/citizenship-in-the-community/citizenship-in-the-community-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/citizenship-in-the-community/citizenship-in-the-community.jpg",
-        "name": "Citizenship in the Community",
-        "workbook": "merit-badges/citizenship-in-the-community/workbook/citizenship-in-the-community-workbook.pdf"
+        "name": "Citizenship in the Community"
     },
     "citizenship-in-the-nation": {
         "active": true,
         "bucky": "merit-badges/citizenship-in-the-nation/citizenship-in-the-nation-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/citizenship-in-the-nation/citizenship-in-the-nation.jpg",
-        "name": "Citizenship in the Nation",
-        "workbook": "merit-badges/citizenship-in-the-nation/workbook/citizenship-in-the-nation-workbook.pdf"
+        "name": "Citizenship in the Nation"
     },
     "citizenship-in-the-world": {
         "active": true,
         "bucky": "merit-badges/citizenship-in-the-world/citizenship-in-the-world-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/citizenship-in-the-world/citizenship-in-the-world.jpg",
-        "name": "Citizenship in the World",
-        "workbook": "merit-badges/citizenship-in-the-world/workbook/citizenship-in-the-world-workbook.pdf"
+        "name": "Citizenship in the World"
     },
     "climbing": {
         "active": true,
         "bucky": "merit-badges/climbing/climbing-bucky.jpg",
         "image": "merit-badges/climbing/climbing.jpg",
-        "name": "Climbing",
-        "workbook": "merit-badges/climbing/workbook/climbing-workbook.pdf"
+        "name": "Climbing"
     },
     "coin-collecting": {
         "active": true,
         "bucky": "merit-badges/coin-collecting/coin-collecting-bucky.jpg",
         "image": "merit-badges/coin-collecting/coin-collecting.jpg",
-        "name": "Coin Collecting",
-        "workbook": "merit-badges/coin-collecting/workbook/coin-collecting-workbook.pdf"
+        "name": "Coin Collecting"
     },
     "collections": {
         "active": true,
         "bucky": "merit-badges/collections/collections-bucky.jpg",
         "image": "merit-badges/collections/collections.jpg",
-        "name": "Collections",
-        "workbook": "merit-badges/collections/workbook/collections-workbook.pdf"
+        "name": "Collections"
     },
     "communication": {
         "active": true,
         "bucky": "merit-badges/communication/communication-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/communication/communication.jpg",
-        "name": "Communication",
-        "workbook": "merit-badges/communication/workbook/communication-workbook.pdf"
+        "name": "Communication"
     },
     "composite-materials": {
         "active": true,
         "bucky": "merit-badges/composite-materials/composite-materials-bucky.jpg",
         "image": "merit-badges/composite-materials/composite-materials.jpg",
-        "name": "Composite Materials",
-        "workbook": "merit-badges/composite-materials/workbook/composite-materials-workbook.pdf"
+        "name": "Composite Materials"
     },
     "cooking": {
         "active": true,
         "bucky": "merit-badges/cooking/cooking-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/cooking/cooking.jpg",
-        "name": "Cooking",
-        "workbook": "merit-badges/cooking/workbook/cooking-workbook.pdf"
+        "name": "Cooking"
     },
     "crime-prevention": {
         "active": true,
         "bucky": "merit-badges/crime-prevention/crime-prevention-bucky.jpg",
         "image": "merit-badges/crime-prevention/crime-prevention.jpg",
-        "name": "Crime Prevention",
-        "workbook": "merit-badges/crime-prevention/workbook/crime-prevention-workbook.pdf"
+        "name": "Crime Prevention"
     },
     "cycling": {
         "active": true,
         "bucky": "merit-badges/cycling/cycling-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/cycling/cycling.jpg",
-        "name": "Cycling",
-        "workbook": "merit-badges/cycling/workbook/cycling-workbook.pdf"
+        "name": "Cycling"
     },
     "dentistry": {
         "active": true,
         "bucky": "merit-badges/dentistry/dentistry-bucky.jpg",
         "image": "merit-badges/dentistry/dentistry.jpg",
-        "name": "Dentistry",
-        "workbook": "merit-badges/dentistry/workbook/dentistry-workbook.pdf"
+        "name": "Dentistry"
     },
     "digital-technology": {
         "active": true,
         "bucky": "merit-badges/digital-technology/digital-technology-bucky.jpg",
         "image": "merit-badges/digital-technology/digital-technology.jpg",
-        "name": "Digital Technology",
-        "workbook": "merit-badges/digital-technology/workbook/digital-technology-workbook.pdf"
+        "name": "Digital Technology"
     },
     "disabilities-awareness": {
         "active": true,
         "bucky": "merit-badges/disabilities-awareness/disabilities-awareness-bucky.jpg",
         "image": "merit-badges/disabilities-awareness/disabilities-awareness.jpg",
-        "name": "Disabilities Awareness",
-        "workbook": "merit-badges/disabilities-awareness/workbook/disabilities-awareness-workbook.pdf"
+        "name": "Disabilities Awareness"
     },
     "dog-care": {
         "active": true,
         "bucky": "merit-badges/dog-care/dog-care-bucky.jpg",
         "image": "merit-badges/dog-care/dog-care.jpg",
-        "name": "Dog Care",
-        "workbook": "merit-badges/dog-care/workbook/dog-care-workbook.pdf"
+        "name": "Dog Care"
     },
     "drafting": {
         "active": true,
         "bucky": "merit-badges/drafting/drafting-bucky.jpg",
         "image": "merit-badges/drafting/drafting.jpg",
-        "name": "Drafting",
-        "workbook": "merit-badges/drafting/workbook/drafting-workbook.pdf"
+        "name": "Drafting"
     },
     "electricity": {
         "active": true,
         "bucky": "merit-badges/electricity/electricity-bucky.jpg",
         "image": "merit-badges/electricity/electricity.jpg",
-        "name": "Electricity",
-        "workbook": "merit-badges/electricity/workbook/electricity-workbook.pdf"
+        "name": "Electricity"
     },
     "electronics": {
         "active": true,
         "bucky": "merit-badges/electronics/electronics-bucky.jpg",
         "image": "merit-badges/electronics/electronics.jpg",
-        "name": "Electronics",
-        "workbook": "merit-badges/electronics/workbook/electronics-workbook.pdf"
+        "name": "Electronics"
     },
     "emergency-preparedness": {
         "active": true,
         "bucky": "merit-badges/emergency-preparedness/emergency-preparedness-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/emergency-preparedness/emergency-preparedness.jpg",
-        "name": "Emergency Preparedness",
-        "workbook": "merit-badges/emergency-preparedness/workbook/emergency-preparedness-workbook.pdf"
+        "name": "Emergency Preparedness"
     },
     "energy": {
         "active": true,
         "bucky": "merit-badges/energy/energy-bucky.jpg",
         "image": "merit-badges/energy/energy.jpg",
-        "name": "Energy",
-        "workbook": "merit-badges/energy/workbook/energy-workbook.pdf"
+        "name": "Energy"
     },
     "engineering": {
         "active": true,
         "bucky": "merit-badges/engineering/engineering-bucky.jpg",
         "image": "merit-badges/engineering/engineering.jpg",
-        "name": "Engineering",
-        "workbook": "merit-badges/engineering/workbook/engineering-workbook.pdf"
+        "name": "Engineering"
     },
     "entrepreneurship": {
         "active": true,
         "bucky": "merit-badges/entrepreneurship/entrepreneurship-bucky.jpg",
         "image": "merit-badges/entrepreneurship/entrepreneurship.jpg",
-        "name": "Entrepreneurship",
-        "workbook": "merit-badges/entrepreneurship/workbook/entrepreneurship-workbook.pdf"
+        "name": "Entrepreneurship"
     },
     "environmental-science": {
         "active": true,
         "bucky": "merit-badges/environmental-science/environmental-science-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/environmental-science/environmental-science.jpg",
-        "name": "Environmental Science",
-        "workbook": "merit-badges/environmental-science/workbook/environmental-science-workbook.pdf"
+        "name": "Environmental Science"
     },
     "exploration": {
         "active": true,
         "bucky": "merit-badges/exploration/exploration-bucky.jpg",
         "image": "merit-badges/exploration/exploration.jpg",
-        "name": "Exploration",
-        "workbook": "merit-badges/exploration/workbook/exploration-workbook.pdf"
+        "name": "Exploration"
     },
     "family-life": {
         "active": true,
         "bucky": "merit-badges/family-life/family-life-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/family-life/family-life.jpg",
-        "name": "Family Life",
-        "workbook": "merit-badges/family-life/workbook/family-life-workbook.pdf"
+        "name": "Family Life"
     },
     "farm-mechanics": {
         "active": true,
         "bucky": "merit-badges/farm-mechanics/farm-mechanics-bucky.jpg",
         "image": "merit-badges/farm-mechanics/farm-mechanics.jpg",
-        "name": "Farm Mechanics",
-        "workbook": "merit-badges/farm-mechanics/workbook/farm-mechanics-workbook.pdf"
+        "name": "Farm Mechanics"
     },
     "fingerprinting": {
         "active": true,
         "bucky": "merit-badges/fingerprinting/fingerprinting-bucky.jpg",
         "image": "merit-badges/fingerprinting/fingerprinting.jpg",
-        "name": "Fingerprinting",
-        "workbook": "merit-badges/fingerprinting/workbook/fingerprinting-workbook.pdf"
+        "name": "Fingerprinting"
     },
     "fire-safety": {
         "active": true,
         "bucky": "merit-badges/fire-safety/fire-safety-bucky.jpg",
         "image": "merit-badges/fire-safety/fire-safety.jpg",
-        "name": "Fire Safety",
-        "workbook": "merit-badges/fire-safety/workbook/fire-safety-workbook.pdf"
+        "name": "Fire Safety"
     },
     "first-aid": {
         "active": true,
         "bucky": "merit-badges/first-aid/first-aid-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/first-aid/first-aid.jpg",
-        "name": "First Aid",
-        "workbook": "merit-badges/first-aid/workbook/first-aid-workbook.pdf"
+        "name": "First Aid"
     },
     "fish-and-wildlife-management": {
         "active": true,
         "bucky": "merit-badges/fish-and-wildlife-management/fish-and-wildlife-management-bucky.jpg",
         "image": "merit-badges/fish-and-wildlife-management/fish-and-wildlife-management.jpg",
-        "name": "Fish and Wildlife Management",
-        "workbook": "merit-badges/fish-and-wildlife-management/workbook/fish-and-wildlife-management-workbook.pdf"
+        "name": "Fish and Wildlife Management"
     },
     "fishing": {
         "active": true,
         "bucky": "merit-badges/fishing/fishing-bucky.jpg",
         "image": "merit-badges/fishing/fishing.jpg",
-        "name": "Fishing",
-        "workbook": "merit-badges/fishing/workbook/fishing-workbook.pdf"
+        "name": "Fishing"
     },
     "fly-fishing": {
         "active": true,
         "bucky": "merit-badges/fly-fishing/fly-fishing-bucky.jpg",
         "image": "merit-badges/fly-fishing/fly-fishing.jpg",
-        "name": "Fly Fishing",
-        "workbook": "merit-badges/fly-fishing/workbook/fly-fishing-workbook.pdf"
+        "name": "Fly Fishing"
     },
     "forestry": {
         "active": true,
         "bucky": "merit-badges/forestry/forestry-bucky.jpg",
         "image": "merit-badges/forestry/forestry.jpg",
-        "name": "Forestry",
-        "workbook": "merit-badges/forestry/workbook/forestry-workbook.pdf"
+        "name": "Forestry"
     },
     "game-design": {
         "active": true,
         "bucky": "merit-badges/game-design/game-design-bucky.jpg",
         "image": "merit-badges/game-design/game-design.jpg",
-        "name": "Game Design",
-        "workbook": "merit-badges/game-design/workbook/game-design-workbook.pdf"
+        "name": "Game Design"
     },
     "gardening": {
         "active": true,
         "bucky": "merit-badges/gardening/gardening-bucky.jpg",
         "image": "merit-badges/gardening/gardening.jpg",
-        "name": "Gardening",
-        "workbook": "merit-badges/gardening/workbook/gardening-workbook.pdf"
+        "name": "Gardening"
     },
     "genealogy": {
         "active": true,
         "bucky": "merit-badges/genealogy/genealogy-bucky.jpg",
         "image": "merit-badges/genealogy/genealogy.jpg",
-        "name": "Genealogy",
-        "workbook": "merit-badges/genealogy/workbook/genealogy-workbook.pdf"
+        "name": "Genealogy"
     },
     "geocaching": {
         "active": true,
         "bucky": "merit-badges/geocaching/geocaching-bucky.jpg",
         "image": "merit-badges/geocaching/geocaching.jpg",
-        "name": "Geocaching",
-        "workbook": "merit-badges/geocaching/workbook/geocaching-workbook.pdf"
+        "name": "Geocaching"
     },
     "geology": {
         "active": true,
         "bucky": "merit-badges/geology/geology-bucky.jpg",
         "image": "merit-badges/geology/geology.jpg",
-        "name": "Geology",
-        "workbook": "merit-badges/geology/workbook/geology-workbook.pdf"
+        "name": "Geology"
     },
     "golf": {
         "active": true,
         "bucky": "merit-badges/golf/golf-bucky.jpg",
         "image": "merit-badges/golf/golf.jpg",
-        "name": "Golf",
-        "workbook": "merit-badges/golf/workbook/golf-workbook.pdf"
+        "name": "Golf"
     },
     "graphic-arts": {
         "active": true,
         "bucky": "merit-badges/graphic-arts/graphic-arts-bucky.jpg",
         "image": "merit-badges/graphic-arts/graphic-arts.jpg",
-        "name": "Graphic Arts",
-        "workbook": "merit-badges/graphic-arts/workbook/graphic-arts-workbook.pdf"
+        "name": "Graphic Arts"
     },
     "hiking": {
         "active": true,
         "bucky": "merit-badges/hiking/hiking-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/hiking/hiking.jpg",
-        "name": "Hiking",
-        "workbook": "merit-badges/hiking/workbook/hiking-workbook.pdf"
+        "name": "Hiking"
     },
     "home-repairs": {
         "active": true,
         "bucky": "merit-badges/home-repairs/home-repairs-bucky.jpg",
         "image": "merit-badges/home-repairs/home-repairs.jpg",
-        "name": "Home Repairs",
-        "workbook": "merit-badges/home-repairs/workbook/home-repairs-workbook.pdf"
+        "name": "Home Repairs"
     },
     "horsemanship": {
         "active": true,
         "bucky": "merit-badges/horsemanship/horsemanship-bucky.jpg",
         "image": "merit-badges/horsemanship/horsemanship.jpg",
-        "name": "Horsemanship",
-        "workbook": "merit-badges/horsemanship/workbook/horsemanship-workbook.pdf"
+        "name": "Horsemanship"
     },
     "indian-lore": {
         "active": true,
         "bucky": "merit-badges/indian-lore/indian-lore-bucky.jpg",
         "image": "merit-badges/indian-lore/indian-lore.jpg",
-        "name": "Indian Lore",
-        "workbook": "merit-badges/indian-lore/workbook/indian-lore-workbook.pdf"
+        "name": "Indian Lore"
     },
     "insect-study": {
         "active": true,
         "bucky": "merit-badges/insect-study/insect-study-bucky.jpg",
         "image": "merit-badges/insect-study/insect-study.jpg",
-        "name": "Insect Study",
-        "workbook": "merit-badges/insect-study/workbook/insect-study-workbook.pdf"
+        "name": "Insect Study"
     },
     "inventing": {
         "active": true,
         "bucky": "merit-badges/inventing/inventing-bucky.jpg",
         "image": "merit-badges/inventing/inventing.jpg",
-        "name": "Inventing",
-        "workbook": "merit-badges/inventing/workbook/inventing-workbook.pdf"
+        "name": "Inventing"
     },
     "journalism": {
         "active": true,
         "bucky": "merit-badges/journalism/journalism-bucky.jpg",
         "image": "merit-badges/journalism/journalism.jpg",
-        "name": "Journalism",
-        "workbook": "merit-badges/journalism/workbook/journalism-workbook.pdf"
+        "name": "Journalism"
     },
     "kayaking": {
         "active": true,
         "bucky": "merit-badges/kayaking/kayaking-bucky.jpg",
         "image": "merit-badges/kayaking/kayaking.jpg",
-        "name": "Kayaking",
-        "workbook": "merit-badges/kayaking/workbook/kayaking-workbook.pdf"
+        "name": "Kayaking"
     },
     "landscape-architecture": {
         "active": true,
         "bucky": "merit-badges/landscape-architecture/landscape-architecture-bucky.jpg",
         "image": "merit-badges/landscape-architecture/landscape-architecture.jpg",
-        "name": "Landscape Architecture",
-        "workbook": "merit-badges/landscape-architecture/workbook/landscape-architecture-workbook.pdf"
+        "name": "Landscape Architecture"
     },
     "law": {
         "active": true,
         "bucky": "merit-badges/law/law-bucky.jpg",
         "image": "merit-badges/law/law.jpg",
-        "name": "Law",
-        "workbook": "merit-badges/law/workbook/law-workbook.pdf"
+        "name": "Law"
     },
     "leatherwork": {
         "active": true,
         "bucky": "merit-badges/leatherwork/leatherwork-bucky.jpg",
         "image": "merit-badges/leatherwork/leatherwork.jpg",
-        "name": "Leatherwork",
-        "workbook": "merit-badges/leatherwork/workbook/leatherwork-workbook.pdf"
+        "name": "Leatherwork"
     },
     "lifesaving": {
         "active": true,
         "bucky": "merit-badges/lifesaving/lifesaving-bucky.jpg",
         "image": "merit-badges/lifesaving/lifesaving.jpg",
-        "name": "Lifesaving",
-        "workbook": "merit-badges/lifesaving/workbook/lifesaving-workbook.pdf"
+        "name": "Lifesaving"
     },
     "mammal-study": {
         "active": true,
         "bucky": "merit-badges/mammal-study/mammal-study-bucky.jpg",
         "image": "merit-badges/mammal-study/mammal-study.jpg",
-        "name": "Mammal Study",
-        "workbook": "merit-badges/mammal-study/workbook/mammal-study-workbook.pdf"
+        "name": "Mammal Study"
     },
     "medicine": {
         "active": true,
         "bucky": "merit-badges/medicine/medicine-bucky.jpg",
         "image": "merit-badges/medicine/medicine.jpg",
-        "name": "Medicine",
-        "workbook": "merit-badges/medicine/workbook/medicine-workbook.pdf"
+        "name": "Medicine"
     },
     "metalwork": {
         "active": true,
         "bucky": "merit-badges/metalwork/metalwork-bucky.jpg",
         "image": "merit-badges/metalwork/metalwork.jpg",
-        "name": "Metalwork",
-        "workbook": "merit-badges/metalwork/workbook/metalwork-workbook.pdf"
+        "name": "Metalwork"
     },
     "mining-in-society": {
         "active": true,
         "bucky": "merit-badges/mining-in-society/mining-in-society-bucky.jpg",
         "image": "merit-badges/mining-in-society/mining-in-society.jpg",
-        "name": "Mining in Society",
-        "workbook": "merit-badges/mining-in-society/workbook/mining-in-society-workbook.pdf"
+        "name": "Mining in Society"
     },
     "model-design-and-building": {
         "active": true,
         "bucky": "merit-badges/model-design-and-building/model-design-and-building-bucky.jpg",
         "image": "merit-badges/model-design-and-building/model-design-and-building.jpg",
-        "name": "Model Design and Building",
-        "workbook": "merit-badges/model-design-and-building/workbook/model-design-and-building-workbook.pdf"
+        "name": "Model Design and Building"
     },
     "motorboating": {
         "active": true,
         "bucky": "merit-badges/motorboating/motorboating-bucky.jpg",
         "image": "merit-badges/motorboating/motorboating.jpg",
-        "name": "Motorboating",
-        "workbook": "merit-badges/motorboating/workbook/motorboating-workbook.pdf"
+        "name": "Motorboating"
     },
     "moviemaking": {
         "active": true,
         "bucky": "merit-badges/moviemaking/moviemaking-bucky.jpg",
         "image": "merit-badges/moviemaking/moviemaking.jpg",
-        "name": "Moviemaking",
-        "workbook": "merit-badges/moviemaking/workbook/moviemaking-workbook.pdf"
+        "name": "Moviemaking"
     },
     "music": {
         "active": true,
         "bucky": "merit-badges/music/music-bucky.jpg",
         "image": "merit-badges/music/music.jpg",
-        "name": "Music",
-        "workbook": "merit-badges/music/workbook/music-workbook.pdf"
+        "name": "Music"
     },
     "nature": {
         "active": true,
         "bucky": "merit-badges/nature/nature-bucky.jpg",
         "image": "merit-badges/nature/nature.jpg",
-        "name": "Nature",
-        "workbook": "merit-badges/nature/workbook/nature-workbook.pdf"
+        "name": "Nature"
     },
     "nuclear-science": {
         "active": true,
         "bucky": "merit-badges/nuclear-science/nuclear-science-bucky.jpg",
         "image": "merit-badges/nuclear-science/nuclear-science.jpg",
-        "name": "Nuclear Science",
-        "workbook": "merit-badges/nuclear-science/workbook/nuclear-science-workbook.pdf"
+        "name": "Nuclear Science"
     },
     "oceanography": {
         "active": true,
         "bucky": "merit-badges/oceanography/oceanography-bucky.jpg",
         "image": "merit-badges/oceanography/oceanography.jpg",
-        "name": "Oceanography",
-        "workbook": "merit-badges/oceanography/workbook/oceanography-workbook.pdf"
+        "name": "Oceanography"
     },
     "orienteering": {
         "active": true,
         "bucky": "merit-badges/orienteering/orienteering-bucky.jpg",
         "image": "merit-badges/orienteering/orienteering.jpg",
-        "name": "Orienteering",
-        "workbook": "merit-badges/orienteering/workbook/orienteering-workbook.pdf"
+        "name": "Orienteering"
     },
     "painting": {
         "active": true,
         "bucky": "merit-badges/painting/painting-bucky.jpg",
         "image": "merit-badges/painting/painting.jpg",
-        "name": "Painting",
-        "workbook": "merit-badges/painting/workbook/painting-workbook.pdf"
+        "name": "Painting"
     },
     "personal-fitness": {
         "active": true,
         "bucky": "merit-badges/personal-fitness/personal-fitness-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/personal-fitness/personal-fitness.jpg",
-        "name": "Personal Fitness",
-        "workbook": "merit-badges/personal-fitness/workbook/personal-fitness-workbook.pdf"
+        "name": "Personal Fitness"
     },
     "personal-management": {
         "active": true,
         "bucky": "merit-badges/personal-management/personal-management-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/personal-management/personal-management.jpg",
-        "name": "Personal Management",
-        "workbook": "merit-badges/personal-management/workbook/personal-management-workbook.pdf"
+        "name": "Personal Management"
     },
     "pets": {
         "active": true,
         "bucky": "merit-badges/pets/pets-bucky.jpg",
         "image": "merit-badges/pets/pets.jpg",
-        "name": "Pets",
-        "workbook": "merit-badges/pets/workbook/pets-workbook.pdf"
+        "name": "Pets"
     },
     "photography": {
         "active": true,
         "bucky": "merit-badges/photography/photography-bucky.jpg",
         "image": "merit-badges/photography/photography.jpg",
-        "name": "Photography",
-        "workbook": "merit-badges/photography/workbook/photography-workbook.pdf"
+        "name": "Photography"
     },
     "pioneering": {
         "active": true,
         "bucky": "merit-badges/pioneering/pioneering-bucky.jpg",
         "image": "merit-badges/pioneering/pioneering.jpg",
-        "name": "Pioneering",
-        "workbook": "merit-badges/pioneering/workbook/pioneering-workbook.pdf"
+        "name": "Pioneering"
     },
     "plant-science": {
         "active": true,
         "bucky": "merit-badges/plant-science/plant-science-bucky.jpg",
         "image": "merit-badges/plant-science/plant-science.jpg",
-        "name": "Plant Science",
-        "workbook": "merit-badges/plant-science/workbook/plant-science-workbook.pdf"
+        "name": "Plant Science"
     },
     "plumbing": {
         "active": true,
         "bucky": "merit-badges/plumbing/plumbing-bucky.jpg",
         "image": "merit-badges/plumbing/plumbing.jpg",
-        "name": "Plumbing",
-        "workbook": "merit-badges/plumbing/workbook/plumbing-workbook.pdf"
+        "name": "Plumbing"
     },
     "pottery": {
         "active": true,
         "bucky": "merit-badges/pottery/pottery-bucky.jpg",
         "image": "merit-badges/pottery/pottery.jpg",
-        "name": "Pottery",
-        "workbook": "merit-badges/pottery/workbook/pottery-workbook.pdf"
+        "name": "Pottery"
     },
     "programming": {
         "active": true,
         "bucky": "merit-badges/programming/programming-bucky.jpg",
         "image": "merit-badges/programming/programming.jpg",
-        "name": "Programming",
-        "workbook": "merit-badges/programming/workbook/programming-workbook.pdf"
+        "name": "Programming"
     },
     "public-health": {
         "active": true,
         "bucky": "merit-badges/public-health/public-health-bucky.jpg",
         "image": "merit-badges/public-health/public-health.jpg",
-        "name": "Public Health",
-        "workbook": "merit-badges/public-health/workbook/public-health-workbook.pdf"
+        "name": "Public Health"
     },
     "public-speaking": {
         "active": true,
         "bucky": "merit-badges/public-speaking/public-speaking-bucky.jpg",
         "image": "merit-badges/public-speaking/public-speaking.jpg",
-        "name": "Public Speaking",
-        "workbook": "merit-badges/public-speaking/workbook/public-speaking-workbook.pdf"
+        "name": "Public Speaking"
     },
     "pulp-and-paper": {
         "active": true,
         "bucky": "merit-badges/pulp-and-paper/pulp-and-paper-bucky.jpg",
         "image": "merit-badges/pulp-and-paper/pulp-and-paper.jpg",
-        "name": "Pulp and Paper",
-        "workbook": "merit-badges/pulp-and-paper/workbook/pulp-and-paper-workbook.pdf"
+        "name": "Pulp and Paper"
     },
     "radio": {
         "active": true,
         "bucky": "merit-badges/radio/radio-bucky.jpg",
         "image": "merit-badges/radio/radio.jpg",
-        "name": "Radio",
-        "workbook": "merit-badges/radio/workbook/radio-workbook.pdf"
+        "name": "Radio"
     },
     "railroading": {
         "active": true,
         "bucky": "merit-badges/railroading/railroading-bucky.jpg",
         "image": "merit-badges/railroading/railroading.jpg",
-        "name": "Railroading",
-        "workbook": "merit-badges/railroading/workbook/railroading-workbook.pdf"
+        "name": "Railroading"
     },
     "reading": {
         "active": true,
         "bucky": "merit-badges/reading/reading-bucky.jpg",
         "image": "merit-badges/reading/reading.jpg",
-        "name": "Reading",
-        "workbook": "merit-badges/reading/workbook/reading-workbook.pdf"
+        "name": "Reading"
     },
     "reptile-and-amphibian-study": {
         "active": true,
         "bucky": "merit-badges/reptile-and-amphibian-study/reptile-and-amphibian-study-bucky.jpg",
         "image": "merit-badges/reptile-and-amphibian-study/reptile-and-amphibian-study.jpg",
-        "name": "Reptile and Amphibian Study",
-        "workbook": "merit-badges/reptile-and-amphibian-study/workbook/reptile-and-amphibian-study-workbook.pdf"
+        "name": "Reptile and Amphibian Study"
     },
     "rifle-shooting": {
         "active": true,
         "bucky": "merit-badges/rifle-shooting/rifle-shooting-bucky.jpg",
         "image": "merit-badges/rifle-shooting/rifle-shooting.jpg",
-        "name": "Rifle Shooting",
-        "workbook": "merit-badges/rifle-shooting/workbook/rifle-shooting-workbook.pdf"
+        "name": "Rifle Shooting"
     },
     "robotics": {
         "active": true,
         "bucky": "merit-badges/robotics/robotics-bucky.jpg",
         "image": "merit-badges/robotics/robotics.jpg",
-        "name": "Robotics",
-        "workbook": "merit-badges/robotics/workbook/robotics-workbook.pdf"
+        "name": "Robotics"
     },
     "rowing": {
         "active": true,
         "bucky": "merit-badges/rowing/rowing-bucky.jpg",
         "image": "merit-badges/rowing/rowing.jpg",
-        "name": "Rowing",
-        "workbook": "merit-badges/rowing/workbook/rowing-workbook.pdf"
+        "name": "Rowing"
     },
     "safety": {
         "active": true,
         "bucky": "merit-badges/safety/safety-bucky.jpg",
         "image": "merit-badges/safety/safety.jpg",
-        "name": "Safety",
-        "workbook": "merit-badges/safety/workbook/safety-workbook.pdf"
+        "name": "Safety"
     },
     "salesmanship": {
         "active": true,
         "bucky": "merit-badges/salesmanship/salesmanship-bucky.jpg",
         "image": "merit-badges/salesmanship/salesmanship.jpg",
-        "name": "Salesmanship",
-        "workbook": "merit-badges/salesmanship/workbook/salesmanship-workbook.pdf"
+        "name": "Salesmanship"
     },
     "scholarship": {
         "active": true,
         "bucky": "merit-badges/scholarship/scholarship-bucky.jpg",
         "image": "merit-badges/scholarship/scholarship.jpg",
-        "name": "Scholarship",
-        "workbook": "merit-badges/scholarship/workbook/scholarship-workbook.pdf"
+        "name": "Scholarship"
     },
     "scouting-heritage": {
         "active": true,
         "bucky": "merit-badges/scouting-heritage/scouting-heritage-bucky.jpg",
         "image": "merit-badges/scouting-heritage/scouting-heritage.jpg",
-        "name": "Scouting Heritage",
-        "workbook": "merit-badges/scouting-heritage/workbook/scouting-heritage-workbook.pdf"
+        "name": "Scouting Heritage"
     },
     "scuba-diving": {
         "active": true,
         "bucky": "merit-badges/scuba-diving/scuba-diving-bucky.jpg",
         "image": "merit-badges/scuba-diving/scuba-diving.jpg",
-        "name": "Scuba Diving",
-        "workbook": "merit-badges/scuba-diving/workbook/scuba-diving-workbook.pdf"
+        "name": "Scuba Diving"
     },
     "sculpture": {
         "active": true,
         "bucky": "merit-badges/sculpture/sculpture-bucky.jpg",
         "image": "merit-badges/sculpture/sculpture.jpg",
-        "name": "Sculpture",
-        "workbook": "merit-badges/sculpture/workbook/sculpture-workbook.pdf"
+        "name": "Sculpture"
     },
     "search-and-rescue": {
         "active": true,
         "bucky": "merit-badges/search-and-rescue/search-and-rescue-bucky.jpg",
         "image": "merit-badges/search-and-rescue/search-and-rescue.jpg",
-        "name": "Search and Rescue",
-        "workbook": "merit-badges/search-and-rescue/workbook/search-and-rescue-workbook.pdf"
+        "name": "Search and Rescue"
     },
     "shotgun-shooting": {
         "active": true,
         "bucky": "merit-badges/shotgun-shooting/shotgun-shooting-bucky.jpg",
         "image": "merit-badges/shotgun-shooting/shotgun-shooting.jpg",
-        "name": "Shotgun Shooting",
-        "workbook": "merit-badges/shotgun-shooting/workbook/shotgun-shooting-workbook.pdf"
+        "name": "Shotgun Shooting"
     },
     "signs-signals-and-codes": {
         "active": true,
         "bucky": "merit-badges/signs-signals-and-codes/signs-signals-and-codes-bucky.jpg",
         "image": "merit-badges/signs-signals-and-codes/signs-signals-and-codes.jpg",
-        "name": "Signs, Signals, and Codes",
-        "workbook": "merit-badges/signs-signals-and-codes/workbook/signs-signals-and-codes-workbook.pdf"
+        "name": "Signs, Signals, and Codes"
     },
     "skating": {
         "active": true,
         "bucky": "merit-badges/skating/skating-bucky.jpg",
         "image": "merit-badges/skating/skating.jpg",
-        "name": "Skating",
-        "workbook": "merit-badges/skating/workbook/skating-workbook.pdf"
+        "name": "Skating"
     },
     "small-boat-sailing": {
         "active": true,
         "bucky": "merit-badges/small-boat-sailing/small-boat-sailing-bucky.jpg",
         "image": "merit-badges/small-boat-sailing/small-boat-sailing.jpg",
-        "name": "Small-Boat Sailing",
-        "workbook": "merit-badges/small-boat-sailing/workbook/small-boat-sailing-workbook.pdf"
+        "name": "Small-Boat Sailing"
     },
     "snow-sports": {
         "active": true,
         "bucky": "merit-badges/snow-sports/snow-sports-bucky.jpg",
         "image": "merit-badges/snow-sports/snow-sports.jpg",
-        "name": "Snow Sports",
-        "workbook": "merit-badges/snow-sports/workbook/snow-sports-workbook.pdf"
+        "name": "Snow Sports"
     },
     "soil-and-water-conservation": {
         "active": true,
         "bucky": "merit-badges/soil-and-water-conservation/soil-and-water-conservation-bucky.jpg",
         "image": "merit-badges/soil-and-water-conservation/soil-and-water-conservation.jpg",
-        "name": "Soil and Water Conservation",
-        "workbook": "merit-badges/soil-and-water-conservation/workbook/soil-and-water-conservation-workbook.pdf"
+        "name": "Soil and Water Conservation"
     },
     "space-exploration": {
         "active": true,
         "bucky": "merit-badges/space-exploration/space-exploration-bucky.jpg",
         "image": "merit-badges/space-exploration/space-exploration.jpg",
-        "name": "Space Exploration",
-        "workbook": "merit-badges/space-exploration/workbook/space-exploration-workbook.pdf"
+        "name": "Space Exploration"
     },
     "sports": {
         "active": true,
         "bucky": "merit-badges/sports/sports-bucky.jpg",
         "image": "merit-badges/sports/sports.jpg",
-        "name": "Sports",
-        "workbook": "merit-badges/sports/workbook/sports-workbook.pdf"
+        "name": "Sports"
     },
     "stamp-collecting": {
         "active": true,
         "bucky": "merit-badges/stamp-collecting/stamp-collecting-bucky.jpg",
         "image": "merit-badges/stamp-collecting/stamp-collecting.jpg",
-        "name": "Stamp Collecting",
-        "workbook": "merit-badges/stamp-collecting/workbook/stamp-collecting-workbook.pdf"
+        "name": "Stamp Collecting"
     },
     "surveying": {
         "active": true,
         "bucky": "merit-badges/surveying/surveying-bucky.jpg",
         "image": "merit-badges/surveying/surveying.jpg",
-        "name": "Surveying",
-        "workbook": "merit-badges/surveying/workbook/surveying-workbook.pdf"
+        "name": "Surveying"
     },
     "sustainability": {
         "active": true,
         "bucky": "merit-badges/sustainability/sustainability-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/sustainability/sustainability.jpg",
-        "name": "Sustainability",
-        "workbook": "merit-badges/sustainability/workbook/sustainability-workbook.pdf"
+        "name": "Sustainability"
     },
     "swimming": {
         "active": true,
         "bucky": "merit-badges/swimming/swimming-bucky.jpg",
         "eagle": true,
         "image": "merit-badges/swimming/swimming.jpg",
-        "name": "Swimming",
-        "workbook": "merit-badges/swimming/workbook/swimming-workbook.pdf"
+        "name": "Swimming"
     },
     "textile": {
         "active": true,
         "bucky": "merit-badges/textile/textile-bucky.jpg",
         "image": "merit-badges/textile/textile.jpg",
-        "name": "Textile",
-        "workbook": "merit-badges/textile/workbook/textile-workbook.pdf"
+        "name": "Textile"
     },
     "theater": {
         "active": true,
         "bucky": "merit-badges/theater/theater-bucky.jpg",
         "image": "merit-badges/theater/theater.jpg",
-        "name": "Theater",
-        "workbook": "merit-badges/theater/workbook/theater-workbook.pdf"
+        "name": "Theater"
     },
     "traffic-safety": {
         "active": true,
         "bucky": "merit-badges/traffic-safety/traffic-safety-bucky.jpg",
         "image": "merit-badges/traffic-safety/traffic-safety.jpg",
-        "name": "Traffic Safety",
-        "workbook": "merit-badges/traffic-safety/workbook/traffic-safety-workbook.pdf"
+        "name": "Traffic Safety"
     },
     "truck-transportation": {
         "active": true,
         "bucky": "merit-badges/truck-transportation/truck-transportation-bucky.jpg",
         "image": "merit-badges/truck-transportation/truck-transportation.jpg",
-        "name": "Truck Transportation",
-        "workbook": "merit-badges/truck-transportation/workbook/truck-transportation-workbook.pdf"
+        "name": "Truck Transportation"
     },
     "veterinary-medicine": {
         "active": true,
         "bucky": "merit-badges/veterinary-medicine/veterinary-medicine-bucky.jpg",
         "image": "merit-badges/veterinary-medicine/veterinary-medicine.jpg",
-        "name": "Veterinary Medicine",
-        "workbook": "merit-badges/veterinary-medicine/workbook/veterinary-medicine-workbook.pdf"
+        "name": "Veterinary Medicine"
     },
     "water-sports": {
         "active": true,
         "bucky": "merit-badges/water-sports/water-sports-bucky.jpg",
         "image": "merit-badges/water-sports/water-sports.jpg",
-        "name": "Water Sports",
-        "workbook": "merit-badges/water-sports/workbook/water-sports-workbook.pdf"
+        "name": "Water Sports"
     },
     "weather": {
         "active": true,
         "bucky": "merit-badges/weather/weather-bucky.jpg",
         "image": "merit-badges/weather/weather.jpg",
-        "name": "Weather",
-        "workbook": "merit-badges/weather/workbook/weather-workbook.pdf"
+        "name": "Weather"
     },
     "welding": {
         "active": true,
         "bucky": "merit-badges/welding/welding-bucky.jpg",
         "image": "merit-badges/welding/welding.jpg",
-        "name": "Welding",
-        "workbook": "merit-badges/welding/workbook/welding-workbook.pdf"
+        "name": "Welding"
     },
     "whitewater": {
         "active": true,
         "bucky": "merit-badges/whitewater/whitewater-bucky.jpg",
         "image": "merit-badges/whitewater/whitewater.jpg",
-        "name": "Whitewater",
-        "workbook": "merit-badges/whitewater/workbook/whitewater-workbook.pdf"
+        "name": "Whitewater"
     },
     "wilderness-survival": {
         "active": true,
         "bucky": "merit-badges/wilderness-survival/wilderness-survival-bucky.jpg",
         "image": "merit-badges/wilderness-survival/wilderness-survival.jpg",
-        "name": "Wilderness Survival",
-        "workbook": "merit-badges/wilderness-survival/workbook/wilderness-survival-workbook.pdf"
+        "name": "Wilderness Survival"
     },
     "wood-carving": {
         "active": true,
         "bucky": "merit-badges/wood-carving/wood-carving-bucky.jpg",
         "image": "merit-badges/wood-carving/wood-carving.jpg",
-        "name": "Wood Carving",
-        "workbook": "merit-badges/wood-carving/workbook/wood-carving-workbook.pdf"
+        "name": "Wood Carving"
     },
     "woodwork": {
         "active": true,
         "bucky": "merit-badges/woodwork/woodwork-bucky.jpg",
         "image": "merit-badges/woodwork/woodwork.jpg",
-        "name": "Woodwork",
-        "workbook": "merit-badges/woodwork/workbook/woodwork-workbook.pdf"
+        "name": "Woodwork"
     }
 }

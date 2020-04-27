@@ -30,15 +30,15 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="3" requirement="Show five different grade examples of the same coin type."}}
-{{#wb-req-area class="D(f)"}}
-<div class="Px(wbP) W(50%) Ta(c) Pt(12em) Pb(6em) Bdendw(wbBdw)">Grade and Notes</div>
-<div class="Px(wbP) W(50%) Ta(c) Pt(12em) Pb(6em)">Grade and Notes</div>
-{{/wb-req-area}}
-{{#wb-req-area class="D(f)"}}
-<div class="Px(wbP) W(50%) Ta(c) Pt(12em) Pb(6em) Bdendw(wbBdw)">Grade and Notes</div>
-<div class="Px(wbP) W(50%) Ta(c) Pt(12em) Pb(6em) Bdendw(wbBdw)">Grade and Notes</div>
-<div class="Px(wbP) W(50%) Ta(c) Pt(12em) Pb(6em)">Grade and Notes</div>
-{{/wb-req-area}}
+{{#wb-req-cells}}
+{{#wb-req-cell class="Px(wbP) Pt(12em) Pb(6em)"}}Grade and Notes{{/wb-req-cell}}
+{{#wb-req-cell class="Px(wbP) Pt(12em) Pb(6em)"}}Grade and Notes{{/wb-req-cell}}
+{{/wb-req-cells}}
+{{#wb-req-cells}}
+{{#wb-req-cell class="Px(wbP) Pt(12em) Pb(6em)"}}Grade and Notes{{/wb-req-cell}}
+{{#wb-req-cell class="Px(wbP) Pt(12em) Pb(6em)"}}Grade and Notes{{/wb-req-cell}}
+{{#wb-req-cell class="Px(wbP) Pt(12em) Pb(6em)"}}Grade and Notes{{/wb-req-cell}}
+{{/wb-req-cells}}
 {{/wb-req}}
 
 {{#wb-req item="3" requirement="Explain the term *proof* and why it is not a grade."}}
@@ -89,31 +89,31 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="6" requirement="Collect and show your counselor five different quarters from circulation you have acquired from one of these programs."}}
-{{#wb-req-area class="D(f)"}}
-<div class="W(20%) Px(wbP) Pt(8em) Ta(c) Pb(wbP) Bdendw(wbBdw)">Quarter 1</div>
-<div class="W(20%) Px(wbP) Pt(8em) Ta(c) Pb(wbP) Bdendw(wbBdw)">Quarter 2</div>
-<div class="W(20%) Px(wbP) Pt(8em) Ta(c) Pb(wbP) Bdendw(wbBdw)">Quarter 3</div>
-<div class="W(20%) Px(wbP) Pt(8em) Ta(c) Pb(wbP) Bdendw(wbBdw)">Quarter 4</div>
-<div class="W(20%) Px(wbP) Pt(8em) Ta(c) Pb(wbP)">Quarter 5</div>
-{{/wb-req-area}}
+{{#wb-req-cells}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Quarter 1{{/wb-req-cell}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Quarter 2{{/wb-req-cell}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Quarter 3{{/wb-req-cell}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Quarter 4{{/wb-req-cell}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Quarter 5{{/wb-req-cell}}
+{{/wb-req-cells}}
 {{/wb-req}}
 
 {{#wb-req item="7" requirement="Collect from circulation a set of current U.S. coins. Include one coin of each denomination (cent, nickel, dime, quarter, half dollar, dollar). For each coin, locate the mint marks, if any, and the designer's initials, if any."}}
-{{#wb-req-area class="D(f)"}}
-<div class="W(33%) Px(wbP) Pt(8em) Ta(c) Pb(wbP) Bdendw(wbBdw)">Penny</div>
-<div class="W(33%) Px(wbP) Pt(8em) Ta(c) Pb(wbP) Bdendw(wbBdw)">Nickel</div>
-<div class="W(33%) Px(wbP) Pt(8em) Ta(c) Pb(wbP)">Dime</div>
-{{/wb-req-area}}
-{{#wb-req-area class="D(f)"}}
-<div class="W(33%) Px(wbP) Pt(8em) Ta(c) Pb(wbP) Bdendw(wbBdw)">Quarter</div>
-<div class="W(33%) Px(wbP) Pt(8em) Ta(c) Pb(wbP) Bdendw(wbBdw)">Half Dollar</div>
-<div class="W(33%) Px(wbP) Pt(8em) Ta(c) Pb(wbP)">Dollar</div>
-{{/wb-req-area}}
-{{#wb-req-area class="D(f)"}}
-<div class="W(33%) Px(wbP) Pt(8em) Ta(c) Pb(wbP) Bdendw(wbBdw)">Dollar</div>
-<div class="W(33%) Px(wbP) Pt(8em) Ta(c) Pb(wbP) Bdendw(wbBdw)">Other</div>
-<div class="W(33%) Px(wbP) Pt(8em) Ta(c) Pb(wbP)">Other</div>
-{{/wb-req-area}}
+{{#wb-req-cells}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Penny{{/wb-req-cell}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Nickel{{/wb-req-cell}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Dime{{/wb-req-cell}}
+{{/wb-req-cells}}
+{{#wb-req-cells}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Quarter{{/wb-req-cell}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Half Dollar{{/wb-req-cell}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Dollar{{/wb-req-cell}}
+{{/wb-req-cells}}
+{{#wb-req-cells}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Dollar{{/wb-req-cell}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Other{{/wb-req-cell}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Other{{/wb-req-cell}}
+{{/wb-req-cells}}
 {{/wb-req}}
 
 {{#wb-req item="8a" requirement="Identify the people depicted on the following denominations of current U.S. paper money: $1, $2, $5, $10, $20, $50, and $100."}}
@@ -126,16 +126,21 @@ year: 2020
 {{#wb-req-area}}<img src="hundred-front.jpg"><img src="hundred-back.jpg">{{/wb-req-area}}
 {{/wb-req}}
 
-{{#wb-special class="D(f) Fxw(w) Ai(c) P(1em) Jc(sa)"}}
-<div class="W(40%) Pend(1em) Ta(c)">
+{{#wb-special class="P(1em) Mx(2em)"}}
+<div class="D(tb)">
+<div class="W(50%) Px(1em) Ta(c) D(tbc) Va(m)">
 <p class="Fz(2em)">Just for Fun</p>
 <p>These denominations are no longer printed but still are considered legal tender when circulated.</p>
+</div><div class="W(50%) Px(1em) D(tbc) Va(m)"><img src="five-hundred.jpg" class="W(100%) H(a)"></div>
 </div>
-<div class="W(40%) Px(1em)"><img src="five-hundred.jpg" class="W(100%) H(a)"></div>
-<div class="W(40%) Px(1em)"><img src="thousand.jpg" class="W(100%) H(a)"></div>
-<div class="W(40%) Px(1em)"><img src="five-thousand.jpg" class="W(100%) H(a)"></div>
-<div class="W(40%) Px(1em)"><img src="ten-thousand.jpg" class="W(100%) H(a)"></div>
-<div class="W(40%) Px(1em)"><img src="hundred-thousand.jpg" class="W(100%) H(a)"></div>
+
+<div class="D(tb)">
+<div class="W(50%) Px(1em) D(tbc) Va(m)"><img src="thousand.jpg" class="W(100%) H(a)"></div><div class="W(50%) Px(1em) D(tbc) Va(m)"><img src="five-thousand.jpg" class="W(100%) H(a)"></div>
+</div>
+
+<div class="D(tb)">
+<div class="W(50%) Px(1em) D(tbc) Va(m)"><img src="ten-thousand.jpg" class="W(100%) H(a)"></div><div class="W(50%) Px(1em) D(tbc) Va(m)"><img src="hundred-thousand.jpg" class="W(100%) H(a)"></div>
+</div>
 {{/wb-special}}
 
 {{#wb-req item="8b" requirement="Explain “legal tender.”"}}
@@ -186,13 +191,13 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="10d" requirement="Do drawings of five Colonial-era U.S. coins."}}
-{{#wb-req-area class="D(f)"}}
-<div class="W(50%) Px(wbP) Pt(8em) Ta(c) Pb(wbP) Bdendw(wbBdw)">Coin 1</div>
-<div class="W(50%) Px(wbP) Pt(8em) Ta(c) Pb(wbP)">Coin 2</div>
-{{/wb-req-area}}
-{{#wb-req-area class="D(f)"}}
-<div class="W(33%) Px(wbP) Pt(8em) Ta(c) Pb(wbP) Bdendw(wbBdw)">Coin 3</div>
-<div class="W(33%) Px(wbP) Pt(8em) Ta(c) Pb(wbP) Bdendw(wbBdw)">Coin 4</div>
-<div class="W(33%) Px(wbP) Pt(8em) Ta(c) Pb(wbP)">Coin 5</div>
-{{/wb-req-area}}
+{{#wb-req-cells}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Coin 1{{/wb-req-cell}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Coin 2{{/wb-req-cell}}
+{{/wb-req-cells}}
+{{#wb-req-cells}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Coin 3{{/wb-req-cell}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Coin 4{{/wb-req-cell}}
+{{#wb-req-cell class="Px(wbP) Pt(8em) Pb(wbP)"}}Coin 5{{/wb-req-cell}}
+{{/wb-req-cells}}
 {{/wb-req}}
