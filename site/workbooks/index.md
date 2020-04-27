@@ -16,9 +16,7 @@ We are aware of the BSA's view on the use of merit badge workbooks. Despite the 
 {{#badge-list}}
 {{#each meritBadges}}
 {{#if active}}
-{{#if workbook}}
 {{>bucky-badge badge=@key}}
-{{/if}}
 {{/if}}
 {{/each}}
 {{/badge-list}}
