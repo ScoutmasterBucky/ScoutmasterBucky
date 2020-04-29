@@ -51,13 +51,11 @@ ${content}
         }
 
         return `
-
 <div class="D(f)"><div class="Pend(0.2em) Pstart(${pad}px) Fxs(0) W(${w}px)">${marked(line.number.trim())}</div><div>
 
 ${content}
 
 </div></div>
-
 `;
     });
 

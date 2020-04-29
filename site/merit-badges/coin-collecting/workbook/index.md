@@ -73,9 +73,7 @@ year: 2020
 {{#wb-req-text lines=4}}Notes:{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-alert}}Do one of the following (5a or 5b) for requirement 5{{/wb-alert}}
-
-{{#wb-req item="5a" requirement="Demonstrate to your counselor that you know how to use two U.S. or world coin reference catalogs."}}
+{{#wb-req item="5a" alert="Do one of the following (5a or 5b) for requirement 5:" requirement="Demonstrate to your counselor that you know how to use two U.S. or world coin reference catalogs."}}
 {{#wb-req-counselor}}Be sure to bring your catalogs for your demonstration with your merit badge counselor{{/wb-req-counselor}}
 {{/wb-req}}
 
@@ -151,9 +149,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-alert}}Do ONE of the following (9a, 9b, 9c, or 9d) for requirement 9:{{/wb-alert}}
-
-{{#wb-req item="9a" requirement="Collect and identify 50 foreign coins from at least 10 different countries."}}
+{{#wb-req item="9a" alert="Do ONE of the following (9a, 9b, 9c, or 9d) for requirement 9:" requirement="Collect and identify 50 foreign coins from at least 10 different countries."}}
 {{#wb-req-note}}If selected, this requirement will need you to share your work with your counselor and does not require any workbook entry.{{/wb-req-note}}
 {{/wb-req}}
 
@@ -169,9 +165,7 @@ year: 2020
 {{#wb-req-note}}If selected, this requirement will need you to share your work with your counselor and does not require any workbook entry.{{/wb-req-note}}
 {{/wb-req}}
 
-{{#wb-alert}}Do ONE of the following (10a, 10b, 10c, or 10d) for requirement 10:{{/wb-alert}}
-
-{{#wb-req item="10a" requirement="Tour a U.S. Mint facility, a Bureau of Engraving and Printing facility, a Federal Reserve bank, or a numismatic museum or exhibit, and describe what you learned to your counselor."}}
+{{#wb-req item="10a" alert="Do ONE of the following (10a, 10b, 10c, or 10d) for requirement 10:" requirement="Tour a U.S. Mint facility, a Bureau of Engraving and Printing facility, a Federal Reserve bank, or a numismatic museum or exhibit, and describe what you learned to your counselor."}}
 {{#wb-req-short}}Toured or visited place:{{/wb-req-short}}
 {{#wb-req-short}}Visited date:{{/wb-req-short}}
 {{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
