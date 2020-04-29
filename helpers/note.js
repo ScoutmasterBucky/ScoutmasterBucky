@@ -1,3 +1,5 @@
+var marked = require('marked');
+
 module.exports = function(obj) {
     const notesTypes = [obj.hash.type];
 
@@ -9,11 +11,6 @@ module.exports = function(obj) {
         .map((x) => `notesToggles-${x}_D(b)`)
         .join(" ");
 
-    return `
-<div class="C(smbAlertText) Fw(b) Fs(i) D(n) Pb(smbReqP) ${notesToggles}">
-
-${obj.fn(this)}
-
-</div>
-`;
+    // One line so it can be used within requirements
+    return `<div class="C(smbAlertText) Fw(b) Fs(i) D(n) Pb(smbReqP) ${notesToggles}">${marked(obj.fn(this))}</div>`;
 };
