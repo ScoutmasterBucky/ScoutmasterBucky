@@ -7,7 +7,7 @@
         ]
     },
     "scripts": {
-        "build": "node metalsmith.js",
+        "build": "WORKBOOKS=true node metalsmith.js",
         "clean": "rm -rf node_modules/ package-lock.json",
         "start": "SERVE=true node metalsmith.js"
     },
