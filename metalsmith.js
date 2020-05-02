@@ -133,6 +133,10 @@ function generatePdfs(files, done) {
     Object.keys(files).forEach((filename) => {
         const file = files[filename];
 
+        if (!process.env.WORKBOOKS) {
+            return;
+        }
+
         if (!file.workbook) {
             return;
         }
