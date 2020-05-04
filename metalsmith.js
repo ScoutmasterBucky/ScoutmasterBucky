@@ -1,149 +1,78 @@
-function defaultMetadata() {
-    const defaults = {};
+const metalsmithFidianSite = require('metalsmith-fidian-site');
+const os = require('os');
+let lastFiles = null;  // For PDF generation
 
-    if (process.env.SERVE) {
-        defaults.liveReload = true;
-    }
+metalsmithFidianSite.run({
+    baseDirectory: __dirname,
+    buildAfter: (sugar) => {
+        sugar.use((files, metalsmith, d) => {
+            lastFiles = files;
+            d();
+        });
+    },
+    contentsAfter: (sugar) => {
+        sugar.use(__dirname + '/plugins/workbook-header-footer');
+    },
+    contentsBefore: (sugar) => {
+        // Pre-process events so they can be included into the index page. Only
+        // the index page may include the events because the links and images
+        // are made with the rootPath.
+        sugar.use("metalsmith-handlebars-contents", {
+            helpers: ["./pages/helpers/**/*.js"],
+            match: ["events/*.md"],
+            partials: ["./pages/partials/**/*"]
+        });
+    },
+    metadataAfter: (sugar) => {
+        // "Fix" the rootPath for events because they are embedded into the index page,
+        // so their rootPath should be "".
+        sugar.use((files, metalsmith, done) => {
+            for (const key of Object.keys(files)) {
+                if (key.match(/^events\//)) {
+                    files[key].rootPath = '';
+                }
+            }
+            done();
+        });
+    },
+    postProcess: (done) => {
+        generatePdfs(lastFiles, (e) => {
+            if (e) {
+                throw e;
+            }
 
-    defaults.buildDate = new Date().toISOString();
-    const meritBadges = require("./merit-badges.json");
-    defaults.meritBadges = meritBadges;
-    const meritBadgeMeta = {
-        active: Object.values(meritBadges).filter((x) => x.active)
-    };
-    meritBadgeMeta.activeCount = meritBadgeMeta.active.length;
-    defaults.meritBadgeMeta = meritBadgeMeta;
-
-    return {
-        pattern: "**/*",
-        defaults: defaults
-    };
-}
-
-function build(serve, done) {
-    // Clear the require cache
-    Object.keys(require.cache).forEach((key) => delete require.cache[key]);
-
-    /* ********************************************************************
-     * Make the new Metalsmith object
-     ******************************************************************* */
-    const sugar = require("metalsmith-sugar")({
-        clean: true,
-        destination: "./build",
-        metadata: {}, // Cloned
-        source: "./site"
-    });
-
-    // Inject default metadata from metadata.json
-    sugar.use("metalsmith-default-values", [defaultMetadata()]);
-
-    /* ********************************************************************
-     * Markdown -> HTML
-     *
-     * Must happen before CSS for Atomizer plugin.
-     ******************************************************************* */
-    // Set up links so indices and automatic subpage listings can be generated
-    // within a document.
-    sugar.use("metalsmith-ancestry");
-
-    // Allow Mustache templates to build sub-links
-    sugar.use("metalsmith-relative-links");
-
-    // Add a `rootPath` metadata property to all files.  It's relative, allowing
-    // the site to be hosted under any path.  "" = at root, or could be "../" or
-    // "../../" etc.
-    sugar.use("metalsmith-rootpath");
-
-    // "Fix" the rootPath for events because they are embedded into the index page,
-    // so their rootPath should be "".
-    sugar.use("metalsmith-each", (file, filename) => {
-        if (filename.match(/^events\//)) {
-            file.rootPath = "";
-        }
-    });
-
-    // Process Markdown with Handlebars. First handle the events so they can be
-    // included into the index page. Only the index page may include the events
-    // because the links and images are made with the rootPath from above.
-    sugar.use("metalsmith-handlebars-contents", {
-        helpers: ["./helpers/**/*.js"],
-        match: ["events/*.md"]
-    });
-    sugar.use("metalsmith-handlebars-contents", {
-        helpers: ["./helpers/**/*.js"]
-    });
-
-    // Then change Markdown to HTML
-    sugar.use("metalsmith-markdown");
-
-    // Wrap HTML content in layouts and allow layout files to use Mustache-like
-    // syntax.
-    sugar.use("metalsmith-handlebars-layouts", {
-        helpers: ["./layouts/helpers/**/*.js"]
-    });
-
-    // Rename *.md to *.html
-    sugar.use("metalsmith-rename", [[/\.md$/, ".html"]]);
-
-    sugar.use(__dirname + "/plugins/workbook-header-footer");
-
-    // Generate CSS from HTML using Atomizer.
-    sugar.use("metalsmith-atomizer", require("./atomizer-config.json"));
-
-    sugar.use("metalsmith-redirect", {
-        htmlExtensions: [".htm", ".html"],
-        redirections: require("./redirects.json")
-    });
-
-    if (serve) {
-        // Serve files with livereload enabled.
-        sugar.use("metalsmith-serve", {
-            // verbose: true,
-            http_error_files: {
-                404: "/404.html"
+            if (process.env.KILL_AFTER_WORKBOOKS) {
+                process.exit(0);
             }
         });
     }
-
-    // Store the files so we can generate PDFs later
-    let lastFiles = null;
-
-    sugar.use((files, metalsmith, d) => {
-        lastFiles = files;
-        d();
-    });
-    sugar.build((err) => {
-        if (err) {
-            done(err);
-        } else {
-            generatePdfs(lastFiles, done);
-        }
-    });
-}
+});
 
 const pdfCache = {};
 const path = require("path");
 const wkhtmltopdf = require("wkhtmltopdf");
 
 function generatePdfs(files, done) {
-    let p = Promise.resolve(null);
+    let list = [];
     let needed = 0;
-    let current = 0;
 
     Object.keys(files).forEach((filename) => {
         const file = files[filename];
 
-        if (!process.env.WORKBOOKS) {
-            return;
-        }
-
-        if (!file.workbook) {
+        if (!process.env.WORKBOOKS || !file.workbook) {
             return;
         }
 
         const filenameBase = filename.replace(/[^/]*$/, "");
         const headerName = filenameBase + "header.html";
         const footerName = filenameBase + "footer.html";
+
+        if (!files[headerName] || !files[footerName]) {
+            console.error('Workbook missing header or footer: ' + filenameBase);
+
+            return;
+        }
+
         fileContents = file.contents.toString();
         headerContents = files[headerName].contents.toString();
         footerContents = files[footerName].contents.toString();
@@ -161,74 +90,63 @@ function generatePdfs(files, done) {
         pdfCache[footerName] = footerContents;
         const pdf = filenameBase + file.badge + "-workbook.pdf";
         needed += 1;
-
-        p = p.then(() => {
-            return new Promise((resolve, reject) => {
-                current += 1;
-                console.log(`Creating ${pdf} (${current}/${needed})`);
-                const stream = wkhtmltopdf(
-                    "http://localhost:8080/" + filename,
-                    {
-                        // debug: true,
-                        // debugStdOut: true,
-                        printMediaType: true,
-                        enableForms: true,
-                        marginTop: "1in",
-                        marginBottom: ".55in",
-                        marginLeft: ".25in",
-                        marginRight: ".25in",
-                        headerHtml: "http://localhost:8080/" + headerName,
-                        footerHtml: "http://localhost:8080/" + footerName,
-                        output: "build/" + pdf
-                    }
-                );
-                stream.on("error", (e) => {
-                    reject(e);
-                });
-                stream.on("end", () => {
-                    resolve();
-                });
-            });
+        list.push({
+            pdf: pdf,
+            filename: filename,
+            headerName: headerName,
+            footerName: footerName
         });
     });
 
-    p.then(done, done);
-}
+    let running = 0;
+    let current = 0;
+    let error = null;
+    let n = Math.max(1, os.cpus().length);
 
-if (process.env.SERVE) {
-    const livereload = require("livereload");
-    const watch = require("glob-watcher");
+    while (n--) {
+        processPdf()
+    }
 
-    const reloadServer = livereload.createServer();
-    build(true, (err) => {
-        if (err) {
-            throw err;
+    function processPdf() {
+        if (error) {
+            return;
         }
 
-        console.log("Server started, build complete, watching for changes");
+        if (!list.length) {
+            if (running === 0) {
+                done();
+            }
 
-        watch(
-            [
-                "site/**",
-                "helpers/**",
-                "layouts/**",
-                "partials/**",
-                "atomizer-config.json",
-                "redirects.json"
-            ],
-            (done) => {
-                // Do not set "serve" to true here. The server is already running.
-                build(false, (err) => {
-                    if (err) {
-                        console.error(err);
-                    }
+            return;
+        }
 
-                    reloadServer.refresh("");
-                    done(err);
-                });
+        running += 1;
+        const mine = list.shift();
+        current += 1;
+        console.log(`Creating ${mine.pdf} (${current}/${needed})`);
+        const stream = wkhtmltopdf(
+            "http://localhost:8080/" + mine.filename,
+            {
+                // debug: true,
+                // debugStdOut: true,
+                printMediaType: true,
+                enableForms: true,
+                marginTop: "1in",
+                marginBottom: ".55in",
+                marginLeft: ".25in",
+                marginRight: ".25in",
+                headerHtml: "http://localhost:8080/" + mine.headerName,
+                footerHtml: "http://localhost:8080/" + mine.footerName,
+                output: "build/" + mine.pdf
             }
         );
-    });
-} else {
-    build(() => {});
+        stream.on("error", (e) => {
+            error = e;
+            done(error);
+        });
+        stream.on("end", () => {
+            running -= 1;
+            processPdf();
+        });
+    }
 }
