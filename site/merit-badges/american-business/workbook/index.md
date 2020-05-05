@@ -5,84 +5,84 @@ workbook: true
 year: 2020
 ---
 
-{{#wb-req item="1A" requirement=”Explain four features of the free enterprise system in the United States."}}
-{{#wb-req header01}}Feature #1{{/wb-req header-01}}
+{{#wb-req item="1A" requirement="Explain four features of the free enterprise system in the United States."}}
+{{#wb-req-header}}Feature #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
-{{#wb-req header01}}Feature #2{{/wb-req header-01}}
+{{#wb-req-header}}Feature #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
-{{#wb-req header01}}Feature #3{{/wb-req header-01}}
+{{#wb-req-header}}Feature #3{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
-{{#wb-req header01}}Feature #4{{/wb-req header-01}}
-{{#wb-req-text lines=2}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="1A" requirement=”Describe the difference between freedom and license."}}
-{{#wb-req-text lines=10}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="1A" requirement=”Tell how the Scout Oath and Scout Law apply to business and free enterprise."}}
-{{#wb-req-text lines=10}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="1B" requirement=”Describe the Industrial Revolution."}}
-{{#wb-req-text lines=10}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="1B" requirement=”Tell about the major developments that marked the start of the modern industrial era in the United States."}}
-{{#wb-req header01}}Major Development #1{{/wb-req header-01}}
-{{#wb-req-text lines=10}}{{/wb-req-text}}
-{{#wb-req header01}}Major Development #2{{/wb-req header-01}}
-{{#wb-req-text lines=10}}{{/wb-req-text}}
-{{#wb-req header01}}Major Development #3{{/wb-req header-01}}
-{{#wb-req-text lines=10}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="1B" requirement=”Discuss three people who had a great influence on business or industry in the United States and describe what each did."}}
-{{#wb-req header01}}Person #1{{/wb-req header-01}}
-{{#wb-req-text lines=2}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
-{{#wb-req header01}}Person #2{{/wb-req header-01}}
-{{#wb-req-text lines=2}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
-{{#wb-req header01}}Person #3{{/wb-req header-01}}
+{{#wb-req-header}}Feature #4{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="1C" requirement=”Identify and describe to your counselor the five primary areas of business"}}
-{{#wb-req header01}}Area of Business #1{{/wb-req header-01}}
+{{#wb-req item="1A" requirement="Describe the difference between freedom and license."}}
+{{#wb-req-text lines=10}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="1A" requirement="Tell how the Scout Oath and Scout Law apply to business and free enterprise."}}
+{{#wb-req-text lines=10}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="1B" requirement="Describe the Industrial Revolution."}}
+{{#wb-req-text lines=10}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="1B" requirement="Tell about the major developments that marked the start of the modern industrial era in the United States."}}
+{{#wb-req-header}}Major Development #1{{/wb-req-header}}
+{{#wb-req-text lines=10}}{{/wb-req-text}}
+{{#wb-req-header}}Major Development #2{{/wb-req-header}}
+{{#wb-req-text lines=10}}{{/wb-req-text}}
+{{#wb-req-header}}Major Development #3{{/wb-req-header}}
+{{#wb-req-text lines=10}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="1B" requirement="Discuss three people who had a great influence on business or industry in the United States and describe what each did."}}
+{{#wb-req-header}}Person #1{{/wb-req-header}}
+{{#wb-req-text lines=2}}Name:{{/wb-req-text}}
+{{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{#wb-req-header}}Person #2{{/wb-req-header}}
+{{#wb-req-text lines=2}}Name:{{/wb-req-text}}
+{{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{#wb-req-header}}Person #3{{/wb-req-header}}
+{{#wb-req-text lines=2}}Name:{{/wb-req-text}}
+{{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="1C" requirement="Identify and describe to your counselor the five primary areas of business"}}
+{{#wb-req-header}}Area of Business #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Describe:{{/wb-req-text}}
-{{#wb-req header01}}Area of Business #2{{/wb-req header-01}}
+{{#wb-req-header}}Area of Business #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Describe:{{/wb-req-text}}
-{{#wb-req header01}}Area of Business #3{{/wb-req header-01}}
+{{#wb-req-header}}Area of Business #3{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Describe:{{/wb-req-text}}
-{{#wb-req header01}}Area of Business #4{{/wb-req header-01}}
+{{#wb-req-header}}Area of Business #4{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Describe:{{/wb-req-text}}
-{{#wb-req header01}}Area of Business #5{{/wb-req header-01}}
+{{#wb-req-header}}Area of Business #5{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Describe:{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="1D" requirement=”Explain the history of labor unions in the United States."}}
+{{#wb-req item="1D" requirement="Explain the history of labor unions in the United States."}}
 {{#wb-req-text lines=10}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="1D" requirement=”Explain the importance of labor unions and employers working together."}}
+{{#wb-req item="1D" requirement="Explain the importance of labor unions and employers working together."}}
 {{#wb-req-text lines=15}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="1D" requirement=”Identify two major labor unions currently in existence."}}
-{{#wb-req header01}}Labor Union #1{{/wb-req header-01}}
+{{#wb-req item="1D" requirement="Identify two major labor unions currently in existence."}}
+{{#wb-req-header}}Labor Union #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
-{{#wb-req header01}}Labor Union #2{{/wb-req header-01}}
+{{#wb-req-header}}Labor Union #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -93,14 +93,14 @@ year: 2020
 {{/wb-req}}
 
 
-{{#wb-req item="2A" requirement=”Explain the three basic types of financial statements (income statement, balance sheet, and statement of cash flows). Discuss with your counselor how each statement can help business leaders make better decisions."}}
-{{#wb-req header01}}Income Statement{{/wb-req header-01}}
+{{#wb-req item="2A" requirement="Explain the three basic types of financial statements (income statement, balance sheet, and statement of cash flows). Discuss with your counselor how each statement can help business leaders make better decisions."}}
+{{#wb-req-header}}Income Statement{{/wb-req-header}}
 {{#wb-req-text lines=8}}Explanation:{{/wb-req-text}}
 {{#wb-req-text lines=8}}How it helps:{{/wb-req-text}}
-{{#wb-req header01}}Balance Sheet{{/wb-req header-01}}
+{{#wb-req-header}}Balance Sheet{{/wb-req-header}}
 {{#wb-req-text lines=8}}Explanation:{{/wb-req-text}}
 {{#wb-req-text lines=8}}How it helps:{{/wb-req-text}}
-{{#wb-req header01}}Statement of Cash Flows{{/wb-req header-01}}
+{{#wb-req-header}}Statement of Cash Flows{{/wb-req-header}}
 {{#wb-req-text lines=8}}Explanation:{{/wb-req-text}}
 {{#wb-req-text lines=8}}How it helps:{{/wb-req-text}}
 {{/wb-req}}
@@ -111,83 +111,83 @@ year: 2020
 {{#wb-req-text lines=12}}Government Spending:{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2C" requirement=”Explain how a proprietorship or partnership gets its capital."}}
+{{#wb-req item="2C" requirement="Explain how a proprietorship or partnership gets its capital."}}
 {{#wb-req-text lines=18}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2C" requirement=”Discuss and explain four ways a corporation obtains capital."}}
-{{#wb-req header01}}How a corporation obtains capital #1{{/wb-req header-01}}
+{{#wb-req item="2C" requirement="Discuss and explain four ways a corporation obtains capital."}}
+{{#wb-req-header}}How a corporation obtains capital #1{{/wb-req-header}}
 {{#wb-req-text lines=12}}{{/wb-req-text}}
-{{#wb-req header01}}How a corporation obtains capital #2{{/wb-req header-01}}
+{{#wb-req-header}}How a corporation obtains capital #2{{/wb-req-header}}
 {{#wb-req-text lines=12}}{{/wb-req-text}}
-{{#wb-req header01}}How a corporation obtains capital #3{{/wb-req header-01}}
+{{#wb-req-header}}How a corporation obtains capital #3{{/wb-req-header}}
 {{#wb-req-text lines=12}}{{/wb-req-text}}
-{{#wb-req header01}}How a corporation obtains capital #4{{/wb-req header-01}}
+{{#wb-req-header}}How a corporation obtains capital #4{{/wb-req-header}}
 {{#wb-req-text lines=12}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2D" requirement=”Name five kinds of insurance useful to business. Describe their purposes."}}
-{{#wb-req header01}}Insurance Type #1{{/wb-req header-01}}
+{{#wb-req item="2D" requirement="Name five kinds of insurance useful to business. Describe their purposes."}}
+{{#wb-req-header}}Insurance Type #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Purpose:{{/wb-req-text}}
-{{#wb-req header01}}Insurance Type #2{{/wb-req header-01}}
+{{#wb-req-header}}Insurance Type #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Purpose:{{/wb-req-text}}
-{{#wb-req header01}}Insurance Type #3{{/wb-req header-01}}
+{{#wb-req-header}}Insurance Type #3{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Purpose:{{/wb-req-text}}
-{{#wb-req header01}}Insurance Type #4{{/wb-req header-01}}
+{{#wb-req-header}}Insurance Type #4{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Purpose:{{/wb-req-text}}
-{{#wb-req header01}}Insurance Type #5{{/wb-req header-01}}
+{{#wb-req-header}}Insurance Type #5{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Purpose:{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3A" requirement=”Explain the place of profit in business."}}
+{{#wb-req item="3A" requirement="Explain the place of profit in business."}}
 {{#wb-req-text lines=12}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3B" requirement=”Describe to your counselor green marketing."}}
+{{#wb-req item="3B" requirement="Describe to your counselor green marketing."}}
 {{#wb-req-text lines=12}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3B" requirement=”Describe to your counselor sustainable business practices."}}
+{{#wb-req item="3B" requirement="Describe to your counselor sustainable business practices."}}
 {{#wb-req-text lines=12}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3C" requirement=”Explain how ethics plays a role in business decision making."}}
+{{#wb-req item="3C" requirement="Explain how ethics plays a role in business decision making."}}
 {{#wb-req-text lines=12}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3D" requirement=”Discuss the differences between operating a brick-and-mortar business versus an online business."}}
+{{#wb-req item="3D" requirement="Discuss the differences between operating a brick-and-mortar business versus an online business."}}
 {{#wb-req-text lines=18}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4" requirement=”Describe the role of the U.S. Department of Labor."}}
+{{#wb-req item="4" requirement="Describe the role of the U.S. Department of Labor."}}
 {{#wb-req-text lines=18}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="4A" alert="Do TWO of the following (4A, 4B, 4C, or 4D) for requirement 4:"}}
 {{/wb-req}}
 
-{{#wb-req item="4A" requirement=”Discuss the Fair Labor Standards Act (FLSA)."}}
+{{#wb-req item="4A" requirement="Discuss the Fair Labor Standards Act (FLSA)."}}
 {{#wb-req-text lines=12}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4B" requirement=”Discuss the Occupational Safety and Health Act (OSHA)."}}
+{{#wb-req item="4B" requirement="Discuss the Occupational Safety and Health Act (OSHA)."}}
 {{#wb-req-text lines=12}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4C" requirement=”Discuss the  Family and Medical Leave Act (FMLA)."}}
+{{#wb-req item="4C" requirement="Discuss the  Family and Medical Leave Act (FMLA)."}}
 {{#wb-req-text lines=12}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4D" requirement=”Discuss the Employee Retirement Income Security Act (ERISA)."}}
+{{#wb-req item="4D" requirement="Discuss the Employee Retirement Income Security Act (ERISA)."}}
 {{#wb-req-text lines=12}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5" requirement=”Choose a business and research how it applies each of the primary areas of business (accounting, finance, economics, marketing, and management). Share what you have learned with your counselor."}}
+{{#wb-req item="5" requirement="Choose a business and research how it applies each of the primary areas of business (accounting, finance, economics, marketing, and management). Share what you have learned with your counselor."}}
 {{#wb-req-text lines=2}}Selected Business:{{/wb-req-text}}
 {{#wb-req-text lines=10}}Accounting:{{/wb-req-text}}
 {{#wb-req-text lines=10}}Finance:{{/wb-req-text}}
@@ -209,8 +209,8 @@ year: 2020
 {{#wb-req-text lines=8}}Why this selected career might interest you:{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="6B" requirement=”Select a business leader and interview this individual to learn more about his or her company and career path.  Discuss the role ethics plays in making business decisions.  Share what you have learned with your counselor."}}
-{{#wb-req header01}}Business Leader{{/wb-req header-01}}
+{{#wb-req item="6B" requirement="Select a business leader and interview this individual to learn more about his or her company and career path.  Discuss the role ethics plays in making business decisions.  Share what you have learned with your counselor."}}
+{{#wb-req-header}}Business Leader{{/wb-req-header}}
 {{#wb-req-text lines=3}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=4}}Business and Position:{{/wb-req-text}}
 {{#wb-req-text lines=20}}Notes:{{/wb-req-text}}
