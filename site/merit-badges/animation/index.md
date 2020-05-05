@@ -3,6 +3,8 @@ badge: animation
 layout: smb-merit-badge
 requirements: true
 year: 2020
+whatToBring:
+    - Pencils, sharpener, and a pad of drawing paper
 ---
 
 {{#requirements}}

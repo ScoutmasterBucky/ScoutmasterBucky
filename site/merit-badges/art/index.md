@@ -3,6 +3,8 @@ badge: art
 layout: smb-merit-badge
 requirements: true
 year: 2020
+whatToBring:
+    - Scouts should consider bringing a smock or an old shirt for in-class project work
 ---
 
 {{#requirements}}
@@ -13,8 +15,8 @@ year: 2020
 2. Discuss with your counselor the following terms and elements of art: line, value, shape, form, space, color, and texture. Show examples of each element.
 3. Discuss with your counselor the six principles of design: rhythm, balance, proportion, variety, emphasis, and unity.
 4. Render a subject of your choice in FOUR of these ways:
-    {{#note type="inPerson"}}This requirement will be done during the class under the guidance and direction of the merit badge counselor / instructor. Note that the requirement says A subject, meaning one subject rendered in four of the following methods.{{/note}}
-    {{#note type="online"}}Scouts will need to do their renderings prior to the class and have them ready to share during the class.  Please note that the requirement asks for a single subject to be rendered in four different ways. Note that the requirement says A subject, meaning one subject rendered in four of the following methods.{{/note}}
+    {{#note type="inPerson"}}This requirement will be done during the class under the guidance and direction of the merit badge counselor / instructor. *Note that the requirement says A subject, meaning one subject rendered in four of the following methods.*{{/note}}
+    {{#note type="online"}}Scouts will need to do their renderings prior to the class and have them ready to share during the class.  Please note that the requirement asks for a single subject to be rendered in four different ways. *Note that the requirement says A subject, meaning one subject rendered in four of the following methods.*{{/note}}
     (a) Pen and ink
     (b) Watercolors
     (c) Pencil
