@@ -44,6 +44,8 @@ metalsmithFidianSite.run({
             if (process.env.KILL_AFTER_WORKBOOKS) {
                 process.exit(0);
             }
+
+            done(e);
         });
     }
 });
@@ -103,8 +105,12 @@ function generatePdfs(files, done) {
     let error = null;
     let n = Math.max(1, os.cpus().length);
 
-    while (n--) {
-        processPdf()
+    if (list.length) {
+        while (n--) {
+            processPdf()
+        }
+    } else {
+        processPdf();
     }
 
     function processPdf() {
@@ -141,8 +147,10 @@ function generatePdfs(files, done) {
             }
         );
         stream.on("error", (e) => {
-            error = e;
-            done(error);
+            if (!error) {
+                error = e;
+                done(error);
+            }
         });
         stream.on("end", () => {
             running -= 1;
