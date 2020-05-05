@@ -23,8 +23,8 @@ whatToBring:
     (b) Describe three or more different types of arrows.
     (c) Name the four principle materials for making arrow shafts.
     (d) Do ONE of the following:
-        {{#note type="inPerson"}}Scouts will complete one of these requirement components as part of the class.{{/note}}
-        {{#note type="online"}}Scouts will need to complete one of these requirement components; 2d1 or 2d2, on their own prior to the class if they want the counselor to consider sign off on this requirement component. Time will be allotted during the online class for Scouts to show their skill and/or work for consideration by the counselor. The online format does not allow for these requirement components to be facilitated in the online format.{{/note}}
+    {{#note type="inPerson"}}Scouts will complete one of these requirement components as part of the class.{{/note}}
+    {{#note type="online"}}Scouts will need to complete one of these requirement components; 2d1 or 2d2, on their own prior to the class if they want the counselor to consider sign off on this requirement component. Time will be allotted during the online class for Scouts to show their skill and/or work for consideration by the counselor. The online format does not allow for these requirement components to be facilitated in the online format.{{/note}}
         (1) Make a complete arrow from a bare shaft using appropriate equipment available to you.
         (2) To demonstrate arrow repair, inspect the shafts and prepare and replace at least three vanes, one point, and one nock. You may use as many arrows as necessary to accomplish this. The repairs can be done on wood, fiberglass, or aluminum arrows.
     (e) Explain how to properly care for and store arrows.
@@ -32,8 +32,8 @@ whatToBring:
     (a) Explain the proper use, care, and storage of, as well as the reasons for using tabs, arm guards, shooting gloves, and quivers.
     (b) Explain the following terms: cast, draw weight, string height, aiming, spine, mechanical release, and barebow.
     (c) Make a bowstring using appropriate materials.
-        {{#note type="inPerson"}}Scouts will complete 3c as part of the class.{{/note}}
-        {{#note type="online"}}Scouts will need to complete this requirement component; 3c, on their own prior to the class if they want the counselor to consider sign off on this requirement component. as a part of the class. Time will be allotted during the online class for Scouts to share their work with the counselor.{{/note}}
+    {{#note type="inPerson"}}Scouts will complete 3c as part of the class.{{/note}}
+    {{#note type="online"}}Scouts will need to complete this requirement component; 3c, on their own prior to the class if they want the counselor to consider sign off on this requirement component. as a part of the class. Time will be allotted during the online class for Scouts to share their work with the counselor.{{/note}}
 4. Explain the following:
     (a) The importance of obedience to a range officer or other person in charge of a range
     (b) The difference between an end and a round
@@ -60,6 +60,7 @@ whatToBring:
         (3) As a member of the USA Archery Junior Olympic Archery Development program (JOAD), earn your indoor or outdoor green, purple, and gray achievement award pins using a recurve bow or longbow.
         (4) As a member of the NFAA's Junior Division, earn a Cub or Youth 100-score Progression Patch.
     **Option B - Using a Compound Bow**
+	{{#note type="inPerson"}}Most of the requirements for this option will be done during the class, however Scouts should review Option B requirements 5a, 5b, 5c, and 5d prior to the class and come with a knowledge to expedite discussion on these items. Option B requirement 5e will be covered in the class and Option B requirement 5f2 will be utilized as the measure of shooting proficiency that must be attained by Scouts when shooting. Please note that this is a skill-based requirement and only Scouts that are able to meet the standards will have the opportunity of completing this component of the requirement.{{/note}}
     (a) Name and point to the parts of the compound bow you are shooting.
     (b) Explain how to properly care for and store compound bows.
     (c) Show the ten steps of good shooting for the compound bow you are shooting.
@@ -79,5 +80,3 @@ whatToBring:
         (3) As a member of the USA Archery Junior Olympic Archery Development program (JOAD), earn your indoor or outdoor green, purple, and gray achievement award pins using a compound bow.
         (4) As a member of the NFAA's Junior Division, earn a Cub or Youth 100-score Progression Patch.
 {{/requirements}}
-
-{{#note type="inPerson"}}Most of the requirements will be done during the class, however Scouts should review Option B requirements 5a, 5b, 5c, and 5d prior to the class and come with a knowledge to expedite discussion on these items. Option B requirement 5e will be covered in the class and Option B requirement 5f2 will be utilized as the measure of shooting proficiency that must be attained by Scouts when shooting. Please note that this is a skill-based requirement and only Scouts that are able to meet the standards will have the opportunity of completing this component of the requirement.{{/note}}
