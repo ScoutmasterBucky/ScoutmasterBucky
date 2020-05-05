@@ -1,8 +1,8 @@
-const metalsmithFidianSite = require('metalsmith-fidian-site');
+const metalsmithSite = require('@fidian/metalsmith-site');
 const os = require('os');
 let lastFiles = null;  // For PDF generation
 
-metalsmithFidianSite.run({
+metalsmithSite.run({
     baseDirectory: __dirname,
     buildAfter: (sugar) => {
         sugar.use((files, metalsmith, d) => {

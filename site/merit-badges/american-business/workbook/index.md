@@ -9,12 +9,15 @@ year: 2020
 {{#wb-req-header}}Feature #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}Feature #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}Feature #3{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}Feature #4{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
@@ -35,8 +38,10 @@ year: 2020
 {{#wb-req item="1B" requirement="Tell about the major developments that marked the start of the modern industrial era in the United States."}}
 {{#wb-req-header}}Major Development #1{{/wb-req-header}}
 {{#wb-req-text lines=10}}{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}Major Development #2{{/wb-req-header}}
 {{#wb-req-text lines=10}}{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}Major Development #3{{/wb-req-header}}
 {{#wb-req-text lines=10}}{{/wb-req-text}}
 {{/wb-req}}
@@ -45,9 +50,11 @@ year: 2020
 {{#wb-req-header}}Person #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}Person #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}Person #3{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
@@ -57,15 +64,19 @@ year: 2020
 {{#wb-req-header}}Area of Business #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Describe:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}Area of Business #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Describe:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}Area of Business #3{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Describe:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}Area of Business #4{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Describe:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}Area of Business #5{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Describe:{{/wb-req-text}}
@@ -80,15 +91,15 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="1D" requirement="Identify two major labor unions currently in existence."}}
-{{#wb-req-header}}Labor Union #1{{/wb-req-header}}
-{{#wb-req-text lines=2}}{{/wb-req-text}}
-{{#wb-req-header}}Labor Union #2{{/wb-req-header}}
-{{#wb-req-text lines=2}}{{/wb-req-text}}
+{{#wb-req-text lines=2}}Labor Union #1:{{/wb-req-text}}
+{{#wb-req-text lines=2}}Labor Union #2:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1E" requirement="Discuss with your counselor how business impacts the local, national, and global economy"}}
 {{#wb-req-text lines=12}}Local:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-text lines=12}}National:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-text lines=12}}Global:{{/wb-req-text}}
 {{/wb-req}}
 
@@ -97,9 +108,11 @@ year: 2020
 {{#wb-req-header}}Income Statement{{/wb-req-header}}
 {{#wb-req-text lines=8}}Explanation:{{/wb-req-text}}
 {{#wb-req-text lines=8}}How it helps:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}Balance Sheet{{/wb-req-header}}
 {{#wb-req-text lines=8}}Explanation:{{/wb-req-text}}
 {{#wb-req-text lines=8}}How it helps:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}Statement of Cash Flows{{/wb-req-header}}
 {{#wb-req-text lines=8}}Explanation:{{/wb-req-text}}
 {{#wb-req-text lines=8}}How it helps:{{/wb-req-text}}
@@ -107,7 +120,9 @@ year: 2020
 
 {{#wb-req item="2B" requirement="Explain how changes in interest rates, taxes, and government spending affect the flow of money into or out of business and industry."}}
 {{#wb-req-text lines=12}}Interest Rates:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-text lines=12}}Taxes:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-text lines=12}}Government Spending:{{/wb-req-text}}
 {{/wb-req}}
 
@@ -118,10 +133,13 @@ year: 2020
 {{#wb-req item="2C" requirement="Discuss and explain four ways a corporation obtains capital."}}
 {{#wb-req-header}}How a corporation obtains capital #1{{/wb-req-header}}
 {{#wb-req-text lines=12}}{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}How a corporation obtains capital #2{{/wb-req-header}}
 {{#wb-req-text lines=12}}{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}How a corporation obtains capital #3{{/wb-req-header}}
 {{#wb-req-text lines=12}}{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}How a corporation obtains capital #4{{/wb-req-header}}
 {{#wb-req-text lines=12}}{{/wb-req-text}}
 {{/wb-req}}
@@ -130,15 +148,19 @@ year: 2020
 {{#wb-req-header}}Insurance Type #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Purpose:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}Insurance Type #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Purpose:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}Insurance Type #3{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Purpose:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}Insurance Type #4{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Purpose:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-header}}Insurance Type #5{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-text lines=8}}Purpose:{{/wb-req-text}}
@@ -190,10 +212,15 @@ year: 2020
 {{#wb-req item="5" requirement="Choose a business and research how it applies each of the primary areas of business (accounting, finance, economics, marketing, and management). Share what you have learned with your counselor."}}
 {{#wb-req-text lines=2}}Selected Business:{{/wb-req-text}}
 {{#wb-req-text lines=10}}Accounting:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-text lines=10}}Finance:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-text lines=10}}Economics:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-text lines=10}}Marketing:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-text lines=10}}Management:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-text lines=18}}Additional Notes:{{/wb-req-text}}
 {{/wb-req}}
 
@@ -202,10 +229,15 @@ year: 2020
 {{#wb-req-text lines=2}}Career Opportunity #1:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Career Opportunity #2:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Career Opportunity #3:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-text lines=2}}Selected Career:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-text lines=8}}Educational Requirements:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-text lines=8}}Training Requirements:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-text lines=8}}Experience Requirements:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-text lines=8}}Why this selected career might interest you:{{/wb-req-text}}
 {{/wb-req}}
 
@@ -213,5 +245,6 @@ year: 2020
 {{#wb-req-header}}Business Leader{{/wb-req-header}}
 {{#wb-req-text lines=3}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=4}}Business and Position:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{#wb-req-text lines=20}}Notes:{{/wb-req-text}}
 {{/wb-req}}
