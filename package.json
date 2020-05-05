@@ -13,8 +13,8 @@
         "start": "SERVE=true node metalsmith.js"
     },
     "dependencies": {
+        "@fidian/metalsmith-site": "^1.0.0",
         "marked": "^1.0.0",
-        "metalsmith-fidian-site": "file:../metalsmith-fidian-site",
         "metalsmith-plugin-kit": "^1.1.4",
         "moment": "^2.24.0",
         "moment-timezone": "^0.5.28",
