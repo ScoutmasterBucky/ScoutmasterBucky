@@ -6,7 +6,7 @@ module.exports = function (obj) {
     var result = '<div class="P(wbP) Mt(wbMt) Bdw(wbBdw)">';
 
     if (content.trim().length) {
-        result += `<div class="Mb(0.25em)">${content}</div>`;
+        result += `<div class="Mb(0.25em) Fz(0.8em)">${content}</div>`;
     }
 
     // Add a unique name for each form field so wkhtmltopdf picks up the form field
