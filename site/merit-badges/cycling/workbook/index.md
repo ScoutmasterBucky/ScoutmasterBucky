@@ -58,6 +58,10 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*The bicycle used for fulfilling these requirements must have all required safety features and must be registered as required by your local traffic laws.*
+
+**Option A: Road Biking**
+
 {{#wb-req item="71" requirement="Take a road test with your counselor and demonstrate the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -101,6 +105,8 @@ year: 2020
 {{#wb-req item="73b" requirement="Participate in an organized bike tour of at least 50 miles. Make this ride in eight hours. Afterward, use the tour’s cue sheet to make a map of the ride."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**Option B: Mountain Biking**
 
 {{#wb-req item="71" requirement="Take a trail ride with your counselor and demonstrate the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

@@ -38,6 +38,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**Option 1: Agronomy**
+
 {{#wb-req item="8A" requirement="Describe how to prepare a seedbed."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -137,6 +139,8 @@ year: 2020
 {{#wb-req item="8E5c" requirement="Explain why a killing frost just after emergence is critical for soybeans."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**Option 2: Horticulture**
 
 {{#wb-req item="8A" requirement="Visit one of the following places and tell what you learned about horticulture there: public garden, arboretum, retail nursery, wholesale nursery, production greenhouse, or conservatory greenhouse."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -269,6 +273,8 @@ year: 2020
 {{#wb-req item="8E4d" requirement="Tell four types of things you could provide to make your home landscape or park a better place for birds and wildlife. List the common and scientific names of 10 kinds of native plants that are beneficial to birds and wildlife in your area."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**Option 3: Field Botany**
 
 {{#wb-req item="8A" requirement="Visit a park, forest, Scout camp, or other natural area near your home. While you are there:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

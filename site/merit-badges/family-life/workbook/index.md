@@ -60,6 +60,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+This conversation may take place with only one or both of your parents or guardians.
+
 {{#wb-req item="6b3" requirement="How your chores in requirement 3 contributed to your role in the family"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

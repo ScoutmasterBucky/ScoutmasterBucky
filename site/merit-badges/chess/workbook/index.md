@@ -26,6 +26,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*You may learn about Scouting's Teaching EDGE from your unit leader, another Scout, or by attending training.*
+
 {{#wb-req item="3a" requirement="The name of each chess piece"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -58,7 +60,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4e" requirement="On a chessboard, demonstrate a "scholar's mate" and a "fool's mate.""}}
+{{#wb-req item="4e" requirement="On a chessboard, demonstrate a \"scholar's mate\" and a \"fool's mate.\""}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

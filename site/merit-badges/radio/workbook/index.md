@@ -126,7 +126,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="9a5" requirement="Explain the differences between handheld transceivers and home "base" transceivers. Explain the uses of mobile amateur radio transceivers and amateur radio repeaters."}}
+{{#wb-req item="9a5" requirement="Explain the differences between handheld transceivers and home \"base\" transceivers. Explain the uses of mobile amateur radio transceivers and amateur radio repeaters."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -142,7 +142,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="9b2" requirement="Prepare a program schedule for radio station "KBSA" of exactly one-half hour, including music, news, commercials, and proper station identification. Record your program on audiotape or in a digital audio format, using proper techniques."}}
+{{#wb-req item="9b2" requirement="Prepare a program schedule for radio station \"KBSA\" of exactly one-half hour, including music, news, commercials, and proper station identification. Record your program on audiotape or in a digital audio format, using proper techniques."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -202,6 +202,6 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="9d5" requirement="Show, on a map, how you located the "fox" using your receiver."}}
+{{#wb-req item="9d5" requirement="Show, on a map, how you located the \"fox\" using your receiver."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

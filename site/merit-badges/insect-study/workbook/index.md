@@ -64,6 +64,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*Some insects are endangered species and are protected by federal or state law. Every species is found **only** in its own special type of habitat. Be sure to check natural resources authorities in advance to be sure that you will not be collecting any species that is known to be protected or endangered, or in any habitat where collecting is prohibited. In most cases, all specimens should be returned at the location of capture after the requirement has been met. Check with your merit badge counselor for those instances where the return of these specimens would not be appropriate.*
+
 {{#wb-req item="10" requirement="Do ONE of the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

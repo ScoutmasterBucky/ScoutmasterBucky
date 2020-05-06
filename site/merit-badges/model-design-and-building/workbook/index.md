@@ -22,15 +22,15 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4a" requirement="Make an architectural model. Build a model of a house to a scale of ¼" = 1'0" (1:50 scale). After completing the model, present it to your counselor for approval. Review with your counselor the materials you used and the details of your model."}}
+{{#wb-req item="4a" requirement="Make an architectural model. Build a model of a house to a scale of ¼\" = 1'0\" (1:50 scale). After completing the model, present it to your counselor for approval. Review with your counselor the materials you used and the details of your model."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4b" requirement="Build a structural model. Construct a model showing corner construction of a wood-frame building to a scale of 1½" = 1'0" (1:8 scale). All structures shown must be to scale. Cardboard or flat sheet wood stock may be used for sheeting or flooring on the model. Review with your counselor the problems you encountered in gathering the materials and supporting the structure. Be able to name the parts of the floor and wall frames, such as intermediate girder, joist, bridging, subfloor, sill, sole plate, stud, and rafter."}}
+{{#wb-req item="4b" requirement="Build a structural model. Construct a model showing corner construction of a wood-frame building to a scale of 1½\" = 1'0\" (1:8 scale). All structures shown must be to scale. Cardboard or flat sheet wood stock may be used for sheeting or flooring on the model. Review with your counselor the problems you encountered in gathering the materials and supporting the structure. Be able to name the parts of the floor and wall frames, such as intermediate girder, joist, bridging, subfloor, sill, sole plate, stud, and rafter."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4c" requirement="Make a process model. Build a model showing the plumbing system in your house. Show hot and cold water supply, all waste returns, and venting to a scale of ¾" = 1'0" (1:15 scale). After completion, present the model to your counselor. Discuss the scale, the materials used, and any problems you encountered in building the model."}}
+{{#wb-req item="4c" requirement="Make a process model. Build a model showing the plumbing system in your house. Show hot and cold water supply, all waste returns, and venting to a scale of ¾\" = 1'0\" (1:15 scale). After completion, present the model to your counselor. Discuss the scale, the materials used, and any problems you encountered in building the model."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -38,7 +38,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4e" requirement="Make an industrial model. Build a model of an actual passenger-carrying vehicle to a scale of 1" = 1'0" or ½" = 1'0" (1:10 or 1:25 scale). Take the dimensions of the vehicle and record the important dimensions. Draw the top, front, rear, and sides of the vehicle to scale. From your plans, build a model of the vehicle. Discuss with your counselor the most difficult part of completing the model."}}
+{{#wb-req item="4e" requirement="Make an industrial model. Build a model of an actual passenger-carrying vehicle to a scale of 1\" = 1'0\" or ½\" = 1'0\" (1:10 or 1:25 scale). Take the dimensions of the vehicle and record the important dimensions. Draw the top, front, rear, and sides of the vehicle to scale. From your plans, build a model of the vehicle. Discuss with your counselor the most difficult part of completing the model."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

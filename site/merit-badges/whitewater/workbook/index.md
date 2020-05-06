@@ -58,6 +58,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+OR
+
 {{#wb-req item="3b" requirement="If you will be using a kayak to earn this merit badge, demonstrate strokes and maneuvers from the Kayaking merit badge to the satisfaction of your merit badge counselor."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -82,6 +84,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+OR
+
 {{#wb-req item="4b" requirement="If you are completing these requirements as a solo canoeist, perform the following on calm water:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -93,6 +97,8 @@ year: 2020
 {{#wb-req item="4b2" requirement="Demonstrate a high brace, low brace, and righting pry."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+OR
 
 {{#wb-req item="4c" requirement="If you are completing these requirements as a solo kayaker, perform the following on calm water:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -122,7 +128,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="6" requirement="Explain the importance of communication during every whitewater outing. Demonstrate knowledge and ability to use the following American Whitewater Universal River Signals, both visual and auditory: "Stop," "Are you OK?," "Help/emergency," "Run river right," "Run river left," and "All clear-come ahead.""}}
+{{#wb-req item="6" requirement="Explain the importance of communication during every whitewater outing. Demonstrate knowledge and ability to use the following American Whitewater Universal River Signals, both visual and auditory: \"Stop,\" \"Are you OK?,\" \"Help/emergency,\" \"Run river right,\" \"Run river left,\" and \"All clear-come ahead.\""}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -133,6 +139,8 @@ year: 2020
 {{#wb-req item="7a" requirement="If completing this merit badge in a canoe, describe the various types of canoes used on moving water and how they differ in design, materials, and purpose."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+OR
 
 {{#wb-req item="7b" requirement="If completing this merit badge in a kayak, describe the various types of kayaks used on moving water and explain how they differ in design, materials, and purpose."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

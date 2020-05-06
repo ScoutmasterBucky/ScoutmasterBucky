@@ -34,6 +34,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+Name and put on your drawing the following: seamount, guyot, rift valley, canyon, trench, and oceanic ridge. Compare the depths in the oceans with the heights of mountains on land.
+
 {{#wb-req item="5" requirement="List the main salts, gases, and nutrients in sea water. Describe some important properties of water. Tell how the animals and plants of the ocean affect the chemical composition of seawater. Explain how differences in evaporation and precipitation affect the salt content of the oceans."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -49,6 +51,8 @@ year: 2020
 {{#wb-req item="7a" requirement="Make a plankton net. Tow the net by a dock, wade with it, hold it in a current, or tow it from a rowboat. Do this for about 20 minutes. Save the sample. Examine it under a microscope or high-power glass. Identify the three most common types of plankton in the sample."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+*May be done in lakes or streams.*
 
 {{#wb-req item="7b" requirement="Make a series of models (clay or plaster and wood) of a volcanic island. Show the growth of an atoll from a fringing reef through a barrier reef. Describe the Darwinian theory of coral reef formation."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -90,7 +94,9 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="8c" requirement="Explain to your troop in a five-minute prepared speech "Why Oceanography Is Important" or describe "Career Opportunities in Oceanography." (Before making your speech, show your speech outline to your counselor for approval.)"}}
+Write a 500-word report about your visit.
+
+{{#wb-req item="8c" requirement="Explain to your troop in a five-minute prepared speech \"Why Oceanography Is Important\" or describe \"Career Opportunities in Oceanography.\" (Before making your speech, show your speech outline to your counselor for approval.)"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

@@ -62,9 +62,13 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*Visiting a mine site, a mining equipment manufacturer, or an equipment supplier requires advance planning. These sites can be potentially dangerous. You will need permission from your parent and counselor, and the manager of the mine site, or equipment manufacturer or supplier. While there, you will be required to follow closely the site manager’s instructions and comply with all safety rules and procedures, including wearing appropriate clothing, footwear, and personal safety equipment.*
+
 {{#wb-req item="5d" requirement="With your parent’s permission and counselor’s approval, visit a mining equipment manufacturer or supplier. Discuss the types of equipment produced or supplied there, and in what part of the mining process this equipment is used. Take photographs if allowed, and request brochures from your visit. Share photos, brochures, and what you have learned with your counselor."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+*Visiting a mine site, a mining equipment manufacturer, or an equipment supplier requires advance planning. These sites can be potentially dangerous. You will need permission from your parent and counselor, and the manager of the mine site, or equipment manufacturer or supplier. While there, you will be required to follow closely the site manager’s instructions and comply with all safety rules and procedures, including wearing appropriate clothing, footwear, and personal safety equipment.*
 
 {{#wb-req item="5e" requirement="Discuss with your counselor two methods used to reduce rock in size, one of which uses a chemical process to extract a mineral. Explain the difference between smelting and refining."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

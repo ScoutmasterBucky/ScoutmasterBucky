@@ -102,6 +102,24 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+* Biomass digesters or waste-to-energy plants
+
+* Cogeneration plants
+
+* Fossil fuel power plants
+
+* Fuel cells
+
+* Geothermal power plants
+
+* Nuclear power plants
+
+* Solar power systems
+
+* Tidal energy, wave energy, or ocean thermal energy conversion devices
+
+* Wind turbines
+
 {{#wb-req item="8" requirement="Find out what opportunities are available for a career in energy. Choose one position that interests you and describe the education and training required."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

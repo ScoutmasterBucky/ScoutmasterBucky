@@ -22,6 +22,22 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**(a)** **Offset lithography**
+
+Make a layout, and produce a plate using a process approved by your counselor. Run the plate and print at least 50 copies.
+
+**(b)** **Screen printing**
+
+Make a hand-cut or photographic stencil and attach it to a screen that you have prepared. Mask the screen and print at least 20 copies.
+
+**(c)** **Electronic/digital printing**
+
+Create a layout in electronic form, download it to the press or printer, and run 50 copies. If no electronic interface to the press or printer is available, you may print and scan a paper copy of the layout.
+
+**(d)** **Relief printing**
+
+Prepare a layout or set the necessary type. Make a plate or lock up the form. Use this to print 50 copies.
+
 {{#wb-req item="5" requirement="Review the following postpress operations with your counselor:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

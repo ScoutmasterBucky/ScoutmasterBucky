@@ -58,6 +58,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**Shotgun Shooting (Modern Shotshell Type) Option A**
+
 {{#wb-req item="2a" requirement="Identify the principal parts of a shotgun, action types, and how they function."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -101,6 +103,26 @@ year: 2020
 {{#wb-req item="2k" requirement="Shooting score required—Hit at least 12 (48 percent) out of 25 targets in two 25-target groups. The two groups need not be shot in consecutive order. A minimum of 50 shots must be fired."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+Shooting skill rules:
+
+* Targets may be thrown by a hand trap, manual mechanical, or on any trap or skeet field. Note: If using a hand trap or manual mechanical trap, the trap operator should be at least five feet to the right and three feet to the rear of the shooter. If throwing left-handed with a hand trap this should be reversed.
+
+* All targets should be thrown at a reasonable speed and in the same direction.
+
+* Targets should be generally thrown so as to climb in the air after leaving the trap.
+
+* Scores may be fired at any time, either in formal competition or in practice.
+
+* Any gauge shotgun not exceeding 12 gauge may be used.
+
+* Standard clay targets customarily used for trap and skeet are to be used.
+
+* Any ammunition, either factory or hand loaded, may be used.
+
+* Shooters must shoot in rounds of 25. Rounds need not be shot continuously or on the same day (the term "round" refers to a single series of 25 shots).
+
+**Muzzle-Loading Shotgun Shooting Option B**
 
 {{#wb-req item="2a" requirement="Discuss a brief history of the development of the muzzle-loading shotgun."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -157,3 +179,21 @@ year: 2020
 {{#wb-req item="2n" requirement="Shooting score required—Hit at least five out of 15 targets in each of two 15-target groups. The two groups need not be shot in consecutive order. A minimum of 30 shots must be fired."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+Shooting skill rules:
+
+* Targets may be thrown by a hand trap, manual mechanical, or on any trap or skeet field. Note: If using a hand trap or manual mechanical trap, the trap operator should be at least five feet to the right and three feet to the rear of the shooter. If throwing left-handed with a hand trap this should be reversed.
+
+* All targets should be thrown at a reasonable speed and in the same direction.
+
+* Targets should be generally thrown so as to climb in the air after leaving the trap.
+
+* Scores may be fired at any time, either in formal competition or in practice.
+
+* Any gauge shotgun not exceeding 10 gauge may be used.
+
+* Standard clay targets customarily used for trap and skeet are to be used.
+
+* On a standard trap field, the shooter should be positioned 8 yards behind the trap house. The trap should be set to throw only straightaway targets.
+
+* On a skeet field, use station 7 low house.

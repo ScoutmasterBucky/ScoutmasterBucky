@@ -54,6 +54,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**(a)** **Option 1 - Sheet Metal Mechanic/Tinsmith**
+
 {{#wb-req item="3c1" requirement="Name and describe the use of the basic sheet metalworking tools."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -73,6 +75,8 @@ year: 2020
 {{#wb-req item="3c3b" requirement="If you do not make your objects from zinc-plated sheet steel or tin-plated sheet steel, preserve your work from oxidation."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**(b)** **Option 2 - Silversmith**
 
 {{#wb-req item="3c1" requirement="Name and describe the use of a silversmith's basic tools."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -98,6 +102,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**(c)** **Option 3 - Founder**
+
 {{#wb-req item="3c1" requirement="Name and describe the use of the basic parts of a two-piece mold. Name at least three different types of molds."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -117,6 +123,8 @@ year: 2020
 {{#wb-req item="3c3b" requirement="Using lead-free pewter, make a casting using the mold that you have made."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**(d)** **Option 4 - Blacksmith**
 
 {{#wb-req item="3c1" requirement="Name and describe the use of a blacksmith's basic tools."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

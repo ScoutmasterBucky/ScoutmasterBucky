@@ -78,6 +78,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*If your state, city, or local community requires a water depth greater than 7 feet, it is important to abide by that mandate.*
+
 {{#wb-req item="8" requirement="Explain the health benefits of regular aerobic exercise, and discuss why swimming is favored as both fitness and therapeutic exercise."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

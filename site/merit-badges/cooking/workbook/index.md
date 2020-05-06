@@ -90,9 +90,13 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+Note: The meals prepared for Cooking merit badge requirements 4, 5, and 6 will count only toward fulfilling those requirements and will not count toward rank advancement or other merit badges. Meals prepared for rank advancement or other merit badges may not count toward the Cooking merit badge. You must not repeat any menus for meals actually prepared or cooked in requirements 4, 5, and 6.
+
 {{#wb-req item="4" requirement="**Cooking at home.** Using the MyPlate food guide or the current USDA nutrition model, plan menus for three full days of meals (three breakfasts, three lunches, and three dinners) plus one dessert. Your menus should include enough to feed yourself and at least one adult, keeping in mind any special needs (such as food allergies) and how you keep your foods safe and free from cross-contamination. List the equipment and utensils needed to prepare and serve these meals."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+Then do the following:
 
 {{#wb-req item="4a" requirement="Create a shopping list for your meals showing the amount of food needed to prepare and serve each meal, and the cost for each meal."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -105,6 +109,8 @@ year: 2020
 {{#wb-req item="4c" requirement="Using at least five of the 10 cooking methods from requirement 3, prepare and serve yourself and at least one adult (parent, family member, guardian, or other responsible adult) one breakfast, one lunch, one dinner, and one dessert from the meals you planned."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+*The meals for requirement 4 may be prepared on different days, and they need not be prepared consecutively. The requirement calls for Scouts to plan, prepare, and serve one breakfast, one lunch, and one dinner to at least one adult; those served need not be the same for all meals.*
 
 {{#wb-req item="4d" requirement="Time your cooking to have each meal ready to serve at the proper time. Have an adult verify the preparation of the meal to your counselor."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -134,9 +140,13 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*Where local regulations do not allow you to build a fire, the counselor may adjust the requirement to meet the law. The meals in requirements 5 and 6 may be prepared for different trips and need not be prepared consecutively. Scouts working on this badge in summer camp should take into consideration foods that can be obtained at the camp commissary.*
+
 {{#wb-req item="5e" requirement="In the outdoors, prepare a dessert OR a snack and serve it to your patrol or a group of youth."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+*Where local regulations do not allow you to build a fire, the counselor may adjust the requirement to meet the law. The meals in requirements 5 and 6 may be prepared for different trips and need not be prepared consecutively. Scouts working on this badge in summer camp should take into consideration foods that can be obtained at the camp commissary.*
 
 {{#wb-req item="5f" requirement="After each meal, have those you served evaluate the meal on presentation and taste, and then evaluate your own meal. Discuss what you learned with your counselor, including any adjustments that could have improved or enhanced your meals. Tell how planning and preparation help ensure successful outdoor cooking."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -169,6 +179,8 @@ year: 2020
 {{#wb-req item="6d" requirement="While on a trail hike or backpacking trip, prepare and serve two meals and a snack from the menu planned for this requirement. At least one of those meals must be cooked over a fire, or an approved trail stove (with proper supervision)."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+*Where local regulations do not allow you to build a fire, the counselor may adjust the requirement to meet the law. The meals in requirements 5 and 6 may be prepared for different trips and need not be prepared consecutively. Scouts working on this badge in summer camp should take into consideration foods that can be obtained at the camp commissary.*
 
 {{#wb-req item="6e" requirement="After each meal, have those you served evaluate the meal on presentation and taste, then evaluate your own meal. Discuss what you learned with your counselor, including any adjustments that could have improved or enhanced your meals. Tell how planning and preparation help ensure successful trail hiking or backpacking meals."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

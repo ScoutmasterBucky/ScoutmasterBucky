@@ -42,7 +42,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3b2" requirement="Record the trips taken, mileage, and fuel consumption of a family car for seven days, and calculate how many miles per gallon the car gets. Determine whether any trips could have been combined ("chained") rather than taken out and back. Using the idea of trip chaining, determine how many miles and gallons of gas could have been saved in those seven days."}}
+{{#wb-req item="3b2" requirement="Record the trips taken, mileage, and fuel consumption of a family car for seven days, and calculate how many miles per gallon the car gets. Determine whether any trips could have been combined (\"chained\") rather than taken out and back. Using the idea of trip chaining, determine how many miles and gallons of gas could have been saved in those seven days."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -125,6 +125,8 @@ year: 2020
 {{#wb-req item="3g2" requirement="Present your counselor a one-page report on how and why honeybees are used in pollinating food crops. In your report, discuss the problems faced by the bee population today, and the impact to humanity if there were no pollinators. Share your report with your troop or patrol, your class at school, or another group approved by your counselor."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**Before you choose requirement 3g(3), you will need to first find out whether you are allergic to bee stings. Visit an allergist or your family physician to find out. If you are allergic to bee stings, you should choose another option within requirement 3. In completing requirement 3g(3), your counselor can help you find an established beekeeper to meet with you and your buddy. Ask whether you can help hive a swarm or divide a colony of honey bees. Before your visit, be sure your buddy is not allergic to bee stings. For help with locating a beekeeper in your state, visit the <a href="https://www.beeculture.com/directory/">Bee Culture Directory</a>.**
 
 {{#wb-req item="3g3" requirement="Hive a swarm or divide at least one colony of honey bees. Explain how a hive is constructed."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

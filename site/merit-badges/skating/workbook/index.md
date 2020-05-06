@@ -22,6 +22,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**Ice Skating Option**
+
 {{#wb-req item="2a" requirement="Do the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -89,6 +91,8 @@ year: 2020
 {{#wb-req item="2d3" requirement="Perform a hockey stop."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**Roller Skating Option**
 
 {{#wb-req item="2a" requirement="Do the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -177,6 +181,8 @@ year: 2020
 {{#wb-req item="2e4" requirement="While skating, dribble a basketball the length of the floor, then return to your starting position, OR push a hockey ball with a stick around the entire rink in both directions."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**In-Line Skating Option**
 
 {{#wb-req item="2a" requirement="Do the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

@@ -182,7 +182,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5a" requirement="Tell what is meant by the term "primary care" with regard to a medical specialty."}}
+{{#wb-req item="5a" requirement="Tell what is meant by the term \"primary care\" with regard to a medical specialty."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -194,17 +194,25 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*"Primary care" specialties*
+
 {{#wb-req item="5b2" requirement="Family practice"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+*"Primary care" specialties*
 
 {{#wb-req item="5b3" requirement="Obstetrics/gynecology"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*"Primary care" specialties*
+
 {{#wb-req item="5b4" requirement="Pediatrics"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+*"Primary care" specialties*
 
 {{#wb-req item="5b5" requirement="Psychiatry"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -354,11 +362,13 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="7a" requirement="Visit a physician's office, preferably one who delivers "primary care." (This may be that of your counselor.) Discuss the components of a medical history and physical examination (an official BSA health form may be used to guide this discussion), and become familiar with the instruments used."}}
+{{#wb-req item="7a" requirement="Visit a physician's office, preferably one who delivers \"primary care.\" (This may be that of your counselor.) Discuss the components of a medical history and physical examination (an official BSA health form may be used to guide this discussion), and become familiar with the instruments used."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="7b" requirement="Describe the characteristics of a good diagnostic test to screen for disease (e.g., routine blood pressure measurement). Explain briefly why diagnostic tests are not "perfect.""}}
+*If this cannot be arranged, demonstrate to your counselor that you understand the components of a medical history and physical, and discuss the instruments involved.*
+
+{{#wb-req item="7b" requirement="Describe the characteristics of a good diagnostic test to screen for disease (e.g., routine blood pressure measurement). Explain briefly why diagnostic tests are not \"perfect.\""}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -382,6 +392,6 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="10" requirement="Serve as a volunteer at a health-related event or facility in your community (e.g., blood drive, "health fair," blood pressure screening, etc.) approved by your counselor."}}
+{{#wb-req item="10" requirement="Serve as a volunteer at a health-related event or facility in your community (e.g., blood drive, \"health fair,\" blood pressure screening, etc.) approved by your counselor."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

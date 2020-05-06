@@ -84,6 +84,8 @@ If meeting any of the requirements for this merit badge is against the Scout's r
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+Group 1: Sprinting
+
 {{#wb-req item="5a" requirement="100-meter dash"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -91,6 +93,8 @@ If meeting any of the requirements for this merit badge is against the Scout's r
 {{#wb-req item="5b" requirement="200-meter dash"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+Group 2: Long-Distance Running
 
 {{#wb-req item="5a" requirement="3k run"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -100,6 +104,8 @@ If meeting any of the requirements for this merit badge is against the Scout's r
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+Group 3: Long Jump OR High Jump
+
 {{#wb-req item="5a" requirement="Running long jump OR running high jump (best of three tries)"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -107,6 +113,8 @@ If meeting any of the requirements for this merit badge is against the Scout's r
 {{#wb-req item="5b" requirement="Standing long jump OR standing high jump (best of three tries)"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+Group 4: Swimming
 
 {{#wb-req item="5a" requirement="100-meter swim"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -116,6 +124,8 @@ If meeting any of the requirements for this merit badge is against the Scout's r
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+Group 5: Pull-Ups AND Push-Ups
+
 {{#wb-req item="5a" requirement="Pull-ups in two minutes"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -123,6 +133,8 @@ If meeting any of the requirements for this merit badge is against the Scout's r
 {{#wb-req item="5b" requirement="Push-ups in two minutes"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+Group 6: Baseball Throw
 
 {{#wb-req item="5a" requirement="Baseball throw for accuracy, 10 throws at a target (distance to be determined by age): ages 11 to 12, 20 feet; ages 13 to 15, 30 feet; ages 16 to 17, 40 feet"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -132,11 +144,13 @@ If meeting any of the requirements for this merit badge is against the Scout's r
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+Group 7: Basketball Shooting
+
 {{#wb-req item="5a" requirement="Basketball shot for accuracy, 10 free-throw shots"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5b" requirement="Basketball throw for skill and agility, the following shots as shown on the diagram: <img src="athletics-basketball-positions.gif" class="Maw(100%)" />"}}
+{{#wb-req item="5b" requirement="Basketball throw for skill and agility, the following shots as shown on the diagram: <img src=\"athletics-basketball-positions.gif\" class=\"Maw(100%)\" />"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -172,6 +186,8 @@ If meeting any of the requirements for this merit badge is against the Scout's r
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+Group 8: Football Kick OR Soccer Kick
+
 {{#wb-req item="5a" requirement="Goals from the 10-yard line, eight kicks"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -179,6 +195,8 @@ If meeting any of the requirements for this merit badge is against the Scout's r
 {{#wb-req item="5b" requirement="Football kick or soccer kick for distance, five kicks (total distance)"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+Group 9: Weight Training
 
 {{#wb-req item="5a" requirement="Chest/bench press, two sets of 15 repetitions each"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

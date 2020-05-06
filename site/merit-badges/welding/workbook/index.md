@@ -62,7 +62,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="6b" requirement="Cover a small plate (approximately 3" x 3" x 1/4") with weld beads side by side."}}
+{{#wb-req item="6b" requirement="Cover a small plate (approximately 3\" x 3\" x 1/4\") with weld beads side by side."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

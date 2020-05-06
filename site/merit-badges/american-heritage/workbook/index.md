@@ -6,7 +6,7 @@ year: 2020
 ---
 
 
-{{#wb-req item="1" requirement="Read the Declaration of Independence. Pay close attention to the section that begins with "We hold these truths to be self-evident" and ends with "to provide new Guards for their future security." Rewrite that section in your own words, making it as easy to understand as possible. Then, share your writing with your merit badge counselor and discuss the importance of the Declaration to all Americans."}}
+{{#wb-req item="1" requirement="Read the Declaration of Independence. Pay close attention to the section that begins with \"We hold these truths to be self-evident\" and ends with \"to provide new Guards for their future security.\" Rewrite that section in your own words, making it as easy to understand as possible. Then, share your writing with your merit badge counselor and discuss the importance of the Declaration to all Americans."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

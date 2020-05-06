@@ -38,7 +38,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2a6" requirement=""Green Bar Bill" Hillcourt"}}
+{{#wb-req item="2a6" requirement="\"Green Bar Bill\" Hillcourt"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

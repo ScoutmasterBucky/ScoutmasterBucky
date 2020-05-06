@@ -22,6 +22,14 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**Thematic game elements:** story, setting, characters
+
+**Gameplay elements:** play sequence, level design, interface design
+
+**Game analysis:** difficulty, balance, depth, pace, replay value, age appropriateness
+
+**Related terms:** single-player vs. multiplayer, cooperative vs. competitive, turn-based vs. real-time, strategy vs. reflex vs. chance, abstract vs. thematic
+
 {{#wb-req item="3" requirement="Define the term intellectual property. Describe the types of intellectual property associated with the game design industry. Describe how intellectual property is protected and why protection is necessary. Define and give an example of a licensed property."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

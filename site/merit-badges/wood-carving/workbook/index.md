@@ -54,7 +54,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4c" requirement=""V" cut"}}
+{{#wb-req item="4c" requirement="\"V\" cut"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

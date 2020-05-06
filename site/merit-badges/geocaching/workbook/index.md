@@ -66,6 +66,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*To fulfill this requirement, you will need to set up a free user account with [www.geocaching.com](https://www.geocaching.com/). Before doing so, ask your parent for permission and help.
+
 {{#wb-req item="8" requirement="Do ONE of the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -74,7 +76,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="8b" requirement="Create a Scouting-related Travel Bug® that promotes one of the values of Scouting. "Release" your Travel Bug into a public geocache and, with your parent’s permission, monitor its progress at [www.geocaching.com](https://www.geocaching.com/) for 30 days. Keep a log, and share this with your counselor at the end of the 30-day period."}}
+{{#wb-req item="8b" requirement="Create a Scouting-related Travel Bug® that promotes one of the values of Scouting. \"Release\" your Travel Bug into a public geocache and, with your parent’s permission, monitor its progress at [www.geocaching.com](https://www.geocaching.com/) for 30 days. Keep a log, and share this with your counselor at the end of the 30-day period."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

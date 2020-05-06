@@ -10,6 +10,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*Watching plays on television, video, or as a movie is not permitted.*
+
 {{#wb-req item="2" requirement="Write a one-act play that will take at least eight minutes to perform. The play must have a main character, conflict, and a climax."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

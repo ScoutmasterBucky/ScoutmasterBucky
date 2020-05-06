@@ -50,6 +50,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*If instruction is done in a planetarium, Scouts must still identify the required stars and constellations outside under the natural night sky.*
+
 {{#wb-req item="4a" requirement="Identify in the sky at least 10 constellations, at least four of which are in the zodiac."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -149,6 +151,8 @@ year: 2020
 {{#wb-req item="8b" requirement="Plan and participate in a three-hour observation session that includes using binoculars or a telescope. List the celestial objects you want to observe, and find each on a star chart or in a guidebook. Prepare a log or notebook. Discuss with your counselor what you hope to observe prior to your observation session. Review your log or notebook with your counselor afterward."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+*To complete this requirement, you may use the <a href="{{@root.rootPath}}documents/scout-planning-worksheet.pdf">Scout Planning Worksheet</a>.*
 
 {{#wb-req item="8c" requirement="Plan and host a star party for your Scout troop or other group such as your class at school. Use binoculars or a telescope to show and explain celestial objects to the group."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

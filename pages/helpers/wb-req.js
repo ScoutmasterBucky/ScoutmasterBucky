@@ -6,9 +6,8 @@ module.exports = function(obj) {
     }
 
     result += `
-<div class="Mt(1em) Bgc(smbButtonBarBackground) Bdw(wbBdw) P(wbP) D(f)">
-<div class="W(20%) Fw(b) Tt(u)">Requirement ${obj.hash.item}:</div>
-<div class="W(80%)">${obj.hash.requirement}</div>
+<div class="Mt(1em) Bgc(smbButtonBarBackground) Bdw(wbBdw) P(wbP)">
+<div><span class="Fw(b) Tt(u)">Requirement ${obj.hash.item}:</span> ${obj.hash.requirement}</div>
 </div>
 ${obj.fn(this)}
 </div>

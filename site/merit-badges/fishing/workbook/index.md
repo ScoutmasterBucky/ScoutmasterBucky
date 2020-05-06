@@ -58,6 +58,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+Scouts should obey all local fishing regulations and property laws.
+
 {{#wb-req item="8" requirement="Explain what good outdoor sportsmanlike behavior is and how it relates to anglers. Tell how the Outdoor Code of the Boy Scouts of America relates to a fishing sports enthusiast, including the aspects of littering, trespassing, courteous behavior, and obeying fishing regulations."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

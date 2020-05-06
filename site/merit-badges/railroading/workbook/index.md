@@ -126,6 +126,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+With your parent's and counselor's approval, do TWO of the following:
+
 {{#wb-req item="8a1" requirement="Draw a layout of your own model railroad or one that could be built in your home. Design a point-to-point track or loop with different routings. Include one of the following: turnaround or terminal or yard or siding."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -161,6 +163,8 @@ year: 2020
 {{#wb-req item="8b" requirement="**Railfanning**"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+With your parent's and counselor's approval, do TWO of the following:
 
 {{#wb-req item="8b1" requirement="Visit a railroad museum, historical display, or a prototype railroad-sponsored public event. With permission, photograph, videotape, or sketch items of interest. Explain what you saw and describe your photos, sketches, or videotape."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

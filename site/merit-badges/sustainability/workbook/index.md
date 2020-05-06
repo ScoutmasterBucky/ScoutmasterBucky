@@ -14,6 +14,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**Water.** Do A AND either B OR C.
+
 {{#wb-req item="2a" requirement="Develop and implement a plan that attempts to reduce your family’s water usage. As a family, discuss water usage. To aid in your discussion, if past water bills are available, you may choose to examine a few. As a family, choose three ways to help reduce water consumption. Implement those ideas for one month. Share what you learned with your counselor, and tell how you think your plan affected your family's water usage."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -25,6 +27,8 @@ year: 2020
 {{#wb-req item="2c" requirement="Discuss with your counselor two areas in the world that have been affected by drought over the last three years. For each area, identify a water conservation practice (successful or unsuccessful) that has been used. Tell whether the practice was effective and why. Discuss what water conservation practice you would have tried and why."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**Food.** Do A AND either B OR C.
 
 {{#wb-req item="2a" requirement="Develop and implement a plan that attempts to reduce your household food waste. Establish a baseline and then track and record your results for two weeks. Report your results to your family and counselor."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -38,6 +42,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**Community.** Do A AND either B OR C.
+
 {{#wb-req item="2a" requirement="Draw a rough sketch depicting how you would design a sustainable community. Share your sketch with your counselor, and explain how the housing, work locations, shops, schools, and transportation systems affect energy, pollution, natural resources, and the economy of the community."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -50,7 +56,9 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2a" requirement="Learn about the sustainability of different energy sources, including fossil fuels, solar, wind, nuclear, hydropower, and geothermal. Find out how the production and consumption of each of these energy sources affects the environment and what the term "carbon footprint" means. Discuss what you learn with your counselor, and explain how you think your family can reduce its carbon footprint."}}
+**Energy.** Do A AND either B OR C.
+
+{{#wb-req item="2a" requirement="Learn about the sustainability of different energy sources, including fossil fuels, solar, wind, nuclear, hydropower, and geothermal. Find out how the production and consumption of each of these energy sources affects the environment and what the term \"carbon footprint\" means. Discuss what you learn with your counselor, and explain how you think your family can reduce its carbon footprint."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -62,6 +70,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**Stuff.** Do A AND either B OR C.
+
 {{#wb-req item="2a" requirement="Keep a log of the “stuff” your family purchases (excluding food items) for two weeks. In your log, categorize each purchase as an essential need (such as soap) or a desirable want (such as a DVD). Share what you learn with your counselor."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -70,7 +80,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2c" requirement="Discuss with your counselor how having too much “stuff” affects you, your family, and your community. Include the following: the financial impact, time spent, maintenance, health, storage, and waste. Include in your discussion the practices that can be used to avoid accumulating too much "stuff.""}}
+{{#wb-req item="2c" requirement="Discuss with your counselor how having too much “stuff” affects you, your family, and your community. Include the following: the financial impact, time spent, maintenance, health, storage, and waste. Include in your discussion the practices that can be used to avoid accumulating too much \"stuff.\""}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

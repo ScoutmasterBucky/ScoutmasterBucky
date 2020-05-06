@@ -14,13 +14,17 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**(a)** **Newspaper, magazine, and online journalism**
+
 {{#wb-req item="0z1" requirement="All on the same day, read a local newspaper, a national newspaper, a newsmagazine, and (with your parent's permission) an online news source. From each source, clip, read, and compare a story about the same event. Tell your counselor how long each story is and how fair and accurate the stories are in presenting different points of view. Tell how each source handled the story differently, depending on its purpose or audience."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="0z2" requirement="Visit the office of a newspaper, magazine, or internet news site. Ask for a tour of the various divisions (editorial, business, and printing). During your tour, talk to an executive from the business side about management's relations with reporters, editors, and photographers and what makes a "good" newspaper, magazine, or internet news site."}}
+{{#wb-req item="0z2" requirement="Visit the office of a newspaper, magazine, or internet news site. Ask for a tour of the various divisions (editorial, business, and printing). During your tour, talk to an executive from the business side about management's relations with reporters, editors, and photographers and what makes a \"good\" newspaper, magazine, or internet news site."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**(b)** **Radio and television journalism**
 
 {{#wb-req item="0z1" requirement="All on the same day, watch a local and national network newscast, listen to a radio newscast, and (with your parent’s permission) view a national broadcast news source online. List the different news items and features presented, the different elements used, and the time in minutes and seconds and the online space devoted to each story. Compare the story lists and discuss whether the stories are fair and accurate. Explain why different news outlets treated the stories differently and/or presented a different point of view."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

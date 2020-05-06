@@ -34,7 +34,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2b" requirement="Look at one or more "best books" lists. These can be based on year, subject, or even all time. Identify at least one book you would like to read."}}
+{{#wb-req item="2b" requirement="Look at one or more \"best books\" lists. These can be based on year, subject, or even all time. Identify at least one book you would like to read."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -50,7 +50,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3c" requirement="Give a "book talk" to your class, troop, or patrol."}}
+{{#wb-req item="3c" requirement="Give a \"book talk\" to your class, troop, or patrol."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

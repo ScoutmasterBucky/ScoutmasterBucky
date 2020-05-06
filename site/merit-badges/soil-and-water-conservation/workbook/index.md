@@ -110,7 +110,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="6a" requirement="Tell what is meant by "water pollution.""}}
+{{#wb-req item="6a" requirement="Tell what is meant by \"water pollution.\""}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -118,7 +118,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="6c" requirement="Tell what is meant by "primary water treatment," "secondary waste treatment," and "biochemical oxygen demand.""}}
+{{#wb-req item="6c" requirement="Tell what is meant by \"primary water treatment,\" \"secondary waste treatment,\" and \"biochemical oxygen demand.\""}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

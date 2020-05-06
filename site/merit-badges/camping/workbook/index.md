@@ -30,6 +30,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*To complete this requirement, you may use the <a href="{{@root.rootPath}}documents/scout-planning-worksheet.pdf">Scout Planning Worksheet</a>.*
+
 {{#wb-req item="3a" requirement="A compass"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -38,9 +40,13 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+If a GPS-equipped device is not available, explain how to use one to get to your camping spot.
+
 {{#wb-req item="3c" requirement="A smartphone with a GPS app"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+If a GPS-equipped device is not available, explain how to use one to get to your camping spot.
 
 {{#wb-req item="4" requirement="Do the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -58,7 +64,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5a" requirement="Prepare a list of clothing you would need for overnight campouts in both warm and cold weather. Explain the term "layering.""}}
+{{#wb-req item="5a" requirement="Prepare a list of clothing you would need for overnight campouts in both warm and cold weather. Explain the term \"layering.\""}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
