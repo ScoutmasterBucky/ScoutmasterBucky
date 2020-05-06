@@ -90,6 +90,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*Scouts who have already completed the original requirement 5 as published in the current *Search and Rescue* merit badge pamphlet need not redo this updated requirement in order to earn the badge.*
+
 {{#wb-req item="6" requirement="Identify four types of search and rescue teams and discuss their use or role with your counselor. Then do the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -105,6 +107,10 @@ year: 2020
 {{#wb-req item="6c" requirement="Explain the differences between wilderness, urban, and water SARs."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**A Note About Unauthorized and Restricted Activities**
+
+The BSA's *Guide to Safe Scouting* states under "Unauthorized and Restricted Activities" that flying in aircraft as part of a search and rescue mission is an unauthorized activity for youth members. For complete information, see BSA'a Scouting Safely web page.
 
 {{#wb-req item="7" requirement="Discuss the Universal Transverse Mercator (UTM) system, latitude, and longitude. Then do the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

@@ -38,9 +38,21 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+Include in your discussion the kinds of questions that are important to ask yourself as you consider each of these.
+
 {{#wb-req item="2b" requirement="Using a chart, graph, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 2a (prevention, protection, mitigation, response, and recovery) for 10 emergency situations from the list below. **You must use the first five situations listed below in boldface,** plus any other five of your choice. Discuss your findings with your counselor."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**(1)** **Home kitchen fire**
+
+**(2)** **Home basement/storage room/garage fire**
+
+**(3)** **Explosion in the home**
+
+**(4)** **Automobile crash**
+
+**(5)** **Food-borne disease (food poisoning)**
 
 {{#wb-req item="2b6" requirement="Fire or explosion in a public place"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

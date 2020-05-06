@@ -18,6 +18,6 @@ table.req-table th + th, table.req-table td + td {
     border-left: 1px solid gray;
 }
 
-table tbody tr:nth-child(odd) {
+table.req-table tbody tr:nth-child(odd) {
     background-color: #FFFF99;
 }

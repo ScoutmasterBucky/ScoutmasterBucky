@@ -66,6 +66,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**Downhill (Alpine) Skiing Option**
+
 {{#wb-req item="7a" requirement="Show how to use and maintain your own release bindings and explain the use of two others. Explain the international DIN standard and what it means to skiers."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -118,6 +120,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**Cross-Country (Nordic) Skiing Option**
+
 {{#wb-req item="7a" requirement="Show your ability to select, use, and repair, if necessary, the correct equipment for ski touring in safety and comfort."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -157,6 +161,8 @@ year: 2020
 {{#wb-req item="7j" requirement="Demonstrate several methods of dealing with steep hills or difficult conditions. Include traverses and kick turns going uphill and downhill, sidesteps, pole drag, and ski-pole 'glissade'."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**Snowboarding Option**
 
 {{#wb-req item="7a" requirement="Discuss forward-fall injuries."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -221,6 +227,8 @@ year: 2020
 {{#wb-req item="7k" requirement="Name the major snowboarding organizations in the United States and explain their functions."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**Snowshoeing Option**
 
 {{#wb-req item="7a" requirement="Name the parts of a snowshoe."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

@@ -6,7 +6,7 @@ year: 2020
 ---
 
 
-{{#wb-req item="1" requirement="Discuss the role and value of laws in society with regard to crime and crime prevention. Include in your discussion the definitions of "crime" and "crime prevention.""}}
+{{#wb-req item="1" requirement="Discuss the role and value of laws in society with regard to crime and crime prevention. Include in your discussion the definitions of \"crime\" and \"crime prevention.\""}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -82,7 +82,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="8b" requirement="Why alcohol, tobacco, and marijuana are sometimes called "gateway drugs" and how gateway drugs can lead to the use of other drugs."}}
+{{#wb-req item="8b" requirement="Why alcohol, tobacco, and marijuana are sometimes called \"gateway drugs\" and how gateway drugs can lead to the use of other drugs."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

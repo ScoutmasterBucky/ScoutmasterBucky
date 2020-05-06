@@ -58,6 +58,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**All pioneering projects constructed for this merit badge must comply with height standards as outlined in the *Guide to Safe Scouting*.**
+
 {{#wb-req item="9" requirement="By yourself, build a trestle using square and diagonal lashings. Explain why trestles are used when constructing pioneering projects."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -65,3 +67,11 @@ year: 2020
 {{#wb-req item="10" requirement="With the approval of your counselor and using appropriate lashings and pioneering techniques, build and use one full-size pioneering project from either group A or group B. Your project must comply with the requirements of the Guide to Safe Scouting. (Requirement 10 may be done at summer camp, at district or council events, or on a troop camp outing.)"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**Group A:** Tower **OR** bridge
+
+Anchor your project as appropriate and necessary. Explain how your anchoring system works. Group A projects may be worked on in a group and with others.
+
+**Group B:** Camp chair **OR** camp table
+
+Group B projects must be worked on individually.

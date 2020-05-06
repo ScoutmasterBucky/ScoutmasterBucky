@@ -78,7 +78,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="9" requirement="Discuss what good sportsmanlike behavior is and how it relates to anglers. Tell how the Outdoor Code of the Boy Scouts of America relates to a fishing enthusiast, including the aspects of littering, trespassing, courteous behavior, "catch and release," and obeying fishing regulations."}}
+{{#wb-req item="9" requirement="Discuss what good sportsmanlike behavior is and how it relates to anglers. Tell how the Outdoor Code of the Boy Scouts of America relates to a fishing enthusiast, including the aspects of littering, trespassing, courteous behavior, \"catch and release,\" and obeying fishing regulations."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

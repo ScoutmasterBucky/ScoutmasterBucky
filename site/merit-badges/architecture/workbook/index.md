@@ -18,7 +18,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2" requirement="In the Outdoor Code, a Scout pledges to "be conservation-minded." Discuss the following with your counselor:"}}
+{{#wb-req item="2" requirement="In the Outdoor Code, a Scout pledges to \"be conservation-minded.\" Discuss the following with your counselor:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -49,6 +49,8 @@ year: 2020
 {{#wb-req item="3b" requirement="With your parent's and counselor's permission and approval, arrange to meet with an architect at a construction site. Ask the architect to bring drawings that the builder uses to construct the building. While at the site, discuss why the different building materials being used were selected. Discuss how the different building materials and components are attached to each other during construction."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**Note:** To visit a construction site will require advance planning. You will need permission from your parents, counselor, the architect, and the construction site manager. A construction site is a very dangerous place. While there, you will need to closely follow the site manager's directions and comply with all the safety procedures, including wearing a hard hat, protective eyewear, and proper footwear. Be aware of the changing conditions at the site, and stay with the architect or site manager.
 
 {{#wb-req item="3c" requirement="Interview someone who might be your client (such as a prospective homeowner or business owner) if you were an architect. Find out what your client's requirements would be for designing a new home or business building. Write a short program including a list of requirements for the project, the functions of the building and site, how the functions relate to one another, and the goals of the project."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

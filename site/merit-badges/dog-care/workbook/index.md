@@ -34,7 +34,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3b" requirement="Explain what "responsible pet ownership" means."}}
+{{#wb-req item="3b" requirement="Explain what \"responsible pet ownership\" means."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -46,7 +46,9 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5" requirement="Explain the correct way to obedience train a dog and what equipment you would need. Show with your dog any three of these commands: "come," "sit," "down," "heel," "stay," "fetch" or "get it," and "drop it.""}}
+*The activities used to fulfill the requirements for the Dog Care merit badge may not be used to help fulfill requirements for other merit badges.*
+
+{{#wb-req item="5" requirement="Explain the correct way to obedience train a dog and what equipment you would need. Show with your dog any three of these commands: \"come,\" \"sit,\" \"down,\" \"heel,\" \"stay,\" \"fetch\" or \"get it,\" and \"drop it.\""}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

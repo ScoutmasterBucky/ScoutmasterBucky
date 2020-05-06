@@ -58,6 +58,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**Option A - Rifle Shooting (Modern cartridge type)**
+
 {{#wb-req item="2a" requirement="Identify the three main parts of a rifle, and tell how they function."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -110,6 +112,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**Option B - Air Rifle Shooting (BB or pellet)**
+
 {{#wb-req item="2a" requirement="Identify the three main parts of an air rifle, and tell how they function."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -157,6 +161,8 @@ year: 2020
 {{#wb-req item="2l" requirement="Adjust sights to center the group on the target and fire five groups (five shots per group). According to the target used, each shot in the group must meet the following minimum score: (1) BB rifle at 15 feet or 5 meters using TQ - 5 targets - 8; (2) Pellet air rifle at 25 feet using TQ - 5 targets - 8, at 33 feet or 10 meters using AR-1 targets - 6."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**Option C - Muzzleloading Rifle Shooting**
 
 {{#wb-req item="2a" requirement="Give a brief history of the development of muzzleloading rifles."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

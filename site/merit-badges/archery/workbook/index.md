@@ -55,7 +55,7 @@ whatToBring:
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2d" requirement="Do ONE of the following: {{#note type="inPerson"}}Scouts will complete one of these requirement components as part of the class.{{/note}}"}}
+{{#wb-req item="2d" requirement="Do ONE of the following: {{#note type=\"inPerson\"}}Scouts will complete one of these requirement components as part of the class.{{/note}}"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -83,7 +83,7 @@ whatToBring:
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3c" requirement="Make a bowstring using appropriate materials. {{#note type="inPerson"}}Scouts will complete 3c as part of the class.{{/note}}"}}
+{{#wb-req item="3c" requirement="Make a bowstring using appropriate materials. {{#note type=\"inPerson\"}}Scouts will complete 3c as part of the class.{{/note}}"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -114,6 +114,8 @@ whatToBring:
 {{#wb-req item="5" requirement="Do ONE of the following options."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+**Option A - Using a Recurve Bow or Longbow** {{#note type="inPerson"}}This option will NOT be done in the class as the class will focus on the other option (Option B - compound bow) for this requirement.{{/note}}
 
 {{#wb-req item="5a" requirement="Name and point to the parts of the recurve or longbow you are shooting."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -175,6 +177,8 @@ whatToBring:
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**Option B - Using a Compound Bow**
+
 {{#wb-req item="5a" requirement="Name and point to the parts of the compound bow you are shooting."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -226,6 +230,12 @@ whatToBring:
 {{#wb-req item="5f2" requirement="Shooting at an 80-centimeter (32-inch) five-color target using the 10 scoring regions, make a minimum score of 160. Accomplish this in the following manner:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+Shoot 15 arrows in five-arrow ends, at a distance of 10 yards
+
+AND
+
+Shoot 15 arrows in five-arrow ends, at a distance of 15 yards.
 
 {{#wb-req item="5f3" requirement="As a member of the USA Archery Junior Olympic Archery Development program (JOAD), earn your indoor or outdoor green, purple, and gray achievement award pins using a compound bow."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

@@ -10,6 +10,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*Stamp and coin collecting are excluded from eligibility for ths merit badge.*
+
 {{#wb-req item="2" requirement="Explain the growth and development of your collection."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

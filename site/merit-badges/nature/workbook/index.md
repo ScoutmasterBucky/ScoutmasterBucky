@@ -14,7 +14,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3" requirement="Explain the term "food chain." Give an example of a four-step land food chain and a four-step water food chain."}}
+{{#wb-req item="3" requirement="Explain the term \"food chain.\" Give an example of a four-step land food chain and a four-step water food chain."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -69,6 +69,8 @@ year: 2020
 {{#wb-req item="4d1" requirement="Collect and identify either in the field or through photographs 10 species of insects or spiders."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+*Photos may be those taken with your own equipment or gathered from other sources.*
 
 {{#wb-req item="4d2" requirement="Hatch an insect from the pupa or cocoon; OR hatch adults from nymphs; OR keep larvae until they form pupae or cocoons; OR keep a colony of ants or bees through one season."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

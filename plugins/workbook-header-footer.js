@@ -46,7 +46,7 @@ function makeFooter(f) {
                 <script>
 var qs = document.location.href.split('?')[1],
     p = qs.match(/(^|&)page=([^&]*)/)[2],
-    t = qs.match(/(^|&)page=([^&]*)/)[2];
+    t = qs.match(/(^|&)topage=([^&]*)/)[2];
 document.write('Page ' + p + ' of ' + t);
                 </script>
                 <br>${f.year} Scouts BSA Requirements</td>

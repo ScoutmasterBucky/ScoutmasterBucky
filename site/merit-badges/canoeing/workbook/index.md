@@ -142,6 +142,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+For stern paddling only:
+
 {{#wb-req item="10d" requirement="J-stroke"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

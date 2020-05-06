@@ -6,7 +6,7 @@ year: 2020
 ---
 
 
-{{#wb-req item="1" requirement="Define "law." Tell some of its sources. Describe functions it serves."}}
+{{#wb-req item="1" requirement="Define \"law.\" Tell some of its sources. Describe functions it serves."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

@@ -34,6 +34,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*See the [Swimming merit badge](../swimming/) requirements for details about the BSA swimmer test.*
+
 {{#wb-req item="3" requirement="Do the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

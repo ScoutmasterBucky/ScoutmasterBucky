@@ -10,7 +10,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="1a" requirement="Define "aircraft." Describe some kinds and uses of aircraft today. Explain the operation of piston, turboprop, and jet engines."}}
+{{#wb-req item="1a" requirement="Define \"aircraft.\" Describe some kinds and uses of aircraft today. Explain the operation of piston, turboprop, and jet engines."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -46,7 +46,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2d" requirement="Using one of many flight simulator software packages available for computers, "fly" the course and heading you established in requirement 2c or another course you have plotted."}}
+{{#wb-req item="2d" requirement="Using one of many flight simulator software packages available for computers, \"fly\" the course and heading you established in requirement 2c or another course you have plotted."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -74,7 +74,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4a" requirement="Visit an airport. After the visit, report on how the facilities are used, how runways are numbered, and how runways are determined to be "active.""}}
+{{#wb-req item="4a" requirement="Visit an airport. After the visit, report on how the facilities are used, how runways are numbered, and how runways are determined to be \"active.\""}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

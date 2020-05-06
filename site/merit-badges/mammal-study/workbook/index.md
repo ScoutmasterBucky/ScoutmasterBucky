@@ -6,7 +6,7 @@ year: 2020
 ---
 
 
-{{#wb-req item="1" requirement="Explain the meaning of "animal," "invertebrate," "vertebrate," and "mammal." Name three characteristic that distinguish mammals from all other animals."}}
+{{#wb-req item="1" requirement="Explain the meaning of \"animal,\" \"invertebrate,\" \"vertebrate,\" and \"mammal.\" Name three characteristic that distinguish mammals from all other animals."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

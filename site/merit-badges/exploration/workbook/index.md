@@ -66,6 +66,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**As you work on the Exploration merit badge, remember to always use the buddy system. Whether you are out in the field or meeting with your merit badge counselor, having a buddy will help ensure everyone's safety. You and your buddy can watch out for each other wherever you may be or whatever you may be doing.**
+
 {{#wb-req item="6" requirement="**Expedition Planning.** Discuss with your counselor each of the following steps for conducting a successful exploration activity. Explain the need for each step."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

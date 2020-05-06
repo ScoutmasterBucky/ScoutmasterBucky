@@ -78,6 +78,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*Note to the Counselor: While orienteering is primarily an individual sport, BSA Youth Protection procedures call for using the buddy system. Requirement 7a can be completed by pairs or groups of Scouts.*
+
 {{#wb-req item="7b" requirement="After each event, write a report with (1) a copy of the master map and control description sheet, (2) a copy of the route you took on the course, (3) a discussion of how you could improve your time between control points, and (4) a list of your major weaknesses on this course . Describe what you could do to improve."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

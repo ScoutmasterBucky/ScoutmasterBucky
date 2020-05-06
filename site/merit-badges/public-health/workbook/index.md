@@ -122,6 +122,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+Do ONE of the following:
+
 {{#wb-req item="7a" requirement="Visit your city, county, or state public health agency."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -129,6 +131,8 @@ year: 2020
 {{#wb-req item="7b" requirement="Familiarize yourself with your city, county, or state health agency's website."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+After completing either 7a or 7b, do the following:
 
 {{#wb-req item="7bi" requirement="Compare the four leading causes of mortality (death) in your community for any of the past five years with the four leading causes of disease in your community. Explain how the public health agency you visited is trying to reduce the mortality and morbidity rates of these leading causes of illness and death."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

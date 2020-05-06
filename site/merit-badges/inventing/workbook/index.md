@@ -78,6 +78,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*Before you begin building the prototype, you must have your counselor’s approval, based on the design and building plans you have already shared.*
+
 {{#wb-req item="8" requirement="Do ONE of the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

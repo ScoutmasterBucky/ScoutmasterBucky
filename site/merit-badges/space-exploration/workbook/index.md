@@ -30,7 +30,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3" requirement="Build, launch, and recover a model rocket. Make a second launch to accomplish a specific objective. (Rocket must be built to meet the safety code of the National Association of Rocketry. See the "Model Rocketry" chapter of the *Space Exploration* merit badge pamphlet.) Identify and explain the following rocket parts:"}}
+{{#wb-req item="3" requirement="Build, launch, and recover a model rocket. Make a second launch to accomplish a specific objective. (Rocket must be built to meet the safety code of the National Association of Rocketry. See the \"Model Rocketry\" chapter of the *Space Exploration* merit badge pamphlet.) Identify and explain the following rocket parts:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -69,6 +69,8 @@ year: 2020
 {{#wb-req item="3i" requirement="Rocket engine"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+*If local laws prohibit launching model rockets, do the following activity: Make a model of a NASA rocket. Explain the functions of the parts. Give the history of the rocket.*
 
 {{#wb-req item="4" requirement="Discuss and demonstrate each of the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

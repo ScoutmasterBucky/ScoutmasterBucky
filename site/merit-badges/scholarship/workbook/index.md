@@ -42,6 +42,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+*If you are home-schooled or your school environment does not include a principal, you may obtain a note from a counterpart such as your parent.*
+
 {{#wb-req item="4" requirement="Do ONE of the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

@@ -14,6 +14,8 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**Second Class rank requirements 5a through 5d:**
+
 {{#wb-req item="1a5a" requirement="Tell what precautions must be taken for a safe swim."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -30,9 +32,13 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+**First Class rank requirements 6a, 6b, and 6e:**
+
 {{#wb-req item="1a6a" requirement="Successfully complete the BSA swimmer test."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+*For more information about the BSA swimmer test, see the [Swimming merit badge](../swimming/).*
 
 {{#wb-req item="1a6b" requirement="Tell what precautions must be taken for a safe trip afloat."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -74,11 +80,11 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4" requirement="Demonstrate "reaching" rescues using various items such as arms, legs, towels, shirts, paddles, and poles."}}
+{{#wb-req item="4" requirement="Demonstrate \"reaching\" rescues using various items such as arms, legs, towels, shirts, paddles, and poles."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5" requirement="Demonstrate "throwing" rescues using various items such as lines, ring buoys, rescue bags, and free-floating supports. Successfully place at least one such aid within reach of a practice victim 25 feet from shore."}}
+{{#wb-req item="5" requirement="Demonstrate \"throwing\" rescues using various items such as lines, ring buoys, rescue bags, and free-floating supports. Successfully place at least one such aid within reach of a practice victim 25 feet from shore."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -86,7 +92,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="7" requirement="List various items that can be used as aids in a "go" rescue. Explain why buoyant aids are preferred."}}
+{{#wb-req item="7" requirement="List various items that can be used as aids in a \"go\" rescue. Explain why buoyant aids are preferred."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -165,6 +171,8 @@ year: 2020
 {{#wb-req item="15b" requirement="Demonstrate CPR knowledge and skills, including rescue breathing, consistent with current guidelines."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+*Your counselor may accept recent training in CPR by a recognized agency as completion of this requirement only if he or she feels your skills are satisfactory and need no additional reinforcement.*
 
 {{#wb-req item="16" requirement="Demonstrate management of a spinal injury to your counselor:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}

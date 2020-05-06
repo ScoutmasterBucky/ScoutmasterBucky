@@ -10,7 +10,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2" requirement="Study the USGA "Rules of Golf" now in use."}}
+{{#wb-req item="2" requirement="Study the USGA \"Rules of Golf\" now in use."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -22,7 +22,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2c" requirement="Show that you understand the "Rules of Amateur Status.""}}
+{{#wb-req item="2c" requirement="Show that you understand the \"Rules of Amateur Status.\""}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -102,7 +102,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="8a" requirement="Follow the "Rules of Golf.""}}
+{{#wb-req item="8a" requirement="Follow the \"Rules of Golf.\""}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

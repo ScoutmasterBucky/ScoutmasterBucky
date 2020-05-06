@@ -30,12 +30,24 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+One (1) 5-mile hike
 
+Three (3) 10-mile hikes
+
+One (1) 15-mile hike
+
+
+
+You may stop for as many short rest periods as needed, as well as one meal, during each hike, but not for an extended period (example: overnight). Prepare a written hike plan before each hike and share it with your Scoutmaster or their designee. Include map routes, a clothing and equipment list, and a list of items for a trail lunch.
+
+*The required hikes for this badge may be used in fulfilling hiking requirements for rank advancement. However, hikes cannot be used to fulfill requirements of other merit badges.*
 
 {{#wb-req item="5" requirement="Take a hike of 20 continuous miles in one day following a hike plan you have prepared. You may stop for as many short rest periods as needed, as well as one meal, but not for an extended period (example: overnight)."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="6" requirement="After each of the hikes (or during each hike if on one continuous "trek") in requirements 4 and 5, write a short reflection of your experience. Give dates and descriptions of routes covered, the weather, and interesting things you saw. It may include something you learned about yourself, about the outdoors, or about others you were hiking with. Share this report with your merit badge counselor."}}
+*The required hikes for this badge may be used in fulfilling hiking requirements for rank advancement. However, hikes cannot be used to fulfill requirements of other merit badges.*
+
+{{#wb-req item="6" requirement="After each of the hikes (or during each hike if on one continuous \"trek\") in requirements 4 and 5, write a short reflection of your experience. Give dates and descriptions of routes covered, the weather, and interesting things you saw. It may include something you learned about yourself, about the outdoors, or about others you were hiking with. Share this report with your merit badge counselor."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
