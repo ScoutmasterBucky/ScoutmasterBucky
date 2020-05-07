@@ -13,7 +13,7 @@
         "start": "SERVE=true node metalsmith.js"
     },
     "dependencies": {
-        "@fidian/metalsmith-site": "^1.0.1",
+        "@fidian/metalsmith-site": "^1.0.4",
         "@babel/preset-env": "^7.9.6",
         "clean-css": "^4.2.3",
         "marked": "^1.0.0",
@@ -22,7 +22,7 @@
         "metalsmith-html-minifier": "^4.0.1",
         "metalsmith-plugin-kit": "^1.1.4",
         "metalsmith-uglify": "^2.3.4",
-        "moment": "^2.24.0",
+        "moment": "^2.25.3",
         "moment-timezone": "^0.5.28",
         "wkhtmltopdf": "^0.3.4"
     }
