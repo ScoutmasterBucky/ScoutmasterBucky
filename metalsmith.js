@@ -5,6 +5,19 @@ let lastFiles = null;  // For PDF generation
 metalsmithSite.run({
     baseDirectory: __dirname,
     buildAfter: (sugar) => {
+        sugar.use('metalsmith-babel', {
+            presets: ["@babel/preset-env"]
+        });
+        sugar.use('metalsmith-uglify', {
+            sameName: true,
+            uglify: {
+                sourceMap: false
+            }
+        });
+        sugar.use('metalsmith-clean-css', {
+            files: "**/*.css"
+        });
+        sugar.use('metalsmith-html-minifier');
         sugar.use((files, metalsmith, d) => {
             lastFiles = files;
             d();
@@ -47,6 +60,10 @@ metalsmithSite.run({
 
             done(e);
         });
+    }
+}, err => {
+    if (err) {
+        console.error(err);
     }
 });
 
