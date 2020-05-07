@@ -5,19 +5,22 @@ let lastFiles = null;  // For PDF generation
 metalsmithSite.run({
     baseDirectory: __dirname,
     buildAfter: (sugar) => {
-        sugar.use('metalsmith-babel', {
-            presets: ["@babel/preset-env"]
-        });
-        sugar.use('metalsmith-uglify', {
-            sameName: true,
-            uglify: {
-                sourceMap: false
-            }
-        });
-        sugar.use('metalsmith-clean-css', {
-            files: "**/*.css"
-        });
-        sugar.use('metalsmith-html-minifier');
+        if (!process.env.SERVE) {
+            sugar.use('metalsmith-babel', {
+                presets: ["@babel/preset-env"]
+            });
+            sugar.use('metalsmith-uglify', {
+                sameName: true,
+                uglify: {
+                    sourceMap: false
+                }
+            });
+            sugar.use('metalsmith-clean-css', {
+                files: "**/*.css"
+            });
+            sugar.use('metalsmith-html-minifier');
+        }
+
         sugar.use((files, metalsmith, d) => {
             lastFiles = files;
             d();
@@ -31,9 +34,9 @@ metalsmithSite.run({
         // the index page may include the events because the links and images
         // are made with the rootPath.
         sugar.use("metalsmith-handlebars-contents", {
-            helpers: ["./pages/helpers/**/*.js"],
+            helpers: ["./handlebars/pages/helpers/**/*.js"],
             match: ["events/*.md"],
-            partials: ["./pages/partials/**/*"]
+            partials: ["./handlebars/pages/partials/**/*"]
         });
     },
     metadataAfter: (sugar) => {
