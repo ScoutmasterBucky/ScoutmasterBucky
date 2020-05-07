@@ -34,7 +34,7 @@ The following are the requirements that will be covered and worked on during thi
     c. Using models or pictures, identify 10 types of railroad freight or passenger cars. Explain the purpose of each type of car.
 
 2. Do the following:
-    a. <span class="C(smbGold)">Explain the purpose and formation of Amtrak. Explain, by the use of a timetable, a plan for making a trip by rail between two cities at least 500 miles apart. List the times of departure and arrival at your destination, the train number and name, and the type of service you want.</span>
+    a. <span class="C(#cc9900)">Explain the purpose and formation of Amtrak. Explain, by the use of a timetable, a plan for making a trip by rail between two cities at least 500 miles apart. List the times of departure and arrival at your destination, the train number and name, and the type of service you want.</span>
     b. List and explain the various forms of public/mass transit using rail as the fixed guide path.
 
 3. Do ONE of the following:
@@ -67,11 +67,11 @@ The following are the requirements that will be covered and worked on during thi
 8. Select ONE of the following special-interest areas and complete the requirements.
     a. **Model Railroading**
         With your parent's and counselor's approval, do TWO of the following:
-        1. <span class="C(smbGold)">Draw a layout of your own model railroad or one that could be built in your home. Design a point-to-point track or loop with different routings. Include one of the following: turnaround or terminal or yard or siding.</span>
+        1. <span class="C(#cc9900)">Draw a layout of your own model railroad or one that could be built in your home. Design a point-to-point track or loop with different routings. Include one of the following: turnaround or terminal or yard or siding.</span>
         3. Name the scale of four popular model railroad gauges. Identify the scale of four model cars or locomotives.
 {{/requirements}}
 
-*The <span class="C(smbGold)">gold text</span> indicates that these requirements must be done prior to the class for consideration for completion at the class; bring your work to share with the counselor on the day of the class.*
+*The <span class="C(#cc9900)">gold text</span> indicates that these requirements must be done prior to the class for consideration for completion at the class; bring your work to share with the counselor on the day of the class.*
 
 ### Morning Class
 

@@ -10,7 +10,7 @@ module.exports = function (obj) {
     }
 
     // Add a unique name for each form field so wkhtmltopdf picks up the form field
-    result += `<textarea name="ta${textAreaNum++}" class="Fz(22px) Bgc(smbAccentGold):h W(100%) Bdw(0) Mih(${height}px) Rsz(v)"></textarea></div>`;
+    result += `<textarea name="ta${textAreaNum++}" class="Fz(22px) Bgc(smbAccBg):h W(100%) Bdw(0) Mih(${height}px) Rsz(v)"></textarea></div>`;
 
     return result;
 };

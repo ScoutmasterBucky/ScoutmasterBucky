@@ -12,5 +12,5 @@ module.exports = function(obj) {
         .join(" ");
 
     // One line so it can be used within requirements
-    return `<div class="C(smbAlertText) Fw(b) Fs(i) D(n) Pb(smbReqP) ${notesToggles}">${marked(obj.fn(this))}</div>`;
+    return `<div class="C(red) Fw(b) Fs(i) D(n) Pb(smbReqP) ${notesToggles}">${marked(obj.fn(this))}</div>`;
 };

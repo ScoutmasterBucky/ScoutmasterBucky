@@ -10,7 +10,7 @@
 
 {{>smb-layout-body}}
 
-            <div class="P(0.4em) Bgc(smbHeadingBackground) Jc(se) D(f) Fxd(c)--s Ai(c) D(n)--p Fw(b)">
+            <div class="P(0.4em) Bgc(smbHdBg) Jc(se) D(f) Fxd(c)--s Ai(c) D(n)--p Fw(b)">
                 {{#unless requirements}}
                 <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/" class="C(gold)">Merit Badge Requirements</a>
                 {{/unless}}
@@ -33,9 +33,9 @@
                 <div class="P(20px) P(0)--p">
 
 {{#if @root.workbook}}
-<div class="Bgc(smbButtonBackground) C(white) Fw(b) Tt(u) Ta(c) P(0.25em) Bdw(0.25em) Bdc(smbButtonBackground)">{{>badge-name badge=badge}} Merit Badge Workbook</div>
-                    <div class="Bdstartw(1pt) Bdendw(1pt) C(smbFadedText) Ta(c)">This Scoutmaster Bucky Merit Badge Workbook is based off the <em>{{year}} Scouts BSA Requirements</em>.</div>
-                    <div class="Bdw(0.25em) Bdc(red) Bgc(smbAccentGold) P(1em)">
+<div class="Bgc(smbHdBg) C(white) Fw(b) Tt(u) Ta(c) P(0.25em) Bdw(0.25em) Bdc(smbHdBg)">{{>badge-name badge=badge}} Merit Badge Workbook</div>
+                    <div class="Bdstartw(1pt) Bdendw(1pt) C(#999999) Ta(c)">This Scoutmaster Bucky Merit Badge Workbook is based off the <em>{{year}} Scouts BSA Requirements</em>.</div>
+                    <div class="Bdw(0.25em) Bdc(red) Bgc(smbAccBg) P(1em)">
                         <div class="Mb(1em) Ta(c) Fz(22px) D(n)--p">Type your work on this page or download the <a href="{{badge}}-workbook.pdf">{{>badge-name badge=badge}} Workbook PDF</a>.</div>
 
                         <p>Consider also using the {{>badge-name badge=badge}} merit badge class preparation page for clarification and expections when participating in a Scoutmaster Bucky merit badge opportunity (online or in-person).</p>
@@ -48,7 +48,7 @@
                                 Scout's Name:
                             </div>
                             <div class="Mstart(7em) My(0.3em)">
-                                <input class="Bgc(smbAccentGold):h W(100%) Bdw(0) Fz(22px)" name="name" type="text" />
+                                <input class="Bgc(smbAccBg):h W(100%) Bdw(0) Fz(22px)" name="name" type="text" />
                             </div>
                         </div>
                     </div>

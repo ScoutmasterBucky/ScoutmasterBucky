@@ -1,0 +1,266 @@
+module.exports = {
+    acssConfig: {
+        breakPoints: {
+            l: "@media screen and (max-width: 992px)",
+            m: "@media screen and (max-width: 768px)",
+            s: "@media screen and (max-width: 575px)",
+            p: "@media print"
+        },
+        custom: {
+            // Scoutmaster Bucky
+            smbAccBg: "#ffff99", // Accent background
+            smbBtnBg: "#5b8800", // Button background
+            smbBtnTx: "#ffffff", // Button text
+            smbBtnTx2: "#000000",
+            smbHdBg: "#5b8800", // Heading background
+            smbHd2Bg: "#a4c57c", // Heading 2, like heading 1 but more muted
+            smbHdTx: "#ffffff",
+            smbHd2Tx: "#ffffff",
+            smbHd3Tx: "#336600", // Heading 3 text in accent
+            smbPgBg: "#ffffff", // The background within the content area
+            smbPgMBg: "#000000", // The background of the margin around the content area
+            smbTabBg: "#cc9900", // Tab background
+            smbThmBd: "#5b8800", // Theme-colored border
+            smbThmTx: "#5b8800", // Theme-color text
+
+            smbReqP: "1em",
+            wbBdw: "1px",
+            wbLh: "1.2em",
+            wbMt: "-1px",
+            wbP: "0.25em",
+            whiteGlow:
+                "-2px 0 2px white, 0 -2px 2px white, 2px 0 2px white, 0 2px 2px white"
+        }
+    },
+    addRules: [
+        {
+            type: "pattern",
+            name: "Ba",
+            matcher: "Ba",
+            allowParamToValue: false,
+            shorthand: true,
+            styles: {
+                "break-after": "$0"
+            },
+            arguments: [
+                {
+                    a: "auto",
+                    av: "avoid",
+                    alw: "always",
+                    all: "all",
+                    ap: "avoid-page",
+                    p: "page",
+                    start: "left",
+                    end: "right",
+                    ro: "recto",
+                    vo: "verso",
+                    ac: "avoid-column",
+                    c: "column",
+                    ar: "avoid-region",
+                    r: "region"
+                }
+            ]
+        },
+        {
+            type: "pattern",
+            name: "Bb",
+            matcher: "Bb",
+            allowParamToValue: false,
+            shorthand: true,
+            styles: {
+                "break-before": "$0"
+            },
+            arguments: [
+                {
+                    a: "auto",
+                    av: "avoid",
+                    alw: "always",
+                    all: "all",
+                    ap: "avoid-page",
+                    p: "page",
+                    start: "left",
+                    end: "right",
+                    ro: "recto",
+                    vo: "verso",
+                    ac: "avoid-column",
+                    c: "column",
+                    ar: "avoid-region",
+                    r: "region"
+                }
+            ]
+        },
+        {
+            type: "pattern",
+            name: "Bi",
+            matcher: "Bi",
+            allowParamToValue: false,
+            shorthand: true,
+            styles: {
+                "break-inside": "$0"
+            },
+            arguments: [
+                {
+                    a: "auto",
+                    av: "avoid",
+                    ap: "avoid-page",
+                    ac: "avoid-column",
+                    ar: "avoid-region"
+                }
+            ]
+        },
+        {
+            type: "pattern",
+            name: "Cc",
+            matcher: "Cc",
+            allowParamToValue: true,
+            styles: {
+                "column-count": "$0"
+            }
+        },
+        {
+            type: "pattern",
+            name: "Cf",
+            matcher: "Cf",
+            allowParamToValue: false,
+            shorthand: true,
+            styles: {
+                "column-fill": "$0"
+            },
+            arguments: [
+                {
+                    a: "auto",
+                    b: "balance"
+                }
+            ]
+        },
+        {
+            type: "pattern",
+            name: "Cg",
+            matcher: "Cg",
+            styles: {
+                "column-gap": "$0"
+            }
+        },
+        {
+            type: "pattern",
+            id: "Crc",
+            name: "Crc",
+            matcher: "Crc",
+            noParams: false,
+            styles: {
+                "column-rule-color": "$0"
+            }
+        },
+        {
+            type: "pattern",
+            name: "Crs",
+            matcher: "Crs",
+            allowParamToValue: false,
+            shorthand: true,
+            styles: {
+                "column-rule-style": "$0"
+            },
+            arguments: [
+                {
+                    d: "dotted",
+                    da: "dashed",
+                    do: "double",
+                    g: "groove",
+                    h: "hidden",
+                    i: "inset",
+                    n: "none",
+                    o: "outset",
+                    r: "ridge",
+                    s: "solid"
+                }
+            ]
+        },
+        {
+            type: "pattern",
+            name: "Crw",
+            matcher: "Crw",
+            styles: {
+                "column-rule-width": "$0"
+            }
+        },
+        {
+            type: "pattern",
+            name: "Cs",
+            matcher: "Cs",
+            allowParamToValue: false,
+            shorthand: true,
+            styles: {
+                "column-span": "$0"
+            },
+            arguments: [
+                {
+                    a: "all",
+                    n: "none"
+                }
+            ]
+        },
+        {
+            type: "pattern",
+            name: "Cw",
+            matcher: "Cw",
+            styles: {
+                "column-width": "$0"
+            }
+        },
+        {
+            type: "pattern",
+            name: "Pba",
+            matcher: "Pba",
+            allowParamToValue: false,
+            shorthand: true,
+            styles: {
+                "page-break-after": "$0"
+            },
+            arguments: [
+                {
+                    a: "auto",
+                    av: "avoid",
+                    al: "always",
+                    left: "left",
+                    right: "right"
+                }
+            ]
+        },
+        {
+            type: "pattern",
+            name: "Pbb",
+            matcher: "Pbb",
+            allowParamToValue: false,
+            shorthand: true,
+            styles: {
+                "page-break-before": "$0"
+            },
+            arguments: [
+                {
+                    a: "auto",
+                    av: "avoid",
+                    al: "always",
+                    left: "left",
+                    right: "right"
+                }
+            ]
+        },
+        {
+            type: "pattern",
+            name: "Pbi",
+            matcher: "Pbi",
+            allowParamToValue: false,
+            shorthand: true,
+            styles: {
+                "page-break-inside": "$0"
+            },
+            arguments: [
+                {
+                    a: "auto",
+                    av: "avoid"
+                }
+            ]
+        }
+    ],
+    destination: "atomic.css"
+};
