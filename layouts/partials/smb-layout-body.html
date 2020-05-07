@@ -1,6 +1,6 @@
     </head>
-    <body class="Ovx(h) Bgc(smbPageBackground) Bgc(t)--p">
-        <div class="Maw(1002px) Mx(a) Bgc(smbPageForeground) Bgc(t)--p Maw(100%)--p">
+    <body class="Ovx(h) Bgc(smbPgMBg) Bgc(t)--p">
+        <div class="Maw(1002px) Mx(a) Bgc(smbPgBg) Bgc(t)--p Maw(100%)--p">
             <div {{#if @root.workbook}}class="D(n)--p"{{/if}}>
 {{#if @root.rootPath}}
                 <a href="{{@root.rootPath}}">
@@ -17,7 +17,7 @@
 {{/if}}
             </div>
 
-            <div class="Bgc(smbButtonBarBackground) D(f) Jc(se) Pt(0.4em) D(n)--s Fz(0.9em)--m Flw(w) D(n)--p">
+            <div class="Bgc(smbHd2Bg) D(f) Jc(se) Pt(0.4em) D(n)--s Fz(0.9em)--m Flw(w) D(n)--p">
                 {{> smb-menu-button url="merit-badges/" text="Merit Badges" }}
                 {{> smb-menu-button url="workbooks/" text="Workbooks" }}
                 {{> smb-menu-button url="history/" text="History Pages" }}
@@ -26,7 +26,7 @@
                 {{> smb-menu-button url="memorabilia/" text="Memorabilia" }}
             </div>
 
-            <div class="Bgc(smbButtonBarBackground) D(f) Jc(se) D(n)--s Fz(0.9em)--m D(n)--p">
+            <div class="Bgc(smbHd2Bg) D(f) Jc(se) D(n)--s Fz(0.9em)--m D(n)--p">
                 {{> smb-cross-link-button image="cubmaster-bob-katt/images/cbk-small.png" text="Cubmaster Bob Katt" caption="an area for Cub Scouting" width="33" height="35"}}
                 {{> smb-cross-link-button image="advisor-kodi/images/ak-small.png" text="Advisor Kodi" caption="an area for Venturing" width="35" height="35"}}
                 {{> smb-cross-link-button image="ss-seagal/images/sss-small.png" text="S.S. Seagal" caption="an area for Sea Scouting" width="35" height="35"}}

@@ -9,7 +9,7 @@ module.exports = function (obj) {
     }
 
     // Add a unique name for each form field so wkhtmltopdf picks up the form field
-    result += `<input name="i${inputNum++}" class="Fz(22px) Bgc(smbAccentGold):h W(100%) Bdw(0)"/></div>`;
+    result += `<input name="i${inputNum++}" class="Fz(22px) Bgc(smbAccBg):h W(100%) Bdw(0)"/></div>`;
 
     return result;
 };
