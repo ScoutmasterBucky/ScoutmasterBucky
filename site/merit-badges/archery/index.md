@@ -23,8 +23,8 @@ whatToBring:
     (b) Describe three or more different types of arrows.
     (c) Name the four principle materials for making arrow shafts.
     (d) Do ONE of the following:
-    {{#note type="inPerson"}}Scouts will complete one of these requirement components as part of the class.{{/note}}
-    {{#note type="online"}}Scouts will need to complete one of these requirement components; 2d1 or 2d2, on their own prior to the class if they want the counselor to consider sign off on this requirement component. Time will be allotted during the online class for Scouts to show their skill and/or work for consideration by the counselor. The online format does not allow for these requirement components to be facilitated in the online format.{{/note}}
+        {{#note type="inPerson"}}Scouts will complete one of these requirement components as part of the class.{{/note}}
+        {{#note type="online"}}Scouts will need to complete one of these requirement components; 2d1 or 2d2, on their own prior to the class if they want the counselor to consider sign off on this requirement component. Time will be allotted during the online class for Scouts to show their skill and/or work for consideration by the counselor. The online format does not allow for these requirement components to be facilitated in the online format.{{/note}}
         (1) Make a complete arrow from a bare shaft using appropriate equipment available to you.
         (2) To demonstrate arrow repair, inspect the shafts and prepare and replace at least three vanes, one point, and one nock. You may use as many arrows as necessary to accomplish this. The repairs can be done on wood, fiberglass, or aluminum arrows.
     (e) Explain how to properly care for and store arrows.

@@ -11,8 +11,8 @@ year: 2020
     (a) Find out what the organization does.
     (b) Share the list of issues and concerns you made for requirement 1. Ask the people you communicate with which issues are of greatest interest or concern to them and why.
     (c) Draw a diagram showing how the organization is structured, from the local to the national level, if applicable.
-        {{#note type="inPerson" type2="online"}}Scouts may work on this prior to the class, but please note that the counselor reserves the right to accept or deny your work on the basis of meeting the expectations of this requirement and it's components to their satisfaction. Make sure your work is pertinent to the requirement and be prepared to share your work.{{/note}}
-        {{#note type="inPerson" type2="online"}}Scouts not having done preparation work on this requirement will have an opportunity to review options with the counselor to pursue after the class.{{/note}}
+    {{#note type="inPerson" type2="online"}}Scouts may work on this prior to the class, but please note that the counselor reserves the right to accept or deny your work on the basis of meeting the expectations of this requirement and it's components to their satisfaction. Make sure your work is pertinent to the requirement and be prepared to share your work.{{/note}}
+    {{#note type="inPerson" type2="online"}}Scouts not having done preparation work on this requirement will have an opportunity to review options with the counselor to pursue after the class.{{/note}}
 3. Explain to your counselor what labor unions are, what they do, and what services they provide to members. In your discussion, show that you understand the concepts of labor, management, collective bargaining, negotiation, union shops, open shops, grievance procedures, mediation, arbitration, work stoppages, strikes, and lockouts.
 4. Explain what is meant by the adversarial model of labor-management relations, compared with a cooperative-bargaining style.
 5. Do ONE of the following:

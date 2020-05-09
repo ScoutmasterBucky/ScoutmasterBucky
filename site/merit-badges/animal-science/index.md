@@ -56,7 +56,7 @@ year: 2020
     **Hog Option**
     (a) Make a sketch showing the principal wholesale and retail cuts of pork. Tell about the recommended USDA grades of pork. Tell the basis for each grade.
     (b) Outline in writing the proper feeding programs used from the breeding of a gilt or sow through the weaning of the litter. Discuss the feeding programs for the growth and finishing periods.
-        {{#note type="inPerson" type2="online"}}This requirement clearly states Scouts will need to put into writing their work. Be prepared to share your writing and discuss this during the class.{{/note}}
+        {{#note type="inPerson" type2="online"}}This requirement component clearly states Scouts will need to put into writing their work. Be prepared to share your writing and discuss this during the class.{{/note}}
     (c) Do ONE of the following:
         (1) Raise a feeder pig from weaning to market weight. Keep records of feed intake, weight gains, medication, vaccination, and mortality. Present your records to your counselor for review.
             {{#note type="inPerson" type2="online"}}If requirement 6c1 is selected, Scouts should bring photos or video to share with the counselor and class showing the raising of your pig. Bring your records as stated in this requirement to share with the counselor and class.{{/note}}
