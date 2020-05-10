@@ -150,7 +150,7 @@ Group 7: Basketball Shooting
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5b" requirement="Basketball throw for skill and agility, the following shots as shown on the diagram: <img src=\"athletics-basketball-positions.gif\" class=\"Maw(100%)\" />"}}
+{{#wb-req item="5b" requirement="Basketball throw for skill and agility, the following shots as shown on the diagram: <img src=\"../athletics-basketball-positions.gif\" class=\"Maw(100%)\" />"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
