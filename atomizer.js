@@ -7,6 +7,22 @@ module.exports = {
             p: "@media print"
         },
         custom: {
+            // Nova Lab
+            // novaAccBg: "#ffff99", // Accent background
+            novaBtnBg: "#0060b7", // Button background
+            novaBtnTx: "#fd9600", // Button text
+            novaBtnTx2: "#bbbbbb",
+            novaHdBg: "#0060b7", // Heading background
+            novaHd2Bg: "#50d7f7", // Heading 2, like heading 1 but more muted
+            novaHdTx: "#fd9600",
+            // novaHd2Tx: "#ffffff",
+            // novaHd3Tx: "#336600", // Heading 3 text in accent
+            novaPgBg: "#ffffff", // The background within the content area
+            novaPgMBg: "#000000", // The background of the margin around the content area
+            // novaTabBg: "#cc9900", // Tab background
+            novaThmBd: "#0060b7", // Theme-colored border
+            novaThmTx: "#0060b7", // Theme-color text
+
             // Scoutmaster Bucky
             smbAccBg: "#ffff99", // Accent background
             smbBtnBg: "#5b8800", // Button background
@@ -262,5 +278,5 @@ module.exports = {
             ]
         }
     ],
-    destination: "atomic.css"
+    destination: "css/atomic.css"
 };

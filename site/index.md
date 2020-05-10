@@ -7,7 +7,7 @@ news:
     - ONLINE Opportunities added
     - With many Scouts out of school, we have ramped up our online offerings to help accommodate the deamnd for merit badge opportunities.  We will do what we can to make as many opportunities available to as many Scouts as possible.  Keep checking the website for new and more opportunities.
 css:
-    - calendar.css
+    - css/calendar.css
 js:
     - js/jquery-3.4.1.min.js
     - js/jquery.e-calendar-0.9.2.js
