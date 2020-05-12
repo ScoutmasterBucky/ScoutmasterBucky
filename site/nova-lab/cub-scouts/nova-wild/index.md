@@ -1,0 +1,73 @@
+---
+title: Nova Wild
+summary: Learn about wildlife and the natural world around you.
+layout: nova-req
+category: science
+---
+
+This module is designed to help you learn about wildlife and the natural world around you.
+
+{{#requirements}}
+1. Choose A or B or C and complete ALL the requirements:
+    A. Watch an episode or episodes (about one hour total) of a show about wildlife, endangered species, invasive species, food chains, biodiversity, ecosystems, or wildlife habitats. Then do the following:
+        1. Make a list of at least two questions or ideas from what you watched.
+        2. Discuss two of the questions or ideas with your counselor.
+        {{#nova-note}}Some examples include—but are not limited to—shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s supervision.{{/nova-note}}
+    B. Read (about one hour total) about wildlife, endangered species, invasive species, food chains, biodiversity, ecosystems, or wildlife habitats. Then do the following:
+        1. Make a list of at least two questions or ideas from what you read.
+        2. Discuss two of the questions or ideas with your counselor.
+        {{#nova-note}}Books on many topics may be found at your local library. Examples of magazines include but are not limited to Odyssey, KIDS DISCOVER, National Geographic Kids, Highlights, and OWL or [Owlkids](https://www.owlkids.com/).{{/nova-note}}
+    C. Do a combination of reading and watching (about one hour total) about wildlife, endangered species, invasive species, food chains, biodiversity, ecosystems, or wildlife habitats. Then do the following:
+        1. Make a list of at least two questions or ideas from what you read and watched.
+        2. Discuss two of the questions or ideas with your counselor.
+2. Complete ONE adventure from the following list for your current rank or complete option A or B. (If you choose an Adventure, choose one you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
+    * **Wolf Cub Scouts:** Digging in the Past, Grow Something, Spirit of the Water
+    * **Bear Cub Scouts:** A Bear Goes Fishing, Critter Care
+    * **Webelos Scouts:** Into the Wild, Into the Woods
+    **Option A:** Do all of the following.
+        (a) Make a poster that shows and explains the water cycle.
+        (b) Set up a simple weather station to record rainfall, temperature, air pressure or evaporation for one week.
+        (c) Find the local weather forecast. Discuss with a family member the weather forecast. Follow-up by discussing the accuracy of the forecast the following day.
+    **Option B:** Do all of the following.
+        (a) Explain what natural resources are and why it’s important to protect and conserve them.
+        (b) Make a poster that shows and explains the food chain. Describe to your den or adult what happens when the food chain becomes broken or damaged.
+        (c) Learn about an endangered species. Make a report to your den or adult that includes a picture, how the species became endangered, and what is being done to save it.
+3. Explore.
+    A. What is wildlife? Wildlife refers to animals that are not normally domesticated (raised by humans).
+    B. Explain the relationships among producer, prey, predator, and food chain. (You may draw and label a food chain to help you answer this question.)
+    C. Draw (or find) pictures of your favorite native plant, native reptile or fish, native bird, and native mammal that live in an ecosystem near you. Why do you like these? How do they fit into the ecosystem?
+    D. Discuss what you have learned with your counselor.
+4. Act like a naturalist. Choose TWO from A or B or C or D or E or F, and complete ALL the requirements for those options.
+    A. Investigate the endangered species in your state.
+        1. Make a list, drawing, or photo collection of three to five animals and plants that are endangered.
+        2. Design a display (a poster, PowerPoint presentation, or other type of display) to show at least 10 of the threatened, endangered, or extinct species in your state. (You may use your drawings or photo collection in your display.)
+        3. Discuss with your counselor the differences between threatened, endangered, and extinct species. Discuss how threatened animals or plants could become endangered or extinct. How might the loss of these animals or plants affect the ecosystem and food chain? What can be done to preserve these species?
+    B. Investigate invasive species.
+        1. Make a list, drawing, or photo collection of at least five mammals, plants, fish, birds, insects, or any other organisms that are invasive in your state or region of the country.
+        2. Design a presentation (a poster, PowerPoint presentation, or other display) including at least one of the invasive species from your list. Explain where they came from, how they got to your area, what damage they are causing, and what is being done to get rid of them. Share your presentation with your counselor and your family or your den.
+        3. Discuss with your counselor what an invasive species is, how invasive animals or plants cause problems for native species, and how these invasive species could affect an ecosystem and food chain.
+    C. Visit an ecosystem near where you live.
+        1. Investigate the types of animals and plants that live in that ecosystem.
+        2. Draw a food web of the animals and plants that live in this ecosystem. Mark the herbivores, omnivores, and carnivores. Include at least one decomposer or scavenger.
+        3. Discuss with your counselor (using your food web drawing) how the animals or plants in the food web fit into a food chain. Which animals are predators and which can be prey? How does each plant and animal obtain its energy? Describe the energy source for all the plants and animals.
+    D. Investigate one wild mammal, bird, fish, or reptile that lives near you.
+        1. Create a diorama representing the habitat of this creature. Include representations of everything it needs to survive; its home, nest, or den; and possible threats. You may use a variety of different materials within your diorama (usually constructed in a shoebox or similar container).
+        2. Explain to your counselor what your animal must have in its habitat in order to survive.
+    E. Investigate your wild neighbors.
+        1. Make a bird feeder and set it up in a place where you may observe visitors. The feeder could be complex or as simple as a pinecone covered with peanut butter and rolled in birdseed and then tied with a string to an appropriate location, like a tree branch.
+        2. Fill the feeder with birdseed. (Make sure that your feeder does not remain empty once you have started feeding birds.)
+        3. Provide a source of water.
+        4. Watch and record the visitors to your feeder for two or three weeks. (It may take a while for visitors to discover your food source.)
+        5. Identify your visitors using a field guide, and keep a list of what visits your feeder. (Visitors are not always birds! Sometimes deer, rabbits, chipmunks, squirrels, and raccoons visit bird feeders—or the area under the feeder! The kinds of nonbird visitors will depend on where you live. You may want to investigate how to collect the tracks of any nighttime visitors.)
+        6. Discuss with your counselor what you learned about your wild neighbors.
+    F. Earn the Cub Scout World Conservation Award (if you have not already earned them for another Nova award).
+5. Visit a place where you can observe wildlife. Examples include parks (national, state, and local), zoos, wetlands, nature preserves, and national forests.
+    A. During or after your visit, talk to someone about:
+        1. The native species, invasive species, and endangered or threatened species that live there. If you visit a zoo, talk to someone about the ecosystems for different zoo animals and whether any of the zoo animals are invasive in different areas of the world. (For example, pythons are often found in zoos, but they are an invasive species in Florida.)
+        2. The subjects studied in school that enable him or her to work with wildlife. Examples of experts to talk to include forest ranger, wildlife biologist, botanist, park ranger, naturalist, game warden, zookeeper, docent, or another adult whose career involves wildlife.
+    B. Discuss with your counselor what you learned during your visit.
+6. Discuss with your counselor:
+    A. Why wildlife is important
+    B. Why biodiversity is important
+    C. The problems with invasive species and habitat destruction
+{{/requirements}}
