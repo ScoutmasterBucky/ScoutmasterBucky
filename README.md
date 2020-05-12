@@ -78,7 +78,7 @@ Requirements pages have the requirements surrounded by `{{#requirements}}` tags.
 
 Within the requirements, only these partials and helpers are allowed.
 
-* `{{#note type="inPerson" type2="online"}}This is a note{{/note}}` - Adds a note to the requirements. The `type` attribute must be specified, and `type2` is optional. Allowed types are `inPerson` and `online`.
+* `{{#note type="inPerson" type2="online"}}This is a note{{/note}}` - Adds a note to the requirements. The `type` attribute will make the note hidden unless the requirements are for that type of class. The attribute `type2` is optional. Allowed types are `inPerson` and `online`.
 
 
 Merit Badge Workbooks

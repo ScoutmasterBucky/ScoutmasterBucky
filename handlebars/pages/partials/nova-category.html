@@ -1,0 +1,5 @@
+{{#ancestry.children}}
+{{#if (equals category ../show)}}
+* [{{title}}]({{@root.link.to .}}) - {{summary}}
+{{/if}}
+{{/ancestry.children}}
