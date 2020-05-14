@@ -9,7 +9,8 @@ const metadata = {
         title: "Scoutmaster Bucky",
         url: "https://scoutmasterbucky.com/",
         urlToRoot: "/"
-    }
+    },
+    supernovaAwards: require("./supernova-awards.json")
 };
 
 const meritBadgeMeta = {

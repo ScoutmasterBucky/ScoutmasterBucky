@@ -1,9 +1,9 @@
 ---
-title: Cub Scout Nova Awards
+title: Scouts BSA Nova Awards
 layout: nova
 ---
 
-These Nova awards are excellent ways to expand a Cub Scout's knowledge in several STEM-related fields.
+An interesting step up allows you to earn two levels of Supernova medals.
 
 ### Science
 
@@ -25,7 +25,7 @@ These Nova awards are excellent ways to expand a Cub Scout's knowledge in severa
 
 <div class="D(f) Jc(se) Fxd(c)--s">
 
-{{>supernova supernova="dr-luis-walter-alvarez"}}
-{{>supernova supernova="dr-charles-h-townes"}}
+{{>supernova supernova="dr-bernard-harris"}}
+{{>supernova supernova="thomas-alva-edison"}}
 
 </div>
