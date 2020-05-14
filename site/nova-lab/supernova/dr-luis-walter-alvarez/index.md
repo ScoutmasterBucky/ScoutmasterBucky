@@ -1,10 +1,10 @@
 ---
-title: Dr. Luis W. Alvarez Supernova Award
+title: Dr. Luis Walter Alvarez Supernova Award
 layout: nova-req
 ---
 
 <div class="D(f) Jc(sb) Fxd(rr) Fxd(c)--s">
-<div class="W(175px) W(100%)--s Ta(c) Fxs(0)"><img src="dr-luis-w-alvarez-supernova-award.png" class="W(100%) Maw(175px) Mx(a) H(a)"></div>
+<div class="W(175px) Ta(c) Fxs(0) Mx(a)--s"><img src="dr-luis-walter-alvarez-award.jpg" class="W(100%) Mx(a) H(a)"></div>
 <div>
 
 **Dr. Luis W. Alvarez Supernova Award**<br />*For Cub Scouts – Bear and Wolf*

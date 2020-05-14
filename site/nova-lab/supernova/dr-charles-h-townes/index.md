@@ -1,10 +1,10 @@
 ---
-title: Dr. Charles Townes Supernova Award
+title: Dr. Charles H. Townes Supernova Award
 layout: nova-req
 ---
 
 <div class="D(f) Jc(sb) Fxd(rr) Fxd(c)--s">
-<div class="W(175px) W(100%)--s Ta(c) Fxs(0)"><img src="dr-charles-townes-supernova-award.png" class="W(100%) Maw(175px) Mx(a) H(a)"></div>
+<div class="W(175px) Ta(c) Fxs(0) Mx(a)--s"><img src="dr-charles-h-townes-award.jpg" class="W(100%) Mx(a) H(a)"></div>
 <div>
 
 **Dr. Charles Townes Supernova Award**<br />*For Webelos and Arrow of Light Scouts*
