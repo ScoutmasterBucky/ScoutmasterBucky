@@ -57,7 +57,9 @@ The index page lists the events - they are slurped up into the index page. Also,
 
 * `{{>eventbrite}}` - Shows the Eventbrite iframe in a collapsible area.
 
-* `{{>safety-warning}}` - Standard disclaimer that Scouts not listening will be asked to leave. This is typically used in the merit badge requirements pages, but could be used anywhere.
+* `{{#safety-warning}}warning text goex here{{/safety-warning}}` - Standard disclaimer area, but lets you have custom text. Typically used in the merit badge requirements pages.
+
+* `{{>safety-warning-generic}}` - Standard disclaimer that Scouts not listening will be asked to leave. This is typically used in the merit badge requirements pages, but could be used anywhere.
 
 * `{{>toggle-start}}Clickable Header{{>toggle-middle}}Collapsed content{{>toggle-end}}` - Shows a collapsible area. The "Clickable Header", when clicked, will toggle open the collapsed content.
 
