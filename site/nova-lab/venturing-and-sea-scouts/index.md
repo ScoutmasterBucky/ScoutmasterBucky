@@ -3,6 +3,8 @@ title: Venturing and Sea Scouts Nova Awards
 layout: nova
 ---
 
+# Venturing and Sea Scouts Nova Awards
+
 This is the only program where the gold medal ([Dr. Albert Einstein Supernova Award](../dr-albert-einstein/)) can be earned.
 
 ### Science

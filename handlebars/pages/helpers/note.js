@@ -19,6 +19,11 @@ module.exports = function(obj) {
             .join(" ");
     }
 
+    let content = marked(obj.fn(this));
+
+    // Force content to be on one line so it can be used within requirements
+    content = content.replace(/\n/g, ' ');
+
     // One line so it can be used within requirements
-    return `<div class="C(red) Fw(b) Fs(i) Pb(smbReqP) ${notesToggles}">${marked(obj.fn(this))}</div>`;
+    return `<div class="C(red) Fw(b) Fs(i) Pb(smbReqP) ${notesToggles}">${content}</div>`;
 };

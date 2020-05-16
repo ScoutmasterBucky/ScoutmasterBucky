@@ -2,4 +2,4 @@
 layout: nova
 ---
 
-Nova, coming soon
+Welcome to Scoutmaster Bucky's Nova Lab!

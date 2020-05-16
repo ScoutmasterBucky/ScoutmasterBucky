@@ -3,6 +3,7 @@ title: Launch!
 summary: Explore how science affects your life each day.
 layout: nova-req
 category: science
+lastUpdate: 2018-11-28
 ---
 
 This module is designed to help you explore how science affects your life each day.

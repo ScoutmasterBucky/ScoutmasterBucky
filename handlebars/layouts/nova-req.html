@@ -1,14 +1,36 @@
 {{>layout-header}}
 
         <link rel="stylesheet" href="{{@root.rootPath}}nova-lab/css/site.css" />
+        <script src="{{@root.rootPath}}js/toggle-notes.js"></script>
         <title>{{title}}</title>
 
 {{>nova-layout-body}}
 
-            <div class="P(20px)">
+            <div class="notesToggles">
+{{#if hasNotes}}
+                <div class="D(f) Jc(se) Ai(st) D(n)--p">
+                    {{>top-down-tab short="Requirements" long="Requirements Only" type="none"}}
+                    {{>top-down-tab short="Counselor" long="Counselor Notes" type="counselor"}}
+                </div>
+{{/if}}
 
-{{#nova-transform-elements}}{{{contents}}}{{/nova-transform-elements}}
+                <div class="P(20px)">
 
+{{#nova-transform-elements}}
+
+<h1 id="title">{{title}}</h1>
+
+{{#if lastUpdate}}
+
+<p><em>Based off requirements from {{#requirements-date}}{{lastUpdate}}{{/requirements-date}}.</em></p>
+
+{{/if}}
+
+{{{contents}}}
+
+{{/nova-transform-elements}}
+
+                </div>
             </div>
 
 {{>nova-layout-footer}}

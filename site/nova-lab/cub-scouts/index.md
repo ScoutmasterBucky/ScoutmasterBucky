@@ -3,6 +3,8 @@ title: Cub Scout Nova Awards
 layout: nova
 ---
 
+# Cub Scout Nova Awards
+
 These Nova awards are excellent ways to expand a Cub Scout's knowledge in several STEM-related fields.
 
 ### Science
