@@ -3,6 +3,8 @@ title: Cub Scouts Can Code
 summary: Explore how people instruct computers and how they affect your everyday life.
 layout: nova-req
 category: technology
+lastUpdate: '2019-02-13'
+hasNotes: true
 ---
 
 Did you ever wonder how computers know what to do? This module is designed to help you explore how people instruct computers and how they affect your everyday life.
@@ -33,6 +35,10 @@ Did you ever wonder how computers know what to do? This module is designed to he
         (c) Create a set of binary cards. Take 5 notecards and write a zero on one side of each. Then on the other side write one of the following numbers along with dots of that number: 1, 2, 4, 8, 16.
         (d) Line the cards up in number order with 16 on the far left and 1 on the far right. Turn them over so that zeros are facing up. So 0 = 00000 in 5-bit binary.
         (e) Now show how to represent the numbers 1-31 by flipping the correct combination of cards that produce the correct number of dots. Convert each number into a 5-bit binary code by using a zero for each 0 card and a 1 for each dotted card in order. HINT: 20 = 10100
+        {{#note type="counselor"}}See the binary cards in action! https://classic.csunplugged.org/binary-numbers/{{/note}}
+        {{#note type="counselor"}}For advanced Scouts, you could include a discussion of Unicode.{{/note}}
+        {{#note type="counselor"}}For option B, an optional exercise could involve using Scouts instead of cards to build a "Cub Scout Computer". Place masking tape on the floor in a long line. Label one side of the line "O" (or "off" if you want to use a light switch metaphor) and the other side of the line "1" (or "on"). Line 5-10 Scouts up on the "0" side of the line. Then begin to count up (by decimal numbers) by having the Scouts move back and forth between “0” and “1” as needed.{{/note}}
+        {{#note type="counselor"}}A more complex version for Webelos or more advanced scouts would be to have three such lines on top of each other, and create a "Binary Scout Calculator" where the first two lines arrange themselves into certain numbers and the third group of Scouts has to perform proper addition or subtraction on the third line without looking at the decimal numbers.{{/note}}
 3. Computer Science Unplugged! Choose A or B and complete ALL the requirements:
     A. Follow the Algorithm
         1. With grid paper or a checkerboard, select one square as the start space and another to be the finish space. Use a coin or other small object as the token to move between these spaces.
@@ -50,17 +56,10 @@ Did you ever wonder how computers know what to do? This module is designed to he
 4. Be a programmer! With your parent’s permission and using proper internet safety, explore the world of coding using a tablet or computer. Make sure that your Cyber Chip is up to date.  Complete ALL the requirements.
     A. Spend at least one hour creating instructions for a computer to execute, then testing and debugging them. There are many free applications for computers, tablets, and smartphones.
     B. Discuss with your counselor what you were able to create. Explain what you liked best about it and what was difficult.
+    {{#note type="counselor"}}Some useful resources include:{{/note}}
+    {{#note type="counselor"}}Code.org has hundreds of tutorials about programming for all ages.{{/note}}
+    {{#note type="counselor"}}Hour of Code (https://hourofcode.com/us){{/note}}
+    {{#note type="counselor"}}Scratch Jr. is free app for tablets and phone.{{/note}}
+    {{#note type="counselor"}}Tynker.com has free hour of code activities to try.{{/note}}
 5. Discuss with your counselor what you have learned about how computers affect your everyday life, and how they work.
-Counselor Notes:
-    Requirement 2:
-        See the binary cards in action! https://classic.csunplugged.org/binary-numbers/
-        For advanced scouts, you could include a discussion of Unicode.
-        For option B, an optional exercise could involve using Scouts instead of cards to build a "Cub Scout Computer". Place masking tape on the floor in a long line. Label one side of the line "O" (or "off" if you want to use a light switch metaphor) and the other side of the line "1" (or "on"). Line 5-10 Scouts up on the "0" side of the line. Then begin to count up (by decimal numbers) by having the Scouts move back and forth between “0” and “1” as needed.
-        A more complex version for Webelos or more advanced scouts would be to have three such lines on top of each other, and create a "Binary Scout Calculator" where the first two lines arrange themselves into certain numbers and the third group of Scouts has to perform proper addition or subtraction on the third line without looking at the decimal numbers.
-    Requirement 4:
-        Some useful resources include:
-        [Code.org](https://www.code.org/) has hundreds of tutorials about programming for all ages.
-        [Hour of Code](https://hourofcode.com/us)
-        Scratch Jr. is free app for tablets and phone.
-        [Tynker.com](https://www.tynker.com/) has free hour of code activities to try.
 {{/requirements}}

@@ -3,6 +3,8 @@ title: Scouts BSA Nova Awards
 layout: nova
 ---
 
+# Scouts BSA Nova Awards
+
 An interesting step up allows you to earn two levels of Supernova medals.
 
 ### Science

@@ -3,6 +3,7 @@ title: Out of This World
 summary: Discover the wonders of space exploration.
 layout: nova-req
 category: science
+lastUpdate: '2018-05'
 ---
 
 This module is designed to help you discover the wonders of space exploration.
@@ -12,11 +13,11 @@ This module is designed to help you discover the wonders of space exploration.
     A. Watch an episode or episodes (about one hour total) of a show about the planets, space, space exploration, NASA, or astronomy. Then do the following:
         1. Make a list of at least two questions or ideas from what you watched.
         2. Discuss two of the questions or ideas with your counselor.
-        {{#nova-note}}Some examples include—but are not limited to—shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may, with your parent’s permission, visit a website for young scientists or astronomers and investigate the learning activities ([Young Astronomer](http://www.youngastronomer.org/), [Kids Astronomy](https://www.kidsastronomy.com/), [Young Stargazers](https://www.popastro.com/main_spa1/youngstargazers/), and [NASA StarChild](https://starchild.gsfc.nasa.gov/docs/StarChild/StarChild.html).){{/nova-note}}
+        {{#nova-note}}Some examples include — but are not limited to — shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may, with your parent’s permission, visit a website for young scientists or astronomers and investigate the learning activities ([Young Astronomer](http://www.youngastronomer.org/), [Kids Astronomy](https://www.kidsastronomy.com/), [Young Stargazers](https://www.popastro.com/main_spa1/youngstargazers/), and [NASA StarChild](https://starchild.gsfc.nasa.gov/docs/StarChild/StarChild.html).){{/nova-note}}
     B. Read (about one hour total) about the planets, space, space exploration, NASA, or astronomy. Then do the following:
         1. Make a list of at least two questions or ideas from what you read.
         2. Discuss two of the questions or ideas with your counselor.
-        {{#nova-note}}Books on many topics may be found at your local library. Examples of magazines include—but are not limited to—Odyssey, KIDS DISCOVER, National Geographic Kids, Highlights, and OWL or [Owlkids](https://www.owlkids.com).{{/nova-note}}
+        {{#nova-note}}Books on many topics may be found at your local library. Examples of magazines include—but are not limited to—Odyssey, KIDS DISCOVER, National Geographic Kids, Highlights, and OWL or Owlkids (https://www.owlkids.com).{{/nova-note}}
     C. Do a combination of reading and watching (about one hour total) about the planets, space, space exploration, NASA, or astronomy. Then do the following:
         1. Make a list of at least two questions or ideas from what you read and watched.
         2. Discuss two of the questions or ideas with your counselor.
@@ -47,7 +48,7 @@ This module is designed to help you discover the wonders of space exploration.
     D. Design on paper an inhabited base located on Mars or the moon. Consider the following: the energy source, how the base will be constructed, the life-support system, food, entertainment, the purpose and function, and other things you think would be important. Then do the following:
         1. Draw or build a model of your base using recycled materials.
         2. Discuss with your counselor what people would need to survive on Mars or the moon.
-    E. Become an asteroid mapper. Obtain your parent’s or guardian’s permission and map an asteroid as part of the Jet Propulsion Laboratory and the California Institute of Technology’s Dawn project: [http://dawn.jpl.nasa.gov/DawnCommunity/asteroid_mappers.asp](http://dawn.jpl.nasa.gov/DawnCommunity/asteroid_mappers.asp).
+    E. Become an asteroid mapper. Obtain your parent’s or guardian’s permission and map an asteroid as part of the Jet Propulsion Laboratory and the California Institute of Technology’s Dawn project: http://dawn.jpl.nasa.gov/DawnCommunity/asteroid_mappers.asp.
         Then discuss with your counselor your mapping activities, why mapping asteroids is important, and what you learned about space and asteroids.
     F. Eclipses
         1. Investigate and make models or diagrams of solar and lunar eclipses. (Example: You may wish to use balls of different sizes and a flashlight to represent the sun.)
