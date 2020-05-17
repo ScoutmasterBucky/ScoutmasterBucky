@@ -30,11 +30,11 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="0z2" requirement="Visit a radio or television station. Ask for a tour of the various departments, concentrating on those related to news broadcasts. During your tour, talk to the station manager or other station management executive about station operations, particularly how management and the news staff work together, and what makes a “good” station. If possible, go with a reporter to cover a news event."}}
+{{#wb-req item="0z2" requirement="Visit a radio or television station. Ask for a tour of the various departments, concentrating on those related to news broadcasts. During your tour, talk to the station manager or other station management executive about station operations, particularly how management and the news staff work together, and what makes a \"good\" station. If possible, go with a reporter to cover a news event."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3" requirement="Discuss the differences between a hard news story and a feature story. Explain what is the “five W’s and H.” Then do ONE of the following:"}}
+{{#wb-req item="3" requirement="Discuss the differences between a hard news story and a feature story. Explain what is the \"five W’s and H.\" Then do ONE of the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

@@ -1,9 +1,9 @@
 ---
-title: Out of This World
-summary: Discover the wonders of space exploration.
+nova: out-of-this-world
+program: cub-scouts
 layout: nova-req
-category: science
 lastUpdate: '2018-05'
+hasNotes: true
 ---
 
 This module is designed to help you discover the wonders of space exploration.
@@ -13,11 +13,11 @@ This module is designed to help you discover the wonders of space exploration.
     A. Watch an episode or episodes (about one hour total) of a show about the planets, space, space exploration, NASA, or astronomy. Then do the following:
         1. Make a list of at least two questions or ideas from what you watched.
         2. Discuss two of the questions or ideas with your counselor.
-        {{#nova-note}}Some examples include — but are not limited to — shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may, with your parent’s permission, visit a website for young scientists or astronomers and investigate the learning activities ([Young Astronomer](http://www.youngastronomer.org/), [Kids Astronomy](https://www.kidsastronomy.com/), [Young Stargazers](https://www.popastro.com/main_spa1/youngstargazers/), and [NASA StarChild](https://starchild.gsfc.nasa.gov/docs/StarChild/StarChild.html).){{/nova-note}}
+        {{#note type="counselor"}}Some examples include — but are not limited to — shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may, with your parent’s permission, visit a website for young scientists or astronomers and investigate the learning activities Young Astronomer (http://www.youngastronomer.org/), Kids Astronomy (https://www.kidsastronomy.com/), Young Stargazers (https://www.popastro.com/main_spa1/youngstargazers/), and NASA StarChild (https://starchild.gsfc.nasa.gov/docs/StarChild/StarChild.html).){{/note}}
     B. Read (about one hour total) about the planets, space, space exploration, NASA, or astronomy. Then do the following:
         1. Make a list of at least two questions or ideas from what you read.
         2. Discuss two of the questions or ideas with your counselor.
-        {{#nova-note}}Books on many topics may be found at your local library. Examples of magazines include—but are not limited to—Odyssey, KIDS DISCOVER, National Geographic Kids, Highlights, and OWL or Owlkids (https://www.owlkids.com).{{/nova-note}}
+        {{#note type="counselor"}}Books on many topics may be found at your local library. Examples of magazines include—but are not limited to—Odyssey, KIDS DISCOVER, National Geographic Kids, Highlights, and OWL or Owlkids (https://www.owlkids.com).{{/note}}
     C. Do a combination of reading and watching (about one hour total) about the planets, space, space exploration, NASA, or astronomy. Then do the following:
         1. Make a list of at least two questions or ideas from what you read and watched.
         2. Discuss two of the questions or ideas with your counselor.

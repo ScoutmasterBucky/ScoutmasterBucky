@@ -1,9 +1,9 @@
 ---
-title: Wade!
-summary: Explore how water affects your life every day.
+nova: wade
+program: venturing-and-sea-scouts
 layout: nova-req
-category: science
-lastUpdate: 2018-06
+lastUpdate: '2018-06'
+hasNotes: true
 ---
 
 This module is designed to help you explore how water affects your life every day. Wade is part of the Science category.
@@ -49,9 +49,10 @@ B. Surface water
 (2) Determine which river basin you live in and research (or estimate) its size.  Estimate the total volume of water that falls on this watershed every minute during a 1-inch per hour rainfall.
 (3) Construct a chart that shows the volume of water that runs into the river as a fraction of the total rain falling on the watershed (using composite runoff coefficients). Estimate the rate of runoff in cubic feet per minute for a 1- inch per hour rainfall from your home’s lot or a nearby property.
 (4) Discuss with your counselor the implications of these calculations as they relate to the effect of changes in land use on flooding, soil moisture, erosion, and point and non-point source pollution. What are the most common types of water pollution in your area, and how are these being impacted by land use? How might these be reduced?
-{{#nova-note}}**Helpful Resources:** The [USGS Water Science School](https://water.usgs.gov/edu/) may be helpful in researching these topics.{{/nova-note}}
+{{#note type="counselor"}}**Helpful Resources:** The [USGS Water Science School](https://water.usgs.gov/edu/) may be helpful in researching these topics.{{/note}}
 6. Choose ONE of the following options:
 A. Research a disaster involving water, such as the receding Sarichef Island in Alaska, the 2011 Tōhoku tsunami, a hurricane, coral reef bleaching, sea level rise, etc. Determine the causes of the event, the damage caused, and how the area has recovered. Find out about any remediation that has occurred to restore the area to its pre-disaster state or efforts to prevent future damage from similar events. Share the results of your research with your crew and with your counselor.
 B. Research the major functions of a sewage treatment plant. Describe to your counselor how it reduces the impact of sewage on aquatic life. List any pollutants that remain in the water after processing and their potential impact on aquatic life.
 C. Visit a place where water is being processed either by man or by nature (wastewater treatment plant, naturalist center, conservation department, etc.) and discuss the processing with a professional. Discuss with your counselor what you learned, including the aspect(s) of “STEM” that are being used.
 7. Discuss with your counselor what you have learned while working on this award, and how water and the science of water affect your everyday life.
+{{/requirements}}

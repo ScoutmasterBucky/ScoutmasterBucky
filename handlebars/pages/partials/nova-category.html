@@ -1,5 +1,5 @@
-{{#ancestry.children}}
+{{#each (lookup @root.novaAwards program)}}
 {{#if (equals category ../show)}}
-* [{{title}}]({{@root.link.to .}}) - {{summary}}
+* {{#trim}}{{>nova-link program=../program nova=@key}}{{/trim}} – {{summary}}
 {{/if}}
-{{/ancestry.children}}
+{{/each}}

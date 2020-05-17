@@ -2,7 +2,8 @@
 
         <link rel="stylesheet" href="{{@root.rootPath}}nova-lab/css/site.css" />
         <script src="{{@root.rootPath}}js/toggle-notes.js"></script>
-        <title>{{title}}</title>
+
+        <title>{{>nova-or-supernova-title}}</title>
 
 {{>nova-layout-body}}
 
@@ -18,7 +19,7 @@
 
 {{#nova-transform-elements}}
 
-<h1 id="title">{{title}}</h1>
+        <h1 id="title">{{>nova-or-supernova-title}}</h1>
 
 {{#if lastUpdate}}
 

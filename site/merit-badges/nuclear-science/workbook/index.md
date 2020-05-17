@@ -90,7 +90,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="6a" requirement="Make a drawing showing how nuclear fission happens, labeling all details. Draw another picture showing how a chain reaction could be started and how it could be stopped. Explain what is meant by a “critical mass.”"}}
+{{#wb-req item="6a" requirement="Make a drawing showing how nuclear fission happens, labeling all details. Draw another picture showing how a chain reaction could be started and how it could be stopped. Explain what is meant by a \"critical mass.\""}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
