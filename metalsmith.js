@@ -26,6 +26,10 @@ metalsmithSite.run({
             d();
         });
     },
+    buildBefore: (sugar) => {
+        // Translate Unicode
+        sugar.use(__dirname + '/plugins/translate-unicode');
+    },
     contentsAfter: (sugar) => {
         sugar.use(__dirname + '/plugins/workbook-header-footer');
     },

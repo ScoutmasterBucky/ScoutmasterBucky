@@ -1,9 +1,9 @@
 ---
-title: Up and Away
-summary: Explores the world of fluid dynamics, and how it affects your everyday life.
+nova: up-and-away
+program: cub-scouts
 layout: nova-req
-category: engineering
 lastUpdate: '2019-06-17'
+hasNotes: true
 ---
 
 This award explores the world of fluid dynamics, and how it affects your everyday life. Fluid dynamics is the study of how fluids (liquids, gases, and plasmas) behave and interact with other materials.
@@ -13,11 +13,11 @@ This award explores the world of fluid dynamics, and how it affects your everyda
     A. Watch not less than one hour total of shows or documentaries that discuss fluid dynamics or a show related to fluid dynamics. Then do the following:
         (1) Make a list of at least two questions or ideas from the show(s) you watched.
         (2) Discuss two of the questions with or ideas with your counselor.
-    {{#nova-note}}Some examples of shows to watch include — but are not limited to — "The STEM of Indoor Skydiving" (https://youtu.be/V5jJ5FaX1ZU); documentaries produced by PBS (such as “NOVA”), the Discovery Channel, Science Channel, National Geographic Channel, and the History Channel; or lectures or presentations focused on science, technology, engineering, or math (such as [TED Talks](https://www.ted.com/)) using some search terms you might think of using could include “fluid dynamics for kids” or “the science of skydiving for kids.” You may watch online productions with your counselor’s approval and under your parent’s supervision. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production.{{/nova-note}}
+        {{#note type="counselor"}}Some examples of shows to watch include — but are not limited to — "The STEM of Indoor Skydiving" (https://youtu.be/V5jJ5FaX1ZU); documentaries produced by PBS (such as “NOVA”), the Discovery Channel, Science Channel, National Geographic Channel, and the History Channel; or lectures or presentations focused on science, technology, engineering, or math (such as [TED Talks](https://www.ted.com/)) using some search terms you might think of using could include “fluid dynamics for kids” or “the science of skydiving for kids.” You may watch online productions with your counselor’s approval and under your parent’s supervision. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production.{{/note}}
     B. Read not less than one hour total about a topic related to fluid dynamics. Then do the following:
         (1) Make a list of at least two questions or ideas from the article(s) you read.
         (2) Discuss two of the questions with or ideas with your counselor.
-    {{#nova-note}}Examples of magazines include — but are not limited to — Odyssey, Popular Mechanics, Popular Science, Science Illustrated, Discover, Air & Space, Popular Astronomy, Astronomy, Science News, Sky & Telescope, Robot, Servo, Nuts and Volts, and Scientific American.{{/nova-note}}
+        {{#note type="counselor"}}Examples of magazines include — but are not limited to — Odyssey, Popular Mechanics, Popular Science, Science Illustrated, Discover, Air & Space, Popular Astronomy, Astronomy, Science News, Sky & Telescope, Robot, Servo, Nuts and Volts, and Scientific American.{{/note}}
     C. Do a combination of reading and watching (not less than one hour total). Then do the following:
         (1) Make a list of at least two questions or ideas from each article or show.
         (2) Discuss two of the questions with or ideas with your counselor.

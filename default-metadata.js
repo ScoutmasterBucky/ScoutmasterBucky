@@ -2,6 +2,7 @@ const metadata = {
     buildDate: new Date().toISOString(),
     liveReload: !!process.env.SERVE,
     meritBadges: require("./merit-badges.json"),
+    novaAwards: require("./nova-awards.json"),
     site: {
         buildDate: "replaced by metalsmith.js",
         owner: "Scoutmaster Bucky",

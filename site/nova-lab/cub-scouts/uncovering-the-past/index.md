@@ -1,8 +1,7 @@
 ---
-title: Uncovering the Past
-summary: Explore the wonders of archaeology.
+nova: uncovering-the-past
+program: cub-scouts
 layout: nova-req
-category: science
 lastUpdate: '2018-04'
 hasNotes: true
 ---
@@ -14,11 +13,11 @@ This module is designed to help you explore the wonders of archaeology.
     A. Watch an episode or episodes (about one hour total) of a show about anything related to archaeology. Then do the following:
         (1) Make a list of at least two questions or ideas from what you watched.
         (2) Discuss two of the questions or ideas with your counselor.
-        {{#nova-note}}Some examples include - but are not limited to - shows found on PBS (such as NOVA), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s supervision.{{/nova-note}}
+        {{#note type="counselor"}}Some examples include - but are not limited to - shows found on PBS (such as NOVA), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s supervision.{{/note}}
     B. Read (about one hour total) about anything related to archaeology. Then do the following:
         (1) Make a list of at least two questions or ideas from what you read.
         (2) Discuss two of the questions or ideas with your counselor.
-        {{#nova-note}}Books on many topics may be found at your locallibrary. Examples of magazines include but are not limited to Odyssey, Kids Discover, National Geographic Kids, Highlights, and OWL or Owlkids (https://www.owlkids.com/).{{/nova-note}}
+        {{#note type="counselor"}}Books on many topics may be found at your locallibrary. Examples of magazines include but are not limited to Odyssey, Kids Discover, National Geographic Kids, Highlights, and OWL or Owlkids (https://www.owlkids.com/).{{/note}}
     C. Do a combination of reading and watching (about ONE hour total) about anything related to archaeology. Then do the following:
         (1) Make a list of at least two questions or ideas from what you have read and watched.
         (2) Discuss two of the questions or ideas with your counselor.

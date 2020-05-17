@@ -42,7 +42,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4" requirement="Discuss with your counselor the dangers someone might encounter at an abandoned mine. Include information about the “Stay Out—Stay Alive” program."}}
+{{#wb-req item="4" requirement="Discuss with your counselor the dangers someone might encounter at an abandoned mine. Include information about the \"Stay Out — Stay Alive\" program."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

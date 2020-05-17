@@ -1,13 +1,13 @@
 ---
-title: Dr. Charles H. Townes Supernova Award
+supernova: dr-charles-h-townes
 layout: nova-req
 ---
 
 <div class="D(f) Jc(sb) Fxd(rr) Fxd(c)--s">
-<div class="W(175px) Ta(c) Fxs(0) Mx(a)--s"><img src="dr-charles-h-townes-award.jpg" class="W(100%) Mx(a) H(a)"></div>
+<div class="W(175px) Ta(c) Fxs(0) Mx(a)--s"><img src="{{supernova}}-award.jpg" class="W(100%) Mx(a) H(a)"></div>
 <div>
 
-**Dr. Charles Townes Supernova Award**<br />*For Webelos and Arrow of Light Scouts*
+**{{>supernova-name}} Supernova Award**<br />*For Webelos and Arrow of Light Scouts*
 
 To earn the Dr. Charles Townes Supernova award, you must be a Webelos or Arrow of Light Scout who is active with a den. With your parent’s and unit leader’s help, you must select a council-approved mentor who is a registered Scouter. You may NOT choose your parent or your unit leader (unless the mentor is working with more than one youth).  Webelos Scouts and Arrow of Light Scouts can earn the same Nova Awards as Cub Scouts.
 

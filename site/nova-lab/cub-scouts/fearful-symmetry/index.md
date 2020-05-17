@@ -1,8 +1,7 @@
 ---
-title: Fearful Symmetry
-summary: Explore how symmetry affects your life every day.
+nova: fearful-symmetry
+program: cub-scouts
 layout: nova-req
-category: math
 lastUpdate: '2018-04'
 hasNotes: true
 ---

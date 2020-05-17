@@ -30,7 +30,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2c" requirement="Explain how the Ten Essentials are similar to a “ready pack.”"}}
+{{#wb-req item="2c" requirement="Explain how the Ten Essentials are similar to a \"ready pack.\""}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

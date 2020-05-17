@@ -1,8 +1,7 @@
 ---
-title: Cub Scouts Can Code
-summary: Explore how people instruct computers and how they affect your everyday life.
+nova: cub-scouts-can-code
+program: cub-scouts
 layout: nova-req
-category: technology
 lastUpdate: '2019-02-13'
 hasNotes: true
 ---

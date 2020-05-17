@@ -72,15 +72,15 @@ year: 2020
 
 **Stuff.** Do A AND either B OR C.
 
-{{#wb-req item="2a" requirement="Keep a log of the “stuff” your family purchases (excluding food items) for two weeks. In your log, categorize each purchase as an essential need (such as soap) or a desirable want (such as a DVD). Share what you learn with your counselor."}}
+{{#wb-req item="2a" requirement="Keep a log of the \"stuff\" your family purchases (excluding food items) for two weeks. In your log, categorize each purchase as an essential need (such as soap) or a desirable want (such as a DVD). Share what you learn with your counselor."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2b" requirement="Plan a project that involves the participation of your family to identify the “stuff” your family no longer needs. Complete your project by donating, repurposing, or recycling these items."}}
+{{#wb-req item="2b" requirement="Plan a project that involves the participation of your family to identify the \"stuff\" your family no longer needs. Complete your project by donating, repurposing, or recycling these items."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2c" requirement="Discuss with your counselor how having too much “stuff” affects you, your family, and your community. Include the following: the financial impact, time spent, maintenance, health, storage, and waste. Include in your discussion the practices that can be used to avoid accumulating too much \"stuff.\""}}
+{{#wb-req item="2c" requirement="Discuss with your counselor how having too much \"stuff\" affects you, your family, and your community. Include the following: the financial impact, time spent, maintenance, health, storage, and waste. Include in your discussion the practices that can be used to avoid accumulating too much \"stuff.\""}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

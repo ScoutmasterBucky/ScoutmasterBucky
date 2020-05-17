@@ -59,5 +59,5 @@ ${content}
 `;
     });
 
-    return '<div class="My(1em)">' + lines.join('\n') + '</div>';
+    return '<div class="My(1em)">' + lines.join('\n') + '</div>\n';
 };
