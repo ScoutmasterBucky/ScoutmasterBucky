@@ -1,16 +1,15 @@
 ---
-title: Venturing and Sea Scouts Activity Topics
+title: Scouts BSA Activity Topics
 layout: nova
 ---
 
-
-Each STEM field — science, technology, engineering, mathematics — offers a choice of three Supernova activity topics. These are two-part, hands-on, high-level activities created to challenge you and help you continue along your STEM journey to excellence. Part 1 involves research, preparation, set up, coordination, and/or organization. Part 2 includes elements such as analysis, reflection, experimentation, design, or invention, and culminates in a report created by you.
+Each STEM field—science, technology, engineering, mathematics—offers a choice of three Supernova activity topics. These are two-part, hands-on, high-level activities created to challenge you and help you continue along your STEM journey to excellence. Part 1 involves research, preparation, set up, coordination, and/or organization. Part 2 includes elements such as analysis, reflection, experimentation, design, or invention, and culminates in a report created by you.
 
 ### Report Format Options
 
-No matter what STEM activity you choose, you will need to create a report. Reports are a regular part of the work of professionals in STEM fields, so this will be good preparation for future career demands. Notice it doesn’t say write a report. You are not restricted to just writing a report, although you may choose to do so if you like. Any report will probably involve some writing, but the report itself may be created and presented in any number of ways. Use your imagination!
+No matter what STEM activity you choose, you will need to create a report. Reports are a regular part of the work of professionals in various STEM fields, so these tasks will be good preparation for future career demands. Notice that it doesn’t say write a report. You are not restricted to just writing a report, although you may choose to do so if you like. Any report will probably involve some writing on your part, but the report itself may be created and presented in any number of ways. Use your imagination!
 
-You may choose from any format below for your report, or you may create a combination of formats. You may create something entirely new as long as your Supernova mentor approves. The objective is for you to communicate to others in a way that helps them understand what you have learned and how you learned it.
+You may choose from any of the formats below for your report, or you may create a combination of these formats. You may create something entirely new as long as your Supernova mentor approves. The objective is for you to communicate what you have learned to others in a way that helps them understand what you learned and how you learned it.
 
 * Oral report
 * Written report
@@ -20,7 +19,7 @@ You may choose from any format below for your report, or you may create a combin
 * Multifaceted format
 * Any format of your own design, with your mentor’s advance approval
 
-The report must provide sufficient detail so that someone unfamiliar with the topic can understand the content. For each format, you can incorporate a variety of ways to present your information and to use technology to create a polished presentation. For example, an oral report might include a PowerPoint presentation, or a poster presentation might include a slide show. Be creative.
+The report must provide sufficient detail so that someone unfamiliar with the topic can understand the content. For each format, you are encouraged to incorporate a variety of ways to present your information and to use technology to create a polished presentation. For example, an oral report might include a PowerPoint presentation as a visual aid, or a poster presentation might include a slide show of your activity. Be creative.
 
 ### A Note About Resources
 
@@ -76,7 +75,7 @@ This activity can be done individually or in a group. There are many popular mov
 **Part 1: Research**
 
 {{#requirements}}
-1. View a movie or television show involving space, space travel, or life in space. In the movie or show, identify two instances of scientific “principles” or technological”advances” that violate currently accepted scientific principles or misrepresent currently available technology. Discuss the following with your mentor:
+1. View a movie or television show involving space, space travel, or life in space. In the movie or show, identify two instances of scientific “principles” or technological “advances” that violate currently accepted scientific principles or misrepresent currently available technology. Discuss the following with your mentor:
     A. The scientific principle that is violated and how. Describe the technology that is misrepresented and how.
     B. Two potentially plausible technological or scientific advances in your chosen movie—show and explain how these could potentially come to be in the future. Discuss the hurdles that would have to be overcome in order to develop those advances.
     C. The scientifically based reasoning that leads you to believe scientists, engineers, mathematicians, and technology specialists can overcome these hurdles.
@@ -96,7 +95,8 @@ Lawrence M. Krauss. The Physics of Star Trek. Basic Books, 2007.
 
 Tom Rogers. Insultingly Stupid Movie Physics: Hollywood’s Best Mistakes, Goofs and Flat-Out Destructions of the Basic Laws of the Universe. Sourcebooks Hysteria, 2007.
 
-Household Chemistry: Diet Coke and Mentos Explosions
+###Household Chemistry: Diet Coke and Mentos Explosions
+
 This activity can be done individually or in a group, but it is much more fun as a group. For this experiment, you will investigate how and why dropping a Mentos candy into a two-liter bottle of Diet Coke creates a massive explosion.
 
 **Part 1: Research and Experiment Design**
@@ -106,7 +106,7 @@ Research this Diet Coke and Mentos phenomenon by doing the following:
 {{#requirements}}
 1. Find out what others have discovered about how and why this experiment works. Note who discovered what about the experiment. Keep track of your references and resources.
 2. Formulate a hypothesis that you would like to test.
-3. Design an experiment to test your hypothesis. Be sure to get approval from your mentor prior to conducting your experiment. Make sure your plans for the experiment include an outside location, a list of supplies needed (which should be inexpensive, readily available, and safe), adequate safety protocols and equipment (safety goggles, etc.), plans for accurate and precise measurements, a list of step by-step procedures, number of trials, and plans for recording and analysis of data.
+3. Design an experiment to test your hypothesis. Be sure to get approval from your mentor prior to conducting your experiment. Make sure your plans for the experiment include an outside location, a list of supplies needed (which should be inexpensive, readily available, and safe), adequate safety protocols and equipment (safety goggles, etc.), plans for accurate and precise measurements, a list of stepby- step procedures, number of trials, and plans for recording and analysis of data.
 {{/requirements}}
 
 **Part 2: Experiment and Report**
@@ -118,18 +118,17 @@ Conduct your experiment. You might want to videotape your experimental trials an
     A. What happened during the experiment.
     B. How the evidence supported or contradicted your hypothesis.
     C. Whether the experiment raised any new questions for you.
-    E. Whether something unexpected happened during the experiment. Tell how what happened might suggest about a future experiment on this same phenomenon.
+    D. Whether something unexpected happened during the experiment. Tell how what happened might suggest about a future experiment on this same phenomenon.
 2. Create a report that describes your hypothesis, experiment, and conclusions. (For guidance, see “Report Format Options” earlier in this section.)
 {{/requirements}}
 
 **Resources**
 
-Theodore Gray. Theo Gray’s Mad Science: Experiments You Can Do at Home—But Probably Shouldn’t. Black Dog & Leventhal Publishers, 2011.
+Theodore Gray. Theo Gray’s Mad Science: Experiments You Can Do at Home- But Probably Shouldn’t. Black Dog & Leventhal Publishers, 2011.
 
 Robert Bruce Thompson. Illustrated Guide to Home Chemistry Experiments: All Lab, No Lecture. O’Reilly Media, 2008.
 
 Using your favorite search engine online (with your parent’s or guardian’s permission), enter search terms EepyBird, Mythbusters, and “Diet Coke and Mentos.”
-
 
 # Supernova Activity Topic: Technology
 
@@ -141,7 +140,7 @@ This activity can be done individually or in a group. The technology to harness 
 
 **Part 1: Field Trip**
 
-Arrange and go on a field trip to a site where you can learn about innovative and/or historical examples of energy production, storage, and use and the ways people are making such processes sustainable. Possible sites include power plants, fuel manufacturers or refineries, power generation sites, energy- or resource-efficient buildings, historical sites of energy use or production, educational centers, museums, and so on.
+Arrange and go on a field trip to a site where you can learn about innovative and/ or historical examples of energy production, storage, and use and the ways people are making such processes sustainable. Possible sites include power plants, fuel manufacturers or refineries, power generation sites, energy- or resource-efficient buildings, historical sites of energy use or production, educational centers, museums, and so on.
 
 **Part 2: Analysis and Report**
 
@@ -177,9 +176,8 @@ Before you get started, share your plan with your mentor. Then do the following:
     Think about the kinds of information you will need to communicate. This sometimes influences the mode of communication and should also be a part of your communication plans.
 4. Test your plan by playing a few Mad Libs via your communication plan. To test your communication plan, choose a particular Mad Lib and send out requests for various types of words (verbs, adjectives, nouns, and so on) to a group of individuals and subgroups. Make sure you cover your entire set of recipients or recipient groups, and be sure to give everyone a deadline for a response.
     If you don’t get responses, follow up with additional messages, perhaps via different communication modes. When you have what you need, make sure you communicate the finished Mad Lib back to the relevant individuals.
+    A Mad Lib is an unfinished story that is complete except for missing words, indicated by blanks. The words for each blank are in categories such as verbs, nouns, and adjectives. Missing words are supplied by folks who don’t know the story, thus creating a funny, crazy, mad story.
 {{/requirements}}
-
-A Mad Lib is an unfinished story that is complete except for missing words, indicated by blanks. The words for each blank are in categories such as verbs, nouns, and adjectives. Missing words are supplied by folks who don’t know the story, thus creating a funny, crazy, mad story.
 
 **Part 2: Analysis and Report**
 
@@ -239,7 +237,6 @@ Richard Rickett. Special Effects: The History and Technique. Billboard Books, 20
 
 Steve Wolf. The Secret Science Behind Movie Stunts & Special Effects. Skyhorse Publishing, 2007.
 
-
 # Supernova Activity Topic: Engineering
 
 Have you ever studied how your bicycle works? To learn how a bicycle is put together (or engineered), here is a project for disassembling one. Or what about making a high-performance paper glider? Or having a contest to see who can drop a raw egg without breaking it? Choose any one of these activities to learn more about engineering.
@@ -296,7 +293,7 @@ Naval Education and Training Program. Basic Machines and How They Work. Dover Pu
 
 This activity can be done individually, but works much better with at least two people. Your task is to measure how differences in design affect the flight characteristics of a glider. You will accomplish this by building and testing some high-performance paper gliders. These gliders use a laminated construction method that helps simulate a real glider much more closely than a simple folded piece of paper.
 
-Part 1: Background Research, Baseline Design Selection, and Test
+**Part 1: Background Research, Baseline Design Selection, and Test**
 
 {{#requirements}}
 1. Research and discuss the following with your mentor:
@@ -306,7 +303,7 @@ Part 1: Background Research, Baseline Design Selection, and Test
     A. Identify one quantitative characteristic to test, such as flight distance, flight time, average flight speed, and so on. Then identify one qualitative characteristic to test, such as presence of a stall, dive, flip, left turn, right turn, and so on.
     B. Hypothesize how variations in one part of the glider, such as wing size, fuselage length, center of gravity, flap size, and so on, might influence these characteristics of the glider’s performance.
     C. Build four high-performance gliders, identical except for variations in the relevant glider part.
-    E. Establish a consistent method to measure each characteristic during a test flight. Then find a way to launch the gliders in a consistent manner so that they are launched at the same speed every time. You should perform test flights with each model five to six times to account for variations in flight performance. Try to keep the conditions of each test flight the same as for all the other test flights. Keep records of the results for each test flight.
+    D. Establish a consistent method to measure each characteristic during a test flight. Then find a way to launch the gliders in a consistent manner so that they are launched at the same speed every time. You should perform test flights with each model five to six times to account for variations in flight performance. Try to keep the conditions of each test flight the same as for all the other test flights. Keep records of the results for each test flight.
 {{/requirements}}
 
 **Part 2: Analyze and Report**
@@ -317,7 +314,7 @@ Present to your mentor your recorded data in a tabular format as well as a graph
 1. Evaluate the data and determine how the variations in the tested glider part influenced the flight characteristics you observed. Based on the data you gathered, predict how the glider would perform relative to the flight characteristics you observed if you were to build a glider with another variation in the same glider part.
 2. Suggest an ideal design of your tested glider part that would maximize the glider’s performance relative to the flight characteristics you observed and explain your reasoning for this design.
 3. Create a report that describes your glider, the flight tests, the flight data, and your conclusions. Include the procedures you followed to ensure consistent test conditions.
-4. Share the flight records and data you have gathered with your mentor. Discuss what you have learned.
+4.Share the flight records and data you have gathered with your mentor. Discuss what you have learned.
 {{/requirements}}
 
 Source: The idea for this activity is based on the work of Andrew Olson, Ph.D., Science Buddies, What Makes a Good Aerodynamic Design? Test Your Ideas with High-Performance Paper Gliders. Visit https://www.sciencebuddies.org/science-fair-projects/project-ideas/Aero_p009/aerodynamics-hydrodynamics/what-makes-a-good-aerodynamic-design-paper-gliders.
@@ -369,7 +366,6 @@ Analyze how your container performed, and discuss with your mentor your design s
 
 3-Egg Drop Challenge, http://teachertech.rice.edu/Participants/pschweig/eggdrop.html (Look here for rules that offer a more challenging contest.)
 
-
 # Supernova Activity Topic: Mathematics
 
 Have you ever watched bungee jumpers and wondered why they don’t hit the ground? You can make a model of your own and figure it out. Or, what about the Yellowstone geyser Old Faithful—how can you tell when it will erupt? What about voting—can you imagine how so many people in so many states can go in, cast a vote, and come out with a fair result? Mathematics is the key. Choose any one of these projects to learn how it’s done.
@@ -384,17 +380,19 @@ The company has several sites planned for bungee jumping, and each site has a di
 
 **Part 1: Set-Up and Simulation**
 
-Tape a weight(s) to the doll’s back so that it is heavy enough to stretch the rubber band “bungee cord.” Tie one or two rubber bands (the unstretched size should be about 4 inches) to the doll’s feet and drop it, headfirst, from various heights. Keep raising the jump height until the head no longer hits the floor. Once you reach this height, perform three trials, measure the height of the drop each time, calculate the average, and calculate the maximum error between the average and the drop heights used to find that average. (Conduct a test drop several times to practice taking readings.)
+Tape a weight(s) to the doll’s back so that it is heavy enough to stretch the rubber band “bungee cord.” Tie one or two rubber bands (the unstretched size should be about 4 inches) to the doll’s feet and drop it, headfirst, from various heights. Keep raising the jump height until the head no longer hits the floor.
+
+Once you reach this height, perform three trials, measure the height of the drop each time, calculate the average, and calculate the maximum error between the average and the drop heights used to find that average. (Conduct a test drop several times to practice taking readings.)
 
 Continue adding rubber bands to see what the average drop height will be for different numbers of rubber bands. Do the experiment with at least six different numbers of rubber bands. Use a tabular chart to help you organize and record your data. (You may use Excel or create your own tables.)
 
-Scatter plots use horizontal and vertical axes on a graph to plot data points and show how much one variable (or measurable “value”) is affected by another. Each variable can be represented on the scatter plot with a dot. Once the scatter plot has been filled in with a number of dots, you should be able to see how the variables are “scattered” to show a trend. To learn more about scatter plots, use your favorite search engine on the Internet (with your parent’s or guardian’s permission), or ask your mentor.
+What Is a Scatter Plot? Scatter plots use horizontal and vertical axes on a graph to plot data points and show how much one variable (or measurable “value”) is affected by another. Each variable can be represented on the scatter plot with a dot. Once the scatter plot has been filled in with a number of dots, you should be able to see how the variables are “scattered” to show a trend. For more information about scatter plots, use your favorite search engine on the Internet (with your parent’s or guardian’s permission), or ask your mentor.
 
 **Part 2: Analysis and Report**
 
 {{#requirements}}
 1. Create a scatter plot of ordered pairs of the type (number of rubber bands, average drop height). You may do this by hand or using data analysis software, such as Excel.
-2. Using the scatter plot you have created, determine whether the points appear to lie on or near a line. Find such a line. If your mathematics background is not yet extensive, then find such a line by “eyeballing it” and drawing it onto the scatter plot with a ruler. Otherwise use a graphing calculator or data analysis software of your choice to find the line of best fit for your data.
+2. Using the scatter plot you have created, determine whether the points appear to lie on or near a line. Find such a line. If your mathematics background is not yet extensive, then find such a line by “eyeballing it” and drawing it onto the scatter plot with a ruler. If your mathematics background is extensive, then use a graphing calculator or data analysis software of your choice to find the line of best fit for your data.
 3. Describe to your mentor how to use the line (graphical form or symbolic form) to make predictions. Then complete the following sentence (hypothesis): “If the height of the drop is `_________________`, then I predict that the number of rubber bands needed is `_________________`.”
 4. Test your prediction and analyze the outcome. Determine whether the prediction matched reality, how far off the prediction was, and what errors or issues arose that may have thrown off the results of your simulation. Test and analyze three more predictions.
 5. Analyze the maximum errors found in your tests. Then find out the height of your favorite location (such as the Statue of Liberty, Eiffel Tower, or Golden Gate Bridge). If you drop your action figure from the top of that location, how many rubber bands would you need for a safe drop from that height? What would you expect to be the maximum error in your prediction?
@@ -406,10 +404,8 @@ Scatter plots use horizontal and vertical axes on a graph to plot data points an
     A. A description of your simulation
     B. Your simulation data displayed in a chart and graph
     C. How your data led to your ability to make predictions about safe bungee jumping heights
-    D. The variables that might have affected your predictions
+    D. The variables that might have affected your predictions Share your report with your mentor.
 {{/requirements}}
-
-Share your report with your mentor.
 
 Source: The ideas for this activity are based on multiple versions of an activity available online titled Bungee Barbie and Kamikaze Ken. The originator of idea for this activity is unknown.
 
@@ -461,10 +457,10 @@ This is not a binding decision on your unit! This is an exercise, but one that w
     A. Create ballots on which each voter can list his/her first, second, third, and fourth choices from among the four prospective superactivities.
     B. Find 20 to 30 unit members, prospective guests for the superactivity, unit leaders, parents, and so on, to complete one ballot each. Each voter should vote sincerely, without trying to strategize.
     C. Do some research and learn how to tabulate winners using each of the following four voting methods:
-        i. Plurality method
-        ii. Borda count method
-        iii. Plurality-with-elimination method (sometimes called the instant runoff method)
-        iv. Pair-wise comparison method (sometimes called Copeland’s method)
+        1. Plurality method
+        2. Borda count method
+        3. Plurality-with-elimination method (sometimes called the instant runoff method)
+        4. Pair-wise comparison method (sometimes called Copeland’s method)
 {{/requirements}}
 
 **Part 2: Analysis and Report**
@@ -475,10 +471,10 @@ This is not a binding decision on your unit! This is an exercise, but one that w
     B. How would the results be affected if two or three voters had cast strategic ballots (instead of sincere ballots), in an effort to “not waste their votes”?
     C. Which of the four voting methods do you believe is the right voting method for this decision in your unit? Why?
     D. Consider how we elect the president of the United States of America.
-        i. What voting method do we use?
-        ii. What are its advantages and disadvantages?
-        iii. Do you believe each voting citizen in the United States has an equal say in the vote tabulation?
-        iv. Is it possible for citizens to cast strategic votes and influence the outcome of a presidential election?
+        1. What voting method do we use?
+        2. What are its advantages and disadvantages?
+        3. Do you believe each voting citizen in the United States has an equal say in the vote tabulation?
+        4. Is it possible for citizens to cast strategic votes and influence the outcome of a presidential election?
 2. Create a report that summarizes the results from the various voting methods, outlines your analysis, and comments on voting methods for the U.S. presidency. Share your report with your mentor.
 {{/requirements}}
 
@@ -487,4 +483,3 @@ This is not a binding decision on your unit! This is an exercise, but one that w
 Donald G. Saari. Chaotic Elections! A Mathematician Looks at Voting (for youth with stronger mathematics backgrounds). American Mathematical Society, 2001.
 
 William Poundstone. Gaming the Vote: Why Elections Aren’t Fair (and What We Can Do About It). Hill and Wang, 2008.
-

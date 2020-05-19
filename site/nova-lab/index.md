@@ -1,4 +1,5 @@
 ---
+title: Scoutmaster Bucky's Nova Lab
 layout: nova
 ---
 

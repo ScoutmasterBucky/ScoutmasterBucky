@@ -39,22 +39,22 @@ This module is designed to help Venturers or Sea Scouts explore how technology a
 3. Do ALL of the following.
     A. Using the requirements from the above list of STEM explorations:
         (1) Tell your counselor the energy source(s) used in these STEM explorations.
-            {{#note type="counselor"}}* Automotive Maintenance—Gasoline, diesel fuel, electric, blended gasoline, biodiesel, hybrid{{/note}}
-            {{#note type="counselor"}}* Aviation—Aviation fuel and kerosene{{/note}}
-            {{#note type="counselor"}}* Canoeing—Human power{{/note}}
-            {{#note type="counselor"}}* Cycling—Human power{{/note}}
-            {{#note type="counselor"}}* Drafting—Human power, electricity{{/note}}
-            {{#note type="counselor"}}* Electricity—Electromagnetism, chemical{{/note}}
-            {{#note type="counselor"}}* Energy—Biomass digesters, cogeneration, fossil fuel power, fuel cells, geothermal power, nuclear power, solar power, tidal energy, wave energy, ocean thermal energy, wind{{/note}}
-            {{#note type="counselor"}}* Farm Mechanics—Diesel fuel{{/note}}
-            {{#note type="counselor"}}* Motorboating—Gasoline, diesel fuel, blended gasoline, biodiesel{{/note}}
-            {{#note type="counselor"}}* Nuclear Science—Nuclear energy{{/note}}
-            {{#note type="counselor"}}* Railroading—Diesel fuel{{/note}}
-            {{#note type="counselor"}}* Small-Boat Sailing—Wind{{/note}}
-            {{#note type="counselor"}}* Space Exploration—Most common solid: ammonium perchlorate mixed with powdered aluminum{{/note}}
-                {{#note type="counselor"}}o Liquids for first-stage rockets—RP-1{{/note}}
-                {{#note type="counselor"}}o Liquids for second-stage rockets—Liquid hydrogen, liquid oxygen{{/note}}
-            {{#note type="counselor"}}* Truck Transportation—Diesel fuel{{/note}}
+            {{#note type="counselor"}}Automotive Maintenance—Gasoline, diesel fuel, electric, blended gasoline, biodiesel, hybrid{{/note}}
+            {{#note type="counselor"}}Aviation—Aviation fuel and kerosene{{/note}}
+            {{#note type="counselor"}}Canoeing—Human power{{/note}}
+            {{#note type="counselor"}}Cycling—Human power{{/note}}
+            {{#note type="counselor"}}Drafting—Human power, electricity{{/note}}
+            {{#note type="counselor"}}Electricity—Electromagnetism, chemical{{/note}}
+            {{#note type="counselor"}}Energy—Biomass digesters, cogeneration, fossil fuel power, fuel cells, geothermal power, nuclear power, solar power, tidal energy, wave energy, ocean thermal energy, wind{{/note}}
+            {{#note type="counselor"}}Farm Mechanics—Diesel fuel{{/note}}
+            {{#note type="counselor"}}Motorboating—Gasoline, diesel fuel, blended gasoline, biodiesel{{/note}}
+            {{#note type="counselor"}}Nuclear Science—Nuclear energy{{/note}}
+            {{#note type="counselor"}}Railroading—Diesel fuel{{/note}}
+            {{#note type="counselor"}}Small-Boat Sailing—Wind{{/note}}
+            {{#note type="counselor"}}Space Exploration—Most common solid: ammonium perchlorate mixed with powdered aluminum{{/note}}
+                {{#note type="counselor"}}Liquids for first-stage rockets—RP-1{{/note}}
+                {{#note type="counselor"}}Liquids for second-stage rockets—Liquid hydrogen, liquid oxygen{{/note}}
+            {{#note type="counselor"}}Truck Transportation—Diesel fuel{{/note}}
         (2) Discuss the pros and cons of each energy source with your counselor.
             {{#note type="counselor"}}**Helpful Links:**{{/note}}
             {{#note type="counselor"}}The following links are places to start when researching the pros and cons of fuel types. It is not an exhaustive list.{{/note}}
