@@ -44,9 +44,9 @@ This module is designed to help the Venturer explore how math affects his or her
         {{#note type="counselor"}}3. Measure the height (not the length) of the stairs (or whatever you use) from the bottom to the ending point at the top and write it down. This can be done by multiplying the height of one stair by the number of stairs (it doesn’t matter how long the stairs are.){{/note}}
         {{#note type="counselor"}}4. Take a running start toward the stairs. When you step on the first step, start the timer; when both feet are on the top step, stop the timer. (You may skip stairs.) Now you have all the numbers needed.{{/note}}
         {{#note type="counselor"}}5. Calculate the Power (P) with this formula: `mah/t (m x 9.80 x h)/t`, where m = mass (your weight) in kilograms, a = acceleration (9.80 m/sec² is the acceleration caused by Earth’s gravity), h = height of staircase in meters, and t = time in seconds.{{/note}}
-        {{#note type="counselor"}}6. The number you get is in watts, which is equal to joules per second (J/s) and newton meters per second (Nm/s). If you don’t divide by time, you will calculate the energy needed to climb the stairs.{{/note}}
+            {{#note type="counselor"}}The number you get is in watts, which is equal to joules per second (J/s) and newton meters per second (Nm/s). If you don’t divide by time, you will calculate the energy needed to climb the stairs.{{/note}}
             {{#note type="counselor"}}Work = mah, Power = mah/t: Work (or energy) is measured in newton meters or joules; power is measured in joules/second or watts.{{/note}}
-        {{#note type="counselor"}}7. Divide the number of watts by 745.6 w/hp to get the number in horsepower.{{/note}}
+        {{#note type="counselor"}}6. Divide the number of watts by 745.6 w/hp to get the number in horsepower.{{/note}}
         (1) How does your horsepower compare to the power of a horse?
             {{#note type="counselor"}}Horsepower is a unit of power. One horsepower equals 33,000 foot-pounds of work per minute, or 745.6 watts. James Watt, who invented steam engines, based his unit of power on how much weight a real horse could pull from a coal mine in one minute. (See “What Is Horsepower” at https://www.web-cars.com/math/horsepower.html.){{/note}}
         (2) How does your horsepower compare to the horsepower of your favorite car?

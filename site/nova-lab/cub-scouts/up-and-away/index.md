@@ -32,7 +32,7 @@ This award explores the world of fluid dynamics, and how it affects your everyda
         3. Note when the two balls reach terminal velocity (it should happen quickly). Did both objects have the same terminal velocity? Try the experiment again to see if it’s repeatable.
         4. Discuss your investigation and findings with your counselor.
     B. Calculate your terminal velocity on different planets.
-        1. Download the worksheet at https://www.iflyworld.com/plan-an-event/education/highschool/ or use a similar worksheet such as the "Student Terminal Velocity Worksheet" at https://www.grc.nasa.gov/www/k-12/airplane/termv.html. Calculate the terminal velocity of a 100-pound backpack on the planet earth.
+        1. Download the worksheet at https://www.iflyworld.com/wp-content/uploads/2015/10/iFLY_lab_HS.pdf or use a similar worksheet such as the "Student Terminal Velocity Worksheet" at https://www.grc.nasa.gov/www/k-12/airplane/termv.html. Calculate the terminal velocity of a 100-pound backpack on the planet earth.
         2. Calculate your terminal velocity on Mars (hint: you will need to look up the values of gravity and atmospheric density on Mars). Compare the two values.
         3. Discuss the differences with your counselor. How would the conditions on Mars affect the engineering design of a Martian landing craft?
     C. Deliver rescue supplies to a community whose roads and bridges have been compromised by a natural disaster.
