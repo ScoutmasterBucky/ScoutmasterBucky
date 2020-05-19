@@ -38,7 +38,7 @@ Earning a Nova award, at a very high level, looks like this for the different pr
 
 After earning some Nova awards, the next step is to work on a [Supernova Award](supernova/). Bronze Supernova Awards are about the same amount of work as a Nova. These medals start with a bronze, then progress to silver and gold, depending on your program - [learn more about award progression](supernova/).
 
-These medals are rarely given out and may be worn during formal events, such as a Blue and Gold ceremonies, Courts of Honor, and Bridges of Honor.
+These medals are rarely given out and may be worn during formal events, such as at Blue and Gold ceremonies, Courts of Honor, and Bridges of Honor.
 
 </div><div class="W(300px) Maw(100%) Fxs(0) P(1em)">
 <img src="supernova/dr-albert-einstein/dr-albert-einstein-award.jpg" Class="W(100%) H(a)">
