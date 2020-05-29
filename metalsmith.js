@@ -54,6 +54,12 @@ metalsmithSite.run({
             }
             done();
         });
+
+        // Likewise, change the rootPath for the 404 page because it could be
+        // loaded at any path.
+        sugar.use((files, metalsmith, done) => {
+            files['404.md'].rootPath = '/';
+        });
     },
     postProcess: (done) => {
         generatePdfs(lastFiles, (e) => {
