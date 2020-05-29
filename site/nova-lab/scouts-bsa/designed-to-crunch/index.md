@@ -68,28 +68,28 @@ This module is designed to help you explore how math affects your life each day.
         {{#note type="counselor"}}“SoccerXpert.com Soccer Stats”, https://www.soccerxpert.com/docs/GameStats.pdf{{/note}}
         {{#note type="counselor"}}The Baseball Scorecard, http://www.baseballscorecard.com/downloads.htm{{/note}}
         Share your calculations with your counselor, and discuss your conclusions about the players’ strengths and weaknesses.
-D. Attend a football game or watch one on TV. (This is a fun activity to do with a parent or friend.) Keep track of the efforts of your favorite team during the game. (Make sure you record your data and calculations.) Then calculate your team’s statistics using the following as examples:
-    (1) Kicks/punts
-        (a) Kickoff—Kick return yards
-        (b) Punt—Number, yards
-        (c) Field goals—Attempted, percent completed, yards
-        (d) Extra points—Attempted, percent completed
-    (2) Offense
-        (e) Number of first downs
-        (f) Forward passes—Attempted, percent completed, total length of passes, longest pass, number and length of passes caught by each receiver, yardage gained by each receiver after catching a pass
-        (g) Running plays—Number, yards gained or lost for each run, longest run from scrimmage line, total yards gained or lost, and number of touchdowns
-    (3) Defense—Number of quarterback sacks, interceptions, turnovers, and safeties
-    Share your calculations with your counselor, and discuss your conclusions about your team’s strengths and weaknesses.
-E. How starry are your nights? Participate in a star count to find out. This may be done alone but is more fun with a group. Afterward, share and discuss your results with your counselor.
-    {{#note type="counselor"}}Half of the world’s people live in cities. Because of light pollution, many city dwellers have never been able to see dark skies clearly. Among the issues associated with light pollution are energy conservation, effects on wildlife, and the ability to clearly see the night sky. While light pollution is a concern on the global level, it is also something that can be easily addressed at the local level.{{/note}}
-    {{#note type="counselor"}}Several web-based efforts exist to bring awareness to the diminishing night skies.{{/note}}
-    {{#note type="counselor"}}“Less of Our Light for More Star Light”: GLOBE at Night, https://www.globeatnight.org/{{/note}}
-    {{#note type="counselor"}}“Windows to the Universe”: National Earth Science Teachers Association, https://www.windows2universe.org/{{/note}}
-    {{#note type="counselor"}}International Dark-Sky Association, https://www.darksky.org/{{/note}}
-    {{#note type="counselor"}}“Dark Skies Awareness: seeing in the dark”: Dark Skies Awareness, http://www.darkskiesawareness.org/{{/note}}
-    (1) Visit the website of the Astronomical Society of the Pacific for instructions on performing a star count.
-        {{#note type="counselor"}}There are several websites for participating in star counts, but NASA’s website seems the most general and straightforward to use. (The others require specific nights for observations.) This website has nice step-by-step instructions for the star count and it provides a calculation sheet that simplifies the star count data (https://www.nasa.gov/pdf/145989main_StarCountDataSheet_v4.pdf).{{/note}}
-    (2) Do a star count on five clear nights at the same time each night.
+    D. Attend a football game or watch one on TV. (This is a fun activity to do with a parent or friend.) Keep track of the efforts of your favorite team during the game. (Make sure you record your data and calculations.) Then calculate your team’s statistics using the following as examples:
+        (1) Kicks/punts
+            (a) Kickoff—Kick return yards
+            (b) Punt—Number, yards
+            (c) Field goals—Attempted, percent completed, yards
+            (d) Extra points—Attempted, percent completed
+        (2) Offense
+            (e) Number of first downs
+            (f) Forward passes—Attempted, percent completed, total length of passes, longest pass, number and length of passes caught by each receiver, yardage gained by each receiver after catching a pass
+            (g) Running plays—Number, yards gained or lost for each run, longest run from scrimmage line, total yards gained or lost, and number of touchdowns
+        (3) Defense—Number of quarterback sacks, interceptions, turnovers, and safeties
+        Share your calculations with your counselor, and discuss your conclusions about your team’s strengths and weaknesses.
+    E. How starry are your nights? Participate in a star count to find out. This may be done alone but is more fun with a group. Afterward, share and discuss your results with your counselor.
+        {{#note type="counselor"}}Half of the world’s people live in cities. Because of light pollution, many city dwellers have never been able to see dark skies clearly. Among the issues associated with light pollution are energy conservation, effects on wildlife, and the ability to clearly see the night sky. While light pollution is a concern on the global level, it is also something that can be easily addressed at the local level.{{/note}}
+        {{#note type="counselor"}}Several web-based efforts exist to bring awareness to the diminishing night skies.{{/note}}
+        {{#note type="counselor"}}“Less of Our Light for More Star Light”: GLOBE at Night, https://www.globeatnight.org/{{/note}}
+        {{#note type="counselor"}}“Windows to the Universe”: National Earth Science Teachers Association, https://www.windows2universe.org/{{/note}}
+        {{#note type="counselor"}}International Dark-Sky Association, https://www.darksky.org/{{/note}}
+        {{#note type="counselor"}}“Dark Skies Awareness: seeing in the dark”: Dark Skies Awareness, http://www.darkskiesawareness.org/{{/note}}
+        (1) Visit the website of the Astronomical Society of the Pacific for instructions on performing a star count.
+            {{#note type="counselor"}}There are several websites for participating in star counts, but NASA’s website seems the most general and straightforward to use. (The others require specific nights for observations.) This website has nice step-by-step instructions for the star count and it provides a calculation sheet that simplifies the star count data (https://www.nasa.gov/pdf/145989main_StarCountDataSheet_v4.pdf).{{/note}}
+        (2) Do a star count on five clear nights at the same time each night.
 4. Do ALL of the following:
     A. Investigate your calculator and explore the different functions.
     B. Discuss the functions, abilities, and limitations of your calculator with your counselor.  Talk about how these affect what you can and cannot do with a calculator. (See your counselor for some ideas to consider.)

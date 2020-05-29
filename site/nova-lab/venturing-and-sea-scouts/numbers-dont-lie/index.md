@@ -79,17 +79,17 @@ This module is designed to help the Venturer explore how math affects his or her
             (c) Running plays—Number, yards gained or lost for each run, longest run from scrimmage line, total yards gained or lost, and number of touchdowns
         (3) Defense—Number of quarterback sacks, interceptions turnovers, safeties
         Share your calculations with your counselor, and discuss your conclusions about your team’s strengths and weaknesses.
-E. How starry are your nights? Participate in a star count to find out. This may be done alone but is more fun with a group. Afterward, share your results with your counselor.
-    {{#note type="counselor"}}Half of the world’s people live in cities. Because of light pollution, many city dwellers have never been able to see dark skies clearly. Among the issues associated with light pollution are energy conservation, effects on wildlife, and the ability to clearly see the night sky. While light pollution is a concern on the global level, it is also something that can be easily addressed at the local level.{{/note}}
-    {{#note type="counselor"}}**Helpful Links:**{{/note}}
-    {{#note type="counselor"}}Several web-based efforts exist to bring awareness to the diminishing night skies.{{/note}}
-    {{#note type="counselor"}}“Less of Our Light for More Star Light”: GLOBE at Night, https://www.globeatnight.org/{{/note}}
-    {{#note type="counselor"}}“Windows to the Universe”: National Earth Science Teachers Association, https://www.windows2universe.org/{{/note}}
-    {{#note type="counselor"}}International Dark-Sky Association, https://www.darksky.org/{{/note}}
-    {{#note type="counselor"}}“Seeing in the dark”: Dark Skies Awareness, http://www.darkskiesawareness.org/{{/note}}
-    (1) Visit NASA’s Student Observation Network website (with your parent’s or guardian’s permission) at https://www.nasa.gov/audience/foreducators/5-8/features/F_Counting_the_Stars.html for instructions on performing a star count.
-    (2) Do a star count on five clear nights at the same time each night.
-    (3) Report your results on NASA’s Student Observation Network website (with your parent’s or guardian’s permission) and see how your data compares to others. There are several websites for participating in star counts, but NASA’s website seems the most general and straightforward to use. (The others require specific nights for observations.) This website has nice step-by-step instructions for the star count and it provides a calculation sheet that simplifies the star count data (https://www.nasa.gov/pdf/145989main_StarCountDataSheet_v4a.pdf).
+    E. How starry are your nights? Participate in a star count to find out. This may be done alone but is more fun with a group. Afterward, share your results with your counselor.
+        {{#note type="counselor"}}Half of the world’s people live in cities. Because of light pollution, many city dwellers have never been able to see dark skies clearly. Among the issues associated with light pollution are energy conservation, effects on wildlife, and the ability to clearly see the night sky. While light pollution is a concern on the global level, it is also something that can be easily addressed at the local level.{{/note}}
+        {{#note type="counselor"}}**Helpful Links:**{{/note}}
+        {{#note type="counselor"}}Several web-based efforts exist to bring awareness to the diminishing night skies.{{/note}}
+        {{#note type="counselor"}}“Less of Our Light for More Star Light”: GLOBE at Night, https://www.globeatnight.org/{{/note}}
+        {{#note type="counselor"}}“Windows to the Universe”: National Earth Science Teachers Association, https://www.windows2universe.org/{{/note}}
+        {{#note type="counselor"}}International Dark-Sky Association, https://www.darksky.org/{{/note}}
+        {{#note type="counselor"}}“Seeing in the dark”: Dark Skies Awareness, http://www.darkskiesawareness.org/{{/note}}
+        (1) Visit NASA’s Student Observation Network website (with your parent’s or guardian’s permission) at https://www.nasa.gov/audience/foreducators/5-8/features/F_Counting_the_Stars.html for instructions on performing a star count.
+        (2) Do a star count on five clear nights at the same time each night.
+        (3) Report your results on NASA’s Student Observation Network website (with your parent’s or guardian’s permission) and see how your data compares to others. There are several websites for participating in star counts, but NASA’s website seems the most general and straightforward to use. (The others require specific nights for observations.) This website has nice step-by-step instructions for the star count and it provides a calculation sheet that simplifies the star count data (https://www.nasa.gov/pdf/145989main_StarCountDataSheet_v4a.pdf).
 4. Do ALL of the following.
     A. Investigate your calculator and explore the different functions.
     B. Discuss the functions, abilities, and limitations of your calculator with your counselor.  Talk about how these affect what you can and cannot do with a calculator. (See your counselor for some ideas to consider.)
