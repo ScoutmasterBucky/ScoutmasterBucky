@@ -59,6 +59,7 @@ metalsmithSite.run({
         // loaded at any path.
         sugar.use((files, metalsmith, done) => {
             files['404.md'].rootPath = '/';
+            done();
         });
     },
     postProcess: (done) => {
