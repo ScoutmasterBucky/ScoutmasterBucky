@@ -36,7 +36,7 @@ This is the only program where the gold medal ([Dr. Albert Einstein Supernova Aw
 
 ## Related Explorations
 
-Nova awards for Venturers and Sea Scouts require a STEM exploration. If you are already going to embark on one of the explorations, it would be an ideal time to also earn a Nova award.
+Nova awards for Venturers and Sea Scouts require a [STEM exploration](../venturing-and-sea-scouts-explorations/). If your activities already align with one of these topics, it would be an ideal time to also earn a Nova award.
 
 <div class="Cc(2) Cc(1)--l">
 

@@ -20,7 +20,7 @@ This module is designed to encourage you to explore different facets of the biol
     C. Combine reading and watching activities (not less than three hours total), and do the following:
         (1) Make a list of at least five questions or ideas from your activity.
         (2) Discuss two of the questions or ideas with your counselor.
-2. Choose ONE subject from the following list. Complete ALL the requirements from among the Venturing STEM exploration topics. If you have already completed a Venturing STEM exploration in one of these fields, please choose a different field for this award. Discuss with your counselor THREE salient points you learned from each activity.
+2. Choose ONE subject from the following list. Complete ALL the requirements from among the Venturing [STEM exploration](../../venturing-and-sea-scouts-explorations/) topics. If you have already completed a Venturing STEM exploration in one of these fields, please choose a different field for this award. Discuss with your counselor THREE salient points you learned from each activity.
     * Animal Science
     * Environmental science
     * Fish and Wildlife Management
