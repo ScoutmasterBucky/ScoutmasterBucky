@@ -21,7 +21,7 @@ This module is designed to help Venturers and Sea Scouts explore how engineering
     C. Do a combination of reading and watching (about three hours total). Then do the following:
         (1) Make a list of at least two questions or ideas from each article or show.
         (2) Discuss two of the questions or ideas with your counselor.
-2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a Venturing STEM exploration in that field. See STEM Explorations for the requirements. (If you have already completed a Venturing STEM exploration in one of these fields, please choose a different field for this award.)
+2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a Venturing [STEM exploration](../../venturing-and-sea-scouts-explorations/) in that field. See [STEM Explorations](../../venturing-and-sea-scouts-explorations/) for the requirements. (If you have already completed a Venturing STEM exploration in one of these fields, please choose a different field for this award.)
     * Archery
     * Aviation
     * Composite Materials

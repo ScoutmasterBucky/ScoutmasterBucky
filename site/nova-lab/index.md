@@ -27,7 +27,7 @@ Earning a Nova award, at a very high level, looks like this for the different pr
 
 * **[Scouts BSA](scouts-bsa/):** 3 hours of study, 1 STEM-related merit badge, additional research into a field, some actual work, and discussions with a Nova counselor. Visual aids are often produced in the form of models, charts, drawings, presentations, or reports. The additional work that is performed is sufficient to have a good sample of that field in order to gain further understanding.
 
-* **[Venturing and Sea Scouts](venturing-and-sea-scouts/):** 3 hours of study, 1 STEM-related exploration, additional research into a field, some actual work, and discussions with a Nova counselor. Visual aids are often produced in the form of models, charts, drawings, presentations, or reports. The additional work that is performed is sufficient to have a good sample of that field in order to gain further understanding.
+* **[Venturing and Sea Scouts](venturing-and-sea-scouts/):** 3 hours of study, 1 [STEM-related exploration](venturing-and-sea-scouts-explorations/), additional research into a field, some actual work, and discussions with a Nova counselor. Visual aids are often produced in the form of models, charts, drawings, presentations, or reports. The additional work that is performed is sufficient to have a good sample of that field in order to gain further understanding.
 
 </div><div class="W(300px) Maw(100%) Fxs(0) P(1em)">
 <img src="images/nova-patch.jpg" Class="W(100%) H(a)">

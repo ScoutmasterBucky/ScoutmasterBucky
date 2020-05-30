@@ -19,7 +19,7 @@ This module is designed to help explore 3D printing, and how it is becoming prev
     C. Do a combination of reading and watching not less than three hours. Then do the following:
         1. Make a list of at least five questions or ideas from the material you read.
         2. Discuss two of the questions or ideas that relate to 3D printing and other additive manufacturing processes with your counselor.
-2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a Venturing STEM exploration in that field. (If you have already completed a Venturing STEM Exploration in one of these fields, please choose a different field for this award.)
+2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a Venturing [STEM exploration](../../venturing-and-sea-scouts-explorations/) in that field. (If you have already completed a Venturing STEM Exploration in one of these fields, please choose a different field for this award.)
     * Additive Manufacturing
     * CAD Modeling
     * Inventing
