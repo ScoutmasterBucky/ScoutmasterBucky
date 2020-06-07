@@ -69,5 +69,5 @@ year: 2020
 10. Do the following:
     (a) Choose a career you might want to enter after high school or college graduation. Discuss with your counselor the needed qualifications, education, skills, and experience.
     (b) Explain to your counselor what the associated costs might be to pursue this career, such as tuition, school or training supplies, and room and board. Explain how you could prepare for these costs and how you might make up for any shortfall.
-*Always be sure to have proper permission before using the internet. To learn about appropriate behavior and etiquette while online, consider earning the BSA Cyber Chip. Go to [BSA's Cyber Chip](https://www.scouting.org/training/youth-protection/cyber-chip/) for more information.*
+*Always be sure to have proper permission before using the internet. To learn about appropriate behavior and etiquette while online, consider earning the BSA [Cyber Chip]({{@root.rootPath}}/other-awards/cyber-chip/). Go to [BSA's Cyber Chip](https://www.scouting.org/training/youth-protection/cyber-chip/) for more information.*
 {{/requirements}}
