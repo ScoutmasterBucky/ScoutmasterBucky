@@ -7,7 +7,7 @@ year: 2020
 
 {{#requirements}}
 1. **Safety. Do the following:**
-    (a) Show your counselor your current, up-to-date Cyber Chip.
+    (a) Show your counselor your current, up-to-date [Cyber Chip]({{@root.rootPath}}/other-awards/cyber-chip/).
     (b) Discuss first aid and prevention for potential injuries, such as eyestrain and repetitive stress injuries, that could occur during programming activities.
 2. **History. Do the following:**
     (a) Give a brief history of programming, including at least three milestones related to the advancement or development of programming.

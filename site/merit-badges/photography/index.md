@@ -8,7 +8,7 @@ year: 2020
 {{#requirements}}
 1. Safety. Do the following:
     (a) Explain to your counselor the most likely hazards you may encounter while working with photography and what you should do to anticipate, mitigate, prevent, and respond to these hazards. Explain how you would prepare for exposure to environmental situations such as weather, sun, and water
-    (b) Show your counselor your current, up-to-date Cyber Chip.
+    (b) Show your counselor your current, up-to-date [Cyber Chip]({{@root.rootPath}}/other-awards/cyber-chip/).
 2. Explain how the following elements and terms can affect the quality of a picture:
     (a) Light - natural light (ambient/existing), low light (such as at night), and artificial light (such as from a flash)
     (b) Exposure -- aperture (f-stops), shutter speed, ISO
