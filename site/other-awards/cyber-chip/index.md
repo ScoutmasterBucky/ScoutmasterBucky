@@ -33,7 +33,7 @@ Note: All Cyber Chips will expire annually. Each Scout will need to go to [Netsm
 {{/requirements}}
 
 
-## Cyber Chip Requirements for Grades 6-8
+## Cyber Chip Requirements for Grades 9-12
 
 {{#requirements}}
 1. Read and sign the Level II Internet Safety Pledge. (BSA Cyber Chip green card)
