@@ -26,6 +26,10 @@ metalsmithSite.run({
             d();
         });
     },
+    buildBefore: (sugar) => {
+        // Translate Unicode
+        sugar.use(__dirname + '/plugins/translate-unicode');
+    },
     contentsAfter: (sugar) => {
         sugar.use(__dirname + '/plugins/workbook-header-footer');
     },
@@ -48,6 +52,13 @@ metalsmithSite.run({
                     files[key].rootPath = '';
                 }
             }
+            done();
+        });
+
+        // Likewise, change the rootPath for the 404 page because it could be
+        // loaded at any path.
+        sugar.use((files, metalsmith, done) => {
+            files['404.md'].rootPath = '/';
             done();
         });
     },

@@ -57,7 +57,9 @@ The index page lists the events - they are slurped up into the index page. Also,
 
 * `{{>eventbrite}}` - Shows the Eventbrite iframe in a collapsible area.
 
-* `{{>safety-warning}}` - Standard disclaimer that Scouts not listening will be asked to leave. This is typically used in the merit badge requirements pages, but could be used anywhere.
+* `{{#safety-warning}}warning text goex here{{/safety-warning}}` - Standard disclaimer area, but lets you have custom text. Typically used in the merit badge requirements pages.
+
+* `{{>safety-warning-generic}}` - Standard disclaimer that Scouts not listening will be asked to leave. This is typically used in the merit badge requirements pages, but could be used anywhere.
 
 * `{{>toggle-start}}Clickable Header{{>toggle-middle}}Collapsed content{{>toggle-end}}` - Shows a collapsible area. The "Clickable Header", when clicked, will toggle open the collapsed content.
 
@@ -78,7 +80,7 @@ Requirements pages have the requirements surrounded by `{{#requirements}}` tags.
 
 Within the requirements, only these partials and helpers are allowed.
 
-* `{{#note type="inPerson" type2="online"}}This is a note{{/note}}` - Adds a note to the requirements. The `type` attribute must be specified, and `type2` is optional. Allowed types are `inPerson` and `online`.
+* `{{#note type="inPerson" type2="online"}}This is a note{{/note}}` - Adds a note to the requirements. The `type` attribute will make the note hidden unless the requirements are for that type of class. The attribute `type2` is optional. Allowed types are `inPerson` and `online`.
 
 
 Merit Badge Workbooks

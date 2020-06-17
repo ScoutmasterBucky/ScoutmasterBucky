@@ -1,0 +1,5 @@
+{{#each (lookup @root.novaAwards program)}}
+{{#if (equals category ../show)}}
+* {{#trim}}{{>nova-link program=../program nova=@key}}{{/trim}} – {{summary}}
+{{/if}}
+{{/each}}

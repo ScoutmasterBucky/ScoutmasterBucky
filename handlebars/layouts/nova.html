@@ -1,0 +1,14 @@
+{{>layout-header}}
+
+        <link rel="stylesheet" href="{{@root.rootPath}}nova-lab/css/site.css" />
+        <title>{{title}}</title>
+
+{{>nova-layout-body}}
+
+            <div class="P(20px)">
+
+{{#nova-transform-elements}}{{{contents}}}{{/nova-transform-elements}}
+
+            </div>
+
+{{>nova-layout-footer}}

@@ -8,7 +8,7 @@
 <script>
 (function () {
     var d = new Date();
-    var picture = '<img src="{{@root.rootPath}}images/header-month-' + (d.getMonth() + 1) + '.jpg" class="W(100%) H(a)" height="279" width="1002">';
+    var picture = '<img src="{{@root.rootPath}}images/header-month-' + (d.getMonth() + 1) + '.jpg" class="W(100%) H(a) D(b)" height="279" width="1002">';
     document.write(picture);
 })();
 </script>
@@ -18,16 +18,9 @@
             </div>
 
             <div class="Bgc(smbHd2Bg) D(f) Jc(se) Pt(0.4em) D(n)--s Fz(0.9em)--m Flw(w) D(n)--p">
-                {{> smb-menu-button url="merit-badges/" text="Merit Badges" }}
-                {{> smb-menu-button url="workbooks/" text="Workbooks" }}
-                {{> smb-menu-button url="history/" text="History Pages" }}
-                {{> smb-menu-button url="scout-ranks/" text="Scout Ranks" }}
-                {{> smb-menu-button url="other-awards/" text="Other Scout Awards" }}
-                {{> smb-menu-button url="memorabilia/" text="Memorabilia" }}
+                {{>smb-menu class="Mb(0.4em) Bgc(smbBtnBg)" textClass="C(smbBtnTx)"}}
             </div>
 
             <div class="Bgc(smbHd2Bg) D(f) Jc(se) D(n)--s Fz(0.9em)--m D(n)--p">
-                {{> smb-cross-link-button image="cubmaster-bob-katt/images/cbk-small.png" text="Cubmaster Bob Katt" caption="an area for Cub Scouting" width="33" height="35"}}
-                {{> smb-cross-link-button image="advisor-kodi/images/ak-small.png" text="Advisor Kodi" caption="an area for Venturing" width="35" height="35"}}
-                {{> smb-cross-link-button image="ss-seagal/images/sss-small.png" text="S.S. Seagal" caption="an area for Sea Scouting" width="35" height="35"}}
+                {{>cross-link-buttons smb=true class="Mb(0.4em) Bgc(smbBtnBg)" textClass="C(smbBtnTx)" captionClass="C(smbBtnTx2)"}}
             </div>

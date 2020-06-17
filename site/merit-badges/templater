@@ -1,0 +1,65 @@
+#!/usr/bin/env bash
+
+fn="$1"
+
+content=""
+mode=header
+req=( 0 0z 0z0 0z0z0 )
+
+while IFS=$'\n' read -r line; do
+    case "$mode" in
+        header)
+            if [[ "$line" =~ requirements ]]; then
+                mode=requirements
+            else
+                content+=$line$'\n'
+            fi
+            ;;
+
+        requirements)
+            if [[ "$line" =~ '{{/requirements}}' ]]; then
+                mode=end
+            elif [[ "$line" =~ ^\  ]] || [[ "$line" =~ ^[0-9]+\. ]]; then
+                index=0
+
+                while [[ "${line:0:4}" == "    " ]]; do
+                    index=$((index + 1))
+                    line=${line:4}
+                done
+
+                if [[ "${line:0:1}" == "(" ]]; then
+                    line=${line:1}
+                    line=${line/)/.}
+                fi
+
+                if [[ "$line" =~ ^[^\ ]+\.\  ]]; then
+                    match=${BASH_REMATCH}
+                    len=${#match}
+                    item="${match/. }"
+                    line=${line:len}
+
+                    if [[ "$index" == 0 ]]; then
+                        req[index]=$item
+                    else
+                        req[index]="${req[index - 1]}$item"
+                    fi
+
+                    line=${line//\"/\\\"}
+
+                    content+=$'\n'
+                    content+="{{#wb-req item=\"${req[index]}\" requirement=\"$line\"}}"$'\n'
+                    content+="{{#wb-req-text lines=8}}{{/wb-req-text}}"$'\n'
+                    content+="{{/wb-req}}"$'\n'
+                else
+                    content+=$'\n'
+                    content+="$line"$'\n'
+                fi
+            else
+                content+=$'\n'
+                content+="$line"$'\n'
+            fi
+            ;;
+    esac
+done < "$fn"
+
+echo -n "$content"

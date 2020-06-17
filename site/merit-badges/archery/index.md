@@ -8,7 +8,7 @@ whatToBring:
     - A long-sleeved shirt is recommended for wear when shooting archery
 ---
 
-{{#note type="inPerson"}}{{>safety-warning}}{{/note}}
+{{#note type="inPerson"}}{{>safety-warning-generic}}{{/note}}
 
 {{#requirements}}
 1. Do the following:
