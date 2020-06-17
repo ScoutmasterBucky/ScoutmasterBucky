@@ -8,8 +8,9 @@ function start(f) {
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <!-- Do not include reset.css - it messes up the print headers by adding 100% width to html and body -->
-        <link rel="stylesheet" href="${f.rootPath}atomic.css" />
-        <link rel="stylesheet" href="${f.rootPath}site.css" />
+        <link rel="stylesheet" href="${f.rootPath}css/atomic.css" />
+        <link rel="stylesheet" href="${f.rootPath}css/site.css" />
+        <link rel="stylesheet" href="${f.rootPath}css/fonts.css" />
         <title>Scoutmaster Bucky ${f.meritBadges[f.badge].name} Merit Badge Workbook</title>
     </head>
     <body class="M(0) P(0)">

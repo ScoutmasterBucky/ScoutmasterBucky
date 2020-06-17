@@ -141,7 +141,7 @@ year: 2020
 </div>
 {{/wb-special}}
 
-{{#wb-req item="8b" requirement="Explain “legal tender.”"}}
+{{#wb-req item="8b" requirement="Explain \"legal tender.\""}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

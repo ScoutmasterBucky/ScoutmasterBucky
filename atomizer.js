@@ -7,6 +7,54 @@ module.exports = {
             p: "@media print"
         },
         custom: {
+            // Advisor Kodi
+            // akAccBg: "#ffff99", // Accent background
+            akBtnBg: "#01743d", // Button background
+            akBtnTx: "#ffffff", // Button text
+            akBtnTx2: "#ffffff",
+            akHdBg: "#01743d", // Heading background
+            akHd2Bg: "#f0c810", // Heading 2, like heading 1 but more muted
+            akHdTx: "#ffffff",
+            akHd2Tx: "#ffffff",
+            akHd3Tx: "#01743d", // Heading 3 text in accent
+            akPgBg: "#ffffff", // The background within the content area
+            akPgMBg: "#000000", // The background of the margin around the content area
+            // akTabBg: "#cc9900", // Tab background
+            akThmBd: "#01743d", // Theme-colored border
+            akThmTx: "#01743d", // Theme-color text
+
+            // Cubmaster Bob Katt
+            // cbkAccBg: "#ffff99", // Accent background
+            cbkBtnBg: "#016ca2", // Button background
+            cbkBtnTx: "#ffffff", // Button text
+            cbkBtnTx2: "#ffffff",
+            cbkHdBg: "#016ca2", // Heading background
+            cbkHd2Bg: "#29a1c6", // Heading 2, like heading 1 but more muted
+            cbkHdTx: "#ffffff",
+            cbkHd2Tx: "#ffffff",
+            cbkHd3Tx: "#016ca2", // Heading 3 text in accent
+            cbkPgBg: "#ffffff", // The background within the content area
+            cbkPgMBg: "#000000", // The background of the margin around the content area
+            // cbkTabBg: "#cc9900", // Tab background
+            cbkThmBd: "#016ca2", // Theme-colored border
+            cbkThmTx: "#016ca2", // Theme-color text
+
+            // Nova Lab
+            // novaAccBg: "#ffff99", // Accent background
+            novaBtnBg: "#0060b7", // Button background
+            novaBtnTx: "#fd9600", // Button text
+            novaBtnTx2: "#bbbbbb",
+            novaHdBg: "#0060b7", // Heading background
+            novaHd2Bg: "#50d7f7", // Heading 2, like heading 1 but more muted
+            novaHdTx: "#fd9600",
+            novaHd2Tx: "#ffffff",
+            novaHd3Tx: "#0060b7", // Heading 3 text in accent
+            novaPgBg: "#ffffff", // The background within the content area
+            novaPgMBg: "#000000", // The background of the margin around the content area
+            // novaTabBg: "#cc9900", // Tab background
+            novaThmBd: "#0060b7", // Theme-colored border
+            novaThmTx: "#0060b7", // Theme-color text
+
             // Scoutmaster Bucky
             smbAccBg: "#ffff99", // Accent background
             smbBtnBg: "#5b8800", // Button background
@@ -22,6 +70,22 @@ module.exports = {
             smbTabBg: "#cc9900", // Tab background
             smbThmBd: "#5b8800", // Theme-colored border
             smbThmTx: "#5b8800", // Theme-color text
+
+            // S.S. Seagal
+            // sssAccBg: "#ffff99", // Accent background
+            sssBtnBg: "#062a5e", // Button background
+            sssBtnTx: "#ffffff", // Button text
+            sssBtnTx2: "#bbbbbb",
+            sssHdBg: "#ffffff", // Heading background
+            sssHd2Bg: "#ffffff", // Heading 2, like heading 1 but more muted
+            sssHdTx: "#062a5e",
+            sssHd2Tx: "#ffffff",
+            sssHd3Tx: "#062a5e", // Heading 3 text in accent
+            sssPgBg: "#ffffff", // The background within the content area
+            sssPgMBg: "#006599", // The background of the margin around the content area
+            // sssTabBg: "#cc9900", // Tab background
+            sssThmBd: "#062a5e", // Theme-colored border
+            sssThmTx: "#062a5e", // Theme-color text
 
             smbReqP: "1em",
             wbBdw: "1px",
@@ -262,5 +326,5 @@ module.exports = {
             ]
         }
     ],
-    destination: "atomic.css"
+    destination: "css/atomic.css"
 };

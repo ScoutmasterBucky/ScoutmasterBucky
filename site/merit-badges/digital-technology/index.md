@@ -6,7 +6,7 @@ year: 2020
 ---
 
 {{#requirements}}
-1. Show your counselor your current, up-to-date Cyber Chip.
+1. Show your counselor your current, up-to-date [Cyber Chip]({{@root.rootPath}}/other-awards/cyber-chip/).
 2. Do the following:
     (a) Give a brief history of the changes in digital technology over time. Discuss with your counselor how digital technology in your lifetime compares with that of your parent’s, grandparent’s, or other adult’s lifetime.
     (b) Describe the kinds of computers or devices you imagine might be available when you are an adult.
