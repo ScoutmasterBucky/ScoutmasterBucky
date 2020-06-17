@@ -6,6 +6,7 @@ year: 2020
 ---
 
 {{#requirements}}
+{{#note type="inPerson"}}IT MUST BE NOTED THAT SOME REQUIREMENTS MAY TAKE PLACE OUTDOORS AND SCOUTS SHOULD ATTEND WITH OUTDOOR GEAR APPROPRIATE FOR THE TIME OF YEAR AND FORECASTED WEATHER CONDITIONS. PLEASE ALSO NOTE ANY SPECIAL ITEMS NEEDED FOR USE SPECIFIC TO THIS MERIT BADGE THAT SCOUTS SHOULD HAVE FOR THE CLASS.{{/note}}
 1. Discuss the prevention of and treatment for the health concerns that could occur while backpacking, including hypothermia, heat reactions, frostbite, dehydration, insect stings, tick bites, snakebite, and blisters.
 2. Do the following:
     (a) List 10 items that are essential to be carried on any backpacking trek and explain why each item is necessary.
@@ -21,11 +22,18 @@ year: 2020
     (c) Tell what factors are important in choosing a campsite.
 5. Do the following:
     (a) Demonstrate two ways to treat water and tell why water treatment is essential.
+        {{#note type="online"}}This requirement component will NOT be covered in the class, however, Scouts will have the opportunity to deomnstrate their ability to treat water and tell why water treatment is essential, if they have the proper items for demonstration.  Scouts able to demonstrate (meaning with the equipment and/or means to do so) will have the opportunity to share their preparation with the counselor / instructore during the class for consideration.{{/note}}
     (b) Explain to your counselor the importance of staying well-hydrated during a trek.
+    {{#note type="inPerson"}}While this requirement will be covered in the class, Scouts should still prepare by understanding the basics of each component in this requirement by reviewing the merit badge pamphlet and being prepared to explain their findings with the counselor..{{/note}}
 6. Do the following:
     (a) Demonstrate that you can read topographic maps.
-    (c) Explain how to stay found, and what to do if you get lost.
+        {{#note type="inPerson"}}This requirement component will be covered in the class.{{/note}}
+        {{#note type="online"}}Scouts should come to the class with the appropriate materials to share and demonstrate their ability to read a topographic map.{{/note}}
     (b) While on a trek, use a map and compass to establish your position on the ground at three different locations, OR use a GPS receiver to establish your position on a topographic map and on the ground at three different locations.
+        {{#note type="inPerson"}}This requirement component will be covered in the class.{{/note}}
+        {{#note type="online"}}This requirement component will NOT be covered in the class.{{/note}}
+    (c) Explain how to stay found, and what to do if you get lost.
+        {{#note type="inPerson" type2="online"}}While it is planned to cover this requirement component during the class, Scouts should be prepared to share with the counselor / instructor any experiences they have during their Scouts BSA tenure that may apply  already completed with this requirement for completion of this component of the requirement. It is not guaranteed that Scout will complete this requirement during the class, but every effort will be made to do so.{{/note}}
 7. Tell how to prepare properly for and deal with inclement weather.
 8. Do the following:
     (a) Explain the advantages and disadvantages of the different types of backpacking stoves using at least three different types of fuel.
