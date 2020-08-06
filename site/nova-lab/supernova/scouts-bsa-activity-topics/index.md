@@ -95,7 +95,7 @@ Lawrence M. Krauss. The Physics of Star Trek. Basic Books, 2007.
 
 Tom Rogers. Insultingly Stupid Movie Physics: Hollywood’s Best Mistakes, Goofs and Flat-Out Destructions of the Basic Laws of the Universe. Sourcebooks Hysteria, 2007.
 
-###Household Chemistry: Diet Coke and Mentos Explosions
+### Household Chemistry: Diet Coke and Mentos Explosions
 
 This activity can be done individually or in a group, but it is much more fun as a group. For this experiment, you will investigate how and why dropping a Mentos candy into a two-liter bottle of Diet Coke creates a massive explosion.
 
@@ -314,7 +314,7 @@ Present to your mentor your recorded data in a tabular format as well as a graph
 1. Evaluate the data and determine how the variations in the tested glider part influenced the flight characteristics you observed. Based on the data you gathered, predict how the glider would perform relative to the flight characteristics you observed if you were to build a glider with another variation in the same glider part.
 2. Suggest an ideal design of your tested glider part that would maximize the glider’s performance relative to the flight characteristics you observed and explain your reasoning for this design.
 3. Create a report that describes your glider, the flight tests, the flight data, and your conclusions. Include the procedures you followed to ensure consistent test conditions.
-4.Share the flight records and data you have gathered with your mentor. Discuss what you have learned.
+4. Share the flight records and data you have gathered with your mentor. Discuss what you have learned.
 {{/requirements}}
 
 Source: The idea for this activity is based on the work of Andrew Olson, Ph.D., Science Buddies, What Makes a Good Aerodynamic Design? Test Your Ideas with High-Performance Paper Gliders. Visit https://www.sciencebuddies.org/science-fair-projects/project-ideas/Aero_p009/aerodynamics-hydrodynamics/what-makes-a-good-aerodynamic-design-paper-gliders.
