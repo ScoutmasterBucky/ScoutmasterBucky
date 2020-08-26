@@ -34,7 +34,7 @@ This module is designed to help you explore where your food comes from and how a
     * {{#trim}}{{>badge-link badge="nature"}}{{/trim}}
     * {{#trim}}{{>badge-link badge="plant-science"}}{{/trim}}
     * {{#trim}}{{>badge-link badge="soil-and-water-conservation"}}{{/trim}}
-3. Act like a farmer! Think about crops or animals that are found on a farm, and think about the different kinds of farms. Then choose TWO from A or B or C..
+3. Act like a farmer! Think about crops or animals that are found on a farm, and think about the different kinds of farms. Then choose TWO from A or B or C.
     A. With your counselor, choose two of the following topics related to food production or processing, and investigate them. Discuss your findings with your counselor.
         1. Where did the food you ate for dinner last night come from? Pick one food item and learn more about each of its ingredients. Where were those ingredients grown, and how did the food item get to your table?
         2. What kind of equipment is used on a farm?
