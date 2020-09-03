@@ -24,8 +24,8 @@ jobs:
       - name: Install and Build 🔧
         run: |
           curl -Lo wkhtmltopdf.deb https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.focal_amd64.deb
-          sudo dpkg -i wkhtmltopdf.deb
-          sudo apt-get -f install
+          sudo apt update
+          sudo dpkg -i wkhtmltopdf.deb || sudo apt-get -f install
           npm install
           npm run build
 
