@@ -21,9 +21,15 @@ jobs:
       # This example project is built using npm and outputs the result to the 'build'
       # folder. Replace with the commands required to build your project, or remove
       # this step entirely if your site is pre-built.
+      #
+      # If there's weird GLIBC issues, double check that the ubuntu-latest environment
+      # matches the wkhtmltopdf environment.
+      #
+      # Github Actions: https://github.com/actions/virtual-environments
+      # Wkhtmltopdf: https://wkhtmltopdf.org/downloads.html#stable
       - name: Install and Build 🔧
         run: |
-          curl -Lo wkhtmltopdf.deb https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.focal_amd64.deb
+          curl -Lo wkhtmltopdf.deb https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.bionic_amd64.deb
           sudo apt update
           sudo dpkg -i wkhtmltopdf.deb || sudo apt-get -f install
           npm install
