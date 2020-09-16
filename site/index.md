@@ -4,8 +4,8 @@ layout: smb
 opportunities: 14,050+
 online: 1,335+
 news:
-    - ONLINE Opportunities added
-    - With many Scouts out of school, we have ramped up our online offerings to help accommodate the deamnd for merit badge opportunities.  We will do what we can to make as many opportunities available to as many Scouts as possible.  Keep checking the website for new and more opportunities.
+    - ONLINE Opportunities added.
+    - With many Scouts out of school, we have ramped up our online offerings to help accommodate the demand for merit badge opportunities.  We will do what we can to make as many opportunities available to as many Scouts as possible.  Keep checking the website for new and more opportunities.
 css:
     - css/calendar.css
 js:
