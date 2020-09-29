@@ -10,6 +10,11 @@
         "path": "merit-badges/american-cultures/workbook/"
     },
     {
+        "badge": "american-heritage",
+        "name": "American Heritage",
+        "path": "merit-badges/american-heritage/workbook/"
+    },
+    {
         "badge": "american-labor",
         "name": "American Labor",
         "path": "merit-badges/american-labor/workbook/"
@@ -70,14 +75,14 @@
         "path": "merit-badges/basketry/workbook/"
     },
     {
-        "badge": "bugling",
-        "name": "Bugling",
-        "path": "merit-badges/bugling/workbook/"
-    },
-    {
         "badge": "bird-study",
         "name": "Bird Study",
         "path": "merit-badges/bird-study/workbook/"
+    },
+    {
+        "badge": "bugling",
+        "name": "Bugling",
+        "path": "merit-badges/bugling/workbook/"
     },
     {
         "badge": "camping",
@@ -275,11 +280,6 @@
         "path": "merit-badges/gardening/workbook/"
     },
     {
-        "badge": "american-heritage",
-        "name": "American Heritage",
-        "path": "merit-badges/american-heritage/workbook/"
-    },
-    {
         "badge": "genealogy",
         "name": "Genealogy",
         "path": "merit-badges/genealogy/workbook/"
@@ -445,14 +445,14 @@
         "path": "merit-badges/pets/workbook/"
     },
     {
-        "badge": "photography",
-        "name": "Photography",
-        "path": "merit-badges/photography/workbook/"
-    },
-    {
         "badge": "pioneering",
         "name": "Pioneering",
         "path": "merit-badges/pioneering/workbook/"
+    },
+    {
+        "badge": "photography",
+        "name": "Photography",
+        "path": "merit-badges/photography/workbook/"
     },
     {
         "badge": "plant-science",
@@ -475,14 +475,14 @@
         "path": "merit-badges/programming/workbook/"
     },
     {
-        "badge": "public-health",
-        "name": "Public Health",
-        "path": "merit-badges/public-health/workbook/"
-    },
-    {
         "badge": "public-speaking",
         "name": "Public Speaking",
         "path": "merit-badges/public-speaking/workbook/"
+    },
+    {
+        "badge": "public-health",
+        "name": "Public Health",
+        "path": "merit-badges/public-health/workbook/"
     },
     {
         "badge": "pulp-and-paper",
@@ -515,11 +515,6 @@
         "path": "merit-badges/rifle-shooting/workbook/"
     },
     {
-        "badge": "robotics",
-        "name": "Robotics",
-        "path": "merit-badges/robotics/workbook/"
-    },
-    {
         "badge": "rowing",
         "name": "Rowing",
         "path": "merit-badges/rowing/workbook/"
@@ -528,6 +523,11 @@
         "badge": "safety",
         "name": "Safety",
         "path": "merit-badges/safety/workbook/"
+    },
+    {
+        "badge": "robotics",
+        "name": "Robotics",
+        "path": "merit-badges/robotics/workbook/"
     },
     {
         "badge": "salesmanship",
@@ -555,11 +555,6 @@
         "path": "merit-badges/sculpture/workbook/"
     },
     {
-        "badge": "search-and-rescue",
-        "name": "Search and Rescue",
-        "path": "merit-badges/search-and-rescue/workbook/"
-    },
-    {
         "badge": "shotgun-shooting",
         "name": "Shotgun Shooting",
         "path": "merit-badges/shotgun-shooting/workbook/"
@@ -568,6 +563,11 @@
         "badge": "signs-signals-and-codes",
         "name": "Signs, Signals, and Codes",
         "path": "merit-badges/signs-signals-and-codes/workbook/"
+    },
+    {
+        "badge": "search-and-rescue",
+        "name": "Search and Rescue",
+        "path": "merit-badges/search-and-rescue/workbook/"
     },
     {
         "badge": "skating",
@@ -615,14 +615,19 @@
         "path": "merit-badges/sustainability/workbook/"
     },
     {
+        "badge": "swimming",
+        "name": "Swimming",
+        "path": "merit-badges/swimming/workbook/"
+    },
+    {
         "badge": "textile",
         "name": "Textile",
         "path": "merit-badges/textile/workbook/"
     },
     {
-        "badge": "swimming",
-        "name": "Swimming",
-        "path": "merit-badges/swimming/workbook/"
+        "badge": "theater",
+        "name": "Theater",
+        "path": "merit-badges/theater/workbook/"
     },
     {
         "badge": "traffic-safety",
@@ -665,24 +670,14 @@
         "path": "merit-badges/wilderness-survival/workbook/"
     },
     {
-        "badge": "woodwork",
-        "name": "Woodwork",
-        "path": "merit-badges/woodwork/workbook/"
-    },
-    {
-        "badge": "theater",
-        "name": "Theater",
-        "path": "merit-badges/theater/workbook/"
-    },
-    {
         "badge": "wood-carving",
         "name": "Wood Carving",
         "path": "merit-badges/wood-carving/workbook/"
     },
     {
-        "badge": "animal-science",
-        "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/avian/"
+        "badge": "woodwork",
+        "name": "Woodwork",
+        "path": "merit-badges/woodwork/workbook/"
     },
     {
         "badge": "animal-science",
@@ -697,12 +692,17 @@
     {
         "badge": "animal-science",
         "name": "Animal Science",
+        "path": "merit-badges/animal-science/workbook/horse/"
+    },
+    {
+        "badge": "animal-science",
+        "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/hog/"
     },
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/horse/"
+        "path": "merit-badges/animal-science/workbook/avian/"
     },
     {
         "badge": "animal-science",
