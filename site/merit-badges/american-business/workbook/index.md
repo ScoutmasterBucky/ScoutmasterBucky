@@ -190,10 +190,7 @@ year: 2020
 {{#wb-req-text lines=18}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4A" alert="Do TWO of the following (4A, 4B, 4C, or 4D) for requirement 4:"}}
-{{/wb-req}}
-
-{{#wb-req item="4A" requirement="Discuss the Fair Labor Standards Act (FLSA)."}}
+{{#wb-req item="4A" alert="Do TWO of the following (4A, 4B, 4C, or 4D) for requirement 4:" requirement="Discuss the Fair Labor Standards Act (FLSA)."}}
 {{#wb-req-text lines=12}}{{/wb-req-text}}
 {{/wb-req}}
 
