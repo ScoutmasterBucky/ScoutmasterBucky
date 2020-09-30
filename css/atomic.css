@@ -61,17 +61,11 @@
 .Bgc\(\#000000\.6\) {
   background-color: rgba(0,0,0,.6);
 }
-.Bgc\(\#009933\) {
-  background-color: #009933;
-}
 .Bgc\(\#c6daad\) {
   background-color: #c6daad;
 }
 .Bgc\(\#cc9900\), .notesToggles-counselor .notesToggles-counselor_Bgc\(smbTabBg\), .notesToggles-inPerson .notesToggles-inPerson_Bgc\(smbTabBg\), .notesToggles-none .notesToggles-none_Bgc\(smbTabBg\), .notesToggles-online .notesToggles-online_Bgc\(smbTabBg\) {
   background-color: #cc9900;
-}
-.Bgc\(\#ccffff\) {
-  background-color: #ccffff;
 }
 .Bgc\(akBtnBg\), .Bgc\(akHdBg\) {
   background-color: #01743d;
@@ -84,9 +78,6 @@
 }
 .Bgc\(akPgMBg\), .Bgc\(cbkPgMBg\), .Bgc\(novaPgMBg\), .Bgc\(smbPgMBg\) {
   background-color: #000000;
-}
-.Bgc\(black\) {
-  background-color: black;
 }
 .Bgc\(cbkBtnBg\), .Bgc\(cbkHdBg\) {
   background-color: #016ca2;
@@ -124,9 +115,6 @@
 .Bgc\(smbAccBg\)\:h:hover {
   background-color: #ffff99;
 }
-.C\(\#009933\) {
-  color: #009933;
-}
 .C\(\#999999\) {
   color: #999999;
 }
@@ -135,9 +123,6 @@
 }
 .C\(akBtnTx\), .C\(akBtnTx2\), .C\(akHdTx\), .C\(cbkBtnTx\), .C\(cbkBtnTx2\), .C\(cbkHdTx\), .C\(novaHd2Tx\), .C\(smbBtnTx\), .C\(smbHd2Tx\), .C\(smbHdTx\), .C\(sssBtnTx\) {
   color: #ffffff;
-}
-.C\(black\) {
-  color: black;
 }
 .C\(blue\) {
   color: blue;
@@ -471,9 +456,6 @@
 }
 .P\(0\.25em\), .P\(wbP\) {
   padding: 0.25em;
-}
-.P\(0\.2em\) {
-  padding: 0.2em;
 }
 .P\(0\.4em\) {
   padding: 0.4em;
@@ -863,9 +845,6 @@
   }
   .Tsh\(whiteGlow\)--s {
     text-shadow: -2px 0 2px white, 0 -2px 2px white, 2px 0 2px white, 0 2px 2px white;
-  }
-  .W\(100\%\)--s {
-    width: 100%;
   }
   .W\(50\%\)--s {
     width: 50%;
