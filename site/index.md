@@ -6,7 +6,7 @@ online: 1,335+
 news:
     - COVID 19 STATEMENT.
     - New Fall 2020 Opportunities Added
-    - Site Redesign - Read More
+    - Site Redesign - [Read More](#new-website-design)
 css:
     - css/calendar.css
 js:
