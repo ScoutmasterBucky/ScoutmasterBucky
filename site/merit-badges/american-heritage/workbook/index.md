@@ -6,8 +6,12 @@ year: 2020
 ---
 
 
-{{#wb-req item="1" requirement="Read the Declaration of Independence. Pay close attention to the section that begins with \"We hold these truths to be self-evident\" and ends with \"to provide new Guards for their future security.\" Rewrite that section in your own words, making it as easy to understand as possible. Then, share your writing with your merit badge counselor and discuss the importance of the Declaration to all Americans."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{#wb-req item="1" requirement="Read the Declaration of Independence. Pay close attention to the section that begins with \"We hold these truths to be self-evident\" and ends with \"to provide new Guards for their future security.\" Rewrite that section in your own words, making it as easy to understand as possible."}}
+{{#wb-req-text lines=16}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="1" requirement="Then, share your writing with your merit badge counselor and discuss the importance of the Declaration to all Americans."}}
+{{#wb-req-text lines=16}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2" requirement="Do TWO of the following:"}}
@@ -15,15 +19,39 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="2a" requirement="Select two individuals from American history, one a political leader (a president, senator, etc.) and the other a private citizen (a writer, religious leader, etc.). Find out about each person's accomplishments and compare the contributions each has made to America's heritage."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{#wb-req-header}}Political Leader:{{/wb-req-header}}
+{{#wb-req-text lines=2}}Name:{{/wb-req-text}}
+{{#wb-req-text lines=2}}Profession:{{/wb-req-text}}
+{{#wb-req-text lines=8}}Accomplishments:{{/wb-req-text}}
+{{>wb-req-allow-break}}
+{{#wb-req-header}}Private Citizen:{{/wb-req-header}}
+{{#wb-req-text lines=2}}Name:{{/wb-req-text}}
+{{#wb-req-text lines=2}}Profession:{{/wb-req-text}}
+{{#wb-req-text lines=8}}Accomplishments:{{/wb-req-text}}
+{{>wb-req-allow-break}}
+{{#wb-req-header}}Comparison of selected individuals:{{/wb-req-header}}
+{{#wb-req-text lines=16}}Notes:{{/wb-req-text}}
+{{>wb-req-allow-break}}
 {{/wb-req}}
 
-{{#wb-req item="2b" requirement="With your counselor's approval, choose an organization that has promoted some type of positive change in American society. Find out why the organization believed this change was necessary and how it helped to accomplish the change. Discuss how this organization is related to events or situations from America's past."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{#wb-req item="2b" requirement="With your counselor's approval, choose an organization that has promoted some type of positive change in American society."}}
+{{#wb-req-text lines=2}}Organization:{{/wb-req-text}}
+{{#wb-req-text lines=2}}Positive Change:{{/wb-req-text}}
+{{>wb-signature signator="Counselor's" checkbox="Approved"}}
+{{/wb-req}}
+
+{{#wb-req item="2b" requirement="Find out why the organization believed this change was necessary and how it helped to accomplish the change."}}
+{{#wb-req-text lines=14}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="2b" requirement="Discuss how this organization is related to events or situations from America's past."}}
+{{#wb-req-text lines=14}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2c" requirement="With your counselor's approval, interview two veterans of the U.S. military. Find out what their experiences were like. Ask the veterans what they believe they accomplished."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{#wb-req-text lines=2}}Veteran's Name #1:{{/wb-req-text}}
+{{#wb-req-text lines=2}}Veteran's Name #2:{{/wb-req-text}}
+{{>wb-signature signator="Counselor's" checkbox="Approved"}}
 {{/wb-req}}
 
 {{#wb-req item="2d" requirement="With your counselor's approval, interview three people in your community of different ages and occupations. Ask these people what America means to them, what they think is special about this country, and what American traditions they feel are important to preserve."}}
