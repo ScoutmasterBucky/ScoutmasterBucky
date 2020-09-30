@@ -10,7 +10,7 @@ $(function () {
             {title: 'Scoutmaster Bucky March Merit Badge Day', description: 'click here for more info', url: '#2020-03-14-SMB', datetime: new Date(2020, 2, 14), color: 'green'},
             {title: 'Scoutmaster Bucky On The Road', description: 'Hortonville, Wisconsin', url: '#2020-03-28-SMBOTR', datetime: new Date(2020, 2, 28), color: 'blue-otr'},
             {title: 'Scoutmaster Bucky Merit Badge Special', description: 'Railroading Merit Badge', url: '#2020-03-28-SMB', datetime: new Date(2020, 2, 28), color: 'black'},
-            {title: 'Scoutmaster Bucky Online', description: 'Collections Merit Badge', datetime: new Date(2020, 10, 07), color: 'SMB-online'},
+            {title: 'Scoutmaster Bucky Online', description: 'Collections Merit Badge', datetime: new Date(2020, 9, 7), color: 'SMB-online'},
         ]
     });
 });
