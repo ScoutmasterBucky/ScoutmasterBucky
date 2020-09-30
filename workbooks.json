@@ -5,11 +5,6 @@
         "path": "merit-badges/american-cultures/workbook/"
     },
     {
-        "badge": "american-business",
-        "name": "American Business",
-        "path": "merit-badges/american-business/workbook/"
-    },
-    {
         "badge": "american-heritage",
         "name": "American Heritage",
         "path": "merit-badges/american-heritage/workbook/"
@@ -18,6 +13,11 @@
         "badge": "american-labor",
         "name": "American Labor",
         "path": "merit-badges/american-labor/workbook/"
+    },
+    {
+        "badge": "american-business",
+        "name": "American Business",
+        "path": "merit-badges/american-business/workbook/"
     },
     {
         "badge": "animation",
@@ -60,11 +60,6 @@
         "path": "merit-badges/automotive-maintenance/workbook/"
     },
     {
-        "badge": "aviation",
-        "name": "Aviation",
-        "path": "merit-badges/aviation/workbook/"
-    },
-    {
         "badge": "backpacking",
         "name": "Backpacking",
         "path": "merit-badges/backpacking/workbook/"
@@ -73,6 +68,11 @@
         "badge": "basketry",
         "name": "Basketry",
         "path": "merit-badges/basketry/workbook/"
+    },
+    {
+        "badge": "aviation",
+        "name": "Aviation",
+        "path": "merit-badges/aviation/workbook/"
     },
     {
         "badge": "bird-study",
@@ -105,14 +105,14 @@
         "path": "merit-badges/chess/workbook/"
     },
     {
-        "badge": "citizenship-in-the-community",
-        "name": "Citizenship in the Community",
-        "path": "merit-badges/citizenship-in-the-community/workbook/"
-    },
-    {
         "badge": "citizenship-in-the-nation",
         "name": "Citizenship in the Nation",
         "path": "merit-badges/citizenship-in-the-nation/workbook/"
+    },
+    {
+        "badge": "citizenship-in-the-community",
+        "name": "Citizenship in the Community",
+        "path": "merit-badges/citizenship-in-the-community/workbook/"
     },
     {
         "badge": "citizenship-in-the-world",
@@ -325,9 +325,19 @@
         "path": "merit-badges/indian-lore/workbook/"
     },
     {
+        "badge": "insect-study",
+        "name": "Insect Study",
+        "path": "merit-badges/insect-study/workbook/"
+    },
+    {
         "badge": "inventing",
         "name": "Inventing",
         "path": "merit-badges/inventing/workbook/"
+    },
+    {
+        "badge": "journalism",
+        "name": "Journalism",
+        "path": "merit-badges/journalism/workbook/"
     },
     {
         "badge": "kayaking",
@@ -350,19 +360,14 @@
         "path": "merit-badges/leatherwork/workbook/"
     },
     {
-        "badge": "journalism",
-        "name": "Journalism",
-        "path": "merit-badges/journalism/workbook/"
+        "badge": "mammal-study",
+        "name": "Mammal Study",
+        "path": "merit-badges/mammal-study/workbook/"
     },
     {
         "badge": "lifesaving",
         "name": "Lifesaving",
         "path": "merit-badges/lifesaving/workbook/"
-    },
-    {
-        "badge": "mammal-study",
-        "name": "Mammal Study",
-        "path": "merit-badges/mammal-study/workbook/"
     },
     {
         "badge": "medicine",
@@ -673,11 +678,6 @@
         "badge": "woodwork",
         "name": "Woodwork",
         "path": "merit-badges/woodwork/workbook/"
-    },
-    {
-        "badge": "insect-study",
-        "name": "Insect Study",
-        "path": "merit-badges/insect-study/workbook/"
     },
     {
         "badge": "animal-science",
