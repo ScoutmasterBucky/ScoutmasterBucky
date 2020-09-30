@@ -61,6 +61,17 @@ metalsmithSite.run({
             files['404.md'].rootPath = '/';
             done();
         });
+
+        // Finally, all workbooks should have their rootPath use fully qualified URLs
+        // because they are placed into PDFs.
+        sugar.use((files, metalsmith, done) => {
+            for (const key of Object.keys(files)) {
+                if (key.match(/^merit-badges\/[^/]*\/workbook\/index.md/)) {
+                    files[key].rootPath = files[key].site.url;
+                }
+            }
+            done();
+        });
     },
     postProcess: (done) => {
         generatePdfs(lastFiles, (e) => {
