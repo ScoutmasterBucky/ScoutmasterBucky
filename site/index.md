@@ -4,8 +4,9 @@ layout: smb
 opportunities: 14,050+
 online: 1,335+
 news:
-    - ONLINE Opportunities added.
-    - With many Scouts out of school, we have ramped up our online offerings to help accommodate the demand for merit badge opportunities.  We will do what we can to make as many opportunities available to as many Scouts as possible.  Keep checking the website for new and more opportunities.
+    - COVID 19 STATEMENT.
+    - New Fall 2020 Opportunities Added
+    - Site Redesign - Read More
 css:
     - css/calendar.css
 js:
