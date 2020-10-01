@@ -5,12 +5,17 @@ workbook: true
 year: 2020
 ---
 
-
-{{#wb-req item="1" requirement="Do TWO of the following, choosing a different group for each:"}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{#wb-req item="" alert="CHOOSE THREE GROUPS THAT HAVE DIFFERENT RACIAL, CULTURAL, NATIONAL, OR ETHNIC BACKGROUNDS, ONE OF WHICH COMES FROM YOUR OWN BACKGROUND.  USE THESE GROUPS TO MEET REQUIREMENTS 1, 2, AND 3"}}
+{{#wb-req-header}}Group #1:{{/wb-req-header}}
+{{#wb-req-text lines=4}}{{/wb-req-text}}
+{{#wb-req-header}}Group #2:{{/wb-req-header}}
+{{#wb-req-text lines=4}}{{/wb-req-text}}
+{{#wb-req-header}}Group #3:{{/wb-req-header}}
+{{#wb-req-text lines=4}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="1a" requirement="Go to a festival, celebration, or other event identified with one of the groups. Report on what you see and learn."}}
+{{#wb-req item="1a" alert="Do TWO of the following (1a, 1b, 1c, 1d, or 1e) for requirement 1, Choosing a different group for each." requirement="Go to a festival, celebration, or other event identified with one of the groups. Report on what you see and learn."}}
+{{#wb-req-note}}If selected, this requirement will need you to share your work with your counselor and does not require any workbook entry.{{/wb-req-note}}
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Event and Location:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Date:{{/wb-req-text}}
