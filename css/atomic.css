@@ -202,6 +202,9 @@
 .Ai\(c\) {
   align-items: center;
 }
+.Ai\(fe\) {
+  align-items: flex-end;
+}
 .Ai\(st\) {
   align-items: stretch;
 }
