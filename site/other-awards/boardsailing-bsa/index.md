@@ -1,8 +1,8 @@
 ---
 title: Boardsailing BSA
 layout: smb
-linkPath: Boardsailing-BSA/
-image: Scoutmaster-Bucky-BSA-Boardsailing-BSA.jpg
+linkPath: boardsailing-bsa/
+image: scoutmaster-bucky-bsa-boardsailing-bsa.jpg
 ---
 
 # Boardsailing BSA
