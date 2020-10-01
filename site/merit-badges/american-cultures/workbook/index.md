@@ -15,11 +15,10 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="1a" alert="Do TWO of the following (1a, 1b, 1c, 1d, or 1e) for requirement 1, Choosing a different group for each." requirement="Go to a festival, celebration, or other event identified with one of the groups. Report on what you see and learn."}}
-{{#wb-req-note}}If selected, this requirement will need you to share your work with your counselor and does not require any workbook entry.{{/wb-req-note}}
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Event and Location:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=16}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=20}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
@@ -27,7 +26,7 @@ year: 2020
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Place and Location:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=16}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=24}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
@@ -35,7 +34,7 @@ year: 2020
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Person's Name and Position / Title (if applicable):{{/wb-req-text}}
 {{#wb-req-text lines=2}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=16}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=24}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
@@ -43,7 +42,7 @@ year: 2020
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Song / Dance / Poem / Story:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=16}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=24}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
@@ -51,13 +50,13 @@ year: 2020
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Place and Location:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=16}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=24}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
 {{#wb-req item="2" requirement="Imagine that one of the groups had always lived alone in a city or country to which no other groups ever came. Tell what you think the city or country might be like today."}}
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
-{{#wb-req-text lines=16}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=28}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
@@ -78,7 +77,7 @@ year: 2020
 {{#wb-req-header}}Person #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
-{{#wb-req-text lines=14}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=16}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Person #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
@@ -96,5 +95,5 @@ year: 2020
 {{#wb-req-text lines=2}}Place and Location:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Date:{{/wb-req-text}}
 {{>wb-signature signator="Scout Leader / Teacher / Adult" checkbox="Confirmed"}}
-{{#wb-req-text lines=16}}{{/wb-req-text}}
+{{#wb-req-text lines=24}}{{/wb-req-text}}
 {{/wb-req}}
