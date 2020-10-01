@@ -1,0 +1,12 @@
+<script>
+window.events.push(
+    {
+        title:{{{json json=title}}},
+        description:{{{json json=subtitle}}},
+        url:"#"+{{{json json=ancestry.basename}}},
+        datetime: new Date({{{json json=eventDateStart}}}),
+        color:{{{json json=color}}}
+    }
+);
+</script>
+<a name="{{ancestry.basename}}" id="{{ancestry.basename}}"></a>
