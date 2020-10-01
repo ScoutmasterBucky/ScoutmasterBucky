@@ -10,7 +10,7 @@
         "build": "WORKBOOKS=true SERVE=true KILL_AFTER_WORKBOOKS=true node metalsmith.js",
         "clean": "rm -rf node_modules/ package-lock.json",
         "fastbuild": "node metalsmith.js",
-        "start": "SERVE=true node metalsmith.js"
+        "start": "SERVE=true LIVE_RELOAD=true node metalsmith.js"
     },
     "dependencies": {
         "@fidian/metalsmith-site": "^1.0.5",
