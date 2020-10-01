@@ -2,7 +2,7 @@
 title: 50 Miler
 layout: smb
 linkPath: 50-Miler/
-image: 50-Miler.jpg
+image: Scoutmaster-Bucky-BSA-50-Miler.jpg
 ---
 
 # 50-Miler
