@@ -46,7 +46,11 @@ Registration opens at 12:05 am on the first of the month for the following month
 {{#news}}
 <div class="D(f)">
 <div class="D(f) C(red) Fw(b) Px(8px)">NEW!</div>
-<div>{{.}}</div>
+<div>
+
+{{.}}
+
+</div>
 </div>
 {{/news}}
 </div>
