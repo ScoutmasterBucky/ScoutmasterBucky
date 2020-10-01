@@ -11,9 +11,11 @@ css:
     - css/calendar.css
 js:
     - js/jquery-3.4.1.min.js
-    - js/jquery.e-calendar-0.9.2.js
+    - js/jquery.e-calendar-0.9.3.js
     - index.js
 ---
+
+<script>window.events = [];</script>
 
 # <div class="D(f) Jc(sb) Ai(b) Fxd(c)--s"><div>Welcome</div><div class="Fz(0.4em) Fw(n) Tt(n)">Last Update: {{#date format="MMMM D, YYYY"}}{{buildDate}}{{/date}}</div></div>
 
