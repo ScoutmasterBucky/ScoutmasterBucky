@@ -98,7 +98,7 @@ year: 2020
 {{#wb-req item="1E" requirement="Discuss with your counselor how business impacts the local, national, and global economy"}}
 {{#wb-req-text lines=17}}Local:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=21}}National:{{/wb-req-text}}
+{{#wb-req-text lines=22}}National:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-text lines=21}}Global:{{/wb-req-text}}
 {{/wb-req}}
@@ -107,7 +107,7 @@ year: 2020
 {{#wb-req item="2A" requirement="Explain the three basic types of financial statements (income statement, balance sheet, and statement of cash flows). Discuss with your counselor how each statement can help business leaders make better decisions."}}
 {{#wb-req-header}}Income Statement{{/wb-req-header}}
 {{#wb-req-text lines=14}}Explanation:{{/wb-req-text}}
-{{#wb-req-text lines=23}}How it helps:{{/wb-req-text}}
+{{#wb-req-text lines=25}}How it helps:{{/wb-req-text}}
 {{#wb-req-header}}Balance Sheet{{/wb-req-header}}
 {{#wb-req-text lines=16}}Explanation:{{/wb-req-text}}
 {{#wb-req-text lines=25}}How it helps:{{/wb-req-text}}
