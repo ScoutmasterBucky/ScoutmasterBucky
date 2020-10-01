@@ -108,11 +108,9 @@ year: 2020
 {{#wb-req-header}}Income Statement{{/wb-req-header}}
 {{#wb-req-text lines=14}}Explanation:{{/wb-req-text}}
 {{#wb-req-text lines=23}}How it helps:{{/wb-req-text}}
-{{>wb-req-allow-break}}
 {{#wb-req-header}}Balance Sheet{{/wb-req-header}}
 {{#wb-req-text lines=16}}Explanation:{{/wb-req-text}}
 {{#wb-req-text lines=25}}How it helps:{{/wb-req-text}}
-{{>wb-req-allow-break}}
 {{#wb-req-header}}Statement of Cash Flows{{/wb-req-header}}
 {{#wb-req-text lines=16}}Explanation:{{/wb-req-text}}
 {{#wb-req-text lines=25}}How it helps:{{/wb-req-text}}
@@ -191,19 +189,19 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="4A" alert="Do TWO of the following (4A, 4B, 4C, or 4D) for requirement 4:" requirement="Discuss the Fair Labor Standards Act (FLSA)."}}
-{{#wb-req-text lines=16}}{{/wb-req-text}}
+{{#wb-req-text lines=20}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="4B" requirement="Discuss the Occupational Safety and Health Act (OSHA)."}}
-{{#wb-req-text lines=16}}{{/wb-req-text}}
+{{#wb-req-text lines=20}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="4C" requirement="Discuss the  Family and Medical Leave Act (FMLA)."}}
-{{#wb-req-text lines=16}}{{/wb-req-text}}
+{{#wb-req-text lines=20}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="4D" requirement="Discuss the Employee Retirement Income Security Act (ERISA)."}}
-{{#wb-req-text lines=16}}{{/wb-req-text}}
+{{#wb-req-text lines=20}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="5" requirement="Choose a business and research how it applies each of the primary areas of business (accounting, finance, economics, marketing, and management). Share what you have learned with your counselor."}}
@@ -218,7 +216,7 @@ year: 2020
 {{>wb-req-allow-break}}
 {{#wb-req-text lines=11}}Management:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=24}}Additional Notes:{{/wb-req-text}}
+{{#wb-req-text lines=14}}Additional Notes:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="6A" alert="Do ONE of the following (6a or 6b) for requirement 6:" requirement="Choose one of the primary areas of business and identify three career opportunities.  Select one and research the education, training, and experience required for this career.  Discuss with your counselor and explain why this interests you."}}
