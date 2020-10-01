@@ -50,14 +50,14 @@
         "path": "merit-badges/astronomy/workbook/"
     },
     {
-        "badge": "automotive-maintenance",
-        "name": "Automotive Maintenance",
-        "path": "merit-badges/automotive-maintenance/workbook/"
-    },
-    {
         "badge": "athletics",
         "name": "Athletics",
         "path": "merit-badges/athletics/workbook/"
+    },
+    {
+        "badge": "automotive-maintenance",
+        "name": "Automotive Maintenance",
+        "path": "merit-badges/automotive-maintenance/workbook/"
     },
     {
         "badge": "aviation",
@@ -385,14 +385,14 @@
         "path": "merit-badges/mining-in-society/workbook/"
     },
     {
-        "badge": "model-design-and-building",
-        "name": "Model Design and Building",
-        "path": "merit-badges/model-design-and-building/workbook/"
-    },
-    {
         "badge": "motorboating",
         "name": "Motorboating",
         "path": "merit-badges/motorboating/workbook/"
+    },
+    {
+        "badge": "model-design-and-building",
+        "name": "Model Design and Building",
+        "path": "merit-badges/model-design-and-building/workbook/"
     },
     {
         "badge": "moviemaking",
@@ -650,6 +650,11 @@
         "path": "merit-badges/water-sports/workbook/"
     },
     {
+        "badge": "weather",
+        "name": "Weather",
+        "path": "merit-badges/weather/workbook/"
+    },
+    {
         "badge": "welding",
         "name": "Welding",
         "path": "merit-badges/welding/workbook/"
@@ -668,11 +673,6 @@
         "badge": "wood-carving",
         "name": "Wood Carving",
         "path": "merit-badges/wood-carving/workbook/"
-    },
-    {
-        "badge": "weather",
-        "name": "Weather",
-        "path": "merit-badges/weather/workbook/"
     },
     {
         "badge": "woodwork",
