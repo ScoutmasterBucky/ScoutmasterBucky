@@ -28,11 +28,11 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="1A" requirement="Tell how the Scout Oath and Scout Law apply to business and free enterprise."}}
-{{#wb-req-text lines=24}}{{/wb-req-text}}
+{{#wb-req-text lines=18}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1B" requirement="Describe the Industrial Revolution."}}
-{{#wb-req-text lines=24}}{{/wb-req-text}}
+{{#wb-req-text lines=18}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1B" requirement="Tell about the major developments that marked the start of the modern industrial era in the United States."}}
