@@ -75,7 +75,7 @@ Email: <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry">Sco
 
 </div>
 <div class="Maw(30%)--s M(a)--s">
-<img src="images/bucky-waving.jpg" alt="Bucky Waving" class="W(100%) H(a)" width="100" height="119" />
+<img src="images/bucky-waving.jpg" alt="Bucky Waving" class="W(75%) H(a)" width="100" height="119" />
 </div>
 </div>
 
