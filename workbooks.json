@@ -55,14 +55,14 @@
         "path": "merit-badges/athletics/workbook/"
     },
     {
-        "badge": "aviation",
-        "name": "Aviation",
-        "path": "merit-badges/aviation/workbook/"
-    },
-    {
         "badge": "automotive-maintenance",
         "name": "Automotive Maintenance",
         "path": "merit-badges/automotive-maintenance/workbook/"
+    },
+    {
+        "badge": "aviation",
+        "name": "Aviation",
+        "path": "merit-badges/aviation/workbook/"
     },
     {
         "badge": "backpacking",
@@ -110,11 +110,6 @@
         "path": "merit-badges/citizenship-in-the-community/workbook/"
     },
     {
-        "badge": "citizenship-in-the-nation",
-        "name": "Citizenship in the Nation",
-        "path": "merit-badges/citizenship-in-the-nation/workbook/"
-    },
-    {
         "badge": "citizenship-in-the-world",
         "name": "Citizenship in the World",
         "path": "merit-badges/citizenship-in-the-world/workbook/"
@@ -125,14 +120,19 @@
         "path": "merit-badges/climbing/workbook/"
     },
     {
-        "badge": "collections",
-        "name": "Collections",
-        "path": "merit-badges/collections/workbook/"
-    },
-    {
         "badge": "coin-collecting",
         "name": "Coin Collecting",
         "path": "merit-badges/coin-collecting/workbook/"
+    },
+    {
+        "badge": "citizenship-in-the-nation",
+        "name": "Citizenship in the Nation",
+        "path": "merit-badges/citizenship-in-the-nation/workbook/"
+    },
+    {
+        "badge": "collections",
+        "name": "Collections",
+        "path": "merit-badges/collections/workbook/"
     },
     {
         "badge": "communication",
@@ -140,14 +140,14 @@
         "path": "merit-badges/communication/workbook/"
     },
     {
-        "badge": "composite-materials",
-        "name": "Composite Materials",
-        "path": "merit-badges/composite-materials/workbook/"
-    },
-    {
         "badge": "cooking",
         "name": "Cooking",
         "path": "merit-badges/cooking/workbook/"
+    },
+    {
+        "badge": "composite-materials",
+        "name": "Composite Materials",
+        "path": "merit-badges/composite-materials/workbook/"
     },
     {
         "badge": "crime-prevention",
@@ -160,14 +160,14 @@
         "path": "merit-badges/cycling/workbook/"
     },
     {
-        "badge": "digital-technology",
-        "name": "Digital Technology",
-        "path": "merit-badges/digital-technology/workbook/"
-    },
-    {
         "badge": "dentistry",
         "name": "Dentistry",
         "path": "merit-badges/dentistry/workbook/"
+    },
+    {
+        "badge": "digital-technology",
+        "name": "Digital Technology",
+        "path": "merit-badges/digital-technology/workbook/"
     },
     {
         "badge": "disabilities-awareness",
@@ -210,6 +210,11 @@
         "path": "merit-badges/engineering/workbook/"
     },
     {
+        "badge": "entrepreneurship",
+        "name": "Entrepreneurship",
+        "path": "merit-badges/entrepreneurship/workbook/"
+    },
+    {
         "badge": "environmental-science",
         "name": "Environmental Science",
         "path": "merit-badges/environmental-science/workbook/"
@@ -218,11 +223,6 @@
         "badge": "exploration",
         "name": "Exploration",
         "path": "merit-badges/exploration/workbook/"
-    },
-    {
-        "badge": "entrepreneurship",
-        "name": "Entrepreneurship",
-        "path": "merit-badges/entrepreneurship/workbook/"
     },
     {
         "badge": "family-life",
@@ -535,14 +535,19 @@
         "path": "merit-badges/salesmanship/workbook/"
     },
     {
+        "badge": "scouting-heritage",
+        "name": "Scouting Heritage",
+        "path": "merit-badges/scouting-heritage/workbook/"
+    },
+    {
         "badge": "scholarship",
         "name": "Scholarship",
         "path": "merit-badges/scholarship/workbook/"
     },
     {
-        "badge": "scouting-heritage",
-        "name": "Scouting Heritage",
-        "path": "merit-badges/scouting-heritage/workbook/"
+        "badge": "scuba-diving",
+        "name": "Scuba Diving",
+        "path": "merit-badges/scuba-diving/workbook/"
     },
     {
         "badge": "sculpture",
@@ -585,6 +590,11 @@
         "path": "merit-badges/soil-and-water-conservation/workbook/"
     },
     {
+        "badge": "space-exploration",
+        "name": "Space Exploration",
+        "path": "merit-badges/space-exploration/workbook/"
+    },
+    {
         "badge": "sports",
         "name": "Sports",
         "path": "merit-badges/sports/workbook/"
@@ -593,11 +603,6 @@
         "badge": "stamp-collecting",
         "name": "Stamp Collecting",
         "path": "merit-badges/stamp-collecting/workbook/"
-    },
-    {
-        "badge": "space-exploration",
-        "name": "Space Exploration",
-        "path": "merit-badges/space-exploration/workbook/"
     },
     {
         "badge": "surveying",
@@ -673,11 +678,6 @@
         "badge": "woodwork",
         "name": "Woodwork",
         "path": "merit-badges/woodwork/workbook/"
-    },
-    {
-        "badge": "scuba-diving",
-        "name": "Scuba Diving",
-        "path": "merit-badges/scuba-diving/workbook/"
     },
     {
         "badge": "animal-science",
