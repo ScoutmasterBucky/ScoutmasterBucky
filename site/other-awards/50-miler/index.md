@@ -1,21 +1,21 @@
 ---
 title: 50 Miler
 layout: smb
-linkPath: 50-miler/
-image: 50-miler.jpg
+linkPath: 50-Miler/
+image: 50-Miler.jpg
 ---
 
 # 50-Miler
 
 <div class="D(f) Fxd(c)--s"><div>
 
-The primary objective of this program is to stimulate Boy Scouts, Varsity Scouts, and Venturing Scouts interest in the ideals of the movement and to promote activity that will result in personal fitness, self-reliance, knowledge of wood lore, and a practical understanding of conservation.
+The primary objective of this program is to stimulate Scouts BSA and Venturing Scouts interest in the ideals of the movement and to promote activity that will result in personal fitness, self-reliance, knowledge of wood lore, and a practical understanding of conservation.
 
 Chartered unit participation is most desirable; however, provisional groups are eligible. This award does not apply if any other award is available for a trip.
 
 </div><div class="Ta(c) Pt(1em)--s">
 
-![50-Miler Award]({{image}})
+![50-Miler]({{image}})
 
 </div></div>
 
