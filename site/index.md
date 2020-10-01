@@ -87,7 +87,6 @@ In an effort to minimize usefulness we have focused on the areas that we get the
 
 We will be adding back the historical pages in the near future along with more content that is useful to all Scouts and Scouters. We will remain ad free and focused on our Scouting community for providing useful information and opportunities.
 
-</div>
 
 ## Upcoming Events
 
