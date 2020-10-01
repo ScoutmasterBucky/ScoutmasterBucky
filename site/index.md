@@ -91,7 +91,7 @@ We will be adding back the historical pages in the near future along with more c
 
 ## Upcoming Events
 
-</div>
+
 
 {{#ancestry.childrenByName.events.ancestry.members}}
 {{>event}}
