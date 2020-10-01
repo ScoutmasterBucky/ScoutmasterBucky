@@ -32,7 +32,7 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="1B" requirement="Describe the Industrial Revolution."}}
-{{#wb-req-text lines=20}}{{/wb-req-text}}
+{{#wb-req-text lines=21}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1B" requirement="Tell about the major developments that marked the start of the modern industrial era in the United States."}}
@@ -49,15 +49,15 @@ year: 2020
 {{#wb-req item="1B" requirement="Discuss three people who had a great influence on business or industry in the United States and describe what each did."}}
 {{#wb-req-header}}Person #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=9}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Person #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=9}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Person #3{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=9}}Notes:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1C" requirement="Identify and describe to your counselor the five primary areas of business"}}
@@ -98,41 +98,41 @@ year: 2020
 {{#wb-req item="1E" requirement="Discuss with your counselor how business impacts the local, national, and global economy"}}
 {{#wb-req-text lines=17}}Local:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=20}}National:{{/wb-req-text}}
+{{#wb-req-text lines=21}}National:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=20}}Global:{{/wb-req-text}}
+{{#wb-req-text lines=21}}Global:{{/wb-req-text}}
 {{/wb-req}}
 
 
 {{#wb-req item="2A" requirement="Explain the three basic types of financial statements (income statement, balance sheet, and statement of cash flows). Discuss with your counselor how each statement can help business leaders make better decisions."}}
 {{#wb-req-header}}Income Statement{{/wb-req-header}}
 {{#wb-req-text lines=14}}Explanation:{{/wb-req-text}}
-{{#wb-req-text lines=20}}How it helps:{{/wb-req-text}}
+{{#wb-req-text lines=23}}How it helps:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Balance Sheet{{/wb-req-header}}
 {{#wb-req-text lines=16}}Explanation:{{/wb-req-text}}
-{{#wb-req-text lines=24}}How it helps:{{/wb-req-text}}
+{{#wb-req-text lines=25}}How it helps:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Statement of Cash Flows{{/wb-req-header}}
 {{#wb-req-text lines=16}}Explanation:{{/wb-req-text}}
-{{#wb-req-text lines=24}}How it helps:{{/wb-req-text}}
+{{#wb-req-text lines=25}}How it helps:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2B" requirement="Explain how changes in interest rates, taxes, and government spending affect the flow of money into or out of business and industry."}}
-{{#wb-req-text lines=12}}Interest Rates:{{/wb-req-text}}
+{{#wb-req-text lines=13}}Interest Rates:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=12}}Taxes:{{/wb-req-text}}
+{{#wb-req-text lines=13}}Taxes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=12}}Government Spending:{{/wb-req-text}}
+{{#wb-req-text lines=13}}Government Spending:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2C" requirement="Explain how a proprietorship or partnership gets its capital."}}
-{{#wb-req-text lines=24}}{{/wb-req-text}}
+{{#wb-req-text lines=26}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2C" requirement="Discuss and explain four ways a corporation obtains capital."}}
 {{#wb-req-header}}How a corporation obtains capital #1{{/wb-req-header}}
-{{#wb-req-text lines=12}}{{/wb-req-text}}
+{{#wb-req-text lines=14}}{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}How a corporation obtains capital #2{{/wb-req-header}}
 {{#wb-req-text lines=13}}{{/wb-req-text}}
@@ -191,19 +191,19 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="4A" alert="Do TWO of the following (4A, 4B, 4C, or 4D) for requirement 4:" requirement="Discuss the Fair Labor Standards Act (FLSA)."}}
-{{#wb-req-text lines=28}}{{/wb-req-text}}
+{{#wb-req-text lines=16}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="4B" requirement="Discuss the Occupational Safety and Health Act (OSHA)."}}
-{{#wb-req-text lines=14}}{{/wb-req-text}}
+{{#wb-req-text lines=16}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="4C" requirement="Discuss the  Family and Medical Leave Act (FMLA)."}}
-{{#wb-req-text lines=14}}{{/wb-req-text}}
+{{#wb-req-text lines=16}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="4D" requirement="Discuss the Employee Retirement Income Security Act (ERISA)."}}
-{{#wb-req-text lines=14}}{{/wb-req-text}}
+{{#wb-req-text lines=16}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="5" requirement="Choose a business and research how it applies each of the primary areas of business (accounting, finance, economics, marketing, and management). Share what you have learned with your counselor."}}
