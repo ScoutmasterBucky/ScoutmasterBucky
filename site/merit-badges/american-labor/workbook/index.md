@@ -61,7 +61,9 @@ year: 2020
 {{#wb-req-text lines=32}}Notes:{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5A" alert="Do ONE of the following (9a, 9b, 9c, or 9d) for requirement 9:" requirement="Collect and identify 50 foreign coins from at least 10 different countries."}}
+{{#wb-req item="5a" alert="Do ONE of the following (9a, 9b, 9c, or 9d) for requirement 9:" requirement="Collect and identify 50 foreign coins from at least 10 different countries."}}
+{{/wb-req}}
+
 {{#wb-req item="5a" requirement="Develop a time line of significant events in the history of the American labor movement from the 1770s to the present."}}
 {{#wb-req-text lines=28}}{{/wb-req-text}}
 {{/wb-req}}
