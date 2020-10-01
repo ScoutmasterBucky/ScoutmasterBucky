@@ -7,11 +7,11 @@ year: 2020
 
 
 {{#wb-req item="1" requirement="Read the Declaration of Independence. Pay close attention to the section that begins with \"We hold these truths to be self-evident\" and ends with \"to provide new Guards for their future security.\" Rewrite that section in your own words, making it as easy to understand as possible."}}
-{{#wb-req-text lines=16}}{{/wb-req-text}}
+{{#wb-req-text lines=28}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1" requirement="Then, share your writing with your merit badge counselor and discuss the importance of the Declaration to all Americans."}}
-{{#wb-req-text lines=28}}{{/wb-req-text}}
+{{#wb-req-text lines=26}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2a" alert="Do TWO of the following (2a, 2b, 2c, or 2d) for requirement 2:" requirement="Select two individuals from American history, one a political leader (a president, senator, etc.) and the other a private citizen (a writer, religious leader, etc.). Find out about each person's accomplishments and compare the contributions each has made to America's heritage."}}
@@ -23,7 +23,7 @@ year: 2020
 {{#wb-req-text lines=2}}Profession:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Comparison of selected individuals:{{/wb-req-header}}
-{{#wb-req-text lines=32}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=20}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 

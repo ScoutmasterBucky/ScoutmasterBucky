@@ -5,7 +5,7 @@ workbook: true
 year: 2020
 ---
 
-{{#wb-req item="" alert="CHOOSE THREE GROUPS THAT HAVE DIFFERENT RACIAL, CULTURAL, NATIONAL, OR ETHNIC BACKGROUNDS, ONE OF WHICH COMES FROM YOUR OWN BACKGROUND.  USE THESE GROUPS TO MEET REQUIREMENTS 1, 2, AND 3"}}
+{{#wb-req alert="CHOOSE THREE GROUPS THAT HAVE DIFFERENT RACIAL, CULTURAL, NATIONAL, OR ETHNIC BACKGROUNDS, ONE OF WHICH COMES FROM YOUR OWN BACKGROUND.  USE THESE GROUPS TO MEET REQUIREMENTS 1, 2, AND 3"}}
 {{#wb-req-header}}Group #1:{{/wb-req-header}}
 {{#wb-req-text lines=4}}{{/wb-req-text}}
 {{#wb-req-header}}Group #2:{{/wb-req-header}}
@@ -26,7 +26,7 @@ year: 2020
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Place and Location:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=30}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=32}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
@@ -34,7 +34,7 @@ year: 2020
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Person's Name and Position / Title (if applicable):{{/wb-req-text}}
 {{#wb-req-text lines=2}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=30}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=32}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
@@ -42,7 +42,7 @@ year: 2020
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Song / Dance / Poem / Story:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=30}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=32}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
@@ -56,28 +56,28 @@ year: 2020
 
 {{#wb-req item="2" requirement="Imagine that one of the groups had always lived alone in a city or country to which no other groups ever came. Tell what you think the city or country might be like today."}}
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
-{{#wb-req-text lines=28}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=34}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
 {{#wb-req item="2" requirement="Now tell what you think it might be like if the three groups you chose lived there at the same time."}}
-{{#wb-req-text lines=30}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=34}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
 {{#wb-req item="3" requirement="Tell about some differences between the religions and social customs of the three groups."}}
-{{#wb-req-text lines=16}}{{/wb-req-text}}
+{{#wb-req-text lines=20}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="3" requirement="Tell about some ideas or ways of doing things that are similar in the three groups."}}
-{{#wb-req-text lines=16}}{{/wb-req-text}}
+{{#wb-req-text lines=20}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="4" requirement="Tell about a contribution made to our country by three different people, each from a different racial, ethnic, or religious background."}}
 {{#wb-req-header}}Person #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
-{{#wb-req-text lines=16}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=28}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Person #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
