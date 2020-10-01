@@ -7,13 +7,11 @@ workbook: true
 
 **Hog Option**
 
-This is a table example
+{{#requirements}}
 
 {{#wb-req item="1" requirement="Example table for you to copy and paste."}}
 {{>wb-req-table col="Age" col2="Type of Feed" col3="Amount of Feed Consumed" col4="Cumulative Feed Consumed" col5="Body Weight" col6="Weight Gain" col7="Target Weight" row="Week 1" row2="Week 2" row3="Week 3" row4="Week 4" row5="Week 5" row6="Week 6" row7="Week 7" row8="Week 8" row9="Week 9" row10="Week 10" row11="Week 11" row12="Week 12" row13="Week 13" row14="Week 14" row15="Week 15" row16="Week 16" row17="Week 17" row18="Week 18" row19="Week 19" row20="Week 20" row21="Week 21" row22="Week 22" row23="Week 23" row24="Week 24" row25="Week 25" row26="Week 26" row27="Week 27" row28="Week 28" row29="Week 29" row30="Week 30" row31="Week 31" row32="Week 32"}}
-
-
-{{#requirements}}
+{{/wb-req}}
 
 {{#wb-req item="1" requirement="Name four breeds of livestock in each of the following classifications: horses, dairy cattle, beef cattle, sheep, hogs. Tell their principal uses and merits. Tell where the breeds originated."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
@@ -206,3 +204,5 @@ This is a table example
 {{#wb-req item="7" requirement="Find out about three career opportunities in animal science. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
+
+{{/requirements}}
