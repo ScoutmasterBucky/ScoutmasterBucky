@@ -135,14 +135,14 @@
         "path": "merit-badges/collections/workbook/"
     },
     {
-        "badge": "composite-materials",
-        "name": "Composite Materials",
-        "path": "merit-badges/composite-materials/workbook/"
-    },
-    {
         "badge": "communication",
         "name": "Communication",
         "path": "merit-badges/communication/workbook/"
+    },
+    {
+        "badge": "composite-materials",
+        "name": "Composite Materials",
+        "path": "merit-badges/composite-materials/workbook/"
     },
     {
         "badge": "cooking",
@@ -175,6 +175,11 @@
         "path": "merit-badges/disabilities-awareness/workbook/"
     },
     {
+        "badge": "dog-care",
+        "name": "Dog Care",
+        "path": "merit-badges/dog-care/workbook/"
+    },
+    {
         "badge": "drafting",
         "name": "Drafting",
         "path": "merit-badges/drafting/workbook/"
@@ -185,19 +190,14 @@
         "path": "merit-badges/electricity/workbook/"
     },
     {
-        "badge": "dog-care",
-        "name": "Dog Care",
-        "path": "merit-badges/dog-care/workbook/"
+        "badge": "electronics",
+        "name": "Electronics",
+        "path": "merit-badges/electronics/workbook/"
     },
     {
         "badge": "emergency-preparedness",
         "name": "Emergency Preparedness",
         "path": "merit-badges/emergency-preparedness/workbook/"
-    },
-    {
-        "badge": "electronics",
-        "name": "Electronics",
-        "path": "merit-badges/electronics/workbook/"
     },
     {
         "badge": "energy",
@@ -215,6 +215,11 @@
         "path": "merit-badges/entrepreneurship/workbook/"
     },
     {
+        "badge": "environmental-science",
+        "name": "Environmental Science",
+        "path": "merit-badges/environmental-science/workbook/"
+    },
+    {
         "badge": "exploration",
         "name": "Exploration",
         "path": "merit-badges/exploration/workbook/"
@@ -228,11 +233,6 @@
         "badge": "farm-mechanics",
         "name": "Farm Mechanics",
         "path": "merit-badges/farm-mechanics/workbook/"
-    },
-    {
-        "badge": "environmental-science",
-        "name": "Environmental Science",
-        "path": "merit-badges/environmental-science/workbook/"
     },
     {
         "badge": "fingerprinting",
@@ -280,14 +280,14 @@
         "path": "merit-badges/gardening/workbook/"
     },
     {
-        "badge": "geocaching",
-        "name": "Geocaching",
-        "path": "merit-badges/geocaching/workbook/"
-    },
-    {
         "badge": "genealogy",
         "name": "Genealogy",
         "path": "merit-badges/genealogy/workbook/"
+    },
+    {
+        "badge": "geocaching",
+        "name": "Geocaching",
+        "path": "merit-badges/geocaching/workbook/"
     },
     {
         "badge": "geology",
@@ -310,14 +310,14 @@
         "path": "merit-badges/hiking/workbook/"
     },
     {
-        "badge": "horsemanship",
-        "name": "Horsemanship",
-        "path": "merit-badges/horsemanship/workbook/"
-    },
-    {
         "badge": "home-repairs",
         "name": "Home Repairs",
         "path": "merit-badges/home-repairs/workbook/"
+    },
+    {
+        "badge": "horsemanship",
+        "name": "Horsemanship",
+        "path": "merit-badges/horsemanship/workbook/"
     },
     {
         "badge": "indian-lore",
@@ -610,14 +610,14 @@
         "path": "merit-badges/surveying/workbook/"
     },
     {
-        "badge": "swimming",
-        "name": "Swimming",
-        "path": "merit-badges/swimming/workbook/"
-    },
-    {
         "badge": "sustainability",
         "name": "Sustainability",
         "path": "merit-badges/sustainability/workbook/"
+    },
+    {
+        "badge": "swimming",
+        "name": "Swimming",
+        "path": "merit-badges/swimming/workbook/"
     },
     {
         "badge": "textile",
@@ -660,11 +660,6 @@
         "path": "merit-badges/welding/workbook/"
     },
     {
-        "badge": "whitewater",
-        "name": "Whitewater",
-        "path": "merit-badges/whitewater/workbook/"
-    },
-    {
         "badge": "wilderness-survival",
         "name": "Wilderness Survival",
         "path": "merit-badges/wilderness-survival/workbook/"
@@ -678,6 +673,11 @@
         "badge": "woodwork",
         "name": "Woodwork",
         "path": "merit-badges/woodwork/workbook/"
+    },
+    {
+        "badge": "whitewater",
+        "name": "Whitewater",
+        "path": "merit-badges/whitewater/workbook/"
     },
     {
         "badge": "animal-science",
