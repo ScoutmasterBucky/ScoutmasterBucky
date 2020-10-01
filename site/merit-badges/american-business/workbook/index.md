@@ -24,7 +24,7 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="1A" requirement="Describe the difference between freedom and license."}}
-{{#wb-req-text lines=9}}{{/wb-req-text}}
+{{#wb-req-text lines=10}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1A" requirement="Tell how the Scout Oath and Scout Law apply to business and free enterprise."}}
@@ -106,14 +106,14 @@ year: 2020
 
 {{#wb-req item="2A" requirement="Explain the three basic types of financial statements (income statement, balance sheet, and statement of cash flows). Discuss with your counselor how each statement can help business leaders make better decisions."}}
 {{#wb-req-header}}Income Statement{{/wb-req-header}}
-{{#wb-req-text lines=14}}Explanation:{{/wb-req-text}}
+{{#wb-req-text lines=15}}Explanation:{{/wb-req-text}}
 {{#wb-req-text lines=25}}How it helps:{{/wb-req-text}}
 {{#wb-req-header}}Balance Sheet{{/wb-req-header}}
 {{#wb-req-text lines=16}}Explanation:{{/wb-req-text}}
-{{#wb-req-text lines=25}}How it helps:{{/wb-req-text}}
+{{#wb-req-text lines=26}}How it helps:{{/wb-req-text}}
 {{#wb-req-header}}Statement of Cash Flows{{/wb-req-header}}
 {{#wb-req-text lines=16}}Explanation:{{/wb-req-text}}
-{{#wb-req-text lines=25}}How it helps:{{/wb-req-text}}
+{{#wb-req-text lines=26}}How it helps:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2B" requirement="Explain how changes in interest rates, taxes, and government spending affect the flow of money into or out of business and industry."}}
@@ -189,11 +189,11 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="4A" alert="Do TWO of the following (4A, 4B, 4C, or 4D) for requirement 4:" requirement="Discuss the Fair Labor Standards Act (FLSA)."}}
-{{#wb-req-text lines=20}}{{/wb-req-text}}
+{{#wb-req-text lines=19}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="4B" requirement="Discuss the Occupational Safety and Health Act (OSHA)."}}
-{{#wb-req-text lines=20}}{{/wb-req-text}}
+{{#wb-req-text lines=19}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="4C" requirement="Discuss the  Family and Medical Leave Act (FMLA)."}}

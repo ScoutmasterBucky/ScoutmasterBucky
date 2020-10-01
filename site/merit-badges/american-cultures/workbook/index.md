@@ -56,12 +56,12 @@ year: 2020
 
 {{#wb-req item="2" requirement="Imagine that one of the groups had always lived alone in a city or country to which no other groups ever came. Tell what you think the city or country might be like today."}}
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
-{{#wb-req-text lines=36}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=38}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
 {{#wb-req item="2" requirement="Now tell what you think it might be like if the three groups you chose lived there at the same time."}}
-{{#wb-req-text lines=38}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=40}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
@@ -77,7 +77,7 @@ year: 2020
 {{#wb-req-header}}Person #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
-{{#wb-req-text lines=32}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=34}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Person #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
