@@ -11,26 +11,19 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="1" requirement="Then, share your writing with your merit badge counselor and discuss the importance of the Declaration to all Americans."}}
-{{#wb-req-text lines=16}}{{/wb-req-text}}
+{{#wb-req-text lines=28}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2" requirement="Do TWO of the following:"}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="2a" requirement="Select two individuals from American history, one a political leader (a president, senator, etc.) and the other a private citizen (a writer, religious leader, etc.). Find out about each person's accomplishments and compare the contributions each has made to America's heritage."}}
+{{#wb-req item="2a" alert="Do TWO of the following (2a, 2b, 2c, or 2d) for requirement 2:" requirement="Select two individuals from American history, one a political leader (a president, senator, etc.) and the other a private citizen (a writer, religious leader, etc.). Find out about each person's accomplishments and compare the contributions each has made to America's heritage."}}
 {{#wb-req-header}}Political Leader:{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Profession:{{/wb-req-text}}
-{{#wb-req-text lines=8}}Accomplishments:{{/wb-req-text}}
-{{>wb-req-allow-break}}
-{{#wb-req-header}}Private Citizen:{{/wb-req-header}}
+{{>wb-req-allow-break}}{{#wb-req-header}}Private Citizen:{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Profession:{{/wb-req-text}}
-{{#wb-req-text lines=8}}Accomplishments:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Comparison of selected individuals:{{/wb-req-header}}
-{{#wb-req-text lines=16}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=32}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 

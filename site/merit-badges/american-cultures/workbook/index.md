@@ -18,7 +18,7 @@ year: 2020
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Event and Location:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=26}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=28}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
@@ -26,7 +26,7 @@ year: 2020
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Place and Location:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=28}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=30}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
@@ -34,7 +34,7 @@ year: 2020
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Person's Name and Position / Title (if applicable):{{/wb-req-text}}
 {{#wb-req-text lines=2}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=28}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=30}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
@@ -42,7 +42,7 @@ year: 2020
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Song / Dance / Poem / Story:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=28}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=30}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
@@ -61,7 +61,7 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="2" requirement="Now tell what you think it might be like if the three groups you chose lived there at the same time."}}
-{{#wb-req-text lines=24}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=30}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
@@ -95,5 +95,5 @@ year: 2020
 {{#wb-req-text lines=2}}Place and Location:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Date:{{/wb-req-text}}
 {{>wb-signature signator="Scout Leader / Teacher / Adult" checkbox="Confirmed"}}
-{{#wb-req-text lines=30}}{{/wb-req-text}}
+{{#wb-req-text lines=31}}{{/wb-req-text}}
 {{/wb-req}}
