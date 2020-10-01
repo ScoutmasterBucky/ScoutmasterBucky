@@ -8,86 +8,86 @@ year: 2020
 {{#wb-req item="1A" requirement="Explain four features of the free enterprise system in the United States."}}
 {{#wb-req-header}}Feature #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Feature #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Feature #3{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Feature #4{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Notes:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1A" requirement="Describe the difference between freedom and license."}}
-{{#wb-req-text lines=10}}{{/wb-req-text}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1A" requirement="Tell how the Scout Oath and Scout Law apply to business and free enterprise."}}
-{{#wb-req-text lines=10}}{{/wb-req-text}}
+{{#wb-req-text lines=12}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1B" requirement="Describe the Industrial Revolution."}}
-{{#wb-req-text lines=10}}{{/wb-req-text}}
+{{#wb-req-text lines=12}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1B" requirement="Tell about the major developments that marked the start of the modern industrial era in the United States."}}
 {{#wb-req-header}}Major Development #1{{/wb-req-header}}
-{{#wb-req-text lines=10}}{{/wb-req-text}}
+{{#wb-req-text lines=12}}{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Major Development #2{{/wb-req-header}}
-{{#wb-req-text lines=10}}{{/wb-req-text}}
+{{#wb-req-text lines=12}}{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Major Development #3{{/wb-req-header}}
-{{#wb-req-text lines=10}}{{/wb-req-text}}
+{{#wb-req-text lines=12}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1B" requirement="Discuss three people who had a great influence on business or industry in the United States and describe what each did."}}
 {{#wb-req-header}}Person #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Person #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Person #3{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=8}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Notes:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1C" requirement="Identify and describe to your counselor the five primary areas of business"}}
 {{#wb-req-header}}Area of Business #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
-{{#wb-req-text lines=8}}Describe:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Describe:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Area of Business #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
-{{#wb-req-text lines=8}}Describe:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Describe:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Area of Business #3{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
-{{#wb-req-text lines=8}}Describe:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Describe:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Area of Business #4{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
-{{#wb-req-text lines=8}}Describe:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Describe:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Area of Business #5{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
-{{#wb-req-text lines=8}}Describe:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Describe:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1D" requirement="Explain the history of labor unions in the United States."}}
-{{#wb-req-text lines=10}}{{/wb-req-text}}
+{{#wb-req-text lines=12}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1D" requirement="Explain the importance of labor unions and employers working together."}}
-{{#wb-req-text lines=15}}{{/wb-req-text}}
+{{#wb-req-text lines=12}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1D" requirement="Identify two major labor unions currently in existence."}}
@@ -96,26 +96,26 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="1E" requirement="Discuss with your counselor how business impacts the local, national, and global economy"}}
-{{#wb-req-text lines=12}}Local:{{/wb-req-text}}
+{{#wb-req-text lines=14}}Local:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=12}}National:{{/wb-req-text}}
+{{#wb-req-text lines=14}}National:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=12}}Global:{{/wb-req-text}}
+{{#wb-req-text lines=14}}Global:{{/wb-req-text}}
 {{/wb-req}}
 
 
 {{#wb-req item="2A" requirement="Explain the three basic types of financial statements (income statement, balance sheet, and statement of cash flows). Discuss with your counselor how each statement can help business leaders make better decisions."}}
 {{#wb-req-header}}Income Statement{{/wb-req-header}}
-{{#wb-req-text lines=8}}Explanation:{{/wb-req-text}}
-{{#wb-req-text lines=8}}How it helps:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Explanation:{{/wb-req-text}}
+{{#wb-req-text lines=12}}How it helps:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Balance Sheet{{/wb-req-header}}
-{{#wb-req-text lines=8}}Explanation:{{/wb-req-text}}
-{{#wb-req-text lines=8}}How it helps:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Explanation:{{/wb-req-text}}
+{{#wb-req-text lines=12}}How it helps:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Statement of Cash Flows{{/wb-req-header}}
-{{#wb-req-text lines=8}}Explanation:{{/wb-req-text}}
-{{#wb-req-text lines=8}}How it helps:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Explanation:{{/wb-req-text}}
+{{#wb-req-text lines=12}}How it helps:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2B" requirement="Explain how changes in interest rates, taxes, and government spending affect the flow of money into or out of business and industry."}}
