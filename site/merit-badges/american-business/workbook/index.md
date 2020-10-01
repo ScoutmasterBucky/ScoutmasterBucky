@@ -8,19 +8,19 @@ year: 2020
 {{#wb-req item="1A" requirement="Explain four features of the free enterprise system in the United States."}}
 {{#wb-req-header}}Feature #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=12}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=10}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Feature #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=12}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=10}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Feature #3{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=12}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=10}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-header}}Feature #4{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=12}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=10}}Notes:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1A" requirement="Describe the difference between freedom and license."}}
