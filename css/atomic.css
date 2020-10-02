@@ -391,6 +391,9 @@
 .Maw\(1002px\) {
   max-width: 1002px;
 }
+.Maw\(15\%\) {
+  max-width: 15%;
+}
 .Maw\(189px\) {
   max-width: 189px;
 }
@@ -699,9 +702,6 @@
 .W\(70\%\) {
   width: 70%;
 }
-.W\(75\%\) {
-  width: 75%;
-}
 .W\(7em\) {
   width: 7em;
 }
@@ -827,6 +827,9 @@
   }
   .Maw\(100\%\)--m {
     max-width: 100%;
+  }
+  .Maw\(20\%\)--m {
+    max-width: 20%;
   }
   .P\(6px\)--m {
     padding: 6px;
