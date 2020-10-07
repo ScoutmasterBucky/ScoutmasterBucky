@@ -41,8 +41,8 @@ The Venturing and Sea Scout Supernova awards recognize superior achievement by a
     E. Do ONE of the following:
         i. Write an argument of approximately 500 words that defends or opposes the principle that, “Students should be obligated to report instances of cheating by others.” Discuss this with your mentor.
         ii. With your crew/ship, another crew/ship, school class, or another peer group, conduct an ethical controversy discussion that addresses the question, “Should students be obligated to report instances of cheating by others?”
-3. Using the guidelines found in the [“Venturing STEM Explorations” chapter](../../venturing-and-sea-scouts-explorations/), complete STEM explorations for four of the topics listed above. (Note: These may be completed at any time after becoming a Venturer.)
-4. Complete TWO [Supernova activity topics](../venturing-and-sea-scouts-activity-topics/), one each in two different STEM areas.
+3. Using the guidelines found in the [“Venturing STEM Explorations” chapter](../../explorations/), complete STEM explorations for four of the topics listed above. (Note: These may be completed at any time after becoming a Venturer.)
+4. Complete TWO [Supernova activity topics](../activity-topics/), one each in two different STEM areas.
 5. Participate in a local, state, or national science fair or mathematics competition OR in any equally challenging STEM-oriented competition or workshop approved by your mentor. An example of this would be an X-Prize type competition.
 6. Do ONE of the following:
     A. Spend at least one day “shadowing” a local scientist or engineer. After your visit, discuss with your mentor your experience and what you learned about STEM careers.
