@@ -21,7 +21,7 @@ B. Read (for about three hours total) about water as it relates to the hydrologi
 C. Do a combination of reading and watching (about three hours total). Then do the following:
 (1) Make a list of at least five questions or ideas from each article or show.
 (2) Discuss two of the questions or ideas with your counselor.
-2. Choose **ONE** STEM field of interest from the following list. Complete ALL the requirements for a Venturing [STEM exploration](../../venturing-and-sea-scouts-explorations/) in that field. You should be prepared to discuss the role of water in the area or field you've chosen. (If you have already completed a Venturing STEM exploration in one of these fields, please choose a different field for this award.)
+2. Choose **ONE** STEM field of interest from the following list. Complete ALL the requirements for a Venturing [STEM exploration](../../explorations/) in that field. You should be prepared to discuss the role of water in the area or field you've chosen. (If you have already completed a Venturing STEM exploration in one of these fields, please choose a different field for this award.)
     * Chemistry
     * Environmental Science
     * Fish and Wildlife Management

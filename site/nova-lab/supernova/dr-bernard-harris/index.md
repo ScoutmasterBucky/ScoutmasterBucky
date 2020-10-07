@@ -27,8 +27,8 @@ The Scouts BSA Supernova awards recognize superior achievement by a Scout in the
 1. Complete any three of the [Scouts BSA Nova awards](../../scouts-bsa/). (Note: These may be done at any time after becoming a Scouts BSA member.)
 2. Earn the {{#trim}}{{>badge-link badge="scholarship"}}{{/trim}} merit badge.
 3. Earn four of the Supernova approved merit badges from the above list. (Note: These may be earned at any time after becoming a member of Scouts BSA.)
-4. Complete TWO [Supernova activity topics](../scouts-bsa-activity-topics/), one each in two different STEM areas.
-    Supernova activity topicis are two-part, hands-on, high-level activities related to one of the STEM fields. Part 1 involves research, preparation, set up,coordination, and/or organization. Part 2 involves analysis and reflection, culminating in the creation of a report in any one of the available format options. See the [“Supernova Activity Topics” chapter](../scouts-bsa-activity-topics/).
+4. Complete TWO [Supernova activity topics](../activity-topics/), one each in two different STEM areas.
+    Supernova activity topicis are two-part, hands-on, high-level activities related to one of the STEM fields. Part 1 involves research, preparation, set up,coordination, and/or organization. Part 2 involves analysis and reflection, culminating in the creation of a report in any one of the available format options. See the [“Supernova Activity Topics” chapter](../activity-topics/).
 5. Participate in a local, state, or national science fair or mathematics competition OR in any equally challenging STEM-oriented competition or workshop approved by your mentor. An example of this would be an X-Prize type competition.
 6. Do ONE of the following:
     A. With your parent’s permission and your mentor’s approval, spend at least one day “shadowing” a local scientist or engineer and report on your experience and what you learned about STEM careers to your mentor.
