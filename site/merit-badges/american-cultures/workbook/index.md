@@ -5,13 +5,13 @@ workbook: true
 year: 2020
 ---
 
-{{#wb-req item="Special Note" alert="CHOOSE THREE GROUPS THAT HAVE DIFFERENT RACIAL, CULTURAL, NATIONAL, OR ETHNIC BACKGROUNDS, ONE OF WHICH COMES FROM YOUR OWN BACKGROUND.  USE THESE GROUPS TO MEET REQUIREMENTS 1, 2, AND 3"}}
+{{#wb-req alert="CHOOSE THREE GROUPS THAT HAVE DIFFERENT RACIAL, CULTURAL, NATIONAL, OR ETHNIC BACKGROUNDS, ONE OF WHICH COMES FROM YOUR OWN BACKGROUND.  USE THESE GROUPS TO MEET REQUIREMENTS 1, 2, AND 3"}}
 {{#wb-req-header}}Group #1:{{/wb-req-header}}
-{{#wb-req-text lines=4}}{{/wb-req-text}}
+{{#wb-req-text lines=6}}{{/wb-req-text}}
 {{#wb-req-header}}Group #2:{{/wb-req-header}}
-{{#wb-req-text lines=4}}{{/wb-req-text}}
+{{#wb-req-text lines=6}}{{/wb-req-text}}
 {{#wb-req-header}}Group #3:{{/wb-req-header}}
-{{#wb-req-text lines=4}}{{/wb-req-text}}
+{{#wb-req-text lines=6}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1a" alert="Do TWO of the following (1a, 1b, 1c, 1d, or 1e) for requirement 1, Choosing a different group for each." requirement="Go to a festival, celebration, or other event identified with one of the groups. Report on what you see and learn."}}
@@ -42,7 +42,7 @@ year: 2020
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Song / Dance / Poem / Story:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=32}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=33}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
@@ -56,12 +56,12 @@ year: 2020
 
 {{#wb-req item="2" requirement="Imagine that one of the groups had always lived alone in a city or country to which no other groups ever came. Tell what you think the city or country might be like today."}}
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
-{{#wb-req-text lines=38}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=39}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
 {{#wb-req item="2" requirement="Now tell what you think it might be like if the three groups you chose lived there at the same time."}}
-{{#wb-req-text lines=40}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=42}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
@@ -70,7 +70,7 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="3" requirement="Tell about some ideas or ways of doing things that are similar in the three groups."}}
-{{#wb-req-text lines=20}}{{/wb-req-text}}
+{{#wb-req-text lines=21}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="4" requirement="Tell about a contribution made to our country by three different people, each from a different racial, ethnic, or religious background."}}

@@ -10,7 +10,7 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="1" requirement="Then, share your writing with your merit badge counselor and discuss the importance of the Declaration to all Americans."}}
-{{#wb-req-text lines=40}}{{/wb-req-text}}
+{{#wb-req-text lines=42}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2a" alert="Do TWO of the following (2a, 2b, 2c, or 2d) for requirement 2:" requirement="Select two individuals from American history, one a political leader (a president, senator, etc.) and the other a private citizen (a writer, religious leader, etc.). Find out about each person's accomplishments and compare the contributions each has made to America's heritage."}}
@@ -28,16 +28,16 @@ year: 2020
 
 {{#wb-req item="2b" requirement="With your counselor's approval, choose an organization that has promoted some type of positive change in American society."}}
 {{#wb-req-text lines=2}}Organization:{{/wb-req-text}}
-{{#wb-req-text lines=2}}Positive Change:{{/wb-req-text}}
+{{#wb-req-text lines=4}}Positive Change:{{/wb-req-text}}
 {{>wb-signature signator="Counselor's" checkbox="Approved"}}
 {{/wb-req}}
 
 {{#wb-req item="2b" requirement="Find out why the organization believed this change was necessary and how it helped to accomplish the change."}}
-{{#wb-req-text lines=14}}{{/wb-req-text}}
+{{#wb-req-text lines=24}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2b" requirement="Discuss how this organization is related to events or situations from America's past."}}
-{{#wb-req-text lines=14}}{{/wb-req-text}}
+{{#wb-req-text lines=24}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2c" requirement="With your counselor's approval, interview two veterans of the U.S. military. Find out what their experiences were like. Ask the veterans what they believe they accomplished."}}
@@ -47,23 +47,76 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="2d" requirement="With your counselor's approval, interview three people in your community of different ages and occupations. Ask these people what America means to them, what they think is special about this country, and what American traditions they feel are important to preserve."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{#wb-req-text lines=2}}Person #1:{{/wb-req-text}}
+{{#wb-req-text lines=2}}Occupation:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Approximate Age of Person #1:{{/wb-req-text}}
+{{>wb-signature signator="Counselor's" checkbox="Approved"}}
+{{#wb-req-text lines=8}}What America means to this person:{{/wb-req-text}}
+{{#wb-req-text lines=8}}What this person thinks is special about this country:{{/wb-req-text}}
+{{#wb-req-text lines=8}}What American traditions this person feel are important to preserve:{{/wb-req-text}}
+{{#wb-req-text lines=2}}Person #2:{{/wb-req-text}}
+{{#wb-req-text lines=2}}Occupation:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Approximate Age of Person #1:{{/wb-req-text}}
+{{>wb-signature signator="Counselor's" checkbox="Approved"}}
+{{#wb-req-text lines=8}}What America means to this person:{{/wb-req-text}}
+{{#wb-req-text lines=8}}What this person thinks is special about this country:{{/wb-req-text}}
+{{#wb-req-text lines=8}}What American traditions this person feel are important to preserve:{{/wb-req-text}}
+{{#wb-req-text lines=2}}Person #3:{{/wb-req-text}}
+{{#wb-req-text lines=2}}Occupation:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Approximate Age of Person #1:{{/wb-req-text}}
+{{>wb-signature signator="Counselor's" checkbox="Approved"}}
+{{#wb-req-text lines=8}}What America means to this person:{{/wb-req-text}}
+{{#wb-req-text lines=8}}What this person thinks is special about this country:{{/wb-req-text}}
+{{#wb-req-text lines=8}}What American traditions this person feel are important to preserve:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="3a" requirement="Select a topic related to the United States that is currently in the news. Describe to your counselor what is happening. Explain how today's events are related to or affected by the events and values of America's past."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{#wb-req-text lines=4}}Current news topic related to the United States:{{/wb-req-text}}
+{{#wb-req-text lines=16}}Describe what is happening:{{/wb-req-text}}
+{{#wb-req-text lines=24}}Explain how today's events are related to or affected by the events and values of America's past:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="3b" requirement="For each of the following, describe its adoption, tell about any changes since its adoption, and explain how each one continues to influence Americans today: the flag, the Pledge of Allegiance, the Great Seal of the United States, the motto, and the national anthem."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{#wb-req-header}}the flag:{{/wb-req-header}}
+{{#wb-req-text lines=12}}Describe the flag's adoption:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Tell about any changes since the flag's adoption:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Explain how the flag continues to influence American today:{{/wb-req-text}}
+{{#wb-req-header}}the Pledge of Allegiance:{{/wb-req-header}}
+{{#wb-req-text lines=12}}Describe the Pleade of Allegiance's adoption:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Tell about any changes since the Pledge of Allegiance's adoption:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Explain how the Pledge of Allegiance continues to influence American today:{{/wb-req-text}}
+{{#wb-req-header}}the Great Seal of the United States:{{/wb-req-header}}
+{{#wb-req-text lines=12}}Describe the adoption of the Great Seal of the United States:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Tell about any changes since the Great Seal of the United States was adopted:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Explain how the Great Seal of the United States continues to influence American today:{{/wb-req-text}}
+{{#wb-req-header}}the motto:{{/wb-req-header}}
+{{#wb-req-text lines=12}}Describe the motto's adoption:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Tell about any changes since the motto's adoption:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Explain how the motto continues to influence American today:{{/wb-req-text}}
+{{#wb-req-header}}the national anthem:{{/wb-req-header}}
+{{#wb-req-text lines=12}}Describe the national anthem's adoption:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Tell about any changes since the national anthem's adoption:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Explain how the national anthem continues to influence American today:{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3c" requirement="Research your family's history. Find out how various events and situations in American history affected your family. If your family immigrated to America, tell the reasons why. Share what you find with your counselor."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{#wb-req item="3c" requirement="Research your family's history. Find out how various events and situations in American history affected your family."}}
+{{#wb-req-text lines=20}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4a" alert="Do TWO of the following (4a, 4b, 4c, 4d, or 4e) for requirement 4:" requirement="Explain the National Register of Historic Places and how a property becomes eligible for listing in the National Register of Historic Places. Make a map of your local area, marking the points of historical interest. Tell about any National Register properties in your area. Share the map with your counselor, and describe the historical points you have indicated."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{#wb-req item="3c" requirement="If your family immigrated to America, tell the reasons why. Share what you find with your counselor."}}
+{{#wb-req-text lines=20}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="4a" alert="Do TWO of the following (4a, 4b, 4c, 4d, or 4e) for requirement 4:" requirement="Explain the National Register of Historic Places."}}
+{{#wb-req-text lines=20}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="4a" requirement="Explain how a property becomes eligible for listing in the National Register of Historic Places."}}
+{{#wb-req-text lines=20}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="4a" requirement="Make a map of your local area, marking the points of historical interest. Tell about any National Register properties in your area. Share the map with your counselor, and describe the historical points you have indicated."}}
+{{#wb-req-text lines=38}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="4b" requirement="Research an event of historical importance that took place in or near your area. If possible, visit the place. Tell your counselor about the event and how it affected local history. Describe how the area looked then and what it now looks like."}}
@@ -82,11 +135,9 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5" requirement="Do ONE of the following:"}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="5a" requirement="Watch two motion pictures (with the approval and permission of your counselor and parent) that are set in some period of American history. Describe to your counselor how accurate each film is with regard to the historical events depicted and also with regard to the way the characters are portrayed."}}
+{{#wb-req item="5A" alert="Do ONE of the following (5a, 5b, or 5c) for requirement 5: "requirement="Watch two motion pictures (with the approval and permission of your counselor and parent) that are set in
+some period of American history. Describe to your counselor how accurate each film is with regard to the historical events
+depicted and also with regard to the way the characters are portrayed."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
