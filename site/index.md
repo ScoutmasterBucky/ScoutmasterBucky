@@ -74,8 +74,8 @@ Contact number: 612-483-0665<br />
 Email: <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry">ScoutmasterBucky@yahoo.com</a>
 
 </div>
-<div class="Maw(30%)--s M(a)--s">
-<img src="images/bucky-waving.jpg" alt="Bucky Waving" class="W(75%) H(a)" width="100" height="119" />
+<div class="Maw(30%)--s Maw(15%) Maw(20%)--m M(a)--s">
+<img src="images/bucky-waving.jpg" alt="Bucky Waving" class="W(100%) H(a)"/>
 </div>
 </div>
 

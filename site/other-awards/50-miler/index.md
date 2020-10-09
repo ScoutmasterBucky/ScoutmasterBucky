@@ -1,8 +1,9 @@
 ---
 title: 50 Miler
 layout: smb
-linkPath: 50-Miler/
-image: Scoutmaster-Bucky-BSA-50-Miler.jpg
+linkPath: 50-miler/
+image: 50-miler.jpg
+imageSmb: scoutmaster-bucky-bsa-50-miler.jpg
 ---
 
 # 50-Miler
@@ -15,7 +16,7 @@ Chartered unit participation is most desirable; however, provisional groups are 
 
 </div><div class="Ta(c) Pt(1em)--s">
 
-![50-Miler]({{image}})
+![50-Miler]({{imageSmb}})
 
 </div></div>
 

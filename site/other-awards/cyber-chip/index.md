@@ -2,7 +2,8 @@
 title: Cyber Chip
 layout: smb
 linkPath: cyber-chip/
-image: Scoutmaster-Bucky-BSA-Boy-Scout-Cyber-Chip.jpg
+image: cyber-chip.jpg
+imageSmb: scoutmaster-bucky-bsa-boy-scout-cyber-chip.jpg
 ---
 
 # Cyber Chip

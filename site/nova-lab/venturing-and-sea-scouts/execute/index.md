@@ -18,7 +18,7 @@ This module is designed to help you explore how programming affects everyday lif
     C. Do a combination of reading and watching (not less than three hours). Then do the following:
         1. Make a list of at least five questions or ideas from the material you read.
         2. Discuss two of the questions or ideas that relate to programming and other computer topics with your counselor.
-2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a Venturing [STEM exploration](../../venturing-and-sea-scouts-explorations/) in that field. (If you have already completed a Venturing STEM Exploration in one of these fields, please choose a different field for this award.)
+2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a Venturing [STEM exploration](../../explorations/) in that field. (If you have already completed a Venturing STEM Exploration in one of these fields, please choose a different field for this award.)
     * Computer Hardware
     * Cryptology
     * Cybersecurity

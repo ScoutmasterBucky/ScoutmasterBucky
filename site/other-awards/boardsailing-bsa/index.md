@@ -1,8 +1,9 @@
 ---
 title: Boardsailing BSA
 layout: smb
-linkPath: Boardsailing-BSA/
-image: Scoutmaster-Bucky-BSA-Boardsailing-BSA.jpg
+linkPath: boardsailing-bsa/
+image: boardsailing-bsa.jpg
+imageSmb: scoutmaster-bucky-bsa-boardsailing-bsa.jpg
 ---
 
 # Boardsailing BSA
@@ -19,7 +20,7 @@ Note: Swim trunks emblem—The Boardsailing BSA patch is NOT worn on the uniform
 
 </div><div class="Ta(c) Pt(1em)--s">
 
-![Boardsailing-BSA]({{image}})
+![Boardsailing-BSA]({{imageSmb}})
 
 </div></div>
 

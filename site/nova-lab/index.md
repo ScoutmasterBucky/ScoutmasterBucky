@@ -27,7 +27,7 @@ Earning a Nova award, at a very high level, looks like this for the different pr
 
 * **[Scouts BSA](scouts-bsa/):** 3 hours of study, 1 STEM-related merit badge, additional research into a field, some actual work, and discussions with a Nova counselor. Visual aids are often produced in the form of models, charts, drawings, presentations, or reports. The additional work that is performed is sufficient to have a good sample of that field in order to gain further understanding.
 
-* **[Venturing and Sea Scouts](venturing-and-sea-scouts/):** 3 hours of study, 1 [STEM-related exploration](venturing-and-sea-scouts-explorations/), additional research into a field, some actual work, and discussions with a Nova counselor. Visual aids are often produced in the form of models, charts, drawings, presentations, or reports. The additional work that is performed is sufficient to have a good sample of that field in order to gain further understanding.
+* **[Venturing and Sea Scouts](venturing-and-sea-scouts/):** 3 hours of study, 1 [STEM-related exploration](explorations/), additional research into a field, some actual work, and discussions with a Nova counselor. Visual aids are often produced in the form of models, charts, drawings, presentations, or reports. The additional work that is performed is sufficient to have a good sample of that field in order to gain further understanding.
 
 </div><div class="W(300px) Maw(100%) Fxs(0) P(1em)">
 <img src="images/nova-patch.jpg" Class="W(100%) H(a)">
@@ -36,7 +36,7 @@ Earning a Nova award, at a very high level, looks like this for the different pr
 
 <div class="D(f) Fxd(c)--m Ai(c)--m Fxd(rr) Mt(1em)"><div class="W(100%)">
 
-After earning some Nova awards, the next step is to work on a [Supernova Award](supernova/). Bronze Supernova Awards are about the same amount of work as a Nova. These medals start with a bronze, then progress to silver and gold, depending on your program - [learn more about award progression](supernova/).
+After earning some Nova awards, the next step is to work on a [Supernova Award](supernova/). The Supernova starts with earning [merit badges](../merit-badges/) or [STEM explorations](explorations/) and then learning more about [activity topics](supernova/activity-topics/). Bronze Supernova Awards are about the same amount of work as a Nova. These medals start with a bronze, then progress to silver and gold, depending on your program - [learn more about award progression](supernova/).
 
 These medals are rarely given out and may be worn during formal events, such as at Blue and Gold ceremonies, Courts of Honor, and Bridges of Honor.
 
