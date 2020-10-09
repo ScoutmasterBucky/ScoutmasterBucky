@@ -220,20 +220,20 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="6A" alert="Do ONE of the following (6a or 6b) for requirement 6:" requirement="Choose one of the primary areas of business and identify three career opportunities.  Select one and research the education, training, and experience required for this career.  Discuss with your counselor and explain why this interests you."}}
-{{#wb-req-text lines=3}}Primary area of business selected:{{/wb-req-text}}
-{{#wb-req-text lines=2}}Career Opportunity #1:{{/wb-req-text}}
-{{#wb-req-text lines=2}}Career Opportunity #2:{{/wb-req-text}}
-{{#wb-req-text lines=2}}Career Opportunity #3:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Primary area of business selected:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Career Opportunity #1:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Career Opportunity #2:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Career Opportunity #3:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=2}}Selected Career:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Selected Career:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=8}}Educational Requirements:{{/wb-req-text}}
+{{#wb-req-text lines=7}}Educational Requirements:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=8}}Training Requirements:{{/wb-req-text}}
+{{#wb-req-text lines=7}}Training Requirements:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=8}}Experience Requirements:{{/wb-req-text}}
+{{#wb-req-text lines=7}}Experience Requirements:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=8}}Why this selected career might interest you:{{/wb-req-text}}
+{{#wb-req-text lines=7}}Why this selected career might interest you:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="6B" requirement="Select a business leader and interview this individual to learn more about his or her company and career path.  Discuss the role ethics plays in making business decisions.  Share what you have learned with your counselor."}}
