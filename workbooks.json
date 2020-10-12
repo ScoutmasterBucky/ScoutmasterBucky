@@ -1,10 +1,5 @@
 [
     {
-        "badge": "american-business",
-        "name": "American Business",
-        "path": "merit-badges/american-business/workbook/"
-    },
-    {
         "badge": "american-cultures",
         "name": "American Cultures",
         "path": "merit-badges/american-cultures/workbook/"
@@ -18,6 +13,11 @@
         "badge": "american-labor",
         "name": "American Labor",
         "path": "merit-badges/american-labor/workbook/"
+    },
+    {
+        "badge": "american-business",
+        "name": "American Business",
+        "path": "merit-badges/american-business/workbook/"
     },
     {
         "badge": "animation",
@@ -105,6 +105,11 @@
         "path": "merit-badges/chess/workbook/"
     },
     {
+        "badge": "citizenship-in-the-community",
+        "name": "Citizenship in the Community",
+        "path": "merit-badges/citizenship-in-the-community/workbook/"
+    },
+    {
         "badge": "citizenship-in-the-nation",
         "name": "Citizenship in the Nation",
         "path": "merit-badges/citizenship-in-the-nation/workbook/"
@@ -143,11 +148,6 @@
         "badge": "cooking",
         "name": "Cooking",
         "path": "merit-badges/cooking/workbook/"
-    },
-    {
-        "badge": "citizenship-in-the-community",
-        "name": "Citizenship in the Community",
-        "path": "merit-badges/citizenship-in-the-community/workbook/"
     },
     {
         "badge": "crime-prevention",
@@ -420,14 +420,14 @@
         "path": "merit-badges/oceanography/workbook/"
     },
     {
-        "badge": "orienteering",
-        "name": "Orienteering",
-        "path": "merit-badges/orienteering/workbook/"
-    },
-    {
         "badge": "painting",
         "name": "Painting",
         "path": "merit-badges/painting/workbook/"
+    },
+    {
+        "badge": "orienteering",
+        "name": "Orienteering",
+        "path": "merit-badges/orienteering/workbook/"
     },
     {
         "badge": "personal-fitness",
@@ -495,6 +495,11 @@
         "path": "merit-badges/radio/workbook/"
     },
     {
+        "badge": "railroading",
+        "name": "Railroading",
+        "path": "merit-badges/railroading/workbook/"
+    },
+    {
         "badge": "reading",
         "name": "Reading",
         "path": "merit-badges/reading/workbook/"
@@ -508,11 +513,6 @@
         "badge": "rifle-shooting",
         "name": "Rifle Shooting",
         "path": "merit-badges/rifle-shooting/workbook/"
-    },
-    {
-        "badge": "railroading",
-        "name": "Railroading",
-        "path": "merit-badges/railroading/workbook/"
     },
     {
         "badge": "robotics",
@@ -625,6 +625,11 @@
         "path": "merit-badges/textile/workbook/"
     },
     {
+        "badge": "theater",
+        "name": "Theater",
+        "path": "merit-badges/theater/workbook/"
+    },
+    {
         "badge": "traffic-safety",
         "name": "Traffic Safety",
         "path": "merit-badges/traffic-safety/workbook/"
@@ -633,11 +638,6 @@
         "badge": "truck-transportation",
         "name": "Truck Transportation",
         "path": "merit-badges/truck-transportation/workbook/"
-    },
-    {
-        "badge": "theater",
-        "name": "Theater",
-        "path": "merit-badges/theater/workbook/"
     },
     {
         "badge": "veterinary-medicine",
