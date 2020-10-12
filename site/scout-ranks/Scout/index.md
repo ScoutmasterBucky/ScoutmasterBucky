@@ -6,7 +6,7 @@ image: scout.jpg
 imageSmb: scoutmaster-bucky-scout.jpg
 ---
 
-# Scout
+# Scout Rank
 
 <div class="D(f) Fxd(c)--s"><div>
 
