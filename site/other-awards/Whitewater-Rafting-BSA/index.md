@@ -12,7 +12,7 @@ imageSmb: scoutmaster-bucky-whitewater-rafting-bsa.jpg
 
 The Whitewater Rafting BSA Award provides an introduction to whitewater rafting skills and safety procedures and serves as a program opportunity for Boy Scouting, Venturing, and Sea Scioutng units in camp or out. Mastery of Whitewater Rafting BSA skills is a first critical step towards satisfying Safety Afloat guidelines for safe whitewater rafting excursions. The award is available to BSA youth and adults who are members of Boy Scout, Venturing, or Sea Scout units.
 
-Requirements for the award focus on safety and basic paddling skills on whitewater up to Class III. All instruction and skill completions are directly supervised by a professionally trained or licensed rafting guide. A qualified raft captain must be in each raft during the required trip. Participants help power and control the raft with paddles – simply riding in a raft rowed by a guide is not sufficient
+Requirements for the award focus on safety and basic paddling skills on whitewater up to Class III. All instruction and skill completions are directly supervised by a professionally trained or licensed rafting guide. A qualified raft captain must be in each raft during the required trip. Participants help power and control the raft with paddles – simply riding in a raft rowed by a guide is not sufficient.
 
 Note: Swim trunks emblem—The Whitewater Rafting BSA patch is NOT worn on the uniform; it is worn on the left side of the swim trunks
 
@@ -24,7 +24,7 @@ Note: Swim trunks emblem—The Whitewater Rafting BSA patch is NOT worn on the u
 
 ## Boardsailing BSA Award Requirements
 
-The 50-Miler Award is presented to each qualifying individual for satisfactory participation in an approved trip. In order to qualify for the award, the group of which the individual is a member must fulfill all of the following advancement, conservation, leadership, and service requirements:
+The Whitewater Rafting BSA Award recognizes the challenge and adventure of participation in a rafting trip conducted by outfitters or councils.
 
 {{#requirements}}
 1. Before fulfilling the following requirements, successfully complete the BSA swimmer test.
