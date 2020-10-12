@@ -1,5 +1,5 @@
 ---
-title: Scout
+title: Eagle
 layout: smb
 linkPath: Eagle/
 image: eagle.jpg
