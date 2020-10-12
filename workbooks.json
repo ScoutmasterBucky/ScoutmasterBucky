@@ -125,14 +125,14 @@
         "path": "merit-badges/climbing/workbook/"
     },
     {
-        "badge": "collections",
-        "name": "Collections",
-        "path": "merit-badges/collections/workbook/"
-    },
-    {
         "badge": "coin-collecting",
         "name": "Coin Collecting",
         "path": "merit-badges/coin-collecting/workbook/"
+    },
+    {
+        "badge": "collections",
+        "name": "Collections",
+        "path": "merit-badges/collections/workbook/"
     },
     {
         "badge": "communication",
@@ -245,6 +245,11 @@
         "path": "merit-badges/fire-safety/workbook/"
     },
     {
+        "badge": "first-aid",
+        "name": "First Aid",
+        "path": "merit-badges/first-aid/workbook/"
+    },
+    {
         "badge": "fish-and-wildlife-management",
         "name": "Fish and Wildlife Management",
         "path": "merit-badges/fish-and-wildlife-management/workbook/"
@@ -258,11 +263,6 @@
         "badge": "fly-fishing",
         "name": "Fly Fishing",
         "path": "merit-badges/fly-fishing/workbook/"
-    },
-    {
-        "badge": "first-aid",
-        "name": "First Aid",
-        "path": "merit-badges/first-aid/workbook/"
     },
     {
         "badge": "forestry",
@@ -355,6 +355,11 @@
         "path": "merit-badges/law/workbook/"
     },
     {
+        "badge": "leatherwork",
+        "name": "Leatherwork",
+        "path": "merit-badges/leatherwork/workbook/"
+    },
+    {
         "badge": "lifesaving",
         "name": "Lifesaving",
         "path": "merit-badges/lifesaving/workbook/"
@@ -363,11 +368,6 @@
         "badge": "mammal-study",
         "name": "Mammal Study",
         "path": "merit-badges/mammal-study/workbook/"
-    },
-    {
-        "badge": "leatherwork",
-        "name": "Leatherwork",
-        "path": "merit-badges/leatherwork/workbook/"
     },
     {
         "badge": "medicine",
@@ -645,6 +645,11 @@
         "path": "merit-badges/veterinary-medicine/workbook/"
     },
     {
+        "badge": "weather",
+        "name": "Weather",
+        "path": "merit-badges/weather/workbook/"
+    },
+    {
         "badge": "welding",
         "name": "Welding",
         "path": "merit-badges/welding/workbook/"
@@ -658,11 +663,6 @@
         "badge": "whitewater",
         "name": "Whitewater",
         "path": "merit-badges/whitewater/workbook/"
-    },
-    {
-        "badge": "weather",
-        "name": "Weather",
-        "path": "merit-badges/weather/workbook/"
     },
     {
         "badge": "wilderness-survival",
@@ -702,11 +702,11 @@
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/horse/"
+        "path": "merit-badges/animal-science/workbook/sheep/"
     },
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/sheep/"
+        "path": "merit-badges/animal-science/workbook/horse/"
     }
 ]
