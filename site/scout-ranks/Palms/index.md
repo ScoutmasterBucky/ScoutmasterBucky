@@ -1,5 +1,5 @@
 ---
-title: Scout
+title: Palms
 layout: smb
 linkPath: Palms/
 image: palms.jpg
