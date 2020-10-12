@@ -2,7 +2,7 @@
 title: Whitewater Rafting BSA
 layout: smb
 linkPath: whitewater-rafting-bsa/
-image: whitewater-rafting-bsa.jpg
+image: whitewater-rafting-bsa-patch.jpg
 imageSmb: scoutmaster-bucky-whitewater-rafting-bsa.jpg
 ---
 
