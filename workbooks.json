@@ -50,14 +50,14 @@
         "path": "merit-badges/astronomy/workbook/"
     },
     {
-        "badge": "athletics",
-        "name": "Athletics",
-        "path": "merit-badges/athletics/workbook/"
-    },
-    {
         "badge": "automotive-maintenance",
         "name": "Automotive Maintenance",
         "path": "merit-badges/automotive-maintenance/workbook/"
+    },
+    {
+        "badge": "athletics",
+        "name": "Athletics",
+        "path": "merit-badges/athletics/workbook/"
     },
     {
         "badge": "aviation",
@@ -105,14 +105,14 @@
         "path": "merit-badges/chess/workbook/"
     },
     {
-        "badge": "citizenship-in-the-community",
-        "name": "Citizenship in the Community",
-        "path": "merit-badges/citizenship-in-the-community/workbook/"
-    },
-    {
         "badge": "citizenship-in-the-nation",
         "name": "Citizenship in the Nation",
         "path": "merit-badges/citizenship-in-the-nation/workbook/"
+    },
+    {
+        "badge": "citizenship-in-the-community",
+        "name": "Citizenship in the Community",
+        "path": "merit-badges/citizenship-in-the-community/workbook/"
     },
     {
         "badge": "citizenship-in-the-world",
@@ -120,9 +120,9 @@
         "path": "merit-badges/citizenship-in-the-world/workbook/"
     },
     {
-        "badge": "climbing",
-        "name": "Climbing",
-        "path": "merit-badges/climbing/workbook/"
+        "badge": "collections",
+        "name": "Collections",
+        "path": "merit-badges/collections/workbook/"
     },
     {
         "badge": "coin-collecting",
@@ -130,24 +130,19 @@
         "path": "merit-badges/coin-collecting/workbook/"
     },
     {
-        "badge": "collections",
-        "name": "Collections",
-        "path": "merit-badges/collections/workbook/"
-    },
-    {
-        "badge": "communication",
-        "name": "Communication",
-        "path": "merit-badges/communication/workbook/"
-    },
-    {
-        "badge": "composite-materials",
-        "name": "Composite Materials",
-        "path": "merit-badges/composite-materials/workbook/"
+        "badge": "climbing",
+        "name": "Climbing",
+        "path": "merit-badges/climbing/workbook/"
     },
     {
         "badge": "cooking",
         "name": "Cooking",
         "path": "merit-badges/cooking/workbook/"
+    },
+    {
+        "badge": "composite-materials",
+        "name": "Composite Materials",
+        "path": "merit-badges/composite-materials/workbook/"
     },
     {
         "badge": "crime-prevention",
@@ -395,11 +390,6 @@
         "path": "merit-badges/motorboating/workbook/"
     },
     {
-        "badge": "moviemaking",
-        "name": "Moviemaking",
-        "path": "merit-badges/moviemaking/workbook/"
-    },
-    {
         "badge": "music",
         "name": "Music",
         "path": "merit-badges/music/workbook/"
@@ -425,9 +415,9 @@
         "path": "merit-badges/orienteering/workbook/"
     },
     {
-        "badge": "painting",
-        "name": "Painting",
-        "path": "merit-badges/painting/workbook/"
+        "badge": "moviemaking",
+        "name": "Moviemaking",
+        "path": "merit-badges/moviemaking/workbook/"
     },
     {
         "badge": "personal-fitness",
@@ -485,14 +475,19 @@
         "path": "merit-badges/public-speaking/workbook/"
     },
     {
-        "badge": "pulp-and-paper",
-        "name": "Pulp and Paper",
-        "path": "merit-badges/pulp-and-paper/workbook/"
-    },
-    {
         "badge": "radio",
         "name": "Radio",
         "path": "merit-badges/radio/workbook/"
+    },
+    {
+        "badge": "painting",
+        "name": "Painting",
+        "path": "merit-badges/painting/workbook/"
+    },
+    {
+        "badge": "pulp-and-paper",
+        "name": "Pulp and Paper",
+        "path": "merit-badges/pulp-and-paper/workbook/"
     },
     {
         "badge": "railroading",
@@ -678,6 +673,11 @@
         "badge": "woodwork",
         "name": "Woodwork",
         "path": "merit-badges/woodwork/workbook/"
+    },
+    {
+        "badge": "communication",
+        "name": "Communication",
+        "path": "merit-badges/communication/workbook/"
     },
     {
         "badge": "animal-science",
