@@ -7,34 +7,34 @@ year: 2020
 
 {{#wb-req alert="CHOOSE THREE GROUPS THAT HAVE DIFFERENT RACIAL, CULTURAL, NATIONAL, OR ETHNIC BACKGROUNDS, ONE OF WHICH COMES FROM YOUR OWN BACKGROUND.  USE THESE GROUPS TO MEET REQUIREMENTS 1, 2, AND 3"}}
 {{#wb-req-header}}Group #1:{{/wb-req-header}}
-{{#wb-req-text lines=6}}{{/wb-req-text}}
+{{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-header}}Group #2:{{/wb-req-header}}
-{{#wb-req-text lines=6}}{{/wb-req-text}}
+{{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-header}}Group #3:{{/wb-req-header}}
-{{#wb-req-text lines=6}}{{/wb-req-text}}
+{{#wb-req-text lines=2}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1a" alert="Do TWO of the following (1a, 1b, 1c, 1d, or 1e) for requirement 1, Choosing a different group for each." requirement="Go to a festival, celebration, or other event identified with one of the groups. Report on what you see and learn."}}
-{{#wb-req-text lines=2}}Group:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Event and Location:{{/wb-req-text}}
-{{#wb-req-text lines=2}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=28}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Date:{{/wb-req-text}}
+{{#wb-req-text lines=20}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
 {{#wb-req item="1b" requirement="Go to a place of worship, school, or other institution identified with one of the groups. Report on what you see and learn."}}
-{{#wb-req-text lines=2}}Group:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Place and Location:{{/wb-req-text}}
-{{#wb-req-text lines=2}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=32}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Date:{{/wb-req-text}}
+{{#wb-req-text lines=34}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
 {{#wb-req item="1c" requirement="Talk with a person from one of the groups about the heritage and traditions of the group. Report on what you learn."}}
-{{#wb-req-text lines=2}}Group:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Person's Name and Position / Title (if applicable):{{/wb-req-text}}
-{{#wb-req-text lines=2}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=32}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Date:{{/wb-req-text}}
+{{#wb-req-text lines=34}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
