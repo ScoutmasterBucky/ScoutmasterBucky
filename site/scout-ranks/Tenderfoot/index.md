@@ -1,5 +1,5 @@
 ---
-title: Scout
+title: Tenderfoot
 layout: smb
 linkPath: Tenderfoot/
 image: tenderfoot.jpg
