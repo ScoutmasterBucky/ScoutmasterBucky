@@ -145,14 +145,14 @@
         "path": "merit-badges/composite-materials/workbook/"
     },
     {
-        "badge": "crime-prevention",
-        "name": "Crime Prevention",
-        "path": "merit-badges/crime-prevention/workbook/"
-    },
-    {
         "badge": "cooking",
         "name": "Cooking",
         "path": "merit-badges/cooking/workbook/"
+    },
+    {
+        "badge": "crime-prevention",
+        "name": "Crime Prevention",
+        "path": "merit-badges/crime-prevention/workbook/"
     },
     {
         "badge": "cycling",
@@ -215,24 +215,19 @@
         "path": "merit-badges/entrepreneurship/workbook/"
     },
     {
-        "badge": "environmental-science",
-        "name": "Environmental Science",
-        "path": "merit-badges/environmental-science/workbook/"
-    },
-    {
         "badge": "exploration",
         "name": "Exploration",
         "path": "merit-badges/exploration/workbook/"
     },
     {
-        "badge": "farm-mechanics",
-        "name": "Farm Mechanics",
-        "path": "merit-badges/farm-mechanics/workbook/"
-    },
-    {
         "badge": "family-life",
         "name": "Family Life",
         "path": "merit-badges/family-life/workbook/"
+    },
+    {
+        "badge": "farm-mechanics",
+        "name": "Farm Mechanics",
+        "path": "merit-badges/farm-mechanics/workbook/"
     },
     {
         "badge": "fingerprinting",
@@ -248,6 +243,11 @@
         "badge": "first-aid",
         "name": "First Aid",
         "path": "merit-badges/first-aid/workbook/"
+    },
+    {
+        "badge": "environmental-science",
+        "name": "Environmental Science",
+        "path": "merit-badges/environmental-science/workbook/"
     },
     {
         "badge": "fish-and-wildlife-management",
@@ -425,14 +425,14 @@
         "path": "merit-badges/orienteering/workbook/"
     },
     {
-        "badge": "personal-fitness",
-        "name": "Personal Fitness",
-        "path": "merit-badges/personal-fitness/workbook/"
-    },
-    {
         "badge": "painting",
         "name": "Painting",
         "path": "merit-badges/painting/workbook/"
+    },
+    {
+        "badge": "personal-fitness",
+        "name": "Personal Fitness",
+        "path": "merit-badges/personal-fitness/workbook/"
     },
     {
         "badge": "personal-management",
@@ -465,14 +465,14 @@
         "path": "merit-badges/plumbing/workbook/"
     },
     {
-        "badge": "programming",
-        "name": "Programming",
-        "path": "merit-badges/programming/workbook/"
-    },
-    {
         "badge": "pottery",
         "name": "Pottery",
         "path": "merit-badges/pottery/workbook/"
+    },
+    {
+        "badge": "programming",
+        "name": "Programming",
+        "path": "merit-badges/programming/workbook/"
     },
     {
         "badge": "public-health",
@@ -550,11 +550,6 @@
         "path": "merit-badges/scuba-diving/workbook/"
     },
     {
-        "badge": "sculpture",
-        "name": "Sculpture",
-        "path": "merit-badges/sculpture/workbook/"
-    },
-    {
         "badge": "search-and-rescue",
         "name": "Search and Rescue",
         "path": "merit-badges/search-and-rescue/workbook/"
@@ -578,6 +573,11 @@
         "badge": "small-boat-sailing",
         "name": "Small-Boat Sailing",
         "path": "merit-badges/small-boat-sailing/workbook/"
+    },
+    {
+        "badge": "sculpture",
+        "name": "Sculpture",
+        "path": "merit-badges/sculpture/workbook/"
     },
     {
         "badge": "snow-sports",
@@ -687,12 +687,12 @@
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/dairying/"
+        "path": "merit-badges/animal-science/workbook/beef-cattle/"
     },
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/beef-cattle/"
+        "path": "merit-badges/animal-science/workbook/dairying/"
     },
     {
         "badge": "animal-science",
