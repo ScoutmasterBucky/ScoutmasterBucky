@@ -6,7 +6,7 @@ image: whitewater-rafting-bsa.jpg
 imageSmb: scoutmaster-bucky-whitewater-rafting-bsa.jpg
 ---
 
-# Boardsailing BSA
+# Whitewater Rafting BSA
 
 <div class="D(f) Fxd(c)--s"><div>
 
@@ -22,7 +22,7 @@ Note: Swim trunks emblem—The Whitewater Rafting BSA patch is NOT worn on the u
 
 </div></div>
 
-## Boardsailing BSA Award Requirements
+## Whitewater Rafting BSA Award Requirements
 
 The Whitewater Rafting BSA Award recognizes the challenge and adventure of participation in a rafting trip conducted by outfitters or councils.
 

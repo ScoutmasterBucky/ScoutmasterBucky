@@ -216,7 +216,7 @@ year: 2020
 {{>wb-req-allow-break}}
 {{#wb-req-text lines=11}}Management:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=14}}Additional Notes:{{/wb-req-text}}
+{{#wb-req-text lines=17}}Additional Notes:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="6A" alert="Do ONE of the following (6a or 6b) for requirement 6:" requirement="Choose one of the primary areas of business and identify three career opportunities.  Select one and research the education, training, and experience required for this career.  Discuss with your counselor and explain why this interests you."}}
