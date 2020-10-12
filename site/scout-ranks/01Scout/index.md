@@ -1,12 +1,12 @@
 ---
-title: Tenderfoot
+title: Scout
 layout: smb
-linkPath: Tenderfoot/
-image: tenderfoot.jpg
-imageSmb: scoutmaster-bucky-tenderfoot.jpg
+linkPath: 01Scout/
+image: scout.jpg
+imageSmb: scoutmaster-bucky-scout.jpg
 ---
 
-# Tenderfoot Rank
+# Scout Rank
 
 <div class="D(f) Fxd(c)--s"><div>
 
@@ -16,11 +16,11 @@ Alternate requirements for the Scout rank are available for Scouts with physical
 
 </div><div class="Ta(c) Pt(1em)--s">
 
-![scoutmaster-bucky-temderfoot]({{imageSmb}})
+![scoutmaster-bucky-scout]({{imageSmb}})
 
 </div></div>
 
-## Tenderfoot Rank Requirements
+## Scout Rank Requirements
 
 All requirements for the Scout rank must be completed as a member of a troop or as a Lone Scout.  If you have already completed these requirements as part of the Webelos Scouting Adventure, simply demonstrate your knowledge or skills to your Scoutmaster or other designated leader after joining the troop.
 
