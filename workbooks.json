@@ -1,18 +1,13 @@
 [
     {
-        "badge": "american-cultures",
-        "name": "American Cultures",
-        "path": "merit-badges/american-cultures/workbook/"
-    },
-    {
         "badge": "american-business",
         "name": "American Business",
         "path": "merit-badges/american-business/workbook/"
     },
     {
-        "badge": "american-heritage",
-        "name": "American Heritage",
-        "path": "merit-badges/american-heritage/workbook/"
+        "badge": "american-cultures",
+        "name": "American Cultures",
+        "path": "merit-badges/american-cultures/workbook/"
     },
     {
         "badge": "american-labor",
@@ -28,6 +23,11 @@
         "badge": "archaeology",
         "name": "Archaeology",
         "path": "merit-badges/archaeology/workbook/"
+    },
+    {
+        "badge": "american-heritage",
+        "name": "American Heritage",
+        "path": "merit-badges/american-heritage/workbook/"
     },
     {
         "badge": "archery",
@@ -95,14 +95,14 @@
         "path": "merit-badges/canoeing/workbook/"
     },
     {
-        "badge": "chess",
-        "name": "Chess",
-        "path": "merit-badges/chess/workbook/"
-    },
-    {
         "badge": "chemistry",
         "name": "Chemistry",
         "path": "merit-badges/chemistry/workbook/"
+    },
+    {
+        "badge": "chess",
+        "name": "Chess",
+        "path": "merit-badges/chess/workbook/"
     },
     {
         "badge": "citizenship-in-the-community",
@@ -160,6 +160,11 @@
         "path": "merit-badges/cycling/workbook/"
     },
     {
+        "badge": "dentistry",
+        "name": "Dentistry",
+        "path": "merit-badges/dentistry/workbook/"
+    },
+    {
         "badge": "digital-technology",
         "name": "Digital Technology",
         "path": "merit-badges/digital-technology/workbook/"
@@ -168,11 +173,6 @@
         "badge": "disabilities-awareness",
         "name": "Disabilities Awareness",
         "path": "merit-badges/disabilities-awareness/workbook/"
-    },
-    {
-        "badge": "dentistry",
-        "name": "Dentistry",
-        "path": "merit-badges/dentistry/workbook/"
     },
     {
         "badge": "dog-care",
@@ -270,9 +270,9 @@
         "path": "merit-badges/forestry/workbook/"
     },
     {
-        "badge": "game-design",
-        "name": "Game Design",
-        "path": "merit-badges/game-design/workbook/"
+        "badge": "genealogy",
+        "name": "Genealogy",
+        "path": "merit-badges/genealogy/workbook/"
     },
     {
         "badge": "gardening",
@@ -280,14 +280,14 @@
         "path": "merit-badges/gardening/workbook/"
     },
     {
-        "badge": "genealogy",
-        "name": "Genealogy",
-        "path": "merit-badges/genealogy/workbook/"
-    },
-    {
         "badge": "geocaching",
         "name": "Geocaching",
         "path": "merit-badges/geocaching/workbook/"
+    },
+    {
+        "badge": "game-design",
+        "name": "Game Design",
+        "path": "merit-badges/game-design/workbook/"
     },
     {
         "badge": "geology",
@@ -475,11 +475,6 @@
         "path": "merit-badges/programming/workbook/"
     },
     {
-        "badge": "public-health",
-        "name": "Public Health",
-        "path": "merit-badges/public-health/workbook/"
-    },
-    {
         "badge": "public-speaking",
         "name": "Public Speaking",
         "path": "merit-badges/public-speaking/workbook/"
@@ -493,6 +488,11 @@
         "badge": "radio",
         "name": "Radio",
         "path": "merit-badges/radio/workbook/"
+    },
+    {
+        "badge": "public-health",
+        "name": "Public Health",
+        "path": "merit-badges/public-health/workbook/"
     },
     {
         "badge": "railroading",
@@ -692,17 +692,17 @@
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/dairying/"
-    },
-    {
-        "badge": "animal-science",
-        "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/hog/"
     },
     {
         "badge": "animal-science",
         "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/horse/"
+    },
+    {
+        "badge": "animal-science",
+        "name": "Animal Science",
+        "path": "merit-badges/animal-science/workbook/dairying/"
     },
     {
         "badge": "animal-science",
