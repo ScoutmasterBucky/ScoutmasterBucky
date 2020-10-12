@@ -1,9 +1,9 @@
 ---
 title: Scout
 layout: smb
-linkPath: First-Class/
+linkPath: First Class/
 image: first-class.jpg
-imageSmb: scoutmaster-bucky-firrst-class.jpg
+imageSmb: scoutmaster-bucky-first-class.jpg
 ---
 
 # First Class Rank
