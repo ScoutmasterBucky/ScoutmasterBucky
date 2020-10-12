@@ -1,7 +1,7 @@
 ---
-title: Scout
+title: Second Class
 layout: smb
-linkPath: Second-Class/
+linkPath: Second Class/
 image: second-class.jpg
 imageSmb: scoutmaster-bucky-second-class.jpg
 ---
