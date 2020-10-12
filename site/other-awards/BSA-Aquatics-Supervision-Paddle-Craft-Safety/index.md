@@ -17,11 +17,16 @@ The program contains four separate modules. Basic Canoeing and Basic Kayaking op
 Persons completing the training should be better prepared to supervise paddle craft activities. The training is open to any registered adult leader, Scout, Venturer, Sea Scout, or Explorer who is age 15 or older. The training must be conducted by a council approved instructor and is valid for three years.
 
 The following resources are available for this award:
-[Paddle Craft Safety Instructor's Guide](http://www.scouting.org/filestore/Outdoor Program/Aquatics/pdf/430-501.pdf)
+
+[Paddle Craft Safety Instructor's Guide](https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/430-501.pdf)
+
 [Canoe Training Video](https://youtu.be/fGiWzRrM-us)
+
 [Kayak Training Video](https://youtu.be/T2jIRRBXhB0)
-[Paddle Craft Safety Corse PowerPoint](http://www.scouting.org/filestore/Outdoor Program/Aquatics/ppt/430-502.ppt)
-[Paddle Craft Safety Course Exam](http://www.scouting.org/filestore/Outdoor Program/Aquatics/pdf/430-503.pdf)
+
+[Paddle Craft Safety Corse PowerPoint](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/ppt/430-502.ppt)
+
+[Paddle Craft Safety Course Exam](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/430-503.pdf)
 
 </div><div class="Ta(c) Pt(1em)--s">
 
@@ -36,6 +41,11 @@ Upon successful completion of any, or all, of the 4 course modules within the Pa
 The important item is the Paddle Craft Safety Pocket Certificate signed by your instructor and to have the certificate on your person whenever performing aquatic supervision activities.
 
 ## Paddle Craft Safety - Basic Canoeing and Basic Kayaking Requirements
+
+<div class="W(300px) Maw(100%) Fxs(0) P(1em)">
+<img src="bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segment.png.jpg" Class="W(100%) H(a)">
+<img src="bsa-aquatics-supervision-paddle-craft-safety-basic-kayaking-patch-segment.png.jpg" Class="W(100%) H(a)">
+</div>
 
 {{#requirements}}
 1. PREREQUISITES:
@@ -63,7 +73,7 @@ The important item is the Paddle Craft Safety Pocket Certificate signed by your 
     c. Demonstrate a boat-to-boat assist of a swamped boat in deep water.
 6. Correctly answer 80% of the questions on the Paddle Craft Safety written exam covering Safety Afloat, trip preparation, emergency action plans, and basic boating knowledge. Review any incomplete or incorrect answers.
 
-* Skills may be demonstrated either tandem in a canoe, or solo in a kayak. If a tandem canoe is used, each participant must demonstrate the maneuvers from both bow and stern positions.
+Skills may be demonstrated either tandem in a canoe, or solo in a kayak. If a tandem canoe is used, each participant must demonstrate the maneuvers from both bow and stern positions.
 {{/requirements}}
 
 ## Paddle Craft Safety - River Canoeing and River Kayaking Requirements
@@ -75,8 +85,7 @@ The important item is the Paddle Craft Safety Pocket Certificate signed by your 
     c. Have current training in Aquatics Supervision: Paddle Craft Safety- Basic for the appropriate craft.
     d. Demonstrate or provide evidence of current ability to complete the 100- yard BSA swimmer classification.
 2. View and discuss the ACA/BSA video “Reading the Rhythms of Rivers and Rapids”.
-You can request a complimentary copy of this video, you may do so by going to this website:
-http://www.americancanoe.org/page/BSADVD
+You can request a complimentary copy of this video, you may do so by going to this website: http://www.americancanoe.org/page/BSADVD
 3. Do the following during an instructor-led canoe or kayak trip of at least three miles down a flowing river with Class I or Class II features, including standing waves, a downstream V, and a large eddy. A segment that includes isolated Class II+ or Class III rapids that can be portaged is appropriate, but not necessary. Features and water levels must be consistent with the safe performance of the requirements.
     a. Transport boat from trailer or carrier to river’s edge. Safely board and launch the boat into a current.
     b. Review the effect of basic flat-water strokes in moving water, demonstrating the ability to stay parallel with the current.
