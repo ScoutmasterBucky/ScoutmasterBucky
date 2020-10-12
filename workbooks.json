@@ -90,14 +90,14 @@
         "path": "merit-badges/camping/workbook/"
     },
     {
-        "badge": "canoeing",
-        "name": "Canoeing",
-        "path": "merit-badges/canoeing/workbook/"
-    },
-    {
         "badge": "chemistry",
         "name": "Chemistry",
         "path": "merit-badges/chemistry/workbook/"
+    },
+    {
+        "badge": "canoeing",
+        "name": "Canoeing",
+        "path": "merit-badges/canoeing/workbook/"
     },
     {
         "badge": "chess",
@@ -410,6 +410,11 @@
         "path": "merit-badges/nature/workbook/"
     },
     {
+        "badge": "nuclear-science",
+        "name": "Nuclear Science",
+        "path": "merit-badges/nuclear-science/workbook/"
+    },
+    {
         "badge": "oceanography",
         "name": "Oceanography",
         "path": "merit-badges/oceanography/workbook/"
@@ -440,14 +445,14 @@
         "path": "merit-badges/pets/workbook/"
     },
     {
-        "badge": "photography",
-        "name": "Photography",
-        "path": "merit-badges/photography/workbook/"
-    },
-    {
         "badge": "pioneering",
         "name": "Pioneering",
         "path": "merit-badges/pioneering/workbook/"
+    },
+    {
+        "badge": "photography",
+        "name": "Photography",
+        "path": "merit-badges/photography/workbook/"
     },
     {
         "badge": "plant-science",
@@ -485,9 +490,9 @@
         "path": "merit-badges/pulp-and-paper/workbook/"
     },
     {
-        "badge": "nuclear-science",
-        "name": "Nuclear Science",
-        "path": "merit-badges/nuclear-science/workbook/"
+        "badge": "railroading",
+        "name": "Railroading",
+        "path": "merit-badges/railroading/workbook/"
     },
     {
         "badge": "radio",
@@ -495,24 +500,19 @@
         "path": "merit-badges/radio/workbook/"
     },
     {
-        "badge": "railroading",
-        "name": "Railroading",
-        "path": "merit-badges/railroading/workbook/"
-    },
-    {
         "badge": "reading",
         "name": "Reading",
         "path": "merit-badges/reading/workbook/"
     },
     {
-        "badge": "reptile-and-amphibian-study",
-        "name": "Reptile and Amphibian Study",
-        "path": "merit-badges/reptile-and-amphibian-study/workbook/"
-    },
-    {
         "badge": "rifle-shooting",
         "name": "Rifle Shooting",
         "path": "merit-badges/rifle-shooting/workbook/"
+    },
+    {
+        "badge": "reptile-and-amphibian-study",
+        "name": "Reptile and Amphibian Study",
+        "path": "merit-badges/reptile-and-amphibian-study/workbook/"
     },
     {
         "badge": "robotics",
@@ -595,14 +595,14 @@
         "path": "merit-badges/space-exploration/workbook/"
     },
     {
-        "badge": "sports",
-        "name": "Sports",
-        "path": "merit-badges/sports/workbook/"
-    },
-    {
         "badge": "stamp-collecting",
         "name": "Stamp Collecting",
         "path": "merit-badges/stamp-collecting/workbook/"
+    },
+    {
+        "badge": "sports",
+        "name": "Sports",
+        "path": "merit-badges/sports/workbook/"
     },
     {
         "badge": "surveying",
@@ -615,14 +615,14 @@
         "path": "merit-badges/sustainability/workbook/"
     },
     {
-        "badge": "swimming",
-        "name": "Swimming",
-        "path": "merit-badges/swimming/workbook/"
-    },
-    {
         "badge": "textile",
         "name": "Textile",
         "path": "merit-badges/textile/workbook/"
+    },
+    {
+        "badge": "swimming",
+        "name": "Swimming",
+        "path": "merit-badges/swimming/workbook/"
     },
     {
         "badge": "theater",
@@ -702,11 +702,11 @@
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/horse/"
+        "path": "merit-badges/animal-science/workbook/sheep/"
     },
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/sheep/"
+        "path": "merit-badges/animal-science/workbook/horse/"
     }
 ]
