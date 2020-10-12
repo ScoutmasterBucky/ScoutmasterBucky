@@ -201,20 +201,20 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="4D" requirement="Discuss the Employee Retirement Income Security Act (ERISA)."}}
-{{#wb-req-text lines=20}}{{/wb-req-text}}
+{{#wb-req-text lines=21}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="5" requirement="Choose a business and research how it applies each of the primary areas of business (accounting, finance, economics, marketing, and management). Share what you have learned with your counselor."}}
-{{#wb-req-text lines=2}}Selected Business:{{/wb-req-text}}
-{{#wb-req-text lines=11}}Accounting:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Selected Business:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Accounting:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=11}}Finance:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Finance:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=11}}Economics:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Economics:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=11}}Marketing:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Marketing:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=11}}Management:{{/wb-req-text}}
+{{#wb-req-text lines=12}}Management:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{#wb-req-text lines=17}}Additional Notes:{{/wb-req-text}}
 {{/wb-req}}
