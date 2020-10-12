@@ -14,7 +14,7 @@ Float trips are popular Boy Scout, Venturing, and Sea Scout activities. Safety A
 
 The program contains four separate modules. Basic Canoeing and Basic Kayaking options cover flat water skills. River Canoeing and River Kayaking options build on the basic programs to include moving water.
 
-Persons completing the training should be better prepared to supervise paddle craft activities. The training is open to any registered adult leader, Scout, Venturer, Sea Scout, or Explorer who is age 15 or older. The training must be conducted by a council approved instructor and is valid for three years.
+Persons completing the training should be better prepared to supervise paddle craft activities. The training is open to any registered Scout, Venturer, Sea Scout, Explorer, or adult leader who is age 15 or older. The training must be conducted by a council approved instructor and is valid for three years.
 
 The following resources are available for this award:
 
@@ -43,8 +43,8 @@ The important item is the Paddle Craft Safety Pocket Certificate signed by your 
 ## Paddle Craft Safety - Basic Canoeing and Basic Kayaking Requirements
 
 <div class="W(300px) Maw(100%) Fxs(0) P(1em)">
-<img src="bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segment.png.jpg" Class="W(100%) H(a)">
-<img src="bsa-aquatics-supervision-paddle-craft-safety-basic-kayaking-patch-segment.png.jpg" Class="W(100%) H(a)">
+<img src="\bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segment.png.jpg" Class="W(100%) H(a)">
+<img src="\BSA-Aquatics-Supervision-Paddle-Craft-Safety\bsa-aquatics-supervision-paddle-craft-safety-basic-kayaking-patch-segment.png.jpg" Class="W(100%) H(a)">
 </div>
 
 {{#requirements}}
