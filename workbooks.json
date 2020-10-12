@@ -395,11 +395,6 @@
         "path": "merit-badges/motorboating/workbook/"
     },
     {
-        "badge": "moviemaking",
-        "name": "Moviemaking",
-        "path": "merit-badges/moviemaking/workbook/"
-    },
-    {
         "badge": "music",
         "name": "Music",
         "path": "merit-badges/music/workbook/"
@@ -408,6 +403,11 @@
         "badge": "nature",
         "name": "Nature",
         "path": "merit-badges/nature/workbook/"
+    },
+    {
+        "badge": "moviemaking",
+        "name": "Moviemaking",
+        "path": "merit-badges/moviemaking/workbook/"
     },
     {
         "badge": "nuclear-science",
@@ -455,14 +455,14 @@
         "path": "merit-badges/pioneering/workbook/"
     },
     {
-        "badge": "plant-science",
-        "name": "Plant Science",
-        "path": "merit-badges/plant-science/workbook/"
-    },
-    {
         "badge": "plumbing",
         "name": "Plumbing",
         "path": "merit-badges/plumbing/workbook/"
+    },
+    {
+        "badge": "plant-science",
+        "name": "Plant Science",
+        "path": "merit-badges/plant-science/workbook/"
     },
     {
         "badge": "pottery",
@@ -560,6 +560,11 @@
         "path": "merit-badges/search-and-rescue/workbook/"
     },
     {
+        "badge": "skating",
+        "name": "Skating",
+        "path": "merit-badges/skating/workbook/"
+    },
+    {
         "badge": "shotgun-shooting",
         "name": "Shotgun Shooting",
         "path": "merit-badges/shotgun-shooting/workbook/"
@@ -568,11 +573,6 @@
         "badge": "signs-signals-and-codes",
         "name": "Signs, Signals, and Codes",
         "path": "merit-badges/signs-signals-and-codes/workbook/"
-    },
-    {
-        "badge": "skating",
-        "name": "Skating",
-        "path": "merit-badges/skating/workbook/"
     },
     {
         "badge": "small-boat-sailing",
@@ -585,14 +585,14 @@
         "path": "merit-badges/snow-sports/workbook/"
     },
     {
-        "badge": "soil-and-water-conservation",
-        "name": "Soil and Water Conservation",
-        "path": "merit-badges/soil-and-water-conservation/workbook/"
-    },
-    {
         "badge": "space-exploration",
         "name": "Space Exploration",
         "path": "merit-badges/space-exploration/workbook/"
+    },
+    {
+        "badge": "soil-and-water-conservation",
+        "name": "Soil and Water Conservation",
+        "path": "merit-badges/soil-and-water-conservation/workbook/"
     },
     {
         "badge": "sports",
@@ -605,14 +605,14 @@
         "path": "merit-badges/stamp-collecting/workbook/"
     },
     {
-        "badge": "surveying",
-        "name": "Surveying",
-        "path": "merit-badges/surveying/workbook/"
-    },
-    {
         "badge": "sustainability",
         "name": "Sustainability",
         "path": "merit-badges/sustainability/workbook/"
+    },
+    {
+        "badge": "surveying",
+        "name": "Surveying",
+        "path": "merit-badges/surveying/workbook/"
     },
     {
         "badge": "swimming",
@@ -625,11 +625,6 @@
         "path": "merit-badges/textile/workbook/"
     },
     {
-        "badge": "traffic-safety",
-        "name": "Traffic Safety",
-        "path": "merit-badges/traffic-safety/workbook/"
-    },
-    {
         "badge": "theater",
         "name": "Theater",
         "path": "merit-badges/theater/workbook/"
@@ -640,14 +635,14 @@
         "path": "merit-badges/truck-transportation/workbook/"
     },
     {
+        "badge": "traffic-safety",
+        "name": "Traffic Safety",
+        "path": "merit-badges/traffic-safety/workbook/"
+    },
+    {
         "badge": "veterinary-medicine",
         "name": "Veterinary Medicine",
         "path": "merit-badges/veterinary-medicine/workbook/"
-    },
-    {
-        "badge": "water-sports",
-        "name": "Water Sports",
-        "path": "merit-badges/water-sports/workbook/"
     },
     {
         "badge": "weather",
@@ -655,14 +650,19 @@
         "path": "merit-badges/weather/workbook/"
     },
     {
-        "badge": "welding",
-        "name": "Welding",
-        "path": "merit-badges/welding/workbook/"
+        "badge": "water-sports",
+        "name": "Water Sports",
+        "path": "merit-badges/water-sports/workbook/"
     },
     {
         "badge": "whitewater",
         "name": "Whitewater",
         "path": "merit-badges/whitewater/workbook/"
+    },
+    {
+        "badge": "welding",
+        "name": "Welding",
+        "path": "merit-badges/welding/workbook/"
     },
     {
         "badge": "wilderness-survival",
