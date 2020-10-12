@@ -43,6 +43,10 @@ The important item is the Paddle Craft Safety Pocket Certificate signed by your 
 ## Paddle Craft Safety - Basic Canoeing and Basic Kayaking Requirements
 
 <div class="W(300px) Maw(100%) Fxs(0) P(1em)">
+<img src="/bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segment.png" Class="W(100%) H(a)">
+<img src="\bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segment.png" Class="W(100%) H(a)">
+<img src="http://scoutmasterbucky.com/bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segment.png\bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segment.png" Class="W(100%) H(a)">
+<img src="\bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segment.png" Class="W(100%) H(a)">
 <img src="\bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segment.png" Class="W(100%) H(a)">
 <img src="\BSA-Aquatics-Supervision-Paddle-Craft-Safety\bsa-aquatics-supervision-paddle-craft-safety-basic-kayaking-patch-segment.png" Class="W(100%) H(a)">
 </div>
