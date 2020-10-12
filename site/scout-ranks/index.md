@@ -1,7 +1,6 @@
 ---
 title: Scout Ranks
 layout: smb
-imagepath: scout-ranks/
 imagemain: scout-ranks.jpg
 
 ---
@@ -14,7 +13,7 @@ Following are the ranks of Scouting.  Click on the respective rank or rank insi
 
 </div><div class="Ta(c) Pt(1em)--s">
 
-({{imagemain}})
+![scout-ranks]({{imagemain}})
 
 </div>
 
