@@ -15,7 +15,7 @@ Following are the ranks of Scouting.  Click on the respective rank or rank insi
 
 ![scout-ranks]({{imagemain}})
 
-</div>
+</div></div>
 
 ## List of Scout Ranks
 

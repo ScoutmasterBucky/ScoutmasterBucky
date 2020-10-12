@@ -1,12 +1,12 @@
 ---
-title: Scout
+title: Star
 layout: smb
-linkPath: Scout/
-image: scout.jpg
-imageSmb: scoutmaster-bucky-scout.jpg
+linkPath: 05Star/
+image: star.jpg
+imageSmb: scoutmaster-bucky-star.jpg
 ---
 
-# Scout Rank
+# Star Rank
 
 <div class="D(f) Fxd(c)--s"><div>
 
@@ -16,11 +16,11 @@ Alternate requirements for the Scout rank are available for Scouts with physical
 
 </div><div class="Ta(c) Pt(1em)--s">
 
-![scoutmaster-bucky-scout]({{imageSmb}})
+![scoutmaster-bucky-star]({{imageSmb}})
 
 </div></div>
 
-## Scout Rank Requirements
+## Star Rank Requirements
 
 All requirements for the Scout rank must be completed as a member of a troop or as a Lone Scout.  If you have already completed these requirements as part of the Webelos Scouting Adventure, simply demonstrate your knowledge or skills to your Scoutmaster or other designated leader after joining the troop.
 
