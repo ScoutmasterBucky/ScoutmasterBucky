@@ -1,9 +1,8 @@
 ---
 title: Scout Ranks
 layout: smb
+image: scout-ranks.jpg
 ---
-
-# Scout Ranks
 
 <div class="W(20%) W(25%)--l W(33%)--m W(50%)--s D(f) Fxd(c) Ai(c) P(4px)">
     <a href="{{linkPath}}">
