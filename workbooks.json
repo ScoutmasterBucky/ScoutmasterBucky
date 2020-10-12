@@ -105,11 +105,6 @@
         "path": "merit-badges/chess/workbook/"
     },
     {
-        "badge": "citizenship-in-the-community",
-        "name": "Citizenship in the Community",
-        "path": "merit-badges/citizenship-in-the-community/workbook/"
-    },
-    {
         "badge": "citizenship-in-the-nation",
         "name": "Citizenship in the Nation",
         "path": "merit-badges/citizenship-in-the-nation/workbook/"
@@ -118,6 +113,11 @@
         "badge": "citizenship-in-the-world",
         "name": "Citizenship in the World",
         "path": "merit-badges/citizenship-in-the-world/workbook/"
+    },
+    {
+        "badge": "citizenship-in-the-community",
+        "name": "Citizenship in the Community",
+        "path": "merit-badges/citizenship-in-the-community/workbook/"
     },
     {
         "badge": "climbing",
@@ -560,11 +560,6 @@
         "path": "merit-badges/search-and-rescue/workbook/"
     },
     {
-        "badge": "shotgun-shooting",
-        "name": "Shotgun Shooting",
-        "path": "merit-badges/shotgun-shooting/workbook/"
-    },
-    {
         "badge": "signs-signals-and-codes",
         "name": "Signs, Signals, and Codes",
         "path": "merit-badges/signs-signals-and-codes/workbook/"
@@ -600,24 +595,19 @@
         "path": "merit-badges/sports/workbook/"
     },
     {
-        "badge": "surveying",
-        "name": "Surveying",
-        "path": "merit-badges/surveying/workbook/"
-    },
-    {
         "badge": "stamp-collecting",
         "name": "Stamp Collecting",
         "path": "merit-badges/stamp-collecting/workbook/"
     },
     {
+        "badge": "surveying",
+        "name": "Surveying",
+        "path": "merit-badges/surveying/workbook/"
+    },
+    {
         "badge": "sustainability",
         "name": "Sustainability",
         "path": "merit-badges/sustainability/workbook/"
-    },
-    {
-        "badge": "swimming",
-        "name": "Swimming",
-        "path": "merit-badges/swimming/workbook/"
     },
     {
         "badge": "textile",
@@ -645,6 +635,11 @@
         "path": "merit-badges/veterinary-medicine/workbook/"
     },
     {
+        "badge": "water-sports",
+        "name": "Water Sports",
+        "path": "merit-badges/water-sports/workbook/"
+    },
+    {
         "badge": "weather",
         "name": "Weather",
         "path": "merit-badges/weather/workbook/"
@@ -653,11 +648,6 @@
         "badge": "welding",
         "name": "Welding",
         "path": "merit-badges/welding/workbook/"
-    },
-    {
-        "badge": "water-sports",
-        "name": "Water Sports",
-        "path": "merit-badges/water-sports/workbook/"
     },
     {
         "badge": "whitewater",
@@ -678,6 +668,16 @@
         "badge": "woodwork",
         "name": "Woodwork",
         "path": "merit-badges/woodwork/workbook/"
+    },
+    {
+        "badge": "shotgun-shooting",
+        "name": "Shotgun Shooting",
+        "path": "merit-badges/shotgun-shooting/workbook/"
+    },
+    {
+        "badge": "swimming",
+        "name": "Swimming",
+        "path": "merit-badges/swimming/workbook/"
     },
     {
         "badge": "animal-science",
@@ -702,11 +702,11 @@
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/sheep/"
+        "path": "merit-badges/animal-science/workbook/horse/"
     },
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/horse/"
+        "path": "merit-badges/animal-science/workbook/sheep/"
     }
 ]
