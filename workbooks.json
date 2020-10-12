@@ -1,28 +1,8 @@
 [
     {
-        "badge": "american-business",
-        "name": "American Business",
-        "path": "merit-badges/american-business/workbook/"
-    },
-    {
         "badge": "american-cultures",
         "name": "American Cultures",
         "path": "merit-badges/american-cultures/workbook/"
-    },
-    {
-        "badge": "american-labor",
-        "name": "American Labor",
-        "path": "merit-badges/american-labor/workbook/"
-    },
-    {
-        "badge": "animation",
-        "name": "Animation",
-        "path": "merit-badges/animation/workbook/"
-    },
-    {
-        "badge": "archaeology",
-        "name": "Archaeology",
-        "path": "merit-badges/archaeology/workbook/"
     },
     {
         "badge": "american-heritage",
@@ -30,9 +10,29 @@
         "path": "merit-badges/american-heritage/workbook/"
     },
     {
+        "badge": "american-labor",
+        "name": "American Labor",
+        "path": "merit-badges/american-labor/workbook/"
+    },
+    {
+        "badge": "american-business",
+        "name": "American Business",
+        "path": "merit-badges/american-business/workbook/"
+    },
+    {
+        "badge": "animation",
+        "name": "Animation",
+        "path": "merit-badges/animation/workbook/"
+    },
+    {
         "badge": "archery",
         "name": "Archery",
         "path": "merit-badges/archery/workbook/"
+    },
+    {
+        "badge": "archaeology",
+        "name": "Archaeology",
+        "path": "merit-badges/archaeology/workbook/"
     },
     {
         "badge": "architecture",
@@ -270,9 +270,9 @@
         "path": "merit-badges/forestry/workbook/"
     },
     {
-        "badge": "genealogy",
-        "name": "Genealogy",
-        "path": "merit-badges/genealogy/workbook/"
+        "badge": "game-design",
+        "name": "Game Design",
+        "path": "merit-badges/game-design/workbook/"
     },
     {
         "badge": "gardening",
@@ -280,14 +280,14 @@
         "path": "merit-badges/gardening/workbook/"
     },
     {
+        "badge": "genealogy",
+        "name": "Genealogy",
+        "path": "merit-badges/genealogy/workbook/"
+    },
+    {
         "badge": "geocaching",
         "name": "Geocaching",
         "path": "merit-badges/geocaching/workbook/"
-    },
-    {
-        "badge": "game-design",
-        "name": "Game Design",
-        "path": "merit-badges/game-design/workbook/"
     },
     {
         "badge": "geology",
@@ -335,11 +335,6 @@
         "path": "merit-badges/inventing/workbook/"
     },
     {
-        "badge": "journalism",
-        "name": "Journalism",
-        "path": "merit-badges/journalism/workbook/"
-    },
-    {
         "badge": "kayaking",
         "name": "Kayaking",
         "path": "merit-badges/kayaking/workbook/"
@@ -353,6 +348,11 @@
         "badge": "law",
         "name": "Law",
         "path": "merit-badges/law/workbook/"
+    },
+    {
+        "badge": "journalism",
+        "name": "Journalism",
+        "path": "merit-badges/journalism/workbook/"
     },
     {
         "badge": "leatherwork",
@@ -475,6 +475,11 @@
         "path": "merit-badges/programming/workbook/"
     },
     {
+        "badge": "public-health",
+        "name": "Public Health",
+        "path": "merit-badges/public-health/workbook/"
+    },
+    {
         "badge": "public-speaking",
         "name": "Public Speaking",
         "path": "merit-badges/public-speaking/workbook/"
@@ -488,11 +493,6 @@
         "badge": "radio",
         "name": "Radio",
         "path": "merit-badges/radio/workbook/"
-    },
-    {
-        "badge": "public-health",
-        "name": "Public Health",
-        "path": "merit-badges/public-health/workbook/"
     },
     {
         "badge": "railroading",
