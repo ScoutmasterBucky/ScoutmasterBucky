@@ -227,13 +227,13 @@ year: 2020
 {{>wb-req-allow-break}}
 {{#wb-req-text lines=1}}Selected Career:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=6}}Educational Requirements:{{/wb-req-text}}
+{{#wb-req-text lines=5}}Educational Requirements:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=6}}Training Requirements:{{/wb-req-text}}
+{{#wb-req-text lines=5}}Training Requirements:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=6}}Experience Requirements:{{/wb-req-text}}
+{{#wb-req-text lines=5}}Experience Requirements:{{/wb-req-text}}
 {{>wb-req-allow-break}}
-{{#wb-req-text lines=4}}Why this selected career might interest you:{{/wb-req-text}}
+{{#wb-req-text lines=3}}Why this selected career might interest you:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="6B" requirement="Select a business leader and interview this individual to learn more about his or her company and career path.  Discuss the role ethics plays in making business decisions.  Share what you have learned with your counselor."}}
