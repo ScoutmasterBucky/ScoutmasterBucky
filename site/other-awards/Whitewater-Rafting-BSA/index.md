@@ -1,7 +1,7 @@
 ---
 title: Whitewater Rafting BSA
 layout: smb
-linkPath: Whitewater-Rafting-BSA/
+linkPath: whitewater-rafting-bsa/
 image: whitewater-rafting-bsa.jpg
 imageSmb: scoutmaster-bucky-whitewater-rafting-bsa.jpg
 ---
@@ -18,7 +18,7 @@ Note: Swim trunks emblem—The Whitewater Rafting BSA patch is NOT worn on the u
 
 </div><div class="Ta(c) Pt(1em)--s">
 
-![whitewater-rafting-bsa]({{imageSmb}})
+![Whitewater Rafting BSA Award]({{imageSmb}})
 
 </div></div>
 
