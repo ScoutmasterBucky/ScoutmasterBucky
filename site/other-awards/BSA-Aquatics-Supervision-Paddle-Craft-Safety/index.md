@@ -1,7 +1,7 @@
 ---
 title: BSA Aquatics Supervision Paddle Craft Safety
 layout: smb
-linkPath: bsa-aquatics-supervision-paddle-craft-safety/
+linkPath: BSA-Aquatics-Supervision-Paddle-Craft-Safety/
 image: bsa-aquatics-supervision-paddle-craft-safety-patch.jpg
 imageSmb: scoutmaster-bucky-bsa-aquatics-supervision-paddle-craft-safety.jpg
 ---
@@ -35,7 +35,7 @@ Upon successful completion of any, or all, of the 4 course modules within the Pa
 
 The important item is the Paddle Craft Safety Pocket Certificate signed by your instructor and to have the certificate on your person whenever performing aquatic supervision activities.
 
-## addle Craft Safety - Basic Canoeing and Basic Kayaking Requirements
+## Paddle Craft Safety - Basic Canoeing and Basic Kayaking Requirements
 
 {{#requirements}}
 1. PREREQUISITES:
@@ -66,7 +66,7 @@ The important item is the Paddle Craft Safety Pocket Certificate signed by your 
 * Skills may be demonstrated either tandem in a canoe, or solo in a kayak. If a tandem canoe is used, each participant must demonstrate the maneuvers from both bow and stern positions.
 {{/requirements}}
 
-## addle Craft Safety - River Canoeing and River Kayaking Requirements
+## Paddle Craft Safety - River Canoeing and River Kayaking Requirements
 
 {{#requirements}}
 1. PREREQUISITES:
