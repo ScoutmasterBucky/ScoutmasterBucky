@@ -15,11 +15,6 @@
         "path": "merit-badges/american-heritage/workbook/"
     },
     {
-        "badge": "american-labor",
-        "name": "American Labor",
-        "path": "merit-badges/american-labor/workbook/"
-    },
-    {
         "badge": "animation",
         "name": "Animation",
         "path": "merit-badges/animation/workbook/"
@@ -30,19 +25,24 @@
         "path": "merit-badges/archaeology/workbook/"
     },
     {
+        "badge": "american-labor",
+        "name": "American Labor",
+        "path": "merit-badges/american-labor/workbook/"
+    },
+    {
         "badge": "archery",
         "name": "Archery",
         "path": "merit-badges/archery/workbook/"
     },
     {
-        "badge": "architecture",
-        "name": "Architecture",
-        "path": "merit-badges/architecture/workbook/"
-    },
-    {
         "badge": "art",
         "name": "Art",
         "path": "merit-badges/art/workbook/"
+    },
+    {
+        "badge": "architecture",
+        "name": "Architecture",
+        "path": "merit-badges/architecture/workbook/"
     },
     {
         "badge": "astronomy",
@@ -95,11 +95,6 @@
         "path": "merit-badges/canoeing/workbook/"
     },
     {
-        "badge": "chemistry",
-        "name": "Chemistry",
-        "path": "merit-badges/chemistry/workbook/"
-    },
-    {
         "badge": "chess",
         "name": "Chess",
         "path": "merit-badges/chess/workbook/"
@@ -108,6 +103,11 @@
         "badge": "citizenship-in-the-community",
         "name": "Citizenship in the Community",
         "path": "merit-badges/citizenship-in-the-community/workbook/"
+    },
+    {
+        "badge": "chemistry",
+        "name": "Chemistry",
+        "path": "merit-badges/chemistry/workbook/"
     },
     {
         "badge": "citizenship-in-the-nation",
@@ -315,11 +315,6 @@
         "path": "merit-badges/home-repairs/workbook/"
     },
     {
-        "badge": "horsemanship",
-        "name": "Horsemanship",
-        "path": "merit-badges/horsemanship/workbook/"
-    },
-    {
         "badge": "indian-lore",
         "name": "Indian Lore",
         "path": "merit-badges/indian-lore/workbook/"
@@ -365,14 +360,19 @@
         "path": "merit-badges/lifesaving/workbook/"
     },
     {
-        "badge": "mammal-study",
-        "name": "Mammal Study",
-        "path": "merit-badges/mammal-study/workbook/"
-    },
-    {
         "badge": "medicine",
         "name": "Medicine",
         "path": "merit-badges/medicine/workbook/"
+    },
+    {
+        "badge": "horsemanship",
+        "name": "Horsemanship",
+        "path": "merit-badges/horsemanship/workbook/"
+    },
+    {
+        "badge": "mammal-study",
+        "name": "Mammal Study",
+        "path": "merit-badges/mammal-study/workbook/"
     },
     {
         "badge": "metalwork",
@@ -420,14 +420,14 @@
         "path": "merit-badges/oceanography/workbook/"
     },
     {
-        "badge": "orienteering",
-        "name": "Orienteering",
-        "path": "merit-badges/orienteering/workbook/"
-    },
-    {
         "badge": "painting",
         "name": "Painting",
         "path": "merit-badges/painting/workbook/"
+    },
+    {
+        "badge": "orienteering",
+        "name": "Orienteering",
+        "path": "merit-badges/orienteering/workbook/"
     },
     {
         "badge": "personal-fitness",
@@ -440,14 +440,14 @@
         "path": "merit-badges/personal-management/workbook/"
     },
     {
-        "badge": "pets",
-        "name": "Pets",
-        "path": "merit-badges/pets/workbook/"
-    },
-    {
         "badge": "photography",
         "name": "Photography",
         "path": "merit-badges/photography/workbook/"
+    },
+    {
+        "badge": "pets",
+        "name": "Pets",
+        "path": "merit-badges/pets/workbook/"
     },
     {
         "badge": "pioneering",
@@ -570,11 +570,6 @@
         "path": "merit-badges/signs-signals-and-codes/workbook/"
     },
     {
-        "badge": "skating",
-        "name": "Skating",
-        "path": "merit-badges/skating/workbook/"
-    },
-    {
         "badge": "small-boat-sailing",
         "name": "Small-Boat Sailing",
         "path": "merit-badges/small-boat-sailing/workbook/"
@@ -583,6 +578,11 @@
         "badge": "snow-sports",
         "name": "Snow Sports",
         "path": "merit-badges/snow-sports/workbook/"
+    },
+    {
+        "badge": "skating",
+        "name": "Skating",
+        "path": "merit-badges/skating/workbook/"
     },
     {
         "badge": "soil-and-water-conservation",
