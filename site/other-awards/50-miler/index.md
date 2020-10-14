@@ -12,11 +12,11 @@ imageSmb: scoutmaster-bucky-bsa-50-miler.jpg
 <div class="Ta(c) Pt(1em)--s">
 
 ![50-Miler]({{imageSmb}})
-</div>><div>
+</div><div>
 
 The primary objective of this program is to stimulate Scouts BSA and Venturing Scouts interest in the ideals of the movement and to promote activity that will result in personal fitness, self-reliance, knowledge of wood lore, and a practical understanding of conservation.
 
-Chartered unit participation is most desirable; however, provisional groups are eligible. This award does not apply if any other award is available for a trip.
+Chartered unit participation is most desirable, however, provisional groups are eligible. This award does not apply if any other award is available for a trip.
 
 </div></div>
 
