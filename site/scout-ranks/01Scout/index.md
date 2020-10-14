@@ -16,13 +16,13 @@ imageSmb: scoutmaster-bucky-scout.jpg
 
 <div>
 
-The rank requirements shown here are taken from the **2020 Scouts BSA Requirements** book and are official as of January 1, 2020. The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously;, however, these ranks must be earned in sequence.
+The rank requirements shown here are taken from the **2020 Scouts BSA Requirements** book and are official as of January 1, 2020. The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously, however, these ranks must be earned in sequence.
+
+All requirements for the Scout rank must be completed as a member of a troop or as a Lone Scout.  If you have already completed these requirements as part of the Webelos Scouting Adventure, simply demonstrate your knowledge or skills to your Scoutmaster or other designated leader after joining the troop.
 
 </div></div>
 
 ## Scout Rank Requirements
-
-All requirements for the Scout rank must be completed as a member of a troop or as a Lone Scout.  If you have already completed these requirements as part of the Webelos Scouting Adventure, simply demonstrate your knowledge or skills to your Scoutmaster or other designated leader after joining the troop.
 
 {{#requirements}}
 1. Do the following:
