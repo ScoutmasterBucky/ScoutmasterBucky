@@ -12,7 +12,7 @@ imageSmb: scoutmaster-bucky-tenderfoot.jpg
 
 <div class="Ta(c) Pt(1em)--s">
 
-![scoutmaster-bucky-temderfoot]({{imageSmb}})</div>
+![scoutmaster-bucky-tenderfoot]({{imageSmb}})</div>
 
 <div>
 
