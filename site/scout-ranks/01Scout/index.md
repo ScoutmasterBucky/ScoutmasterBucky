@@ -48,8 +48,6 @@ All requirements for the Scout rank must be completed as a member of a troop or 
 If your family does not have internet access at home AND you do not have ready internet access at school or another public place or via a mobile device, the Cyber Chip portion of this requirement may be waived by your Scoutmaster in consultation with your parent or guardian.
 7. Since joining the troop and while working on the Scout rank, participate in a Scoutmaster conference.
 
-{{/requirements}}
-
 ## Alternative Scout Rank Requirements
 
 Alternate requirements for the Scout rank are available for Scouts with physical or mental disabilities if they meet the criteria listed in the Scouts BSA Requirements book.
