@@ -245,11 +245,6 @@
         "path": "merit-badges/fire-safety/workbook/"
     },
     {
-        "badge": "first-aid",
-        "name": "First Aid",
-        "path": "merit-badges/first-aid/workbook/"
-    },
-    {
         "badge": "fish-and-wildlife-management",
         "name": "Fish and Wildlife Management",
         "path": "merit-badges/fish-and-wildlife-management/workbook/"
@@ -335,6 +330,11 @@
         "path": "merit-badges/inventing/workbook/"
     },
     {
+        "badge": "journalism",
+        "name": "Journalism",
+        "path": "merit-badges/journalism/workbook/"
+    },
+    {
         "badge": "kayaking",
         "name": "Kayaking",
         "path": "merit-badges/kayaking/workbook/"
@@ -343,6 +343,11 @@
         "badge": "landscape-architecture",
         "name": "Landscape Architecture",
         "path": "merit-badges/landscape-architecture/workbook/"
+    },
+    {
+        "badge": "law",
+        "name": "Law",
+        "path": "merit-badges/law/workbook/"
     },
     {
         "badge": "leatherwork",
@@ -355,11 +360,6 @@
         "path": "merit-badges/lifesaving/workbook/"
     },
     {
-        "badge": "law",
-        "name": "Law",
-        "path": "merit-badges/law/workbook/"
-    },
-    {
         "badge": "mammal-study",
         "name": "Mammal Study",
         "path": "merit-badges/mammal-study/workbook/"
@@ -368,11 +368,6 @@
         "badge": "medicine",
         "name": "Medicine",
         "path": "merit-badges/medicine/workbook/"
-    },
-    {
-        "badge": "journalism",
-        "name": "Journalism",
-        "path": "merit-badges/journalism/workbook/"
     },
     {
         "badge": "metalwork",
@@ -400,14 +395,14 @@
         "path": "merit-badges/moviemaking/workbook/"
     },
     {
-        "badge": "nature",
-        "name": "Nature",
-        "path": "merit-badges/nature/workbook/"
-    },
-    {
         "badge": "music",
         "name": "Music",
         "path": "merit-badges/music/workbook/"
+    },
+    {
+        "badge": "nature",
+        "name": "Nature",
+        "path": "merit-badges/nature/workbook/"
     },
     {
         "badge": "nuclear-science",
@@ -435,14 +430,14 @@
         "path": "merit-badges/personal-fitness/workbook/"
     },
     {
-        "badge": "personal-management",
-        "name": "Personal Management",
-        "path": "merit-badges/personal-management/workbook/"
-    },
-    {
         "badge": "pets",
         "name": "Pets",
         "path": "merit-badges/pets/workbook/"
+    },
+    {
+        "badge": "personal-management",
+        "name": "Personal Management",
+        "path": "merit-badges/personal-management/workbook/"
     },
     {
         "badge": "photography",
@@ -463,6 +458,11 @@
         "badge": "plumbing",
         "name": "Plumbing",
         "path": "merit-badges/plumbing/workbook/"
+    },
+    {
+        "badge": "first-aid",
+        "name": "First Aid",
+        "path": "merit-badges/first-aid/workbook/"
     },
     {
         "badge": "pottery",
@@ -620,11 +620,6 @@
         "path": "merit-badges/swimming/workbook/"
     },
     {
-        "badge": "textile",
-        "name": "Textile",
-        "path": "merit-badges/textile/workbook/"
-    },
-    {
         "badge": "theater",
         "name": "Theater",
         "path": "merit-badges/theater/workbook/"
@@ -643,6 +638,11 @@
         "badge": "veterinary-medicine",
         "name": "Veterinary Medicine",
         "path": "merit-badges/veterinary-medicine/workbook/"
+    },
+    {
+        "badge": "textile",
+        "name": "Textile",
+        "path": "merit-badges/textile/workbook/"
     },
     {
         "badge": "water-sports",
@@ -682,17 +682,17 @@
     {
         "badge": "animal-science",
         "name": "Animal Science",
+        "path": "merit-badges/animal-science/workbook/avian/"
+    },
+    {
+        "badge": "animal-science",
+        "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/beef-cattle/"
     },
     {
         "badge": "animal-science",
         "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/dairying/"
-    },
-    {
-        "badge": "animal-science",
-        "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/avian/"
     },
     {
         "badge": "animal-science",
