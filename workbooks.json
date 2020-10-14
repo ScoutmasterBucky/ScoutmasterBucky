@@ -245,6 +245,11 @@
         "path": "merit-badges/fire-safety/workbook/"
     },
     {
+        "badge": "first-aid",
+        "name": "First Aid",
+        "path": "merit-badges/first-aid/workbook/"
+    },
+    {
         "badge": "fish-and-wildlife-management",
         "name": "Fish and Wildlife Management",
         "path": "merit-badges/fish-and-wildlife-management/workbook/"
@@ -298,6 +303,11 @@
         "badge": "graphic-arts",
         "name": "Graphic Arts",
         "path": "merit-badges/graphic-arts/workbook/"
+    },
+    {
+        "badge": "hiking",
+        "name": "Hiking",
+        "path": "merit-badges/hiking/workbook/"
     },
     {
         "badge": "home-repairs",
@@ -475,11 +485,6 @@
         "path": "merit-badges/public-speaking/workbook/"
     },
     {
-        "badge": "first-aid",
-        "name": "First Aid",
-        "path": "merit-badges/first-aid/workbook/"
-    },
-    {
         "badge": "pulp-and-paper",
         "name": "Pulp and Paper",
         "path": "merit-badges/pulp-and-paper/workbook/"
@@ -615,14 +620,14 @@
         "path": "merit-badges/swimming/workbook/"
     },
     {
-        "badge": "theater",
-        "name": "Theater",
-        "path": "merit-badges/theater/workbook/"
-    },
-    {
         "badge": "textile",
         "name": "Textile",
         "path": "merit-badges/textile/workbook/"
+    },
+    {
+        "badge": "theater",
+        "name": "Theater",
+        "path": "merit-badges/theater/workbook/"
     },
     {
         "badge": "traffic-safety",
@@ -655,19 +660,14 @@
         "path": "merit-badges/welding/workbook/"
     },
     {
-        "badge": "wilderness-survival",
-        "name": "Wilderness Survival",
-        "path": "merit-badges/wilderness-survival/workbook/"
-    },
-    {
         "badge": "whitewater",
         "name": "Whitewater",
         "path": "merit-badges/whitewater/workbook/"
     },
     {
-        "badge": "woodwork",
-        "name": "Woodwork",
-        "path": "merit-badges/woodwork/workbook/"
+        "badge": "wilderness-survival",
+        "name": "Wilderness Survival",
+        "path": "merit-badges/wilderness-survival/workbook/"
     },
     {
         "badge": "wood-carving",
@@ -675,9 +675,9 @@
         "path": "merit-badges/wood-carving/workbook/"
     },
     {
-        "badge": "hiking",
-        "name": "Hiking",
-        "path": "merit-badges/hiking/workbook/"
+        "badge": "woodwork",
+        "name": "Woodwork",
+        "path": "merit-badges/woodwork/workbook/"
     },
     {
         "badge": "animal-science",
