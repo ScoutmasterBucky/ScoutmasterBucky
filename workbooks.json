@@ -1,13 +1,13 @@
 [
     {
-        "badge": "american-cultures",
-        "name": "American Cultures",
-        "path": "merit-badges/american-cultures/workbook/"
-    },
-    {
         "badge": "american-business",
         "name": "American Business",
         "path": "merit-badges/american-business/workbook/"
+    },
+    {
+        "badge": "american-cultures",
+        "name": "American Cultures",
+        "path": "merit-badges/american-cultures/workbook/"
     },
     {
         "badge": "american-heritage",
@@ -275,6 +275,11 @@
         "path": "merit-badges/game-design/workbook/"
     },
     {
+        "badge": "gardening",
+        "name": "Gardening",
+        "path": "merit-badges/gardening/workbook/"
+    },
+    {
         "badge": "genealogy",
         "name": "Genealogy",
         "path": "merit-badges/genealogy/workbook/"
@@ -298,11 +303,6 @@
         "badge": "graphic-arts",
         "name": "Graphic Arts",
         "path": "merit-badges/graphic-arts/workbook/"
-    },
-    {
-        "badge": "gardening",
-        "name": "Gardening",
-        "path": "merit-badges/gardening/workbook/"
     },
     {
         "badge": "hiking",
@@ -345,14 +345,14 @@
         "path": "merit-badges/kayaking/workbook/"
     },
     {
-        "badge": "law",
-        "name": "Law",
-        "path": "merit-badges/law/workbook/"
-    },
-    {
         "badge": "landscape-architecture",
         "name": "Landscape Architecture",
         "path": "merit-badges/landscape-architecture/workbook/"
+    },
+    {
+        "badge": "law",
+        "name": "Law",
+        "path": "merit-badges/law/workbook/"
     },
     {
         "badge": "leatherwork",
@@ -390,14 +390,14 @@
         "path": "merit-badges/model-design-and-building/workbook/"
     },
     {
-        "badge": "moviemaking",
-        "name": "Moviemaking",
-        "path": "merit-badges/moviemaking/workbook/"
-    },
-    {
         "badge": "motorboating",
         "name": "Motorboating",
         "path": "merit-badges/motorboating/workbook/"
+    },
+    {
+        "badge": "moviemaking",
+        "name": "Moviemaking",
+        "path": "merit-badges/moviemaking/workbook/"
     },
     {
         "badge": "nature",
@@ -405,14 +405,14 @@
         "path": "merit-badges/nature/workbook/"
     },
     {
-        "badge": "music",
-        "name": "Music",
-        "path": "merit-badges/music/workbook/"
-    },
-    {
         "badge": "nuclear-science",
         "name": "Nuclear Science",
         "path": "merit-badges/nuclear-science/workbook/"
+    },
+    {
+        "badge": "oceanography",
+        "name": "Oceanography",
+        "path": "merit-badges/oceanography/workbook/"
     },
     {
         "badge": "orienteering",
@@ -423,11 +423,6 @@
         "badge": "painting",
         "name": "Painting",
         "path": "merit-badges/painting/workbook/"
-    },
-    {
-        "badge": "oceanography",
-        "name": "Oceanography",
-        "path": "merit-badges/oceanography/workbook/"
     },
     {
         "badge": "personal-fitness",
@@ -515,6 +510,11 @@
         "path": "merit-badges/rifle-shooting/workbook/"
     },
     {
+        "badge": "music",
+        "name": "Music",
+        "path": "merit-badges/music/workbook/"
+    },
+    {
         "badge": "robotics",
         "name": "Robotics",
         "path": "merit-badges/robotics/workbook/"
@@ -550,19 +550,24 @@
         "path": "merit-badges/scuba-diving/workbook/"
     },
     {
-        "badge": "search-and-rescue",
-        "name": "Search and Rescue",
-        "path": "merit-badges/search-and-rescue/workbook/"
-    },
-    {
         "badge": "sculpture",
         "name": "Sculpture",
         "path": "merit-badges/sculpture/workbook/"
     },
     {
+        "badge": "search-and-rescue",
+        "name": "Search and Rescue",
+        "path": "merit-badges/search-and-rescue/workbook/"
+    },
+    {
         "badge": "shotgun-shooting",
         "name": "Shotgun Shooting",
         "path": "merit-badges/shotgun-shooting/workbook/"
+    },
+    {
+        "badge": "signs-signals-and-codes",
+        "name": "Signs, Signals, and Codes",
+        "path": "merit-badges/signs-signals-and-codes/workbook/"
     },
     {
         "badge": "skating",
@@ -580,24 +585,9 @@
         "path": "merit-badges/snow-sports/workbook/"
     },
     {
-        "badge": "signs-signals-and-codes",
-        "name": "Signs, Signals, and Codes",
-        "path": "merit-badges/signs-signals-and-codes/workbook/"
-    },
-    {
         "badge": "soil-and-water-conservation",
         "name": "Soil and Water Conservation",
         "path": "merit-badges/soil-and-water-conservation/workbook/"
-    },
-    {
-        "badge": "stamp-collecting",
-        "name": "Stamp Collecting",
-        "path": "merit-badges/stamp-collecting/workbook/"
-    },
-    {
-        "badge": "sports",
-        "name": "Sports",
-        "path": "merit-badges/sports/workbook/"
     },
     {
         "badge": "space-exploration",
@@ -605,14 +595,19 @@
         "path": "merit-badges/space-exploration/workbook/"
     },
     {
+        "badge": "sports",
+        "name": "Sports",
+        "path": "merit-badges/sports/workbook/"
+    },
+    {
+        "badge": "stamp-collecting",
+        "name": "Stamp Collecting",
+        "path": "merit-badges/stamp-collecting/workbook/"
+    },
+    {
         "badge": "surveying",
         "name": "Surveying",
         "path": "merit-badges/surveying/workbook/"
-    },
-    {
-        "badge": "sustainability",
-        "name": "Sustainability",
-        "path": "merit-badges/sustainability/workbook/"
     },
     {
         "badge": "swimming",
@@ -680,6 +675,11 @@
         "path": "merit-badges/woodwork/workbook/"
     },
     {
+        "badge": "sustainability",
+        "name": "Sustainability",
+        "path": "merit-badges/sustainability/workbook/"
+    },
+    {
         "badge": "animal-science",
         "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/avian/"
@@ -687,12 +687,12 @@
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/beef-cattle/"
+        "path": "merit-badges/animal-science/workbook/dairying/"
     },
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/dairying/"
+        "path": "merit-badges/animal-science/workbook/beef-cattle/"
     },
     {
         "badge": "animal-science",
