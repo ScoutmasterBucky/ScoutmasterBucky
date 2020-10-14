@@ -8,17 +8,17 @@ imageSmb: scoutmaster-bucky-whitewater-rafting-bsa.jpg
 
 # Whitewater Rafting BSA
 
-<div class="D(f) Fxd(c)--s"><div>
+<div class="D(f) Fxd(c)--s">
+<div class="Ta(c) Pt(1em)--s">
+
+![Whitewater Rafting BSA Award]({{imageSmb}})
+</div><div>
 
 The Whitewater Rafting BSA Award provides an introduction to whitewater rafting skills and safety procedures and serves as a program opportunity for Scouts BSA, Venturing, and Sea Scioutng units in camp or out. Mastery of Whitewater Rafting BSA skills is a first critical step towards satisfying Safety Afloat guidelines for safe whitewater rafting excursions. The award is available to BSA youth and adults who are members of Scouts BSA, Venturing, or Sea Scout units.
 
 Requirements for the award focus on safety and basic paddling skills on whitewater up to Class III. All instruction and skill completions are directly supervised by a professionally trained or licensed rafting guide. A qualified raft captain must be in each raft during the required trip. Participants help power and control the raft with paddles – simply riding in a raft rowed by a guide is not sufficient.
 
 Note: Swim trunks emblem—The Whitewater Rafting BSA patch is NOT worn on the uniform; it is worn on the left side of the swim trunks
-
-</div><div class="Ta(c) Pt(1em)--s">
-
-![Whitewater Rafting BSA Award]({{imageSmb}})
 
 </div></div>
 

@@ -8,15 +8,15 @@ imageSmb: scoutmaster-bucky-cyber-chip.jpg
 
 # Cyber Chip
 
-<div class="D(f) Fxd(c)--s"><div>
+<div class="D(f) Fxd(c)--s">
+<div class="Ta(c) Pt(1em)--s">
+
+![Cyber Chip Award]({{image}})
+</div><div>
 
 The Cyber Ship for Scouts BSA comes in two different levels, depending on the Scout's grade.
 
 Note: All Cyber Chips will expire annually. Each Scout will need to go to [Netsmartz](https://www.missingkids.org/NetSmartz) and complete 2 new resources to recommit to net safety and netiquette. Then, with the unit leader, the Scout can add the new date to the Cyber Chip card or certificate.
-
-</div><div class="Ta(c) Pt(1em)--s">
-
-![Cyber Chip Award]({{image}})
 
 </div></div>
 
