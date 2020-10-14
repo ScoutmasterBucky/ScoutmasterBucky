@@ -8,7 +8,11 @@ imageSmb: scoutmaster-bucky-bsa-aquatics-supervision-paddle-craft-safety.jpg
 
 # BSA Aquatics Supervision Paddle Craft Safety
 
-<div class="D(f) Fxd(c)--s"><div>
+<div class="D(f) Fxd(c)--s">
+<div class="Ta(c) Pt(1em)--s">
+
+![BSA Aquatics Supervision Paddle Craft Safety Award]({{imageSmb}})
+</div><div>
 
 Float trips are popular Boy Scout, Venturing, and Sea Scout activities. Safety Afloat awareness training provides guidelines for safe float trips and is required of unit leaders, but does not provide the skill training mandated by those guidelines. BSA Paddle Craft Safety expands Safety Afloat training to include the skills, as well as the knowledge, needed for a unit leader to confidently supervise canoeing or kayaking excursions.
 
@@ -27,10 +31,6 @@ The following resources are available for this award:
 [Paddle Craft Safety Corse PowerPoint](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/ppt/430-502.ppt)
 
 [Paddle Craft Safety Course Exam](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/430-503.pdf)
-
-</div><div class="Ta(c) Pt(1em)--s">
-
-![BSA Aquatics Supervision Paddle Craft Safety Award]({{imageSmb}})
 
 </div></div>
 
