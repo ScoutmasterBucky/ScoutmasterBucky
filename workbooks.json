@@ -50,11 +50,6 @@
         "path": "merit-badges/astronomy/workbook/"
     },
     {
-        "badge": "athletics",
-        "name": "Athletics",
-        "path": "merit-badges/athletics/workbook/"
-    },
-    {
         "badge": "automotive-maintenance",
         "name": "Automotive Maintenance",
         "path": "merit-badges/automotive-maintenance/workbook/"
@@ -83,6 +78,11 @@
         "badge": "bugling",
         "name": "Bugling",
         "path": "merit-badges/bugling/workbook/"
+    },
+    {
+        "badge": "athletics",
+        "name": "Athletics",
+        "path": "merit-badges/athletics/workbook/"
     },
     {
         "badge": "camping",
@@ -170,14 +170,14 @@
         "path": "merit-badges/digital-technology/workbook/"
     },
     {
-        "badge": "disabilities-awareness",
-        "name": "Disabilities Awareness",
-        "path": "merit-badges/disabilities-awareness/workbook/"
-    },
-    {
         "badge": "dog-care",
         "name": "Dog Care",
         "path": "merit-badges/dog-care/workbook/"
+    },
+    {
+        "badge": "disabilities-awareness",
+        "name": "Disabilities Awareness",
+        "path": "merit-badges/disabilities-awareness/workbook/"
     },
     {
         "badge": "drafting",
@@ -245,14 +245,14 @@
         "path": "merit-badges/fire-safety/workbook/"
     },
     {
-        "badge": "fish-and-wildlife-management",
-        "name": "Fish and Wildlife Management",
-        "path": "merit-badges/fish-and-wildlife-management/workbook/"
-    },
-    {
         "badge": "first-aid",
         "name": "First Aid",
         "path": "merit-badges/first-aid/workbook/"
+    },
+    {
+        "badge": "fish-and-wildlife-management",
+        "name": "Fish and Wildlife Management",
+        "path": "merit-badges/fish-and-wildlife-management/workbook/"
     },
     {
         "badge": "fishing",
@@ -300,14 +300,14 @@
         "path": "merit-badges/golf/workbook/"
     },
     {
-        "badge": "hiking",
-        "name": "Hiking",
-        "path": "merit-badges/hiking/workbook/"
-    },
-    {
         "badge": "graphic-arts",
         "name": "Graphic Arts",
         "path": "merit-badges/graphic-arts/workbook/"
+    },
+    {
+        "badge": "hiking",
+        "name": "Hiking",
+        "path": "merit-badges/hiking/workbook/"
     },
     {
         "badge": "home-repairs",
@@ -380,11 +380,6 @@
         "path": "merit-badges/metalwork/workbook/"
     },
     {
-        "badge": "mining-in-society",
-        "name": "Mining in Society",
-        "path": "merit-badges/mining-in-society/workbook/"
-    },
-    {
         "badge": "model-design-and-building",
         "name": "Model Design and Building",
         "path": "merit-badges/model-design-and-building/workbook/"
@@ -435,9 +430,9 @@
         "path": "merit-badges/personal-fitness/workbook/"
     },
     {
-        "badge": "personal-management",
-        "name": "Personal Management",
-        "path": "merit-badges/personal-management/workbook/"
+        "badge": "mining-in-society",
+        "name": "Mining in Society",
+        "path": "merit-badges/mining-in-society/workbook/"
     },
     {
         "badge": "pets",
@@ -478,11 +473,6 @@
         "badge": "public-health",
         "name": "Public Health",
         "path": "merit-badges/public-health/workbook/"
-    },
-    {
-        "badge": "public-speaking",
-        "name": "Public Speaking",
-        "path": "merit-badges/public-speaking/workbook/"
     },
     {
         "badge": "pulp-and-paper",
@@ -635,11 +625,6 @@
         "path": "merit-badges/traffic-safety/workbook/"
     },
     {
-        "badge": "truck-transportation",
-        "name": "Truck Transportation",
-        "path": "merit-badges/truck-transportation/workbook/"
-    },
-    {
         "badge": "veterinary-medicine",
         "name": "Veterinary Medicine",
         "path": "merit-badges/veterinary-medicine/workbook/"
@@ -648,6 +633,11 @@
         "badge": "water-sports",
         "name": "Water Sports",
         "path": "merit-badges/water-sports/workbook/"
+    },
+    {
+        "badge": "truck-transportation",
+        "name": "Truck Transportation",
+        "path": "merit-badges/truck-transportation/workbook/"
     },
     {
         "badge": "weather",
@@ -675,14 +665,19 @@
         "path": "merit-badges/wood-carving/workbook/"
     },
     {
+        "badge": "personal-management",
+        "name": "Personal Management",
+        "path": "merit-badges/personal-management/workbook/"
+    },
+    {
+        "badge": "public-speaking",
+        "name": "Public Speaking",
+        "path": "merit-badges/public-speaking/workbook/"
+    },
+    {
         "badge": "woodwork",
         "name": "Woodwork",
         "path": "merit-badges/woodwork/workbook/"
-    },
-    {
-        "badge": "animal-science",
-        "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/avian/"
     },
     {
         "badge": "animal-science",
@@ -692,17 +687,22 @@
     {
         "badge": "animal-science",
         "name": "Animal Science",
+        "path": "merit-badges/animal-science/workbook/avian/"
+    },
+    {
+        "badge": "animal-science",
+        "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/dairying/"
     },
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/hog/"
+        "path": "merit-badges/animal-science/workbook/horse/"
     },
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/horse/"
+        "path": "merit-badges/animal-science/workbook/hog/"
     },
     {
         "badge": "animal-science",
