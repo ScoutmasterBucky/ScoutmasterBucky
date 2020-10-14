@@ -125,14 +125,14 @@
         "path": "merit-badges/climbing/workbook/"
     },
     {
-        "badge": "collections",
-        "name": "Collections",
-        "path": "merit-badges/collections/workbook/"
-    },
-    {
         "badge": "coin-collecting",
         "name": "Coin Collecting",
         "path": "merit-badges/coin-collecting/workbook/"
+    },
+    {
+        "badge": "collections",
+        "name": "Collections",
+        "path": "merit-badges/collections/workbook/"
     },
     {
         "badge": "communication",
@@ -335,11 +335,6 @@
         "path": "merit-badges/inventing/workbook/"
     },
     {
-        "badge": "journalism",
-        "name": "Journalism",
-        "path": "merit-badges/journalism/workbook/"
-    },
-    {
         "badge": "kayaking",
         "name": "Kayaking",
         "path": "merit-badges/kayaking/workbook/"
@@ -348,11 +343,6 @@
         "badge": "landscape-architecture",
         "name": "Landscape Architecture",
         "path": "merit-badges/landscape-architecture/workbook/"
-    },
-    {
-        "badge": "law",
-        "name": "Law",
-        "path": "merit-badges/law/workbook/"
     },
     {
         "badge": "leatherwork",
@@ -365,6 +355,11 @@
         "path": "merit-badges/lifesaving/workbook/"
     },
     {
+        "badge": "law",
+        "name": "Law",
+        "path": "merit-badges/law/workbook/"
+    },
+    {
         "badge": "mammal-study",
         "name": "Mammal Study",
         "path": "merit-badges/mammal-study/workbook/"
@@ -373,6 +368,11 @@
         "badge": "medicine",
         "name": "Medicine",
         "path": "merit-badges/medicine/workbook/"
+    },
+    {
+        "badge": "journalism",
+        "name": "Journalism",
+        "path": "merit-badges/journalism/workbook/"
     },
     {
         "badge": "metalwork",
@@ -400,14 +400,14 @@
         "path": "merit-badges/moviemaking/workbook/"
     },
     {
-        "badge": "music",
-        "name": "Music",
-        "path": "merit-badges/music/workbook/"
-    },
-    {
         "badge": "nature",
         "name": "Nature",
         "path": "merit-badges/nature/workbook/"
+    },
+    {
+        "badge": "music",
+        "name": "Music",
+        "path": "merit-badges/music/workbook/"
     },
     {
         "badge": "nuclear-science",
@@ -682,17 +682,17 @@
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/avian/"
-    },
-    {
-        "badge": "animal-science",
-        "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/beef-cattle/"
     },
     {
         "badge": "animal-science",
         "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/dairying/"
+    },
+    {
+        "badge": "animal-science",
+        "name": "Animal Science",
+        "path": "merit-badges/animal-science/workbook/avian/"
     },
     {
         "badge": "animal-science",
