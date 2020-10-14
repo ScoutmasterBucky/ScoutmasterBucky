@@ -11,7 +11,7 @@ imageSmb: scoutmaster-bucky-scout.jpg
 <div class="D(f) Fxd(c)--s"><div class="Ta(c) Pt(1em)--s">
 ![scoutmaster-bucky-scout]({{imageSmb}})
 </div>
-NOTES: The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously;, however, these ranks must be earned in sequence.
+<div> NOTES: The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously;, however, these ranks must be earned in sequence.
 
 Alternate requirements for the Scout rank are available for Scouts with physical or mental disabilities if they meet the criteria listed in the Scouts BSA Requirements book.
 </div></div>
