@@ -47,32 +47,32 @@ year: 2020
 {{#wb-req-header}}Veteran #1:{{/wb-req-header}}
 {{#wb-req-text lines=1}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Rank and Branch of Service:{{/wb-req-text}}
-{{#wb-req-text lines=10}}What his/her experiences were like:{{/wb-req-text}}
-{{#wb-req-text lines=10}}What he/she believe they accomplished:{{/wb-req-text}}
+{{#wb-req-text lines=11}}What his/her experiences were like:{{/wb-req-text}}
+{{#wb-req-text lines=11}}What he/she believe they accomplished:{{/wb-req-text}}
 {{#wb-req-header}}Veteran #2:{{/wb-req-header}}
 {{#wb-req-text lines=1}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Rank and Branch of Service:{{/wb-req-text}}
-{{#wb-req-text lines=10}}What his/her experiences were like:{{/wb-req-text}}
-{{#wb-req-text lines=10}}What he/she believe they accomplished:{{/wb-req-text}}
+{{#wb-req-text lines=16}}What his/her experiences were like:{{/wb-req-text}}
+{{#wb-req-text lines=16}}What he/she believe they accomplished:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2d" requirement="With your counselor's approval, interview three people in your community of different ages and occupations. Ask these people what America means to them, what they think is special about this country, and what American traditions they feel are important to preserve."}}
-{{#wb-req-text lines=2}}Person #1:{{/wb-req-text}}
-{{#wb-req-text lines=2}}Occupation:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Person #1:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Occupation:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Approximate Age of Person #1:{{/wb-req-text}}
 {{>wb-signature signator="Counselor's" checkbox="Approved"}}
 {{#wb-req-text lines=8}}What America means to this person:{{/wb-req-text}}
 {{#wb-req-text lines=8}}What this person thinks is special about this country:{{/wb-req-text}}
 {{#wb-req-text lines=8}}What American traditions this person feel are important to preserve:{{/wb-req-text}}
-{{#wb-req-text lines=2}}Person #2:{{/wb-req-text}}
-{{#wb-req-text lines=2}}Occupation:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Person #2:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Occupation:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Approximate Age of Person #1:{{/wb-req-text}}
 {{>wb-signature signator="Counselor's" checkbox="Approved"}}
 {{#wb-req-text lines=8}}What America means to this person:{{/wb-req-text}}
 {{#wb-req-text lines=8}}What this person thinks is special about this country:{{/wb-req-text}}
 {{#wb-req-text lines=8}}What American traditions this person feel are important to preserve:{{/wb-req-text}}
-{{#wb-req-text lines=2}}Person #3:{{/wb-req-text}}
-{{#wb-req-text lines=2}}Occupation:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Person #3:{{/wb-req-text}}
+{{#wb-req-text lines=1}}Occupation:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Approximate Age of Person #1:{{/wb-req-text}}
 {{>wb-signature signator="Counselor's" checkbox="Approved"}}
 {{#wb-req-text lines=8}}What America means to this person:{{/wb-req-text}}

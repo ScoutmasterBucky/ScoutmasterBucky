@@ -5,10 +5,15 @@ workbook: true
 year: 2020
 ---
 
+
+
+
+
+
 {{#wb-special class="P(1em) Mx(2em)"}}
 <div class="D(tb)">
 <div class="W(100%) Px(1em) Ta(c) D(tbc) Va(m)">
-<p class="Fz(2em)">CHOOSE THREE GROUPS THAT HAVE DIFFERENT RACIAL, CULTURAL, NATIONAL, OR ETHNIC BACKGROUNDS, ONE OF WHICH COMES FROM YOUR OWN BACKGROUND.  USE THESE GROUPS TO MEET REQUIREMENTS 1, 2, AND 3"</p>
+<p class="Fz(2em)">CHOOSE THREE GROUPS THAT HAVE DIFFERENT RACIAL, CULTURAL, NATIONAL, OR ETHNIC BACKGROUNDS, ONE OF WHICH COMES FROM YOUR OWN BACKGROUND.  USE THESE GROUPS TO MEET REQUIREMENTS 1, 2, AND 3"</p></div><div>
 {{/wb-special}}
 
 {{#wb-req-header}}Group #1:{{/wb-req-header}}
@@ -18,7 +23,7 @@ year: 2020
 {{#wb-req-header}}Group #3:{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{/wb-req}}
-</div>
+
 
 {{#wb-req item="1a" alert="Do TWO of the following (1a, 1b, 1c, 1d, or 1e) for requirement 1, Choosing a different group for each." requirement="Go to a festival, celebration, or other event identified with one of the groups. Report on what you see and learn."}}
 {{#wb-req-text lines=1}}Group:{{/wb-req-text}}
