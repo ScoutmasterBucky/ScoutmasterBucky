@@ -33,11 +33,11 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="2b" requirement="Find out why the organization believed this change was necessary and how it helped to accomplish the change."}}
-{{#wb-req-text lines=24}}{{/wb-req-text}}
+{{#wb-req-text lines=26}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2b" requirement="Discuss how this organization is related to events or situations from America's past."}}
-{{#wb-req-text lines=24}}{{/wb-req-text}}
+{{#wb-req-text lines=30}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2c" requirement="With your counselor's approval, interview two veterans of the U.S. military. Find out what their experiences were like. Ask the veterans what they believe they accomplished."}}
