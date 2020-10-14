@@ -37,7 +37,7 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="2b" requirement="Discuss how this organization is related to events or situations from America's past."}}
-{{#wb-req-text lines=40}}{{/wb-req-text}}
+{{#wb-req-text lines=44}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2c" requirement="With your counselor's approval, interview two veterans of the U.S. military. Find out what their experiences were like. Ask the veterans what they believe they accomplished."}}
@@ -47,13 +47,13 @@ year: 2020
 {{#wb-req-header}}Veteran #1:{{/wb-req-header}}
 {{#wb-req-text lines=1}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Rank and Branch of Service:{{/wb-req-text}}
-{{#wb-req-text lines=12}}What his/her experiences were like:{{/wb-req-text}}
-{{#wb-req-text lines=12}}What he/she believe they accomplished:{{/wb-req-text}}
+{{#wb-req-text lines=10}}What his/her experiences were like:{{/wb-req-text}}
+{{#wb-req-text lines=10}}What he/she believe they accomplished:{{/wb-req-text}}
 {{#wb-req-header}}Veteran #2:{{/wb-req-header}}
 {{#wb-req-text lines=1}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Rank and Branch of Service:{{/wb-req-text}}
-{{#wb-req-text lines=12}}What his/her experiences were like:{{/wb-req-text}}
-{{#wb-req-text lines=12}}What he/she believe they accomplished:{{/wb-req-text}}
+{{#wb-req-text lines=10}}What his/her experiences were like:{{/wb-req-text}}
+{{#wb-req-text lines=10}}What he/she believe they accomplished:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2d" requirement="With your counselor's approval, interview three people in your community of different ages and occupations. Ask these people what America means to them, what they think is special about this country, and what American traditions they feel are important to preserve."}}

@@ -16,9 +16,7 @@ imageSmb: scoutmaster-bucky-scout.jpg
 
 <div>
 
-NOTES: The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously;, however, these ranks must be earned in sequence.
-
-Alternate requirements for the Scout rank are available for Scouts with physical or mental disabilities if they meet the criteria listed in the Scouts BSA Requirements book.
+The rank requirements shown here are taken from the **2020 Scouts BSA Requirements** book and are official as of January 1, 2020. The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously;, however, these ranks must be earned in sequence.
 
 </div></div>
 
@@ -49,5 +47,11 @@ All requirements for the Scout rank must be completed as a member of a troop or 
 6. With your parent or guardian, complete the exercises in the pamphlet How to Protect Your Children from Child Abuse: A Parent’s Guide and earn the Cyber Chip Award for your grade.
 If your family does not have internet access at home AND you do not have ready internet access at school or another public place or via a mobile device, the Cyber Chip portion of this requirement may be waived by your Scoutmaster in consultation with your parent or guardian.
 7. Since joining the troop and while working on the Scout rank, participate in a Scoutmaster conference.
+
+{{/requirements}}
+
+## Alternative Scout Rank Requirements
+
+Alternate requirements for the Scout rank are available for Scouts with physical or mental disabilities if they meet the criteria listed in the Scouts BSA Requirements book.
 
 {{/requirements}}
