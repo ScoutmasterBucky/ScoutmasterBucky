@@ -1,14 +1,18 @@
 ---
 title: Boardsailing BSA
 layout: smb
-linkPath: Boardsailing-BSA/
+linkPath: boardsailing-bsa/
 image: boardsailing-bsa.jpg
 imageSmb: scoutmaster-bucky-boardsailing-bsa.jpg
 ---
 
 # Boardsailing BSA
 
-<div class="D(f) Fxd(c)--s"><div>
+<div class="D(f) Fxd(c)--s">
+<div class="Ta(c) Pt(1em)--s">
+
+![scoutmaster-bucky-boardsailing-bsa]({{imageSmb}})
+</div><div>
 
 Boardsailing BSA helps introduce basic boardsailing skills, equipment, and safety precautions; to encourage the development of skills that promote fitness and safe aquatic recreation; and to lay a foundation for more advanced and demanding boardsailing activities. It serves as a year-round program opportunity for Boy Scout and Venturing units and is well-suited for older Scouts at summer camp.
 
@@ -17,10 +21,6 @@ Any person recognized as a boardsailing instructor by the U.S. Windsurfing or U.
 Instruction must be conducted on a protected body of water in an area free from other traffic or large waves. Initial water entry and practice should be on a gradual beach clear of hazards. A steady three- to seven-knot breeze is ideal for beginner practice. All participants should be close enough to supervisory personnel for efficient instruction and ready assistance.
 
 Note: Swim trunks emblem—The Boardsailing BSA patch is NOT worn on the uniform; it is worn on the left side of the swim trunks
-
-</div><div class="Ta(c) Pt(1em)--s">
-
-![Boardsailing-BSA]({{imageSmb}})
 
 </div></div>
 
