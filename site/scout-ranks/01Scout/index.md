@@ -16,11 +16,11 @@ imageSmb: scoutmaster-bucky-scout.jpg
 
 <div>
 
-NOTES: The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously;, however, these ranks must be earned in sequence.
+NOTES: The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously, however, these ranks must be earned in sequence.
 
 All requirements for the Scout rank must be completed as a member of a troop or as a Lone Scout.  If you have already completed these requirements as part of the Webelos Scouting Adventure, simply demonstrate your knowledge or skills to your Scoutmaster or other designated leader after joining the troop.
 
-Alternate requirements for the Scout rank are available for Scouts with physical or mental disabilities if they meet the criteria listed in the Scouts BSA Requirements book.
+Alternate requirements for the Scout rank are available for Scouts with physical or mental disabilities if they meet the criteria listed in the **Scouts BSA Requirements** book.
 
 </div></div>
 
@@ -46,8 +46,8 @@ Alternate requirements for the Scout rank are available for Scouts with physical
     4a. Show how to tie a square knot, two half-hitches, and a taut-line hitch. Explain how each knot is used.
     4b. Show the proper care of a rope by learning how o whip and fuse the ends of different kinds of rope.
 5. Demonstrate your knowledge of pocketknife safety.
-6. With your parent or guardian, complete the exercises in the pamphlet How to Protect Your Children from Child Abuse: A Parent’s Guide and earn the Cyber Chip Award for your grade.
-If your family does not have internet access at home AND you do not have ready internet access at school or another public place or via a mobile device, the Cyber Chip portion of this requirement may be waived by your Scoutmaster in consultation with your parent or guardian.
+6. With your parent or guardian, complete the exercises in the pamphlet *How to Protect Your Children from Child Abuse: A Parent’s Guide* and earn the Cyber Chip Award for your grade.
+*If your family does not have internet access at home AND you do not have ready internet access at school or another public place or via a mobile device, the Cyber Chip portion of this requirement may be waived by your Scoutmaster in consultation with your parent or guardian.*
 7. Since joining the troop and while working on the Scout rank, participate in a Scoutmaster conference.
 
 {{/requirements}}
