@@ -11,7 +11,7 @@ imageSmb: scoutmaster-bucky-boardsailing-bsa.jpg
 <div class="D(f) Fxd(c)--s">
 <div class="Ta(c) Pt(1em)--s">
 
-![boardsailing-bsa]({{imageSmb}})
+![Boardsailing-BSA]({{imageSmb}})
 </div><div>
 
 Boardsailing BSA helps introduce basic boardsailing skills, equipment, and safety precautions; to encourage the development of skills that promote fitness and safe aquatic recreation; and to lay a foundation for more advanced and demanding boardsailing activities. It serves as a year-round program opportunity for Boy Scout and Venturing units and is well-suited for older Scouts at summer camp.
