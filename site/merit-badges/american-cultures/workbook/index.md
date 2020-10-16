@@ -5,16 +5,13 @@ workbook: true
 year: 2020
 ---
 
-
-
-
-
-
 {{#wb-special class="P(1em) Mx(2em)"}}
 <div class="D(tb)">
-<div class="W(100%) Px(1em) Ta(c) D(tbc) Va(m)">
-<p class="Fz(2em)">CHOOSE THREE GROUPS THAT HAVE DIFFERENT RACIAL, CULTURAL, NATIONAL, OR ETHNIC BACKGROUNDS, ONE OF WHICH COMES FROM YOUR OWN BACKGROUND.  USE THESE GROUPS TO MEET REQUIREMENTS 1, 2, AND 3"</p></div><div>
-{{/wb-special}}
+<div class="W(50%) Px(1em) Ta(c) D(tbc) Va(m)">
+<p class="Fz(2em)">Just for Fun</p>
+<p>CHOOSE THREE GROUPS THAT HAVE DIFFERENT RACIAL, CULTURAL, NATIONAL, OR ETHNIC BACKGROUNDS, ONE OF WHICH COMES FROM YOUR OWN BACKGROUND.  USE THESE GROUPS TO MEET REQUIREMENTS 1, 2, AND 3</p>
+</div><div class="W(50%) Px(1em) D(tbc) Va(m)"><img src="five-hundred.jpg" class="W(100%) H(a)"></div>
+</div>
 
 {{#wb-req-header}}Group #1:{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
