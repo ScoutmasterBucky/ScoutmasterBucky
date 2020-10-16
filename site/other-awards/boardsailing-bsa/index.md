@@ -1,7 +1,7 @@
 ---
 title: Boardsailing BSA
 layout: smb
-linkPath: Boardsailing-BSA/
+linkPath: boardsailing-bsa/
 image: boardsailing-bsa.jpg
 imageSmb: scoutmaster-bucky-boardsailing-bsa.jpg
 ---

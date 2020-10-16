@@ -16,7 +16,7 @@ imageSmb: scoutmaster-bucky-tenderfoot.jpg
 
 <div>
 
-NOTES: The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously;, however, these ranks must be earned in sequence.
+NOTES: The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously, however, these ranks must be earned in sequence.
 
 Alternate requirements for the Scout rank are available for Scouts with physical or mental disabilities if they meet the criteria listed in the Scouts BSA Requirements book.
 
