@@ -105,14 +105,14 @@
         "path": "merit-badges/chess/workbook/"
     },
     {
-        "badge": "citizenship-in-the-community",
-        "name": "Citizenship in the Community",
-        "path": "merit-badges/citizenship-in-the-community/workbook/"
-    },
-    {
         "badge": "citizenship-in-the-nation",
         "name": "Citizenship in the Nation",
         "path": "merit-badges/citizenship-in-the-nation/workbook/"
+    },
+    {
+        "badge": "citizenship-in-the-community",
+        "name": "Citizenship in the Community",
+        "path": "merit-badges/citizenship-in-the-community/workbook/"
     },
     {
         "badge": "citizenship-in-the-world",
@@ -125,6 +125,11 @@
         "path": "merit-badges/climbing/workbook/"
     },
     {
+        "badge": "coin-collecting",
+        "name": "Coin Collecting",
+        "path": "merit-badges/coin-collecting/workbook/"
+    },
+    {
         "badge": "collections",
         "name": "Collections",
         "path": "merit-badges/collections/workbook/"
@@ -133,11 +138,6 @@
         "badge": "communication",
         "name": "Communication",
         "path": "merit-badges/communication/workbook/"
-    },
-    {
-        "badge": "coin-collecting",
-        "name": "Coin Collecting",
-        "path": "merit-badges/coin-collecting/workbook/"
     },
     {
         "badge": "composite-materials",
@@ -220,14 +220,14 @@
         "path": "merit-badges/environmental-science/workbook/"
     },
     {
-        "badge": "family-life",
-        "name": "Family Life",
-        "path": "merit-badges/family-life/workbook/"
-    },
-    {
         "badge": "exploration",
         "name": "Exploration",
         "path": "merit-badges/exploration/workbook/"
+    },
+    {
+        "badge": "family-life",
+        "name": "Family Life",
+        "path": "merit-badges/family-life/workbook/"
     },
     {
         "badge": "farm-mechanics",
@@ -480,14 +480,14 @@
         "path": "merit-badges/public-health/workbook/"
     },
     {
-        "badge": "public-speaking",
-        "name": "Public Speaking",
-        "path": "merit-badges/public-speaking/workbook/"
-    },
-    {
         "badge": "pulp-and-paper",
         "name": "Pulp and Paper",
         "path": "merit-badges/pulp-and-paper/workbook/"
+    },
+    {
+        "badge": "public-speaking",
+        "name": "Public Speaking",
+        "path": "merit-badges/public-speaking/workbook/"
     },
     {
         "badge": "radio",
@@ -555,14 +555,14 @@
         "path": "merit-badges/sculpture/workbook/"
     },
     {
-        "badge": "shotgun-shooting",
-        "name": "Shotgun Shooting",
-        "path": "merit-badges/shotgun-shooting/workbook/"
-    },
-    {
         "badge": "search-and-rescue",
         "name": "Search and Rescue",
         "path": "merit-badges/search-and-rescue/workbook/"
+    },
+    {
+        "badge": "shotgun-shooting",
+        "name": "Shotgun Shooting",
+        "path": "merit-badges/shotgun-shooting/workbook/"
     },
     {
         "badge": "signs-signals-and-codes",
