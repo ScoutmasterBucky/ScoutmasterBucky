@@ -50,7 +50,8 @@ Alternate requirements for the First Class rank are available for Scouts with ph
     5c. Describe at least three natural indicators of impending hazardous weather, the potential dangerous events that might result from such weather conditions, and the appropriate actions to take.
     5d.  Describe extreme weather conditions you might encounter in the outdoors in your local geographic area. Discuss how you would determine ahead of time the potential risk of these types of weather dangers, alternative planning considerations to avoid such risks, and how you would prepare for and respond to those weather conditions.
 6. Do the following:
-    6a. Successfully complete the BSA swimmer test.
+    *Under certain exceptional conditions, where the climate keeps the outdoor water temperature below safe levels yearround, or where there are no suitably safe and accessible places (outdoors or indoors) within a reasonable traveling distance to swim at any time during the year, the council Scout executive and advancement committee may, on an individual Scout basis, authorize an alternative for requirements 6a and 6e. The local council may establish appropriate procedures for submitting and processing these types of requests. All the other requirements, none of which necessitate entry in the water or entry in a watercraft on the water, must be completed as written.*
+    6a. Successfully complete the BSA swimmer test. *See the Swimming merit badge requirements for details about the BSA swimmer test.*
     6b. Tell what precautions must be taken for a safe trip afloat.
     6c. Identify the basic parts of a canoe, kayak, or other boat. Identify the parts of a paddle or an oar.
     6d. Describe proper body positioning in a watercraft, depending on the type and size of the vessel. Explain the importance of proper body position in the boat.
