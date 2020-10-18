@@ -28,52 +28,56 @@ Alternate requirements for the Second Class rank are available for Scouts with p
 
 {{#requirements}}
 1. Do the following:
-    1a. Present yourself to your leader, prepared for an overnight camping trip. Show the personal and camping gear you will use. Show the right way to pack and carry it.
-    1b. Spend at least one night on a patrol or troop campout. Sleep in a tent you have helped pitch.
-    1c. Tell how you practiced the Outdoor Code on a campout or outing.
+    1a. Since joining Scouts BSA, participate in five separate troop/patrol activities, at least three of which must be held outdoors. Of the outdoor activities, at least two must include overnight camping. These activities do not include troop or patrol meetings. On campouts, spend the night in a tent that you pitch or other structure that you help erect, such as a lean-to, snow cave, or tepee.
+    1b. Explain the principles of Leave No Trace and tell how you practiced them on a campout or outing. This outing must be different from the one used for Tenderfoot requirement 1c.
+    1c. On one of these campouts, select a location for your patrol site and recommend it to your patrol leader, senior patrol leader, or troop guide. Explain what factors you should consider when choosing a patrol site and where to pitch a tent.
 2. Do the following:
-    2a. On the campout, assist in preparing one of the meals. Tell why it is important for each patrol member to share in meal preparation and cleanup.
-    2b. While on a campout, demonstrate the appropriate method of safely cleaning items used to prepare, serve, and eat a meal.
-    2c. Explain the importance of eating together as a patrol.
+    2a. Explain when it is appropriate to use a fire for cooking or other purposes and when it would not be appropriate to do so.
+    2b. Use the tools listed in Tenderfoot requirement 3d to prepare tinder, kindling, and fuel wood for a cooking fire.
+    2c. At an approved outdoor location and time, use the tinder, kindling, and fuel wood from Second Class requirement 2b to demonstrate how to build a fire. Unless prohibited by local fire restrictions, light the fire. After allowing the flames to burn safely for at least two minutes, safely extinguish the flames with minimal impact to the fire site.
+    2d. Explain when it is appropriate to use a lightweight stove and when it is appropriate to use a propane stove. Set up a lightweight stove or propane stove. Light the stove, unless prohibited by local fire restrictions. Describe the safety procedures for using these types of stoves.
+    2e. On one campout, plan and cook one hot breakfast or lunch, selecting foods from MyPlate or the current USDA nutritional model. Explain the importance of good nutrition. Demonstrate how to transport, store, and prepare the foods you selected.
+    2f. Demonstrate tying the sheet bend knot. Describe a situation in which you would use this knot.
+    2g. Demonstrate tying the bowline knot. Describe a situation in which you would use this knot.
 3. Do the following:
-    3a. Demonstrate a practical use of the square knot.
-    3b. Demonstrate a practical use of two half-hitches.
-    3c. Demonstrate a practical use of the taut-line hitch.
-    3d. Demonstrate proper care, sharpening, and use of the knife, saw, and ax. Describe when each should be used.
-4. Show first aid for the following:
-        • Simple cuts and scrapes
-        • Blisters on the hand and foot
-        • Minor (thermal/heat) burns or scalds (superficial, or first-degree)
-        • Bites or stings of insects and ticks
-        • Venomous snakebite
-        • Nosebleed
-        • Frostbite and sunburn
-        • Choking
-    4b. Describe common poisonous or hazardous plants; identify any that grow in your local area or campsite location. Tell how to treat for exposure to them.
-    4c. Tell what you can do while on a campout or other outdoor activity to prevent or reduce the occurrence of injuries or exposure listed in Tenderfoot requirements 4a and 4b.
-    4d. Assemble a personal first-aid kit to carry with you on future campouts and hikes. Tell how each item in the kit would be used.
+    3a. Demonstrate how a compass works and how to orient a map. Use a map to point out and tell the meaning of five map symbols.
+    3b. Using a compass and map together, take a 5-mile hike (or 10 miles by bike) approved by your adult leader and your parent or guardian.
+    3c. Describe some hazards or injuries that you might encounter on your hike and what you can do to help prevent them.
+    3d. Demonstrate how to find directions during the day and at night without using a compass or an electronic device.
+4. Identify or show evidence of at least 10 kinds of wild animals (such as birds, mammals, reptiles, fish, or mollusks) found in your local area or camping location. You may show evidence by tracks, signs, or photographs you have taken.
 5. Do the following:
-    5a. Explain the importance of the buddy system as it relates to your personal safety on outings and in your neighborhood. Use the buddy system while on a troop or patrol outing.
-    5b. Describe what to do if you become lost on a hike or campout.
-    5c. Explain the rules of safe hiking, both on the highway and crosscountry, during the day and at night.
+    5a. Tell what precautions must be taken for a safe swim.
+    5b. Demonstrate your ability to pass the BSA beginner test: Jump feetfirst into water over your head in depth, level off and swim 25 feet on the surface, stop, turn sharply, resume swimming, then return to your starting place.
+    5c. Demonstrate water rescue methods by reaching with your arm or leg, by reaching with a suitable object, and by throwing lines and objects.
+    5d. Explain why swimming rescues should not be attempted when a reaching or throwing rescue is possible. Explain why and how a rescue swimmer should avoid contact with the victim.
 6. Do the following:
-    6a. Record your best in the following tests:
-        • Pushups (Record the number done correctly in 60 seconds.)
-        • Situps or curl-ups (Record the number done correctly in 60 seconds.)
-        • Back-saver sit-and-reach (Record the distance stretched.)
-        • 1-mile walk/run (Record the time.)
-    6b. Develop and describe a plan for improvement in each of the activities listed in Tenderfoot requirement 6a. Keep track of your activity for at least 30 days.
-    6c. Show improvement (of any degree) in each activity listed in Tenderfoot requirement 6a after practicing for 30 days.
-        • Pushups (Record the number done correctly in 60 seconds.)
-        • Situps or curl-ups (Record the number done correctly in 60 seconds.)
-        • Back-saver sit-and-reach (Record the distance stretched.)
-        • 1-mile walk/run (Record the time.)
+    6a. Demonstrate first aid for the following:
+        • Object in the eye
+        • Bite of a warm-blooded animal
+        • Puncture wounds from a splinter, nail, and fishhook
+        • Serious burns (partial thickness, or second-degree)
+        • Heat exhaustion
+        • Shock
+        •  Heatstroke, dehydration, hypothermia, and hyperventilation
+    6b. Show what to do for “hurry” cases of stopped breathing, stroke, severe bleeding, and ingested poisoning.
+    6c. Tell what you can do while on a campout or hike to prevent or reduce the occurrence of the injuries listed in Second Class requirements 6a and 6b.
+    6d.  Explain what to do in case of accidents that require emergency response in the home and backcountry. Explain what constitutes an emergency and what information you will need to provide to a responder.
+    6e. Tell how you should respond if you come upon the scene of a vehicular accident.
 7. Do the following:
-    7a. Demonstrate how to display, raise, lower, and fold the U.S. flag.
-    7b. Participate in a total of one hour of service in one or more service projects approved by your Scoutmaster. Explain how your service to others relates to the Scout slogan and Scout motto.
-8. Describe the steps in Scouting’s Teaching EDGE method. Use the Teaching EDGE method to teach another person how to tie the square knot.
-9. Demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived four different points of the Scout Law in your everyday life.
-10. While working toward the Tenderfoot rank, and after completing Scout rank requirement 7, participate in a Scoutmaster conference.
-11. Successfully complete your board of review for the Tenderfoot rank.
+    7a. After completing Tenderfoot requirement 6c, be physically active at least 30 minutes each day for five days a week for four weeks. Keep track of your activities.
+    7b. Share your challenges and successes in completing Second Class requirement 7a. Set a goal for continuing to include physical activity as part of your daily life and develop a plan for doing so.
+    7c. Participate in a school, community, or troop program on the dangers of using drugs, alcohol, and tobacco and other practices that could be harmful to your health. Discuss your participation in the program with your family, and explain the dangers of substance addictions. Report to your Scoutmaster or other adult leader in your troop about which parts of the Scout Oath and Scout Law relate to what you learned.
+8. Do the following:
+    8a. Participate in a flag ceremony for your school, religious institution, chartered organization, community, or Scouting activity.
+    8b. Explain what respect is due the flag of the United States.
+    8c. With your parents or guardian, decide on an amount of money that you would like to earn, based on the cost of a specific item you would like to purchase. Develop a written plan to earn the amount agreed upon and follow that plan; it is acceptable to make changes to your plan along the way. Discuss any changes made to your original plan and whether you met your goal.
+    8d. At a minimum of three locations, compare the cost of the item for which you are saving to determine the best place to purchase it. After completing Second Class requirement 8c, decide if you will use the amount that you earned as originally intended, save all or part of it, or use it for another purpose.
+    8e. Participate in two hours of service through one or more service projects approved by your Scoutmaster. Tell how your service to others relates to the Scout Oath.
+9. Do the following:
+    9a. Explain the three R’s of personal safety and protection.
+    9b. Describe bullying; tell what the appropriate response is to someone who is bullying you or another person.
+10. Demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived four different points of the Scout Law (not to include those used for Tenderfoot requirement 9) in your everyday life.
+11. While working toward the Second Class rank, and after completing Tenderfoot requirement 10, participate in a Scoutmaster conference.
+12. Successfully complete your board of review for the Second Class rank
 
 {{/requirements}}
