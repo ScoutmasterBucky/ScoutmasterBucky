@@ -125,11 +125,6 @@
         "path": "merit-badges/climbing/workbook/"
     },
     {
-        "badge": "coin-collecting",
-        "name": "Coin Collecting",
-        "path": "merit-badges/coin-collecting/workbook/"
-    },
-    {
         "badge": "collections",
         "name": "Collections",
         "path": "merit-badges/collections/workbook/"
@@ -138,6 +133,11 @@
         "badge": "communication",
         "name": "Communication",
         "path": "merit-badges/communication/workbook/"
+    },
+    {
+        "badge": "coin-collecting",
+        "name": "Coin Collecting",
+        "path": "merit-badges/coin-collecting/workbook/"
     },
     {
         "badge": "composite-materials",
@@ -220,14 +220,14 @@
         "path": "merit-badges/environmental-science/workbook/"
     },
     {
-        "badge": "exploration",
-        "name": "Exploration",
-        "path": "merit-badges/exploration/workbook/"
-    },
-    {
         "badge": "family-life",
         "name": "Family Life",
         "path": "merit-badges/family-life/workbook/"
+    },
+    {
+        "badge": "exploration",
+        "name": "Exploration",
+        "path": "merit-badges/exploration/workbook/"
     },
     {
         "badge": "farm-mechanics",
@@ -425,6 +425,11 @@
         "path": "merit-badges/orienteering/workbook/"
     },
     {
+        "badge": "painting",
+        "name": "Painting",
+        "path": "merit-badges/painting/workbook/"
+    },
+    {
         "badge": "personal-fitness",
         "name": "Personal Fitness",
         "path": "merit-badges/personal-fitness/workbook/"
@@ -550,14 +555,14 @@
         "path": "merit-badges/sculpture/workbook/"
     },
     {
-        "badge": "search-and-rescue",
-        "name": "Search and Rescue",
-        "path": "merit-badges/search-and-rescue/workbook/"
-    },
-    {
         "badge": "shotgun-shooting",
         "name": "Shotgun Shooting",
         "path": "merit-badges/shotgun-shooting/workbook/"
+    },
+    {
+        "badge": "search-and-rescue",
+        "name": "Search and Rescue",
+        "path": "merit-badges/search-and-rescue/workbook/"
     },
     {
         "badge": "signs-signals-and-codes",
@@ -580,9 +585,9 @@
         "path": "merit-badges/snow-sports/workbook/"
     },
     {
-        "badge": "painting",
-        "name": "Painting",
-        "path": "merit-badges/painting/workbook/"
+        "badge": "soil-and-water-conservation",
+        "name": "Soil and Water Conservation",
+        "path": "merit-badges/soil-and-water-conservation/workbook/"
     },
     {
         "badge": "space-exploration",
@@ -673,11 +678,6 @@
         "badge": "woodwork",
         "name": "Woodwork",
         "path": "merit-badges/woodwork/workbook/"
-    },
-    {
-        "badge": "soil-and-water-conservation",
-        "name": "Soil and Water Conservation",
-        "path": "merit-badges/soil-and-water-conservation/workbook/"
     },
     {
         "badge": "animal-science",
