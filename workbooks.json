@@ -55,14 +55,14 @@
         "path": "merit-badges/athletics/workbook/"
     },
     {
-        "badge": "aviation",
-        "name": "Aviation",
-        "path": "merit-badges/aviation/workbook/"
-    },
-    {
         "badge": "automotive-maintenance",
         "name": "Automotive Maintenance",
         "path": "merit-badges/automotive-maintenance/workbook/"
+    },
+    {
+        "badge": "aviation",
+        "name": "Aviation",
+        "path": "merit-badges/aviation/workbook/"
     },
     {
         "badge": "backpacking",
@@ -425,11 +425,6 @@
         "path": "merit-badges/orienteering/workbook/"
     },
     {
-        "badge": "painting",
-        "name": "Painting",
-        "path": "merit-badges/painting/workbook/"
-    },
-    {
         "badge": "personal-fitness",
         "name": "Personal Fitness",
         "path": "merit-badges/personal-fitness/workbook/"
@@ -585,9 +580,9 @@
         "path": "merit-badges/snow-sports/workbook/"
     },
     {
-        "badge": "soil-and-water-conservation",
-        "name": "Soil and Water Conservation",
-        "path": "merit-badges/soil-and-water-conservation/workbook/"
+        "badge": "painting",
+        "name": "Painting",
+        "path": "merit-badges/painting/workbook/"
     },
     {
         "badge": "space-exploration",
@@ -678,6 +673,11 @@
         "badge": "woodwork",
         "name": "Woodwork",
         "path": "merit-badges/woodwork/workbook/"
+    },
+    {
+        "badge": "soil-and-water-conservation",
+        "name": "Soil and Water Conservation",
+        "path": "merit-badges/soil-and-water-conservation/workbook/"
     },
     {
         "badge": "animal-science",
