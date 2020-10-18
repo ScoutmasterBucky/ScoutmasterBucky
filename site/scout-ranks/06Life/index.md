@@ -47,7 +47,7 @@ For Venturers working on Scouts BSA requirements, replace “troop” with “cr
     **Venturing crew.** President, vice president, secretary, treasurer, den chief, historian, guide, quartermaster, chaplain aide, or outdoor ethics guide.
     **Sea Scout ship.** Boatswain, boatswain's mate, purser, yeoman, storekeeper, crew leader, media specialist, specialist, den chief, or chaplain aide.
     **Lone Scout.** Leadership responsibility in your school, religious organization, club, or elsewhere in your community.
-6. . While a Star Scout, use the Teaching EDGE method to teach another Scout (preferably younger than you) the skills from ONE of the following choices, so that the Scout is prepared to pass those requirements to their Scoutmaster’s satisfaction.
+6. While a Star Scout, use the Teaching EDGE method to teach another Scout (preferably younger than you) the skills from ONE of the following choices, so that the Scout is prepared to pass those requirements to their Scoutmaster’s satisfaction.
     a. Tenderfoot 4a and 4b (first aid)
     b. Second Class 2b, 2c, and 2d (cooking/tools)
     c. Second Class 3a and 3d (navigation)
