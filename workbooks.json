@@ -125,14 +125,14 @@
         "path": "merit-badges/climbing/workbook/"
     },
     {
-        "badge": "coin-collecting",
-        "name": "Coin Collecting",
-        "path": "merit-badges/coin-collecting/workbook/"
-    },
-    {
         "badge": "collections",
         "name": "Collections",
         "path": "merit-badges/collections/workbook/"
+    },
+    {
+        "badge": "coin-collecting",
+        "name": "Coin Collecting",
+        "path": "merit-badges/coin-collecting/workbook/"
     },
     {
         "badge": "communication",
@@ -175,11 +175,6 @@
         "path": "merit-badges/disabilities-awareness/workbook/"
     },
     {
-        "badge": "dog-care",
-        "name": "Dog Care",
-        "path": "merit-badges/dog-care/workbook/"
-    },
-    {
         "badge": "drafting",
         "name": "Drafting",
         "path": "merit-badges/drafting/workbook/"
@@ -188,6 +183,11 @@
         "badge": "electricity",
         "name": "Electricity",
         "path": "merit-badges/electricity/workbook/"
+    },
+    {
+        "badge": "dog-care",
+        "name": "Dog Care",
+        "path": "merit-badges/dog-care/workbook/"
     },
     {
         "badge": "electronics",
@@ -380,6 +380,11 @@
         "path": "merit-badges/metalwork/workbook/"
     },
     {
+        "badge": "mining-in-society",
+        "name": "Mining in Society",
+        "path": "merit-badges/mining-in-society/workbook/"
+    },
+    {
         "badge": "model-design-and-building",
         "name": "Model Design and Building",
         "path": "merit-badges/model-design-and-building/workbook/"
@@ -428,11 +433,6 @@
         "badge": "personal-fitness",
         "name": "Personal Fitness",
         "path": "merit-badges/personal-fitness/workbook/"
-    },
-    {
-        "badge": "mining-in-society",
-        "name": "Mining in Society",
-        "path": "merit-badges/mining-in-society/workbook/"
     },
     {
         "badge": "personal-management",
