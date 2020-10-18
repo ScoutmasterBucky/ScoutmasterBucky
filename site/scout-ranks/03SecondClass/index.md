@@ -18,7 +18,7 @@ imageSmb: scoutmaster-bucky-second-class.jpg
 
 All requirements for the Second Class rank must be completed as a member of a troop or as a Lone Scout.
 
-The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously, however, these ranks must be earned in sequence.
+The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously; however, these ranks must be earned in sequence.
 
 Alternate requirements for the Second Class rank are available for Scouts with physical or mental disabilities if they meet the criteria listed in the **Scouts BSA Requirements** book.
 
@@ -41,11 +41,12 @@ Alternate requirements for the Second Class rank are available for Scouts with p
     2g. Demonstrate tying the bowline knot. Describe a situation in which you would use this knot.
 3. Do the following:
     3a. Demonstrate how a compass works and how to orient a map. Use a map to point out and tell the meaning of five map symbols.
-    3b. Using a compass and map together, take a 5-mile hike (or 10 miles by bike) approved by your adult leader and your parent or guardian.
-    3c. Describe some hazards or injuries that you might encounter on your hike and what you can do to help prevent them.
+    3b. Using a compass and map together, take a 5-mile hike (or 10 miles by bike) approved by your adult leader and your parent or guardian. *If you use a wheelchair or crutches, or if it is difficult for you to get around, you may substitute “trip” for “hike” in requirement 3b.*
+    3c. Describe some hazards or injuries that you might encounter on your hike and what you can do to help prevent them. *If you use a wheelchair or crutches, or if it is difficult for you to get around, you may substitute “trip” for “hike” in requirement 3c.*
     3d. Demonstrate how to find directions during the day and at night without using a compass or an electronic device.
 4. Identify or show evidence of at least 10 kinds of wild animals (such as birds, mammals, reptiles, fish, or mollusks) found in your local area or camping location. You may show evidence by tracks, signs, or photographs you have taken.
 5. Do the following:
+*Under certain exceptional conditions, where the climate keeps the outdoor water temperature below safe levels yearround, or where there are no suitably safe and accessible places (outdoors or indoors) within a reasonable traveling distance to swim at any time during the year, the council Scout executive and advancement committee may, on an individual Scout basis, authorize an alternative for requirements 6a and 6e. The local council may establish appropriate procedures for submitting and processing these types of requests. All the other requirements, none of which necessitate entry in the water or entry in a watercraft on the water, must be completed as written.*
     5a. Tell what precautions must be taken for a safe swim.
     5b. Demonstrate your ability to pass the BSA beginner test: Jump feetfirst into water over your head in depth, level off and swim 25 feet on the surface, stop, turn sharply, resume swimming, then return to your starting place.
     5c. Demonstrate water rescue methods by reaching with your arm or leg, by reaching with a suitable object, and by throwing lines and objects.

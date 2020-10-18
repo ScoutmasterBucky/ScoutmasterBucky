@@ -27,20 +27,20 @@ For Venturers working on Scouts BSA requirements, replace “troop” with “cr
 2. As a First Class Scout, demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived the Scout Oath and Scout Law in your everyday life.
 3. Earn six merit badges, including any four from the required list for Eagle. You may choose any of the 17 merit badges on the required list for Eagle to fulfill this requirement. See Eagle rank requirement 3 for this list. (shown below)
       **Eagle-Required Merit Badges**
-      *(a) First Aid*
-      *(b) Citizenship in the Community*
-      *(c) Citizenship in the Nation*
-      *(d) Citizenship in the World*
-      *(e) Communication*
-      *(f) Cooking*
-      *(g) Personal Fitness*
-      *(h) Emergency Preparedness OR Lifesaving*
-      *(i) Environmental Science OR Sustainability*
-      *(j) Personal Management*
-      *(k) Swimming OR Hiking OR Cycling*
-      *(l) Camping*
-      *(m) Family Life*
-      **You must choose only one of the merit badges listed in categories h, i, and k. Any additional merit badge(s) earned in those categories may be counted as one of your eight optional merit badges used to make your total of 21.**
+         First Aid
+         Citizenship in the Community
+         Citizenship in the Nation
+         Citizenship in the World
+         Communication
+         Cooking
+         Personal Fitness
+         Emergency Preparedness OR Lifesaving
+         Environmental Science OR Sustainability
+         Personal Management
+         Swimming OR Hiking OR Cycling
+         Camping
+         Family Life
+      **You must choose only one of the merit badges listed in the following categories; 1) Emergency Preparedness OR Lifesaving, 2) Environmental Science OR Sustainability, 3) Swimming OR Hiking OR Cycling. Any additional merit badge(s) earned in those categories may be counted as one of your optional merit badges.**
 4. While a First Class Scout, participate in six hours of service through one or more service projects approved by your Scoutmaster.
 5.  While a First Class Scout, serve actively in your troop for four months in one or more of the following positions of responsibility (or carry out a Scoutmaster-approved leadership project to help the troop):
     **Scout troop.** Patrol leader, assistant senior patrol leader, senior patrol leader, troop guide, Order of the Arrow troop representative, den chief, scribe, librarian, historian, quartermaster, bugler, junior assistant Scoutmaster, chaplain aide, instructor, webmaster, or outdoor ethics guide. *Assistant patrol leader is not an approved position of responsibility for the Star rank.*
