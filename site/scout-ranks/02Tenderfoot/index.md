@@ -18,7 +18,7 @@ imageSmb: scoutmaster-bucky-tenderfoot.jpg
 
 All requirements for the Tenderfoot rank must be completed as a member of a troop or as a Lone Scout.
 
-The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously, however, these ranks must be earned in sequence.
+The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously; however, these ranks must be earned in sequence.
 
 Alternate requirements for the Tenderfoot rank are available for Scouts with physical or mental disabilities if they meet the criteria listed in the **Scouts BSA Requirements** book.
 
@@ -40,7 +40,8 @@ Alternate requirements for the Tenderfoot rank are available for Scouts with phy
     3b. Demonstrate a practical use of two half-hitches.
     3c. Demonstrate a practical use of the taut-line hitch.
     3d. Demonstrate proper care, sharpening, and use of the knife, saw, and ax. Describe when each should be used.
-4. Show first aid for the following:
+4. Do the following:
+    4a. Show first aid for the following:
         • Simple cuts and scrapes
         • Blisters on the hand and foot
         • Minor (thermal/heat) burns or scalds (superficial, or first-degree)

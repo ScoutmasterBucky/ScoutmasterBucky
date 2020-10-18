@@ -8,44 +8,55 @@ imageSmb: scoutmaster-bucky-life.jpg
 
 # Life Rank
 
-<div class="D(f) Fxd(c)--s"><div>
+<div class="D(f) Fxd(c)--s">
 
-NOTES: The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously;, however, these ranks must be earned in sequence.
+<div class="Ta(c) Pt(1em)--s">
 
-Alternate requirements for the Scout rank are available for Scouts with physical or mental disabilities if they meet the criteria listed in the Scouts BSA Requirements book.
+![scoutmaster-bucky-life]({{imageSmb}})</div>
 
-</div><div class="Ta(c) Pt(1em)--s">
+<div>
 
-![scoutmaster-bucky-life]({{imageSmb}})
+For Venturers working on Scouts BSA requirements, replace “troop” with “crew” and “Scoutmaster” with “Crew Advisor.” For Sea Scouts working on Scouts BSA requirements, replace “troop” with “ship” and “Scoutmaster” with “Skipper.”
 
 </div></div>
 
 ## Life Rank Requirements
 
-All requirements for the Scout rank must be completed as a member of a troop or as a Lone Scout.  If you have already completed these requirements as part of the Webelos Scouting Adventure, simply demonstrate your knowledge or skills to your Scoutmaster or other designated leader after joining the troop.
-
 {{#requirements}}
-1. Do the following:
-    1a. Repeat from memory the Scout Oath, Scout Law, Scout motto, and Scout slogan. In your own words, explain their meaning.
-    1b. Explain what Scout spirit is. Describe some ways you have shown Scout spirit by practicing the Scout Oath, Scout Law, Scout motto, and Scout slogan.
-    1c. Demonstrate the Boy Scout sign, salute, and handshake. Explain when they should be used.
-    1d. Describe the First Class Scout badge and tell what each part stands for. Explain the significance of the First Class Scout badge.
-    1e. Repeat from memory the Outdoor Code. In your own words, explain what the Outdoor Code means to you.
-    1f. Repeat from memory the Pledge of Allegiance. In your own owrds, explain its meaning.
-2. After attending at least one Boy Scout troop meeting, do the following:
-    2a. Describe how the Scouts in the troop provide its leadership.
-    2b. Describe the four steps of Boy Scout advancement.
-    2c. Describe what the Boy Scout ranks are and how they are earned.
-    2d. Describe what merit badges are and how they are earned.
-3. Do the following:
-    3a. Explain the patrol method. Describe the types of patrols that are used in your troop.
-    3b. Become familiar with your patrol name, emblem, flag, and yell. Explain how these items create patrol spirit.
-4. Do the following:
-    4a. Show how to tie a square knot, two half-hitches, and a taut-line hitch. Explain how each knot is used.
-    4b. Show the proper care of a rope by learning how o whip and fuse the ends of different kinds of rope.
-5. Demonstrate your knowledge of pocketknife safety.
-6. With your parent or guardian, complete the exercises in the pamphlet How to Protect Your Children from Child Abuse: A Parent’s Guide and earn the Cyber Chip Award for your grade.
-If your family does not have internet access at home AND you do not have ready internet access at school or another public place or via a mobile device, the Cyber Chip portion of this requirement may be waived by your Scoutmaster in consultation with your parent or guardian.
-7. Since joining the troop and while working on the Scout rank, participate in a Scoutmaster conference.
+1. Be active in your troop for at least six months as a Star Scout.
+2. As a Star Scout, demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived the Scout Oath and Scout Law in your everyday life.
+3. Earn five more merit badges, (so that you have 11 in all), including any three additional badges from the required list for Eagle. You may choose any of the 17 merit badges on the required list for Eagle to fulfill this requirement. See Eagle rank requirement 3 for this list. (shown below)
+      **Eagle-Required Merit Badges**
+         First Aid
+         Citizenship in the Community
+         Citizenship in the Nation
+         Citizenship in the World
+         Communication
+         Cooking
+         Personal Fitness
+         Emergency Preparedness OR Lifesaving
+         Environmental Science OR Sustainability
+         Personal Management
+         Swimming OR Hiking OR Cycling
+         Camping
+         Family Life
+      **You must choose only one of the merit badges listed in the following categories; 1) Emergency Preparedness OR Lifesaving, 2) Environmental Science OR Sustainability, 3) Swimming OR Hiking OR Cycling. Any additional merit badge(s) earned in those categories may be counted as one of your optional merit badges.**
+4. While a Star Scout, participate in six hours of service through one or more service projects approved by your Scoutmaster. At least three hours of this service must be conservation-related.
+5.  While a Star Scout, serve actively in your troop for six months in one or more of the following troop positions of responsibility (or carry out a Scoutmaster-approved leadership project to help the troop):
+    **Scout troop.** Patrol leader, assistant senior patrol leader, senior patrol leader, troop guide, Order of the Arrow troop representative, den chief, scribe, librarian, historian, quartermaster, bugler, junior assistant Scoutmaster, chaplain aide, instructor, webmaster, or outdoor ethics guide. *Assistant patrol leader is not an approved position of responsibility for the Star rank.*
+    **Venturing crew.** President, vice president, secretary, treasurer, den chief, historian, guide, quartermaster, chaplain aide, or outdoor ethics guide.
+    **Sea Scout ship.** Boatswain, boatswain's mate, purser, yeoman, storekeeper, crew leader, media specialist, specialist, den chief, or chaplain aide.
+    **Lone Scout.** Leadership responsibility in your school, religious organization, club, or elsewhere in your community.
+6. . While a Star Scout, use the Teaching EDGE method to teach another Scout (preferably younger than you) the skills from ONE of the following choices, so that the Scout is prepared to pass those requirements to their Scoutmaster’s satisfaction.
+    a. Tenderfoot 4a and 4b (first aid)
+    b. Second Class 2b, 2c, and 2d (cooking/tools)
+    c. Second Class 3a and 3d (navigation)
+    d. First Class 3a, 3b, 3c, and 3d (tools)
+    e. First Class 4a and 4b (navigation)
+    f. Second Class 6a and 6b (first aid)
+    g. First Class 7a and 7b (first aid)
+    h. Three requirements from one of the required Eagle merit badges, as approved by your Scoutmaster
+7. While a Star Scout, participate in a Scoutmaster conference.
+8. Successfully complete your board of review for the Life rank. *If the board of review does not approve the Scout’s advancement, the decision may be appealed in accordance with Guide to Advancement topic 8.0.4.0.*
 
 {{/requirements}}

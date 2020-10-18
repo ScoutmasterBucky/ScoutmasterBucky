@@ -18,7 +18,7 @@ imageSmb: scoutmaster-bucky-first-class.jpg
 
 All requirements for the First Class rank must be completed as a member of a troop or as a Lone Scout.
 
-The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously, however, these ranks must be earned in sequence.
+The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously; however, these ranks must be earned in sequence.
 
 Alternate requirements for the First Class rank are available for Scouts with physical or mental disabilities if they meet the criteria listed in the **Scouts BSA Requirements** book.
 
@@ -28,11 +28,11 @@ Alternate requirements for the First Class rank are available for Scouts with ph
 
 {{#requirements}}
 1. Do the following:
-    1a. Since joining Boy Scouts, participate in 10 separate troop/patrol activities, at least six of which must be held outdoors. Of the outdoor activities, at least three must include overnight camping. These activities do not include troop or patrol meetings. On campouts, spend the night in a tent that you pitch or other structure that you help erect, such as a lean-to, snow cave, or tepee.
+    1a. Since joining Scouts BSA, participate in 10 separate troop/patrol activities, at least six of which must be held outdoors. Of the outdoor activities, at least three must include overnight camping. These activities do not include troop or patrol meetings. On campouts, spend the night in a tent that you pitch or other structure that you help erect, such as a lean-to, snow cave, or tepee.
     1b. Explain each of the principles of Tread Lightly! and tell how you practiced them on a campout or outing. This outing must be different from the ones used for Tenderfoot requirement 1c and Second Class requirement 1b.
 2. Do the following:
     2a. Help plan a menu for one of the above campouts that includes at least one breakfast, one lunch, and one dinner, and that requires cooking at least two of the meals. Tell how the menu includes the foods from MyPlate or the current USDA nutritional model and how it meets nutritional needs for the planned activity or campout.
-    2b. Using the menu planned in First Class requirement 2a, make a list showing a budget and the food amounts needed to feed three or more boys. Secure the ingredients.
+    2b. Using the menu planned in First Class requirement 2a, make a list showing a budget and the food amounts needed to feed three or more youth. Secure the ingredients.
     2c. Show which pans, utensils, and other gear will be needed to cook and serve these meals.
     2d. Demonstrate the procedures to follow in the safe handling and storage of fresh meats, dairy products, eggs, vegetables, and other perishable food products. Show how to properly dispose of camp garbage, cans, plastic containers, and other rubbish.
     2e. On one campout, serve as cook. Supervise your assistant(s) in using a stove or building a cooking fire. Prepare the breakfast, lunch, and dinner planned in First Class requirement 2a. Supervise the cleanup.
@@ -73,8 +73,7 @@ Alternate requirements for the First Class rank are available for Scouts with ph
     9b. Investigate an environmental issue affecting your community. Share what you learned about that issue with your patrol or troop. Tell what, if anything, could be done by you or your community to address the concern.
     9c. On a Scouting or family outing, take note of the trash and garbage you produce. Before your next similar outing, decide how you can reduce, recycle, or repurpose what you take on that outing, and then put those plans into action. Compare your results.
     9d. Participate in three hours of service through one or more service projects approved by your Scoutmaster. The project(s) must not be the same service project(s) used for Tenderfoot requirement 7b and Second Class requirement 8e. Explain how your service to others relates to the Scout Law.
-10. Tell someone who is eligible to join Boy Scouts, or an inactive
-Boy Scout, about your Scouting activities. Invite him to an outing, activity, service project, or meeting. Tell him how to join, or encourage the inactive Boy Scout to become active. Share your efforts with your Scoutmaster or other adult leader.
+10. Tell someone who is eligible to join Scouts BSA, or an inactive Scout, about your Scouting activities. Invite this person to an outing, activity, service project, or meeting. Provide information on how to join, or encourage the inactive Scout to become active. Share your efforts with your Scoutmaster or other adult leader.
 11. Demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived four different points of the Scout Law (different from those points used for previous ranks) in your everyday life.
 12. While working toward the First Class rank, and after completing Second Class requirement 11, participate in a Scoutmaster conference.
 13. Successfully complete your board of review for the First Class rank.

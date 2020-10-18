@@ -18,7 +18,7 @@ imageSmb: scoutmaster-bucky-scout.jpg
 
 All requirements for the Scout rank must be completed as a member of a troop or as a Lone Scout.  If you have already completed these requirements as part of the Webelos Scouting Adventure, simply demonstrate your knowledge or skills to your Scoutmaster or other designated leader after joining the troop.
 
-The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously, however, these ranks must be earned in sequence.
+The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously; however, these ranks must be earned in sequence.
 
 Alternate requirements for the Scout rank are available for Scouts with physical or mental disabilities if they meet the criteria listed in the **Scouts BSA Requirements** book.
 
@@ -33,11 +33,11 @@ Alternate requirements for the Scout rank are available for Scouts with physical
     1c. Demonstrate the Scout sign, salute, and handshake. Explain when they should be used.
     1d. Describe the First Class Scout badge and tell what each part stands for. Explain the significance of the First Class Scout badge.
     1e. Repeat from memory the Outdoor Code. In your own words, explain what the Outdoor Code means to you.
-    1f. Repeat from memory the Pledge of Allegiance. In your own owrds, explain its meaning.
+    1f. Repeat from memory the Pledge of Allegiance. In your own words, explain its meaning.
 2. After attending at least one Scout troop meeting, do the following:
     2a. Describe how the Scouts in the troop provide its leadership.
     2b. Describe the four steps of Scout advancement.
-    2c. Describe what the Scout BSA ranks are and how they are earned.
+    2c. Describe what the Scouts BSA ranks are and how they are earned.
     2d. Describe what merit badges are and how they are earned.
 3. Do the following:
     3a. Explain the patrol method. Describe the types of patrols that are used in your troop.
