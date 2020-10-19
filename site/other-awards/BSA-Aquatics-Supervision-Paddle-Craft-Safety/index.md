@@ -45,7 +45,8 @@ Upon successful completion of any, or all, of the 4 course modules within the Pa
 The important item is the Paddle Craft Safety Pocket Certificate signed by your instructor and to have the certificate on your person whenever performing aquatic supervision activities.
 
 ## Paddle Craft Safety - Basic Canoeing and Basic Kayaking Requirements
-(((ImageBC)))   (((ImageBK)))
+![basic canoeing segment]({{imageBC}})![basic kayaking segement]({{imageBK}})
+
 {{#requirements}}
 1. PREREQUISITES:
     a. Be age 15 years old or older prior to training.
