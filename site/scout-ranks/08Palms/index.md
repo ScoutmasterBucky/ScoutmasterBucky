@@ -1,51 +1,38 @@
 ---
-title: Palms
+title: Eagle Palms
 layout: smb
 linkPath: 08Palms/
 image: palms.jpg
 imageSmb: scoutmaster-bucky-palms.jpg
 ---
 
-# Scout Rank
+# Eagle Scout Palms
 
-<div class="D(f) Fxd(c)--s"><div>
+<div class="D(f) Fxd(c)--s">
 
-NOTES: The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may be worked on simultaneously;, however, these ranks must be earned in sequence.
+<div class="Ta(c) Pt(1em)--s">
 
-Alternate requirements for the Scout rank are available for Scouts with physical or mental disabilities if they meet the criteria listed in the Scouts BSA Requirements book.
+![scoutmaster-bucky-palms]({{imageSmb}})</div>
 
-</div><div class="Ta(c) Pt(1em)--s">
+<div>
 
-![scoutmaster-bucky-palms]({{imageSmb}})
+For Venturers working on Scouts BSA requirements, replace “Scoutmaster” with “Crew Advisor.” For Sea Scouts
+working on Scouts BSA requirements, replace “Scoutmaster” with “Skipper.”
+
+After successfully completing your Eagle Scout board of review on or after Aug. 1, 2017, and being validated as an Eagle Scout by the National Service Center, you will be entitled to receive an Eagle Palm for each additional five merit badges you completed before your Eagle board of review beyond those required for Eagle. In addition, all current Scouts who have completed their Eagle board of review and who had not passed their 18th birthday before Aug. 1, 2017, are entitled as well to receive Eagle Palms. For these Palms only, it will not be necessary for you to complete the requirements stated below.
+
+**You may wear only the proper combination of Palms for the number of merit badges you earned beyond the rank of Eagle. The Bronze Palm represents five merit badges, the Gold Palm 10, and the Silver Palm 15.**
 
 </div></div>
 
-## Scout Rank Requirements
+## Eagle Scout Palms Requirements
 
-All requirements for the Scout rank must be completed as a member of a troop or as a Lone Scout.  If you have already completed these requirements as part of the Webelos Scouting Adventure, simply demonstrate your knowledge or skills to your Scoutmaster or other designated leader after joining the troop.
+After becoming an Eagle Scout and receiving the Eagle Palms you are entitled to, you may earn additional Palms by completing the following requirements:
 
 {{#requirements}}
-1. Do the following:
-    1a. Repeat from memory the Scout Oath, Scout Law, Scout motto, and Scout slogan. In your own words, explain their meaning.
-    1b. Explain what Scout spirit is. Describe some ways you have shown Scout spirit by practicing the Scout Oath, Scout Law, Scout motto, and Scout slogan.
-    1c. Demonstrate the Boy Scout sign, salute, and handshake. Explain when they should be used.
-    1d. Describe the First Class Scout badge and tell what each part stands for. Explain the significance of the First Class Scout badge.
-    1e. Repeat from memory the Outdoor Code. In your own words, explain what the Outdoor Code means to you.
-    1f. Repeat from memory the Pledge of Allegiance. In your own owrds, explain its meaning.
-2. After attending at least one Boy Scout troop meeting, do the following:
-    2a. Describe how the Scouts in the troop provide its leadership.
-    2b. Describe the four steps of Boy Scout advancement.
-    2c. Describe what the Boy Scout ranks are and how they are earned.
-    2d. Describe what merit badges are and how they are earned.
-3. Do the following:
-    3a. Explain the patrol method. Describe the types of patrols that are used in your troop.
-    3b. Become familiar with your patrol name, emblem, flag, and yell. Explain how these items create patrol spirit.
-4. Do the following:
-    4a. Show how to tie a square knot, two half-hitches, and a taut-line hitch. Explain how each knot is used.
-    4b. Show the proper care of a rope by learning how o whip and fuse the ends of different kinds of rope.
-5. Demonstrate your knowledge of pocketknife safety.
-6. With your parent or guardian, complete the exercises in the pamphlet How to Protect Your Children from Child Abuse: A Parent’s Guide and earn the Cyber Chip Award for your grade.
-If your family does not have internet access at home AND you do not have ready internet access at school or another public place or via a mobile device, the Cyber Chip portion of this requirement may be waived by your Scoutmaster in consultation with your parent or guardian.
-7. Since joining the troop and while working on the Scout rank, participate in a Scoutmaster conference.
-
+1. Be active in the Boy Scouts of America for at least three months after becoming an Eagle Scout or after the last Palm was earned. *Eagle Palms must be earned in sequence, and the three-month tenure requirement must be observed for each Palm*
+2. Since earning the Eagle Scout rank or your last Eagle Palm, demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived the Scout Oath and Scout Law in your everyday life.
+3. Continue to set a satisfactory example of accepting responsibility or demonstrating leadership ability.
+4. Earn five additional merit badges beyond those required for Eagle or last Palm. *Merit badges earned any time since joining Scouts BSA may be used to meet this requirement.*
+5. While an Eagle Scout, participate in a Scoutmaster conference.
 {{/requirements}}
