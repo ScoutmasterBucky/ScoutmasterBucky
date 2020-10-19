@@ -18,22 +18,29 @@ imageRK: bsa-aquatics-supervision-paddle-craft-safety-river-kayaking-patch-segme
 ![BSA Aquatics Supervision Paddle Craft Safety Award]({{imageSmb}})
 </div><div>
 
-Float trips are popular Scouts BSA, Venturing, and Sea Scout activities. Safety Afloat awareness training provides guidelines for safe float trips and is required of unit leaders, but does not provide the skill training mandated by those guidelines. BSA Paddle Craft Safety expands Safety Afloat training to include the skills, as well as the knowledge, needed for a unit leader to confidently supervise canoeing or kayaking excursions.
+Float trips are popular Scouts BSA, Venturing, and Sea Scout activities. Safety Afloat awareness training provides guidelines for safe float trips and is required of unit leaders, but does not provide the skill training mandated by those guidelines. Aquatics Supervision: Paddle Craft Safety—Basic expands Safety Afloat training to include the skills, as well as the knowledge, needed for a unit leader to confidently supervise canoeing or kayaking excursions om flat water. Persons completing the training should be better able to access their preparation to supervise paddle craft activities. The training is open to any registered adult leader, BSA Scout youth member, Venturer, Sea Scout, or Explorer who is age 15 or older. The training must be conducted by a council approved instructor, takes roughly eight hours, and is valid for three years.
 
-The program contains four separate modules. Basic Canoeing and Basic Kayaking options cover flat water skills. River Canoeing and River Kayaking options build on the basic programs to include moving water.
+Adult and youth first aid training, including CPR, is an important safety consideration for all Scouting activities, not just boating. First aid training is not included in the Paddle Craft Safety course with the expectation that the leader has addressed that need separately, as noted in the course material and on the training card.
 
-Persons completing the training should be better prepared to supervise paddle craft activities. The training is open to any registered Scout, Venturer, Sea Scout, Explorer, or adult leader who is age 15 or older. The training must be conducted by a council approved instructor and is valid for three years.
+Float trips that last overnight also require camping skills. Because Scouting emphasizes outdoor skills in many programs, only items specific to canoeing or kayaking are reviewed in the course material.
 
 </div></div>
 
-## BSA Aquatics Supervision Paddle Craft Safety Requirements
+## BSA Aquatics Supervision Paddle Craft Safety
+The program contains four separate modules. Basic Canoeing and Basic Kayaking options cover flat water skills. River Canoeing and River Kayaking options build on the basic programs to include moving water.
+
+![basic canoeing segment]({{imageBC}})![basic kayaking segement]({{imageBK}})![river canoeing segment]({{imageRC}})![river kayaking segement]({{imageRK}})
 
 Upon successful completion of any, or all, of the 4 course modules within the Paddle Craft Safety training, participants earn the Paddle Craft Safety Patch and the respective discipline segment patch(es) along with their certification card, good for three years.  The patches were not specifically designed for wear, hence you will not find display guidelines in the BSA Insignia Guide for these.  As such, for those that feel the need to wear these patches, they may be combined and worn as a single temporary patch.
 
-The important item is the Paddle Craft Safety Pocket Certificate signed by your instructor and to have the certificate on your person whenever performing aquatic supervision activities.
+<div>The important item is the Paddle Craft Safety Pocket Certificate signed by your instructor and to have the certificate on your person whenever performing aquatic supervision activities.</div>
+<div class="D(f) Fxd(c)--s">
+<div class="Ta(c) Pt(1em)--s">
+
+![BSA Aquatics Supervision Paddle Craft Safety Award]({{imageSmb}})
+</div></div>
 
 ## Basic Canoeing and Basic Kayaking Requirements
-![basic canoeing segment]({{imageBC}})![basic kayaking segement]({{imageBK}})
 
 {{#requirements}}
 1. **PREREQUISITES:**
