@@ -50,14 +50,14 @@
         "path": "merit-badges/astronomy/workbook/"
     },
     {
-        "badge": "athletics",
-        "name": "Athletics",
-        "path": "merit-badges/athletics/workbook/"
-    },
-    {
         "badge": "automotive-maintenance",
         "name": "Automotive Maintenance",
         "path": "merit-badges/automotive-maintenance/workbook/"
+    },
+    {
+        "badge": "athletics",
+        "name": "Athletics",
+        "path": "merit-badges/athletics/workbook/"
     },
     {
         "badge": "aviation",
@@ -75,11 +75,6 @@
         "path": "merit-badges/basketry/workbook/"
     },
     {
-        "badge": "bird-study",
-        "name": "Bird Study",
-        "path": "merit-badges/bird-study/workbook/"
-    },
-    {
         "badge": "bugling",
         "name": "Bugling",
         "path": "merit-badges/bugling/workbook/"
@@ -88,6 +83,11 @@
         "badge": "camping",
         "name": "Camping",
         "path": "merit-badges/camping/workbook/"
+    },
+    {
+        "badge": "bird-study",
+        "name": "Bird Study",
+        "path": "merit-badges/bird-study/workbook/"
     },
     {
         "badge": "canoeing",
@@ -135,14 +135,14 @@
         "path": "merit-badges/collections/workbook/"
     },
     {
-        "badge": "communication",
-        "name": "Communication",
-        "path": "merit-badges/communication/workbook/"
-    },
-    {
         "badge": "composite-materials",
         "name": "Composite Materials",
         "path": "merit-badges/composite-materials/workbook/"
+    },
+    {
+        "badge": "communication",
+        "name": "Communication",
+        "path": "merit-badges/communication/workbook/"
     },
     {
         "badge": "cooking",
@@ -205,6 +205,11 @@
         "path": "merit-badges/energy/workbook/"
     },
     {
+        "badge": "engineering",
+        "name": "Engineering",
+        "path": "merit-badges/engineering/workbook/"
+    },
+    {
         "badge": "entrepreneurship",
         "name": "Entrepreneurship",
         "path": "merit-badges/entrepreneurship/workbook/"
@@ -260,24 +265,19 @@
         "path": "merit-badges/fly-fishing/workbook/"
     },
     {
-        "badge": "forestry",
-        "name": "Forestry",
-        "path": "merit-badges/forestry/workbook/"
-    },
-    {
         "badge": "game-design",
         "name": "Game Design",
         "path": "merit-badges/game-design/workbook/"
     },
     {
+        "badge": "forestry",
+        "name": "Forestry",
+        "path": "merit-badges/forestry/workbook/"
+    },
+    {
         "badge": "gardening",
         "name": "Gardening",
         "path": "merit-badges/gardening/workbook/"
-    },
-    {
-        "badge": "genealogy",
-        "name": "Genealogy",
-        "path": "merit-badges/genealogy/workbook/"
     },
     {
         "badge": "geocaching",
@@ -288,6 +288,11 @@
         "badge": "geology",
         "name": "Geology",
         "path": "merit-badges/geology/workbook/"
+    },
+    {
+        "badge": "genealogy",
+        "name": "Genealogy",
+        "path": "merit-badges/genealogy/workbook/"
     },
     {
         "badge": "golf",
@@ -315,14 +320,14 @@
         "path": "merit-badges/horsemanship/workbook/"
     },
     {
-        "badge": "indian-lore",
-        "name": "Indian Lore",
-        "path": "merit-badges/indian-lore/workbook/"
-    },
-    {
         "badge": "insect-study",
         "name": "Insect Study",
         "path": "merit-badges/insect-study/workbook/"
+    },
+    {
+        "badge": "indian-lore",
+        "name": "Indian Lore",
+        "path": "merit-badges/indian-lore/workbook/"
     },
     {
         "badge": "inventing",
@@ -388,11 +393,6 @@
         "badge": "motorboating",
         "name": "Motorboating",
         "path": "merit-badges/motorboating/workbook/"
-    },
-    {
-        "badge": "moviemaking",
-        "name": "Moviemaking",
-        "path": "merit-badges/moviemaking/workbook/"
     },
     {
         "badge": "music",
@@ -508,16 +508,6 @@
         "badge": "rifle-shooting",
         "name": "Rifle Shooting",
         "path": "merit-badges/rifle-shooting/workbook/"
-    },
-    {
-        "badge": "robotics",
-        "name": "Robotics",
-        "path": "merit-badges/robotics/workbook/"
-    },
-    {
-        "badge": "rowing",
-        "name": "Rowing",
-        "path": "merit-badges/rowing/workbook/"
     },
     {
         "badge": "safety",
@@ -650,11 +640,6 @@
         "path": "merit-badges/weather/workbook/"
     },
     {
-        "badge": "engineering",
-        "name": "Engineering",
-        "path": "merit-badges/engineering/workbook/"
-    },
-    {
         "badge": "welding",
         "name": "Welding",
         "path": "merit-badges/welding/workbook/"
@@ -675,9 +660,24 @@
         "path": "merit-badges/wood-carving/workbook/"
     },
     {
+        "badge": "rowing",
+        "name": "Rowing",
+        "path": "merit-badges/rowing/workbook/"
+    },
+    {
+        "badge": "moviemaking",
+        "name": "Moviemaking",
+        "path": "merit-badges/moviemaking/workbook/"
+    },
+    {
         "badge": "woodwork",
         "name": "Woodwork",
         "path": "merit-badges/woodwork/workbook/"
+    },
+    {
+        "badge": "robotics",
+        "name": "Robotics",
+        "path": "merit-badges/robotics/workbook/"
     },
     {
         "badge": "animal-science",
