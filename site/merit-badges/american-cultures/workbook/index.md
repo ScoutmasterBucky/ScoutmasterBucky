@@ -24,7 +24,7 @@ year: 2020
 <p> </p>
 <p> </p>
 <p> </p>
-Continued on next page.
+Continued on next page
 <p> </p>
 <p> </p>
 <p> </p>
