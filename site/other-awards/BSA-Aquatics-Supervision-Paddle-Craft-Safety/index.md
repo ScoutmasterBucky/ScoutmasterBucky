@@ -4,6 +4,10 @@ layout: smb
 linkPath: BSA-Aquatics-Supervision-Paddle-Craft-Safety/
 image: bsa-aquatics-supervision-paddle-craft-safety-patch.jpg
 imageSmb: scoutmaster-bucky-bsa-aquatics-supervision-paddle-craft-safety.jpg
+imageBC: bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segment.png
+imageBK: bsa-aquatics-supervision-paddle-craft-safety-basic-kayaking-patch-segment.png
+imageRC: bsa-aquatics-supervision-paddle-craft-safety-river-canoeing-patch-segment.png
+imageRK: bsa-aquatics-supervision-paddle-craft-safety-river-kayaking-patch-segment.png
 ---
 
 # BSA Aquatics Supervision Paddle Craft Safety
@@ -41,16 +45,7 @@ Upon successful completion of any, or all, of the 4 course modules within the Pa
 The important item is the Paddle Craft Safety Pocket Certificate signed by your instructor and to have the certificate on your person whenever performing aquatic supervision activities.
 
 ## Paddle Craft Safety - Basic Canoeing and Basic Kayaking Requirements
-
-<div class="W(300px) Maw(100%) Fxs(0) P(1em)">
-<img src="/bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segment.png" Class="W(100%) H(a)">
-<img src="\bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segment.png" Class="W(100%) H(a)">
-<img src="http://scoutmasterbucky.com/bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segment.png\bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segment.png" Class="W(100%) H(a)">
-<img src="\bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segment.png" Class="W(100%) H(a)">
-<img src="\bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segment.png" Class="W(100%) H(a)">
-<img src="\BSA-Aquatics-Supervision-Paddle-Craft-Safety\bsa-aquatics-supervision-paddle-craft-safety-basic-kayaking-patch-segment.png" Class="W(100%) H(a)">
-</div>
-
+(((ImageBC)))   (((ImageBK)))
 {{#requirements}}
 1. PREREQUISITES:
     a. Be age 15 years old or older prior to training.
@@ -81,7 +76,7 @@ Skills may be demonstrated either tandem in a canoe, or solo in a kayak. If a ta
 {{/requirements}}
 
 ## Paddle Craft Safety - River Canoeing and River Kayaking Requirements
-
+(((ImageRC)))   (((ImageRK)))
 {{#requirements}}
 1. PREREQUISITES:
     a. Submit written evidence of physical fitness.
@@ -106,3 +101,7 @@ You can request a complimentary copy of this video, you may do so by going to th
     m. Land, safely exit, and load the boat for transport.
 4. Write a float plan for a troop, crew, or ship covering the stretch of river used for training.
 {{/requirements}}
+
+### 50-Miler Award Forms and Links
+
+[The 50-Miler Program and Award Application](https://filestore.scouting.org/filestore/pdf/430-067_WB.pdf)
