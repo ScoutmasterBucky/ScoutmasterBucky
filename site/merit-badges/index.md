@@ -10,7 +10,7 @@ Find information and resources on each of the {{meritBadgeMeta.activeCount}} Sco
 
 The links below direct to the specific merit badge and its requirements as well as links to resources like the Scoutmaster Bucky Merit Badge Workbook and class preparation notes as well as the Scoutmaster Bucky Merit Badge History Pages.
 
-All requirements are current as listed in the *{{year}} Scouts BSA Requirements* book unless otherwise noted.
+All requirements are current as listed in the **{{year}} Scouts BSA Requirements** book unless otherwise noted.
 
 ## Merit Badge Index
 
