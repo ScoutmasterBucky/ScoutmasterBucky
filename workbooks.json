@@ -60,14 +60,14 @@
         "path": "merit-badges/automotive-maintenance/workbook/"
     },
     {
-        "badge": "backpacking",
-        "name": "Backpacking",
-        "path": "merit-badges/backpacking/workbook/"
-    },
-    {
         "badge": "aviation",
         "name": "Aviation",
         "path": "merit-badges/aviation/workbook/"
+    },
+    {
+        "badge": "backpacking",
+        "name": "Backpacking",
+        "path": "merit-badges/backpacking/workbook/"
     },
     {
         "badge": "basketry",
@@ -315,6 +315,11 @@
         "path": "merit-badges/home-repairs/workbook/"
     },
     {
+        "badge": "horsemanship",
+        "name": "Horsemanship",
+        "path": "merit-badges/horsemanship/workbook/"
+    },
+    {
         "badge": "indian-lore",
         "name": "Indian Lore",
         "path": "merit-badges/indian-lore/workbook/"
@@ -355,14 +360,14 @@
         "path": "merit-badges/leatherwork/workbook/"
     },
     {
-        "badge": "mammal-study",
-        "name": "Mammal Study",
-        "path": "merit-badges/mammal-study/workbook/"
-    },
-    {
         "badge": "lifesaving",
         "name": "Lifesaving",
         "path": "merit-badges/lifesaving/workbook/"
+    },
+    {
+        "badge": "mammal-study",
+        "name": "Mammal Study",
+        "path": "merit-badges/mammal-study/workbook/"
     },
     {
         "badge": "medicine",
@@ -550,11 +555,6 @@
         "path": "merit-badges/sculpture/workbook/"
     },
     {
-        "badge": "horsemanship",
-        "name": "Horsemanship",
-        "path": "merit-badges/horsemanship/workbook/"
-    },
-    {
         "badge": "search-and-rescue",
         "name": "Search and Rescue",
         "path": "merit-badges/search-and-rescue/workbook/"
@@ -682,6 +682,11 @@
     {
         "badge": "animal-science",
         "name": "Animal Science",
+        "path": "merit-badges/animal-science/workbook/avian/"
+    },
+    {
+        "badge": "animal-science",
+        "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/beef-cattle/"
     },
     {
@@ -703,10 +708,5 @@
         "badge": "animal-science",
         "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/sheep/"
-    },
-    {
-        "badge": "animal-science",
-        "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/avian/"
     }
 ]
