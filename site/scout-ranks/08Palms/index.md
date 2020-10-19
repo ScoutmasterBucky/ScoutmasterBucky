@@ -30,7 +30,7 @@ After successfully completing your Eagle Scout board of review on or after Aug. 
 After becoming an Eagle Scout and receiving the Eagle Palms you are entitled to, you may earn additional Palms by completing the following requirements:
 
 {{#requirements}}
-1. Be active in the Boy Scouts of America for at least three months after becoming an Eagle Scout or after the last Palm was earned. *Eagle Palms must be earned in sequence, and the three-month tenure requirement must be observed for each Palm*
+1. Be active in the Boy Scouts of America for at least three months after becoming an Eagle Scout or after the last Palm was earned. *Eagle Palms must be earned in sequence, and the three-month tenure requirement must be observed for each Palm.*
 2. Since earning the Eagle Scout rank or your last Eagle Palm, demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived the Scout Oath and Scout Law in your everyday life.
 3. Continue to set a satisfactory example of accepting responsibility or demonstrating leadership ability.
 4. Earn five additional merit badges beyond those required for Eagle or last Palm. *Merit badges earned any time since joining Scouts BSA may be used to meet this requirement.*
