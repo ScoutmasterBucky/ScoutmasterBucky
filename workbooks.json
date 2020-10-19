@@ -110,14 +110,14 @@
         "path": "merit-badges/citizenship-in-the-community/workbook/"
     },
     {
-        "badge": "citizenship-in-the-world",
-        "name": "Citizenship in the World",
-        "path": "merit-badges/citizenship-in-the-world/workbook/"
-    },
-    {
         "badge": "citizenship-in-the-nation",
         "name": "Citizenship in the Nation",
         "path": "merit-badges/citizenship-in-the-nation/workbook/"
+    },
+    {
+        "badge": "citizenship-in-the-world",
+        "name": "Citizenship in the World",
+        "path": "merit-badges/citizenship-in-the-world/workbook/"
     },
     {
         "badge": "climbing",
@@ -255,11 +255,6 @@
         "path": "merit-badges/fish-and-wildlife-management/workbook/"
     },
     {
-        "badge": "fishing",
-        "name": "Fishing",
-        "path": "merit-badges/fishing/workbook/"
-    },
-    {
         "badge": "fly-fishing",
         "name": "Fly Fishing",
         "path": "merit-badges/fly-fishing/workbook/"
@@ -273,6 +268,11 @@
         "badge": "game-design",
         "name": "Game Design",
         "path": "merit-badges/game-design/workbook/"
+    },
+    {
+        "badge": "fishing",
+        "name": "Fishing",
+        "path": "merit-badges/fishing/workbook/"
     },
     {
         "badge": "gardening",
@@ -370,11 +370,6 @@
         "path": "merit-badges/mammal-study/workbook/"
     },
     {
-        "badge": "medicine",
-        "name": "Medicine",
-        "path": "merit-badges/medicine/workbook/"
-    },
-    {
         "badge": "metalwork",
         "name": "Metalwork",
         "path": "merit-badges/metalwork/workbook/"
@@ -430,9 +425,14 @@
         "path": "merit-badges/painting/workbook/"
     },
     {
-        "badge": "personal-fitness",
-        "name": "Personal Fitness",
-        "path": "merit-badges/personal-fitness/workbook/"
+        "badge": "medicine",
+        "name": "Medicine",
+        "path": "merit-badges/medicine/workbook/"
+    },
+    {
+        "badge": "personal-management",
+        "name": "Personal Management",
+        "path": "merit-badges/personal-management/workbook/"
     },
     {
         "badge": "pets",
@@ -443,11 +443,6 @@
         "badge": "photography",
         "name": "Photography",
         "path": "merit-badges/photography/workbook/"
-    },
-    {
-        "badge": "personal-management",
-        "name": "Personal Management",
-        "path": "merit-badges/personal-management/workbook/"
     },
     {
         "badge": "pioneering",
@@ -678,6 +673,11 @@
         "badge": "woodwork",
         "name": "Woodwork",
         "path": "merit-badges/woodwork/workbook/"
+    },
+    {
+        "badge": "personal-fitness",
+        "name": "Personal Fitness",
+        "path": "merit-badges/personal-fitness/workbook/"
     },
     {
         "badge": "animal-science",
