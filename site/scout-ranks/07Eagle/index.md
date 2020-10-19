@@ -48,5 +48,24 @@ For Venturers working on Scouts BSA requirements, replace “troop” with “cr
     **Lone Scout.** Leadership responsibility in your school, religious organization, club, or elsewhere in your community.
 5. While a Life Scout, plan, develop, and give leadership to others in a service project helpful to any religious institution, any school, or your community. (The project must benefit an organization other than the Boy Scouts of America.) A project proposal must be approved by the organization benefiting from the effort, your Scoutmaster and unit committee, and the council or district before you start. You must use the *Eagle Scout Service Project Workbook*, BSA publication No. 512-927, in meeting this requirement. (To learn more about the Eagle Scout service project, see the *Guide to Advancement,* topics 9.0.2.0 through 9.0.2.16.)
 6. While a Life Scout, participate in a Scoutmaster conference.
+7. Successfully complete your board of review for the Eagle Scout rank. (This requirement may be met after age 18, in accordance with Guide to Advancement topic 8.0.3.1.
 
 {{/requirements}}
+
+##  APPEALS AND EXTENSIONS
+
+If a Scout believes he has completed all requirements for the Eagle Scout rank but is denied a board of review, he may request a board of review under disputed circumstances in accordance with Guide to Advancement topic 8.0.3.2.
+
+If the board of review does not approve the Scout’s advancement, the decision may be appealed in accordance with Guide to Advancement topic 8.0.4.0.
+
+If a Scout foresees that, due to no fault or choice of his own, he will be unable to complete the Eagle Scout rank requirements before age 18, he may apply for a limited time extension in accordance with Guide to Advancement topic 9.0.4.0. Time extensions are rarely granted.
+
+##  AGE REQUIREMENT ELIGIBILITY
+
+Merit badges, badges of rank, and Eagle Palms may be earned by a registered Boy Scout or a qualified Venturer or Sea Scout. He may earn these awards until his 18th birthday. Any Venturer or Sea Scout who has achieved the First Class rank as a Boy Scout in a troop or as a Lone Scout may continue working up to his 18th birthday toward the Star, Life, and Eagle Scout ranks and Eagle Palms.
+
+An Eagle Scout board of review may occur, without special approval, within three months after the 18th birthday. Local councils must preapprove those held three to six months afterward. To initiate approval, the candidate, his parent or guardian, the unit leader, or a unit committee member attaches to the application a statement explaining the delay. Consult the Guide to Advancement, topic 8.0.3.1, in the case where a board of review is to be conducted more than six months after a candidate’s 18th birthday.
+
+If you have a permanent physical or mental disability, or a disability expected to last more than two years, or beyond age 18, you may become an Eagle Scout by qualifying for as many required merit badges as you can and qualifying for alternative merit badges for the rest. If you seek to become an Eagle Scout under this procedure, you must submit a special application to your local council service center. Your application must be approved by your council advancement committee before you can work on alternative merit badges.
+
+A Scout, Venturer, or Sea Scout with a disability may also qualify to work toward rank advancement after he is 18 years of age if he meets the guidelines outlined in section 10 of the Guide to Advancement.
