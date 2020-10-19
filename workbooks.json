@@ -5,14 +5,14 @@
         "path": "merit-badges/american-cultures/workbook/"
     },
     {
-        "badge": "american-business",
-        "name": "American Business",
-        "path": "merit-badges/american-business/workbook/"
-    },
-    {
         "badge": "american-heritage",
         "name": "American Heritage",
         "path": "merit-badges/american-heritage/workbook/"
+    },
+    {
+        "badge": "american-business",
+        "name": "American Business",
+        "path": "merit-badges/american-business/workbook/"
     },
     {
         "badge": "american-labor",
@@ -50,6 +50,11 @@
         "path": "merit-badges/astronomy/workbook/"
     },
     {
+        "badge": "athletics",
+        "name": "Athletics",
+        "path": "merit-badges/athletics/workbook/"
+    },
+    {
         "badge": "automotive-maintenance",
         "name": "Automotive Maintenance",
         "path": "merit-badges/automotive-maintenance/workbook/"
@@ -65,11 +70,6 @@
         "path": "merit-badges/backpacking/workbook/"
     },
     {
-        "badge": "athletics",
-        "name": "Athletics",
-        "path": "merit-badges/athletics/workbook/"
-    },
-    {
         "badge": "basketry",
         "name": "Basketry",
         "path": "merit-badges/basketry/workbook/"
@@ -80,14 +80,14 @@
         "path": "merit-badges/bird-study/workbook/"
     },
     {
-        "badge": "camping",
-        "name": "Camping",
-        "path": "merit-badges/camping/workbook/"
-    },
-    {
         "badge": "bugling",
         "name": "Bugling",
         "path": "merit-badges/bugling/workbook/"
+    },
+    {
+        "badge": "camping",
+        "name": "Camping",
+        "path": "merit-badges/camping/workbook/"
     },
     {
         "badge": "canoeing",
@@ -120,11 +120,6 @@
         "path": "merit-badges/citizenship-in-the-world/workbook/"
     },
     {
-        "badge": "climbing",
-        "name": "Climbing",
-        "path": "merit-badges/climbing/workbook/"
-    },
-    {
         "badge": "coin-collecting",
         "name": "Coin Collecting",
         "path": "merit-badges/coin-collecting/workbook/"
@@ -140,14 +135,19 @@
         "path": "merit-badges/communication/workbook/"
     },
     {
-        "badge": "cooking",
-        "name": "Cooking",
-        "path": "merit-badges/cooking/workbook/"
+        "badge": "climbing",
+        "name": "Climbing",
+        "path": "merit-badges/climbing/workbook/"
     },
     {
         "badge": "composite-materials",
         "name": "Composite Materials",
         "path": "merit-badges/composite-materials/workbook/"
+    },
+    {
+        "badge": "cooking",
+        "name": "Cooking",
+        "path": "merit-badges/cooking/workbook/"
     },
     {
         "badge": "crime-prevention",
@@ -165,11 +165,6 @@
         "path": "merit-badges/dentistry/workbook/"
     },
     {
-        "badge": "digital-technology",
-        "name": "Digital Technology",
-        "path": "merit-badges/digital-technology/workbook/"
-    },
-    {
         "badge": "disabilities-awareness",
         "name": "Disabilities Awareness",
         "path": "merit-badges/disabilities-awareness/workbook/"
@@ -178,6 +173,11 @@
         "badge": "dog-care",
         "name": "Dog Care",
         "path": "merit-badges/dog-care/workbook/"
+    },
+    {
+        "badge": "digital-technology",
+        "name": "Digital Technology",
+        "path": "merit-badges/digital-technology/workbook/"
     },
     {
         "badge": "drafting",
@@ -285,14 +285,14 @@
         "path": "merit-badges/genealogy/workbook/"
     },
     {
-        "badge": "geology",
-        "name": "Geology",
-        "path": "merit-badges/geology/workbook/"
-    },
-    {
         "badge": "geocaching",
         "name": "Geocaching",
         "path": "merit-badges/geocaching/workbook/"
+    },
+    {
+        "badge": "geology",
+        "name": "Geology",
+        "path": "merit-badges/geology/workbook/"
     },
     {
         "badge": "golf",
@@ -375,14 +375,14 @@
         "path": "merit-badges/medicine/workbook/"
     },
     {
-        "badge": "metalwork",
-        "name": "Metalwork",
-        "path": "merit-badges/metalwork/workbook/"
-    },
-    {
         "badge": "mining-in-society",
         "name": "Mining in Society",
         "path": "merit-badges/mining-in-society/workbook/"
+    },
+    {
+        "badge": "metalwork",
+        "name": "Metalwork",
+        "path": "merit-badges/metalwork/workbook/"
     },
     {
         "badge": "model-design-and-building",
@@ -440,9 +440,9 @@
         "path": "merit-badges/personal-management/workbook/"
     },
     {
-        "badge": "pets",
-        "name": "Pets",
-        "path": "merit-badges/pets/workbook/"
+        "badge": "pioneering",
+        "name": "Pioneering",
+        "path": "merit-badges/pioneering/workbook/"
     },
     {
         "badge": "photography",
@@ -450,9 +450,9 @@
         "path": "merit-badges/photography/workbook/"
     },
     {
-        "badge": "pioneering",
-        "name": "Pioneering",
-        "path": "merit-badges/pioneering/workbook/"
+        "badge": "pets",
+        "name": "Pets",
+        "path": "merit-badges/pets/workbook/"
     },
     {
         "badge": "plant-science",
