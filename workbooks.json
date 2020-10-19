@@ -1,5 +1,10 @@
 [
     {
+        "badge": "american-business",
+        "name": "American Business",
+        "path": "merit-badges/american-business/workbook/"
+    },
+    {
         "badge": "american-cultures",
         "name": "American Cultures",
         "path": "merit-badges/american-cultures/workbook/"
@@ -23,11 +28,6 @@
         "badge": "archaeology",
         "name": "Archaeology",
         "path": "merit-badges/archaeology/workbook/"
-    },
-    {
-        "badge": "american-business",
-        "name": "American Business",
-        "path": "merit-badges/american-business/workbook/"
     },
     {
         "badge": "archery",
@@ -325,6 +325,11 @@
         "path": "merit-badges/indian-lore/workbook/"
     },
     {
+        "badge": "insect-study",
+        "name": "Insect Study",
+        "path": "merit-badges/insect-study/workbook/"
+    },
+    {
         "badge": "inventing",
         "name": "Inventing",
         "path": "merit-badges/inventing/workbook/"
@@ -333,11 +338,6 @@
         "badge": "journalism",
         "name": "Journalism",
         "path": "merit-badges/journalism/workbook/"
-    },
-    {
-        "badge": "insect-study",
-        "name": "Insect Study",
-        "path": "merit-badges/insect-study/workbook/"
     },
     {
         "badge": "kayaking",
@@ -525,14 +525,14 @@
         "path": "merit-badges/rowing/workbook/"
     },
     {
-        "badge": "salesmanship",
-        "name": "Salesmanship",
-        "path": "merit-badges/salesmanship/workbook/"
-    },
-    {
         "badge": "safety",
         "name": "Safety",
         "path": "merit-badges/safety/workbook/"
+    },
+    {
+        "badge": "salesmanship",
+        "name": "Salesmanship",
+        "path": "merit-badges/salesmanship/workbook/"
     },
     {
         "badge": "scholarship",
