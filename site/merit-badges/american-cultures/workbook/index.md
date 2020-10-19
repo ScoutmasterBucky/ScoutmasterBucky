@@ -18,7 +18,7 @@ year: 2020
 {{#wb-req-text lines=2}}{{/wb-req-text}}
 {{#wb-req-header}}Group #3:{{/wb-req-header}}
 {{#wb-req-text lines=2}}{{/wb-req-text}}
-<p>/</p><p>/</p><p>/</p><p>/</p><p>/</p>Continued on next page.<p>/</p><p>/</p><p>/</p><p>/</p><p>/</p>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p>Continued on next page.<p></p><p></p><p></p><p></p><p></p><p></p><p></p>
 {{/wb-special}}
 
 {{#wb-req item="1a" alert="Do TWO of the following (1a, 1b, 1c, 1d, or 1e) for requirement 1, Choosing a different group for each." requirement="Go to a festival, celebration, or other event identified with one of the groups. Report on what you see and learn."}}
