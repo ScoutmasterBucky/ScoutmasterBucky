@@ -140,11 +140,6 @@
         "path": "merit-badges/communication/workbook/"
     },
     {
-        "badge": "composite-materials",
-        "name": "Composite Materials",
-        "path": "merit-badges/composite-materials/workbook/"
-    },
-    {
         "badge": "cooking",
         "name": "Cooking",
         "path": "merit-badges/cooking/workbook/"
@@ -153,6 +148,11 @@
         "badge": "crime-prevention",
         "name": "Crime Prevention",
         "path": "merit-badges/crime-prevention/workbook/"
+    },
+    {
+        "badge": "composite-materials",
+        "name": "Composite Materials",
+        "path": "merit-badges/composite-materials/workbook/"
     },
     {
         "badge": "cycling",
@@ -415,6 +415,11 @@
         "path": "merit-badges/nuclear-science/workbook/"
     },
     {
+        "badge": "oceanography",
+        "name": "Oceanography",
+        "path": "merit-badges/oceanography/workbook/"
+    },
+    {
         "badge": "orienteering",
         "name": "Orienteering",
         "path": "merit-badges/orienteering/workbook/"
@@ -465,11 +470,6 @@
         "path": "merit-badges/pottery/workbook/"
     },
     {
-        "badge": "programming",
-        "name": "Programming",
-        "path": "merit-badges/programming/workbook/"
-    },
-    {
         "badge": "public-health",
         "name": "Public Health",
         "path": "merit-badges/public-health/workbook/"
@@ -483,6 +483,11 @@
         "badge": "pulp-and-paper",
         "name": "Pulp and Paper",
         "path": "merit-badges/pulp-and-paper/workbook/"
+    },
+    {
+        "badge": "programming",
+        "name": "Programming",
+        "path": "merit-badges/programming/workbook/"
     },
     {
         "badge": "radio",
@@ -645,24 +650,19 @@
         "path": "merit-badges/water-sports/workbook/"
     },
     {
-        "badge": "oceanography",
-        "name": "Oceanography",
-        "path": "merit-badges/oceanography/workbook/"
-    },
-    {
         "badge": "weather",
         "name": "Weather",
         "path": "merit-badges/weather/workbook/"
     },
     {
-        "badge": "welding",
-        "name": "Welding",
-        "path": "merit-badges/welding/workbook/"
-    },
-    {
         "badge": "whitewater",
         "name": "Whitewater",
         "path": "merit-badges/whitewater/workbook/"
+    },
+    {
+        "badge": "welding",
+        "name": "Welding",
+        "path": "merit-badges/welding/workbook/"
     },
     {
         "badge": "wilderness-survival",
