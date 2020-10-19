@@ -59,10 +59,10 @@ The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may 
         • Serious burns (partial thickness, or second-degree)
         • Heat exhaustion
         • Shock
-        •  Heatstroke, dehydration, hypothermia, and hyperventilation
+        • Heatstroke, dehydration, hypothermia, and hyperventilation
     6b. Show what to do for “hurry” cases of stopped breathing, stroke, severe bleeding, and ingested poisoning.
     6c. Tell what you can do while on a campout or hike to prevent or reduce the occurrence of the injuries listed in Second Class requirements 6a and 6b.
-    6d.  Explain what to do in case of accidents that require emergency response in the home and backcountry. Explain what constitutes an emergency and what information you will need to provide to a responder.
+    6d. Explain what to do in case of accidents that require emergency response in the home and backcountry. Explain what constitutes an emergency and what information you will need to provide to a responder.
     6e. Tell how you should respond if you come upon the scene of a vehicular accident.
 7. Do the following:
     7a. After completing Tenderfoot requirement 6c, be physically active at least 30 minutes each day for five days a week for four weeks. Keep track of your activities.
