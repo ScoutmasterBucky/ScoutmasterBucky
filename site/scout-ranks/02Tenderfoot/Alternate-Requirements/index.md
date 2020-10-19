@@ -5,7 +5,7 @@ linkPath: Alternate-Requirements/
 imageSTSCFC: stscfc.jpg
 ---
 
-## Alternative Rank Requirements for Tenderfoot Rank
+## Alternative Requirements for Tenderfoot Rank
 
 <div class="D(f) Fxd(c)--s">
 

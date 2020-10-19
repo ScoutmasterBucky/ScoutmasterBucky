@@ -5,7 +5,7 @@ linkPath: Alternate-Requirements/
 imageSTSCFC: stscfc.jpg
 ---
 
-## Alternative Rank Requirements for First Class Rank
+## Alternative Requirements for First Class Rank
 
 <div class="D(f) Fxd(c)--s">
 
