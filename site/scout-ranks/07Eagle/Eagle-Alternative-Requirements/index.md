@@ -13,9 +13,8 @@ image: eagle.jpg
 
 ![eagle]({{image}})</div>
 
-### Eagle Scout Alternative Rank Requirements
-
 </div>
+### Eagle Scout Alternative Rank Requirements
 
 ## Eagle Scout Alternative Rank Requirements
 
