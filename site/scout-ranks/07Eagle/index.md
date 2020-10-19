@@ -18,7 +18,7 @@ imageSmb: scoutmaster-bucky-eagle.jpg
 
 For Venturers working on Scouts BSA requirements, replace “troop” with “crew” and “Scoutmaster” with “Crew Advisor.” For Sea Scouts working on Scouts BSA requirements, replace “troop” with “ship” and “Scoutmaster” with “Skipper.”
 
-[Alternate requirements for the Eagle Scout rank](https://filestore.scouting.org/filestore/pdf/512-728_wb_fillable.pdf)(Eagle-Alternative-Requirements/) are available for Scouts with physical or mental disabilities if they meet the criteria listed in the **Scouts BSA Requirements** book.
+[Alternate requirements for the Eagle Scout rank](Eagle-Alternative-Requirements/) are available for Scouts with physical or mental disabilities if they meet the criteria listed in the **Scouts BSA Requirements** book.
 
 </div></div>
 
