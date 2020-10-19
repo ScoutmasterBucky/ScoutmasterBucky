@@ -8,7 +8,7 @@ imageBC: bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segme
 imageBK: bsa-aquatics-supervision-paddle-craft-safety-basic-kayaking-patch-segment.png
 imageRC: bsa-aquatics-supervision-paddle-craft-safety-river-canoeing-patch-segment.png
 imageRK: bsa-aquatics-supervision-paddle-craft-safety-river-kayaking-patch-segment.png
-imageASPSC: bsa-aquatics-supervision-swimming-and-water-rescue-card-front
+imageASPSC: bsa-aquatics-supervision-swimming-and-water-rescue-card-front.jpg
 ---
 
 # BSA Aquatics Supervision Paddle Craft Safety
@@ -34,8 +34,8 @@ The program contains four separate modules. Basic Canoeing and Basic Kayaking op
 
 Upon successful completion of any, or all, of the 4 course modules within the Paddle Craft Safety training, participants earn the Paddle Craft Safety Patch and the respective discipline segment patch(es) along with their certification card, good for three years.  The patches were not specifically designed for wear, hence you will not find display guidelines in the BSA Insignia Guide for these.  As such, for those that feel the need to wear these patches, they may be combined and worn as a single temporary patch.
 
-<div>The important item is the Paddle Craft Safety Pocket Certificate signed by your instructor and to have the certificate on your person whenever performing aquatic supervision activities.</div>
 <div class="D(f) Fxd(c)--s">
+<div>The important item is the Paddle Craft Safety Pocket Certificate signed by your instructor and to have the certificate on your person whenever performing aquatic supervision activities.</div>
 <div class="Ta(c) Pt(1em)--s">
 
 ![BSA Aquatics Supervision Paddle Craft Safety Card]({{imageASPSC}})
