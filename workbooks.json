@@ -1,13 +1,13 @@
 [
     {
-        "badge": "american-cultures",
-        "name": "American Cultures",
-        "path": "merit-badges/american-cultures/workbook/"
-    },
-    {
         "badge": "american-business",
         "name": "American Business",
         "path": "merit-badges/american-business/workbook/"
+    },
+    {
+        "badge": "american-cultures",
+        "name": "American Cultures",
+        "path": "merit-badges/american-cultures/workbook/"
     },
     {
         "badge": "american-heritage",
@@ -385,11 +385,6 @@
         "path": "merit-badges/mining-in-society/workbook/"
     },
     {
-        "badge": "model-design-and-building",
-        "name": "Model Design and Building",
-        "path": "merit-badges/model-design-and-building/workbook/"
-    },
-    {
         "badge": "motorboating",
         "name": "Motorboating",
         "path": "merit-badges/motorboating/workbook/"
@@ -435,9 +430,14 @@
         "path": "merit-badges/personal-fitness/workbook/"
     },
     {
-        "badge": "personal-management",
-        "name": "Personal Management",
-        "path": "merit-badges/personal-management/workbook/"
+        "badge": "model-design-and-building",
+        "name": "Model Design and Building",
+        "path": "merit-badges/model-design-and-building/workbook/"
+    },
+    {
+        "badge": "pets",
+        "name": "Pets",
+        "path": "merit-badges/pets/workbook/"
     },
     {
         "badge": "photography",
@@ -475,14 +475,14 @@
         "path": "merit-badges/public-health/workbook/"
     },
     {
-        "badge": "public-speaking",
-        "name": "Public Speaking",
-        "path": "merit-badges/public-speaking/workbook/"
-    },
-    {
         "badge": "pulp-and-paper",
         "name": "Pulp and Paper",
         "path": "merit-badges/pulp-and-paper/workbook/"
+    },
+    {
+        "badge": "public-speaking",
+        "name": "Public Speaking",
+        "path": "merit-badges/public-speaking/workbook/"
     },
     {
         "badge": "radio",
@@ -510,14 +510,14 @@
         "path": "merit-badges/rifle-shooting/workbook/"
     },
     {
-        "badge": "rowing",
-        "name": "Rowing",
-        "path": "merit-badges/rowing/workbook/"
-    },
-    {
         "badge": "robotics",
         "name": "Robotics",
         "path": "merit-badges/robotics/workbook/"
+    },
+    {
+        "badge": "rowing",
+        "name": "Rowing",
+        "path": "merit-badges/rowing/workbook/"
     },
     {
         "badge": "safety",
@@ -540,6 +540,11 @@
         "path": "merit-badges/scouting-heritage/workbook/"
     },
     {
+        "badge": "scuba-diving",
+        "name": "Scuba Diving",
+        "path": "merit-badges/scuba-diving/workbook/"
+    },
+    {
         "badge": "sculpture",
         "name": "Sculpture",
         "path": "merit-badges/sculpture/workbook/"
@@ -553,11 +558,6 @@
         "badge": "shotgun-shooting",
         "name": "Shotgun Shooting",
         "path": "merit-badges/shotgun-shooting/workbook/"
-    },
-    {
-        "badge": "scuba-diving",
-        "name": "Scuba Diving",
-        "path": "merit-badges/scuba-diving/workbook/"
     },
     {
         "badge": "signs-signals-and-codes",
@@ -583,6 +583,11 @@
         "badge": "soil-and-water-conservation",
         "name": "Soil and Water Conservation",
         "path": "merit-badges/soil-and-water-conservation/workbook/"
+    },
+    {
+        "badge": "personal-management",
+        "name": "Personal Management",
+        "path": "merit-badges/personal-management/workbook/"
     },
     {
         "badge": "space-exploration",
@@ -620,19 +625,9 @@
         "path": "merit-badges/textile/workbook/"
     },
     {
-        "badge": "theater",
-        "name": "Theater",
-        "path": "merit-badges/theater/workbook/"
-    },
-    {
         "badge": "traffic-safety",
         "name": "Traffic Safety",
         "path": "merit-badges/traffic-safety/workbook/"
-    },
-    {
-        "badge": "veterinary-medicine",
-        "name": "Veterinary Medicine",
-        "path": "merit-badges/veterinary-medicine/workbook/"
     },
     {
         "badge": "truck-transportation",
@@ -640,19 +635,29 @@
         "path": "merit-badges/truck-transportation/workbook/"
     },
     {
+        "badge": "veterinary-medicine",
+        "name": "Veterinary Medicine",
+        "path": "merit-badges/veterinary-medicine/workbook/"
+    },
+    {
         "badge": "water-sports",
         "name": "Water Sports",
         "path": "merit-badges/water-sports/workbook/"
     },
     {
-        "badge": "welding",
-        "name": "Welding",
-        "path": "merit-badges/welding/workbook/"
-    },
-    {
         "badge": "weather",
         "name": "Weather",
         "path": "merit-badges/weather/workbook/"
+    },
+    {
+        "badge": "theater",
+        "name": "Theater",
+        "path": "merit-badges/theater/workbook/"
+    },
+    {
+        "badge": "welding",
+        "name": "Welding",
+        "path": "merit-badges/welding/workbook/"
     },
     {
         "badge": "whitewater",
@@ -665,19 +670,14 @@
         "path": "merit-badges/wilderness-survival/workbook/"
     },
     {
-        "badge": "woodwork",
-        "name": "Woodwork",
-        "path": "merit-badges/woodwork/workbook/"
-    },
-    {
         "badge": "wood-carving",
         "name": "Wood Carving",
         "path": "merit-badges/wood-carving/workbook/"
     },
     {
-        "badge": "pets",
-        "name": "Pets",
-        "path": "merit-badges/pets/workbook/"
+        "badge": "woodwork",
+        "name": "Woodwork",
+        "path": "merit-badges/woodwork/workbook/"
     },
     {
         "badge": "animal-science",
