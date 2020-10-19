@@ -5,7 +5,7 @@ linkPath: Eagle-Alternative-Requirements/
 image: eagle.jpg
 ---
 
-# Alternative Rank Requirements
+## Alternative Rank Requirements for Eagle Scout Rank
 
 <div class="D(f) Fxd(c)--s">
 

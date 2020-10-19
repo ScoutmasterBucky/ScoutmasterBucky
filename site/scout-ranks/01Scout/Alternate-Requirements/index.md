@@ -5,7 +5,7 @@ linkPath: Alternate-Requirements/
 imageSTSCFC: stscfc.jpg
 ---
 
-# Alternative Rank Requirements
+## Alternative Rank Requirements for Scout Rank
 
 <div class="D(f) Fxd(c)--s">
 
