@@ -2,10 +2,7 @@
 title: Alternate-Requirements
 layout: smb
 linkPath: Alternate-Requirements/
-imageS: scout.jpg
-imageT: tenderfoot.jpg
-imageSC: second-class.jpg
-imageFC: first-class.jpg
+imageSTSCFC: stscfc.jpg
 ---
 
 # Scout, Tenderfoot, Second Class, and First Class Rank Alternative Requirements
@@ -14,7 +11,7 @@ imageFC: first-class.jpg
 
 <div class="Ta(c) Pt(1em)--s">
 
-![scout]({{imageS}})![tenderfoot]({{imageT}})![second-class]({{imageSC}})![first-class]({{imageFC}})</div>
+![stscfc]({{imageSTSCFC}})</div>
 
 </div>
 
