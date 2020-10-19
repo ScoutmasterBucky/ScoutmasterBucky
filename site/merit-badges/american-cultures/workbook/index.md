@@ -26,7 +26,7 @@ year: 2020
 <p>  </p>
 <p>  </p>
 <p>  </p>
-<p>Continued on next page</p>
+{{#smb-accent}}Continued on next page{{/smb-accent}}
 <p>  </p>
 <p>  </p>
 <p>  </p>
