@@ -25,24 +25,24 @@
         "path": "merit-badges/animation/workbook/"
     },
     {
-        "badge": "archaeology",
-        "name": "Archaeology",
-        "path": "merit-badges/archaeology/workbook/"
-    },
-    {
         "badge": "archery",
         "name": "Archery",
         "path": "merit-badges/archery/workbook/"
     },
     {
-        "badge": "architecture",
-        "name": "Architecture",
-        "path": "merit-badges/architecture/workbook/"
+        "badge": "archaeology",
+        "name": "Archaeology",
+        "path": "merit-badges/archaeology/workbook/"
     },
     {
         "badge": "art",
         "name": "Art",
         "path": "merit-badges/art/workbook/"
+    },
+    {
+        "badge": "architecture",
+        "name": "Architecture",
+        "path": "merit-badges/architecture/workbook/"
     },
     {
         "badge": "astronomy",
@@ -120,14 +120,14 @@
         "path": "merit-badges/citizenship-in-the-world/workbook/"
     },
     {
-        "badge": "climbing",
-        "name": "Climbing",
-        "path": "merit-badges/climbing/workbook/"
-    },
-    {
         "badge": "coin-collecting",
         "name": "Coin Collecting",
         "path": "merit-badges/coin-collecting/workbook/"
+    },
+    {
+        "badge": "climbing",
+        "name": "Climbing",
+        "path": "merit-badges/climbing/workbook/"
     },
     {
         "badge": "collections",
@@ -280,11 +280,6 @@
         "path": "merit-badges/gardening/workbook/"
     },
     {
-        "badge": "genealogy",
-        "name": "Genealogy",
-        "path": "merit-badges/genealogy/workbook/"
-    },
-    {
         "badge": "geocaching",
         "name": "Geocaching",
         "path": "merit-badges/geocaching/workbook/"
@@ -293,6 +288,11 @@
         "badge": "geology",
         "name": "Geology",
         "path": "merit-badges/geology/workbook/"
+    },
+    {
+        "badge": "genealogy",
+        "name": "Genealogy",
+        "path": "merit-badges/genealogy/workbook/"
     },
     {
         "badge": "golf",
@@ -325,6 +325,11 @@
         "path": "merit-badges/indian-lore/workbook/"
     },
     {
+        "badge": "insect-study",
+        "name": "Insect Study",
+        "path": "merit-badges/insect-study/workbook/"
+    },
+    {
         "badge": "inventing",
         "name": "Inventing",
         "path": "merit-badges/inventing/workbook/"
@@ -343,11 +348,6 @@
         "badge": "landscape-architecture",
         "name": "Landscape Architecture",
         "path": "merit-badges/landscape-architecture/workbook/"
-    },
-    {
-        "badge": "insect-study",
-        "name": "Insect Study",
-        "path": "merit-badges/insect-study/workbook/"
     },
     {
         "badge": "law",
@@ -378,6 +378,11 @@
         "badge": "metalwork",
         "name": "Metalwork",
         "path": "merit-badges/metalwork/workbook/"
+    },
+    {
+        "badge": "mining-in-society",
+        "name": "Mining in Society",
+        "path": "merit-badges/mining-in-society/workbook/"
     },
     {
         "badge": "model-design-and-building",
@@ -418,6 +423,11 @@
         "badge": "orienteering",
         "name": "Orienteering",
         "path": "merit-badges/orienteering/workbook/"
+    },
+    {
+        "badge": "painting",
+        "name": "Painting",
+        "path": "merit-badges/painting/workbook/"
     },
     {
         "badge": "personal-fitness",
@@ -633,16 +643,6 @@
         "badge": "veterinary-medicine",
         "name": "Veterinary Medicine",
         "path": "merit-badges/veterinary-medicine/workbook/"
-    },
-    {
-        "badge": "mining-in-society",
-        "name": "Mining in Society",
-        "path": "merit-badges/mining-in-society/workbook/"
-    },
-    {
-        "badge": "painting",
-        "name": "Painting",
-        "path": "merit-badges/painting/workbook/"
     },
     {
         "badge": "water-sports",
