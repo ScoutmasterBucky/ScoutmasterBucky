@@ -39,9 +39,8 @@ The 50-Miler Award is presented to each qualifying individual for satisfactory p
 5. Properly rig and prepare the sailboard you are using. Identify each of the following: uphaul, outhaul, downhaul, cleat, leach, tack, clew, foot, luff, skeg, centerboard, wishbone boom, and universal. Explain luffing. Explain how to steer the sailboard by adjusting the center of effort.
 6. Demonstrate your ability to uphaul the sail, find the neutral position to the wind (sail luffing), and control the board’s position with foot movement.
 7. With supervision from your instructor, sail a course that involves beating, reaching, and running. Change direction by tacking into the wind.
+{{/requirements}}
 
 ### Boardsailing BSA Forms and Links
 
 [Boardsailing BSA Requirements and Award Application](https://filestore.scouting.org/filestore/pdf/512-017.pdf)
-
-{{/requirements}}

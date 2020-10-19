@@ -18,7 +18,7 @@ The primary objective of this program is to stimulate Scouts BSA and Venturing S
 
 Chartered unit participation is most desirable, however, provisional groups are eligible. This award does not apply if any other award is available for a trip.
 
-The 50-Miler award is available as a decal or in either a cloth or leather patch. It is NOT worn on the uniform, but may be attached to equipment, jackets, backpacks, patch vests, blankets, or if desired, on the back of the merit badge sash.
+**Note:** *The 50-Miler award is available as a decal or in either a cloth or leather patch. It is NOT worn on the uniform or sash, but may be attached to equipment, jackets, backpacks, patch vests, or blankets.*
 
 </div></div>
 
@@ -31,9 +31,9 @@ The 50-Miler Award is presented to each qualifying individual for satisfactory p
 2. Cover the route of not less than 50 consecutive miles; take a minimum of five consecutive days to complete the trip without the aid of motors for the qualification of the 50-mile distance.  For example, in the case of water treks and the use of motors, qualification distances exclude manuvering in or out of slips or ports, safety/weather traverses, managing tidal currents, and accessing the open water. (In some areas pack animals may be used.) *NOTE: Qualification for the 50-mile distance does not have to be continuous, provided the primary purpose objective is met.*
 3. During the time on the trail or waterway, complete a minimum of 10 hours each of group work on projects to improve the trail, springs, campsite, portage, or area. If, after checking with recognized authorities, it is not possible to complete 10 hours each of group work on the trail, a similar project may be done in the unit's home area. (There should be no unauthorized cutting of brush or timber.)
 4. Unit or tour leader must then file a 50-Miler Award application with the local council service center.
+{{/requirements}}
 
 ### 50-Miler Award Forms and Links
 
 [The 50-Miler Program and Award Application](https://filestore.scouting.org/filestore/pdf/430-067_WB.pdf)
 
-{{/requirements}}
