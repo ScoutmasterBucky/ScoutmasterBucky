@@ -40,7 +40,7 @@ For Venturers working on Scouts BSA requirements, replace “troop” with “cr
          Swimming OR Hiking OR Cycling
          Camping
          Family Life
-      **You must choose only one of the merit badges listed in the following categories; 1) Emergency Preparedness OR Lifesaving, 2) Environmental Science OR Sustainability, 3) Swimming OR Hiking OR Cycling. Any additional merit badge(s) earned in those categories may be counted as one of your optional merit badges.**
+      **You must choose only one of the merit badges listed in the following categories; 1) Emergency Preparedness OR Lifesaving, 2) Environmental Science OR Sustainability, 3) Swimming OR Hiking OR Cycling. Any additional merit badge(s) earned in these categories may be counted as one of your optional merit badges.**
 4. While a Star Scout, participate in six hours of service through one or more service projects approved by your Scoutmaster. At least three hours of this service must be conservation-related.
 5.  While a Star Scout, serve actively in your troop for six months in one or more of the following troop positions of responsibility (or carry out a Scoutmaster-approved leadership project to help the troop):
     **Scout troop.** Patrol leader, assistant senior patrol leader, senior patrol leader, troop guide, Order of the Arrow troop representative, den chief, scribe, librarian, historian, quartermaster, bugler, junior assistant Scoutmaster, chaplain aide, instructor, webmaster, or outdoor ethics guide. *Assistant patrol leader is not an approved position of responsibility for the Star rank.*
@@ -57,6 +57,6 @@ For Venturers working on Scouts BSA requirements, replace “troop” with “cr
     g. First Class 7a and 7b (first aid)
     h. Three requirements from one of the required Eagle merit badges, as approved by your Scoutmaster
 7. While a Star Scout, participate in a Scoutmaster conference.
-8. Successfully complete your board of review for the Life rank. *If the board of review does not approve the Scout’s advancement, the decision may be appealed in accordance with Guide to Advancement topic 8.0.4.0.*
+8. Successfully complete your board of review for the Life rank. *If the board of review does not approve the Scout’s advancement, the decision may be appealed in accordance with [Guide to Advancement topic 8.0.4.0.](https://www.scouting.org/resources/guide-to-advancement/boards-of-review/#8040) .*
 
 {{/requirements}}
