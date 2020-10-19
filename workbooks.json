@@ -220,6 +220,11 @@
         "path": "merit-badges/environmental-science/workbook/"
     },
     {
+        "badge": "exploration",
+        "name": "Exploration",
+        "path": "merit-badges/exploration/workbook/"
+    },
+    {
         "badge": "family-life",
         "name": "Family Life",
         "path": "merit-badges/family-life/workbook/"
@@ -238,11 +243,6 @@
         "badge": "fire-safety",
         "name": "Fire Safety",
         "path": "merit-badges/fire-safety/workbook/"
-    },
-    {
-        "badge": "exploration",
-        "name": "Exploration",
-        "path": "merit-badges/exploration/workbook/"
     },
     {
         "badge": "first-aid",
@@ -682,11 +682,6 @@
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/avian/"
-    },
-    {
-        "badge": "animal-science",
-        "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/beef-cattle/"
     },
     {
@@ -708,5 +703,10 @@
         "badge": "animal-science",
         "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/sheep/"
+    },
+    {
+        "badge": "animal-science",
+        "name": "Animal Science",
+        "path": "merit-badges/animal-science/workbook/avian/"
     }
 ]
