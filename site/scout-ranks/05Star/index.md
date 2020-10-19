@@ -47,9 +47,9 @@ For Venturers working on Scouts BSA requirements, replace “troop” with “cr
     **Venturing crew.** President, vice president, secretary, treasurer, den chief, historian, guide, quartermaster, chaplain aide, or outdoor ethics guide.
     **Sea Scout ship.** Boatswain, boatswain's mate, purser, yeoman, storekeeper, crew leader, media specialist, specialist, den chief, or chaplain aide.
     **Lone Scout.** Leadership responsibility in your school, religious organization, club, or elsewhere in your community.
-6. With your parent or guardian, complete the exercises in the pamphlet *How to Protect Your Children From Child Abuse: A Parent’s Guide* and earn the Cyber Chip award for your grade.
+6. With your parent or guardian, complete the exercises in the pamphlet [How to Protect Your Children from Child Abuse: A Parent’s Guide](https://filestore.scouting.org/filestore/ypt/pdf/46-015.pdf) and earn the Cyber Chip award for your grade.
 *If your family does not have internet access at home AND you do not have ready internet access at school or another public place or via a mobile device, the Cyber Chip portion of this requirement may be waived by your Scoutmaster in consultation with your parent or guardian.*
 7. While a First Class Scout, participate in a Scoutmaster conference.
-8. Successfully complete your board of review for the Star rank. *If the board of review does not approve the Scout’s advancement, the decision may be appealed in accordance with Guide to Advancement topic 8.0.4.0.*
+8. Successfully complete your board of review for the Star rank. *If the board of review does not approve the Scout’s advancement, the decision may be appealed in accordance with [Guide to Advancement](https://filestore.scouting.org/filestore/pdf/33088.pdf) topic 8.0.4.0.*
 
 {{/requirements}}
