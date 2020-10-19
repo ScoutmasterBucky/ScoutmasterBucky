@@ -1,5 +1,10 @@
 [
     {
+        "badge": "american-business",
+        "name": "American Business",
+        "path": "merit-badges/american-business/workbook/"
+    },
+    {
         "badge": "american-cultures",
         "name": "American Cultures",
         "path": "merit-badges/american-cultures/workbook/"
@@ -8,11 +13,6 @@
         "badge": "american-heritage",
         "name": "American Heritage",
         "path": "merit-badges/american-heritage/workbook/"
-    },
-    {
-        "badge": "american-business",
-        "name": "American Business",
-        "path": "merit-badges/american-business/workbook/"
     },
     {
         "badge": "american-labor",
@@ -30,14 +30,14 @@
         "path": "merit-badges/archaeology/workbook/"
     },
     {
-        "badge": "architecture",
-        "name": "Architecture",
-        "path": "merit-badges/architecture/workbook/"
-    },
-    {
         "badge": "archery",
         "name": "Archery",
         "path": "merit-badges/archery/workbook/"
+    },
+    {
+        "badge": "architecture",
+        "name": "Architecture",
+        "path": "merit-badges/architecture/workbook/"
     },
     {
         "badge": "art",
@@ -205,14 +205,14 @@
         "path": "merit-badges/energy/workbook/"
     },
     {
-        "badge": "entrepreneurship",
-        "name": "Entrepreneurship",
-        "path": "merit-badges/entrepreneurship/workbook/"
-    },
-    {
         "badge": "engineering",
         "name": "Engineering",
         "path": "merit-badges/engineering/workbook/"
+    },
+    {
+        "badge": "entrepreneurship",
+        "name": "Entrepreneurship",
+        "path": "merit-badges/entrepreneurship/workbook/"
     },
     {
         "badge": "environmental-science",
@@ -235,9 +235,9 @@
         "path": "merit-badges/farm-mechanics/workbook/"
     },
     {
-        "badge": "first-aid",
-        "name": "First Aid",
-        "path": "merit-badges/first-aid/workbook/"
+        "badge": "fingerprinting",
+        "name": "Fingerprinting",
+        "path": "merit-badges/fingerprinting/workbook/"
     },
     {
         "badge": "fire-safety",
@@ -245,14 +245,9 @@
         "path": "merit-badges/fire-safety/workbook/"
     },
     {
-        "badge": "fingerprinting",
-        "name": "Fingerprinting",
-        "path": "merit-badges/fingerprinting/workbook/"
-    },
-    {
-        "badge": "fishing",
-        "name": "Fishing",
-        "path": "merit-badges/fishing/workbook/"
+        "badge": "first-aid",
+        "name": "First Aid",
+        "path": "merit-badges/first-aid/workbook/"
     },
     {
         "badge": "fish-and-wildlife-management",
@@ -260,19 +255,24 @@
         "path": "merit-badges/fish-and-wildlife-management/workbook/"
     },
     {
+        "badge": "fishing",
+        "name": "Fishing",
+        "path": "merit-badges/fishing/workbook/"
+    },
+    {
         "badge": "fly-fishing",
         "name": "Fly Fishing",
         "path": "merit-badges/fly-fishing/workbook/"
     },
     {
-        "badge": "game-design",
-        "name": "Game Design",
-        "path": "merit-badges/game-design/workbook/"
-    },
-    {
         "badge": "forestry",
         "name": "Forestry",
         "path": "merit-badges/forestry/workbook/"
+    },
+    {
+        "badge": "game-design",
+        "name": "Game Design",
+        "path": "merit-badges/game-design/workbook/"
     },
     {
         "badge": "gardening",
@@ -290,14 +290,14 @@
         "path": "merit-badges/geocaching/workbook/"
     },
     {
-        "badge": "golf",
-        "name": "Golf",
-        "path": "merit-badges/golf/workbook/"
-    },
-    {
         "badge": "geology",
         "name": "Geology",
         "path": "merit-badges/geology/workbook/"
+    },
+    {
+        "badge": "golf",
+        "name": "Golf",
+        "path": "merit-badges/golf/workbook/"
     },
     {
         "badge": "graphic-arts",
@@ -320,6 +320,11 @@
         "path": "merit-badges/horsemanship/workbook/"
     },
     {
+        "badge": "indian-lore",
+        "name": "Indian Lore",
+        "path": "merit-badges/indian-lore/workbook/"
+    },
+    {
         "badge": "insect-study",
         "name": "Insect Study",
         "path": "merit-badges/insect-study/workbook/"
@@ -328,11 +333,6 @@
         "badge": "inventing",
         "name": "Inventing",
         "path": "merit-badges/inventing/workbook/"
-    },
-    {
-        "badge": "indian-lore",
-        "name": "Indian Lore",
-        "path": "merit-badges/indian-lore/workbook/"
     },
     {
         "badge": "journalism",
@@ -405,11 +405,6 @@
         "path": "merit-badges/music/workbook/"
     },
     {
-        "badge": "nature",
-        "name": "Nature",
-        "path": "merit-badges/nature/workbook/"
-    },
-    {
         "badge": "nuclear-science",
         "name": "Nuclear Science",
         "path": "merit-badges/nuclear-science/workbook/"
@@ -455,9 +450,9 @@
         "path": "merit-badges/pioneering/workbook/"
     },
     {
-        "badge": "plant-science",
-        "name": "Plant Science",
-        "path": "merit-badges/plant-science/workbook/"
+        "badge": "nature",
+        "name": "Nature",
+        "path": "merit-badges/nature/workbook/"
     },
     {
         "badge": "plumbing",
@@ -510,9 +505,9 @@
         "path": "merit-badges/reptile-and-amphibian-study/workbook/"
     },
     {
-        "badge": "rifle-shooting",
-        "name": "Rifle Shooting",
-        "path": "merit-badges/rifle-shooting/workbook/"
+        "badge": "plant-science",
+        "name": "Plant Science",
+        "path": "merit-badges/plant-science/workbook/"
     },
     {
         "badge": "robotics",
@@ -550,9 +545,9 @@
         "path": "merit-badges/scuba-diving/workbook/"
     },
     {
-        "badge": "sculpture",
-        "name": "Sculpture",
-        "path": "merit-badges/sculpture/workbook/"
+        "badge": "rifle-shooting",
+        "name": "Rifle Shooting",
+        "path": "merit-badges/rifle-shooting/workbook/"
     },
     {
         "badge": "search-and-rescue",
@@ -678,6 +673,11 @@
         "badge": "woodwork",
         "name": "Woodwork",
         "path": "merit-badges/woodwork/workbook/"
+    },
+    {
+        "badge": "sculpture",
+        "name": "Sculpture",
+        "path": "merit-badges/sculpture/workbook/"
     },
     {
         "badge": "animal-science",
