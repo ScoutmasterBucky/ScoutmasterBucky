@@ -77,7 +77,6 @@ Upon successful completion of any, or all, of the 4 course modules within the Pa
 {{/requirements}}
 
 ## BSA Aquatics Supervision: Paddle Craft Safety - River Requirements
-![river canoeing segment]({{imageRC}})![river kayaking segement]({{imageRK}})
 
 {{#requirements}}
 1. Prerequisities:
@@ -107,7 +106,7 @@ Upon successful completion of any, or all, of the 4 course modules within the Pa
 
 [Paddle Craft Safety Instructor's Guide](https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/430-501.pdf)
 
-You can request a complimentary copy of the ACA/BSA video *“Reading the Rhythms of Rivers and Rapids”*, by going to this website: http://www.americancanoe.org/page/BSADVD
+You can request a complimentary copy of the ACA/BSA video *Reading the Rhythms of Rivers and Rapids*, by going to this website: http://www.americancanoe.org/page/BSADVD
 
 [Canoe Training Video](https://youtu.be/fGiWzRrM-us)
 
