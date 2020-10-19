@@ -15,6 +15,10 @@ image: eagle.jpg
 
 </div>
 ### Eagle Scout Alternative Rank Requirements
+
+<p></p>
+
+## Eagle Scout Alternative Rank Requirements
 The Eagle Scout rank may be achieved by a Scouts BSA Scout or a qualified Venturer or Sea Scout who has a physical or mental disability by completing the [Application for Alternative Eagle Scout Rank Merit Badges, No. 512-730](https://filestore.scouting.org/filestore/pdf/512-730.pdf), and by qualifying for alternative merit badges. This does not apply to individual requirements for merit badges. Merit badges are awarded only when all requirements are met as stated. See the [Guide to Advancement, topic 10.2.2.3](https://www.scouting.org/resources/guide-to-advancement/special-needs/#10223), for details.
 
  The physical or mental disability must be of a permanent rather than of a temporary nature (or a disability expected to last more than two years or beyond the 18th birthday). The application must include a written statement from a qualified health-care professional related to the nature of the disability. This person may be a physician, neurologist, psychiatrist, psychologist, etc., or an educational administrator as appropriate.
