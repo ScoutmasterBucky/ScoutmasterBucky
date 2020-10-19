@@ -36,7 +36,7 @@ The important item is the Swimming & Water Rescue Pocket Certificate signed by y
 1. **Age and Physical Fitness:**
      a. Be age 15 years old or older prior to training.
      b. Submit written evidence of physical fitness.
-     c. Complete Safe Swim Defense training.
+     c. Complete *Safe Swim Defense* training.
 2. **Swimming Ability:**
      a. Complete the BSA swimmer test: Jump feetfirst into water over the head in depth. Level off and swim 75 yards in a strong manner using one or more of the following strokes: sidestroke, breast stroke, trudgen, or crawl; then swim 25 yards using an easy, resting backstroke. The 100 yards must be completed in one swim without stops and must include at least one sharp turn. After completing the swim, rest by floating.
      b. Recover a 10-pound weight from 8 feet of water.
