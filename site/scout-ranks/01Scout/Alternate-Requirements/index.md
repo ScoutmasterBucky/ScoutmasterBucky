@@ -17,9 +17,9 @@ imageSTSCFC: stscfc.jpg
 
 ## Alternative Rank Requirements
 
-{{#requirements}}
 A Scout who has a permanent physical or mental disability (or a disability expected to last more than two years or beyond the 18th birthday) and is unable to complete all of the requirements for Scout, Tenderfoot, Second Class, or First Class rank may, with his parents or guardian, submit a request to the council advancement committee to complete alternative requirements. Below are the procedures for applying for alternative requirements. To help facilitate this process, use the [Individual Scout Advancement Plan](https://filestore.scouting.org/filestore/pdf/512-936_wb.pdf), No. 512-936, which can be found at [www.scouting.org/advancement](http://www.scouting.org/advancement). For more detailed information about alternative requirements, see the [Guide to Advancement](https://filestore.scouting.org/filestore/pdf/33088.pdf).
 
+{{#requirements}}
 **1. Do as Many Standard Requirements as Possible.** Before applying for alternative requirements, the member must complete as many of the standard requirements as his ability permits. He must do his very best to develop himself to the limit of his abilities and resources.
 
 **2. Prepare a Request for Alternative Requirements.** Once the Scout has done his best to the limit of his abilities and resources, the unit leader or a troop committee member submits to the council advancement committee a written request for alternative requirements for Scout, Tenderfoot, Second Class, and First Class ranks. It must show what has been completed and suggest the alternatives for those requirements the Scout cannot do.
