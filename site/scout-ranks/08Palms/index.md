@@ -12,7 +12,7 @@ imageSmb: scoutmaster-bucky-palms.jpg
 
 <div class="Ta(c) Pt(1em)--s">
 
-![scoutmaster-bucky-palms]({{imageSmb}})</div>
+![scoutmaster-bucky-palms]({{imageSmb}})Palms are **NOT** considered ranks but rather an award</div>
 
 <div>
 
