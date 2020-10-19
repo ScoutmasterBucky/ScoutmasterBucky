@@ -355,11 +355,6 @@
         "path": "merit-badges/law/workbook/"
     },
     {
-        "badge": "leatherwork",
-        "name": "Leatherwork",
-        "path": "merit-badges/leatherwork/workbook/"
-    },
-    {
         "badge": "lifesaving",
         "name": "Lifesaving",
         "path": "merit-badges/lifesaving/workbook/"
@@ -488,6 +483,11 @@
         "badge": "pulp-and-paper",
         "name": "Pulp and Paper",
         "path": "merit-badges/pulp-and-paper/workbook/"
+    },
+    {
+        "badge": "leatherwork",
+        "name": "Leatherwork",
+        "path": "merit-badges/leatherwork/workbook/"
     },
     {
         "badge": "radio",
@@ -682,6 +682,11 @@
     {
         "badge": "animal-science",
         "name": "Animal Science",
+        "path": "merit-badges/animal-science/workbook/avian/"
+    },
+    {
+        "badge": "animal-science",
+        "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/beef-cattle/"
     },
     {
@@ -703,10 +708,5 @@
         "badge": "animal-science",
         "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/sheep/"
-    },
-    {
-        "badge": "animal-science",
-        "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/avian/"
     }
 ]
