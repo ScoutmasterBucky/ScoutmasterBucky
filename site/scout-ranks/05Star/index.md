@@ -40,7 +40,7 @@ For Venturers working on Scouts BSA requirements, replace “troop” with “cr
          Swimming OR Hiking OR Cycling
          Camping
          Family Life
-      **You must choose only one of the merit badges listed in the following categories; 1) Emergency Preparedness OR Lifesaving, 2) Environmental Science OR Sustainability, 3) Swimming OR Hiking OR Cycling. Any additional merit badge(s) earned in those categories may be counted as one of your optional merit badges.**
+      **You must choose only one of the merit badges listed in the following categories; 1) Emergency Preparedness OR Lifesaving, 2) Environmental Science OR Sustainability, 3) Swimming OR Hiking OR Cycling. Any additional merit badge(s) earned in these categories may be counted as one of your optional merit badges.**
 4. While a First Class Scout, participate in six hours of service through one or more service projects approved by your Scoutmaster.
 5.  While a First Class Scout, serve actively in your troop for four months in one or more of the following positions of responsibility (or carry out a Scoutmaster-approved leadership project to help the troop):
     **Scout troop.** Patrol leader, assistant senior patrol leader, senior patrol leader, troop guide, Order of the Arrow troop representative, den chief, scribe, librarian, historian, quartermaster, bugler, junior assistant Scoutmaster, chaplain aide, instructor, webmaster, or outdoor ethics guide. *Assistant patrol leader is not an approved position of responsibility for the Star rank.*
