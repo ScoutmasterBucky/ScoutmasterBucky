@@ -1,7 +1,7 @@
 ---
 title: Cyber Chip
 layout: smb
-linkPath: Cyber-Chip/
+linkPath: cyber-chip/
 image: cyber-chip.jpg
 imageSmb: scoutmaster-bucky-cyber-chip.jpg
 ---
