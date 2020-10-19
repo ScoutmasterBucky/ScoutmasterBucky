@@ -20,11 +20,11 @@ Any person recognized as a boardsailing instructor by the U.S. Windsurfing or U.
 
 Instruction must be conducted on a protected body of water in an area free from other traffic or large waves. Initial water entry and practice should be on a gradual beach clear of hazards. A steady three- to seven-knot breeze is ideal for beginner practice. All participants should be close enough to supervisory personnel for efficient instruction and ready assistance.
 
-Note: Swim trunks emblem—The Boardsailing BSA patch is NOT worn on the uniform; it is worn on the left side of the swim trunks
+**Note:** *Swim trunks emblem - The Boardsailing BSA patch is NOT worn on the uniform; it is worn on the left side of the swim trunks*
 
 </div></div>
 
-## Boardsailing BSA Award Requirements
+## Boardsailing BSA Requirements
 
 The 50-Miler Award is presented to each qualifying individual for satisfactory participation in an approved trip. In order to qualify for the award, the group of which the individual is a member must fulfill all of the following advancement, conservation, leadership, and service requirements:
 
