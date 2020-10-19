@@ -24,18 +24,6 @@ The program contains four separate modules. Basic Canoeing and Basic Kayaking op
 
 Persons completing the training should be better prepared to supervise paddle craft activities. The training is open to any registered Scout, Venturer, Sea Scout, Explorer, or adult leader who is age 15 or older. The training must be conducted by a council approved instructor and is valid for three years.
 
-The following resources are available for this award:
-
-[Paddle Craft Safety Instructor's Guide](https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/430-501.pdf)
-
-[Canoe Training Video](https://youtu.be/fGiWzRrM-us)
-
-[Kayak Training Video](https://youtu.be/T2jIRRBXhB0)
-
-[Paddle Craft Safety Corse PowerPoint](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/ppt/430-502.ppt)
-
-[Paddle Craft Safety Course Exam](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/430-503.pdf)
-
 </div></div>
 
 ## BSA Aquatics Supervision Paddle Craft Safety Requirements
@@ -44,7 +32,7 @@ Upon successful completion of any, or all, of the 4 course modules within the Pa
 
 The important item is the Paddle Craft Safety Pocket Certificate signed by your instructor and to have the certificate on your person whenever performing aquatic supervision activities.
 
-## Paddle Craft Safety - Basic Canoeing and Basic Kayaking Requirements
+## Basic Canoeing and Basic Kayaking Requirements
 ![basic canoeing segment]({{imageBC}})![basic kayaking segement]({{imageBK}})
 
 {{#requirements}}
@@ -76,7 +64,7 @@ The important item is the Paddle Craft Safety Pocket Certificate signed by your 
 Skills may be demonstrated either tandem in a canoe, or solo in a kayak. If a tandem canoe is used, each participant must demonstrate the maneuvers from both bow and stern positions.
 {{/requirements}}
 
-## Paddle Craft Safety - River Canoeing and River Kayaking Requirements
+## River Canoeing and River Kayaking Requirements
 (((ImageRC)))   (((ImageRK)))
 {{#requirements}}
 1. PREREQUISITES:
@@ -103,6 +91,18 @@ You can request a complimentary copy of this video, you may do so by going to th
 4. Write a float plan for a troop, crew, or ship covering the stretch of river used for training.
 {{/requirements}}
 
-### 50-Miler Award Forms and Links
+### Paddle Craft Forms, Links, and Resources
+
+[Paddle Craft Safety Instructor's Guide](https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/430-501.pdf)
+
+[Canoe Training Video](https://youtu.be/fGiWzRrM-us)
+
+[Kayak Training Video](https://youtu.be/T2jIRRBXhB0)
+
+[Paddle Craft Safety Corse PowerPoint](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/ppt/430-502.ppt)
+
+[Paddle Craft Safety Course Exam](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/430-503.pdf)
+
+
 
 [The 50-Miler Program and Award Application](https://filestore.scouting.org/filestore/pdf/430-067_WB.pdf)
