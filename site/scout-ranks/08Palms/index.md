@@ -16,8 +16,7 @@ imageSmb: scoutmaster-bucky-palms.jpg
 
 <div>
 
-For Venturers working on Scouts BSA requirements, replace “Scoutmaster” with “Crew Advisor.” For Sea Scouts
-working on Scouts BSA requirements, replace “Scoutmaster” with “Skipper.”
+A Venturer or Sea Scout attaining the rank of Eagle may earn Eagle Palms. For Venturers working on Scouts BSA requirements, replace “Scoutmaster” with “Crew Advisor.” For Sea Scouts working on Scouts BSA requirements, replace “Scoutmaster” with “Skipper.”
 
 After successfully completing your Eagle Scout board of review on or after Aug. 1, 2017, and being validated as an Eagle Scout by the National Service Center, you will be entitled to receive an Eagle Palm for each additional five merit badges you completed before your Eagle board of review beyond those required for Eagle. In addition, all current Scouts who have completed their Eagle board of review and who had not passed their 18th birthday before Aug. 1, 2017, are entitled as well to receive Eagle Palms. For these Palms only, it will not be necessary for you to complete the requirements stated below.
 
