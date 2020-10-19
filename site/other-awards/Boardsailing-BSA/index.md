@@ -39,7 +39,7 @@ The 50-Miler Award is presented to each qualifying individual for satisfactory p
 7. With supervision from your instructor, sail a course that involves beating, reaching, and running. Change direction by tacking into the wind.
 {{/requirements}}
 
-### Boardsailing BSA Forms and Links
+### Boardsailing BSA Forms, Links, and Resources
 
 [Boardsailing BSA Requirements and Award Application](https://filestore.scouting.org/filestore/pdf/512-017.pdf)
 

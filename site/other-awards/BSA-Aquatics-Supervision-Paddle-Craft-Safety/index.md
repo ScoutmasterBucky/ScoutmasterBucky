@@ -36,17 +36,17 @@ The important item is the Paddle Craft Safety Pocket Certificate signed by your 
 ![basic canoeing segment]({{imageBC}})![basic kayaking segement]({{imageBK}})
 
 {{#requirements}}
-1. PREREQUISITES:
+1. **PREREQUISITES:**
     a. Be age 15 years old or older prior to training.
     b. Submit written evidence of physical fitness.
     c. Complete Safety Afloat training.
-2. SWIMMING ABILITY: Complete the BSA swimmer test: Jump feetfirst into water over the head in depth. Level off and swim 75 yards in a strong manner using one or more of the following strokes: sidestroke, breaststroke, trudgen, or crawl; then swim 25 yards using an easy resting backstroke. The 100 yards must be completed in one swim without stops and must include at least one sharp turn. After completing the swim, rest by floating.
-3. PERSONAL SAFETY SKILLS:
+2. **SWIMMING ABILITY:** Complete the BSA swimmer test: Jump feetfirst into water over the head in depth. Level off and swim 75 yards in a strong manner using one or more of the following strokes: sidestroke, breaststroke, trudgen, or crawl; then swim 25 yards using an easy resting backstroke. The 100 yards must be completed in one swim without stops and must include at least one sharp turn. After completing the swim, rest by floating.
+3. **PERSONAL SAFETY SKILLS:**
     a. Select a life jacket of appropriate size and demonstrate proper fit.
     b. Demonstrate the feet-up floating position used if caught in a current.
     c. Demonstrate H.E.L.P and Huddle positions.
     d. Capsize and swim a boat to shore.
-4. BASIC BOATING SKILLS: Demonstrate the following maneuvers on calm water using standard stroke techniques: *
+4. **BASIC BOATING SKILLS:** Demonstrate the following maneuvers on calm water using standard stroke techniques: *
     a. Transport boat from rack or trailer to water’s edge.
     b. Safely board and launch the craft.
     c. Travel in a straight line for 50 yards.
@@ -55,25 +55,25 @@ The important item is the Paddle Craft Safety Pocket Certificate signed by your 
     f. From the stop, pivot the boat to the right, then to the left.
     g. Return to shore along a curved course demonstrating both left and right turns while underway.
     h. Land, safely exit and store the craft.
-5. GROUP SAFETY SKILLS:
+5. **GROUP SAFETY SKILLS:**
     a. Throw a rescue bag, laying the line within 3 feet of an object 30 feet away.
     b. Demonstrate a boat rescue of a swimmer.
     c. Demonstrate a boat-to-boat assist of a swamped boat in deep water.
 6. Correctly answer 80% of the questions on the Paddle Craft Safety written exam covering Safety Afloat, trip preparation, emergency action plans, and basic boating knowledge. Review any incomplete or incorrect answers.
 
-Skills may be demonstrated either tandem in a canoe, or solo in a kayak. If a tandem canoe is used, each participant must demonstrate the maneuvers from both bow and stern positions.
+*Skills may be demonstrated either tandem in a canoe, or solo in a kayak. If a tandem canoe is used, each participant must demonstrate the maneuvers from both bow and stern positions.*
 {{/requirements}}
 
 ## River Canoeing and River Kayaking Requirements
-(((ImageRC)))   (((ImageRK)))
+![river canoeing segment]({{imageRC}})![river kayaking segement]({{imageRK}})
+
 {{#requirements}}
-1. PREREQUISITES:
+1. **PREREQUISITES:**
     a. Submit written evidence of physical fitness.
     b. Have current Safety Afloat training.
     c. Have current training in Aquatics Supervision: Paddle Craft Safety- Basic for the appropriate craft.
     d. Demonstrate or provide evidence of current ability to complete the 100- yard BSA swimmer classification.
-2. View and discuss the ACA/BSA video “Reading the Rhythms of Rivers and Rapids”.
-You can request a complimentary copy of this video, you may do so by going to this website: http://www.americancanoe.org/page/BSADVD
+2. View and discuss the ACA/BSA video *“Reading the Rhythms of Rivers and Rapids”*. (see below to obtain)
 3. Do the following during an instructor-led canoe or kayak trip of at least three miles down a flowing river with Class I or Class II features, including standing waves, a downstream V, and a large eddy. A segment that includes isolated Class II+ or Class III rapids that can be portaged is appropriate, but not necessary. Features and water levels must be consistent with the safe performance of the requirements.
     a. Transport boat from trailer or carrier to river’s edge. Safely board and launch the boat into a current.
     b. Review the effect of basic flat-water strokes in moving water, demonstrating the ability to stay parallel with the current.
@@ -91,9 +91,11 @@ You can request a complimentary copy of this video, you may do so by going to th
 4. Write a float plan for a troop, crew, or ship covering the stretch of river used for training.
 {{/requirements}}
 
-### Paddle Craft Forms, Links, and Resources
+### BSA Aquatics Paddle Craft Safety Forms, Links, and Resources
 
 [Paddle Craft Safety Instructor's Guide](https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/430-501.pdf)
+
+You can request a complimentary copy of the ACA/BSA video *“Reading the Rhythms of Rivers and Rapids”*, by going to this website: http://www.americancanoe.org/page/BSADVD
 
 [Canoe Training Video](https://youtu.be/fGiWzRrM-us)
 
@@ -103,6 +105,3 @@ You can request a complimentary copy of this video, you may do so by going to th
 
 [Paddle Craft Safety Course Exam](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/430-503.pdf)
 
-
-
-[The 50-Miler Program and Award Application](https://filestore.scouting.org/filestore/pdf/430-067_WB.pdf)
