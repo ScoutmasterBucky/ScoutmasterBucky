@@ -5,7 +5,7 @@ linkPath: Alternate-Requirements/
 imageSTSCFC: stscfc.jpg
 ---
 
-### Scout, Tenderfoot, Second Class, and First Class Rank Alternative Requirements
+## Scout, Tenderfoot, Second Class, and First Class Rank Alternative Requirements
 
 <div class="D(f) Fxd(c)--s">
 
