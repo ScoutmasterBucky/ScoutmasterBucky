@@ -5,8 +5,6 @@ linkPath: Eagle-Alternative-Requirements/
 image: eagle.jpg
 ---
 
-## Eagle Scout Alternative Rank Requirements
-
 <div class="D(f) Fxd(c)--s">
 
 <div class="Ta(c) Pt(1em)--s">
@@ -14,6 +12,7 @@ image: eagle.jpg
 ![eagle]({{image}})</div>
 
 </div>
+
 ### Eagle Scout Alternative Rank Requirements
 
 <p></p>
