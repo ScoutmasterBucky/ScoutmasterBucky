@@ -14,7 +14,10 @@ imageSTSCFC: stscfc.jpg
 ![stscfc]({{imageSTSCFC}})</div>
 
 </div>
+
 ### Scout, Tenderfoot, Second Class, and First Class Rank Alternative Requirements
+
+<p></p>
 
 ## Alternative Rank Requirements
 
