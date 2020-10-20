@@ -28,7 +28,7 @@ Adult and youth first aid training, including CPR, is an important safety consid
 
 <div class="D(f) Fxd(c)--s">
 <div>
-<p>Upon successful completion of the Swimming & Water Rescue course training, participants earn the Swimming & Water Rescue Patch along with their certification card, good for three years.  The patch is not specifically designed for wear, hence you will not find display guidelines in the *BSA Insignia Guide*.  As such, for those that feel the need to wear the patch, it may be worn as a temporary patch.</p>
+<p>Upon successful completion of the Swimming & Water Rescue course training, participants earn the Swimming & Water Rescue Patch along with their certification card, good for three years.  The patch is not specifically designed for wear, hence you will not find display guidelines in the BSA Insignia Guide.  As such, for those that feel the need to wear the patch, it may be worn as a temporary patch.</p>
 
 <p></p>
 

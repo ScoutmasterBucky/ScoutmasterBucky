@@ -12,7 +12,7 @@ imageSmb: scoutmaster-bucky-donor-awareness.jpg
 <div class="Ta(c) Pt(1em)--s">
 
 ![Donor Awareness]({{imageSmb}})
-**Note:** *The Donor Awareness award is available as a patch. It is a temporary patch that may be worn on the uniform or back of the sash, if desired.*
+<p>The Donor Awareness award is available as a patch that may be worn on the uniform as a temporary patch or on the back of the sash, if desired.</p>
 </div>
 
 <div>
@@ -20,6 +20,7 @@ imageSmb: scoutmaster-bucky-donor-awareness.jpg
 The Boy Scouts of America created this recognition to raise awareness of the need for organ donors in our communities, and to help Scouts realize their ability to impact a person's choice to be a donor.
 
 </div></div>
+
 
 ## Donor Awareness Award Requirements
 
@@ -32,7 +33,8 @@ Once it is determined that the patch is available, submit an advancement report 
 {{#requirements}}
 {{/requirements}}
 
-###Donor Awareness Award - Forms, Links, and Resources
+
+### Donor Awareness Award - Forms, Links, and Resources
 
 [Boy Scouts of America Donor Awareness Patch Application](https://filestore.scouting.org/filestore/boyscouts/pdf/512-015_WB.pdf)
 
