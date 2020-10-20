@@ -1,5 +1,5 @@
 ---
-title: BSA Aquatics Supervision: Paddle Craft Safety
+title: BSA Aquatics Supervision Paddle Craft Safety
 layout: smb
 linkPath: BSA-Aquatics-Supervision-Paddle-Craft-Safety/
 image: bsa-aquatics-supervision-paddle-craft-safety-patch.jpg
