@@ -1,18 +1,13 @@
 [
     {
-        "badge": "american-business",
-        "name": "American Business",
-        "path": "merit-badges/american-business/workbook/"
-    },
-    {
         "badge": "american-cultures",
         "name": "American Cultures",
         "path": "merit-badges/american-cultures/workbook/"
     },
     {
-        "badge": "american-heritage",
-        "name": "American Heritage",
-        "path": "merit-badges/american-heritage/workbook/"
+        "badge": "american-business",
+        "name": "American Business",
+        "path": "merit-badges/american-business/workbook/"
     },
     {
         "badge": "american-labor",
@@ -20,14 +15,19 @@
         "path": "merit-badges/american-labor/workbook/"
     },
     {
-        "badge": "archaeology",
-        "name": "Archaeology",
-        "path": "merit-badges/archaeology/workbook/"
+        "badge": "american-heritage",
+        "name": "American Heritage",
+        "path": "merit-badges/american-heritage/workbook/"
     },
     {
         "badge": "animation",
         "name": "Animation",
         "path": "merit-badges/animation/workbook/"
+    },
+    {
+        "badge": "archaeology",
+        "name": "Archaeology",
+        "path": "merit-badges/archaeology/workbook/"
     },
     {
         "badge": "archery",
@@ -55,14 +55,14 @@
         "path": "merit-badges/athletics/workbook/"
     },
     {
-        "badge": "aviation",
-        "name": "Aviation",
-        "path": "merit-badges/aviation/workbook/"
-    },
-    {
         "badge": "automotive-maintenance",
         "name": "Automotive Maintenance",
         "path": "merit-badges/automotive-maintenance/workbook/"
+    },
+    {
+        "badge": "aviation",
+        "name": "Aviation",
+        "path": "merit-badges/aviation/workbook/"
     },
     {
         "badge": "backpacking",
@@ -110,6 +110,11 @@
         "path": "merit-badges/citizenship-in-the-community/workbook/"
     },
     {
+        "badge": "citizenship-in-the-nation",
+        "name": "Citizenship in the Nation",
+        "path": "merit-badges/citizenship-in-the-nation/workbook/"
+    },
+    {
         "badge": "citizenship-in-the-world",
         "name": "Citizenship in the World",
         "path": "merit-badges/citizenship-in-the-world/workbook/"
@@ -118,11 +123,6 @@
         "badge": "climbing",
         "name": "Climbing",
         "path": "merit-badges/climbing/workbook/"
-    },
-    {
-        "badge": "citizenship-in-the-nation",
-        "name": "Citizenship in the Nation",
-        "path": "merit-badges/citizenship-in-the-nation/workbook/"
     },
     {
         "badge": "coin-collecting",
@@ -410,11 +410,6 @@
         "path": "merit-badges/nature/workbook/"
     },
     {
-        "badge": "oceanography",
-        "name": "Oceanography",
-        "path": "merit-badges/oceanography/workbook/"
-    },
-    {
         "badge": "nuclear-science",
         "name": "Nuclear Science",
         "path": "merit-badges/nuclear-science/workbook/"
@@ -428,6 +423,11 @@
         "badge": "painting",
         "name": "Painting",
         "path": "merit-badges/painting/workbook/"
+    },
+    {
+        "badge": "oceanography",
+        "name": "Oceanography",
+        "path": "merit-badges/oceanography/workbook/"
     },
     {
         "badge": "personal-fitness",
