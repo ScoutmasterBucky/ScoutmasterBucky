@@ -8,7 +8,7 @@ imageBC: bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segme
 imageBK: bsa-aquatics-supervision-paddle-craft-safety-basic-kayaking-patch-segment.png
 imageRC: bsa-aquatics-supervision-paddle-craft-safety-river-canoeing-patch-segment.png
 imageRK: bsa-aquatics-supervision-paddle-craft-safety-river-kayaking-patch-segment.png
-imageCC: bsa-aquatics-supervision-swimming-and-water-rescue-card-front.jpg
+imageCC: bsa-aquatics-supervision-paddle-craft-safety-card-front.jpg
 ---
 
 # BSA Aquatics Supervision: Paddle Craft Safety
