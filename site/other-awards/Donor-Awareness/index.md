@@ -1,7 +1,7 @@
 ---
 title: Donor Awareness
 layout: smb
-linkPath: donor-awareness/
+linkPath: Donor-Awareness/
 image: donor-awareness-patch.jpg
 imageSmb: scoutmaster-bucky-donor-awareness.jpg
 ---
