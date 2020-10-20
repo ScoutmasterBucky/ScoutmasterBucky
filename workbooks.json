@@ -5,14 +5,14 @@
         "path": "merit-badges/american-business/workbook/"
     },
     {
-        "badge": "american-heritage",
-        "name": "American Heritage",
-        "path": "merit-badges/american-heritage/workbook/"
-    },
-    {
         "badge": "american-cultures",
         "name": "American Cultures",
         "path": "merit-badges/american-cultures/workbook/"
+    },
+    {
+        "badge": "american-heritage",
+        "name": "American Heritage",
+        "path": "merit-badges/american-heritage/workbook/"
     },
     {
         "badge": "american-labor",
@@ -370,11 +370,6 @@
         "path": "merit-badges/mammal-study/workbook/"
     },
     {
-        "badge": "medicine",
-        "name": "Medicine",
-        "path": "merit-badges/medicine/workbook/"
-    },
-    {
         "badge": "metalwork",
         "name": "Metalwork",
         "path": "merit-badges/metalwork/workbook/"
@@ -435,9 +430,9 @@
         "path": "merit-badges/personal-fitness/workbook/"
     },
     {
-        "badge": "personal-management",
-        "name": "Personal Management",
-        "path": "merit-badges/personal-management/workbook/"
+        "badge": "medicine",
+        "name": "Medicine",
+        "path": "merit-badges/medicine/workbook/"
     },
     {
         "badge": "pets",
@@ -488,11 +483,6 @@
         "badge": "pulp-and-paper",
         "name": "Pulp and Paper",
         "path": "merit-badges/pulp-and-paper/workbook/"
-    },
-    {
-        "badge": "radio",
-        "name": "Radio",
-        "path": "merit-badges/radio/workbook/"
     },
     {
         "badge": "railroading",
@@ -585,14 +575,14 @@
         "path": "merit-badges/snow-sports/workbook/"
     },
     {
-        "badge": "space-exploration",
-        "name": "Space Exploration",
-        "path": "merit-badges/space-exploration/workbook/"
-    },
-    {
         "badge": "soil-and-water-conservation",
         "name": "Soil and Water Conservation",
         "path": "merit-badges/soil-and-water-conservation/workbook/"
+    },
+    {
+        "badge": "space-exploration",
+        "name": "Space Exploration",
+        "path": "merit-badges/space-exploration/workbook/"
     },
     {
         "badge": "sports",
@@ -615,14 +605,14 @@
         "path": "merit-badges/sustainability/workbook/"
     },
     {
-        "badge": "textile",
-        "name": "Textile",
-        "path": "merit-badges/textile/workbook/"
-    },
-    {
         "badge": "swimming",
         "name": "Swimming",
         "path": "merit-badges/swimming/workbook/"
+    },
+    {
+        "badge": "textile",
+        "name": "Textile",
+        "path": "merit-badges/textile/workbook/"
     },
     {
         "badge": "theater",
@@ -645,6 +635,11 @@
         "path": "merit-badges/veterinary-medicine/workbook/"
     },
     {
+        "badge": "water-sports",
+        "name": "Water Sports",
+        "path": "merit-badges/water-sports/workbook/"
+    },
+    {
         "badge": "weather",
         "name": "Weather",
         "path": "merit-badges/weather/workbook/"
@@ -665,11 +660,6 @@
         "path": "merit-badges/wilderness-survival/workbook/"
     },
     {
-        "badge": "water-sports",
-        "name": "Water Sports",
-        "path": "merit-badges/water-sports/workbook/"
-    },
-    {
         "badge": "wood-carving",
         "name": "Wood Carving",
         "path": "merit-badges/wood-carving/workbook/"
@@ -678,6 +668,16 @@
         "badge": "woodwork",
         "name": "Woodwork",
         "path": "merit-badges/woodwork/workbook/"
+    },
+    {
+        "badge": "personal-management",
+        "name": "Personal Management",
+        "path": "merit-badges/personal-management/workbook/"
+    },
+    {
+        "badge": "radio",
+        "name": "Radio",
+        "path": "merit-badges/radio/workbook/"
     },
     {
         "badge": "animal-science",
