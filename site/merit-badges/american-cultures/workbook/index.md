@@ -39,7 +39,7 @@ year: 2020
 {{#wb-req-text lines=1}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Event and Location:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=32}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=30}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
@@ -47,7 +47,7 @@ year: 2020
 {{#wb-req-text lines=1}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Place and Location:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=30}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=32}}Notes:{{/wb-req-text}}
 {{>wb-req-allow-break}}
 {{/wb-req}}
 
