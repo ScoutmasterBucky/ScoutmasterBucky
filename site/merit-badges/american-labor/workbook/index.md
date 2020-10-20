@@ -25,11 +25,11 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="2a" requirement="Find out what the organization does."}}
-{{#wb-req-text lines=24}}{{/wb-req-text}}
+{{#wb-req-text lines=20}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2b" requirement="Share the list of issues and concerns you made for requirement 1. Ask the people you communicate with which issues are of greatest interest or concern to them and why."}}
-{{#wb-req-text lines=32}}{{/wb-req-text}}
+{{#wb-req-text lines=24}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2c" requirement="Draw a diagram showing how the organization is structured, from the local to the national level, if applicable."}}
