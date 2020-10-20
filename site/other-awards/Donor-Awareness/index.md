@@ -12,7 +12,7 @@ imageSmb: scoutmaster-bucky-donor-awareness.jpg
 <div class="Ta(c) Pt(1em)--s">
 
 ![Donor Awareness]({{imageSmb}})
-   **Note:** *The Donor Awareness award is available as a patch. It is a temporary patch that may be worn on the uniform or back of the sash, if desired.*
+**Note:** *The Donor Awareness award is available as a patch. It is a temporary patch that may be worn on the uniform or back of the sash, if desired.*
 </div>
 
 <div>

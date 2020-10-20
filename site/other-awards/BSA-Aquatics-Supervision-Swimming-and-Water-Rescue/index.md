@@ -24,14 +24,16 @@ Adult and youth first aid training, including CPR, is an important safety consid
 
 </div></div>
 
-## BSA Aquatics Supervision: Swimming and Water Rescue Requirements
-
-Upon successful completion of the Swimming & Water Rescue course training, participants earn the Swimming & Water Rescue Patch along with their certification card, good for three years.  The patch is not specifically designed for wear, hence you will not find display guidelines in the *BSA Insignia Guide*.  As such, for those that feel the need to wear the patch, it may be worn as a temporary patch.
-
-
+## BSA Aquatics Supervision: Swimming and Water Rescue Award
 
 <div class="D(f) Fxd(c)--s">
-<div>The important item is the Swimming & Water Rescue Pocket Certificate signed by your instructor and to have the certificate on your person whenever performing aquatic supervision activities.</div>
+<div>
+<p>Upon successful completion of the Swimming & Water Rescue course training, participants earn the Swimming & Water Rescue Patch along with their certification card, good for three years.  The patch is not specifically designed for wear, hence you will not find display guidelines in the *BSA Insignia Guide*.  As such, for those that feel the need to wear the patch, it may be worn as a temporary patch.</p>
+
+<p></p>
+
+<p>The important item is the Swimming & Water Rescue Pocket Certificate signed by your instructor and to have the certificate on your person whenever performing aquatic supervision activities.</p>
+</div>
 <div class="Ta(c) Pt(1em)--s">
 
 ![BSA Aquatics Supervision: Swimming and Water Rescue Certification Card]({{imageCC}})
