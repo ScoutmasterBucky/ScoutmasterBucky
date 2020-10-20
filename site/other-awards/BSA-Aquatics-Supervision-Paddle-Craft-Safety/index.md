@@ -114,9 +114,11 @@ Upon successful completion of any, or all, of the 4 options within the **BSA Aqu
 
 You can request a complimentary copy of the ACA/BSA video *Reading the Rhythms of Rivers and Rapids*, by going to the [American Canoe Association website](http://www.americancanoe.org/page/BSADVD).
 
-[Canoe Training Video - Enlgish](https://youtu.be/fGiWzRrM-us) [Canoe Training Video - Spanish](https://www.youtube.com/watch?v=POdZR7-WwT4)
+[Canoe Training Video - Enlgish](https://youtu.be/fGiWzRrM-us)
+[Canoe Training Video - Spanish](https://www.youtube.com/watch?v=POdZR7-WwT4)
 
-[Kayak Training Video - English](https://youtu.be/T2jIRRBXhB0)   [Kayak Training Video - Spanish](https://www.youtube.com/watch?v=_pSgUdVYyzE)
+[Kayak Training Video - English](https://youtu.be/T2jIRRBXhB0)
+[Kayak Training Video - Spanish](https://www.youtube.com/watch?v=_pSgUdVYyzE)
 
 [Paddle Craft Safety Corse PowerPoint](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/ppt/430-502.ppt)
 
