@@ -47,8 +47,8 @@ year: 2020
 {{#wb-req-header}}Veteran #1:{{/wb-req-header}}
 {{#wb-req-text lines=1}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Rank and Branch of Service:{{/wb-req-text}}
-{{#wb-req-text lines=10}}What his/her experiences were like:{{/wb-req-text}}
-{{#wb-req-text lines=10}}What he/she believe they accomplished:{{/wb-req-text}}
+{{#wb-req-text lines=9}}What his/her experiences were like:{{/wb-req-text}}
+{{#wb-req-text lines=9}}What he/she believe they accomplished:{{/wb-req-text}}
 {{#wb-req-header}}Veteran #2:{{/wb-req-header}}
 {{#wb-req-text lines=1}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Rank and Branch of Service:{{/wb-req-text}}
