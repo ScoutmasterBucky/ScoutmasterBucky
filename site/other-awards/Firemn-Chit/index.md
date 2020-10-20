@@ -13,7 +13,7 @@ imageCC: firem'n-chit-card-front.jpg
 <div class="Ta(c) Pt(1em)--s">
 
 ![Firem'n Chit Award]({{imageSmb}})
-**Note:** *The Firem'n Chit patch is considered a 'Temporary Patch' and, if worn, should be worn centered on the RIGHT pocket of the Scouts BSA uniform, NOT on the pocket flap. It is acceptable tp place this on the back of the sash, if desired.*
+**Note:** *The Firem'n Chit patch is considered a 'Temporary Patch' and, if worn, should be worn centered on the RIGHT pocket of the Scout uniform, NOT on the pocket flap. If desired, it is acceptable to place the Firem'n Chit patch on the back of your sash.*
 </div>
 
 <div>
@@ -25,13 +25,13 @@ The Firem’n Chit is a contract for Scouts who have demonstrated the proper pro
 </div></div>
 
 ## Firem'n Chit Award
-The FIrem'n Chit may be earned by mebers of Scouts BSA, Venturing, Sea Scouts, and Webelos Scouts in Cub Scouts. Certification grants a Scout the right to carry matches and build campfires. Scouts must show their Scout leader, or someone designated by their leader, that they understand their responsibility to do the eight requirements.
-<p></p>
+The Firem'n Chit may be earned by members of Scouts BSA, Venturing, Sea Scouts, and Webelos Scouts in Cub Scouts. Certification grants a Scout the right to carry matches and build campfires. Scouts must show their Scout leader, or someone designated by their leader, that they understand their responsibility to do the eight requirements.
 
 <div class="D(f) Fxd(c)--s">
-<div>Scouts should carry their Firem'n Chit card to all Scout events or activities where they might be working with fire. This certification grants a Scout the right to carry fire-lighting devices (matches, lighters, etc.) and to build campfires or cooking fires. Scouts may not manage a campfire, cooking fire, or light a lantern without being in posession of their Firem'n Chit card.
+<div>
+<p>Scouts should carry their Firem'n Chit card to all Scout events or activities where they might be working with fire. This certification grants a Scout the right to carry fire-lighting devices (matches, lighters, etc.) and to build campfires or cooking fires. Scouts may not manage a campfire, cooking fire, or light a lantern without being in posession of their Firem'n Chit card.</P>
 
-The Scout’s “Firem’n Rights” can be taken if they fail in their responsibility. Typically, corners are cut from the Firem’n Chit card for each infraction. If four corners are cut away or a Scout conducts a serious infraction with fire, the card is taken away. Scouts will have to re-earn thier Firem'n Chit by re-taking Firem'n Chit training from a senior scout or adult leader.
+<p>The Scout’s “Firem’n Rights” can be taken if they fail in their responsibility. Typically, corners are cut from the Firem’n Chit card for each infraction. If four corners are cut away or a Scout conducts a serious infraction with fire, the card is taken away. Scouts will have to re-earn thier Firem'n Chit by re-taking Firem'n Chit training from a senior scout or adult leader.</p>
 </div>
 <div class="Ta(c) Pt(1em)--s">
 
