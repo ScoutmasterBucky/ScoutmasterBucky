@@ -14,8 +14,8 @@ year: 2020
 {{#wb-req-text lines=14}}American Worker Concern #6:{{/wb-req-text}}
 {{#wb-req-text lines=14}}American Worker Concern #7:{{/wb-req-text}}
 {{#wb-req-text lines=14}}American Worker Concern #8:{{/wb-req-text}}
-{{#wb-req-text lines=14}}American Worker Concern #9:{{/wb-req-text}}
-{{#wb-req-text lines=14}}American Worker Concern #10:{{/wb-req-text}}
+{{#wb-req-text lines=12}}American Worker Concern #9:{{/wb-req-text}}
+{{#wb-req-text lines=12}}American Worker Concern #10:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2" requirement="With your counselor's and parent's approval and permission, visit the office or attend a meeting of a local union, a central labor council, or an employee organization, or contact one of these organizations via the Internet. Then do EACH of the following:"}}
