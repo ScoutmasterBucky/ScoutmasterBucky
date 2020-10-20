@@ -33,7 +33,7 @@ The 50-Miler Award is presented to each qualifying individual for satisfactory p
 4. Unit or tour leader must then file a 50-Miler Award application with the local council service center.
 {{/requirements}}
 
-### 50-Miler Award Forms, Links, and Resources
+### 50-Miler Award - Forms, Links, and Resources
 
 [The 50-Miler Program and Award Application](https://filestore.scouting.org/filestore/pdf/430-067_WB.pdf)
 
