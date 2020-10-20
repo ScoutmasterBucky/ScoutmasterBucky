@@ -3,7 +3,7 @@ title: Cyber Chip
 layout: smb
 linkPath: Cyber-Chip/
 image: cyber-chip.jpg
-imageX2: scoutmaster-bucky-cyber-chip
+imageSmb: scoutmaster-bucky-cyber-chip.jpg
 ---
 
 # Cyber Chip
@@ -11,7 +11,7 @@ imageX2: scoutmaster-bucky-cyber-chip
 <div class="D(f) Fxd(c)--s">
 <div class="Ta(c) Pt(1em)--s">
 
-![scoutmaster-bucky-cyber-chip]({{imageX2}})
+![scoutmaster-bucky-cyber-chip]({{imageSmb}})
 </div>
 
 <div>
