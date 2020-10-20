@@ -11,7 +11,7 @@ imageRK: bsa-aquatics-supervision-paddle-craft-safety-river-kayaking-patch-segme
 imageASPSC: bsa-aquatics-supervision-swimming-and-water-rescue-card-front.jpg
 ---
 
-# BSA Aquatics Supervision Paddle Craft Safety
+# BSA Aquatics Supervision: Paddle Craft Safety
 
 <div class="D(f) Fxd(c)--s">
 <div class="Ta(c) Pt(1em)--s">
@@ -28,11 +28,11 @@ Float trips that last overnight also require camping skills. Because Scouting em
 </div></div>
 
 ## BSA Aquatics Supervision Paddle Craft Safety
-The program contains four separate modules. Basic Canoeing and Basic Kayaking options cover flat water skills. River Canoeing and River Kayaking options build on the basic programs to include moving water.
+The program contains four options, within two modules. Basic Canoeing and Basic Kayaking options cover flat water skills covered in the *BSA Aquatics Supervision: Paddle Craft Safety - Basic* module. River Canoeing and River Kayaking options build on the basic programs to include moving water with in the *BSA Aquatics Supervision: Paddle Craft Safety - River* module.
 
 ![basic canoeing segment]({{imageBC}})![basic kayaking segement]({{imageBK}})![river canoeing segment]({{imageRC}})![river kayaking segement]({{imageRK}})
 
-Upon successful completion of any, or all, of the 4 course modules within the Paddle Craft Safety training, participants earn the Paddle Craft Safety Patch and the respective discipline segment patch(es) along with their certification card, good for three years.  The patches were not specifically designed for wear, hence you will not find display guidelines in the BSA Insignia Guide for these.  As such, for those that feel the need to wear these patches, they may be combined and worn as a single temporary patch.
+Upon successful completion of any, or all, of the 4 options within the *BSA Aquatics Supervision: Paddle Craft Safety*training, participants earn the Paddle Craft Safety Patch and the respective discipline segment patch(es) along with their certification card, good for three years.  The patches were not specifically designed for wear, hence you will not find display guidelines in the *BSA Insignia Guide* for these.  As such, for those that feel the need to wear these patches, they may be combined and worn as a single temporary patch.
 
 <div class="D(f) Fxd(c)--s">
 <div>The important item is the Paddle Craft Safety Pocket Certificate signed by your instructor and to have the certificate on your person whenever performing aquatic supervision activities.</div>
@@ -41,7 +41,7 @@ Upon successful completion of any, or all, of the 4 course modules within the Pa
 ![BSA Aquatics Supervision Paddle Craft Safety Card]({{imageASPSC}})
 </div></div>
 
-## BSA Aquatics Supervision: Paddle Craft Safety - Basic Requirements
+## Aquatics Supervision: Paddle Craft Safety - Basic Requirements
 
 {{#requirements}}
 **PREREQUISITES**
@@ -76,7 +76,7 @@ Upon successful completion of any, or all, of the 4 course modules within the Pa
 *Skills may be demonstrated either tandem in a canoe, or solo in a kayak. If a tandem canoe is used, each participant must demonstrate the maneuvers from both bow and stern positions.*
 {{/requirements}}
 
-## BSA Aquatics Supervision: Paddle Craft Safety - River Requirements
+## Aquatics Supervision: Paddle Craft Safety - River Requirements
 
 {{#requirements}}
 1. Prerequisities:
@@ -104,15 +104,23 @@ Upon successful completion of any, or all, of the 4 course modules within the Pa
 
 ### BSA Aquatics Supervision: Paddle Craft Safety Forms, Links, and Resources
 
+[Aquatics Supervision - Leader's Guide](https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/Aquatics_34346.pdf)
+
+[Aquatics Supervision - Frequently Asked Questions](https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/aquaticssupervisionfaq.pdf)
+
 [Paddle Craft Safety Instructor's Guide](https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/430-501.pdf)
 
 You can request a complimentary copy of the ACA/BSA video *Reading the Rhythms of Rivers and Rapids*, by going to this website: http://www.americancanoe.org/page/BSADVD
 
-[Canoe Training Video](https://youtu.be/fGiWzRrM-us)
+[Canoe Training Video - Enlgish](https://youtu.be/fGiWzRrM-us) [Canoe Training Video - Spanish](https://www.youtube.com/watch?v=POdZR7-WwT4)
 
-[Kayak Training Video](https://youtu.be/T2jIRRBXhB0)
+[Kayak Training Video - English](https://youtu.be/T2jIRRBXhB0)   [Kayak Training Video - Spanish](https://www.youtube.com/watch?v=_pSgUdVYyzE)
 
 [Paddle Craft Safety Corse PowerPoint](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/ppt/430-502.ppt)
 
 [Paddle Craft Safety Course Exam](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/430-503.pdf)
+
+[Boy Scouts of America - Outdoor Programs - Aquatics Program](https://www.scouting.org/outdoor-programs/aquatics/)
+
+[Boy Scouts of America - Outdoor Programs - Aquatics Program - Aquatics Resources](https://www.scouting.org/outdoor-programs/aquatics/forms/)
 

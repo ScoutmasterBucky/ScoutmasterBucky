@@ -64,6 +64,10 @@ The important item is the Swimming & Water Rescue Pocket Certificate signed by y
 
 ### BSA Aquatics Supervision Swimming and Water Rescue Forms, Links, and Resources
 
+[Aquatics Supervision - Leader's Guide](https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/Aquatics_34346.pdf)
+
+[Aquatics Supervision - Frequently Asked Questions](https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/aquaticssupervisionfaq.pdf)
+
 [Swimming and Water Rescue Instructor's Guide](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/430-505.pdf)
 
 [Remote Area Setup Video](https://youtu.be/T2jIRRBXhB0)
@@ -71,4 +75,8 @@ The important item is the Swimming & Water Rescue Pocket Certificate signed by y
 [Swimming and Water Rescue Course PowerPoint](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/ppt/430-502.ppt)
 
 [Swimming and Water Rescue Course Exam](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/430-503.pdf)
+
+[Boy Scouts of America - Outdoor Programs - Aquatics Program](https://www.scouting.org/outdoor-programs/aquatics/)
+
+[Boy Scouts of America - Outdoor Programs - Aquatics Program - Aquatics Resources](https://www.scouting.org/outdoor-programs/aquatics/forms/)
 
