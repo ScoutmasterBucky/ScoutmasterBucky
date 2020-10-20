@@ -1,5 +1,10 @@
 [
     {
+        "badge": "american-business",
+        "name": "American Business",
+        "path": "merit-badges/american-business/workbook/"
+    },
+    {
         "badge": "american-cultures",
         "name": "American Cultures",
         "path": "merit-badges/american-cultures/workbook/"
@@ -190,6 +195,11 @@
         "path": "merit-badges/electronics/workbook/"
     },
     {
+        "badge": "emergency-preparedness",
+        "name": "Emergency Preparedness",
+        "path": "merit-badges/emergency-preparedness/workbook/"
+    },
+    {
         "badge": "energy",
         "name": "Energy",
         "path": "merit-badges/energy/workbook/"
@@ -208,11 +218,6 @@
         "badge": "environmental-science",
         "name": "Environmental Science",
         "path": "merit-badges/environmental-science/workbook/"
-    },
-    {
-        "badge": "emergency-preparedness",
-        "name": "Emergency Preparedness",
-        "path": "merit-badges/emergency-preparedness/workbook/"
     },
     {
         "badge": "exploration",
@@ -535,14 +540,14 @@
         "path": "merit-badges/scholarship/workbook/"
     },
     {
-        "badge": "scuba-diving",
-        "name": "Scuba Diving",
-        "path": "merit-badges/scuba-diving/workbook/"
-    },
-    {
         "badge": "scouting-heritage",
         "name": "Scouting Heritage",
         "path": "merit-badges/scouting-heritage/workbook/"
+    },
+    {
+        "badge": "scuba-diving",
+        "name": "Scuba Diving",
+        "path": "merit-badges/scuba-diving/workbook/"
     },
     {
         "badge": "sculpture",
@@ -675,16 +680,6 @@
         "path": "merit-badges/woodwork/workbook/"
     },
     {
-        "badge": "american-business",
-        "name": "American Business",
-        "path": "merit-badges/american-business/workbook/"
-    },
-    {
-        "badge": "animal-science",
-        "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/avian/"
-    },
-    {
         "badge": "animal-science",
         "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/beef-cattle/"
@@ -708,5 +703,10 @@
         "badge": "animal-science",
         "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/sheep/"
+    },
+    {
+        "badge": "animal-science",
+        "name": "Animal Science",
+        "path": "merit-badges/animal-science/workbook/avian/"
     }
 ]
