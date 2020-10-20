@@ -13,7 +13,7 @@ imageCC: whitewater-rafting-bsa-card-front.jpg
 <div class="Ta(c) Pt(1em)--s">
 
 ![Whitewater Rafting BSA Award]({{imageSmb}})
-**Note:** *Swimsuit / swim trunks emblem - The Whitewater Rafting BSA patch is NOT worn on the uniform or the sash; it is worn on the left side of the swimsuit / swim trunks*
+<p>Swimsuit / swim trunks emblem - The Whitewater Rafting BSA patch is NOT worn on the uniform or the sash; it is worn on the left side of the swimsuit / swim trunks</p>
 </div>
 
 <div>

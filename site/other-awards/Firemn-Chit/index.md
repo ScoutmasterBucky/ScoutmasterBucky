@@ -13,7 +13,7 @@ imageCC: firem'n-chit-card-front.jpg
 <div class="Ta(c) Pt(1em)--s">
 
 ![Firem'n Chit Award]({{imageSmb}})
-**Note:** *The Firem'n Chit patch is considered a 'Temporary Patch' and, if worn, should be worn centered on the RIGHT pocket of the Scout uniform, NOT on the pocket flap. If desired, it is acceptable to place the Firem'n Chit patch on the back of your sash.*
+<p>The Firem'n Chit patch can be worn as a temporary patch and, if worn, should be worn centered on the RIGHT pocket of the Scout uniform, NOT on the pocket flap. If desired, it is acceptable to place the Firem'n Chit patch on the back of the sash.</p>
 </div>
 
 <div>

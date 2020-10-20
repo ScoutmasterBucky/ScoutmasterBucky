@@ -1,9 +1,9 @@
 ---
 title: Cyber Chip
 layout: smb
-linkPath: cyber-chip/
+linkPath: Cyber-Chip/
 image: cyber-chip.jpg
-imageSmb: scoutmaster-bucky-cyber-chip.jpg
+imageSmb: scoutmaster-bucky-cyber-chip
 ---
 
 # Cyber Chip
@@ -12,7 +12,9 @@ imageSmb: scoutmaster-bucky-cyber-chip.jpg
 <div class="Ta(c) Pt(1em)--s">
 
 ![scoutmaster-bucky-cyber-chip]({{imageSmb}})
-</div><div>
+</div>
+
+<div>
 
 The Cyber Ship for Scouts BSA comes in two different levels, depending on the Scout's grade.
 
