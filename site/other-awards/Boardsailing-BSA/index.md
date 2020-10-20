@@ -39,7 +39,7 @@ Any youth or adult who is registered with a troop, crew, or ship and completes t
 7. With supervision from your instructor, sail a course that involves beating, reaching, and running. Change direction by tacking into the wind.
 {{/requirements}}
 
-### Boardsailing BSA Forms, Links, and Resources
+### Boardsailing BSA - Forms, Links, and Resources
 
 [Aquatics Supervision - Leader's Guide](https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/Aquatics_34346.pdf).
 

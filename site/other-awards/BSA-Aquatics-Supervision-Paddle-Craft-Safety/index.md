@@ -106,7 +106,7 @@ Upon successful completion of any, or all, of the 4 options within the **BSA Aqu
 4. Write a float plan for a troop, crew, or ship covering the stretch of river used for training.
 {{/requirements}}
 
-### BSA Aquatics Supervision: Paddle Craft Safety Forms, Links, and Resources
+### BSA Aquatics Supervision: Paddle Craft Safety - Forms, Links, and Resources
 
 [Aquatics Supervision - Leader's Guide](https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/Aquatics_34346.pdf)
 

@@ -30,7 +30,7 @@ Usually, a Donor Awareness patch is presented to a Scout the first time they suc
 Once it is determined that the patch is available, submit an advancement report to the council and purchase the patch from the council service center. Typically, a Scout will only be eligible to earn one patch.
 
 
-###Donor Awareness Award Forms, Links, and Resources
+###Donor Awareness Award - Forms, Links, and Resources
 
 [Boy Scouts of America Donor Awareness Patch Application](https://filestore.scouting.org/filestore/boyscouts/pdf/512-015_WB.pdf)
 

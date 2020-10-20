@@ -70,7 +70,7 @@ Upon successful completion of the Swimming & Water Rescue course training, parti
 13. Correctly answer 80 percent of the questions on the Swimming and Water Rescue written exam covering Safe Swim Defense, emergency action plans, surveillance, victim recognition, and water rescue. Review any incomplete or incorrect answers.
 {{/requirements}}
 
-### BSA Aquatics Supervision Swimming and Water Rescue Forms, Links, and Resources
+### BSA Aquatics Supervision Swimming and Water Rescue - Forms, Links, and Resources
 
 [Aquatics Supervision - Leader's Guide](https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/Aquatics_34346.pdf)
 
