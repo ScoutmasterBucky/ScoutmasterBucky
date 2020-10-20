@@ -23,6 +23,8 @@ All counselors must be trained in Safety Afloat and have council approval. Any p
 
 Instruction must be conducted on a protected body of water in an area free from other traffic or large waves. Initial water entry and practice should be on a gradual beach clear of hazards. A steady three-to-seven knot breeze is ideal for beginner practice. All participants should be close enough to supervisory personnel for efficient instruction and ready assistance.
 
+Basic skills and safety precautions are presented in the BSA publication: [Aquatics Supervision - Leader's Guide](https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/Aquatics_34346.pdf).
+
 </div></div>
 
 ## Boardsailing BSA Requirements
@@ -45,4 +47,4 @@ Any youth or adult who is registered with a troop, crew, or ship and completes t
 
 [Boardsailing BSA Requirements and Award Application](https://filestore.scouting.org/filestore/pdf/512-017.pdf)
 
-Basic skills and safety precautions are presented in the BSA publication: *Aquatics Supervision: A Youth Leader’s Guide for Swimming and Boating Activities.* Additional references may be found online at [www.uswindsurfing.org](https://uswindsurfing.org/) and [www.ussailing.org](https://www.ussailing.org/).
+Additional teaching and skill references may be found online at [www.uswindsurfing.org](https://uswindsurfing.org/) and [www.ussailing.org](https://www.ussailing.org/).

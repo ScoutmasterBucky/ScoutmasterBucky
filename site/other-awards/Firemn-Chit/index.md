@@ -26,6 +26,7 @@ The Firem’n Chit is a contract for Scouts who have demonstrated the proper pro
 
 ## Firem'n Chit Award
 <p>The Firem'n Chit may be earned by members of Scouts BSA, Venturing, Sea Scouts, and Webelos Scouts in Cub Scouts. Certification grants a Scout the right to carry matches and build campfires. Scouts must show their Scout leader, or someone designated by their leader, that they understand their responsibility to do the eight requirements.</p>
+<p></p>
 
 <div class="D(f) Fxd(c)--s">
 <div>
