@@ -12,7 +12,7 @@ imageSmb: scoutmaster-bucky-bsa-50-miler.jpg
 <div class="Ta(c) Pt(1em)--s">
 
 ![50-Miler]({{imageSmb}})
-**Note:** *The 50-Miler award is available as a decal or in either a cloth or leather patch. It is NOT worn on the uniform or sash, but may be attached to equipment, jackets, backpacks, patch vests, or blankets.*
+<p>**Note:** *The 50-Miler award is available as a decal or in either a cloth or leather patch. It is NOT worn on the uniform or sash, but may be attached to equipment, jackets, backpacks, patch vests, or blankets.*</p>
 </div>
 
 <div>
