@@ -26,6 +26,7 @@ Even though the outfitter is primarily responsible for the safe conduct of a whi
 
 ## Whitewater Rafting BSA
 Any adult leader, approved by the council, who is trained in *Safety Afloat* and can personally verify that all instruction and skill completions were directly supervised by a professionally trained or licensed rafting guide or outfitter, may serve as a counselor for this award. Such guides may be employed by council high adventure programs or commercial outfitters.
+<p></p>
 
 <div class="D(f) Fxd(c)--s">
 <div>Upon successful completion, participants earn the Whitewater Rafting BSA Patch along with their achievment card.  Completion indiciates the individual has experieneced a valuable introduction to whitewater paddling under the supervision of a qualified rafting guide.  Individuals should consider continuing the development of their river paddling skills with  experienced paddle carft instructors. and should always reepect the power of moving warter, remembering to always wear their life jacket and helmet.
