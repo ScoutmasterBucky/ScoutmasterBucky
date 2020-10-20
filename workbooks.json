@@ -40,11 +40,6 @@
         "path": "merit-badges/architecture/workbook/"
     },
     {
-        "badge": "art",
-        "name": "Art",
-        "path": "merit-badges/art/workbook/"
-    },
-    {
         "badge": "astronomy",
         "name": "Astronomy",
         "path": "merit-badges/astronomy/workbook/"
@@ -55,11 +50,6 @@
         "path": "merit-badges/athletics/workbook/"
     },
     {
-        "badge": "automotive-maintenance",
-        "name": "Automotive Maintenance",
-        "path": "merit-badges/automotive-maintenance/workbook/"
-    },
-    {
         "badge": "aviation",
         "name": "Aviation",
         "path": "merit-badges/aviation/workbook/"
@@ -68,6 +58,16 @@
         "badge": "backpacking",
         "name": "Backpacking",
         "path": "merit-badges/backpacking/workbook/"
+    },
+    {
+        "badge": "automotive-maintenance",
+        "name": "Automotive Maintenance",
+        "path": "merit-badges/automotive-maintenance/workbook/"
+    },
+    {
+        "badge": "art",
+        "name": "Art",
+        "path": "merit-badges/art/workbook/"
     },
     {
         "badge": "basketry",
@@ -310,14 +310,14 @@
         "path": "merit-badges/hiking/workbook/"
     },
     {
-        "badge": "home-repairs",
-        "name": "Home Repairs",
-        "path": "merit-badges/home-repairs/workbook/"
-    },
-    {
         "badge": "horsemanship",
         "name": "Horsemanship",
         "path": "merit-badges/horsemanship/workbook/"
+    },
+    {
+        "badge": "home-repairs",
+        "name": "Home Repairs",
+        "path": "merit-badges/home-repairs/workbook/"
     },
     {
         "badge": "indian-lore",
@@ -378,6 +378,11 @@
         "badge": "metalwork",
         "name": "Metalwork",
         "path": "merit-badges/metalwork/workbook/"
+    },
+    {
+        "badge": "mining-in-society",
+        "name": "Mining in Society",
+        "path": "merit-badges/mining-in-society/workbook/"
     },
     {
         "badge": "model-design-and-building",
@@ -500,6 +505,11 @@
         "path": "merit-badges/reading/workbook/"
     },
     {
+        "badge": "reptile-and-amphibian-study",
+        "name": "Reptile and Amphibian Study",
+        "path": "merit-badges/reptile-and-amphibian-study/workbook/"
+    },
+    {
         "badge": "rifle-shooting",
         "name": "Rifle Shooting",
         "path": "merit-badges/rifle-shooting/workbook/"
@@ -610,16 +620,6 @@
         "path": "merit-badges/swimming/workbook/"
     },
     {
-        "badge": "mining-in-society",
-        "name": "Mining in Society",
-        "path": "merit-badges/mining-in-society/workbook/"
-    },
-    {
-        "badge": "reptile-and-amphibian-study",
-        "name": "Reptile and Amphibian Study",
-        "path": "merit-badges/reptile-and-amphibian-study/workbook/"
-    },
-    {
         "badge": "textile",
         "name": "Textile",
         "path": "merit-badges/textile/workbook/"
@@ -630,14 +630,14 @@
         "path": "merit-badges/theater/workbook/"
     },
     {
-        "badge": "truck-transportation",
-        "name": "Truck Transportation",
-        "path": "merit-badges/truck-transportation/workbook/"
-    },
-    {
         "badge": "traffic-safety",
         "name": "Traffic Safety",
         "path": "merit-badges/traffic-safety/workbook/"
+    },
+    {
+        "badge": "truck-transportation",
+        "name": "Truck Transportation",
+        "path": "merit-badges/truck-transportation/workbook/"
     },
     {
         "badge": "veterinary-medicine",
@@ -655,19 +655,9 @@
         "path": "merit-badges/weather/workbook/"
     },
     {
-        "badge": "welding",
-        "name": "Welding",
-        "path": "merit-badges/welding/workbook/"
-    },
-    {
         "badge": "whitewater",
         "name": "Whitewater",
         "path": "merit-badges/whitewater/workbook/"
-    },
-    {
-        "badge": "wilderness-survival",
-        "name": "Wilderness Survival",
-        "path": "merit-badges/wilderness-survival/workbook/"
     },
     {
         "badge": "wood-carving",
@@ -675,9 +665,19 @@
         "path": "merit-badges/wood-carving/workbook/"
     },
     {
+        "badge": "wilderness-survival",
+        "name": "Wilderness Survival",
+        "path": "merit-badges/wilderness-survival/workbook/"
+    },
+    {
         "badge": "woodwork",
         "name": "Woodwork",
         "path": "merit-badges/woodwork/workbook/"
+    },
+    {
+        "badge": "welding",
+        "name": "Welding",
+        "path": "merit-badges/welding/workbook/"
     },
     {
         "badge": "animal-science",
