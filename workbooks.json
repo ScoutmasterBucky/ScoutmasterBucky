@@ -325,6 +325,11 @@
         "path": "merit-badges/indian-lore/workbook/"
     },
     {
+        "badge": "insect-study",
+        "name": "Insect Study",
+        "path": "merit-badges/insect-study/workbook/"
+    },
+    {
         "badge": "inventing",
         "name": "Inventing",
         "path": "merit-badges/inventing/workbook/"
@@ -333,11 +338,6 @@
         "badge": "journalism",
         "name": "Journalism",
         "path": "merit-badges/journalism/workbook/"
-    },
-    {
-        "badge": "insect-study",
-        "name": "Insect Study",
-        "path": "merit-badges/insect-study/workbook/"
     },
     {
         "badge": "kayaking",
@@ -395,14 +395,14 @@
         "path": "merit-badges/motorboating/workbook/"
     },
     {
-        "badge": "music",
-        "name": "Music",
-        "path": "merit-badges/music/workbook/"
-    },
-    {
         "badge": "moviemaking",
         "name": "Moviemaking",
         "path": "merit-badges/moviemaking/workbook/"
+    },
+    {
+        "badge": "music",
+        "name": "Music",
+        "path": "merit-badges/music/workbook/"
     },
     {
         "badge": "nature",
@@ -565,24 +565,24 @@
         "path": "merit-badges/shotgun-shooting/workbook/"
     },
     {
-        "badge": "skating",
-        "name": "Skating",
-        "path": "merit-badges/skating/workbook/"
-    },
-    {
         "badge": "signs-signals-and-codes",
         "name": "Signs, Signals, and Codes",
         "path": "merit-badges/signs-signals-and-codes/workbook/"
     },
     {
-        "badge": "snow-sports",
-        "name": "Snow Sports",
-        "path": "merit-badges/snow-sports/workbook/"
+        "badge": "skating",
+        "name": "Skating",
+        "path": "merit-badges/skating/workbook/"
     },
     {
         "badge": "small-boat-sailing",
         "name": "Small-Boat Sailing",
         "path": "merit-badges/small-boat-sailing/workbook/"
+    },
+    {
+        "badge": "snow-sports",
+        "name": "Snow Sports",
+        "path": "merit-badges/snow-sports/workbook/"
     },
     {
         "badge": "soil-and-water-conservation",
@@ -625,9 +625,9 @@
         "path": "merit-badges/textile/workbook/"
     },
     {
-        "badge": "truck-transportation",
-        "name": "Truck Transportation",
-        "path": "merit-badges/truck-transportation/workbook/"
+        "badge": "theater",
+        "name": "Theater",
+        "path": "merit-badges/theater/workbook/"
     },
     {
         "badge": "traffic-safety",
@@ -635,19 +635,19 @@
         "path": "merit-badges/traffic-safety/workbook/"
     },
     {
-        "badge": "theater",
-        "name": "Theater",
-        "path": "merit-badges/theater/workbook/"
-    },
-    {
-        "badge": "water-sports",
-        "name": "Water Sports",
-        "path": "merit-badges/water-sports/workbook/"
+        "badge": "truck-transportation",
+        "name": "Truck Transportation",
+        "path": "merit-badges/truck-transportation/workbook/"
     },
     {
         "badge": "veterinary-medicine",
         "name": "Veterinary Medicine",
         "path": "merit-badges/veterinary-medicine/workbook/"
+    },
+    {
+        "badge": "water-sports",
+        "name": "Water Sports",
+        "path": "merit-badges/water-sports/workbook/"
     },
     {
         "badge": "weather",
