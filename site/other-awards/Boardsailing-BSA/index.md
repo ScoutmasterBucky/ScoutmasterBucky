@@ -12,7 +12,7 @@ imageSmb: scoutmaster-bucky-boardsailing-bsa.jpg
 <div class="Ta(c) Pt(1em)--s">
 
 ![scoutmaster-bucky-boardsailing-bsa]({{imageSmb}})
-**Note:** *Swimsuit or swim trunks emblem  -  The Boardsailing BSA patch is NOT worn on the uniform or the sash; it is worn on the left side of the swimsuit or swim trunks*
+**Note:** *Swimsuit / swim trunks emblem - The Boardsailing BSA patch is NOT worn on the uniform or the sash; it is worn on the left side of the swimsuit / swim trunks*
 </div>
 
 <div>
