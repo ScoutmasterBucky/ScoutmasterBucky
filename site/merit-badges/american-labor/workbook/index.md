@@ -9,7 +9,7 @@ year: 2020
 {{#wb-req-text lines=15}}American Worker Concern #1:{{/wb-req-text}}
 {{#wb-req-text lines=14}}American Worker Concern #2:{{/wb-req-text}}
 {{#wb-req-text lines=15}}American Worker Concern #3:{{/wb-req-text}}
-{{#wb-req-text lines=15}}American Worker Concern #4:{{/wb-req-text}}
+{{#wb-req-text lines=14}}American Worker Concern #4:{{/wb-req-text}}
 {{#wb-req-text lines=14}}American Worker Concern #5:{{/wb-req-text}}
 {{#wb-req-text lines=15}}American Worker Concern #6:{{/wb-req-text}}
 {{#wb-req-text lines=15}}American Worker Concern #7:{{/wb-req-text}}
