@@ -24,7 +24,7 @@ Even though the outfitter is primarily responsible for the safe conduct of a whi
 
 </div></div>
 
-## Whitewater Rafting BSA
+## Whitewater Rafting BSA Award
 Any adult leader, approved by the council, who is trained in *Safety Afloat* and can personally verify that all instruction and skill completions were directly supervised by a professionally trained or licensed rafting guide or outfitter, may serve as a counselor for this award. Such guides may be employed by council high adventure programs or commercial outfitters.
 <p></p>
 
