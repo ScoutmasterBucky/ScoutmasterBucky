@@ -8,7 +8,7 @@ imageBC: bsa-aquatics-supervision-paddle-craft-safety-basic-canoeing-patch-segme
 imageBK: bsa-aquatics-supervision-paddle-craft-safety-basic-kayaking-patch-segment.png
 imageRC: bsa-aquatics-supervision-paddle-craft-safety-river-canoeing-patch-segment.png
 imageRK: bsa-aquatics-supervision-paddle-craft-safety-river-kayaking-patch-segment.png
-imageASPSC: bsa-aquatics-supervision-swimming-and-water-rescue-card-front.jpg
+imageCC: bsa-aquatics-supervision-swimming-and-water-rescue-card-front.jpg
 ---
 
 # BSA Aquatics Supervision: Paddle Craft Safety
@@ -38,7 +38,7 @@ Upon successful completion of any, or all, of the 4 options within the *BSA Aqua
 <div>The important item is the Paddle Craft Safety Pocket Certificate signed by your instructor and to have the certificate on your person whenever performing aquatic supervision activities.</div>
 <div class="Ta(c) Pt(1em)--s">
 
-![BSA Aquatics Supervision Paddle Craft Safety Card]({{imageASPSC}})
+![BSA Aquatics Supervision: Paddle Craft Safety Certification Card]({{imageCC}})
 </div></div>
 
 ## Aquatics Supervision: Paddle Craft Safety - Basic Requirements
@@ -110,7 +110,7 @@ Upon successful completion of any, or all, of the 4 options within the *BSA Aqua
 
 [Paddle Craft Safety Instructor's Guide](https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/430-501.pdf)
 
-You can request a complimentary copy of the ACA/BSA video *Reading the Rhythms of Rivers and Rapids*, by going to this website: http://www.americancanoe.org/page/BSADVD
+You can request a complimentary copy of the ACA/BSA video *Reading the Rhythms of Rivers and Rapids*, by going to the [American Canoe Association website](http://www.americancanoe.org/page/BSADVD).
 
 [Canoe Training Video - Enlgish](https://youtu.be/fGiWzRrM-us) [Canoe Training Video - Spanish](https://www.youtube.com/watch?v=POdZR7-WwT4)
 
