@@ -91,7 +91,7 @@ year: 2020
 {{#wb-req-header}}Person #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
-{{#wb-req-text lines=34}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=35}}Notes:{{/wb-req-text}}
 {{#wb-req-header}}Person #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
