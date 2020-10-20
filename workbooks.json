@@ -130,14 +130,14 @@
         "path": "merit-badges/coin-collecting/workbook/"
     },
     {
-        "badge": "communication",
-        "name": "Communication",
-        "path": "merit-badges/communication/workbook/"
-    },
-    {
         "badge": "collections",
         "name": "Collections",
         "path": "merit-badges/collections/workbook/"
+    },
+    {
+        "badge": "communication",
+        "name": "Communication",
+        "path": "merit-badges/communication/workbook/"
     },
     {
         "badge": "composite-materials",
@@ -210,6 +210,11 @@
         "path": "merit-badges/engineering/workbook/"
     },
     {
+        "badge": "entrepreneurship",
+        "name": "Entrepreneurship",
+        "path": "merit-badges/entrepreneurship/workbook/"
+    },
+    {
         "badge": "environmental-science",
         "name": "Environmental Science",
         "path": "merit-badges/environmental-science/workbook/"
@@ -250,19 +255,9 @@
         "path": "merit-badges/fish-and-wildlife-management/workbook/"
     },
     {
-        "badge": "entrepreneurship",
-        "name": "Entrepreneurship",
-        "path": "merit-badges/entrepreneurship/workbook/"
-    },
-    {
         "badge": "fishing",
         "name": "Fishing",
         "path": "merit-badges/fishing/workbook/"
-    },
-    {
-        "badge": "fly-fishing",
-        "name": "Fly Fishing",
-        "path": "merit-badges/fly-fishing/workbook/"
     },
     {
         "badge": "forestry",
@@ -278,6 +273,11 @@
         "badge": "gardening",
         "name": "Gardening",
         "path": "merit-badges/gardening/workbook/"
+    },
+    {
+        "badge": "fly-fishing",
+        "name": "Fly Fishing",
+        "path": "merit-badges/fly-fishing/workbook/"
     },
     {
         "badge": "genealogy",
@@ -640,14 +640,14 @@
         "path": "merit-badges/truck-transportation/workbook/"
     },
     {
-        "badge": "water-sports",
-        "name": "Water Sports",
-        "path": "merit-badges/water-sports/workbook/"
-    },
-    {
         "badge": "veterinary-medicine",
         "name": "Veterinary Medicine",
         "path": "merit-badges/veterinary-medicine/workbook/"
+    },
+    {
+        "badge": "water-sports",
+        "name": "Water Sports",
+        "path": "merit-badges/water-sports/workbook/"
     },
     {
         "badge": "weather",
@@ -670,14 +670,14 @@
         "path": "merit-badges/wilderness-survival/workbook/"
     },
     {
-        "badge": "woodwork",
-        "name": "Woodwork",
-        "path": "merit-badges/woodwork/workbook/"
-    },
-    {
         "badge": "wood-carving",
         "name": "Wood Carving",
         "path": "merit-badges/wood-carving/workbook/"
+    },
+    {
+        "badge": "woodwork",
+        "name": "Woodwork",
+        "path": "merit-badges/woodwork/workbook/"
     },
     {
         "badge": "animal-science",
