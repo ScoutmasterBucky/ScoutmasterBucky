@@ -60,7 +60,7 @@ year: 2020
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Song / Dance / Poem / Story:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Date:{{/wb-req-text}}
-{{#wb-req-text lines=32}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=33}}Notes:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1e" requirement="Go to a library or museum to see a program or exhibit featuring one group's traditions. Report on what you see and learn."}}
@@ -91,7 +91,7 @@ year: 2020
 {{#wb-req-header}}Person #1{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
-{{#wb-req-text lines=36}}Notes:{{/wb-req-text}}
+{{#wb-req-text lines=34}}Notes:{{/wb-req-text}}
 {{#wb-req-header}}Person #2{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Group:{{/wb-req-text}}
