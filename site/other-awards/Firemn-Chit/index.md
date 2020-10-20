@@ -25,11 +25,11 @@ The Firem’n Chit is a contract for Scouts who have demonstrated the proper pro
 </div></div>
 
 ## Firem'n Chit Award
-The Firem'n Chit may be earned by members of Scouts BSA, Venturing, Sea Scouts, and Webelos Scouts in Cub Scouts. Certification grants a Scout the right to carry matches and build campfires. Scouts must show their Scout leader, or someone designated by their leader, that they understand their responsibility to do the eight requirements.
+<p>The Firem'n Chit may be earned by members of Scouts BSA, Venturing, Sea Scouts, and Webelos Scouts in Cub Scouts. Certification grants a Scout the right to carry matches and build campfires. Scouts must show their Scout leader, or someone designated by their leader, that they understand their responsibility to do the eight requirements.</p>
 
 <div class="D(f) Fxd(c)--s">
 <div>
-<p>Scouts should carry their Firem'n Chit card to all Scout events or activities where they might be working with fire. This certification grants a Scout the right to carry fire-lighting devices (matches, lighters, etc.) and to build campfires or cooking fires. Scouts may not manage a campfire, cooking fire, or light a lantern without being in posession of their Firem'n Chit card.</P>
+<p>Scouts should carry their Firem'n Chit card to all Scout events or activities where they might be working with fire. This certification grants a Scout the right to carry fire-lighting devices (matches, lighters, etc.) and to build campfires or cooking fires. Scouts may not manage a campfire, cooking fire, or light a lantern without being in posession of their Firem'n Chit card.</p>
 
 <p>The Scout’s “Firem’n Rights” can be taken if they fail in their responsibility. Typically, corners are cut from the Firem’n Chit card for each infraction. If four corners are cut away or a Scout conducts a serious infraction with fire, the card is taken away. Scouts will have to re-earn thier Firem'n Chit by re-taking Firem'n Chit training from a senior scout or adult leader.</p>
 </div>
@@ -41,7 +41,7 @@ The Firem'n Chit may be earned by members of Scouts BSA, Venturing, Sea Scouts, 
 
 ## Firem'n Chit Requirements
 
-To earn the Friem'n Chit certification, the Scout must show their Scout leader, or someone designated by their leader, an understanding of the responsibility to do the following:
+To earn the Friem'n Chit certification, a Scout must show their Scout leader, or someone designated by their leader, an understanding of the responsibility to do the following:
 
 {{#requirements}}
 1. I have read and understand use and safety rules from the Scouts BSA Handbook.
@@ -56,4 +56,4 @@ To earn the Friem'n Chit certification, the Scout must show their Scout leader, 
 
 ### Firem'n Chit - Forms, Links, and Resources
 
-[Unit Fireguard Plan](/AppendixRR-Unit-Fireguard-Plan.pdf) exerpt from BALOO training book
+[Unit Fireguard Plan](/AppendixRR-Unit-Fireguard-Plan.pdf) excerpt from BALOO training book

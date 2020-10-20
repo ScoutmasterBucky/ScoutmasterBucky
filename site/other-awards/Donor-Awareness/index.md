@@ -12,7 +12,7 @@ imageSmb: scoutmaster-bucky-donor-awareness.jpg
 <div class="Ta(c) Pt(1em)--s">
 
 ![Donor Awareness]({{imageSmb}})
-**Note:** *The Donor Awareness award is available as a patch. It is a temporary patch that may be worn on the uniform or basck of the sash, if desired.*
+   **Note:** *The Donor Awareness award is available as a patch. It is a temporary patch that may be worn on the uniform or back of the sash, if desired.*
 </div>
 
 <div>
@@ -29,6 +29,8 @@ Usually, a Donor Awareness patch is presented to a Scout the first time they suc
 
 Once it is determined that the patch is available, submit an advancement report to the council and purchase the patch from the council service center. Typically, a Scout will only be eligible to earn one patch.
 
+{{#requirements}}
+{{/requirements}}
 
 ###Donor Awareness Award - Forms, Links, and Resources
 
