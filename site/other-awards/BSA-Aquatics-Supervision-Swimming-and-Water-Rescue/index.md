@@ -1,5 +1,5 @@
 ---
-title: BSA Aquatics Supervision: Swimming and Water Rescue
+title: BSA Aquatics Supervision Swimming and Water Rescue
 layout: smb
 linkPath: BSA-Aquatics-Supervision-Swimming-and-Water-Rescue/
 image: bsa-aquatics-supervision-swimming-and-water-rescue-patch.jpg
