@@ -90,14 +90,14 @@
         "path": "merit-badges/camping/workbook/"
     },
     {
-        "badge": "canoeing",
-        "name": "Canoeing",
-        "path": "merit-badges/canoeing/workbook/"
-    },
-    {
         "badge": "chemistry",
         "name": "Chemistry",
         "path": "merit-badges/chemistry/workbook/"
+    },
+    {
+        "badge": "canoeing",
+        "name": "Canoeing",
+        "path": "merit-badges/canoeing/workbook/"
     },
     {
         "badge": "chess",
@@ -125,11 +125,6 @@
         "path": "merit-badges/climbing/workbook/"
     },
     {
-        "badge": "coin-collecting",
-        "name": "Coin Collecting",
-        "path": "merit-badges/coin-collecting/workbook/"
-    },
-    {
         "badge": "collections",
         "name": "Collections",
         "path": "merit-badges/collections/workbook/"
@@ -138,6 +133,11 @@
         "badge": "communication",
         "name": "Communication",
         "path": "merit-badges/communication/workbook/"
+    },
+    {
+        "badge": "coin-collecting",
+        "name": "Coin Collecting",
+        "path": "merit-badges/coin-collecting/workbook/"
     },
     {
         "badge": "composite-materials",
@@ -155,11 +155,6 @@
         "path": "merit-badges/crime-prevention/workbook/"
     },
     {
-        "badge": "cycling",
-        "name": "Cycling",
-        "path": "merit-badges/cycling/workbook/"
-    },
-    {
         "badge": "dentistry",
         "name": "Dentistry",
         "path": "merit-badges/dentistry/workbook/"
@@ -168,6 +163,11 @@
         "badge": "digital-technology",
         "name": "Digital Technology",
         "path": "merit-badges/digital-technology/workbook/"
+    },
+    {
+        "badge": "cycling",
+        "name": "Cycling",
+        "path": "merit-badges/cycling/workbook/"
     },
     {
         "badge": "disabilities-awareness",
