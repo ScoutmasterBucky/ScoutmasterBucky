@@ -44,14 +44,14 @@ year: 2020
 {{>wb-signature signator="Counselor's" checkbox="Approved"}}
 {{#wb-req-header}}Veteran #1:{{/wb-req-header}}
 {{#wb-req-text lines=1}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=1}}Rank and Branch of Service:{{/wb-req-text}}
-{{#wb-req-text lines=11}}What his/her experiences were like:{{/wb-req-text}}
-{{#wb-req-text lines=11}}What he/she believe they accomplished:{{/wb-req-text}}
+{{#wb-req-text lines=2}}Rank and Branch of Service:{{/wb-req-text}}
+{{#wb-req-text lines=10}}What his/her experiences were like:{{/wb-req-text}}
+{{#wb-req-text lines=10}}What he/she believe they accomplished:{{/wb-req-text}}
 {{#wb-req-header}}Veteran #2:{{/wb-req-header}}
 {{#wb-req-text lines=1}}Name:{{/wb-req-text}}
-{{#wb-req-text lines=1}}Rank and Branch of Service:{{/wb-req-text}}
-{{#wb-req-text lines=18}}What his/her experiences were like:{{/wb-req-text}}
-{{#wb-req-text lines=18}}What he/she believe they accomplished:{{/wb-req-text}}
+{{#wb-req-text lines=2}}Rank and Branch of Service:{{/wb-req-text}}
+{{#wb-req-text lines=16}}What his/her experiences were like:{{/wb-req-text}}
+{{#wb-req-text lines=16}}What he/she believe they accomplished:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2d" requirement="With your counselor's approval, interview three people in your community of different ages and occupations. Ask these people what America means to them, what they think is special about this country, and what American traditions they feel are important to preserve."}}

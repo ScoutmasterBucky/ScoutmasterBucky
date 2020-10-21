@@ -36,14 +36,8 @@ The Conservation Good Turn Award is an opportunity for Cub Scout packs, Scouts B
 
 Recognitions items include a certificate for the unit and a patch for participating youth and adult members.
 
-{{#requirements}}
-1. Make complete and satisfactory plans for the trip, including the possibilities of advancement.
-2. Cover the route of not less than 50 consecutive miles; take a minimum of five consecutive days to complete the trip without the aid of motors for the qualification of the 50-mile distance.  For example, in the case of water treks and the use of motors, qualification distances exclude manuvering in or out of slips or ports, safety/weather traverses, managing tidal currents, and accessing the open water. (In some areas pack animals may be used.) *NOTE: Qualification for the 50-mile distance does not have to be continuous, provided the primary purpose objective is met.*
-3. During the time on the trail or waterway, complete a minimum of 10 hours each of group work on projects to improve the trail, springs, campsite, portage, or area. If, after checking with recognized authorities, it is not possible to complete 10 hours each of group work on the trail, a similar project may be done in the unit's home area. (There should be no unauthorized cutting of brush or timber.)
-4. Unit or tour leader must then file a 50-Miler Award application with the local council service center.
-{{/requirements}}
 
-### 50-Miler Award - Forms, Links, and Resources
+### Conservation Good Turn Award - Forms, Links, and Resources
 
 [Conservation Good Turn Certificate Application](https://filestore.scouting.org/filestore/pdf/GTFAapplication.pdf)
 
