@@ -52,7 +52,7 @@ year: 2020
 {{#wb-req-header}}Veteran #2:{{/wb-req-header}}
 {{#wb-req-text lines=1}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Rank and Branch of Service:{{/wb-req-text}}
-{{#wb-req-text lines=18}}What his/her experiences were like:{{/wb-req-text}}
+{{#wb-req-text lines=17}}What his/her experiences were like:{{/wb-req-text}}
 {{#wb-req-text lines=18}}What he/she believe they accomplished:{{/wb-req-text}}
 {{/wb-req}}
 
@@ -61,22 +61,22 @@ year: 2020
 {{#wb-req-text lines=1}}Occupation:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Approximate Age of Person #1:{{/wb-req-text}}
 {{>wb-signature signator="Counselor's" checkbox="Approved"}}
-{{#wb-req-text lines=8}}What America means to this person:{{/wb-req-text}}
-{{#wb-req-text lines=8}}What this person thinks is special about this country:{{/wb-req-text}}
+{{#wb-req-text lines=6}}What America means to this person:{{/wb-req-text}}
+{{#wb-req-text lines=7}}What this person thinks is special about this country:{{/wb-req-text}}
 {{#wb-req-text lines=8}}What American traditions this person feel are important to preserve:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Person #2:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Occupation:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Approximate Age of Person #1:{{/wb-req-text}}
 {{>wb-signature signator="Counselor's" checkbox="Approved"}}
-{{#wb-req-text lines=8}}What America means to this person:{{/wb-req-text}}
-{{#wb-req-text lines=8}}What this person thinks is special about this country:{{/wb-req-text}}
+{{#wb-req-text lines=6}}What America means to this person:{{/wb-req-text}}
+{{#wb-req-text lines=7}}What this person thinks is special about this country:{{/wb-req-text}}
 {{#wb-req-text lines=8}}What American traditions this person feel are important to preserve:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Person #3:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Occupation:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Approximate Age of Person #1:{{/wb-req-text}}
 {{>wb-signature signator="Counselor's" checkbox="Approved"}}
-{{#wb-req-text lines=8}}What America means to this person:{{/wb-req-text}}
-{{#wb-req-text lines=8}}What this person thinks is special about this country:{{/wb-req-text}}
+{{#wb-req-text lines=6}}What America means to this person:{{/wb-req-text}}
+{{#wb-req-text lines=7}}What this person thinks is special about this country:{{/wb-req-text}}
 {{#wb-req-text lines=8}}What American traditions this person feel are important to preserve:{{/wb-req-text}}
 {{/wb-req}}
 
