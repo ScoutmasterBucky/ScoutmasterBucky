@@ -37,9 +37,9 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="3" requirement="Explain to your counselor what labor unions are, what they do, and what services they provide to members."}}
-{{#wb-req-text lines=13}}What are Labor Unions?{{/wb-req-text}}
+{{#wb-req-text lines=14}}What are Labor Unions?{{/wb-req-text}}
 {{#wb-req-text lines=13}}What do Labor Unions do?{{/wb-req-text}}
-{{#wb-req-text lines=13}}What services do Labor Unions provide their members?{{/wb-req-text}}
+{{#wb-req-text lines=14}}What services do Labor Unions provide their members?{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="3" requirement="In your discussion, show that you understand the concepts of labor, management, collective bargaining, negotiation, union shops, open shops, grievance procedures, mediation, arbitration, work stoppages, strikes, and lockouts."}}
