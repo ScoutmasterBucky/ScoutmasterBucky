@@ -125,14 +125,14 @@
         "path": "merit-badges/climbing/workbook/"
     },
     {
-        "badge": "collections",
-        "name": "Collections",
-        "path": "merit-badges/collections/workbook/"
-    },
-    {
         "badge": "coin-collecting",
         "name": "Coin Collecting",
         "path": "merit-badges/coin-collecting/workbook/"
+    },
+    {
+        "badge": "collections",
+        "name": "Collections",
+        "path": "merit-badges/collections/workbook/"
     },
     {
         "badge": "communication",
@@ -380,14 +380,14 @@
         "path": "merit-badges/metalwork/workbook/"
     },
     {
-        "badge": "model-design-and-building",
-        "name": "Model Design and Building",
-        "path": "merit-badges/model-design-and-building/workbook/"
-    },
-    {
         "badge": "mining-in-society",
         "name": "Mining in Society",
         "path": "merit-badges/mining-in-society/workbook/"
+    },
+    {
+        "badge": "model-design-and-building",
+        "name": "Model Design and Building",
+        "path": "merit-badges/model-design-and-building/workbook/"
     },
     {
         "badge": "motorboating",
@@ -395,19 +395,14 @@
         "path": "merit-badges/motorboating/workbook/"
     },
     {
-        "badge": "moviemaking",
-        "name": "Moviemaking",
-        "path": "merit-badges/moviemaking/workbook/"
+        "badge": "music",
+        "name": "Music",
+        "path": "merit-badges/music/workbook/"
     },
     {
         "badge": "nature",
         "name": "Nature",
         "path": "merit-badges/nature/workbook/"
-    },
-    {
-        "badge": "music",
-        "name": "Music",
-        "path": "merit-badges/music/workbook/"
     },
     {
         "badge": "nuclear-science",
@@ -433,6 +428,11 @@
         "badge": "personal-fitness",
         "name": "Personal Fitness",
         "path": "merit-badges/personal-fitness/workbook/"
+    },
+    {
+        "badge": "moviemaking",
+        "name": "Moviemaking",
+        "path": "merit-badges/moviemaking/workbook/"
     },
     {
         "badge": "personal-management",
@@ -540,6 +540,11 @@
         "path": "merit-badges/scholarship/workbook/"
     },
     {
+        "badge": "scouting-heritage",
+        "name": "Scouting Heritage",
+        "path": "merit-badges/scouting-heritage/workbook/"
+    },
+    {
         "badge": "scuba-diving",
         "name": "Scuba Diving",
         "path": "merit-badges/scuba-diving/workbook/"
@@ -548,11 +553,6 @@
         "badge": "sculpture",
         "name": "Sculpture",
         "path": "merit-badges/sculpture/workbook/"
-    },
-    {
-        "badge": "scouting-heritage",
-        "name": "Scouting Heritage",
-        "path": "merit-badges/scouting-heritage/workbook/"
     },
     {
         "badge": "search-and-rescue",
@@ -697,16 +697,16 @@
     {
         "badge": "animal-science",
         "name": "Animal Science",
+        "path": "merit-badges/animal-science/workbook/hog/"
+    },
+    {
+        "badge": "animal-science",
+        "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/horse/"
     },
     {
         "badge": "animal-science",
         "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/sheep/"
-    },
-    {
-        "badge": "animal-science",
-        "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/hog/"
     }
 ]
