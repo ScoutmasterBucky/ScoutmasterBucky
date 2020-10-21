@@ -10,20 +10,18 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="1" requirement="Then, share your writing with your merit badge counselor and discuss the importance of the Declaration to all Americans."}}
-{{#wb-req-text lines=42}}{{/wb-req-text}}
+{{#wb-req-text lines=43}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2a" alert="Do TWO of the following (2a, 2b, 2c, or 2d) for requirement 2:" requirement="Select two individuals from American history, one a political leader (a president, senator, etc.) and the other a private citizen (a writer, religious leader, etc.). Find out about each person's accomplishments and compare the contributions each has made to America's heritage."}}
 {{#wb-req-header}}Political Leader:{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Profession:{{/wb-req-text}}
-{{>wb-req-allow-break}}{{#wb-req-header}}Private Citizen:{{/wb-req-header}}
+{{#wb-req-header}}Private Citizen:{{/wb-req-header}}
 {{#wb-req-text lines=2}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Profession:{{/wb-req-text}}
-{{>wb-req-allow-break}}
 {{#wb-req-header}}Comparison of selected individuals:{{/wb-req-header}}
-{{#wb-req-text lines=22}}Notes:{{/wb-req-text}}
-{{>wb-req-allow-break}}
+{{#wb-req-text lines=23}}Notes:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2b" requirement="With your counselor's approval, choose an organization that has promoted some type of positive change in American society."}}
@@ -46,9 +44,8 @@ year: 2020
 {{#wb-req-header}}Veteran #1:{{/wb-req-header}}
 {{#wb-req-text lines=1}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Rank and Branch of Service:{{/wb-req-text}}
-{{#wb-req-text lines=10}}What his/her experiences were like:{{/wb-req-text}}
+{{#wb-req-text lines=11}}What his/her experiences were like:{{/wb-req-text}}
 {{#wb-req-text lines=11}}What he/she believe they accomplished:{{/wb-req-text}}
-{{/wb-req}}
 {{#wb-req-header}}Veteran #2:{{/wb-req-header}}
 {{#wb-req-text lines=1}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Rank and Branch of Service:{{/wb-req-text}}
@@ -61,21 +58,21 @@ year: 2020
 {{#wb-req-text lines=1}}Occupation:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Approximate Age of Person #1:{{/wb-req-text}}
 {{>wb-signature signator="Counselor's" checkbox="Approved"}}
-{{#wb-req-text lines=7}}What America means to this person:{{/wb-req-text}}
+{{#wb-req-text lines=8}}What America means to this person:{{/wb-req-text}}
 {{#wb-req-text lines=8}}What this person thinks is special about this country:{{/wb-req-text}}
 {{#wb-req-text lines=8}}What American traditions this person feel are important to preserve:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Person #2:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Occupation:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Approximate Age of Person #1:{{/wb-req-text}}
 {{>wb-signature signator="Counselor's" checkbox="Approved"}}
-{{#wb-req-text lines=7}}What America means to this person:{{/wb-req-text}}
+{{#wb-req-text lines=8}}What America means to this person:{{/wb-req-text}}
 {{#wb-req-text lines=8}}What this person thinks is special about this country:{{/wb-req-text}}
 {{#wb-req-text lines=8}}What American traditions this person feel are important to preserve:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Person #3:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Occupation:{{/wb-req-text}}
 {{#wb-req-text lines=1}}Approximate Age of Person #1:{{/wb-req-text}}
 {{>wb-signature signator="Counselor's" checkbox="Approved"}}
-{{#wb-req-text lines=7}}What America means to this person:{{/wb-req-text}}
+{{#wb-req-text lines=8}}What America means to this person:{{/wb-req-text}}
 {{#wb-req-text lines=8}}What this person thinks is special about this country:{{/wb-req-text}}
 {{#wb-req-text lines=8}}What American traditions this person feel are important to preserve:{{/wb-req-text}}
 {{/wb-req}}
