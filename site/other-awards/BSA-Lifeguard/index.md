@@ -87,10 +87,12 @@ There are five ways to obtain a course completion card:
 3. **Crossover Challenge** — Anyone who holds current training in American Red Cross Lifeguarding, American Red Cross Waterfront Lifeguarding, or other lifeguard training programs may obtain a BSA Lifeguard completion card by performing requirements 1 through 26 without attending the standard course sessions. The lifeguard training program that issued the training certificate must be recognized by the local or state regulatory agency that sets standards for lifeguards at youth camps. The instructor may provide a crossover training session to review and update skills and information prior to the testing. The applicant may receive credit for requirement 26 if within the past 18 months he or she has served as a lifeguard, under supervision, or has supervised lifeguards, for at least two separate BSA swimming activities for a combined time of two hours. Otherwise, due to BSA procedures not implemented at other lifeguarding venues, the applicant must accomplish requirement 26.
 4. **Completion of BSA Aquatics Instructor** - Anyone who completes BSA Aquatics Instructor training at National Camping School.
 5. **Co-instructors** *(BSA Aquatics Instructor or BSA Lifeguard Instructor)* may each sign a completion card for the other at the conclusion of a BSA Lifeguard course if they satisfy requirements 2 through 24.
+<p></p><p></p>
 
 
 <div class="D(f) Fxd(c)--s">
 <div>
+<p></p>
 <p>The BSA Lifeguard award is available to all Scouts BSA members and Venturers age 15 and older, and adult volunteers who have successfully completed the BSA Lifeguard course and demonstrated the ability to perform each of the skills taught in the course.</p>
 
 <p>Upon successful completion, participants earn the BSA Lifeguard patch along with their BSA Lifegaurd certification card. BSA Lifeguard training and certification is valid for two years.</p>
