@@ -70,14 +70,14 @@
         "path": "merit-badges/backpacking/workbook/"
     },
     {
-        "badge": "bird-study",
-        "name": "Bird Study",
-        "path": "merit-badges/bird-study/workbook/"
-    },
-    {
         "badge": "basketry",
         "name": "Basketry",
         "path": "merit-badges/basketry/workbook/"
+    },
+    {
+        "badge": "bird-study",
+        "name": "Bird Study",
+        "path": "merit-badges/bird-study/workbook/"
     },
     {
         "badge": "bugling",
@@ -118,6 +118,11 @@
         "badge": "citizenship-in-the-world",
         "name": "Citizenship in the World",
         "path": "merit-badges/citizenship-in-the-world/workbook/"
+    },
+    {
+        "badge": "climbing",
+        "name": "Climbing",
+        "path": "merit-badges/climbing/workbook/"
     },
     {
         "badge": "coin-collecting",
@@ -350,14 +355,14 @@
         "path": "merit-badges/law/workbook/"
     },
     {
-        "badge": "lifesaving",
-        "name": "Lifesaving",
-        "path": "merit-badges/lifesaving/workbook/"
-    },
-    {
         "badge": "leatherwork",
         "name": "Leatherwork",
         "path": "merit-badges/leatherwork/workbook/"
+    },
+    {
+        "badge": "lifesaving",
+        "name": "Lifesaving",
+        "path": "merit-badges/lifesaving/workbook/"
     },
     {
         "badge": "mammal-study",
@@ -368,11 +373,6 @@
         "badge": "medicine",
         "name": "Medicine",
         "path": "merit-badges/medicine/workbook/"
-    },
-    {
-        "badge": "metalwork",
-        "name": "Metalwork",
-        "path": "merit-badges/metalwork/workbook/"
     },
     {
         "badge": "mining-in-society",
@@ -400,14 +400,14 @@
         "path": "merit-badges/music/workbook/"
     },
     {
-        "badge": "nuclear-science",
-        "name": "Nuclear Science",
-        "path": "merit-badges/nuclear-science/workbook/"
-    },
-    {
         "badge": "nature",
         "name": "Nature",
         "path": "merit-badges/nature/workbook/"
+    },
+    {
+        "badge": "nuclear-science",
+        "name": "Nuclear Science",
+        "path": "merit-badges/nuclear-science/workbook/"
     },
     {
         "badge": "oceanography",
@@ -465,14 +465,14 @@
         "path": "merit-badges/pottery/workbook/"
     },
     {
-        "badge": "public-health",
-        "name": "Public Health",
-        "path": "merit-badges/public-health/workbook/"
-    },
-    {
         "badge": "programming",
         "name": "Programming",
         "path": "merit-badges/programming/workbook/"
+    },
+    {
+        "badge": "public-health",
+        "name": "Public Health",
+        "path": "merit-badges/public-health/workbook/"
     },
     {
         "badge": "public-speaking",
@@ -575,14 +575,19 @@
         "path": "merit-badges/small-boat-sailing/workbook/"
     },
     {
+        "badge": "snow-sports",
+        "name": "Snow Sports",
+        "path": "merit-badges/snow-sports/workbook/"
+    },
+    {
         "badge": "soil-and-water-conservation",
         "name": "Soil and Water Conservation",
         "path": "merit-badges/soil-and-water-conservation/workbook/"
     },
     {
-        "badge": "snow-sports",
-        "name": "Snow Sports",
-        "path": "merit-badges/snow-sports/workbook/"
+        "badge": "metalwork",
+        "name": "Metalwork",
+        "path": "merit-badges/metalwork/workbook/"
     },
     {
         "badge": "space-exploration",
@@ -675,11 +680,6 @@
         "path": "merit-badges/woodwork/workbook/"
     },
     {
-        "badge": "climbing",
-        "name": "Climbing",
-        "path": "merit-badges/climbing/workbook/"
-    },
-    {
         "badge": "animal-science",
         "name": "Animal Science",
         "path": "merit-badges/animal-science/workbook/avian/"
@@ -687,12 +687,12 @@
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/dairying/"
+        "path": "merit-badges/animal-science/workbook/beef-cattle/"
     },
     {
         "badge": "animal-science",
         "name": "Animal Science",
-        "path": "merit-badges/animal-science/workbook/beef-cattle/"
+        "path": "merit-badges/animal-science/workbook/dairying/"
     },
     {
         "badge": "animal-science",
