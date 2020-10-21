@@ -52,8 +52,8 @@ year: 2020
 {{#wb-req-header}}Veteran #2:{{/wb-req-header}}
 {{#wb-req-text lines=1}}Name:{{/wb-req-text}}
 {{#wb-req-text lines=2}}Rank and Branch of Service:{{/wb-req-text}}
-{{#wb-req-text lines=17}}What his/her experiences were like:{{/wb-req-text}}
-{{#wb-req-text lines=17}}What he/she believe they accomplished:{{/wb-req-text}}
+{{#wb-req-text lines=18}}What his/her experiences were like:{{/wb-req-text}}
+{{#wb-req-text lines=18}}What he/she believe they accomplished:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2d" requirement="With your counselor's approval, interview three people in your community of different ages and occupations. Ask these people what America means to them, what they think is special about this country, and what American traditions they feel are important to preserve."}}
