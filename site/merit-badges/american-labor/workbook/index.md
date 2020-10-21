@@ -8,14 +8,17 @@ year: 2020
 {{#wb-req item="1" requirement="Using resources available to you, learn about working people and work-related concerns. List and briefly describe or give examples of at least EIGHT concerns of American workers. These may include, but are not limited to, working conditions, workplace safety, hours, wages, seniority, job security, equal-opportunity employment and discrimination, guest workers, automation and technologies that replace workers, unemployment, layoffs, outsourcing, and employee benefits such as health care, child care, profit sharing, continuing education, and retirement benefits."}}
 {{#wb-req-text lines=15}}American Worker Concern #1:{{/wb-req-text}}
 {{#wb-req-text lines=14}}American Worker Concern #2:{{/wb-req-text}}
+{{/wb-req}}
 {{#wb-req-text lines=14}}American Worker Concern #3:{{/wb-req-text}}
 {{#wb-req-text lines=14}}American Worker Concern #4:{{/wb-req-text}}
 {{#wb-req-text lines=14}}American Worker Concern #5:{{/wb-req-text}}
+{{/wb-req}}
 {{#wb-req-text lines=14}}American Worker Concern #6:{{/wb-req-text}}
 {{#wb-req-text lines=14}}American Worker Concern #7:{{/wb-req-text}}
 {{#wb-req-text lines=14}}American Worker Concern #8:{{/wb-req-text}}
+{{/wb-req}}
 {{#wb-req-text lines=12}}American Worker Concern #9:{{/wb-req-text}}
-{{#wb-req-text lines=12}}American Worker Concern #10:{{/wb-req-text}}
+{{#wb-req-text lines=11}}American Worker Concern #10:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="2" requirement="With your counselor's and parent's approval and permission, visit the office or attend a meeting of a local union, a central labor council, or an employee organization, or contact one of these organizations via the Internet. Then do EACH of the following:"}}
@@ -33,7 +36,7 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="2c" requirement="Draw a diagram showing how the organization is structured, from the local to the national level, if applicable."}}
-{{#wb-req-text lines=41}}{{/wb-req-text}}
+{{#wb-req-text lines=42}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="3" requirement="Explain to your counselor what labor unions are, what they do, and what services they provide to members."}}
