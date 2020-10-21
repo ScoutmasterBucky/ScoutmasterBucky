@@ -4,6 +4,7 @@ layout: smb
 linkPath: Boardsailing-BSA/
 image: boardsailing-bsa.jpg
 imageSmb: scoutmaster-bucky-boardsailing-bsa.jpg
+imageCC: boardsailing-bsa-card-front.jpg
 ---
 
 # Boardsailing BSA
@@ -25,6 +26,16 @@ Instruction must be conducted on a protected body of water in an area free from 
 
 Basic skills and safety precautions are presented in the BSA publication: [Aquatics Supervision - Leader's Guide](https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/Aquatics_34346.pdf).
 
+</div></div>
+
+## Boardsailing BSA Award
+<div class="D(f) Fxd(c)--s">
+<div>
+<p>Upon successful completion, participants earn the Boardsailing BSA patch along with their achievment card.  Completion indiciates the individual has experieneced a valuable introduction to boardsailing.</p>
+</div>
+<div class="Ta(c) Pt(1em)--s">
+
+![Boardsailiong BSA Achievement Card]({{imageCC}})
 </div></div>
 
 ## Boardsailing BSA Requirements

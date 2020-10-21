@@ -28,6 +28,7 @@ year: 2020
 {{#wb-req-text lines=2}}Organization:{{/wb-req-text}}
 {{#wb-req-text lines=4}}Positive Change:{{/wb-req-text}}
 {{>wb-signature signator="Counselor's" checkbox="Approved"}}
+{{/wb-req}}
 
 {{#wb-req item="2b" requirement="Find out why the organization believed this change was necessary and how it helped to accomplish the change."}}
 {{#wb-req-text lines=26}}{{/wb-req-text}}
