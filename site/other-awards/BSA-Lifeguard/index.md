@@ -83,10 +83,14 @@ Course completion cards are valid only when signed by either a current BSA Aquat
 
 There are five ways to obtain a course completion card:
 1. **Course Completion** — Complete all requirements in the instructor manual during a scheduled course of instruction. The participant must attend all course sessions. Makeup sessions are allowed at the instructor’s discretion. If an individual is unable to complete all requirements during the scheduled course, the instructor may elect to continue training until the participant is able to complete all the requirements provided the total elapsed time from start to finish does not exceed the 120-day period.
+
 2. **Renewal Challenge** — Anyone with a BSA Lifeguard completion card that is current or has expired within six months may renew or extend the training by performing requirements 2 through 25 without attending the standard course sessions. Prior to the testing, the instructor may provide a renewal training session to review and update skills and information. Summer camp aquatics directors should renew training for aquatics staff members during pre-camp training while emphasizing local camp facilities, procedures, and emergency action plans.
+
 3. **Crossover Challenge** — Anyone who holds current training in American Red Cross Lifeguarding, American Red Cross Waterfront Lifeguarding, or other lifeguard training programs may obtain a BSA Lifeguard completion card by performing requirements 1 through 26 without attending the standard course sessions. The lifeguard training program that issued the training certificate must be recognized by the local or state regulatory agency that sets standards for lifeguards at youth camps. The instructor may provide a crossover training session to review and update skills and information prior to the testing. The applicant may receive credit for requirement 26 if within the past 18 months he or she has served as a lifeguard, under supervision, or has supervised lifeguards, for at least two separate BSA swimming activities for a combined time of two hours. Otherwise, due to BSA procedures not implemented at other lifeguarding venues, the applicant must accomplish requirement 26.
+
 4. **Completion of BSA Aquatics Instructor** - Anyone who completes BSA Aquatics Instructor training at National Camping School.
-5. **Co-instructors** *(BSA Aquatics Instructor or BSA Lifeguard Instructor)* may each sign a completion card for the other at the conclusion of a BSA Lifeguard course if they satisfy requirements 2 through 24.
+
+5. **Co-Instructors** *(BSA Aquatics Instructor or BSA Lifeguard Instructor)* may each sign a completion card for the other at the conclusion of a BSA Lifeguard course if they satisfy requirements 2 through 24.
 <p></p><p></p>
 
 
