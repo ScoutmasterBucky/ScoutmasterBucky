@@ -17,8 +17,8 @@ This module is designed to help you explore how technology affects your life eac
     B. Read (about three hours total) about transportation or transportation technology. Then do the following:
         (1) Make a list of at least two questions or ideas from each article.
         (2) Discuss two of the questions or ideas with your counselor.
-        {{#note type="counselor"}}Examples of magazines include—but are not limited to—Odyssey, Popular Mechanics, Popular Science, Science Illustrated, Discover, Air & Space, Popular Astronomy, Astronomy, Science News, Sky & Telescope, Natural History, Robot, Servo, Nuts and Volts, and Scientific American.
-    C. Do a combination of reading and watching (about three hours total). Then do the following:{{/note}}
+        {{#note type="counselor"}}Examples of magazines include—but are not limited to—Odyssey, Popular Mechanics, Popular Science, Science Illustrated, Discover, Air & Space, Popular Astronomy, Astronomy, Science News, Sky & Telescope, Natural History, Robot, Servo, Nuts and Volts, and Scientific American.{{/note}}
+    C. Do a combination of reading and watching (about three hours total). Then do the following:
         (1) Make a list of at least two questions or ideas from each article or show.
         (2) Discuss two of the questions or ideas with your counselor.
 2. Complete ONE merit badge from the following list. (Choose one that you have not already used toward another Nova award.) After completion, discuss with your counselor how the merit badge you earned uses technology.
