@@ -32,7 +32,7 @@ jobs:
           curl -Lo wkhtmltopdf.deb https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.bionic_amd64.deb
           sudo apt update
           sudo dpkg -i wkhtmltopdf.deb || sudo apt-get -f install
-          npm install
+          npm ci
           npm run build
 
       - name: Deploy 🚀
