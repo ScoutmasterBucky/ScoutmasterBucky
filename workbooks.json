@@ -145,14 +145,14 @@
         "path": "merit-badges/composite-materials/workbook/"
     },
     {
-        "badge": "cooking",
-        "name": "Cooking",
-        "path": "merit-badges/cooking/workbook/"
-    },
-    {
         "badge": "crime-prevention",
         "name": "Crime Prevention",
         "path": "merit-badges/crime-prevention/workbook/"
+    },
+    {
+        "badge": "cooking",
+        "name": "Cooking",
+        "path": "merit-badges/cooking/workbook/"
     },
     {
         "badge": "cycling",
@@ -330,6 +330,11 @@
         "path": "merit-badges/insect-study/workbook/"
     },
     {
+        "badge": "inventing",
+        "name": "Inventing",
+        "path": "merit-badges/inventing/workbook/"
+    },
+    {
         "badge": "journalism",
         "name": "Journalism",
         "path": "merit-badges/journalism/workbook/"
@@ -348,11 +353,6 @@
         "badge": "law",
         "name": "Law",
         "path": "merit-badges/law/workbook/"
-    },
-    {
-        "badge": "inventing",
-        "name": "Inventing",
-        "path": "merit-badges/inventing/workbook/"
     },
     {
         "badge": "leatherwork",
@@ -610,14 +610,14 @@
         "path": "merit-badges/surveying/workbook/"
     },
     {
-        "badge": "sustainability",
-        "name": "Sustainability",
-        "path": "merit-badges/sustainability/workbook/"
-    },
-    {
         "badge": "swimming",
         "name": "Swimming",
         "path": "merit-badges/swimming/workbook/"
+    },
+    {
+        "badge": "sustainability",
+        "name": "Sustainability",
+        "path": "merit-badges/sustainability/workbook/"
     },
     {
         "badge": "textile",
@@ -630,14 +630,14 @@
         "path": "merit-badges/theater/workbook/"
     },
     {
-        "badge": "traffic-safety",
-        "name": "Traffic Safety",
-        "path": "merit-badges/traffic-safety/workbook/"
-    },
-    {
         "badge": "truck-transportation",
         "name": "Truck Transportation",
         "path": "merit-badges/truck-transportation/workbook/"
+    },
+    {
+        "badge": "traffic-safety",
+        "name": "Traffic Safety",
+        "path": "merit-badges/traffic-safety/workbook/"
     },
     {
         "badge": "veterinary-medicine",
