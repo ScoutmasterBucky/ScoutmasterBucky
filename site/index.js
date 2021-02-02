@@ -1,5 +1,4 @@
 $(function() {
-    console.log(window.events);
     $("#calendar").eCalendar({
         weekDays: ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
         months: [
