@@ -1,8 +1,0 @@
-
-{{#badge-list}}
-{{>badge badge="collections"}}
-{{/badge-list}}
-
-### Registration
-
-{{>eventbrite badge="collections" event="102986679932" start=eventDateStart end=eventDateEnd}}
