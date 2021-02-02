@@ -1,8 +1,8 @@
 [
     {
-        "badge": "american-heritage",
-        "name": "American Heritage",
-        "path": "merit-badges/american-heritage/workbook/"
+        "badge": "american-business",
+        "name": "American Business",
+        "path": "merit-badges/american-business/workbook/"
     },
     {
         "badge": "american-cultures",
@@ -10,9 +10,9 @@
         "path": "merit-badges/american-cultures/workbook/"
     },
     {
-        "badge": "american-business",
-        "name": "American Business",
-        "path": "merit-badges/american-business/workbook/"
+        "badge": "american-heritage",
+        "name": "American Heritage",
+        "path": "merit-badges/american-heritage/workbook/"
     },
     {
         "badge": "american-labor",
@@ -205,6 +205,11 @@
         "path": "merit-badges/energy/workbook/"
     },
     {
+        "badge": "engineering",
+        "name": "Engineering",
+        "path": "merit-badges/engineering/workbook/"
+    },
+    {
         "badge": "entrepreneurship",
         "name": "Entrepreneurship",
         "path": "merit-badges/entrepreneurship/workbook/"
@@ -215,19 +220,14 @@
         "path": "merit-badges/environmental-science/workbook/"
     },
     {
-        "badge": "engineering",
-        "name": "Engineering",
-        "path": "merit-badges/engineering/workbook/"
+        "badge": "exploration",
+        "name": "Exploration",
+        "path": "merit-badges/exploration/workbook/"
     },
     {
         "badge": "family-life",
         "name": "Family Life",
         "path": "merit-badges/family-life/workbook/"
-    },
-    {
-        "badge": "exploration",
-        "name": "Exploration",
-        "path": "merit-badges/exploration/workbook/"
     },
     {
         "badge": "farm-mechanics",
@@ -255,6 +255,11 @@
         "path": "merit-badges/fish-and-wildlife-management/workbook/"
     },
     {
+        "badge": "fishing",
+        "name": "Fishing",
+        "path": "merit-badges/fishing/workbook/"
+    },
+    {
         "badge": "fly-fishing",
         "name": "Fly Fishing",
         "path": "merit-badges/fly-fishing/workbook/"
@@ -263,11 +268,6 @@
         "badge": "forestry",
         "name": "Forestry",
         "path": "merit-badges/forestry/workbook/"
-    },
-    {
-        "badge": "fishing",
-        "name": "Fishing",
-        "path": "merit-badges/fishing/workbook/"
     },
     {
         "badge": "game-design",
@@ -330,11 +330,6 @@
         "path": "merit-badges/insect-study/workbook/"
     },
     {
-        "badge": "inventing",
-        "name": "Inventing",
-        "path": "merit-badges/inventing/workbook/"
-    },
-    {
         "badge": "journalism",
         "name": "Journalism",
         "path": "merit-badges/journalism/workbook/"
@@ -353,6 +348,11 @@
         "badge": "law",
         "name": "Law",
         "path": "merit-badges/law/workbook/"
+    },
+    {
+        "badge": "inventing",
+        "name": "Inventing",
+        "path": "merit-badges/inventing/workbook/"
     },
     {
         "badge": "leatherwork",
@@ -570,6 +570,11 @@
         "path": "merit-badges/signs-signals-and-codes/workbook/"
     },
     {
+        "badge": "skating",
+        "name": "Skating",
+        "path": "merit-badges/skating/workbook/"
+    },
+    {
         "badge": "small-boat-sailing",
         "name": "Small-Boat Sailing",
         "path": "merit-badges/small-boat-sailing/workbook/"
@@ -578,11 +583,6 @@
         "badge": "snow-sports",
         "name": "Snow Sports",
         "path": "merit-badges/snow-sports/workbook/"
-    },
-    {
-        "badge": "skating",
-        "name": "Skating",
-        "path": "merit-badges/skating/workbook/"
     },
     {
         "badge": "soil-and-water-conservation",

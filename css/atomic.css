@@ -79,6 +79,9 @@
 .Bgc\(akPgMBg\), .Bgc\(cbkPgMBg\), .Bgc\(novaPgMBg\), .Bgc\(smbPgMBg\) {
   background-color: #000000;
 }
+.Bgc\(black\) {
+  background-color: black;
+}
 .Bgc\(cbkBtnBg\), .Bgc\(cbkHdBg\) {
   background-color: #016ca2;
 }
@@ -126,6 +129,9 @@
 }
 .C\(akBtnTx\), .C\(akBtnTx2\), .C\(akHdTx\), .C\(cbkBtnTx\), .C\(cbkBtnTx2\), .C\(cbkHdTx\), .C\(novaHd2Tx\), .C\(smbBtnTx\), .C\(smbHd2Tx\), .C\(smbHdTx\), .C\(sssBtnTx\) {
   color: #ffffff;
+}
+.C\(black\) {
+  color: black;
 }
 .C\(blue\) {
   color: blue;
@@ -699,6 +705,9 @@
 .W\(33\.3\%\) {
   width: 33.3%;
 }
+.W\(35\%\) {
+  width: 35%;
+}
 .W\(40\%\) {
   width: 40%;
 }
@@ -923,6 +932,9 @@
   }
   .W\(50\%\)--s {
     width: 50%;
+  }
+  .W\(70\%\)--s {
+    width: 70%;
   }
   .Cc\(1\)--s {
     column-count: 1;
