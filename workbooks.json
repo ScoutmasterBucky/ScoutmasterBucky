@@ -25,14 +25,14 @@
         "path": "merit-badges/animation/workbook/"
     },
     {
-        "badge": "archery",
-        "name": "Archery",
-        "path": "merit-badges/archery/workbook/"
-    },
-    {
         "badge": "archaeology",
         "name": "Archaeology",
         "path": "merit-badges/archaeology/workbook/"
+    },
+    {
+        "badge": "archery",
+        "name": "Archery",
+        "path": "merit-badges/archery/workbook/"
     },
     {
         "badge": "architecture",
@@ -160,11 +160,6 @@
         "path": "merit-badges/cycling/workbook/"
     },
     {
-        "badge": "dentistry",
-        "name": "Dentistry",
-        "path": "merit-badges/dentistry/workbook/"
-    },
-    {
         "badge": "digital-technology",
         "name": "Digital Technology",
         "path": "merit-badges/digital-technology/workbook/"
@@ -173,6 +168,11 @@
         "badge": "disabilities-awareness",
         "name": "Disabilities Awareness",
         "path": "merit-badges/disabilities-awareness/workbook/"
+    },
+    {
+        "badge": "dentistry",
+        "name": "Dentistry",
+        "path": "merit-badges/dentistry/workbook/"
     },
     {
         "badge": "dog-care",
@@ -430,14 +430,14 @@
         "path": "merit-badges/painting/workbook/"
     },
     {
-        "badge": "personal-fitness",
-        "name": "Personal Fitness",
-        "path": "merit-badges/personal-fitness/workbook/"
-    },
-    {
         "badge": "personal-management",
         "name": "Personal Management",
         "path": "merit-badges/personal-management/workbook/"
+    },
+    {
+        "badge": "personal-fitness",
+        "name": "Personal Fitness",
+        "path": "merit-badges/personal-fitness/workbook/"
     },
     {
         "badge": "pets",
@@ -515,14 +515,14 @@
         "path": "merit-badges/rifle-shooting/workbook/"
     },
     {
-        "badge": "rowing",
-        "name": "Rowing",
-        "path": "merit-badges/rowing/workbook/"
-    },
-    {
         "badge": "robotics",
         "name": "Robotics",
         "path": "merit-badges/robotics/workbook/"
+    },
+    {
+        "badge": "rowing",
+        "name": "Rowing",
+        "path": "merit-badges/rowing/workbook/"
     },
     {
         "badge": "safety",
