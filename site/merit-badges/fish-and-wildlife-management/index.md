@@ -2,13 +2,13 @@
 badge: fish-and-wildlife-management
 layout: smb-merit-badge
 requirements: true
-year: 2020
+year: 2021
 ---
 
 {{#requirements}}
 1. Describe the meaning and purposes of fish and wildlife conservation and management.
 2. List and discuss at least three major problems that continue to threaten your state's fish and wildlife resources.
-3. Describe some practical ways in which everyone can help with the fish and wildlife conservation effort.
+3. Describe some ways in which everyone can help with fish and wildlife conservation.
 4. List and describe five major fish and wildlife management practices used by managers in your state.
 5. Do ONE of the following:
     (a) Construct, erect, and check regularly at least two artificial nest boxes (wood duck, bluebird, squirrel, etc.) and keep written records for one nesting season.

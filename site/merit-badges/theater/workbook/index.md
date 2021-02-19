@@ -2,7 +2,7 @@
 badge: theater
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 
@@ -12,7 +12,7 @@ year: 2020
 
 *Watching plays on television, video, or as a movie is not permitted.*
 
-{{#wb-req item="2" requirement="Write a one-act play that will take at least eight minutes to perform. The play must have a main character, conflict, and a climax."}}
+{{#wb-req item="2" requirement="Write a one-act play that will take at least 10 minutes to perform. The play must have a main character, conflict, and a climax."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -56,11 +56,15 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+{{#wb-req item="3j" requirement="Serve as a musical director for a musical theater production."}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
 {{#wb-req item="4" requirement="Mime or pantomime any ONE of the following chosen by your counselor."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4a" requirement="You have come into a large room. It is full of pictures, furniture, other things of interest."}}
+{{#wb-req item="4a" requirement="You have come into a large room. It is full of pictures, furniture, and other things of interest."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -84,6 +88,6 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5" requirement="Explain the following: proscenium arch, central or arena staging, center stage, stage right, stage left, downstage, upstage, stage crew, flies, portal, cyclorama, stage brace, spotlight, floodlight, lighting control board, sound mixing desk."}}
+{{#wb-req item="5" requirement="Explain the following: proscenium arch, central or arena staging, center stage, stage right, stage left, downstage, upstage, stage crew, flies, portal, cyclorama, stage brace, spotlight, floodlight, lighting control board, sound mixing desk, thrust staging, ground plans, and sightlines."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

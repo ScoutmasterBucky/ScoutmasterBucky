@@ -2,7 +2,7 @@
 badge: archaeology
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 
@@ -74,17 +74,25 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="8" requirement="Do either A or B of the following:"}}
+{{#wb-req item="8" requirement="Research a group of people who lived in your area more than 100 years ago. Find out about their ways of life, including housing, clothing, arts and crafts, tools, trade and markets, rituals and religions, and diets, and their relationships with other groups of people in the area. Describe what you would expect to find at an archaeological site where these people lived. Explain how these people influenced your current community."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="8a" requirement="With your parent's and counselor's permission, assist a qualified archaeologist for at least eight hours with a project being worked on. Projects may include surveying, site monitoring, site stabilization, excavation, laboratory analysis, use of digital archaeological technology, or public outreach. Describe your involvement in the project, what you learned about archaeology, and the steps of archaeological inquiry."}}
+{{#wb-req item="9" requirement="Identify three career opportunities in archaeology. Pick one and explain how to prepare for such a career. Discuss with your counselor what education and training are required, and explain why this profession might interest you."}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="10" requirement="Do either A or B of the following:"}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="10a" requirement="With your parent's and counselor's permission, assist a qualified archaeologist for at least eight hours with a project being worked on. Projects may include surveying, site monitoring, site stabilization, excavation, laboratory analysis, use of digital archaeological technology, or public outreach. Describe your involvement in the project, what you learned about archaeology, and the steps of archaeological inquiry."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
 *Note: Visiting an archaeological site will require advance planning. An archaeological site during study can be a dangerous place. While there, you will need to closely follow the archaeologist's directions and comply with all the safety procedures. Be aware of the changing conditions at the site.*
 
-{{#wb-req item="8b" requirement="With your counselor's approval, take part in a simulated archaeological project designed by a qualified archaeologist. The project must include the use of a simulated archaeological site including artifacts and features for the site. Using the steps of archaeological inquiry, analyze the \"artifacts and features\" and document the spatial relationships of the \"artifacts and features\" at the simulated site."}}
+{{#wb-req item="10b" requirement="With your counselor's approval, take part in a simulated archaeological project designed by a qualified archaeologist. The project must include the use of a simulated archaeological site including artifacts and features for the site. Using the steps of archaeological inquiry, analyze the \"artifacts and features\" and document the spatial relationships of the \"artifacts and features\" at the simulated site."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -92,22 +100,14 @@ Explain how the environment and time can affect the interpretation of an artifac
 
 *Note: To find out how to make a simulated archaeological site, talk with a professional archaeologist, trained avocational archaeologist, museum school instructor, junior high or high school science teacher, advisor from a local archaeology society, or other qualified instructor.*
 
-{{#wb-req item="9" requirement="Under the supervision of a qualified archaeologist or instructor, do ONE of the following:"}}
+{{#wb-req item="11" requirement="Under the supervision of a qualified archaeologist or instructor, do ONE of the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="9a" requirement="Help prepare an archaeological exhibit for display in a museum, visitor center, school, or other public area."}}
+{{#wb-req item="11a" requirement="Help prepare an archaeological exhibit for display in a museum, visitor center, school, or other public area."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="9b" requirement="Use the methods of experimental archaeology to re-create an item or to practice a skill from the past. Write a brief report explaining the experiment and its results."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="10" requirement="Research a group of people who lived in your area more than 100 years ago. Find out about their ways of life, including housing, clothing, arts and crafts, tools, trade and markets, rituals and religions, and diets, and their relationships with other groups of people in the area. Describe what you would expect to find at an archaeological site where these people lived. Explain how these people influenced your current community."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="11" requirement="Identify three career opportunities in archaeology. Pick one and explain how to prepare for such a career. Discuss with your counselor what education and training are required, and explain why this profession might interest you."}}
+{{#wb-req item="11b" requirement="Use the methods of experimental archaeology to re-create an item or to practice a skill from the past. Write a brief report explaining the experiment and its results."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

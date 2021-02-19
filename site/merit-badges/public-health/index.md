@@ -2,22 +2,16 @@
 badge: public-health
 layout: smb-merit-badge
 requirements: true
-year: 2020
+year: 2021
 ---
 
 {{#requirements}}
-1. Do the following:
-    (a) Explain what public health is. Explain how Escherichia coli (E. coli), tetanus, HIV/AIDS, malaria, salmonellosis, and Lyme disease are contracted.
-    (b) Choose any FOUR of the following diseases or conditions, and explain how each one is contracted and possibly prevented: gonorrhea, West Nile virus, Zika, botulism, influenza, syphilis, hepatitis, emphysema, meningitis, herpes, lead poisoning.
-    (c) For each disease or condition in requirement 1b, explain:
-        (i) The type or form of the malady (viral, bacterial, environmental, toxin)
-        (ii) Any possible vectors for transmission
-        (iii) Ways to help prevent exposure or the spread of infection
-        (iv) Available treatments
+1. Explain what public health is. Explain how Escherichia coli (E. coli), tetanus, AIDS, encephalitis, salmonellosis, Lyme disease, and coronavirus (COVID-19) are contracted. Then, pick any four of the following diseases and explain how each one is contracted and possibly prevented: gonorrhea, West Nile virus, botulism, influenza, syphilis, hepatitis, emphysema, meningitis, herpes, lead poisoning. For all 10 diseases, explain the type or form of the disease (viral, bacterial, environmental, toxin), any possible vectors for transmission, ways to help prevent exposure or the spread of infection, and available treatments.
 2. Do the following:
     (a) Explain the meaning of *immunization*.
     (b) Name eight diseases against which a young child should be immunized, two diseases against which everyone should be reimmunized periodically, and one immunization everyone should receive annually.
     (c) Using the list of diseases and conditions in requirement 1b, discuss with your counselor those which currently have no immunization available.
+        *NOTE: Requirement 1 was updated and the list of diseases is now in requirement 1. The official requirements still say 1b.*
 3. Discuss the importance of safe drinking water in terms of the spread of disease. Then, demonstrate two ways for making water safe to drink that can be used while at camp. In your demonstration, explain how dishes and utensils should be washed, dried, and kept sanitary at home and in camp.
 4. Explain what a vector is and how insects and rodents can be controlled in your home, in your community, and at camp. Tell why this is important. In your discussion, explain which vectors can be easily controlled by individuals and which ones require long-term, collective action.
 5. With your parent's and counselor's approval, do ONE of the following:

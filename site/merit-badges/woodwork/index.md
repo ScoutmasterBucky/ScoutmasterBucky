@@ -2,7 +2,7 @@
 badge: woodwork
 layout: smb-merit-badge
 requirements: true
-year: 2020
+year: 2021
 whatToBring:
     - Totin' Chip Card and/or proof of completion
 ---
@@ -37,9 +37,9 @@ whatToBring:
     (b) Make working drawings of a project needing curved or incised cuttings and build it.
     (c) Make working drawings of a project needing miter, dowel, or mortise and tenon joints and build it.
     (d) Make a cabinet, box, or something else with a door or lid fastened with inset hinges.
-    (e) Help make and repair wooden toys for underprivileged children OR help carry out a woodworking service project approved by your counselor for a charitable organization.
+    (e) Help make wooden toys for underprivileged children OR help carry out a woodworking service project approved by your counselor for a charitable organization.
 {{#note type="inPerson"}}The counselor has put together a plan including materials and tools for Scouts to use for working on this requirement in the class. Most of the time in the class will be spent working on the projects.{{/note}}
 {{#note type="online"}}{{/note}}
-7. Talk with a cabinetmaker or carpenter. Find out about the training, apprenticeship, career opportunities, work conditions, work hours, pay rates, and union organization that woodworking experts have in your area.
+7. Talk with a cabinetmaker or finish carpenter. Learn about the training, apprenticeships, career opportunities, work conditions, work hours, pay rates, and union organization that woodworking experts have in your area.
 {{#note type="online"}}{{/note}}
 {{/requirements}}

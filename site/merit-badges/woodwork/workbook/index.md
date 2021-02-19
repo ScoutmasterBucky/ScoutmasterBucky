@@ -2,7 +2,7 @@
 badge: woodwork
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 
@@ -74,10 +74,10 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="6e" requirement="Help make and repair wooden toys for underprivileged children OR help carry out a woodworking service project approved by your counselor for a charitable organization."}}
+{{#wb-req item="6e" requirement="Help make wooden toys for underprivileged children OR help carry out a woodworking service project approved by your counselor for a charitable organization."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="7" requirement="Talk with a cabinetmaker or carpenter. Find out about the training, apprenticeship, career opportunities, work conditions, work hours, pay rates, and union organization that woodworking experts have in your area."}}
+{{#wb-req item="7" requirement="Talk with a cabinetmaker or finish carpenter. Learn about the training, apprenticeships, career opportunities, work conditions, work hours, pay rates, and union organization that woodworking experts have in your area."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

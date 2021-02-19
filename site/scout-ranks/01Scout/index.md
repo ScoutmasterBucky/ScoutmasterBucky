@@ -46,8 +46,8 @@ The requirements for Scout, Tenderfoot, Second Class, and First Class ranks may 
     4a. Show how to tie a square knot, two half-hitches, and a taut-line hitch. Explain how each knot is used.
     4b. Show the proper care of a rope by learning how to whip and fuse the ends of different kinds of rope.
 5. Tell what you need to know about pocketknife safety.
-6. With your parent or guardian, complete the exercises in the pamphlet [How to Protect Your Children from Child Abuse: A Parent’s Guide](https://filestore.scouting.org/filestore/pdf/100-015(18).pdf) and earn the Cyber Chip Award for your grade.
-*If your family does not have internet access at home AND you do not have ready internet access at school or another public place or via a mobile device, the Cyber Chip portion of this requirement may be waived by your Scoutmaster in consultation with your parent or guardian.*
+6. With your parent or guardian, complete the exercises in the pamphlet [How to Protect Your Children from Child Abuse: A Parent’s Guide](https://filestore.scouting.org/filestore/pdf/100-015(18).pdf) and earn the [Cyber Chip]({{@root.rootPath}}/other-awards/cyber-chip/) award for your grade.
+*If your family does not have internet access at home AND you do not have ready internet access at school or another public place or via a mobile device, the [Cyber Chip]({{@root.rootPath}}/other-awards/cyber-chip/) portion of this requirement may be waived by your Scoutmaster in consultation with your parent or guardian.*
 7. Since joining the troop and while working on the Scout rank, participate in a Scoutmaster conference.
 
 {{/requirements}}

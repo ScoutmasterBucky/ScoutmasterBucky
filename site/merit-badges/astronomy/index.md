@@ -2,7 +2,7 @@
 badge: astronomy
 layout: smb-merit-badge
 requirements: true
-year: 2020
+year: 2021
 whatToBring:
     - Weather appropriate clothing for the time of year and location of the class for outdoor participation
     - Binoculars or telescope (optional)

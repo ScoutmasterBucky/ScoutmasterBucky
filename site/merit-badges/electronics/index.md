@@ -2,7 +2,7 @@
 badge: electronics
 layout: smb-merit-badge
 requirements: true
-year: 2020
+year: 2021
 ---
 
 {{#requirements}}
@@ -27,5 +27,6 @@ year: 2020
 5. Do the following:
     (a) Show how to solve a simple problem involving current, voltage, and resistance using Ohm's law.
     (b) Tell about the need for and the use of test equipment in electronics. Name three types of test equipment. Tell how they operate.
+    (c) Demonstrate to your counselor how to read the colored bands of a resistor to determine its resistance value.
 6. Find out about three career opportunities in electronics that interest you. Discuss with and explain to your counselor what training and education are needed for each position.
 {{/requirements}}

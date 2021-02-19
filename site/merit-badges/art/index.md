@@ -2,7 +2,7 @@
 badge: art
 layout: smb-merit-badge
 requirements: true
-year: 2020
+year: 2021
 whatToBring:
     - Scouts should consider bringing a smock or an old shirt for in-class project work
 ---

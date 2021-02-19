@@ -2,7 +2,7 @@
 badge: personal-management
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 
@@ -258,4 +258,4 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-*Always be sure to have proper permission before using the internet. To learn about appropriate behavior and etiquette while online, consider earning the BSA Cyber Chip. Go to [BSA's Cyber Chip](https://www.scouting.org/training/youth-protection/cyber-chip/) for more information.*
+*Always be sure to have proper permission before using the internet. To learn about appropriate behavior and etiquette while online, consider earning the BSA [Cyber Chip]({{@root.rootPath}}/other-awards/cyber-chip/). Go to [BSA's Cyber Chip](https://www.scouting.org/training/youth-protection/cyber-chip/) for more information.*

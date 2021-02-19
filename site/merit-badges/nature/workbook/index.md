@@ -2,7 +2,7 @@
 badge: nature
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 
@@ -121,6 +121,10 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="4h2" requirement="Collect and identify five different types of rocks from your area."}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="5" requirement="Discuss the principle of Leave No Trace and how it relates to nature."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

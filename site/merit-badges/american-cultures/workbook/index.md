@@ -2,7 +2,7 @@
 badge: american-cultures
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 {{#wb-special class="P(1em) Mx(2em)"}}
