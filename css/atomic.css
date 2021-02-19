@@ -1,3 +1,6 @@
+.Bd\(n\) {
+  border: none;
+}
 .Bdc\(gray\) {
   border-color: gray;
 }
@@ -283,11 +286,17 @@
 .H\(218px\) {
   height: 218px;
 }
+.H\(250px\) {
+  height: 250px;
+}
 .H\(2em\) {
   height: 2em;
 }
 .H\(315px\) {
   height: 315px;
+}
+.H\(400px\) {
+  height: 400px;
 }
 .H\(480px\) {
   height: 480px;
