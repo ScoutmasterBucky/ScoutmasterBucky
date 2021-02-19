@@ -12,5 +12,7 @@ registrationLink: https://clever-coyote.ticketspice.com/splash
 
 We live in a consumer society, where people make new goods all the time and bring them to market in the hopes that they sell a bunch of them. Learn some of what it takes to research, design, and promote a new idea and turn it into something tangible.
 
-* {{>nova-link nova="splash" program="scouts-bsa"}} (Scouts BSA) - [Register Here]({{registrationLink}})
-* {{>nova-link nova="wade" program="venturing-and-sea-scouts"}} (Venturing and Sea Scouts) - [Register Here]({{registrationLink}})
+* {{>nova-link nova="splash" program="scouts-bsa"}} (Scouts BSA)
+* {{>nova-link nova="wade" program="venturing-and-sea-scouts"}} (Venturing and Sea Scouts)
+
+{{>ticketspice widget="2b9922494ccab6f702128e23fd867112" height="250px"}}
