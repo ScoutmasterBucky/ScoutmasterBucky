@@ -12,4 +12,6 @@ registrationLink: https://clever-coyote.ticketspice.com/let-it-grow
 
 We eat food, typically on a daily basis, but not many of us consider what science has done to help us out with food production, distribution, storage, and consumption. Take a closer look at what we use to fuel our bodies and discover more about the food industry.
 
-* {{>nova-link nova="let-it-grow" program="scouts-bsa"}} (Scouts BSA) - [Register Here]({{registrationLink}})
+* {{>nova-link nova="let-it-grow" program="scouts-bsa"}} (Scouts BSA)
+
+{{>ticketspice widget="1975a869a0582c32b4fe09ce9fa0e1cf" height="250px"}}

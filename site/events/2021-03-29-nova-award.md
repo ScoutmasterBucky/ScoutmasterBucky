@@ -12,4 +12,6 @@ registrationLink: https://clever-coyote.ticketspice.com/next-big-thing
 
 We live in a consumer society, where people make new goods all the time and bring them to market in the hopes that they sell a bunch of them. Learn some of what it takes to research, design, and promote a new idea and turn it into something tangible.
 
-* {{>nova-link nova="next-big-thing" program="scouts-bsa"}} (Scouts BSA) - [Register Here]({{registrationLink}})
+* {{>nova-link nova="next-big-thing" program="scouts-bsa"}} (Scouts BSA)
+
+{{>ticketspice widget="4b6660f9de9b2b2f6bdc61300bc5fd3d" height="250px"}}

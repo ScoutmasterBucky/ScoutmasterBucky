@@ -14,6 +14,8 @@ Humans are known for using tools, and many of them are considered machines. Our 
 
 This Nova award is offered for all Scouting programs:
 
-* {{>nova-link nova="swing" program="cub-scouts"}} (Cub Scouts) - [Register Here]({{registrationLink}})
-* {{>nova-link nova="whoosh" program="scouts-bsa"}} (Scouts BSA) - [Register Here]({{registrationLink}})
-* {{>nova-link nova="hang-on" program="venturing-and-sea-scouts"}} (Venturing and Sea Scouts) - [Register Here]({{registrationLink}})
+* {{>nova-link nova="swing" program="cub-scouts"}} (Cub Scouts)
+* {{>nova-link nova="whoosh" program="scouts-bsa"}} (Scouts BSA)
+* {{>nova-link nova="hang-on" program="venturing-and-sea-scouts"}} (Venturing and Sea Scouts)
+
+{{>ticketspice widget="9df29f3d705e76576bd64d9d980cc48f" height="250px"}}
