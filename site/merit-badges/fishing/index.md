@@ -2,7 +2,7 @@
 badge: fishing
 layout: smb-merit-badge
 requirements: true
-year: 2020
+year: 2021
 ---
 
 {{#requirements}}
@@ -22,5 +22,5 @@ year: 2020
     Scouts should obey all local fishing regulations and property laws.
 8. Explain what good outdoor sportsmanlike behavior is and how it relates to anglers. Tell how the Outdoor Code of the Boy Scouts of America relates to a fishing sports enthusiast, including the aspects of littering, trespassing, courteous behavior, and obeying fishing regulations.
 9. Catch at least one fish and identify it.
-10. If regulations and health concerns permit, clean and cook a fish you have caught. Otherwise, acquire a fish and cook it. (You do not need to eat your fish.)
+10. If regulations and health concerns permit, clean and cook a fish you have caught. If you are unable to catch a fish for eating, acquire a fish, clean the fish you acquired, and cook the fish you acquired. (It is not required that you eat the fish.)
 {{/requirements}}

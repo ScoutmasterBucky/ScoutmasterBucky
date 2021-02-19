@@ -2,7 +2,7 @@
 badge: electricity
 layout: smb-merit-badge
 requirements: true
-year: 2020
+year: 2021
 ---
 
 {{#requirements}}
@@ -22,7 +22,7 @@ year: 2020
 9. Do the following:
     (a) Read an electric meter and, using your family's electric bill, determine the energy cost from the meter readings.
     (b) Discuss with your counselor five ways in which your family can conserve energy.
-10. Explain the following electrical terms: volt, ampere, watt, ohm, resistance, potential difference, rectifier, rheostat, conductor, ground, circuit, and short circuit.
+10. Explain the following electrical terms: volt, ampere, watt, ohm, resistance, potential difference, rectifier, rheostat, conductor, ground, GFCI, circuit, and short circuit.
 11. Do any TWO of the following:
     (a) Connect a buzzer, bell, or light with a battery. Have a key or switch in the line.
     (b) Make and run a simple electric motor (not from a kit).

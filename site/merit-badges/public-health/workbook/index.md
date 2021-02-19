@@ -2,12 +2,22 @@
 badge: public-health
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 
-{{#wb-req item="1" requirement="Do the following:"}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{#wb-req item="1" requirement="Explain what public health is. Explain how Escherichia coli (E. coli), tetanus, AIDS, encephalitis, salmonellosis, Lyme disease, and coronavirus (COVID-19) are contracted. Then, pick any four of the following diseases and explain how each one is contracted and possibly prevented: gonorrhea, West Nile virus, botulism, influenza, syphilis, hepatitis, emphysema, meningitis, herpes, lead poisoning. For all 10 diseases, explain the type or form of the disease (viral, bacterial, environmental, toxin), any possible vectors for transmission, ways to help prevent exposure or the spread of infection, and available treatments."}}
+{{#wb-req-text lines=4}}Escherichia coli (E. coli){{/wb-req-text}}
+{{#wb-req-text lines=4}}Tetanus{{/wb-req-text}}
+{{#wb-req-text lines=4}}AIDS{{/wb-req-text}}
+{{#wb-req-text lines=4}}Encephalitis{{/wb-req-text}}
+{{#wb-req-text lines=4}}Salmonellosis{{/wb-req-text}}
+{{#wb-req-text lines=4}}Lyme disease{{/wb-req-text}}
+{{#wb-req-text lines=4}}Coronavirus (COVID-19){{/wb-req-text}}
+{{#wb-req-text lines=4}}Choice 1:{{/wb-req-text}}
+{{#wb-req-text lines=4}}Choice 2:{{/wb-req-text}}
+{{#wb-req-text lines=4}}Choice 3:{{/wb-req-text}}
+{{#wb-req-text lines=4}}Choice 4:{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="1a" requirement="Explain what public health is. Explain how Escherichia coli (E. coli), tetanus, HIV/AIDS, malaria, salmonellosis, and Lyme disease are contracted."}}

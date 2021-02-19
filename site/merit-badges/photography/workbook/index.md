@@ -2,7 +2,7 @@
 badge: photography
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 
@@ -10,11 +10,11 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="1a" requirement="Explain to your counselor the most likely hazards you may encounter while working with photography and what you should do to anticipate, mitigate, prevent, and respond to these hazards. Explain how you would prepare for exposure to environmental situations such as weather, sun, and water"}}
+{{#wb-req item="1a" requirement="Show your counselor your current, up-to-date Cyber Chip."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="1b" requirement="Show your counselor your current, up-to-date Cyber Chip."}}
+{{#wb-req item="1b" requirement="Explain to your counselor the most likely hazards you may encounter while working with photography and what you should do to anticipate, mitigate, prevent, and respond to these hazards. Explain how you would prepare for exposure to environmental situations such as weather, sun, and water"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -46,7 +46,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2g" requirement="Timing"}}
+{{#wb-req item="2g" requirement="Decisive moment (action or expression captured by the photographer)"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -66,7 +66,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4c" requirement="Photograph one subject with two different depth of fields."}}
+{{#wb-req item="4c" requirement="Photograph one subject with two different depths of field."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -74,7 +74,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5" requirement="Photograph THREE of the following, then share your work your counselor."}}
+{{#wb-req item="5" requirement="Photograph THREE of the following, then share your work with your counselor."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -118,7 +118,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="7" requirement="Using images other than those created for requirements 4, 5 or 6, produce a visual story to document an event to photograph OR choose a topic that interests you to photograph. Do the following:"}}
+{{#wb-req item="7" requirement="Using images other than those created for requirements 4, 5, and 6, produce a visual story to document an event to photograph OR choose a topic that interests you to photograph. Do the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

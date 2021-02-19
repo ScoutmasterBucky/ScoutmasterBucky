@@ -2,7 +2,7 @@
 badge: snow-sports
 layout: smb-merit-badge
 requirements: true
-year: 2020
+year: 2021
 ---
 
 {{#requirements}}

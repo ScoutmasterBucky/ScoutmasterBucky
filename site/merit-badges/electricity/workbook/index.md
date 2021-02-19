@@ -2,7 +2,7 @@
 badge: electricity
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 
@@ -70,7 +70,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="10" requirement="Explain the following electrical terms: volt, ampere, watt, ohm, resistance, potential difference, rectifier, rheostat, conductor, ground, circuit, and short circuit."}}
+{{#wb-req item="10" requirement="Explain the following electrical terms: volt, ampere, watt, ohm, resistance, potential difference, rectifier, rheostat, conductor, ground, GFCI, circuit, and short circuit."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

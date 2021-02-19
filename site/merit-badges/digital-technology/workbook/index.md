@@ -2,7 +2,7 @@
 badge: digital-technology
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 
@@ -66,11 +66,11 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5a" requirement="Describe how digital devices are connected to the Internet."}}
+{{#wb-req item="5a" requirement="Describe how digital devices are connected to the internet."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5b" requirement="Using an Internet search engine (with your parent's permission), find ideas about how to conduct a troop court of honor or campfire program. Print out a copy of the ideas from at least three different websites. Share what you found with your counselor, and explain how you used the search engine to find this information."}}
+{{#wb-req item="5b" requirement="Using an internet search engine (with your parent or guardian's permission), find ideas from at least three different websites about how to conduct a troop court of honor or campfire program. Present the ideas to your counselor, and explain how you used a search engine to find this information."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -106,11 +106,11 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="6g" requirement="Create a blog and use it as an online journal of your Scouting activities, including group discussions and meetings, campouts, and other events. Include at least five entries and two photographs or illustrations. Share your blog with your counselor. You need not post the blog to the Internet; however, if you choose to go live with your blog, you must first share it with your parents AND counselor AND get their approval."}}
+{{#wb-req item="6g" requirement="Create a blog and use it as an online journal of your Scouting activities, including group discussions and meetings, campouts, and other events. Include at least five entries and two photographs or illustrations. Share your blog with your counselor. You need not post the blog to the internet; however, if you choose to go live with your blog, you must first share it with your parents AND counselor AND get their approval."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="6h" requirement="Create a Web page for your troop, patrol, school, or place of worship. Include at least three articles and two photographs or illustrations. Include at least one link to a website of interest to your audience. You need not post the page to the Internet; however, if you decide to do so, you must first share the Web page with your parents AND counselor AND get their approval."}}
+{{#wb-req item="6h" requirement="Create a Web page for your troop, patrol, school, or place of worship. Include at least three articles and two photographs or illustrations. Include at least one link to a website of interest to your audience. You need not post the page to the internet; however, if you decide to do so, you must first share the Web page with your parents AND counselor AND get their approval."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -142,7 +142,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="8c" requirement="Do an Internet search for an organization that collects discarded digital technology hardware or devices for repurposing or recycling. Find out what happens to that waste. Share with your counselor what you found."}}
+{{#wb-req item="8c" requirement="Do an internet search for an organization that collects discarded digital technology hardware or devices for repurposing or recycling. Find out what happens to that waste. Share with your counselor what you found."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

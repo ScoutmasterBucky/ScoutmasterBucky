@@ -2,7 +2,7 @@
 badge: nature
 layout: smb-merit-badge
 requirements: true
-year: 2020
+year: 2021
 ---
 
 {{#requirements}}
@@ -36,6 +36,7 @@ year: 2020
     (h) Soils and Rocks
         (1) Collect and identify soils found in different layers of a soil profile.
         (2) Collect and identify five different types of rocks from your area.
+5. Discuss the principle of Leave No Trace and how it relates to nature.
 *NOTE: In most cases all specimens should be returned to the wild at the location of the original capture after the requirements have been met. Check with your merit badge counselor for those instances where the return of these specimens would not be appropriate.*
 *Under the Endangered Species Act of 1973, some plants and animals are or may be protected by federal law. The same ones and/or others may be protected by state law. Be sure that you do not collect protected species.*
 *Your state may require that you purchase and carry a license to collect certain species. Check with the wildlife and fish and game officials in your state regarding species regulations before you begin to collect.*

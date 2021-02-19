@@ -2,7 +2,7 @@
 badge: rowing
 layout: smb-merit-badge
 requirements: true
-year: 2020
+year: 2021
 ---
 
 {{#requirements}}
@@ -10,7 +10,7 @@ year: 2020
     (a) Explain to your counselor the most likely hazards you may encounter while participating in rowing activities, including weather- and water-related hazards, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
     (b) Review prevention, symptoms, and first-aid treatment for the following injuries or illnesses that can occur while rowing: blisters, hypothermia, heat related illnesses, dehydration, sunburn, sprains, and strains.
     (c) Review the BSA Safety Afloat policy. Explain to your counselor how this applies to rowing activities.
-2. Before doing the following requirements, successfully complete the BSA swimmer test.
+2. Before completing requirements 4, 5, 6, and 7, successfully complete the BSA swimmer test.
 3. Review the characteristics of life jackets most appropriate for rowing and why one must always be worn while rowing. Then demonstrate how to select and fit a life jacket.
 4. Do ONE of the following:
     (a) Alone or with a passenger, do the following in either a fixed-seat or sliding-seat rowboat:

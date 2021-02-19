@@ -2,7 +2,7 @@
 badge: disabilities-awareness
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 
@@ -10,11 +10,11 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="1a" requirement="Define and discuss with your counselor the following disabilities awareness terms: disability, accessibility, adaptation, accommodation, invisible disability, and person-first language."}}
+{{#wb-req item="1a" requirement="Define and discuss with your counselor the following disabilities awareness terms: disability, accessibility, adaptation, accommodation, invisible disability, person-first language, and inclusion."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="1b" requirement="Explain why proper disability etiquette is important, and how it may differ depending on the specific disability."}}
+{{#wb-req item="1b" requirement="Explain why proper disability etiquette is important, and how it may differ depending on the specific disability. Give three examples"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

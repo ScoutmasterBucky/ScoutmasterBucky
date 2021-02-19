@@ -2,7 +2,7 @@
 badge: motorboating
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 
@@ -10,7 +10,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="1a" requirement="Explain to your counselor the most likely hazards you may encounter while motorboating, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards."}}
+{{#wb-req item="1a" requirement="Discuss with your counselor the following hazards you might encounter while motorboating: flammable fuel; carbon monoxide; propellers; collisions; falls overboard; capsize; running aground. Explain what you should do to anticipate, help prevent, mitigate, and respond to these hazards."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -26,7 +26,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2a" requirement="Before doing requirements 3 through 6, successfully complete the BSA swimmer test."}}
+{{#wb-req item="2a" requirement="Before doing requirement 5, successfully complete the BSA swimmer test."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -40,7 +40,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3a" requirement="Explain inboard, outboard, and inboard/outboard motors, and the uses and advantages of each. Discuss the special features of a bass boat and a ski boat."}}
+{{#wb-req item="3a" requirement="Explain inboard, outboard, and inboard/outboard motors, and the uses and advantages of each."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -56,43 +56,39 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4" requirement="Show you know safety laws for motorboating by doing the following:"}}
+{{#wb-req item="4" requirement="Show you know safety guidelines for motorboating by doing the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4a" requirement="Have a permit to run a motorboat, if needed."}}
+{{#wb-req item="4a" requirement="Review how each item of the BSA Safety Afloat policy applies, including checking the weather prior to and during time on the water, confirming all required equipment is present and functional, and following a float plan."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4b" requirement="Explain the rules or laws that apply to recreational boating in your area or state."}}
+{{#wb-req item="4b" requirement="Explain the rules or laws that apply to recreational boating in your area or state. Have a permit to operate a motorboat, if required by the laws of your state. Discuss how you would find information regarding the boating laws in different states."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4c" requirement="Discuss how the hazards of weather and heavy water conditions can affect both safety and performance in motorboating."}}
+{{#wb-req item="4c" requirement="Discuss how hazards of weather and heavy water conditions can affect safety and performance in motorboating."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4d" requirement="Promise that you will follow BSA Safety Afloat guidelines. Explain the meaning of each point."}}
+{{#wb-req item="4d" requirement="Discuss with your counselor the nautical rules of the road and describe the national and your state's aids to navigation."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4e" requirement="Discuss with your counselor the nautical rules of the road and describe the national and your state's aids to navigation."}}
+{{#wb-req item="4e" requirement="Explain and show the correct use of equipment required by both state and federal regulations to be carried aboard a motorboat."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4f" requirement="Explain and show the correct use of equipment required by both state and federal regulations to be carried aboard a motorboat."}}
+{{#wb-req item="4f" requirement="Explain federal and state rules for a ventilation system, and tell why these rules are required."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4g" requirement="Explain federal and state rules for a ventilation system, and tell why these rules are required."}}
+{{#wb-req item="4g" requirement="Explain the use of lights (sight signals) and sound signals on motorboats."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4h" requirement="Explain the use of lights (sight signals) and sound signals on motorboats."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="4i" requirement="Discuss the common types of anchors used in motorboating and under what conditions each would be preferred. Explain proper anchoring techniques."}}
+{{#wb-req item="4h" requirement="Discuss the common types of anchors used in motorboating and under what conditions each would be preferred. Explain proper anchoring techniques."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -100,7 +96,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5a" requirement="Board and assist others in boarding."}}
+{{#wb-req item="5a" requirement="Board and assist others in boarding. Confirm that all passengers on board are wearing properly fitted life jackets."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -108,7 +104,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5c" requirement="Get under way from dockside or from a beach launch."}}
+{{#wb-req item="5c" requirement="If equipped, attach a kill switch and safely start the motor. Get underway from dockside or from a beach launch."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

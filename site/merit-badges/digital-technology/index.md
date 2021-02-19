@@ -2,7 +2,7 @@
 badge: digital-technology
 layout: smb-merit-badge
 requirements: true
-year: 2020
+year: 2021
 ---
 
 {{#requirements}}
@@ -21,8 +21,8 @@ year: 2020
     (b) Name four software programs or mobile apps you or your family use, and explain how each one helps you.
     (c) Describe what malware is, and explain how to protect your digital devices and the information stored on them.
 5. Do the following:
-    (a) Describe how digital devices are connected to the Internet.
-    (b) Using an Internet search engine (with your parent's permission), find ideas about how to conduct a troop court of honor or campfire program. Print out a copy of the ideas from at least three different websites. Share what you found with your counselor, and explain how you used the search engine to find this information.
+    (a) Describe how digital devices are connected to the internet.
+    (b) Using an internet search engine (with your parent or guardian's permission), find ideas from at least three different websites about how to conduct a troop court of honor or campfire program. Present the ideas to your counselor, and explain how you used a search engine to find this information.
     (c) Use a Web browser to connect to an HTTPS (secure) website (with your parent's permission). Explain to your counselor how to tell whether the site’s security certificate can be trusted, and what it means to use this kind of connection.
 6. Do THREE of the following. For each project you complete, copy the files to a backup device and share the finished projects with your counselor.
     (a) Using a spreadsheet or database program, develop a food budget for a patrol weekend campout OR create a troop roster that includes the name, rank, patrol, and telephone number of each Scout. Show your counselor that you can sort the roster by each of the following categories: rank, patrol, and alphabetically by name.
@@ -31,8 +31,8 @@ year: 2020
     (d) Using a presentation software program, develop a report about a topic approved by your counselor. For your presentation, create at least five slides, with each one incorporating text and some type of visual such as a photograph or an illustration.
     (e) Using a digital device, take a picture of a troop activity. Send or transfer this image to a device where the picture can be shared with your counselor.
     (f) Make a digital recording of your voice, transfer the file to a different device, and have your counselor play back the recording.
-    (g) Create a blog and use it as an online journal of your Scouting activities, including group discussions and meetings, campouts, and other events. Include at least five entries and two photographs or illustrations. Share your blog with your counselor. You need not post the blog to the Internet; however, if you choose to go live with your blog, you must first share it with your parents AND counselor AND get their approval.
-    (h) Create a Web page for your troop, patrol, school, or place of worship. Include at least three articles and two photographs or illustrations. Include at least one link to a website of interest to your audience. You need not post the page to the Internet; however, if you decide to do so, you must first share the Web page with your parents AND counselor AND get their approval.
+    (g) Create a blog and use it as an online journal of your Scouting activities, including group discussions and meetings, campouts, and other events. Include at least five entries and two photographs or illustrations. Share your blog with your counselor. You need not post the blog to the internet; however, if you choose to go live with your blog, you must first share it with your parents AND counselor AND get their approval.
+    (h) Create a Web page for your troop, patrol, school, or place of worship. Include at least three articles and two photographs or illustrations. Include at least one link to a website of interest to your audience. You need not post the page to the internet; however, if you decide to do so, you must first share the Web page with your parents AND counselor AND get their approval.
 7. Do the following:
     (a) Explain to your counselor each of these protections and why they exist: copyright, patents, trademarks, trade secrets.
     (b) Explain when it is permissible to accept a free copy of a program from a friend.
@@ -40,7 +40,7 @@ year: 2020
 8. Do TWO of the following:
     (a) Describe why it is important to properly dispose of digital technology. List at least three dangerous chemicals that could be used to create digital devices or used inside a digital device.
     (b) Explain to your counselor what is required to become a certified recycler of digital technology hardware or devices.
-    (c) Do an Internet search for an organization that collects discarded digital technology hardware or devices for repurposing or recycling. Find out what happens to that waste. Share with your counselor what you found.
+    (c) Do an internet search for an organization that collects discarded digital technology hardware or devices for repurposing or recycling. Find out what happens to that waste. Share with your counselor what you found.
     (d) Visit a recycling center that disposes of digital technology hardware or devices. Find out what happens to that waste. Share what you learned with your counselor.
     (e) Find a battery recycling center near you and find out what it does to recycle batteries. Share what you have learned with your counselor about the proper methods for recycling batteries.
 9. Do ONE of the following:

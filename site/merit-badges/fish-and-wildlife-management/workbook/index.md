@@ -2,7 +2,7 @@
 badge: fish-and-wildlife-management
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 
@@ -14,7 +14,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3" requirement="Describe some practical ways in which everyone can help with the fish and wildlife conservation effort."}}
+{{#wb-req item="3" requirement="Describe some ways in which everyone can help with fish and wildlife conservation."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

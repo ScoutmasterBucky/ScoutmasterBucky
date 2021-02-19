@@ -2,7 +2,7 @@
 badge: fishing
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 
@@ -68,6 +68,6 @@ Scouts should obey all local fishing regulations and property laws.
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="10" requirement="If regulations and health concerns permit, clean and cook a fish you have caught. Otherwise, acquire a fish and cook it. (You do not need to eat your fish.)"}}
+{{#wb-req item="10" requirement="If regulations and health concerns permit, clean and cook a fish you have caught. If you are unable to catch a fish for eating, acquire a fish, clean the fish you acquired, and cook the fish you acquired. (It is not required that you eat the fish.)"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

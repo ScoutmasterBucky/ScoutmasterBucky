@@ -2,7 +2,7 @@
 badge: electronics
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 
@@ -87,6 +87,10 @@ year: 2020
 {{/wb-req}}
 
 {{#wb-req item="5b" requirement="Tell about the need for and the use of test equipment in electronics. Name three types of test equipment. Tell how they operate."}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="5c" requirement="Demonstrate to your counselor how to read the colored bands of a resistor to determine its resistance value."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

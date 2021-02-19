@@ -2,7 +2,7 @@
 badge: fly-fishing
 layout: smb-merit-badge
 requirements: true
-year: 2020
+year: 2021
 ---
 
 {{#requirements}}
@@ -25,6 +25,6 @@ year: 2020
     (b) Discuss the meaning and importance of catch and release. Describe how to properly release a fish safely to the water.
 8. Obtain and review a copy of the regulations affecting game fishing where you live or where you pan to fish. Explain why they were adopted and what is accomplished by following them.
 9. Discuss what good sportsmanlike behavior is and how it relates to anglers. Tell how the Outdoor Code of the Boy Scouts of America relates to a fishing enthusiast, including the aspects of littering, trespassing, courteous behavior, "catch and release," and obeying fishing regulations.
-10. Catch at least one fish and identify it.
-11. If regulations and health concerns permit, clean and cook a fish you have caught. Otherwise, acquire a fish and cook it. (You do not need to eat your fish.)
+10. Catch at least one fish using a fly rod and a fly. Identify it and quickly release it live back into the water. Discuss this experience with your counselor.
+11. If regulations and health concerns permit, clean and cook a fish you have caught. If you are unable to catch a fish for eating, acquire a fish, clean the fish you acquired, and cook the fish you acquired. (It is not required that you eat the fish.)
 {{/requirements}}

@@ -2,13 +2,13 @@
 badge: disabilities-awareness
 layout: smb-merit-badge
 requirements: true
-year: 2020
+year: 2021
 ---
 
 {{#requirements}}
 1. Do the following:
-    (a) Define and discuss with your counselor the following disabilities awareness terms: disability, accessibility, adaptation, accommodation, invisible disability, and person-first language.
-    (b) Explain why proper disability etiquette is important, and how it may differ depending on the specific disability.
+    (a) Define and discuss with your counselor the following disabilities awareness terms: disability, accessibility, adaptation, accommodation, invisible disability, person-first language, and inclusion.
+    (b) Explain why proper disability etiquette is important, and how it may differ depending on the specific disability. Give three examples.
 2. Visit an agency that works with people with physical, mental, emotional, or educational disabilities. Collect and read information about the agency's activities. Learn about opportunities its members have for training, employment, and education. Discuss what you have learned with your counselor.
 3. Do TWO of the following:
     (a) Talk with a Scout who has a disability and learn about the Scout's experiences taking part in Scouting activities and earning different merit badges. Discuss what you have learned with your counselor.

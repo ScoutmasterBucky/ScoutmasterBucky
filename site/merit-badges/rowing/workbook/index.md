@@ -2,7 +2,7 @@
 badge: rowing
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 
@@ -22,7 +22,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2" requirement="Before doing the following requirements, successfully complete the BSA swimmer test."}}
+{{#wb-req item="2" requirement="Before completing requirements 4, 5, 6, and 7, successfully complete the BSA swimmer test."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

@@ -2,7 +2,7 @@
 badge: american-labor
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 {{#wb-req item="1" requirement="Using resources available to you, learn about working people and work-related concerns. List and briefly describe or give examples of at least EIGHT concerns of American workers. These may include, but are not limited to, working conditions, workplace safety, hours, wages, seniority, job security, equal-opportunity employment and discrimination, guest workers, automation and technologies that replace workers, unemployment, layoffs, outsourcing, and employee benefits such as health care, child care, profit sharing, continuing education, and retirement benefits."}}

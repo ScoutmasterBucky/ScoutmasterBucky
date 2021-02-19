@@ -2,57 +2,23 @@
 badge: lifesaving
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 
-{{#wb-req item="1" requirement="Before doing requirements 2 through 17:"}}
+{{#wb-req item="1" requirement="Before doing requirements 3 through 15, review with your counselor the principles of Safe Swim Defense."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="1a" requirement="Complete Second Class rank requirements 5a through 5d and First Class rank requirements 6a, 6b and 6e."}}
+{{#wb-req item="2" requirement="Before doing requirements 3 through 15:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-**Second Class rank requirements 5a through 5d:**
-
-{{#wb-req item="1a5a" requirement="Tell what precautions must be taken for a safe swim."}}
+{{#wb-req item="2a" requirement="Earn the [Swimming merit badge](../swimming/)."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="1a5b" requirement="Demonstrate your ability to pass the BSA beginner test: Jump feet first into water over your head in depth, level off and swim 25 feet on the surface, stop, turn sharply, resume swimming, then return to your starting place"}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="1a5c" requirement="Demonstrate water rescue methods by reaching with your arm or leg, by reaching with a suitable object, and by throwing lines and objects."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="1a5d" requirement="Explain why swimming rescues should not be attempted when a reaching or throwing rescue is possible. Explain why and how a rescue swimmer should avoid contact with the victim."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-**First Class rank requirements 6a, 6b, and 6e:**
-
-{{#wb-req item="1a6a" requirement="Successfully complete the BSA swimmer test."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-*For more information about the BSA swimmer test, see the [Swimming merit badge](../swimming/).*
-
-{{#wb-req item="1a6b" requirement="Tell what precautions must be taken for a safe trip afloat."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="1a6e" requirement="With a helper and a practice victim, show a line rescue both as tender and as rescuer. (The practice victim should be approximately 30 feet from shore in deep water.)"}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="1b" requirement="Swim continuously for 400 yards using each of the following strokes in a strong manner, in good form with rhythmic breathing, for at least 50 continuous yards: front crawl, sidestroke, breaststroke, and elementary backstroke."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="2" requirement="Discuss and review with your counselor the principles of BSA Safe Swim Defense."}}
+{{#wb-req item="1a5b" requirement="Swim continuously for 400 yards using each of the following strokes in a strong manner, in good form with rhythmic breathing, for at least 50 continuous yards: front crawl, sidestroke, breaststroke, and elementary backstroke."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -160,33 +126,31 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="15" requirement="Demonstrate knowledge of resuscitation procedures:"}}
+{{#wb-req item="15" requirement="Demonstrate management of a spinal injury to your counselor:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="15a" requirement="Describe how to recognize the need for rescue breathing and CPR."}}
+{{#wb-req item="15a" requirement="Discuss the causes, signs, and symptoms of a spinal injury."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="15b" requirement="Demonstrate CPR knowledge and skills, including rescue breathing, consistent with current guidelines."}}
+{{#wb-req item="15b" requirement="Support a faceup subject in calm water of standing depth."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-*Your counselor may accept recent training in CPR by a recognized agency as completion of this requirement only if he or she feels your skills are satisfactory and need no additional reinforcement.*
-
-{{#wb-req item="16" requirement="Demonstrate management of a spinal injury to your counselor:"}}
+{{#wb-req item="15c" requirement="Turn a subject from a facedown to a faceup position in water of standing depth while maintaining support"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="16a" requirement="Discuss the causes, signs, and symptoms of a spinal injury."}}
+{{#wb-req item="16" requirement="Demonstrate knowledge of resuscitation procedures:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="16b" requirement="Support a faceup subject in calm water of standing depth."}}
+{{#wb-req item="16a" requirement="Describe how to recognize the need for rescue breathing and CPR."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="16c" requirement="Turn a subject from a facedown to a faceup position in water of standing depth while maintaining support"}}
+{{#wb-req item="16b" requirement="Demonstrate CPR knowledge and skills, including rescue breathing, consistent with current guidelines."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

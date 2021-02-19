@@ -2,7 +2,7 @@
 badge: search-and-rescue
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 

@@ -2,11 +2,11 @@
 badge: collections
 layout: smb-merit-badge
 workbook: true
-year: 2020
+year: 2021
 ---
 
 
-{{#wb-req item="1" requirement="Prepare a short written report or outline for your counselor, giving a detailed description of your collection, including a short history. Be sure to include why you chose that particular type of collecting and what you enjoy and have learned from your collection."}}
+{{#wb-req item="1" requirement="Prepare a short written report or outline for your counselor, giving a detailed description of your collection, including a short history, why you enjoy your collection, and what you have learned from collecting. Be sure to include why you chose that particular type of collection/collecting method."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -44,6 +44,10 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+{{#wb-req item="3d" requirement="Explain to your counselor how you keep track of your collection. Describe your cataloging method."}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
 {{#wb-req item="4" requirement="Demonstrate your knowledge of collecting and investing. Discuss with your counselor:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -64,7 +68,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5a" requirement="Discuss with your counselor at least 10 terms commonly used in your collection and be prepared to discuss the definition of each."}}
+{{#wb-req item="5a" requirement="Discuss with your counselor at least 10 terms commonly used to describe your collection and be prepared to discuss the definition of each."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -72,7 +76,7 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5c" requirement="Explain how your collection is valued by other collectors, and display to your counselor any price guides that may be available."}}
+{{#wb-req item="5c" requirement="Explain the monetary value of your collection and where you learned about those values."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -80,11 +84,11 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5e" requirement="List the national, state, or local association responsive to your collection."}}
+{{#wb-req item="5e" requirement="List the national, state, or local association(s) related to or associated with your collection."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5f" requirement="Show the location of and explain to your counselor the identification number (if applicable), series, brand name (if any), and any other special identification marks."}}
+{{#wb-req item="5f" requirement="Explain to your counselor the purpose of and reason for the identification number (if applicable), series, brand name (if any), and any other special identification marks."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -92,10 +96,6 @@ year: 2020
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="7" requirement="Discuss with your counselor why and how collecting has changed and how this applies to your collection."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="8" requirement="Find out about career opportunities in collecting. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you."}}
+{{#wb-req item="7" requirement="Find out about career opportunities in collecting. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
