@@ -1,9 +1,9 @@
 ---
 title: Clever Coyote for Adults
 subtitle: Long Drive Home @ Stearns
-eventDateStart: '2021-06-05T13:30:00-05:00'
-eventDateEnd: '2021-06-06T15:00:00-05:00'
-registrationLink: https://clever-coyote.ticketspice.com/clever-coyote-june-2021
+eventDateStart: '2021-06-26T13:30:00-05:00'
+eventDateEnd: '2021-06-27T15:00:00-05:00'
+registrationLink: https://clever-coyote.ticketspice.com/clever-coyote-for-adults-june-2021
 ---
 
 <div class="W(35%) W(70%)--s M(a)">
