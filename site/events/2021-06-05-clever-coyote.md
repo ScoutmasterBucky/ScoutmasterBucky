@@ -1,6 +1,6 @@
 ---
 title: Clever Coyote
-subtitle: Long Drive Home @ Twin Lakes (Former Scout Camp)
+subtitle: Long Drive Home @ Twin Lakes Scout Camp
 eventDateStart: '2021-06-05T13:30:00-05:00'
 eventDateEnd: '2021-06-06T15:00:00-05:00'
 registrationLink: https://clever-coyote.ticketspice.com/clever-coyote-june-2021
@@ -24,7 +24,7 @@ You're traveling home and take a wrong turn somewhere. The unfortunate vehicle r
 
 </div>
 
-Hosted at a former Scout camp in central Wisconsin, 36 miles west of Appleton and 53 miles northeast from Wisconsin Dells.
+Hosted at Twin Lakes Scout Camp in central Wisconsin, 36 miles west of Appleton and 53 miles northeast from Wisconsin Dells.
 
 * [Learn More](https://clever-coyote.8b.io/) - It's highly recommended to study!
 
