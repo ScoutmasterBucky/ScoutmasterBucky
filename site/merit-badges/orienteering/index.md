@@ -25,7 +25,7 @@ year: 2021
 7. Do the following:
     (a) Take part in three orienteering events. One of these must be a cross-country course.
         *Note to the Counselor: While orienteering is primarily an individual sport, BSA Youth Protection procedures call for using the buddy system. Requirement 7a can be completed by pairs or groups of Scouts.*
-    (b) After each event, write a report with (1) a copy of the master map and control description sheet, (2) a copy of the route you took on the course, (3) a discussion of how you could improve your time between control points, and (4) a list of your major weaknesses on this course . Describe what you could do to improve.
+    (b) After each event, write a report with (1) a copy of the master map and control description sheet, (2) a copy of the route you took on the course, (3) a discussion of how you could improve your time between control points, and (4) a list of your major weaknesses on this course. Describe what you could do to improve.
 8. Do ONE of the following:
     (a) Set up a cross-country course that is at least 2,000 meters long with at least five control markers. Prepare the master map and control description sheet.
     (b) Set up a score orienteering course with at least 12 control points and a time limit of at least 60 minutes. Set point values for each control. Prepare the master map and control description sheet.
