@@ -30,7 +30,11 @@ year: 2021
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4a" requirement="Explain how a topographic map shows terrain features. Point out and name five terrain features on a map and in the field. (b) Point out and name 10 symbols on a topographic map."}}
+{{#wb-req item="4a" requirement="Explain how a topographic map shows terrain features. Point out and name five terrain features on a map and in the field."}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="4b" requirement="Point out and name 10 symbols on a topographic map."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

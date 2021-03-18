@@ -12,7 +12,8 @@ year: 2021
     (a) Explain how a compass works. Describe the features of an orienteering compass.
     (b) In the field, show how to take a compass bearing and follow it.
 4. Do the following:
-    (a) Explain how a topographic map shows terrain features. Point out and name five terrain features on a map and in the field. (b) Point out and name 10 symbols on a topographic map.
+    (a) Explain how a topographic map shows terrain features. Point out and name five terrain features on a map and in the field.
+    (b) Point out and name 10 symbols on a topographic map.
     (c) Explain the meaning of declination. Tell why you must consider declination. Tell why you must consider declination when using map and compass together.
     (d) Show a topographic map with magnetic north-south lines.
     (e) Show how to measure distances on a map using an orienteering compass.
