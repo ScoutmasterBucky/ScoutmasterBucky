@@ -10,7 +10,7 @@ registrationLink: https://clever-coyote.ticketspice.com/splash
 <img src="{{@root.rootPath}}nova-lab/images/nova-patch.jpg" alt="Nova Award Logo" class="W(100%)" />
 </div>
 
-We live in a consumer society, where people make new goods all the time and bring them to market in the hopes that they sell a bunch of them. Learn some of what it takes to research, design, and promote a new idea and turn it into something tangible.
+Water - many people take it for granted, but without water being used every day, our crops would fail, animals would perish, and we would have to find a new way to take a shower. Learn about the water cycle, consumers of water, science behind water, hydrophopic substances, and how we process water.
 
 * {{>nova-link nova="splash" program="scouts-bsa"}} (Scouts BSA)
 * {{>nova-link nova="wade" program="venturing-and-sea-scouts"}} (Venturing and Sea Scouts)
