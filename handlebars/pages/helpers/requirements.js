@@ -12,7 +12,7 @@ module.exports = function (obj) {
         let level = match ? match[0].length / 4 : 0;
         let trimmed = line.trim();
 
-        let numberMatch = trimmed.match(/^[^a-zA-Z0-9]*([0-9][0-9]?|[a-zA-Z]|[ivx]+)[^a-zA-Z0-9 ]* /);
+        let numberMatch = trimmed.match(/^[^a-zA-Z0-9]*([0-9][0-9]?|[a-zA-Z]|[ivx]+)[^a-zA-Z0-9 ]+ /);
         let number = '';
 
         if (numberMatch) {

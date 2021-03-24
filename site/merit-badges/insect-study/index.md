@@ -11,7 +11,7 @@ year: 2021
     (b) Discuss the prevention of and treatment for health concerns that could occur while working with ants and bees, including insect bites and anaphylactic shock.
 2. Tell how insects are different from all other animals. Show how insects are different from centipedes and spiders.
 3. Point out and name the main parts of an insect.
-4 Describe the characteristics that distinguish the principal families and orders of insects.
+4. Describe the characteristics that distinguish the principal families and orders of insects.
 5. Do the following:
     (a) Observe 20 different live species of insects in their habitat. In your observations, include at least four orders of insects.
     (b) Make a scrapbook of the 20 insects you observe in 4a. Include photographs, sketches, illustrations, and articles. Label each insect with its common and scientific names, where possible. Share your scrapbook with your merit badge counselor.
