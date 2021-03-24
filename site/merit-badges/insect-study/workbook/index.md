@@ -26,7 +26,9 @@ year: 2021
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-4 Describe the characteristics that distinguish the principal families and orders of insects.
+{{#wb-req item="4" requirement="Describe the characteristics that distinguish the principal families and orders of insects."}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
 
 {{#wb-req item="5" requirement="Do the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
