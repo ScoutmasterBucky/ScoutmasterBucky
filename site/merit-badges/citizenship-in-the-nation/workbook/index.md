@@ -26,7 +26,7 @@ year: 2021
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2d" requirement="Choose a national monument that interests you. Using books, brochures, the Internet (with your parent's permission), and other resources, find out more about the monument. Tell your counselor what you learned, and explain why the monument is important to this country's citizens."}}
+{{#wb-req item="2d" requirement="Choose a national monument that interests you. Using books, brochures, the internet (with your parent's permission), and other resources, find out more about the monument. Tell your counselor what you learned, and explain why the monument is important to this country's citizens."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -66,7 +66,7 @@ year: 2021
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="7" requirement="Name the three branches of our federal government and explain to your counselor their functions. Explain how citizens are involved in each branch. For each branch of government, explain the importance of the system of checks and balances."}}
+{{#wb-req item="7" requirement="Name the three branches of our federal government and explain to your counselor their functions. Explain how citizens are involved in each branch. For each branch of government, explain the importance of our checks and balances system."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
