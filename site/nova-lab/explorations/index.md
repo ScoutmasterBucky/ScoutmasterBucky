@@ -28,10 +28,10 @@ Do ONE of the following.
     C. The ways in which the fields of science, technology, engineering, and/or mathematics are important to the work done in this business
     Visitations will require advance planning by the Venturer with assistance from the counselor. The counselor should call ahead to make arrangements, and make plans to have appropriate supervision of all Venturers. The site will very likely have rules and instructions that must be followed. The counselor should help ensure that all the participants are aware of and follow those rules. This may include safety procedures and other instructions.
 2. Using resources you find on your own such as at the library, on the Internet, or through visits to relevant places of learning, such as museums, learn more about this field.  Then discuss the following with your counselor:
-A. The historical development of this field
-B. How tools and techniques have evolved over time
-C. How modern tools and techniques have changed over time in this field and how its capacity for accomplishment has been affected
-D. The ways in which science, technology, engineering, and/or mathematics are important to this field
+    A. The historical development of this field
+    B. How tools and techniques have evolved over time
+    C. How modern tools and techniques have changed over time in this field and how its capacity for accomplishment has been affected
+    D. The ways in which science, technology, engineering, and/or mathematics are important to this field
 {{/requirements}}
 
 ### Hands-On Experiences
