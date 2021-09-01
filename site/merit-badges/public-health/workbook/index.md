@@ -60,7 +60,7 @@ year: 2021
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2c" requirement="Using the list of diseases and conditions in requirement 1b, discuss with your counselor those which currently have no immunization available."}}
+{{#wb-req item="2c" requirement="Using the list of diseases and conditions in requirement 1, discuss with your counselor those which currently have no immunization available."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
