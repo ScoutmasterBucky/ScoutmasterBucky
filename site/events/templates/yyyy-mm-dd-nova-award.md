@@ -1,8 +1,8 @@
 ---
 title: Online Nova Award
 subtitle: Splash! / Wade!
-eventDateStart: '2021-04-19T19:00:00-05:00'
-eventDateEnd: '2021-04-22T21:00:00-05:00'
+eventDateStart: 2021-04-19T19:00:00-05:00
+eventDateEnd: 2021-04-22T21:00:00-05:00
 registrationLink: https://clever-coyote.ticketspice.com/splash
 ---
 
