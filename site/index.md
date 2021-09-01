@@ -4,6 +4,7 @@ layout: smb
 opportunities: 14,050+
 online: 1,335+
 news:
+    - We're happy to be back! [Learn about what's coming](#exciting-things-on-the-horizon)
     - COVID 19 STATEMENT.
     - New Fall 2020 Opportunities Added
     - Site Redesign - [Read More](#new-website-design)
@@ -78,6 +79,13 @@ Email: <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry">Sco
 <img src="images/bucky-waving.jpg" alt="Bucky Waving" class="W(100%) H(a)"/>
 </div>
 </div>
+
+## Exciting Things On The Horizon
+
+After having taken a few months off, we're coming back and will be offering new opportunities each week in September, both online and in person.
+
+Check back frequently to see the events pop up in the calendar.
+
 
 ## New Website Design
 
