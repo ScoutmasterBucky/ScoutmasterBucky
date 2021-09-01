@@ -1,8 +1,8 @@
 ---
 title: Clever Coyote
 subtitle: Natural Disaster @ Stearns
-eventDateStart: '2021-06-05T13:30:00-05:00'
-eventDateEnd: '2021-06-06T15:00:00-05:00'
+eventDateStart: '2021-10-02T13:30:00-06:00'
+eventDateEnd: '2021-10-03T15:00:00-06:00'
 registrationLink: https://clever-coyote.ticketspice.com/clever-coyote-oct-2021
 ---
 
