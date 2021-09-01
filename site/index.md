@@ -5,9 +5,7 @@ opportunities: 14,050+
 online: 1,335+
 news:
     - We're happy to be back! [Learn about what's coming](#exciting-things-on-the-horizon)
-    - COVID 19 STATEMENT.
-    - New Fall 2020 Opportunities Added
-    - Site Redesign - [Read More](#new-website-design)
+    - New fall 2021 opportunities coming soon
 css:
     - css/calendar.css
 js:
@@ -85,15 +83,6 @@ Email: <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry">Sco
 After having taken a few months off, we're coming back and will be offering new opportunities each week in September, both online and in person.
 
 Check back frequently to see the events pop up in the calendar.
-
-
-## New Website Design
-
-The new website design is courtesy of a very talented and gracious Scouter who was helped to make the Scoutmaster Bucky website more intuitive and mobile friendly as well. The new design is a work in progress. We will continue to update pages to reflect more detailed information and features.
-
-In an effort to maximize usefulness we have focused on the areas that we get the most feedback and interest in to focus on. The Requirements pages are current and up-to-date with 2021 requirements, the Class Preparation Pages and Workbook pages are methodically being worked on to enhance their current information and features. Priority is given to the merit badge offerings and their respective Class Preparation pages and Workbook pages is on the top of the list.
-
-We will be adding back the historical pages in the near future along with more content that is useful to all Scouts and Scouters. We will remain ad free and focused on our Scouting community for providing useful information and opportunities.
 
 
 ## Upcoming Events

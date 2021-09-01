@@ -8,6 +8,7 @@ location:
     - 2075 70th St. E
     - Inver Grove Heights, MN 55077
 meritBadge: true
+# These are for the dates in the merit badge classes
 amStart: 2020-03-14T08:00-05:00
 amEnd: 2020-03-14T11:30-05:00
 pmStart: 2020-03-14T12:30-05:00
