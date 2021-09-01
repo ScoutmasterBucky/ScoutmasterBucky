@@ -10,8 +10,7 @@ year: 2021
 2. Do the following:
     (a) Explain the meaning of *immunization*.
     (b) Name eight diseases against which a young child should be immunized, two diseases against which everyone should be reimmunized periodically, and one immunization everyone should receive annually.
-    (c) Using the list of diseases and conditions in requirement 1b, discuss with your counselor those which currently have no immunization available.
-        *NOTE: Requirement 1 was updated and the list of diseases is now in requirement 1. The official requirements still say 1b.*
+    (c) Using the list of diseases and conditions in requirement 1, discuss with your counselor those which currently have no immunization available.
 3. Discuss the importance of safe drinking water in terms of the spread of disease. Then, demonstrate two ways for making water safe to drink that can be used while at camp. In your demonstration, explain how dishes and utensils should be washed, dried, and kept sanitary at home and in camp.
 4. Explain what a vector is and how insects and rodents can be controlled in your home, in your community, and at camp. Tell why this is important. In your discussion, explain which vectors can be easily controlled by individuals and which ones require long-term, collective action.
 5. With your parent's and counselor's approval, do ONE of the following:
