@@ -59,7 +59,7 @@ Registration opens at 12:05 am on the first of the month for the following month
 
 ## Disclaimer
 
-The Scoutmaster Bucky program is a volunteer run program managed and maintained entirely by Brian Reiners (Scoutmaster Bucky) in conjunction with the council of Northern Star Scouting and other Scouting volunteers. All content, scheduling, arrangements, and the like are managed by Scoutmaster Bucky. All proceeds collected go to cover program expenses and operating costs (including but not limited to building rentals, program materials, class materials, and technology support), with any profits (when and if there are any) are put back into the Scouting program annually.
+The Scoutmaster Bucky program is a volunteer run program managed and maintained entirely by Brian Reiners (Scoutmaster Bucky) in conjunction with the council of Northern Star Scouting and other Scouting volunteers. All content, scheduling, arrangements, and the like are managed by Scoutmaster Bucky. All proceeds collected go to cover program expenses and operating costs (including but not limited to building rentals, program materials, class materials, and technology support), with any profits (when and if there are any) put back into the Scouting program annually.
 
 ## Refund Policy & Contact Information
 
@@ -78,15 +78,7 @@ Email: <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry">Sco
 </div>
 </div>
 
-## Exciting Things On The Horizon
-
-After having taken a few months off, we're coming back and will be offering new opportunities each week in September, both online and in person.
-
-Check back frequently to see the events pop up in the calendar.
-
-
-## Upcoming Events
-
+## NOVEMBER 2021 Merit Badge Opportunities
 
 
 {{#ancestry.childrenByName.events.ancestry.members}}
