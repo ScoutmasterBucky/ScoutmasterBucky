@@ -18,7 +18,7 @@ year: 2021
     (b) Explain how changes in interest rates, taxes, and government spending affect the flow of money into or out of business and industry.
     (c) Explain how a sole proprietorship or partnership gets its capital. Discuss and explain four ways a corporation obtains capital.
     (d) Name five kinds of insurance useful to business. Describe their purposes.
-    {{#note type="inPerson" type2="online"}}Scouts will find it necessary to review the merit badge pamphlet or other sources to prepare for this requirement and its components. Consider utilizing a workbook or notepad to make notes of your research in preparation for the class.({/note}}
+    {{#note type="inPerson" type2="online"}}Scouts will find it necessary to review the merit badge pamphlet or other sources to prepare for this requirement and its components. Consider utilizing a workbook or notepad to make notes of your research in preparation for the class.{{/note}}
 3. Do the following:
     (a) Explain the place of profit in business.
     (b) Describe to your counselor green marketing and sustainable business practices.
@@ -30,7 +30,7 @@ year: 2021
     (b) Occupational Safety and Health Act (OSHA)
     (c) Family and Medical Leave Act (FMLA)
     (d) Employee Retirement Income Security Act (ERISA)
-    {{#note type="inPerson" type2="online"}}Choose two of the four components options for Requirement 4 and be prepared to share your findings within the class. This requirement requires preparation work ahead of time.({/note}}
+    {{#note type="inPerson" type2="online"}}Choose two of the four components options for Requirement 4 and be prepared to share your findings within the class. This requirement requires preparation work ahead of time.{{/note}}
 5. Choose a business and research how it applies each of the primary areas of business (accounting, finance, economics, marketing, and management). Share what you have learned with your counselor.
     {{#note type="inPerson" type2="online"}} Scouts will need to carefully manage their time and resources when working on this requirement. This is not a requirement that can be done in an hour or two. After selecting the business they want to research, they will need to spend considerable time looking into the numerous different areas of business for the company or corporation. It cannot be emphasized enough that Scouts will spend a lot of time preparing for sharing on this requirement which will require a very extensive and thorough report covering all aspects of the business and the stated items of this requirement shown. This requirement is best completed by Scouts who allot themselves plenty of time to complete and realize this is not just a single afternoon project. Time will be provided within the class for any Scouts interested in sharing their partial or completed progress on this requirement.{{/note}}
 6. Do ONE of the following:
