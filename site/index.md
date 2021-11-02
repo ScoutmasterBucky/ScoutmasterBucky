@@ -4,8 +4,9 @@ layout: smb
 opportunities: 14,050+
 online: 1,335+
 news:
-    - We're happy to be back! [Learn about what's coming](#exciting-things-on-the-horizon)
-    - New fall 2021 opportunities coming soon
+    - We're happy to be back!
+    - Come celebrate Scoutmaster Bucky's birthday on November 6, 2021
+    - Online Merit Badge classes resuming in November 2021
 css:
     - css/calendar.css
 js:
@@ -67,7 +68,7 @@ The Scoutmaster Bucky program is a volunteer run program managed and maintained 
 
 Requests for refunds or cancellations will be honored up to a week prior to any event.
 
-Scoutmaster Bucky is Brian Reiners and is registered in Northern Star Scouting of the Boy Scouts of America as a Scoutmaster, Advisor, and Merit Badge Counselor.
+Scoutmaster Bucky is Brian Reiners and is registered in Northern Star Scouting of the Boy Scouts of America.
 
 Contact number: 612-483-0665<br />
 Email: <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry">ScoutmasterBucky@yahoo.com</a>
@@ -78,8 +79,7 @@ Email: <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry">Sco
 </div>
 </div>
 
-## NOVEMBER 2021 Merit Badge Opportunities
-
+## UPCOMING EVENTS
 
 {{#ancestry.childrenByName.events.ancestry.members}}
 {{>event}}
