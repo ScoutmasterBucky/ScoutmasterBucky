@@ -9,7 +9,7 @@ location:
     - Inver Grove Heights, MN 55077
 meritBadge: true
 # These are for the dates in the merit badge classes
-amStart: 2021-11-96T08:00-05:00
+amStart: 2021-11-06T08:00-05:00
 amEnd: 2021-11-06T11:30-05:00
 pmStart: 2021-11-06T12:30-05:00
 pmEnd: 2021-11-06T16:00-05:00
