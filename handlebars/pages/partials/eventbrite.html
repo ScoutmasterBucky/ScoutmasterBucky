@@ -10,14 +10,22 @@ Hide {{>badge-name badge=badge}}
 </div>
 
 <div class="W(100%) Maw(30%) Maw(100%)--m Fxb(2)">
+
 {{>event-date-time-location start=start end=end badge=badge}}
+
+<div class="D(f) Jc(c) Py(10px)">
+<a href="https://www.eventbrite.com/e/registration-{{event}}" rel="noopener noreferrer" target="_blank">
+<button type="button" class="P(1em) Bgc(#ff8100) Fw(b) Bdrs(10px)">Get Tickets</button>
+</a>
+</div>
+
 </div>
 </div>
 
 <div class="D(f) Fxd(c)--m">
 <div class="D(f) Fxd(c) M(0.5em) W(100%)">
 <div>{{>badge-name badge=badge}}</div>
-<div class="D(f) Jc(se)">
+<div class="D(f) Jc(se) Pt(10px)">
 <a class="Td(n) Fs(i) Pstart(1em)" href="{{@root.rootPath}}merit-badges/{{badge}}/" target="_blank">Requirements</a>
 {{#online}}
 <a class="Td(n) Fs(i) Pstart(1em)" href="{{@root.rootPath}}merit-badges/{{badge}}/?notes=online" target="_blank">Online Class Preparation</a>
@@ -29,7 +37,5 @@ Hide {{>badge-name badge=badge}}
 </div>
 </div>
 </div>
-
-<iframe data-src="http://www.eventbrite.com/tickets-external?eid={{event}}&ref=etckt" frameborder="0" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true" class="H(315px)"></iframe>
 
 {{>toggle-end}}
