@@ -8,28 +8,28 @@ year: 2021
 {{#requirements}}
 1. Before beginning work on other requirements for this merit badge:
     a. Research the following terms, and then explain to your merit badge counselor how you feel they relate to the Scout Oath and Scout Law:
-            • Identities
-            • Inclusion
-            • Diversity
-            • Discrimination
-            • Equity
-            • Ethical Leadership
-            • Equality
-            • Upstander
-2. Document and discuss with your counselor what leadership means to you.  Share what it means to make ethical decisions.
-    a. Research and share with your counselor an individual you feel has demonstrated positive leadership while having to make an ethical decision.  (It could be someone in history, a family member, a teacher, a coach, a counselor, a clergy member, a Scoutmaster, etc.)
+        * Identities
+        * Inclusion
+        * Diversity
+        * Discrimination
+        * Equity
+        * Ethical Leadership
+        * Equality
+        * Upstander
+2. Document and discuss with your counselor what leadership means to you. Share what it means to make ethical decisions.
+    a. Research and share with your counselor an individual you feel has demonstrated positive leadership while having to make an ethical decision. (It could be someone in history, a family member, a teacher, a coach, a counselor, a clergy member, a Scoutmaster, etc.)
     b. Explain what decision and/or options that leader had, why you believe they chose their final course of action, and the outcome of that action.
-3. Consider ethical decision-makingowing.
+3. Consider ethical decision-making.
     a. Think about a time you faced an ethical decision.
-        • Discuss the situation, what you did, and how it made you feel.
-        • Share if you would do anything differently in the future and if so, what that would be.
+        * Discuss the situation, what you did, and how it made you feel.
+        * Share if you would do anything differently in the future and if so, what that would be.
     b. List three examples of ethical decisions you might have to make in the future at school, at home, in the workplace, or in your community, and what you would do.
-        • Share how your actions represent alignment with the Scout Oath and Scout Law.
+        * Share how your actions represent alignment with the Scout Oath and Scout Law.
     c. Explain to your counselor how you plan to use what you have learned to assist you when that time comes, and what action(s) you can take to serve as an upstander and help other people at all times.
 4. Repeat the Scout Oath and Scout Law for your counselor. Choose two of the three following scenarios and discuss what you could do as a Scout to demonstrate leadership and your understanding of what it means to help others who may seem different from you:
     a. Scenario 1: While at camp, a youth accidentally spills food on another camper. The camper who gets spilled on gets angry and says something that is offensive to people with disabilities; their friends laugh. What could/should you do?
     b. Scenario 2: Your friend confides in you that some students in school are making insulting comments about one of their identities, and that those same students created a fake social media account to impersonate your friend online and post messages. What could/should you do?
-    c. Scenario 3: A new student in your class was born in another country (or has a parent who was born in another country). Your friends make rude comments to the student about their speech or clothes and tell the student to “go back home where you came from.” What could/should you do?
+    c. Scenario 3: A new student in your class was born in another country (or has a parent who was born in another country). Your friends make rude comments to the student about their speech or clothes and tell the student to "go back home where you came from." What could/should you do?
 5. Document and discuss with your counselor:
     a. Ideas on what you personally can do to create a welcoming environment in your Scouting unit.
     b. An experience you had in which you went out of your way to include another Scout(s) and what you did to make them feel included and welcomed.
@@ -38,17 +38,17 @@ year: 2021
     a. Share with each other what makes the different aspect of your identity meaningful/special to you.
     b. Share with each other either one of the following:
         i. A time you felt excluded from a group.
-            • What was the situation?
-            • How did it make you feel?
-            • What did you do?
-            • Did anyone stand up for you?
-            • What did you learn?
-            • Would you do anything differently today?
+            * What was the situation?
+            * How did it make you feel?
+            * What did you do?
+            * Did anyone stand up for you?
+            * What did you learn?
+            * Would you do anything differently today?
         ii. This imaginary situation:
-            • You’re attending a new school and don’t know anyone there yet. You notice they dress very differently than you do. At lunchtime, you decide you’ll try to sit with a group to get to know other students.  People at two tables tell you there is someone sitting at the currently empty seat at their table, so you end up eating by yourself.
-                o How would that make you feel?
-                o What could the students have done?
-                o If that happened at your school, what would you do?
+            * You’re attending a new school and don’t know anyone there yet. You notice they dress very differently than you do. At lunchtime, you decide you’ll try to sit with a group to get to know other students. People at two tables tell you there is someone sitting at the currently empty seat at their table, so you end up eating by yourself.
+            * How would that make you feel?
+            * What could the students have done?
+            * If that happened at your school, what would you do?
     c. Discuss with your counselor what you learned from the discussion with the other Scout or youth.
 7. Identify and interview an individual in your community, school, and/or Scouting who has had a significant positive impact in promoting diversity, equity, and inclusion. If you feel your community, school, or local Scouting group does not have such an individual, then research a historical figure who meets these criteria,and discuss that person with your counselor.
     a. Discover what inspired the individual, learn about the challenges they faced, and share what you feel attributed to their success.
@@ -64,8 +64,8 @@ year: 2021
 11. Scouting strives to develop young people to be future leaders in their workplaces, schools, and community environments. As you look at your current involvement in school, your family, Scouting, your job, and/or community, think about how you can have a positive impact in diversity, equity, and inclusion.
     a. Describe your ideas on how you can and will support others with different identities to feel included and heard at your school, workplace, and/or social settings in your community.
     b. Explain how including diverse thoughts and opinions from others with different identities can:
-        • Make your interactions more positive.
-        • Help everyone benefit by considering different opinions.
+        * Make your interactions more positive.
+        * Help everyone benefit by considering different opinions.
     c. Give three examples of how limiting diverse input can be harmful.
     d. Give three examples of how considering diverse opinions can lead to innovation and success.
 {{/requirements}}
