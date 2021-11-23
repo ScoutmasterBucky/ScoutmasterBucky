@@ -1,5 +1,5 @@
 ---
-title: Scoutmaster Bucky Merit Badge Special
+title: Railroading Merit Badge Event
 eventDateStart: 2022-01-22T12:00Z
 location:
     - North Metro Model Railroad Club
