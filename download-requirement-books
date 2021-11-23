@@ -9,7 +9,7 @@ html=$(curl -s -o - https://www.scouting.org/programs/scouts-bsa/advancement-and
 # <a href="https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Swimming.pdf">Swimming</a></h3>
 # Change lines containing those links to look like
 # MERITBADGE_FOUND Swimming|https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Swimming.pdf
-processedHtml=$(echo "$html" | sed 's/.*href="\([^"]*.pdf\)">\s*\([^<]*\)\s*<\/a><\/h3>.*/MERITBADGE_FOUND \2|\1/')
+processedHtml=$(echo "$html" | sed 's/.*href="\([^"]*.pdf\)\(?[^"]*\)\{0,1\}">\s*\([^<]*\)\s*<\/a><\/h3>.*/MERITBADGE_FOUND \3|\1/')
 
 # Extract just the merit badges
 list=$(echo "$processedHtml" | grep MERITBADGE_FOUND | cut -d ' ' -f 2-)
