@@ -1,9 +1,9 @@
 ---
 title: Clever Coyote
-subtitle: Disaster @ Birch Bend Campground
+subtitle: Mayday @ Birch Bend Campground
 eventDateStart: '2022-10-01T07:00:00-05:00'
-eventDateEnd: '2022-10-02T12:00:00-05:00'
-registrationLink: coming in 2022
+eventDateEnd: '2022-10-02T10:00:00-05:00'
+registrationLink: https://clever-coyote.8b.io/registration.html
 ---
 
 <div class="W(35%) W(70%)--s M(a)">
@@ -16,8 +16,12 @@ registrationLink: coming in 2022
 
 </div>
 
-Mark your calendar and prepare for the ultimate skills challenge - can you survive the Clever Coyote challenge? More information coming for this great event in 2022
+Mark your calendar and prepare for the ultimate skills challenge - can you survive the Clever Coyote challenge? Scouts will experience a simulated survival event where their wits and resourcefulness are put to the test. There is a new challenge each year.
+
+*Your airplane is malfunctioning and is unable to stay aloft. The pilot calls for mayday and the worst imaginable scenario happens - the flight crashes. You survive with a couple others. You're in unfamiliar territory and you've still got a job to do.*
 
 <div class="Mx(a) W(80%) Bdw(1px) M(1em) P(1em)">
 
 Hosted at Birch Bend Campground just west of Lake Mille Lacs in central Minnesota - a short drive north of the Twin Cities.
+
+</div>
