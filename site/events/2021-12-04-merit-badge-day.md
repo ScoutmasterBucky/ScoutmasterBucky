@@ -33,12 +33,12 @@ pmEnd: 2021-12-04T15:30-06:00
 {{>badge badge="american-heritage"}}
 {{>badge badge="citizenship-in-society"}}
 {{>badge badge="journalism"}}
-{{>badge badge="reading-scholarship"}}
+{{>badge badge="reading" badge2="scholarship"}}
 {{/badge-list}}
 {{>eventbrite badge="american-heritage" event="213408178607" start=pmStart end=pmEnd}}
 {{>eventbrite badge="citizenship-in-society" event="213421247697" start=pmStart end=pmEnd}}
 {{>eventbrite badge="journalism" event="213415650957" start=pmStart end=pmEnd}}
-{{>eventbrite badge="reading-scholarship" event="213408870677" start=pmStart end=pmEnd}}
+{{>eventbrite badge="reading" badge2="scholarship" event="213408870677" start=pmStart end=pmEnd}}
 
 ### All Day Class
 
