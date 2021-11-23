@@ -1,42 +1,48 @@
 ---
 host: Scoutmaster Bucky
-title: November Merit Badge Day
-eventDateStart: 2021-11-06T08:00-05:00
-eventDateEnd: 2021-11-06T16:00-05:00
+title: December Merit Badge Day
+eventDateStart: 2021-12-04T08:00-06:00
+eventDateEnd: 2021-12-04T16:00-06:00
 location:
-    - Emanuel Lutheran Church
-    - 2075 70th Street East
-    - Inver Grove Heights, MN 55077
+    - Shepherd of the Lake Lutheran Church
+    - 3611 North Berens Road NW
+    - Prior Lake, Minnesota 55379
 meritBadge: true
 # These are for the dates in the merit badge classes
-amStart: 2021-11-06T08:00-05:00
-amEnd: 2021-11-06T11:30-05:00
-pmStart: 2021-11-06T12:30-05:00
-pmEnd: 2021-11-06T16:00-05:00
-adEnd: 2021-11-06T14:30-05:00
+amStart: 2021-12-04T08:00-06:00
+amEnd: 2021-12-04T11:30-06:00
+pmStart: 2021-12-04T12:00-06:00
+pmEnd: 2021-12-04T15:30-06:00
 ---
-### 3/4 Day Class
-
-{{#badge-list}}
-{{>badge badge="citizenship-in-the-community"}}
-{{/badge-list}}
-{{>eventbrite badge="citizenship-in-the-community" event="203995826007" start=amStart end=adEnd}}
-
 ### Morning Classes
 
 {{#badge-list}}
-{{>badge badge="american-heritage"}}
-{{>badge badge="coin-collecting"}}
+{{>badge badge="citizenship-in-society"}}
+{{>badge badge="digital-technology"}}
+{{>badge badge="public-health"}}
+{{>badge badge="scouting-heritage"}}
 {{/badge-list}}
-{{>eventbrite badge="american-heritage" event="204013157847" start=amStart end=amEnd}}
-{{>eventbrite badge="coin-collecting" event="204026337267" start=amStart end=amEnd}}
+{{>eventbrite badge="citizenship-in-society" event="213405039217" start=amStart end=amEnd}}
+{{>eventbrite badge="digital-technology" event="213411007067" start=amStart end=amEnd}}
+{{>eventbrite badge="public-health" event="213419763257" start=amStart end=amEnd}}
+{{>eventbrite badge="scouting-heritage" event="213494908017" start=amStart end=amEnd}}
 
 ### Afternoon Classes
 
 {{#badge-list}}
-{{>badge badge="collections"}}
-{{>badge badge="programming"}}
+{{>badge badge="american-heritage"}}
+{{>badge badge="citizenship-in-society"}}
+{{>badge badge="journalism"}}
+{{>badge badge="reading-scholarship"}}
 {{/badge-list}}
+{{>eventbrite badge="american-heritage" event="213408178607" start=pmStart end=pmEnd}}
+{{>eventbrite badge="citizenship-in-society" event="213421247697" start=pmStart end=pmEnd}}
+{{>eventbrite badge="journalism" event="213415650957" start=pmStart end=pmEnd}}
+{{>eventbrite badge="reading-scholarship" event="213408870677" start=pmStart end=pmEnd}}
 
-{{>eventbrite badge="collections" event="204028032337" start=pmStart end=pmEnd}}
-{{>eventbrite badge="programming" event="204020951157" start=pmStart end=pmEnd}}
+### All Day Class
+
+{{#badge-list}}
+{{>badge badge="scrap-and-stamp"}}
+{{/badge-list}}
+{{>eventbrite badge="scrap-and-stamp" event="216116318727" start=amStart end=pmEnd}}
