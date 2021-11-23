@@ -1,6 +1,6 @@
 ---
 title: Clever Coyote
-subtitle: Natural Disaster @ Birch Bend Campground
+subtitle: Disaster @ Birch Bend Campground
 eventDateStart: '2022-10-01T07:00:00-05:00'
 eventDateEnd: '2022-10-02T12:00:00-05:00'
 registrationLink: coming in 2022
