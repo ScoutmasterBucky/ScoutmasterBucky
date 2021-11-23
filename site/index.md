@@ -56,8 +56,6 @@ Registration opens at 12:05 am on the first of the month for the following month
 </div>
 </div>
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vdI1j549x1Ft6VQmoRYcZaIH5etwe0vz" class="W(100%) H(480px) Mah(50vh) Mt(0.9em)" loading="lazy"></iframe>
-
 ## Disclaimer
 
 The Scoutmaster Bucky program is a volunteer run program managed and maintained entirely by Brian Reiners (Scoutmaster Bucky) in conjunction with the council of Northern Star Scouting and other Scouting volunteers. All content, scheduling, arrangements, and the like are managed by Scoutmaster Bucky. All proceeds collected go to cover program expenses and operating costs (including but not limited to building rentals, program materials, class materials, and technology support), with any profits (when and if there are any) put back into the Scouting program annually.
