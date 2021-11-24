@@ -1,11 +1,11 @@
 ---
 title: Mrs Scoutmaster Bucky Scrap and Stamp Day
-subtitle: Mayday @ Birch Bend Campground
+subtitle: Scrap, Stamp, or just hang out
 eventDateStart: '2022-01-08T08:30:00-06:00'
 eventDateEnd: '2022-01-08T15:30:00-06:00'
 ---
 
-<div class="W(35%) W(70%)--s M(a)">
+<div class="W(50%) W(75%)--s M(a)">
 <img src="{{@root.rootPath}}images/Mrs Scoutmaster Bucky Stamp and Scrap Day.jpg" class="W(100%)" />
 </div>
 
@@ -22,8 +22,6 @@ Representatives from the industry will be present and share their product lines 
 Partake in the Scrapping Swap where you bring your old no longer needed materials and trade or swap with others.  Mrs Scoutmaster Bucky and others are bringing their tools (cricket machines, hand punches, etc) to share for you to use as well. You don't want to miss out on this. Registration includes door prizes - Space is limited to 15 participants.
 
 *Bring your own lunch or grab something at one of the many nearby restaurants*
-
-*Your airplane is malfunctioning and is unable to stay aloft. The pilot calls
 
 </div>
 ### Registration
