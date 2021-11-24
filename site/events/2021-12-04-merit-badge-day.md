@@ -39,10 +39,3 @@ pmEnd: 2021-12-04T15:30-06:00
 {{>eventbrite badge="citizenship-in-society" event="213421247697" start=pmStart end=pmEnd}}
 {{>eventbrite badge="journalism" event="213415650957" start=pmStart end=pmEnd}}
 {{>eventbrite badge="reading" badge2="scholarship" event="213408870677" start=pmStart end=pmEnd}}
-
-### All Day Class
-
-{{#badge-list}}
-{{>badge badge="scrap-and-stamp"}}
-{{/badge-list}}
-{{>eventbrite badge="scrap-and-stamp" event="216116318727" start=amStart end=pmEnd}}
