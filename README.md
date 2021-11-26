@@ -55,13 +55,29 @@ The index page lists the events - they are slurped up into the index page. Also,
 
 * `{{>event}}` - Display an event using the event's metadata. Chooses what type of wrapper and headings to use.
 
-* `{{>eventbrite}}` - Shows the Eventbrite iframe in a collapsible area.
+* `{{>eventbrite}}` - Shows the Eventbrite iframe in a collapsible area. Can specify `badge`, otherwise shows `title`. `start` and `end` control the time displayed for the event.
 
-* `{{#safety-warning}}warning text goex here{{/safety-warning}}` - Standard disclaimer area, but lets you have custom text. Typically used in the merit badge requirements pages.
+* `{{#safety-warning}}warning text goes here{{/safety-warning}}` - Standard disclaimer area, but lets you have custom text. Typically used in the merit badge requirements pages.
 
 * `{{>safety-warning-generic}}` - Standard disclaimer that Scouts not listening will be asked to leave. This is typically used in the merit badge requirements pages, but could be used anywhere.
 
 * `{{>toggle-start}}Clickable Header{{>toggle-middle}}Collapsed content{{>toggle-end}}` - Shows a collapsible area. The "Clickable Header", when clicked, will toggle open the collapsed content.
+
+
+### Events
+
+Event files can have the following metadata.
+
+* `host` - The person or organization putting on the event. This will show up above the date in the banner.
+* `title` - The name of the event. Shows up below the date in the banner and is the text of the link in the calendar.
+* `subtitle` - Additional description line. Shown as the second line in the calendar.
+* `eventDateStart` - When the event starts. Appears in the header.
+* `eventDateEnd` - When the event starts. Appears in the header.
+* `borderColor` - When `online` is true, defaults to gold. When `meritBadge` is true, defaults to green. Otherwise defaults to black.
+* `bannerDateColor` - Defaults to black.
+* `location` - Array of strings for the location of the event.
+* `meritBadge` - If `true`, uses the merit badge event colors and template.
+* `online` - If `true`, uses the online event colors and template.
 
 
 Merit Badge Requirements
