@@ -2,10 +2,9 @@
 window.events.push(
     {
         title:{{{json json=title}}},
-        description:{{{json json=subtitle}}},
+        description:{{#if subtitle}}{{{json json=subtitle}}}{{else}}''{{/if}},
         url:"#"+{{{json json=ancestry.basename}}},
-        datetime: new Date({{{json json=eventDateStart}}}),
-        color:{{{json json=color}}}
+        datetime: new Date({{{json json=eventDateStart}}})
     }
 );
 </script>
