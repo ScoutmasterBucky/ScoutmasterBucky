@@ -60,18 +60,18 @@ year: 2021
 7. Identify and interview an individual in your community, school, and/or Scouting who has had a significant positive impact in promoting diversity, equity, and inclusion. If you feel your community, school, or local Scouting group does not have such an individual, then research a historical figure who meets these criteria, and discuss that person with your counselor.
     a. Discover what inspired the individual, learn about the challenges they faced, and share what you feel attributed to their success.
     b. Discuss with your counselor what you learned and how you can apply it in your life.
-{{#note type="inPerson" type2="online"}}To be filled in{{/note}}
+{{#note type="inPerson" type2="online"}}This requirement and it's components will take a bit of preparation time.  It is strongly recommended that you prepare for this requirement prior to the class.  While it can not be guaranteed that you will have time or the resources to complete this requirement and it's components during the class, time will be allotted for those that are prepared to share their work and be conisdered for sign off on this requirement. Be Prepared!{{/note}}
 8. With the help of your parent or guardian, study an event that had a positive outcome on how society viewed a group of people and made them feel more welcome. Describe to your counselor the event and what you learned.
-{{#note type="inPerson" type2="online"}}To be filled in{{/note}}
+{{#note type="inPerson" type2="online"}}Scouts should bring with them to class some sort of proof (a note signed by your parent or guardian) to help validate to the counselor your preparation for this requirement as it states to do this requirement with the help of your parent or guardian. Scouts not able to show that they have done this requirement with their parent or guardian likely will find it difficult to meet the satisfaction of the counselor that the requirement was completed as stated. Scouts will have an opportunity during the class to share their work for completion of this requirement during the class. Scouts may want to consider making notes in the Merit Badge Workbook or notebook in order to organize and formulate their description and explanation required for this requirement.{{/note}}
 9. Document and discuss with your counselor three or more areas in your life outside of Scouting where you feel you can actively provide stronger leadership in.
     a. Making others feel included.
     b. Practicing active listening.
     c. Creating an environment where others feel comfortable to share their ideas and perspectives.
     d. Helping others feel valued for their input and suggestions.
     e. Standing up for others.
-{{#note type="inPerson" type2="online"}}To be filled in{{/note}}
+{{#note type="inPerson" type2="online"}}Again, a requirement that requires Scouts to document.  Scouts will need to show their work to the counselor confirming they have prepared for the completion of this requirement completely. Discussion will be facilitated during the class to fulfill the requirement and it's components as stated, however it must be noted that Scouts that do not have or cannot show their documented work will NOT ba able to complete this requirement on the day of the class. Be Preapred!{{/note}}
 10. Discuss with your counselor how stereotyping people can be harmful, and how stereotypes can lead to prejudice and discrimination. Share ideas you have for challenging assumptions and celebrating individuality.
-{{#note type="inPerson" type2="online"}}To be filled in{{/note}}
+{{#note type="inPerson" type2="online"}}A section of the class will be dedicated to Scouts sharing their perspective on this requirement. It is recommended that Scouts consider using a workbook or notebook to make notes prior to the class for easier reference during the class for use when fulfilling this requirement.{{/note}}
 11. Scouting strives to develop young people to be future leaders in their workplaces, schools, and community environments. As you look at your current involvement in school, your family, Scouting, your job, and/or community, think about how you can have a positive impact in diversity, equity, and inclusion.
     a. Describe your ideas on how you can and will support others with different identities to feel included and heard at your school, workplace, and/or social settings in your community.
     b. Explain how including diverse thoughts and opinions from others with different identities can:
@@ -79,5 +79,5 @@ year: 2021
         * Help everyone benefit by considering different opinions.
     c. Give three examples of how limiting diverse input can be harmful.
     d. Give three examples of how considering diverse opinions can lead to innovation and success.
-{{#note type="inPerson" type2="online"}}to be filled in{{/note}}
+{{#note type="inPerson" type2="online"}}Scouts will have an opportunity to share their preparation work for this requirement and it's components during the class for sign off and completion of this requirement. Be Prepared!{{/note}}
 {{/requirements}}

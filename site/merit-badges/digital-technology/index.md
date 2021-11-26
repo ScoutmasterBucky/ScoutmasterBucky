@@ -7,23 +7,30 @@ year: 2021
 
 {{#requirements}}
 1. Show your counselor your current, up-to-date [Cyber Chip]({{@root.rootPath}}/other-awards/cyber-chip/).
+  *Earning the Cyber Chip can help you learn how to stay safe while you are online and using social networks or the latest electronic gadgets. Topics include cell phone use, texting, blogging, gaming, cyberbullying, and identity theft. Find out more about the Cyber Chip at http://www.scouting.org/cyberchip.*
+{{#note type="inPerson" type2="online"}}It is strongly recommended and encouraged that Scouts complete their Cyber Chip requirements (age appropriate) ahead of time and bring their current / recharged Cyber Chip proof with them to class. It is not acceptable to just say you have your Cyber Chip, you must bring proof.  Some counselors may choose to integrate this requirement into the instruction at the class, but Scouts will find having it done ahead of time is best. If time allows, the counselor MAY offer the chance to complete parts of the Cyber Chip at the end of the class, this of course is at the discretion of the counselor.{{/note}}
 2. Do the following:
     (a) Give a brief history of the changes in digital technology over time. Discuss with your counselor how digital technology in your lifetime compares with that of your parent’s, grandparent’s, or other adult’s lifetime.
+    {{#note type="inPerson" type2="online"}}Scouts should make notes to assist them with the discussion component of this requirement.  Scouts will only be able to complete this component of Requirement 2 if they come to the class having talked to some adults and how digital technology has changed in their lifetimes. It is strongly recommended that Scouts bring any notes or supporting documents they may have to help show the counselor that they have prepared for discussion of this requirement. Only Scouts who have done the preparation work and actively participate in the class discussion will be considered for sign off on this part of the requirement.{{/note}}
     (b) Describe the kinds of computers or devices you imagine might be available when you are an adult.
+    {{#note type="inPerson" type2="online"}}Scouts will be required to share their thoughts as this part of the requirement states. Only Scouts who participate actively in the group discussion will be signed off on this part of the requirement. This not a listening only requirement.{{/note}}
 3. Do the following:
     (a) Explain to your counselor how text, sound, pictures, and videos are digitized for storage.
     (b) Describe the difference between lossy and lossless data compression, and give an example where each might be used.
     (c) Describe two digital devices and how they are made more useful by their programming.
     (d) Discuss the similarities and differences between computers, mobile devices, and gaming consoles.
     (e) Explain what a computer network is and describe the network’s purpose.
+{{#note type="inPerson" type2="online"}}Scouts will need to do some research and reading in order to prepare for this requirement.  It is recommended that Scouts make notes of their findings to help show the counselor their efforts in preparing for the class.  These notes can also serve to help Scouts successfully perform their explanation or discussion elements of this requirement. It will be very difficult for Scouts who do not come prepared for this requirement to successfully complete the requirement in the class.{{/note}}
 4. Do the following:
     (a) Explain what a program or software application or "app" is and how it is created.
     (b) Name four software programs or mobile apps you or your family use, and explain how each one helps you.
     (c) Describe what malware is, and explain how to protect your digital devices and the information stored on them.
+{{#note type="inPerson" type2="online"}}While the counselor will help mentor in the class, Scouts should have reviewed the merit badge pamphlet and any other sources they have access to in order to best build their knowledge for completing this requirement in the class.  Scouts will be required to actively partake in providing explanations on all components of this requirement in one-on-one discussion with the counselor and/or with the class group environment.{{/note}}
 5. Do the following:
     (a) Describe how digital devices are connected to the internet.
     (b) Using an internet search engine (with your parent or guardian's permission), find ideas from at least three different websites about how to conduct a troop court of honor or campfire program. Present the ideas to your counselor, and explain how you used a search engine to find this information.
     (c) Use a Web browser to connect to an HTTPS (secure) website (with your parent's permission). Explain to your counselor how to tell whether the site’s security certificate can be trusted, and what it means to use this kind of connection.
+{{#note type="inPerson" type2="online"}}While most of this requirement will be completed in the class, Scout's must still do some preparation work.  Ideally bring a note or signed statement from a parent (as a couple of the components reference) validating you have worked on this requirement to the best of your ability prior to the class to prepare for completion.{{/note}}
 6. Do THREE of the following. For each project you complete, copy the files to a backup device and share the finished projects with your counselor.
     (a) Using a spreadsheet or database program, develop a food budget for a patrol weekend campout OR create a troop roster that includes the name, rank, patrol, and telephone number of each Scout. Show your counselor that you can sort the roster by each of the following categories: rank, patrol, and alphabetically by name.
     (b) Using a word processor, write a draft letter to the parents of your troop's Scouts, inviting them to a troop event.
@@ -33,17 +40,21 @@ year: 2021
     (f) Make a digital recording of your voice, transfer the file to a different device, and have your counselor play back the recording.
     (g) Create a blog and use it as an online journal of your Scouting activities, including group discussions and meetings, campouts, and other events. Include at least five entries and two photographs or illustrations. Share your blog with your counselor. You need not post the blog to the internet; however, if you choose to go live with your blog, you must first share it with your parents AND counselor AND get their approval.
     (h) Create a Web page for your troop, patrol, school, or place of worship. Include at least three articles and two photographs or illustrations. Include at least one link to a website of interest to your audience. You need not post the page to the internet; however, if you decide to do so, you must first share the Web page with your parents AND counselor AND get their approval.
+{{#note type="inPerson" type2="online"}}Scouts will need to come to the class with these items already in the works, if not already completed.  Time will be allotted in the class to review any of these components that Scouts have completed or are nearly completed with for consideration by the counselor for sign off.  Some of the concepts required for these different components may be demonstrated and discussed for general knowledge purposes within the class.{{/note}}
 7. Do the following:
     (a) Explain to your counselor each of these protections and why they exist: copyright, patents, trademarks, trade secrets.
     (b) Explain when it is permissible to accept a free copy of a program from a friend.
     (c) Discuss with your counselor an article or a news report about a recent legal case involving an intellectual property dispute.
+{{#note type="inPerson" type2="online"}}Scouts should review this requirement and its components and be prepared to explain.  It is strongly recommended that Scouts bring any notes or supporting documents they may have to help show the counselor that they have prepared for discussion of these items.{{/note}}
 8. Do TWO of the following:
     (a) Describe why it is important to properly dispose of digital technology. List at least three dangerous chemicals that could be used to create digital devices or used inside a digital device.
     (b) Explain to your counselor what is required to become a certified recycler of digital technology hardware or devices.
     (c) Do an internet search for an organization that collects discarded digital technology hardware or devices for repurposing or recycling. Find out what happens to that waste. Share with your counselor what you found.
     (d) Visit a recycling center that disposes of digital technology hardware or devices. Find out what happens to that waste. Share what you learned with your counselor.
     (e) Find a battery recycling center near you and find out what it does to recycle batteries. Share what you have learned with your counselor about the proper methods for recycling batteries.
+{{#note type="inPerson" type2="online"}}Scouts will need to come to the class with these items already in the works, if not already completed.  Time will be allotted in the class to review any of these components that Scouts have completed or are nearly completed with for consideration by the counselor for sign off.  Some of the concepts required for these different components may be demonstrated and discussed for general knowledge purposes within the class.{{/note}}
 9. Do ONE of the following:
     (a) Investigate three career opportunities that involve digital technology. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.
     (b) Visit a business or an industrial facility that uses digital technology. Describe four ways digital technology is being used there. Share what you learned with your counselor.
+{{#note type="inPerson" type2="online"}}Scouts should review this requirement and choose one of the two components and be prepared to discuss during the class.{{/note}}
 {{/requirements}}
