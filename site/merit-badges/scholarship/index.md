@@ -9,17 +9,22 @@ year: 2021
 1. Do ONE of the following:
     (a) Show that your school grades have been an average of B or higher (80 percent or higher) for one term or semester.
     (b) Show that for one term or semester you have improved your school grades over the previous period.
+    {{#note type="inPerson" type2="online"}}Scouts should bring proof with their most recent report card or most recent two report cards to fulfill this requirement in the class. Without this documentation the counselor will not be able to sign you off. Just saying that you improved or have a "B" or better average is not enough.{{/note}}
 2. Do TWO of the following:
     (a) Make a list of educational places located where you live (other than schools). Visit one, and report on how you used the place for self-education.
     (b) With your counselor's and your parent's approval, interview two professionals (other than teachers or other professionals at your school) with established careers. Find out where they were educated, what training they received, and how their education and training have helped prepare them for the career they have chosen. Find out how they continue to educate themselves. Discuss what you find out with your counselor.
     (c) Using a daily planner, show your counselor how you keep track of assignments and activities, and discuss how you manage your time.
     (d) Discuss the advantages and disadvantages of the different methods of research available to you for school assignments, such as the library, books and periodicals, and the Internet.
+    {{#note type="inPerson" type2="online"}}Scouts will need to prepare for class by completing requirement components 2a and 2b prior to the class and be prepared to share their work and findings with the counselor during the class. Scouts will work on requirements 2c and 2d in the class. 2c requires Scouts to come to the class ready and prepared to show the counselor how they keep track of assignments and how they manage their time. Additionally, for Requirement 2d, Scouts should review and be prepared to discuss the advantages and disadvantages of the different research available for school assignments. No sneaking by on this one, those who do not come prepared will not get signed off on these requirement components.{{/note}}
 3. Get a note from the principal of your school (or another school official named by the principal) that states that during the past year your behavior, leadership, and service have been satisfactory.
     *If you are home-schooled or your school environment does not include a principal, you may obtain a note from a counterpart such as your parent.*
+    {{#note type="inPerson" type2="online"}}This requirement is pretty cut and dry, you need a note from your principal (or another school official authorized by the principal). Without this note you will not be signed off on this requirement.{{/note}}
 4. Do ONE of the following:
     (a) Show that you have taken part in an extracurricular school activity, and discuss with your counselor the benefits of participation and what you learned about the importance of teamwork.
     (b) Discuss your participation in a school project during the past semester where you were a part of a team. Tell about the positive contributions you made to the team and the project.
+    {{#note type="inPerson" type2="online"}}Scouts should plan on bringing something from their team participation activity to share and enhance their discussion. Only those who bring an item and actively partake in the discussion are guaranteed to be signed off on this requirement.{{/note}}
 5. Do ONE of the following:
     (a) Write a report of 250 to 300 words about how the education you receive in school will be of value to you in the future and how you will continue to educate yourself in the future.
     (b) Write a report of 250 to 300 words about two careers that interest you and how specific classes and good scholarship in general will help you achieve your career goals.
+    {{#note type="inPerson" type2="online"}}While there will be time for Scouts to write the report during the class, it is ideal for Scouts to have as much of this requirement done prior to attending the class as possible. No guarantee on the amount of time that will be available during the class can be made, hence only those who come to class with this completed will be guaranteed an opportunity to get signed off on this requirement.{{/note}}
 {{/requirements}}

@@ -7,6 +7,7 @@ year: 2021
 
 {{#requirements}}
 1. Discuss with your counselor the life and times of Lord Baden-Powell of Gilwell. Explain why he felt a program like Scouting would be good for the young men of his day. Include in your discussion how Scouting was introduced in the United States, and the origins of Boy Scouting and Cub Scouting under Baden-Powell.
+{{#note type="inPerson" type2="online"}}Scouts should make notes to assist them and be prepared for discussion during the class. Scouts will not automatically be signed off on this requirement just for attending as the requirement states that they must discuss and explain a number of items and will be required to actively and accurately partake in a group and/or individual discussion to obtain credit for this requirement.{{/note}}
 2. Do the following:
     (a) Give a short biographical summary of any TWO of the following, and tell of their roles in how Scouting developed and grew in the United States.
         (1) Daniel Carter Beard
@@ -15,18 +16,40 @@ year: 2021
         (4) Ernest Thompson Seton
         (5) James E. West
         (6) "Green Bar Bill" Hillcourt
+    {{#note type="inPerson" type2="online"}}This portion of the requirement is a writing and verbal element. Choose two people from the list above to give a brief summary on their professional / educational accomplishments, publications, contributions, and affiliations that highlight important aspects of their training, experience and areas of interest. It is highly recommended that Scouts use the Scoutmaster Bucky Scouting Heritage Workbook to make their notes and prepare for class discussion.{{/note}}
     (b) Discuss the significance to Scouting of any TWO of the following:
         (1) Brownsea Island
         (2) The First World Scout Jamboree
         (3) *Boy Scout Handbook*
         (4) *Boys’ Life* magazine
+    {{#note type="inPerson" type2="online"}}This portion of requirement 2 is all about discussion. Scouts should prepared to discuss. It is strongly recommended that Scouts bring any notes or supporting documents they may have to help show the counselor that they have prepared for discussion on these items.{{/note}}
 3. Discuss with your counselor how Scouting’s programs have developed over time and been adapted to fit different age groups and interests (Cub Scouting, Boy Scouting, Exploring, Venturing).
+{{#note type="inPerson" type2="online"}}This requirement will be covered in the class, however, Scouts should review the merit badge pamphlet so as to have a basic understanding of the components of this requirement and be prepared for discussion as the requirement states.{{/note}}
 4. Do ONE of the following:
+{{#note type="inPerson" type2="online"}}Scouts will have to perform on their own, either prior to or after the class, the visit and/or writing requirements in this requirement. Scouts will have an opportunity to share their work during the class if they choose to bring their preparation work with them. In order to get signed of on this requirement at the class Scouts will need to do work ahead of time. Choose one of the components below for Requirement 4.{{/note}}
     (a) Attend either a BSA national jamboree, OR world Scout jamboree, OR a national BSA high-adventure base. While there, keep a journal documenting your day-to-day experiences. Upon your return, report to your counselor what you did, saw, and learned. You may include photos, brochures, and other documents in your report.
+    {{#note type="inPerson" type2="online"}}Scouts choosing to do Requirement component 4a should bring supporting documents, photos, memorabilia along with their completed journal in order to be considered for completion of this requirement component. Scouts choosing this component will need to be prepared to share their items and journal with the class and counselor.{{/note}}
     (b) Write or visit the National Scouting Museum. Obtain information about this facility. Give a short report on what you think the role of this museum is in the Scouting program.
+    {{#note type="inPerson" type2="online"}}Scouts who have visited or written to the National Scouting Museum in Irving, Texas, should bring some sort of validation of their visit or response to the museum along with their report ready for presentation.
+    Scouts who wish to have an opportunity to complete this requirement at the class but have not attended or were unable to attend any of the other locations or events mentioned in the components of this requirement, may write to the National Scouting Museum to obtain the required reference materials in order to complete the 4b component of this requirement. According to the National Scouting Museum, here is the current method for requesting information about the museum:
+            **Postal Mail Request:**
+            *Scouting Heritage Merit Badge Request*
+            *Philmont Museums*
+            *17 Deer Run Road*
+            *Cimarron, NM 87714*
+            OR
+            **Email Requests**
+            *philmont (dot) museums (at) scouting (dot) org*{{/note}}
     (c) Visit an exhibit of Scouting memorabilia or a local museum with a Scouting history gallery, or (with your parent’s permission and counselor’s approval) visit with someone in your council who is recognized as a dedicated Scouting historian or memorabilia collector. Learn what you can about the history of Boy Scouting. Give a short report to your counselor on what you saw and learned.
+    {{#note type="inPerson" type2="online"}}Scouts choosing this requirement component should plan on bringing some documented proof of their visit and be prepared to give their report to the class and counselor.{{/note}}
 5. Learn about the history of your unit or Scouting in your area. Interview at least two people (one from the past and one from the present) associated with your troop. These individuals could be adult unit leaders, Scouts, troop committee members, or representatives of your troop’s chartered organization. Find out when your unit was originally chartered. Create a report of your findings on the history of your troop, and present it to your patrol or troop or at a court of honor, and then add it to the troop’s library. This presentation could be in the form of an oral/written report, an exhibit, a scrapbook, or a computer presentation such as a slide show.
+{{#note type="inPerson" type2="online"}}Half of this requirement will need to be done prior to attending the class. Scouts will have an opportunity to present their work on this requirement in the class in order to potentially complete the other half of this requirement. Scouts should review this requirement completely and be prepared with and bring their presentation, report, exhibit, or scrapbook. Scouts will have an opportunity to share their work during the class. Only Scouts with the first part of this requirement completed PRIOR to the class and ready for presentation will have the opportunity of possibly finishing this requirement in the class.{{/note}}
 6. Make a collection of some of your personal patches and other Scouting memorabilia. With their permission, you may include items borrowed from family members or friends who have been in Scouting in the past, or you may include photographs of these items. Show this collection to your counselor, and share what you have learned about items in the collection. (There is no requirement regarding how large or small this collection must be.)
+{{#note type="inPerson" type2="online"}}Scouts desiring to get signed off on this requirement on the day of the class will need to prepare ahead of time their collection of Scouting patches or other Scouting memorabilia and bring their collection with them to class. Scouts should be ready to share with the class and counselor their collection.{{/note}}
 7. Reproduce the equipment for an old-time Scouting game such as those played at Brownsea Island. You may find one on your own (with your counselor’s approval), or pick one from the *Scouting Heritage* merit badge pamphlet. Teach and play the game with other Scouts.
+{{#note type="inPerson" type2="online"}}This requirement will be completed as a part of this class. Scouts should come prepared having reviewed the information in the merit badge pamphlet and be knowledgeable of the components of this requirement.{{/note}}
 8. Interview at least three people (different from those you interviewed for requirement 5) over the age of 40 who were Scouts. Find out about their Scouting experiences. Ask about the impact that Scouting has had on their lives. Share what you learned with your counselor.
+{{#note type="inPerson" type2="online"}}Scouts are strongly urged to complete as many of the three interviews as possible prior to the class. There will more than likely not be enough time or people at the class in order for all Scouts to complete this requirement entirely at the class. Check with your Scoutmaster for suggestions of local Scouters who might be willing to assist you over the phone or in person. Your District's monthly Roundtable is another great opportunity to meet and interview older Scouters.
+All Scouts coming to the class with their interviews and notes completed will have an opportunity to share what they learned with the class and counselor.
+{{/note}}
 {{/requirements}}
