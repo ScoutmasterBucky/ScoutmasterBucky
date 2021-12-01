@@ -7,9 +7,9 @@ online: true
 ---
 
 {{#badge-list}}
-{{>badge badge="reading-scholarship"}}
+{{>badge badge="reading" badge2="scholarship"}}
 {{/badge-list}}
 
 ### Registration
 
-{{>eventbrite badge="reading-scholarship" event="220249651637" start=eventDateStart end=eventDateEnd}}
+{{>eventbrite badge="reading" badge2="scholarship" event="220249651637" start=eventDateStart end=eventDateEnd}}
