@@ -1,7 +1,7 @@
 ---
 host: Scoutmaster Bucky
 title: Citizenship in Society Merit Badge Online
-eventDateStart: 2021-12-30T18:00-06:00
+eventDateStart: 2021-12-30T08:00-06:00
 eventDateEnd: 2021-12-30T11:30-06:00
 online: true
 ---
