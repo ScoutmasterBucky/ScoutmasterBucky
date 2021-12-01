@@ -4,9 +4,8 @@ layout: smb
 opportunities: 14,050+
 online: 1,335+
 news:
-    - January opportunities open TONIGHT!
-    - Still time to register for the December 4 Scoutmaster Bucky Merit Badge Day - scroll down
-    - Online Merit Badge classes thru March posted (maybe more to come)
+    - Registration for January opportunities is OPEN!
+    - 1 day left to register for December 4 Scoutmaster Bucky Merit Badge Day
     - Kick off the new year with Mrs Scoutmaster Bucky Scrap and Stamp Day January 8, 2022 (sign up below)
 css:
     - css/calendar.css
