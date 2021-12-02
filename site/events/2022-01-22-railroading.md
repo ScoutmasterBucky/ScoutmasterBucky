@@ -1,6 +1,7 @@
 ---
 title: Railroading Merit Badge Event
-eventDateStart: 2022-01-22T12:00Z
+eventDateStart: 2022-01-22 12:00
+eventDateEnd: 2022-01-22 15:00
 location:
     - North Metro Model Railroad Club
     - 1929 Coon Rapids Blvd
@@ -44,13 +45,6 @@ The following are the requirements that will be covered and worked on during thi
 
 4. Explain the purpose of Operation Lifesaver and its mission.
 
-    Another line of text
-        This is a test
-
-    **Bolded Option 1**
-
-    Another line of text
-
 5. Do THREE of the following:
     a. List five safety precautions that help make trains safer for workers and passengers.
     b. Explain to your merit badge counselor why railroad rights-of-way are important for safety.
@@ -75,5 +69,5 @@ The following are the requirements that will be covered and worked on during thi
 
 ### Afternoon Class
 
-{{>eventbrite badge="railroading" event="216131383787" start="2022-01-22T12:00-06:00" end="2022-01-22T15:00-06:00"}}
+{{>eventbrite badge="railroading" event="216131383787" start=eventDateStart end=eventDateEnd}}
 

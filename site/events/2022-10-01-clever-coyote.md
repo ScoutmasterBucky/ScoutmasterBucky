@@ -1,8 +1,8 @@
 ---
 title: Clever Coyote
 subtitle: Mayday @ Birch Bend Campground
-eventDateStart: '2022-10-01T07:00:00-05:00'
-eventDateEnd: '2022-10-02T10:00:00-05:00'
+eventDateStart: 2022-10-01 7:00
+eventDateEnd: 2022-10-02 10:00
 registrationLink: https://clever-coyote.8b.io/registration.html
 ---
 

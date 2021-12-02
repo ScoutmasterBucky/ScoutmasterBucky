@@ -2,8 +2,9 @@
 title: Wood Badge - Fall 2020
 subtitle: C1-250-20-2
 logo: images/wood-badge/logo.png
-startDate: 2020-09-11
-endDate: 2020-09-13
+startDate: 2020-09-11 12:00
+endDate: 2020-09-13 12:00
+registrationCloseDate: 2020-09-10 0:00
 ---
 
 Wood Badge is a world-class leadership development program intended for all Scout leaders. Reflecting the best of nearly a century of Scouting experience, Wood Badge draws upon the most current leadership models used by corporate America, academic circles and successful organizations throughout the country.
@@ -41,7 +42,7 @@ Only 41 spaces left as of 01-02-2020
 <div class="D(f) Fxd(c) Jc(c) P(0.2em)">
 
 Registration closes in: <br />
-{{> countdown to="2020-09-09T23:59:59-05:00"}}
+{{> countdown to=registrationCloseDate}}
 
 This course **WILL** fill up completely<br />
 Don't wait or you may not get a spot!

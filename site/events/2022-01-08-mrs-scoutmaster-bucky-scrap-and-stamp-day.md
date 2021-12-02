@@ -2,8 +2,8 @@
 host: Mrs. Scoutmaster Bucky
 title: Scrap and Stamp Day
 subtitle: Scrap, Stamp, or just hang out
-eventDateStart: '2022-01-08T08:30:00-06:00'
-eventDateEnd: '2022-01-08T15:30:00-06:00'
+eventDateStart: 2022-01-08 8:30
+eventDateEnd: 2022-01-08 15:30
 bannerDateColor: green
 borderColor: green
 ---

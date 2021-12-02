@@ -1,0 +1,37 @@
+{{#if badge2}}
+<svg version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="100%"
+     height="auto"
+     viewbox="0 0 200 200"
+>
+    <a href="{{@root.rootPath}}merit-badges/{{badge}}/">
+        <image
+            xlink:href="{{@root.rootPath}}{{#with (lookup @root.meritBadges badge)}}{{image}}{{/with}}"
+            x="0"
+            y="0"
+            width="150"
+            height="150"
+        />
+    </a>
+    <a href="{{@root.rootPath}}merit-badges/{{badge2}}/">
+        <image
+            xlink:href="{{@root.rootPath}}{{#with (lookup @root.meritBadges badge2)}}{{image}}{{/with}}"
+            x="50"
+            y="50"
+            width="150"
+            height="150"
+        />
+    </a>
+</svg>
+{{else}}
+<a href="{{@root.rootPath}}merit-badges/{{badge}}/">
+    <img
+        src="{{@root.rootPath}}{{#with (lookup @root.meritBadges badge)}}{{image}}{{/with}}"
+        class="W(100%) H(a)"
+        width="200"
+        height="200"
+    />
+</a>
+{{/if}}

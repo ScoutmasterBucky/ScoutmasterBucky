@@ -1,18 +1,18 @@
 ---
 host: Scoutmaster Bucky
 title: December Merit Badge Day
-eventDateStart: 2021-12-04T08:00-06:00
-eventDateEnd: 2021-12-04T16:00-06:00
+eventDateStart: 2021-12-04 8:00
+eventDateEnd: 2021-12-04 16:00
 location:
     - Shepherd of the Lake Lutheran Church
     - 3611 North Berens Road NW
     - Prior Lake, Minnesota 55379
 meritBadge: true
 # These are for the dates in the merit badge classes
-amStart: 2021-12-04T08:00-06:00
-amEnd: 2021-12-04T11:30-06:00
-pmStart: 2021-12-04T12:00-06:00
-pmEnd: 2021-12-04T15:30-06:00
+amStart: 2021-12-04 8:00
+amEnd: 2021-12-04 11:30
+pmStart: 2021-12-04 12:00
+pmEnd: 2021-12-04 15:30
 ---
 ### Morning Classes
 

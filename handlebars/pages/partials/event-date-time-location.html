@@ -1,14 +1,14 @@
 <div class="D(f) Fxd(c) Fxd(r)--s Jc(c)">
 <div class="Ta(c) C(smbThmTx) Fw(b) Fz(1.5em) Fz(1.2em)--s Pend(0.2em)--s">
-{{#date format='dddd'}}{{start}}{{/date}}
+{{#date format='EEEE'}}{{start}}{{/date}}
 </div>
 <div class="Ta(c) Mb(0.6em) C(smbThmTx) Fw(b) Fz(1.5em) Fz(1.2em)--s">
-{{#date format='MMMM D, YYYY'}}{{start}}{{/date}}
+{{#date}}{{start}}{{/date}}
 </div>
 </div>
 
 <div class="Ta(c) Fw(b) Mb(1em)">
-{{#date format='h:mm a'}}{{start}}{{/date}} - {{#date format='h:mm a z'}}{{end}}{{/date}}
+{{#date format='h:mm a'}}{{start}}{{/date}} - {{#date format='h:mm a'}}{{end}}{{/date}} Central
 </div>
 
-<script>eventTime('{{start}}', '{{end}}');</script>
+<script>eventTime('{{#date format='iso'}}{{start}}{{/date}}', '{{#date format='iso'}}{{end}}{{/date}}');</script>
