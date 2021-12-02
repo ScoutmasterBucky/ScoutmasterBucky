@@ -1,18 +1,22 @@
-const moment = require('moment-timezone');
-moment.tz.setDefault('CST6CDT');
+const monthNames = [
+    null, 'January', 'February', 'March', 'April', 'May', 'June',
+    'July', 'August', 'September', 'October', 'November', 'December'
+];
 
 module.exports = function(options) {
-    let content = options.fn(this);
+    const content = options.fn(this);
+    const parts = content.split('-');
 
-    if (content.length === 4) {
-        return content;
+    // YYYY
+    if (parts.length === 1) {
+        return parts[0];
     }
 
-    const m = moment(content)
+    parts[1] = monthNames[parts[1]];
 
-    if (content.length === 7) {
-        return m.format('MMMM, YYYY');
+    if (parts.length === 2) {
+        return `${parts[1]} ${parts[0]}`;
     }
 
-    return m.format('MMMM D, YYYY');
+    return `${parts[1]} ${parts[2]}, ${parts[0]}`;
 };

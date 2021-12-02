@@ -1,8 +1,8 @@
 ---
 host: Scoutmaster Bucky
 title: Weather Merit Badge Online
-eventDateStart: 2022-01-04T18:00-06:00
-eventDateEnd: 2022-01-04T21:30-06:00
+eventDateStart: 2022-01-04 18:00
+eventDateEnd: 2022-01-04 21:30
 online: true
 ---
 

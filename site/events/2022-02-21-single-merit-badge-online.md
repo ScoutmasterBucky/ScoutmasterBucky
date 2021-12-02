@@ -1,8 +1,8 @@
 ---
 host: Scoutmaster Bucky
 title: Salesmanship Merit Badge Online
-eventDateStart: 2022-02-21T18:00-06:00
-eventDateEnd: 2022-02-21T21:30-06:00
+eventDateStart: 2022-02-21 18:00
+eventDateEnd: 2022-02-21 21:30
 online: true
 ---
 

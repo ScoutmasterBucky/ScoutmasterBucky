@@ -1,8 +1,8 @@
 ---
 host: Scoutmaster Bucky
 title: Traffic Safety Merit Badge Online
-eventDateStart: 2022-01-12T18:00-06:00
-eventDateEnd: 2022-01-12T21:30-06:00
+eventDateStart: 2022-01-12 18:00
+eventDateEnd: 2022-01-12 21:30
 online: true
 ---
 

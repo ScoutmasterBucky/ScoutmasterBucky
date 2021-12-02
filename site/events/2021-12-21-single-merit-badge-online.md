@@ -1,8 +1,8 @@
 ---
 host: Scoutmaster Bucky
 title: Dog Care Merit Badge Online
-eventDateStart: 2021-12-21T18:00-06:00
-eventDateEnd: 2021-12-21T21:30-06:00
+eventDateStart: 2021-12-21 18:00
+eventDateEnd: 2021-12-21 21:30
 online: true
 ---
 
