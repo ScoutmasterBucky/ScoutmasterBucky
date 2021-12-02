@@ -1,9 +1,13 @@
-const moment = require('moment-timezone');
-moment.tz.setDefault('CST6CDT');
+const luxon = require('luxon');
 
 module.exports = function (obj) {
-    const format = obj.hash.format || 'MMMM D, YYYY';
+    const format = obj.hash.format || 'MMMM d, yyyy';
     const dateStr = obj.fn(this);
-    const m = moment(dateStr).tz("CST6CDT");
-    return m.format(format);
+    const d = luxon.DateTime.fromFormat(dateStr, 'yyyy-MM-dd H:mm', { zome: 'America/Chicago' })
+
+    if (format === 'iso') {
+        return d.toISO();
+    }
+
+    return d.toFormat(format)
 };

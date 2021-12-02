@@ -1,8 +1,8 @@
 ---
 host: Scoutmaster Bucky
 title: Drafting Merit Badge Online
-eventDateStart: 2021-12-09T18:00-06:00
-eventDateEnd: 2021-12-09T21:30-06:00
+eventDateStart: 2021-12-09 18:00
+eventDateEnd: 2021-12-09 21:30
 online: true
 ---
 

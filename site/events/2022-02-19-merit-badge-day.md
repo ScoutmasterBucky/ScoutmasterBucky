@@ -1,20 +1,20 @@
 ---
 host: Scoutmaster Bucky
 title: February Merit Badge Day
-eventDateStart: 2022-02-19T08:00-06:00
-eventDateEnd: 2022-02-19T16:00-06:00
+eventDateStart: 2022-02-19 08:00
+eventDateEnd: 2022-02-19 16:00
 location:
     - Guardian Angels Catholic Church
     - 8260 4th Street North
     - Oakdale, Minnesota 55128
 meritBadge: true
 # These are for the dates in the merit badge classes
-amStart: 2022-02-19T08:00-06:00
-amEnd: 2022-02-19T11:30-06:00
-pmStart: 2022-02-19T12:30-06:00
-pmEnd: 2022-02-19T16:00-06:00
-MidDayStart: 2022-02-19T10:00-06:00
-MidDayEnd: 2022-02-19T14:30-06:00
+amStart: 2022-02-19 08:00
+amEnd: 2022-02-19 11:30
+pmStart: 2022-02-19 12:30
+pmEnd: 2022-02-19 16:00
+MidDayStart: 2022-02-19 10:00
+MidDayEnd: 2022-02-19 14:30
 ---
 ### Morning Classes
 

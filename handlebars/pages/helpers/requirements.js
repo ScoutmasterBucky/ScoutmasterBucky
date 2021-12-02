@@ -1,5 +1,3 @@
-var marked = require('marked');
-
 module.exports = function (obj) {
     let lines = obj.fn(this);
 
@@ -51,7 +49,7 @@ ${content}
         }
 
         return `
-<div class="D(f)"><div class="Pend(0.2em) Pstart(${pad}px) Fxs(0) W(${w}px)">${marked(line.number.trim())}</div><div>
+<div class="D(f)"><div class="Pend(0.2em) Pstart(${pad}px) Fxs(0) W(${w}px)">${line.number.trim()}</div><div>
 
 ${content}
 

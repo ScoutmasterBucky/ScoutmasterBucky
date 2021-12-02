@@ -6,7 +6,7 @@ Hide {{>eventbrite-event-title}}
 
 <div class="D(f) Fxd(cr)--m">
 <div class="W(100%)">
-{{>event-badge-header badge=badge}}
+{{>event-badge-header badge=badge badge2=badge2}}
 </div>
 
 <div class="W(100%) Maw(30%) Maw(100%)--m Fxb(2)">
@@ -22,20 +22,9 @@ Hide {{>eventbrite-event-title}}
 </div>
 </div>
 
-<div class="D(f) Fxd(c)--m">
-<div class="D(f) Fxd(c) M(0.5em) W(100%)">
-<div>{{>badge-name badge=badge}}</div>
-<div class="D(f) Jc(se) Pt(10px)">
-<a class="Td(n) Fs(i) Pstart(1em)" href="{{@root.rootPath}}merit-badges/{{badge}}/" target="_blank">Requirements</a>
-{{#online}}
-<a class="Td(n) Fs(i) Pstart(1em)" href="{{@root.rootPath}}merit-badges/{{badge}}/?notes=online" target="_blank">Online Class Preparation</a>
-{{/online}}
-{{^online}}
-<a class="Td(n) Fs(i) Pstart(1em)" href="{{@root.rootPath}}merit-badges/{{badge}}/?notes=inPerson" target="_blank">In-Person Class Preparation</a>
-{{/online}}
-<a class="Td(n) Fs(i) Pstart(1em)" href="{{@root.rootPath}}merit-badges/{{badge}}/workbook/" target="_blank">Workbook</a>
-</div>
-</div>
-</div>
+{{>eventbrite-merit-badge-links badge=badge}}
+{{#if badge2}}
+{{>eventbrite-merit-badge-links badge=badge2}}
+{{/if}}
 
 {{>toggle-end}}
