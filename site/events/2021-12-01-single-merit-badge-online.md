@@ -1,8 +1,8 @@
 ---
 host: Scoutmaster Bucky
 title: Digital Technology Merit Badge Online
-eventDateStart: 2021-12-01T18:00-06:00
-eventDateEnd: 2021-12-01T21:30-06:00
+eventDateStart: 2021-12-01T18:00
+eventDateEnd: 2021-12-01T21:30
 online: true
 ---
 
