@@ -5,3 +5,10 @@
 <div class="D(f) Jc(c) Tt(u) C({{eventColor}}) Ta(c) Fw(b) Fz(32px) Fz(24px)--l Fz(20px)--m Fz(16px)--s">{{#date}}{{eventDateStart}}{{/date}}</div>
 {{/if}}
 <div class="D(f) Jc(c) Tt(u) C(red) Ta(c) Fw(b) Fz(32px) Fz(24px)--l Fz(20px)--m Fz(16px)--s">{{title}}</div>
+{{#if location}}
+<div class="D(f) Fxd(c) Ai(c) Tt(u) C({{eventColor}}) Ta(c) Fw(b)">
+{{#location}}
+<div>{{.}}</div>
+{{/location}}
+</div>
+{{/if}}
