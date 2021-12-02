@@ -19,7 +19,7 @@ module.exports = function(obj) {
             .join(" ");
     }
 
-    let content = marked(obj.fn(this));
+    let content = marked.parse(obj.fn(this));
 
     // Force content to be on one line so it can be used within requirements
     content = content.replace(/\n/g, ' ');

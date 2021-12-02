@@ -1,6 +1,11 @@
 ---
 title: Scoutmaster Bucky Merit Badge Special
-eventDateStart: 2020-03-28T12:00Z
+eventDateStart: 2020-03-28 9:00
+eventDateEnd: 2020-03-28 15:00
+amDateStart: 2020-03-28 9:00
+amDateEnd: 2020-03-28 11:30
+pmDateStart: 2020-03-28 12:00
+pmDateEnd: 2020-03-28 15:30
 location:
     - North Metro Model Railroad Club
     - 1929 Coon Rapids Blvd
@@ -44,13 +49,6 @@ The following are the requirements that will be covered and worked on during thi
 
 4. Explain the purpose of Operation Lifesaver and its mission.
 
-    Another line of text
-        This is a test
-
-    **Bolded Option 1**
-
-    Another line of text
-
 5. Do THREE of the following:
     a. List five safety precautions that help make trains safer for workers and passengers.
     b. Explain to your merit badge counselor why railroad rights-of-way are important for safety.
@@ -75,8 +73,8 @@ The following are the requirements that will be covered and worked on during thi
 
 ### Morning Class
 
-{{>eventbrite badge="railroading" event="73320394273" start="2020-03-28T09:00-05:00" end="2020-03-28T11:30-05:00"}}
+{{>eventbrite badge="railroading" event="73320394273" start=amDateStart end=amDateEnd}}
 
 ### Afternoon Class
 
-{{>eventbrite badge="railroading" event="73324590825" start="2020-03-28T13:00-05:00" end="2020-03-28T15:30-05:00"}}
+{{>eventbrite badge="railroading" event="73324590825" start=pmDateStart end=pmDateEnd}}

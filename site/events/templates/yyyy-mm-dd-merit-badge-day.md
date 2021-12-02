@@ -1,18 +1,18 @@
 ---
 host: Scoutmaster Bucky
 title: March Merit Badge Day
-eventDateStart: 2020-03-14T08:00-05:00
-eventDateEnd: 2020-03-14T15:30-05:00
+eventDateStart: 2020-03-14 8:00
+eventDateEnd: 2020-03-14 15:30
 location:
     - Emanuel Lutheran Church
     - 2075 70th St. E
     - Inver Grove Heights, MN 55077
 meritBadge: true
 # These are for the dates in the merit badge classes
-amStart: 2020-03-14T08:00-05:00
-amEnd: 2020-03-14T11:30-05:00
-pmStart: 2020-03-14T12:30-05:00
-pmEnd: 2020-03-14T15:30-05:00
+amStart: 2020-03-14 08:00
+amEnd: 2020-03-14 11:30
+pmStart: 2020-03-14 12:30
+pmEnd: 2020-03-14 15:30
 ---
 
 
