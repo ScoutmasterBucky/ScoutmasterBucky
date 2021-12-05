@@ -35,8 +35,10 @@ MidDayEnd: 2022-02-19 14:30
 
 {{#badge-list}}
 {{>badge badge="communication"}}
+{{>badge badge="signs-signals-and-codes"}}
 {{/badge-list}}
 {{>eventbrite badge="communication" event="220082902887" start=MidDayStart end=MidDayEnd}}
+{{>eventbrite badge="signs-signals-and-codes" event="220144477057" start=MidDayStart end=pmEnd}}
 
 
 ### Afternoon Classes
@@ -46,10 +48,8 @@ MidDayEnd: 2022-02-19 14:30
 {{>badge badge="chess"}}
 {{>badge badge="emergency-preparedness"}}
 {{>badge badge="inventing"}}
-{{>badge badge="signs-signals-and-codes"}}
 {{/badge-list}}
 {{>eventbrite badge="architecture" event="220140254427" start=pmStart end=pmEnd}}
 {{>eventbrite badge="chess" event="220154156007" start=pmStart end=pmEnd}}
 {{>eventbrite badge="emergency-preparedness" event="220087677167" start=pmStart end=pmEnd}}
 {{>eventbrite badge="inventing" event="220142671657" start=pmStart end=pmEnd}}
-{{>eventbrite badge="signs-signals-and-codes" event="220144477057" start=pmStart end=pmEnd}}
