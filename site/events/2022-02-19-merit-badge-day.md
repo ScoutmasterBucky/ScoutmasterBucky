@@ -15,6 +15,7 @@ pmStart: 2022-02-19 12:30
 pmEnd: 2022-02-19 16:00
 MidDayStart: 2022-02-19 10:00
 MidDayEnd: 2022-02-19 14:30
+onSaleDate: 2022-01-02 0:05
 ---
 ### Morning Classes
 
