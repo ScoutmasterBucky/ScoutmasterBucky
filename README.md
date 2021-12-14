@@ -78,6 +78,7 @@ Event files can have the following metadata.
 * `location` - Array of strings for the location of the event.
 * `meritBadge` - If `true`, uses the merit badge event colors and template.
 * `online` - If `true`, uses the online event colors and template.
+* `onSaleDate` - If set, this will show "Tickets go on sale MMMM D, YYYY" as long as that day is in the future.
 
 
 Merit Badge Requirements

@@ -1,20 +1,9 @@
+let months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
 $(function() {
     $("#calendar").eCalendar({
         weekDays: ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
-        months: [
-            "January",
-            "February",
-            "March",
-            "April",
-            "May",
-            "June",
-            "July",
-            "August",
-            "September",
-            "October",
-            "November",
-            "December"
-        ],
+        months: months,
         textArrows: { previous: "<", next: ">" },
         eventTitle: "Events",
         url: "",
@@ -53,6 +42,17 @@ function eventTime(fromStr, toStr) {
 
     if (offsetStr !== fromStr.substr(fromStr.length - 6)) {
         writeTime(from, to);
+    }
+}
+
+function onSaleDate(dateStr) {
+    var d = new Date(dateStr);
+
+    if (d > new Date()) {
+        var s = '<div class="Ta(c) Fw(b)">Tickets go on sale<br>';
+        s += months[d.getUTCMonth()] + ' ' + d.getUTCDate() + ', ' + d.getFullYear();
+        s += '</div>'
+        document.write(s);
     }
 }
 

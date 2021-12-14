@@ -19,6 +19,10 @@ Hide {{>eventbrite-event-title}}
 </a>
 </div>
 
+{{#if onSaleDate}}
+<script>onSaleDate('{{#date format='iso'}}{{onSaleDate}}{{/date}}');</script>
+{{/if}}
+
 </div>
 </div>
 
