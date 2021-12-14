@@ -92,6 +92,9 @@ function getTimeOfDay(d) {
 
     if (h >= 12) {
         a = "pm";
+    }
+
+    if (h > 12) {
         h -= 12;
     } else if (h < 1) {
         h = 12;

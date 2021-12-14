@@ -31,7 +31,7 @@ MidDayEnd: 2022-02-19 14:30
 {{>eventbrite badge="game-design" event="220151447907" start=amStart end=amEnd}}
 {{>eventbrite badge="safety" event="220115700987" start=amStart end=amEnd}}
 
-### Mid-Day Class
+### Mid-Day Classes
 
 {{#badge-list}}
 {{>badge badge="communication"}}
