@@ -86,17 +86,17 @@ function getFullDate(d) {
 }
 
 function getTimeOfDay(d) {
-    var a = "am";
+    var a = "AM";
     var h = d.getHours();
     var m = d.getMinutes();
 
     if (h >= 12) {
-        a = "pm";
+        a = "PM";
     }
 
-    if (h > 12) {
-        h -= 12;
-    } else if (h < 1) {
+    h = h % 12;
+
+    if (h === 0) {
         h = 12;
     }
 
