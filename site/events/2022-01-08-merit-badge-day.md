@@ -22,12 +22,13 @@ MidDayEnd: 2022-01-08 14:30
 {{>badge badge="art"}}
 {{>badge badge="citizenship-in-the-world"}}
 {{>badge badge="entrepreneurship"}}
+{{>badge badge="geology"}}
 {{>badge badge="graphic-arts"}}
-{{>badge badge="soil-and-water-conservation"}}
 {{/badge-list}}
 {{>eventbrite badge="art" event="220072732467" start=amStart end=amEnd}}
 {{>eventbrite badge="citizenship-in-the-world" event="219998149387" start=amStart end=amEnd}}
 {{>eventbrite badge="entrepreneurship" event="220066483777" start=amStart end=amEnd}}
+{{>eventbrite badge="geology" event="220019924517" start=amStart end=amEnd}}
 {{>eventbrite badge="graphic-arts" event="220064287207" start=amStart end=amEnd}}
 {{>eventbrite badge="soil-and-water-conservation" event="220067958187" start=amStart end=amEnd}}
 
@@ -43,13 +44,13 @@ MidDayEnd: 2022-01-08 14:30
 
 {{#badge-list}}
 {{>badge badge="citizenship-in-the-world"}}
-{{>badge badge="geology"}}
 {{>badge badge="pulp-and-paper"}}
 {{>badge badge="salesmanship"}}
+{{>badge badge="soil-and-water-conservation"}}
 {{>badge badge="theater"}}
 {{/badge-list}}
 {{>eventbrite badge="citizenship-in-the-world" event="220010105147" start=pmStart end=pmEnd}}
-{{>eventbrite badge="geology" event="220019924517" start=pmStart end=pmEnd}}
 {{>eventbrite badge="pulp-and-paper" event="220015982727" start=pmStart end=pmEnd}}
 {{>eventbrite badge="salesmanship" event="220062301267" start=pmStart end=pmEnd}}
+{{>eventbrite badge="soil-and-water-conservation" event="220067958187" start=pmStart end=pmEnd}}
 {{>eventbrite badge="theater" event="220048650437" start=pmStart end=pmEnd}}
