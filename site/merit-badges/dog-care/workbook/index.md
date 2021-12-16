@@ -6,10 +6,6 @@ year: 2021
 ---
 
 
-{{#wb-req item="1" requirement="Do the following:"}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
 {{#wb-req item="1a" requirement="Briefly discuss the historical origin and domestication of the dog."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
