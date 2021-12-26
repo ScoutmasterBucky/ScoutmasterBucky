@@ -40,8 +40,6 @@ The following are the requirements that will be covered and worked on during thi
 
 3. Do ONE of the following:
     c. Name four rail support industries, Describe the function of each one.
-        i. stuff
-        ii. things
 
 4. Explain the purpose of Operation Lifesaver and its mission.
 
