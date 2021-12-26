@@ -6,7 +6,7 @@ year: 2021
 whatToBring:
     - Weather appropriate clothing for the time of year and location of the class for outdoor participation
     - Binoculars (preferred but optional)
-    - Scoutmaster Bucky Bird Study Merit Badge Field Notebook print out or a Notebook (preferably pocket sized or slightly larger - for taking of field notes and drawings)
+    - <a href="scoutmaster-bucky-bird-study-merit-badge-field-notebook-booklet.pdf">Scoutmaster Bucky Bird Study Merit Badge Field Notebook</a> print out or a Notebook (preferably pocket sized or slightly larger - for taking of field notes and drawings)
 ---
 
 {{#requirements}}
