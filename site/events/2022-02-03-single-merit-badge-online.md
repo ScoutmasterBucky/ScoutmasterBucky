@@ -8,11 +8,3 @@ eventDateEnd: 2022-02-03 21:30
 eventBriteEventId: 220241336767
 onSaleDate: 2022-01-02 0:05
 ---
-
-{{#badge-list}}
-{{>badge badge="stamp-collecting"}}
-{{/badge-list}}
-
-### Registration
-
-{{>eventbrite badge="stamp-collecting" event="220241336767" start=eventDateStart end=eventDateEnd}}
