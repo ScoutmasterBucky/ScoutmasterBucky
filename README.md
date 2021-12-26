@@ -79,6 +79,7 @@ Event files can have the following metadata.
 * `meritBadge` - If `true`, uses the merit badge event colors and template.
 * `online` - If `true`, uses the online event colors and template.
 * `onSaleDate` - If set, this will show "Tickets go on sale MMMM D, YYYY" as long as that day is in the future.
+* `eventBriteEventId` - For the generation of the registration link. Used for online events only.
 
 
 Merit Badge Requirements

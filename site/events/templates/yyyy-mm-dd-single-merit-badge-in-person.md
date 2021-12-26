@@ -3,7 +3,6 @@ host: Scoutmaster Bucky
 title: Collections Merit Badge Online
 eventDateStart: 2020-10-07 18:00
 eventDateEnd: 2020-10-07 21:30
-online: true
 ---
 
 {{#badge-list}}

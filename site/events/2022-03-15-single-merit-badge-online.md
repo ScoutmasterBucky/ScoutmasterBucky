@@ -1,16 +1,11 @@
 ---
 host: Scoutmaster Bucky
 title: Reading and/or Scholarship Merit Badges Online
+online: true
+badge: reading
+badge2: scholarship
 eventDateStart: 2022-03-15 18:00
 eventDateEnd: 2022-03-15 21:30
-online: true
+eventBriteEventId: 220249651637
 onSaleDate: 2022-02-01 0:05
 ---
-
-{{#badge-list}}
-{{>badge badge="reading" badge2="scholarship"}}
-{{/badge-list}}
-
-### Registration
-
-{{>eventbrite badge="reading" badge2="scholarship" event="220249651637" start=eventDateStart end=eventDateEnd}}
