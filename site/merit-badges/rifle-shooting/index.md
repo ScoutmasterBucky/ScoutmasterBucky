@@ -13,8 +13,8 @@ year: 2021
     (d) Give the main points of the laws for owning and using guns in your community and state.
     (e) Explain how hunting is related to the wise use of renewable wildlife resources.
     (f) Successfully complete a state hunter education course or obtain a copy of the hunting laws for your state, then do the following:
-    (1) Explain the main points of hunting laws in your state and give any special laws on the use of guns and ammunition.
-    (2) List the kinds of wildlife that can be legally hunted in your state.
+        (1) Explain the main points of hunting laws in your state and give any special laws on the use of guns and ammunition.
+        (2) List the kinds of wildlife that can be legally hunted in your state.
     (g) Identify and explain how you can join or be a part of shooting sports activities.
     (h) Explain to your counselor the proper hygienic guidelines used in shooting.
     (i) Give your counselor a list of sources that you could contact for information on firearms and their uses.

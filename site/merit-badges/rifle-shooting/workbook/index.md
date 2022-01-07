@@ -34,11 +34,11 @@ year: 2021
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="11" requirement="Explain the main points of hunting laws in your state and give any special laws on the use of guns and ammunition."}}
+{{#wb-req item="1f1" requirement="Explain the main points of hunting laws in your state and give any special laws on the use of guns and ammunition."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="12" requirement="List the kinds of wildlife that can be legally hunted in your state."}}
+{{#wb-req item="1f2" requirement="List the kinds of wildlife that can be legally hunted in your state."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
