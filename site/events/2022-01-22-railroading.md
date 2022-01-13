@@ -69,3 +69,6 @@ The following are the requirements that will be covered and worked on during thi
 
 {{>eventbrite badge="railroading" event="216131383787" start=eventDateStart end=eventDateEnd}}
 
+---
+
+Sold out! More to come in the future.
