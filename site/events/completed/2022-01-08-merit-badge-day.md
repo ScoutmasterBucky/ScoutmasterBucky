@@ -30,7 +30,6 @@ MidDayEnd: 2022-01-08 14:30
 {{>eventbrite badge="entrepreneurship" event="220066483777" start=amStart end=amEnd}}
 {{>eventbrite badge="geology" event="220019924517" start=amStart end=amEnd}}
 {{>eventbrite badge="graphic-arts" event="220064287207" start=amStart end=amEnd}}
-{{>eventbrite badge="soil-and-water-conservation" event="220067958187" start=amStart end=amEnd}}
 
 ### Mid-Day Class
 
