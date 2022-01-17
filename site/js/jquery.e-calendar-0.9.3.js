@@ -152,7 +152,7 @@
             for (var i = 0; i < settings.events.length; i++) {
                 var d = settings.events[i].datetime;
                 if (d.getMonth() == dMonth && d.getFullYear() == dYear) {
-                    var date = lpad(d.getDate(), 2) + '/' + lpad(d.getMonth() + 1, 2) + ' ' + lpad(d.getHours(), 2) + ':' + lpad(d.getMinutes(), 2);
+                    var date = (d.getMonth() + 1) + '/' + d.getDate() + ' ' + lpad(d.getHours(), 2) + ':' + lpad(d.getMinutes(), 2);
                     var item = $('<div/>').addClass('c-event-item');
                     var title = $('<div/>').addClass('title').html(date + '  ' + settings.events[i].title + '<br/>');
                     var description = $('<div/>').addClass('description').html(settings.events[i].description + '<br/>');
@@ -167,8 +167,8 @@
                          * If the setting url_blank is set and is true, the target of the url
                          * will be "_blank"
                          */
-                        type_url = settings.events[i].url_blank !== undefined && 
-                                   settings.events[i].url_blank === true ? 
+                        type_url = settings.events[i].url_blank !== undefined &&
+                                   settings.events[i].url_blank === true ?
                                    '_blank':'';
                         description.wrap( '<a href="'+ settings.events[i].url +'" target="'+type_url+'" ></a>' );
                     }
