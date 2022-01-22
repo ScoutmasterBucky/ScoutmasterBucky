@@ -29,3 +29,5 @@ while read -r line; do
         pdftotext -nopgbrk "${saveAsBase}.pdf" "${saveAsBase}.txt"
     )
 done < <( echo "$list" )
+
+date -I > merit-badges-updated.txt

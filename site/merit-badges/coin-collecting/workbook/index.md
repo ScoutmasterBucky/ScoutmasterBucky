@@ -2,7 +2,6 @@
 badge: coin-collecting
 layout: smb-merit-badge
 workbook: true
-year: 2021
 ---
 
 {{#wb-req item="1" requirement="Understand how coins are made, and where the active U.S. Mint facilities are located."}}
