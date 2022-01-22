@@ -2,7 +2,7 @@
 nova: cub-scouts-can-code
 program: cub-scouts
 layout: nova-req
-lastUpdate: '2019-02-13'
+lastUpdate: September 2020
 hasNotes: true
 ---
 
@@ -52,7 +52,7 @@ Did you ever wonder how computers know what to do? This module is designed to he
         3. Mix up your cards and practice playing on your own. What TWO actions do you have to perform for each card? In this example, for a 5 of hearts you would have to clap your hands over your head while hopping on one foot.
         4. Invite others to play your game with you. See if they can add more conditions to your game.
         5. Research how computers use conditional statements to work. Discuss what you learn with your counselor.
-4. Be a programmer! With your parent’s permission and using proper internet safety, explore the world of coding using a tablet or computer. Make sure that your [Cyber Chip]({{@root.rootPath}}/other-awards/cyber-chip/) is up to date.  Complete ALL the requirements.
+4. Be a programmer! With your parent’s or guardian's permission and using proper internet safety, explore the world of coding using a tablet or computer. Make sure that your [Cyber Chip]({{@root.rootPath}}/other-awards/cyber-chip/) is up to date. Complete ALL the requirements.
     A. Spend at least one hour creating instructions for a computer to execute, then testing and debugging them. There are many free applications for computers, tablets, and smartphones.
     B. Discuss with your counselor what you were able to create. Explain what you liked best about it and what was difficult.
     {{#note type="counselor"}}Some useful resources include:{{/note}}

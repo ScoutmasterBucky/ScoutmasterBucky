@@ -2,7 +2,7 @@
 nova: nova-wild
 program: cub-scouts
 layout: nova-req
-lastUpdate: '2018-05'
+lastUpdate: May 2018
 hasNotes: true
 ---
 
@@ -13,7 +13,7 @@ This module is designed to help you learn about wildlife and the natural world a
     A. Watch an episode or episodes (about one hour total) of a show about wildlife, endangered species, invasive species, food chains, biodiversity, ecosystems, or wildlife habitats. Then do the following:
         1. Make a list of at least two questions or ideas from what you watched.
         2. Discuss two of the questions or ideas with your counselor.
-        {{#note type="counselor"}}Some examples include — but are not limited to — shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s supervision.{{/note}}
+        {{#note type="counselor"}}Some examples include - but are not limited to - shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s supervision.{{/note}}
     B. Read (about one hour total) about wildlife, endangered species, invasive species, food chains, biodiversity, ecosystems, or wildlife habitats. Then do the following:
         1. Make a list of at least two questions or ideas from what you read.
         2. Discuss two of the questions or ideas with your counselor.
@@ -59,7 +59,7 @@ This module is designed to help you learn about wildlife and the natural world a
         2. Fill the feeder with birdseed. (Make sure that your feeder does not remain empty once you have started feeding birds.)
         3. Provide a source of water.
         4. Watch and record the visitors to your feeder for two or three weeks. (It may take a while for visitors to discover your food source.)
-        5. Identify your visitors using a field guide, and keep a list of what visits your feeder. (Visitors are not always birds! Sometimes deer, rabbits, chipmunks, squirrels, and raccoons visit bird feeders—or the area under the feeder! The kinds of nonbird visitors will depend on where you live. You may want to investigate how to collect the tracks of any nighttime visitors.)
+        5. Identify your visitors using a field guide, and keep a list of what visits your feeder. (Visitors are not always birds! Sometimes deer, rabbits, chipmunks, squirrels, and raccoons visit bird feeders - or the area under the feeder! The kinds of nonbird visitors will depend on where you live. You may want to investigate how to collect the tracks of any nighttime visitors.)
         6. Discuss with your counselor what you learned about your wild neighbors.
     F. Earn the Cub Scout World Conservation Award (if you have not already earned them for another Nova award).
 5. Visit a place where you can observe wildlife. Examples include parks (national, state, and local), zoos, wetlands, nature preserves, and national forests.
