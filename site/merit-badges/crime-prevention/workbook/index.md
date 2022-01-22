@@ -2,7 +2,6 @@
 badge: crime-prevention
 layout: smb-merit-badge
 workbook: true
-year: 2021
 ---
 
 

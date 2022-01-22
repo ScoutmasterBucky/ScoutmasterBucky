@@ -2,7 +2,6 @@
 badge: mining-in-society
 layout: smb-merit-badge
 requirements: true
-year: 2021
 ---
 
 {{#requirements}}

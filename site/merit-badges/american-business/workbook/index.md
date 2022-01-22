@@ -2,7 +2,6 @@
 badge: american-business
 layout: smb-merit-badge
 workbook: true
-year: 2021
 ---
 
 {{#wb-req item="1A" requirement="Explain four features of the free enterprise system in the United States."}}

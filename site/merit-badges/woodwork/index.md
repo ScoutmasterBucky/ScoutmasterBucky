@@ -2,7 +2,6 @@
 badge: woodwork
 layout: smb-merit-badge
 requirements: true
-year: 2021
 whatToBring:
     - Totin' Chip Card and/or proof of completion
 ---

@@ -14,8 +14,11 @@ const metadata = {
     supernovaAwards: require("./supernova-awards.json")
 };
 
+const fs = require('fs');
+const meritBadgesUpdated = fs.readFileSync('./merit-badges-updated.txt').toString().trim();
 const meritBadgeMeta = {
-    active: Object.values(metadata.meritBadges).filter((x) => x.active)
+    active: Object.values(metadata.meritBadges).filter((x) => x.active),
+    lastUpdated: meritBadgesUpdated
 };
 
 meritBadgeMeta.activeCount = meritBadgeMeta.active.length;

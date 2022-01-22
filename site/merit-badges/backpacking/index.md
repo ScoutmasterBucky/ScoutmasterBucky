@@ -2,7 +2,6 @@
 badge: backpacking
 layout: smb-merit-badge
 requirements: true
-year: 2021
 whatToBring:
     - Weather appropriate clothing for the time of year and location of the class for outdoor participation
     - Your backpack and trek supplies
