@@ -2,7 +2,7 @@
 nova: science-everywhere
 program: cub-scouts
 layout: nova-req
-lastUpdate: '2018-05'
+lastUpdate: May 2019
 hasNotes: true
 ---
 
@@ -13,12 +13,12 @@ This module is designed to help the Scout explore how science affects their life
     A. Watch an episode or episodes (about one hour total) of a show about anything related to science. Then do the following:
         (1) Make a list of at least two questions or ideas from what you watched.
         (2) Discuss two of the questions or ideas with your counselor.
-        {{#note type="counselor"}}Some examples include — but are not limited to — shows found on PBS ("NOVA"), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s supervision.{{/note}}
+            {{#note type="counselor"}}Some examples include - but are not limited to - shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s supervision.{{/note}}
     B. Read (about one hour total) about anything related to science. Then do the following:
         (1) Make a list of at least two questions or ideas from what you read.
         (2) Discuss two of the questions or ideas with your counselor.
-        {{#note type="counselor"}}Books on many topics may be found at your local library. Examples of magazines include but are not limited to Odyssey, KIDS DISCOVER, National Geographic Kids, Highlights, and OWL or Owlkids (https://www.owlkids.com/).{{/note}}
-    C. Do a combination of reading and watching (about one hour total) about anything related to science. Then do the following:
+            {{#note type="counselor"}}Books on many topics may be found at your local library. Examples of magazines include but are not limited to Odyssey, KIDS DISCOVER, National Geographic Kids, Highlights, and OWL or owlkids.com.{{/note}}
+    C. Do a combination of reading and watching(about one hour total) about anything related to science. Then do the following:
         (1) Make a list of at least two questions or ideas from what you read and watched.
         (2) Discuss two of the questions or ideas with your counselor.
 2. Complete ONE adventure from the following list for your current rank or complete option A or B. (If you choose an Adventure, choose one you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
@@ -46,20 +46,21 @@ This module is designed to help the Scout explore how science affects their life
 3. Act like a scientist! Explore EACH of the following:
     A. With your counselor, choose a question you would like to investigate. Here are some examples only (you may get other ideas from your adventure activities):
         (1) Why do rockets have fins? Is there any connection between the feathers on arrows and fins on rockets?
-            {{#note type="counselor"}}Arrow feathers and rocket fins serve the same purpose - they provide aerodynamic stability during flight through the atmosphere.{{/note}}
+            {{#note type="counselor"}}Arrow feathers and rocket fins serve the same purpose—they provide aerodynamic stability during flight through the atmosphere.{{/note}}
         (2) Why do some cars have spoilers? How do spoilers work?
             {{#note type="counselor"}}In theory, spoilers on cars use Bernoulli’s principle in the opposite way that an airplane does. An airplane wing is designed for the air to flow faster over the top of it than under it; this is how it creates lift. A spoiler on a car is designed to force the air to move more quickly under the spoiler than over the spoiler; this pushes the car down to give the wheels more traction and increased stability. The faster the car goes, the faster the air moves under the spoiler and the more anti-lift is generated, which provides more stability.{{/note}}
             {{#note type="counselor"}}Without a spoiler, the only way to increase stability would be to increase the weight of the car. However, increasing the weight of the car increases its inertia, causing problems at corners and turns. Designers of spoilers have to balance the anti-lift with the drag created by using a spoiler.{{/note}}
-            {{#note type="counselor"}}You may find the following page at PhysLink.com helpful: https://www.physlink.com/education/askexperts/ae496.cfm.{{/note}}
-        (3) If there is a creek or stream in your neighborhood, where does it go? Does your stream flow to the Atlantic or the Pacific Ocean?
-            {{#note type="counselor"}}With your parent’s or guardian’s permission and assistance, you may want to use an online mapping application to follow the streams and rivers to the ocean. Keep track of the names of the streams, lakes, and rivers connecting your stream to the ocean. Is it possible for you to find out the name of your watershed? "Paddle-to-the-Sea" by Holling C. Holling is a fun book on this topic.{{/note}}
+            {{#note type="counselor"}}You may find the following page at PhysLink.com helpful: www.physlink.com/education/askexperts/ae496.cfm.{{/note}}
+        (3) If there is a creek or stream in your neighborhood, where does it go? Does your stream flow to the Atlantic or the Pacific ocean?
+            {{#note type="counselor"}}With your parent’s or guardian’s permission and assistance, you may want to use an online mapping application to follow the streams and rivers to the ocean. Keep track of the names of the streams, lakes, and rivers connecting your stream to the ocean. Is it possible for you to find out the name of your watershed? Paddle-to-the-Sea by Holling C. Holling is a fun book on this topic.{{/note}}
         (4) Is the creek or stream in your neighborhood or park polluted?
             {{#note type="counselor"}}You can do a stream sample to find out what kinds of things are living in the water and under the rocks.  Some things can survive in polluted water; others can live only in clean water. You can discover if a stream is polluted by finding out what lives there.{{/note}}
             {{#note type="counselor"}}Many states have stream studies based on macroinvertebrate identification and populations. Some states use data collected by volunteers for incorporation into stream quality reports. With permission from his parent or guardian, have your Scout check the Internet or with your state’s natural resources department for more information.{{/note}}
-            {{#note type="counselor"}}**Helpful Link:** "About Macroinvertibrates" from "Volunteer Stream Monitoring:  A Methods Manual" by U.S. Environmental Protection Agency (available on KrisWeb) https://www.krisweb.com/aqualife/insect.htm{{/note}}
+            {{#note type="counselor"}}**Helpful Link:** “About Macroinvertibrates”: Volunteer Stream Monitoring: A Methods Manual. U.S. Environmental Protection Agency (available on KrisWeb) Website: www.krisweb.com/aqualife/insect.htm{{/note}}
         (5) What other activity can you think of that involves some kind of scientific questions or investigation?
     B. With your counselor, use the scientific method/process to investigate your question. Keep records of your question, the information you found, how you investigated, and what you found out about your question.
         {{#note type="counselor"}}Scientific Method{{/note}}
+        {{#note type="counselor"}}Your youth may use either the list or the diagram to help them investigate their question.{{/note}}
         {{#note type="counselor"}}* Problem or question: What are you trying to find out?{{/note}}
         {{#note type="counselor"}}* Information and/or research: What do you already know about the problem? What have others done about the problem or question?{{/note}}
         {{#note type="counselor"}}* Hypothesis: What do you think is the answer to your question?{{/note}}
