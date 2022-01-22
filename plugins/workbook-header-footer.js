@@ -1,4 +1,5 @@
-const pluginKit = require('metalsmith-plugin-kit');
+const pluginKit = require("metalsmith-plugin-kit");
+const luxon = require("luxon");
 
 function start(f) {
     return `<!DOCTYPE html>
@@ -11,7 +12,9 @@ function start(f) {
         <link rel="stylesheet" href="${f.rootPath}css/atomic.css" />
         <link rel="stylesheet" href="${f.rootPath}css/site.css" />
         <link rel="stylesheet" href="${f.rootPath}css/fonts.css" />
-        <title>Scoutmaster Bucky ${f.meritBadges[f.badge].name} Merit Badge Workbook</title>
+        <title>Scoutmaster Bucky ${
+            f.meritBadges[f.badge].name
+        } Merit Badge Workbook</title>
     </head>
     <body class="M(0) P(0)">
 `;
@@ -24,25 +27,41 @@ function end(f) {
 }
 
 function makeHeader(f) {
-    return start(f) + `
+    return (
+        start(f) +
+        `
         <div class="D(tb) W(100%)">
             <div class="D(tbc) W(30%) Va(m)">
-                <img src="${f.rootPath}${f.meritBadges[f.badge].bucky}" class="H(1in) W(a)" />
+                <img src="${f.rootPath}${
+            f.meritBadges[f.badge].bucky
+        }" class="H(1in) W(a)" />
             </div>
             <div class="D(tbc) W(70%) Va(m) Ta(c)">
                 <div class="Ta(c) C(smbThmTx) Fz(1.2em) Fs(i) Fw(b)">Scoutmaster Bucky</div>
-                <div class="Ta(c) Tt(u) Fz(1.2em) Fw(b)">${f.meritBadges[f.badge].name}</div>
+                <div class="Ta(c) Tt(u) Fz(1.2em) Fw(b)">${
+                    f.meritBadges[f.badge].name
+                }</div>
                 <div class="Ta(c) C(smbThmTx) Fz(1.2em) Fs(i) Fw(b)">Merit Badge Workbook</div>
                 <div class="Ta(c) C(blue)">www.ScoutmasterBucky.com</div>
             </div>
-        </div>` + end(f);
+        </div>` +
+        end(f)
+    );
 }
 
 function makeFooter(f) {
-    return start(f) + `
+    const lastUpdated = luxon.DateTime.fromISO(f.meritBadgeMeta.lastUpdated, {
+        zone: "America/Chicago"
+    }).toFormat("MMMM d, yyyy");
+
+    return (
+        start(f) +
+        `
         <table border="0" width="100%" class="Fz(0.8em)">
             <tr>
-                <td>Scoutmaster Bucky ${f.meritBadges[f.badge].name} Merit Badge Workbook<br><a href="https://scoutmasterbucky.com">https://ScoutmasterBucky.com</a></td>
+                <td>Scoutmaster Bucky ${
+                    f.meritBadges[f.badge].name
+                } Merit Badge Workbook<br><a href="https://scoutmasterbucky.com">https://ScoutmasterBucky.com</a></td>
                 <td align="right">
                 <script>
 var qs = document.location.href.split('?')[1],
@@ -50,16 +69,18 @@ var qs = document.location.href.split('?')[1],
     t = qs.match(/(^|&)topage=([^&]*)/)[2];
 document.write('Page ' + p + ' of ' + t);
                 </script>
-                <br>${f.year} Scouts BSA Requirements</td>
+                <br>Current Scouts BSA Requirements, as of ${lastUpdated}</td>
             </tr>
-        </table>` + end(f);
+        </table>` +
+        end(f)
+    );
 }
 
 function workbookInfo(fn, f) {
     return {
         badge: f.badge,
         name: f.meritBadges[f.badge].name,
-        path: fn.replace(/\/index.html$/, '/')
+        path: fn.replace(/\/index.html$/, "/")
     };
 }
 
@@ -73,14 +94,32 @@ module.exports = function workbookHeaderFooter() {
         each: function (filename, fileObject, files) {
             if (fileObject.workbook) {
                 workbooks.push(workbookInfo(filename, fileObject));
-                const headerFilename = filename.replace('index.html', 'header.html');
-                const footerFilename = filename.replace('index.html', 'footer.html');
-                pluginKit.addFile(files, headerFilename, makeHeader(fileObject));
-                pluginKit.addFile(files, footerFilename, makeFooter(fileObject));
+                const headerFilename = filename.replace(
+                    "index.html",
+                    "header.html"
+                );
+                const footerFilename = filename.replace(
+                    "index.html",
+                    "footer.html"
+                );
+                pluginKit.addFile(
+                    files,
+                    headerFilename,
+                    makeHeader(fileObject)
+                );
+                pluginKit.addFile(
+                    files,
+                    footerFilename,
+                    makeFooter(fileObject)
+                );
             }
         },
         after: function (files) {
-            pluginKit.addFile(files, 'workbooks.json', JSON.stringify(workbooks, null, 4));
+            pluginKit.addFile(
+                files,
+                "workbooks.json",
+                JSON.stringify(workbooks, null, 4)
+            );
         }
     });
 };
