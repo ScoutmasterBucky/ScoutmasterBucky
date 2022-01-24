@@ -2,8 +2,9 @@
 nova: up-and-away
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdate: '2019-05-10'
-hasNotes: true
+lastUpdate: May 10, 2019
+hiddenNotes:
+    - Updated link for 3B1
 ---
 
 This award explores the world of fluid dynamics, and how it affects your everyday life. Fluid dynamics is the study of how fluids (liquids, gases, and plasmas) behave and interact with other materials.
@@ -11,17 +12,17 @@ This award explores the world of fluid dynamics, and how it affects your everyda
 {{#requirements}}
 1. Choose A or B or C and complete ALL of the requirements.
     A. Watch not less than three hours total of shows or documentaries that discuss fluid dynamics or a show related to fluid dynamics. Then do the following:
-        (1.) Make a list of at least five questions or ideas from the show(s) you watched.
-        (2.) Discuss two of the questions with or ideas with your counselor.
-        {{#note type="counselor"}}Some examples of shows to watch include—but are not limited to—“The STEM of Indoor Skydiving” (https://youtu.be/V5jJ5FaX1ZU); documentaries produced by PBS (such as “NOVA”), the Discovery Channel, Science Channel, National Geographic Channel, and the History Channel; or lectures or presentations focused on science, technology, engineering, or math (such as TED Talks www.ted.com) using some search terms you might think of using could include “fluid dynamics for kids” or “the science of skydiving for kids.” You may watch online productions with your counselor’s approval and under your parent’s supervision. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production.{{/note}}
+        (1) Make a list of at least five questions or ideas from the show(s) you watched.
+        (2) Discuss two of the questions with or ideas with your counselor.
+        Some examples of shows to watch include—but are not limited to—“The STEM of Indoor Skydiving” (https://youtu.be/V5jJ5FaX1ZU); documentaries produced by PBS (such as “NOVA”), the Discovery Channel, Science Channel, National Geographic Channel, and the History Channel; or lectures or presentations focused on science, technology, engineering, or math (such as TED Talks www.ted.com) using some search terms you might think of using could include “fluid dynamics for kids” or “the science of skydiving for kids.” You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production.
     B. Read not less than three hours total about a topic related to fluid dynamics. Then do the following:
-        (1.) Make a list of at least five questions or ideas from the article(s) you read.
-        (2.) Discuss two of the questions with or ideas with your counselor.
-        {{#note type="counselor"}}Examples of magazines include—but are not limited to—Odyssey, Popular Mechanics, Popular Science, Science Illustrated, Discover, Air & Space, Popular Astronomy, Astronomy, Science News, Sky & Telescope, Robot, Servo, Nuts and Volts, and Scientific American.{{/note}}
+        (1) Make a list of at least five questions or ideas from the article(s) you read.
+        (2) Discuss two of the questions with or ideas with your counselor.
+        Examples of magazines include—but are not limited to—Odyssey, Popular Mechanics, Popular Science, Science Illustrated, Discover, Air & Space, Popular Astronomy, Astronomy, Science News, Sky & Telescope, Robot, Servo, Nuts and Volts, and Scientific American.
     C. Do a combination of reading and watching (not less than three hours total). Then do the following:
-        (1.) Make a list of at least five questions or ideas from each article or show.
-        (2.) Discuss two of the questions with or ideas with your counselor.
-2. Complete ONE STEM field of interest from the following list. Complete ALL the requirements for a Venturing [STEM exploration](../../explorations/) in that field. (If you have already completed a Venturing STEM Exploration in one of these fields, please choose a different field for this award.)
+        (1) Make a list of at least five questions or ideas from each article or show.
+        (2) Discuss two of the questions with or ideas with your counselor.
+2. Complete ONE STEM field of interest from the following list. Complete ALL the requirements for a [Venturing STEM exploration](../../explorations/) in that field. (If you have already completed a Venturing STEM Exploration in one of these fields, please choose a different field for this award.
     * Aviation
     * Canoeing
     * Chemistry
@@ -46,8 +47,7 @@ This award explores the world of fluid dynamics, and how it affects your everyda
         2. Use common household materials, such as trash bags, plastic tablecloth, string, paperclips, rubber bands, etc. to design a parachute that will safely deliver your "supplies" to the "community square" (when dropped from the top of a tall structure, such as a playground playscape). The platform must land upright and intact so the supplies are not damaged.
         3. Design your parachute first on paper, then create a prototype and test it.
         4. Record how long it took to land and the condition of the delivered supplies.
-        5. What could you do to slow the descent even further? Modify your design and test it
-        out again. Record the results then modify and test again.
+        5. What could you do to slow the descent even further? Modify your design and test it out again. Record the results then modify and test again.
         6. Conduct a final test (at least three tests total) and record your best (slowest) time.
         7. Show your parachute to your Counselor and explain how you designed and modified it. Talk about how the actual conditions of a rescue mission (flooding, few flat surfaces, downed trees, live wires, high winds, single chance to deliver) would affect a real-world drop of rescue supplies.
     D. Test out different airfoils
@@ -59,6 +59,6 @@ This award explores the world of fluid dynamics, and how it affects your everyda
 4. Complete one of the following A or B or C.
     A. Visit an iFLY Indoor Skydiving wind tunnel facility or other BSA approved indoor skydiving wind tunnel and participate in a STEM Education program. Discuss the STEM concepts related to the tunnel with your counselor.
     B. Visit an observatory, research facility, or a museum that highlights flight, aviation, or space. During your visit, talk to a docent or staff member about flight and fluid dynamics concepts covered at the site. Discuss what you learned with your counselor.
-    C. Take a real or online tour of a wind tunnel facility. A real tour may be obtained by contacting a local university that offers a degree in aerospace engineering or similar field. Virtual tours could include, but are not limited to, NASA wind tunnel facility tours: https://www.youtube.com/watch?v=bpRc9I8LMXo and https://www.nasa.gov/image-feature/hypersonic-tunnel-facility. Discuss with your counselor the science and engineering concepts associated with the facility, e.g., what are the parts of a wind tunnel, what a wind tunnel is used for, what are the advantages of testing with a wind tunnel, how precise are they, etc.
+    C. Take a real or online tour of a wind tunnel facility. A real tour may be obtained by contacting a local university that offers a degree in aerospace engineering or similar field. Virtual tours could include, but are not limited to, NASA wind tunnel facility tours: https://www.youtube.com/watch?v=bpRc9I8LMXo and https://www.nasa.gov/imagefeature/hypersonic-tunnel-facility. Discuss with your counselor the science and engineering concepts associated with the facility, e.g., what are the parts of a wind tunnel, what a wind tunnel is used for, what are the advantages of testing with a wind tunnel, how precise are they, etc.
 5. Discuss with your counselor how fluid dynamics is present in your everyday life and what you learned by working on this Nova.
 {{/requirements}}
