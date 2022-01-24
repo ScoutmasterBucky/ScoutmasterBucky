@@ -9,7 +9,7 @@ hasNotes: true
 This module is designed to help you explore the wonders of archaeology.
 
 {{#requirements}}
-1. Choose either A, B, or C and complete all requirements.
+1. Choose either A, B, or C and complete **all** requirements.
     A. Watch an episode or episodes (about one hour total) of a show about anything related to archaeology. Then do the following:
         1. Make a list of at least two questions or ideas from what you watched.
         2. Discuss two of the questions or ideas with your counselor.
@@ -18,6 +18,7 @@ This module is designed to help you explore the wonders of archaeology.
         1. Make a list of at least two questions or ideas from what you read.
         2. Discuss two of the questions or ideas with your counselor.
         {{#note type="counselor"}}Books on many topics may be found at your local library. Examples of magazines include but are not limited to Odyssey, Kids Discover, National Geographic Kids, Highlights, and OWL or owlkids.com.{{/note}}
+    <img src="petroglyphs.jpg" class="W(100%) H(a)" />
     C. Do a combination of reading and watching (about one hour total) about anything related to archaeology. Then do the following:
         1. Make a list of at least two questions or ideas from what you have read and watched.
         2. Discuss two of the questions or ideas with your counselor.
@@ -25,20 +26,21 @@ This module is designed to help you explore the wonders of archaeology.
     * **Wolf Scouts:** Collections and Hobbies
     * **Bear Scouts:** Beat of the Drum
     * **Webelos Scouts:** Looking Back, Looking Forward; Project Family
+    <img src="stone-art.jpg" class="W(100%) H(a)" />
     **Option A:** Some of the objects archaeologists find have been preserved in various ways.  Experiment with preserving a hot dog with baking soda. Measure each dimension, then completely surround and cover the hot dog in baking soda. Let sit in a safe place for seven days, and measure again. Then cover the hot dog again, let it sit another seven days, and measure it a third time. Make note of any changes in size, shape, color, and other properties. Compare it to a hot dog that has not been preserved. Discuss your experiment with your counselor.
-    **Note:** Do not eat the hot dog, and make sure to store your experiment in a safe place and dispose of it properly when you are done.
+    **Note: Do not eat the hot dog,** and make sure to store your experiment in a safe place and dispose of it properly when you are done.
     Useful Links:
         https://www.scientificamerican.com/article/bring-science-home-mummification/
         http://www.sciencebuddies.org/science-fairprojects/project_ideas/HumBio_p022.shtml
     **Option B:** Use plaster of paris to create a “rock” mold at least half an inch thick. Once it is set, create a dark surface like a patina on the rock, possibly by using tempera paint.  Use a carving tool, such as a screw or push pin, to create one or more petroglyphs on your rock.
     Search online for “plaster of paris petroglyphs” for instructions.
 3. Explore. Do **each** of the following:
-    A. Look up the definition of the word archaeology and discover what an archaeologist does on a dig site, and what other activities are involved in their work. Discuss it with your counselor.
+    A. Look up the definition of the word *archaeology* and discover what an archaeologist does on a dig site, and what other activities are involved in their work. Discuss it with your counselor.
         {{#note type="counselor"}}Archaeology is the study of the human past by recovering and analyzing materials that people left behind.{{/note}}
     B. Discover the differences between physical remains, artifacts, and ecofacts. Discuss with your counselor examples of each that archaeologists can find for a prehistoric people group.
-        {{#note type="counselor"}}An artifact is any object made by a human being. Usually, it refers to an object that has cultural or historical interest.{{/note}}
-        {{#note type="counselor"}}An ecofact, or biofact, is any organic material that has been recovered and has cultural or historical significance. This might be bones, animal horns, plants, and so on. If the item has been manipulated or modified by humans, it becomes an artifact.{{/note}}
-        {{#note type="counselor"}}Physical remains are things left behind that were part of an animal—for example, body parts or fossils of body parts.{{/note}}
+        {{#note type="counselor"}}An *artifact* is any object made by a human being. Usually, it refers to an object that has cultural or historical interest.{{/note}}
+        {{#note type="counselor"}}An *ecofact*, or *biofact*, is any organic material that has been recovered and has cultural or historical significance. This might be bones, animal horns, plants, and so on. If the item has been manipulated or modified by humans, it becomes an artifact.{{/note}}
+        {{#note type="counselor"}}*Physical remains* are things left behind that were part of an animal—for example, body parts or fossils of body parts.{{/note}}
     C. Look around your home. Make a list of 10 artifacts from your home that serve as clues to the way you live. Discuss what you discovered with your counselor.
         {{#note type="counselor"}}Artifacts could include anything found lying around the Scout’s home. A dog crate could indicate the family has kept domesticated animals. A hammer could indicate they know how to use tools. Ask the Scouts to pretend they have never seen a particular item before, and what might they think it is.{{/note}}
 4. Be an archaeologist! Choose A or B:
