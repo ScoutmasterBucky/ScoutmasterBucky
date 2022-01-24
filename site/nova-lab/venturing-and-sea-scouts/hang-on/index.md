@@ -27,7 +27,7 @@ This module is designed to help Venturers and Sea Scouts explore how engineering
     * Archery
     * Aviation
     * Composite Materials
-        {{#note type="counselor"}}Composites can be found just about everywhere: in airplanes and sports cars, golf clubs and guitars, boats and baseball bats, bathtubs and circuit boards, and even bridges. Composites make bicycles and skis lighter, kayaks and fishing poles stronger, houses warmer, and helmets tougher. Venturers and Sea Scouts can choose one of these items for their discussion to answer requirement 3c.{{/note}}
+        Composites can be found just about everywhere: in airplanes and sports cars, golf clubs and guitars, boats and baseball bats, bathtubs and circuit boards, and even bridges. Composites make bicycles and skis lighter, kayaks and fishing poles stronger, houses warmer, and helmets tougher. Venturers and Sea Scouts can choose one of these items for their discussion to answer requirement 3c.
     * Drafting
     * Electronics
     * Engineering

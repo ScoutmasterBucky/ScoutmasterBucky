@@ -11,7 +11,7 @@ hiddenNotes:
 This module is designed to encourage you to explore different facets of the biological life and living systems around you, including macrobiotic and microbiotic life, ecology, genetics, and advances in medicine.
 
 {{#requirements}}
-1. Choose A or B or C and complete ALL the requirements.
+1. Choose A *or* B *or* C and complete ALL the requirements.
     A. Watch not less than three hours total of shows or documentaries related to areas of biology: botany, zoology, genetics, medicine, ecology, veterinary medicine or microbiology.  Then do the following:
         (1) Make a list of at least five questions or ideas from the show(s) you watched.
         (2) Discuss two of the questions or ideas with your counselor.
@@ -39,7 +39,7 @@ This module is designed to encourage you to explore different facets of the biol
     * Plant Science
     * Soil and water conservation
     * Veterinary science
-3. Be a biologist! Consider different areas of biological explorations presented below and pick TWO from A or B or C or D or E. Run the experiments or perform the activity and discuss your observations and conclusions with your counselor. Always be sure you have your parent’s or guardian’s permission before using the Internet.
+3. Be a biologist! Consider different areas of biological explorations presented below and pick TWO from A *or* B *or* C *or* D *or* E. Run the experiments or perform the activity and discuss your observations and conclusions with your counselor. Always be sure you have your parent’s or guardian’s permission before using the Internet.
     A. **Botanical Investigation: Effect of Light on Plant Growth**
         (1) Experiment: Plant pea seeds in potting soil, and grow and water one set under normal sunlight, another set under fluorescent light, and a last set of potted peas in large boxes with only one quarter-size hole for sunlight. Predict what difference(s) you expect to see among the three conditions, and allow plants to germinate and grow for at least two weeks.
             Record specific observations about the height, leaf size, number of leaves, color, and stem diameter. Document your results with photos. Graph your quantitative results.

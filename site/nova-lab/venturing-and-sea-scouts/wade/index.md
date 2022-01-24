@@ -7,10 +7,10 @@ hiddenNotes:
     - Updated Surf Your Watershed link to How's My Waterway, Version 2 for 5B1.
 ---
 
-This module is designed to help you explore how water affects your life every day. Wade is part of the Science category.
+This module is designed to help you explore how water affects your life every day. **Wade** is part of the Science category.
 
 {{#requirements}}
-1. Choose A, or B, or C and complete ALL the requirements:
+1. Choose A, *or* B, *or* C and complete ALL the requirements:
     A. Watch about three hours total of science-related programming that discusses water as it relates to the hydrologic cycle, primary sources, primary users (including wildlife), health, sources of pollution, waste treatment, and related sciences and technologies. Then do the following:
         (1) Make a list of at least five questions or ideas from the show(s) you watched.
         (2) Discuss two of the questions or ideas with your counselor.
@@ -22,7 +22,7 @@ This module is designed to help you explore how water affects your life every da
     C. Do a combination of reading and watching (about three hours total). Then do the following:
         (1) Make a list of at least five questions or ideas from each article or show.
         (2) Discuss two of the questions or ideas with your counselor.
-2. Choose **ONE** STEM field of interest from the following list. Complete ALL the requirements for a [Venturing STEM exploration](../../explorations/) in that field. You should be prepared to discuss the role of water in the area or field you’ve chosen. (If you have already completed a Venturing STEM exploration in one of these fields, please choose a different field for this award.)
+2. Choose **ONE** STEM field of interest from the following list. Complete **ALL** the requirements for a [Venturing STEM exploration](../../explorations/) in that field. You should be prepared to discuss the role of water in the area or field you’ve chosen. (If you have already completed a Venturing STEM exploration in one of these fields, please choose a different field for this award.)
     * Chemistry
     * Environmental Science
     * Fish and Wildlife Management
@@ -89,7 +89,7 @@ This module is designed to help you explore how water affects your life every da
         (4) Discuss with your counselor the implications of these calculations as they relate to the effect of changes in land use on flooding, soil moisture, erosion, and point and non-point source pollution. What are the most common types of water pollution in your area, and how are these being impacted by land use? How might these be reduced?
         {{#note type="counselor"}}Helpful Resources:{{/note}}
         {{#note type="counselor"}}The USGS Water Science School – https://water.usgs.gov/edu/) may be helpful in researching these topics.{{/note}}
-6. Choose ONE of the following options:
+6. Choose **ONE** of the following options:
     A. Research a disaster involving water, such as the receding Sarichef Island in Alaska, the 2011 Tōhoku tsunami, a hurricane, coral reef bleaching, sea level rise, etc. Determine the causes of the event, the damage caused, and how the area has recovered. Find out about any remediation that has occurred to restore the area to its pre-disaster state or efforts to prevent future damage from similar events. Share the results of your research with your crew and with your counselor.
     B. Research the major functions of a sewage treatment plant. Describe to your counselor how it reduces the impact of sewage on aquatic life. List any pollutants that remain in the water after processing and their potential impact on aquatic life.
     C. Visit a place where water is being processed either by man or by nature (wastewater treatment plant, naturalist center, conservation department, etc.) and discuss the processing with a professional. Discuss with your counselor what you learned, including the aspect(s) of “STEM” that are being used.
