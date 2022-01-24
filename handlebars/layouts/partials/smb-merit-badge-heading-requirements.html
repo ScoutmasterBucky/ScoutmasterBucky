@@ -150,12 +150,13 @@
 </div>
 
 <h1 id="mb">
-    <div class="D(f) Jc(sb) Ai(b) Fxd(c)--m">
+    <div class="D(f) Jc(sb) Ai(c) Ai(fs)--m Fxd(c)--m">
         <div>
             {{>badge-name badge=badge}} Merit Badge
         </div>
         <div class="Fz(0.4em) Fw(n) Tt(n) Fs(i)">
-            {{year}} Scouts BSA Requirements
+            Current Scouts BSA Requirements<br class="D(n)--m"/>
+            as of {{#date}}{{@root.meritBadgeMeta.lastUpdated}}{{/date}}
         </div>
     </div>
 </h1>

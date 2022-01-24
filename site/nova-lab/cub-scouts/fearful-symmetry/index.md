@@ -2,13 +2,13 @@
 nova: fearful-symmetry
 program: cub-scouts
 layout: nova-req
-lastUpdate: '2018-04'
+lastUpdate: April 2018
 hasNotes: true
 ---
 
-This module is designed to help you explore how symmetry affects your life each day. Symmetry is something for which most people have an intuitive feel, but many have never thought about in enough detail to give names to all that they see. Symmetry is a way that a figure is like itself.  Perhaps one side is a mirror image of the other (reflectional symmetry). Perhaps if you turned the image a little, you would get the same pattern (rotational symmetry). Perhaps there is a repeated pattern along a line, so that if you moved one “space” down, the pattern would repeat (translational symmetry).
+This module is designed to help you explore how symmetry affects your life each day. Symmetry is something for which most people have an intuitive feel, but many have never thought about in enough detail to give names to all that they see. Symmetry is a way that a figure is like itself. Perhaps one side is a mirror image of the other (reflectional symmetry). Perhaps if you turned the image a little, you would get the same pattern (rotational symmetry). Perhaps there is a repeated pattern along a line, so that if you moved one “space” down, the pattern would repeat (translational symmetry).
 
-Perhaps there is some combination of these.  A common pattern is that the pattern repeats if you move down the line and reflect across the line, as happens with alternating leaf arrangement on a plant (glide reflection symmetry). There are far more patterns than names.
+Perhaps there is some combination of these. A common pattern is that the pattern repeats if you move down the line and reflect across the line, as happens with alternating leaf arrangement on a plant (glide reflection symmetry). There are far more patterns than names.
 
 Symmetry is everywhere. Minerals organize themselves in crystals, which are repeating patterns. Plants and animals have many interesting symmetries in their shapes. Most artistic traditions in the world, and many activities where people design a shape for its function, depend on some form of symmetry. In this award, Scouts get to explore many aspects of this topic.
 
@@ -32,7 +32,7 @@ Symmetry is everywhere. Minerals organize themselves in crystals, which are repe
         {{#note type="counselor"}}**Forensics:** The crystal structure of various substances (salt, sugar, etc.) is an important way of distinguishing them. Lack of symmetry between two shoe imprints from the same pair is an important way of distinguishing an individual pair worn by a particular person.{{/note}}
         {{#note type="counselor"}}**Marble Madness:** Notice the most important fact about marbles: They roll because they have spherical symmetry, an infinite number of symmetrical sides. You also likely created some symmetries in your marble courses. What makes a marble game “fair”?{{/note}}
     * **Webelos Scouts:** Art Explosion, Build It, Maestro!
-        {{#note type="counselor"}}**Art Explosion:** Notice all the symmetry you can — and also where a symmetry you expect is lacking — in the art that you see and make.  Symmetry tells the viewer what to expect. Lack of symmetry can be surprising.{{/note}}
+        {{#note type="counselor"}}**Art Explosion:** Notice all the symmetry you can - and also where a symmetry you expect is lacking - in the art that you see and make. Symmetry tells the viewer what to expect. Lack of symmetry can be surprising.{{/note}}
         {{#note type="counselor"}}**Build It:** Look at the symmetry of what you made. Did you plan for this?{{/note}}
         {{#note type="counselor"}}**Maestro:** In what ways did a piece of music you heard repeat itself? When was it an exact repetition, and when was it a modified repetition? What bits of the tune get used over and over?{{/note}}
     **Option A:** Complete all of the following:

@@ -2,7 +2,6 @@
 badge: automotive-maintenance
 layout: smb-merit-badge
 requirements: true
-year: 2021
 whatToBring:
     - Scouts should bring a change of clothing that they don't mind getting dirty as some class work may get a little messy
 ---

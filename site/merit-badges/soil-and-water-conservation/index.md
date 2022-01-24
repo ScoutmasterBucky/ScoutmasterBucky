@@ -2,7 +2,6 @@
 badge: soil-and-water-conservation
 layout: smb-merit-badge
 requirements: true
-year: 2021
 ---
 
 {{#requirements}}

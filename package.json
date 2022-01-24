@@ -13,11 +13,11 @@
         "start": "SERVE=true LIVE_RELOAD=true node metalsmith.js"
     },
     "dependencies": {
-        "@babel/preset-env": "^7.16.4",
-        "@fidian/metalsmith-site": "^1.1.5",
+        "@babel/preset-env": "^7.16.8",
+        "@fidian/metalsmith-site": "^1.1.8",
         "clean-css": "^4.2.4",
-        "luxon": "^2.1.1",
-        "marked": "^4.0.6",
+        "luxon": "^2.3.0",
+        "marked": "^4.0.10",
         "metalsmith-babel": "^5.1.0",
         "metalsmith-clean-css": "^6.1.3",
         "metalsmith-html-minifier": "^4.0.1",

@@ -2,7 +2,6 @@
 badge: archery
 layout: smb-merit-badge
 workbook: true
-year: 2021
 whatToBring:
     - Permission slip signed by parent or guardian, when and if required by the facility or location the Archery activity is being held at (check with Scoutmaster Bucky if you are uncertain whether a permission slip is needed)
     - A long-sleeved shirt is recommended for wear when shooting archery

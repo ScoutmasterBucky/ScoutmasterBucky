@@ -2,8 +2,10 @@
 nova: power-up
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdated: '2018-11-28'
+lastUpdated: November 7, 2020
 hasNotes: true
+hiddenNotes:
+    - Removed broken links from 3C2
 ---
 
 This module is designed to help Venturers or Sea Scouts explore how technology affects their life each day.
@@ -13,15 +15,15 @@ This module is designed to help Venturers or Sea Scouts explore how technology a
     A. Watch about three hours total of technology-related shows or documentaries that involve transportation or transportation technology. Then do the following:
         (1) Make a list of at least two questions or ideas from each show.
         (2) Discuss two of the questions or ideas with your counselor.
-        {{#note type="counselor"}}Some examples include — but are not limited to — shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s supervision.{{/note}}
+        Some examples include—but are not limited to—shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision.
     B. Read (about three hours total) about transportation or transportation technology. Then do the following:
         (1) Make a list of at least two questions or ideas from each article.
         (2) Discuss two of the questions or ideas with your counselor.
-        {{#note type="counselor"}}Examples of magazines include — but are not limited to — Odyssey, Popular Mechanics, Popular Science, Science Illustrated, Discover, Air & Space, Popular Astronomy, Astronomy, Science News, Sky & Telescope, Natural History, Robot, Servo, Nuts and Volts, and Scientific American.{{/note}}
+        Examples of magazines include—but are not limited to—Odyssey, Popular Mechanics, Popular Science, Science Illustrated, Discover, Air & Space, Popular Astronomy, Astronomy, Science News, Sky & Telescope, Natural History, Robot, Servo, Nuts and Volts, and Scientific American.
     C. Do a combination of reading and watching (about three hours total). Then do the following:
         (1) Make a list of at least two questions or ideas from each article or show.
         (2) Discuss two of the questions or ideas with your counselor.
-2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a [STEM exploration](../../explorations/) in that field. See separate document for the requirements. (If you have already completed a Venturing STEM exploration in one of these fields, please choose a different field for this award.)
+2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a STEM exploration in that field. See [STEM Explorations](../../explorations/) for the requirements. (If you have already completed a Venturing STEM exploration in one of these fields, please choose a different field for this award.)
     * Automotive Maintenance
     * Aviation
     * Canoeing
@@ -52,25 +54,30 @@ This module is designed to help Venturers or Sea Scouts explore how technology a
             {{#note type="counselor"}}Railroading—Diesel fuel{{/note}}
             {{#note type="counselor"}}Small-Boat Sailing—Wind{{/note}}
             {{#note type="counselor"}}Space Exploration—Most common solid: ammonium perchlorate mixed with powdered aluminum{{/note}}
-                {{#note type="counselor"}}Liquids for first-stage rockets—RP-1{{/note}}
-                {{#note type="counselor"}}Liquids for second-stage rockets—Liquid hydrogen, liquid oxygen{{/note}}
+                {{#note type="counselor"}}* Liquids for first-stage rockets—RP-1{{/note}}
+                {{#note type="counselor"}}* Liquids for second-stage rockets—Liquid hydrogen, liquid oxygen{{/note}}
             {{#note type="counselor"}}Truck Transportation—Diesel fuel{{/note}}
         (2) Discuss the pros and cons of each energy source with your counselor.
-            {{#note type="counselor"}}**Helpful Links:**{{/note}}
+            {{#note type="counselor"}}Helpful Links{{/note}}
             {{#note type="counselor"}}The following links are places to start when researching the pros and cons of fuel types. It is not an exhaustive list.{{/note}}
-            {{#note type="counselor"}}“Diesel Reborn”: https://www.edmunds.com/fuel-economy/diesel-reborn.html{{/note}}
-            {{#note type="counselor"}}“Aviation Jet Fuel Information”: http://www.csgnetwork.com/jetfuel.html{{/note}}
-            {{#note type="counselor"}}“What kind of fuel do rockets use and how does it give them enough power to get into space?”: Scientific American, https://www.scientificamerican.com/article/what-kind-of-fuel-do-rock/{{/note}}
+            {{#note type="counselor"}}“Diesel Reborn”: Edmunds.com{{/note}}
+            {{#note type="counselor"}}Website: http://www.edmunds.com/fuel-economy/diesel-reborn.html{{/note}}
+            {{#note type="counselor"}}“Aviation Jet Fuel Information”: CSGNetwork.com{{/note}}
+            {{#note type="counselor"}}Website: http://www.csgnetwork.com/jetfuel.html{{/note}}
     B. Make a list of sources of energy that may be possible to use in transportation. (See the list earlier in this section.)
     C. With your counselor:
         (1) Discuss alternative sources of energy.
         (2) Discuss the pros and cons of using alternative energy sources.
-            {{#note type="counselor"}}**Helpful Links:**{{/note}}
+            {{#note type="counselor"}}Helpful Links{{/note}}
             {{#note type="counselor"}}The following links are places to start when researching alternative fuels. It is not an exhaustive list. You can also search “Air Force alternative fuels” using your favorite search engine. Be sure you have your parent’s or guardian’s permission to use the Internet.{{/note}}
-            {{#note type="counselor"}}“Alternative & Advanced Vehicles”: U.S. Department of Energy, https://afdc.energy.gov/fuels/electricity_benefits.html{{/note}}
-            {{#note type="counselor"}}“Alternative Fuels”: U.S. Department of Energy, https://www.fueleconomy.gov/feg/current.shtml{{/note}}
-            {{#note type="counselor"}}“Nuclear Power and the Environment”: U.S. Energy Information Administration, https://www.eia.gov/energyexplained/nuclear/nuclear-power-and-the-environment.php{{/note}}
-            {{#note type="counselor"}}“Nuclear Power: A Leading Strategy to Reduce Oil Imports”: American Nuclear Society, https://ans.org/pi/ps/docs/ps82.pdf{{/note}}
+            {{#note type="counselor"}}“Alternative& Advanced Vehicles”: U.S. Department of Energy{{/note}}
+            {{#note type="counselor"}}Website: http://www.afdc.energy.gov/afdc/vehicles/electric_benefits.html{{/note}}
+            {{#note type="counselor"}}“Alternative Fuels”: U.S. Department of Energy{{/note}}
+            {{#note type="counselor"}}Website: http://www.fueleconomy.gov/feg/current.shtml{{/note}}
+            {{#note type="counselor"}}“Alternative Fuel”: Popular Mechanics{{/note}}
+            {{#note type="counselor"}}Website: http://www.popularmechanics.com/cars/alternative-fuel{{/note}}
+            {{#note type="counselor"}}“Nuclear Power: A Leading Strategy to Reduce Oil Imports”: American Nuclear Society{{/note}}
+            {{#note type="counselor"}}Website: http://www.ans.org/pi/ps/docs/ps82.pdf{{/note}}
 4. Design and build a working model vehicle (not from a kit).
     A. Make drawings and specifications of your model vehicle before you begin to build.
     B. Include one of the following energy sources to power your vehicle (do not use gasoline or other combustible fuel source): solar power, wind power, or battery power.
