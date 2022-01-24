@@ -1,0 +1,75 @@
+#!/usr/bin/env bash
+
+cd "${0%/*}" || exit
+
+downloadPdfs() {
+    local indexUrl=$1 linkMatch=$2 startFolder=$3
+
+    html=$(curl -s -o - "$indexUrl")
+
+    # Look for links to PDF files
+    processedHtml=$(echo "$html" | pup "$linkMatch" | tr -d '\n' | sed 's/> />/g')
+
+    links=()
+
+    while read -r line; do
+        links+=("$line");
+    done < <(echo "$processedHtml" | pup 'a attr{href}')
+
+    labels=()
+
+    while read -r line; do
+        labels+=("$line");
+    done < <(echo "$processedHtml" | pup 'a text{}')
+
+    if [[ "${#links[@]}" != "${#labels[@]}" ]]; then
+        echo "Number of links and labels do not match"
+        exit 1
+    fi
+
+    i=0
+
+    while [[ $i -lt "${#links[@]}" ]]; do
+        link="${links[i]}"
+        label="${labels[i]}"
+        label="${label//&amp;/and}" # Fish & Wildlife Management -> Fish and Wildlife Management
+
+        # Mendel's Minions -> Mendels Minions
+        # shellcheck disable=SC2018 disable=SC2019
+        saveAsBase="$(echo "$label" | tr A-Z a-z | tr -d "'’" | tr -cs a-z1-9 - | sed 's/^-//' | sed 's/-$//')"
+        echo "$link ... $label ... $saveAsBase"
+
+        (
+            outputFolder="$startFolder/$saveAsBase"
+            cd "$outputFolder" || (echo "Output folder not found: $outputFolder" ; echo "Using current folder as a fallback")
+            curl -s -o "${saveAsBase}.pdf" "$link"
+            pdftotext -nopgbrk "${saveAsBase}.pdf" "${saveAsBase}.txt"
+        )
+
+        i=$((i + 1))
+    done
+}
+
+echo 'Cub Scouts'
+downloadPdfs 'https://www.scouting.org/stem-nova-awards/awards/cub-scout/' 'h3 a[href*=".pdf"]' 'site/nova-lab/cub-scouts/'
+echo ''
+echo 'Scouts BSA'
+downloadPdfs 'https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/' '.col-md-2 a[href*=".pdf"]:not(:parent-of(img))' 'site/nova-lab/scouts-bsa/'
+echo ''
+echo 'Venturing and Sea Scouts'
+downloadPdfs 'https://www.scouting.org/stem-nova-awards/awards/venturer/' '.elementor-element-259c931 a[href*=".pdf"]' 'site/nova-lab/venturing-and-sea-scouts/'
+echo ''
+
+date -I > novas-updated.txt
+echo 'Updated novas-updated.txt'
+echo ''
+
+echo 'Merit Badges'
+downloadPdfs 'https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/' 'h3 a[href*=".pdf"]' 'site/merit-badges/'
+echo ''
+
+date -I > merit-badges-updated.txt
+echo 'Updated merit-badges-updated.txt'
+echo ''
+
+echo 'Done'
