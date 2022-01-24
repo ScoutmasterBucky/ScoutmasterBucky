@@ -2,7 +2,7 @@
 nova: execute
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdate: '2019-02-13'
+lastUpdate: November 7, 2020
 ---
 
 This module is designed to help you explore how programming affects everyday life.
@@ -18,7 +18,7 @@ This module is designed to help you explore how programming affects everyday lif
     C. Do a combination of reading and watching (not less than three hours). Then do the following:
         1. Make a list of at least five questions or ideas from the material you read.
         2. Discuss two of the questions or ideas that relate to programming and other computer topics with your counselor.
-2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a Venturing [STEM exploration](../../explorations/) in that field. (If you have already completed a Venturing STEM Exploration in one of these fields, please choose a different field for this award.)
+2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a Venturing STEM exploration in that field. (If you have already completed a [Venturing STEM Exploration](../../explorations/) in one of these fields, please choose a different field for this award.)
     * Computer Hardware
     * Cryptology
     * Cybersecurity
@@ -31,23 +31,23 @@ This module is designed to help you explore how programming affects everyday lif
 3. Experiment! Choose three activities from the following list and complete ALL the requirements.
     A. Build an app.
         1. Create an app that helps solve a problem of your choosing. You can use a development environment of your choosing. Some common software applications include:
-            a. Squeak.org (Smalltalk)
+            a. https://squeak.org/ (Smalltalk)
             b. Liberty Basic or the free Just Basic
             c. Free Basic
             d. Free Pascal
-            e. Active State (Perl, Pythong, Ruby, Lua, TCL, Go)
+            e. Active State (Perl, Python, Ruby, Lua, TCL, Go)
             f. Java and Netbeans IDE
         2. With your counselor, discuss what aspects of your app make it easy for users to use. Discuss what modifications could be made to make the app better and easier to use.
         3. Show your app to your counselor and explain how you created it.
     B. Investigate a new object-oriented programming language.
         1. Use an online program for learning programming to study a language of your choice. An example of such a language is Scratch or Javascript or Squeak.
-        2. After experimenting with the language, create a mini-video or game that encourages teenagers to join Venturing/Sea Scouting or tells the story of your favorite Scouting memory.
+        2. After experimenting with the language, create a mini-video or game that encourages potential new members to join Venturing/Sea Scouting or tells the story of your favorite Scouting memory.
         3. Show your program to your counselor and describe how you made it.
     C. Create a page in HTML.
         1. Take on online course to learn about HTML.
         2. After taking the course, create an basic HTML page for your crew or ship.
         3. Show your HTML page to your counselor and explain how you created it.
-    D. Find an old cellphone, computer, or other digital electronic and take it apart (ask your parents for permission first!).
+    D. Find an old cellphone, computer, or other digital electronic and take it apart (ask your parents or guardians for permission first!).
         1. Identify three pieces to research.
         2. Figure out what they do and how they contribute to the machine.
         3. Report your findings to your counselor.

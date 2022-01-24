@@ -2,8 +2,10 @@
 nova: something-from-nothing
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdate: '2019-04'
+lastUpdate: November 7, 2020
 hasNotes: true
+hiddenNotes:
+    - Moved comments to 3A
 ---
 
 This module is designed to help explore 3D printing, and how it is becoming prevalent in everyday life.
@@ -19,7 +21,7 @@ This module is designed to help explore 3D printing, and how it is becoming prev
     C. Do a combination of reading and watching not less than three hours. Then do the following:
         1. Make a list of at least five questions or ideas from the material you read.
         2. Discuss two of the questions or ideas that relate to 3D printing and other additive manufacturing processes with your counselor.
-2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a Venturing [STEM exploration](../../explorations/) in that field. (If you have already completed a Venturing STEM Exploration in one of these fields, please choose a different field for this award.)
+2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a [Venturing STEM exploration](../../explorations/) in that field. (If you have already completed a Venturing STEM Exploration in one of these fields, please choose a different field for this award.)
     * Additive Manufacturing
     * CAD Modeling
     * Inventing
@@ -32,7 +34,7 @@ This module is designed to help explore 3D printing, and how it is becoming prev
     A. Design a Model
         1. Design a model of your choosing in a CAD program. Some common CAD programs with free student versions include Autodesk Inventor, Catia, CREO, Google SketchUp, Solid Works and Tinkercad.
         2. With your counselor discuss what you designed and what its purpose was. Discuss what modifications you could make to the design to make it easier to 3D print.
-        {{#note type="counselor"}}To select an item to design, suggest the scout look around their house for common household objects that 3D printing can provide – a washer to repair a leaking faucet, a kitchen accessory, a desk storage container, an extra coat hanger, cell phone holder and sound amplifier, bag clips, etc. They could also look through a database of pre-designed objects ready for printing, such as Thingiverse.com, for ideas, but need to come up with an original design in order to meet this requirement.{{/note}}
+        {{#note type="counselor"}}To select an item to design, suggest the scout look around their house for common household objects that 3D printing can provide – a washer to repair a leaking faucet, a kitchen accessory, a desk storage container, an extra coat hanger, cell phone holder and sound amplifier, bag clips, etc. They could also look through a database of pre-designed objects ready for printing, such as Thingiverse.com , for ideas, but need to come up with an original design in order to meet this requirement.{{/note}}
     B. Investigate Model Orientation
         1. Using either the model you made in part A or a different model, load it into the 3D printing software of your choice. Adjust the orientation of the print, and note how the print time changes and how much support material is needed at each orientation.
         2. Discuss with your counselor why the orientation changes the print time required, as well as the amount of support material required. Does the fastest print time require the most support material? What is the best orientation for your specific design? Why does the support material change with different orientations, which gives the most efficient results? Why does print time change with different orientations, which gives the fastest results? Why would you not use the orientation with the fastest print time or lowest material cost?
@@ -48,7 +50,7 @@ This module is designed to help explore 3D printing, and how it is becoming prev
         4. Share your findings with your counselor.
     E. Research different printing methods
         1. Identify 3 different methods of 3D printing (these do not all have to apply to plastics and desktop printers).
-        2. Determine what material is used for each printing method. Compare the methods against each other in terms of time to print, cost of print, pre-work, and post-work. What method is preferred for different printing jobs?
+        2. Determine what material is used for each printing method. Compare the methods against each other in terms of time to print, cost of print, pre-work, and post-work.  What method is preferred for different printing jobs?
         3. Share your findings with your counselor.
     F. Examine the components of a 3D printer
         1. Identify 4 key parts of a 3D printer.

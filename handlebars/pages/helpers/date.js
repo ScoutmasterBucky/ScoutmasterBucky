@@ -2,7 +2,7 @@ const luxon = require('luxon');
 
 module.exports = function (obj) {
     const format = obj.hash.format || 'MMMM d, yyyy';
-    const dateStr = obj.fn(this);
+    const dateStr = obj.fn(this).trim();
 
     let d;
 

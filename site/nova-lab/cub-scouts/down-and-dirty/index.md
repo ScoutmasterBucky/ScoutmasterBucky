@@ -2,7 +2,7 @@
 nova: down-and-dirty
 program: cub-scouts
 layout: nova-req
-lastUpdate: '2018-05'
+lastUpdate: September 2020
 hasNotes: true
 hidden:
     - Requirement 2Bb stopped with "Show and explain"
@@ -15,15 +15,16 @@ This module is designed to help you explore how earth science affects your life 
     A. Watch an episode or episodes (about one hour total) of a show about Earth, the weather, geology, volcanoes, or oceanography. Then do the following:
         1. Make a list of at least two questions or ideas from what you watched.
         2. Discuss two of the questions or ideas with your counselor.
-        {{#note type="counselor"}}Some examples include — but are not limited to — shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s supervision.{{/note}}
+        {{#note type="counselor"}}Some examples include—but are not limited to—shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision.{{/note}}
     B. Read (about one hour total) about Earth, the weather, geology, volcanoes, or oceanography. Then do the following:
         1. Make a list of at least two questions or ideas from what you watched.
         2. Discuss two of the questions or ideas with your counselor.
-        {{#note type="counselor"}}Books on many topics may be found at your local library. Examples of magazines include but are not limited to Odyssey, KIDS DISCOVER, National Geographic Kids, Highlights, and OWL or Owlkids (https://www.owlkids.com/).{{/note}}
+        {{#note type="counselor"}}Books on many topics may be found at your local library. Examples of magazines include but are not limited to Odyssey, KIDS DISCOVER, National Geographic Kids, Highlights, and OWL or owlkids.com.{{/note}}
     C. Do a combination of reading and watching (about one hour total) about Earth, the weather, geology, volcanoes, or oceanography. Then do the following:
         1. Make a list of at least two questions or ideas from what you read and watched.
         2. Discuss two of the questions or ideas with your counselor.
-2. Complete ONE adventure from the following list for your current rank or complete option A or B. (If you choose an Adventure, choose one you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
+2. Complete ONE adventure from the following list for your current rank or complete option A or
+    B. (If you choose an Adventure, choose one you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
     * **Wolf Cub Scouts:** Collections and Hobbies, Digging in the Past, Grow Something
     * **Bear Cub Scouts:** Super Science
     * **Webelos Scouts:** Adventures in Science, Earth Rocks!
@@ -35,6 +36,7 @@ This module is designed to help you explore how earth science affects your life 
     **Option B:** Complete one of the following:
         (a) Make a fossil cast.
         (b) Make a dinosaur dig. Be a paleontologist, and dig through a dinosaur dig made by another member of your den. Show and explain the ways a paleontologist works carefully during a dig.
+        {{#note type="counselor"}}The official requirement stops after "Show and explain", but the extra wording was found in another requirement.{{/note}}
 3. Investigate: Choose A or B or C or D and complete ALL the requirements:
     A. Volcanoes erupt
         1. How are volcanoes formed?
@@ -57,9 +59,9 @@ This module is designed to help you explore how earth science affects your life 
         2. Temperate forest
             Research the two main categories of trees in the temperate forest (coniferous and deciduous). Why are their leaves different? How are their seeds different? Put a twig from a coniferous tree (cone-bearing tree with needles) in a cup of water and tightly fasten a clear plastic bag around the needles. Put a twig from a deciduous tree (leafy tree that loses its leaves in the fall) in a cup of water and tightly fasten a clear plastic bag around the leaves. Observe what happens and draw pictures of your observations. Think of an explanation for what occurred and discuss your explanation with your counselor.
         3. Aquatic ecosystem
-            With a parent’s permission and guidance, visit an aquatic habitat near your home.  Examples include a stream, river, lake, pond, ocean, and wetland (a marsh or swamp).  Draw or photograph the area. What are the most common types of plants growing there?  What animals did you see? Did you see, hear, or smell any evidence of other animals?  (Your evidence might include things like bird calls, splashes of fish or frogs jumping, tracks, feathers, or bones.) How do aquatic ecosystems affect your life? How have humans affected the ecosystem? (Look for signs of humans such as trash and bridges or walkways.) How do you think humans have affected the ecosystem in ways you cannot see? (Think about fertilizer and pesticides washing off your lawn and flowing into a stream. How would this affect creatures that live in the water?) What can you do to improve the quality of the ecosystem?
+            With a parent’s permission and guidance, visit an aquatic habitat near your home. Examples include a stream, river, lake, pond, ocean, and wetland (a marsh or swamp). Draw or photograph the area. What are the most common types of plants growing there? What animals did you see? Did you see, hear, or smell any evidence of other animals? (Your evidence might include things like bird calls, splashes of fish or frogs jumping, tracks, feathers, or bones.) How do aquatic ecosystems affect your life? How have humans affected the ecosystem? (Look for signs of humans such as trash and bridges or walkways.) How do you think humans have affected the ecosystem in ways you cannot see? (Think about fertilizer and pesticides washing off your lawn and flowing into a stream. How would this affect creatures that live in the water?) What can you do to improve the quality of the ecosystem?
         4. Temperate or subtropical rain forest
-            Describe the three main levels of the rain forest (canopy, understory, and forest floor).  Make a drawing or model showing examples of animals and plants that live at each level.  Choose an animal or plant from each level and explain how it is adapted to its particular place in the rain forest.
+            Describe the three main levels of the rain forest (canopy, understory, and forest floor). Make a drawing or model showing examples of animals and plants that live at each level. Choose an animal or plant from each level and explain how it is adapted to its particular place in the rain forest.
         5. Desert
             Choose a desert animal or plant. Make a model of it, draw it, or describe it. Explain how it is particularly well adapted to survive in a place where there is very little water. How would the desert be different if this plant or animal were not there?
         6. Polar ice

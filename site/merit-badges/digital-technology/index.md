@@ -2,7 +2,6 @@
 badge: digital-technology
 layout: smb-merit-badge
 requirements: true
-year: 2021
 ---
 
 {{#requirements}}

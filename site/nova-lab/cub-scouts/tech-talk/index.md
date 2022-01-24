@@ -2,7 +2,7 @@
 nova: tech-talk
 program: cub-scouts
 layout: nova-req
-lastUpdate: '2018-05'
+lastUpdate: May 2018
 hasNotes: true
 ---
 

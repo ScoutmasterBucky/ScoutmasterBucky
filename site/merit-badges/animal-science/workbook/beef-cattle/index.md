@@ -1,7 +1,6 @@
 ---
 badge: animal-science
 layout: smb-merit-badge
-year: 2020
 workbook: true
 ---
 
