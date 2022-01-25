@@ -24,14 +24,12 @@ onSaleDate: 2022-01-02 0:05
 {{>badge badge="emergency-preparedness"}}
 {{>badge badge="engineering"}}
 {{>badge badge="game-design"}}
-{{>badge badge="inventing"}}
 {{>badge badge="safety"}}
 {{/badge-list}}
 {{>eventbrite badge="drafting" event="220148148037" start=amStart end=amEnd}}
 {{>eventbrite badge="emergency-preparedness" event="220085249907" start=amStart end=amEnd}}
 {{>eventbrite badge="engineering" event="220149953437" start=amStart end=amEnd}}
 {{>eventbrite badge="game-design" event="220151447907" start=amStart end=amEnd}}
-{{>eventbrite badge="inventing" event="220142671657" start=amStart end=amEnd}}
 {{>eventbrite badge="safety" event="220115700987" start=amStart end=amEnd}}
 
 ### Mid-Day Classes
@@ -50,9 +48,9 @@ onSaleDate: 2022-01-02 0:05
 {{>badge badge="architecture"}}
 {{>badge badge="chess"}}
 {{>badge badge="emergency-preparedness"}}
-{{>badge badge="exploration"}}
+{{>badge badge="inventing"}}
 {{/badge-list}}
 {{>eventbrite badge="architecture" event="220140254427" start=pmStart end=pmEnd}}
 {{>eventbrite badge="chess" event="220154156007" start=pmStart end=pmEnd}}
 {{>eventbrite badge="emergency-preparedness" event="220087677167" start=pmStart end=pmEnd}}
-{{>eventbrite badge="exploration" event="254051995357" start=pmStart end=pmEnd}}
+{{>eventbrite badge="inventing" event="220142671657" start=pmStart end=pmEnd}}
