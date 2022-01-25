@@ -1,6 +1,8 @@
 ---
 supernova: dr-bernard-harris
 layout: nova-req
+hiddenNotes:
+    - Fixed spacing for 4's note
 ---
 
 <div class="D(f) Jc(sb) Fxd(rr) Fxd(c)--s">
@@ -38,5 +40,5 @@ The Scouts BSA Supernova awards recognize superior achievement by a Scout in the
     A. Choose a modern scientific subject with at least two competing theories on the subject and learn as much as possible about each theory.
     B. Analyze the competing theories, decide which one is most convincing to you, and explain why to your mentor.
     C. Make a presentation to your mentor that describes the controversy, the competing theories, and your conclusions about how the scientific method can or cannot contribute to the resolution of the controversy.
-9. Submit a Supernova award application to the district or council Nova or advancement committee for approval.
+9. Submit a [Supernova award application](https://www.scouting.org/wp-content/uploads/2019/02/SN-Application2019Feb-1.pdf) to the district or council Nova or advancement committee for approval.
 {{/requirements}}

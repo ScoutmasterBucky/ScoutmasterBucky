@@ -9,7 +9,7 @@ layout: nova
 
 This activity can be done individually or in a group. It requires the participation of 20 to 30 people.
 
-The scenario: You are the communication chair for a science fair being organized by your unit. Your responsibility is to gather contact information from all participants (contestants, judges, staff, and so on) and formulate a communication plan that will be effective for anticipated communications and necessary-but-unexpected communications as well. You will need to be able to communicate some information to everyone, other information to subgroups, and additional information to another group of individuals.
+**The scenario:** You are the communication chair for a science fair being organized by your unit. Your responsibility is to gather contact information from all participants (contestants, judges, staff, and so on) and formulate a communication plan that will be effective for anticipated communications and necessary-but-unexpected communications as well. You will need to be able to communicate some information to everyone, other information to subgroups, and additional information to another group of individuals.
 
 ### Part 1: Communication Plan
 
@@ -22,7 +22,7 @@ Before you get started, share your plan with your mentor. Then do the following:
     Think about the kinds of information you will need to communicate. This sometimes influences the mode of communication and should also be a part of your communication plans.
 4. Test your plan by playing a few Mad Libs via your communication plan. To test your communication plan, choose a particular Mad Lib and send out requests for various types of words (verbs, adjectives, nouns, and so on) to a group of individuals and subgroups. Make sure you cover your entire set of recipients or recipient groups, and be sure to give everyone a deadline for a response.
     If you don’t get responses, follow up with additional messages, perhaps via different communication modes. When you have what you need, make sure you communicate the finished Mad Lib back to the relevant individuals.
-    A Mad Lib is an unfinished story that is complete except for missing words, indicated by blanks. The words for each blank are in categories such as verbs, nouns, and adjectives. Missing words are supplied by folks who don’t know the story, thus creating a funny, crazy, mad story.
+    A Mad Lib is an unfinished story that is complete except for missing words, indicated by blanks. The words for each blank are in categories such asverbs, nouns, and adjectives. Missing words are supplied by folks who don’t know the story, thus creating a funny, crazy, mad story.
 {{/requirements}}
 
 ### Part 2: Analysis and Report

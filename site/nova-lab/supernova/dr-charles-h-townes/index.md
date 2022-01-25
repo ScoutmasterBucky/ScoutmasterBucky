@@ -1,6 +1,8 @@
 ---
 supernova: dr-charles-h-townes
 layout: nova-req
+hiddenNotes:
+    - Changed "Boy Scout or Venturer" to "Scout, Venturer, or Sea Scout"
 ---
 
 <div class="D(f) Jc(sb) Fxd(rr) Fxd(c)--s">
@@ -11,13 +13,15 @@ layout: nova-req
 
 To earn the Dr. Charles Townes Supernova award, you must be a Webelos or Arrow of Light Scout who is active with a den. With your parent’s and unit leader’s help, you must select a council-approved mentor who is a registered Scouter. You may NOT choose your parent or your unit leader (unless the mentor is working with more than one youth).  Webelos Scouts and Arrow of Light Scouts can earn the same Nova Awards as Cub Scouts.
 
-Although it is not a requirement, it is recommended that you earn at least two Nova awards for Cub Scouts before earning the Dr. Charles H. Townes Supernova Award.
+Although it is not a requirement, it is recommended that you earn at least two Nova awards for Cub Scouts before earning the {{#trim}}{{>supernova-name supernova="dr-charles-h-townes" sa=true}}{{/trim}}.
 
 This Supernova award can be earned by Webelos and Arrow of Light Scouts like you.
 
 </div></div>
 
 # Requirements
+
+For Webelos and Arrow of Light Scouts
 
 {{#requirements}}
 1. Complete three of the following: Adventures in Science, Engineer, option A, or option B.
@@ -45,6 +49,6 @@ This Supernova award can be earned by Webelos and Arrow of Light Scouts like you
     a. Visit with someone who works in a STEM-related career. Discuss what you learned with your mentor.
     b. Learn about a career that depends on knowledge about science, technology, engineering, or mathematics. Discuss what you learned with your mentor.
 8. Under the direct supervision of your mentor, do an experiment that shows how the scientific method (or scientific process) is used. Prepare a short report on the results of your experiment for your mentor.
-9. Participate in a Nova- or other STEM-related activity in your Webelos Scout den or pack meeting that is conducted by a Boy Scout or Venturer who is working on his or her Supernova award. If this is not possible, participate in another Nova- or STEM-related activity in your den or pack meeting.
+9. Participate in a Nova- or other STEM-related activity in your Webelos Scout den or pack meeting that is conducted by a Scout, Venturer, or Sea Scout who is working on his or her Supernova award. If this is not possible, participate in another Nova- or STEM-related activity in your den or pack meeting.
 10. Submit an application for the Webelos Scout Supernova award PDF icon to the district STEM or advancement committee for approval.
 {{/requirements}}

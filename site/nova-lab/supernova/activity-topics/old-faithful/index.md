@@ -9,7 +9,7 @@ layout: nova
 
 This activity can be done individually, but works much better with three to six people.
 
-The scenario: You have lined up a summer job as a junior park ranger at Yellowstone National Park, where you know many visitors come to see the geyser Old Faithful. Many visitors arrive just after Old Faithful has erupted and they typically ask a nearby ranger when it is next expected to erupt. Your task is to analyze past data on Old Faithful’s eruptions in order to devise a strategy for predicting the next eruption.
+**The scenario:** You have lined up a summer job as a junior park ranger at Yellowstone National Park, where you know many visitors come to see the geyser Old Faithful. Many visitors arrive just after Old Faithful has erupted and they typically ask a nearby ranger when it is next expected to erupt. Your task is to analyze past data on Old Faithful’s eruptions in order to devise a strategy for predicting the next eruption.
 
 ### Part 1: Data Gathering and Initial Analysis
 

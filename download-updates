@@ -4,6 +4,7 @@ cd "${0%/*}" || exit
 
 downloadPdfs() {
     local indexUrl=$1 linkMatch=$2 startFolder=$3
+    local html processedHtml links labels i saveAsBase outputFolder
 
     html=$(curl -s -o - "$indexUrl")
 
@@ -50,19 +51,18 @@ downloadPdfs() {
     done
 }
 
-echo 'Cub Scouts'
-downloadPdfs 'https://www.scouting.org/stem-nova-awards/awards/cub-scout/' 'h3 a[href*=".pdf"]' 'site/nova-lab/cub-scouts/'
-echo ''
-echo 'Scouts BSA'
-downloadPdfs 'https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/' '.col-md-2 a[href*=".pdf"]:not(:parent-of(img))' 'site/nova-lab/scouts-bsa/'
-echo ''
-echo 'Venturing and Sea Scouts'
-downloadPdfs 'https://www.scouting.org/stem-nova-awards/awards/venturer/' '.elementor-element-259c931 a[href*=".pdf"]' 'site/nova-lab/venturing-and-sea-scouts/'
-echo ''
+downloadHtml() {
+    local url=$1 selector=$2 startFolder=$3 filename=$4
 
-date -I > novas-updated.txt
-echo 'Updated novas-updated.txt'
-echo ''
+    (
+        cd "$startFolder" || {
+            echo "Invalid folder, aborting download: $startFolder"
+            exit 1
+        }
+
+        curl -s -o - "$url" | pup "$selector" > "$filename"
+    )
+}
 
 echo 'Merit Badges'
 downloadPdfs 'https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/' 'h3 a[href*=".pdf"]' 'site/merit-badges/'
@@ -70,6 +70,43 @@ echo ''
 
 date -I > merit-badges-updated.txt
 echo 'Updated merit-badges-updated.txt'
+echo ''
+
+echo 'Cub Scouts Nova Awards'
+downloadPdfs 'https://www.scouting.org/stem-nova-awards/awards/cub-scout/' 'h3 a[href*=".pdf"]' 'site/nova-lab/cub-scouts/'
+echo ''
+echo 'Scouts BSA Nova Awards'
+downloadPdfs 'https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/' '.col-md-2 a[href*=".pdf"]:not(:parent-of(img))' 'site/nova-lab/scouts-bsa/'
+echo ''
+echo 'Venturing and Sea Scouts Nova Awards'
+downloadPdfs 'https://www.scouting.org/stem-nova-awards/awards/venturer/' '.elementor-element-259c931 a[href*=".pdf"]' 'site/nova-lab/venturing-and-sea-scouts/'
+echo ''
+
+date -I > novas-updated.txt
+echo 'Updated novas-updated.txt'
+echo ''
+
+echo 'Cub Scouts Supernova Awards'
+downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/cub-scout/supernova-awards/' '#elementor-tab-content-1841' 'site/nova-lab/supernova/dr-luis-walter-alvarez/' 'supernova-requirements.html'
+downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/cub-scout/supernova-awards/' '#elementor-tab-content-1842' 'site/nova-lab/supernova/dr-charles-h-townes/' 'supernova-requirements.html'
+
+echo 'Scouts BSA Supernova Awards'
+downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/scouts-bsa-supernova-awards/' '#elementor-tab-content-1151' 'site/nova-lab/supernova/dr-bernard-harris/' 'supernova-requirements.html'
+downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/scouts-bsa-supernova-awards/' '#elementor-tab-content-1152' 'site/nova-lab/supernova/thomas-alva-edison/' 'supernova-requirements.html'
+
+echo 'Venturing and Sea Scouts Supernova Awards'
+downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-awards/' '#elementor-tab-content-4171' 'site/nova-lab/supernova/dr-sally-ride/' 'supernova-requirements.html'
+downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-awards/' '#elementor-tab-content-4172' 'site/nova-lab/supernova/wright-brothers/' 'supernova-requirements.html'
+downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-awards/' '#elementor-tab-content-4173' 'site/nova-lab/supernova/dr-albert-einstein/' 'supernova-requirements.html'
+
+echo 'Supernova Activity Topics'
+downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-topics/' '.elementor-text-editor:parent-of(h2)' 'site/nova-lab/supernova/activity-topics/' 'activity-topics-requirements.html'
+
+echo 'Venturing and Sea Scouts Exploration Requirements'
+downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-awards/' '#elementor-tab-content-4175' 'site/nova-lab/explorations/' 'exploration-requirements.html'
+
+date -I > supernovas-updated.txt
+echo 'Updated supernovas-updated.txt'
 echo ''
 
 echo 'Done'
