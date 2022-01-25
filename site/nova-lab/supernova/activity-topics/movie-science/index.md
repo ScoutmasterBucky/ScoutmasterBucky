@@ -12,7 +12,7 @@ This activity can be done individually or in a group. There are many popular mov
 ### Part 1: Research
 
 {{#requirements}}
-1. View a movie or television show involving space, space travel, or life in space. In the movie or show, identify two instances of scientific “principles” or technological “advances” that violate currently accepted scientific principles or misrepresent currently available technology. Discuss the following with your mentor:
+1. View a movie or television show involving space, space travel, or life in space. In the movie or show, identify two instances of scientific “principles” or technological”advances” that violate currently accepted scientific principles or misrepresent currently available technology. Discuss the following with your mentor:
     A. The scientific principle that is violated and how. Describe the technology that is misrepresented and how.
     B. Two potentially plausible technological or scientific advances in your chosen movie—show and explain how these could potentially come to be in the future. Discuss the hurdles that would have to be overcome in order to develop those advances.
     C. The scientifically based reasoning that leads you to believe scientists, engineers, mathematicians, and technology specialists can overcome these hurdles.

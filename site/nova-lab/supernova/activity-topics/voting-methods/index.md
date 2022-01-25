@@ -9,7 +9,7 @@ layout: nova
 
 This activity can be done individually or with a group of two to six people, and requires cooperation from about 20 to 30 individuals.
 
-The scenario: Your unit wants to plan a superactivity for next summer but cannot agree on what that activity should be. There are four options under consideration, and your unit decides to vote. Your task is to collect ballots and tabulate results using several different voting methods.
+**The scenario:** Your unit wants to plan a superactivity for next summer but cannot agree on what that activity should be. There are four options under consideration, and your unit decides to vote. Your task is to collect ballots and tabulate results using several different voting methods.
 
 This is not a binding decision on your unit! This is an exercise, but one that will be more meaningful if you use real-life possibilities.
 

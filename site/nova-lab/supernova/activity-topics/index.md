@@ -3,13 +3,13 @@ title: Supernova Activity Topics
 layout: nova
 ---
 
-Each STEM field — science, technology, engineering, mathematics — offers a choice of three Supernova activity topics. These are two-part, hands-on, high-level activities created to challenge you and help you continue along your STEM journey to excellence. Part 1 involves research, preparation, set up, coordination, and/or organization. Part 2 includes elements such as analysis, reflection, experimentation, design, or invention, and culminates in a report created by you.
+Each STEM field—science, technology, engineering, mathematics—offers a choice of three Supernova activity topics. These are two-part, hands-on, high-level activities created to challenge you and help you continue along your STEM journey to excellence. Part 1 involves research, preparation, set up, coordination, and/or organization. Part 2 includes elements such as analysis, reflection, experimentation, design, or invention, and culminates in a report created by you.
 
 ### Report Format Options
 
-No matter what STEM activity you choose, you will need to create a report. Reports are a regular part of the work of professionals in various STEM fields, so these tasks will be good preparation for future career demands. Notice that it doesn’t say write a report. You are not restricted to just writing a report, although you may choose to do so if you like. Any report will probably involve some writing on your part, but the report itself may be created and presented in any number of ways. Use your imagination!
+No matter what STEM activity you choose, you will need to create a report. Reports are a regular part of the work of professionals in STEM fields, so this will be good preparation for future career demands. Notice it doesn’t say write a report. You are not restricted to just writing a report, although you may choose to do so if you like. Any report will probably involve some writing, but the report itself may be created and presented in any number of ways. Use your imagination!
 
-You may choose from any of the formats below for your report, or you may create a combination of these formats. You may create something entirely new as long as your Supernova mentor approves. The objective is for you to communicate what you have learned to others in a way that helps them understand what you learned and how you learned it.
+You may choose from any format below for your report, or you may create a combination of formats. You may create something entirely new as long as your Supernova mentor approves. The objective is for you to communicate to others in a way that helps them understand what you have learned and how you learned it.
 
 * Oral report
 * Written report
@@ -19,7 +19,7 @@ You may choose from any of the formats below for your report, or you may create 
 * Multifaceted format
 * Any format of your own design, with your mentor’s advance approval
 
-The report must provide sufficient detail so that someone unfamiliar with the topic can understand the content. For each format, you are encouraged to incorporate a variety of ways to present your information and to use technology to create a polished presentation. For example, an oral report might include a PowerPoint presentation as a visual aid, or a poster presentation might include a slide show of your activity. Be creative.
+The report must provide sufficient detail so that someone unfamiliar with the topic can understand the content. For each format, you can incorporate a variety of ways to present your information and to use technology to create a polished presentation. For example, an oral report might include a PowerPoint presentation, or a poster presentation might include a slide show. Be creative.
 
 ### A Note About Resources
 
