@@ -1,6 +1,9 @@
 ---
 supernova: dr-luis-walter-alvarez
 layout: nova-req
+hiddenNotes:
+    - Changed "counselor" to "mentor" to match terms with current BSA training
+    - Changed "Boy Scout or Venturer" to "Scout, Venturer, or Sea Scout"
 ---
 
 <div class="D(f) Jc(sb) Fxd(rr) Fxd(c)--s">
@@ -16,11 +19,13 @@ This Supernova award can be earned by Cub Scouts like you who want to soar in sc
 * The Cub Scout Supernova award recognizes superior achievement by a Cub Scout in the fields of science, technology, engineering, and mathematics (STEM).
 * All experiments or projects should be conducted using the highest level of safety protocol and always under the supervision of a qualified, responsible adult.
 * Tigers are not eligible to earn the Cub Scout Supernova award.
-* Although it is not a requirement, it is recommended that you earn at least two Nova awards for Cub Scouts before earning the Dr. Luis W. Alvarez Supernova Award.
+* Although it is not a requirement, it is recommended that you earn at least two Nova awards for Cub Scouts before earning the {{#trim}}{{>supernova-name supernova="dr-luis-walter-alvarez" sa=true}}{{/trim}}.
 
 </div></div>
 
 # Requirements
+
+For Cub Scouts - Bear and Wolf
 
 {{#requirements}}
 1. Complete the adventure appropriate for your rank AND complete either option A or option B.
@@ -52,6 +57,6 @@ This Supernova award can be earned by Cub Scouts like you who want to soar in sc
     A. Visit with someone who works in a STEM-related career. Discuss what you learned with your mentor.
     B. Learn about a career that depends on knowledge about science, technology, engineering, or mathematics. Discuss what you learned with your mentor.
 8. Learn about the scientific method (or scientific process). Discuss this with your mentor, and include a simple demonstration to show what you learned.
-9. Participate in a Nova- or other STEM-related activity in your Cub Scout den or pack meeting that is conducted by a Boy Scout or Venturer who is working on his or her Supernova award. If this is not possible, participate in another Nova- or STEM-related activity in your den or pack meeting.
-10. Submit an application for the Cub Scout Supernova award to the district STEM or advancement committee for approval.
+9. Participate in a Nova- or other STEM-related activity in your Cub Scout den or pack meeting that is conducted by a Scout, Venturer, or Sea Scout who is working on his or her Supernova award. If this is not possible, participate in another Nova- or STEM-related activity in your den or pack meeting.
+10. Submit an [application for the Cub Scout Supernova](https://www.scouting.org/filestore/STEM/pdf/SupernovaApplication.pdf) award to the district STEM or advancement committee for approval.
 {{/requirements}}

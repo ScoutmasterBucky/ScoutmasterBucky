@@ -2,8 +2,10 @@
 nova: let-it-grow
 program: scouts-bsa
 layout: nova-req
-lastUpdate: '2018-11-26'
-hasNotes: true
+lastUpdate: October 2020
+hiddenNotes:
+    - Fixed punctuation at end of 3.
+    - Removed first link for 3C1 - broken
 ---
 
 This module is designed to help you explore where your food comes from and how agriculture affects your life each day. Agriculture includes growing crops and raising animals to provide food and other products.
@@ -13,11 +15,11 @@ This module is designed to help you explore where your food comes from and how a
     A. Watch about three hours total of shows or documentaries related to agriculture or farming. Then do the following:
         1. Make a list of at least five questions or ideas from the show(s) you watched.
         2. Discuss two of the questions or ideas with your counselor.
-        {{#note type="counselor"}}Some examples include—but are not limited to—shows found on PBS (“America’s Heartland,” “America Revealed,” “NOVA”), Discovery Channel, Science Channel, National Geographic Channel, History Channel, TED Talks (online videos), or “Good Eats” on the Food Network. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s supervision; appropriate websites include https://www.americasheartland.org/ and https://www.neok12.com/Agriculture.htm{{/note}}
+        Some examples include—but are not limited to—shows found on PBS (“America’s Heartland,” “America Revealed,” “NOVA”), Discovery Channel, Science Channel, National Geographic Channel, History Channel, TED Talks (online videos), or “Good Eats” on the Food Network. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision; appropriate websites include www.americasheartland.org and www.neok12.com/Agriculture.htm
     B. Read (about three hours total) about anything related to agriculture or farming. Then do the following:
         1. Make a list of at least five questions or ideas from each article.
         2. Discuss two of the questions or ideas with your counselor.
-        {{#note type="counselor"}}Books on these topics may be found at your local library. Examples of magazines include—but are not limited to—Odyssey, Kids Discover, National Geographic Kids, Highlights, and Owl.{{/note}}
+        Books on these topics may be found at your local library. Examples of magazines include—but are not limited to—Odyssey, Kids Discover, National Geographic Kids, Highlights, and Owl.
     C. Do a combination of reading and watching (about three hours total). Then do the following:
         1. Make a list of at least five questions or ideas from each article or show.
         2. Discuss two of the questions or ideas with your counselor.
@@ -48,10 +50,10 @@ This module is designed to help you explore where your food comes from and how a
         4. Converting biomass into energy
         5. STEM careers in agriculture (food science, plant science, farming, agricultural engineering)
     C. Do an “agriscience” experiment and discuss the results with your counselor. Examples of experiments include—but are not limited to—the following:
-        1. Grow different types of seeds and compare the seedling plants. Use fast-growing seeds such as carrots, castor beans, lima beans, onions, radishes, soybeans, or tomatoes.
-        2. Select and study a specific growing variable such as the type of liquid used to water a seed, the type of light, the growing temperature, or the soil type.  (Examples of growing studies can be found at https://www.sciencekids.co.nz/projects/plants.html.)
-        3. People often think of microorganisms as germs, but many of the ones found in soil are good for agriculture. How can plants grow in soil if no microorganisms are present? Search the internet—with your parent’s permission—and find an experiment that can be done to test the effect of microorganisms. Then perform the experiment.
-4. Visit a farm, botanical garden, grocery store, or any other location where farm produce can be found. If a visit is not possible, you can do a virtual tour online with your parent’s permission and counselor’s approval.
+        1. Grow different types of seeds and compare the seedling plants. Use fastgrowing seeds such as carrots, castor beans, lima beans, onions, radishes, soybeans, or tomatoes.
+        2. Select and study a specific growing variable such as the type of liquid used to water a seed, the type of light, the growing temperature, or the soil type. (Examples of growing studies can be found at www.sciencekids.co.nz/projects/plants.html .)
+        3. People often think of microorganisms as germs, but many of the ones found in soil are good for agriculture. How can plants grow in soil if no microorganisms are present? Search the internet—with your parent’s or guardian’s permission—and find an experiment that can be done to test the effect of microorganisms. Then perform the experiment.
+4. Visit a farm, botanical garden, grocery store, or any other location where farm produce can be found. If a visit is not possible, you can do a virtual tour online with your parent’s or guardian’s permission and counselor’s approval.
     A. During your visit, talk with someone in charge about how the plants are grown or animals are raised, and how the food is processed.
     B. Discuss with your counselor the food science involved at the place you visited.
 5. Discuss with your counselor how farming affects your everyday life.

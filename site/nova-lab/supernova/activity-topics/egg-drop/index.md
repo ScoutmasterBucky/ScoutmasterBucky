@@ -1,6 +1,8 @@
 ---
 title: "Design and Redesign: Egg Drop Contest"
 layout: nova
+hiddenNotes:
+    - Removed resources whose links are dead
 ---
 
 {{> nova-activity-topic }}

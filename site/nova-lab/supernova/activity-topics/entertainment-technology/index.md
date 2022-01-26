@@ -33,7 +33,7 @@ In either case, describe the special effects you would use to create each elemen
 2. The sequence of special events and how everything goes together in the end. Do as many of the parts of the photo or video yourself as possible and describe what would best be done by highly trained and/or educated professionals.
 {{/requirements}}
 
-The elements of the video/photo that you created must be planned and implemented using the highest safety protocols. Have your mentor examine your plan and suggest improvements. Your mentor must approve it before you get started. Create a report that shows your understanding of special effects and how they might be applied to the photo or video that you envisioned.
+The elements of the video/photo that you created must be planned and implemented using the highest safety protocols. Have your mentor examineyour plan and suggest improvements. Your mentor must approve it before you get started. Create a report that shows your understanding of special effects and how they might be applied to the photo or video that you envisioned.
 
 ### Resources
 
