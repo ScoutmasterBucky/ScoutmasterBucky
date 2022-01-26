@@ -33,7 +33,7 @@ Present to your mentor your recorded data in a tabular format as well as a graph
 4. Share the flight records and data you have gathered with your mentor. Discuss what you have learned.
 {{/requirements}}
 
-Source: The idea for this activity is based on the work of Andrew Olson, Ph.D., Science Buddies, What Makes a Good Aerodynamic Design? Test Your Ideas with High-Performance Paper Gliders. Visit https://www.sciencebuddies.org/science-fair-projects/project-ideas/Aero_p009/aerodynamics-hydrodynamics/what-makes-a-good-aerodynamic-design-paper-gliders.
+Source: The idea for this activity is based on the work of Andrew Olson, Ph.D., Science Buddies, What Makes a Good Aerodynamic Design? Test Your Ideas with High-Performance Paper Gliders. Visit www.sciencebuddies.org/science-fair-projects/project_ideas/Aero_p009.shtml.
 
 ### Resources
 

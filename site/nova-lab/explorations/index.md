@@ -1,6 +1,7 @@
 ---
 title: Venturing and Sea Scouts Explorations
 layout: nova-req
+explorationsPage: true
 ---
 
 The following requirements apply to any specific STEM field of interest chosen by a Venturer or Sea Scout in the course of completing a Nova or Supernova award.
@@ -10,10 +11,12 @@ The following requirements apply to any specific STEM field of interest chosen b
 {{>nova-venturing-exploration-topics}}
 
 ### Safety Considerations
+
 Discuss with your mentor the following safety issues in the field of interest you have chosen.
 
 * The kinds of hazards (to humans, to the environment, to animals) that might occur while engaged in activities in this field
-* Appropriate safety precautions to help minimize these risks • Whether it is necessary to obtain training in safety protocols in this field
+* Appropriate safety precautions to help minimize these risks
+* Whether it is necessary to obtain training in safety protocols in this field
 * The agencies or organizations that can provide such training
 * What it would take to be a certified safety specialist or safety trainer in this field
 
@@ -36,11 +39,11 @@ Do ONE of the following.
 
 ### Hands-On Experiences
 
-In consultation with your counselor and, if necessary, a consultant who is a specialist in this field, identify four hands-on activities that are examples of work done in this field that you could carry out yourself. Each activity should engage your attention and efforts for approximately three hours.  Under the supervision of appropriate specialists and observing the highest standards of safety, carry out all four activities.  Discuss with your counselor what you learned during each activity. Examples include—but are not limited to—conducting experiments, building models, designing tools, drawing plans, learning how to use tools, and serving as an assistant/apprentice to a specialist.
+In consultation with your counselor and, if necessary, a consultant who is a specialist in this field, identify four hands-on activities that are examples of work done in this field that you could carry out yourself. Each activity should engage your attention and efforts for approximately three hours. Under the supervision of appropriate specialists and observing the highest standards of safety, carry out all four activities. Discuss with your counselor what you learned during each activity. Examples include—but are not limited to—conducting experiments, building models, designing tools, drawing plans, learning how to use tools, and serving as an assistant/apprentice to a specialist.
 
 ### Career Exploration
 
-Find out about three career opportunities in this field.  Communicate to your counselor the training, education, and experience that are needed for each career.
+Find out about three career opportunities in this field. Communicate to your counselor the training, education, and experience that are needed for each career.
 
 ### Value and Impact
 

@@ -10,7 +10,7 @@ hiddenNotes:
 This award explores the world of fluid dynamics, and how it affects your everyday life. Fluid dynamics is the study of how fluids (liquids, gases, and plasmas) behave and interact with other materials.
 
 {{#requirements}}
-1. Choose A or B or C and complete ALL of the requirements.
+1. Choose A *or* B *or* C and complete ALL of the requirements.
     A. Watch not less than three hours total of shows or documentaries that discuss fluid dynamics or a show related to fluid dynamics. Then do the following:
         (1) Make a list of at least five questions or ideas from the show(s) you watched.
         (2) Discuss two of the questions with or ideas with your counselor.
@@ -32,7 +32,7 @@ This award explores the world of fluid dynamics, and how it affects your everyda
     * Rowing
     * Scuba Diving
     * Swimming
-3. Complete two activities from A or B or C or D. Complete all of the items under each activity.
+3. Complete two activities from A *or* B *or* C *or* D. Complete all of the items under each activity.
     A. Conduct a Terminal Velocity Investigation.
         1. With your counselor, fill an empty tennis ball tube, or other clear plastic tube at least 12" tall, with clear corn syrup.
         2. Drop two round objects with the same diameter but different masses into the syrup (example: a steel ball and a glass marble).
@@ -56,7 +56,7 @@ This award explores the world of fluid dynamics, and how it affects your everyda
         3. Using a fan or hair dryer, direct a flow of fast-moving air across the airfoil and observe how high it lifts off from the testing apparatus. Use a ruler marked with centimeters to measure results. Repeat changing the test parameters, e.g., how fast the air flows, the direction of the air flow, etc.
         4. Research the Bernoulli Effect and have a discussion about how this phenomenon applies to your observations of the airfoils.
         5. Discuss the results with your counselor.
-4. Complete one of the following A or B or C.
+4. Complete one of the following A *or* B *or* C.
     A. Visit an iFLY Indoor Skydiving wind tunnel facility or other BSA approved indoor skydiving wind tunnel and participate in a STEM Education program. Discuss the STEM concepts related to the tunnel with your counselor.
     B. Visit an observatory, research facility, or a museum that highlights flight, aviation, or space. During your visit, talk to a docent or staff member about flight and fluid dynamics concepts covered at the site. Discuss what you learned with your counselor.
     C. Take a real or online tour of a wind tunnel facility. A real tour may be obtained by contacting a local university that offers a degree in aerospace engineering or similar field. Virtual tours could include, but are not limited to, NASA wind tunnel facility tours: https://www.youtube.com/watch?v=bpRc9I8LMXo and https://www.nasa.gov/imagefeature/hypersonic-tunnel-facility. Discuss with your counselor the science and engineering concepts associated with the facility, e.g., what are the parts of a wind tunnel, what a wind tunnel is used for, what are the advantages of testing with a wind tunnel, how precise are they, etc.

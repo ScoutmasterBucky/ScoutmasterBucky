@@ -2,7 +2,7 @@
 nova: next-big-thing
 program: scouts-bsa
 layout: nova-req
-lastUpdate: '2019-04'
+lastUpdate: October 2020
 ---
 
 This award explores the world of product design, which involves balancing time, cost, and quality to create something new, usually a product that will be sold to consumers or other businesses.
@@ -18,6 +18,7 @@ This award explores the world of product design, which involves balancing time, 
     C. Do a combination of reading and watching, not less than three hours total. Then do the following:
         1. Make a list of at least five questions or ideas from the articles you read or the shows you watched.
         2. Discuss two of the questions or ideas with your counselor.
+    Some examples include—but are not limited to—shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel.  You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision.
 2. Complete ONE merit badge from the following list. (Choose one that you have not already used for another Nova award.) Discuss with your counselor how the merit badge you earned relates to product design.
     * {{#trim}}{{>badge-link badge="american-business"}}{{/trim}}
     * {{#trim}}{{>badge-link badge="architecture"}}{{/trim}}
@@ -34,7 +35,7 @@ This award explores the world of product design, which involves balancing time, 
     B. Research prototyping methods
         Find and explain the differences between a “works-like” and “looks-like” prototype. Learn the reasons and applications where one method would be chosen over the other. Research different ways and costs of having a product professionally prototyped. Explore the reasons why one method would be chosen over another. Discuss and explain your findings with your counselor
     C. Market research
-        Research and understand the terms: market size, business plan, value proposition, elevator pitch, cost-effective design, and ethnographic research - specifically in reference to product design. Discuss with your counselor what these terms mean and why they are important for a product designer to understand, and how they affect the design of a product.
+        Research and understand the terms: market size, business plan, value proposition, elevator pitch, cost-effective design, and ethnographic research specifically in reference to product design. Discuss with your counselor what these terms mean and why they are important for a product designer to understand, and how they affect the design of a product.
     D. Practice brainstorming
         Examine different brainstorming methods. Choose a product you have used or a situation you have experienced. Using one method you found, brainstorm various ways to improve the product or situation. You do not have to brainstorm designs, just ways to improve the design. Present your list to your counselor and discuss.
     E. Learn about and practice “Painstorming”
