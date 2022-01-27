@@ -4,8 +4,8 @@ layout: smb
 opportunities: 14,050+
 online: 1,335+
 news:
-    - Registration for January opportunities is OPEN!
-    - Kick off the new year with Mrs Scoutmaster Bucky Scrap and Stamp Day January 8, 2022 (sign up below)
+    - Updated the Nova award requirements with latest changes, which were mostly cosmetic.
+    - Register now for February's [in-person event](#2022-02-19-merit-badge-day.md)!
 css:
     - css/calendar.css
 js:
