@@ -50,5 +50,5 @@ For Webelos and Arrow of Light Scouts
     b. Learn about a career that depends on knowledge about science, technology, engineering, or mathematics. Discuss what you learned with your mentor.
 8. Under the direct supervision of your mentor, do an experiment that shows how the scientific method (or scientific process) is used. Prepare a short report on the results of your experiment for your mentor.
 9. Participate in a Nova- or other STEM-related activity in your Webelos Scout den or pack meeting that is conducted by a Scout, Venturer, or Sea Scout who is working on his or her Supernova award. If this is not possible, participate in another Nova- or STEM-related activity in your den or pack meeting.
-10. Submit an application for the Webelos Scout Supernova award PDF icon to the district STEM or advancement committee for approval.
+10. Submit an [application for the Webelos Scout Supernova award](https://filestore.scouting.org/filestore/STEM/pdf/SupernovaApplication.pdf) to the district STEM or advancement committee for approval.
 {{/requirements}}
