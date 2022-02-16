@@ -13,10 +13,10 @@ requirements: true
     {{#note type="inPerson" type2="online"}}Scouts should review this requirement and its components and be ready to demonstrate their fulfillment of this requirement in the class.{{/note}}
 3. Sound 10 of the following bugle calls: "First Call," "Reveille," "Assembly," "Mess," "Drill," "Fatigue," "Officers," "Recall," "Church," "Swimming," "Fire," "Retreat," "To the Colors," "Call to Quarters," and "Taps."
     {{#note type="inPerson" type2="online"}}Scouts should begin practicing these bugle calls immediately so that during the class they may make the most of their time with the counselor. Scouts should not expect to become proficient during the class on any of these bugle calls. Preparation and practice are a MUST.{{/note}}
-    <img src="first-call.png" class="W(100%)" />
-    <div class="D(f) Jc(c)"><a href="first-call.mp3">Listen to First Call</a></div>
-    <img src="revelle.png" class="W(100%)" />
-    <div class="D(f) Jc(c)"><a href="revelle.mp3">Listen to Revelle</a></div>
+    <img src="workbook/first-call.png" class="W(100%)" />
+    <div class="D(f) Jc(c)"><a href="workbook/first-call.mp3">Listen to First Call</a></div>
+    <img src="workbook/revelle.png" class="W(100%)" />
+    <div class="D(f) Jc(c)"><a href="workbook/revelle.mp3">Listen to Revelle</a></div>
     <img src="workbook/assembly.png" class="W(100%)" />
     <div class="D(f) Jc(c)"><a href="workbook/assembly.mp3">Listen to Assembly</a></div>
     <img src="workbook/mess.png" class="W(100%)" />
