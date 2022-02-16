@@ -19,7 +19,7 @@ whatToBring:
     (b) Show how to adjust the eyepiece and how to focus for proper viewing.
     (c) Show how to properly care for and clean the lenses.
     (d) Describe when and where each type of viewing device would be most effective.
-    {{#note type="inPerson" type2="online"}}Scouts usually complete this requirement in the class but should come prepared having read the information in the merit badge pamphlet booklet on this requirement. Scouts who do not do the preparation reading and are unable to demonstrate (show) the above aspects of the requirement may not be signed off on this requirement.{{/note}}
+    {{#note type="inPerson" type2="online"}}Scouts will need to procure one of the three items listed in this requirement and bring it with them to the class. Scouts usually complete this requirement in the class but should come prepared having read the information in the merit badge pamphlet on this requirement. Scouts who do not do the preparation reading and are unable to demonstrate (show) the above aspects of the requirement may not be signed off on this requirement.{{/note}}
 4. Demonstrate that you know how to use a bird field guide. Show your counselor that you are able to understand a range map by locating in the book and pointing out the wintering range, the breeding range, and/or the year-round range of one species of each of the following types of birds:
     (a) Seabird
     (b) Plover
@@ -28,7 +28,8 @@ whatToBring:
     (e) Heron or egret
     (f) Sparrow
     (g) Nonnative bird (introduced to North America from a foreign country since 1800)
-    {{#note type="inPerson" type2="online"}}This requirement will be covered during the class, however it must be noted that preparation by reading the merit badge pamphlet is a MUST for this requirement, but still does not guarantee completion, as Scouts will need to demonstrate a competency level for this requirement to the counselor / instructor. Having done preparation work by thoroughly reading the merit badge pamphlet prior to the class will ensure a higher chance of completion of this requirement for Scouts.{{/note}}
+    {{#note type="inPerson"}}This requirement will be covered during the class, however it must be noted that preparation by reading the merit badge pamphlet is a MUST for this requirement, but still does not guarantee completion, as Scouts will need to demonstrate a competency level for this requirement to the counselor / instructor. Having done preparation work by thoroughly reading the merit badge pamphlet prior to the class will ensure a higher chance of completion of this requirement for Scouts.{{/note}}
+    {{#note type="online"}}This requirement will be covered during the class, however it must be noted that preparation by reading the merit badge pamphlet is a MUST for this requirement, but still does not guarantee completion, as Scouts will need to demonstrate a competency level for this requirement to the counselor / instructor. Scouts will need to bring their own field guide to the class for completing this requirement. Having done preparation work by thoroughly reading the merit badge pamphlet prior to the class will ensure a higher chance of completion of this requirement for Scouts.{{/note}}
 5. Observe and be able to identify at least 20 species of wild birds. Prepare a field notebook, making a separate entry for each species, and record the following information from your field observations and other references.
     (a) Note the date and time.
     (b) Note the location and habitat.
@@ -60,7 +61,7 @@ whatToBring:
         (2) Tell your counselor which species are most common, and explain why these birds are abundant.
         (3) Tell your counselor which species are uncommon, and explain why these were present in small numbers. If the number of birds of these species is decreasing, explain why, and what, if anything, could be done to reverse their decline.
     {{#note type="inPerson"}}Scouts will complete requirement 8A as a part of this class. Completion of this requirement will be based on active participation during the class and successful completion of the requirements as written in this requirement.{{/note}}
-    {{#note type="online"}}Scouts will need to work on this requirement prior to the class as this requirement will not be done during the class.  However, Scouts will have an opportunity to share any work they have completed prior to the class during the online session.  Please remember that completion of requrement must be done to the satisfaction of the merit badge counselor / instructor and their interpretation of successful completion of the requirements as written in this requirement. Be Preapred!{{/note}}
+    {{#note type="online"}}Scouts will need to work on this requirement prior to the class as this requirement will NOT be done during the class.  However, Scouts will have an opportunity to share any work they have completed prior to the class during the online session.  Please remember that completion of requrement must be done to the satisfaction of the merit badge counselor / instructor and their interpretation of successful completion of the requirements as written in this requirement. Be Preapred!{{/note}}
 9. Do ONE of the following. For the option you choose, describe what birds you hope to attract, and why.
     (a) Build a bird feeder and put it in an appropriate place in your yard or another location.
     (b) Build a birdbath and put it in an appropriate place.

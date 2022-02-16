@@ -1,21 +1,21 @@
 ---
 host: Scoutmaster Bucky
-title: February Merit Badge Day
-eventDateStart: 2022-02-19 08:00
-eventDateEnd: 2022-02-19 16:00
+title: March Merit Badge Day
+eventDateStart: 2022-03-12 08:00
+eventDateEnd: 2022-03-12 16:00
 location:
-    - Guardian Angels Catholic Church
-    - 8260 4th Street North
-    - Oakdale, Minnesota 55128
+    - Normandale Hylands Methodist Church
+    - 9920 Normandale Boulevard
+    - Bloomington, Minnesota 55437
 meritBadge: true
 # These are for the dates in the merit badge classes
-amStart: 2022-02-19 08:00
-amEnd: 2022-02-19 11:30
-pmStart: 2022-02-19 12:30
-pmEnd: 2022-02-19 16:00
-MidDayStart: 2022-02-19 10:00
-MidDayEnd: 2022-02-19 14:30
-onSaleDate: 2022-01-02 0:05
+amStart: 2022-03-12 08:00
+amEnd: 2022-03-12 11:30
+pmStart: 2022-03-12 12:30
+pmEnd: 2022-03-12 16:00
+MidDayStart: 2022-03-12 10:00
+MidDayEnd: 2022-03-12 14:30
+onSaleDate: 2022-02-01 0:05
 ---
 ### Morning Classes
 
