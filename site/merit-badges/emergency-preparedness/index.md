@@ -17,19 +17,11 @@ requirements: true
         Include in your discussion the kinds of questions that are important to ask yourself as you consider each of these.
         {{#note type="inPerson" type2="online"}}Scouts must review the merit badge pamphlet to gain an initial understanding of the concepts for this requirement.  Scouts will discuss in a group with the counselor their findings and should come prepared with questions that might be important to ask in the consideration of each of these components of the requirement.  It is recommended that Scouts utilize a Merit Badge Workbook to write down and formulate their thoughts and questions as it pertains to this requirement prior to the class so that they are prepared for discussion during the class.  It will be difficult, if not impossible for Scouts who do not prepare for this requirement to complete the requirement without active participation in the group discussion at the class.{{/note}}
     (b) Using a chart, graph, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 2a (prevention, protection, mitigation, response, and recovery) for 10 emergency situations from the list below. **You must use the first five situations listed below in boldface,** plus any other five of your choice. Discuss your findings with your counselor.
-<<<<<<< HEAD
-        **(1) Home kitchen fire**
-        **(2) Home basement/storage room/garage fire**
-        **(3) Explosion in the home**
-        **(4) Automobile crash**
-        **(5) Food-borne disease (food poisoning)**
-=======
         (1) **Home kitchen fire**
         (2) **Home basement/storage room/garage fire**
         (3) **Explosion in the home**
         (4) **Automobile crash**
         (5) **Food-borne disease (food poisoning)**
->>>>>>> e26538368cf664199d5e41e1c481fd25e34f570a
         (6) Fire or explosion in a public place
         (7) Vehicle stalled in the desert
         (8) Vehicle trapped in a blizzard
