@@ -2,7 +2,7 @@
     "type": "object",
     "properties": {
         "caption": {
-            "description": "Markdown",
+            "description": "Vanilla markdown",
             "type": "string"
         },
         "lines": {

@@ -1,6 +1,3 @@
-- inPerson: true
-  note: |-
-      {{>safety-warning-generic}}
 - requirement: 1
   text: |-
       Do the following:
@@ -11,7 +8,7 @@
             while participating in woodwork activities, and what you should do
             to anticipate, help prevent, mitigate, and respond to these
             hazards. Explain what precautions you should take to safely use
-            your tools."
+            your tools.
         workbook:
             - lines: 8
       - requirement: b
@@ -31,7 +28,8 @@
             - lines: 3
               caption: Precautions
         children:
-            - online: true
+            - display:
+                - online
               note: |-
                   Scouts will need to be prepared to "show" their first aid
                   knowledge and skill for woodworking related injuries during
@@ -42,8 +40,9 @@
         workbook:
             - signature: Adult Leader
         children:
-            - inPerson: true
-              online: true
+            - display:
+                - inPerson
+                - online
               note: |-
                   Scouts must complete ahead of time their Totin' Chip
                   requirements and bring their current and up-to-date Totin'
@@ -66,7 +65,8 @@
             Collect and label blocks of six kinds of wood useful in
             woodworking. Describe the chief qualities of each. Give the best
             uses of each.
-      - online: true
+      - display:
+          - online
         note: |-
             The counselor/instructor will facilitate discussion on thie
             requirement component, however Scouts must collect up their own
@@ -81,7 +81,8 @@
             Show the proper care, use, and storage of all working tools and
             equipment that you own or use at home or school.
         children:
-            - online: true
+            - display:
+                - online
               note: |-
                   This requirment component is not one that can be done
                   quickly, as there are a lot of tools and equipment a
@@ -95,13 +96,15 @@
         text: |-
             Sharpen correctly the cutting edges of two different tools.
         children:
-            - inPerson: true
+            - display:
+                - inPerson
               note: |-
                   While this requirement will be covered in the class, Scouts
                   should still prepare with an understanding of the sharpening
                   process nad methods by reviewing the merit badge pamphlet and
                   being prepared to share their findings with the counselor.
-            - online: true
+            - display:
+                - online
               note: |-
                   This requirement component should NOT be done without proper
                   adult supervision and guidance. The online class will only
@@ -116,11 +119,13 @@
       wood. Cut parts from lumber that you have squared and measured from
       working drawings.
   children:
-      - inPerson: true
+      - display:
+          - inPerson
         note: |-
             The materials and tools for this requirement will be provided by
             the merit badge counselor and worked on as a part of this class.
-      - online: true
+      - display:
+          - online
         note: |-
             This requirement will not be done as a part of the online class,
             and any project work done should be done with proper adult
@@ -138,7 +143,8 @@
       your project. Keep track of the time you spend and the cost of the
       materials.
   children:
-      - inPerson: true
+      - display:
+          - inPerson
         note: |-
             The counselor will provide some project work along with the
             materials and tools to work on this requirement during the class.
@@ -165,7 +171,8 @@
       - requirement: e
         text: |-
             Help make wooden toys for underprivileged children; OR help carry out a woodworking service project approved by your counselor for a charitable organization.
-      - inPerson: true
+      - display:
+          - inPerson
         note: |-
             The counselor has put together a plan including materials and tools
             for Scouts to use for working on this requirement in the class.

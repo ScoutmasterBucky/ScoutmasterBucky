@@ -87,7 +87,9 @@ module.exports = {
             sssThmBd: "#062a5e", // Theme-colored border
             sssThmTx: "#062a5e", // Theme-color text
 
-            smbReqP: "1em",
+            requirementIndent: "32px",
+            requirementGap: "6px",
+            smbReqP: "1em", // Same as requirementGap, but should deprecate and remove
             wbBdw: "1px",
             wbLh: "1.2em",
             wbMt: "-1px",
