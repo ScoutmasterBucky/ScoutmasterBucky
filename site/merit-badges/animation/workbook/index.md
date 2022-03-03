@@ -25,7 +25,7 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3a" requirement="Plan your animation using thumbnail sketches and/or layout drawings."}}
+{{#wb-req item="3a" requirement="Plan your animation using thumbnail sketches and/or layout drawings either on paper or using an animation software program.."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -41,7 +41,7 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4a" requirement="Tour an animation studio or a business where animation is used, either in person, via video, or via the Internet. Share what you have learned with your counselor."}}
+{{#wb-req item="4a" requirement="Tour an animation studio or a business where animation is used, either in person, via video, or via the internet. Share what you have learned with your counselor."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

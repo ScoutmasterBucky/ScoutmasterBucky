@@ -25,6 +25,10 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
+{{#wb-req item="1e" requirement="Explain what is a library card, why it is needed, and how to get one."}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
 {{#wb-req item="2" requirement="Do EACH of the following:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
@@ -37,11 +41,11 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3" requirement="Read four different types of books, such as poetry, fiction, nonfiction, or biographies. Do any ONE of the following for each book you have read:"}}
+{{#wb-req item="3" requirement="Read four different types of books, such as poetry, fiction, nonfiction, or biographies. Do any one of the following for each book you have read:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3a" requirement="Write a review of the book. Include what you liked/didn't like about the book. Include if you would recommend this book, and if so, who might enjoy reading it."}}
+{{#wb-req item="3a" requirement="Write a review of the book. Include what you liked/didn't like about the book. Include whether you would recommend this book, and if so, who might enjoy reading it."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -53,11 +57,11 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4" requirement="Read a nonfiction book or magazine that teaches you how to do something like cooking, wood-building projects, video game design, science experiments, knot-tying, etc. With your counselor's and parent's or guardian's permission, complete a project from the book. Share your experience with your merit badge counselor. Reading a merit badge pamphlet will not count toward completing this requirement."}}
+{{#wb-req item="4" requirement="Read a nonfiction book or magazine that teaches you how to do something like cooking, wood-building projects, video game design, science experiments, knot-tying, etc. With your counselor's and parent's permission, complete a project from the book. Share your experience with your merit badge counselor. Reading a merit badge pamphlet will not count toward completing this requirement."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5" requirement="Read about the world around you from any two sources: books, magazines, newspapers, the internet (with your parent's or guardian's permission), field manuals, etc. Topics may include Scouting, sports, environmental problems, politics, social issues, current events, nature, religion, etc. Discuss what you have learned with your counselor."}}
+{{#wb-req item="5" requirement="Read about the world around you from any two sources: books, magazines, newspapers, the internet (with your parent's/guardian's permission), field manuals, etc. Topics may include Scouting, sports, environmental problems, politics, social issues, current events, nature, religion, etc. Discuss what you have learned with your counselor."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
