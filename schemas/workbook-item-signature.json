@@ -1,0 +1,10 @@
+{
+    "type": "object",
+    "properties": {
+        "signature": {
+            "type": "string"
+        }
+    },
+    "additionalProperties": false,
+    "required": ["signature"]
+}

@@ -1,0 +1,14 @@
+{
+    "type": "object",
+    "properties": {
+        "caption": {
+            "description": "Markdown",
+            "type": "string"
+        },
+        "lines": {
+            "type": "number"
+        }
+    },
+    "additionalProperties": false,
+    "required": ["lines"]
+}
