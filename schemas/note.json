@@ -2,17 +2,18 @@
     "description": "Note",
     "type": "object",
     "properties": {
-        "inPerson": {
-            "type": "boolean"
-        },
-        "online": {
-            "type": "boolean"
+        "display": {
+            "type": "array",
+            "items": {
+                "type": "string",
+                "enum": ["online", "inPerson"]
+            }
         },
         "note": {
-            "description": "Markdown",
+            "description": "Vanilla markdown",
             "type": "string"
         }
     },
     "additionalProperties": false,
-    "required": ["note"]
+    "required": ["display", "note"]
 }

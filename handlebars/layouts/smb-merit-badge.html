@@ -57,9 +57,16 @@
 
 {{#smb-transform-elements}}
 
-{{#if @root.requirements}}{{>smb-merit-badge-heading-requirements}}{{/if}}
+{{#if @root.data.requirements}}
 
+{{>smb-merit-badge-requirements}}
+
+{{else if @root.requirements}}
+{{>smb-merit-badge-heading-requirements}}
 {{{contents}}}
+{{else}}
+{{{contents}}}
+{{/if}}
 
 {{/smb-transform-elements}}
 

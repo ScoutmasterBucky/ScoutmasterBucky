@@ -88,6 +88,7 @@ metalsmithSite.run({
             for (const [filename, fileObj] of Object.entries(files)) {
                 if (fileObj.data && fileObj.data.requirements) {
                     validateOrThrow(fileObj.data.requirements, '/requirement-list.json');
+                    augmentRequirements(fileObj.data.requirements);
                 }
             }
 
@@ -227,5 +228,19 @@ function validateOrThrow(data, schemaPath) {
 
     if (!isValid) {
         throw new Error(JSON.stringify(tv4.error, null, 4));
+    }
+}
+
+function augmentRequirements(obj, parents) {
+    if (!parents) {
+        parents = [];
+    }
+
+    for (const item of obj) {
+        item.parents = parents;
+
+        if (item.children) {
+            augmentRequirements(item.children, [...parents, item.requirement]);
+        }
     }
 }
