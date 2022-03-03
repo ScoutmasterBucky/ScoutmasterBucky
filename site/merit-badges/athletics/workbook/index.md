@@ -15,7 +15,7 @@ If meeting any of the requirements for this merit badge is against the Scout's r
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="1b" requirement="Show that you know first aid for injuries or illnesses that could occur while participating in athletics events, including sprains, strains, contusions, abrasions, blisters, dehydration, and heat reactions."}}
+{{#wb-req item="1b" requirement="Show that you know first aid for injuries or illnesses that could occur while participating in athletics events, including sprains, strains, contusions, abrasions, blisters, dehydration, heat reactions, and concussions."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -55,7 +55,7 @@ If meeting any of the requirements for this merit badge is against the Scout's r
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3d" requirement="At the end of four months, review the chart you created for requirement 3b, and discuss with your counselor what progress you have made during training. Tell how your development has affected you mentally and physically."}}
+{{#wb-req item="3d" requirement="At the end of three months, review the chart you created for requirement 3b, and discuss with your counselor what progress you have made during training. Tell how your development has affected you mentally and physically."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

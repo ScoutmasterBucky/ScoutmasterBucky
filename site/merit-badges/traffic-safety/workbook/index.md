@@ -17,7 +17,7 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="1c" requirement="Describe at least four factors to be considered in the design of a road or highway. Explain how roadside hazards and road conditions contribute to the occurrence and seriousness of traffic crashes."}}
+{{#wb-req item="1c" requirement="Explain why new drivers are a significantly higher risk of being involved in a collision than other drivers and name three (3) steps you can take that will reduce this risk."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -29,7 +29,7 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2a" requirement="Demonstrate how to properly wear a lap or shoulder belt . Explain why it is important for drivers and passengers to wear safety belts at all times."}}
+{{#wb-req item="2a" requirement="Demonstrate how to wear a lap and shoulder belt properly. Explain why it is important for the driver and all passengers to wear their seat belts."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -41,15 +41,15 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3a" requirement="Using your family car or another vehicle, demonstrate that all lights and lighting systems in the vehicle are working. Describe the function and explain why each type of light is important to safe driving."}}
+{{#wb-req item="3a" requirement="Using a vehicle that you have access to, demonstrate that all marker lights, parking lights, brake lights, turn signals, and headlights are clear and operational. Explain when you would use these lights, where the switches are to operate these lights, and how these lights contribute to safe and courteous driving."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3b" requirement="Using your family car or another vehicle, demonstrate how to check tire pressure and identify the correct tire pressure for the vehicle. Explain why proper tire pressure is important to safe driving."}}
+{{#wb-req item="3b" requirement="Using a vehicle that you have access to, demonstrate how to check the vehicle's tire pressure and where to locate the correct tire pressure rating. Explain why proper tire pressure is important to the safe operation and fuel economy of the vehicle."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3c" requirement="Demonstrate a method to check for adequate tire tread. Explain why proper tire tread is important to safe driving."}}
+{{#wb-req item="3c" requirement="Explain why proper tire tread depth is important to safe driving. On the same vehicle you checked the tire pressure on, demonstrate a method to check for adequate tread depth."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -65,7 +65,7 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4b" requirement="Describe the difference in nighttime visibility between a properly lit bicycle and rider (or a pedestrian) wearing reflective material and a bicycle and rider with no lights (or a pedestrian) dressed in dark clothing, without reflective material."}}
+{{#wb-req item="4b" requirement="As a driver, describe the difference in nighttime visibility between a properly lit bicycle and rider (or a pedestrian) wearing reflective material and a bicycle and rider with no lights (or a pedestrian) dressed in dark clothing, without reflective material."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -85,14 +85,10 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5b" requirement="Using the internet (with your parent's permission), visit five websites that cover safe driving for teenagers. Then, in a group session with at least three teenagers and your counselor, discuss what you have learned."}}
+{{#wb-req item="5b" requirement="Write a personal traffic safety pledge, addressing three of your most concerning issues relating to traffic safety. Show your pledge to your merit badge counselor and discuss your commitment to traffic safety."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
 {{#wb-req item="5c" requirement="Initiate and organize an activity or event to demonstrate the importance of traffic safety."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="5d" requirement="Accompanied by an adult and a buddy, pick a safe place to observe traffic at a controlled intersection (traffic signal or stop sign) on three separate days and at three different times of the day, for 30 minutes on each visit. At this intersection, survey violations that might occur. These violations might include (but are not limited to) running a red light or stop sign, speeding, using a cell phone while driving, or occupants not wearing their seat belts. Count the number of violations. Record in general terms the approximate age of the people you observed. Keep track of the total number of vehicles observed so that you can determine the percentage of compliance vs. violations. Discuss your findings with your merit badge counselor."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
