@@ -1,0 +1,10 @@
+{
+    "oneOf": [
+        {
+            "$ref": "./workbook-item-lines.json"
+        },
+        {
+            "$ref": "./workbook-item-signature.json"
+        }
+    ]
+}

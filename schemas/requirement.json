@@ -1,0 +1,28 @@
+{
+    "descrption": "Requirement",
+    "type": "object",
+    "properties": {
+        "children": {
+            "$ref": "./requirement-list.json"
+        },
+        "requirement": {
+            "oneOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "number"
+                }
+            ]
+        },
+        "text": {
+            "type": "string"
+        },
+        "workbook": {
+            "type": "array",
+            "items": "./requirement-workbook-item.json"
+        }
+    },
+    "additionalProperties": false,
+    "required": ["requirement", "text"]
+}

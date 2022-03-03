@@ -1,0 +1,18 @@
+{
+    "description": "Note",
+    "type": "object",
+    "properties": {
+        "inPerson": {
+            "type": "boolean"
+        },
+        "online": {
+            "type": "boolean"
+        },
+        "note": {
+            "description": "Markdown",
+            "type": "string"
+        }
+    },
+    "additionalProperties": false,
+    "required": ["note"]
+}

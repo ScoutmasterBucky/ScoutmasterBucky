@@ -1,11 +1,27 @@
+const fs = require('fs');
 const metalsmithSite = require('@fidian/metalsmith-site');
 const os = require('os');
-let lastFiles = null;  // For PDF generation
+const path = require('path');
+const tv4 = require('tv4');
+const wkhtmltopdf = require("wkhtmltopdf");
+
+// For PDF generation
+const pdfCache = {};
+let lastFiles = null;
+
+// Load schemas to validata data. This is not recursive
+const schemaFolder = path.resolve(__dirname, 'schemas');
+for (fn of fs.readdirSync(schemaFolder)) {
+    if (fn.match(/^[^.]/) && fn.match(/\.json$/)) {
+        const resolvedFilename = path.resolve(schemaFolder, fn);
+        tv4.addSchema(`/${fn}`, JSON.parse(fs.readFileSync(resolvedFilename, 'utf8')));
+    }
+}
 
 metalsmithSite.run({
     baseDirectory: __dirname,
     buildAfter: (sugar) => {
-        if (!process.env.SERVE) {
+        if (process.env.MINIFY) {
             sugar.use('metalsmith-babel', {
                 presets: ["@babel/preset-env"]
             });
@@ -61,6 +77,22 @@ metalsmithSite.run({
             files['404.md'].rootPath = '/';
             done();
         });
+
+        // Verify all data against schemas
+        sugar.use((files, metalsmith, done) => {
+            // Just do default metadata once
+            validateOrThrow(files['404.md'].meritBadges, '/merit-badges.json');
+            validateOrThrow(files['404.md'].novaAwards, '/nova-awards.json');
+            validateOrThrow(files['404.md'].supernovaAwards, '/supernova-awards.json');
+
+            for (const [filename, fileObj] of Object.entries(files)) {
+                if (fileObj.data && fileObj.data.requirements) {
+                    validateOrThrow(fileObj.data.requirements, '/requirement-list.json');
+                }
+            }
+
+            done();
+        });
     },
     postProcess: (done) => {
         generatePdfs(lastFiles, (e) => {
@@ -80,10 +112,6 @@ metalsmithSite.run({
         console.error(err);
     }
 });
-
-const pdfCache = {};
-const path = require("path");
-const wkhtmltopdf = require("wkhtmltopdf");
 
 function generatePdfs(files, done) {
     let list = [];
@@ -187,5 +215,17 @@ function generatePdfs(files, done) {
             running -= 1;
             processPdf();
         });
+    }
+}
+
+function validateOrThrow(data, schemaPath) {
+    const isValid = tv4.validate(data, schemaPath);
+
+    if (tv4.missing && tv4.missing.length) {
+        throw new Error(`Missing schemas: ${tv4.missing}`);
+    }
+
+    if (!isValid) {
+        throw new Error(JSON.stringify(tv4.error, null, 4));
     }
 }
