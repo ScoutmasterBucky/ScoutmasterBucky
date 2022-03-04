@@ -110,7 +110,7 @@ metalsmithSite.run({
     }
 }, err => {
     if (err) {
-        console.error(err);
+        console.error(`${err}`);
     }
 });
 
@@ -227,10 +227,21 @@ function validateOrThrow(dataPath, data, schemaPath) {
     }
 
     if (!isValid) {
+        const copy = JSON.parse(JSON.stringify(tv4.error));
+        cleanseError(copy);
         throw new Error(`Error in data file: ${dataPath}
-Message: ${tv4.error.message}
-Data Path: ${tv4.error.dataPath}
-Schema Path: ${tv4.error.schemaPath}`);
+${JSON.stringify(copy, null, 4)}`);
+    }
+}
+
+function cleanseError(obj) {
+    delete obj.code;
+    delete obj.stack;
+
+    if (obj.subErrors) {
+        for (const child of obj.subErrors) {
+            cleanseError(child);
+        }
     }
 }
 
