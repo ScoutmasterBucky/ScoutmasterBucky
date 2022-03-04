@@ -1,0 +1,125 @@
+- requirement: 1
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain to your counselor the hazards you are most likely to
+            encounter while participating in wilderness survival activities,
+            and what you should do to anticipate, help prevent, mitigate, or
+            lessen these hazards.
+        workbook:
+          - lines: 8
+      - requirement: b
+        text: |-
+            Show that you know first aid for and how to prevent injuries or
+            illnesses that could occur in backcountry settings, including
+            hypothermia, heat reactions, frostbite, dehydration, blisters,
+            insect stings, tick bites, and snakebites.
+        workbook:
+          - lines: 8
+- requirement: 2
+  text: |-
+      From memory, list the seven priorities for survival in a backcountry or
+      wilderness location. Explain the importance of each one with your
+      counselor.
+  workbook:
+    - lines: 8
+- requirement: 3
+  text: |-
+      Discuss ways to avoid panic and maintain a high level of morale when
+      lost, and explain why this is important.
+  workbook:
+    - lines: 8
+- requirement: 4
+  text: |-
+      Describe the steps you would take to survive in the following exposure conditions:
+  children:
+      - requirement: a
+        text: |-
+            Cold and snowy
+        workbook:
+          - lines: 4
+      - requirement: b
+        text: |-
+            Wet
+        workbook:
+          - lines: 4
+      - requirement: c
+        text: |-
+            Hot and dry
+        workbook:
+          - lines: 4
+      - requirement: d
+        text: |-
+            Windy
+        workbook:
+          - lines: 4
+      - requirement: e
+        text: |-
+            At or on the water
+        workbook:
+          - lines: 4
+- requirement: 5
+  text: |-
+      Put together a personal survival kit and explain how each item in it
+      could be useful.
+  workbook:
+    - lines: 8
+- requirement: 6
+  text: |-
+      Using three different methods (other than matches), build and light three
+      fires.
+  workbook:
+    - lines: 8
+- requirement: 7
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Show five different ways to attract attention when lost.
+        workbook:
+          - lines: 8
+      - requirement: b
+        text: |-
+            Demonstrate how to use a signal mirror.
+        workbook:
+          - lines: 8
+      - requirement: c
+        text: |-
+            Describe from memory five ground-to-air signals and tell what they
+            mean.
+        workbook:
+          - lines: 8
+- requirement: 8
+  text: |-
+      Improvise a natural shelter. For the purpose of this demonstration, use
+      techniques that have little negative impact on the environment. Spend a
+      night in your shelter.
+  workbook:
+    - gridLines: 8
+- requirement: 9
+  text: |-
+      Explain how to protect yourself from insects, reptiles, bears, and other
+      animals of the local region.
+  workbook:
+    - lines: 8
+- requirement: 10
+  text: |-
+      Demonstrate three ways to treat water found in the outdoors to prepare it
+      for drinking.
+  workbook:
+    - lines: 8
+- requirement: 11
+  text: |-
+      Show that you know the proper clothing to wear while in the outdoors
+      during extremely hot and cold weather and during wet conditions.
+  workbook:
+    - lines: 8
+- requirement: 12
+  text: |-
+      Explain why it usually is not wise to eat edible wild plants or wildlife
+      in a wilderness survival situation.
+  workbook:
+    - lines: 8
