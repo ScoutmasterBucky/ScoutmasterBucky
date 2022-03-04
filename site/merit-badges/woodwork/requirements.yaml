@@ -10,7 +10,21 @@
             hazards. Explain what precautions you should take to safely use
             your tools.
         workbook:
-            - lines: 8
+            - lines: 3
+              text: |-
+                  Anticipate hazards
+            - lines: 3
+              text: |-
+                  Prevent hazards
+            - lines: 3
+              text: |-
+                  Mitigate hazards
+            - lines: 3
+              text: |-
+                  Lessen hazards
+            - lines: 3
+              text: |-
+                  Precautions to take for safely using your tools
       - requirement: b
         text: |-
             Show that you know first aid for injuries that could occur while
@@ -28,9 +42,9 @@
             - lines: 3
               text: Precautions
         children:
-            - display:
-                - online
-              note: |-
+            - note:
+                  - online
+              text: |-
                   Scouts will need to be prepared to "show" their first aid
                   knowledge and skill for woodworking related injuries during
                   the class.
@@ -41,10 +55,10 @@
             - signature: Adult Leader
               checkbox: Approved
         children:
-            - display:
-                - inPerson
-                - online
-              note: |-
+            - note:
+                  - inPerson
+                  - online
+              text: |-
                   Scouts must complete ahead of time their Totin' Chip
                   requirements and bring their current and up-to-date Totin'
                   Chip Card with them to class. It is not acceptable to just
@@ -63,16 +77,35 @@
             lumber is cured, seasoned, graded, and sized.
         workbook:
             - lines: 8
+              text: |-
+                  How timber is grown, harvested, and milled.
+            - lines: 8
+              text: |-
+                  How lumber is cured, seasoned, graded, and sized.
       - requirement: b
         text: |-
             Collect and label blocks of six kinds of wood useful in
             woodworking. Describe the chief qualities of each. Give the best
             uses of each.
         workbook:
-            - lines: 8
-      - display:
-          - online
-        note: |-
+            - lines: 3
+              text: |-
+                  Type of wood, its chief qualities, and best uses.
+            - lines: 3
+              text: |-
+                  Type of wood, its chief qualities, and best uses.
+            - lines: 3
+              text: |-
+                  Type of wood, its chief qualities, and best uses.
+            - lines: 3
+              text: |-
+                  Type of wood, its chief qualities, and best uses.
+            - lines: 3
+              text: |-
+                  Type of wood, its chief qualities, and best uses.
+      - note:
+            - online
+        text: |-
             The counselor/instructor will facilitate discussion on thie
             requirement component, however Scouts must collect up their own
             wood blocks and be prepared to show that they have identified the
@@ -88,9 +121,9 @@
         workbook:
             - lines: 8
         children:
-            - display:
-                - online
-              note: |-
+            - note:
+                  - online
+              text: |-
                   This requirment component is not one that can be done
                   quickly, as there are a lot of tools and equipment a
                   woodworker might use and that are found in most households.
@@ -105,16 +138,16 @@
         workbook:
             - lines: 8
         children:
-            - display:
-                - inPerson
-              note: |-
+            - note:
+                  - inPerson
+              text: |-
                   While this requirement will be covered in the class, Scouts
                   should still prepare with an understanding of the sharpening
                   process nad methods by reviewing the merit badge pamphlet and
                   being prepared to share their findings with the counselor.
-            - display:
-                - online
-              note: |-
+            - note:
+                  - online
+              text: |-
                   This requirement component should NOT be done without proper
                   adult supervision and guidance. The online class will only
                   provide for instruction on how to work on this requirement
@@ -130,14 +163,14 @@
   workbook:
       - lines: 8
   children:
-      - display:
-          - inPerson
-        note: |-
+      - note:
+            - inPerson
+        text: |-
             The materials and tools for this requirement will be provided by
             the merit badge counselor and worked on as a part of this class.
-      - display:
-          - online
-        note: |-
+      - note:
+            - online
+        text: |-
             This requirement will not be done as a part of the online class,
             and any project work done should be done with proper adult
             supervision and guidance. While the counselor/intructor can share
@@ -155,10 +188,13 @@
       materials.
   workbook:
       - gridHeight: 8
+      - lines: 2
+        text: |-
+            Time spent and cost of the materials
   children:
-      - display:
-          - inPerson
-        note: |-
+      - note:
+            - inPerson
+        text: |-
             The counselor will provide some project work along with the
             materials and tools to work on this requirement during the class.
 - requirement: 6
@@ -196,9 +232,9 @@
             Help make wooden toys for underprivileged children; OR help carry out a woodworking service project approved by your counselor for a charitable organization.
         workbook:
             - lines: 8
-      - display:
-          - inPerson
-        note: |-
+      - note:
+            - inPerson
+        text: |-
             The counselor has put together a plan including materials and tools
             for Scouts to use for working on this requirement in the class.
             Most of the time in the class will be spent working on the

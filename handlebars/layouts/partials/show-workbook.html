@@ -1,7 +1,8 @@
 {{#requirements}}
 
-{{#if workbook}}
-<div class="Bi(av) Pbi(av) Lh(wblh)">
+{{#if workbookHide}}
+{{else if requirement}}
+<div class="Bi(av) Pbi(av) Lh(wbLh) Mt(1em)">
 
 {{>workbook-requirement}}
 {{#workbook}}
@@ -13,12 +14,6 @@
 {{>workbook-grid}}
 {{/if}}
 {{/workbook}}
-
-</div>
-{{else if requirement}}
-<div class="Bi(av) Pbi(av) Lh(wblh)">
-
-{{>workbook-requirement}}
 
 </div>
 {{/if}}

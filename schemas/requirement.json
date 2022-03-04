@@ -21,7 +21,12 @@
         },
         "workbook": {
             "type": "array",
-            "items": "./requirement-workbook-item.json"
+            "items": {
+                "$ref": "./workbook-item.json"
+            }
+        },
+        "workbookHide": {
+            "type": "boolean"
         }
     },
     "additionalProperties": false,
