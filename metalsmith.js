@@ -81,13 +81,13 @@ metalsmithSite.run({
         // Verify all data against schemas
         sugar.use((files, metalsmith, done) => {
             // Just do default metadata once
-            validateOrThrow(files['404.md'].meritBadges, '/merit-badges.json');
-            validateOrThrow(files['404.md'].novaAwards, '/nova-awards.json');
-            validateOrThrow(files['404.md'].supernovaAwards, '/supernova-awards.json');
+            validateOrThrow('default-metadata.js', files['404.md'].meritBadges, '/merit-badges.json');
+            validateOrThrow('default-metadata.js', files['404.md'].novaAwards, '/nova-awards.json');
+            validateOrThrow('default-metadata.js', files['404.md'].supernovaAwards, '/supernova-awards.json');
 
             for (const [filename, fileObj] of Object.entries(files)) {
                 if (fileObj.data && fileObj.data.requirements) {
-                    validateOrThrow(fileObj.data.requirements, '/requirement-list.json');
+                    validateOrThrow(filename, fileObj.data.requirements, '/requirement-list.json');
                     augmentRequirements(fileObj.data.requirements, []);
                 }
             }
@@ -219,7 +219,7 @@ function generatePdfs(files, done) {
     }
 }
 
-function validateOrThrow(data, schemaPath) {
+function validateOrThrow(dataPath, data, schemaPath) {
     const isValid = tv4.validate(data, schemaPath);
 
     if (tv4.missing && tv4.missing.length) {
@@ -227,7 +227,10 @@ function validateOrThrow(data, schemaPath) {
     }
 
     if (!isValid) {
-        throw new Error(JSON.stringify(tv4.error, null, 4));
+        throw new Error(`Error in data file: ${dataPath}
+Message: ${tv4.error.message}
+Data Path: ${tv4.error.dataPath}
+Schema Path: ${tv4.error.schemaPath}`);
     }
 }
 
