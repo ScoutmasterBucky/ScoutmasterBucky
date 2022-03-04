@@ -87,6 +87,10 @@ module.exports = {
             sssThmBd: "#062a5e", // Theme-colored border
             sssThmTx: "#062a5e", // Theme-color text
 
+            ruledBg: "linear-gradient(to bottom, transparent 21px, #bbb 21px, #bbb 22px, transparent 22px)",
+            ruledBgSize: "100% 26px",
+            gridBg: "linear-gradient(to right, transparent 35px, #bbb 35px, #bbb 36px, transparent 36px), linear-gradient(to bottom, transparent 35px, #bbb 35px, #bbb 36px, transparent 36px)",
+            gridBgSize: "38px 38px",
             requirementIndent: "32px",
             requirementGap: "6px",
             smbReqP: "1em", // Same as requirementGap, but should deprecate and remove

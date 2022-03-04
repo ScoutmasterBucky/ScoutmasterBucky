@@ -1,0 +1,28 @@
+{{#requirements}}
+
+{{#if workbook}}
+<div class="Bi(av) Pbi(av) Lh(wblh)">
+
+{{>workbook-requirement}}
+{{#workbook}}
+{{#if lines}}
+{{>workbook-lines}}
+{{else if signature}}
+{{>workbook-signature}}
+{{else if gridHeight}}
+{{>workbook-grid}}
+{{/if}}
+{{/workbook}}
+
+</div>
+{{else if requirement}}
+<div class="Bi(av) Pbi(av) Lh(wblh)">
+
+{{>workbook-requirement}}
+
+</div>
+{{/if}}
+
+{{#if children}}{{>show-workbook requirements=children}}{{/if}}
+{{/requirements}}
+

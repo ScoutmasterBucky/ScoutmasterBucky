@@ -5,10 +5,10 @@
             "description": "Vanilla markdown",
             "type": "string"
         },
-        "lines": {
+        "gridHeight": {
             "type": "number"
         }
     },
     "additionalProperties": false,
-    "required": ["lines"]
+    "required": ["gridHeight"]
 }
