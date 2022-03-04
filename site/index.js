@@ -23,12 +23,12 @@ function toggleClass(ele, findClass, toggleClass) {
 }
 
 function eventTime(fromStr, toStr) {
-    var from = new Date(fromStr);
-    var to = new Date(toStr);
-    offset = from.getTimezoneOffset();
-    offsetSign = offset > 0 ? "-" : "+";
-    offsetHours = Math.floor(Math.abs(offset) / 60);
-    offsetMin = Math.abs(offset) % 60;
+    const from = new Date(fromStr);
+    const to = new Date(toStr);
+    const offset = from.getTimezoneOffset();
+    const offsetSign = offset > 0 ? "-" : "+";
+    let offsetHours = Math.floor(Math.abs(offset) / 60);
+    let offsetMin = Math.abs(offset) % 60;
 
     if (offsetMin < 10) {
         offsetMin = "0" + offsetMin;
@@ -38,7 +38,7 @@ function eventTime(fromStr, toStr) {
         offsetHours = "0" + offsetHours;
     }
 
-    offsetStr = offsetSign + offsetHours + ":" + offsetMin;
+    const offsetStr = offsetSign + offsetHours + ":" + offsetMin;
 
     if (offsetStr !== fromStr.substr(fromStr.length - 6)) {
         writeTime(from, to);
@@ -57,7 +57,7 @@ function onSaleDate(dateStr) {
 }
 
 function writeTime(from, to) {
-    output = '<div class="Ta(c) Fw(b)">In your timezone:<br>';
+    let output = '<div class="Ta(c) Fw(b)">In your timezone:<br>';
 
     if (isSameDay(from, to)) {
         output += getTimeOfDay(from) + " - " + getTimeOfDay(to);
