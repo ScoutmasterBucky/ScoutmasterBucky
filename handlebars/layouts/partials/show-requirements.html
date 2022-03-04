@@ -6,8 +6,13 @@
 <div class="W(requirementIndent) Fxs(0)"></div>
 {{/parents}}
 
-{{#if requirement}}{{>requirement-requirement}}{{/if}}
-{{#if note}}{{>requirement-note}}{{/if}}
+{{#if requirement}}
+{{>requirement-requirement}}
+{{else if note}}
+{{>requirement-note}}
+{{else if callout}}
+{{>requirement-callout}}
+{{/if}}
 
 </div>
 

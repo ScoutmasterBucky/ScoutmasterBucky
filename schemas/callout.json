@@ -1,0 +1,15 @@
+{
+    "description": "Callout text",
+    "type": "object",
+    "properties": {
+        "callout": {
+            "type": "boolean"
+        },
+        "text": {
+            "description": "Vanilla markdown",
+            "type": "string"
+        }
+    },
+    "additionalProperties": false,
+    "required": ["callout", "text"]
+}
