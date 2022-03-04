@@ -23,7 +23,7 @@ function setNotesToggles(name, skipLocationUpdate) {
     for (i = 0; i < elems.length; i += 1) {
         var cl = elems[i].classList;
 
-        for (className of cl) {
+        for (const className of cl) {
             if (className.match(/^notesToggles-/)) {
                 cl.remove(className);
             }
