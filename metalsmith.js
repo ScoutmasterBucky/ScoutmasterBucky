@@ -88,7 +88,7 @@ metalsmithSite.run({
             for (const [filename, fileObj] of Object.entries(files)) {
                 if (fileObj.data && fileObj.data.requirements) {
                     validateOrThrow(fileObj.data.requirements, '/requirement-list.json');
-                    augmentRequirements(fileObj.data.requirements);
+                    augmentRequirements(fileObj.data.requirements, []);
                 }
             }
 
@@ -231,16 +231,26 @@ function validateOrThrow(data, schemaPath) {
     }
 }
 
-function augmentRequirements(obj, parents) {
-    if (!parents) {
-        parents = [];
-    }
-
-    for (const item of obj) {
+function augmentRequirements(arr, parents) {
+    for (const item of arr) {
         item.parents = parents;
 
         if (item.children) {
-            augmentRequirements(item.children, [...parents, item.requirement]);
+            augmentRequirements(item.children, [...parents, item]);
         }
+
+        if (item.workbook) {
+            augmentWorkbook(item.workbook);
+        }
+    }
+}
+
+let idNum = 0;
+
+function augmentWorkbook(arr) {
+    for (const item of arr) {
+        // Give each a unique ID for wkhtmltopdf picks up the form field
+        idNum += 1;
+        item.id = `wb_${idNum}`;
     }
 }

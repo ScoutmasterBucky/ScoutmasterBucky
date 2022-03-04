@@ -20,13 +20,13 @@
             use a dust mask.
         workbook:
             - lines: 3
-              caption: Splinters, scratches, cuts
+              text: Splinters, scratches, cuts
             - lines: 3
-              caption: Severe bleeding
+              text: Severe bleeding
             - lines: 3
-              caption: Shock
+              text: Shock
             - lines: 3
-              caption: Precautions
+              text: Precautions
         children:
             - display:
                 - online
@@ -39,6 +39,7 @@
             Earn the Totin’ Chip recognition.
         workbook:
             - signature: Adult Leader
+              checkbox: Approved
         children:
             - display:
                 - inPerson
@@ -60,11 +61,15 @@
         text: |-
             Describe how timber is grown, harvested, and milled. Tell how
             lumber is cured, seasoned, graded, and sized.
+        workbook:
+            - lines: 8
       - requirement: b
         text: |-
             Collect and label blocks of six kinds of wood useful in
             woodworking. Describe the chief qualities of each. Give the best
             uses of each.
+        workbook:
+            - lines: 8
       - display:
           - online
         note: |-
@@ -80,6 +85,8 @@
         text: |-
             Show the proper care, use, and storage of all working tools and
             equipment that you own or use at home or school.
+        workbook:
+            - lines: 8
         children:
             - display:
                 - online
@@ -95,6 +102,8 @@
       - requirement: b
         text: |-
             Sharpen correctly the cutting edges of two different tools.
+        workbook:
+            - lines: 8
         children:
             - display:
                 - inPerson
@@ -118,6 +127,8 @@
       Using a saw, plane, hammer, brace, and bit, make something useful of
       wood. Cut parts from lumber that you have squared and measured from
       working drawings.
+  workbook:
+      - lines: 8
   children:
       - display:
           - inPerson
@@ -142,6 +153,8 @@
       list the materials you will need to complete your project, and then build
       your project. Keep track of the time you spend and the cost of the
       materials.
+  workbook:
+      - gridHeight: 8
   children:
       - display:
           - inPerson
@@ -151,26 +164,38 @@
 - requirement: 6
   text: |-
       Do any TWO of the following:
+  workbook:
+      - lines: 8
   children:
       - requirement: a
         text: |-
             Make working drawings of a project needing beveled or rounded edges
             and build it.
+        workbook:
+            - gridHeight: 8
       - requirement: b
         text: |-
             Make working drawings of a project needing curved or incised
             cuttings and build it.
+        workbook:
+            - gridHeight: 8
       - requirement: c
         text: |-
             Make working drawings of a project needing miter, dowel, or mortise
             and tenon joints and build it.
+        workbook:
+            - gridHeight: 8
       - requirement: d
         text: |-
             Make a cabinet, box, or something else with a door or lid fastened
             with inset hinges.
+        workbook:
+            - gridHeight: 8
       - requirement: e
         text: |-
             Help make wooden toys for underprivileged children; OR help carry out a woodworking service project approved by your counselor for a charitable organization.
+        workbook:
+            - lines: 8
       - display:
           - inPerson
         note: |-
@@ -183,3 +208,5 @@
       Talk with a cabinetmaker or finish carpenter. Learn about training,
       apprenticeships, career opportunities, work conditions, work hours, pay
       rates, and union organization that woodworking experts have in your area.
+  workbook:
+      - lines: 8

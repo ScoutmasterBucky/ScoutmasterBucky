@@ -39,7 +39,7 @@
                     <div class="Bdw(0.25em) Bdc(red) Bgc(smbAccBg) P(1em)">
                         <div class="Mb(1em) Ta(c) Fz(22px) D(n)--p">Type your work on this page or download the <a href="{{badge}}-workbook.pdf">{{>badge-name badge=badge}} Workbook PDF</a>.</div>
 
-                        <p>Consider also using the {{>badge-name badge=badge}} merit badge class preparation page for clarification and expections when participating in a Scoutmaster Bucky merit badge opportunity (online or in-person).</p>
+                        <p>Consider also using the {{>badge-name badge=badge}} merit badge class preparation page for clarification and expections when participating in a Scoutmaster Bucky merit badge opportunity (<a href="../?notes=online">online</a> or <a href="../?notes=inPerson">in-person</a>).</p>
                         <p class="Ta(c)"><a href="{{@root.site.url}}merit-badges/{{badge}}/">{{@root.site.url}}merit-badges/{{badge}}/</a></p>
                     </div>
 
@@ -58,9 +58,11 @@
 {{#smb-transform-elements}}
 
 {{#if @root.data.requirements}}
-
+{{#if workbook}}
+{{>smb-merit-badge-workbook}}
+{{else}}
 {{>smb-merit-badge-requirements}}
-
+{{/if}}
 {{else if @root.requirements}}
 {{>smb-merit-badge-heading-requirements}}
 {{{contents}}}

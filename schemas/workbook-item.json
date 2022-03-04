@@ -1,6 +1,9 @@
 {
     "oneOf": [
         {
+            "$ref": "./workbook-item-grid.json"
+        },
+        {
             "$ref": "./workbook-item-lines.json"
         },
         {
