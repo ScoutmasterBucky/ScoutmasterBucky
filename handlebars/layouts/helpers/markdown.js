@@ -1,3 +1,7 @@
+const marked = require('marked');
+
 module.exports = function (obj) {
-    return obj.fn(this);
+    const content = obj.fn(this);
+
+    return marked.parse(content);
 };
