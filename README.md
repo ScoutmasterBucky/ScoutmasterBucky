@@ -82,6 +82,16 @@ Event files can have the following metadata.
 * `eventBriteEventId` - For the generation of the registration link. Used for online events only.
 
 
+Text and Markdown
+-----------------
+
+Text is used for many "Requirement List Items" and "Workbook List Items". There is typically a `text` property and a `markdown` property. The `markdown` property defaults to false, which means `text` is plain text or HTML. When `markdown` is true, then `text` is interpreted as markdown.
+
+Another important note is that you can include as many lines of text as you want. The important thing is to make the YAML structured correctly, which heavily depends on the number of spaces at the beginning of the line.
+
+When a link is displayed in a workbook, that link needs to be absolute (`https://scoutmasterbucky.com/...`) otherwise the generated PDF will not have the right link. Images need to be root-relative (`/merit-badges/athletics/athletics-basketball-positions.gif`) otherwise the workbook page or the requirements page will not have the right image.
+
+
 Merit Badge Requirements
 ------------------------
 
@@ -93,14 +103,10 @@ The file is a list of these types of items - let's call them "Requirement List I
 * Note
 * Requirement
 
-**Information about `markdown` and `text`:** Throughout these structures, you can see examples where there's a `text` property and sometimes a `markdown` property. By default, `markdown` is false and `text` is treated as plain text or HTML. When `markdown` is true, then `text` is interpreted as markdown.
-
-Another important note is that you can include as many lines of text as you want. The important thing is to make the YAML structured correctly, which heavily depends on the number of spaces at the beginning of the line.
-
 
 ### Callout
 
-Adds text between requirements. Useful for headings, "OR" or "AND" lines, and the like.
+Adds text between requirements. Useful for headings, "OR" or "AND" lines, and the like. Does not show up on the workbook.
 
 ```
 - callout: true
