@@ -88,6 +88,22 @@
 - requirement: 4
   text: |-
       Describe the steps you would take to survive in the following exposure conditions:
+  workbook:
+      - lines: 2
+        text: |-
+            Cold and snowy
+      - lines: 2
+        text: |-
+            Wet
+      - lines: 2
+        text: |-
+            Hot and dry
+      - lines: 2
+        text: |-
+            Windy
+      - lines: 2
+        text: |-
+            At or on the water
   children:
       - requirement: a
         text: |-
@@ -109,22 +125,6 @@
         text: |-
             At or on the water
         workbookHide: true
-  workbook:
-      - lines: 2
-        text: |-
-            Cold and snowy
-      - lines: 2
-        text: |-
-            Wet
-      - lines: 2
-        text: |-
-            Hot and dry
-      - lines: 2
-        text: |-
-            Windy
-      - lines: 2
-        text: |-
-            At or on the water
 - requirement: 5
   text: |-
       Put together a personal survival kit and explain how each item in it

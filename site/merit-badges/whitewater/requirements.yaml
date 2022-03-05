@@ -153,6 +153,20 @@
       Before doing requirements 4 through 12, earn the Canoeing merit badge if
       you will be using a canoe to earn this merit badge. If you will be using a
       kayak, earn the Kayaking merit badge. Then do the following:
+  workbook:
+      - header: true
+        markdown: true
+        text: |-
+            a - If you will be using a canoe to earn this merit badge, demonstrate
+            strokes and maneuvers from the Canoeing merit badge to the satisfaction
+            of your merit badge counselor.
+
+            OR
+
+            b - If you will be using a kayak to earn this merit badge, demonstrate
+            strokes and maneuvers from the Kayaking merit badge to the satisfaction
+            of your merit badge counselor.
+      - lines: 8
   children:
       - requirement: a
         text: |-
@@ -169,20 +183,6 @@
             If you will be using a kayak to earn this merit badge, demonstrate
             strokes and maneuvers from the Kayaking merit badge to the
             satisfaction of your merit badge counselor.
-  workbook:
-      - header: true
-        markdown: true
-        text: |-
-            a - If you will be using a canoe to earn this merit badge, demonstrate
-            strokes and maneuvers from the Canoeing merit badge to the satisfaction
-            of your merit badge counselor.
-
-            OR
-
-            b - If you will be using a kayak to earn this merit badge, demonstrate
-            strokes and maneuvers from the Kayaking merit badge to the satisfaction
-            of your merit badge counselor.
-      - lines: 8
 - requirement: 4
   text: |-
       Do ONE of the following:
@@ -191,21 +191,6 @@
         text: |-
             If you are completing these requirements as a tandem canoeist,
             perform the following on calm water:
-        children:
-            - requirement: 1
-              text: |-
-                  Demonstrate the following strokes in the bow: cross forward,
-                  bow draw, cross bow draw, bow pry, and sculling draw.
-              workbookHide: true
-            - requirement: 2
-              text: |-
-                  Demonstrate the following strokes in the stern: stern draw,
-                  stern pry, sculling draw, and forward with stern pry.
-              workbookHide: true
-            - requirement: 3
-              text: |-
-                  Demonstrate a high brace, low brace, and righting pry.
-              workbookHide: true
         workbook:
             - header: true
               text: |-
@@ -221,6 +206,21 @@
               text: |-
                   3 - Demonstrate a high brace, low brace, and righting pry.
             - lines: 8
+        children:
+            - requirement: 1
+              text: |-
+                  Demonstrate the following strokes in the bow: cross forward,
+                  bow draw, cross bow draw, bow pry, and sculling draw.
+              workbookHide: true
+            - requirement: 2
+              text: |-
+                  Demonstrate the following strokes in the stern: stern draw,
+                  stern pry, sculling draw, and forward with stern pry.
+              workbookHide: true
+            - requirement: 3
+              text: |-
+                  Demonstrate a high brace, low brace, and righting pry.
+              workbookHide: true
       - callout: true
         text: |-
             OR
@@ -228,17 +228,6 @@
         text: |-
             If you are completing these requirements as a solo canoeist,
             perform the following on calm water:
-        children:
-            - requirement: 1
-              text: |-
-                  Demonstrate the following strokes: cross forward, bow draw,
-                  cross bow draw, stern draw, pry, stern pry, sculling draw,
-                  and forward with stern pry.
-              workbookHide: true
-            - requirement: 2
-              text: |-
-                  Demonstrate a high brace, low brace, and righting pry.
-              workbookHide: true
         workbook:
             - header: true
               text: |-
@@ -250,6 +239,17 @@
               text: |-
                   2 - Demonstrate a high brace, low brace, and righting pry.
             - lines: 8
+        children:
+            - requirement: 1
+              text: |-
+                  Demonstrate the following strokes: cross forward, bow draw,
+                  cross bow draw, stern draw, pry, stern pry, sculling draw,
+                  and forward with stern pry.
+              workbookHide: true
+            - requirement: 2
+              text: |-
+                  Demonstrate a high brace, low brace, and righting pry.
+              workbookHide: true
       - callout: true
         text: |-
             OR
@@ -257,16 +257,6 @@
         text: |-
             If you are completing these requirements as a solo kayaker, perform
             the following on calm water:
-        children:
-            - requirement: 1
-              text: |-
-                  Demonstrate the following strokes: bow draw, rudder, and
-                  sculling draw.
-              workbookHide: true
-            - requirement: 2
-              text: |-
-                  Demonstrate a high brace and low brace.
-              workbookHide: true
         workbook:
             - header: true
               text: |-
@@ -277,6 +267,16 @@
               text: |-
                   2 - Demonstrate a high brace and low brace.
             - lines: 8
+        children:
+            - requirement: 1
+              text: |-
+                  Demonstrate the following strokes: bow draw, rudder, and
+                  sculling draw.
+              workbookHide: true
+            - requirement: 2
+              text: |-
+                  Demonstrate a high brace and low brace.
+              workbookHide: true
 - requirement: 5
   text: |-
       Do the following:
@@ -312,6 +312,20 @@
 - requirement: 7
   text: |-
       Do ONE of the following:
+  workbook:
+      - header: true
+        markdown: true
+        text: |-
+            a - If completing this merit badge in a canoe, describe the various
+            types of canoes used on moving water and how they differ in design,
+            materials, and purpose.
+
+            OR
+
+            b - If completing this merit badge in a kayak, describe the various
+            types of kayaks used on moving water and explain how they differ in
+            design, materials, and purpose.
+      - lines: 8
   children:
       - requirement: a
         text: |-
@@ -328,20 +342,6 @@
             types of kayaks used on moving water and explain how they differ in
             design, materials, and purpose.
         workbookHide: true
-  workbook:
-      - header: true
-        markdown: true
-        text: |-
-            a - If completing this merit badge in a canoe, describe the various
-            types of canoes used on moving water and how they differ in design,
-            materials, and purpose.
-
-            OR
-
-            b - If completing this merit badge in a kayak, describe the various
-            types of kayaks used on moving water and explain how they differ in
-            design, materials, and purpose.
-      - lines: 8
 - requirement: 8
   text: |-
       Discuss the personal and group equipment necessary for a safe whitewater

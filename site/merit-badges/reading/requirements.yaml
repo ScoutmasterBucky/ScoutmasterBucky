@@ -80,6 +80,24 @@
   text: |-
       Read four different types of books, such as poetry, fiction, nonfiction,
       or biographies. Do any one of the following for each book you have read:
+  workbook:
+      - header: true
+        markdown: true
+        text: |-
+            a - Write a review of the book. Include what you liked/didn’t like
+            about the book. Include whether you would recommend this book, and
+            if so, who might enjoy reading it.
+
+            OR
+
+            b - Watch a movie based on the book. What was the same between the book
+            and movie? What was different?  Which did you enjoy more? Discuss
+            this with your merit badge counselor.
+
+            OR
+
+            c - Give a “book talk” to your class, troop, or patrol.
+      - lines: 8
   children:
       - requirement: a
         text: |-
@@ -106,24 +124,6 @@
             this requirement. Scouts should consider using this workbook or
             their own notebook to record their work easy reference when
             reviewing with the merit badge counselor.
-  workbook:
-      - header: true
-        markdown: true
-        text: |-
-            a - Write a review of the book. Include what you liked/didn’t like
-            about the book. Include whether you would recommend this book, and
-            if so, who might enjoy reading it.
-
-            OR
-
-            b - Watch a movie based on the book. What was the same between the book
-            and movie? What was different?  Which did you enjoy more? Discuss
-            this with your merit badge counselor.
-
-            OR
-
-            c - Give a “book talk” to your class, troop, or patrol.
-      - lines: 8
 - requirement: 4
   text: |-
       Read a nonfiction book or magazine that teaches you how to do something
@@ -132,6 +132,8 @@
       permission, complete a project from the book. Share your experience with
       your merit badge counselor. Reading a merit badge pamphlet will not count
       toward completing this requirement.
+  workbook:
+      - lines: 8
   children:
       - note:
             - inPerson
@@ -145,8 +147,6 @@
             satisfactorily show their completed project AND share their
             expereince will have an opportunity to be reviewed by the counselor
             for credit of completion.
-  workbook:
-      - lines: 8
 - requirement: 5
   text: |-
       Read about the world around you from any two sources: books, magazines,
@@ -154,6 +154,8 @@
       field manuals, etc. Topics may include Scouting, sports, environmental
       problems, politics, social issues, current events, nature, religion, etc.
       Discuss what you have learned with your counselor.
+  workbook:
+      - lines: 8
   children:
       - note:
             - inPerson
@@ -164,13 +166,37 @@
             documents they may have to help show the counselor that they have
             prepared for discussion of these items. A portion of the class will
             be devoted to open group discussion on each of the Scouts' readings.
-  workbook:
-      - lines: 8
 - requirement: 6
   text: |-
       With your counselor’s and parent’s or guardian’s permission, choose ONE
       of the following activities and devote at least four hours of service to
       that activity. Discuss your participation with your counselor.
+  workbook:
+      - header: true
+        markdown: true
+        text: |-
+            a - Read to a sick, blind, or homebound person in a hospital or in
+            an extended-care facility.
+
+            OR
+
+            b - Perform volunteer work at your school library or a public
+            library.
+
+            OR
+
+            c - Read stories to younger children, in a group or individually.
+
+            OR
+
+            d - Organize a book swap in your troop, school, or place of
+            worship.
+
+            OR
+
+            e - Organize a book drive to collect books. Donate them to an
+            organization in need.
+      - lines: 8
   children:
       - requirement: a
         text: |-
@@ -209,29 +235,3 @@
             accept/reject your chosen activity for completion of this merit
             badge requirement. It is best not to stray too far from the stated
             requirement.
-  workbook:
-      - header: true
-        markdown: true
-        text: |-
-            a - Read to a sick, blind, or homebound person in a hospital or in
-            an extended-care facility.
-
-            OR
-
-            b - Perform volunteer work at your school library or a public
-            library.
-
-            OR
-
-            c - Read stories to younger children, in a group or individually.
-
-            OR
-
-            d - Organize a book swap in your troop, school, or place of
-            worship.
-
-            OR
-
-            e - Organize a book drive to collect books. Donate them to an
-            organization in need.
-      - lines: 8
