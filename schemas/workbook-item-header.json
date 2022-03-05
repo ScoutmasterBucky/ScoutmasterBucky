@@ -5,10 +5,11 @@
             "type": "boolean"
         },
         "markdown": {
+            "description": "Controls if the text should be interpreted as markdown or not",
             "type": "boolean"
         },
         "text": {
-            "description": "Vanilla markdown",
+            "description": "Plain text, html, or vanilla markdown when the markdown flag is set",
             "type": "string"
         }
     },

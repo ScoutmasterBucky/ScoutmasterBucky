@@ -121,6 +121,8 @@ function generatePdfs(files, done) {
     Object.keys(files).forEach((filename) => {
         const file = files[filename];
 
+        // Filter out everything if WORKBOOKS isn't defined in the environment.
+        // Filter out files that don't have "workbook" set as metadata.
         if (!process.env.WORKBOOKS || !file.workbook) {
             return;
         }
