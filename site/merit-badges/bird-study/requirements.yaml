@@ -1,0 +1,496 @@
+- note:
+      - inPerson
+  text: |-
+      IT MUST BE NOTED THAT SOME REQUIREMENTS WILL TAKE PLACE OUTDOORS AND SCOUTS
+      SHOULD ATTEND WITH OUTDOOR APPAREL AND GEAR APPROPRIATE FOR THE TIME OF
+      YEAR AND FORECASTED WEATHER CONDITIONS. PLEASE ALSO NOTE ANY SPECIAL ITEMS
+      NEEDED FOR USE SPECIFIC TO THIS MERIT BADGE THAT SCOUTS SHOULD HAVE FOR THE
+      CLASS.
+- requirement: 1
+  text: |-
+      Explain the need for bird study and why birds are useful indicators of
+      the quality of the environment. Describe how birds are part of the
+      ecosystem.
+  workbook:
+      - lines: 8
+  children:
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts should prepare notes prior to attending, for use during the
+            class, as they will be required to partake in a classroom
+            discussion with other participants and the counselor / instructor
+            to fulfill this requirement.
+- requirement: 2
+  text: |-
+      Show that you are familiar with the terms used to describe birds by
+      sketching or tracing a perched bird and then labeling 15 different parts
+      of the bird.  Sketch or trace an extended wing and label six types of
+      wing feathers.
+  workbook:
+      - gridHeight: 8
+  children:
+      - note:
+            - inPerson
+            - online
+        text: |-
+            This requirement will be covered during the class, however Scouts
+            should prepare and make themselves familiar with the terms and
+            components of this requirement. Without this preparation and
+            reading (most of which is in the merit badge pamphlet) Scouts may
+            not be signed off on this requirement.
+- requirement: 3
+  text: |-
+      Demonstrate that you know how to properly use and care for binoculars, a
+      spotting scope, or a monocular.
+  workbook:
+      - lines: 8
+  children:
+      - requirement: a
+        text: |-
+            Explain what the specification numbers mean on binoculars, a
+            spotting scope, or a monocular.
+        workbook:
+            - lines: 4
+      - requirement: b
+        text: |-
+            Show how to adjust the eyepiece and how to focus for proper viewing.
+        workbook:
+            - lines: 4
+      - requirement: c
+        text: |-
+            Show how to properly care for and clean the lenses.
+        workbook:
+            - lines: 4
+      - requirement: d
+        text: |-
+            Describe when and where each type of viewing device would be most
+            effective.
+        workbook:
+            - lines: 4
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts will need to procure one of the three items listed in this
+            requirement and bring it with them to the class. Scouts usually
+            complete this requirement in the class but should come prepared
+            having read the information in the merit badge pamphlet on this
+            requirement. Scouts who do not do the preparation reading and are
+            unable to demonstrate (show) the above aspects of the requirement
+            may not be signed off on this requirement.
+- requirement: 4
+  text: |-
+      Demonstrate that you know how to use a bird field guide. Show your
+      counselor that you are able to understand a range map by locating in the
+      book and pointing out the wintering range, the breeding range, and/or the
+      year-round range of one species of each of the following types of birds:
+  workbook:
+      - lines: 4
+        text: |-
+            Seabird
+      - lines: 4
+        text: |-
+            Plover
+      - lines: 4
+        text: |-
+            Falcon or hawk
+      - lines: 4
+        text: |-
+            Warbler or vireo
+      - lines: 4
+        text: |-
+            Heron or egret
+      - lines: 4
+        text: |-
+            Sparrow
+      - lines: 4
+        text: |-
+            Nonnative bird (introduced to North America from a foreign country
+            since 1800)
+  children:
+      - requirement: a
+        text: |-
+            Seabird
+        workbookHide: true
+      - requirement: b
+        text: |-
+            Plover
+        workbookHide: true
+      - requirement: c
+        text: |-
+            Falcon or hawk
+        workbookHide: true
+      - requirement: d
+        text: |-
+            Warbler or vireo
+        workbookHide: true
+      - requirement: e
+        text: |-
+            Heron or egret
+        workbookHide: true
+      - requirement: f
+        text: |-
+            Sparrow
+        workbookHide: true
+      - requirement: g
+        text: |-
+            Nonnative bird (introduced to North America from a foreign country
+            since 1800)
+        workbookHide: true
+      - note:
+            - inPerson
+        text: |-
+            This requirement will be covered during the class, however it must
+            be noted that preparation by reading the merit badge pamphlet is a
+            MUST for this requirement, but still does not guarantee completion,
+            as Scouts will need to demonstrate a competency level for this
+            requirement to the counselor / instructor. Having done preparation
+            work by thoroughly reading the merit badge pamphlet prior to the
+            class will ensure a higher chance of completion of this requirement
+            for Scouts.
+      - note:
+            - online
+        text: |-
+            This requirement will be covered during the class, however it must
+            be noted that preparation by reading the merit badge pamphlet is a
+            MUST for this requirement, but still does not guarantee completion,
+            as Scouts will need to demonstrate a competency level for this
+            requirement to the counselor / instructor. Scouts will need to
+            bring their own field guide to the class for completing this
+            requirement. Having done preparation work by thoroughly reading the
+            merit badge pamphlet prior to the class will ensure a higher chance
+            of completion of this requirement for Scouts.
+- requirement: 5
+  text: |-
+      Observe and be able to identify at least 20 species of wild birds.
+      Prepare a field notebook, making a separate entry for each species, and
+      record the following information from your field observations and other
+      references.
+  workbook:
+      - header: true
+        markdown: true
+        text: |-
+            a - Note the date and time.
+
+            b - Note the location and habitat.
+
+            c - Describe the bird’s main feeding habitat and list two types of
+            food that the bird is likely to eat.
+
+            d - Note whether the bird is a migrant or a summer, winter, or
+            year-round resident of your area.
+      - header: true
+        markdown: true
+        text: |-
+            You may download the ***[Scoutmaster Bucky - Bird Study Field
+            Notebook](https://scoutmasterbucky.com/merit-badges/bird-study/scoutmaster-bucky-bird-study-merit-badge-field-notebook-booklet.pdf)***
+            to record your work for requirement 5 and 7. It has been designed
+            to help track your progress for these requirements.
+  children:
+      - requirement: a
+        text: |-
+            Note the date and time.
+        workbookHide: true
+      - requirement: b
+        text: |-
+            Note the location and habitat.
+        workbookHide: true
+      - requirement: c
+        text: |-
+            Describe the bird’s main feeding habitat and list two types of food
+            that the bird is likely to eat.
+        workbookHide: true
+      - requirement: d
+        text: |-
+            Note whether the bird is a migrant or a summer, winter, or
+            year-round resident of your area.
+        workbookHide: true
+      - note:
+            - inPerson
+            - online
+        markdown: true
+        text: |-
+            You may download the ***[Scoutmaster Bucky - Bird Study Field
+            Notebook](https://scoutmasterbucky.com/merit-badges/bird-study/scoutmaster-bucky-bird-study-merit-badge-field-notebook-booklet.pdf)***
+            to record your work for requirement 5 and 7. It has been designed
+            to help track your progress for these requirements.
+      - note:
+            - inPerson
+        markdown: true
+        text: |-
+            Scouts should have with them on the day of the class their notebook
+            and pencil or pen in order to record their observations. Time will
+            be given in the class to go outside and make observations. Scouts
+            may come to the class with up to 5 of these observations done that
+            can be reviewed with the counselor / instructor. Please note that
+            the 5 done prior to class will be accepted / rejected per the
+            counselor's / instructor's determination of how well the
+            requirements have been met.
+
+            This requirement may or may not be able to be completed during the
+            class. Completion of this requirement will be dependent upon
+            weather and time available for this requirement during the class
+            (which will be directly related to how well prepared participants
+            are for completing the other requirements during the class).
+      - note:
+            - online
+        markdown: true
+        text: |-
+            This requirement will need to be completed by the Scout
+            independently and may be done prior to or after the class.  It is
+            highly recommended that Scouts scan their work into a pdf or other
+            electronic format that can be easily provided or shared with the
+            counselor / instructor. Completion of this requirement should not
+            be assumed simply because the 20 observations are filled in and
+            accounted for, the counselor / instructor must be satisified and
+            acceptant of the work to to their intepretation of how well the
+            requirement has been met.
+
+            Scouts not having this requirement fully completed at the end of
+            the online class will have an opportunity to forward their work
+            after the class to Scoutmaster Bucky for consideration by the
+            counselor / instructor.  Information for this will be provided as a
+            part of the class when, and if, applicable.
+- requirement: 6
+  text: |-
+      Describe to your counselor how certain orders of birds are uniquely
+      adapted to a specific habitat. In your description, include
+      characteristics such as the size and shape of the following:
+  workbook:
+      - lines: 6
+  children:
+      - requirement: a
+        text: |-
+            Beak
+        workbook:
+            - lines: 6
+      - requirement: b
+        text: |-
+            Body
+        workbook:
+            - lines: 6
+      - requirement: c
+        text: |-
+            Leg and foot
+        workbook:
+            - lines: 6
+      - requirement: d
+        text: |-
+            Feathers/plumage
+        workbook:
+            - lines: 6
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts will find reading the Bird Study Merit Badge pamphlet ahead
+            of time will give them a thorough understanding of the components
+            of this requirement allowing them to be prepared for discussion in
+            the class. It is recommended that Scouts make notes ahead of time
+            to reference during the class discussion, which will offer them the
+            greatest opportunity for successful completion of this requirement
+            at the class.  Only those that come prepared and actively
+            participate in the class discussion will receive a sign off on this
+            requirement.
+- requirement: 7
+  text: |-
+      Explain the function of a bird’s song. Be able to identify five of the 20
+      species in your field notebook by song or call alone. For each of these
+      five species, enter a description of the song or call, and note the
+      behavior of the bird making the sound. Note why you think the bird was
+      making the call or song that you heard.
+  workbook:
+      - header: true
+        markdown: true
+        text: |-
+            You may download the ***[Scoutmaster Bucky - Bird Study Field
+            Notebook](../scoutmaster-bucky-bird-study-merit-badge-field-notebook-booklet.pdf)**
+            to record your work for requirement 5 and 7. It has been designed
+            to help track your progress for these requirements.
+  children:
+      - note:
+            - inPerson
+            - online
+        text: |-
+            You may download the ***[Scoutmaster Bucky - Bird Study Field
+            Notebook](scoutmaster-bucky-bird-study-merit-badge-field-notebook-booklet.pdf)**
+            to record your work for requirement 5 and 7. It has been designed
+            to help track your progress for these requirements.
+
+            Most parts of this requirement will be covered during the class, in
+            order to offer Scouts the best opportunity to complete this
+            requirement as a part of this class, not only should they prepare by
+            reading this requirement's section within the merit badge pamphlet,
+            but a small amount of additional research such as library books or
+            (with your parents' permission)] resources on the internet, could
+            prove very helpful in completing this requirement. Knowing the
+            songs/calls and their meanings for birds found most common and local
+            to Scouts will allow for a higher chance of completion.
+- requirement: 8
+  text: |-
+      Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            Go on a field trip with a local club or with others who are
+            knowledgeable about birds in your area.
+        workbook:
+            - header: true
+              text: |-
+                  Fulfill the requirements for 8 A or 8 B.
+        children:
+            - requirement: 1
+              text: |-
+                  Keep a list or fill out a checklist of all the birds your
+                  group observed during the field trip.
+              workbook:
+                  - lines: 8
+            - requirement: 2
+              text: |-
+                  Tell your counselor which birds your group saw and why some
+                  species were common and some were present in small numbers.
+              workbook:
+                  - lines: 8
+            - requirement: 3
+              text: |-
+                  Tell your counselor what makes the area you visited good for
+                  finding birds.
+              workbook:
+                  - lines: 8
+      - requirement: b
+        text: |-
+            By using a public library, the internet, or contacting the National
+            Audubon Society, find the name and location of the Christmas Bird
+            Count nearest your home and obtain the results of a recent count.
+        workbook:
+            - header: true
+              text: |-
+                  Fulfill the requirements for 8 A or 8 B.
+        children:
+            - requirement: 1
+              text: |-
+                  Explain what kinds of information are collected during the
+                  annual event.
+              workbook:
+                  - lines: 8
+            - requirement: 2
+              text: |-
+                  Tell your counselor which species are most common, and
+                  explain why these birds are abundant.
+              workbook:
+                  - lines: 8
+            - requirement: 3
+              text: |-
+                  Tell your counselor which species are uncommon, and explain
+                  why these were present in small numbers. If the number of
+                  birds of these species is decreasing, explain why, and what,
+                  if anything, could be done to reverse their decline.
+              workbook:
+                  - lines: 8
+      - note:
+            - inPerson
+        text: |-
+            Scouts will complete requirement 8A as a part of this class.
+            Completion of this requirement will be based on active
+            participation during the class and successful completion of the
+            requirements as written in this requirement.
+      - note:
+            - online
+        text: |-
+            Scouts will need to work on this requirement prior to the class as
+            this requirement will NOT be done during the class.  However,
+            Scouts will have an opportunity to share any work they have
+            completed prior to the class during the online session.  Please
+            remember that completion of requrement must be done to the
+            satisfaction of the merit badge counselor / instructor and their
+            interpretation of successful completion of the requirements as
+            written in this requirement. Be Preapred!
+- requirement: 9
+  text: |-
+      Do ONE of the following. For the option you choose, describe what birds
+      you hope to attract, and why.
+  children:
+      - requirement: a
+        text: |-
+            Build a bird feeder and put it in an appropriate place in your yard
+            or another location.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            Build a birdbath and put it in an appropriate place.
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            Build a backyard sanctuary for birds by planting trees and shrubs
+            for food and cover.
+        workbook:
+            - lines: 8
+      - note:
+            - online
+        text: |-
+            Scouts will build a bird feeder (requirement 9A) as a part of this
+            class (materials will be supplied at the class) and Scouts will be
+            able to complete this requirement within the class upon completion
+            of the bird feeder project and applying what they have learned and
+            observed in the previous requirements for this merit badge.
+      - note:
+            - online
+        text: |-
+            This requirement will not be done as a part of this online class.
+            Scouts will have an opportunity to share any work they have done in
+            preparation for the class on this requirement with the counselor /
+            instructor for consideration and potential sign off.  Scouts will
+            be provided follow up instructions from the counselor / instructor
+            for any follow up work necessary for completion of this
+            requirement.
+- requirement: 10
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain the differences between extinct, endangered, and
+            threatened.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            Identify a bird species that is on the endangered or threatened
+            list. Explain what caused their decline. Discuss with your
+            counselor what can be done to reverse this trend and what can be
+            done to help remove the species from the endangered or threatened
+            list.
+        workbook:
+            - lines: 8
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts will find working on this requirement prior to the class
+            will give them the best opportunity for consideration for sign off
+            at the class. Of course, the work must meet the satisfaction of the
+            merit badge counselor / instructor, however, Scouts coming to the
+            class with this work already done usually will receive sign off on
+            this requirement and its components.
+- requirement: 11
+  text: |-
+      Identify three career opportunities connected to the study of birds. Pick
+      one and find out the education, training, and experience required for
+      this profession. Discuss with your counselor if this profession might
+      interest you.
+  workbook:
+      - lines: 8
+  children:
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts should review this requirement and its components and be
+            prepared to discuss. It is strongly recommended that Scouts bring
+            any notes or supporting documents they may have to help show the
+            counselor / instructor that they have prepared for completion of
+            this requirement.
