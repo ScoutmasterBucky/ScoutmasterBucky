@@ -191,10 +191,11 @@ function generatePdfs(files, done) {
         current += 1;
         console.log(`Creating ${mine.pdf} (${current}/${needed})`);
         const stream = wkhtmltopdf(
-            "http://localhost:8080/" + mine.filename,
+            "http://localhost:8080/" + mine.filename + "?print=true",
             {
                 // debug: true,
                 // debugStdOut: true,
+                // debugJavascript: true,
                 printMediaType: true,
                 enableForms: true,
                 marginTop: "1in",
