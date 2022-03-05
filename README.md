@@ -85,62 +85,333 @@ Event files can have the following metadata.
 Merit Badge Requirements
 ------------------------
 
-Before requirements are listed, one can use any of the partials or helpers listed above.
+Merit badge requirements are stored in `requirements.yaml` and both the requirements page and the workbook are built with the data.
 
-Requirements pages have the requirements surrounded by `{{#requirements}}` tags. Indentation matters. During the requirements section, only some special partials and helpers can be used. Markdown is allowed. Use caution because each line is processed separately. Multi-line markdown, partials, and helpers will cause issues in the display of the requirements.
+The file is a list of these types of items - let's call them "Requirement List Items":
 
-    {{#requirements}}
-    1. Do the following:
-        Follow-up paragraph for requirement 1.
-        (a) This is a sub-requirement.
-            Follow-up paragraph for 1A.
-    {{/requirements}}
+* Callout
+* Note
+* Requirement
 
-Within the requirements, only these partials and helpers are allowed.
+**Information about `markdown` and `text`:** Throughout these structures, you can see examples where there's a `text` property and sometimes a `markdown` property. By default, `markdown` is false and `text` is treated as plain text or HTML. When `markdown` is true, then `text` is interpreted as markdown.
 
-* `{{#note type="inPerson" type2="online"}}This is a note{{/note}}` - Adds a note to the requirements. The `type` attribute will make the note hidden unless the requirements are for that type of class. The attribute `type2` is optional. Allowed types are `inPerson` and `online`.
+Another important note is that you can include as many lines of text as you want. The important thing is to make the YAML structured correctly, which heavily depends on the number of spaces at the beginning of the line.
 
 
-Merit Badge Workbooks
----------------------
+### Callout
 
-A special section can be added between requirements. This has minimal formatting and needs more care to use.
+Adds text between requirements. Useful for headings, "OR" or "AND" lines, and the like.
 
-    {{#wb-special class="W(50%) Mx(a)"}}
-        This is a special section that takes up half of the width of the page.
-        The `class` attribute is optional.
-    {{/wb-special}}
+```
+- callout: true
+  text: |-
+      This is a callout.
+- callout: true
+  markdown: true
+  text: |-
+      This is a second callout.
 
-Workbooks must wrap all requirements in `{{#wb-req}}` tags.
+      Because it is two paragraphs, I need to use markdown.
+```
 
-    {{#wb-req item="1A" requirement="Make workbooks great again"}}
-    {{/wb-req}}
+Properties:
 
-    {{#wb-req item="1B" requirement="Very dangerous thing" alert="Scouts need to be careful"}}
-    {{/wb-req}}
+* `callout`: Must be `true`
+* `markdown`: Optional, controls `text`
+* `text`: Text / HTML / markdown to display
 
-Within the `{{#wb-req}}` tags, page breaks are avoided. Authors may use any of these.
 
-* `{{>wb-req-allow-break}}` - Inserts an area within `{{#wb-req}}` tags to allow the workbook to split at the location for a page break.
+### Note
 
-* `{{#wb-req-area class="P(2em)"}}...{{/wb-req-area}}` - Makes a special area for custom content in a workbook requirement.
+Defines a note for the requirements page only. Does not show up on workbooks.
 
-* `{{#wb-req-cell class="Pt(1em)"}}...{{/wb-req-cell}}` - Wraps content into a single cell. Useful for splitting up a line into multiple horizontal cells.
+```
+- note:
+      - inPerson
+  text: |-
+      This note is displayed only for the "in person" notes.
+- note:
+      - inPerson
+      - online
+  markdown: true
+  text: |-
+      This note is displayed on *both* "in person" and "online" notes.
+```
 
-* `{{#wb-req-cells}}...{{/wb-req-cells}}` - Creates a container and balances out the width of all `{{#wb-req-cell}}` tags onto a single line.
+Properties:
 
-* `{{#wb-req-counselor}}...{{/wb-req-counselor}}` - Standardized note indicating that the requirement must be done with your merit badge counselor. When content is placed within the tags, it is placed below the standardized message.
+* `note`: A list of one or more items. Allowed items: `inPerson`, `online`
+* `markdown`: Optional, controls `text`
+* `text`: Text / HTML / markdown to display
 
-* `{{#wb-req-header}}...{{/wb-req-header}}` - Shows a header in a box with a lighter green background. The content becomes the text in the box.
 
-* `{{#wb-req-line}}...{{/wb-req-line}}` - A single-line input field. If content is within the tag, it is placed to the left of the input area.
+### Requirement
 
-* `{{#wb-req-note}}...{{/wb-req-note}}` - A wrapped note, suitable for displaying within the requirements.
+Lists a requirement, which may have child requirements.
 
-* `{{#wb-req-text lines=3}}...{{/wb-req-text}}` - A multi-line text area. Any content within the tag is placed above the text area.
+```
+- requirement: 1
+  text: |-
+      Do ONE of the following:
+```
 
-* `{{>wb-req-table col="Column 1" col2="Column 2" ... row="Label 1" row2="Label 2" ...}}` - Show a table in a workbook. Specify the number of columns and rows. Currently supports up to 19 columns and 39 rows.
+Shows this one requirement. There's no extra sections generated for the workbook.
 
-* `{{>wb-req-table-row}}` - Content for a single row within `{{>wb-req-table}}`.
+```
+- requirement: 2
+  text: |-
+      Showing how to use children
+  children:
+      - note:
+            - online
+        text: |-
+            This note is for "requirement 2"
+      - requirement: a
+        text: |-
+            Children can be requirements or any other type of object allowed at
+            the top-level of the file, such as a note or callout.
+      - callout: true
+        text: |-
+            AND
+      - requirement: b
+        text: |-
+            Children can have their own children.
+        children:
+            - note:
+                  - inPerson
+              text: |-
+                  This note is for "requirement 2 b"
+      - note:
+            - online
+        text: |-
+            Another note for "requirement 2"
+```
 
-* `{{>wb-signature signator="Counselor" checkbox="Approved"}}` - Show a signature form that's for a person (Counselor, Parent, etc.) and the checkbox indicates that the requirement was approved, created, discussed, or another action to meet the requirement.
+This illustrates how notes and children can be added. Children can be any type
+of "Requirement List Item." Still, there's nothing extra set up for the
+workbook. Let's fix that.
+
+```
+- requirement: 3
+  text: |-
+      Do stuff. Write stuff down.
+  workbook:
+      - lines: 8
+```
+
+That sets up an 8-line section for this requirement. The list of different
+"Workbook List Items" is detailed later. When you combine little requirements
+into one section, you can use extra workbook areas. This next example is a bit
+extreme.
+
+```
+- requirement: 4
+  text: |-
+      Research one of the following. Describe the term, then draw a picture to
+      illustrate the term.
+  workbook:
+      - header: true
+        markdown: true
+        text: |-
+            a - Rube-Goldberg machine
+
+            OR
+
+            b - Popsicle stick explosion
+  children:
+      - requirement: a
+        text: |-
+            Rube-Goldberg machine
+        workbookHide: true
+      - requirement: b
+        text: |-
+            Popsicle stick explosion
+        workbookHide: true
+```
+
+`workbookHide` will not generate a section for that requirement.
+
+The different workbook entries:
+
+* Grid
+* Header
+* Lines
+* Signature
+* Split
+
+Properties:
+
+* `children`: Optional, list of "Requirement List Items"
+* `markdown`: Optional, controls `text`
+* `requirement`: The number or letter of the requirement
+* `text`: Text / HTML / markdown to display
+* `workbook`: Optional, list of "Workbook List Items"
+* `workbookHide`: Optional, if `true` this hides the requirement from automatic
+  generation in the workbook
+
+
+Workbook Generation
+-------------------
+
+Workbooks are generated from the same `requirements.yaml` as the requirements page. Extra information is gathered from the `workbook` property in requirements.
+
+"Workbook List Items" can be any of the following:
+
+* Grid
+* Header
+* Lines
+* Signature
+* Split
+
+
+### Grid
+
+Shows a grid, which is useful for drawings. The height is measured in the
+number of squares, which is very close to 1 centimeter. Due to technical
+difficulties, the grid will not be part of the generated PDF, but it would
+appear if a visitor to the site printed the workbook web page.
+
+```
+- gridHeight: 8
+```
+
+Optionally, a caption can be included above the grid.
+
+```
+- gridHeight: 8
+  text: |-
+      This is a caption
+```
+
+Properties:
+
+* `gridHeight`: Number of rows to display
+* `markdown`: Optional, controls `text`
+* `text`: Optional, text / HTML / markdown to as a caption
+
+
+### Header
+
+Display text in the same size font as the requirement. The background is
+slightly off. Good when combining requirements together to save on space.
+
+```
+- header: true
+  markdown: true
+  text: |-
+      a - Height
+
+      b - Width
+
+      c - Area
+```
+
+Properties:
+
+* `header`: Must be `true`
+* `markdown`: Optional, controls `text`
+* `text`: Text / HTML / markdown to as a caption
+
+
+### Lines
+
+Show a ruled area for an answer. Due to technical difficulties, the ruling
+won't be included in the generated PDF, but it would show up if a visitor
+printed the workbook's web page.
+
+```
+- lines: 8
+```
+
+Optionally, a caption can be included above the ruled area.
+
+```
+- lines: 8
+  text: |-
+      This is a caption.
+```
+
+Properties:
+
+* `lines`: Number of lines to display
+* `markdown`: Optional, controls `text`
+* `text`: Optional, text / HTML / markdown to as a caption
+
+
+### Signature
+
+Include an area for an adult to sign off on the requirement. The `signature`
+property defines who is being asked to sign.
+
+```
+- signature: Adult Leader
+```
+
+The checkbox label defaults to "Approved". If you would rather have it say
+something else, it is configurable.
+
+```
+- signature: Librarian
+  checkbox: Verified
+```
+
+Properties:
+
+* `checkbox`: Optional, label for the checkbox (defaults to "Approved")
+* `signature`: The label for the person that needs to sign
+
+
+### Split
+
+Split a row into even columns. Accepts a list of "Workbook List Items" and puts them on one row.
+
+```
+- split:
+      - gridHeight: 6
+        text: |-
+            Draw the tool
+      - lines: 8
+        text: |-
+            Describe the tool's function
+```
+
+Properties:
+
+* `split`: List of "Workbook List Items"
+
+
+Data Validation
+---------------
+
+YAML files and JSON data are both vetted against a schema to ensure proper parsing and that there's no structural errors. When it does not validate, an error message can be seen. Here is the top of a sample error.
+
+```
+Error: Error in data file: merit-badges/bird-study/index.md
+{
+    "message": "Data does not match any schemas from \"oneOf\"",
+    "params": {},
+    "dataPath": "/5",
+    "schemaPath": "/items/oneOf",
+    "subErrors": [
+        {
+            "message": "Data does not match any schemas from \"oneOf\"",
+            "params": {},
+            "dataPath": "/5/children/0",
+            "schemaPath": "/items/oneOf/0/properties/children/items/oneOf",
+            "subErrors": [
+```
+
+There are two important things to notice. First, this indicates that this is for the Bird Study merit badge. Most likely that means it is the `requirements.yaml` that builds the merit badge. The second important thing is the `"dataPath"` attribute. It will tell you how far it can get before an error shows up. In this case the important value is "/5/children/0".
+
+Programmers start counting at 0. Sorry. That's just the way it is, but it is an important thing to remember when counting. When looking at the Bird Study requirements file, we will look for the **sixth** item in the list.
+
+* First item is a note, and programmers count it as item number 0.
+* Second item is requirement 1, item number 1
+* Third item is requirement 2, item number 2
+* Fourth item is requirement 3, item number 3
+* Fifth item is requirement 4, item number 4
+* Sixth item is requirement 5, **item number 5.**
+
+That requirement has children, and the first item in that list has a problem. In my example it turned out that I had a typo in a property name.
+
+This doesn't tell you how to fix it, but does help find and locate the errors.
