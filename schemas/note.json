@@ -2,6 +2,9 @@
     "description": "Note",
     "type": "object",
     "properties": {
+        "markdown": {
+            "type": "boolean"
+        },
         "note": {
             "type": "array",
             "items": {

@@ -1,0 +1,14 @@
+{
+    "description": "Split a row into equal sized chunks",
+    "type": "object",
+    "properties": {
+        "split": {
+            "type": "array",
+            "items": {
+                "$ref": "./workbook-item.json"
+            }
+        }
+    },
+    "additionalProperties": false,
+    "required": ["split"]
+}

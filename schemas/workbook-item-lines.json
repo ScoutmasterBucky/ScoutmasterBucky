@@ -1,12 +1,15 @@
 {
     "type": "object",
     "properties": {
+        "lines": {
+            "type": "number"
+        },
+        "markdown": {
+            "type": "boolean"
+        },
         "text": {
             "description": "Vanilla markdown",
             "type": "string"
-        },
-        "lines": {
-            "type": "number"
         }
     },
     "additionalProperties": false,

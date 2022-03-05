@@ -1,11 +1,7 @@
 <div class="{{>workbook-section-classes}}">
 {{#if text}}
 <div class="Fz(0.8em) Bdbw(1px) Px(0.5em)">
-
-{{#markdown}}
-{{{text}}}
-{{/markdown}}
-
+{{>text}}
 </div>
 {{/if}}
 <div class="Fz(38px) Lh(1) H({{gridHeight}}em)" style="background-image: url({{@root.rootPath}}images/bg-grid-38px.png)">

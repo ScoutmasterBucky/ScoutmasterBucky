@@ -11,6 +11,9 @@
         },
         {
             "$ref": "./workbook-item-signature.json"
+        },
+        {
+            "$ref": "./workbook-item-split.json"
         }
     ]
 }

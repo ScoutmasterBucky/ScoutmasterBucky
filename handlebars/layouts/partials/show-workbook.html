@@ -7,15 +7,7 @@
 {{>workbook-requirement}}
 
 {{#workbook}}
-{{#if lines}}
-{{>workbook-lines}}
-{{else if signature}}
-{{>workbook-signature}}
-{{else if gridHeight}}
-{{>workbook-grid}}
-{{else if header}}
-{{>workbook-header}}
-{{/if}}
+{{>workbook-item}}
 {{/workbook}}
 
 </div>

@@ -5,6 +5,9 @@
         "callout": {
             "type": "boolean"
         },
+        "markdown": {
+            "type": "boolean"
+        },
         "text": {
             "description": "Vanilla markdown",
             "type": "string"
