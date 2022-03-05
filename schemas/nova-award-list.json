@@ -3,9 +3,6 @@
     "additionalProperties": {
         "type": "object",
         "properties": {
-            "name": {
-                "type": "string"
-            },
             "category": {
                 "type": "string",
                 "enum": [
@@ -14,6 +11,9 @@
                     "engineering",
                     "math"
                 ]
+            },
+            "name": {
+                "type": "string"
             },
             "summary": {
                 "type": "string"
