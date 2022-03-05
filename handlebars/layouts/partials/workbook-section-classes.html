@@ -1,2 +1,8 @@
+{{#if embedded}}
+Bdtw(1px)
+{{else}}
 {{! Negative margin hides the double border, but we want that double border for when a section is printed on a following page, otherwise it would look incomplete. !}}
-{{#if embedded}}Bdtw(1px){{else}}Bdw(1px){{/if}} Mt(-1px) Bi(av) Pbi(av)
+Bdw(1px) Mt(-1px)
+{{/if}}
+
+Bi(av) Pbi(av)

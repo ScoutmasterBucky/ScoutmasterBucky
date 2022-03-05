@@ -4,6 +4,10 @@
 {{>text}}
 </div>
 {{/if}}
-<div class="Fz(38px) Lh(1) H({{gridHeight}}em)" style="background-image: url({{@root.rootPath}}images/bg-grid-38px.png)">
+
+{{! Printing this background looks bad in wkhtmltopdf because it does not
+attach to the textarea and appears to attach to the page. printBgStyleRemove
+will remove it in that case !}}
+<div class="Fz(38px) Lh(1) H({{gridHeight}}em) printBgStyleRemove" style="background-image: url({{@root.rootPath}}images/bg-grid-38px.png)">
 </div>
 </div>
