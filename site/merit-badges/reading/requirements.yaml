@@ -1,0 +1,237 @@
+- requirement: 1
+  text: |-
+      Do EACH of the following:
+  children:
+      - requirement: a
+        text: |-
+            Take a tour of a library. Discuss with your counselor how the
+            library is organized and what resources and/or services are offered
+            in the library.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            Learn how to search a library’s card catalog or computerized
+            catalog by author, title, and subject.
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            In a library, search the card catalog or computerized catalog for
+            six books of four different types, such as poetry, fiction,
+            nonfiction, and biographies.
+        workbook:
+            - lines: 8
+      - requirement: d
+        text: |-
+            With the assistance of your merit badge counselor or the librarian,
+            see if you can locate on the shelves the six books you selected.
+        workbook:
+            - lines: 8
+      - requirement: e
+        text: |-
+            Explain what is a library card, why it is needed, and how to get
+            one.
+        workbook:
+            - lines: 8
+      - note:
+            - online
+            - inPerson
+        markdown: true
+        text: |-
+            Scouts will need to complete this requirement and it's components
+            ahead of time in order to prepare for discussions with the merit
+            badge counselor during the class. The intent of this requirement and
+            its components is to help familiarize Scouts with their local public
+            library or school library and the resources available to them at the
+            facility.
+
+            It is strongly recommended to consider using the Scoutmaster Bucky
+            Reading Merit Badge Workbook to aid in documenting progress while
+            working on this requirement. Make notes and make sure you get your
+            merit badge counselor's or the librarian's signature for proof of
+            completion.
+- requirement: 2
+  text: |-
+      Do EACH of the following:
+  children:
+      - requirement: a
+        text: |-
+            Identify a book you have enjoyed. Find out what other books the
+            author has written.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            Look at one or more “best books” lists. These can be based on year,
+            subject, or even all time. Identify at least one book you would
+            like to read.
+        workbook:
+            - lines: 8
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts should consider using a merit badge workbook or notebook to
+            record their answers to the requirement components for easy reference
+            when reviewing this requirement and its components with the merit
+            badge counselor.
+- requirement: 3
+  text: |-
+      Read four different types of books, such as poetry, fiction, nonfiction,
+      or biographies. Do any one of the following for each book you have read:
+  children:
+      - requirement: a
+        text: |-
+            Write a review of the book. Include what you liked/didn’t like
+            about the book. Include whether you would recommend this book, and
+            if so, who might enjoy reading it.
+        workbookHide: true
+      - requirement: b
+        text: |-
+            Watch a movie based on the book. What was the same between the book
+            and movie? What was different?  Which did you enjoy more? Discuss
+            this with your merit badge counselor.
+        workbookHide: true
+      - requirement: c
+        text: |-
+            Give a “book talk” to your class, troop, or patrol.
+        workbookHide: true
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts will find the use of the Scoutmaster Bucky Reading Merit
+            Badge Workbook to be very helpful in documenting their work for
+            this requirement. Scouts should consider using this workbook or
+            their own notebook to record their work easy reference when
+            reviewing with the merit badge counselor.
+  workbook:
+      - header: true
+        markdown: true
+        text: |-
+            a - Write a review of the book. Include what you liked/didn’t like
+            about the book. Include whether you would recommend this book, and
+            if so, who might enjoy reading it.
+
+            OR
+
+            b - Watch a movie based on the book. What was the same between the book
+            and movie? What was different?  Which did you enjoy more? Discuss
+            this with your merit badge counselor.
+
+            OR
+
+            c - Give a “book talk” to your class, troop, or patrol.
+      - lines: 8
+- requirement: 4
+  text: |-
+      Read a nonfiction book or magazine that teaches you how to do something
+      like cooking, wood-building projects, video game design, science
+      experiments, knot-tying, etc. With your counselor’s and parent’s
+      permission, complete a project from the book. Share your experience with
+      your merit badge counselor. Reading a merit badge pamphlet will not count
+      toward completing this requirement.
+  children:
+      - note:
+            - inPerson
+            - online
+        text: |-
+            While it is encouraged that Scouts start reading ahead of time, it is
+            at the discretion of the merit badge counselor as to whether your
+            selected reading material meets the satisfaction of the requirements
+            as interpreted by the merit badge counselor. Bring your selected
+            reading to class for review and final approval. Scouts that can
+            satisfactorily show their completed project AND share their
+            expereince will have an opportunity to be reviewed by the counselor
+            for credit of completion.
+  workbook:
+      - lines: 8
+- requirement: 5
+  text: |-
+      Read about the world around you from any two sources: books, magazines,
+      newspapers, the internet (with your parent’s/guardian’s permission),
+      field manuals, etc. Topics may include Scouting, sports, environmental
+      problems, politics, social issues, current events, nature, religion, etc.
+      Discuss what you have learned with your counselor.
+  children:
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts should review this requirement and and be prepared to discuss.
+            It is strongly recommended that Scouts bring any notes or supporting
+            documents they may have to help show the counselor that they have
+            prepared for discussion of these items. A portion of the class will
+            be devoted to open group discussion on each of the Scouts' readings.
+  workbook:
+      - lines: 8
+- requirement: 6
+  text: |-
+      With your counselor’s and parent’s or guardian’s permission, choose ONE
+      of the following activities and devote at least four hours of service to
+      that activity. Discuss your participation with your counselor.
+  children:
+      - requirement: a
+        text: |-
+            Read to a sick, blind, or homebound person in a hospital or in an
+            extended-care facility.
+        workbookHide: true
+      - requirement: b
+        text: |-
+            Perform volunteer work at your school library or a public library.
+        workbookHide: true
+      - requirement: c
+        text: |-
+            Read stories to younger children, in a group or individually.
+        workbookHide: true
+      - requirement: d
+        text: |-
+            Organize a book swap in your troop, school, or place of worship.
+        workbookHide: true
+      - requirement: e
+        text: |-
+            Organize a book drive to collect books. Donate them to an
+            organization in need.
+        workbookHide: true
+      - note:
+            - inPerson
+            - online
+        text: |-
+            This requirement will NOT be covered within the class, however
+            Scouts wishing to be considered for completion of this requirement
+            should bring adequate documentation to show that they have
+            completed one of these requirement components. Adequate
+            documentation is not a letter from your parent, but rather a letter
+            or note on organizational letterhead from a representative of the
+            organization where you performed your activity hours. Please
+            remember that the merit badge counselor reserves the right to
+            accept/reject your chosen activity for completion of this merit
+            badge requirement. It is best not to stray too far from the stated
+            requirement.
+  workbook:
+      - header: true
+        markdown: true
+        text: |-
+            a - Read to a sick, blind, or homebound person in a hospital or in
+            an extended-care facility.
+
+            OR
+
+            b - Perform volunteer work at your school library or a public
+            library.
+
+            OR
+
+            c - Read stories to younger children, in a group or individually.
+
+            OR
+
+            d - Organize a book swap in your troop, school, or place of
+            worship.
+
+            OR
+
+            e - Organize a book drive to collect books. Donate them to an
+            organization in need.
+      - lines: 8
