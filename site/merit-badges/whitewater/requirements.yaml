@@ -51,7 +51,7 @@
                   Sunburn
             - lines: 3
               text: |-
-                  dehydration
+                  Dehydration
             - lines: 3
               text: |-
                   Blisters
@@ -88,15 +88,36 @@
             eddy with an eddy line, ledge, river bend, current at different
             depths, drop, horizon line, and hydraulic.
         workbook:
-            - gridHeight: 8
-              text: |-
-                  Upstream V, downstream V, eddy with an eddy line
-            - gridHeight: 8
-              text: |-
-                  Ledge, river bend, current at different depths
-            - gridHeight: 8
-              text: |-
-                  Drop, horizon line, hydraulic
+            - split:
+                - gridHeight: 5
+                  text: |-
+                      Upstream V
+                - gridHeight: 5
+                  text: |-
+                      Downstream V
+                - gridHeight: 5
+                  text: |-
+                      Eddy with an eddy line
+            - split:
+                - gridHeight: 5
+                  text: |-
+                      Ledge
+                - gridHeight: 5
+                  text: |-
+                      River bend
+                - gridHeight: 5
+                  text: |-
+                      Current at different deptsh
+            - split:
+                - gridHeight: 5
+                  text: |-
+                      Drop
+                - gridHeight: 5
+                  text: |-
+                      Horizon line
+                - gridHeight: 5
+                  text: |-
+                      Hydraulic
       - requirement: b
         text: |-
             Describe how waves form including standing waves and wave trains.
@@ -187,17 +208,17 @@
         workbook:
             - header: true
               text: |-
-                  Demonstrate the following strokes in the bow: cross forward,
+                  1 - Demonstrate the following strokes in the bow: cross forward,
                   bow draw, cross bow draw, bow pry, and sculling draw.
             - lines: 8
             - header: true
               text: |-
-                  Demonstrate the following strokes in the stern: stern draw,
+                  2 - Demonstrate the following strokes in the stern: stern draw,
                   stern pry, sculling draw, and forward with stern pry.
             - lines: 8
             - header: true
               text: |-
-                  Demonstrate a high brace, low brace, and righting pry.
+                  3 - Demonstrate a high brace, low brace, and righting pry.
             - lines: 8
       - callout: true
         text: |-
@@ -220,13 +241,13 @@
         workbook:
             - header: true
               text: |-
-                  Demonstrate the following strokes: cross forward, bow draw,
+                  1 - Demonstrate the following strokes: cross forward, bow draw,
                   cross bow draw, stern draw, pry, stern pry, sculling draw,
                   and forward with stern pry.
             - lines: 8
             - header: true
               text: |-
-                  Demonstrate a high brace, low brace, and righting pry.
+                  2 - Demonstrate a high brace, low brace, and righting pry.
             - lines: 8
       - callout: true
         text: |-
@@ -248,12 +269,12 @@
         workbook:
             - header: true
               text: |-
-                  Demonstrate the following strokes: bow draw, rudder, and
+                  1 - Demonstrate the following strokes: bow draw, rudder, and
                   sculling draw.
             - lines: 8
             - header: true
               text: |-
-                  Demonstrate a high brace and low brace.
+                  2 - Demonstrate a high brace and low brace.
             - lines: 8
 - requirement: 5
   text: |-
@@ -309,13 +330,13 @@
   workbook:
       - header: true
         text: |-
-            If completing this merit badge in a canoe, describe the various
+            a - If completing this merit badge in a canoe, describe the various
             types of canoes used on moving water and how they differ in design,
             materials, and purpose.
 
             OR
 
-            If completing this merit badge in a kayak, describe the various
+            b - If completing this merit badge in a kayak, describe the various
             types of kayaks used on moving water and explain how they differ in
             design, materials, and purpose.
       - lines: 8

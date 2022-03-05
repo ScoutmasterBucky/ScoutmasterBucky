@@ -5,6 +5,9 @@
         "children": {
             "$ref": "./requirement-list.json"
         },
+        "markdown": {
+            "type": "boolean"
+        },
         "requirement": {
             "oneOf": [
                 {

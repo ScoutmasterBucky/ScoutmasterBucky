@@ -88,21 +88,40 @@
             woodworking. Describe the chief qualities of each. Give the best
             uses of each.
         workbook:
-            - lines: 3
-              text: |-
-                  Type of wood, its chief qualities, and best uses.
-            - lines: 3
-              text: |-
-                  Type of wood, its chief qualities, and best uses.
-            - lines: 3
-              text: |-
-                  Type of wood, its chief qualities, and best uses.
-            - lines: 3
-              text: |-
-                  Type of wood, its chief qualities, and best uses.
-            - lines: 3
-              text: |-
-                  Type of wood, its chief qualities, and best uses.
+            - split:
+                - header: true
+                  text: |-
+                      Type of wood
+                - header: true
+                  text: |-
+                      Qualities
+                - header: true
+                  text: |-
+                      Best uses
+            - split:
+                - lines: 3
+                - lines: 3
+                - lines: 3
+            - split:
+                - lines: 3
+                - lines: 3
+                - lines: 3
+            - split:
+                - lines: 3
+                - lines: 3
+                - lines: 3
+            - split:
+                - lines: 3
+                - lines: 3
+                - lines: 3
+            - split:
+                - lines: 3
+                - lines: 3
+                - lines: 3
+            - split:
+                - lines: 3
+                - lines: 3
+                - lines: 3
       - note:
             - online
         text: |-
@@ -200,8 +219,6 @@
 - requirement: 6
   text: |-
       Do any TWO of the following:
-  workbook:
-      - lines: 8
   children:
       - requirement: a
         text: |-

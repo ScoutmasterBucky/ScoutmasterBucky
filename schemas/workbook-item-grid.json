@@ -1,12 +1,15 @@
 {
     "type": "object",
     "properties": {
+        "gridHeight": {
+            "type": "number"
+        },
+        "markdown": {
+            "type": "boolean"
+        },
         "text": {
             "description": "Vanilla markdown",
             "type": "string"
-        },
-        "gridHeight": {
-            "type": "number"
         }
     },
     "additionalProperties": false,
