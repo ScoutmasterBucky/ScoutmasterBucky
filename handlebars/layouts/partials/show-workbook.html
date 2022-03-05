@@ -5,6 +5,7 @@
 <div class="Bi(av) Pbi(av) Lh(wbLh) Mt(1em)">
 
 {{>workbook-requirement}}
+
 {{#workbook}}
 {{#if lines}}
 {{>workbook-lines}}
@@ -12,6 +13,8 @@
 {{>workbook-signature}}
 {{else if gridHeight}}
 {{>workbook-grid}}
+{{else if header}}
+{{>workbook-header}}
 {{/if}}
 {{/workbook}}
 

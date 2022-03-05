@@ -36,40 +36,40 @@
         workbook:
             - lines: 3
               text: |-
-                  Prevention, symptoms, and treatment for cold-water shock
+                  Cold-water shock
             - lines: 3
               text: |-
-                  Prevention, symptoms, and treatment for hypothermia
+                  Hypothermia
             - lines: 3
               text: |-
-                  Prevention, symptoms, and treatment for head, neck, and back injuries
+                  Head, neck, and back injuries
             - lines: 3
               text: |-
-                  Prevention, symptoms, and treatment for heat-related illnesses
+                  Heat-related illnesses
             - lines: 3
               text: |-
-                  Prevention, symptoms, and treatment for sunburn
+                  Sunburn
             - lines: 3
               text: |-
-                  Prevention, symptoms, and treatment for dehydration
+                  dehydration
             - lines: 3
               text: |-
-                  Prevention, symptoms, and treatment for blisters
+                  Blisters
             - lines: 3
               text: |-
-                  Prevention, symptoms, and treatment for bruises
+                  Bruises
             - lines: 3
               text: |-
-                  Prevention, symptoms, and treatment for cuts
+                  Cuts
             - lines: 3
               text: |-
-                  Prevention, symptoms, and treatment for sprains and strains
+                  Sprains and strains
             - lines: 3
               text: |-
-                  Prevention, symptoms, and treatment for shoulder dislocation
+                  Shoulder dislocation
             - lines: 3
               text: |-
-                  Prevention, symptoms, and treatment for submersion injuries
+                  Submersion injuries
       - requirement: c
         text: |-
             Discuss with your counselor the BSA Safety Afloat policy and the
@@ -149,7 +149,7 @@
             strokes and maneuvers from the Kayaking merit badge to the
             satisfaction of your merit badge counselor.
   workbook:
-      - lines: 8
+      - header: true
         text: |-
             a - If you will be using a canoe to earn this merit badge, demonstrate
             strokes and maneuvers from the Canoeing merit badge to the satisfaction
@@ -160,6 +160,7 @@
             b - If you will be using a kayak to earn this merit badge, demonstrate
             strokes and maneuvers from the Kayaking merit badge to the satisfaction
             of your merit badge counselor.
+      - lines: 8
 - requirement: 4
   text: |-
       Do ONE of the following:
@@ -184,17 +185,20 @@
                   Demonstrate a high brace, low brace, and righting pry.
               workbookHide: true
         workbook:
-            - lines: 8
+            - header: true
               text: |-
                   Demonstrate the following strokes in the bow: cross forward,
                   bow draw, cross bow draw, bow pry, and sculling draw.
             - lines: 8
+            - header: true
               text: |-
                   Demonstrate the following strokes in the stern: stern draw,
                   stern pry, sculling draw, and forward with stern pry.
             - lines: 8
+            - header: true
               text: |-
                   Demonstrate a high brace, low brace, and righting pry.
+            - lines: 8
       - callout: true
         text: |-
             OR
@@ -214,14 +218,16 @@
                   Demonstrate a high brace, low brace, and righting pry.
               workbookHide: true
         workbook:
-            - lines: 8
+            - header: true
               text: |-
                   Demonstrate the following strokes: cross forward, bow draw,
                   cross bow draw, stern draw, pry, stern pry, sculling draw,
                   and forward with stern pry.
             - lines: 8
+            - header: true
               text: |-
                   Demonstrate a high brace, low brace, and righting pry.
+            - lines: 8
       - callout: true
         text: |-
             OR
@@ -240,13 +246,15 @@
                   Demonstrate a high brace and low brace.
               workbookHide: true
         workbook:
-            - lines: 8
+            - header: true
               text: |-
                   Demonstrate the following strokes: bow draw, rudder, and
                   sculling draw.
             - lines: 8
+            - header: true
               text: |-
                   Demonstrate a high brace and low brace.
+            - lines: 8
 - requirement: 5
   text: |-
       Do the following:
@@ -288,6 +296,7 @@
             If completing this merit badge in a canoe, describe the various
             types of canoes used on moving water and how they differ in design,
             materials, and purpose.
+        workbookHide: true
       - callout: true
         text: |-
             OR
@@ -296,8 +305,9 @@
             If completing this merit badge in a kayak, describe the various
             types of kayaks used on moving water and explain how they differ in
             design, materials, and purpose.
+        workbookHide: true
   workbook:
-      - lines: 8
+      - header: true
         text: |-
             If completing this merit badge in a canoe, describe the various
             types of canoes used on moving water and how they differ in design,
@@ -308,6 +318,7 @@
             If completing this merit badge in a kayak, describe the various
             types of kayaks used on moving water and explain how they differ in
             design, materials, and purpose.
+      - lines: 8
 - requirement: 8
   text: |-
       Discuss the personal and group equipment necessary for a safe whitewater
@@ -410,7 +421,6 @@
             procedures.
         workbook:
             - lines: 4
-            - gridHeight: 8
       - requirement: b
         text: |-
             Determine local rules and obtain permission from landowners and

@@ -1,0 +1,14 @@
+{
+    "type": "object",
+    "properties": {
+        "header": {
+            "type": "boolean"
+        },
+        "text": {
+            "description": "Vanilla markdown",
+            "type": "string"
+        }
+    },
+    "additionalProperties": false,
+    "required": ["header", "text"]
+}
