@@ -34,13 +34,17 @@
             use a dust mask.
         workbook:
             - lines: 3
-              text: Splinters, scratches, cuts
+              text: |-
+                  Splinters, scratches, cuts
             - lines: 3
-              text: Severe bleeding
+              text: |-
+                  Severe bleeding
             - lines: 3
-              text: Shock
+              text: |-
+                  Shock
             - lines: 3
-              text: Precautions
+              text: |-
+                  Precautions
         children:
             - note:
                   - online
@@ -89,39 +93,39 @@
             uses of each.
         workbook:
             - split:
-                - header: true
-                  text: |-
-                      Type of wood
-                - header: true
-                  text: |-
-                      Qualities
-                - header: true
-                  text: |-
-                      Best uses
+                  - header: true
+                    text: |-
+                        Type of wood
+                  - header: true
+                    text: |-
+                        Qualities
+                  - header: true
+                    text: |-
+                        Best uses
             - split:
-                - lines: 3
-                - lines: 3
-                - lines: 3
+                  - lines: 3
+                  - lines: 3
+                  - lines: 3
             - split:
-                - lines: 3
-                - lines: 3
-                - lines: 3
+                  - lines: 3
+                  - lines: 3
+                  - lines: 3
             - split:
-                - lines: 3
-                - lines: 3
-                - lines: 3
+                  - lines: 3
+                  - lines: 3
+                  - lines: 3
             - split:
-                - lines: 3
-                - lines: 3
-                - lines: 3
+                  - lines: 3
+                  - lines: 3
+                  - lines: 3
             - split:
-                - lines: 3
-                - lines: 3
-                - lines: 3
+                  - lines: 3
+                  - lines: 3
+                  - lines: 3
             - split:
-                - lines: 3
-                - lines: 3
-                - lines: 3
+                  - lines: 3
+                  - lines: 3
+                  - lines: 3
       - note:
             - online
         text: |-
