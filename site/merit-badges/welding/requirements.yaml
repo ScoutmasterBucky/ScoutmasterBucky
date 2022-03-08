@@ -73,10 +73,12 @@
         workbook:
             - lines: 8
 - requirement: 3
+  markdown: true
   text: |-
-      Explain the terms welding, electrode, slag, and oxidation.  Describe the
-      welding process, how heat is generated, what kind of filler metal is
-      added (if any), and what protects the molten metal from the atmosphere.
+      Explain the terms *welding*, *electrode*, *slag*, and *oxidation*.
+      Describe the welding process, how heat is generated, what kind of filler
+      metal is added (if any), and what protects the molten metal from the
+      atmosphere.
   workbook:
       - lines: 3
         text: |-
