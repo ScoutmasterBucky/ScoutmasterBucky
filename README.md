@@ -130,7 +130,7 @@ Properties:
 
 ### Detail
 
-Adds text between requirements that look like just another paragraph. Useful for footnotes and supplemental paragraphs. Does not show up on the workbook.
+Adds text between requirements that look like just another paragraph. Useful for separators, headings, and additional information that isn't a requirement. This is included on workbooks.
 
 ```
 - detail: true
