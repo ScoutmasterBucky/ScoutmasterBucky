@@ -255,8 +255,9 @@ extreme.
 
 `workbookHide` will not generate a section for that requirement.
 
-The different workbook entries:
+The different workbook entries are detailed below, under "Workbook Generation".
 
+* Area
 * Grid
 * Header
 * Lines
@@ -281,11 +282,37 @@ Workbooks are generated from the same `requirements.yaml` as the requirements pa
 
 "Workbook List Items" can be any of the following:
 
+* Area
 * Grid
 * Header
 * Lines
 * Signature
 * Split
+
+
+### Area
+
+Shows an empty area, which is useful for drawings.
+
+```
+- area: true
+```
+
+This is best used with a caption and setting a specific height, which is measured in centimeters (to match the grid height).
+
+```
+- area: true
+  height: 8
+  text: |-
+      This is a caption.
+```
+
+Properties:
+
+* `area`: Must be `true`.
+* `height`: Number of centimeters of vertical space to display
+* `markdown`: Optional, controls `text`
+* `text`: Optional, text / HTML / markdown to as a caption
 
 
 ### Grid

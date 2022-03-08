@@ -29,7 +29,8 @@
       of the bird.  Sketch or trace an extended wing and label six types of
       wing feathers.
   workbook:
-      - gridHeight: 8
+      - area: true
+        height: 8
   children:
       - note:
             - inPerson
