@@ -173,7 +173,13 @@
       techniques that have little negative impact on the environment. Spend a
       night in your shelter.
   workbook:
-      - gridHeight: 8
+      - lines: 8
+        text: |-
+            Describe concerns, materials, building process, and other details
+      - area: true
+        height: 8
+        text: |-
+            Illustrate the shelter
 - requirement: 9
   text: |-
       Explain how to protect yourself from insects, reptiles, bears, and other
