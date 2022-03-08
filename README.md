@@ -395,15 +395,11 @@ YAML files and JSON data are both vetted against a schema to ensure proper parsi
 Error: Error in data file: merit-badges/bird-study/index.md
 {
     "message": "Data does not match any schemas from \"oneOf\"",
-    "params": {},
     "dataPath": "/5",
-    "schemaPath": "/items/oneOf",
     "subErrors": [
         {
             "message": "Data does not match any schemas from \"oneOf\"",
-            "params": {},
             "dataPath": "/5/children/0",
-            "schemaPath": "/items/oneOf/0/properties/children/items/oneOf",
             "subErrors": [
 ```
 

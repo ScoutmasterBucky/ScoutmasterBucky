@@ -240,6 +240,12 @@ ${JSON.stringify(copy, null, 4)}`);
 function cleanseError(obj) {
     delete obj.code;
     delete obj.stack;
+    delete obj.params;
+    delete obj.schemaPath;
+
+    if (obj.subErrors === null) {
+        delete obj.subErrors;
+    }
 
     if (obj.subErrors) {
         for (const child of obj.subErrors) {
