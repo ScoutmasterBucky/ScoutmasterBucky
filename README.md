@@ -100,13 +100,14 @@ Merit badge requirements are stored in `requirements.yaml` and both the requirem
 The file is a list of these types of items - let's call them "Requirement List Items":
 
 * Callout
+* Detail
 * Note
 * Requirement
 
 
 ### Callout
 
-Adds text between requirements. Useful for headings, "OR" or "AND" lines, and the like. Does not show up on the workbook.
+Adds text between requirements. Centered, italicized. Useful for headings, "OR" or "AND" lines, and the like. Does not show up on the workbook.
 
 ```
 - callout: true
@@ -123,6 +124,23 @@ Adds text between requirements. Useful for headings, "OR" or "AND" lines, and th
 Properties:
 
 * `callout`: Must be `true`
+* `markdown`: Optional, controls `text`
+* `text`: Text / HTML / markdown to display
+
+
+### Detail
+
+Adds text between requirements that look like just another paragraph. Useful for footnotes and supplemental paragraphs. Does not show up on the workbook.
+
+```
+- detail: true
+  text: |-
+      * This item can only be done in person.
+```
+
+Properties:
+
+* `detail`: Must be `true`
 * `markdown`: Optional, controls `text`
 * `text`: Text / HTML / markdown to display
 
