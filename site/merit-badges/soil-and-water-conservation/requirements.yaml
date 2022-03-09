@@ -46,10 +46,10 @@
             Take pictures or draw two kinds of soil erosion.
         workbook:
             - split:
-                - area: true
-                  height: 8
-                - area: true
-                  height: 8
+                  - area: true
+                    height: 8
+                  - area: true
+                    height: 8
 - requirement: 3
   text: |-
       Do the following:
@@ -71,12 +71,12 @@
             Take pictures or draw three kinds of erosion-control practices.
         workbook:
             - split:
-                - area: true
-                  height: 8
-                - area: true
-                  height: 8
-                - area: true
-                  height: 8
+                  - area: true
+                    height: 8
+                  - area: true
+                    height: 8
+                  - area: true
+                    height: 8
 - requirement: 4
   text: |-
       Do the following:
