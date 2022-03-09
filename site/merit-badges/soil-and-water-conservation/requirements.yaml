@@ -1,0 +1,276 @@
+- requirement: 1
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Tell what soil is. Tell how it is formed.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            Describe three kinds of soil. Tell how they are different.
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            Name the three main plant nutrients in fertile soil. Tell how they
+            can be put back when used up.
+        workbook:
+            - lines: 3
+            - lines: 3
+            - lines: 3
+- requirement: 2
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Define soil erosion.
+        workbook:
+            - lines: 3
+      - requirement: b
+        text: |-
+            Tell why it is important. Tell how it affects you.
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            Name three kinds of soil erosion. Describe each.
+        workbook:
+            - lines: 4
+            - lines: 4
+            - lines: 4
+      - requirement: d
+        text: |-
+            Take pictures or draw two kinds of soil erosion.
+        workbook:
+            - split:
+                - area: true
+                  height: 8
+                - area: true
+                  height: 8
+- requirement: 3
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Tell what is meant by conservation practices.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            Describe the effect of three kinds of erosion-control practices.
+        workbook:
+            - lines: 4
+            - lines: 4
+            - lines: 4
+      - requirement: c
+        text: |-
+            Take pictures or draw three kinds of erosion-control practices.
+        workbook:
+            - split:
+                - area: true
+                  height: 8
+                - area: true
+                  height: 8
+                - area: true
+                  height: 8
+- requirement: 4
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain what a watershed is.
+        workbook:
+            - lines: 3
+      - requirement: b
+        text: |-
+            Outline the smallest watershed that you can find on a contour map.
+        workbook:
+            - area: true
+              height: 8
+      - requirement: c
+        text: |-
+            Then outline on your map, as far as possible, the next larger
+            watershed which also has the smallest in it.
+        workbook:
+            - area: true
+              height: 8
+      - requirement: d
+        text: |-
+            Explain what a river basin is. Tell why all people living in a
+            river basin should be concerned about land and water use in it.
+        workbook:
+            - lines: 8
+      - requirement: e
+        text: |-
+            Explain what an aquifer is and why it can be important to
+            communities.
+        workbook:
+            - lines: 8
+- requirement: 5
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Make a drawing to show the hydrologic cycle.
+        workbook:
+            - area: true
+              height: 8
+      - requirement: b
+        text: |-
+            Show by demonstration at least two of the following actions of
+            water in relation to soil: percolation, capillary action,
+            precipitation, evaporation, transpiration.
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            Explain how removal of vegetation will affect the way water runs
+            off a watershed.
+        workbook:
+            - lines: 8
+      - requirement: d
+        text: |-
+            Tell how uses of forest, range, and farm land affect usable water
+            supply.
+        workbook:
+            - lines: 8
+      - requirement: e
+        text: |-
+            Explain how industrial use affects water supply.
+        workbook:
+            - lines: 8
+- requirement: 6
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Tell what is meant by “water pollution.”
+        workbook:
+            - lines: 4
+      - requirement: b
+        text: |-
+            Describe common sources of water pollution and explain the effects
+            of each.
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            Tell what is meant by “primary water treatment,” “secondary waste
+            treatment,” and “biochemical oxygen demand.”
+        workbook:
+            - lines: 3
+              text: |-
+                  Primary water treatment
+            - lines: 3
+              text: |-
+                  Secondary waste treatment
+            - lines: 3
+              text: |-
+                  Biochemical oxygen demand
+      - requirement: d
+        text: |-
+            Make a drawing showing the principles of complete waste treatment.
+        workbook:
+            - area: true
+              height: 8
+- requirement: 7
+  text: |-
+      Do TWO of the following:
+  children:
+      - requirement: a
+        text: |-
+            Make a trip to TWO of the following places. Write a report of more
+            than 500 words about the soil and water and energy conservation
+            practices you saw.
+        workbook:
+            - header: true
+              markdown: true
+              text: |-
+                  * An agricultural experiment
+                  * A managed forest or woodlot, range, or pasture
+                  * A wildlife refuge or a fish or game management area
+                  * A conservation-managed farm or ranch
+                  * A managed watershed
+                  * A waste-treatment plant
+                  * A public drinking water treatment plant
+                  * An industry water use installation
+                  * A desalinization plant
+            - lines: 8
+            - lines: 8
+        children:
+            - requirement: 1
+              text: |-
+                  An agricultural experiment
+              workbookHide: true
+            - requirement: 2
+              text: |-
+                  A managed forest or woodlot, range, or pasture
+              workbookHide: true
+            - requirement: 3
+              text: |-
+                  A wildlife refuge or a fish or game management area
+              workbookHide: true
+            - requirement: 4
+              text: |-
+                  A conservation-managed farm or ranch
+              workbookHide: true
+            - requirement: 5
+              text: |-
+                  A managed watershed
+              workbookHide: true
+            - requirement: 6
+              text: |-
+                  A waste-treatment plant
+              workbookHide: true
+            - requirement: 7
+              text: |-
+                  A public drinking water treatment plant
+              workbookHide: true
+            - requirement: 8
+              text: |-
+                  An industry water use installation
+              workbookHide: true
+            - requirement: 9
+              text: |-
+                  A desalinization plant
+              workbookHide: true
+      - requirement: b
+        text: |-
+            Plant 100 trees, bushes, and/or vines for a good purpose.
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            Seed an area of at least 1⁄5 acre for some worthwhile conservation
+            purpose, using suitable grasses or legumes alone or in a mixture.
+        workbook:
+            - lines: 8
+      - requirement: d
+        text: |-
+            Study a soil survey report. Describe the things in it. On tracing
+            paper over any of the soil maps, outline an area with three or more
+            different kinds of soil.  List each kind of soil by full name and
+            map symbol.
+        workbook:
+            - lines: 8
+      - requirement: e
+        text: |-
+            Make a list of places in your neighborhood, camps, school ground,
+            or park that have erosion, sedimentation, or pollution problems.
+            Describe how these could be corrected through individual or group
+            action.
+        workbook:
+            - lines: 8
+      - requirement: f
+        text: |-
+            Carry out any other soil and water conservation project approved by
+            your merit badge counselor.
+        workbook:
+            - lines: 8
