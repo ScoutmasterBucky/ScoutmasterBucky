@@ -29,8 +29,7 @@
       precipitation.
   workbook:
       - lines: 5
-      - area: true
-        height: 8
+      - area: 8
 - requirement: 4
   text: |-
       Tell what causes wind, why it rains, and how lightning and hail are
@@ -56,8 +55,7 @@
       Draw a diagram of the water cycle and label its major processes. Explain
       the water cycle to your counselor.
   workbook:
-      - area: true
-        height: 8
+      - area: 8
 - requirement: 7
   text: |-
       Identify some human activities that can alter the environment, and

@@ -142,8 +142,7 @@
             and equipment settings. Have your counselor inspect and approve the
             area for the welding process you have chosen.
         workbook:
-            - area: true
-              height: 8
+            - area: 8
 - requirement: 6
   text: |-
       After successfully completing requirements 1 through 5, use the equipment
@@ -155,41 +154,35 @@
             plate, and weld a bead on the plate following the pattern of your
             initial.
         workbook:
-            - area: true
-              height: 5
+            - area: 5
       - requirement: b
         text: |-
             Cover a small plate (approximately 3" x 3" x ¼") with weld beads
             side by side.
         workbook:
-            - area: true
-              height: 5
+            - area: 5
       - requirement: c
         text: |-
             Tack two plates together in a square groove butt joint.
         workbook:
-            - area: true
-              height: 5
+            - area: 5
       - requirement: d
         text: |-
             Weld the two plates together from 6c on both sides.
         workbook:
-            - area: true
-              height: 5
+            - area: 5
       - requirement: e
         text: |-
             Tack two plates together in a T joint, have your counselor inspect
             it, then weld a T joint with fillet weld on both sides.
         workbook:
-            - area: true
-              height: 5
+            - area: 5
       - requirement: f
         text: |-
             Tack two plates together in a lap joint, have your counselor
             inspect it, then weld a lap joint with fillet weld on both sides.
         workbook:
-            - area: true
-              height: 5
+            - area: 5
 - requirement: 7
   text: |-
       Do the following:

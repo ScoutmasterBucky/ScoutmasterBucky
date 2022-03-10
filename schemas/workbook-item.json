@@ -1,22 +1,22 @@
 {
     "oneOf": [
         {
-            "$ref": "./workbook-item-area.json"
+            "$ref": "./workbook-area.json"
         },
         {
-            "$ref": "./workbook-item-grid.json"
+            "$ref": "./workbook-grid.json"
         },
         {
-            "$ref": "./workbook-item-header.json"
+            "$ref": "./workbook-header.json"
         },
         {
-            "$ref": "./workbook-item-lines.json"
+            "$ref": "./workbook-lines.json"
         },
         {
-            "$ref": "./workbook-item-signature.json"
+            "$ref": "./workbook-signature.json"
         },
         {
-            "$ref": "./workbook-item-split.json"
+            "$ref": "./workbook-split.json"
         }
     ]
 }

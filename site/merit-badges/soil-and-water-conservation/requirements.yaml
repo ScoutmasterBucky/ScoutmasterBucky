@@ -46,10 +46,8 @@
             Take pictures or draw two kinds of soil erosion.
         workbook:
             - split:
-                  - area: true
-                    height: 8
-                  - area: true
-                    height: 8
+                  - area: 8
+                  - area: 8
 - requirement: 3
   text: |-
       Do the following:
@@ -71,12 +69,9 @@
             Take pictures or draw three kinds of erosion-control practices.
         workbook:
             - split:
-                  - area: true
-                    height: 8
-                  - area: true
-                    height: 8
-                  - area: true
-                    height: 8
+                  - area: 8
+                  - area: 8
+                  - area: 8
 - requirement: 4
   text: |-
       Do the following:
@@ -90,15 +85,13 @@
         text: |-
             Outline the smallest watershed that you can find on a contour map.
         workbook:
-            - area: true
-              height: 8
+            - area: 8
       - requirement: c
         text: |-
             Then outline on your map, as far as possible, the next larger
             watershed which also has the smallest in it.
         workbook:
-            - area: true
-              height: 8
+            - area: 8
       - requirement: d
         text: |-
             Explain what a river basin is. Tell why all people living in a
@@ -119,8 +112,7 @@
         text: |-
             Make a drawing to show the hydrologic cycle.
         workbook:
-            - area: true
-              height: 8
+            - area: 8
       - requirement: b
         text: |-
             Show by demonstration at least two of the following actions of
@@ -178,8 +170,7 @@
         text: |-
             Make a drawing showing the principles of complete waste treatment.
         workbook:
-            - area: true
-              height: 8
+            - area: 8
 - requirement: 7
   text: |-
       Do TWO of the following:

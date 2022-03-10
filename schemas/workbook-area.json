@@ -1,7 +1,7 @@
 {
     "type": "object",
     "properties": {
-        "gridHeight": {
+        "area": {
             "type": "number"
         },
         "markdown": {
@@ -14,5 +14,5 @@
         }
     },
     "additionalProperties": false,
-    "required": ["gridHeight"]
+    "required": ["area"]
 }

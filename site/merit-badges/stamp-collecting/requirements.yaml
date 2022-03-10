@@ -49,49 +49,39 @@
       Show at least ONE example of each of the following:
   workbook:
       - split:
-            - area: true
-              height: 8
+            - area: 8
               text: |-
                   Perforated and imperforate stamps
-            - area: true
-              height: 8
+            - area: 8
               text: |-
                   Mint and used stamps
       - split:
-            - area: true
-              height: 8
+            - area: 8
               text: |-
                   Sheet, booklet, and coil stamps
-            - area: true
-              height: 8
+            - area: 8
               text: |-
                   Numbers on plate block, booklet, or coil, or marginal
                   markings
       - split:
-            - area: true
-              height: 8
+            - area: 8
               text: |-
                   Overprint and surcharge
-            - area: true
-              height: 8
+            - area: 8
               text: |-
                   Metered mail
       - split:
-            - area: true
-              height: 8
+            - area: 8
               text: |-
                   Definitive, commemorative, semipostal, and airmail stamps
-            - area: true
-              height: 8
+            - area: 8
               text: |-
                   Cancellation and postmark
       - split:
-            - area: true
-              height: 8
+            - area: 8
               text: |-
                   First day cover
-            - area: true
-              height: 8
+            - area: 8
               text: |-
                   Postal stationery (aerogramme, stamped envelope, and postal
                   card)
@@ -186,16 +176,13 @@
         workbook:
             - lines: 8
             - split:
-                  - area: true
-                    height: 8
+                  - area: 8
                     text: |-
                         Example
-                  - area: true
-                    height: 8
+                  - area: 8
                     text: |-
                         Example
-                  - area: true
-                    height: 8
+                  - area: 8
                     text: |-
                         Example
         children:
@@ -309,8 +296,7 @@
         text: |-
             Design a stamp, cancellation, or cachet.
         workbook:
-            - area: true
-              height: 8
+            - area: 8
       - requirement: b
         text: |-
             Visit a post office, stamp club, or stamp show with an experienced
