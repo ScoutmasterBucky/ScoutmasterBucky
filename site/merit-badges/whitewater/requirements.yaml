@@ -89,42 +89,33 @@
             depths, drop, horizon line, and hydraulic.
         workbook:
             - split:
-                - area: true
-                  height: 5
+                - area: 5
                   text: |-
                       Upstream V
-                - area: true
-                  height: 5
+                - area: 5
                   text: |-
                       Downstream V
-                - area: true
-                  height: 5
+                - area: 5
                   text: |-
                       Eddy with an eddy line
             - split:
-                - area: true
-                  height: 5
+                - area: 5
                   text: |-
                       Ledge
-                - area: true
-                  height: 5
+                - area: 5
                   text: |-
                       River bend
-                - area: true
-                  height: 5
+                - area: 5
                   text: |-
                       Current at different deptsh
             - split:
-                - area: true
-                  height: 5
+                - area: 5
                   text: |-
                       Drop
-                - area: true
-                  height: 5
+                - area: 5
                   text: |-
                       Horizon line
-                - area: true
-                  height: 5
+                - area: 5
                   text: |-
                       Hydraulic
       - requirement: b

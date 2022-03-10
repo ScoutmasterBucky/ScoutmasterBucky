@@ -77,17 +77,17 @@
       your merit badge counselor that you know how to do the following:
   workbook:
       - split:
-          - gridHeight: 8
+          - grid: 8
             text: |-
                 a - Paring cut
-          - gridHeight: 8
+          - grid: 8
             text: |-
                 b - Basic cut and push cut
       - split:
-          - gridHeight: 8
+          - grid: 8
             text: |-
                 c - “V” cut
-          - gridHeight: 8
+          - grid: 8
             text: |-
                 d - Stop cut or score line
   children:
@@ -119,9 +119,9 @@
       Plan your own or select a project from this merit badge pamphlet and
       complete a simple carving in the round.
   workbook:
-      - gridHeight: 8
+      - grid: 8
 - requirement: 7
   text: |-
       Complete a simple low-relief OR a chip carving project.
   workbook:
-      - gridHeight: 8
+      - grid: 8

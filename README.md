@@ -289,54 +289,58 @@ Workbooks are generated from the same `requirements.yaml` as the requirements pa
 * Signature
 * Split
 
+**Workbook Heights:** Heights for areas, grids, and lines are all specified the
+same - each line is 26 pixels tall, which is about 0.7 cm when printed. "Lines"
+and "Grid" also correspond to how many lines or grid rows are shown. The
+heights are measured the same so a workbook row can be split into equal height
+cells and you can use the full cell with each of these.
+
 
 ### Area
 
 Shows an empty area, which is useful for drawings.
 
 ```
-- area: true
+- area: 8
 ```
 
-This is best used with a caption and setting a specific height, which is measured in centimeters (to match the grid height).
+A text caption can be included at the top, just like grids and lines.
 
 ```
-- area: true
-  height: 8
+- area: 8
   text: |-
       This is a caption.
 ```
 
 Properties:
 
-* `area`: Must be `true`.
-* `height`: Number of centimeters of vertical space to display
+* `area`: Height of the area in the workbook - see "Workbook Heights" for
+  information
 * `markdown`: Optional, controls `text`
 * `text`: Optional, text / HTML / markdown to as a caption
 
 
 ### Grid
 
-Shows a grid, which is useful for drawings. The height is measured in the
-number of squares, which is very close to 1 centimeter. Due to technical
-difficulties, the grid will not be part of the generated PDF, but it would
-appear if a visitor to the site printed the workbook web page.
+Shows a grid, which is useful for drawings. Due to technical difficulties, the
+grid will not be part of the generated PDF, but it would appear if a visitor to
+the site printed the workbook web page.
 
 ```
-- gridHeight: 8
+- grid: 8
 ```
 
 Optionally, a caption can be included above the grid.
 
 ```
-- gridHeight: 8
+- grid: 8
   text: |-
       This is a caption
 ```
 
 Properties:
 
-* `gridHeight`: Number of rows to display
+* `grid`: Number of rows to display - see "Workbook Heights" for information
 * `markdown`: Optional, controls `text`
 * `text`: Optional, text / HTML / markdown to as a caption
 
@@ -384,7 +388,7 @@ Optionally, a caption can be included above the ruled area.
 
 Properties:
 
-* `lines`: Number of lines to display
+* `lines`: Number of lines to display - see "Workbook Heights" for information
 * `markdown`: Optional, controls `text`
 * `text`: Optional, text / HTML / markdown to as a caption
 

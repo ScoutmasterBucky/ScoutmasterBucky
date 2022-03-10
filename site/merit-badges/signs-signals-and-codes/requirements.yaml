@@ -28,8 +28,7 @@
       these signaling examples by the use of photos or drawings.
   workbook:
     - lines: 8
-    - area: true
-      height: 8
+    - area: 8
   children:
       - note:
             - inPerson
@@ -56,8 +55,7 @@
             message of six to 10 words using Morse code.
         workbook:
           - lines: 8
-          - area: true
-            height: 8
+          - area: 8
             text: |-
               Your name in Morse code
       - requirement: b
@@ -67,8 +65,7 @@
             receive a message of six to 10 words using ASL.
         workbook:
           - lines: 8
-          - area: true
-            height: 8
+          - area: 8
       - note:
             - inPerson
             - online
@@ -96,8 +93,7 @@
             Spell your first name using semaphore. Send or receive a message of
             six to 10 words using semaphore.
         workbook:
-          - area: true
-            height: 8
+          - area: 8
         children:
             - note:
                   - inPerson
@@ -111,30 +107,20 @@
             nautical flags and discuss their importance.
         workbook:
           - split:
-            - area: true
-              height: 8
-            - area: true
-              height: 8
+            - area: 8
+            - area: 8
           - split:
-            - area: true
-              height: 8
-            - area: true
-              height: 8
+            - area: 8
+            - area: 8
           - split:
-            - area: true
-              height: 8
-            - area: true
-              height: 8
+            - area: 8
+            - area: 8
           - split:
-            - area: true
-              height: 8
-            - area: true
-              height: 8
+            - area: 8
+            - area: 8
           - split:
-            - area: true
-              height: 8
-            - area: true
-              height: 8
+            - area: 8
+            - area: 8
         children:
             - note:
                   - inPerson
@@ -168,8 +154,7 @@
             alphabet that spell your name. By sight or touch, decode a braille
             message at least six words long.
         workbook:
-          - area: true
-            height: 8
+          - area: 8
       - requirement: b
         markdown: true
         text: |-
@@ -182,8 +167,7 @@
             the characters of the braille alphabet to spell out your message
             letter by letter.
         workbook:
-          - area: true
-            height: 8
+          - area: 8
         children:
             - note:
                   - inPerson
@@ -239,8 +223,7 @@
       no-trace principles by replacing or returning trail markers to their
       original locations.
   workbook:
-    - area: true
-      height: 8
+    - area: 8
   children:
       - note:
             - inPerson
@@ -300,8 +283,7 @@
       means. Then do the following:
   workbook:
     - lines: 8
-    - area: true
-      height: 8
+    - area: 8
       text: |-
         Design your own symbol
   children:
@@ -315,8 +297,7 @@
         text: |-
             Show examples of 10 traffic signs and explain their meaning.
         workbook:
-          - area: true
-            height: 8
+          - area: 8
         children:
             - note:
                   - inPerson
@@ -331,8 +312,7 @@
             its importance. Point out 10 map symbols and explain the meaning of
             each.
         workbook:
-          - area: true
-            height: 8
+          - area: 8
         children:
             - note:
                   - inPerson
@@ -348,8 +328,7 @@
             your counselor or parent can identify the meaning or usage of each
             symbol.
         workbook:
-          - area: true
-            height: 8
+          - area: 8
         children:
             - note:
                   - inPerson

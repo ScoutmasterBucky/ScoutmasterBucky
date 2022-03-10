@@ -1,13 +1,8 @@
 <div class="{{>workbook-section-classes}}">
-{{#if text}}
-<div class="Fz(0.8em) Bdbw(1px) Px(0.5em)">
-{{>text}}
-</div>
-{{/if}}
-
+{{>workbook-item-caption}}
 {{! Printing this background looks bad in wkhtmltopdf because it does not
 attach to the textarea and appears to attach to the page. printBgStyleRemove
 will remove it in that case !}}
-<div class="Fz(38px) Lh(1) H({{gridHeight}}em) printBgStyleRemove" style="background-image: url({{@root.rootPath}}images/bg-grid-38px.png)">
+<div class="Fz(26px) Lh(1) H({{grid}}em) printBgStyleRemove" style="background-image: url({{@root.rootPath}}images/bg-grid-26px.png)">
 </div>
 </div>

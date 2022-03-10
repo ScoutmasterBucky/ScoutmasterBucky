@@ -210,7 +210,7 @@
       your project. Keep track of the time you spend and the cost of the
       materials.
   workbook:
-      - gridHeight: 8
+      - grid: 8
       - lines: 2
         text: |-
             Time spent and cost of the materials
@@ -229,25 +229,25 @@
             Make working drawings of a project needing beveled or rounded edges
             and build it.
         workbook:
-            - gridHeight: 8
+            - grid: 8
       - requirement: b
         text: |-
             Make working drawings of a project needing curved or incised
             cuttings and build it.
         workbook:
-            - gridHeight: 8
+            - grid: 8
       - requirement: c
         text: |-
             Make working drawings of a project needing miter, dowel, or mortise
             and tenon joints and build it.
         workbook:
-            - gridHeight: 8
+            - grid: 8
       - requirement: d
         text: |-
             Make a cabinet, box, or something else with a door or lid fastened
             with inset hinges.
         workbook:
-            - gridHeight: 8
+            - grid: 8
       - requirement: e
         text: |-
             Help make wooden toys for underprivileged children; OR help carry out a woodworking service project approved by your counselor for a charitable organization.

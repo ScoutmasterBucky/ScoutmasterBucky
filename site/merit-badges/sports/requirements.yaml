@@ -134,12 +134,10 @@
         text: |-
             Draw diagrams of the playing area for your two sports.
         workbook:
-          - area: true
-            height: 8
+          - area: 8
             text: |-
               First sport
-          - area: true
-            height: 8
+          - area: 8
             text: |-
               Second sport
 - requirement: 5
@@ -150,8 +148,7 @@
         text: |-
             Organize a chart and track your training, practice, and development in the sports for one season or four months
         workbook:
-          - area: true
-            height: 8
+          - area: 8
       - requirement: b
         text: |-
             Demonstrate proper technique for your two chosen sports.

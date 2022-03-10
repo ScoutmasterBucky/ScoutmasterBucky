@@ -33,12 +33,10 @@
       four other space pioneers with your counselor.
   workbook:
       - split:
-            - area: true
-              height: 10
+            - area: 10
               text: |-
                   Front
-            - area: true
-              height: 10
+            - area: 10
               text: |-
                   Back
 - requirement: 3
@@ -186,8 +184,7 @@
       person.  Make drawings or a model of your base. In your design, consider
       and plan for the following:
   workbook:
-      - area: true
-        height: 10
+      - area: 10
         text: Drawings of your base
   children:
       - requirement: a
