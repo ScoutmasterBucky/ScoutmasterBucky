@@ -1,0 +1,14 @@
+<div class="{{>workbook-section-classes}}">
+{{>workbook-item-caption}}
+{{! Weirdly, the textarea will contain space after it equal to 1 line !}}
+{{! Printing this background looks bad in wkhtmltopdf because it does not
+attach to the textarea and appears to attach to the page. printBgStyleRemove
+will remove it in that case !}}
+<div class="Lh(0)">
+    <textarea
+        name="{{id}}"
+        class="Fz(22px) Bgc(smbAccBg):h W(100%) Bdw(0) Rsz(v) Px(6px) printBgStyleRemove"
+        style="background-image: url({{@root.rootPath}}images/bg-lines-fz22.png)"
+        rows="{{lines}}"></textarea>
+</div>
+</div>

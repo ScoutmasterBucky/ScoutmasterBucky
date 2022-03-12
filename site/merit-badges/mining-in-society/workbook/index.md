@@ -41,7 +41,7 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4" requirement="Discuss with your counselor the dangers someone might encounter at an abandoned mine. Include information about the \"Stay Out — Stay Alive\" program."}}
+{{#wb-req item="4" requirement="Discuss with your counselor the dangers someone might encounter at an abandoned mine or quarry."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -49,7 +49,7 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5a" requirement="With your parent’s approval and your counselor’s assistance, use the Internet to find and take a virtual tour of two types of mines. Determine the similarities and differences between them regarding resource exploration, mine planning and permitting, types of equipment used, and the minerals produced. Discuss with your counselor what you learned from your Internet-based mine tours."}}
+{{#wb-req item="5a" requirement="With your parent’s approval and your counselor’s assistance, use the internet to find and take a virtual tour of two types of mines. Determine the similarities and differences between them regarding resource exploration, mine planning and permitting, types of equipment used, and the minerals produced. Discuss with your counselor what you learned from your internet-based mine tours."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -109,7 +109,7 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="7d" requirement="With your parent’s permission, use the Internet and other resources to determine the current price of gold, copper, aluminum, or other commodities like cement or coal, and find out the five-year price trend for two of these. Report your findings to your counselor."}}
+{{#wb-req item="7d" requirement="With your parent’s permission, use the internet and other resources to determine the current price of gold, copper, aluminum, or other commodities like cement or coal, and find out the five-year price trend for two of these. Report your findings to your counselor."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -117,7 +117,7 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="8a" requirement="With your parent’s and counselor’s approval, meet with a worker in the mining industry. Discuss the work, equipment, and technology used in this individual’s position, and learn about a current project. Ask to see reports, drawings, and/or maps made for the project. Find out about the educational and professional requirements for this individual’s position. Ask how the individual’s mining career began. Discuss with your counselor what you have learned."}}
+{{#wb-req item="8a" requirement="With your parent’s and counselor’s approval, interview a worker in the mining industry. Discuss the work, equipment, and technology used in this individual’s position, and learn about a current project. Ask to see reports, drawings, and/or maps made for the project. Find out about the educational and professional requirements for this individual’s position. Ask how the individual’s mining career began. Discuss with your counselor what you have learned."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

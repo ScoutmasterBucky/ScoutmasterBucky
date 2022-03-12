@@ -164,7 +164,7 @@ workbook: true
 {{#wb-req-note}}If selected, this requirement will need you to share your work with your counselor and does not require any workbook entry.{{/wb-req-note}}
 {{/wb-req}}
 
-{{#wb-req item="10a" alert="Do ONE of the following (10a, 10b, 10c, or 10d) for requirement 10:" requirement="Tour a U.S. Mint facility, a Bureau of Engraving and Printing facility, a Federal Reserve bank, or a numismatic museum or exhibit, and describe what you learned to your counselor."}}
+{{#wb-req item="10a" alert="Do ONE of the following (10a, 10b, 10c, or 10d) for requirement 10:" requirement="Tour a U.S. Mint facility, a Bureau of Engraving and Printing facility, a Federal Reserve Bank, or a numismatic museum or exhibit, and describe what you learned to your counselor."}}
 {{#wb-req-short}}Toured or visited place:{{/wb-req-short}}
 {{#wb-req-short}}Visited date:{{/wb-req-short}}
 {{#wb-req-text lines=8}}Notes:{{/wb-req-text}}

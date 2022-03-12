@@ -167,7 +167,7 @@
                          * If the setting url_blank is set and is true, the target of the url
                          * will be "_blank"
                          */
-                        type_url = settings.events[i].url_blank !== undefined &&
+                        let type_url = settings.events[i].url_blank !== undefined &&
                                    settings.events[i].url_blank === true ?
                                    '_blank':'';
                         description.wrap( '<a href="'+ settings.events[i].url +'" target="'+type_url+'" ></a>' );

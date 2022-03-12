@@ -41,8 +41,7 @@ Only 41 spaces left as of 01-02-2020
 </div>
 <div class="D(f) Fxd(c) Jc(c) P(0.2em)">
 
-Registration closes in: <br />
-{{> countdown to=registrationCloseDate}}
+Registration closes in: <br /> <script>countdown("{{registrationCloseDate}}", "Sorry, registration is closed")</script>
 
 This course **WILL** fill up completely<br />
 Don't wait or you may not get a spot!

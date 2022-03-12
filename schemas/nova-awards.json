@@ -1,0 +1,16 @@
+{
+    "type": "object",
+    "properties": {
+        "cub-scouts": {
+            "$ref": "./nova-award-list.json"
+        },
+        "scouts-bsa": {
+            "$ref": "./nova-award-list.json"
+        },
+        "venturing-and-sea-scouts": {
+            "$ref": "./nova-award-list.json"
+        }
+    },
+    "additionalProperties": false,
+    "required": ["cub-scouts", "scouts-bsa", "venturing-and-sea-scouts"]
+}

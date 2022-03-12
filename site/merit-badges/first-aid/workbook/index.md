@@ -29,7 +29,7 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4" requirement="Explain the universal precautions as applied to the transmission of infections. Discuss the ways you should protect yourself and the victim while administering first aid."}}
+{{#wb-req item="4" requirement="Explain the standard precautions as applied to the transmission of infections. Discuss the ways you should protect yourself and the victim while administering first aid."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -85,7 +85,11 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="8c" requirement="Tell the dangers in the use of a tourniquet and the conditions under which its use is justified."}}
+{{#wb-req item="8c" requirement="Explain when it is appropriate and not appropriate to use a tourniquet. List some of the benefits and dangers of the use of a tourniquet."}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="8d" requirement="Describe the proper application of a tourniquet."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -93,35 +97,47 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="10" requirement="Describe the signs and symptoms and demonstrate the proper procedures for handling and immobilizing suspected closed and open fractures or dislocations of the"}}
+{{#wb-req item="10" requirement="Do the following"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="10a" requirement="Forearm"}}
+{{#wb-req item="10a" requirement="Describe the signs and symptoms of an open or closed fracture or dislocation."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="10b" requirement="Wrist"}}
+{{#wb-req item="10b" requirement="Explain what measures should be taken to reduce the likelihood of further complications of fractures and dislocations."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="10c" requirement="Upper leg"}}
+{{#wb-req item="11" requirement="Demonstrate the proper procedures for handling and immobilizing suspected closed or open fractures or dislocations of the"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="10d" requirement="Lower leg"}}
+{{#wb-req item="11a" requirement="Forearm"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="10e" requirement="Ankle"}}
+{{#wb-req item="11b" requirement="Wrist"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="11" requirement="Describe the signs, symptoms, and possible complications and demonstrate care for someone with a suspected injury to the head, neck, or back."}}
+{{#wb-req item="11c" requirement="Hand and Fingers"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="12" requirement="Describe the symptoms, proper first-aid procedures, and possible prevention measures for the following conditions:"}}
+{{#wb-req item="11d" requirement="Upper leg"}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="11e" requirement="Lower leg"}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="11f" requirement="Ankle"}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="12" requirement="Describe the signs and symptoms, proper first-aid procedures, and possible prevention measures for the following conditions:"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -129,51 +145,63 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="12b" requirement="Bruises"}}
+{{#wb-req item="12b" requirement="Asthma attack"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="12c" requirement="Sprains or strains"}}
+{{#wb-req item="12c" requirement="Bruises"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="12d" requirement="Hypothermia"}}
+{{#wb-req item="12d" requirement="Sprains or strains"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="12e" requirement="Frostbite"}}
+{{#wb-req item="12e" requirement="Hypothermia"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="12f" requirement="Burns - first, second, and third degree"}}
+{{#wb-req item="12f" requirement="Frostbite"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="12g" requirement="Convulsions/seizures"}}
+{{#wb-req item="12g" requirement="Burns - first, second, and third degree"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="12h" requirement="Dehydration"}}
+{{#wb-req item="12h" requirement="Concussion"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="12i" requirement="Muscle cramps"}}
+{{#wb-req item="12i" requirement="Convulsions/seizures"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="12j" requirement="Heat exhaustion"}}
+{{#wb-req item="12j" requirement="Someone who is unconscious"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="12k" requirement="Heat stroke"}}
+{{#wb-req item="12k" requirement="Dehydration"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="12l" requirement="Abdominal pain"}}
+{{#wb-req item="12l" requirement="Muscle cramps"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="12m" requirement="Broken, chipped, or loosened tooth"}}
+{{#wb-req item="12m" requirement="Heat exhaustion"}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="12n" requirement="Heat stroke"}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="12o" requirement="Abdominal pain"}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="12p" requirement="Broken, chipped, or loosened tooth"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 

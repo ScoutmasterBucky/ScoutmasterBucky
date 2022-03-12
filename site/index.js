@@ -23,12 +23,12 @@ function toggleClass(ele, findClass, toggleClass) {
 }
 
 function eventTime(fromStr, toStr) {
-    var from = new Date(fromStr);
-    var to = new Date(toStr);
-    offset = from.getTimezoneOffset();
-    offsetSign = offset > 0 ? "-" : "+";
-    offsetHours = Math.floor(Math.abs(offset) / 60);
-    offsetMin = Math.abs(offset) % 60;
+    const from = new Date(fromStr);
+    const to = new Date(toStr);
+    const offset = from.getTimezoneOffset();
+    const offsetSign = offset > 0 ? "-" : "+";
+    let offsetHours = Math.floor(Math.abs(offset) / 60);
+    let offsetMin = Math.abs(offset) % 60;
 
     if (offsetMin < 10) {
         offsetMin = "0" + offsetMin;
@@ -38,7 +38,7 @@ function eventTime(fromStr, toStr) {
         offsetHours = "0" + offsetHours;
     }
 
-    offsetStr = offsetSign + offsetHours + ":" + offsetMin;
+    const offsetStr = offsetSign + offsetHours + ":" + offsetMin;
 
     if (offsetStr !== fromStr.substr(fromStr.length - 6)) {
         writeTime(from, to);
@@ -57,7 +57,7 @@ function onSaleDate(dateStr) {
 }
 
 function writeTime(from, to) {
-    output = '<div class="Ta(c) Fw(b)">In your timezone:<br>';
+    let output = '<div class="Ta(c) Fw(b)">In your timezone:<br>';
 
     if (isSameDay(from, to)) {
         output += getTimeOfDay(from) + " - " + getTimeOfDay(to);
@@ -130,6 +130,56 @@ function updateIframes() {
 
 function isVisible(e) {
     return e.offsetWidth || e.offsetHeight || e.getClientRects().length;
+}
+
+function countdown(to, message) {
+    var id = 'countdown' + Math.random();
+    var to = new Date(to);
+    document.write('<span id="' + id + '"></span>');
+
+    var interval = setInterval(function () {
+        var e = document.getElementById(id);
+
+        if (!e) {
+            return;
+        }
+
+        var diff = to - Date.now();
+
+        if (diff < 0) {
+            e.innerHTML = message;
+            clearInterval(interval);
+            return;
+        }
+
+        var s = Math.floor(diff / 1000);
+        var m = Math.floor(s / 60);
+        s = s % 60;
+        var h = Math.floor(m / 60);
+        m = m % 60;
+        var d = Math.floor(h / 24);
+        h = h % 24;
+
+        out = [];
+
+        if (d) {
+            out.push(d + ' days');
+        }
+
+        if (d || h) {
+            out.push(h + ' hours');
+        }
+
+        if (d || h || m) {
+            out.push(m + ' minutes');
+        }
+
+        if (d || h || m || s) {
+            out.push(s + ' seconds');
+        }
+
+        e.innerHTML = out.join(', ');
+    }, 1000);
 }
 
 window.addEventListener("load", updateIframes);

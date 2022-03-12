@@ -1,0 +1,180 @@
+- detail: true
+  markdown: true
+  text: |-
+      **Downhill (Alpine) Skiing Option**
+
+      This workbook covers only one of the options for this merit badge. Check
+      the Scoutmaster Bucky website for the other possibilities.
+- requirement: 1
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain to your counselor the hazards you are most likely to encounter while participating in snow sport activities, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
+        workbook:
+            - lines: 3
+              text: |-
+                  Anticipate hazards
+            - lines: 3
+              text: |-
+                  Prevent hazards
+            - lines: 3
+              text: |-
+                  Mitigate hazards
+            - lines: 3
+              text: |-
+                  Respond to hazards
+      - requirement: b
+        text: |-
+            Discuss first aid and prevention for the types of injuries or illnesses that could occur while participating in snow sports, including hypothermia, frostbite, shock, dehydration, sunburn, fractures, bruises, sprains, and strains. Tell how to apply splints.
+        workbook:
+            - lines: 3
+              text: |-
+                Hypothermia
+            - lines: 3
+              text: |-
+                Frostbite
+            - lines: 3
+              text: |-
+                Shock
+            - lines: 3
+              text: |-
+                Dehydration
+            - lines: 3
+              text: |-
+                Sunburn
+            - lines: 3
+              text: |-
+                Fractures
+            - lines: 3
+              text: |-
+                Bruises
+            - lines: 3
+              text: |-
+                Sprains and strains
+- requirement: 2
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain why every snow sport participant should be prepared to render first aid in the event of an accident.
+        workbook:
+          - lines: 8
+      - requirement: b
+        text: |-
+            Explain the procedure used to report an accident to the local ski patrol for the area where you usually ski, ride, or snowshoe.
+        workbook:
+          - lines: 8
+- requirement: 3
+  text: |-
+      Explain the international trail-marking system.
+  workbook:
+    - lines: 8
+- requirement: 4
+  text: |-
+      Discuss the importance of strength, endurance, and flexibility in snow sports.  Demonstrate exercises and activities you can do to get fit for the option you choose in requirement 7.
+  workbook:
+    - lines: 8
+- requirement: 5
+  text: |-
+      Present yourself properly clothed and equipped for the option you choose in requirement 7. Discuss how the clothing you have chosen will help keep you warm and protected.
+  workbook:
+    - lines: 8
+- requirement: 6
+  text: |-
+      Do EACH of the following:
+  children:
+      - requirement: a
+        text: |-
+            Tell the meaning of the Your Responsibility Code for skiers, snowboarders, and snowshoers. Explain why each rider must follow this code.
+        workbook:
+          - lines: 8
+      - requirement: b
+        text: |-
+            Explain the Smart Style safety program. Tell why it is important and how it applies to participants at snow sport venues like terrain parks and pipes.
+        workbook:
+          - lines: 8
+      - requirement: c
+        text: |-
+            Explain the precautions pertaining to avalanche safety, including the responsibility of individuals regarding avalanche safety.
+        workbook:
+          - lines: 8
+      - requirement: d
+        text: |-
+            Tell the meaning of the Wilderness Use Policy. Explain why each skier and snowboarder must adopt this policy.
+        workbook:
+          - lines: 8
+- requirement: 7
+  text: |-
+      Complete ALL of the requirements for ONE of the following options: downhill (Alpine) skiing OR cross-country (Nordic) OR snowboarding OR snowshoeing.
+  children:
+      - detail: true
+        markdown: true
+        text: |-
+            **Downhill (Alpine) Skiing Option**
+      - requirement: a
+        text: |-
+            Show how to use and maintain your own release bindings and explain the use of two others. Explain the international DIN standard and what it means to skiers.
+        workbook:
+          - lines: 8
+      - requirement: b
+        text: |-
+            Explain the American Teaching System and a basic snow-skiing progression.
+        workbook:
+          - lines: 8
+      - requirement: c
+        text: |-
+            Discuss the five types of Alpine skis. Demonstrate two ways to carry skis and poles safely and easily.
+        workbook:
+          - lines: 8
+      - requirement: d
+        text: |-
+            Demonstrate how to ride one kind of lift and explain how to ride two others.
+        workbook:
+          - lines: 4
+      - requirement: e
+        text: |-
+            On a gentle slope, demonstrate some of the beginning maneuvers learned in skiing. Include the straight run, gliding wedge, wedge stop, sidestep, and herringbone maneuvers.
+        workbook:
+          - lines: 4
+      - requirement: f
+        text: |-
+            On slightly steeper terrain, show linked wedge turns.
+        workbook:
+          - lines: 4
+      - requirement: g
+        text: |-
+            On a moderate slope, demonstrate five to 10 christies.
+        workbook:
+          - lines: 4
+      - requirement: h
+        text: |-
+            Make a controlled run down an intermediate slope and demonstrate the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Short-, medium-, and long-radius parallel turns
+              workbook:
+                - lines: 4
+            - requirement: 2
+              text: |-
+                  A sideslip and safety (hockey) stop to each side
+              workbook:
+                - lines: 4
+            - requirement: 3
+              text: |-
+                  Traverse across a slope
+              workbook:
+                - lines: 4
+      - requirement: i
+        text: |-
+            Demonstrate the ability to ski in varied conditions, including changes in pitch, snow conditions, and moguls. Maintain your balance and ability to turn.
+        workbook:
+          - lines: 4
+      - requirement: j
+        text: |-
+            Name the major ski organizations in the United States and explain their functions.
+        workbook:
+          - lines: 8

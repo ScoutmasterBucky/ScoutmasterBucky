@@ -1,0 +1,13 @@
+{{#if lines}}
+{{>workbook-lines}}
+{{else if signature}}
+{{>workbook-signature}}
+{{else if grid}}
+{{>workbook-grid}}
+{{else if header}}
+{{>workbook-header}}
+{{else if split}}
+{{>workbook-split}}
+{{else if area}}
+{{>workbook-area}}
+{{/if}}

@@ -1,0 +1,44 @@
+{
+    "type": "object",
+    "additionalProperties": {
+        "oneOf": [
+            {
+                "type": "object",
+                "properties": {
+                    "active": {
+                        "type": "boolean",
+                        "enum": [ false ]
+                    },
+                    "name": {
+                        "type": "string"
+                    }
+                },
+                "required": ["active", "name"],
+                "additionalProperties": false
+            },
+            {
+                "type": "object",
+                "properties": {
+                    "active": {
+                        "type": "boolean",
+                        "enum": [ true ]
+                    },
+                    "name": {
+                        "type": "string"
+                    },
+                    "eagle": {
+                        "type": "boolean"
+                    },
+                    "bucky": {
+                        "type": "string"
+                    },
+                    "image": {
+                        "type": "string"
+                    }
+                },
+                "required": ["active", "name", "bucky", "image"],
+                "additionalProperties": false
+            }
+        ]
+    }
+}

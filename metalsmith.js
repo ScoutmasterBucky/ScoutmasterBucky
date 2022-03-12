@@ -1,11 +1,27 @@
+const fs = require('fs');
 const metalsmithSite = require('@fidian/metalsmith-site');
 const os = require('os');
-let lastFiles = null;  // For PDF generation
+const path = require('path');
+const tv4 = require('tv4');
+const wkhtmltopdf = require("wkhtmltopdf");
+
+// For PDF generation
+const pdfCache = {};
+let lastFiles = null;
+
+// Load schemas to validata data. This is not recursive
+const schemaFolder = path.resolve(__dirname, 'schemas');
+for (fn of fs.readdirSync(schemaFolder)) {
+    if (fn.match(/^[^.]/) && fn.match(/\.json$/)) {
+        const resolvedFilename = path.resolve(schemaFolder, fn);
+        tv4.addSchema(`/${fn}`, JSON.parse(fs.readFileSync(resolvedFilename, 'utf8')));
+    }
+}
 
 metalsmithSite.run({
     baseDirectory: __dirname,
     buildAfter: (sugar) => {
-        if (!process.env.SERVE) {
+        if (process.env.MINIFY) {
             sugar.use('metalsmith-babel', {
                 presets: ["@babel/preset-env"]
             });
@@ -61,6 +77,23 @@ metalsmithSite.run({
             files['404.md'].rootPath = '/';
             done();
         });
+
+        // Verify all data against schemas
+        sugar.use((files, metalsmith, done) => {
+            // Just do default metadata once
+            validateOrThrow('default-metadata.js', files['404.md'].meritBadges, '/merit-badges.json');
+            validateOrThrow('default-metadata.js', files['404.md'].novaAwards, '/nova-awards.json');
+            validateOrThrow('default-metadata.js', files['404.md'].supernovaAwards, '/supernova-awards.json');
+
+            for (const [filename, fileObj] of Object.entries(files)) {
+                if (fileObj.data && fileObj.data.requirements) {
+                    validateOrThrow(filename, fileObj.data.requirements, '/requirement-list.json');
+                    augmentRequirements(fileObj.data.requirements, []);
+                }
+            }
+
+            done();
+        });
     },
     postProcess: (done) => {
         generatePdfs(lastFiles, (e) => {
@@ -77,13 +110,9 @@ metalsmithSite.run({
     }
 }, err => {
     if (err) {
-        console.error(err);
+        console.error(`${err}`);
     }
 });
-
-const pdfCache = {};
-const path = require("path");
-const wkhtmltopdf = require("wkhtmltopdf");
 
 function generatePdfs(files, done) {
     let list = [];
@@ -92,6 +121,8 @@ function generatePdfs(files, done) {
     Object.keys(files).forEach((filename) => {
         const file = files[filename];
 
+        // Filter out everything if WORKBOOKS isn't defined in the environment.
+        // Filter out files that don't have "workbook" set as metadata.
         if (!process.env.WORKBOOKS || !file.workbook) {
             return;
         }
@@ -162,10 +193,11 @@ function generatePdfs(files, done) {
         current += 1;
         console.log(`Creating ${mine.pdf} (${current}/${needed})`);
         const stream = wkhtmltopdf(
-            "http://localhost:8080/" + mine.filename,
+            "http://localhost:8080/" + mine.filename + "?print=true",
             {
                 // debug: true,
                 // debugStdOut: true,
+                // debugJavascript: true,
                 printMediaType: true,
                 enableForms: true,
                 marginTop: "1in",
@@ -187,5 +219,61 @@ function generatePdfs(files, done) {
             running -= 1;
             processPdf();
         });
+    }
+}
+
+function validateOrThrow(dataPath, data, schemaPath) {
+    const isValid = tv4.validate(data, schemaPath);
+
+    if (tv4.missing && tv4.missing.length) {
+        throw new Error(`Missing schemas: ${tv4.missing}`);
+    }
+
+    if (!isValid) {
+        const copy = JSON.parse(JSON.stringify(tv4.error));
+        cleanseError(copy);
+        throw new Error(`Error in data file: ${dataPath}
+${JSON.stringify(copy, null, 4)}`);
+    }
+}
+
+function cleanseError(obj) {
+    delete obj.code;
+    delete obj.stack;
+    delete obj.params;
+    delete obj.schemaPath;
+
+    if (obj.subErrors === null) {
+        delete obj.subErrors;
+    }
+
+    if (obj.subErrors) {
+        for (const child of obj.subErrors) {
+            cleanseError(child);
+        }
+    }
+}
+
+function augmentRequirements(arr, parents) {
+    for (const item of arr) {
+        item.parents = parents;
+
+        if (item.children) {
+            augmentRequirements(item.children, [...parents, item]);
+        }
+
+        if (item.workbook) {
+            augmentWorkbook(item.workbook);
+        }
+    }
+}
+
+let idNum = 0;
+
+function augmentWorkbook(arr) {
+    for (const item of arr) {
+        // Give each a unique ID for wkhtmltopdf picks up the form field
+        idNum += 1;
+        item.id = `wb_${idNum}`;
     }
 }
