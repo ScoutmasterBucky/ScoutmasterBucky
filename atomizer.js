@@ -92,7 +92,7 @@ module.exports = {
             gridBg: "linear-gradient(to right, transparent 35px, #bbb 35px, #bbb 36px, transparent 36px), linear-gradient(to bottom, transparent 35px, #bbb 35px, #bbb 36px, transparent 36px)",
             gridBgSize: "38px 38px",
             requirementIndent: "32px",
-            requirementGap: "6px",
+            requirementGap: "12px",
             smbReqP: "1em", // Same as requirementGap, but should deprecate and remove
             wbBdw: "1px",
             wbLh: "1.2em",
