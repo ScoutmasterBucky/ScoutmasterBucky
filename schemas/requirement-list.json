@@ -1,0 +1,19 @@
+{
+    "type": "array",
+    "items": {
+        "oneOf": [
+            {
+                "$ref": "./requirement.json"
+            },
+            {
+                "$ref": "./note.json"
+            },
+            {
+                "$ref": "./callout.json"
+            },
+            {
+                "$ref": "./detail.json"
+            }
+        ]
+    }
+}

@@ -21,11 +21,11 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2a" requirement="Demonstrate the basic and West Country methods of whipping a rope. Fuse the ends of a rope."}}
+{{#wb-req item="2a" requirement="Demonstrate the West Country method of whipping a rope."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="2b" requirement="Demonstrate how to tie the following knots: clove hitch, butterfly knot, roundturn with two half hitches, rolling hitch, water knot, carrick bend, sheepshank, and sheet bend."}}
+{{#wb-req item="2b" requirement="Demonstrate how to tie a rope tackle and the following knots: clove hitch hitch formed as two half hitches, clove hitch on a bight, butterfly knot, roundturn with two half hitches, and rolling hitch."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -33,7 +33,19 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="3" requirement="Explain why it is useful to be able to throw a rope, then demonstrate how to coil and throw a 40-foot length of 1/4- or 3/8-inch rope. Explain how to improve your throwing distance by adding weight to the end of your rope."}}
+{{#wb-req item="3" requirement="Do the following:"}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="3a" requirement="Using square and tripod lashings from requirement 2c, build a Tripod Wash Station (or with your counselor's permission, another camp gadget of your own design)."}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="3b" requirement="Using rolling hitches or roundturns with two half hitches, and round lashings from requirements 2b and 2c, build a 15-foot Scout Stave Flagpole (or with your counselor's permission, another camp gadget of your own design)."}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="3c" requirement="Using shear, square, and floor lashings, clove hitches on a bight, and rope tackles from requirements 2b and 2c, build a Simple Camp Table (or with your counselor's permission, another camp gadget of your own design)."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -41,7 +53,7 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="5" requirement="Explain the uses for the back splice, eye splice, and short splice. Using 1/4- or 3/8-inch three-stranded rope, demonstrate how to form each splice."}}
+{{#wb-req item="5" requirement="Explain the uses for the back splice, eye splice, and short splice. View a demonstration on forming each splice."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -49,28 +61,32 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="7" requirement="Explain the importance of effectively anchoring a pioneering project. Describe to your counselor the 1-1-1 anchoring system and the log-and-stake anchoring methods."}}
+{{#wb-req item="7" requirement="Explain the importance of effectively anchoring a pioneering project. Describe to your counselor the 3-2-1 anchoring system and the log-and-stake anchoring system."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="8" requirement="With the approval of your counselor, demonstrate and use a rope tackle. Be sure the rope tackle is secured properly. Explain the advantages and limitations of using a rope tackle. Describe the potential damage that friction can do to a rope."}}
+{{#wb-req item="8" requirement="Describe the lashings that are used when building a trestle, how the poles are positioned, and how X braces contribute to the overall structural integrity of a pioneering project."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
 **All pioneering projects constructed for this merit badge must comply with height standards as outlined in the *Guide to Safe Scouting*.**
 
-{{#wb-req item="9" requirement="By yourself, build a trestle using square and diagonal lashings. Explain why trestles are used when constructing pioneering projects."}}
+{{#wb-req item="9" requirement="Working in a group, (or individually with the help of your counselor) build a full size pioneering structure, using one of the following designs in the merit badge pamphlet."}}
+{{#wb-req-area}}
+
+<ul>
+<li>Double A-Frame Monkey Bridge</li>
+<li>Single A-Frame Bridge</li>
+<li>Single Trestle Bridge</li>
+<li>Single Lock Bridge</li>
+<li>4x4 Square Climbing Tower</li>
+<li>Four Flag Gateway Tower</li>
+<li>Double Tripod Chippewa Kitchen</li>
+<li>Another type of structure approved in advance by your counselor</li>
+</ul>
+
+Carefully plan the project, assembling and organizing all the materials, referring to the points under Safe Pioneering, and complying with the height restrictions in the Guide to Safe Scouting.
+
+{{/wb-req-area}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
-
-{{#wb-req item="10" requirement="With the approval of your counselor and using appropriate lashings and pioneering techniques, build and use one full-size pioneering project from either group A or group B. Your project must comply with the requirements of the Guide to Safe Scouting. (Requirement 10 may be done at summer camp, at district or council events, or on a troop camp outing.)"}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-**Group A:** Tower **OR** bridge
-
-Anchor your project as appropriate and necessary. Explain how your anchoring system works. Group A projects may be worked on in a group and with others.
-
-**Group B:** Camp chair **OR** camp table
-
-Group B projects must be worked on individually.

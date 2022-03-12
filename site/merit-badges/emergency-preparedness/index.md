@@ -17,19 +17,11 @@ requirements: true
         Include in your discussion the kinds of questions that are important to ask yourself as you consider each of these.
         {{#note type="inPerson" type2="online"}}Scouts must review the merit badge pamphlet to gain an initial understanding of the concepts for this requirement.  Scouts will discuss in a group with the counselor their findings and should come prepared with questions that might be important to ask in the consideration of each of these components of the requirement.  It is recommended that Scouts utilize a Merit Badge Workbook to write down and formulate their thoughts and questions as it pertains to this requirement prior to the class so that they are prepared for discussion during the class.  It will be difficult, if not impossible for Scouts who do not prepare for this requirement to complete the requirement without active participation in the group discussion at the class.{{/note}}
     (b) Using a chart, graph, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 2a (prevention, protection, mitigation, response, and recovery) for 10 emergency situations from the list below. **You must use the first five situations listed below in boldface,** plus any other five of your choice. Discuss your findings with your counselor.
-<<<<<<< HEAD
-        **(1) Home kitchen fire**
-        **(2) Home basement/storage room/garage fire**
-        **(3) Explosion in the home**
-        **(4) Automobile crash**
-        **(5) Food-borne disease (food poisoning)**
-=======
         (1) **Home kitchen fire**
         (2) **Home basement/storage room/garage fire**
         (3) **Explosion in the home**
         (4) **Automobile crash**
         (5) **Food-borne disease (food poisoning)**
->>>>>>> e26538368cf664199d5e41e1c481fd25e34f570a
         (6) Fire or explosion in a public place
         (7) Vehicle stalled in the desert
         (8) Vehicle trapped in a blizzard
@@ -71,7 +63,7 @@ requirements: true
         {{#note type="inPerson"}}This requirement will be completed in the class however it must be noted that Scouts will be going outside to perform this requirement.  PLEASE BRING/WEAR WEATHER APPROPRIATE ATTIRE FOR THE DAY.  Scouts not found to have the proper outdoor attire for the day's weather conditions will not be allowed for safety reasons to participate and hence will not have an opportunity to complete this requirement.{{/note}}
         {{#note type="online"}}This requirement will NOT be completed in the class, however Scouts that can bring satisfactory proof of having already completed this requirement should bring proof for review by the merit badge counselor. If the counselor is satisfied with the discussion and "proof" submitted, Scouts will have an opportunity to be signed off on this requirement component as a part of the class.{{/note}}
     (b) Prepare a written plan for mobilizing your troop when needed to do emergency service. If there is already a plan, explain it. Tell your part in making it work.
-        {{#note type="inPerson" type2="online"}}Scouts whose troop already has a written plan to do emergency service should bring a copy of that or notes that cover the plan for sharing during the class.  Scouts should be prepared to share their responsibility in the plan when executed. If your Troop does not have a plan, time will be given in the class in order for you to create one. Scouts will need to be aware that this written plan will need to be completed before the end of the class in order to receive credit of completion for this requirement. A written plan does not necessarily need to be hand-written, so Scouts with writing challenges may want to consider bringing a laptop or tablet to class for use to complete this requirement.{{/note}}
+        {{#note type="inPerson" type2="online"}}Scouts whose troop already has a written plan to do emergency service should bring a copy of that or notes that cover the plan for sharing during the class.  Scouts should be prepared to share their responsibility in the plan when executed. If your Troop does not have a plan, time may be given in the class in order for you to create one. Scouts will need to be aware that this written plan will need to be completed before the end of the class in order to receive credit of completion for this requirement. A written plan does not necessarily need to be hand-written, so Scouts with writing challenges may want to consider bringing a laptop or tablet to class for use to complete this requirement.{{/note}}
 8. Do the following:
     (a) Tell the things a group of Scouts should be prepared to do, the training they need, and the safety precautions they should take for the following emergency services:
         (1) Crowd and traffic control
@@ -80,7 +72,7 @@ requirements: true
         (4) Group feeding, shelter, and sanitation
         {{#note type="inPerson" type2="online"}}While this requirement will be covered in the class through group discussion, Scouts should still familiarize themselves with methods and practices for each of these scenarios.  It may be helpful to us a Merit Badge Workbook to make notes ahead of time for easier reference and sharing during the class group discussion for each of the scenarios.  This type of preparation helps the counselor identify Scouts more easily that prepared and have thought out their response to this requirement.  Only Scouts that actively participate in the discussion during the class will have the opportunity of completing this requirement.{{/note}}
     (b) Prepare a personal emergency service pack for a mobilization call. Prepare a family emergency kit (suitcase or waterproof box) for use by your family in case an emergency evacuation is needed. Explain the needs and uses of the contents.
-        {{#note type="inPerson" type2="online"}}Scouts whose troop already has a written plan to do emergency service should bring a copy or notes that cover the plan for sharing during the class.  Scouts should be prepared to share their responsibility in the plan when executed. If your Troop does not have a plan, time will be given in the class in order for you to create one. Scouts will need to be aware that this written plan will need to be completed before the end of the class in order to receive credit of completion for this requirement. A written plan does not necessarily need to be hand-written, so Scouts with writing challenges may want to consider bringing a laptop or tablet to class for use to complete this requirement.{{/note}}
+        {{#note type="inPerson" type2="online"}}Scouts need to assemble two different kits, then bring their kits or photos of their kits. Be prepared to discuss the contents of the kits and explain the reasoning behind your choices of what was included and what was not. Any unprepared Scouts will be unable to complete this requirement during class.{{/note}}
 9. Do ONE of the following:
     (a) Using a safety checklist approved by your counselor, inspect your home for potential hazards. Explain the hazards you find and how they can be corrected.
     (b) Review or develop a plan of escape for your family in case of fire in your home.

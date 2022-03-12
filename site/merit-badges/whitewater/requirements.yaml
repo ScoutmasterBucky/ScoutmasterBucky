@@ -1,0 +1,471 @@
+- requirement: 1
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain to your counselor the most likely hazards you may encounter
+            while participating in whitewater activities, including branches
+            and trees in water along a shore and stretching across the stream,
+            rocks, hydraulics over ledges or lowhead dams, strong wind, low
+            water or air temperature, and thunder and lightning storms. Explain
+            what you should do to anticipate, help prevent, mitigate, and
+            respond to these hazards.
+        workbook:
+            - lines: 3
+              text: |-
+                  Anticipate hazards
+            - lines: 3
+              text: |-
+                  Prevent hazards
+            - lines: 3
+              text: |-
+                  Mitigate hazards
+            - lines: 3
+              text: |-
+                  Respond to hazards
+
+      - requirement: b
+        text: |-
+            Review with your counselor the prevention, symptoms, and first-aid
+            treatment for the following injuries or illnesses that could occur
+            while participating in whitewater activities including cold-water
+            shock; hypothermia; head, neck, and back injuries; heat-related
+            illnesses; sunburn; dehydration; blisters; bruises; cuts; sprains
+            and strains; shoulder dislocation; and submersion injuries.
+        workbook:
+            - lines: 3
+              text: |-
+                  Cold-water shock
+            - lines: 3
+              text: |-
+                  Hypothermia
+            - lines: 3
+              text: |-
+                  Head, neck, and back injuries
+            - lines: 3
+              text: |-
+                  Heat-related illnesses
+            - lines: 3
+              text: |-
+                  Sunburn
+            - lines: 3
+              text: |-
+                  Dehydration
+            - lines: 3
+              text: |-
+                  Blisters
+            - lines: 3
+              text: |-
+                  Bruises
+            - lines: 3
+              text: |-
+                  Cuts
+            - lines: 3
+              text: |-
+                  Sprains and strains
+            - lines: 3
+              text: |-
+                  Shoulder dislocation
+            - lines: 3
+              text: |-
+                  Submersion injuries
+      - requirement: c
+        text: |-
+            Discuss with your counselor the BSA Safety Afloat policy and the
+            American Whitewater safety guidelines, including the use of helmet
+            and life jackets.
+        workbook:
+            - lines: 8
+- requirement: 2
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Demonstrate understanding of the following river features by
+            drawing lines to show the flow of water: upstream V, downstream V,
+            eddy with an eddy line, ledge, river bend, current at different
+            depths, drop, horizon line, and hydraulic.
+        workbook:
+            - split:
+                - area: 5
+                  text: |-
+                      Upstream V
+                - area: 5
+                  text: |-
+                      Downstream V
+                - area: 5
+                  text: |-
+                      Eddy with an eddy line
+            - split:
+                - area: 5
+                  text: |-
+                      Ledge
+                - area: 5
+                  text: |-
+                      River bend
+                - area: 5
+                  text: |-
+                      Current at different deptsh
+            - split:
+                - area: 5
+                  text: |-
+                      Drop
+                - area: 5
+                  text: |-
+                      Horizon line
+                - area: 5
+                  text: |-
+                      Hydraulic
+      - requirement: b
+        text: |-
+            Describe how waves form including standing waves and wave trains.
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            Explain how to tilt or edge the boat without leaning your body
+        workbook:
+            - lines: 3
+              text: |-
+                  1 - When entering and exiting an eddy.
+            - lines: 3
+              text: |-
+                  2 - When ferrying in downstream and upstream directions.
+        children:
+            - requirement: 1
+              workbookHide: true
+              text: |-
+                  When entering and exiting an eddy.
+            - requirement: 2
+              workbookHide: true
+              text: |-
+                  When ferrying in downstream and upstream directions.
+      - requirement: d
+        text: |-
+            Explain when, why, and how you should scout a river while ashore
+            and while on the river and when you should portage your boat.
+        workbook:
+            - lines: 8
+- requirement: 3
+  text: |-
+      Before doing requirements 4 through 12, earn the Canoeing merit badge if
+      you will be using a canoe to earn this merit badge. If you will be using a
+      kayak, earn the Kayaking merit badge. Then do the following:
+  workbook:
+      - header: true
+        markdown: true
+        text: |-
+            a - If you will be using a canoe to earn this merit badge, demonstrate
+            strokes and maneuvers from the Canoeing merit badge to the satisfaction
+            of your merit badge counselor.
+
+            OR
+
+            b - If you will be using a kayak to earn this merit badge, demonstrate
+            strokes and maneuvers from the Kayaking merit badge to the satisfaction
+            of your merit badge counselor.
+      - lines: 8
+  children:
+      - requirement: a
+        text: |-
+            If you will be using a canoe to earn this merit badge, demonstrate
+            strokes and maneuvers from the Canoeing merit badge to the
+            satisfaction of your merit badge counselor.
+        workbookHide: true
+      - callout: true
+        text: |-
+            OR
+      - requirement: b
+        workbookHide: true
+        text: |-
+            If you will be using a kayak to earn this merit badge, demonstrate
+            strokes and maneuvers from the Kayaking merit badge to the
+            satisfaction of your merit badge counselor.
+- requirement: 4
+  text: |-
+      Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            If you are completing these requirements as a tandem canoeist,
+            perform the following on calm water:
+        workbook:
+            - header: true
+              text: |-
+                  1 - Demonstrate the following strokes in the bow: cross forward,
+                  bow draw, cross bow draw, bow pry, and sculling draw.
+            - lines: 8
+            - header: true
+              text: |-
+                  2 - Demonstrate the following strokes in the stern: stern draw,
+                  stern pry, sculling draw, and forward with stern pry.
+            - lines: 8
+            - header: true
+              text: |-
+                  3 - Demonstrate a high brace, low brace, and righting pry.
+            - lines: 8
+        children:
+            - requirement: 1
+              text: |-
+                  Demonstrate the following strokes in the bow: cross forward,
+                  bow draw, cross bow draw, bow pry, and sculling draw.
+              workbookHide: true
+            - requirement: 2
+              text: |-
+                  Demonstrate the following strokes in the stern: stern draw,
+                  stern pry, sculling draw, and forward with stern pry.
+              workbookHide: true
+            - requirement: 3
+              text: |-
+                  Demonstrate a high brace, low brace, and righting pry.
+              workbookHide: true
+      - callout: true
+        text: |-
+            OR
+      - requirement: b
+        text: |-
+            If you are completing these requirements as a solo canoeist,
+            perform the following on calm water:
+        workbook:
+            - header: true
+              text: |-
+                  1 - Demonstrate the following strokes: cross forward, bow draw,
+                  cross bow draw, stern draw, pry, stern pry, sculling draw,
+                  and forward with stern pry.
+            - lines: 8
+            - header: true
+              text: |-
+                  2 - Demonstrate a high brace, low brace, and righting pry.
+            - lines: 8
+        children:
+            - requirement: 1
+              text: |-
+                  Demonstrate the following strokes: cross forward, bow draw,
+                  cross bow draw, stern draw, pry, stern pry, sculling draw,
+                  and forward with stern pry.
+              workbookHide: true
+            - requirement: 2
+              text: |-
+                  Demonstrate a high brace, low brace, and righting pry.
+              workbookHide: true
+      - callout: true
+        text: |-
+            OR
+      - requirement: c
+        text: |-
+            If you are completing these requirements as a solo kayaker, perform
+            the following on calm water:
+        workbook:
+            - header: true
+              text: |-
+                  1 - Demonstrate the following strokes: bow draw, rudder, and
+                  sculling draw.
+            - lines: 8
+            - header: true
+              text: |-
+                  2 - Demonstrate a high brace and low brace.
+            - lines: 8
+        children:
+            - requirement: 1
+              text: |-
+                  Demonstrate the following strokes: bow draw, rudder, and
+                  sculling draw.
+              workbookHide: true
+            - requirement: 2
+              text: |-
+                  Demonstrate a high brace and low brace.
+              workbookHide: true
+- requirement: 5
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain the International Scale of River Difficulty and apply the
+            scale to the stretch of river approved by your counselor.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            Identify the specific characteristics of the river that are factors
+            in your classification according to the International Scale.
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            Discuss how the level of flow changes a river from one class to
+            another and what effects different flow rates have on the features
+            of a river and its hazards.
+        workbook:
+            - lines: 8
+- requirement: 6
+  text: |-
+      Explain the importance of communication during every whitewater outing.
+      Demonstrate knowledge and ability to use the following American
+      Whitewater Universal River Signals, both visual and auditory: “Stop,”
+      “Are you OK?,” “Help/emergency,” “Run river right,” “Run river left,” and
+      “All clear—come ahead.”
+  workbook:
+      - lines: 8
+- requirement: 7
+  text: |-
+      Do ONE of the following:
+  workbook:
+      - header: true
+        markdown: true
+        text: |-
+            a - If completing this merit badge in a canoe, describe the various
+            types of canoes used on moving water and how they differ in design,
+            materials, and purpose.
+
+            OR
+
+            b - If completing this merit badge in a kayak, describe the various
+            types of kayaks used on moving water and explain how they differ in
+            design, materials, and purpose.
+      - lines: 8
+  children:
+      - requirement: a
+        text: |-
+            If completing this merit badge in a canoe, describe the various
+            types of canoes used on moving water and how they differ in design,
+            materials, and purpose.
+        workbookHide: true
+      - callout: true
+        text: |-
+            OR
+      - requirement: b
+        text: |-
+            If completing this merit badge in a kayak, describe the various
+            types of kayaks used on moving water and explain how they differ in
+            design, materials, and purpose.
+        workbookHide: true
+- requirement: 8
+  text: |-
+      Discuss the personal and group equipment necessary for a safe whitewater
+      outing and how and why it is used. Explain how to pack and protect these
+      items.
+  workbook:
+      - lines: 8
+- requirement: 9
+  text: |-
+      Demonstrate your ability to read a Class II section of river approved by
+      your counselor. Describe the most desirable paths or lines of travel as
+      well as alternative routes and options. Point out how to use the existing
+      water features to your advantage, and explain how to best avoid the
+      hazards present.
+  workbook:
+      - lines: 8
+- requirement: 10
+  text: |-
+      Wearing a proper life jacket and being appropriately dressed for the
+      weather and water conditions, perform the following skills in moving
+      water in a properly equipped whitewater craft of your choice (tandem
+      canoe, solo canoe, or solo kayak). If a tandem canoe is used, the skills
+      must be demonstrated from both the bow and stern positions.
+  children:
+      - requirement: a
+        text: |-
+            Launch and land.
+        workbook:
+            - lines: 2
+      - requirement: b
+        text: |-
+            Paddle forward in a straight line at least 10 boat lengths.
+        workbook:
+            - lines: 2
+      - requirement: c
+        text: |-
+            Backpaddle in a straight line at least five boat lengths.
+        workbook:
+            - lines: 2
+      - requirement: d
+        text: |-
+            Ferry upstream from both sides of the river.
+        workbook:
+            - lines: 2
+      - requirement: e
+        text: |-
+            Ferry downstream from both sides of the river.
+        workbook:
+            - lines: 2
+      - requirement: f
+        text: |-
+            Eddy turn from both sides of an eddy.
+        workbook:
+            - lines: 2
+      - requirement: g
+        text: |-
+            Peel out from both sides of an eddy.
+        workbook:
+            - lines: 2
+- requirement: 11
+  text: |-
+      Explain and demonstrate the following to your counselor:
+  children:
+      - requirement: a
+        text: |-
+            Self-rescue and procedures when capsized in moving water, including
+            a wet exit if necessary
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            Proper use of a throw rope to rescue a swimmer in whitewater
+        workbook:
+            - lines: 4
+      - requirement: c
+        text: |-
+            Proper technique for receiving a throw rope as a swimmer
+        workbook:
+            - lines: 4
+      - requirement: d
+        text: |-
+            Portaging—where portaging would be appropriate, and when and how to do it
+        workbook:
+            - lines: 4
+      - requirement: e
+        text: |-
+            The whitewater buddy system using at least three persons and three craft
+        workbook:
+            - lines: 4
+- requirement: 12
+  text: |-
+      Participate in one or more whitewater trips using either a canoe or kayak
+      on a Class I and/or Class II river. The trip(s) must involve at least six
+      hours of paddling time. For each trip:
+  children:
+      - requirement: a
+        text: |-
+            Help to prepare a written plan, specifying the route (put-ins and
+            takeouts), schedule, equipment, safety precautions, and emergency
+            procedures.
+        workbook:
+            - lines: 4
+      - requirement: b
+        text: |-
+            Determine local rules and obtain permission from landowners and
+            land managers in advance.
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            Explain what steps have been taken to comply with BSA Safety Afloat
+            and the American Whitewater safety guidelines.
+        workbook:
+            - lines: 8
+      - requirement: d
+        text: |-
+            Show how to protect personal and group equipment from water and how
+            to load and secure the containers in boats to be used in the trip.
+            Execute the plans with other paddlers.
+        workbook:
+            - lines: 8
+      - requirement: e
+        text: |-
+            Explain to your counselor how well your plans worked for each trip
+            taken.
+        workbook:
+            - lines: 8

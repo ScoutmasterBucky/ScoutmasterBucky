@@ -1,0 +1,269 @@
+- requirement: 1
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain to your counselor the most likely hazards you may encounter
+            while participating in woodwork activities, and what you should do
+            to anticipate, help prevent, mitigate, and respond to these
+            hazards. Explain what precautions you should take to safely use
+            your tools.
+        workbook:
+            - lines: 3
+              text: |-
+                  Anticipate hazards
+            - lines: 3
+              text: |-
+                  Prevent hazards
+            - lines: 3
+              text: |-
+                  Mitigate hazards
+            - lines: 3
+              text: |-
+                  Respond to hazards
+            - lines: 3
+              text: |-
+                  Precautions to take for safely using your tools
+      - requirement: b
+        text: |-
+            Show that you know first aid for injuries that could occur while
+            woodworking, including splinters, scratches, cuts, severe bleeding,
+            and shock. Tell what precautions must be taken to help prevent loss
+            of eyesight or hearing, and explain why and when it is necessary to
+            use a dust mask.
+        workbook:
+            - lines: 3
+              text: |-
+                  Splinters, scratches, cuts
+            - lines: 3
+              text: |-
+                  Severe bleeding
+            - lines: 3
+              text: |-
+                  Shock
+            - lines: 3
+              text: |-
+                  Precautions
+        children:
+            - note:
+                  - online
+              text: |-
+                  Scouts will need to be prepared to "show" their first aid
+                  knowledge and skill for woodworking related injuries during
+                  the class.
+      - requirement: c
+        text: |-
+            Earn the Totin’ Chip recognition.
+        workbook:
+            - signature: Adult Leader
+              checkbox: Approved
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  Scouts must complete ahead of time their Totin' Chip
+                  requirements and bring their current and up-to-date Totin'
+                  Chip Card with them to class. It is not acceptable to just
+                  say you have your Totin' Chip, you must bring proof.  For
+                  those that are not able to complete this ahead of time,
+                  Scouts will have an opportunity to complete this as a part of
+                  the class however this may affect their ability to complete
+                  other requirements in the class. Be Prepared.
+- requirement: 2
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Describe how timber is grown, harvested, and milled. Tell how
+            lumber is cured, seasoned, graded, and sized.
+        workbook:
+            - lines: 8
+              text: |-
+                  How timber is grown, harvested, and milled.
+            - lines: 8
+              text: |-
+                  How lumber is cured, seasoned, graded, and sized.
+      - requirement: b
+        text: |-
+            Collect and label blocks of six kinds of wood useful in
+            woodworking. Describe the chief qualities of each. Give the best
+            uses of each.
+        workbook:
+            - split:
+                  - header: true
+                    text: |-
+                        Type of wood
+                  - header: true
+                    text: |-
+                        Qualities
+                  - header: true
+                    text: |-
+                        Best uses
+            - split:
+                  - lines: 3
+                  - lines: 3
+                  - lines: 3
+            - split:
+                  - lines: 3
+                  - lines: 3
+                  - lines: 3
+            - split:
+                  - lines: 3
+                  - lines: 3
+                  - lines: 3
+            - split:
+                  - lines: 3
+                  - lines: 3
+                  - lines: 3
+            - split:
+                  - lines: 3
+                  - lines: 3
+                  - lines: 3
+            - split:
+                  - lines: 3
+                  - lines: 3
+                  - lines: 3
+      - note:
+            - online
+        text: |-
+            The counselor/instructor will facilitate discussion on thie
+            requirement component, however Scouts must collect up their own
+            wood blocks and be prepared to show that they have identified the
+            blocks properly along with the qualities and uses for each.
+- requirement: 3
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Show the proper care, use, and storage of all working tools and
+            equipment that you own or use at home or school.
+        workbook:
+            - lines: 8
+        children:
+            - note:
+                  - online
+              text: |-
+                  This requirment component is not one that can be done
+                  quickly, as there are a lot of tools and equipment a
+                  woodworker might use and that are found in most households.
+                  Scouts not showing a respectable effort in preparing for this
+                  requirement will find it difficult to gain sign off on this
+                  requirement component during the class.  Do your preparation
+                  work and use the merit badge pamphlet as a tool to be ready
+                  for sharing during class.
+      - requirement: b
+        text: |-
+            Sharpen correctly the cutting edges of two different tools.
+        workbook:
+            - lines: 8
+        children:
+            - note:
+                  - inPerson
+              text: |-
+                  While this requirement will be covered in the class, Scouts
+                  should still prepare with an understanding of the sharpening
+                  process nad methods by reviewing the merit badge pamphlet and
+                  being prepared to share their findings with the counselor.
+            - note:
+                  - online
+              text: |-
+                  This requirement component should NOT be done without proper
+                  adult supervision and guidance. The online class will only
+                  provide for instruction on how to work on this requirement
+                  component after the class with adult supervision.  Scouts may
+                  choose to work on this requirement ahead of time (with adult
+                  supervision and guidance) for consideration of sign off
+                  during the class.
+- requirement: 4
+  text: |-
+      Using a saw, plane, hammer, brace, and bit, make something useful of
+      wood. Cut parts from lumber that you have squared and measured from
+      working drawings.
+  workbook:
+      - lines: 8
+  children:
+      - note:
+            - inPerson
+        text: |-
+            The materials and tools for this requirement will be provided by
+            the merit badge counselor and worked on as a part of this class.
+      - note:
+            - online
+        text: |-
+            This requirement will not be done as a part of the online class,
+            and any project work done should be done with proper adult
+            supervision and guidance. While the counselor/intructor can share
+            knowledge and insight during the class, this requirement must be
+            done outside of the class.  Scouts should consider videoing or
+            photographing the different steps of their work to share with the
+            counselor/instructor when completed with this requirement.
+            Remember, this is YOUR project not someone else doing the work for
+            you.
+- requirement: 5
+  text: |-
+      Create your own woodworking project. Begin by making working drawings,
+      list the materials you will need to complete your project, and then build
+      your project. Keep track of the time you spend and the cost of the
+      materials.
+  workbook:
+      - grid: 8
+      - lines: 2
+        text: |-
+            Time spent and cost of the materials
+  children:
+      - note:
+            - inPerson
+        text: |-
+            The counselor will provide some project work along with the
+            materials and tools to work on this requirement during the class.
+- requirement: 6
+  text: |-
+      Do any TWO of the following:
+  children:
+      - requirement: a
+        text: |-
+            Make working drawings of a project needing beveled or rounded edges
+            and build it.
+        workbook:
+            - grid: 8
+      - requirement: b
+        text: |-
+            Make working drawings of a project needing curved or incised
+            cuttings and build it.
+        workbook:
+            - grid: 8
+      - requirement: c
+        text: |-
+            Make working drawings of a project needing miter, dowel, or mortise
+            and tenon joints and build it.
+        workbook:
+            - grid: 8
+      - requirement: d
+        text: |-
+            Make a cabinet, box, or something else with a door or lid fastened
+            with inset hinges.
+        workbook:
+            - grid: 8
+      - requirement: e
+        text: |-
+            Help make wooden toys for underprivileged children; OR help carry out a woodworking service project approved by your counselor for a charitable organization.
+        workbook:
+            - lines: 8
+      - note:
+            - inPerson
+        text: |-
+            The counselor has put together a plan including materials and tools
+            for Scouts to use for working on this requirement in the class.
+            Most of the time in the class will be spent working on the
+            projects.
+- requirement: 7
+  text: |-
+      Talk with a cabinetmaker or finish carpenter. Learn about training,
+      apprenticeships, career opportunities, work conditions, work hours, pay
+      rates, and union organization that woodworking experts have in your area.
+  workbook:
+      - lines: 8

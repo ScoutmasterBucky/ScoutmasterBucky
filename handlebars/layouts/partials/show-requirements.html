@@ -1,0 +1,22 @@
+{{#requirements}}
+
+<div class="D(f)">
+
+{{#parents}}
+<div class="W(requirementIndent) Fxs(0)"></div>
+{{/parents}}
+
+{{#if requirement}}
+{{>requirement-requirement}}
+{{else if note}}
+{{>requirement-note}}
+{{else if callout}}
+{{>requirement-callout}}
+{{else if detail}}
+{{>requirement-detail}}
+{{/if}}
+
+</div>
+
+{{#if children}}{{>show-requirements requirements=children}}{{/if}}
+{{/requirements}}

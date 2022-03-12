@@ -45,7 +45,7 @@ workbook: true
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
-{{#wb-req item="4a" requirement="Name and point out the parts of a paddle. Explain the difference between a straight and bent-shaft paddle and when each is best used."}}
+{{#wb-req item="4a" requirement="Name and point out the parts of a paddle."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -62,6 +62,10 @@ workbook: true
 {{/wb-req}}
 
 {{#wb-req item="5b" requirement="Demonstrate how to select and properly fit the correct size life jacket."}}
+{{#wb-req-text lines=8}}{{/wb-req-text}}
+{{/wb-req}}
+
+{{#wb-req item="5c" requirement="Review the importance of safety and rescue equipment such as a sound signal device, extra paddle, sponge, bailer, bilge pump, rescue sling, ropes and throw bag."}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}
 
@@ -204,37 +208,5 @@ For stern paddling only:
 {{/wb-req}}
 
 {{#wb-req item="12d" requirement="Make a proper landing at a dock or shore (both, if possible). Store canoe properly (with assistance, if needed)."}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="13" requirement="Discuss the following types of canoeing:"}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="13a" requirement="Olympic canoe sprint"}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="13b" requirement="Flatwater and river touring"}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="13c" requirement="Outrigger"}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="13d" requirement="Marathon"}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="13e" requirement="Freestyle"}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="13f" requirement="Whitewater"}}
-{{#wb-req-text lines=8}}{{/wb-req-text}}
-{{/wb-req}}
-
-{{#wb-req item="13g" requirement="Canoe poling"}}
 {{#wb-req-text lines=8}}{{/wb-req-text}}
 {{/wb-req}}

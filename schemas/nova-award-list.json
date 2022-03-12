@@ -1,0 +1,25 @@
+{
+    "type": "object",
+    "additionalProperties": {
+        "type": "object",
+        "properties": {
+            "category": {
+                "type": "string",
+                "enum": [
+                    "science",
+                    "technology",
+                    "engineering",
+                    "math"
+                ]
+            },
+            "name": {
+                "type": "string"
+            },
+            "summary": {
+                "type": "string"
+            }
+        },
+        "additionalProperties": false,
+        "required": ["name", "category", "summary"]
+    }
+}

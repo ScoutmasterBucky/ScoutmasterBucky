@@ -1,0 +1,22 @@
+{
+    "oneOf": [
+        {
+            "$ref": "./workbook-area.json"
+        },
+        {
+            "$ref": "./workbook-grid.json"
+        },
+        {
+            "$ref": "./workbook-header.json"
+        },
+        {
+            "$ref": "./workbook-lines.json"
+        },
+        {
+            "$ref": "./workbook-signature.json"
+        },
+        {
+            "$ref": "./workbook-split.json"
+        }
+    ]
+}

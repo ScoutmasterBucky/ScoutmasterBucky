@@ -1,0 +1,15 @@
+{
+    "type": "object",
+    "properties": {
+        "checkbox": {
+            "description": "When checking the checkbox, what does that mean? Is it 'Approved'?",
+            "default": "Approved"
+        },
+        "signature": {
+            "description": "Who needs to sign",
+            "type": "string"
+        }
+    },
+    "additionalProperties": false,
+    "required": ["signature"]
+}
