@@ -1,0 +1,164 @@
+- detail: true
+  markdown: true
+  text: |-
+      **ICE SKATING**
+
+      This workbook covers only one of the options for this merit badge. Check
+      the Scoutmaster Bucky website for the other possibilities.
+- requirement: 1
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain to your counselor the most likely hazards associated with
+            skating and what you should do to anticipate, help prevent,
+            mitigate, and respond to these hazards.
+        workbook:
+            - lines: 3
+              text: |-
+                  Anticipate hazards
+            - lines: 3
+              text: |-
+                  Prevent hazards
+            - lines: 3
+              text: |-
+                  Mitigate hazards
+            - lines: 3
+              text: |-
+                  Respond to hazards
+      - requirement: b
+        text: |-
+            Show that you know first aid for injuries or illnesses that could
+            occur while skating, including hypothermia, frostbite, lacerations,
+            abrasions, fractures, sprains and strains, blisters, heat-related
+            reactions, and shock.
+        workbook:
+            - lines: 3
+              text: |-
+                  Hypothermia
+            - lines: 3
+              text: |-
+                  Frostbite
+            - lines: 3
+              text: |-
+                  Lacerations
+            - lines: 3
+              text: |-
+                  Abrasions
+            - lines: 3
+              text: |-
+                  Fractures
+            - lines: 3
+              text: |-
+                  Sprains and strains
+            - lines: 3
+              text: |-
+                  Blisters
+            - lines: 3
+              text: |-
+                  Heat-related reactions
+            - lines: 3
+              text: |-
+                  Shock
+- requirement: 2
+  text: |-
+      Complete ALL of the requirements for ONE of the following options.
+  children:
+      - detail: true
+        markdown: true
+        text: |-
+            **ICE SKATING**
+      - requirement: a
+        text: |-
+            Do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Give general safety and courtesy rules for ice skating.
+                  Discuss preparations that must be taken when skating outdoors
+                  on natural ice. Explain how to make an ice rescue.
+              workbook:
+                  - lines: 8
+            - requirement: 2
+              text: |-
+                  Discuss the parts and functions of the different types of ice
+                  skates.
+              workbook:
+                  - lines: 8
+            - requirement: 3
+              text: |-
+                  Describe the proper way to carry ice skates.
+              workbook:
+                  - lines: 8
+            - requirement: 4
+              text: |-
+                  Describe how to store ice skates for long periods of time,
+                  such as seasonal storage.
+              workbook:
+                  - lines: 8
+      - requirement: b
+        text: |-
+            Do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Skate forward at least 40 feet and come to a complete stop.
+                  Use either a twofooted snowplow stop or a one-footed snowplow
+                  stop.
+              workbook:
+                  - lines: 3
+            - requirement: 2
+              text: |-
+                  After skating forward, glide forward on two feet, then on one
+                  foot, first right and then left.
+              workbook:
+                  - lines: 3
+            - requirement: 3
+              text: |-
+                  Starting from a T position, stroke forward around the test
+                  area, avoiding the use of toe picks if wearing figure skates.
+              workbook:
+                  - lines: 3
+      - requirement: c
+        text: |-
+            Do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Glide backward on two feet for at least two times the
+                  skater’s height.
+              workbook:
+                  - lines: 3
+            - requirement: 2
+              text: |-
+                  Skate backward for at least 20 feet on two skates.
+              workbook:
+                  - lines: 3
+            - requirement: 3
+              text: |-
+                  After gaining forward speed, glide forward on two feet,
+                  making a turn of 180 degrees around a cone, first to the
+                  right and then to the left.
+              workbook:
+                  - lines: 3
+      - requirement: d
+        text: |-
+            Do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Perform forward crossovers in a figure-eight pattern.
+              workbook:
+                  - lines: 3
+            - requirement: 2
+              text: |-
+                  Explain to your counselor the safety considerations for
+                  running or participating in an ice skating race.
+              workbook:
+                  - lines: 8
+            - requirement: 3
+              text: |-
+                  Perform a hockey stop.
+              workbook:
+                  - lines: 3
