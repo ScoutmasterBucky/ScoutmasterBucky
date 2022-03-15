@@ -2,37 +2,6 @@
 badge: pulp-and-paper
 layout: smb-merit-badge
 requirements: true
+data:
+    requirements: ./requirements.yaml
 ---
-
-{{#requirements}}
-1. Tell the history of papermaking. Describe the part paper products play in our society and economy.
-    {{#note type="inPerson" type2="online"}}Scouts will find using the Pulp and Paper Merit Badge pamphlet helpful, if not easiest, to prepare for this requirement. It is highly recommended that Scouts make notes to help prepare themselves for discussion during the class on this requirement.  It is not acceptable to try and wing-it or fake their way through answering this requirement.{{/note}}
-2. Learn about the pulp and paper industry.
-    (a) Describe the ways the industry plants, grows, and harvests trees.
-    (b) Explain how the industry manages its forests so that the supply of trees keeps pace with the demand.
-    (c) Tell how the industry has incorporated the concepts of sustainable forest management (SFM).
-    (d) Describe two ways the papermaking industry has addressed pollution.
-    {{#note type="inPerson" type2="online"}}Scouts will find the use of the merit badge pamphlet to be extremely helpful in preparing for the components of this requirement.  It is strongly recommended that Scouts utilize a notebook or merit badge workbook to help organize their findings for reference during class discussion (describing, telling, and explaining as the requirement states) on this requirement and its components.  Active participation in the class discussion is necessary for consideration in being signed off on this requirement.{{/note}}
-3. Name at least four types of trees that are major sources of papermaking fibers. Then do the following:
-    (a) Discuss what other uses are made of the trees and the forestland owned by the pulp and paper industry.
-    (b) Describe two ways of getting fibers from wood, and explain the major differences between them.
-    (c) Tell why some pulps are bleached, and describe the process.
-    {{#note type="inPerson" type2="online"}}Scouts will be led in group discussion for this requirement and its components during the class by the merit badge counselor.  This requirement will NOT be automatic, and the counselor will not "feed" the answers to Scouts.  Only Scouts that are prepared and show that they have prepared for the requirement AND actively participate in the group discussion will be considered for sign off on this requirement and its components.  All information necessary for completing this requirement and its components can be found in the merit badge pamphlet.  Notes are highly recommended for this requirement to help show the merit badge counselor that you have put some effort into preparing for the class. Be Prepared.{{/note}}
-4. Describe how paper is made. Discuss how paper is recycled. Make a sheet of paper by hand.
-    {{#note type="inPerson"}}Scouts will have an opportunity to describe how paper is made and recycled in the class, so a little preparation work ahead of time will be necessary for this requirement.  Scouts will make paper in the class under the guidance of the merit badge counselor. Scouts wishing to try this ahead of time may utilize the instructions within the Pulp and Paper Merit Badge pamphlet.  This may help provide a better understanding heading into the class of the paper making process. Scouts doing this are encouraged to bring their home-made paper to class to share with the counselor. Scouts may find the counselor has other techniques or a slightly different process for making paper.{{/note}}
-    {{#note type="online"}}Scouts will have an opportunity to describe how paper is made and recycled in the class, so a little preparation work ahead of time will be necessary for this requirement.  Scouts will need to make paper on their own ahead of the class. It is recommended to utilize the instructions within the Pulp and Paper Merit Badge pamphlet.  Scouts doing this should bring their home-made paper to class to share with the counselor.{{/note}}
-5. Explain what coated paper is and why it is coated. Describe the major uses for different kinds of coated papers. Describe one other way that paper is changed by chemical or mechanical means to make new uses possible.
-    {{#note type="inPerson" type2="online"}}Scouts will find that utilizing the merit badge pamphlet will help them prepare for explanation of this requirement during the class. As with most requirements for this merit badge, Scouts not preparing ahead of time will find it difficult to complete and be signed off without prior class preparation, research, and active class discussion and participation.{{/note}}
-6. Make a list of 15 pulp or paper products found in your home. Share examples of 10 such products with your counselor.
-    {{#note type="inPerson" type2="online"}}Scouts should come to the class with their list of household paper products and be prepared to share some of their findings during the class discussion for this requirement. It is not acceptable to attend not having prepared for this requirement.  This is a very easy requirement to prepare for and should take most Scouts only minutes to get ready.  Scouts attending the class not having prepared for this requirement will NOT be signed off on the requirement.  The requirement does not state to make a list of paper products found in other people's homes, but rather your own.  It is not acceptable to build your list from other Scouts work and only Scouts that can show they have made the list from their own home findings will be considered for sign off on this requirement. Of course, active participation during the class in sharing your findings will also be required for consideration of sign off on this requirement.{{/note}}
-7. With your parent's and counselor's approval, do ONE of the following:
-    (a) Visit a pulp mill. Describe how the mill converts wood to cellulose fibers.
-    (b) Visit a paper mill and get a sample of the paper made there. Describe the processes used for making this paper. Tell how it will be used.
-    (c) Visit a container plant or box plant. Describe how the plant's products are made.
-    (d) Visit a recycled paper collection or sorting facility. Describe the operations there.
-    (e) Using books, magazines, your local library, the Internet (with your parent's permission), and any other suitable research tool, find out how paper products are developed. Find out what role research and development play in the papermaking industry. Share what you learn with your counselor.
-    {{#note type="inPerson" type2="online"}}This requirement will NOT be covered as a part of the class. Scouts will have to perform on their own, either prior to or after the class, the visit or research in this requirement. Scouts will have an opportunity to share their work during the class if they choose to bring their preparation work with them.{{/note}}
-    {{#note type="inPerson" type2="online"}}n order to get signed off on this requirement at the class, Scouts will need to do work ahead of time. It is recommended to bring proof of their visit (pictures, admission ticket stub, documents, etc. from their visit) to share during the class with the counselor and other Scouts.  If 7e is selected, Scouts should be ready to share their sources and findings with the class and counselor..{{/note}}
-8. Find out about three career opportunities in the papermaking industry that interest you. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.
-    {{#note type="inPerson" type2="online"}}couts should review this requirement and its components and be prepared to discuss.  It is strongly recommended that Scouts bring any notes or supporting documents they may have to help show the counselor that they have prepared for completion of this requirement.{{/note}}
-{{/requirements}}
