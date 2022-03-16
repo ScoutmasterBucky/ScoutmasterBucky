@@ -1,0 +1,235 @@
+- detail: true
+  markdown: true
+  text: |-
+      **Option 1: Agronomy**
+
+      This workbook covers only one of the options for this merit badge. Check
+      the Scoutmaster Bucky website for the other possibilities.
+- requirement: 1
+  text: |-
+      Make a drawing and identify five or more parts of a flowering plant. Tell
+      what each part does.
+  workbook:
+      - area: 8
+- requirement: 2
+  text: |-
+      Explain photosynthesis and tell why this process is important. Tell at
+      least five ways that humans depend on plants.
+  workbook:
+      - lines: 8
+- requirement: 3
+  text: |-
+      Explain how honeybees and other pollinating insects are important to
+      plant life.
+  workbook:
+      - lines: 8
+- requirement: 4
+  text: |-
+      Explain how water, light, air, temperature, and pests affect plants.
+      Describe the nature and function of soil and explain its importance. Tell
+      about the texture, structure, and composition of fertile soil. Tell how
+      soil may be improved.
+  workbook:
+      - lines: 8
+- requirement: 5
+  text: |-
+      Tell how to propagate plants by seeds, roots, cuttings, tubers, and
+      grafting.  Grow a plant by ONE of these methods.
+  workbook:
+      - lines: 8
+- requirement: 6
+  text: |-
+      List by common name at least 10 native plants and 10 cultivated plants
+      that grow near your home. List five invasive nonnative plants in your
+      area and tell how they may be harmful. Tell how the spread of invasive
+      plants may be avoided or controlled in ways that are not damaging to
+      humans, wildlife, and the environment.
+  workbook:
+      - lines: 8
+        text: |-
+            10 native plants
+      - lines: 8
+        text: |-
+            10 cultivated plants
+      - lines: 8
+        text: |-
+            Five invasive nonnative plants
+      - lines: 8
+        text: |-
+            How the spread of invasive plants may be avoided or controlled
+- requirement: 7
+  text: |-
+      Name and tell about careers in agronomy, horticulture, and botany. Write
+      a paragraph about a career in one of these fields that interests you.
+  workbook:
+      - lines: 8
+- requirement: 8
+  text: |-
+      Choose ONE of the following options and complete each requirement:
+  children:
+      - detail: true
+        markdown: true
+        text: |-
+            **Option 1: Agronomy**
+      - requirement: A
+        text: |-
+            Describe how to prepare a seedbed.
+        workbook:
+            - lines: 8
+      - requirement: B
+        text: |-
+            Make and use a seed germination tester to test 50 seeds of four of
+            the following plants: corn, cotton, alfalfa, soybeans, clover,
+            wheat, rice, rye, barley. Determine the percentage of live seeds.
+        workbook:
+            - lines: 8
+      - requirement: C
+        text: |-
+            Tell about one important insect pest and one important disease that
+            damage each of the following: corn, small grains, cotton. Collect
+            and name five weeds that compete with crops in your locality. Tell
+            how to control these weeds without harming people, wildlife, or
+            useful insects.
+        workbook:
+            - lines: 8
+      - requirement: D
+        text: |-
+            On a map of the United States, identify the chief regions where
+            corn, cotton, forage crops, small grain crops, and oil crops grow.
+            Tell how climate and location of these regions make them leaders in
+            the production of these crops.
+        workbook:
+            - raw: true
+              text: |-
+                  <!-- Link is relative to the workbooks. These workbooks are
+                  split, so need to go up one folder. -->
+                  <img src="../us-map.png" class="W(100%)" />
+      - requirement: E
+        text: |-
+            Complete ONE of the following alternatives:
+        children:
+            - requirement: 1
+              text: |-
+                  Corn
+              children:
+                  - requirement: a
+                    text: |-
+                        Grow a plot of corn and have your plot inspected by
+                        your counselor. Record seed variety or experimental
+                        code number.
+                    workbook:
+                        - lines: 8
+                  - requirement: b
+                    text: |-
+                        Tell about modern methods of commercial corn farming
+                        and the contributions that corn makes to today’s food
+                        and fuel supply.
+                    workbook:
+                        - lines: 8
+                  - requirement: c
+                    text: |-
+                        Tell about an insect that can damage corn, and explain
+                        how it affects corn production and how it is
+                        controlled.
+                    workbook:
+                        - lines: 8
+            - requirement: 2
+              text: |-
+                  Cotton
+              children:
+                  - requirement: a
+                    text: |-
+                        Grow a plot of cotton and have your plot inspected by
+                        your counselor.
+                    workbook:
+                        - lines: 4
+                  - requirement: b
+                    text: |-
+                        Tell about modern methods of commercial cotton farming,
+                        and about the uses of cotton fiber and seed and the
+                        economic value of this crop.
+                    workbook:
+                        - lines: 8
+                  - requirement: c
+                    text: |-
+                        Tell about an insect that can damage cotton, and
+                        explain how it affects cotton production and how it is
+                        controlled.
+                    workbook:
+                        - lines: 8
+            - requirement: 3
+              text: |-
+                  Forage Crops
+              children:
+                  - requirement: a
+                    text: |-
+                        Collect, count, and label samples of each for display:
+                        perennial grasses, annual grasses, legumes, and
+                        broadleaf weeds. Indicate how each grass and legume is
+                        used. Keep a log of the site where you found each
+                        sample and share it with your counselor.
+                    workbook:
+                        - lines: 8
+                  - requirement: b
+                    text: |-
+                        Explain how legumes can be used to enrich the soil and
+                        how they may deplete it under certain conditions.
+                        Explain how livestock may enrich or deplete the soil.
+                    workbook:
+                        - lines: 8
+                  - requirement: c
+                    text: |-
+                        Name five poisonous plants that are dangerous to
+                        livestock, and tell the different ways of using forage
+                        crops as feed for livestock.
+                    workbook:
+                        - lines: 8
+            - requirement: 4
+              text: |-
+                  Small Grains
+              children:
+                  - requirement: a
+                    text: |-
+                        Give production figures for small grain crops listed in
+                        the U.S.  Statistical Report or Agricultural Statistics
+                        Handbook for the latest year available.
+                    workbook:
+                        - lines: 8
+                  - requirement: b
+                    text: |-
+                        Help in harvesting a crop of grain. Tell how to reduce
+                        harvesting losses and about modern methods of growing
+                        one small grain crop.
+                    workbook:
+                        - lines: 8
+                  - requirement: c
+                    text: |-
+                        Visit a grain elevator, flour mill, cereal plant, feed
+                        or seed company. Talk with the operator. Take notes,
+                        and describe the processes used and tell your patrol,
+                        troop, or class about your visit.
+                    workbook:
+                        - lines: 8
+            - requirement: 5
+              text: |-
+                  Oil Crops
+              children:
+                  - requirement: a
+                    text: |-
+                        Grow a plot of soybeans and have your plot inspected by
+                        your counselor.
+                    workbook:
+                        - lines: 8
+                  - requirement: b
+                    text: |-
+                        Tell about modern methods of growing soybeans on a
+                        commercial scale, and discuss the contributions
+                        soybeans make to our food supply.
+                    workbook:
+                        - lines: 8
+                  - requirement: c
+                    text: |-
+                        Explain why a killing frost just after emergence is
+                        critical for soybeans.
+                    workbook:
+                        - lines: 8
