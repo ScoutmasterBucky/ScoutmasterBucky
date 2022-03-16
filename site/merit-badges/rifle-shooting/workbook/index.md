@@ -1,6 +1,6 @@
 ---
 badge: rifle-shooting
-layout: smb-merit-badge
+layout: smb
 ---
 
 The Rifle Shooting workbook has been split into individual options. Only one option is required in order to earn the merit badge.
