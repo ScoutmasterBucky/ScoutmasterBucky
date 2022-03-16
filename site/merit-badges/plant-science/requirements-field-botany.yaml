@@ -1,0 +1,360 @@
+- detail: true
+  markdown: true
+  text: |-
+      **Option 3: Field Botany**
+
+      This workbook covers only one of the options for this merit badge. Check
+      the Scoutmaster Bucky website for the other possibilities.
+- requirement: 1
+  text: |-
+      Make a drawing and identify five or more parts of a flowering plant. Tell
+      what each part does.
+  workbook:
+      - area: 8
+- requirement: 2
+  text: |-
+      Explain photosynthesis and tell why this process is important. Tell at
+      least five ways that humans depend on plants.
+  workbook:
+      - lines: 8
+- requirement: 3
+  text: |-
+      Explain how honeybees and other pollinating insects are important to
+      plant life.
+  workbook:
+      - lines: 8
+- requirement: 4
+  text: |-
+      Explain how water, light, air, temperature, and pests affect plants.
+      Describe the nature and function of soil and explain its importance. Tell
+      about the texture, structure, and composition of fertile soil. Tell how
+      soil may be improved.
+  workbook:
+      - lines: 8
+- requirement: 5
+  text: |-
+      Tell how to propagate plants by seeds, roots, cuttings, tubers, and
+      grafting.  Grow a plant by ONE of these methods.
+  workbook:
+      - lines: 8
+- requirement: 6
+  text: |-
+      List by common name at least 10 native plants and 10 cultivated plants
+      that grow near your home. List five invasive nonnative plants in your
+      area and tell how they may be harmful. Tell how the spread of invasive
+      plants may be avoided or controlled in ways that are not damaging to
+      humans, wildlife, and the environment.
+  workbook:
+      - lines: 8
+        text: |-
+            10 native plants
+      - lines: 8
+        text: |-
+            10 cultivated plants
+      - lines: 8
+        text: |-
+            Five invasive nonnative plants
+      - lines: 8
+        text: |-
+            How the spread of invasive plants may be avoided or controlled
+- requirement: 7
+  text: |-
+      Name and tell about careers in agronomy, horticulture, and botany. Write
+      a paragraph about a career in one of these fields that interests you.
+  workbook:
+      - lines: 8
+- requirement: 8
+  text: |-
+      Choose ONE of the following options and complete each requirement:
+  children:
+      - detail: true
+        markdown: true
+        text: |-
+            **Option 3: Field Botany**
+      - requirement: A
+        text: |-
+            Visit a park, forest, Scout camp, or other natural area near your
+            home.  While you are there:
+        children:
+            - requirement: 1
+              text: |-
+                  Determine which species of plants are the largest and which
+                  are the most abundant. Note whether they cast shade on other
+                  plants.
+              workbook:
+                  - lines: 8
+            - requirement: 2
+              text: |-
+                  Record environmental factors that may influence the presence
+                  of plants on your site, including latitude, climate, air and
+                  soil temperature, soil type and pH, geology, hydrology, and
+                  topography.
+              workbook:
+                  - lines: 8
+            - requirement: 3
+              text: |-
+                  Record any differences in the types of plants you see at the
+                  edge of a forest, near water, in burned areas, or near a road
+                  or railroad.
+              workbook:
+                  - lines: 8
+      - requirement: B
+        text: |-
+            Select a study site that is at least 100 by 100 feet. Make a list
+            of the plants in the study site by groups of plants: canopy trees,
+            small trees, shrubs, herbaceous wildflowers and grasses, vines,
+            ferns, mosses, algae, fungi, lichens. Find out which of these are
+            native plants and which are exotic (or nonnative).
+        workbook:
+            - lines: 3
+              text: |-
+                  Canopy trees
+            - lines: 3
+              text: |-
+                  Small trees
+            - lines: 3
+              text: |-
+                  Shrubs
+            - lines: 3
+              text: |-
+                  Herbaceous wildflowers and grasses
+            - lines: 3
+              text: |-
+                  Vines
+            - lines: 3
+              text: |-
+                  Ferns
+            - lines: 3
+              text: |-
+                  Mosses
+            - lines: 3
+              text: |-
+                  Algae
+            - lines: 3
+              text: |-
+                  Fungi
+            - lines: 3
+              text: |-
+                  Lichens
+      - requirement: C
+        text: |-
+            Tell how an identification key works and use a simple key to
+            identify 10 kinds of plants (in addition to those in general
+            requirement 5 above).  Tell the difference between common and
+            scientific names and tell why scientific names are important.
+        workbook:
+            - lines: 10
+      - requirement: D
+        text: |-
+            After gaining permission, collect, identify, press, mount, and
+            label 10 different plants that are common in your area. Tell why
+            voucher specimens are important for documentation of a field
+            botanist’s discoveries.
+        workbook:
+            - lines: 8
+      - requirement: E
+        text: |-
+            Obtain a list of rare plants of your state. Tell what is being done
+            to protect rare plants and natural areas in your state. Write a
+            paragraph about one of the rare plants in your state.
+        workbook:
+            - lines: 8
+      - requirement: F
+        text: |-
+            Choose ONE of the following alternatives and complete EACH of its
+            requirements:
+        children:
+            - requirement: 1
+              text: |-
+                  Tree Inventory
+              children:
+                  - requirement: a
+                    text: |-
+                        Identify the trees of your neighborhood, a park, a
+                        section of your town, or a Scout camp.
+                    workbook:
+                        - lines: 8
+                  - requirement: b
+                    text: |-
+                        Collect, press, and label leaves, flowers, or fruits to
+                        document your inventory.
+                    workbook:
+                        - lines: 8
+                  - requirement: c
+                    text: |-
+                        List the types of trees by scientific name and give
+                        common names. Note the number and size (diameter at 4
+                        feet above ground) of trees observed and determine the
+                        largest of each species in your study area.
+                    workbook:
+                        - lines: 8
+                  - requirement: d
+                    text: |-
+                        Lead a walk to teach others about trees and their
+                        value, OR write and distribute materials that will help
+                        others learn about trees.
+                    workbook:
+                        - lines: 8
+            - requirement: 2
+              text: |-
+                  Transect Study
+              children:
+                  - requirement: a
+                    text: |-
+                        Visit two sites, at least one of which is different
+                        from the one you visited for Field Botany requirement
+                        1.
+                    workbook:
+                        - lines: 8
+                  - requirement: b
+                    text: |-
+                        Use the transect method to study the two different
+                        kinds of plant communities. The transects should be at
+                        least 500 feet long.
+                    workbook:
+                        - lines: 8
+                  - requirement: c
+                    text: |-
+                        At each site, record observations about the soil and
+                        other influencing factors AND do the following. Then
+                        make a graph or chart to show the results of your
+                        studies.
+                    workbook:
+                        - lines: 8
+                        - header: true
+                          markdown: true
+                          text: |-
+                              1. Identify each tree within 10 feet of the
+                              transect line.
+
+                              2. Measure the diameter of each tree at 4 feet
+                              above the ground, and map and list each tree.
+                        - grid: 10
+                    children:
+                        - requirement: 1
+                          text: |-
+                              Identify each tree within 10 feet of the transect
+                              line.
+                          workbookHide: true
+                        - requirement: 2
+                          text: |-
+                              Measure the diameter of each tree at 4 feet above
+                              the ground, and map and list each tree.
+                          workbookHide: true
+            - requirement: 3
+              text: |-
+                  Nested Plot
+              children:
+                  - requirement: a
+                    text: |-
+                        Visit two sites, at least one of which is different
+                        from the one you visited for Field Botany requirement
+                        1.
+                    workbook:
+                        - lines: 8
+                  - requirement: b
+                    text: |-
+                        Mark off nested plots and inventory two different kinds
+                        of plant communities.
+                    workbook:
+                        - lines: 8
+                  - requirement: c
+                    text: |-
+                        At each site, record observations about the soil and
+                        other influencing factors AND do the following. Then
+                        make a graph or chart to show the results of your
+                        studies.
+                    workbook:
+                        - lines: 8
+                        - header: true
+                          markdown: true
+                          text: |-
+                              1. Identify, measure, and map each tree in a
+                              100-by-100-foot plot.  (Measure the diameter of
+                              each tree at 4 feet above the ground.)
+
+                              2. Identify and map all trees and shrubs in a
+                              10-by-10-foot plot within each of the larger
+                              areas.
+
+                              3. Identify and map all plants (wildflowers,
+                              ferns, grasses, mosses, etc.) of a 4-by-4-foot
+                              plot within the 10-by-10-foot plot.
+                        - grid: 10
+                    children:
+                        - requirement: 1
+                          text: |-
+                              Identify, measure, and map each tree in a
+                              100-by-100-foot plot.  (Measure the diameter of
+                              each tree at 4 feet above the ground.)
+                          workbookHide: true
+                        - requirement: 2
+                          text: |-
+                              Identify and map all trees and shrubs in a
+                              10-by-10-foot plot within each of the larger
+                              areas.
+                          workbookHide: true
+                        - requirement: 3
+                          text: |-
+                              Identify and map all plants (wildflowers, ferns,
+                              grasses, mosses, etc.) of a 4-by-4-foot plot
+                              within the 10-by-10-foot plot.
+                          workbookHide: true
+            - requirement: 4
+              text: |-
+                  Herbarium Visit
+              children:
+                  - requirement: a
+                    text: |-
+                        Write ahead and arrange to visit an herbarium at a
+                        university, park, or botanical garden; OR, visit an
+                        herbarium website (with your parent’s permission).
+                    workbook:
+                        - lines: 8
+                  - requirement: b
+                    text: |-
+                        Tell how the specimens are arranged and how they are
+                        used by researchers. If possible, observe voucher
+                        specimens of a plant that is rare in your state.
+                    workbook:
+                        - lines: 8
+                  - requirement: c
+                    text: |-
+                        Tell how a voucher specimen is mounted and prepared for
+                        permanent storage. Tell how specimens should be handled
+                        so that they will not be damaged.
+                    workbook:
+                        - lines: 8
+                  - requirement: d
+                    text: |-
+                        Tell about the tools and references used by botanists
+                        in an herbarium.
+                    workbook:
+                        - lines: 8
+            - requirement: 5
+              text: |-
+                  Plant Conservation Organization Visit
+              children:
+                  - requirement: a
+                    text: |-
+                        Write ahead and arrange to visit a private conservation
+                        organization or government agency that is concerned
+                        with protecting rare plants and natural areas.
+                    workbook:
+                        - lines: 8
+                  - requirement: b
+                    text: |-
+                        Tell about the activities of the organization in
+                        studying and protecting rare plants and natural areas.
+                        If possible, visit a nature preserve managed by the
+                        organization.
+                    workbook:
+                        - lines: 8
+                  - requirement: c
+                    text: |-
+                        Tell about land management activities such as
+                        controlled burning, or measures to eradicate invasive
+                        (nonnative) plants or other threats to the plants that
+                        are native to the area.
+                    workbook:
+                        - lines: 8
