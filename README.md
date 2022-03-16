@@ -257,13 +257,6 @@ extreme.
 
 The different workbook entries are detailed below, under "Workbook Generation".
 
-* Area
-* Grid
-* Header
-* Lines
-* Signature
-* Split
-
 Properties:
 
 * `children`: Optional, list of "Requirement List Items"
@@ -286,6 +279,7 @@ Workbooks are generated from the same `requirements.yaml` as the requirements pa
 * Grid
 * Header
 * Lines
+* Raw
 * Signature
 * Split
 
@@ -348,7 +342,8 @@ Properties:
 ### Header
 
 Display text in the same size font as the requirement. The background is
-slightly off. Good when combining requirements together to save on space.
+a slightly different color. Good when combining requirements together to save
+on space.
 
 ```
 - header: true
@@ -391,6 +386,23 @@ Properties:
 * `lines`: Number of lines to display - see "Workbook Heights" for information
 * `markdown`: Optional, controls `text`
 * `text`: Optional, text / HTML / markdown to as a caption
+
+
+### Raw
+
+Shows text or HTML in an area. Use this if you want ultimate control over the contents of a spot.
+
+```
+- raw: true
+  text: |-
+      Text or HTML goes here.
+```
+
+Properties:
+
+* `raw`: Must be `true`
+* `markdown`: Optional, controls `text`
+* `text`: Text / HTML / markdown to as a caption
 
 
 ### Signature
