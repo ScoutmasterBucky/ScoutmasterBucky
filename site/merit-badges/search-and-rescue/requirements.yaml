@@ -3,7 +3,8 @@
   # Updated link: http://www.scouting.org/scoutsource/HealthandSafety.aspx
   # Moved note from between requirements 6 and 7 to here.
   text: |-
-      **A Note About Unauthorized and Restricted Activities**<br />
+      **A Note About Unauthorized and Restricted Activities**
+
       The BSA’s *Guide to Safe Scouting* states under “Unauthorized and
       Restricted Activities” that flying in aircraft as part of a search and
       rescue mission is an unauthorized activity for youth members. For
@@ -19,6 +20,9 @@
             activities, and what you should do to anticipate, help prevent,
             mitigate, and respond to these hazards.
         workbook:
+            - lines: 3
+              text: |-
+                  Most likely hazards
             - lines: 3
               text: |-
                   Anticipate hazards
