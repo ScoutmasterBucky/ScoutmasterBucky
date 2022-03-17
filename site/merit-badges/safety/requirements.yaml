@@ -53,6 +53,9 @@
             inspection of your home. Identify any hazards found and explain how
             these can be corrected.
         workbook:
+            - task: true
+              text: |-
+                  Inspected home using an approved safety checklist
             - lines: 8
         children:
             - note:
@@ -108,7 +111,7 @@
             Show your family members how to protect themselves and your home
             from accidents, fire, burglary, robbery, and assault.
         workbook:
-            - lines: 8
+            - task: true
         children:
             - note:
                   - inPerson
@@ -149,7 +152,7 @@
       your family what to do in the event that they need to take shelter in or
       evacuate a public place.
   workbook:
-      - lines: 8
+      - task: true
   children:
       - note:
             - inPerson
@@ -186,6 +189,9 @@
       home, school, place of worship, place of employment, or community.
   workbook:
       - lines: 8
+        text: |-
+            Describe the project
+      - task: true
   children:
       - note:
             - inPerson

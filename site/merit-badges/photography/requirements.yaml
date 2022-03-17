@@ -4,7 +4,8 @@
   children:
       - requirement: a
         text: |-
-            Show your counselor your current Cyber Chip.
+            Show your counselor your current [Cyber
+            Chip]({{@root.rootPath}}/other-awards/cyber-chip/).
         workbook:
             - signature: Adult Scout Leader
       - requirement: b
@@ -15,22 +16,22 @@
             Explain how you would prepare for exposure to environmental
             situations such as weather, sun, and water.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Most likely hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Anticipate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Prevent hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Mitigate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Respond to hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   How you would prepare for exposure to environmental
                   situations
@@ -110,37 +111,50 @@
   text: |-
       Photograph THREE of the following, then share your work with your
       counselor.
+  workbook:
+      - task: true
+        text: |-
+            a. Close-up of a person
+      - task: true
+        text: |-
+            b. Two to three people interacting
+      - task: true
+        text: |-
+            c. Action shot
+      - task: true
+        text: |-
+            d. Animal shot
+      - task: true
+        text: |-
+            e. Nature shot
+      - task: true
+        text: |-
+            f. Picture of a person—candid, posed, or camera aware
   children:
       - requirement: a
         text: |-
             Close-up of a person
-        workbook:
-            - lines: 4
+        workbookHide: true
       - requirement: b
         text: |-
             Two to three people interacting
-        workbook:
-            - lines: 4
+        workbookHide: true
       - requirement: c
         text: |-
             Action shot
-        workbook:
-            - lines: 4
+        workbookHide: true
       - requirement: d
         text: |-
             Animal shot
-        workbook:
-            - lines: 4
+        workbookHide: true
       - requirement: e
         text: |-
             Nature shot
-        workbook:
-            - lines: 4
+        workbookHide: true
       - requirement: f
         text: |-
             Picture of a person—candid, posed, or camera aware
-        workbook:
-            - lines: 4
+        workbookHide: true
 - requirement: 6
   text: |-
       Describe how software allows you to enhance your photograph after it is
@@ -150,22 +164,28 @@
       - lines: 8
         text: |-
             How software allows you to enhance your photograph
+      - task: true
+        text: |-
+            a. Crop your photograph.
+      - task: true
+        text: |-
+            b. Adjust the exposure or make a color correction.
+      - task: true
+        text: |-
+            c. Show another way you could improve your picture for impact.
   children:
       - requirement: a
         text: |-
             Crop your photograph.
-        workbook:
-            - lines: 3
+        workbookHide: true
       - requirement: b
         text: |-
             Adjust the exposure or make a color correction.
-        workbook:
-            - lines: 3
+        workbookHide: true
       - requirement: c
         text: |-
             Show another way you could improve your picture for impact.
-        workbook:
-            - lines: 3
+        workbookHide: true
 - requirement: 7
   text: |-
       Using images other than those created for requirements 4, 5, and 6,

@@ -9,19 +9,19 @@
             should do to anticipate, help prevent, mitigate, and respond to
             these hazards.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Most likely hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Anticipate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Prevent hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Mitigate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Respond to hazards
       - requirement: b
@@ -32,37 +32,37 @@
             insect bites and stings, hypothermia, dehydration, heat exhaustion,
             heatstroke, sunburn, and falls.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Rope splinters
-            - lines: 3
+            - lines: 8
               text: |-
                   Rope burns
-            - lines: 3
+            - lines: 8
               text: |-
                   Cuts
-            - lines: 3
+            - lines: 8
               text: |-
                   Scratches
-            - lines: 3
+            - lines: 8
               text: |-
                   Insect bites and stings
-            - lines: 3
+            - lines: 8
               text: |-
                   Hypothermia
-            - lines: 3
+            - lines: 8
               text: |-
                   Dehydration
-            - lines: 3
+            - lines: 8
               text: |-
                   Heat exhaustion
-            - lines: 3
+            - lines: 8
               text: |-
                   Heatstroke
-            - lines: 3
+            - lines: 8
               text: |-
                   Sunburn
-            - lines: 3
+            - lines: 8
               text: |-
                   Falls
 - requirement: 2
@@ -73,9 +73,9 @@
         text: |-
             Demonstrate the West Country method of whipping a rope.
         workbook:
-            - split:
-                  - lines: 8
-                  - area: 8
+            - task: true
+              text: |-
+                  Demonstrated West Country method of whipping a rope
       - requirement: b
         text: |-
             Demonstrate how to tie a rope tackle and the following knots: clove
@@ -83,16 +83,64 @@
             knot, roundturn with two half hitches, and rolling hitch.
         workbook:
             - split:
-                  - lines: 8
-                  - area: 8
+                - task: true
+                  text: |-
+                      Clove hitch formed as two half hitches
+                - task: true
+                  text: |-
+                      Clove hitch on a bight
+            - split:
+                - task: true
+                  text: |-
+                      Butterfly knot
+                - task: true
+                  text: |-
+                      Roundturn with two half hitches
+                - task: true
+                  text: |-
+                      Rolling hitch
       - requirement: c
         text: |-
             Demonstrate and explain when to use the following lashings: square,
             diagonal, round, shear, tripod, and floor lashing.
         workbook:
             - split:
-                  - lines: 8
-                  - area: 8
+                - header: true
+                  text: |-
+                      Lashing
+                - header: true
+                  text: |-
+                      When to use
+            - split:
+                - task: true
+                  text: |-
+                      Square
+                - lines: 2
+            - split:
+                - task: true
+                  text: |-
+                      Diagonal
+                - lines: 2
+            - split:
+                - task: true
+                  text: |-
+                      Round
+                - lines: 2
+            - split:
+                - task: true
+                  text: |-
+                      Shear
+                - lines: 2
+            - split:
+                - task: true
+                  text: |-
+                      Tripod
+                - lines: 2
+            - split:
+                - task: true
+                  text: |-
+                      Floor
+                - lines: 2
 - requirement: 3
   text: |-
       Do the following:
@@ -103,9 +151,7 @@
             Tripod Wash Station (or with your counselor’s permission, another
             camp gadget of your own design).
         workbook:
-            - split:
-                  - lines: 8
-                  - area: 8
+            - task: true
       - requirement: b
         text: |-
             Using rolling hitches or roundturns with two half hitches, and
@@ -113,9 +159,7 @@
             Stave Flagpole (or with your counselor’s permission, another camp
             gadget of your own design).
         workbook:
-            - split:
-                  - lines: 8
-                  - area: 8
+            - task: true
       - requirement: c
         text: |-
             Using shear, square, and floor lashings, clove hitches on a bight,
@@ -123,9 +167,7 @@
             Table (or with your counselor’s permission, another camp gadget of
             your own design.
         workbook:
-            - split:
-                  - lines: 8
-                  - area: 8
+            - task: true
 - requirement: 4
   text: |-
       Explain the differences between synthetic ropes and natural fiber ropes.
@@ -145,7 +187,7 @@
       Using a rope-making device or machine, make a rope at least 6 feet long
       consisting of three strands, each having three yarns. Whip the ends.
   workbook:
-      - lines: 8
+      - task: true
 - requirement: 7
   text: |-
       Explain the importance of effectively anchoring a pioneering project.

@@ -46,6 +46,9 @@
             why it is important for the driver and all passengers always to
             wear their seat belts.
         workbook:
+            - task: true
+              text: |-
+                  Demonstrated
             - lines: 8
       - requirement: b
         text: |-

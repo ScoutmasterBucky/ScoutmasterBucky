@@ -41,8 +41,12 @@
       own design.
   workbook:
       - split:
-            - area: 8
-            - area: 8
+            - area: 40
+              text: |-
+                  Historical pottery style
+            - area: 40
+              text: |-
+                  Your own design
 - requirement: 4
   text: |-
       Explain the meaning of the following pottery terms: bat, wedging,
@@ -104,30 +108,22 @@
         text: |-
             Make a slab pot, a coil pot, and a pinch pot.
         workbook:
-            - split:
-                  - area: 8
-                  - lines: 8
+            - task: true
       - requirement: b
         text: |-
             Make a human or animal figurine or decorative sculpture.
         workbook:
-            - split:
-                  - area: 8
-                  - lines: 8
+            - task: true
       - requirement: c
         text: |-
             Throw a functional form on a potter’s wheel.
         workbook:
-            - split:
-                  - area: 8
-                  - lines: 8
+            - task: true
       - requirement: d
         text: |-
             Help to fire a kiln.
         workbook:
-            - split:
-                  - area: 8
-                  - lines: 8
+            - task: true
 - requirement: 6
   text: |-
       Explain the scope of the ceramic industry in the United States.  Tell

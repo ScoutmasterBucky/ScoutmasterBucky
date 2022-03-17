@@ -43,6 +43,8 @@
         text: |-
             Successfully complete a state hunter education course or obtain a
             copy of the hunting laws for your state, then do the following:
+        workbook:
+            - task: true
         children:
             - requirement: 1
               text: |-
@@ -154,7 +156,7 @@
             per group) that can be covered by a quarter. Using these targets,
             explain how to adjust sights to zero a rifle.
         workbook:
-            - lines: 8
+            - task: true
       - requirement: m
         markdown: true
         text: |-
@@ -170,4 +172,4 @@
             can be covered by or touch a quarter and then explain how to adjust
             the sights to zero the rifle used.
         workbook:
-            - lines: 8
+            - task: true

@@ -2,7 +2,7 @@
   text: |-
       Tell the purpose of space exploration and include the following:
   workbook:
-      - lines: 4
+      - lines: 8
         text: |-
             Purpose
   children:
@@ -10,22 +10,22 @@
         text: |-
             Historical reasons
         workbook:
-            - lines: 4
+            - lines: 8
       - requirement: b
         text: |-
             Immediate goals in terms of specific knowledge
         workbook:
-            - lines: 4
+            - lines: 8
       - requirement: c
         text: |-
             Benefits related to Earth resources, technology, and new products
         workbook:
-            - lines: 4
+            - lines: 8
       - requirement: d
         text: |-
             International relations and cooperation
         workbook:
-            - lines: 4
+            - lines: 8
 - requirement: 2
   text: |-
       Design a collector’s card, with a picture on the front and information on
@@ -33,10 +33,10 @@
       four other space pioneers with your counselor.
   workbook:
       - split:
-            - area: 10
+            - area: 30
               text: |-
                   Front
-            - area: 10
+            - area: 30
               text: |-
                   Back
 - requirement: 3
@@ -52,6 +52,12 @@
       activity: Make a model of a NASA rocket. Explain the functions of the
       parts.  Give the history of the rocket.
   workbook:
+      - task: true
+        text: |-
+            Completed first launch
+      - task: true
+        text: |-
+            Completed second launch
       - lines: 8
         text: |-
             Notes about objective and launches
@@ -161,12 +167,24 @@
       - header: true
         markdown: true
         text: |-
-            Space shuttle or any other crewed orbital vehicle, whether
+            a. Space shuttle or any other crewed orbital vehicle, whether
             government-owned (U.S. or foreign) or commercial
 
             OR
 
-            International Space Station
+            b. International Space Station
+      - lines: 2
+        text: |-
+            Chosen option
+      - lines: 8
+        text: |-
+            Purpose
+      - lines: 8
+        text: |-
+            Operation
+      - lines: 8
+        text: |-
+            Components
   children:
       - requirement: a
         text: |-
@@ -184,29 +202,29 @@
       person.  Make drawings or a model of your base. In your design, consider
       and plan for the following:
   workbook:
-      - area: 10
+      - area: 40
         text: Drawings of your base
   children:
       - requirement: a
         text: |-
             Source of energy
         workbook:
-            - lines: 4
+            - lines: 8
       - requirement: b
         text: |-
             How it will be constructed
         workbook:
-            - lines: 4
+            - lines: 8
       - requirement: c
         text: |-
             Life-support system
         workbook:
-            - lines: 4
+            - lines: 8
       - requirement: d
         text: |-
             Purpose and function
         workbook:
-            - lines: 4
+            - lines: 8
 - requirement: 8
   text: |-
       Discuss with your counselor two possible careers in space exploration

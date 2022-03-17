@@ -59,7 +59,7 @@
       Name at least four types of trees that are major sources of papermaking
       fibers.  Then do the following:
   workbook:
-    - lines: 8
+      - lines: 8
   children:
       - requirement: a
         text: |-
@@ -98,7 +98,10 @@
       Describe how paper is made. Discuss how paper is recycled. Make a sheet
       of paper by hand.
   workbook:
-    - lines: 8
+      - lines: 8
+      - task: true
+        text: |-
+            Made a sheet of paper by hand
   children:
       - note:
             - inPerson
@@ -131,7 +134,7 @@
       paper is changed by chemical or mechanical means to make new uses
       possible.
   workbook:
-    - lines: 8
+      - lines: 8
   children:
       - note:
             - inPerson
@@ -148,7 +151,7 @@
       Make a list of 15 pulp or paper products found in your home. Share
       examples of 10 such products with your counselor.
   workbook:
-    - lines: 8
+      - lines: 8
   children:
       - note:
             - inPerson
@@ -178,26 +181,30 @@
             Visit a pulp mill. Describe how the mill converts wood to cellulose
             fibers.
         workbook:
-          - lines: 8
+            - task: true
+            - lines: 8
       - requirement: b
         text: |-
             Visit a paper mill and get a sample of the paper made there.
             Describe the processes used for making this paper. Tell how it will
             be used.
         workbook:
-          - lines: 8
+            - task: true
+            - lines: 8
       - requirement: c
         text: |-
             Visit a container plant or box plant. Describe how the plant’s
             products are made.
         workbook:
-          - lines: 8
+            - task: true
+            - lines: 8
       - requirement: d
         text: |-
             Visit a recycled paper collection or sorting facility. Describe the
             operations there.
         workbook:
-          - lines: 8
+            - task: true
+            - lines: 8
       - requirement: e
         text: |-
             Using books, magazines, your local library, the internet (with your
@@ -206,7 +213,7 @@
             and development play in the papermaking industry. Share what you
             learn with your counselor.
         workbook:
-          - lines: 8
+            - lines: 8
       - note:
             - inPerson
             - online
@@ -231,7 +238,7 @@
       experience required for this profession. Discuss this with your
       counselor, and explain why this profession might interest you.
   workbook:
-    - lines: 8
+      - lines: 8
   children:
       - note:
             - inPerson

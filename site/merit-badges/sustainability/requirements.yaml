@@ -41,7 +41,7 @@
               markdown: true
               text: |-
                   Select B *OR* C
-            - lines: 8
+            - area: 30
       - requirement: c
         text: |-
             Discuss with your counselor two areas in the world that have been
@@ -105,6 +105,7 @@
             systems affect energy, pollution, natural resources, and the
             economy of the community.
         workbook:
+            - area: 30
             - lines: 8
       - requirement: b
         text: |-

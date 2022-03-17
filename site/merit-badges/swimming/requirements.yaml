@@ -16,31 +16,31 @@
             heat exhaustion, heatstroke, muscle cramps, hyperventilation,
             spinal injury, stings and bites, and cuts and scrapes.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Hypothermia
-            - lines: 3
+            - lines: 8
               text: |-
                   Dehydration
-            - lines: 3
+            - lines: 8
               text: |-
                   Sunburn
-            - lines: 3
+            - lines: 8
               text: |-
                   Heat exhaustion, heatstroke
-            - lines: 3
+            - lines: 8
               text: |-
                   Muscle cramps
-            - lines: 3
+            - lines: 8
               text: |-
                   Hyperventilation
-            - lines: 3
+            - lines: 8
               text: |-
                   Spinal injury
-            - lines: 3
+            - lines: 8
               text: |-
                   Stings and bites
-            - lines: 3
+            - lines: 8
               text: |-
                   Cuts and scrapes
 - requirement: 2
@@ -61,7 +61,7 @@
       for 25 yards, sidestroke for 25 yards, breaststroke for 25 yards, and
       elementary backstroke for 50 yards.
   workbook:
-      - lines: 5
+      - task: true
 - requirement: 4
   text: |-
       Do the following:
@@ -74,6 +74,9 @@
             a reaching or throwing rescue is possible, and explain why and how
             a rescue swimmer should avoid contact with the victim.
         workbook:
+            - task: true
+              text: |-
+                  Demonstrated rescue methods
             - lines: 8
       - requirement: b
         text: |-
@@ -81,7 +84,7 @@
             tender and as rescuer. The practice victim should be approximately
             30 feet from shore in deep water.
         workbook:
-            - lines: 4
+            - task: true
 - requirement: 5
   text: |-
       Do the following:
@@ -90,19 +93,19 @@
         text: |-
             Float faceup in a resting position for at least one minute.
         workbook:
-            - lines: 4
+            - task: true
       - requirement: b
         text: |-
             Demonstrate survival floating for at least five minutes.
         workbook:
-            - lines: 4
+            - task: true
       - requirement: c
         text: |-
             While wearing a properly fitted U.S. Coast Guard–approved life
             jacket, demonstrate the HELP and huddle positions.  Explain their
             purposes.
         workbook:
-            - lines: 4
+            - task: true
       - requirement: d
         text: |-
             Explain why swimming or survival floating will hasten the onset of
@@ -118,20 +121,20 @@
             Use the feetfirst method of surface diving and bring an object up
             from the bottom.
         workbook:
-            - lines: 4
+            - task: true
       - requirement: b
         text: |-
             Do a headfirst surface dive (pike or tuck), and bring the object up
             again.
         workbook:
-            - lines: 4
+            - task: true
       - requirement: c
         text: |-
             Do a headfirst surface dive to a depth of at least 5 feet and swim
             underwater for three strokes. Come to the surface, take a breath,
             and repeat the sequence twice.
         workbook:
-            - lines: 4
+            - task: true
 - requirement: 7
   markdown: true
   text: |-
@@ -142,7 +145,7 @@
       **`*` If your state, city, or local community requires a water depth
       greater than 7 feet, it is important to abide by that mandate.**
   workbook:
-      - lines: 4
+      - task: true
 - requirement: 8
   text: |-
       Explain the health benefits of regular aerobic exercise, and discuss why

@@ -27,7 +27,26 @@
             With the assistance of your merit badge counselor or the librarian,
             see if you can locate on the shelves the six books you selected.
         workbook:
-            - lines: 8
+            - split:
+                - task: true
+                  text: |-
+                      First book
+                - task: true
+                  text: |-
+                      Second book
+                - task: true
+                  text: |-
+                      Third book
+            - split:
+                - task: true
+                  text: |-
+                      Fourth book
+                - task: true
+                  text: |-
+                      Fifth book
+                - task: true
+                  text: |-
+                      Sixth book
       - requirement: e
         text: |-
             Explain what is a library card, why it is needed, and how to get
@@ -97,6 +116,9 @@
             OR
 
             c - Give a “book talk” to your class, troop, or patrol.
+      - lines: 8
+      - lines: 8
+      - lines: 8
       - lines: 8
   children:
       - requirement: a

@@ -137,7 +137,7 @@
             Shoot a moving target with a muzzleloading shotgun using the five
             fundamentals of firing the shot.
         workbook:
-            - lines: 8
+            - task: true
       - requirement: j
         text: |-
             Identify the materials needed to clean a muzzleloading shotgun
@@ -190,4 +190,4 @@
             straightaway targets.
             * On a skeet field, use station 7 low house.
         workbook:
-            - lines: 8
+            - task: true

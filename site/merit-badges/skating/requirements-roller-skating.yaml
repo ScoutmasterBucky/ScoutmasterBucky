@@ -15,19 +15,19 @@
             skating and what you should do to anticipate, help prevent,
             mitigate, and respond to these hazards.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Most likely hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Anticipate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Prevent hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Mitigate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Respond to hazards
       - requirement: b
@@ -37,31 +37,31 @@
             abrasions, fractures, sprains and strains, blisters, heat-related
             reactions, and shock.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Hypothermia
-            - lines: 3
+            - lines: 8
               text: |-
                   Frostbite
-            - lines: 3
+            - lines: 8
               text: |-
                   Lacerations
-            - lines: 3
+            - lines: 8
               text: |-
                   Abrasions
-            - lines: 3
+            - lines: 8
               text: |-
                   Fractures
-            - lines: 3
+            - lines: 8
               text: |-
                   Sprains and strains
-            - lines: 3
+            - lines: 8
               text: |-
                   Blisters
-            - lines: 3
+            - lines: 8
               text: |-
                   Heat-related reactions
-            - lines: 3
+            - lines: 8
               text: |-
                   Shock
 - requirement: 2
@@ -101,13 +101,13 @@
                   least 100 feet in both directions around the rink and
                   demonstrate proper techniques for stopping.
               workbook:
-                  - lines: 3
+                  - task: true
             - requirement: 2
               text: |-
                   Skate forward and glide at least 15 feet on one skate, then
                   on the other skate.
               workbook:
-                  - lines: 3
+                  - task: true
       - requirement: c
         text: |-
             Do the following:
@@ -116,25 +116,25 @@
               text: |-
                   Perform the crosscut.
               workbook:
-                  - lines: 3
+                  - task: true
             - requirement: 2
               text: |-
                   Skate backward for at least 40 feet on two skates, then for
                   at least 15 feet on one skate.
               workbook:
-                  - lines: 3
+                  - task: true
             - requirement: 3
               text: |-
                   Skate forward in a slalom pattern for at least 40 feet on two
                   skates, then for at least 20 feet on one skate.
               workbook:
-                  - lines: 3
+                  - task: true
             - requirement: 4
               text: |-
                   Skate backward in a slalom pattern for at least 15 feet on
                   two skates.
               workbook:
-                  - lines: 3
+                  - task: true
       - requirement: d
         text: |-
             Do the following:
@@ -144,23 +144,23 @@
                   Shuttle skate once around the rink, bending twice along the
                   way without stopping.
               workbook:
-                  - lines: 3
+                  - task: true
             - requirement: 2
               text: |-
                   Perform a widespread eagle.
               workbook:
-                  - lines: 3
+                  - task: true
             - requirement: 3
               text: |-
                   Perform a mohawk.
               workbook:
-                  - lines: 3
+                  - task: true
             - requirement: 4
               text: |-
                   Perform a series of two consecutive spins on skates OR hop,
                   skip, and jump on skates for at least 10 feet.
               workbook:
-                  - lines: 3
+                  - task: true
       - requirement: e
         text: |-
             Do the following:
@@ -170,23 +170,23 @@
                   Race on a speed track, demonstrating proper technique in
                   starting, cornering, passing, and pacing.
               workbook:
-                  - lines: 3
+                  - task: true
             - requirement: 2
               text: |-
                   Perform the limbo under a pole placed at least chest high OR
                   shoot-the-duck under a waist-high pole and rise while still
                   on one foot.
               workbook:
-                  - lines: 3
+                  - task: true
             - requirement: 3
               text: |-
                   Perform the stepover.
               workbook:
-                  - lines: 3
+                  - task: true
             - requirement: 4
               text: |-
                   While skating, dribble a basketball the length of the floor,
                   then return to your starting position OR push a hockey ball
                   with a stick around the entire rink in both directions.
               workbook:
-                  - lines: 3
+                  - task: true

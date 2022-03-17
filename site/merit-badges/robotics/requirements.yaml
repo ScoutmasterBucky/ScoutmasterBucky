@@ -10,19 +10,19 @@
             appropriate safety gear and clothing that should be used when
             working with robotics.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Most likely hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Anticipate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Mitigate and prevent hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Respond to hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Safety gear and clothing
         children:
@@ -46,16 +46,16 @@
             competitions, including cuts, eye injuries, and burns (chemical or
             heat).
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Cuts
-            - lines: 3
+            - lines: 8
               text: |-
                   Eye injuries
-            - lines: 3
+            - lines: 8
               text: |-
                   Chemical burns
-            - lines: 3
+            - lines: 8
               text: |-
                   Heat burnsl
         children:
@@ -155,7 +155,7 @@
             Build a robot or robotic subsystem of your original design to
             accomplish the task you chose for requirement 4a.
         workbook:
-            - lines: 8
+            - task: true
       - requirement: d
         text: |-
             Discuss with your counselor the programming options available for

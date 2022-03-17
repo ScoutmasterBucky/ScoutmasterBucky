@@ -171,13 +171,13 @@
               text: |-
                   Identify by sight eight species of reptiles or amphibians.
               workbook:
-                  - lines: 8
+                  - task: true
             - requirement: c
               text: |-
                   Using visual aids, give a brief talk to a small group on
                   three different reptiles and amphibians.
               workbook:
-                  - lines: 8
+                  - task: true
 - requirement: 10
   text: |-
       Tell five superstitions or false beliefs about reptiles and amphibians

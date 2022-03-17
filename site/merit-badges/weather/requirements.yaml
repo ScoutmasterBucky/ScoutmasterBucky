@@ -12,11 +12,11 @@
       each when outdoors and explain the difference between a severe weather
       watch and a warning. Discuss the safety rules with your family.
   workbook:
-      - lines: 3
-      - lines: 3
-      - lines: 3
-      - lines: 3
-      - lines: 3
+      - lines: 8
+      - lines: 8
+      - lines: 8
+      - lines: 8
+      - lines: 8
       - signature: Parent or Guardian
         checkbox: Discussed Safety Rules
 - requirement: 3
@@ -55,7 +55,7 @@
       Draw a diagram of the water cycle and label its major processes. Explain
       the water cycle to your counselor.
   workbook:
-      - area: 8
+      - area: 30
 - requirement: 7
   text: |-
       Identify some human activities that can alter the environment, and
@@ -125,7 +125,12 @@
       lightning, flash floods, and tornadoes. Before your talk, share your
       outline with your counselor for approval.
   workbook:
-      - lines: 8
+      - task: true
+        text: |-
+            Shared outline with counselor
+      - task: true
+        text: |-
+            Gave a talk of at least five minutes
 - requirement: 11
   text: |-
       Find out about a weather-related career opportunity that interests you.

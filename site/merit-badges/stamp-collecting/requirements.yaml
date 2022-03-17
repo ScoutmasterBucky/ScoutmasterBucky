@@ -47,85 +47,57 @@
 - requirement: 3
   text: |-
       Show at least ONE example of each of the following:
-  workbook:
-      - split:
-            - area: 8
-              text: |-
-                  Perforated and imperforate stamps
-            - area: 8
-              text: |-
-                  Mint and used stamps
-      - split:
-            - area: 8
-              text: |-
-                  Sheet, booklet, and coil stamps
-            - area: 8
-              text: |-
-                  Numbers on plate block, booklet, or coil, or marginal
-                  markings
-      - split:
-            - area: 8
-              text: |-
-                  Overprint and surcharge
-            - area: 8
-              text: |-
-                  Metered mail
-      - split:
-            - area: 8
-              text: |-
-                  Definitive, commemorative, semipostal, and airmail stamps
-            - area: 8
-              text: |-
-                  Cancellation and postmark
-      - split:
-            - area: 8
-              text: |-
-                  First day cover
-            - area: 8
-              text: |-
-                  Postal stationery (aerogramme, stamped envelope, and postal
-                  card)
   children:
       - requirement: a
         text: |-
             Perforated and imperforate stamps
-        workbookHide: true
+        workbook:
+          - task: true
       - requirement: b
         text: |-
             Mint and used stamps
-        workbookHide: true
+        workbook:
+          - task: true
       - requirement: c
         text: |-
             Sheet, booklet, and coil stamps
-        workbookHide: true
+        workbook:
+          - task: true
       - requirement: d
         text: |-
             Numbers on plate block, booklet, or coil, or marginal markings
-        workbookHide: true
+        workbook:
+          - task: true
       - requirement: e
         text: |-
             Overprint and surcharge
-        workbookHide: true
+        workbook:
+          - task: true
       - requirement: f
         text: |-
             Metered mail
-        workbookHide: true
+        workbook:
+          - task: true
       - requirement: g
         text: |-
             Definitive, commemorative, semipostal, and airmail stamps
-        workbookHide: true
+        workbook:
+          - task: true
       - requirement: h
         text: |-
             Cancellation and postmark
-        workbookHide: true
+        workbook:
+          - task: true
       - requirement: i
         text: |-
             First day cover
-        workbookHide: true
+        workbook:
+          - task: true
       - requirement: j
         text: |-
             Postal stationery (aerogramme, stamped envelope, and postal card)
-        workbookHide: true
+        workbook:
+          - task: true
       - note:
             - inPerson
             - online
@@ -205,37 +177,37 @@
         text: |-
             Stamp tongs
         workbook:
-            - lines: 4
+            - task: true
       - requirement: b
         text: |-
             Water and tray
         workbook:
-            - lines: 4
+            - task: true
       - requirement: c
         text: |-
             Magnifiers
         workbook:
-            - lines: 4
+            - task: true
       - requirement: d
         text: |-
             Hinges and stamp mounts
         workbook:
-            - lines: 4
+            - task: true
       - requirement: e
         text: |-
             Perforation gauge
         workbook:
-            - lines: 4
+            - task: true
       - requirement: f
         text: |-
             Glassine envelopes and cover sleeves
         workbook:
-            - lines: 4
+            - task: true
       - requirement: g
         text: |-
             Watermark fluid
         workbook:
-            - lines: 4
+            - task: true
       - note:
             - inPerson
         text: |-
@@ -261,7 +233,7 @@
             Show a stamp album and how to mount stamps with or without hinges.
             Show at least ONE page that displays several stamps.
         workbook:
-            - lines: 4
+            - task: true
         children:
             - note:
                   - inPerson
@@ -296,7 +268,7 @@
         text: |-
             Design a stamp, cancellation, or cachet.
         workbook:
-            - area: 8
+            - area: 20
       - requirement: b
         text: |-
             Visit a post office, stamp club, or stamp show with an experienced
@@ -348,19 +320,19 @@
             A collection of 250 or more different stamps from at least 15
             countries.
         workbook:
-            - lines: 4
+            - task: true
       - requirement: b
         text: |-
             A collection of a stamp from each of 50 different countries,
             mounted on maps to show the location of each.
         workbook:
-            - lines: 4
+            - task: true
       - requirement: c
         text: |-
             A collection of 100 or more different stamps from either one
             country or a group of closely related countries.
         workbook:
-            - lines: 4
+            - task: true
       - requirement: d
         text: |-
             A collection of 75 or more different stamps on a single topic.
@@ -369,14 +341,14 @@
             people, space, and medicine.) Stamps may be from different
             countries.
         workbook:
-            - lines: 4
+            - task: true
       - requirement: e
         text: |-
             A collection of postal items discovered in your mail by monitoring
             it over a period of 30 days. Include at least five different types
             listed in requirement 3.
         workbook:
-            - lines: 4
+            - task: true
       - note:
             - inPerson
             - online

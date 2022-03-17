@@ -162,36 +162,37 @@
             Weave a belt, headband, place mat, or wall hanging. Use a simple
             loom that you have made yourself.
         workbook:
-            - lines: 4
+            - task: true
       - requirement: c
         text: |-
             With a magnifying glass, examine a woven fabric, a nonwoven fabric,
             and a knitted fabric. Sketch what you see. Explain how the three
             constructions are different.
         workbook:
-            - lines: 4
+            - area: 20
+            - lines: 8
       - requirement: d
         text: |-
             Make a piece of felt.
         workbook:
-            - lines: 4
+            - task: true
       - requirement: e
         text: |-
             Make two natural dyes and use them to dye a garment or a piece of
             fabric.
         workbook:
-            - lines: 4
+            - task: true
       - requirement: f
         text: |-
             Waterproof a fabric.
         workbook:
-            - lines: 4
+            - task: true
       - requirement: g
         text: |-
             Demonstrate how to identify fibers, using microscope identification
             or the breaking test.
         workbook:
-            - lines: 4
+            - task: true
       - note:
             - inPerson
         text: |-

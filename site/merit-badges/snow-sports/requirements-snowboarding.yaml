@@ -16,19 +16,19 @@
             you should do to anticipate, help prevent, mitigate, and respond to
             these hazards.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Most likely hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Anticipate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Prevent hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Mitigate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Respond to hazards
       - requirement: b
@@ -39,30 +39,30 @@
             fractures, bruises, sprains, and strains. Tell how to apply
             splints.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
-                Hypothermia
-            - lines: 3
+                  Hypothermia
+            - lines: 8
               text: |-
-                Frostbite
-            - lines: 3
+                  Frostbite
+            - lines: 8
               text: |-
-                Shock
-            - lines: 3
+                  Shock
+            - lines: 8
               text: |-
-                Dehydration
-            - lines: 3
+                  Dehydration
+            - lines: 8
               text: |-
-                Sunburn
-            - lines: 3
+                  Sunburn
+            - lines: 8
               text: |-
-                Fractures
-            - lines: 3
+                  Fractures
+            - lines: 8
               text: |-
-                Bruises
-            - lines: 3
+                  Bruises
+            - lines: 8
               text: |-
-                Sprains and strains
+                  Sprains and strains
 - requirement: 2
   text: |-
       Do the following:
@@ -72,32 +72,32 @@
             Explain why every snow sport participant should be prepared to
             render first aid in the event of an accident.
         workbook:
-          - lines: 8
+            - lines: 8
       - requirement: b
         text: |-
             Explain the procedure used to report an accident to the local ski
             patrol for the area where you usually ski, ride, or snowshoe.
         workbook:
-          - lines: 8
+            - lines: 8
 - requirement: 3
   text: |-
       Explain the international trail-marking system.
   workbook:
-    - lines: 8
+      - lines: 8
 - requirement: 4
   text: |-
       Discuss the importance of strength, endurance, and flexibility in snow
       sports.  Demonstrate exercises and activities you can do to get fit for
       the option you choose in requirement 7.
   workbook:
-    - lines: 8
+      - lines: 8
 - requirement: 5
   text: |-
       Present yourself properly clothed and equipped for the option you choose
       in requirement 7. Discuss how the clothing you have chosen will help keep
       you warm and protected.
   workbook:
-    - lines: 8
+      - lines: 8
 - requirement: 6
   text: |-
       Do EACH of the following:
@@ -108,26 +108,26 @@
             snowboarders, and snowshoers. Explain why each rider must follow
             this code.
         workbook:
-          - lines: 8
+            - lines: 8
       - requirement: b
         text: |-
             Explain the Smart Style safety program. Tell why it is important
             and how it applies to participants at snow sport venues like
             terrain parks and pipes.
         workbook:
-          - lines: 8
+            - lines: 8
       - requirement: c
         text: |-
             Explain the precautions pertaining to avalanche safety, including
             the responsibility of individuals regarding avalanche safety.
         workbook:
-          - lines: 8
+            - lines: 8
       - requirement: d
         text: |-
             Tell the meaning of the Wilderness Use Policy. Explain why each
             skier and snowboarder must adopt this policy.
         workbook:
-          - lines: 8
+            - lines: 8
 - requirement: 7
   text: |-
       Complete ALL of the requirements for ONE of the following options:
@@ -142,34 +142,36 @@
         text: |-
             Discuss forward-fall injuries.
         workbook:
-          - lines: 8
+            - lines: 8
       - requirement: b
         text: |-
             Show your ability to select the correct equipment for snowboarding
             and to use it for safety and comfort.
         workbook:
-          - lines: 8
+            - lines: 8
       - requirement: c
         text: |-
             Show how to use and maintain your own bindings, and explain the use
             of the different binding methods. Explain the need for leashes.
         workbook:
-          - lines: 8
+            - lines: 8
       - requirement: d
         text: |-
             Discuss the four types of snowboards. Demonstrate how to carry a
             snowboard easily and safely.
         workbook:
-          - lines: 8
+            - lines: 8
       - requirement: e
         text: |-
             Demonstrate how to ride one kind of lift and explain how to ride
             two others.
         workbook:
-          - lines: 4
+            - task: true
       - requirement: f
         text: |-
             Demonstrate the basic principles of waxing a snowboard.
+        workbook:
+            - task: true
       - requirement: g
         text: |-
             Do the following:
@@ -180,12 +182,12 @@
                   maneuvers.  Show basic ways to control speed and direction.
                   Include the side-slipping maneuver.
               workbook:
-                - lines: 4
+                  - task: true
             - requirement: 2
               text: |-
                   On slightly steeper terrain, show traversing.
               workbook:
-                - lines: 4
+                  - task: true
       - requirement: h
         text: |-
             On a moderate slope, demonstrate an Ollie, a nose-end grab, and a
@@ -199,54 +201,21 @@
               text: |-
                   Skidded, carved, and jump turns
               workbook:
-                - lines: 4
+                  - task: true
             - requirement: 2
               text: |-
                   Stops
               workbook:
-                - lines: 4
+                  - task: true
             - requirement: 3
               text: |-
                   Riding fakie
               workbook:
-                - lines: 4
+                  - task: true
       - requirement: j
         text: |-
             Demonstrate your ability to ride in varied conditions, including
             changes in pitch, snow conditions, and moguls. Maintain your
             balance and ability to turn.
         workbook:
-          - lines: 4
-      - requirement: k
-        text: |-
-            Name the major snowboarding organizations in the United States and
-            explain their functions.
-        children:
-            - requirement: 1
-              text: |-
-                  Skidded, carved, and jump turns
-              workbook:
-                - lines: 4
-            - requirement: 2
-              text: |-
-                  Stops
-              workbook:
-                - lines: 4
-            - requirement: 3
-              text: |-
-                  Riding fakie
-              workbook:
-                - lines: 4
-      - requirement: l
-        text: |-
-            Demonstrate your ability to ride in varied conditions, i­ncluding
-            changes in pitch, snow conditions, and moguls. Maintain your
-            balance and ability to turn.
-        workbook:
-          - lines: 4
-      - requirement: m
-        text: |-
-            Name the major snowboarding organizations in the United States and
-            explain their functions.
-        workbook:
-          - lines: 8
+            - task: true

@@ -450,15 +450,15 @@ Properties:
 
 ### Task
 
-Show a checkbox to indicate a task was completed.
+Show a checkbox to indicate a task was completed. The caption is automatically
+set to "Completed".
 
 ```
 - task: true
-  text: |-
-      Do this thing
 ```
 
-This also supports markdown for more advanced formatting options.
+This also supports markdown for more advanced formatting options and you can
+specify your own caption.
 
 ```
 - task: true
@@ -471,7 +471,8 @@ Properties:
 
 * `markdown`: Optional, controls `text`
 * `task`: Must be `true`
-* `text`: Text / HTML / markdown to as a caption
+* `text`: Optional, text / HTML / markdown to as a caption, defaults to
+  "Completed"
 
 
 Data Validation

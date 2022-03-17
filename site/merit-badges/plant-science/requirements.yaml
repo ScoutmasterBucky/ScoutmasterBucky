@@ -75,7 +75,7 @@
             the following plants: corn, cotton, alfalfa, soybeans, clover,
             wheat, rice, rye, barley. Determine the percentage of live seeds.
         workbook:
-            - lines: 8
+            - task: true
       - requirement: C
         text: |-
             Tell about one important insect pest and one important disease that
@@ -111,6 +111,9 @@
                         your counselor. Record seed variety or experimental
                         code number.
                     workbook:
+                        - task: true
+                          text: |-
+                              Inspected by counselor
                         - lines: 8
                   - requirement: b
                     text: |-
@@ -135,7 +138,9 @@
                         Grow a plot of cotton and have your plot inspected by
                         your counselor.
                     workbook:
-                        - lines: 4
+                        - task: true
+                          text: |-
+                              Inspected by counselor
                   - requirement: b
                     text: |-
                         Tell about modern methods of commercial cotton farming,
@@ -202,6 +207,7 @@
                         and describe the processes used and tell your patrol,
                         troop, or class about your visit.
                     workbook:
+                        - signature: Operator
                         - lines: 8
             - requirement: 5
               text: |-
@@ -212,7 +218,7 @@
                         Grow a plot of soybeans and have your plot inspected by
                         your counselor.
                     workbook:
-                        - lines: 8
+                        - task: true
                   - requirement: b
                     text: |-
                         Tell about modern methods of growing soybeans on a
@@ -311,19 +317,22 @@
                   Transplant 12 seedlings or rooted cuttings to larger
                   containers and grow them for at least one month.
               workbook:
-                  - lines: 4
+                  - task: true
             - requirement: 3
               text: |-
                   Demonstrate good pruning techniques and tell why pruning is
                   important.
               workbook:
+                  - task: true
+                    text: |-
+                        Demonstrated
                   - lines: 8
             - requirement: 4
               text: |-
                   After obtaining permission, plant a tree or shrub properly in
                   an appropriate site.
               workbook:
-                  - lines: 8
+                  - task: true
       - requirement: D
         text: |-
             Do EACH of the following:
@@ -362,6 +371,7 @@
                         mix. Explain why you chose the mix and tell what is in
                         it.
                     workbook:
+                        - task: true
                         - lines: 8
                   - requirement: b
                     text: |-
@@ -370,6 +380,7 @@
                         Record your activities, observations, materials used,
                         and costs.
                     workbook:
+                        - task: true
                         - lines: 8
                   - requirement: c
                     text: |-
@@ -377,6 +388,9 @@
                         and deadheading, and tell how each practice helps your
                         plants.
                     workbook:
+                        - task: true
+                          text: |-
+                              Demonstrated
                         - lines: 8
                   - requirement: d
                     text: |-
@@ -395,18 +409,26 @@
                         fruit or nut trees, grapevines, or berry plants through
                         one season.
                     workbook:
-                        - lines: 8
+                        - split:
+                            - task: true
+                              text: |-
+                                  Planted five plants
+                            - task: true
+                              text: |-
+                                  Cared for plants for one season
                   - requirement: b
                     text: |-
                         Prune a tree, vine, or shrub properly. Explain why
                         pruning is necessary.
                     workbook:
+                        - task: true
                         - lines: 8
                   - requirement: c
                     text: |-
                         Demonstrate one type of graft and tell why this method
                         is useful.
                     workbook:
+                        - task: true
                         - lines: 8
                   - requirement: d
                     text: |-
@@ -424,12 +446,20 @@
                         setting. Take full care of the trees or shrubs you have
                         planted for one growing season.
                     workbook:
+                        - split:
+                            - task: true
+                              text: |-
+                                  Planted five trees or shrubs
+                            - task: true
+                              text: |-
+                                  Cared for trees or shrubs for one season
                         - lines: 8
                   - requirement: b
                     text: |-
                         Prune a tree or shrub properly. Explain why pruning is
                         necessary.
                     workbook:
+                        - task: true
                         - lines: 8
                   - requirement: c
                     text: |-
@@ -438,16 +468,56 @@
                         is used in the landscape.  Give the common and
                         scientific names.
                     workbook:
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
+                        - split:
+                            - header: true
+                              text: |-
+                                  Tree name (common)
+                            - header: true
+                              text: |-
+                                  Scientific name
+                            - header: true
+                              text: |-
+                                  How used in landscape
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
                   - requirement: d
                     text: |-
                         Describe the size, texture, color, flowers, leaves,
@@ -455,16 +525,16 @@
                         special characteristics that make each type of tree or
                         shrub attractive or interesting.
                     workbook:
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
+                        - lines: 8
+                        - lines: 8
+                        - lines: 8
+                        - lines: 8
+                        - lines: 8
+                        - lines: 8
+                        - lines: 8
+                        - lines: 8
+                        - lines: 8
+                        - lines: 8
                   - requirement: e
                     text: |-
                         Tell five ways trees help improve the quality of our
@@ -480,7 +550,7 @@
                         Design and plant a garden or landscape that is at least
                         10 by 10 feet.
                     workbook:
-                        - lines: 8
+                        - task: true
                   - requirement: b
                     text: |-
                         Plant 10 or more different types of plants in your
@@ -488,6 +558,7 @@
                         vegetables and flowers. Take care of the plants in your
                         garden for one season.
                     workbook:
+                        - task: true
                         - lines: 8
                   - requirement: c
                     text: |-
@@ -496,6 +567,7 @@
                         management, and pruning.  Tell why each technique is
                         used.
                     workbook:
+                        - task: true
                         - lines: 8
                   - requirement: d
                     text: |-
@@ -618,7 +690,7 @@
                         Collect, press, and label leaves, flowers, or fruits to
                         document your inventory.
                     workbook:
-                        - lines: 8
+                        - task: true
                   - requirement: c
                     text: |-
                         List the types of trees by scientific name and give
@@ -644,7 +716,13 @@
                         from the one you visited for Field Botany requirement
                         1.
                     workbook:
-                        - lines: 8
+                        - split:
+                            - lines: 2
+                              text: |-
+                                  First location description
+                            - lines: 2
+                              text: |-
+                                  Second location description
                   - requirement: b
                     text: |-
                         Use the transect method to study the two different
@@ -652,6 +730,11 @@
                         least 500 feet long.
                     workbook:
                         - lines: 8
+                          text: |-
+                              First location
+                        - lines: 8
+                          text: |-
+                              Second location
                   - requirement: c
                     text: |-
                         At each site, record observations about the soil and
@@ -660,6 +743,11 @@
                         studies.
                     workbook:
                         - lines: 8
+                          text: |-
+                              First location
+                        - lines: 8
+                          text: |-
+                              Second location
                         - header: true
                           markdown: true
                           text: |-
@@ -668,7 +756,13 @@
 
                               2. Measure the diameter of each tree at 4 feet
                               above the ground, and map and list each tree.
-                        - grid: 10
+                        - split:
+                            - grid: 10
+                              text: |-
+                                  First location
+                            - grid: 10
+                              text: |-
+                                  Second location
                     children:
                         - requirement: 1
                           text: |-
@@ -690,7 +784,13 @@
                         from the one you visited for Field Botany requirement
                         1.
                     workbook:
-                        - lines: 8
+                        - split:
+                            - lines: 2
+                              text: |-
+                                  First location description
+                            - lines: 2
+                              text: |-
+                                  Second location description
                   - requirement: b
                     text: |-
                         Mark off nested plots and inventory two different kinds
@@ -705,6 +805,11 @@
                         studies.
                     workbook:
                         - lines: 8
+                          text: |-
+                              First location
+                        - lines: 8
+                          text: |-
+                              Second location
                         - header: true
                           markdown: true
                           text: |-
@@ -719,7 +824,13 @@
                               3. Identify and map all plants (wildflowers,
                               ferns, grasses, mosses, etc.) of a 4-by-4-foot
                               plot within the 10-by-10-foot plot.
-                        - grid: 10
+                        - split:
+                            - grid: 10
+                              text: |-
+                                  First location
+                            - grid: 10
+                              text: |-
+                                  Second location
                     children:
                         - requirement: 1
                           text: |-
@@ -749,7 +860,9 @@
                         university, park, or botanical garden; OR, visit an
                         herbarium website (with your parent’s permission).
                     workbook:
-                        - lines: 8
+                        - task: true
+                          text: |-
+                              Visited herbarium
                   - requirement: b
                     text: |-
                         Tell how the specimens are arranged and how they are
@@ -780,7 +893,7 @@
                         organization or government agency that is concerned
                         with protecting rare plants and natural areas.
                     workbook:
-                        - lines: 8
+                        - task: true
                   - requirement: b
                     text: |-
                         Tell about the activities of the organization in

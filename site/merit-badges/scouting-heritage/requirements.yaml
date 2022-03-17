@@ -263,6 +263,14 @@
       presentation such as a slide show.
   workbook:
       - lines: 8
+        text: |-
+            First inteview
+      - lines: 8
+        text: |-
+            Second inteview
+      - lines: 8
+        text: |-
+            Your findings
   children:
       - note:
             - inPerson
@@ -288,7 +296,7 @@
       (There is no requirement regarding how large or small this collection
       must be.)
   workbook:
-      - lines: 8
+      - task: true
   children:
       - note:
             - inPerson
@@ -306,7 +314,7 @@
       counselor’s approval), or pick one from the Scouting Heritage merit badge
       pamphlet.  Teach and play the game with other Scouts.
   workbook:
-      - lines: 8
+      - task: true
   children:
       - note:
             - inPerson
@@ -325,13 +333,13 @@
   workbook:
       - lines: 8
         text: |-
-            First interviewee
+            First interview
       - lines: 8
         text: |-
-            Second interviewee
+            Second interview
       - lines: 8
         text: |-
-            Third interviewee
+            Third interview
   children:
       - note:
             - inPerson

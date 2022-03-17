@@ -4,27 +4,19 @@
 - requirement: 1
   text: |-
       Do ONE of the following:
-  workbook:
-      - header: true
-        markdown: true
-        text: |-
-            a. Show that your school grades have been an average of B or higher
-            (80 percent or higher) for one term or semester.
-
-            b. Show that for one term or semester you have improved your school
-            grades over the previous period.
-      - lines: 8
   children:
       - requirement: a
         text: |-
             Show that your school grades have been an average of B or higher
             (80 percent or higher) for one term or semester.
-        workbookHide: true
+        workbook:
+            - task: true
       - requirement: b
         text: |-
             Show that for one term or semester you have improved your school
             grades over the previous period.
-        workbookHide: true
+        workbook:
+            - task: true
       - note:
             - inPerson
             - online
@@ -95,10 +87,10 @@
       a principal, you may obtain a note from a counterpart such as your
       parent.
   workbook:
-      - signature: School Principal
       - lines: 8
         text: |-
             Additional notes about behavior, leadership, and service
+      - signature: School Principal or Official
   children:
       - note:
             - inPerson
@@ -110,19 +102,6 @@
 - requirement: 4
   text: |-
       Do ONE of the following:
-  workbook:
-      - header: true
-        markdown: true
-        text: |-
-            a. Show that you have taken part in an extracurricular school
-            activity, and discuss with your counselor the benefits of
-            participation and what you learned about the importance of
-            teamwork.
-
-            b. Discuss your participation in a school project during the past
-            semester where you were a part of a team. Tell about the positive
-            contributions you made to the team and the project.
-      - lines: 8
   children:
       - requirement: a
         text: |-
@@ -130,13 +109,15 @@
             activity, and discuss with your counselor the benefits of
             participation and what you learned about the importance of
             teamwork.
-        workbookHide: true
+        workbook:
+            - lines: 8
       - requirement: b
         text: |-
             Discuss your participation in a school project during the past
             semester where you were a part of a team. Tell about the positive
             contributions you made to the team and the project.
-        workbookHide: true
+        workbook:
+            - lines: 8
       - note:
             - inPerson
             - online
@@ -148,31 +129,21 @@
 - requirement: 5
   text: |-
       Do ONE of the following:
-  workbook:
-      - header: true
-        markdown: true
-        text: |-
-            a. Write a report of 250 to 300 words about how the education you
-            receive in school will be of value to you in the future and how you
-            will continue to educate yourself in the future.
-
-            b. Write a report of 250 to 300 words about two careers that
-            interest you and how specific classes and good scholarship in
-            general will help you achieve your career goals.
-      - lines: 8
   children:
       - requirement: a
         text: |-
             Write a report of 250 to 300 words about how the education you
             receive in school will be of value to you in the future and how you
             will continue to educate yourself in the future.
-        workbookHide: true
+        workbook:
+            - task: true
       - requirement: b
         text: |-
             Write a report of 250 to 300 words about two careers that interest
             you and how specific classes and good scholarship in general will
             help you achieve your career goals.
-        workbookHide: true
+        workbook:
+            - task: true
       - note:
             - inPerson
             - online

@@ -82,7 +82,7 @@
             the following plants: corn, cotton, alfalfa, soybeans, clover,
             wheat, rice, rye, barley. Determine the percentage of live seeds.
         workbook:
-            - lines: 8
+            - task: true
       - requirement: C
         text: |-
             Tell about one important insect pest and one important disease that
@@ -118,6 +118,9 @@
                         your counselor. Record seed variety or experimental
                         code number.
                     workbook:
+                        - task: true
+                          text: |-
+                              Inspected by counselor
                         - lines: 8
                   - requirement: b
                     text: |-
@@ -142,7 +145,9 @@
                         Grow a plot of cotton and have your plot inspected by
                         your counselor.
                     workbook:
-                        - lines: 4
+                        - task: true
+                          text: |-
+                              Inspected by counselor
                   - requirement: b
                     text: |-
                         Tell about modern methods of commercial cotton farming,
@@ -209,6 +214,7 @@
                         and describe the processes used and tell your patrol,
                         troop, or class about your visit.
                     workbook:
+                        - signature: Operator
                         - lines: 8
             - requirement: 5
               text: |-
@@ -219,7 +225,7 @@
                         Grow a plot of soybeans and have your plot inspected by
                         your counselor.
                     workbook:
-                        - lines: 8
+                        - task: true
                   - requirement: b
                     text: |-
                         Tell about modern methods of growing soybeans on a

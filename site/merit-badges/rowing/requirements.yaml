@@ -9,19 +9,19 @@
             water-related hazards, and what you should do to anticipate, help
             prevent, mitigate, and respond to these hazards.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Most likely hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Anticipate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Prevent hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Mitigate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Respond to hazards
       - requirement: b
@@ -31,22 +31,22 @@
             blisters, hypothermia, heat-related illnesses, dehydration,
             sunburn, sprains, and strains.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Blisters
-            - lines: 3
+            - lines: 8
               text: |-
                   Hypothermia
-            - lines: 3
+            - lines: 8
               text: |-
                   Heat-related illnesses
-            - lines: 3
+            - lines: 8
               text: |-
                   Dehydration
-            - lines: 3
+            - lines: 8
               text: |-
                   Sunburn
-            - lines: 3
+            - lines: 8
               text: |-
                   Sprains and strains
       - requirement: c
@@ -76,44 +76,51 @@
         text: |-
             Alone or with a passenger, do the following in either a fixed-seat
             or sliding-seat rowboat:
-        workbook:
-            - header: true
-              markdown: true
-              text: |-
-                  1. Launch.
-                  2. Row in a straight line for 100 yards. Stop, pivot, and
-                  return to the starting point.
-                  3. Backwater in a straight line for 25 yards. Make a turn
-                  under way and return to the starting point.
-                  4. Land and moor or rack your craft.
-                  5. Tie the following mooring knots—clove hitch, roundturn
-                  with two half-hitches, bowline, Wellman’s knot, and mooring
-                  hitch.
-            - lines: 8
         children:
             - requirement: 1
               text: |-
                   Launch.
-              workbookHide: true
+              workbook:
+                  - task: true
             - requirement: 2
               text: |-
                   Row in a straight line for 100 yards. Stop, pivot, and return
                   to the starting point.
-              workbookHide: true
+              workbook:
+                  - task: true
             - requirement: 3
               text: |-
                   Backwater in a straight line for 25 yards. Make a turn under
                   way and return to the starting point.
-              workbookHide: true
+              workbook:
+                  - task: true
             - requirement: 4
               text: |-
                   Land and moor or rack your craft.
-              workbookHide: true
+              workbook:
+                  - task: true
             - requirement: 5
               text: |-
                   Tie the following mooring knots—clove hitch, roundturn with
                   two half-hitches, bowline, Wellman’s knot, and mooring hitch.
-              workbookHide: true
+              workbook:
+                  - split:
+                      - task: true
+                        text: |-
+                            Clove hitch
+                      - task: true
+                        text: |-
+                            Roundturn with two half-hitches
+                  - split:
+                      - task: true
+                        text: |-
+                            Bowline
+                      - task: true
+                        text: |-
+                            Wellman's knot
+                      - task: true
+                        text: |-
+                            Mooring hitch
       - requirement: b
         text: |-
             Participate as a rowing team member in a competitive rowing meet.
@@ -135,28 +142,29 @@
             your rowing position, return alongside the pier, and help your
             passenger out of the boat.
         workbook:
-            - lines: 4
+            - task: true
       - requirement: b
         text: |-
             In a sliding-seat rowboat, come alongside a pier and, with your
             buddy assisting you, get out onto the pier.  Help your buddy into
             the boat. Reverse roles with your buddy and repeat the procedure.
         workbook:
-            - lines: 4
+            - task: true
 - requirement: 6
   text: |-
       Participate in a swamped boat drill including righting and stabilizing
       the craft, reboarding in deep water, and making headway. Tell why you
       should stay with a swamped boat.
   workbook:
-      - lines: 4
+      - task: true
+      - lines: 8
 - requirement: 7
   text: |-
       Alone in a rowboat, push off from the shore or a pier.  Row 20 yards to a
       swimmer. While giving instructions to the swimmer, pivot the boat so that
       the swimmer can hold on to the stern. Tow the swimmer to shore.
   workbook:
-      - lines: 4
+      - task: true
 - requirement: 8
   text: |-
       Describe the following:

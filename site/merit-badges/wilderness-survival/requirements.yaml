@@ -9,19 +9,19 @@
             and what you should do to anticipate, help prevent, mitigate, or
             lessen these hazards.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Most likely hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Anticipate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Prevent hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Mitigate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Lessen hazards
       - requirement: b
@@ -31,28 +31,28 @@
             hypothermia, heat reactions, frostbite, dehydration, blisters,
             insect stings, tick bites, and snakebites.
         workbook:
-            - lines: 2
+            - lines: 8
               text: |-
                   Hypothermia
-            - lines: 2
+            - lines: 8
               text: |-
                   Heat reactions
-            - lines: 2
+            - lines: 8
               text: |-
                   Frostbite
-            - lines: 2
+            - lines: 8
               text: |-
                   Dehydration
-            - lines: 2
+            - lines: 8
               text: |-
                   Blisters
-            - lines: 2
+            - lines: 8
               text: |-
                   Insect stings
-            - lines: 2
+            - lines: 8
               text: |-
                   Tick bites
-            - lines: 2
+            - lines: 8
               text: |-
                   Snakebites
 - requirement: 2
@@ -61,25 +61,25 @@
       wilderness location. Explain the importance of each one with your
       counselor.
   workbook:
-      - lines: 2
+      - lines: 8
         text: |-
             Most important priority and why it's important
-      - lines: 2
+      - lines: 8
         text: |-
             Second most important priority and why it's important
-      - lines: 2
+      - lines: 8
         text: |-
             Next priority and why it's important
-      - lines: 2
+      - lines: 8
         text: |-
             Next priority and why it's important
-      - lines: 2
+      - lines: 8
         text: |-
             Next priority and why it's important
-      - lines: 2
+      - lines: 8
         text: |-
             Next priority and why it's important
-      - lines: 2
+      - lines: 8
         text: |-
             Least important priority and why it's still important
 - requirement: 3
@@ -91,57 +91,58 @@
 - requirement: 4
   text: |-
       Describe the steps you would take to survive in the following exposure conditions:
-  workbook:
-      - lines: 2
-        text: |-
-            Cold and snowy
-      - lines: 2
-        text: |-
-            Wet
-      - lines: 2
-        text: |-
-            Hot and dry
-      - lines: 2
-        text: |-
-            Windy
-      - lines: 2
-        text: |-
-            At or on the water
   children:
       - requirement: a
         text: |-
             Cold and snowy
-        workbookHide: true
+        workbook:
+            - lines: 8
       - requirement: b
         text: |-
             Wet
-        workbookHide: true
+        workbook:
+            - lines: 8
       - requirement: c
         text: |-
             Hot and dry
-        workbookHide: true
+        workbook:
+            - lines: 8
       - requirement: d
         text: |-
             Windy
-        workbookHide: true
+        workbook:
+            - lines: 8
       - requirement: e
         text: |-
             At or on the water
-        workbookHide: true
+        workbook:
+            - lines: 8
 - requirement: 5
   text: |-
       Put together a personal survival kit and explain how each item in it
       could be useful.
   workbook:
+      - task: true
+        text: |-
+            Assembled a personal survival kit
       - lines: 8
+        text: |-
+            Explain how each item could be useful
 - requirement: 6
   text: |-
       Using three different methods (other than matches), build and light three
       fires.
   workbook:
-      - lines: 3
-      - lines: 3
-      - lines: 3
+      - split:
+          - task: true
+            text: |-
+                First method
+          - task: true
+            text: |-
+                Second method
+          - task: true
+            text: |-
+                Third method
 - requirement: 7
   text: |-
       Do the following:
@@ -150,38 +151,25 @@
         text: |-
             Show five different ways to attract attention when lost.
         workbook:
-            - lines: 3
-            - lines: 3
-            - lines: 3
-            - lines: 3
-            - lines: 3
+            - task: true
       - requirement: b
         text: |-
             Demonstrate how to use a signal mirror.
         workbook:
-            - lines: 8
+            - task: true
       - requirement: c
         text: |-
             Describe from memory five ground-to-air signals and tell what they
             mean.
         workbook:
-            - lines: 2
-            - lines: 2
-            - lines: 2
-            - lines: 2
-            - lines: 2
+            - task: true
 - requirement: 8
   text: |-
       Improvise a natural shelter. For the purpose of this demonstration, use
       techniques that have little negative impact on the environment. Spend a
       night in your shelter.
   workbook:
-      - lines: 8
-        text: |-
-            Describe concerns, materials, building process, and other details
-      - area: 8
-        text: |-
-            Illustrate the shelter
+      - task: true
 - requirement: 9
   text: |-
       Explain how to protect yourself from insects, reptiles, bears, and other
@@ -193,15 +181,22 @@
       Demonstrate three ways to treat water found in the outdoors to prepare it
       for drinking.
   workbook:
-      - lines: 3
-      - lines: 3
-      - lines: 3
+      - split:
+          - task: true
+            text: |-
+                First method
+          - task: true
+            text: |-
+                Second method
+          - task: true
+            text: |-
+                Third method
 - requirement: 11
   text: |-
       Show that you know the proper clothing to wear while in the outdoors
       during extremely hot and cold weather and during wet conditions.
   workbook:
-      - lines: 8
+      - task: true
 - requirement: 12
   text: |-
       Explain why it usually is not wise to eat edible wild plants or wildlife

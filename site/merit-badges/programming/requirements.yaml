@@ -15,6 +15,14 @@
             programming activities.
         workbook:
             - lines: 8
+              text: |-
+                  Eyestrain
+            - lines: 8
+              text: |-
+                  Repetitive streess injuries
+            - lines: 8
+              text: |-
+                  Other injuries
 - requirement: 2
   text: |-
       History. Do the following:
@@ -26,6 +34,17 @@
             programming.
         workbook:
             - lines: 8
+              text: |-
+                  History of programming
+            - lines: 8
+              text: |-
+                  First milestone
+            - lines: 8
+              text: |-
+                  Second milestone
+            - lines: 8
+              text: |-
+                  Third milestone
       - requirement: b
         text: |-
             Discuss with your counselor the history of programming and the
@@ -51,7 +70,7 @@
                         Industries
                   - header: true
                     text: |-
-                        Why
+                        Why used there
             - split:
                   - lines: 2
                   - lines: 2
@@ -108,10 +127,10 @@
             Explain the four types of intellectual property used to protect
             computer programs.
         workbook:
-            - lines: 4
-            - lines: 4
-            - lines: 4
-            - lines: 4
+            - lines: 8
+            - lines: 8
+            - lines: 8
+            - lines: 8
       - requirement: b
         text: |-
             Describe the difference between licensing and owning software.
@@ -140,7 +159,10 @@
             5a. However, you have the option of finding a program on your own.
             It’s a good idea to seek your merit badge counselor’s guidance.
         workbook:
-            - lines: 8
+            - lines: 2
+              text: |-
+                  First programming language
+            - task: true
       - requirement: b
         text: |-
             With your counselor’s approval, choose a second programming
@@ -149,7 +171,10 @@
             debug, and demonstrate a functioning program to your counselor,
             using that language and environment.
         workbook:
-            - lines: 8
+            - lines: 2
+              text: |-
+                  Second programming language
+            - task: true
       - requirement: c
         text: |-
             With your counselor’s approval, choose a third programming language
@@ -158,7 +183,10 @@
             Then write, debug, and demonstrate a functioning program to your
             counselor, using that language and environment.
         workbook:
-            - lines: 8
+            - lines: 2
+              text: |-
+                  Third programming language
+            - task: true
       - requirement: d
         text: |-
             Explain how the programs you wrote for requirements 5a, 5b, and 5c

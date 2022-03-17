@@ -116,7 +116,7 @@
             Demonstrate the knowledge, skills, and attitude necessary to safely
             shoot moving targets, using the fundamentals of shotgun shooting.
         workbook:
-            - lines: 8
+            - task: true
       - requirement: h
         text: |-
             Identify the materials needed to clean a shotgun.
@@ -126,7 +126,7 @@
         text: |-
             Demonstrate how to clean a shotgun properly and safely.
         workbook:
-            - lines: 8
+            - task: true
       - requirement: j
         text: |-
             Discuss what points you would consider in selecting a shotgun.
@@ -162,7 +162,7 @@
             straightaway targets.
             * If using a skeet field, shoot station 7 low house.
         workbook:
-            - lines: 8
+            - task: true
       - detail: true
         markdown: true
         text: |-
@@ -221,7 +221,7 @@
             Shoot a moving target with a muzzleloading shotgun using the five
             fundamentals of firing the shot.
         workbook:
-            - lines: 8
+            - task: true
       - requirement: j
         text: |-
             Identify the materials needed to clean a muzzleloading shotgun
@@ -274,4 +274,4 @@
             straightaway targets.
             * On a skeet field, use station 7 low house.
         workbook:
-            - lines: 8
+            - task: true

@@ -33,20 +33,34 @@
             Make a drawing and explain how a home hot- and cold-water supply
             system works. Tell how you would make it safe from freezing.
         workbook:
-            - area: 8
+            - area: 15
             - lines: 8
       - requirement: b
         text: |-
             Make a drawing and explain the drainage system of the plumbing in a
             house. Show and explain the use of drains and vents.
         workbook:
-            - area: 8
+            - area: 15
             - lines: 8
 - requirement: 3
   text: |-
       Show how to use five important plumber’s tools.
   workbook:
-      - lines: 8
+      - task: true
+        text: |-
+            First tool
+      - task: true
+        text: |-
+            Second tool
+      - task: true
+        text: |-
+            Third tool
+      - task: true
+        text: |-
+            Fourth tool
+      - task: true
+        text: |-
+            Fifth tool
 - requirement: 4
   text: |-
       Identify and describe the use of each of the following: washer, retaining
@@ -105,14 +119,14 @@
   text: |-
       Cut, thread, and connect two pieces of metal pipe.
   workbook:
-      - lines: 8
+      - task: true
 - requirement: 7
   text: |-
       Under the supervision of a knowledgeable adult, solder three copper tube
       connections using a gas torch. Include one tee, two straight pieces, and
       one coupling.
   workbook:
-      - lines: 4
+      - task: true
 - requirement: 8
   text: |-
       Do the following:
@@ -121,9 +135,9 @@
         text: |-
             Replace a washer in a faucet.
         workbook:
-            - lines: 4
+            - task: true
       - requirement: b
         text: |-
             Clean out a sink or lavatory trap.
         workbook:
-            - lines: 4
+            - task: true
