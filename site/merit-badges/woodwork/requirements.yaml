@@ -10,22 +10,22 @@
             hazards. Explain what precautions you should take to safely use
             your tools.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Most likely hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Anticipate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Prevent hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Mitigate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Respond to hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Precautions to take for safely using your tools
       - requirement: b
@@ -36,16 +36,16 @@
             of eyesight or hearing, and explain why and when it is necessary to
             use a dust mask.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Splinters, scratches, cuts
-            - lines: 3
+            - lines: 8
               text: |-
                   Severe bleeding
-            - lines: 3
+            - lines: 8
               text: |-
                   Shock
-            - lines: 3
+            - lines: 8
               text: |-
                   Precautions
         children:
@@ -59,7 +59,7 @@
         text: |-
             Earn the Totin’ Chip recognition.
         workbook:
-            - signature: Adult Leader
+            - signature: Adult Scout Leader
               checkbox: Approved
         children:
             - note:
@@ -106,29 +106,29 @@
                     text: |-
                         Best uses
             - split:
-                  - lines: 3
-                  - lines: 3
-                  - lines: 3
+                  - lines: 5
+                  - lines: 5
+                  - lines: 5
             - split:
-                  - lines: 3
-                  - lines: 3
-                  - lines: 3
+                  - lines: 5
+                  - lines: 5
+                  - lines: 5
             - split:
-                  - lines: 3
-                  - lines: 3
-                  - lines: 3
+                  - lines: 5
+                  - lines: 5
+                  - lines: 5
             - split:
-                  - lines: 3
-                  - lines: 3
-                  - lines: 3
+                  - lines: 5
+                  - lines: 5
+                  - lines: 5
             - split:
-                  - lines: 3
-                  - lines: 3
-                  - lines: 3
+                  - lines: 5
+                  - lines: 5
+                  - lines: 5
             - split:
-                  - lines: 3
-                  - lines: 3
-                  - lines: 3
+                  - lines: 5
+                  - lines: 5
+                  - lines: 5
       - note:
             - online
         text: |-
@@ -145,8 +145,24 @@
             Show the proper care, use, and storage of all working tools and
             equipment that you own or use at home or school.
         workbook:
-            - lines: 8
-        children:
+            - split:
+                  - header: true
+                    text: |-
+                        Tool
+                  - header: true
+                    text: |-
+                        proper care
+                  - header: true
+                    text: |-
+                        use
+                  - header: true
+                    text: |-
+                        storage
+            - split:
+                  - lines: 2
+                  - lines: 5
+                  - lines: 5
+                  - lines: 5
             - note:
                   - online
               text: |-
@@ -162,7 +178,19 @@
         text: |-
             Sharpen correctly the cutting edges of two different tools.
         workbook:
-            - lines: 8
+            - split:
+                  - header: true
+                    text: |-
+                        Tool 1
+                  - header: true
+                    text: |-
+                        Tool 2
+            - split:
+                  - lines: 1
+                  - lines: 1
+            - split:
+                  - area: 1
+                  - area: 1
         children:
             - note:
                   - inPerson
@@ -187,7 +215,34 @@
       wood. Cut parts from lumber that you have squared and measured from
       working drawings.
   workbook:
-      - lines: 8
+            - split:
+                  - header: true
+                    text: |-
+                        saw
+                  - header: true
+                    text: |-
+                        plane
+                  - header: true
+                    text: |-
+                        hammer
+                  - header: true
+                    text: |-
+                        brace
+                  - header: true
+                    text: |-
+                        bit
+            - split:
+                  - lines: 1
+                  - lines: 1
+                  - lines: 1
+                  - lines: 1
+                  - lines: 1
+            - split:
+                  - area: 1
+                  - area: 1
+                  - area: 1
+                  - area: 1
+                  - area: 1
   children:
       - note:
             - inPerson
@@ -213,8 +268,8 @@
       your project. Keep track of the time you spend and the cost of the
       materials.
   workbook:
-      - grid: 8
-      - lines: 2
+      - grid: 20
+      - lines: 10
         text: |-
             Time spent and cost of the materials
   children:
@@ -232,19 +287,19 @@
             Make working drawings of a project needing beveled or rounded edges
             and build it.
         workbook:
-            - grid: 8
+            - grid: 50
       - requirement: b
         text: |-
             Make working drawings of a project needing curved or incised
             cuttings and build it.
         workbook:
-            - grid: 8
+            - grid: 50
       - requirement: c
         text: |-
             Make working drawings of a project needing miter, dowel, or mortise
             and tenon joints and build it.
         workbook:
-            - grid: 8
+            - grid: 50
       - requirement: d
         text: |-
             Make a cabinet, box, or something else with a door or lid fastened
