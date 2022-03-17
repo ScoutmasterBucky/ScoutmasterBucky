@@ -95,9 +95,11 @@ When a link is displayed in a workbook, that link needs to be absolute (`https:/
 Merit Badge Requirements
 ------------------------
 
-Merit badge requirements are stored in `requirements.yaml` and both the requirements page and the workbook are built with the data.
+Merit badge requirements are stored in `requirements.yaml` and both the
+requirements page and the workbook are built with the data.
 
-The file is a list of these types of items - let's call them "Requirement List Items":
+The file is a list of these types of items - let's call them "Requirement List
+Items":
 
 * Callout
 * Detail
@@ -107,7 +109,8 @@ The file is a list of these types of items - let's call them "Requirement List I
 
 ### Callout
 
-Adds text between requirements. Centered, italicized. Useful for headings, "OR" or "AND" lines, and the like. Does not show up on the workbook.
+Adds text between requirements. Centered, italicized. Useful for headings, "OR"
+or "AND" lines, and the like. Does not show up on the workbook.
 
 ```
 - callout: true
@@ -130,7 +133,9 @@ Properties:
 
 ### Detail
 
-Adds text between requirements that look like just another paragraph. Useful for separators, headings, and additional information that isn't a requirement. This is included on workbooks.
+Adds text between requirements that look like just another paragraph. Useful
+for separators, headings, and additional information that isn't a requirement.
+    This is included on workbooks unless `workbookHide` is set to `true`.
 
 ```
 - detail: true
@@ -143,6 +148,8 @@ Properties:
 * `detail`: Must be `true`
 * `markdown`: Optional, controls `text`
 * `text`: Text / HTML / markdown to display
+* `workbookHide`: Optional, set to `true` if this should not be shown in the
+  workbook
 
 
 ### Note
