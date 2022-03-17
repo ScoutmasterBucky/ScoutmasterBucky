@@ -1,11 +1,12 @@
 ---
 title: Scoutmaster Bucky
 layout: smb
-opportunities: 14,050+
-online: 1,335+
+opportunities: 15,000+
+online: 1,500+
 news:
-    - Updated the Nova award requirements with latest changes, which were mostly cosmetic.
-    - Register now for February's [in-person event](#2022-02-19-merit-badge-day.md)!
+    - Signs, Signals, and Codes Merit Badge is our featured April in-person Merit Badge opportunity
+    - Join the Scoutmaster Bucky Team at Northern Star Scouting's SPring University of Scouting on April 9. 2022
+    - Register now for April's Signs, Signals, and Codes Merit Badge today [in-person event](#2022-04-16-merit-badge-day.md)!
 css:
     - css/calendar.css
 js:
