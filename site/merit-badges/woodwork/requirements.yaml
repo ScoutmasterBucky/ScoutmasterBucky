@@ -60,7 +60,6 @@
             Earn the Totin’ Chip recognition.
         workbook:
             - signature: Adult Scout Leader
-              checkbox: Approved
         children:
             - note:
                   - inPerson
@@ -182,16 +181,20 @@
             - split:
                   - header: true
                     text: |-
-                        Tool 1
+                        Tool Name
                   - header: true
                     text: |-
-                        Tool 2
+                        Tasks
             - split:
                   - lines: 1
-                  - lines: 1
+                  - task: true
+                    text: |-
+                      Sharpened correctly
             - split:
-                  - area: 1
-                  - area: 1
+                  - lines: 1
+                  - task: true
+                    text: |-
+                      Sharpened correctly
         children:
             - note:
                   - inPerson
@@ -216,34 +219,22 @@
       wood. Cut parts from lumber that you have squared and measured from
       working drawings.
   workbook:
-            - split:
-                  - header: true
-                    text: |-
-                        Saw
-                  - header: true
-                    text: |-
-                        Plane
-                  - header: true
-                    text: |-
-                        Hammer
-                  - header: true
-                    text: |-
-                        Brace
-                  - header: true
-                    text: |-
-                        Bit
-            - split:
-                  - lines: 1
-                  - lines: 1
-                  - lines: 1
-                  - lines: 1
-                  - lines: 1
-            - split:
-                  - area: 1
-                  - area: 1
-                  - area: 1
-                  - area: 1
-                  - area: 1
+    - split:
+      - task: true
+        text: |-
+          Used a saw
+      - task: true
+        text: |-
+          Used a plane
+      - task: true
+        text: |-
+          Used a hammer
+      - task: true
+        text: |-
+          Used a brace
+      - task: true
+        text: |-
+          Used a bit
   children:
       - note:
             - inPerson
@@ -288,19 +279,19 @@
             Make working drawings of a project needing beveled or rounded edges
             and build it.
         workbook:
-            - grid: 50
+            - grid: 45
       - requirement: b
         text: |-
             Make working drawings of a project needing curved or incised
             cuttings and build it.
         workbook:
-            - grid: 50
+            - grid: 45
       - requirement: c
         text: |-
             Make working drawings of a project needing miter, dowel, or mortise
             and tenon joints and build it.
         workbook:
-            - grid: 50
+            - grid: 45
       - requirement: d
         text: |-
             Make a cabinet, box, or something else with a door or lid fastened

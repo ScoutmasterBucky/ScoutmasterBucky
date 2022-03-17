@@ -1,0 +1,18 @@
+{
+    "type": "object",
+    "properties": {
+        "markdown": {
+            "description": "Controls if the text should be interpreted as markdown or not",
+            "type": "boolean"
+        },
+        "task": {
+            "type": "boolean"
+        },
+        "text": {
+            "description": "Plain text, html, or vanilla markdown when the markdown flag is set",
+            "type": "string"
+        }
+    },
+    "additionalProperties": false,
+    "required": ["task", "text"]
+}
