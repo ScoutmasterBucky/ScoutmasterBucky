@@ -282,6 +282,7 @@ Workbooks are generated from the same `requirements.yaml` as the requirements pa
 * Raw
 * Signature
 * Split
+* Task
 
 **Workbook Heights:** Heights for areas, grids, and lines are all specified the
 same - each line is 26 pixels tall, which is about 0.7 cm when printed. "Lines"
@@ -445,6 +446,32 @@ Split a row into even columns. Accepts a list of "Workbook List Items" and puts 
 Properties:
 
 * `split`: List of "Workbook List Items"
+
+
+### Task
+
+Show a checkbox to indicate a task was completed.
+
+```
+- task: true
+  text: |-
+      Do this thing
+```
+
+This also supports markdown for more advanced formatting options.
+
+```
+- task: true
+  markdown: true
+  text: |-
+      Read the *Woodwork* merit badge pamphlet.
+```
+
+Properties:
+
+* `markdown`: Optional, controls `text`
+* `task`: Must be `true`
+* `text`: Text / HTML / markdown to as a caption
 
 
 Data Validation
