@@ -43,6 +43,8 @@
         text: |-
             Successfully complete a state hunter education course or obtain a
             copy of the hunting laws for your state, then do the following:
+        workbook:
+            - task: true
         children:
             - requirement: 1
               text: |-
@@ -145,7 +147,7 @@
             rifles, fire five groups (three shots per group) that can be
             covered by a quarter.
         workbook:
-            - lines: 8
+            - task: true
       - requirement: l
         text: |-
             Adjust sights to center the group on the target and fire five
@@ -155,4 +157,4 @@
             rifle at 25 feet using TQ-5 targets—8, at 33 feet or 10 meters
             using AR-1 targets—6.
         workbook:
-            - lines: 8
+            - task: true

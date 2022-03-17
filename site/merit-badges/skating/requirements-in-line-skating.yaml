@@ -15,19 +15,19 @@
             skating and what you should do to anticipate, help prevent,
             mitigate, and respond to these hazards.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Most likely hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Anticipate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Prevent hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Mitigate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Respond to hazards
       - requirement: b
@@ -37,31 +37,31 @@
             abrasions, fractures, sprains and strains, blisters, heat-related
             reactions, and shock.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Hypothermia
-            - lines: 3
+            - lines: 8
               text: |-
                   Frostbite
-            - lines: 3
+            - lines: 8
               text: |-
                   Lacerations
-            - lines: 3
+            - lines: 8
               text: |-
                   Abrasions
-            - lines: 3
+            - lines: 8
               text: |-
                   Fractures
-            - lines: 3
+            - lines: 8
               text: |-
                   Sprains and strains
-            - lines: 3
+            - lines: 8
               text: |-
                   Blisters
-            - lines: 3
+            - lines: 8
               text: |-
                   Heat-related reactions
-            - lines: 3
+            - lines: 8
               text: |-
                   Shock
 - requirement: 2
@@ -105,18 +105,18 @@
                   Skate forward with smooth, linked strokes on two feet for at
                   least 100 feet.
               workbook:
-                  - lines: 3
+                  - task: true
             - requirement: 2
               text: |-
                   Skate forward and glide at least 15 feet on one skate, then
                   on the other skate.
               workbook:
-                  - lines: 3
+                  - task: true
             - requirement: 3
               text: |-
                   Stop on command on flat pavement using the heel brake.
               workbook:
-                  - lines: 3
+                  - task: true
       - requirement: c
         text: |-
             Do the following:
@@ -125,30 +125,30 @@
               text: |-
                   Perform the forward crossover.
               workbook:
-                  - lines: 3
+                  - task: true
             - requirement: 2
               text: |-
                   Perform a series of forward, linked swizzles for at least 40
                   feet.
               workbook:
-                  - lines: 3
+                  - task: true
             - requirement: 3
               text: |-
                   Skate backward for at least 40 feet in a series of linked,
                   backward swizzles.
               workbook:
-                  - lines: 3
+                  - task: true
             - requirement: 4
               text: |-
                   From a strong pace, perform a lunge turn around an object
                   predetermined by your counselor.
               workbook:
-                  - lines: 3
+                  - task: true
             - requirement: 5
               text: |-
                   Perform a mohawk.
               workbook:
-                  - lines: 3
+                  - task: true
       - requirement: d
         text: |-
             Do the following:
@@ -158,7 +158,7 @@
                   Perform a series of at least four one-footed downhill slaloms
                   on pavement with a gentle slope.
               workbook:
-                  - lines: 3
+                  - task: true
             - requirement: 2
               text: |-
                   Describe how to pass a pedestrian or another skater from

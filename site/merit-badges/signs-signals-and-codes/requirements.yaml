@@ -4,7 +4,7 @@
       and why people need these different methods of communication. Briefly
       discuss the history and development of signs, signals, and codes.
   workbook:
-    - lines: 8
+      - lines: 8
   children:
       - note:
             - inPerson
@@ -27,8 +27,8 @@
       outdoors or trying to summon assistance during a disaster. Illustrate
       these signaling examples by the use of photos or drawings.
   workbook:
-    - lines: 8
-    - area: 8
+      - lines: 8
+      - area: 8
   children:
       - note:
             - inPerson
@@ -54,18 +54,18 @@
             be sent. Spell your first name using Morse code. Send or receive a
             message of six to 10 words using Morse code.
         workbook:
-          - lines: 8
-          - area: 8
-            text: |-
-              Your name in Morse code
+            - lines: 8
+            - area: 8
+              text: |-
+                  Your name in Morse code
       - requirement: b
         text: |-
             Describe what American Sign Language (ASL) is and how it is used
             today. Spell your first name using American Sign Language. Send or
             receive a message of six to 10 words using ASL.
         workbook:
-          - lines: 8
-          - area: 8
+            - lines: 8
+            - area: 8
       - note:
             - inPerson
             - online
@@ -80,6 +80,8 @@
       Give your counselor a brief explanation about semaphore, why it is used,
       how it is used, and where it is used. Explain the difference between
       semaphore flags and nautical flags. Then do the following:
+  workbook:
+      - lines: 8
   children:
       - note:
             - inPerson
@@ -93,7 +95,7 @@
             Spell your first name using semaphore. Send or receive a message of
             six to 10 words using semaphore.
         workbook:
-          - area: 8
+            - area: 8
         children:
             - note:
                   - inPerson
@@ -106,21 +108,21 @@
             Using illustrations or photographs, identify 10 examples of
             nautical flags and discuss their importance.
         workbook:
-          - split:
-            - area: 8
-            - area: 8
-          - split:
-            - area: 8
-            - area: 8
-          - split:
-            - area: 8
-            - area: 8
-          - split:
-            - area: 8
-            - area: 8
-          - split:
-            - area: 8
-            - area: 8
+            - split:
+                  - area: 8
+                  - area: 8
+            - split:
+                  - area: 8
+                  - area: 8
+            - split:
+                  - area: 8
+                  - area: 8
+            - split:
+                  - area: 8
+                  - area: 8
+            - split:
+                  - area: 8
+                  - area: 8
         children:
             - note:
                   - inPerson
@@ -137,7 +139,7 @@
       Explain the braille reading technique and how it helps individuals with
       sight impairment to communicate. Then do the following:
   workbook:
-    - lines: 8
+      - lines: 8
   children:
       - note:
             - inPerson
@@ -154,7 +156,7 @@
             alphabet that spell your name. By sight or touch, decode a braille
             message at least six words long.
         workbook:
-          - area: 8
+            - area: 8
       - requirement: b
         markdown: true
         text: |-
@@ -167,7 +169,7 @@
             the characters of the braille alphabet to spell out your message
             letter by letter.
         workbook:
-          - area: 8
+            - area: 8
         children:
             - note:
                   - inPerson
@@ -187,7 +189,7 @@
             today. Discuss the pros and cons of using sound signals versus
             other types of signals.
         workbook:
-          - lines: 8
+            - lines: 8
         children:
             - note:
                   - inPerson
@@ -202,7 +204,7 @@
             Use these Scout signals to direct the movements and actions of your
             patrol or troop.
         workbook:
-          - lines: 8
+            - task: true
         children:
             - note:
                   - inPerson
@@ -223,7 +225,7 @@
       no-trace principles by replacing or returning trail markers to their
       original locations.
   workbook:
-    - area: 8
+      - task: true
   children:
       - note:
             - inPerson
@@ -243,27 +245,27 @@
         text: |-
             Sports official’s hand signs/signals
         workbook:
-          - lines: 8
+            - task: true
       - requirement: b
         text: |-
             Heavy-equipment operator’s hand signals
         workbook:
-          - lines: 8
+            - task: true
       - requirement: c
         text: |-
             Aircraft carrier catapult crew signals
         workbook:
-          - lines: 8
+            - task: true
       - requirement: d
         text: |-
             Cyclist’s hand signals
         workbook:
-          - lines: 8
+            - task: true
       - requirement: e
         text: |-
             An activity selected by you and your counselor
         workbook:
-          - lines: 8
+            - task: true
       - note:
             - inPerson
             - online
@@ -282,10 +284,10 @@
       Design your own symbol. Share it with your counselor and explain what it
       means. Then do the following:
   workbook:
-    - lines: 8
-    - area: 8
-      text: |-
-        Design your own symbol
+      - lines: 8
+      - area: 8
+        text: |-
+            Design your own symbol
   children:
       - note:
             - inPerson
@@ -297,7 +299,7 @@
         text: |-
             Show examples of 10 traffic signs and explain their meaning.
         workbook:
-          - area: 8
+            - area: 30
         children:
             - note:
                   - inPerson
@@ -312,7 +314,7 @@
             its importance. Point out 10 map symbols and explain the meaning of
             each.
         workbook:
-          - area: 8
+            - task: true
         children:
             - note:
                   - inPerson
@@ -328,7 +330,7 @@
             your counselor or parent can identify the meaning or usage of each
             symbol.
         workbook:
-          - area: 8
+            - area: 30
         children:
             - note:
                   - inPerson
@@ -345,15 +347,15 @@
       message and code key with your counselor and discuss the effectiveness of
       your code.
   workbook:
-    - lines: 8
-      text: |-
-        History of secret code writing
-    - lines: 8
-      text: |-
-        Your own code
-    - lines: 8
-      text: |-
-        Message in your code
+      - lines: 8
+        text: |-
+            History of secret code writing
+      - lines: 8
+        text: |-
+            Your own code
+      - lines: 8
+        text: |-
+            Message in your code
   children:
       - note:
             - inPerson

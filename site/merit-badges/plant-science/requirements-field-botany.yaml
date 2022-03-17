@@ -179,7 +179,7 @@
                         Collect, press, and label leaves, flowers, or fruits to
                         document your inventory.
                     workbook:
-                        - lines: 8
+                        - task: true
                   - requirement: c
                     text: |-
                         List the types of trees by scientific name and give
@@ -205,7 +205,13 @@
                         from the one you visited for Field Botany requirement
                         1.
                     workbook:
-                        - lines: 8
+                        - split:
+                            - lines: 2
+                              text: |-
+                                  First location description
+                            - lines: 2
+                              text: |-
+                                  Second location description
                   - requirement: b
                     text: |-
                         Use the transect method to study the two different
@@ -213,6 +219,11 @@
                         least 500 feet long.
                     workbook:
                         - lines: 8
+                          text: |-
+                              First location
+                        - lines: 8
+                          text: |-
+                              Second location
                   - requirement: c
                     text: |-
                         At each site, record observations about the soil and
@@ -221,6 +232,11 @@
                         studies.
                     workbook:
                         - lines: 8
+                          text: |-
+                              First location
+                        - lines: 8
+                          text: |-
+                              Second location
                         - header: true
                           markdown: true
                           text: |-
@@ -229,7 +245,13 @@
 
                               2. Measure the diameter of each tree at 4 feet
                               above the ground, and map and list each tree.
-                        - grid: 10
+                        - split:
+                            - grid: 10
+                              text: |-
+                                  First location
+                            - grid: 10
+                              text: |-
+                                  Second location
                     children:
                         - requirement: 1
                           text: |-
@@ -251,7 +273,13 @@
                         from the one you visited for Field Botany requirement
                         1.
                     workbook:
-                        - lines: 8
+                        - split:
+                            - lines: 2
+                              text: |-
+                                  First location description
+                            - lines: 2
+                              text: |-
+                                  Second location description
                   - requirement: b
                     text: |-
                         Mark off nested plots and inventory two different kinds
@@ -266,6 +294,11 @@
                         studies.
                     workbook:
                         - lines: 8
+                          text: |-
+                              First location
+                        - lines: 8
+                          text: |-
+                              Second location
                         - header: true
                           markdown: true
                           text: |-
@@ -280,7 +313,13 @@
                               3. Identify and map all plants (wildflowers,
                               ferns, grasses, mosses, etc.) of a 4-by-4-foot
                               plot within the 10-by-10-foot plot.
-                        - grid: 10
+                        - split:
+                            - grid: 10
+                              text: |-
+                                  First location
+                            - grid: 10
+                              text: |-
+                                  Second location
                     children:
                         - requirement: 1
                           text: |-
@@ -310,7 +349,9 @@
                         university, park, or botanical garden; OR, visit an
                         herbarium website (with your parent’s permission).
                     workbook:
-                        - lines: 8
+                        - task: true
+                          text: |-
+                              Visited herbarium
                   - requirement: b
                     text: |-
                         Tell how the specimens are arranged and how they are
@@ -341,7 +382,7 @@
                         organization or government agency that is concerned
                         with protecting rare plants and natural areas.
                     workbook:
-                        - lines: 8
+                        - task: true
                   - requirement: b
                     text: |-
                         Tell about the activities of the organization in

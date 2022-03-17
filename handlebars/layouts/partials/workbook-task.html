@@ -5,7 +5,7 @@
                 <div class="Bdw(1px) Mx(a) W(2em) H(2em) Mend(1em)"></div>
             </td>
             <td>
-                {{>text}}
+                {{#if text}}{{>text}}{{else}}Completed{{/if}}
             </td>
         </tr>
     </table>

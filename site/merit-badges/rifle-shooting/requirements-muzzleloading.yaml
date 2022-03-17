@@ -43,6 +43,8 @@
         text: |-
             Successfully complete a state hunter education course or obtain a
             copy of the hunting laws for your state, then do the following:
+        workbook:
+            - task: true
         children:
             - requirement: 1
               text: |-
@@ -161,7 +163,7 @@
             shots per group) at 50 feet that can be covered by the base of a
             standard-size soft drink can.
         workbook:
-            - lines: 8
+            - task: true
       - requirement: n
         text: |-
             Center the group on the target and fire three groups (five shots
@@ -170,4 +172,4 @@
             A-23 or NMLRA 50-yard targets—7; (2) at 50 yards using NRA A-25 or
             NMLRA 100-yard targets—7.
         workbook:
-            - lines: 8
+            - task: true

@@ -10,43 +10,43 @@
         text: |-
             Explain to your counselor the most likely risks you may encounter during athletics activities and what you should do to anticipate, help prevent, mitigate, and respond to these risks.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Anticipate risks
-            - lines: 3
+            - lines: 8
               text: |-
                   Prevent risks
-            - lines: 3
+            - lines: 8
               text: |-
                   Mitigate risks
-            - lines: 3
+            - lines: 8
               text: |-
                   Respond to risks
       - requirement: b
         text: |-
             Show that you know first aid or understand the treatment for injuries that could occur while participating in athletics, including sprains, strains, muscle cramps, contusions, abrasions, blisters, dehydration, heat reactions, and concussions.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
-                Sprains, strains
-            - lines: 3
+                  Sprains, strains
+            - lines: 8
               text: |-
-                Muscle cramps
-            - lines: 3
+                  Muscle cramps
+            - lines: 8
               text: |-
-                Contusions, abrasions
-            - lines: 3
+                  Contusions, abrasions
+            - lines: 8
               text: |-
-                Blisters
-            - lines: 3
+                  Blisters
+            - lines: 8
               text: |-
-                Dehydration
-            - lines: 3
+                  Dehydration
+            - lines: 8
               text: |-
-                Heat reactions
-            - lines: 3
+                  Heat reactions
+            - lines: 8
               text: |-
-                Concussions
+                  Concussions
 - requirement: 2
   text: |-
       Explain the following:
@@ -55,23 +55,23 @@
         text: |-
             Before completing requirements 4 and 5, show that you have received a physical examination from your health care practioner within the last 12 months.
         workbook:
-          - signature: Parent or Guardian
-            checkbox: Confirmed
+            - signature: Parent or Guardian
+              checkbox: Confirmed
       - requirement: b
         text: |-
             Explain the importance of the physical exam.
         workbook:
-          - lines: 8
+            - lines: 8
       - requirement: c
         text: |-
             Explain the importance of maintaining good health habits for life (such as exercising regularly), and how the use of tobacco products, alcohol, and other harmful substances can negatively affect your health and your performance in sports activities.
         workbook:
-          - lines: 8
+            - lines: 8
       - requirement: d
         text: |-
             Explain the importance of maintaining a healthy diet.
         workbook:
-          - lines: 8
+            - lines: 8
 - requirement: 3
   text: |-
       Discuss the following:
@@ -80,22 +80,22 @@
         text: |-
             The importance of warming up and cooling down.
         workbook:
-          - lines: 8
+            - lines: 8
       - requirement: b
         text: |-
             The importance of weight training.
         workbook:
-          - lines: 8
+            - lines: 8
       - requirement: c
         text: |-
             What an amateur athlete is and the differences between an amateur and a professional athlete.
         workbook:
-          - lines: 8
+            - lines: 8
       - requirement: d
         text: |-
             The attributes (qualities) of a good sport, the importance of sportsmanship, and the traits of a good team leader and player who exhibits Scout spirit on and off the playing field.
         workbook:
-          - lines: 8
+            - lines: 8
 - requirement: 4
   markdown: true
   text: |-
@@ -103,43 +103,43 @@
 
       Then with your chosen sports do the following:
   workbook:
-    - lines: 2
-      text: |-
-        First sport
-    - lines: 2
-      text: |-
-        Second sport
+      - lines: 2
+        text: |-
+            First sport
+      - lines: 2
+        text: |-
+            Second sport
   children:
       - requirement: a
         text: |-
             Give the rules and etiquette for the two sports you picked.
         workbook:
-          - lines: 8
-            text: |-
-              First sport
-          - lines: 8
-            text: |-
-              Second sport
+            - lines: 8
+              text: |-
+                  First sport
+            - lines: 8
+              text: |-
+                  Second sport
       - requirement: b
         text: |-
             List the equipment needed for the two sports you chose.  Describe the protective equipment and appropriate clothing (if any) and explain why it is needed.
         workbook:
-          - lines: 8
-            text: |-
-              First sport
-          - lines: 8
-            text: |-
-              Second sport
+            - lines: 8
+              text: |-
+                  First sport
+            - lines: 8
+              text: |-
+                  Second sport
       - requirement: c
         text: |-
             Draw diagrams of the playing area for your two sports.
         workbook:
-          - area: 8
-            text: |-
-              First sport
-          - area: 8
-            text: |-
-              Second sport
+            - area: 20
+              text: |-
+                  First sport
+            - area: 20
+              text: |-
+                  Second sport
 - requirement: 5
   text: |-
       With guidance from your counselor and before beginning requirement 4, establish a personal training program suited to the activities you chose for requirement 4. Do the following:
@@ -148,14 +148,20 @@
         text: |-
             Organize a chart and track your training, practice, and development in the sports for one season or four months
         workbook:
-          - area: 8
+            - area: 8
       - requirement: b
         text: |-
             Demonstrate proper technique for your two chosen sports.
         workbook:
-          - lines: 8
+            - split:
+                  - task: true
+                    text: |-
+                        First sport demonstrated
+                  - task: true
+                    text: |-
+                        Second sport demonstrated
       - requirement: c
         text: |-
             At the end of the season, share your completed chart with your counselor and discuss how your participation in the sports you chose has affected you mentally and physically.
         workbook:
-          - lines: 4
+            - lines: 4

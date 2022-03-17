@@ -36,6 +36,8 @@
         text: |-
             Successfully complete a state hunter education course or obtain a
             copy of the hunting laws for your state, then do the following:
+        workbook:
+            - task: true
         children:
             - requirement: 1
               text: |-
@@ -147,7 +149,7 @@
             per group) that can be covered by a quarter. Using these targets,
             explain how to adjust sights to zero a rifle.
         workbook:
-            - lines: 8
+            - task: true
       - requirement: m
         markdown: true
         text: |-
@@ -163,7 +165,7 @@
             can be covered by or touch a quarter and then explain how to adjust
             the sights to zero the rifle used.
         workbook:
-            - lines: 8
+            - task: true
       - detail: true
         markdown: true
         text: |-
@@ -231,7 +233,7 @@
             rifles, fire five groups (three shots per group) that can be
             covered by a quarter.
         workbook:
-            - lines: 8
+            - task: true
       - requirement: l
         text: |-
             Adjust sights to center the group on the target and fire five
@@ -241,7 +243,7 @@
             rifle at 25 feet using TQ-5 targets—8, at 33 feet or 10 meters
             using AR-1 targets—6.
         workbook:
-            - lines: 8
+            - task: true
       - detail: true
         markdown: true
         text: |-
@@ -325,7 +327,7 @@
             shots per group) at 50 feet that can be covered by the base of a
             standard-size soft drink can.
         workbook:
-            - lines: 8
+            - task: true
       - requirement: n
         text: |-
             Center the group on the target and fire three groups (five shots
@@ -334,4 +336,4 @@
             A-23 or NMLRA 50-yard targets—7; (2) at 50 yards using NRA A-25 or
             NMLRA 100-yard targets—7.
         workbook:
-            - lines: 8
+            - task: true

@@ -9,19 +9,19 @@
             to anticipate, help prevent, mitigate, and respond to these
             hazards.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Most likely hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Anticipate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Prevent hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Mitigate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Respond to hazards
       - requirement: b
@@ -31,19 +31,19 @@
             blisters, cold-water shock and hypothermia, dehydration and
             heat-related illnesses, sunburn, sprains, and strains.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                 Blisters
-            - lines: 3
+            - lines: 8
               text: |-
                 Cold-water shock and hypothermia
-            - lines: 3
+            - lines: 8
               text: |-
                 Dehydration and heat-related illnesses
-            - lines: 3
+            - lines: 8
               text: |-
                 Sunburn
-            - lines: 3
+            - lines: 8
               text: |-
                 Sprains and strains
       - requirement: c
@@ -83,15 +83,15 @@
         text: |-
             Discuss the nine points of the BSA Safety Afloat plan.
         workbook:
-          - lines: 2
-          - lines: 2
-          - lines: 2
-          - lines: 2
-          - lines: 2
-          - lines: 2
-          - lines: 2
-          - lines: 2
-          - lines: 2
+          - lines: 4
+          - lines: 4
+          - lines: 4
+          - lines: 4
+          - lines: 4
+          - lines: 4
+          - lines: 4
+          - lines: 4
+          - lines: 4
       - requirement: b
         text: |-
             Explain the rules of the road in general and any specific rules or
@@ -138,12 +138,12 @@
         text: |-
             Prepare a boat for sailing, including a safety inspection.
         workbook:
-          - lines: 4
+            - task: true
       - requirement: b
         text: |-
             Get under way from a dock, mooring, or beach.
         workbook:
-          - lines: 4
+            - task: true
       - requirement: c
         text: |-
             Properly set sails for a round-trip course approved by your
@@ -151,22 +151,22 @@
             basic points of sail. While sailing, demonstrate good helmsmanship
             skills.
         workbook:
-          - lines: 4
+            - task: true
       - requirement: d
         text: |-
             Change direction by tacking; change direction by jibing.
         workbook:
-          - lines: 4
+            - task: true
       - requirement: e
         text: |-
             Demonstrate getting out of irons.
         workbook:
-          - lines: 4
+            - task: true
       - requirement: f
         text: |-
             Demonstrate the safety position.
         workbook:
-          - lines: 4
+            - task: true
       - requirement: g
         markdown: true
         text: |-
@@ -180,19 +180,19 @@
             care should be taken to avoid personal injury and damage to the
             boat or equipment.
         workbook:
-          - lines: 4
+            - task: true
       - requirement: h
         text: |-
             Demonstrate the procedure to take after running aground.
         workbook:
-          - lines: 4
+            - task: true
       - requirement: i
         text: |-
             Upon returning to the dock, mooring, or beach, properly secure all
             equipment, furl or stow sails, and prepare the craft for unattended
             docking or beaching overnight or longer.
         workbook:
-          - lines: 4
+            - task: true
 - requirement: 7
   text: |-
       Demonstrate a working knowledge of marlinespike seamanship. Do the following:
@@ -203,12 +203,31 @@
             hitches, bowline, cleat hitch, and figure-eight knot.  Demonstrate
             the use of each.
         workbook:
-          - lines: 4
+          - split:
+              - task: true
+                text: |-
+                    Square (reef) knot
+              - task: true
+                text: |-
+                    Clove hitch
+              - task: true
+                text: |-
+                    Two half hitches
+          - split:
+              - task: true
+                text: |-
+                    Bowline
+              - task: true
+                text: |-
+                    Cleat hitch
+              - task: true
+                text: |-
+                    Figure-eight knot
       - requirement: b
         text: |-
             Show how to heave a line, coil a line, and fake down a line.
         workbook:
-          - lines: 4
+            - task: true
       - requirement: c
         text: |-
             Discuss the kinds of lines used on sailboats and the types of

@@ -38,9 +38,9 @@
         text: |-
             Name three kinds of soil erosion. Describe each.
         workbook:
-            - lines: 4
-            - lines: 4
-            - lines: 4
+            - lines: 8
+            - lines: 8
+            - lines: 8
       - requirement: d
         text: |-
             Take pictures or draw two kinds of soil erosion.
@@ -61,17 +61,17 @@
         text: |-
             Describe the effect of three kinds of erosion-control practices.
         workbook:
-            - lines: 4
-            - lines: 4
-            - lines: 4
+            - lines: 8
+            - lines: 8
+            - lines: 8
       - requirement: c
         text: |-
             Take pictures or draw three kinds of erosion-control practices.
         workbook:
             - split:
-                  - area: 8
-                  - area: 8
-                  - area: 8
+                  - area: 20
+                  - area: 20
+                  - area: 20
 - requirement: 4
   text: |-
       Do the following:
@@ -85,13 +85,13 @@
         text: |-
             Outline the smallest watershed that you can find on a contour map.
         workbook:
-            - area: 8
+            - task: true
       - requirement: c
         text: |-
             Then outline on your map, as far as possible, the next larger
             watershed which also has the smallest in it.
         workbook:
-            - area: 8
+            - task: true
       - requirement: d
         text: |-
             Explain what a river basin is. Tell why all people living in a
@@ -112,14 +112,19 @@
         text: |-
             Make a drawing to show the hydrologic cycle.
         workbook:
-            - area: 8
+            - area: 40
       - requirement: b
         text: |-
             Show by demonstration at least two of the following actions of
             water in relation to soil: percolation, capillary action,
             precipitation, evaporation, transpiration.
         workbook:
-            - lines: 8
+            - task: true
+              text: |-
+                  Completed first demonstration
+            - task: true
+              text: |-
+                  Completed second demonstration
       - requirement: c
         text: |-
             Explain how removal of vegetation will affect the way water runs
@@ -180,69 +185,117 @@
             Make a trip to TWO of the following places. Write a report of more
             than 500 words about the soil and water and energy conservation
             practices you saw.
-        workbook:
-            - header: true
-              markdown: true
-              text: |-
-                  * An agricultural experiment
-                  * A managed forest or woodlot, range, or pasture
-                  * A wildlife refuge or a fish or game management area
-                  * A conservation-managed farm or ranch
-                  * A managed watershed
-                  * A waste-treatment plant
-                  * A public drinking water treatment plant
-                  * An industry water use installation
-                  * A desalinization plant
-            - lines: 8
-            - lines: 8
         children:
             - requirement: 1
               text: |-
                   An agricultural experiment
-              workbookHide: true
+              workbook:
+                  - split:
+                      - task: true
+                        text: |-
+                            Visited location
+                      - task: true
+                        text: |-
+                            Wrote report
             - requirement: 2
               text: |-
                   A managed forest or woodlot, range, or pasture
-              workbookHide: true
+              workbook:
+                  - split:
+                      - task: true
+                        text: |-
+                            Visited location
+                      - task: true
+                        text: |-
+                            Wrote report
             - requirement: 3
               text: |-
                   A wildlife refuge or a fish or game management area
-              workbookHide: true
+              workbook:
+                  - split:
+                      - task: true
+                        text: |-
+                            Visited location
+                      - task: true
+                        text: |-
+                            Wrote report
             - requirement: 4
               text: |-
                   A conservation-managed farm or ranch
-              workbookHide: true
+              workbook:
+                  - split:
+                      - task: true
+                        text: |-
+                            Visited location
+                      - task: true
+                        text: |-
+                            Wrote report
             - requirement: 5
               text: |-
                   A managed watershed
-              workbookHide: true
+              workbook:
+                  - split:
+                      - task: true
+                        text: |-
+                            Visited location
+                      - task: true
+                        text: |-
+                            Wrote report
             - requirement: 6
               text: |-
                   A waste-treatment plant
-              workbookHide: true
+              workbook:
+                  - split:
+                      - task: true
+                        text: |-
+                            Visited location
+                      - task: true
+                        text: |-
+                            Wrote report
             - requirement: 7
               text: |-
                   A public drinking water treatment plant
-              workbookHide: true
+              workbook:
+                  - split:
+                      - task: true
+                        text: |-
+                            Visited location
+                      - task: true
+                        text: |-
+                            Wrote report
             - requirement: 8
               text: |-
                   An industry water use installation
-              workbookHide: true
+              workbook:
+                  - split:
+                      - task: true
+                        text: |-
+                            Visited location
+                      - task: true
+                        text: |-
+                            Wrote report
             - requirement: 9
               text: |-
                   A desalinization plant
-              workbookHide: true
+              workbook:
+                  - split:
+                      - task: true
+                        text: |-
+                            Visited location
+                      - task: true
+                        text: |-
+                            Wrote report
       - requirement: b
         text: |-
             Plant 100 trees, bushes, and/or vines for a good purpose.
         workbook:
-            - lines: 8
+            - task: true
       - requirement: c
         text: |-
             Seed an area of at least 1⁄5 acre for some worthwhile conservation
             purpose, using suitable grasses or legumes alone or in a mixture.
         workbook:
-            - lines: 8
+            - task: true
       - requirement: d
         text: |-
             Study a soil survey report. Describe the things in it. On tracing
@@ -251,6 +304,14 @@
             map symbol.
         workbook:
             - lines: 8
+              text: |-
+                  Describe the things in a soil survey report
+            - task: true
+              text: |-
+                  Outlined area
+            - lines: 8
+              text: |-
+                  List each kind of soil by full name and map symbol
       - requirement: e
         text: |-
             Make a list of places in your neighborhood, camps, school ground,
@@ -264,4 +325,4 @@
             Carry out any other soil and water conservation project approved by
             your merit badge counselor.
         workbook:
-            - lines: 8
+            - task: true

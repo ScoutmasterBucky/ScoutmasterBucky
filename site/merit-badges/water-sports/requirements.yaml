@@ -9,19 +9,19 @@
             do to anticipate, help prevent, mitigate, and respond to these
             hazards.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Most likely hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Anticipate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Prevent hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Mitigate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Respond to hazards
       - requirement: b
@@ -33,39 +33,39 @@
             strains, minor cuts and bruises, spinal injury, and concussions and
             head trauma.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
-                Blisters
-            - lines: 3
+                  Blisters
+            - lines: 8
               text: |-
-                Cold-water shock and hypothermia
-            - lines: 3
+                  Cold-water shock and hypothermia
+            - lines: 8
               text: |-
-                Dehydration
-            - lines: 3
+                  Dehydration
+            - lines: 8
               text: |-
-                Heat-related illnesses
-            - lines: 3
+                  Heat-related illnesses
+            - lines: 8
               text: |-
-                Sunburn
-            - lines: 3
+                  Sunburn
+            - lines: 8
               text: |-
-                Sprains and strains
-            - lines: 3
+                  Sprains and strains
+            - lines: 8
               text: |-
-                Minor cuts and bruises
-            - lines: 3
+                  Minor cuts and bruises
+            - lines: 8
               text: |-
-                Spinal injury
-            - lines: 3
+                  Spinal injury
+            - lines: 8
               text: |-
-                Concussions and head trauma
+                  Concussions and head trauma
       - requirement: c
         text: |-
             Review the BSA Safety Afloat policy. Tell how it applies to water
             sports.
         workbook:
-          - lines: 8
+            - lines: 8
 - requirement: 2
   text: |-
       Do the following:
@@ -77,7 +77,7 @@
             worn while waterskiing or wakeboarding. Then demonstrate how to
             select and fit a life jacket for water sports activities.
         workbook:
-          - lines: 8
+            - lines: 8
       - requirement: b
         text: |-
             Review and discuss the Water Sports Safety Code with your
@@ -86,7 +86,7 @@
             must be used by the boat operator in pulling waterskiers and
             wakeboarders.
         workbook:
-          - lines: 8
+            - lines: 8
 - requirement: 3
   text: |-
       Before doing requirements 4 through 6, successfully complete the BSA
@@ -97,14 +97,14 @@
       swim without stops and must include at least one sharp turn.  After
       completing the swim, rest by floating.
   workbook:
-    - signature: Swim Test Observer
+      - signature: Swim Test Observer
 - requirement: 4
   text: |-
       Show the following skier signals to the safety observer in the boat:
       skier safe, faster, slower, turns, back to dock, cut motor, skier in
       water.
   workbook:
-    - lines: 8
+      - task: true
 - requirement: 5
   text: |-
       Showing reasonable control while using two skis, one ski, or a wakeboard,
@@ -115,20 +115,20 @@
             Show how to enter the water from a boat and make a deepwater start
             without help.
         workbook:
-          - lines: 8
+            - task: true
       - requirement: b
         text: |-
             Starting from outside the wakes, show you can cross both wakes four
             times and return to the center of the wake each time, without
             falling.
         workbook:
-          - lines: 8
+            - task: true
       - requirement: c
         text: |-
             Show you can fall properly to avoid an obstacle. Also show that you
             can drop handle and coast to a stop without losing your balance.
         workbook:
-          - lines: 8
+            - task: true
 - requirement: 6
   text: |-
       While on shore, show that you know how to properly adjust the bindings of
@@ -136,4 +136,4 @@
       can adjust bindings to fit.  Recover and put on your ski(s) or wakeboard
       that has come off during a fall.
   workbook:
-    - lines: 8
+      - task: true

@@ -32,13 +32,21 @@
       wall or floor, a porch rail, or a fence. Your counselor must preapprove
       the projects.
   workbook:
-      - lines: 8
+      - split:
+          - task: true
+            text: |-
+                First surface prepared and painted
+          - task: true
+            text: |-
+                Second surface prepared and painted
 - requirement: 4
   text: |-
       Prepare and paint an item using harmonizing colors that you have selected
       using the color wheel in the Painting merit badge pamphlet.
   workbook:
-      - lines: 8
+      - task: true
+        text: |-
+            Prepared and painted an item
 - requirement: 5
   text: |-
       Show the right way to use, clean, maintain, and store painting equipment.

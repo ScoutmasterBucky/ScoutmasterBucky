@@ -8,19 +8,19 @@
             encounter while welding, and what you should do to anticipate, help
             prevent, mitigate, or lessen these hazards.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Most likely hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Anticipate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Prevent hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Mitigate hazards
-            - lines: 3
+            - lines: 8
               text: |-
                   Lessen hazards
       - requirement: b
@@ -31,25 +31,25 @@
             irritation, and exposure to hazardous chemicals, including filler
             metals and welding gases.
         workbook:
-            - lines: 3
+            - lines: 8
               text: |-
                   Electrical shock
-            - lines: 3
+            - lines: 8
               text: |-
                   Eye injuries
-            - lines: 3
+            - lines: 8
               text: |-
                   Burns
-            - lines: 3
+            - lines: 8
               text: |-
                   Fume inhalation
-            - lines: 3
+            - lines: 8
               text: |-
                   Dizziness
-            - lines: 3
+            - lines: 8
               text: |-
                   Skin irritation
-            - lines: 3
+            - lines: 8
               text: |-
                   Exposure to hazardous chemicals
 - requirement: 2
@@ -157,35 +157,35 @@
             plate, and weld a bead on the plate following the pattern of your
             initial.
         workbook:
-            - area: 5
+            - task: true
       - requirement: b
         text: |-
             Cover a small plate (approximately 3" x 3" x ¼") with weld beads
             side by side.
         workbook:
-            - area: 5
+            - task: true
       - requirement: c
         text: |-
             Tack two plates together in a square groove butt joint.
         workbook:
-            - area: 5
+            - task: true
       - requirement: d
         text: |-
             Weld the two plates together from 6c on both sides.
         workbook:
-            - area: 5
+            - task: true
       - requirement: e
         text: |-
             Tack two plates together in a T joint, have your counselor inspect
             it, then weld a T joint with fillet weld on both sides.
         workbook:
-            - area: 5
+            - task: true
       - requirement: f
         text: |-
             Tack two plates together in a lap joint, have your counselor
             inspect it, then weld a lap joint with fillet weld on both sides.
         workbook:
-            - area: 5
+            - task: true
 - requirement: 7
   text: |-
       Do the following:

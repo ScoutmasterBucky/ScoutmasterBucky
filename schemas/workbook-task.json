@@ -10,9 +10,10 @@
         },
         "text": {
             "description": "Plain text, html, or vanilla markdown when the markdown flag is set",
+            "default": "Completed",
             "type": "string"
         }
     },
     "additionalProperties": false,
-    "required": ["task", "text"]
+    "required": ["task"]
 }

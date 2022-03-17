@@ -70,7 +70,7 @@
             b. Label the MF, HF, VHF, UHF, and microwave portions of the spectrum on your diagram.
 
             c. Locate on your chart at least eight radio services, such as AM and FM commercial broadcast, citizens band (CB), television, amateur radio (at least four amateur radio bands), and public service (police and fire).
-      - area: 16
+      - area: 35
   children:
       - requirement: a
         text: |-
@@ -110,7 +110,7 @@
             Draw a block diagram for a radio station that includes a
             transceiver, amplifier, microphone, antenna, and feed line.
         workbook:
-            - area: 8
+            - area: 30
       - requirement: c
         text: |-
             Discuss how information is sent when using amplitude modulation
@@ -181,7 +181,7 @@
                   Build a simple directional antenna for either of the two
                   frequencies used in ARDF.
               workbook:
-                  - lines: 8
+                  - task: true
             - requirement: 4
               text: |-
                   Participate in a simple fox hunt using your antenna along

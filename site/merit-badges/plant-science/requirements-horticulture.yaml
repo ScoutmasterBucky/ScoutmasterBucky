@@ -152,19 +152,22 @@
                   Transplant 12 seedlings or rooted cuttings to larger
                   containers and grow them for at least one month.
               workbook:
-                  - lines: 4
+                  - task: true
             - requirement: 3
               text: |-
                   Demonstrate good pruning techniques and tell why pruning is
                   important.
               workbook:
+                  - task: true
+                    text: |-
+                        Demonstrated
                   - lines: 8
             - requirement: 4
               text: |-
                   After obtaining permission, plant a tree or shrub properly in
                   an appropriate site.
               workbook:
-                  - lines: 8
+                  - task: true
       - requirement: D
         text: |-
             Do EACH of the following:
@@ -203,6 +206,7 @@
                         mix. Explain why you chose the mix and tell what is in
                         it.
                     workbook:
+                        - task: true
                         - lines: 8
                   - requirement: b
                     text: |-
@@ -211,6 +215,7 @@
                         Record your activities, observations, materials used,
                         and costs.
                     workbook:
+                        - task: true
                         - lines: 8
                   - requirement: c
                     text: |-
@@ -218,6 +223,9 @@
                         and deadheading, and tell how each practice helps your
                         plants.
                     workbook:
+                        - task: true
+                          text: |-
+                              Demonstrated
                         - lines: 8
                   - requirement: d
                     text: |-
@@ -236,18 +244,26 @@
                         fruit or nut trees, grapevines, or berry plants through
                         one season.
                     workbook:
-                        - lines: 8
+                        - split:
+                            - task: true
+                              text: |-
+                                  Planted five plants
+                            - task: true
+                              text: |-
+                                  Cared for plants for one season
                   - requirement: b
                     text: |-
                         Prune a tree, vine, or shrub properly. Explain why
                         pruning is necessary.
                     workbook:
+                        - task: true
                         - lines: 8
                   - requirement: c
                     text: |-
                         Demonstrate one type of graft and tell why this method
                         is useful.
                     workbook:
+                        - task: true
                         - lines: 8
                   - requirement: d
                     text: |-
@@ -265,12 +281,20 @@
                         setting. Take full care of the trees or shrubs you have
                         planted for one growing season.
                     workbook:
+                        - split:
+                            - task: true
+                              text: |-
+                                  Planted five trees or shrubs
+                            - task: true
+                              text: |-
+                                  Cared for trees or shrubs for one season
                         - lines: 8
                   - requirement: b
                     text: |-
                         Prune a tree or shrub properly. Explain why pruning is
                         necessary.
                     workbook:
+                        - task: true
                         - lines: 8
                   - requirement: c
                     text: |-
@@ -279,16 +303,56 @@
                         is used in the landscape.  Give the common and
                         scientific names.
                     workbook:
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
+                        - split:
+                            - header: true
+                              text: |-
+                                  Tree name (common)
+                            - header: true
+                              text: |-
+                                  Scientific name
+                            - header: true
+                              text: |-
+                                  How used in landscape
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
+                        - split:
+                            - lines: 3
+                            - lines: 3
+                            - lines: 3
                   - requirement: d
                     text: |-
                         Describe the size, texture, color, flowers, leaves,
@@ -296,16 +360,16 @@
                         special characteristics that make each type of tree or
                         shrub attractive or interesting.
                     workbook:
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
-                        - lines: 3
+                        - lines: 8
+                        - lines: 8
+                        - lines: 8
+                        - lines: 8
+                        - lines: 8
+                        - lines: 8
+                        - lines: 8
+                        - lines: 8
+                        - lines: 8
+                        - lines: 8
                   - requirement: e
                     text: |-
                         Tell five ways trees help improve the quality of our
@@ -321,7 +385,7 @@
                         Design and plant a garden or landscape that is at least
                         10 by 10 feet.
                     workbook:
-                        - lines: 8
+                        - task: true
                   - requirement: b
                     text: |-
                         Plant 10 or more different types of plants in your
@@ -329,6 +393,7 @@
                         vegetables and flowers. Take care of the plants in your
                         garden for one season.
                     workbook:
+                        - task: true
                         - lines: 8
                   - requirement: c
                     text: |-
@@ -337,6 +402,7 @@
                         management, and pruning.  Tell why each technique is
                         used.
                     workbook:
+                        - task: true
                         - lines: 8
                   - requirement: d
                     text: |-
