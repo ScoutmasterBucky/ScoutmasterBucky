@@ -136,8 +136,6 @@
             minutes. Save the sample. Examine it under a microscope or
             high-power glass. Identify the three most common types of plankton
             in the sample.
-
-            `*` May be done in lakes or streams.
         workbook:
             - task: true
               text: |-
@@ -172,8 +170,6 @@
             roughness of the water. Show your findings (air and water
             temperature, turbidity) on a graph. Tell how the water temperature
             changes with air temperature.
-
-            `*` May be done in lakes or streams.
         workbook:
             - grid: 30
             - lines: 8
@@ -255,3 +251,7 @@
       ocean, underlying geology, and organisms living in the water.
   workbook:
       - lines: 8
+- detail: true
+  markdown: true
+  text: |-
+      `*` May be done in lakes or streams.
