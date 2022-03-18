@@ -1,0 +1,149 @@
+# Requirements pamphlet is for Music and Bugling together on cover and
+# resources, but no bugling requirements are listed.
+- requirement: 1
+  text: |-
+      Sing or play a simple song or hymn chosen by your counselor, using good
+      technique, phrasing, tone, rhythm, and dynamics. Read all the signs and
+      terms of the score.
+  workbook:
+      - task: true
+- requirement: 2
+  text: |-
+      Name the five general groups of musical instruments. Create an
+      illustration that shows how tones are generated and how instruments
+      produce sound.
+  workbook:
+      - lines: 2
+      - lines: 2
+      - lines: 2
+      - lines: 2
+      - lines: 2
+      - area: 30
+- requirement: 3
+  text: |-
+      Do TWO of the following:
+  children:
+      - requirement: a
+        text: |-
+            Attend a live performance, or listen to three hours of recordings
+            from any two of the following musical styles: blues, jazz, classical,
+            country, bluegrass, ethnic, gospel, musical theater, opera.
+            Describe the sound of the music and the instruments used. Identify
+            the composers or songwriters, the performers, and the titles of the
+            pieces you heard. If it was a live performance, describe the
+            setting and the reaction of the audience. Discuss your thoughts
+            about the music.
+        workbook:
+            - lines: 2
+              text: |-
+                  The performance or the two musical styles
+            - lines: 8
+              text: |-
+                  Describe the sound of the music and the instruments used
+            - lines: 8
+              text: |-
+                  Composers or songwriters, performormers, and titles
+            - lines: 8
+              text: |-
+                  Setting and reaction of the audience
+            - lines: 8
+              text: |-
+                  Your thoughts about the music
+      - requirement: b
+        text: |-
+            Interview an adult member of your family about music. Find out what
+            the most popular music was when he or she was your age. Find out
+            what his or her favorite music is now, and listen to three of your
+            relative’s favorite tunes with him or her. How do those favorites
+            sound to you? Had you ever heard any of them? Play three of your
+            favorite songs for your relative, and explain why you like these
+            songs. Ask what he or she thinks of your favorite music.
+        workbook:
+            - lines: 2
+              text: |-
+                  Interviewee
+            - lines: 4
+              text: |-
+                  Most popular music
+            - lines: 4
+              text: |-
+                  Favorite music now
+            - task: true
+              text: |-
+                  Listened to three favorite tunes
+            - lines: 8
+              text: |-
+                  How those favorites sounded to you
+            - lines: 8
+              text: |-
+                  Have you heard of them?
+            - task: true
+              text: |-
+                  Played three favorite songs
+            - lines: 8
+              text: |-
+                  Why you like these songs
+            - lines: 8
+              text: |-
+                  What he or she thinks of your favorite music
+      - requirement: c
+        text: |-
+            Serve for six months as a member of a school band, choir, or other
+            organized musical group, or perform as a soloist in public six
+            times.
+        workbook:
+            - task: true
+      - requirement: d
+        text: |-
+            List five people who are important in the history of American music
+            and explain to your counselor why they continue to be influential.
+            Include at least one composer, one performer, one innovator, and
+            one person born more than 100 years ago.
+        workbook:
+            - lines: 8
+              text: |
+                  An important composer and why he or she continues to be
+                  influential
+            - lines: 8
+              text: |
+                  An important performer and why he or she continues to be
+                  influential
+            - lines: 8
+              text: |
+                  An important person born more than 100 years ago why he or
+                  she continues to be influential
+            - lines: 8
+              text: |
+                  A fourth important person and why he or she continues to be
+                  influential
+            - lines: 8
+              text: |
+                  A fifth important person and why he or she continues to be
+                  influential
+- requirement: 4
+  text: |-
+      Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            Teach three songs to a group of people. Lead them in singing the
+            songs, using proper hand motions.
+        workbook:
+            - task: true
+      - requirement: b
+        text: |-
+            Compose and write the score for a piece of music of 12 measures or
+            more, and play this music on an instrument.
+        workbook:
+            - task: true
+      - requirement: c
+        text: |-
+            Make a traditional instrument and learn to play it.
+        workbook:
+            - task: true
+- requirement: 5
+  text: |-
+      Define for your counselor intellectual property (IP). Explain how to
+      properly obtain and share recorded music.
+  workbook:
+      - lines: 8
