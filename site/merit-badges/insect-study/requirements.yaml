@@ -1,0 +1,212 @@
+- requirement: 1
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain to your counselor the most likely hazards associated with
+            exposure to ants and bees and what you should do to anticipate,
+            help prevent, mitigate, and respond to these hazards.
+        workbook:
+            - lines: 8
+              text: |-
+                  Most likely hazards
+            - lines: 8
+              text: |-
+                  Anticipate hazards
+            - lines: 8
+              text: |-
+                  Prevent hazards
+            - lines: 8
+              text: |-
+                  Mitigate hazards
+            - lines: 8
+              text: |-
+                  Respond to hazards
+      - requirement: b
+        text: |-
+            Discuss the prevention of and treatment for health concerns that
+            could occur while working with ants and bees, including insect
+            bites and anaphylactic shock.
+        workbook:
+            - lines: 8
+- requirement: 2
+  text: |-
+      Tell how insects are different from all other animals. Show how insects
+      are different from centipedes and spiders.
+  workbook:
+      - lines: 8
+      - area: 30
+- requirement: 3
+  text: |-
+      Point out and name the main parts of an insect.
+  workbook:
+      - area: 45
+- requirement: 4
+  text: |-
+      Describe the characteristics that distinguish the principal families and
+      orders of insects.
+  workbook:
+      - lines: 8
+- requirement: 5
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Observe 20 different live species of insects in their habitat. In
+            your observations, include at least four orders of insects.
+        workbook:
+            - header: true
+              text: Species observed
+            - split:
+                  - lines: 2
+                  - lines: 2
+            - split:
+                  - lines: 2
+                  - lines: 2
+            - split:
+                  - lines: 2
+                  - lines: 2
+            - split:
+                  - lines: 2
+                  - lines: 2
+            - split:
+                  - lines: 2
+                  - lines: 2
+            - split:
+                  - lines: 2
+                  - lines: 2
+            - split:
+                  - lines: 2
+                  - lines: 2
+            - split:
+                  - lines: 2
+                  - lines: 2
+            - split:
+                  - lines: 2
+                  - lines: 2
+            - split:
+                  - lines: 2
+                  - lines: 2
+            - split:
+                  - lines: 2
+                  - lines: 2
+      - requirement: b
+        text: |-
+            Make a scrapbook of the 20 insects you observe in 5a. Include
+            photographs, sketches, illustrations, and articles. Label each
+            insect with its common and scientific names, where possible. Share
+            your scrapbook with your merit badge counselor.
+        workbook:
+            - task: true
+- requirement: 6
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            From your scrapbook collection, identify three species of insects
+            helpful to humans and five species of insects harmful to humans.
+        workbook:
+            - split:
+                  - header: true
+                    text: |-
+                        Helpful
+                  - header: true
+                    text: |-
+                        Harmful
+            - split:
+                  - lines: 2
+                  - lines: 2
+            - split:
+                  - lines: 2
+                  - lines: 2
+            - split:
+                  - lines: 2
+                  - lines: 2
+            - split:
+                  - area: 2
+                  - lines: 2
+            - split:
+                  - area: 2
+                  - lines: 2
+      - requirement: b
+        text: |-
+            Discuss the use of integrated pest management vs. chemical methods
+            of insect control. What are the advantages and disadvantages of
+            each?
+        workbook:
+            - lines: 8
+- requirement: 7
+  text: |-
+      Explain the symbiotic relationship between bees and humankind. Explain
+      what colony collapse disorder (CCD) is and some of the possible causes.
+      Discuss how CCD affects our food supply.
+  workbook:
+      - lines: 8
+- requirement: 8
+  text: |-
+      Compare the life histories of a butterfly and a grasshopper. Tell how
+      they are different.
+  workbook:
+      - lines: 8
+- requirement: 9
+  markdown: true
+  text: |-
+      Raise an insect through complete metamorphosis from its larval stage to
+      its adult stage (e.g., raise a butterfly or moth from a caterpillar).`*`
+
+      `*` Some insects are endangered species and are protected by federal or
+      state law. Every species is found only in its own special type of
+      habitat. Be sure to check natural resources authorities in advance to be
+      sure that you will not be collecting any species that is known to be
+      protected or endangered, or in any habitat where collecting is
+      prohibited. In most cases, all specimens should be returned at the
+      location of capture after the requirement has been met. Check with your
+      merit badge counselor for those instances where the return of these
+      specimens would not be appropriate.
+  workbook:
+      - lines: 8
+- requirement: 10
+  text: |-
+      Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            Observe an ant colony in a formicarium (ant farm). Find the queen
+            and worker ants. Explain to your counselor the different chambers
+            found within an ant colony.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            Study a hive of bees. Remove the combs and find the queen. Estimate
+            the amount of brood and count the number of queen cells. Explain
+            how to determine the amount of honey in the hive.
+        workbook:
+            - lines: 8
+- requirement: 11
+  text: |-
+      Tell things that make social insects different from solitary insects.
+  workbook:
+      - lines: 8
+- requirement: 12
+  text: |-
+      Tell how insects fit in the food chains of other insects, fish, birds,
+      and mammals.
+  workbook:
+      - lines: 8
+- requirement: 13
+  text: |-
+      Find out about three career opportunities in insect study. Pick one and
+      find out the education, training, and experience required for this
+      profession.  Discuss this with your counselor, and explain why this
+      profession might interest you.
+  workbook:
+      - lines: 8
+        text: |-
+            Three career opportunities
+      - lines: 8
+        text: |-
+            Education, training, and experience required for one profession
