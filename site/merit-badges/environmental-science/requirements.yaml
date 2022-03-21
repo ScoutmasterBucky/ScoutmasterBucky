@@ -483,8 +483,11 @@
       profession might interest you.
   workbook:
       - lines: 8
+        text: |-
+            Three careers
       - lines: 8
-      - lines: 8
+        text: |-
+            Education, training, and experience for one profession
   children:
       - note:
             - inPerson
