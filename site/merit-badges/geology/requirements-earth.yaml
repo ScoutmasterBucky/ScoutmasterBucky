@@ -1,0 +1,455 @@
+- detail: true
+  markdown: true
+  text: |-
+      **Earth History Option**
+
+      This workbook covers only one of the options for this merit badge. Check
+      the Scoutmaster Bucky website for the other possibilities.
+- requirement: 1
+  text: |-
+      Define geology. Discuss how geologists learn about rock formations. In
+      geology, explain why the study of the present is important to
+      understanding the past.
+  workbook:
+      - lines: 8
+        text: |-
+            Define geology
+      - lines: 8
+        text: |-
+            How geologists learn about rock formations
+      - lines: 8
+        text: |-
+            Why the study of the present is important to understnding the past
+- requirement: 2
+  text: |-
+      Pick three resources that can be extracted or mined from Earth for
+      commercial use. Discuss with your counselor how each product is
+      discovered and processed.
+  workbook:
+      - lines: 8
+      - lines: 8
+      - lines: 8
+- requirement: 3
+  text: |-
+      Review a geologic map of your area or an area selected by your counselor,
+      and discuss the different rock types and estimated ages of rocks
+      represented.  Determine whether the rocks are horizontal, folded, or
+      faulted, and explain how you arrived at your conclusion.
+  workbook:
+      - task: true
+- requirement: 4
+  text: |-
+      Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            With your parent’s and counselor’s approval, visit with a
+            geologist, land-use planner, or civil engineer. Discuss this
+            professional’s work and the tools required in this line of work.
+            Learn about a project that this person is now working on, and ask
+            to see reports and maps created for this project. Discuss with your
+            counselor what you have learned.
+        workbook:
+            - lines: 8
+              text: |-
+                  This professional's work
+            - lines: 8
+              text: |-
+                  The tools required
+            - lines: 8
+              text: |-
+                  A project that this person is now working on
+            - task: true
+              text: |-
+                  Asked to see reports and maps created for this project
+            - lines: 8
+              text: |-
+                  What you have learned
+      - requirement: b
+        text: |-
+            Find out about three career opportunities available in geology.
+            Pick one and find out the education, training, and experience
+            required for this profession. Discuss this with your counselor, and
+            explain why this profession might interest you.
+        workbook:
+            - lines: 8
+              text: |-
+                  Three career opportunities
+            - lines: 8
+              text: |-
+                  Education, training, and experience required for one profession
+- requirement: 5
+  text: |-
+      Do ONE of the following (a OR b OR c OR d):
+  children:
+      - requirement: d
+        markdown: true
+        text: |-
+            **Earth History Option**
+        children:
+            - requirement: 1
+              text: |-
+                  Create a chart showing suggested geological eras and periods.
+                  Determine which period the rocks in your region might have
+                  been formed.
+              workbook:
+                  - area: 45
+            - requirement: 2
+              text: |-
+                  Explain the theory of plate tectonics.
+              workbook:
+                  - lines: 8
+            - requirement: 3
+              text: |-
+                  Explain to your counselor the processes of burial and
+                  fossilization, and discuss the concept of extinction.
+              workbook:
+                  - lines: 8
+                    text: |-
+                        Burial and fossilization
+                  - lines: 8
+                    text: |-
+                        Concept of extinction
+            - requirement: 4
+              text: |-
+                  Explain to your counselor how fossils provide information
+                  about ancient life, environment, climate, and geography.
+                  Discuss the following terms and explain how animals from each
+                  habitat obtain food: benthonic, pelagic, littoral,
+                  lacustrine, open marine, brackish, fluvial, eolian, protected
+                  reef.
+              workbook:
+                  - lines: 8
+                    text: |-
+                        How fossils provide information about ancient life
+                  - lines: 8
+                    text: |-
+                        How fossils provide information about ancient
+                        environment
+                  - lines: 8
+                    text: |-
+                        How fossils provide information about ancient climate
+                  - lines: 8
+                    text: |-
+                        How fossils provide information about ancient geography
+                  - lines: 8
+                    text: |-
+                        Benthonic
+                  - lines: 8
+                    text: |-
+                        Pelagic
+                  - lines: 8
+                    text: |-
+                        Littoral
+                  - lines: 8
+                    text: |-
+                        Lacustrine
+                  - lines: 8
+                    text: |-
+                        Open marine
+                  - lines: 8
+                    text: |-
+                        Brackish
+                  - lines: 8
+                    text: |-
+                        Fluvial
+                  - lines: 8
+                    text: |-
+                        Eolian
+                  - lines: 8
+                    text: |-
+                        Protected reef
+            - requirement: 5
+              text: |-
+                  Collect 10 different fossil plants or animals OR (with your
+                  counselor’s assistance) identify 15 different fossil plants
+                  or animals. Record in a notebook where you obtained (found,
+                  bought, traded) each one. Classify each specimen to the best
+                  of your ability, and explain how each one might have survived
+                  and obtained food. Tell what else you can learn from these
+                  fossils.
+              workbook:
+                  - header: true
+                    text: |-
+                        Specimen #1
+                  - split:
+                        - lines: 2
+                          text: |-
+                              Name
+                        - lines: 2
+                          text: |-
+                              Where obtained
+                  - lines: 2
+                    text: |-
+                        Classification to the best of your ability
+                  - lines: 4
+                    text: |-
+                        How it might have survived and obtained food
+                  - header: true
+                    text: |-
+                        Specimen #2
+                  - split:
+                        - lines: 2
+                          text: |-
+                              Name
+                        - lines: 2
+                          text: |-
+                              Where obtained
+                  - lines: 2
+                    text: |-
+                        Classification to the best of your ability
+                  - lines: 4
+                    text: |-
+                        How it might have survived and obtained food
+                  - header: true
+                    text: |-
+                        Specimen #3
+                  - split:
+                        - lines: 2
+                          text: |-
+                              Name
+                        - lines: 2
+                          text: |-
+                              Where obtained
+                  - lines: 2
+                    text: |-
+                        Classification to the best of your ability
+                  - lines: 4
+                    text: |-
+                        How it might have survived and obtained food
+                  - header: true
+                    text: |-
+                        Specimen #4
+                  - split:
+                        - lines: 2
+                          text: |-
+                              Name
+                        - lines: 2
+                          text: |-
+                              Where obtained
+                  - lines: 2
+                    text: |-
+                        Classification to the best of your ability
+                  - lines: 4
+                    text: |-
+                        How it might have survived and obtained food
+                  - header: true
+                    text: |-
+                        Specimen #5
+                  - split:
+                        - lines: 2
+                          text: |-
+                              Name
+                        - lines: 2
+                          text: |-
+                              Where obtained
+                  - lines: 2
+                    text: |-
+                        Classification to the best of your ability
+                  - lines: 4
+                    text: |-
+                        How it might have survived and obtained food
+                  - header: true
+                    text: |-
+                        Specimen #6
+                  - split:
+                        - lines: 2
+                          text: |-
+                              Name
+                        - lines: 2
+                          text: |-
+                              Where obtained
+                  - lines: 2
+                    text: |-
+                        Classification to the best of your ability
+                  - lines: 4
+                    text: |-
+                        How it might have survived and obtained food
+                  - header: true
+                    text: |-
+                        Specimen #7
+                  - split:
+                        - lines: 2
+                          text: |-
+                              Name
+                        - lines: 2
+                          text: |-
+                              Where obtained
+                  - lines: 2
+                    text: |-
+                        Classification to the best of your ability
+                  - lines: 4
+                    text: |-
+                        How it might have survived and obtained food
+                  - header: true
+                    text: |-
+                        Specimen #8
+                  - split:
+                        - lines: 2
+                          text: |-
+                              Name
+                        - lines: 2
+                          text: |-
+                              Where obtained
+                  - lines: 2
+                    text: |-
+                        Classification to the best of your ability
+                  - lines: 4
+                    text: |-
+                        How it might have survived and obtained food
+                  - header: true
+                    text: |-
+                        Specimen #9
+                  - split:
+                        - lines: 2
+                          text: |-
+                              Name
+                        - lines: 2
+                          text: |-
+                              Where obtained
+                  - lines: 2
+                    text: |-
+                        Classification to the best of your ability
+                  - lines: 4
+                    text: |-
+                        How it might have survived and obtained food
+                  - header: true
+                    text: |-
+                        Specimen #10
+                  - split:
+                        - lines: 2
+                          text: |-
+                              Name
+                        - lines: 2
+                          text: |-
+                              Where obtained
+                  - lines: 2
+                    text: |-
+                        Classification to the best of your ability
+                  - lines: 4
+                    text: |-
+                        How it might have survived and obtained food
+                  - header: true
+                    text: |-
+                        Specimen #11
+                  - split:
+                        - lines: 2
+                          text: |-
+                              Name
+                        - lines: 2
+                          text: |-
+                              Where obtained
+                  - lines: 2
+                    text: |-
+                        Classification to the best of your ability
+                  - lines: 4
+                    text: |-
+                        How it might have survived and obtained food
+                  - header: true
+                    text: |-
+                        Specimen #12
+                  - split:
+                        - lines: 2
+                          text: |-
+                              Name
+                        - lines: 2
+                          text: |-
+                              Where obtained
+                  - lines: 2
+                    text: |-
+                        Classification to the best of your ability
+                  - lines: 4
+                    text: |-
+                        How it might have survived and obtained food
+                  - header: true
+                    text: |-
+                        Specimen #13
+                  - split:
+                        - lines: 2
+                          text: |-
+                              Name
+                        - lines: 2
+                          text: |-
+                              Where obtained
+                  - lines: 2
+                    text: |-
+                        Classification to the best of your ability
+                  - lines: 4
+                    text: |-
+                        How it might have survived and obtained food
+                  - header: true
+                    text: |-
+                        Specimen #14
+                  - split:
+                        - lines: 2
+                          text: |-
+                              Name
+                        - lines: 2
+                          text: |-
+                              Where obtained
+                  - lines: 2
+                    text: |-
+                        Classification to the best of your ability
+                  - lines: 4
+                    text: |-
+                        How it might have survived and obtained food
+                  - header: true
+                    text: |-
+                        Specimen #15
+                  - split:
+                        - lines: 2
+                          text: |-
+                              Name
+                        - lines: 2
+                          text: |-
+                              Where obtained
+                  - lines: 2
+                    text: |-
+                        Classification to the best of your ability
+                  - lines: 4
+                    text: |-
+                        How it might have survived and obtained food
+                  - header: true
+                    text: |-
+                        Overall
+                  - lines: 8
+                    text: |-
+                        What else you can learn from these fossils
+- requirement: 6
+  text: |-
+      Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            Visit a science museum or the geology department of a local
+            university that has fossils on display. With your parent’s and
+            counselor’s approval, before you go, make an appointment with a
+            curator or guide who can show you how the fossils are preserved and
+            prepared for display.
+        workbook:
+            - task: true
+      - requirement: b
+        text: |-
+            Visit a structure in your area that was built using fossiliferous
+            rocks. Determine what kind of rock was used and tell your counselor
+            the kinds of fossil evidence you found there.
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            Visit a rock outcrop that contains fossils. Determine what kind of
+            rock contains the fossils, and tell your counselor the kinds of
+            fossil evidence you found at the outcrop.
+        workbook:
+            - lines: 8
+      - requirement: d
+        text: |-
+            Prepare a display or presentation on your state fossil. Include an
+            image of the fossil, the age of the fossil, and its classification.
+            You may use maps, books, articles from periodicals, and research
+            found on the internet (with your parent’s permission). Share the
+            display with your counselor or a small group (such as your class at
+            school). If your state does not have a state fossil, you may select
+            a state fossil from a neighboring state.
+        workbook:
+            - task: true
