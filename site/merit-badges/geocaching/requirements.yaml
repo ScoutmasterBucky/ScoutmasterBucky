@@ -1,0 +1,276 @@
+- requirement: 1
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain to your counselor the most likely hazards you may encounter
+            while participating in geocaching activities, and what you should
+            do to anticipate, help prevent, mitigate, and respond to these
+            hazards.
+        workbook:
+            - lines: 8
+              text: |-
+                  Most likely hazards
+            - lines: 8
+              text: |-
+                  Anticipate hazards
+            - lines: 8
+              text: |-
+                  Prevent hazards
+            - lines: 8
+              text: |-
+                  Mitigate hazards
+            - lines: 8
+              text: |-
+                  Respond to hazards
+      - requirement: b
+        text: |-
+            Discuss first aid and prevention for the types of injuries or
+            illnesses that could occur while participating in geocaching
+            activities, including cuts, scrapes, snakebite, insect stings, tick
+            bites, exposure to poisonous plants, heat and cold reactions
+            (sunburn, heatstroke, heat exhaustion, hypothermia), and
+            dehydration.
+        workbook:
+            - lines: 8
+              text: |-
+                  Cuts
+            - lines: 8
+              text: |-
+                  Scrapes
+            - lines: 8
+              text: |-
+                  Snakebite
+            - lines: 8
+              text: |-
+                  Insect stings
+            - lines: 8
+              text: |-
+                  Tick bites
+            - lines: 8
+              text: |-
+                  Exposure to poisonous plants
+            - lines: 8
+              text: |-
+                  Sunburn
+            - lines: 8
+              text: |-
+                  Heatstroke
+            - lines: 8
+              text: |-
+                  Heat exhaustion
+            - lines: 8
+              text: |-
+                  Hypothermia
+            - lines: 8
+              text: |-
+                  Dehydration
+      - requirement: c
+        text: |-
+            Discuss how to properly plan an activity that uses GPS, including using the buddy system, sharing your plan with others, and considering the weather, route, and proper attire.
+        workbook:
+            - lines: 8
+- requirement: 2
+  text: |-
+      Discuss the following with your counselor:
+  children:
+      - requirement: a
+        text: |-
+            Why you should never bury a cache
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            How to use proper geocaching etiquette when hiding or seeking a
+            cache, and how to properly hide, post, maintain, and dismantle a
+            geocache
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            The principles of Leave No Trace as they apply to geocaching
+        workbook:
+            - lines: 8
+- requirement: 3
+  text: |-
+      Explain the following terms used in geocaching: waypoint, log, cache,
+      accuracy, difficulty and terrain ratings, attributes, trackable. Choose
+      five additional terms to explain to your counselor.
+  workbook:
+      - lines: 8
+        text: |-
+            Waypoint
+      - lines: 8
+        text: |-
+            Log
+      - lines: 8
+        text: |-
+            Cache
+      - lines: 8
+        text: |-
+            Accuracy
+      - lines: 8
+        text: |-
+            Difficulty and terrain ratings
+      - lines: 8
+        text: |-
+            Attributes
+      - lines: 8
+        text: |-
+            Trackables
+      - lines: 8
+        text: |-
+            Additional term
+      - lines: 8
+        text: |-
+            Additional term
+      - lines: 8
+        text: |-
+            Additional term
+      - lines: 8
+        text: |-
+            Additional term
+      - lines: 8
+        text: |-
+            Additional term
+- requirement: 4
+  text: |-
+      Explain how the Global Positioning System (GPS) works. Then, using
+      Scouting’s Teaching EDGE, demonstrate to your counselor the use of a GPS
+      unit. Include marking and editing a waypoint, changing field functions,
+      and changing the coordinate system in the unit.
+  workbook:
+      - lines: 8
+        text: |-
+            How the Global Positioning System works
+      - split:
+            - task: true
+              text: |-
+                  Demonstrated marking a waypoint
+            - task: true
+              text: |-
+                  Demonstrated editing a waypoint
+      - split:
+            - task: true
+              text: |-
+                  Demonstrated changing field functions
+            - task: true
+              text: |-
+                  Demonstrated changing coordinate system
+- requirement: 5
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Show you know how to use a map and compass and explain why this is
+            important for geocaching.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            Explain the similarities and differences between GPS navigation and
+            standard map-reading skills and describe the benefits of each.
+        workbook:
+            - lines: 8
+- requirement: 6
+  text: |-
+      Describe to your counselor the four steps to finding your first cache.
+      Then mark and edit a waypoint.
+  workbook:
+      - lines: 8
+        text: |-
+            Four steps
+      - task: true
+        text: |-
+            Mark and edit a waypoint
+- requirement: 7
+  markdown: true
+  text: |-
+      With your parent’s permission`*`, go to www.geocaching.com. Type in your
+      city and state to locate public geocaches in your area. Share with your
+      counselor the posted information about three of those geocaches. Then,
+      pick one of the three and find the cache.
+
+      `*` To fulfill this requirement, you will need to set up a free user
+      account with www.geocaching.com. Before doing so, ask your parent for
+      permission and help.
+  workbook:
+      - signature: Parent
+        checkbox: Approved
+      - lines: 8
+      - lines: 8
+      - lines: 8
+      - task: true
+        text: |-
+            Found the cache
+- requirement: 8
+  text: |-
+      Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            If a Cache to Eagle® series exists in your council, visit at least
+            three of the locations in the series. Describe the projects that
+            each cache you visit highlights, and explain how the Cache to
+            Eagle® program helps share our Scouting service with the public.
+        workbook:
+            - lines: 8
+            - lines: 8
+            - lines: 8
+      - requirement: b
+        markdown: true
+        text: |-
+            Create a Scouting-related Travel Bug® that promotes one of the
+            values of Scouting. “Release” your Travel Bug into a public
+            geocache and, with your parent’s permission, monitor its progress
+            at www.geocaching.com for 30 days. Keep a log, and share this with
+            your counselor at the end of the 30-day period.
+        workbook:
+            - lines: 30
+      - requirement: c
+        text: |-
+            Set up and hide a public geocache, following the guidelines in the
+            Geocaching merit badge pamphlet. Before doing so, share with your
+            counselor a three-month maintenance plan for the geocache where you
+            are personally responsible for those three months. After setting up
+            the geocache, with your parent’s permission, follow the logs online
+            for 30 days and share them with your counselor. You must archive
+            the geocache when you are no longer maintaining it.
+        workbook:
+            - lines: 8
+              text: |-
+                  Three-month maintenance plan
+            - lines: 8
+              text: |-
+                  Notes about logs
+      - requirement: d
+        text: |-
+            Explain what Cache In Trash Out (CITO) means, and describe how you
+            have practiced CITO at public geocaches or at a CITO event. Then,
+            either create CITO containers to leave at public caches, or host a
+            CITO event for your unit or for the public.
+        workbook:
+            - lines: 8
+              text: |-
+                  Explain what Cache In Trash Out means
+            - lines: 8
+              text: |-
+                  Describe how you have practiced CITO
+            - split:
+                  - task: true
+                    text: |-
+                        Created CITO containers
+                  - task: true
+                    text: |-
+                        Hosted a CITO event
+- requirement: 9
+  text: |-
+      Plan a geohunt for a youth group such as your troop or a neighboring
+      pack, at school, or your place of worship. Choose a theme, set up a
+      course with at least four waypoints, teach the players how to use a GPS
+      unit, and play the game.  Tell your counselor about your experience, and
+      share the materials you used and developed for this event.
+  workbook:
+      - lines: 20
