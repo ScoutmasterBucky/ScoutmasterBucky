@@ -1,0 +1,506 @@
+# Had requirements from Gardening in the PDF
+- requirement: 1
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Analyze four games you have played, each from a different medium.
+            Identify the medium, player format, objectives, rules, resources,
+            and theme (if relevant). Discuss with your counselor the play
+            experience, what you enjoy in each game, and what you dislike. Make
+            a chart to compare and contrast the games.
+        workbook:
+            - split:
+                  - lines: 2
+                    text: |-
+                        Name of game
+                  - lines: 2
+                    text: |-
+                        Medium
+                  - lines: 2
+                    text: |-
+                        Player format
+                  - lines: 2
+                    text: |-
+                        Theme
+            - split:
+                  - lines: 4
+                    text: |-
+                        Objectives
+                  - lines: 4
+                    text: |-
+                        Rules
+            - split:
+                  - lines: 4
+                    text: |-
+                        Resources
+                  - lines: 4
+                    text: |-
+                        Play experience
+            - lines: 8
+              text: |-
+                  What you enjoy and what you dislike
+            - split:
+                  - lines: 2
+                    text: |-
+                        Name of game
+                  - lines: 2
+                    text: |-
+                        Medium
+                  - lines: 2
+                    text: |-
+                        Player format
+                  - lines: 2
+                    text: |-
+                        Theme
+            - split:
+                  - lines: 4
+                    text: |-
+                        Objectives
+                  - lines: 4
+                    text: |-
+                        Rules
+            - split:
+                  - lines: 4
+                    text: |-
+                        Resources
+                  - lines: 4
+                    text: |-
+                        Play experience
+            - lines: 8
+              text: |-
+                  What you enjoy and what you dislike
+            - split:
+                  - lines: 2
+                    text: |-
+                        Name of game
+                  - lines: 2
+                    text: |-
+                        Medium
+                  - lines: 2
+                    text: |-
+                        Player format
+                  - lines: 2
+                    text: |-
+                        Theme
+            - split:
+                  - lines: 4
+                    text: |-
+                        Objectives
+                  - lines: 4
+                    text: |-
+                        Rules
+            - split:
+                  - lines: 4
+                    text: |-
+                        Resources
+                  - lines: 4
+                    text: |-
+                        Play experience
+            - lines: 8
+              text: |-
+                  What you enjoy and what you dislike
+            - split:
+                  - lines: 2
+                    text: |-
+                        Name of game
+                  - lines: 2
+                    text: |-
+                        Medium
+                  - lines: 2
+                    text: |-
+                        Player format
+                  - lines: 2
+                    text: |-
+                        Theme
+            - split:
+                  - lines: 4
+                    text: |-
+                        Objectives
+                  - lines: 4
+                    text: |-
+                        Rules
+            - split:
+                  - lines: 4
+                    text: |-
+                        Resources
+                  - lines: 4
+                    text: |-
+                        Play experience
+            - lines: 8
+              text: |-
+                  What you enjoy and what you dislike
+      - requirement: b
+        text: |-
+            Describe four types of play value and provide an example of a game
+            built around each concept. Discuss with your counselor other
+            reasons people play games.
+        workbook:
+            - lines: 8
+              text: |-
+                  First type of play value and an example
+            - lines: 8
+              text: |-
+                  Second type of play value and an example
+            - lines: 8
+              text: |-
+                  Third type of play value and an example
+            - lines: 8
+              text: |-
+                  Fourth type of play value and an example
+            - lines: 8
+              text: |-
+                  Reasons people play games
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scout should come prepared to the class ready to share their
+            analysis of the games they have played.  When preparing for this
+            requirement, Scouts may find it helpful to have notes organized and
+            ready for sharing during the class as it may be difficult to record
+            this information during the class and thus fall behind the
+            discussion trying to keep up with taking notes.
+- requirement: 2
+  text: |-
+      Discuss with your counselor five of the following 17 game design terms.
+      For each term that you pick, describe how it relates to a specific game.
+
+      Thematic game elements: *story, setting, characters*
+
+      Gameplay elements: *play sequence, level design, interface design*
+
+      Game analysis: *difficulty, balance, depth, pace, replay value, age
+      appropriateness*
+
+      Related terms: *single-player vs. multiplayer, cooperative vs.
+      competitive, turnbased vs. real-time, strategy vs. reflex vs. chance,
+      abstract vs. thematic*
+  workbook:
+      - split:
+            - lines: 2
+              text: |-
+                  Term
+            - lines: 2
+              text: |-
+                  Reference game
+      - lines: 8
+        text: |-
+            Definition
+      - split:
+            - lines: 2
+              text: |-
+                  Term
+            - lines: 2
+              text: |-
+                  Reference game
+      - lines: 8
+        text: |-
+            Definition
+      - split:
+            - lines: 2
+              text: |-
+                  Term
+            - lines: 2
+              text: |-
+                  Reference game
+      - lines: 8
+        text: |-
+            Definition
+      - split:
+            - lines: 2
+              text: |-
+                  Term
+            - lines: 2
+              text: |-
+                  Reference game
+      - lines: 8
+        text: |-
+            Definition
+      - split:
+            - lines: 2
+              text: |-
+                  Term
+            - lines: 2
+              text: |-
+                  Reference game
+      - lines: 8
+        text: |-
+            Definition
+  children:
+      - note:
+            - inPerson
+            - online
+        text: |-
+            The answers for this requirement can be easily found in the merit
+            badge pamphlet and Scouts should be prepared for discussion on each
+            of the components of this requirement in the class.  Some Scouts
+            may find it helpful to utilize a Merit Badge Workbook to organize
+            their notes and findings for easier reference during the class and
+            to better ensure completion of this requirement in the class.
+- requirement: 3
+  text: |-
+      Define the term *intellectual property*. Describe the types of
+      intellectual property associated with the game design industry. Describe
+      how intellectual property is protected and why protection is necessary.
+      Define and give an example of a licensed property.
+  workbook:
+      - lines: 8
+        text: |-
+            Define intellectual property
+      - lines: 8
+        text: |-
+            Types of intellectual property associated with the game design
+            industry
+      - lines: 8
+        text: |-
+            How intellectual property is protected
+      - lines: 8
+        text: |-
+            Why protection is necessary
+      - lines: 8
+        text: |-
+            Define a licensed property
+      - lines: 8
+        text: |-
+            Give an example of a licensed property
+  children:
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts should review this requirement and its terms and be prepared
+            to explain.  It is strongly recommended that Scouts bring any notes
+            or supporting documents they may have to help show the counselor
+            that they have prepared for explanation of these items. The
+            intellectual property term, types, and process will be discussed in
+            the class.
+- requirement: 4
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Pick a game where the players can change the rules or objectives
+            (examples: basketball, hearts, chess, kickball). Briefly summarize
+            the standard rules and objectives and play through the game
+            normally.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            Propose changes to several rules or objectives. Predict how each
+            change will affect gameplay.
+        workbook:
+            - lines: 20
+      - requirement: c
+        text: |-
+            Play the game with one rule or objective change, observing how the
+            players’ actions and emotional experiences are affected by the rule
+            change.  Repeat this process with two other changes.
+        workbook:
+            - lines: 8
+              text: |-
+                  First change and its effect
+            - lines: 8
+              text: |-
+                  Second change and its effect
+            - lines: 8
+              text: |-
+                  Third change and its effect
+      - requirement: d
+        text: |-
+            Explain to your counselor how the changes affected the actions and
+            experience of the players. Discuss the accuracy of your
+            predictions.
+      - note:
+            - inPerson
+            - online
+        text: |-
+            See Notes after Requirement 7.
+- requirement: 5
+  text: |-
+      Design a new game. Any game medium or combination of mediums is
+      acceptable. Record your work in a game design notebook.
+  children:
+      - requirement: a
+        text: |-
+            Write a vision statement for your game. Identify the medium, player
+            format, objectives, and theme of the game. If suitable, describe
+            the setting, story, and characters.
+        workbook:
+            - lines: 8
+              text: |-
+                  Vision statement
+            - lines: 8
+              text: |-
+                  Medium
+            - lines: 8
+              text: |-
+                  Player format
+            - lines: 8
+              text: |-
+                  Objectives
+            - lines: 8
+              text: |-
+                  Theme
+            - lines: 8
+              text: |-
+                  Setting
+            - lines: 8
+              text: |-
+                  Story
+            - lines: 8
+              text: |-
+                  Characters
+      - requirement: b
+        text: |-
+            Describe the play value.
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            Make a preliminary list of the rules of the game. Define the
+            resources.
+        workbook:
+            - lines: 8
+              text: |-
+                  Rules
+            - lines: 8
+              text: |-
+                  Resources
+      - requirement: d
+        text: |-
+            Draw the game elements.
+        workbook:
+            - area: 45
+      - note:
+            - inPerson
+            - online
+        markdown: true
+        text: |-
+            See Notes after Requirement 7.
+- detail: true
+  text: |-
+      You must have your merit badge counselor’s approval of your concept
+      before you begin creating the prototype.
+- requirement: 6
+  text: |-
+      Do the following:
+  workbook:
+      - task: true
+        text: |-
+            Received merit badge counselor's approval of your concept before
+            you began creating the prototype.
+  children:
+      - requirement: a
+        text: |-
+            Prototype your game from requirement 5. If applicable, demonstrate
+            to your counselor that you have addressed player safety through the
+            rules and equipment. Record your work in your game design notebook.
+        workbook:
+          - task: true
+      - requirement: b
+        text: |-
+            Test your prototype with as many other people as you need to meet
+            the player format. Compare the play experience to your descriptions
+            from requirement 5b. Correct unclear rules, holes in the rules,
+            dead ends, and obvious rule exploits. Change at least one rule,
+            mechanic, or objective from your first version of the game, and
+            describe why you are making the change. Play the game again. Record
+            in your game design notebook whether or not your change had the
+            expected effect.
+        workbook:
+          - lines: 8
+      - requirement: c
+        text: |-
+            Repeat 6b at least two more times and record the results in your
+            game design notebook.
+        workbook:
+          - lines: 8
+          - lines: 8
+      - note:
+            - inPerson
+            - online
+        text: |-
+            See Notes after Requirement 7.
+- requirement: 7
+  text: |-
+      Blind test your game. Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Write an instruction sheet that includes all of the information
+            needed to play the game. Clearly describe how to set up the game,
+            play the game, and end the game. List the game objectives.
+        workbook:
+          - task: true
+      - requirement: b
+        text: |-
+            Share your prototype from requirement 6 with a group of players
+            that has not played it or witnessed a previous playtest. Provide
+            them with your instruction sheet(s) and any physical components.
+            Watch them play the game, but do not provide them with instruction.
+            Record their feedback in your game design notebook.
+        workbook:
+          - lines: 8
+      - requirement: c
+        text: |-
+            Share your game design notebook with your counselor. Discuss the
+            player reactions to your project and what you learned about the
+            game design process. Based on your testing, determine what you like
+            most about your game and suggest one or more changes.
+        workbook:
+          - lines: 8
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Requirements 4, 5, 6 and 7 will be covered and managed by the
+            counselor in the class. Scouts still need to have read the merit
+            badge pamphlet prior to the class in order to complete these
+            requirements.  These 4 requirements will be worked on for the
+            majority of the class.  Scouts are expected to be attentive and
+            courteous during this class in order to potentially finish all the
+            components in these requirements.  While the intention, and plan,
+            is to offer Scouts the ability to finish all of these requirement
+            in the class, performance and behavior may affect individual, small
+            group of, or the entire class of Scouts in fulfilling all of these
+            requirements.
+- requirement: 8
+  text: |-
+      Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            With your parent’s permission and your counselor’s approval, visit
+            with a professional in the game development industry and ask him or
+            her about his or her job and how it fits into the overall
+            development process. Alternately, meet with a professional in game
+            development education and discuss the skills he or she emphasizes
+            in the classroom.
+        workbook:
+          - lines: 8
+      - requirement: b
+        text: |-
+            List three career opportunities in game development. Pick one and
+            find out about the education, training, and experience required for
+            the profession. Discuss this with your counselor. Explain why this
+            profession might interest you.
+        workbook:
+          - lines: 8
+            text: |-
+              Three career opportunities
+          - lines: 8
+            text: |-
+              Education, training, and experience required
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts should review this requirement and its components and be
+            prepared to discuss.  It is strongly recommended that Scouts bring
+            any notes or supporting documents they may have to help show the
+            counselor that they have prepared for completion of this
+            requirement.
