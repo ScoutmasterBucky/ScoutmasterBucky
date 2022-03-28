@@ -2,41 +2,6 @@
 badge: entrepreneurship
 layout: smb-merit-badge
 requirements: true
+data:
+    requirements: ./requirements.yaml
 ---
-
-{{#requirements}}
-1. In your own words, define *entrepreneurship*. Explain to your merit badge counselor how entrepreneurs impact the U.S. economy.
-    {{#note type="inPerson" type2="online"}}Scouts should come to the class with notes on their research and understanding of this component. The "explain" action will more than likely be a part of group discussion led by the counselor in which each Scout will be given an opportunity to share their findings for this component of the requirement.{{/note}}
-2. Explain to your counselor why having good skills in the following areas is important for an entrepreneur: communication, planning, organization, problem solving, decision making, basic math, adaptability, technical and social skills, teamwork, and leadership.
-    {{#note type="inPerson" type2="online"}}Scouts should put some thought into this requirement.  The basis of this requirement is thought and preparation. While the counselor will help facilitate discussion around this requirement, it will be difficult for Scouts that have not prepared ahead of time to complete this.  Only Scouts that actively and knowledgably participate in the class discussion will be considered for sign off on this requirement.{{/note}}
-3. Identify and interview an individual who has started a business. Learn about this person’s educational background, early work experiences, where the idea for the business came from, and what was involved in starting the business. Find out how the entrepreneur raised the capital (money) to start the business, examples of successes and challenges faced, and how the business is currently doing (if applicable). Discuss with your counselor what you have learned.
-    {{#note type="inPerson" type2="online"}}Scouts who successfully identify and interview an individual who has started his or her own business will have an opportunity to complete this requirement. This completion will be based on the satisfaction of the merit badge counselor and the Scout's reporting of his findings.  Please note that you must successfully in the eyes of the counselor complete all components of the requirement in order to be signed off on it.{{/note}}
-    {{#note type="inPerson" type2="online"}}Scouts not having prepared prior to the class for his requirement, MAY have an opportunity as a part of the class to interview an individual that meets the qualifications necessary for completing this requirement.  While it is the intent to have someone at the class that might help satisfy the stated requirement, no guarantee is made.  Only Scouts having already performed the interview with someone will have the 100% possibility of completing this requirement A.{{/note}}
-4. Think of as many ideas for a business as you can, and write them down. From your list, select three ideas you believe represent the best opportunities. Choose one of these and explain to your counselor why you selected it and why you feel it can be successful.
-    {{#note type="inPerson" type2="online"}}Scouts are encouraged to build their list prior to the class and come prepared with ideas as outlined in this requirement.  Scouts will have an opportunity to share their work with the counselor and the rest of the class during the class time.  The counselor will NOT sign off Scouts that attend the class not having done any preparation for this requirement.  It will be at the counselor's discretion to determine that.  It is strongly recommended that Scouts bring supporting documentation or notes to show that they prepared for this requirement ahead of time.  While Scouts attending unprepared will have an opportunity to partake in the discussion and go through all the requirement, that alone is not enough to receive credit and sign off on the requirement.  You must come prepared.{{/note}}
-5. Create a written business plan for your idea that includes all of the following:
-    (a) Product or Service
-        (1) Describe the product or service to be offered.
-        (2) Identify goals for your business.
-        (3) Explain how you can make enough of the product or perform the service to meet your goals.
-        (4) Identify and describe the potential liability risks for your product or service.
-        (5) Determine what type of license, if any, you might need in order to sell or make your product or service.
-    (b) Market Analysis
-        (1) Identify the types of people who would buy your product or service.
-        (2) Identify your business’s competitors, and describe their strengths and weaknesses.
-        (3) Describe what makes your product or service unique.
-    (c) Financial
-        (1) Determine how much money you will need to start your business, and identify how you will obtain the money.
-        (2) Determine the cost of offering your product or service and the price you will charge in order to make a profit.
-        (3) Describe what will happen with the money you make from the sales of your product or service.
-    (d) Personnel
-        (1) Determine what parts of the business you will handle yourself, and describe your qualifications.
-        (2) Determine whether you will need additional help to operate your business. If you will need help, describe the responsibilities and qualifications needed for the personnel who will fill each role.
-    (e) Promotion and Marketing
-        (1) Describe the methods you will use to promote your business to potential customers.
-        (2) Explain how you will utilize the Internet and social media to increase awareness of your product or service.
-        (3) Design a promotional flier or poster for your product or service.
-    {{#note type="inPerson" type2="online"}}As this requirement states, you MUST write out a business plan with all of the requirement's components included.  There is no way a Scout that has not prepared for this requirement ahead of time will be able to complete this requirement during the class.  A lot of the class time is devoted to the discussion and explanation by each Scout their work on this requirement.  Scouts should consider using a Merit Badge Workbook or their own specific notebook to do their work for this requirement.{{/note}}
-6. When you believe your business idea is feasible, imagine your business idea is now up and running. What successes and problems might you experience? How would you overcome any failures? Discuss with your counselor any ethical questions you might face and how you would deal with them.
-    {{#note type="inPerson" type2="online"}}This requirement will be covered in the class but will only be completed at the discretion of the merit badge counselor in conjunction with satisfactory completion of the previous requirements. Note, only Scouts that are able to successfully complete the previous requirement will have the opportunity of being signed off on this requirement during the class.{{/note}}
-{{/requirements}}
