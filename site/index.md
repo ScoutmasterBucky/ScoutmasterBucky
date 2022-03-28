@@ -5,8 +5,8 @@ opportunities: 15,000+
 online: 1,500+
 news:
     - Signs, Signals, and Codes Merit Badge is our featured April in-person Merit Badge opportunity
-    - Join the Scoutmaster Bucky Team at Northern Star Scouting's SPring University of Scouting on April 9. 2022
-    - Register now for April's Signs, Signals, and Codes Merit Badge today [in-person event](#2022-04-16-merit-badge-day.md)!
+    - Join the Scoutmaster Bucky Team at Northern Star Scouting's Spring University of Scouting on April 9, 2022
+    - Register now for April's Signs, Signals, and Codes Merit Badge [in-person event](#2022-04-16-merit-badge-day.md)!
 css:
     - css/calendar.css
 js:

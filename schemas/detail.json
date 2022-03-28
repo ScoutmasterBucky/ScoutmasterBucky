@@ -12,6 +12,9 @@
         "text": {
             "description": "Plain text, html, or vanilla markdown when the markdown flag is set",
             "type": "string"
+        },
+        "workbookHide": {
+            "type": "boolean"
         }
     },
     "additionalProperties": false,

@@ -160,7 +160,7 @@ function countdown(to, message) {
         var d = Math.floor(h / 24);
         h = h % 24;
 
-        out = [];
+        const out = [];
 
         if (d) {
             out.push(d + ' days');

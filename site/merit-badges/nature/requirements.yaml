@@ -1,0 +1,225 @@
+- requirement: 1
+  text: |-
+      Name three ways in which plants are important to animals. Name a plant
+      that is protected in your state or region, and explain why it is at risk.
+  workbook:
+      - lines: 8
+- requirement: 2
+  text: |-
+      Name three ways in which animals are important to plants. Name an animal
+      that is protected in your state or region, and explain why it is at risk.
+  workbook:
+      - lines: 8
+- requirement: 3
+  text: |-
+      Explain the term “food chain.” Give an example of a four-step land food
+      chain and a four-step water food chain.
+  workbook:
+      - lines: 8
+- requirement: 4
+  text: |-
+      Do all of the requirements in FIVE of the following fields:
+  children:
+      - requirement: a
+        text: |-
+            Birds
+        children:
+            - requirement: 1
+              text: |-
+                  In the field, identify eight species of birds.
+              workbook:
+                  - split:
+                        - lines: 2
+                        - lines: 2
+                  - split:
+                        - lines: 2
+                        - lines: 2
+                  - split:
+                        - lines: 2
+                        - lines: 2
+                  - split:
+                        - lines: 2
+                        - lines: 2
+            - requirement: 2
+              text: |-
+                  Make and set out a birdhouse OR a feeding station OR a
+                  birdbath. List what birds used it during a period of one
+                  month.
+              workbook:
+                  - lines: 8
+      - requirement: b
+        text: |-
+            Mammals
+        children:
+            - requirement: 1
+              text: |-
+                  In the field, identify three species of wild mammals.
+              workbook:
+                  - split:
+                        - lines: 2
+                        - lines: 2
+                        - lines: 2
+            - requirement: 2
+              text: |-
+                  Make plaster casts of the tracks of a wild mammal.
+              workbook:
+                  - task: true
+      - requirement: c
+        text: |-
+            Reptiles and Amphibians
+        children:
+            - requirement: 1
+              text: |-
+                  Show that you can recognize the venomous snakes in your area.
+              workbook:
+                  - task: true
+            - requirement: 2
+              text: |-
+                  In the field, identify three species of reptiles or
+                  amphibians.
+              workbook:
+                  - split:
+                        - lines: 2
+                        - lines: 2
+                        - lines: 2
+            - requirement: 3
+              text: |-
+                  Recognize one species of toad or frog by voice; OR identify
+                  one reptile or amphibian by eggs, den, burrow, or other
+                  signs.
+              workbook:
+                  - lines: 2
+      - requirement: d
+        text: |-
+            Insects and Spiders
+        children:
+            - requirement: 1
+              markdown: true
+              text: |-
+                  Collect and identify either in the field or through
+                  photographs 10 species of insects or spiders.`*`
+
+                  `*` Photos may be taken with your own equipment or gathered
+                  from other sources.
+              workbook:
+                  - task: true
+            - requirement: 2
+              text: |-
+                  Hatch an insect from the pupa or cocoon; OR hatch adults from
+                  nymphs; OR keep larvae until they form pupae or cocoons; OR
+                  keep a colony of ants or bees through one season.
+              workbook:
+                  - task: true
+      - requirement: e
+        text: |-
+            Fish
+        children:
+            - requirement: 1
+              text: |-
+                  Identify two species of fish native to your area.
+              workbook:
+                  - split:
+                        - lines: 2
+                        - lines: 2
+            - requirement: 2
+              text: |-
+                  Collect four kinds of animal food eaten by fish in the wild.
+              workbook:
+                  - task: true
+      - requirement: f
+        text: |-
+            Mollusks and Crustaceans
+        children:
+            - requirement: 1
+              text: |-
+                  Identify five species of mollusks and crustaceans.
+              workbook:
+                  - split:
+                        - lines: 2
+                        - lines: 2
+                  - split:
+                        - lines: 2
+                        - lines: 2
+                  - lines: 2
+            - requirement: 2
+              text: |-
+                  Collect, mount, and label six shells.
+              workbook:
+                  - task: true
+      - requirement: g
+        text: |-
+            Plants
+        children:
+            - requirement: 1
+              text: |-
+                  In the field, identify 15 species of wild plants.
+              workbook:
+                  - split:
+                        - lines: 2
+                        - lines: 2
+                        - lines: 2
+                  - split:
+                        - lines: 2
+                        - lines: 2
+                        - lines: 2
+                  - split:
+                        - lines: 2
+                        - lines: 2
+                        - lines: 2
+                  - split:
+                        - lines: 2
+                        - lines: 2
+                        - lines: 2
+                  - split:
+                        - lines: 2
+                        - lines: 2
+                        - lines: 2
+            - requirement: 2
+              text: |-
+                  Collect and label the seeds of six plants OR the leaves of 12
+                  plants.
+              workbook:
+                  - task: true
+      - requirement: h
+        text: |-
+            Soils and Rocks
+        children:
+            - requirement: 1
+              text: |-
+                  Collect and identify soils found in different layers of a
+                  soil profile.
+              workbook:
+                  - lines: 8
+            - requirement: 2
+              text: |-
+                  Collect and identify five different types of rocks from your
+                  area.
+              workbook:
+                  - split:
+                        - lines: 2
+                        - lines: 2
+                  - split:
+                        - lines: 2
+                        - lines: 2
+                  - lines: 2
+- requirement: 5
+  text: |-
+      Discuss the principle of Leave No Trace and how it relates to nature.
+  workbook:
+      - lines: 8
+- detail: true
+  markdown: true
+  text: |-
+      Note: In most cases, all specimens should be returned to the wild at the
+      location of original capture after the requirements have been met.  Check
+      with your merit badge counselor for those instances where the return of
+      these specimens would not be appropriate.
+
+      Under the Endangered Species Act of 1973, some plants and animals are or
+      may be protected by federal law. The same ones and/or others may be
+      protected by state law. Be sure that you do not collect protected
+      species.
+
+      Your state may require that you purchase and carry a license to collect
+      certain species. Check with the wildlife and fish and game officials in
+      your state regarding species regulations before you begin to collect.

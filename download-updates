@@ -65,6 +65,11 @@ downloadHtml() {
 }
 
 echo 'Merit Badges'
+for MBP in site/merit-badges/*/; do
+    MB=${MBP%/}
+    MB=${MB##*/}
+    rm "${MBP}${MB}.pdf" "${MBP}${MB}.txt"
+done
 downloadPdfs 'https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/' 'h3 a[href*=".pdf"]' 'site/merit-badges/'
 echo ''
 

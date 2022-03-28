@@ -1,0 +1,178 @@
+- requirement: 1
+  text: |-
+      Identify the different American Indian cultural areas. Explain what makes
+      them each unique.
+  workbook:
+      - lines: 8
+- requirement: 2
+  text: |-
+      Give the history of one American Indian tribe, group, or nation that
+      lives or has lived near you. Visit it, if possible.  Tell about
+      traditional dwellings, way of life, tribal government, religious beliefs,
+      family and clan relationships, language, clothing styles, arts and
+      crafts, food preparation, means of getting around, games, customs in
+      warfare, where members of the group now live, and how they live.
+  workbook:
+      - lines: 35
+- requirement: 3
+  text: |-
+      Do TWO of the following. Focus on a specific group or tribe.
+  children:
+      - requirement: a
+        text: |-
+            Make an item of clothing worn by members of the tribe.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            Make and decorate three items used by the tribe, as approved by
+            your counselor.
+        workbook:
+            - task: true
+      - requirement: c
+        text: |-
+            Make an authentic model of a dwelling used by an Indian tribe,
+            group, or nation.
+        workbook:
+            - task: true
+      - requirement: d
+        text: |-
+            Visit a museum to see Indian artifacts. Discuss them with your
+            counselor. Identify at least 10 artifacts by tribe or nation, their
+            shape, size, and use.
+        workbook:
+            - lines: 30
+- requirement: 4
+  text: |-
+      Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            Learn three games played by a group or tribe. Teach and lead one
+            game with a Scout group.
+        workbook:
+            - lines: 8
+            - lines: 8
+            - lines: 8
+            - task: true
+              text: |-
+                  Taught and led one game
+      - requirement: b
+        text: |-
+            Learn and show how a tribe traditionally cooked or prepared food.
+            Make three food items.
+        workbook:
+            - split:
+                  - lines: 2
+                    text: |-
+                        First food
+                  - lines: 2
+                    text: |-
+                        Second food
+                  - lines: 2
+                    text: |-
+                        Third food
+            - split:
+                  - task: true
+                    text: |-
+                        Made food item
+                  - task: true
+                    text: |-
+                        Made food item
+                  - task: true
+                    text: |-
+                        Made food item
+      - requirement: c
+        text: |-
+            Give a demonstration showing how a specific Indian group
+            traditionally hunted, fished, or trapped.
+        workbook:
+            - task: true
+- requirement: 5
+  text: |-
+      Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            Write or briefly describe how life might have been different for
+            the European settlers if there had been no native Americans to meet
+            them when they came to this continent.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            Sing two songs in an Indian language. Explain their meanings.
+        workbook:
+            - task: true
+              text: |-
+                  Sang two songs
+            - lines: 8
+              text: |-
+                  The meanings of the songs
+      - requirement: c
+        text: |-
+            Learn in an Indian language at least 25 common terms and their
+            meanings.
+        workbook:
+            - lines: 40
+      - requirement: d
+        text: |-
+            Show 25 signs in Indian sign language. Include those that will help
+            you ask for water, for food, and where the path or road leads.
+        workbook:
+            - task: true
+      - requirement: e
+        text: |-
+            Learn an Indian story of up to 300 words (or several shorter
+            stories adding up to no more than 300 words).  Tell the story or
+            stories at a Scout gathering or campfire.
+        workbook:
+            - split:
+                  - task: true
+                    text: |-
+                        Learned an Indian story
+                  - task: true
+                    text: |-
+                        Told the story
+      - requirement: f
+        text: |-
+            Write or tell about eight things adopted by others from American
+            Indians.
+        workbook:
+            - lines: 4
+            - lines: 4
+            - lines: 4
+            - lines: 4
+            - lines: 4
+            - lines: 4
+            - lines: 4
+            - lines: 4
+      - requirement: g
+        text: |-
+            Learn 25 Indian place names. Tell their origins and meanings.
+        workbook:
+            - task: true
+      - requirement: h
+        text: |-
+            Name five well-known American Indian leaders, either from the past
+            or people of today. Give their tribes or nations. Describe what
+            they did or do now that makes them notable.
+        workbook:
+            - lines: 8
+            - lines: 8
+            - lines: 8
+            - lines: 8
+            - lines: 8
+      - requirement: i
+        text: |-
+            Attend a contemporary American Indian gathering.  Discuss with your
+            counselor what you learned and observed. Include in your discussion
+            any singing, dancing, drumming, and the various men’s and women’s
+            dance styles you saw.
+        workbook:
+            - task: true
+              text: |-
+                  Attended gathering
+            - lines: 8
+              text: |-
+                  What you observed
