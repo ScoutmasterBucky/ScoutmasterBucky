@@ -1,0 +1,65 @@
+- requirement: 1
+  text: |-
+      Give a short history of fingerprinting. Tell the difference between civil
+      and criminal identification.
+  workbook:
+      - lines: 8
+        text: |-
+            Short history
+      - lines: 8
+        text: |-
+            Difference between civil and criminal identification
+- requirement: 2
+  text: |-
+      Explain the difference between the automated fingerprint identification
+      systems (AFIS) now used by law enforcement agencies and the biometric
+      fingerprint systems used to control access to computers and places like
+      buildings and airports.
+  workbook:
+      - lines: 8
+- requirement: 3
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Name the surfaces of the body where friction or papillary ridges
+            are found.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            Name the two basic principles supporting the science of
+            fingerprints and give a brief explanation of each principle.
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            Explain what it takes to positively identify a person using
+            fingerprints.
+        workbook:
+            - lines: 8
+- requirement: 4
+  text: |-
+      Take a clear set of prints using ONE of the following methods.
+  children:
+      - requirement: a
+        text: |-
+            Make both rolled and plain impressions. Make these on an
+            8-by-8-inch fingerprint identification card, available from your
+            local police department or your counselor.
+        workbook:
+            - task: true
+      - requirement: b
+        text: |-
+            Using clear adhesive tape, a pencil, and plain paper, record your
+            own fingerprints or those of another person.
+        workbook:
+            - task: true
+- requirement: 5
+  text: |-
+      Show your merit badge counselor you can identify the three basic types of
+      fingerprint patterns and their subcategories.  Using your own hand,
+      identify the types of patterns you see.
+  workbook:
+      - task: true
