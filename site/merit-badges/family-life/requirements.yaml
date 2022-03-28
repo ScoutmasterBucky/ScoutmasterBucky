@@ -1,0 +1,145 @@
+- detail: true
+  markdown: true
+  text: |-
+      **Note to the Counselor**
+      Some of the issues surrounding requirement 6 for the family meeting could
+      be considered of a personal nature. Use discretion when reviewing this
+      requirement with the Scout.
+- requirement: 1
+  text: |-
+      Prepare an outline on what a family is and discuss this with your merit
+      badge counselor. Tell why families are important to individuals and to
+      society.  Discuss how the actions of one member can affect other members.
+  workbook:
+      - lines: 8
+- requirement: 2
+  text: |-
+      List several reasons why you are important to your family and discuss
+      this with your parents or guardians and with your merit badge counselor.
+  workbook:
+      - lines: 8
+- requirement: 3
+  text: |-
+      Prepare a list of your regular home duties or chores (at least five) and
+      do them for 90 days. Keep a record of how often you do each of them.
+      Discuss with your counselor the effect your chores had on your family.
+  workbook:
+      - lines: 3
+      - lines: 3
+      - lines: 3
+      - lines: 3
+      - lines: 3
+      - lines: 3
+      - lines: 3
+      - lines: 3
+      - lines: 3
+      - lines: 3
+      - lines: 3
+- requirement: 4
+  text: |-
+      With the approval of your parents or guardians and your merit badge
+      counselor, decide on and carry out a project that you would do around the
+      home that would benefit your family. Submit a report to your merit badge
+      counselor outlining how the project benefited your family.
+  workbook:
+      - split:
+            - task: true
+              text: |-
+                  Decide on and carry out a project
+            - task: true
+              text: |-
+                  Submitted a report
+- requirement: 5
+  text: |-
+      Plan and carry out a project that involves the participation of your
+      family.  After completing the project, discuss the following with your
+      merit badge counselor:
+  workbook:
+      - task: true
+        text: |-
+            Planned and carried out a project
+  children:
+      - requirement: a
+        text: |-
+            The objective or goal of the project
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            How individual members of your family participated
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            The results of the project
+        workbook:
+            - lines: 8
+- requirement: 6
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Discuss with your merit badge counselor how to plan and carry out a
+            family meeting.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            After this discussion, plan and carry out a family meeting to
+            include the following subjects:
+        children:
+            - requirement: 1
+              text: |-
+                  Avoiding substance abuse, including tobacco, alcohol, and
+                  drugs, all of which negatively affect your health and
+                  well-being
+              workbook:
+                  - task: true
+            - requirement: 2
+              markdown: true
+              text: |-
+                  Understanding the growing-up process and how the body
+                  changes, and making responsible decisions dealing with sex`*`
+
+                  `*` This conversation may take place with only one or both of
+                  your parents or guardians.
+              workbook:
+                  - task: true
+            - requirement: 3
+              text: |-
+                  How your chores in requirement 3 contributed to your role in
+                  the family
+              workbook:
+                  - task: true
+            - requirement: 4
+              text: |-
+                  Personal and family finances
+              workbook:
+                  - task: true
+            - requirement: 5
+              text: |-
+                  A crisis situation within your family
+              workbook:
+                  - task: true
+            - requirement: 6
+              text: |-
+                  The effect of technology on your family
+              workbook:
+                  - task: true
+            - requirement: 7
+              text: |-
+                  Good etiquette and manners
+              workbook:
+                  - task: true
+            - detail: true
+              text: |-
+                  Discussion of each of these subjects will very likely carry
+                  over to more than one family meeting.
+- requirement: 7
+  text: |-
+      Discuss with your counselor your understanding of what makes an effective
+      parent and why, and your thoughts on the parent's role and
+      responsibilities in the family.
+  workbook:
+      - lines: 8
