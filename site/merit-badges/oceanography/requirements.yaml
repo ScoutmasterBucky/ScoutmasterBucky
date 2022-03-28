@@ -1,0 +1,257 @@
+- requirement: 1
+  text: |-
+      Name four branches of oceanography. Describe at least five reasons why it
+      is important for people to learn about the oceans.
+  workbook:
+      - lines: 8
+- requirement: 2
+  text: |-
+      Define salinity, temperature, and density, and describe how these
+      important properties of seawater are measured by the physical
+      oceanographer. Discuss the circulation and currents of the ocean.
+      Describe the effects of the oceans on weather and climate.
+  workbook:
+      - lines: 8
+        text: |-
+            Salinity
+      - lines: 8
+        text: |-
+            Temperature
+      - lines: 8
+        text: |-
+            Density
+      - lines: 8
+        text: |-
+            How these important properties of seawater are measured
+      - lines: 8
+        text: |-
+            Circulation and currents of the ocean
+      - lines: 8
+        text: |-
+            Effects of the oceans on weather and climate
+- requirement: 3
+  text: |-
+      Describe the characteristics of ocean waves. Point out the differences
+      among the storm surge, tsunami, tidal wave, and tidal bore. Explain the
+      difference between sea, swell, and surf. Explain how breakers are formed.
+  workbook:
+      - lines: 8
+        text: |-
+            Characteristics of ocean waves
+      - lines: 8
+        text: |-
+            Differences among the storm surge, tsunami, tidal wave, and tidal
+            bore
+      - lines: 8
+        text: |-
+            Differences between sea, swell, and surf
+      - lines: 8
+        text: |-
+            How breakers are formed
+- requirement: 4
+  text: |-
+      Draw a cross-section of underwater topography. Show what is meant by:
+  workbook:
+      - header: true
+        markdown: true
+        text: |-
+            a. Continental shelf
+
+            b. Continental slope
+
+            c. Abyssal plain
+
+            Name and put on your drawing the following: seamount, guyot, rift
+            valley, canyon, trench, and oceanic ridge.  Compare the depths in
+            the oceans with the heights of mountains on land.
+      - area: 30
+  children:
+      - requirement: a
+        text: |-
+            Continental shelf
+        workbookHide: true
+      - requirement: b
+        text: |-
+            Continental slope
+        workbookHide: true
+      - requirement: c
+        text: |-
+            Abyssal plain
+        workbookHide: true
+      - detail: true
+        text: |-
+            Name and put on your drawing the following: seamount, guyot, rift
+            valley, canyon, trench, and oceanic ridge.  Compare the depths in
+            the oceans with the heights of mountains on land.
+        workbookHide: true
+- requirement: 5
+  text: |-
+      List the main salts, gases, and nutrients in seawater.  Describe some
+      important properties of water. Tell how the animals and plants of the
+      ocean affect the chemical composition of seawater. Explain how
+      differences in evaporation and precipitation affect the salt content of
+      the oceans.
+  workbook:
+      - lines: 8
+        text: |-
+            Main salts, gases, and nutrients in seawater
+      - lines: 8
+        text: |-
+            Important properties of water
+      - lines: 8
+        text: |-
+            How the animals and plants affect the chemical composition
+      - lines: 8
+        text: |-
+            How differences in evaporation and precipitation affect the salt
+            content
+- requirement: 6
+  text: |-
+      Describe some of the biologically important properties of seawater.
+      Define benthos, nekton, and plankton.  Name some of the plants and
+      animals that make up each of these groups. Describe the place and
+      importance of phytoplankton in the oceanic food chain.
+  workbook:
+      - lines: 8
+        text: |-
+            Some of the biologically important properties of seawater
+      - lines: 8
+        text: |-
+            Define benthos, nekton, and plankton
+      - lines: 8
+        text: |-
+            Name some plants and animals that make up each of these groups
+      - lines: 8
+        text: |-
+            Describe the place and importance of phytoplankton
+- requirement: 7
+  text: |-
+      Do ONE of the following:
+  children:
+      - requirement: a
+        markdown: true
+        text: |-
+            Make a plankton net. Tow the net by a dock, wade with it, hold it
+            in a current, or tow it from a rowboat.`*` Do this for about 20
+            minutes. Save the sample. Examine it under a microscope or
+            high-power glass. Identify the three most common types of plankton
+            in the sample.
+        workbook:
+            - task: true
+              text: |-
+                  Made and used a plankton net
+            - lines: 8
+              text: |-
+                  Three most common types of plankton in your sample
+      - requirement: b
+        text: |-
+            Make a series of models (clay or plaster and wood) of a volcanic
+            island. Show the growth of an atoll from a fringing reef through a
+            barrier reef. Describe the Darwinian theory of coral reef
+            formation.
+        workbook:
+            - task: true
+              text: |-
+                  Made models of a volcanic island
+            - area: 30
+              text: |-
+                  Growth of an atoll
+            - lines: 8
+              text: |-
+                  Darwinian theory of coral reef formation
+      - requirement: c
+        markdown: true
+        text: |-
+            Measure the water temperature at the surface, midwater, and bottom
+            of a body of water four times daily for five consecutive days.`*`
+            You may measure depth with a rock tied to a line. Make a Secchi
+            disk to measure turbidity (how much suspended sedimentation is in
+            the water).  Measure the air temperature. Note the cloud cover and
+            roughness of the water. Show your findings (air and water
+            temperature, turbidity) on a graph. Tell how the water temperature
+            changes with air temperature.
+        workbook:
+            - grid: 30
+            - lines: 8
+      - requirement: d
+        text: |-
+            Make a model showing the inshore sediment movement by littoral
+            currents, tidal movement, and wave action.  Include such formations
+            as high and low waterlines, low-tide terrace, berm, and coastal
+            cliffs. Show how offshore bars are built up and torn down.
+        workbook:
+            - task: true
+      - requirement: e
+        text: |-
+            Make a wave generator. Show reflection and refraction of waves.
+            Show how groins, jetties, and breakwaters affect these patterns.
+        workbook:
+            - task: true
+      - requirement: f
+        text: |-
+            Track and monitor satellite images available on the Internet for a
+            specific location for three weeks.  Describe what you have learned
+            to your counselor.
+        workbook:
+            - lines: 8
+- requirement: 8
+  text: |-
+      Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            Write a 500-word report on a book about oceanography approved by
+            your counselor.
+        workbook:
+            - task: true
+      - requirement: b
+        text: |-
+            Visit one of the following:
+        workbook:
+            - header: true
+              markdown: true
+              text: |-
+                  1. Oceanographic research ship
+
+                  2. Oceanographic institute, marine laboratory, or marine
+                  aquarium
+
+                  Write a 500-word report about your visit.
+            - task: true
+              text: |-
+                  Visited
+            - task: true
+              text: |-
+                  Wrote report
+        children:
+            - requirement: 1
+              text: |-
+                  Oceanographic research ship
+              workbookHide: true
+            - requirement: 2
+              text: |-
+                  Oceanographic institute, marine laboratory, or marine
+                  aquarium
+              workbookHide: true
+            - detail: true
+              text: |-
+                  Write a 500-word report about your visit.
+              workbookHide: true
+      - requirement: c
+        text: |-
+            Explain to your troop in a five-minute prepared speech “Why
+            Oceanography Is Important” or describe “Career Opportunities in
+            Oceanography.” (Before making your speech, show your speech outline
+            to your counselor for approval.)
+        workbook:
+            - task: true
+- requirement: 9
+  text: |-
+      Describe four methods that marine scientists use to investigate the
+      ocean, underlying geology, and organisms living in the water.
+  workbook:
+      - lines: 8
+- detail: true
+  markdown: true
+  text: |-
+      `*` May be done in lakes or streams.

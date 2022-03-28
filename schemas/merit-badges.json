@@ -1,43 +1,41 @@
 {
     "type": "object",
     "additionalProperties": {
+        "type": "object",
+        "properties": {
+            "active": {
+                "type": "boolean"
+            },
+            "name": {
+                "type": "string"
+            },
+            "eagle": {
+                "type": "boolean"
+            },
+            "bucky": {
+                "type": "string"
+            },
+            "image": {
+                "type": "string"
+            }
+        },
+        "additionalProperties": false,
         "oneOf": [
             {
-                "type": "object",
                 "properties": {
                     "active": {
-                        "type": "boolean",
-                        "enum": [ false ]
-                    },
-                    "name": {
-                        "type": "string"
+                        "enum": [false]
                     }
                 },
-                "required": ["active", "name"],
-                "additionalProperties": false
+                "required": ["active", "name"]
             },
             {
-                "type": "object",
                 "properties": {
                     "active": {
-                        "type": "boolean",
-                        "enum": [ true ]
-                    },
-                    "name": {
-                        "type": "string"
-                    },
-                    "eagle": {
-                        "type": "boolean"
-                    },
-                    "bucky": {
-                        "type": "string"
-                    },
-                    "image": {
-                        "type": "string"
+                        "enum": [true]
                     }
                 },
-                "required": ["active", "name", "bucky", "image"],
-                "additionalProperties": false
+                "required": ["active", "name", "bucky", "image"]
             }
         ]
     }

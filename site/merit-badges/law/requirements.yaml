@@ -1,0 +1,174 @@
+- requirement: 1
+  text: |-
+      Define “law.” Tell some of its sources. Describe functions it serves.
+  workbook:
+      - lines: 8
+- requirement: 2
+  text: |-
+      Discuss TWO of the following:
+  children:
+      - requirement: a
+        text: |-
+            Justinian’s Code, the Code of Hammurabi, and the Magna Carta
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            The development of the jury system
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            Two famous trials in history
+        workbook:
+            - lines: 8
+- requirement: 3
+  text: |-
+      Tell what civil law is; tell what criminal law is. Tell the main
+      differences between them. Give examples of each.
+  workbook:
+      - lines: 8
+        text: |-
+            Civil law
+      - lines: 8
+        text: |-
+            Criminal law
+- requirement: 4
+  text: |-
+      Ask five people (not more than one from your immediate family) about the
+      role of law enforcement officers in our society. Discuss their answers
+      with them. Go to a law enforcement officer in your neighborhood and ask
+      about his or her responsibilities and duties. Report your findings.
+  workbook:
+      - lines: 8
+        text: |-
+            First person
+      - lines: 8
+        text: |-
+            Second person
+      - lines: 8
+        text: |-
+            Third person
+      - lines: 8
+        text: |-
+            Fourth person
+      - lines: 8
+        text: |-
+            Fifth person
+      - lines: 8
+        text: |-
+            Law enforcement officer
+- requirement: 5
+  text: |-
+      Tell about several laws that were passed to protect the consumer and the
+      seller. Tell about several organizations that provide help to consumers
+      and sellers.
+  workbook:
+      - lines: 20
+- requirement: 6
+  text: |-
+      Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            Attend a session of a civil or criminal court. Write 250 words or
+            more on what you saw.
+        workbook:
+            - split:
+                  - task: true
+                    text: |-
+                        Attended session
+                  - task: true
+                    text: |-
+                        Wrote report
+      - requirement: b
+        text: |-
+            Plan and conduct a mock trial with your troop or school class.
+            After the trial is over, discuss it with the group.
+        workbook:
+            - split:
+                  - task: true
+                    text: |-
+                        Planned and conducted a mock trial
+                  - task: true
+                    text: |-
+                        Discussed the trial with the group
+- requirement: 7
+  text: |-
+      Arrange a visit with a lawyer who works for a business, bank, title
+      company, or government agency. Find out his or her duties and
+      responsibilities. Report what you have learned.
+  workbook:
+      - lines: 8
+- requirement: 8
+  text: |-
+      Explain the requirements for becoming a lawyer in your state. Describe
+      how judges are selected in your state.
+  workbook:
+      - lines: 8
+- requirement: 9
+  text: |-
+      Make a list of 15 jobs that deal with some aspects of law or legal
+      processes.  Tell which you prefer. Why?
+  workbook:
+      - lines: 20
+- requirement: 10
+  text: |-
+      Tell where people can go to obtain the help of a lawyer if they are
+      unable to pay for one. Tell what you can do if you can afford a lawyer
+      but do not know of any in your area.
+  workbook:
+      - lines: 8
+- requirement: 11
+  text: |-
+      Discuss with your counselor the importance in our society of TWO of the
+      following areas of the law:
+  workbook:
+      - split:
+            - header: true
+              text: |-
+                  a. Environmental law<br />
+                  b. Computers and the internet<br />
+                  c. Copyright and the internet<br />
+                  d. Immigration
+            - header: true
+              text: |-
+                  e. Patents<br />
+                  f. Biotechnology<br />
+                  g. Privacy law<br />
+                  h. International law
+      - lines: 8
+      - lines: 8
+  children:
+      - requirement: a
+        text: |-
+            Environmental law
+        workbookHide: true
+      - requirement: b
+        text: |-
+            Computers and the internet
+        workbookHide: true
+      - requirement: c
+        text: |-
+            Copyright and the internet
+        workbookHide: true
+      - requirement: d
+        text: |-
+            Immigration
+        workbookHide: true
+      - requirement: e
+        text: |-
+            Patents
+        workbookHide: true
+      - requirement: f
+        text: |-
+            Biotechnology
+        workbookHide: true
+      - requirement: g
+        text: |-
+            Privacy law
+        workbookHide: true
+      - requirement: h
+        text: |-
+            International law
+        workbookHide: true

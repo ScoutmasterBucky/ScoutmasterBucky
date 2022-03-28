@@ -2,7 +2,6 @@
 badge: citizenship-in-society
 layout: smb-merit-badge
 workbook: true
+data:
+    requirements: ../requirements.yaml
 ---
-
-
-Sorry, the workbook for the new merit badge does not yet exist.

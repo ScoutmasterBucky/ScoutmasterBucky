@@ -1,0 +1,227 @@
+- requirement: 1
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain to your counselor the most likely hazards associated with
+            gardening and what you should do to anticipate, help prevent,
+            mitigate, and respond to these hazards.
+        workbook:
+            - lines: 8
+              text: |-
+                  Most likely hazards
+            - lines: 8
+              text: |-
+                  Anticipate hazards
+            - lines: 8
+              text: |-
+                  Prevent hazards
+            - lines: 8
+              text: |-
+                  Mitigat hazards
+            - lines: 8
+              text: |-
+                  Respond to hazards
+      - requirement: b
+        text: |-
+            Discuss the prevention of, and treatment for, health concerns that
+            could occur while gardening, including cuts, scratches, puncture
+            wounds, insect bites, anaphylactic shock, heat reactions, and
+            reactions from exposure to pesticides and fertilizers.
+        workbook:
+            - lines: 8
+              text: |-
+                  Cuts
+            - lines: 8
+              text: |-
+                  Scratches
+            - lines: 8
+              text: |-
+                  Puncture wounds
+            - lines: 8
+              text: |-
+                  Insect bites
+            - lines: 8
+              text: |-
+                  Anaphylactic shock
+            - lines: 8
+              text: |-
+                  Heat reactions
+            - lines: 8
+              text: |-
+                  Exposure to pesticides and fertilizers
+- requirement: 2
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Grow six vegetables, three from seeds and three from seedlings,
+            through harvest.
+        workbook:
+            - split:
+                  - task: true
+                    text: |-
+                        Grow three vegetables from seeds through harvest
+                  - task: true
+                    text: |-
+                        Grow three vegetables from seedlings through harvest
+      - requirement: b
+        text: |-
+            Grow six flowers, three from seeds and three from seedlings,
+            through flowering.
+        workbook:
+            - split:
+                  - task: true
+                    text: |-
+                        Grow three flowers from seeds through flowering
+                  - task: true
+                    text: |-
+                        Grow three flowers from seedlings through flowering
+- requirement: 3
+  text: |-
+      Give the nutritional value of the following:
+  children:
+      - requirement: a
+        text: |-
+            Three root or tuber crops
+        workbook:
+            - lines: 8
+            - lines: 8
+            - lines: 8
+      - requirement: b
+        text: |-
+            Three vegetables that bear above ground
+        workbook:
+            - lines: 8
+            - lines: 8
+            - lines: 8
+      - requirement: c
+        text: |-
+            Three fruits
+        workbook:
+            - lines: 8
+            - lines: 8
+            - lines: 8
+- requirement: 4
+  text: |-
+      Test 100 seeds for germination. Determine the percentage of seeds that
+      germinate. Explain why you think some did not germinate.
+  workbook:
+      - lines: 8
+- requirement: 5
+  text: |-
+      Visit your county extension agent’s office, local university agricultural
+      college, nursery, or a botanical garden or arboretum. Report on what you
+      learned.
+  workbook:
+      - lines: 8
+- requirement: 6
+  text: |-
+      Explain to your counselor how and why honey bees are used in pollinating
+      food crops. Discuss the problems facing the bee population today, and
+      tell what you think would be the impact to humanity if there were no
+      pollinators.
+  workbook:
+      - lines: 8
+        text: |-
+            How and why honey bees are used
+      - lines: 8
+        text: |-
+            Problems facing the bee population today
+      - lines: 8
+        text: |-
+            Impact to humanity if there were no pollinators
+- requirement: 7
+  text: |-
+      Identify five garden pests (insects, diseased plants).  Recommend two
+      solutions for each pest. At least one of the two solutions must be an
+      organic method.
+  workbook:
+      - split:
+            - lines: 3
+              text: |-
+                  Pest
+            - lines: 3
+              text: |-
+                  Organic solution
+            - lines: 3
+              text: |-
+                  Any second solution
+      - split:
+            - lines: 3
+            - lines: 3
+            - lines: 3
+      - split:
+            - lines: 3
+            - lines: 3
+            - lines: 3
+      - split:
+            - lines: 3
+            - lines: 3
+            - lines: 3
+      - split:
+            - lines: 3
+            - lines: 3
+            - lines: 3
+- requirement: 8
+  text: |-
+      Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            Build a compost bin and maintain it for 90 days.
+        workbook:
+            - split:
+                  - lines: 1
+                    text: |-
+                        Date started
+                  - lines: 1
+                    text: |-
+                        Date completed
+      - requirement: b
+        text: |-
+            Build a vermipost bin (worm compost bin) and maintain it for 90
+            days.
+        workbook:
+            - split:
+                  - lines: 1
+                    text: |-
+                        Date started
+                  - lines: 1
+                    text: |-
+                        Date completed
+      - requirement: c
+        text: |-
+            Build a hydroponic garden containing three vegetables or herbs, or
+            three ornamental plants. Maintain this garden through harvest or
+            flowering, or for 90 days.
+        workbook:
+            - split:
+                  - lines: 1
+                    text: |-
+                        Date started
+                  - lines: 1
+                    text: |-
+                        Date completed
+      - requirement: d
+        text: |-
+            Build one water garden, either in a container (at least 12 by 6
+            inches and 6 inches deep), or in the ground as a small, decorative
+            pond no larger than 6 by 3 feet and 24 inches deep. Maintain the
+            water garden for 90 days.
+        workbook:
+            - split:
+                  - lines: 2
+                    text: |-
+                        Date started
+                  - lines: 2
+                    text: |-
+                        Date completed
+      - requirement: e
+        text: |-
+            Prepare a honey super for use on a hive or colony. Remove a filled
+            honey super from the hive or colony and prepare the honey for sale.
+        workbook:
+            - task: true

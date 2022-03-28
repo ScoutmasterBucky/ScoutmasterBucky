@@ -1,0 +1,190 @@
+- requirement: 1
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Describe the safety precautions you should take when handling and
+            caring for a horse.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            Describe the fire safety precautions you should take in a barn and
+            around horses.
+        workbook:
+            - lines: 8
+- requirement: 2
+  text: |-
+      Name the 15 main parts of a horse.
+  workbook:
+      - split:
+            - lines: 2
+            - lines: 2
+            - lines: 2
+      - split:
+            - lines: 2
+            - lines: 2
+            - lines: 2
+      - split:
+            - lines: 2
+            - lines: 2
+            - lines: 2
+      - split:
+            - lines: 2
+            - lines: 2
+            - lines: 2
+      - split:
+            - lines: 2
+            - lines: 2
+            - lines: 2
+- requirement: 3
+  text: |-
+      Name four breeds of horses. Explain the special features for which each
+      breed is known.
+  workbook:
+      - lines: 8
+      - lines: 8
+      - lines: 8
+      - lines: 8
+- requirement: 4
+  text: |-
+      Describe the symptoms of colic. Name and describe four other horse health
+      problems.
+  workbook:
+      - lines: 8
+        text: |-
+            Symptoms of colic
+      - lines: 8
+        text: |-
+            First additional health problem name and description
+      - lines: 8
+        text: |-
+            Second additional health problem name and description
+      - lines: 8
+        text: |-
+            Third additional health problem name and description
+      - lines: 8
+        text: |-
+            Fourth additional health problem name and description
+- requirement: 5
+  text: |-
+      Explain what conformation is and why it is important. Explain the
+      difference between lameness and unsoundness.
+  workbook:
+      - lines: 8
+        text: |-
+            Conformation and why it is important
+      - lines: 8
+        text: |-
+            Difference between lameness and unsoundness
+- requirement: 6
+  text: |-
+      Explain the importance of hoof care and why a horse might need to wear
+      shoes.
+  workbook:
+      - lines: 8
+- requirement: 7
+  text: |-
+      Demonstrate how to groom a horse, including picking hooves and caring for
+      a horse after a ride.
+  workbook:
+      - task: true
+- requirement: 8
+  text: |-
+      Explain how to determine what and how much to feed a horse and why the
+      amount and kind of feed are changed according to the activity level and
+      the breed of horse.
+  workbook:
+      - lines: 8
+- requirement: 9
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Name 10 parts of the saddle and bridle that you will use, and
+            explain how to care for this equipment.
+        workbook:
+            - split:
+                  - lines: 2
+                  - lines: 2
+            - split:
+                  - lines: 2
+                  - lines: 2
+            - split:
+                  - lines: 2
+                  - lines: 2
+            - split:
+                  - lines: 2
+                  - lines: 2
+            - split:
+                  - lines: 2
+                  - lines: 2
+      - requirement: b
+        text: |-
+            Show how to properly saddle and bridle a horse.
+        workbook:
+            - task: true
+      - requirement: c
+        text: |-
+            Demonstrate how to safely mount and dismount a horse.
+        workbook:
+            - task: true
+- requirement: 10
+  text: |-
+      Explain and demonstrate how to approach and lead a horse safely from a
+      stall, corral, or field and how to tie the horse securely.
+  workbook:
+      - lines: 8
+        text: |-
+            How to approach and lead a horse safely
+      - split:
+            - task: true
+              text: |-
+                  Demonstrated how to approach and lead a horse safely
+            - task: true
+              text: |-
+                  Demonstrated how to tie the horse securely
+- requirement: 11
+  text: |-
+      On level ground, continuously do the following movements after safely
+      mounting the horse. Do them correctly, at ease, and in harmony with the
+      horse.
+  children:
+      - requirement: a
+        text: |-
+            Walk the horse in a straight line for 60 feet.
+        workbook:
+            - task: true
+      - requirement: b
+        text: |-
+            Walk the horse in a half-circle of not more than 16 feet in radius.
+        workbook:
+            - task: true
+      - requirement: c
+        text: |-
+            Trot or jog the horse in a straight line for 60 feet.
+        workbook:
+            - task: true
+      - requirement: d
+        text: |-
+            Trot or jog the horse in a half-circle of not more than 30 feet in
+            radius.
+        workbook:
+            - task: true
+      - requirement: e
+        text: |-
+            Halt straight.
+        workbook:
+            - task: true
+      - requirement: f
+        text: |-
+            Back up straight four paces.
+        workbook:
+            - task: true
+      - requirement: g
+        text: |-
+            Halt and dismount.
+        workbook:
+            - task: true

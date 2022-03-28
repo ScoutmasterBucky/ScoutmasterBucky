@@ -98,6 +98,7 @@ module.exports = {
             wbLh: "1.2em",
             wbMt: "-1px",
             wbP: "0.25em",
+            workbookLineHeight: "26px",
             whiteGlow:
                 "-2px 0 2px white, 0 -2px 2px white, 2px 0 2px white, 0 2px 2px white"
         }

@@ -2,35 +2,6 @@
 badge: graphic-arts
 layout: smb-merit-badge
 requirements: true
+data:
+    requirements: ./requirements.yaml
 ---
-
-{{#requirements}}
-1. Review with your counselor the processes for producing printed communications: offset lithography, screen printing, electronic/digital, relief, and gravure. Collect samples of three products, each one produced using a different printing process, or draw diagrams to help you with your description.
-    {{#note type="inPerson" type2="online"}}Scouts will find the use of the merit badge pamphlet to be extremely helpful in preparing for the components of this requirement.  It is strongly recommended that Scouts utilize a merit badge workbook to help organize their notes and findings for reference during class discussion. Active participation in the class discussion is necessary for consideration in being signed off on this requirement.  Scouts should also remember to bring their three samples or diagrams to aide them in their discussion and in order to successfully complete the entire requirement.  Scouts not attending with samples or diagrams may find it difficult to complete this requirement at the class, so to ensure the highest probability of getting signed off on this requirement, remember to bring your samples or diagrams.{{/note}}
-2. Explain the differences between continuous tone, line, and halftone artwork. Describe how digital images can be created and/or stored in a computer.
-    {{#note type="inPerson" type2="online"}}While the merit badge counselor will help facilitate some educational components on this requirement, Scouts should review the merit badge pamphlet for a better understanding coming into the class.  Scouts will be expected to be able to clearly and accurately share with the counselor through explanation their understanding of this requirement during the class based on their preparation work and what the counselor shares and educates them with.{{/note}}
-3. Design a printed piece (flier, T-shirt, program, form, etc.) and produce it. Explain your decisions for the typeface or typefaces you use and the way you arrange the elements in your design. Explain which printing process is best suited for printing your design. If desktop publishing is available, identify what hardware and software would be appropriate for outputting your design.
-    {{#note type="inPerson" type2="online"}}This requirement is best done prior to the class, or at least the design part of the requirement.  The emphasis of this requirement is to understand the process of creating such a design.  It has been found that Scouts coming to the class with their design already conceptualized and designed have a far better chance of completing this requirement then Scouts who attend not having even started on this requirement.  While time will be allotted in the class for some design work, it cannot be guaranteed that Scouts not coming to class with their deign in-hand will fully complete this requirement. It is best to have this one ready prior to the class to insure the highest probability for completion.{{/note}}
-4. Produce the design you created for requirement 3 using one of the following printing processes:
-    **(a)** **Offset lithography**
-        Make a layout, and produce a plate using a process approved by your counselor. Run the plate and print at least 50 copies.
-    **(b)** **Screen printing**
-        Make a hand-cut or photographic stencil and attach it to a screen that you have prepared. Mask the screen and print at least 20 copies.
-    **(c)** **Electronic/digital printing**
-        Create a layout in electronic form, download it to the press or printer, and run 50 copies. If no electronic interface to the press or printer is available, you may print and scan a paper copy of the layout.
-    **(d)** **Relief printing**
-        Prepare a layout or set the necessary type. Make a plate or lock up the form. Use this to print 50 copies.
-    {{#note type="inPerson" type2="online"}}This requirement will NOT be done in the class.  Scouts may choose to complete this requirement ahead of time or complete this after the class. The class will focus some time for discussion of this requirement as well as the sharing of each Scouts work. to support their completion of this requirement. Only Scouts that share their work to the satisfaction of the counselor will have an opportunity to complete this requirement during the class. Scouts not having the resources or know how to complete this requirement will be guided by the counselor to options and opportunities they may do after the class in order to complete the requirement and its components.{{/note}}
-5. Review the following postpress operations with your counselor:
-    (a) Discuss the finishing operations of padding, drilling, cutting, and trimming.
-    (b) Collect, describe, or identify examples of the following types of binding: perfect, spiral, plastic comb, saddle-stitched, and case.
-    {{#note type="inPerson" type2="online"}}Scouts will find much of the information necessary for completing this requirement and its components in the Graphic Arts Merit Badge pamphlet.  Scouts should review this part of the pamphlet to arrive at the class with an understanding for the postpress operations.  Scouts should also consider the action requirements for 5b and be ready to share their collected examples, or describe examples of different types of binding.  The merit badge counselor will aide in some basic educational support to assist Scouts that have prepared in completion this requirement and its components.  Only Scouts that actively participate in the group discussion will be considered for sign off on this requirement and its components.{{/note}}
-6. Do ONE of the following, and then describe the highlights of your visit:
-    (a) Visit a newspaper printing plant: Follow a story from the editor to the press.
-    (b) Visit a retail, commercial, or in-plant printing facility. Follow a project from beginning to end.
-    (c) Visit a school’s graphic arts program. Find out what courses are available and what the prerequisites are.
-    (d) Visit three websites (with your parent’s permission) that belong to graphic arts professional organizations and/or printing-related companies (suppliers, manufacturers, printers). With permission from your parent or counselor, print out or download product or service information from two of the sites.
-    {{#note type="inPerson" type2="online"}}This requirement can NOT be completely covered in the class HOWEVER time will be allotted for those Scouts who have visited one of the identified component items of this requirement to share their highlights of their visit with the counselor and class.  Most Scouts will find requirement 6d easiest to complete.{{/note}}
-7. Find out about three career opportunities in graphic arts. Pick one and find out the education, training, and experience required for this profession. Discuss this with your counselor, and explain why this profession might interest you.
-    {{#note type="inPerson" type2="online"}}Scouts should review this requirement and its components and be prepared to discuss.  It is strongly recommended that Scouts bring any notes or supporting documents they may have to help show the counselor that they have prepared for discussion of these items.{{/note}}
-{{/requirements}}

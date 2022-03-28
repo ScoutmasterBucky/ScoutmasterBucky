@@ -1,0 +1,225 @@
+- requirement: 1
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain to your counselor the most likely hazards you may encounter
+            while participating in fishing activities, and what you should do
+            to anticipate, help prevent, mitigate, and respond to these
+            hazards.
+        workbook:
+            - lines: 8
+              text: |-
+                  Most likely hazards
+            - lines: 8
+              text: |-
+                  Anticipate hazards
+            - lines: 8
+              text: |-
+                  Prevent hazards
+            - lines: 8
+              text: |-
+                  Mitigate hazards
+            - lines: 8
+              text: |-
+                  Respond to hazards
+      - requirement: b
+        text: |-
+            Discuss the prevention of and treatment for the following health
+            concerns that could occur while fishing, including cuts and
+            scratches, puncture wounds, insect bites, hypothermia, dehydration,
+            heat exhaustion, heatstroke, and sunburn.
+        workbook:
+            - lines: 8
+              text: |-
+                  Cuts and scratches
+            - lines: 8
+              text: |-
+                  Puncture wounds
+            - lines: 8
+              text: |-
+                  Insect bites
+            - lines: 8
+              text: |-
+                  Hypothermia
+            - lines: 8
+              text: |-
+                  Dehydration
+            - lines: 8
+              text: |-
+                  Heat exhaustion
+            - lines: 8
+              text: |-
+                  Heatstroke
+            - lines: 8
+              text: |-
+                  Sunburn
+      - requirement: c
+        text: |-
+            Explain how to remove a hook that has lodged in your arm.
+        workbook:
+            - lines: 8
+      - requirement: d
+        text: |-
+            Name and explain five safety practices you should always follow
+            while fishing.
+        workbook:
+            - lines: 8
+- requirement: 2
+  text: |-
+      Discuss the differences between two types of fishing outfits.  Point out
+      and identify the parts of several types of rods and reels. Explain how
+      and when each would be used. Review with your counselor how to care for
+      this equipment.
+  workbook:
+      - lines: 8
+        text: |-
+            Differences between two types of fishing outfits
+      - task: true
+        text: |-
+            Identified parts of several types of rods and reels, explaining how
+            and when each would be used
+      - lines: 8
+        text: |-
+            How to care for this equipment
+- requirement: 3
+  text: |-
+      Demonstrate the proper use of two different types of fishing equipment.
+  workbook:
+      - split:
+            - task: true
+              text: |-
+                  Demonstrated the proper use of first type of fishing
+                  equipment
+            - task: true
+              text: |-
+                  Demonstrated the proper use of second type of fishing
+                  equipment
+- requirement: 4
+  text: |-
+      Demonstrate how to tie the following knots: improved clinch knot, Palomar
+      knot, uni knot, uni to uni knot, and arbor knot. Explain how and when
+      each knot is used.
+  workbook:
+      - split:
+            - header: true
+              text: |-
+                  Demonstrated tying
+            - header: true
+              text: |-
+                  How and when the knot is used
+      - split:
+            - task: true
+              text: |-
+                  Improved clinch knot
+            - lines: 2
+      - split:
+            - task: true
+              text: |-
+                  Palomar knot
+            - lines: 2
+      - split:
+            - task: true
+              text: |-
+                  Uni knot
+            - lines: 2
+      - split:
+            - task: true
+              text: |-
+                  Uni to uni knot
+            - lines: 2
+      - split:
+            - task: true
+              text: |-
+                  Arbor knot
+            - lines: 2
+- requirement: 5
+  text: |-
+      Name and identify five basic artificial lures and five natural baits and
+      explain how to fish with them. Explain why baitfish are not to be
+      released.
+  workbook:
+      - header: true
+        text: |-
+            Five basic artificial lures and how to fish with them
+      - lines: 4
+      - lines: 4
+      - lines: 4
+      - lines: 4
+      - lines: 4
+      - header: true
+        text: |-
+            Five natural baits and how to fish with them
+      - lines: 4
+      - lines: 4
+      - lines: 4
+      - lines: 4
+      - lines: 4
+      - lines: 8
+        text: |-
+            Why baitfish are not to be released
+- requirement: 6
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain the importance of practicing Leave No Trace techniques.
+            Discuss the positive effects of Leave No Trace on fishing
+            resources.
+        workbook:
+            - lines: 8
+              text: |-
+                  Importance of practicing Leave No Trace techniques
+            - lines: 8
+              text: |-
+                  Positive effects of Leave No Trace on fishing resources
+      - requirement: b
+        text: |-
+            Discuss the meaning and importance of catch and release.  Describe
+            how to properly release a fish safely to the water.
+        workbook:
+            - lines: 8
+              text: |-
+                  Meaning and importance of catch and release
+            - lines: 8
+              text: |-
+                  How to properly release a fish safely to the water
+- requirement: 7
+  text: |-
+      Obtain and review the regulations affecting game fishing where you live.
+      Explain why they were adopted and what is accomplished by following them.
+  workbook:
+      - lines: 8
+- requirement: 8
+  text: |-
+      Explain what good outdoor sportsmanlike behavior is and how it relates to
+      anglers. Tell how the Outdoor Code of the Boy Scouts of America relates
+      to a fishing sports enthusiast, including the aspects of littering,
+      trespassing, courteous behavior, and obeying fishing regulations.
+  workbook:
+      - lines: 8
+        text: |-
+            Good outdoor sportsmanlike behavior and how it relates to anglers
+      - lines: 8
+        text: |-
+            How the Outdoor Code of the Boy Scouts of America relates to a
+            fishing sports enthusiast
+- requirement: 9
+  text: |-
+      Catch at least one fish and identify it.
+  workbook:
+      - split:
+            - task: true
+            - lines: 2
+              text: |-
+                  Type of fish
+- requirement: 10
+  text: |-
+      If regulations and health concerns permit, clean and cook a fish you have
+      caught. If you are unable to catch a fish for eating, acquire a fish,
+      clean the fish you acquired, and cook the fish you acquired. (It is not
+      required that you eat the fish.)
+  workbook:
+      - task: true
