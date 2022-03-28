@@ -1,0 +1,498 @@
+- requirement: 1
+  text: |-
+      Demonstrate to your counselor that you have current knowledge of all
+      first-aid requirements for Tenderfoot, Second Class, and First Class
+      ranks.
+  workbook:
+      - task: true
+- requirement: 2
+  text: |-
+      Explain how you would obtain emergency medical assistance from:
+  children:
+      - requirement: a
+        text: |-
+            Your home
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            A remote location on a wilderness camping trip
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            An activity on open water
+        workbook:
+            - lines: 8
+- requirement: 3
+  markdown: true
+  text: |-
+      Define the term *triage*. Explain the steps necessary to assess and
+      handle a medical emergency until help arrives.
+  workbook:
+      - lines: 8
+        text: |-
+            Define triage
+      - lines: 8
+        text: |-
+            Steps necessary to assess and handle a medical emergency
+- requirement: 4
+  text: |-
+      Explain the standard precautions as applied to the transmission of
+      infections. Discuss the ways you should protect yourself and the victim
+      while administering first aid.
+  workbook:
+      - lines: 8
+        text: |-
+            Standard precautions as applied to the transmission of infections
+      - lines: 8
+        text: |-
+            Ways you should protect yourself and the victim while administering
+            first aid
+- requirement: 5
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Prepare a first-aid kit for your home. Display and discuss its
+            contents with your counselor.
+        workbook:
+            - task: true
+              text: |-
+                  Prepared a first-aid kit for your home
+            - lines: 8
+      - requirement: b
+        text: |-
+            With an adult leader, inspect your troop’s first-aid kit. Evaluate
+            it for completeness. Report your findings to your counselor and
+            Scout leader.
+        workbook:
+            - task: true
+              text: |-
+                  Inspected your troop's first-aid kit and evaluated it for
+                  completeness
+            - lines: 8
+- requirement: 6
+  text: |-
+      Describe the early signs and symptoms of each of the following and
+      explain what actions you should take:
+  workbook:
+      - lines: 8
+        text: |-
+            a. Shock
+      - lines: 8
+        text: |-
+            b. Heart attack
+      - lines: 8
+        text: |-
+            c. Stroke
+  children:
+      - requirement: a
+        text: |-
+            Shock
+        workbookHide: true
+      - requirement: b
+        text: |-
+            Heart attack
+        workbookHide: true
+      - requirement: c
+        text: |-
+            Stroke
+        workbookHide: true
+- requirement: 7
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Describe the conditions that must exist before performing CPR on a
+            person. Then demonstrate proper CPR technique using a training
+            device approved by your counselor.
+        workbook:
+            - lines: 8
+              text: |-
+                  Conditions that must exist
+            - task: true
+              text: |-
+                  Demonstrated proper CPR technique
+      - requirement: b
+        text: |-
+            Explain the use of an automated external defibrillator (AED).
+            Identify the location of the AED at your school, place of worship,
+            and troop meeting place, if one is present.
+        workbook:
+            - lines: 8
+              text: |-
+                  The use of an automated external defibrillator
+            - split:
+                  - task: true
+                    text: |-
+                        Identified location of AED at your school, if one is
+                        present
+                  - task: true
+                    text: |-
+                        Identified location of AED at your place of worship, if
+                        one is present
+                  - task: true
+                    text: |-
+                        Identified location of AED at your troop meeting place,
+                        if one is present
+- requirement: 8
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Show the steps that need to be taken for someone who has a large
+            open wound or cut that is not bleeding severely.
+        workbook:
+            - task: true
+      - requirement: b
+        text: |-
+            Show the steps that need to be taken for someone who has a large
+            open wound or cut that is severely bleeding.
+        workbook:
+            - task: true
+      - requirement: c
+        text: |-
+            Explain when it is appropriate and not appropriate to use a
+            tourniquet. List some of the benefits and dangers of the use of a
+            tourniquet.
+        workbook:
+            - lines: 8
+              text: |-
+                  When it is appropriate and not appropriate to use a
+                  tourniquet
+            - lines: 8
+              text: |-
+                  Benefits and dangers of the use of a tourniquet
+      - requirement: d
+        text: |-
+            Describe the proper application of a tourniquet.
+        workbook:
+            - lines: 8
+- requirement: 9
+  text: |-
+      Explain when a bee sting could be life threatening and what action should
+      be taken for prevention and for first aid.
+  workbook:
+      - lines: 8
+        text: |-
+            When a bee sting could be life threatening
+      - lines: 8
+        text: |-
+            What actions should be taken for prevention
+      - lines: 8
+        text: |-
+            What actions should be taken for first aid
+- requirement: 10
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Describe the signs and symptoms of an open or closed fracture or
+            dislocation.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            Explain what measures should be taken to reduce the likelihood of
+            further complications of fractures and dislocations.
+        workbook:
+            - lines: 8
+- requirement: 11
+  # Lowercased "fingers"  in c for consistency
+  text: |-
+      Demonstrate the proper procedures for handling and immobilizing suspected
+      closed or open fractures or dislocations of the
+  workbook:
+      - split:
+            - task: true
+              text: |-
+                  a. Forearm
+            - task: true
+              text: |-
+                  b. Wrist
+            - task: true
+              text: |-
+                  c. Hand and fingers
+      - split:
+            - task: true
+              text: |-
+                  Upper leg
+            - task: true
+              text: |-
+                  Lower leg
+            - task: true
+              text: |-
+                  Ankle
+  children:
+      - requirement: a
+        text: |-
+            Forearm
+        workbookHide: true
+      - requirement: b
+        text: |-
+            Wrist
+        workbookHide: true
+      - requirement: c
+        text: |-
+            Hand and fingers
+        workbookHide: true
+      - requirement: d
+        text: |-
+            Upper leg
+        workbookHide: true
+      - requirement: e
+        text: |-
+            Lower leg
+        workbookHide: true
+      - requirement: f
+        text: |-
+            Ankle
+        workbookHide: true
+- requirement: 12
+  text: |-
+      Describe the signs and symptoms, proper first-aid procedures, and
+      possible prevention measures for the following conditions:
+  children:
+      - requirement: a
+        text: |-
+            Anaphylaxis/allergic reactions
+        workbook:
+            - lines: 8
+              text: |-
+                  Signs and symptoms
+            - lines: 8
+              text: |-
+                  Proper first-aid procedures
+            - lines: 8
+              text: |-
+                  Possible prevention measures
+      - requirement: b
+        text: |-
+            Asthma attack
+        workbook:
+            - lines: 8
+              text: |-
+                  Signs and symptoms
+            - lines: 8
+              text: |-
+                  Proper first-aid procedures
+            - lines: 8
+              text: |-
+                  Possible prevention measures
+      - requirement: c
+        text: |-
+            Bruises
+        workbook:
+            - lines: 8
+              text: |-
+                  Signs and symptoms
+            - lines: 8
+              text: |-
+                  Proper first-aid procedures
+            - lines: 8
+              text: |-
+                  Possible prevention measures
+      - requirement: d
+        text: |-
+            Sprains or strains
+        workbook:
+            - lines: 8
+              text: |-
+                  Signs and symptoms
+            - lines: 8
+              text: |-
+                  Proper first-aid procedures
+            - lines: 8
+              text: |-
+                  Possible prevention measures
+      - requirement: e
+        text: |-
+            Hypothermia
+        workbook:
+            - lines: 8
+              text: |-
+                  Signs and symptoms
+            - lines: 8
+              text: |-
+                  Proper first-aid procedures
+            - lines: 8
+              text: |-
+                  Possible prevention measures
+      - requirement: f
+        text: |-
+            Frostbite
+        workbook:
+            - lines: 8
+              text: |-
+                  Signs and symptoms
+            - lines: 8
+              text: |-
+                  Proper first-aid procedures
+            - lines: 8
+              text: |-
+                  Possible prevention measures
+      - requirement: g
+        text: |-
+            Burns—first, second, and third degree
+        workbook:
+            - lines: 8
+              text: |-
+                  Signs and symptoms
+            - lines: 8
+              text: |-
+                  Proper first-aid procedures
+            - lines: 8
+              text: |-
+                  Possible prevention measures
+      - requirement: h
+        text: |-
+            Concussion
+        workbook:
+            - lines: 8
+              text: |-
+                  Signs and symptoms
+            - lines: 8
+              text: |-
+                  Proper first-aid procedures
+            - lines: 8
+              text: |-
+                  Possible prevention measures
+      - requirement: i
+        text: |-
+            Convulsions/seizures
+        workbook:
+            - lines: 8
+              text: |-
+                  Signs and symptoms
+            - lines: 8
+              text: |-
+                  Proper first-aid procedures
+            - lines: 8
+              text: |-
+                  Possible prevention measures
+      - requirement: j
+        text: |-
+            Someone who is unconscious
+        workbook:
+            - lines: 8
+              text: |-
+                  Signs and symptoms
+            - lines: 8
+              text: |-
+                  Proper first-aid procedures
+            - lines: 8
+              text: |-
+                  Possible prevention measures
+      - requirement: k
+        text: |-
+            Dehydration
+        workbook:
+            - lines: 8
+              text: |-
+                  Signs and symptoms
+            - lines: 8
+              text: |-
+                  Proper first-aid procedures
+            - lines: 8
+              text: |-
+                  Possible prevention measures
+      - requirement: l
+        text: |-
+            Muscle cramps
+        workbook:
+            - lines: 8
+              text: |-
+                  Signs and symptoms
+            - lines: 8
+              text: |-
+                  Proper first-aid procedures
+            - lines: 8
+              text: |-
+                  Possible prevention measures
+      - requirement: m
+        text: |-
+            Heat exhaustion
+        workbook:
+            - lines: 8
+              text: |-
+                  Signs and symptoms
+            - lines: 8
+              text: |-
+                  Proper first-aid procedures
+            - lines: 8
+              text: |-
+                  Possible prevention measures
+      - requirement: n
+        text: |-
+            Heat stroke
+        workbook:
+            - lines: 8
+              text: |-
+                  Signs and symptoms
+            - lines: 8
+              text: |-
+                  Proper first-aid procedures
+            - lines: 8
+              text: |-
+                  Possible prevention measures
+      - requirement: o
+        text: |-
+            Abdominal pain
+        workbook:
+            - lines: 8
+              text: |-
+                  Signs and symptoms
+            - lines: 8
+              text: |-
+                  Proper first-aid procedures
+            - lines: 8
+              text: |-
+                  Possible prevention measures
+      - requirement: p
+        text: |-
+            Broken, chipped, or loosened tooth
+        workbook:
+            - lines: 8
+              text: |-
+                  Signs and symptoms
+            - lines: 8
+              text: |-
+                  Proper first-aid procedures
+            - lines: 8
+              text: |-
+                  Possible prevention measures
+- requirement: 13
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Describe the conditions under which an injured person should be
+            moved.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            If a sick or an injured person must be moved, tell how you would
+            determine the best method.  Demonstrate this method.
+        workbook:
+            - lines: 8
+            - task: true
+              text: |-
+                  Demonstrated this method
+      - requirement: c
+        text: |-
+            With helpers under your supervision, improvise a stretcher and move
+            a presumably unconscious person.
+        workbook:
+            - task: true
+- requirement: 14
+  text: |-
+      Teach another Scout a first-aid skill selected by your counselor.
+  workbook:
+      - task: true
