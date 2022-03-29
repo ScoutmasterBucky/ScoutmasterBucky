@@ -1,0 +1,282 @@
+- requirement: 1
+  text: |-
+      Describe the safety precautions you must exercise when using, building,
+      altering, or repairing electronic devices.
+  workbook:
+      - lines: 8
+  children:
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts will want to prepare by reviewing the Electronics Merit Badge
+            pamphlet so that they are able to describe the different safety
+            precautions necessary per the requirement.  It is strongly recommended
+            that Scouts utilize a Merit Badge Workbook or a notebook to take notes
+            to reference at the class when completing this requirement during the
+            class.
+- requirement: 2
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Draw a simple schematic diagram. It must show resistors,
+            capacitors, and transistors or integrated circuits. Use the correct
+            symbols. Label all parts.
+        workbook:
+            - grid: 30
+      - requirement: b
+        text: |-
+            Tell the purpose of each part.
+        workbook:
+            - lines: 8
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts will want to review the Electronic Merit Badge pamphlet prior
+            to the class and make a best attempt at a simple schematic drawing.
+            The class will go over these items, however it should not be expected
+            by anyone that a Scout attending who has not reviewed and made an
+            attempt prior to the class for this requirement, will complete this
+            as a part of the class.  A base understanding is needed in order to
+            complete this requirement.  Preparation is a must.
+- requirement: 3
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Show the right way to solder and desolder.
+        workbook:
+            - task: true
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  This requirement will be covered in the class.
+      - requirement: b
+        text: |-
+            Show how to avoid heat damage to electronic components.
+        workbook:
+            - task: true
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  Scouts should come prepared with an idea of how to show they
+                  understand this requirement.  There will be time allotted in the
+                  class to review this requirement.
+      - requirement: c
+        text: |-
+            Tell about the function of a printed circuit board.  Tell what
+            precautions should be observed when soldering printed circuit
+            boards.
+        workbook:
+            - lines: 8
+              text: |-
+                  Function of a printed circuit board
+            - lines: 8
+              text: |-
+                  What precautions should be observed when soldering printed
+                  circuit boards
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  While this requirement will be covered in the class it is
+                  strongly recommended that Scouts come prepared with an
+                  understanding of the requirement.  This information can easily be
+                  found in the Electronics Merit Badge pamphlet.  Scouts may want
+                  to take notes for reference to aid them in their discussion with
+                  the merit badge counselor.
+- requirement: 4
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Discuss each of the following with your merit badge counselor:
+        children:
+            - requirement: i
+              text: |-
+                  How to use electronics for a control purpose
+              workbook:
+                  - lines: 8
+            - requirement: ii
+              text: |-
+                  The basic principles of digital techniques
+              workbook:
+                  - lines: 8
+            - requirement: iii
+              text: |-
+                  How to use electronics for three different audio applications
+              workbook:
+                  - lines: 8
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  Requirement 4a will be covered in the class.  Scouts should
+                  come prepared having reviewed the merit badge pamphlet for
+                  information on each of these and be ready for discussion.
+      - requirement: b
+        text: |-
+            Show how to change three decimal numbers into binary numbers and
+            three binary numbers into decimal numbers.
+        workbook:
+            - task: true
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  This requirement will be covered in the class.
+      - requirement: c
+        text: |-
+            Choose ONE of the following three projects. For your project, find
+            or create a schematic diagram. To the best of your ability, explain
+            to your counselor how the circuit you built operates.
+        workbook:
+            - header: true
+              text: |-
+                  i. A control device<br/>
+                  ii. A digital circuit<br/>
+                  iii. An audio circuit
+            - split:
+                  - lines: 2
+                    text: |-
+                        Selected project
+                  - task: true
+                    text: |-
+                        Found or created a schematic diagram
+            - lines: 8
+              text: |-
+                  How the circuit you built operates
+        children:
+            - requirement: i
+              text: |-
+                  A control device
+              workbookHide: true
+            - requirement: ii
+              text: |-
+                  A digital circuit
+              workbookHide: true
+            - requirement: iii
+              text: |-
+                  An audio circuit
+              workbookHide: true
+            - note:
+                  - inPerson
+              text: |-
+                  All three of these components of Requirement 4c will be
+                  covered in the class.  Scouts should come prepared having
+                  reviewed the merit badge pamphlet for information on each of
+                  these and be ready for discussion.  The counselor will choose
+                  one of these components to do as a class activity.
+            - note:
+                  - online
+              text: |-
+                  Scouts will need to choose one of the options in this
+                  reqirement component and come to the class with their work
+                  ready to share and be reviewed by the counselor / instructor.
+                  If the work does not meet the satisfaction of the counselor,
+                  Scouts will be directed as to what they need to do in order
+                  to complete this requirement to the counselor's satisfaction
+                  after the class.
+- requirement: 5
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Show how to solve a simple problem involving current, voltage, and
+            resistance using Ohm’s law.
+        workbook:
+            - lines: 8
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  Scouts should review these terms and their meanings and
+                  application for use during the class.   This component of
+                  Requirement 5 will be completed as a part of the activities
+                  in the class.  Only Scouts showing they have prepared and
+                  possess an understanding of these terms and their
+                  application, should expect to be able to complete this part
+                  of Requirement 5 in the class.
+      - requirement: b
+        text: |-
+            Tell about the need for and the use of test equipment in
+            electronics. Name three types of test equipment.  Tell how they
+            operate.
+        workbook:
+            - lines: 8
+              text: |-
+                  The need for and the use of test equipment in electronics
+            - lines: 8
+              text: |-
+                  First type of test equipment and how it operates
+            - lines: 8
+              text: |-
+                  Second type of test equipment and how it operates
+            - lines: 8
+              text: |-
+                  Third type of test equipment and how it operates
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  Scouts will find it easy to prepare for this requirement
+                  through the use of the Electronics Merit Badge pamphlet.  It
+                  is recommended that Scouts use a notebook to make notes of
+                  their findings so they can easily share and partake in the
+                  discussion during the class.  Only Scouts that can show they
+                  have done preparation work for this requirement will be
+                  signed off.  Scouts that show up that have not prepared will
+                  NOT be signed off on this part of the requirement.
+      - requirement: c
+        text: |-
+            Demonstrate to your counselor how to read the colored bands of a
+            resistor to determine its resistance value.
+        workbook:
+            - task: true
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  Scouts will be given and opportunity to demonstrate their
+                  knowledge and ability during the class.  Scouts should plan
+                  on bringing any necessary items to aid them in their
+                  demonstration.
+- requirement: 6
+  text: |-
+      Find out about three career opportunities in electronics that interest
+      you. Discuss with and explain to your counselor what training and
+      education are needed for each position.
+  workbook:
+      - lines: 8
+        text: |-
+            Training and education needed for first career
+      - lines: 8
+        text: |-
+            Training and education needed for second career
+      - lines: 8
+        text: |-
+            Training and education needed for third career
+  children:
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts should review this requirement and its components and be
+            prepared to discuss.  It is strongly recommended that Scouts bring
+            any notes or supporting documents they may have to help show the
+            counselor that they have prepared for discussion on these items.
