@@ -1,0 +1,374 @@
+- note:
+      - online
+      - inPerson
+  text: |-
+      <b><i><font color="red">Note:</font color><font color="purple"> This
+      merit badge requires a lot of explanation and discussion in order to
+      complete most requirements.  This class is structured to offer
+      explanation and discussion time for Scouts in a small group setting to
+      offer both learning and earning opportunity.</font color><font
+      color="red"> Scouts MUST come to the class with preparation work in order
+      to successfully complete these requirements.</font color><font
+      color="purple"> It will be nearly impossible for Scouts who do not have
+      preparation work done to successfully partake in the group discussions or
+      provide acceptable explanation if they do not have prior knowledge of the
+      requirements and answers prior to the class.</font color></i></b>
+- requirement: 1
+  text: |-
+      Discuss with your counselor what citizenship in the community means and
+      what it takes to be a good citizen in your community.  Discuss the
+      rights, duties, and obligations of citizenship, and explain how you can
+      demonstrate good citizenship in your community, Scouting unit, place of
+      worship, or school.
+  workbook:
+      - lines: 8
+        text: |-
+            What citizenship in the community means
+      - lines: 8
+        text: |-
+            What it takes to be a good citizen in your community
+      - lines: 8
+        text: |-
+            Rights, duties, and obligations of citizenship
+      - lines: 8
+        text: |-
+            Explain how you can demonstrate good citizenship
+  children:
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts should be prepared prior to the class. They should consider
+            having this written out to show the counselor that some thought and
+            research has gone into this requirement and Scouts should be
+            prepared to discuss their findings. Scouts will not automatically
+            be signed off on this requirement just for attending as the
+            requirement states that they must discuss a number of items and
+            will be required to partake in group and/or individual discussion
+            to obtain credit.
+- requirement: 2
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            On a map of your community or using an electronic device, locate
+            and point out the following:
+        workbook:
+            - task: true
+              text: |-
+                  1. Chief government buildings such as your city hall, county
+                  courthouse, and public works/services facilities
+            - task: true
+              text: |-
+                  2. Fire station, police station, and hospital nearest your
+                  home
+            - task: true
+              text: |-
+                  3. Parks, playgrounds, recreation areas, and trails
+            - task: true
+              text: |-
+                  4. Historical or other points of interest
+        children:
+            - requirement: 1
+              text: |-
+                  Chief government buildings such as your city hall, county
+                  courthouse, and public works/services facilities
+              workbookHide: true
+            - requirement: 2
+              text: |-
+                  Fire station, police station, and hospital nearest your home
+              workbookHide: true
+            - requirement: 3
+              text: |-
+                  Parks, playgrounds, recreation areas, and trails
+              workbookHide: true
+            - requirement: 4
+              text: |-
+                  Historical or other points of interest
+              workbookHide: true
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  Scouts should be prepared to share their findings with the
+                  class and should be prepared with this requirement prior to
+                  the class. Scouts should come with their map; a fold out map
+                  of their community or one printed out (detailed size) from
+                  the Internet. Scouts need to make sure they have components
+                  from all four requirements in 2a marked on the map.
+      - requirement: b
+        text: |-
+            Chart the organization of your local or state government.  Show the
+            top offices and tell whether they are elected or appointed.
+        workbook:
+            - grid: 39
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  For requirement 2b, Scouts may choose either their local or
+                  state government to outline. It is preferred if Scouts would
+                  choose their local government as class discussion will
+                  include a discussion component comparing the similarities and
+                  differences between local governments of each participant.
+- requirement: 3
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Attend a meeting of your city, town, or county council or school
+            board; OR attend a municipal, county, or state court session.
+        workbook:
+            - task: true
+      - requirement: b
+        text: |-
+            Choose one of the issues discussed at the meeting where a
+            difference of opinions was expressed, and explain to your counselor
+            why you agree with one opinion more than you do another one.
+        workbook:
+            - lines: 8
+      - note:
+            - inPerson
+            - online
+        text: |-
+            While most counselors would prefer you do requirement 3a in person,
+            reviewing a cable broadcast of one of these meetings is also
+            acceptable. Scouts should come prepared to discuss their findings
+            with the counselor and the class. Make sure to include the date,
+            time, place of the meeting with any notes.
+- requirement: 4
+  text: |-
+      Choose an issue that is important to the citizens of your community; then
+      do the following:
+  workbook:
+      - lines: 8
+        text: |-
+            An issue that is important to the citizens of your community
+  children:
+      - requirement: a
+        text: |-
+            Find out which branch of local government is responsible for this
+            issue.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            With your counselor’s and a parent’s approval, interview one person
+            from the branch of government you identified in requirement 4a. Ask
+            what is being done about this issue and how young people can help.
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            Share what you have learned with your counselor.
+        workbook:
+            - task: true
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts should review this requirement and its components and be
+            prepared to discuss. It is strongly recommended that Scouts bring
+            any notes or supporting documents they may have to help show the
+            counselor that they have prepared for discussion of these items.
+            Requirement 4B may be done prior to or after the class, however,
+            sign off will only be done after completion of the entire
+            requirement.
+- requirement: 5
+  text: |-
+      With the approval of your counselor and a parent, watch a movie that
+      shows how the actions of one individual or group of individuals can have
+      a positive effect on a community.  Discuss with your counselor what you
+      learned from the movie about what it means to be a valuable and concerned
+      member of the community.
+  workbook:
+      - split:
+            - lines: 2
+              text: |-
+                  Movie chosen
+            - task: true
+              text: |-
+                  Counselor approved
+      - signature: Parent
+        checkbox: Movie Approved
+      - lines: 8
+  children:
+      - note:
+            - inPerson
+            - online
+        markdown: true
+        text: |-
+            Scouts may choose a movie to watch and prepare their work for
+            review by the Counselor. Wise movie selection is important.  Some
+            movies that have been approved by many Counselors in the past
+            include:
+
+            <div class="Cc(3) Cc(2)--m Cc(1)--s">
+
+            * 12 Angry Men
+            * A Bug's Life
+            * Avatar
+            * Boycott
+            * Coach Carter
+            * Erin Brockovich
+            * Follow Me Boys
+            * Footloose
+            * Forrest Gump
+            * Gandhi
+            * Going My Way
+            * Hoosiers
+            * Hoot
+            * It's A Wonderful Life
+            * Lean On Me
+            * The Majestic
+            * The Mighty Ducks
+            * Miracle
+            * Mr Holland's Opus
+            * October Sky
+            * Pay It Forward
+            * Radio
+            * Ready Player One
+            * Remember the Titans
+            * The Right Stuff
+            * Spartacus
+            * Stand and Deliver
+            * Star Wars IV - A New Hope
+            * Take the Lead
+            * To Kill a Mockingbird
+
+            </div>
+
+            Please note that while all of these movies have been used in other
+            Citizenship in the Community classes, Scouts, parents, and
+            Counselors vary and may find some of these choices not to their
+            liking.  Please review the movie rating and summary prior to
+            selecting one of these movies.
+
+            Scouts will find that most Counselors will accept one of these
+            listed movies for completion of this requirement.  Scouts should
+            make thorough notes to aid them in their discussion with the
+            Counselor during the class.
+
+            ***A movie will be presented as a part of this class for those
+            Scouts who attend not having this requirement ready for review by
+            the counselor. Scouts will be encouraged to view the movie if they
+            have not prepared for this requirement or their previous work does
+            not meet the satisfaction of the counselor.***
+- requirement: 6
+  text: |-
+      List some of the services (such as the library, recreation center, public
+      transportation, and public safety) your community provides that are
+      funded by taxpayers. Tell your counselor why these services are important
+      to your community.
+  workbook:
+      - lines: 8
+        text: |-
+            Some of the services your community provides that are funded by
+            taxpayers
+      - lines: 8
+        text: |-
+            Why these services are important to your community
+  children:
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts should come to the class with a knowledge of what services
+            are available in their community and be prepared for discussion of
+            this requirement in the class.
+- requirement: 7
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Identify three charitable organizations outside of Scouting that
+            interest you and bring people in your community together to work
+            for the good of your community.
+        workbook:
+            - lines: 2
+            - lines: 2
+            - lines: 2
+      - requirement: b
+        text: |-
+            Pick ONE of the organizations you chose for requirement 7a. Using a
+            variety of resources (including newspapers, fliers and other
+            literature, the Internet, volunteers, and employees of the
+            organization), find out more about this organization.
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            With your counselor’s and your parent’s approval, contact the
+            organization you chose for requirement 7b, and find out what young
+            people can do to help. While working on this merit badge, volunteer
+            at least eight hours of your time for the organization. After your
+            volunteer experience is over, discuss what you have learned with
+            your counselor.
+        workbook:
+            - task: true
+              text: |-
+                  Counselor approved organization before contact
+            - signature: Parent
+            - lines: 8
+      - note:
+            - inPerson
+            - online
+        markdown: true
+        text: |-
+            Scouts may choose to complete this requirement ahead of time or
+            complete this after the class. The class will focus some time into
+            the discussion of opportunities that Scouts have selected to do as
+            well as some ideas for those who are still looking for ideas to
+            complete this requirement.
+
+            Scouts wishing to begin or complete their volunteering before the
+            class must email or call Scoutmaster Bucky
+            (ScoutmasterBucky@yahoo.com) to verify that their chosen
+            organization meets the requirements. Acceptable organizations
+            include nonprofit, religious, or governmental units.
+
+            Please note: Religious organizations are acceptable as long as your
+            volunteering does NOT involve disseminating religious information
+            or trying to convert people to that particular faith.  While these
+            are important outreach activities of religion, they do not fulfill
+            the requirements for this merit badge.
+- requirement: 8
+  text: |-
+      Develop a public presentation (such as a video, slide show, speech,
+      digital presentation, or photo exhibit) about important and unique
+      aspects of your community. Include information about the history,
+      cultures, and ethnic groups of your community; its best features and
+      popular places where people gather; and the challenges it faces. Stage
+      your presentation in front of your merit badge counselor or a group, such
+      as your patrol or a class at school.
+  workbook:
+      - split:
+            - task: true
+              text: |-
+                  Developed a public presentation
+            - task: true
+              text: |-
+                  Included history of your commuty
+      - split:
+            - task: true
+              text: |-
+                  Included cultures of your commuty
+            - task: true
+              text: |-
+                  Included ethnic groups of your commuty
+      - task: true
+        text: |-
+            Staged your presentation in front of your merit badge counselor or
+            a group, such as your patrol or a class at school
+  children:
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts should review this requirement and its components and be
+            prepared for presenting in the class. Counselors will allot time
+            within the class for all Scouts to make their presentations.
