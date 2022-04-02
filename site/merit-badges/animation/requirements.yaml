@@ -1,0 +1,157 @@
+- requirement: 1
+  text: |-
+      General knowledge. Do the following:
+  children:
+      - requirement: a
+        text: |-
+            In your own words, describe to your counselor what animation is.
+        workbook:
+            - lines: 8
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  Scouts will need to review the information in the merit badge pamphlet and be able to communicate to the counselor during the class, as the requirement says "in your own words" what animation is. Scouts may choose to utilize the merit badge workbook to make notes in for referencing during the class.
+      - requirement: b
+        text: |-
+            Discuss with your counselor a brief history of animation.
+        workbook:
+            - lines: 8
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  Scouts are strongly urged to use the merit badge workbook or other means to make notes when preparing for this requirement. Scouts will have an opportunity to participate in class discussion led by the merit badge counselor to complete this requirement. It must be noted that only Scouts that actively and satisfactorily participate in the discussion will be signed off for this component of the requirement.
+- requirement: 2
+  text: |-
+      Principles of animation. Choose five of the following 12 principles of animation, and discuss how each one makes an animation appear more believable: squash and stretch, anticipation, staging, straight-ahead action and pose to pose, follow through and overlapping action, slow in and slow out, arcs, secondary action, timing, exaggeration, solid drawing, appeal.
+  workbook:
+      - lines: 8
+      - lines: 8
+      - lines: 8
+      - lines: 8
+      - lines: 8
+  children:
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts will need to be familiar with at least five of the 12 principles of animation prior to the class by reviewing the merit badge pamphlet. Scouts will have an opportunity to actively share their findings during counselor led discussion during the class. Scouts who do not prepare for this requirement will find it difficult to complete this requirement. Only Scouts who actively and satisfactorily participate in the group discussions will be signed off on this requirement.
+- requirement: 3
+  text: |-
+      Projects. With your counselor’s approval, choose two animation techniques and do the following for each:
+  children:
+      - note:
+            - inPerson
+            - online
+        markdown: true
+        text: |-
+            REMEMBER YOU NEED TO DO TWO DIFFERENT ANIMATIONS!
+
+            Scouts may work on this prior to the class, but please note that the counselor reserves the right to accept or deny your work on the basis of meeting the expectations of this requirement to their satisfaction. Make sure your selections are pertinent to the requirement's focus and be prepared to share your work.
+
+            Scouts not having done preparation work on this requirement will have an opportunity to review options with the counselor to pursue after the class.
+      - requirement: a
+        text: |-
+            Plan your animation using thumbnail sketches and/or layout drawings either on paper or using an animation software program.
+        workbook:
+            - split:
+                  - task: true
+                    text: |-
+                        Planned first animation
+                  - task: true
+                    text: |-
+                        Planned second animation
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  Scouts will want to prepare conceptual ideas and drawings prior to the class to make the most of their time during the class. The counselor will approve and make suggestions to these conceptual ideas. While some time will be allotted in the class for this requirement, as much preparation work as possible will offer a greater chance of completing this requirement at the class. Scouts coming into the class without any preparation work may likely find it difficult to complete Requirement 3 that day.
+      - requirement: b
+        text: |-
+            Create the animations.
+        workbook:
+            - split:
+                  - task: true
+                    text: |-
+                        Created first animation
+                  - task: true
+                    text: |-
+                        Created second animation
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  Scouts may choose to work on this requirement component before or after the class. Please note that the counselor will be making suggestions in Requirement 3a that could affect the acceptance of this component of the requirement. Depending on your choice of animations, techniques, and resources necessary to complete, you may be limited or challenged to complete this in the class period. Choose carefully and bring any portable resources you have to class to allow you to make changes or further development to your animations.
+      - requirement: c
+        text: |-
+            Share your animations with your counselor. Explain how you created each one, and discuss any improvements that could be made.
+        workbook:
+            - lines: 8
+              text: |-
+                  Explanation of first animation and improvements that could be made
+            - lines: 8
+              text: |-
+                  Explanation of second animation and improvements that could be made
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  Scouts successfully completing this requirement component will have the opportunity to share with the class and counselor their animations and explain how they were created and any improvements you could make.
+- requirement: 4
+  text: |-
+      Animation in our world. Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Tour an animation studio or a business where animation is used, either in person, via video, or via the internet.  Share what you have learned with your counselor.
+        workbook:
+            - lines: 8
+        children:
+            - note:
+                  - inPerson
+              markdown: true
+              text: |-
+                  Unless otherwise noted, Scouts will complete this requirement as a part of the class.  It will be up to the counselor to accomodate this and may include the actual in-person tour based on the counselor's personal resources and connections.  However, Scouts wishing to ensure completion of this requirement component may also choose to do this requirement ahead of time and should bring proof (a note signed by the host, your parent, teacher, Scoutmaster, or other) to help validate their completion of the visit noted in this requirement. Ideally the note could/should be signed/emailed from the person managing the tour of the studio or business visited (in-person or virtually).
+
+                  Scouts choosing to view a video for this requirement component, will need to be able to share the link(s) with the counselor who will determine whether the resources utilized fulfills the requirement component to their satisfaction.
+            - note:
+                  - inPerson
+                  - online
+              markdown: true
+              text: |-
+                  Scouts should bring proof (a note signed by the host, your parent, teacher, Scoutmaster, or other) to help validate their completion of the visit noted in this requirement. Ideally the note could/should be signed/emailed from the person managing the tour of the studio or business visited (in-person or virtually).
+
+                  Scouts choosing to view a video for this requirement component, will need to be able to share the link(s) with the counselor who will determine whether the resources utilized fulfills the requirement component to their satisfaction.
+      - requirement: b
+        text: |-
+            Discuss with your counselor how animation might be used in the future to make your life more enjoyable and productive.
+        workbook:
+            - lines: 8
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  Scouts will partake in class discussion to complete this requirement, however Scouts should review the merit badge pamphlet and other resources to be prepared for the discussion. Only Scouts who actively and satisfactorily participate in the discussion will be signed off on this requirement.
+- requirement: 5
+  text: |-
+      Careers. Learn about three career opportunities in animation.  Pick one and find out about the education, training, and experience required for this profession. Discuss your findings with your counselor. Explain why this profession might interest you.
+  workbook:
+      - lines: 8
+        text: |-
+            Three careers in animation
+      - lines: 8
+        text: |-
+            Education, training, and experience required for this profession
+  children:
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts should review this requirement and its components and be prepared to discuss. It is strongly recommended that Scouts bring any notes or supporting documents they may have to help show the counselor that they have prepared for completion of this requirement.
