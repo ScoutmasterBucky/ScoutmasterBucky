@@ -94,6 +94,9 @@ metalsmithSite.run({
 
             done();
         });
+
+        // Remove merit badge pamphlets and other non-linked data
+        sugar.use(__dirname + '/plugins/remove-unnecessary-assets');
     },
     postProcess: (done) => {
         generatePdfs(lastFiles, (e) => {
