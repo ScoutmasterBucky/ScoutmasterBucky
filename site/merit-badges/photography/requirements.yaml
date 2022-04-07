@@ -8,10 +8,11 @@
             Chip](/other-awards/cyber-chip/).
         workbook:
             - signature: Adult Scout Leader
-        - note:
-            - inPerson
-        text: |-
-            It is strongly recommended and encouraged that Scouts complete their Cyber Chip requirements (age appropriate) ahead of time and bring their current / recharged Cyber Chip proof with them to class. It is not acceptable to just say you have your Cyber Chip, you must bring proof.  Some counselors may choose to integrate this requirement into the instruction at the class, but Scouts will find having it done ahead of time is best. If time allows, the counselor MAY offer the chance to complete parts of the Cyber Chip at the end of the class, this of course is at the discretion of the counselor
+        children:
+            - note:
+                - inPerson
+            text: |-
+                It is strongly recommended and encouraged that Scouts complete their Cyber Chip requirements (age appropriate) ahead of time and bring their current / recharged Cyber Chip proof with them to class. It is not acceptable to just say you have your Cyber Chip, you must bring proof.  Some counselors may choose to integrate this requirement into the instruction at the class, but Scouts will find having it done ahead of time is best. If time allows, the counselor MAY offer the chance to complete parts of the Cyber Chip at the end of the class, this of course is at the discretion of the counselor
       - requirement: b
         text: |-
             Explain to your counselor the most likely hazards you may encounter
@@ -39,6 +40,7 @@
               text: |-
                   How you would prepare for exposure to environmental
                   situations
+       children:
        - note:
             - inPerson
          text: |-
@@ -84,7 +86,7 @@
             Decisive moment (action or expression captured by the photographer)
         workbook:
             - lines: 8
-- note:
+children: - note:
             - inPerson
          text: |-
             Scouts should review these terms and how they affect the quality of a picture and bring any notes or reference material to aid them in their explanation of each during the class
@@ -94,6 +96,7 @@
       exposure is made when you take a picture.
   workbook:
       - lines: 8
+children:
 - note:
             - inPerson
          text: |-
@@ -123,6 +126,7 @@
             Photograph one subject with two different compositional techniques.
         workbook:
             - lines: 4
+children:
 - note:
             - inPerson
          text: |-
@@ -175,6 +179,7 @@
         text: |-
             Picture of a person—candid, posed, or camera aware
         workbookHide: true
+children:
 - note:
             - inPerson
          text: |-
@@ -197,6 +202,7 @@
       - task: true
         text: |-
             c. Show another way you could improve your picture for impact.
+children:
   note:
             - inPerson
         text: |-
@@ -214,10 +220,11 @@
         text: |-
             Show another way you could improve your picture for impact.
         workbookHide: true
-        note:
-            - inPerson
-        text: |-
-            Scouts should bring with them their original photo and their modified photo to share with the counselor for the selected requirement component. Scouts should be prepared to describe how they accomplished the modification in the selected software application as well
+        children:
+            note:
+                - inPerson
+            text: |-
+                Scouts should bring with them their original photo and their modified photo to share with the counselor for the selected requirement component. Scouts should be prepared to describe how they accomplished the modification in the selected software application as well
 - requirement: 7
   text: |-
       Using images other than those created for requirements 4, 5, and 6,
@@ -251,6 +258,7 @@
             counselor.
         workbook:
             - lines: 8
+        children:
         note:
             - inPerson
         text: |-
@@ -263,6 +271,7 @@
       interest you.
   workbook:
       - lines: 8
+children:
 - note:
             - inPerson
          text: |-
