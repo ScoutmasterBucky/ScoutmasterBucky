@@ -200,12 +200,11 @@
       - task: true
         text: |-
             c. Show another way you could improve your picture for impact.
-    children:
-        note:
+  children:
+      - note:
             - inPerson
         text: |-
             Scouts should be prepared to describe how photo editing software works and the basic processes of modifying electronic photos.  Scouts should note which software application they utilized and some of the reasons why they chose that application. Participation in the class discussion with a working knowledge is the minimal expectation for this requirement component
-  children:
       - requirement: a
         text: |-
             Crop your photograph.
@@ -233,20 +232,22 @@
             Plan the images you need to photograph for your photo story.
         workbook:
             - lines: 8
-        note:
-            - inPerson
-        text: |-
-            Scouts should come to the class having completed this component of Requirement 7.  While a later component says to select 8 to 12 photos, Scouts should have many more than the required number of photos to be able to fully and properly complete the remaining components at the class.  Photos may be in electronic or printed format
+        children:
+            - note:
+                - inPerson
+              text: |-
+                Scouts should come to the class having completed this component of Requirement 7.  While a later component says to select 8 to 12 photos, Scouts should have many more than the required number of photos to be able to fully and properly complete the remaining components at the class.  Photos may be in electronic or printed format
       - requirement: b
         text: |-
             Share your plan with your counselor, and get your counselor’s input
             and approval before you proceed.
         workbook:
             - lines: 8
-        note:
-            - inPerson
-        text: |-
-            Only Scouts who attend the class with the required photos for requirement component 7a ready will have the opportunity to complete this requirement component. Scouts NOT having prepared MAY have a chance, but cannot be guaranteed.
+        children:
+            - note:
+                - inPerson
+              text: |-
+                Only Scouts who attend the class with the required photos for requirement component 7a ready will have the opportunity to complete this requirement component. Scouts NOT having prepared MAY have a chance, but cannot be guaranteed.
       - requirement: c
         text: |-
             Select eight to 12 images that best tell your story.  Arrange your
@@ -255,10 +256,11 @@
             counselor.
         workbook:
             - lines: 8
-      - note:
-        - inPerson
-        text: |-
-            Scouts should come to the class with their mounting materials or electronic photo management application ready and able to make modifications and assembly of this requirement once the counselor has approved Requirement components 7a and 7b.  Class time will be provided to complete this requirement for those that need additional time.  Be prepared
+        children:
+            - note:
+                - inPerson
+              text: |-
+                Scouts should come to the class with their mounting materials or electronic photo management application ready and able to make modifications and assembly of this requirement once the counselor has approved Requirement components 7a and 7b.  Class time will be provided to complete this requirement for those that need additional time.  Be prepared
 - requirement: 8
   text: |-
       Identify three career opportunities in photography. Pick one and explain
@@ -271,4 +273,4 @@
     - note:
         - inPerson
       text: |-
-            Scouts should review this requirement and its components and be prepared to discuss. It is strongly recommended that Scouts bring any notes or supporting documents they may have to help show the counselor that they have prepared for discussion of these items
+        Scouts should review this requirement and its components and be prepared to discuss. It is strongly recommended that Scouts bring any notes or supporting documents they may have to help show the counselor that they have prepared for discussion of these items
