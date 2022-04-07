@@ -135,6 +135,7 @@
       Do ONE of the following:
   children:
       - requirement: a
+        markdown: true
         text: |-
             In a fixed-seat rowboat, come alongside a pier and help a passenger
             into the boat. Pull away from the pier, change positions with your
@@ -218,6 +219,7 @@
         workbook:
             - lines: 8
       - requirement: f
+        markdown: true
         text: |-
             The different meanings of the term *sculling* in fixed- and
             sliding-seat rowing

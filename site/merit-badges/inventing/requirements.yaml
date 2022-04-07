@@ -1,4 +1,5 @@
 - requirement: 1
+  markdown: true
   text: |-
       In your own words, define *inventing*. Then do the following:
   workbook:
@@ -88,6 +89,7 @@
       Do EACH of the following:
   children:
       - requirement: a
+        markdown: true
         text: |-
             Define the term *intellectual property*. Explain which government
             agencies oversee the protection of intellectual property, the types
@@ -164,6 +166,7 @@
                   Scouts should be prepared to share their work with the class
                   and counselor in completing this requirement component.
       - requirement: d
+        markdown: true
         text: |-
             Explain to your counselor the term *patent infringement*.
         workbook:

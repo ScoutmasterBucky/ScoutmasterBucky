@@ -101,6 +101,7 @@
         workbook:
             - split:
                   - header: true
+                    markdown: true
                     text: |-
                         1. **Home kitchen fire**<br/>
                         2. **Home basement/storage room/garage fire**<br/>

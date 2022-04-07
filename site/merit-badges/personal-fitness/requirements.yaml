@@ -208,6 +208,7 @@
   children:
       - requirement: a
         # Italicized 6a's Personal Fitness to match 7.
+        markdown: true
         text: |-
             Complete the aerobic fitness, flexibility, and muscular strength
             tests, as described in the *Personal Fitness* merit badge pamphlet.
@@ -230,6 +231,7 @@
               text: |-
                   Third day
 - requirement: 7
+  markdown: true
   text: |-
       Outline a comprehensive 12-week physical fitness program using the
       results of your fitness tests. Be sure your program incorporates the
