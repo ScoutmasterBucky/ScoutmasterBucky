@@ -209,7 +209,8 @@ function generatePdfs(files, done) {
                 marginRight: ".25in",
                 headerHtml: "http://localhost:8080/" + mine.headerName,
                 footerHtml: "http://localhost:8080/" + mine.footerName,
-                output: "build/" + mine.pdf
+                output: "build/" + mine.pdf,
+                pageSize: 'letter'
             }
         );
         stream.on("error", (e) => {
