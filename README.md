@@ -489,17 +489,14 @@ YAML files and JSON data are both vetted against a schema to ensure proper parsi
 
 ```
 Error: Error in data file: merit-badges/bird-study/index.md
-{
-    "message": "Data does not match any schemas from \"oneOf\"",
-    "dataPath": "/5",
-    "subErrors": [
-        {
-            "message": "Data does not match any schemas from \"oneOf\"",
-            "dataPath": "/5/children/0",
-            "subErrors": [
+    /5/children/0: must have required property 'requirement'
+    /5/children/0: must have required property 'note'
+    /5/children/0: must have required property 'callout'
+    /5/children/0: must have required property 'detail'
+    /5/children/0: must match exactly one schema in oneOf
 ```
 
-There are two important things to notice. First, this indicates that this is for the Bird Study merit badge. Most likely that means it is the `requirements.yaml` that builds the merit badge. The second important thing is the `"dataPath"` attribute. It will tell you how far it can get before an error shows up. In this case the important value is "/5/children/0".
+There are two important things to notice. First, this indicates that this is for the Bird Study merit badge. Most likely that means the error applies to `requirements.yaml` that builds the merit badge. The second important thing is the `/5/children/0` part. It will tell you how far the parsing worked until it found an error.
 
 Programmers start counting at 0. Sorry. That's just the way it is, but it is an important thing to remember when counting. When looking at the Bird Study requirements file, we will look for the **sixth** item in the list.
 
@@ -510,6 +507,6 @@ Programmers start counting at 0. Sorry. That's just the way it is, but it is an 
 * Fifth item is requirement 4, item number 4
 * Sixth item is requirement 5, **item number 5.**
 
-That requirement has children, and the first item in that list has a problem. In my example it turned out that I had a typo in a property name.
+That requirement has children, and the first item (number 0) in that list has a problem. In my example it turned out that I had a typo in a property name.
 
 This doesn't tell you how to fix it, but does help find and locate the errors.
