@@ -19,7 +19,7 @@ metalsmithSite.run({
                     sourceMap: false
                 }
             });
-            sugar.use('metalsmith-clean-css', {
+            sugar.use('@fidian/metalsmith-clean-css', {
                 files: "**/*.css"
             });
             sugar.use('metalsmith-html-minifier');
