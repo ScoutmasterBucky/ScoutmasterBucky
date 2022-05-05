@@ -153,14 +153,17 @@
             - lines: 8
 - requirement: 3
   text: |-
-      Before doing requirements 4 through 12, earn the Canoeing merit badge if
-      you will be using a canoe to earn this merit badge. If you will be using a
-      kayak, earn the Kayaking merit badge. Then do the following:
+      Before doing requirements 4 through 12, earn the <a
+      href="/merit-badges/canoeing/">Canoeing</a> merit badge if you will be
+      using a canoe to earn this merit badge. If you will be using a kayak,
+      earn the <a href="/merit-badges/kayaking/">Kayaking</a> merit badge. Then
+      do the following:
   children:
       - requirement: a
         text: |-
             If you will be using a canoe to earn this merit badge, demonstrate
-            strokes and maneuvers from the Canoeing merit badge to the
+            strokes and maneuvers from the <a
+            href="/merit-badges/canoeing/">Canoeing</a> merit badge to the
             satisfaction of your merit badge counselor.
         workbook:
             - task: true
@@ -170,7 +173,8 @@
       - requirement: b
         text: |-
             If you will be using a kayak to earn this merit badge, demonstrate
-            strokes and maneuvers from the Kayaking merit badge to the
+            strokes and maneuvers from the <a
+            href="/merit-badges/kayaking/">Kayaking</a> merit badge to the
             satisfaction of your merit badge counselor.
         workbook:
             - task: true
