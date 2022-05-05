@@ -152,6 +152,7 @@
         workbook:
             - lines: 8
 - requirement: 3
+  markdown: true
   text: |-
       Before doing requirements 4 through 12, earn the <a
       href="/merit-badges/canoeing/">Canoeing</a> merit badge if you will be
@@ -160,6 +161,7 @@
       do the following:
   children:
       - requirement: a
+        markdown: true
         text: |-
             If you will be using a canoe to earn this merit badge, demonstrate
             strokes and maneuvers from the <a
@@ -171,6 +173,7 @@
         text: |-
             OR
       - requirement: b
+        markdown: true
         text: |-
             If you will be using a kayak to earn this merit badge, demonstrate
             strokes and maneuvers from the <a
