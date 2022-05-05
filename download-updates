@@ -64,54 +64,96 @@ downloadHtml() {
     )
 }
 
-echo 'Merit Badges'
-for MBP in site/merit-badges/*/; do
-    MB=${MBP%/}
-    MB=${MB##*/}
-    rm -f "${MBP}${MB}.pdf" "${MBP}${MB}.txt"
-done
-downloadPdfs 'https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/' 'h3 a[href*=".pdf"]' 'site/merit-badges/'
-echo ''
+testDownloadFlags() {
+    local target=$1
 
-date -I > merit-badges-updated.txt
-echo 'Updated merit-badges-updated.txt'
-echo ''
+    shift
 
-echo 'Cub Scouts Nova Awards'
-downloadPdfs 'https://www.scouting.org/stem-nova-awards/awards/cub-scout/' 'h3 a[href*=".pdf"]' 'site/nova-lab/cub-scouts/'
-echo ''
-echo 'Scouts BSA Nova Awards'
-downloadPdfs 'https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/' '.col-md-2 a[href*=".pdf"]:not(:parent-of(img))' 'site/nova-lab/scouts-bsa/'
-echo ''
-echo 'Venturing and Sea Scouts Nova Awards'
-downloadPdfs 'https://www.scouting.org/stem-nova-awards/awards/venturer/' '.elementor-element-259c931 a[href*=".pdf"]' 'site/nova-lab/venturing-and-sea-scouts/'
-echo ''
+    while [[ $# -gt 0 ]]; do
+        if [[ "$1" == "$target" ]]; then
+            return 0
+        fi
 
-date -I > novas-updated.txt
-echo 'Updated novas-updated.txt'
-echo ''
+        shift
+    done
 
-echo 'Cub Scouts Supernova Awards'
-downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/cub-scout/supernova-awards/' '#elementor-tab-content-1841' 'site/nova-lab/supernova/dr-luis-walter-alvarez/' 'supernova-requirements.html'
-downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/cub-scout/supernova-awards/' '#elementor-tab-content-1842' 'site/nova-lab/supernova/dr-charles-h-townes/' 'supernova-requirements.html'
+    return 1
+}
 
-echo 'Scouts BSA Supernova Awards'
-downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/scouts-bsa-supernova-awards/' '#elementor-tab-content-1151' 'site/nova-lab/supernova/dr-bernard-harris/' 'supernova-requirements.html'
-downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/scouts-bsa-supernova-awards/' '#elementor-tab-content-1152' 'site/nova-lab/supernova/thomas-alva-edison/' 'supernova-requirements.html'
+if [[ $# -eq 0 ]]; then
+    echo "Specify which sections you want to download:"
+    echo ""
+    echo "    all               Downloads everything"
+    echo "    merit-badges      Scouts BSA merit badges"
+    echo "    nova-awards       Nova awards for all programs"
+    echo "    other-awards      One-off awards"
+    echo "    supernova-awards  Supernova awards for all programs"
 
-echo 'Venturing and Sea Scouts Supernova Awards'
-downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-awards/' '#elementor-tab-content-4171' 'site/nova-lab/supernova/dr-sally-ride/' 'supernova-requirements.html'
-downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-awards/' '#elementor-tab-content-4172' 'site/nova-lab/supernova/wright-brothers/' 'supernova-requirements.html'
-downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-awards/' '#elementor-tab-content-4173' 'site/nova-lab/supernova/dr-albert-einstein/' 'supernova-requirements.html'
+    exit
+fi
 
-echo 'Supernova Activity Topics'
-downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-topics/' '.elementor-text-editor:parent-of(h2)' 'site/nova-lab/supernova/activity-topics/' 'activity-topics-requirements.html'
+if testDownloadFlags merit-badges "$@"; then
+    echo 'Merit Badges'
+    for MBP in site/merit-badges/*/; do
+        MB=${MBP%/}
+        MB=${MB##*/}
+        rm -f "${MBP}${MB}.pdf" "${MBP}${MB}.txt"
+    done
+    downloadPdfs 'https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/' 'h3 a[href*=".pdf"]' 'site/merit-badges/'
+    echo ''
 
-echo 'Venturing and Sea Scouts Exploration Requirements'
-downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-awards/' '#elementor-tab-content-4175' 'site/nova-lab/explorations/' 'exploration-requirements.html'
+    date -I > merit-badges-updated.txt
+    echo 'Updated merit-badges-updated.txt'
+    echo ''
+fi
 
-date -I > supernovas-updated.txt
-echo 'Updated supernovas-updated.txt'
-echo ''
+if testDownloadFlags nova-awards "$@"; then
+    echo 'Cub Scouts Nova Awards'
+    downloadPdfs 'https://www.scouting.org/stem-nova-awards/awards/cub-scout/' 'h3 a[href*=".pdf"]' 'site/nova-lab/cub-scouts/'
+
+    echo 'Scouts BSA Nova Awards'
+    downloadPdfs 'https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/' '.col-md-2 a[href*=".pdf"]:not(:parent-of(img))' 'site/nova-lab/scouts-bsa/'
+
+    echo 'Venturing and Sea Scouts Nova Awards'
+    downloadPdfs 'https://www.scouting.org/stem-nova-awards/awards/venturer/' '.elementor-element-259c931 a[href*=".pdf"]' 'site/nova-lab/venturing-and-sea-scouts/'
+
+    date -I > novas-updated.txt
+    echo 'Updated novas-updated.txt'
+    echo ''
+fi
+
+if testDownloadFlags other-awards "$@"; then
+    echo "Totin' Chip"
+    downloadHtml 'https://www.scouting.org/awards/awards-central/totin-chip/' '.entry-content' 'site/other-awards/totin-chip/' 'requirements.html'
+
+    date -I > other-awards-updated.txt
+    echo 'Updated other-awards-updated.txt'
+    echo ''
+fi
+
+if testDownloadFlags supernova-awards "$@"; then
+    echo 'Cub Scouts Supernova Awards'
+    downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/cub-scout/supernova-awards/' '#elementor-tab-content-1841' 'site/nova-lab/supernova/dr-luis-walter-alvarez/' 'supernova-requirements.html'
+    downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/cub-scout/supernova-awards/' '#elementor-tab-content-1842' 'site/nova-lab/supernova/dr-charles-h-townes/' 'supernova-requirements.html'
+
+    echo 'Scouts BSA Supernova Awards'
+    downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/scouts-bsa-supernova-awards/' '#elementor-tab-content-1151' 'site/nova-lab/supernova/dr-bernard-harris/' 'supernova-requirements.html'
+    downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/scouts-bsa-supernova-awards/' '#elementor-tab-content-1152' 'site/nova-lab/supernova/thomas-alva-edison/' 'supernova-requirements.html'
+
+    echo 'Venturing and Sea Scouts Supernova Awards'
+    downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-awards/' '#elementor-tab-content-4171' 'site/nova-lab/supernova/dr-sally-ride/' 'supernova-requirements.html'
+    downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-awards/' '#elementor-tab-content-4172' 'site/nova-lab/supernova/wright-brothers/' 'supernova-requirements.html'
+    downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-awards/' '#elementor-tab-content-4173' 'site/nova-lab/supernova/dr-albert-einstein/' 'supernova-requirements.html'
+
+    echo 'Supernova Activity Topics'
+    downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-topics/' '.elementor-text-editor:parent-of(h2)' 'site/nova-lab/supernova/activity-topics/' 'activity-topics-requirements.html'
+
+    echo 'Venturing and Sea Scouts Exploration Requirements'
+    downloadHtml 'https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-awards/' '#elementor-tab-content-4175' 'site/nova-lab/explorations/' 'exploration-requirements.html'
+
+    date -I > supernovas-updated.txt
+    echo 'Updated supernovas-updated.txt'
+    echo ''
+fi
 
 echo 'Done'

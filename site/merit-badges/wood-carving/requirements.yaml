@@ -42,8 +42,9 @@
       Do the following:
   children:
       - requirement: a
+        markdown: true
         text: |-
-            Earn the Totin’ Chip recognition.
+            Earn the <a href="/other-awards/totin-chip/">Totin’ Chip</a> recognition.
         workbook:
             - signature: Adult Scout Leader
               checkbox: Approved

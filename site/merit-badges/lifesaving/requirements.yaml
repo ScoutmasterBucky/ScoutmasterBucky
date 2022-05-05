@@ -9,6 +9,7 @@
       Before doing requirements 3 through 15:
   children:
       - requirement: a
+        markdown: true
         text: |-
             Earn the <a href="/merit-badges/swimming/">Swimming</a> merit badge.
         workbook:
