@@ -2,7 +2,7 @@
 nova: nova-wild
 program: cub-scouts
 layout: nova-req
-lastUpdate: May 2018
+lastUpdate: January 2022
 hasNotes: true
 ---
 
@@ -22,7 +22,7 @@ This module is designed to help you learn about wildlife and the natural world a
         1. Make a list of at least two questions or ideas from what you read and watched.
         2. Discuss two of the questions or ideas with your counselor.
 2. Complete ONE adventure from the following list for your current rank or complete option A or B. (If you choose an Adventure, choose one you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
-    * **Wolf Cub Scouts:** Digging in the Past, Grow Something, Spirit of the Water
+    * **Wolf Cub Scouts:** Digging in the Past, Spirit of the Water
     * **Bear Cub Scouts:** A Bear Goes Fishing, Critter Care
     * **Webelos Scouts:** Into the Wild, Into the Woods
     **Option A:** Do all of the following.

@@ -2,7 +2,7 @@
 nova: science-everywhere
 program: cub-scouts
 layout: nova-req
-lastUpdate: May 2019
+lastUpdate: January 22, 2022
 hasNotes: true
 ---
 
@@ -22,18 +22,15 @@ This module is designed to help the Scout explore how science affects their life
         (1) Make a list of at least two questions or ideas from what you read and watched.
         (2) Discuss two of the questions or ideas with your counselor.
 2. Complete ONE adventure from the following list for your current rank or complete option A or B. (If you choose an Adventure, choose one you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
-    * *Wolf Cub Scouts:* Collections and Hobbies, Digging in the Past, Germs Alive!, Grow Something
-        {{#note type="counselor"}}**Collections and Hobbies:** Collections are based on organizing items in common. “Analysis” of common elements is inherent in scientific method.{{/note}}
+    * *Wolf Cub Scouts:* Digging in the Past, Germs Alive!
         {{#note type="counselor"}}**Digging in the Past:** Paleontology and geology{{/note}}
         {{#note type="counselor"}}**Germs Alive!:** Biology{{/note}}
-        {{#note type="counselor"}}**Grow Something:** Biology and living things{{/note}}
     * *Bear Cub Scouts:* A Bear Goes Fishing, Bear Picnic, Critter Care
         {{#note type="counselor"}}**A Bear Goes Fishing:** Ecology and biology{{/note}}
         {{#note type="counselor"}}**Bear Picnic:** Nutrition and biology{{/note}}
         {{#note type="counselor"}}**Critter Care:** Understanding how to care for a critter helps a Scout learn about the biological needs of the pet.{{/note}}
-    * *Webelos Scouts:* Earth Rocks!, Maestro!
+    * *Webelos Scouts:* Earth Rocks!
         {{#note type="counselor"}}**Earth Rocks!:** Geology{{/note}}
-        {{#note type="counselor"}}**Maestro!:** Science and music connect through sound waves and materials chosen to create musical instruments. Additionally, music is closely connected to math.{{/note}}
     **Option A:** Complete all of the following:
         (a) Explain the scientific method to your adult partner.
         (b) Use the scientific method in a simple science project. Explain the results to an adult.

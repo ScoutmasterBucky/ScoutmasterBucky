@@ -2,7 +2,7 @@
 nova: 1-2-3-go
 program: cub-scouts
 layout: nova-req
-lastUpdate: September 2020
+lastUpdate: January 2022
 hasNotes: true
 ---
 
@@ -13,7 +13,7 @@ This module is designed to help you explore how math affects your life each day.
     A. Watch an episode or episodes (about one hour total) of a show that involves math or physics. Then do the following:
         (1) Make a list of at least two questions or ideas from what you watched.
         (2) Discuss two of the questions or ideas with your counselor.
-        {{#note type="counselor"}}Some examples include-but are not limited to-shows found on PBS ("NOVA"), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision.{{/note}}
+        {{#note type="counselor"}}Some examples include-but are not limited to-shows found on PBS ("NOVA"), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s supervision.{{/note}}
     B. Read (about one hour total) about anything that involves math or physics. Then do the following:
         (1) Make a list of at least two questions or ideas from what you read.
         (2) Discuss two of the questions or ideas with your counselor.
@@ -24,8 +24,7 @@ This module is designed to help you explore how math affects your life each day.
 2. Complete ONE adventure from the following list for your current rank or complete option A or B. (If you choose an Adventure, choose one you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
     * **Wolf Cub Scouts:** Code of the Wolf
         {{#note type="counselor"}}**Code of the Wolf:** Working with numbers, logic, and math{{/note}}
-    * **Bear Cub Scouts:** Robotics
-        {{#note type="counselor"}}**Robotics:** Working with logic{{/note}}
+    * **Bear Cub Scouts:** Options A or B
     * **Webelos Scouts:** Game Design
         {{#note type="counselor"}}**Game Design:** Working with logic{{/note}}
     **Option A:** Complete both of the following:
@@ -33,7 +32,7 @@ This module is designed to help you explore how math affects your life each day.
         (b). Conduct and keep a record of a coin toss probability experiment. Keep track of at least 25 tosses.
     **Option B:** Complete both of the following:
         (a) Interview four adults in different occupations and see how they use measurement in their job.
-        (b) Measure how tall someone is. Have them measure you.
+        (b) Measure how tall someone is. Have them measure you. Complete in both inches and centimeters.
 3. Explore TWO options from A or B or C and complete ALL the requirements for those options. Keep your work to share with your counselor. The necessary information to make your calculations can be found in a book or on the Internet. (See the Helpful Links box for ideas.) You may work with your counselor on these calculations.
     A. Choose TWO of the following places and calculate how much you would weigh there.
         (1) On the sun or the moon
@@ -55,14 +54,14 @@ This module is designed to help you explore how math affects your life each day.
             {{#note type="counselor"}}Very young Cub Scouts may not be familiar with decimal numbers yet, or may be familiar with decimal numbers only up to one or two places after the decimal point. Feel free to round a given gravity multiplier to the tenths or hundredths place if this will help a Cub Scout complete the activity on his own. Alternatively, one can avoid decimals entirely by thinking in terms of ratios; for example, every 10 pounds on Earth equals about 9 pounds on Venus, so a child who weighs 60 pounds on Earth will weigh about 54 pounds on Venus.{{/note}}
     B. Choose ONE of the following and calculate its height:
         (1) A tree
-        (2) A house
+        (2) Your house
         (3) A building of your choice
             {{#note type="counselor"}}Step 1 - On a sunny day, choose a tree that casts a clear shadow. Trees and other tall objects that stand by themselves are easiest to work with.{{/note}}
             {{#note type="counselor"}}Step 2 - Hold a 12-inch ruler perpendicular to the ground, right next to the tree.{{/note}}
             {{#note type="counselor"}}Step 3 - Measure the shadow of the ruler in inches, and record the measurement. Call this measurement A.{{/note}}
             {{#note type="counselor"}}Step 4 - Measure the shadow of the tree in feet, and record the measurement. Call the tree shadow measurement B.{{/note}}
             {{#note type="counselor"}}Step 5 - Multiply measurement B by 12, then divide that answer by measurement A. The result is the height of the tree in inches.{{/note}}
-    C. Calculate the volume of air in a room. Make sure your measurements have the same units - all feet or all inches - and show your work.
+    C. Calculate the volume of air in your bedroom. Make sure your measurements have the same units - all feet or all inches - and show your work.
         {{#note type="counselor"}}Volume = Length × Width × Height{{/note}}
         {{#note type="counselor"}}The answer will be in cubic feet or cubic inches (ft³ or in³).{{/note}}
 4. Secret Codes

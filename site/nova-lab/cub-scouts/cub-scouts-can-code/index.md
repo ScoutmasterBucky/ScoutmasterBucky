@@ -2,7 +2,7 @@
 nova: cub-scouts-can-code
 program: cub-scouts
 layout: nova-req
-lastUpdate: September 2020
+lastUpdate: January 2022
 hasNotes: true
 ---
 
@@ -21,7 +21,7 @@ Did you ever wonder how computers know what to do? This module is designed to he
         2. Discuss two of the questions or ideas with your counselor.
 2. Complete ONE adventure from the following list for your current rank OR complete option A or B. (If you choose an Adventure, choose one you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
     * **Wolf Cub Scouts:** Code of the Wolf
-    * **Bear Cub Scouts:** Robotics
+    * **Bear Cub Scouts:** Option A or B
     * **Webelos Scouts:** Game Design
     **Option A:** Do all of the following.
         (a) Define what a computer is and research how computers have changed over time.

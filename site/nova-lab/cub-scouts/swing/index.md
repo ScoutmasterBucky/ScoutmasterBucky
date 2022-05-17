@@ -2,7 +2,7 @@
 nova: swing
 program: cub-scouts
 layout: nova-req
-lastUpdate: May 2018
+lastUpdate: January 2022
 hasNotes: true
 ---
 
@@ -22,14 +22,12 @@ This module is designed to help you explore how engineering and simple machines 
         (1) Make a list of at least two questions or ideas from what you read and watched.
         (2) Discuss two of the questions or ideas with your counselor.
 2. Complete ONE adventure from the following list for your current rank or complete option A or B. (If you choose an Adventure, choose one you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
-    * **Wolf Cub Scouts:** Motor Away, Paws of Skill
-        {{#note type="counselor"}}**Motor Away:** Application of scientific principles to create a better boat or plane design{{/note}}
+    * **Wolf Cub Scouts:** Paws of Skill
         {{#note type="counselor"}}**Paws of Skill:** Levers are used in many sports, including baseball, golf, and tennis.{{/note}}
     * **Bear Cub Scouts:** Baloo the Builder, A Bear Goes Fishing
         {{#note type="counselor"}}**Baloo the Builder:** Using a lever (crowbars, pliers, screwdrivers, hammer, etc.){{/note}}
         {{#note type="counselor"}}**A Bear Goes Fishing:** Using a lever (a fishing rod){{/note}}
-    * **Webelos Scouts:** Adventures in Science, Engineer
-        {{#note type="counselor"}}**Adventures in Science:** Rockets, motion on playground, and creating circuits are all part of engineering.{{/note}}
+    * **Webelos Scouts:** Engineer
         {{#note type="counselor"}}**Engineer:** Entire adventure deals with engineering.{{/note}}
     **Option A:** With your parent’s or guardian’s permission, take an old or broken household or mechanical item, break it down into its component pieces, and identify the purpose of five parts. Suggested items include a keyboard, floppy disk, telephone, VCR, tape deck, bicycle, people counter, printer or similar item. Make sure to use appropriate safety precautions.
     **Option B:** Participate in two sports, either as an individual or part of a team, and identify the levers used in each sport.
