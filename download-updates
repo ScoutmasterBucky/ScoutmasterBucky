@@ -70,7 +70,7 @@ testDownloadFlags() {
     shift
 
     while [[ $# -gt 0 ]]; do
-        if [[ "$1" == "$target" ]]; then
+        if [[ "$1" == "$target" || "$1" == "all" ]]; then
             return 0
         fi
 
