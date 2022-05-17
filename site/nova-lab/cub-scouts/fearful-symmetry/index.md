@@ -2,7 +2,7 @@
 nova: fearful-symmetry
 program: cub-scouts
 layout: nova-req
-lastUpdate: April 2018
+lastUpdate: January 2022
 hasNotes: true
 ---
 
@@ -24,17 +24,15 @@ Symmetry is everywhere. Minerals organize themselves in crystals, which are repe
         1) Make a list of at least two questions or ideas from what you read and watched.
         2) Discuss two of the questions or ideas with your counselor.
 2. Complete ONE adventure from the following list, or complete option A or B. (If you choose an adventure, choose one that you have not previously earned.) Discuss with your counselor what kind of science, technology, engineering, or math was used in the adventure.
-    * **Wolf Cub Scouts:** Air of the Wolf, Code of the Wolf, Motor Away
+    * **Wolf Cub Scouts:** Air of the Wolf, Code of the Wolf
         {{#note type="counselor"}}**Air of the Wolf:** The symmetry of flying objects has a big impact on how they fly: Does the paper airplane veer to the left? Does it go up instead of down? These concerns also apply to kites, sleds, and boats.{{/note}}
         {{#note type="counselor"}}**Code of the Wolf:** Many of the shapes we see in nature exhibit symmetry of some kind (leaves, flowers, animals); indeed, they often have more interesting symmetry than the “pure” squares and circles we draw!  Predictions always depend on symmetry. We assume the future will look something like the past.{{/note}}
-        {{#note type="counselor"}}**Motor Away:** The symmetry of flying objects has a big impact on how they fly: Does the paper airplane veer to the left? Does it go up instead of down? These concerns also apply to boats and cars.{{/note}}
     * **Bear Cub Scouts:** Forensics, Marble Madness
         {{#note type="counselor"}}**Forensics:** The crystal structure of various substances (salt, sugar, etc.) is an important way of distinguishing them. Lack of symmetry between two shoe imprints from the same pair is an important way of distinguishing an individual pair worn by a particular person.{{/note}}
         {{#note type="counselor"}}**Marble Madness:** Notice the most important fact about marbles: They roll because they have spherical symmetry, an infinite number of symmetrical sides. You also likely created some symmetries in your marble courses. What makes a marble game “fair”?{{/note}}
-    * **Webelos Scouts:** Art Explosion, Build It, Maestro!
+    * **Webelos Scouts:** Art Explosion, Build It
         {{#note type="counselor"}}**Art Explosion:** Notice all the symmetry you can - and also where a symmetry you expect is lacking - in the art that you see and make. Symmetry tells the viewer what to expect. Lack of symmetry can be surprising.{{/note}}
         {{#note type="counselor"}}**Build It:** Look at the symmetry of what you made. Did you plan for this?{{/note}}
-        {{#note type="counselor"}}**Maestro:** In what ways did a piece of music you heard repeat itself? When was it an exact repetition, and when was it a modified repetition? What bits of the tune get used over and over?{{/note}}
     **Option A:** Complete all of the following:
         (a) Explain the difference between the symmetry of the flower of a geranium and the symmetry of the flower of herbaceous periwinkle.
         (b) Explain the difference in leaf arrangement (the pattern of where leaves appear on the stem) between a maple tree and a sweetgum tree.

@@ -23,16 +23,11 @@ This module is designed to help you explore how technology affects your life eac
         1. Make a list of at least two questions or ideas from what you read and watched.
         2. Discuss two of the questions or ideas with your counselor.
 2. Complete ONE adventure from the following list for your current rank or complete option A or B. (If you choose an Adventure, choose one you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
-    * **Wolf Cub Scouts:** Finding Your Way, Motor Away
+    * **Wolf Cub Scouts:** Finding Your Way
         {{#note type="counselor"}}**Finding Your Way:** Map and compass are technologies that have been utilized for centuries.{{/note}}
-        {{#note type="counselor"}}**Motor Away:** Using technology or applying science to improve wing or boat design.{{/note}}
-    * **Bear Cub Scouts:** Make It Move, A World of Sound
-        {{#note type="counselor"}}**Make It Move:** Using technology to make items move{{/note}}
-        {{#note type="counselor"}}**A World of Sound:** Application of science (or using technology) to make musical instruments{{/note}}
-    * **Webelos Scouts:** Build It, Fix It, Movie Making
+    * **Bear Cub Scouts:** Option A or B
+    * **Webelos Scouts:** Build It
         {{#note type="counselor"}}**Build It:** Using tools to create a specific project{{/note}}
-        {{#note type="counselor"}}**Fix It:** Using technology to improve or "fix" the surrounding world{{/note}}
-        {{#note type="counselor"}}**Movie Making:** Using a digital product to create a movie{{/note}}
     **Option A:** Complete all of the following:
         (a) Explain these parts of a personal computer: central processing unit (CPU), monitor, keyboard, mouse, modem, and printer.
         (b) Make a list of ten devices that can be found in a home that use a computer chip to function.

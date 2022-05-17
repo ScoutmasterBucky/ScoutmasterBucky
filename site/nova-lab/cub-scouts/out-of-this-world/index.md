@@ -2,7 +2,7 @@
 nova: out-of-this-world
 program: cub-scouts
 layout: nova-req
-lastUpdate: May 2018
+lastUpdate: January 2022
 hasNotes: true
 ---
 
@@ -22,9 +22,9 @@ This module is designed to help you discover the wonders of space exploration.
         1. Make a list of at least two questions or ideas from what you read and watched.
         2. Discuss two of the questions or ideas with your counselor.
 2. Complete ONE adventure from the following list for your current rank or complete option A or B. (Choose an Adventure you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
-    * **Wolf Cub Scouts:** Collections and Hobbies, Germs Alive!, Motor Away
-    * **Bear Cub Scouts:** Robotics, Super Science
-    * **Webelos Scouts:** Adventures in Science, Engineer, Game Design
+    * **Wolf Cub Scouts:** Germs Alive!
+    * **Bear Cub Scouts:** Super Science
+    * **Webelos Scouts:** Engineer, Game Design
     **Option A:** Do all of the following:
         (a) Demonstrate how to focus a simple telescope or binoculars. (A local astronomy club may be a resource for this activity.)
         (b) Draw a diagram of our solar system. Identify the planets and other objects.

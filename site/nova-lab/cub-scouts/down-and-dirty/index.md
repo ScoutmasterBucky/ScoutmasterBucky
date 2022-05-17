@@ -2,10 +2,10 @@
 nova: down-and-dirty
 program: cub-scouts
 layout: nova-req
-lastUpdate: September 2020
+lastUpdate: January 2022
 hasNotes: true
 hidden:
-    - Requirement 2Bb stopped with "Show and explain"
+    - Requirement 2BBb stopped with "Show and explain"
 ---
 
 This module is designed to help you explore how earth science affects your life each day.
@@ -25,9 +25,9 @@ This module is designed to help you explore how earth science affects your life 
         2. Discuss two of the questions or ideas with your counselor.
 2. Complete ONE adventure from the following list for your current rank or complete option A or
     B. (If you choose an Adventure, choose one you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
-    * **Wolf Cub Scouts:** Collections and Hobbies, Digging in the Past, Grow Something
+    * **Wolf Cub Scouts:** Collections and Hobbies, Digging in the Past
     * **Bear Cub Scouts:** Super Science
-    * **Webelos Scouts:** Adventures in Science, Earth Rocks!
+    * **Webelos Scouts:** Earth Rocks!
     **Option A:** Complete two of the following.
         (a) Explain to your den or an adult what geology means.
         (b) Collect samples of igneous, sedimentary, and metamorphic rocks and explain how each was formed.
