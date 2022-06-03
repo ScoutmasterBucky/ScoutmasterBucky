@@ -2,10 +2,11 @@
 nova: power-up
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdated: November 7, 2020
+lastUpdated: May 25, 2022
 hasNotes: true
 hiddenNotes:
     - Removed broken links from 3C2
+    - Fixed link to correct section for 3c2's counselor notes for "Alternative Fuel": Popular Mechanics
 ---
 
 This module is designed to help Venturers or Sea Scouts explore how technology affects their life each day.
@@ -15,11 +16,11 @@ This module is designed to help Venturers or Sea Scouts explore how technology a
     A. Watch about three hours total of technology-related shows or documentaries that involve transportation or transportation technology. Then do the following:
         (1) Make a list of at least two questions or ideas from each show.
         (2) Discuss two of the questions or ideas with your counselor.
-        Some examples include—but are not limited to—shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision.
+        Some examples include—but are not limited to—shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, and TED Talks (online videos). You may choose to watch a live performance or movie at or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision.
     B. Read (about three hours total) about transportation or transportation technology. Then do the following:
         (1) Make a list of at least two questions or ideas from each article.
         (2) Discuss two of the questions or ideas with your counselor.
-        Examples of magazines include—but are not limited to—Odyssey, Popular Mechanics, Popular Science, Science Illustrated, Discover, Air & Space, Popular Astronomy, Astronomy, Science News, Sky & Telescope, Natural History, Robot, Servo, Nuts and Volts, and Scientific American.
+        Examples of magazines include—but are not limited to—Odyssey, Popular Mechanics, Popular Science, Science Illustrated, Discover, Air & Space, Aviation Week, Astronomy, Science News, Natural History, Robot, Servo, and Scientific American.
     C. Do a combination of reading and watching (about three hours total). Then do the following:
         (1) Make a list of at least two questions or ideas from each article or show.
         (2) Discuss two of the questions or ideas with your counselor.
@@ -32,13 +33,15 @@ This module is designed to help Venturers or Sea Scouts explore how technology a
     * Electricity
     * Energy
     * Farm Mechanics
+    * Kayaking
     * Motorboating
     * Nuclear Science
     * Railroading
+    * Rowing
     * Small-Boat Sailing
     * Space Exploration
     * Truck Transportation
-3. Do ALL of the following.
+3. Do ALL the following.
     A. Using the requirements from the above list of STEM explorations:
         (1) Tell your counselor the energy source(s) used in these STEM explorations.
             {{#note type="counselor"}}Automotive Maintenance—Gasoline, diesel fuel, electric, blended gasoline, biodiesel, hybrid{{/note}}
@@ -49,6 +52,7 @@ This module is designed to help Venturers or Sea Scouts explore how technology a
             {{#note type="counselor"}}Electricity—Electromagnetism, chemical{{/note}}
             {{#note type="counselor"}}Energy—Biomass digesters, cogeneration, fossil fuel power, fuel cells, geothermal power, nuclear power, solar power, tidal energy, wave energy, ocean thermal energy, wind{{/note}}
             {{#note type="counselor"}}Farm Mechanics—Diesel fuel{{/note}}
+            {{#note type="counselor"}}Kayaking - Human power{{/note}}
             {{#note type="counselor"}}Motorboating—Gasoline, diesel fuel, blended gasoline, biodiesel{{/note}}
             {{#note type="counselor"}}Nuclear Science—Nuclear energy{{/note}}
             {{#note type="counselor"}}Railroading—Diesel fuel{{/note}}
@@ -59,9 +63,9 @@ This module is designed to help Venturers or Sea Scouts explore how technology a
             {{#note type="counselor"}}Truck Transportation—Diesel fuel{{/note}}
         (2) Discuss the pros and cons of each energy source with your counselor.
             {{#note type="counselor"}}Helpful Links{{/note}}
-            {{#note type="counselor"}}The following links are places to start when researching the pros and cons of fuel types. It is not an exhaustive list.{{/note}}
+            {{#note type="counselor"}}The following links are places to start when researching the pros and cons of fuel types.{{/note}}
             {{#note type="counselor"}}“Diesel Reborn”: Edmunds.com{{/note}}
-            {{#note type="counselor"}}Website: http://www.edmunds.com/fuel-economy/diesel-reborn.html{{/note}}
+            {{#note type="counselor"}}Website: https://www.edmunds.com/fuel-economy/diesel-reborn.html{{/note}}
             {{#note type="counselor"}}“Aviation Jet Fuel Information”: CSGNetwork.com{{/note}}
             {{#note type="counselor"}}Website: http://www.csgnetwork.com/jetfuel.html{{/note}}
     B. Make a list of sources of energy that may be possible to use in transportation. (See the list earlier in this section.)
@@ -69,15 +73,17 @@ This module is designed to help Venturers or Sea Scouts explore how technology a
         (1) Discuss alternative sources of energy.
         (2) Discuss the pros and cons of using alternative energy sources.
             {{#note type="counselor"}}Helpful Links{{/note}}
-            {{#note type="counselor"}}The following links are places to start when researching alternative fuels. It is not an exhaustive list. You can also search “Air Force alternative fuels” using your favorite search engine. Be sure you have your parent’s or guardian’s permission to use the Internet.{{/note}}
+            {{#note type="counselor"}}The following links are places to start when researching alternative fuels. You can also search “Air Force alternative fuels” using your favorite search engine. Be sure you have your parent’s or guardian’s permission to use the Internet.{{/note}}
             {{#note type="counselor"}}“Alternative& Advanced Vehicles”: U.S. Department of Energy{{/note}}
-            {{#note type="counselor"}}Website: http://www.afdc.energy.gov/afdc/vehicles/electric_benefits.html{{/note}}
+            {{#note type="counselor"}}Website: https://www.afdc.energy.gov/afdc/vehicles/electric_benefits.html{{/note}}
+            {{#note type="counselor"}}Energy Sources and Uses: U.S. Department of Energy, Energy Information Administration:{{/note}}
+            {{#note type="counselor"}}https://www.eia.gov/{{/note}}
             {{#note type="counselor"}}“Alternative Fuels”: U.S. Department of Energy{{/note}}
-            {{#note type="counselor"}}Website: http://www.fueleconomy.gov/feg/current.shtml{{/note}}
+            {{#note type="counselor"}}Website: https://www.fueleconomy.gov/feg/current.shtml{{/note}}
             {{#note type="counselor"}}“Alternative Fuel”: Popular Mechanics{{/note}}
-            {{#note type="counselor"}}Website: http://www.popularmechanics.com/cars/alternative-fuel{{/note}}
-            {{#note type="counselor"}}“Nuclear Power: A Leading Strategy to Reduce Oil Imports”: American Nuclear Society{{/note}}
-            {{#note type="counselor"}}Website: http://www.ans.org/pi/ps/docs/ps82.pdf{{/note}}
+            {{#note type="counselor"}}Website: https://www.popularmechanics.com/cars/alternative-fuel{{/note}}
+            {{#note type="counselor"}}“Nuclear Power: U.S. Department of Energy, Energy Information Administration:{{/note}}
+            {{#note type="counselor"}}https://www.eia.gov/energyexplained/nuclear/{{/note}}
 4. Design and build a working model vehicle (not from a kit).
     A. Make drawings and specifications of your model vehicle before you begin to build.
     B. Include one of the following energy sources to power your vehicle (do not use gasoline or other combustible fuel source): solar power, wind power, or battery power.

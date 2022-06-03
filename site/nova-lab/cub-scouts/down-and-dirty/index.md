@@ -2,7 +2,7 @@
 nova: down-and-dirty
 program: cub-scouts
 layout: nova-req
-lastUpdate: January 2022
+lastUpdate: May 24, 2022
 hasNotes: true
 hidden:
     - Requirement 2BBb stopped with "Show and explain"
@@ -19,13 +19,13 @@ This module is designed to help you explore how earth science affects your life 
     B. Read (about one hour total) about Earth, the weather, geology, volcanoes, or oceanography. Then do the following:
         1. Make a list of at least two questions or ideas from what you watched.
         2. Discuss two of the questions or ideas with your counselor.
-        {{#note type="counselor"}}Books on many topics may be found at your local library. Examples of magazines include but are not limited to Odyssey, KIDS DISCOVER, National Geographic Kids, Highlights, and OWL or owlkids.com.{{/note}}
+        {{#note type="counselor"}}Books on many topics may be found at your local library. Examples of magazines include but are not limited to Odyssey, KIDS DISCOVER, National Geographic Kids, Whizz Pop Bang, Science+Nature, How it Works, Aquila, Popular Science, muse, and OWL or owlkids.com.{{/note}}
     C. Do a combination of reading and watching (about one hour total) about Earth, the weather, geology, volcanoes, or oceanography. Then do the following:
         1. Make a list of at least two questions or ideas from what you read and watched.
         2. Discuss two of the questions or ideas with your counselor.
 2. Complete ONE adventure from the following list for your current rank or complete option A or
     B. (If you choose an Adventure, choose one you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
-    * **Wolf Cub Scouts:** Collections and Hobbies, Digging in the Past
+    * **Wolf Cub Scouts:** Digging in the Past
     * **Bear Cub Scouts:** Super Science
     * **Webelos Scouts:** Earth Rocks!
     **Option A:** Complete two of the following.
@@ -35,7 +35,7 @@ This module is designed to help you explore how earth science affects your life 
         (d) With your family or den, make a mineral test kit, and test minerals according to the Mohs scale of mineral hardness. Record the results.
     **Option B:** Complete one of the following:
         (a) Make a fossil cast.
-        (b) Make a dinosaur dig. Be a paleontologist, and dig through a dinosaur dig made by another member of your den. Show and explain the ways a paleontologist works carefully during a dig.
+        (b) Make a dinosaur dig. Be a paleontologist and dig through a dinosaur dig made by another member of your den. Show and explain the ways a paleontologist works carefully during a dig.
         {{#note type="counselor"}}The official requirement stops after "Show and explain", but the extra wording was found in another requirement.{{/note}}
 3. Investigate: Choose A or B or C or D and complete ALL the requirements:
     A. Volcanoes erupt
@@ -50,7 +50,7 @@ This module is designed to help you explore how earth science affects your life 
         3. Explain or demonstrate the difference in formation of the three major types of rocks. Which types of rocks are common in your area?
         4. Share your collection and what you have learned with your counselor.
     C. Weather changes our world
-        1. Make three weather instruments out of materials around your home. (Examples include a rain gauge, weather vane, barometer, anemometer, and weather journal.) Use these and another method that is readily available (i.e., thermometer, eyes, older person’s joints, etc.) for a total of four methods to monitor and predict the weather for one week. Keep a log of your findings. Which instrument provided the most accurate information?
+        1. Make three weather instruments out of materials around your home. (Examples include a rain gauge, weathervane, barometer, anemometer, and weather journal.) Use these and another method that is readily available (i.e., thermometer, eyes, older person’s joints, etc.) for a total of four methods to monitor and predict the weather for one week. Keep a log of your findings. Which instrument provided the most accurate information?
         2. Keep a weather journal for a week. Include your predictions and the predictions of a local meteorologist. Do your predictions match those of the local meteorologist? Do your predictions match the weather that occurred? How can the predictions become more accurate?
         3. Discuss your work with your counselor.
     D. Animal habitats: Choose TWO of the following animal habitats and complete the activity and questions. At least one habitat should be close to your home (within 50 miles). Visit at least one of the habitats. Once you have completed the activity and questions, discuss the habitats and the activities with your counselor:

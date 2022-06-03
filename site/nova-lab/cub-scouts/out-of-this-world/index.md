@@ -2,7 +2,7 @@
 nova: out-of-this-world
 program: cub-scouts
 layout: nova-req
-lastUpdate: January 2022
+lastUpdate: May 27, 2022
 hasNotes: true
 ---
 
@@ -25,7 +25,7 @@ This module is designed to help you discover the wonders of space exploration.
     * **Wolf Cub Scouts:** Germs Alive!
     * **Bear Cub Scouts:** Super Science
     * **Webelos Scouts:** Engineer, Game Design
-    **Option A:** Do all of the following:
+    **Option A:** Do all the following:
         (a) Demonstrate how to focus a simple telescope or binoculars. (A local astronomy club may be a resource for this activity.)
         (b) Draw a diagram of our solar system. Identify the planets and other objects.
         (c) Draw and label five constellations. See if you can locate any of them in the sky using a star map.

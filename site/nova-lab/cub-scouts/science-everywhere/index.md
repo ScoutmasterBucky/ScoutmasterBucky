@@ -2,7 +2,7 @@
 nova: science-everywhere
 program: cub-scouts
 layout: nova-req
-lastUpdate: January 22, 2022
+lastUpdate: May 24, 2022
 hasNotes: true
 ---
 
@@ -17,11 +17,11 @@ This module is designed to help the Scout explore how science affects their life
     B. Read (about one hour total) about anything related to science. Then do the following:
         (1) Make a list of at least two questions or ideas from what you read.
         (2) Discuss two of the questions or ideas with your counselor.
-            {{#note type="counselor"}}Books on many topics may be found at your local library. Examples of magazines include but are not limited to Odyssey, KIDS DISCOVER, National Geographic Kids, Highlights, and OWL or owlkids.com.{{/note}}
+            {{#note type="counselor"}}Books on many topics may be found at your local library. Examples of magazines include but are not limited to Odyssey, KIDS DISCOVER, National Geographic Kids, Whizz Pop Bang, Science+nature, How it Works, Aquila, Popular Science, muse, and OWL or owlkids.com.{{/note}}
     C. Do a combination of reading and watching(about one hour total) about anything related to science. Then do the following:
         (1) Make a list of at least two questions or ideas from what you read and watched.
         (2) Discuss two of the questions or ideas with your counselor.
-2. Complete ONE adventure from the following list for your current rank or complete option A or B. (If you choose an Adventure, choose one you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
+2. Complete ONE adventure from the following list for your current rank or complete option A or option B. (If you choose an Adventure, choose one you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
     * *Wolf Cub Scouts:* Digging in the Past, Germs Alive!
         {{#note type="counselor"}}**Digging in the Past:** Paleontology and geology{{/note}}
         {{#note type="counselor"}}**Germs Alive!:** Biology{{/note}}
@@ -56,8 +56,8 @@ This module is designed to help the Scout explore how science affects their life
             {{#note type="counselor"}}**Helpful Link:** “About Macroinvertibrates”: Volunteer Stream Monitoring: A Methods Manual. U.S. Environmental Protection Agency (available on KrisWeb) Website: www.krisweb.com/aqualife/insect.htm{{/note}}
         (5) What other activity can you think of that involves some kind of scientific questions or investigation?
     B. With your counselor, use the scientific method/process to investigate your question. Keep records of your question, the information you found, how you investigated, and what you found out about your question.
-        {{#note type="counselor"}}Scientific Method{{/note}}
         {{#note type="counselor"}}Your youth may use either the list or the diagram to help them investigate their question.{{/note}}
+        {{#note type="counselor"}}Scientific Method{{/note}}
         {{#note type="counselor"}}* Problem or question: What are you trying to find out?{{/note}}
         {{#note type="counselor"}}* Information and/or research: What do you already know about the problem? What have others done about the problem or question?{{/note}}
         {{#note type="counselor"}}* Hypothesis: What do you think is the answer to your question?{{/note}}
