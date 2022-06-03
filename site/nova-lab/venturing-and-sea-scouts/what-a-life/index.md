@@ -2,24 +2,24 @@
 nova: what-a-life
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdate: November 7, 2020
+lastUpdate: May 25, 2022
 hiddenNotes:
     - Removed dead links from 3A2, 3B2, 3D2, 3E2
     - Corrected link title for 3A2
 ---
 
-This module is designed to encourage you to explore different facets of the biological life and living systems around you, including macrobiotic and microbiotic life, ecology, genetics, and advances in medicine.
+This module is designed for Venturers and Sea Scouts to encourage you to explore different facets of the biological life and living systems around you, including macrobiotic and microbiotic life, ecology, genetics, and advances in medicine.
 
 {{#requirements}}
 1. Choose A *or* B *or* C and complete ALL the requirements.
-    A. Watch not less than three hours total of shows or documentaries related to areas of biology: botany, zoology, genetics, medicine, ecology, veterinary medicine or microbiology.  Then do the following:
+    A. Watch not less than three hours total of shows or documentaries related to areas of biology: botany, zoology, genetics, medicine, ecology, veterinary medicine, or microbiology.  Then do the following:
         (1) Make a list of at least five questions or ideas from the show(s) you watched.
         (2) Discuss two of the questions or ideas with your counselor.
-        Some examples include - but are not limited to—shows found on PBS (NOVA), Discovery Channel, Science Channel, Animal Planet Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. The Human Genome Institute at NIH website at www.genome.gov/10000002/education/ has educational information and activities related with human genetics. You may choose to watch a live performance or movie at an aquarium, nature center, and wildlife park or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision.
+        Some examples include-but are not limited to—shows found on PBS (NOVA: "Cracking the Code"), Discovery Channel, Science Channel, National Geographic Channel, Animal Planet and TED Talks (online videos). The Human Genome Institute at NIH website at www.genome.gov/10000002/education/ has educational information and activities related with human genetics. You may choose to watch a live performance or movie developed by a local science museum or state or federal agency. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision.
     B. Read (not less than three hours total) about anything related to a biological topic and do the following:
         (1) Make a list of at least five questions or ideas from each article.
         (2) Discuss two of the questions or ideas with your counselor.
-        Examples of magazines include—but are not limited to—Discover, Science News, Natural History, Scientific American, National Geographic, and The Scientist.
+        Examples of magazines include—but are not limited to—Discover, Science News, Natural History, Scientific American, National Geographic, Smithsonian and The Scientist.
     C. Combine reading and watching activities (not less than three hours total), and do the following:
         (1) Make a list of at least five questions or ideas from your activity.
         (2) Discuss two of the questions or ideas with your counselor.
@@ -30,25 +30,27 @@ This module is designed to encourage you to explore different facets of the biol
     * Fishing
     * Forestry
     * Gardening
+    * Health Care
     * Insect Study
     * Mammal Study
     * Management
-    * Medicine
     * Nature
     * Oceanography Wildlife conservation
     * Plant Science
+    * Professions
     * Soil and water conservation
     * Veterinary science
 3. Be a biologist! Consider different areas of biological explorations presented below and pick TWO from A *or* B *or* C *or* D *or* E. Run the experiments or perform the activity and discuss your observations and conclusions with your counselor. Always be sure you have your parent’s or guardian’s permission before using the Internet.
     A. **Botanical Investigation: Effect of Light on Plant Growth**
-        (1) Experiment: Plant pea seeds in potting soil, and grow and water one set under normal sunlight, another set under fluorescent light, and a last set of potted peas in large boxes with only one quarter-size hole for sunlight. Predict what difference(s) you expect to see among the three conditions, and allow plants to germinate and grow for at least two weeks.
+        (1) Experiment: Plant pea seeds in potting soil, and grow and water one set under normal sunlight, another set under fluorescent light, and a last set of potted peas in large boxes with only one quarter-size hole for sunlight. Predict what difference(s) you expect to see among the three conditions and allow plants to germinate and grow for at least two weeks.
             Record specific observations about the height, leaf size, number of leaves, color, and stem diameter. Document your results with photos. Graph your quantitative results.
         (2) Discuss with your counselor:
             * What was your hypothesis?
             * Did your experimental results agree with your hypothesis?
             * What factors contributed to the differences, if any, between your hypothesis and the actual experimental results?
             Helpful Links
-                * Factors affecting plant growth: https://en.wikipedia.org/wiki/Plant#Factors_affecting_growth
+                * Factors affecting plant growth: https://edis.ifas.ufl.edu/pdf/4H/4H36000.pdf
+                * Being an agricultural technician: https://www.sciencebuddies.org/scienceengineering-careers?s=agricultural%20technician
         (3) Discover. Explain to your counselor possible reasons that support your experimental results. Then answer TWO of the following questions.
             a. How does sunlight affect the process of photosynthesis?
             b. How do different colors of light affect plant growth?
@@ -65,26 +67,26 @@ This module is designed to encourage you to explore different facets of the biol
             * Did your experimental results agree with your hypothesis?
             * What factors contributed to the differences, if any, between your hypothesis and the actual experimental results?
             Helpful Links
-                * Guide to identification of fresh water organisms: www.msnucleus.org/watersheds/mission/plankton.pdf
+                * Guide to identification of freshwater organisms: www.msnucleus.org/watersheds/mission/plankton.pdf
                 * Pond life identification: www.biologycorner.com/worksheets/identifypond.html
                 * The Microbial World—Yeasts and yeast-like fungi: http://archive.bio.ed.ac.uk/jdeacon/microbes/yeast.htm
         (3) Discover: Explain to your counselor possible reasons that support your experimental results. Then answer TWO of the following questions. (With your parent’s or guardian’s permission, you may use the internet to find this information.)
             * What did you learn about the changes in your micro-ecosystem, and how can you extrapolate what you learned to a larger ecosystem?
             * Which methods are used to purify the water?
-            * Research how to make yeast bread, yogurt OR cheese (Choose ONE only).
+            * Research how to make yeast bread, yogurt, or cheese (Choose ONE only).
                 * Prepare a sample of the food product to show to your counselor.
                 * Discuss with your counselor how microbes were utilized in production of this food.
     C. **Zoology and Veterinary Science: Puppy Chow**
         (1) Experiment: Visit an animal feed store or research the internet for information on nutritional requirements for the different life stages—juvenile, adult, and senior adult—of ONE animal.
             a. Compare and contrast the nutrient content of feed for at least three major life stages of your selected animal subject.
             b. Volunteer at an animal center for at least eight hours. Gather practical information about diet components and feeding requirements of at least three animals representing the different life stages.
-            c. Tabulate your data, and present it to your counselor.
+            c. Tabulate your data and present it to your counselor.
         (2) Discuss with your counselor the following:
             * Why each life stage requires a different balance of nutrients.
             * Why is overfeeding a nutrient, such as protein, not a good practice?
             * Why do pets need at least an annual check-up?
             Helpful Links
-                * Animal Nutrition: www.aps.uoguelph.ca/~gking/Ag_2350/nutrition.htm
+                * Animal Nutrition: https://animalbiosciences.uoguelph.ca/~gking/Ag_2350/nutrition.htm
         (3) Discover: Take a tour of a local veterinary clinic or animal shelter and interview a medical professional about what is involved in a routine pet check-up, including vaccinations, and why.
             * Explain to your counselor what kind of education is required to be a veterinarian.
             * What are other related career options in this field?
@@ -100,7 +102,8 @@ This module is designed to encourage you to explore different facets of the biol
             c. Why are strawberries a good choice for DNA extraction? What else could you use?
             d. Why do you think you are able to see the DNA without using a microscope?
             Helpful Links
-                * Talking Glossary of Genetic Terms: https://www.genome.gov/glossary/
+                * The Animated Genome: https://ulc.drivingcreative.com/media/animations/659#660
+                * Talking Glossary of Genetic Terms: https://www.genome.gov/genetics-glossary
                 * Brief history of Human Genome Project https://unlockinglifescode.org/timeline
                 * Genomic Careers: https://www.genome.gov/careers-in-genomics
                 * What do you think? Ethical and social questions surrounding genomic research: https://unlockinglifescode.org/wdyt/#/
@@ -119,9 +122,10 @@ This module is designed to encourage you to explore different facets of the biol
             b. What are the environmental concerns for that area? Explain them using photographs, graphs, or available data.
             c. What project has been or could be done to improve the natural habitat threatened in that area?
             Helpful links
+                * Environmental Information by Location: https://www.epa.gov/environmental-topics/location-specificenvironmental-information
                 * Learning activities about Environment: https://www.epa.gov/students
-                * National Geographic Education: www.nationalgeographic.org/lesson/?q=&grade_bands=9%E2%80%9312+(Ages+14%E2%80%9318)&per_page=25&subjects=Ecology
-                * National Park Service: www.nps.gov/teachers/teacher-resources.htm?q=ecology
+                * National Geographic Education: https://www.nationalgeographic.org/lesson/?q=&grade_bands=9%E2%80%9312+(Ages+14%%20E2%80%9318)&per_page=25&subjects=Ecology
+                * National Park Service: https://www.nps.gov/teachers/teacher-resources.htm#q=ecology
                 * Local flora and fauna guides
 4. Discover: Research and discuss with your counselor THREE of the current environmental issues listed below and their effect on microbiotic and macrobiotic life.
     a. Pollution
