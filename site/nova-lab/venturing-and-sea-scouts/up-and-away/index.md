@@ -2,7 +2,7 @@
 nova: up-and-away
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdate: May 10, 2019
+lastUpdate: May 25, 2022
 hiddenNotes:
     - Updated link for 3B1
 ---
@@ -11,10 +11,10 @@ This award explores the world of fluid dynamics, and how it affects your everyda
 
 {{#requirements}}
 1. Choose A *or* B *or* C and complete ALL of the requirements.
-    A. Watch not less than three hours total of shows or documentaries that discuss fluid dynamics or a show related to fluid dynamics. Then do the following:
+    A. Watch not less than three hours total of shows or documentaries that discuss fluid dynamics, or a show related to fluid dynamics. Then do the following:
         (1) Make a list of at least five questions or ideas from the show(s) you watched.
         (2) Discuss two of the questions with or ideas with your counselor.
-        Some examples of shows to watch include—but are not limited to—“The STEM of Indoor Skydiving” (https://youtu.be/V5jJ5FaX1ZU); documentaries produced by PBS (such as “NOVA”), the Discovery Channel, Science Channel, National Geographic Channel, and the History Channel; or lectures or presentations focused on science, technology, engineering, or math (such as TED Talks www.ted.com) using some search terms you might think of using could include “fluid dynamics for kids” or “the science of skydiving for kids.” You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production.
+        Some examples of shows to watch include — but are not limited to — “The STEM of Indoor Skydiving” (https://youtu.be/V5jJ5FaX1ZU); documentaries produced by PBS (such as “NOVA”), the Discovery Channel, Science Channel, National Geographic Channel, and the History Channel; or lectures or presentations focused on science, technology, engineering, or math (such as TED Talks www.ted.com) using some search terms you might think of using could include “fluid dynamics for kids” or “the science of skydiving for kids.” You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production.
     B. Read not less than three hours total about a topic related to fluid dynamics. Then do the following:
         (1) Make a list of at least five questions or ideas from the article(s) you read.
         (2) Discuss two of the questions with or ideas with your counselor.
@@ -32,7 +32,7 @@ This award explores the world of fluid dynamics, and how it affects your everyda
     * Rowing
     * Scuba Diving
     * Swimming
-3. Complete two activities from A *or* B *or* C *or* D. Complete all of the items under each activity.
+3. Complete two activities from A *or* B *or* C *or* D. Complete all the items under each activity.
     A. Conduct a Terminal Velocity Investigation.
         1. With your counselor, fill an empty tennis ball tube, or other clear plastic tube at least 12" tall, with clear corn syrup.
         2. Drop two round objects with the same diameter but different masses into the syrup (example: a steel ball and a glass marble).

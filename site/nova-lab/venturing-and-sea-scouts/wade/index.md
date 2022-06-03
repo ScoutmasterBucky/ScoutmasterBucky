@@ -2,7 +2,7 @@
 nova: wade
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdate: November 7, 2020
+lastUpdate: May 25, 2022
 hiddenNotes:
     - Updated Surf Your Watershed link to How's My Waterway, Version 2 for 5B1.
 ---
@@ -36,7 +36,7 @@ This module is designed to help you explore how water affects your life every da
     * Soil and Water Conservation
     * Sustainability
     * Weather
-3. Learn how the volume of water changes as it moves from phase to phase. Do all of the following.
+3. Learn how the volume of water changes as it moves from phase to phase. Do all the following.
     A. Describe how you would measure the change in volume for the transition of water from liquid to ice.
     B. Discuss with your counselor the effects that floating sea ice and land-based ice have on sea levels when they melt.
     C. Discuss with your counselor the effects that floating sea ice and land-based ice have on water tables when they melt.
@@ -50,10 +50,10 @@ This module is designed to help you explore how water affects your life every da
     {{#note type="counselor"}}Oil Spill Dispersants: Efficacy and Effects (2005){{/note}}
     {{#note type="counselor"}}https://www.nap.edu/catalog/11283/oil-spill-dispersants-efficacy-and-effects{{/note}}
     {{#note type="counselor"}}One activity could be having scouts try different tools to skim the oil using different tools – a paper towel, wood splint, steel wool, cotton balls, and so on. You could also have them build a physical oil skimmer. Which one collects the most oil and least water?{{/note}}
-    {{#note type="counselor"}}Another activity could be putting oil and water into a sealed scintillation (or other clear) vial and shaking vigorously. What happens? Then add one drop of dishwashing liquid (Dawn works best), and shake again. What happens this time?{{/note}}
+    {{#note type="counselor"}}Another activity could be putting oil and water into a sealed scintillation (or other clear) vial and shaking vigorously. What happens? Then add one drop of dishwashing liquid (Dawn works best) and shake again. What happens this time?{{/note}}
 5. Water, wetlands, and wildlife. Do ONE of the following options (A or B).
-    A. Identify and locate on a map the five largest bodies of water near where you live, and indicate the water flow for each. These could be creeks, streams, rivers, bayous, lakes, bays, estuaries, or oceans. The flow should culminate in the largest water body in your area.
-        (1) Identify 10 of the common invertebrates and vertebrates that are probably present in these different bodies of water. Learn what a bioindicator is, and identify any in your system. You may choose to contact a local biology teacher, college professor, nature center naturalist, or state fish and wildlife expert, or you can use resources from your local conservation department.
+    A. Identify and locate on a map the five largest bodies of water near where you live and indicate the water flow for each. These could be creeks, streams, rivers, bayous, lakes, bays, estuaries, or oceans. The flow should culminate in the largest water body in your area.
+        (1) Identify 10 of the common invertebrates and vertebrates that are probably present in these different bodies of water. Learn what a bioindicator is and identify any in your system. You may choose to contact a local biology teacher, college professor, nature center naturalist, or state fish and wildlife expert, or you can use resources from your local conservation department.
         (2) Research the services that wetlands perform for water quality, flood control, and wildlife habitat. How can wetlands be used to complement sewage treatment plants? Discuss your findings with your counselor.
         {{#note type="counselor"}}Your state department of conservation or natural resources can be a great place to start.{{/note}}
         {{#note type="counselor"}}Flyover Country® is a National Science Foundation funded offline mobile app for geoscience outreach and data discovery. https://flyovercountry.io/{{/note}}
@@ -71,9 +71,9 @@ This module is designed to help you explore how water affects your life every da
             {{#note type="counselor"}}Non-point source pollution – pollution collected as water washes off a large area. Could include pesticides, soil particles, and so on.{{/note}}
             {{#note type="counselor"}}Oceanic dead zones – a low-oxygen area (hypoxic), often found near the mouth of rivers, resulting from "excessive nutrient pollution from human activities coupled with other factors that deplete the oxygen required to support most marine life in bottom and near-bottom water.  (National Oceanic and Atmospheric Administration)"{{/note}}
         (2) Determine which river basin you live in and research (or estimate) its size.  Estimate the total volume of water that falls on this watershed every minute during a 1-inch per hour rainfall.
-            {{#note type="counselor"}}Example: If the watershed you selected is 10 acre, that is 6.273 x 107 sq in. A 1 inch per hour rainfall will deposit:{{/note}}
-            {{#note type="counselor"}}6.273 x 107 sq in * 1 in/hr * 1 hour = 6.273 x 107 cubic inches of rain per hour{{/note}}
-            {{#note type="counselor"}}6.273 x 107 cubic inches of rain/hr * 1hr/60 minutes = 1,045,500 cubic inches of rain/minute{{/note}}
+            {{#note type="counselor"}}Example: If the watershed you selected is 10 acres, that is 6.273 x 107 sq in. A 1 inch per hour rainfall will deposit:{{/note}}
+            {{#note type="counselor"}}6.273 x 107 sq in * 1 in/hr. * 1 hour = 6.273 x 107 cubic inches of rain per hour{{/note}}
+            {{#note type="counselor"}}6.273 x 107 cubic inches of rain/hr. * 1hr/60 minutes = 1,045,500 cubic inches of rain/minute{{/note}}
             {{#note type="counselor"}}1,045,500 cubic inches of rain/minute * 0.004329 gallons/cubic inch = 4520 gallons rain/minute{{/note}}
             {{#note type="counselor"}}To put that into perspective, an average American shower uses 17 gallons of water, which is 270 showers worth of water falling every minute over the watershed.{{/note}}
         (3) Construct a chart that shows the volume of water that runs into the river as a fraction of the total rain falling on the watershed (using composite runoff coefficients). Estimate the rate of runoff in cubic feet per minute for a 1inch per hour rainfall from your home’s lot or a nearby property.
@@ -82,8 +82,8 @@ This module is designed to help you explore how water affects your life every da
             {{#note type="counselor"}}If your property is 1 acre, that is 6.273 x 106 sq in.{{/note}}
             {{#note type="counselor"}}A 1 inch per hour rainfall will deposit:{{/note}}
             {{#note type="counselor"}}6.273 x 106 sq in * 1 in/hr * 1 hour = 6.273 x 106 cubic inches of rain per hour{{/note}}
-            {{#note type="counselor"}}6.273 x 106 cubic inches of rain/hr * 1hr/60 minutes = 104,550 cubic inches of rain/minute{{/note}}
-            {{#note type="counselor"}}If half the property is house (ie, roof), and half the property is a grass lawn, the amount of runoff would be:{{/note}}
+            {{#note type="counselor"}}6.273 x 106 cubic inches of rain/hr. * 1hr/60 minutes = 104,550 cubic inches of rain/minute{{/note}}
+            {{#note type="counselor"}}If half the property is house (i.e., roof), and half the property is a grass lawn, the amount of runoff would be:{{/note}}
             {{#note type="counselor"}}Runoff = (1/2*0.90 + ½*0.05)*104,550 in3/minute = 49,661 in3/minute{{/note}}
             {{#note type="counselor"}}This is the Rational Method for runoff calculations, and is a quick, simple calculation. Much more sophisticated models and computer algorithms are also available.{{/note}}
         (4) Discuss with your counselor the implications of these calculations as they relate to the effect of changes in land use on flooding, soil moisture, erosion, and point and non-point source pollution. What are the most common types of water pollution in your area, and how are these being impacted by land use? How might these be reduced?

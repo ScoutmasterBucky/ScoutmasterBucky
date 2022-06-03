@@ -2,7 +2,7 @@
 nova: numbers-dont-lie
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdate: November 7, 2020
+lastUpdate: May 25, 2022
 hasNotes: true
 hiddenNotes:
     - Updated link for 3A
@@ -16,29 +16,30 @@ This module is designed to help the Venturer explore how math affects his or her
     A. Watch about three hours total of math-related shows or documentaries that involve scientific models and modeling, physics, sports equipment design, bridge building, or cryptography. Then do the following:
         (1) Make a list of at least two questions or ideas from each show.
         (2) Discuss two of the questions or ideas with your counselor.
-        Some examples include—but are not limited to—shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision.
+        Some examples include—but are not limited to—shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, and TED Talks (online videos). You may choose to watch a live performance or movie at a science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision.
     B. Research (about three hours total) several websites (with your parent’s or guardian’s permission) that discuss and explain cryptography or the discoveries of people who worked extensively with cryptography. Then do the following:
-        (1) List and record the URLs of the websites you visited and the major topics covered on the websites you visited. (You may use the copy and paste function—eliminate the words—if you include your sources.)
+        (1) List and record the URLs of the websites you visited, and the major topics covered on the websites you visited. (You may use the copy and paste function—eliminate the words—if you include your sources.)
         (2) Discuss with your counselor how cryptography is used in the military and in everyday life and how a cryptographer uses mathematics.
         Helpful Link
         “The Mathematics of Cryptology”: University of Massachusetts
         Website: http://www.math.umass.edu/~gunnells/talks/crypt.pdf
-    C. Read at least three articles (about three hours total) about physics, math, modeling, or cryptography. You may wish to read about how technology and engineering are changing sports equipment, how and why triangles are used in construction, bridge building, engineering, climate and/or weather models, howbanks keep information secure, or about the stock market. Then do the following:
+    C. Read at least three articles (about three hours total) about physics, math, modeling, or cryptography. You may wish to read about how technology and engineering are changing sports equipment, how and why triangles are used in construction, bridge building, engineering, climate and/or weather models, how banks keep information secure, or about the stock market. Then do the following:
         (1) Make a list of at least two questions or ideas from each article.
         (2) Discuss two of the questions or ideas with your counselor.
-        Examples of magazines include—but are not limited to—Odyssey, Popular Mechanics, Popular Science, Science Illustrated, Discover, Air & Space, Popular Astronomy, Astronomy, Science News, Sky & Telescope, Natural History, Robot, Servo, Nuts and Volts, and Scientific American.
+        Examples of magazines include—but are not limited to—beanZ, Plus, Owl, How it Works, Discover, National Geographic, Nature, Odyssey, Popular Mechanics, Popular Science, Science Illustrated, Air & Space, Popular Astronomy, Astronomy, Science News, Sky & Telescope, Natural History, Robot, Servo, Nuts and Volts, and Scientific American.
     D. Do a combination of reading, watching, or researching (about three hours total). Then do the following:
         (1) Make a list of at least two questions or ideas from each article, website, or show.
         (2) Discuss two of the questions or questions with your counselor.
 2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a STEM exploration in that field. See [STEM Explorations](../../explorations/) for the requirements. (If you have already completed a Venturing STEM exploration in one of these fields, please choose a different field for this award.) After completion, discuss with your counselor how the Venturing STEM exploration you completed uses mathematics.
-    * American Business
+    * Animation
     * Chess
-    * Computers
+    * Digital Technology
     * Drafting
     * Entrepreneurship
     * Orienteering
-    * Personal management
+    * Personal Management
     * Radio
+    * Signs, Signals and Codes
     * Surveying
     * Weather
 3. Choose TWO from A or B or C or D and complete ALL the requirements. (Write down your data and calculations to support your explanation to your counselor. You may use a spreadsheet. Do not use someone else’s data or calculations.)
@@ -63,9 +64,8 @@ This module is designed to help the Venturer explore how math affects his or her
         {{#note type="counselor"}}7. Divide the number of watts by 745.6 w/hp to get the number in horsepower.{{/note}}
         (1) How does your horsepower compare to the power of a horse?
             {{#note type="counselor"}}Horsepower is a unit of power. One horsepower equals 33,000 foot-pounds of work per minute, or 745.6 watts. James Watt, who invented steam engines, based his unit of power on how much weight a real horse could pull from a coal mine in one minute. (See “What Is Horsepower” at www.web-cars.com/math/horsepower.html.){{/note}}
-        (2) How does your horsepower compare to the horsepower of your favorite car?
-            {{#note type="counselor"}}Share your calculations with your counselor, and discuss what you learned about horsepower.  Most car information packets and many websites list the horsepower of cars.{{/note}}
-    B. Attend at least two track, cross-country, or swim meets.
+        (2) How does your horsepower compare to the horsepower of your favorite car?  Share your calculations with your counselor and discuss what you learned about horsepower.  Most car information packets and many websites list the horsepower of cars.
+    B. Attend at least two track, cross-country, or swim meets. You may substitute any sport where there are timed events.
         (1) For each meet, time at least three racers. (Time the same racers at each meet.)
         (2) Calculate the average speed of the racers you timed. (Make sure you write down your data and calculations.)
         (3) Compare the average speeds of your racers to each other, to the official time, and to their times at the two meets you attended.
@@ -79,10 +79,12 @@ This module is designed to help the Venturer explore how math affects his or her
         {{#note type="counselor"}}Helpful Links{{/note}}
         {{#note type="counselor"}}The following are some sites to suggest but that do not have to be used.{{/note}}
         {{#note type="counselor"}}“SoccerXpert.com Soccer Stats”: SoccerXpert.com{{/note}}
-        {{#note type="counselor"}}Website: http://www.soccerxpert.com/docs/GameStats.pdf{{/note}}
+        {{#note type="counselor"}}Website: https://www.soccerxpert.com/docs/GameStats.pdf{{/note}}
+        {{#note type="counselor"}}The Baseball Scorecard{{/note}}
+        {{#note type="counselor"}}https://www.baseball.org.il/images/Scorecard.pdf{{/note}}
         {{#note type="counselor"}}“How to Take Statistics at a Basketball Game”{{/note}}
         {{#note type="counselor"}}Website: https://www.basketballforcoaches.com/basketball-stat-sheet/{{/note}}
-    D. Attend a football game or watch one on TV. (This is a fun activity to do with a parent or friend! ) Keep track of the efforts of your favorite team during the game. (Make sure you write down your data and calculations.) Calculate your team’s statistics using the following as examples:
+    D. Attend a football game or watch one on TV. (This is a fun activity to do with a parent or friend!) Keep track of the efforts of your favorite team during the game. (Make sure you write down your data and calculations.) Calculate your team’s statistics using the following as examples:
         (1) Kicks/punts
             (a) Kickoff—Kick return yards
             (b) Punt—Number, yards
@@ -94,11 +96,11 @@ This module is designed to help the Venturer explore how math affects his or her
             (c) Running plays—Number, yards gained or lost for each run, longest run from scrimmage line, total yards gained or lost, and number of touchdowns
         (3) Defense—Number of quarterback sacks, interceptions turnovers, safeties
         Share your calculations with your counselor, and discuss your conclusions about your team’s strengths and weaknesses.
-4. Do ALL of the following.
+4. Do ALL the following.
     A. Investigate your calculator and explore the different functions.
     B. Discuss the functions, abilities, and limitations of your calculator with your counselor.  Talk about how these affect what you can and cannot do with a calculator. (See your counselor for some ideas to consider.)
 5. Discuss with your counselor how math affects your everyday life.
-    {{#note type="counselor"}}Here are some ideas for Venturers or Sea Scouts to consider. Pick a few or think of others.{{/note}}
+    {{#note type="counselor"}}Here are some ideas for your Scout to consider. Pick a few or think of others.{{/note}}
     {{#note type="counselor"}}* How can you add fractions using your calculator and get an answer in fraction form?{{/note}}
     {{#note type="counselor"}}* How can you perform repeated calculations efficiently?{{/note}}
     {{#note type="counselor"}}* How many digits in a numerical answer can your calculator display? What if the answer to your calculation has more digits than your calculator can display? Can you figure out how many digits your answer has? Can you figure out the hidden digits?{{/note}}

@@ -2,7 +2,7 @@
 nova: execute
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdate: November 7, 2020
+lastUpdate: May 25, 2022
 ---
 
 This module is designed to help you explore how programming affects everyday life.
@@ -36,16 +36,16 @@ This module is designed to help you explore how programming affects everyday lif
             c. Free Basic
             d. Free Pascal
             e. Active State (Perl, Python, Ruby, Lua, TCL, Go)
-            f. Java and Netbeans IDE
+            f. Java and NetBeans IDE
         2. With your counselor, discuss what aspects of your app make it easy for users to use. Discuss what modifications could be made to make the app better and easier to use.
         3. Show your app to your counselor and explain how you created it.
     B. Investigate a new object-oriented programming language.
-        1. Use an online program for learning programming to study a language of your choice. An example of such a language is Scratch or Javascript or Squeak.
+        1. Use an online program for learning programming to study a language of your choice. An example of such a language is Scratch or JavaScript or Squeak.
         2. After experimenting with the language, create a mini-video or game that encourages potential new members to join Venturing/Sea Scouting or tells the story of your favorite Scouting memory.
         3. Show your program to your counselor and describe how you made it.
     C. Create a page in HTML.
         1. Take on online course to learn about HTML.
-        2. After taking the course, create an basic HTML page for your crew or ship.
+        2. After taking the course, create a basic HTML page for your crew or ship.
         3. Show your HTML page to your counselor and explain how you created it.
     D. Find an old cellphone, computer, or other digital electronic and take it apart (ask your parents or guardians for permission first!).
         1. Identify three pieces to research.
@@ -56,7 +56,7 @@ This module is designed to help you explore how programming affects everyday lif
         2. Find out how do search engines work. Research how large databases, like Google and Bing, manage and distribute their data to internet users.
         3. Share your research and timeline with your counselor.
     F. Research the importance of cybersecurity.
-        1. Create a poster or presentation describing the types of malicious computer attacks, at least six common cyber and physical attacks, and how to prevent cyber attacks.
+        1. Create a poster or presentation describing the types of malicious computer attacks, at least six common cyber and physical attacks, and how to prevent cyber-attacks.
         2. Share your poster with your crew or ship.
         3. Explain the importance of cybersecurity with your counselor.
     G. Research the Agile Design Process.

@@ -2,7 +2,7 @@
 nova: launch
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdate: November 28, 2018
+lastUpdate: May 25, 2022
 hasNotes: true
 hiddenNotes:
     - 3A2 only had broken links in the counselor's notes and broken links for the normal page, but the link text worked. Updated.
@@ -10,7 +10,7 @@ hiddenNotes:
     - 5B miscounted during requirements. I fixed them.
 ---
 
-This module is designed to help you explore how science affects your life each day.
+This module is designed for Venturing and Sea Scouts to explore how science affects your life each day.
 
 {{#requirements}}
 1. Choose A or B or C and complete ALL the requirements.
@@ -21,15 +21,15 @@ This module is designed to help you explore how science affects your life each d
     B. Read (about three hours total) about projectiles, aviation, space, weather, astronomy, or aviation or space technology. Then do the following:
         (1) Make a list of at least two questions or ideas from each article.
         (2) Discuss two of the questions or ideas with your counselor.
-            Examples of magazines include—but are not limited to—Odyssey, Popular Mechanics, Popular Science, Science Illustrated, Discover, Air & Space, Popular Astronomy, Astronomy, Science News, Sky & Telescope, Natural History, Robot, Servo, Nuts and Volts, and Scientific American.
+            Examples of magazines include—but are not limited to—Odyssey, Popular Mechanics, Popular Science, Science Illustrated, Discover, Air & Space, Aviation Week, Astronomy, Science News, Natural History, Robot, Servo, and Scientific American.
     C. Do a combination of reading and watching (about three hours total). Then do the following:
         (1) Make a list of at least two questions or ideas from each article or show.
         (2) Discuss two of the questions or ideas with your counselor.
-2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a STEM exploration in that field. See [STEM Explorations](../../explorations/) for the requirements. (If you have already completed a Venturing STEM exploration in one of these fields, please choose a different field for this award.)
+2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a STEM exploration in that field. See [STEM Explorations](../../explorations/) for the requirements. (If you have already completed a Venturing or Sea Scouts STEM exploration in one of these fields, you must choose a different field for this award.)
     * Archery
     * Astronomy
-    * Athletics
     * Aviation
+    * Digital Technology
     * Rifle Shooting
     * Robotics
     * Shotgun Shooting
@@ -105,13 +105,13 @@ This module is designed to help you explore how science affects your life each d
         (1) Find out what time a satellite will pass over your area. (A good resource to find the times for satellite passes is the Heavens Above website at http://www.heavens-above.com.)
         (2) Watch the satellite using binoculars. Record the time of your viewing, the weather conditions, how long the satellite was visible, and the path of the satellite. Then discuss your viewing with your counselor.
 5. Choose A or B or C and complete ALL the requirements.
-    A. Design and build a catapult that will launch a marshmallow a distance of 4 feet. Then do the following:
+    A. Design and build a catapult that will launch a marshmallow 4 feet. Then do the following:
         (1) Keep track of your experimental data for every attempt. Include the angle of launch and the distance projected.
         (2) Make sure you apply the same force every time, perhaps by using a weight to launch the marshmallow.
         Discuss your design, data, and experiments—both successes and failures— with your counselor.
     B. Design a pitching machine that will lob a softball into the strike zone. Answer the following questions, then discuss your design, data, and experiments— both successes and failures—with your counselor.
         (1) At what angle and velocity will your machine need to eject the softball in order for the ball to travel through the strike zone from the pitcher’s mound?
-        (2) How much force will you need to apply in order to power the ball to the plate?
+        (2) How much force will you need to apply to power the ball to the plate?
         (3) If you were to use a power supply for your machine, what power source would you choose and why?
     C. Design and build a marble run or roller coaster that includes an empty space where the marble has to jump from one part of the chute to the other. Do the following, then discuss your design, data, and experiments—both successes and failures—with your counselor.
         (1) Keep track of your experimental data for every attempt. Include the vertical angle between the two parts of the chute and the horizontal distance between the two parts of the chute.
