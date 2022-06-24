@@ -55,7 +55,6 @@
             - task: true
       - note:
             - inPerson
-            - online
         text: |-
             Scouts will find that the use of the Energy Merit Badge pamphlet
             will be a great guide and resource when preparing for this
@@ -66,11 +65,21 @@
             the devices use of energy as stated in component 1a of this
             requirement will have be considered for sign off on this entire
             requirement during the class.
+      - note:
+            - online
+        text: |-
+            Scouts will find that the use of the Energy Merit Badge pamphlet
+            will be a great guide and resource when preparing for this
+            requirement prior to the class. Bring the system that was
+            constructed and be prepared to discuss the device's use of energy
+            as stated in component 1a. Only Scouts that have properly prepared
+            and actively participate will be considered for sign off on this
+            entire requirement during the class.
 - requirement: 3
   text: |-
       Show you understand energy efficiency by explaining to your counselor a
-      common example of a situation where energy moves through a system to produce
-      a useful result. Do the following:
+      common example of a situation where energy moves through a system to
+      produce a useful result. Do the following:
   workbook:
       - lines: 8
   children:
