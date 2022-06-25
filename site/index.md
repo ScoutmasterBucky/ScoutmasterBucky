@@ -4,7 +4,8 @@ layout: smb
 opportunities: 15,000+
 online: 1,500+
 news:
-    - Added several online offerings throughout May and June.
+    - Loaded up July with online merit badge offerings.
+    - August now has a week of merit badge classes online.
 css:
     - css/calendar.css
 js:
