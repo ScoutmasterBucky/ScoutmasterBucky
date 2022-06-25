@@ -16,7 +16,7 @@ registrationLink: https://clever-coyote.8b.io/registration.html
 
 </div>
 
-Mark your calendar and prepare for the ultimate skills challenge - can you survive the Clever Coyote challenge? Participants will experience a simulated survival event where their wits and resourcefulness are put to the test. There is a new challenge each year.
+Mark your calendar and prepare for a wilderness survival scenario - can you survive the Clever Coyote challenge? Participants will experience a simulated survival event where their wits and resourcefulness are put to the test. There is a new challenge each year.
 
 *Your airplane is malfunctioning and is unable to stay aloft. The pilot calls for mayday and the worst imaginable scenario happens - the flight crashes. You survive with a couple others. You're in unfamiliar territory and you've still got a job to do.*
 
