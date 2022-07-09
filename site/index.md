@@ -1,8 +1,8 @@
 ---
 title: Scoutmaster Bucky
 layout: smb
-opportunities: 15,000+
-online: 1,500+
+opportunities: 14,500+
+online: 1,800+
 news:
     - Added several online offerings throughout May and June.
 css:
@@ -20,7 +20,7 @@ js:
 <div class="C(smbThmTx) Fw(b) Fz(2em) D(f) Jc(c)">Scoutmaster Bucky</div>
 <div class="D(f) Jc(c) Pb(1em)">Serving Scouts since January 2009</div>
 
-<div class="Maw(450px) Ta(c) Mx(a)">Over {{#smb-accent}}{{opportunities}}{{/smb-accent}} Scout merit badge opportunities, over {{#smb-accent}}{{online}}{{/smb-accent}} Scout online merit badge opportunities, and thousands of Cub Scout and Venturing advancement opportunities.</div>
+<div class="Maw(450px) Ta(c) Mx(a)">Over {{#smb-accent}}{{opportunities}}{{/smb-accent}} Scout in-person merit badge opportunities and over {{#smb-accent}}{{online}}{{/smb-accent}} Scout online merit badge opportunities, with thousands of past Cub Scout and Venturing advancement opportunities.</div>
 
 <div class="Ta(c) Mt(1em)">Remember the Scout Motto: {{#smb-accent}}Be Prepared{{/smb-accent}}</div>
 
