@@ -3,8 +3,8 @@ host: Scoutmaster Bucky
 title: Citizenship in Society Merit Badge Online
 online: true
 badge: citizenship-in-society
-eventDateStart: 2022-08-03 9:00
-eventDateEnd: 2022-08-03 13:30
-eventBriteEventId: 372063841967
-onSaleDate: 2022-07-01 0:05
+eventDateStart: 2022-08-31 9:00
+eventDateEnd: 2022-08-31 15:30
+eventBriteEventId: 401854396317
+onSaleDate: 2022-08-01 0:05
 ---
