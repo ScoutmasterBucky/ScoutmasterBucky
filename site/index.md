@@ -2,7 +2,7 @@
 title: Scoutmaster Bucky
 layout: smb
 opportunities: 14,500+
-online: 1,800+
+online: 1,950+
 news:
     - Loaded up July with online merit badge offerings.
     - August now has a week of merit badge classes online.
