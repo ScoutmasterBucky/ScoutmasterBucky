@@ -1,5 +1,6 @@
 const metadata = {
     buildDate: new Date().toISOString(),
+    buildTime: Date.now(),
     liveReload: !!process.env.LIVE_RELOAD,
     meritBadges: require("./merit-badges.json"),
     novaAwards: require("./nova-awards.json"),
