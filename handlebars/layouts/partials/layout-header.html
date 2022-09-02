@@ -4,15 +4,15 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="stylesheet" href="{{@root.rootPath}}css/reset.css" />
-        <link rel="stylesheet" href="{{@root.rootPath}}css/atomic.css" />
-        <link rel="stylesheet" href="{{@root.rootPath}}css/menu.css" />
-        <link rel="stylesheet" href="{{@root.rootPath}}css/fonts.css" />
+        <link rel="stylesheet" href="{{@root.rootPath}}css/reset.css?{{@root.buildTime}}" />
+        <link rel="stylesheet" href="{{@root.rootPath}}css/atomic.css?{{@root.buildTime}}" />
+        <link rel="stylesheet" href="{{@root.rootPath}}css/menu.css?{{@root.buildTime}}" />
+        <link rel="stylesheet" href="{{@root.rootPath}}css/fonts.css?{{@root.buildTime}}" />
 {{#css}}
-        <link rel="stylesheet" href="{{.}}" />
+        <link rel="stylesheet" href="{{.}}?{{@root.buildTime}}" />
 {{/css}}
 {{#js}}
-        <script src="{{.}}"></script>
+        <script src="{{.}}?{{@root.buildTime}}"></script>
 {{/js}}
 {{#liveReload}}
         <script src="http://localhost:35729/livereload.js"></script>
