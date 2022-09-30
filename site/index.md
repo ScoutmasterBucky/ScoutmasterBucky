@@ -4,8 +4,9 @@ layout: smb
 opportunities: 14,500+
 online: 1,950+
 news:
-    - Loaded up July with online merit badge offerings.
-    - August now has a week of merit badge classes online.
+    - October offerings are posted.
+    - November 5, 2022 in Bloomington, Minnesota will be an in person event.  Registration will open October 1, 2022 12:05 am
+    - December 17, 2022 in Prior Lake, Minnesota will be our final in person event of 2022. Registration will open November 1, 2022 12:05 am
 css:
     - css/calendar.css
 js:
