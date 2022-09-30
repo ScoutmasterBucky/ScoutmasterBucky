@@ -21,28 +21,28 @@ onSaleDate: 2022-09-01 0:05
 ---
 
 
-### Morning Classes
+### IN PERSON Morning Class
 
 {{#badge-list}}
 {{>badge badge="archaeology"}}
 {{/badge-list}}
 {{>eventbrite badge="archaeology" event="429257539857" start=amStart end=amEnd}}
 
-### 3/4 Day Classes
+### IN PERSON 3/4 Day Class
 
 {{#badge-list}}
 {{>badge badge="citizenship-in-the-community"}}
 {{/badge-list}}
 {{>eventbrite badge="citizenship-in-the-community" event="429332634467" start=MidDayStart end=MidDayEnd}}
 
-### All Day
+### IN PERSON All Day
 
 {{#badge-list}}
 {{>badge badge="citizenship-in-society"}}
 {{/badge-list}}
 {{>eventbrite badge="citizenship-in-society" event="429253407497" start=ADStart end=ADEnd}}
 
-### Afternoon Classes
+### IN PERSON Afternoon Classes
 
 {{#badge-list}}
 {{>badge badge="family-life"}}
