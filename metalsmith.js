@@ -46,6 +46,7 @@ metalsmithSite.run({
             match: ["events/*.md"],
             partials: ["./handlebars/pages/partials/**/*"]
         });
+        sugar.use("metalsmith-browserify-alt");
     },
     metadataAfter: (sugar) => {
         // "Fix" the rootPath for events because they are embedded into the index page,
