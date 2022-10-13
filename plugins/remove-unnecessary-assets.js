@@ -11,8 +11,6 @@ module.exports = function removeUnnecessaryAssets() {
                     remove = true;
                 } else if (`${pathParts[1]}.txt` === pathParts[2]) {
                     remove = true;
-                } else if (pathParts[2] === 'requirements.yaml') {
-                    remove = true;
                 }
             }
 

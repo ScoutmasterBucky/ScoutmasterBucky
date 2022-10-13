@@ -333,5 +333,6 @@ module.exports = {
             ]
         }
     ],
-    destination: "css/atomic.css"
+    destination: "css/atomic.css",
+    match: "**/*.{html,htm,js}"
 };
