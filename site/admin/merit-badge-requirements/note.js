@@ -1,12 +1,63 @@
 /* global m */
 
-module.exports = function () {
+const arrayFunctions = require("./array-functions");
+
+module.exports = function (components) {
     return class Note {
         view(vnode) {
             const data = vnode.attrs.data;
-            console.log(data);
 
-            return m('div', 'note');
+            return m(
+                "div",
+                {
+                    class: "D(f) Fxd(c)"
+                },
+                [
+                    this.viewNoteTypes(data),
+                    m(components.Text, {
+                        data: data
+                    })
+                ]
+            );
+        }
+
+        viewNoteTypes(data) {
+            return m(
+                "div",
+                {
+                    class: "D(f)"
+                },
+                [
+                    "Note types: ",
+                    m(
+                        "div",
+                        {
+                            class: "D(f) Fxd(c) Pstart(2em)"
+                        },
+                        [
+                            this.viewCheckbox(data, "online"),
+                            this.viewCheckbox(data, "inPerson")
+                        ]
+                    )
+                ]
+            );
+        }
+
+        viewCheckbox(data, noteType) {
+            return m("label", [
+                m("input", {
+                    type: "checkbox",
+                    checked: data.note.includes(noteType),
+                    onchange: () => {
+                        if (data.note.includes(noteType)) {
+                            arrayFunctions.removeValue(data, noteType);
+                        } else {
+                            data.push(noteType);
+                        }
+                    }
+                }),
+                ` ${noteType}`
+            ]);
         }
     };
 };

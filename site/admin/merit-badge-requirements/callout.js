@@ -1,12 +1,18 @@
 /* global m */
 
-module.exports = function () {
+module.exports = function (components) {
     return class Callout {
         view(vnode) {
             const data = vnode.attrs.data;
-            console.log(data);
 
-            return m('div', 'callout');
+            return m('div', {
+                class: 'D(f) Fxd(c)'
+            }, [
+                'Callout',
+                m(components.Text, {
+                    data: data
+                })
+            ]);
         }
     };
 };
