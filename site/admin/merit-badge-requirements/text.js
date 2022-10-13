@@ -23,7 +23,7 @@ module.exports = function () {
                                 }
                             }
                         }),
-                        " Interpret text as markdown"
+                        " This uses markdown"
                     ]),
                     m("textarea", {
                         class: "W(100%) H(5em) Fz(1em)",

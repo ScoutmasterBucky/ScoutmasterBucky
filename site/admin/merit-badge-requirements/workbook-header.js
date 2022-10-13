@@ -1,12 +1,18 @@
 /* global m */
 
-module.exports = function () {
+module.exports = function (components) {
     return class WorkbookHeader {
         view(vnode) {
             const data = vnode.attrs.data;
-            console.log(data);
 
-            return m('div', 'workbook-header');
+            return m('div', {
+                class: 'D(f) Fxd(c)'
+            }, [
+                'Header',
+                m(components.Text, {
+                    data: data
+                })
+            ]);
         }
     };
 };

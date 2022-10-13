@@ -11,14 +11,16 @@ module.exports = function (components) {
                 return this.viewItem(null, null, data);
             }
 
-            return data.map((item, index) => this.viewItem(item, index, data));
+            return m('div', {
+                class: 'Bgc(lightblue) P(0.5em)'
+            }, data.map((item, index) => this.viewItem(item, index, data)));
         }
 
         viewItem(item, index, data) {
             return m(
                 "div",
                 {
-                    class: "D(f) Fxd(c) Bgc(lightblue) My(1em)"
+                    class: "D(f) Fxd(c) P(0.5em)"
                 },
                 [
                     m("div", { class: "W(100%)" }, this.viewContent(item)),
@@ -175,7 +177,7 @@ module.exports = function (components) {
                 });
             }
 
-            if (item.lines) {
+            if (typeof item.lines !== 'undefined') {
                 return m(components.WorkbookLines, {
                     data: item
                 });

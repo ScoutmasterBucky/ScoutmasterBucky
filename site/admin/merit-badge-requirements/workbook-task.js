@@ -1,12 +1,18 @@
 /* global m */
 
-module.exports = function () {
+module.exports = function (components) {
     return class WorkbookTask {
         view(vnode) {
             const data = vnode.attrs.data;
-            console.log(data);
 
-            return m('div', 'workbook-task');
+            return m('div', {
+                class: 'D(f) Fxd(c)'
+            }, [
+                'Task (Text is optional)',
+                m(components.Text, {
+                    data: data
+                })
+            ]);
         }
     };
 };
