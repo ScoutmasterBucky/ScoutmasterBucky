@@ -561,8 +561,8 @@
   children:
       - requirement: a
         text: |-
-            Describe the National Incident Management System (NIMS)/Incident
-            and the Incident Command System (ICS).
+            Describe the National Incident Management System (NIMS) and the
+            Incident Command System (ICS).
         workbook:
             - lines: 8
         children:
@@ -696,7 +696,7 @@
         text: |-
             Tell the things a group of Scouts should be prepared to do, the
             training they need, and the safety precautions they should take for
-            the following emergency services:
+            the following emergency services.
         children:
             - requirement: 1
               text: |-
