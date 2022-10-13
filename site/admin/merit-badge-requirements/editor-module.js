@@ -1,5 +1,11 @@
-/* global window */
+/* global document, m, window */
 
 "use strict";
 
-window.ClassName = require("./class-name");
+const components = require("./components");
+window.addEventListener("load", () => {
+    m.route(document.getElementsByClassName('module')[0], '/', {
+        '/': components.SelectMeritBadge,
+        '/edit/:meritBadge': components.Editor
+    });
+});
