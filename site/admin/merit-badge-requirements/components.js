@@ -6,6 +6,7 @@ components.Callout = require("./callout")(components);
 components.Detail = require("./detail")(components);
 components.Editor = require("./editor")(components);
 components.Note = require("./note")(components);
+components.Numeric = require("./number")(components);
 components.Requirement = require('./requirement')(components);
 components.RequirementList = require('./requirement-list')(components);
 components.SelectMeritBadge = require("./select-merit-badge")(components);

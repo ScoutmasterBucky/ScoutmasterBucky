@@ -12,25 +12,16 @@ module.exports = function (components) {
                 },
                 [
                     "Lined Area (Text is optional)",
-                    this.viewLines(data),
+                    m(components.Numeric, {
+                        data,
+                        label: "Number of lines",
+                        prop: "lines"
+                    }),
                     m(components.Text, {
                         data: data
                     })
                 ]
             );
-        }
-
-        viewLines(data) {
-            return m("label", [
-                "Number of lines: ",
-                m("input", {
-                    value: data.lines,
-                    type: "number",
-                    oninput: (e) => {
-                        data.lines = +e.target.value;
-                    }
-                })
-            ]);
         }
     };
 };

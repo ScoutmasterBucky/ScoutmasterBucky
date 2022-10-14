@@ -20,8 +20,8 @@ module.exports = function () {
                 m("input", {
                     type: "text",
                     value: data.signature,
-                    oninput: (e) => {
-                        data.signature = e.target.value;
+                    onblur: (e) => {
+                        data.signature = e.target.value.trim();
                     }
                 })
             ]);
@@ -33,8 +33,8 @@ module.exports = function () {
                 m("input", {
                     type: "text",
                     value: data.checkbox,
-                    oninput: (e) => {
-                        data.checkbox = e.target.value;
+                    onblur: (e) => {
+                        data.checkbox = e.target.value.trim();
                     }
                 })
             ]);

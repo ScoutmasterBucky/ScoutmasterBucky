@@ -4,7 +4,7 @@ module.exports = function (components) {
     return class Editor {
         constructor() {
             this.copyDisabled = false;
-            this.loading = "merit badge metadata";
+            this.loading = "requirements";
             this.meritBadge = m.route.param("meritBadge");
 
             if (!this.meritBadge) {
@@ -13,28 +13,25 @@ module.exports = function (components) {
                 return Promise.reject();
             }
 
+            let url = `/merit-badges/${this.meritBadge}/requirements.yaml`;
+
+            if (this.meritBadge.charAt(0) === "_") {
+                url = this.meritBadge.substr(1) + ".yaml";
+            }
+
             m.request({
-                url: "merit-badges.json"
-            }).then((result) => {
-                this.loading = "requirements";
-                this.meritBadgeMeta = result[this.meritBadge];
-
-                if (!this.meritBadgeMeta) {
+                url,
+                extract: (xhr) => YAML.parse(xhr.responseText)
+            }).then(
+                (requirements) => {
+                    this.loading = null;
+                    this.requirements = requirements;
+                },
+                (err) => {
+                    console.error(err);
                     this.restart();
-
-                    return Promise.reject();
                 }
-
-                return m
-                    .request({
-                        url: `/merit-badges/${this.meritBadge}/requirements.yaml`,
-                        extract: (xhr) => YAML.parse(xhr.responseText)
-                    })
-                    .then((requirements) => {
-                        this.loading = null;
-                        this.requirements = requirements;
-                    });
-            });
+            );
         }
 
         restart() {
@@ -110,13 +107,14 @@ module.exports = function (components) {
                                 this.copyDisabled = false;
                                 m.redraw();
                             }, 1000);
-                            navigator.clipboard.writeText(
-                                YAML.stringify(
-                                    this.cleanseArray(this.requirements),
-                                    Number.POSITIVE_INFINITY,
-                                    4
-                                )
+                            const yamlStr = YAML.stringify(
+                                this.cleanseArray(this.requirements),
+                                {
+                                    indent: 4
+                                }
                             );
+                            console.log(yamlStr);
+                            navigator.clipboard.writeText(yamlStr);
                         },
                         label: this.copyDisabled
                             ? "** COPIED **"

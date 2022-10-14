@@ -50,9 +50,9 @@ module.exports = function (components) {
                     checked: data.note.includes(noteType),
                     onchange: () => {
                         if (data.note.includes(noteType)) {
-                            arrayFunctions.removeValue(data, noteType);
+                            arrayFunctions.removeValue(data.note, noteType);
                         } else {
-                            data.push(noteType);
+                            data.note.push(noteType);
                         }
                     }
                 }),

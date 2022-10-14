@@ -22,25 +22,31 @@ module.exports = function () {
 
             for (const [k, v] of Object.entries(this.meritBadges)) {
                 if (v.active) {
-                    options.push(
-                        m(
-                            "li",
-                            m(
-                                m.route.Link,
-                                {
-                                    href: "/edit/:meritBadge",
-                                    params: {
-                                        meritBadge: k
-                                    }
-                                },
-                                v.name
-                            )
-                        )
-                    );
+                    options.push(m("li", this.viewLink(k, v.name)));
                 }
             }
 
-            return m("ul", options);
+            return [
+                m("p", [
+                    this.viewLink("_blank", "Start New"),
+                    " - ",
+                    this.viewLink("_test", "Test")
+                ]),
+                m("ul", options)
+            ];
+        }
+
+        viewLink(meritBadge, text) {
+            return m(
+                m.route.Link,
+                {
+                    href: "/edit/:meritBadge",
+                    params: {
+                        meritBadge
+                    }
+                },
+                text
+            );
         }
     };
 };

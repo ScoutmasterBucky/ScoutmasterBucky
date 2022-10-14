@@ -45,6 +45,14 @@ module.exports = function (components) {
                 );
                 buttons.push(
                     m(components.Button, {
+                        label: "❌",
+                        onclick: () => {
+                            arrayFunctions.remove(data, index);
+                        }
+                    })
+                );
+                buttons.push(
+                    m(components.Button, {
                         disabled: index === data.length - 1,
                         class: "Fz(1.2em)",
                         label: "▼",
@@ -159,7 +167,7 @@ module.exports = function (components) {
                 return [];
             }
 
-            if (item.area) {
+            if (typeof item.area !== 'undefined') {
                 return m(components.WorkbookArea, {
                     data: item
                 });
