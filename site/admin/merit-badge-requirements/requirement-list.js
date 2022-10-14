@@ -8,7 +8,7 @@ module.exports = function (components) {
             const data = vnode.attrs.data || [];
 
             if (data.length === 0) {
-                return this.viewItem(null, null, []);
+                return this.viewItem(null, null, data);
             }
 
             return data.map((item, index) => this.viewItem(item, index, data));

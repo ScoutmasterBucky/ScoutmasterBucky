@@ -1,0 +1,38 @@
+- callout: true
+  text: Fancy testing page
+- requirement: "1"
+  text: blah
+  markdown: true
+  workbookHide: true
+  workbook:
+    - area: 2
+      text: asdf
+    - signature: Classmate
+      checkbox: Looked At
+    - split:
+        - task: true
+          text: Task 1
+        - task: true
+          text: Task 2
+    - raw: true
+      text: <img src="bucky.jpg">
+    - lines: 2
+      text: ddd
+    - grid: 8
+      text: fdsa
+    - header: true
+      text: AMAZING
+  children:
+    - requirement: a
+      text: Requirement text
+- detail: true
+  text: |-
+    This has everything one can do in a requirement, workbook, or whatever.
+
+    Newlines are embedded in this text.
+- note:
+    - inPerson
+  text: When you come to class, bring bribes for Scoutmaster Bucky. He won't do
+    anything extra, but appreciates that you're willing to go the extra mile.
+    The main point of this paragraph is to see what happens with longer text.
+  markdown: true

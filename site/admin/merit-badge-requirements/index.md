@@ -4,7 +4,7 @@ linkPath: merit-badge-requirements/
 layout: smb
 js:
     - mithril.js
-    - yaml.js
+    - /js/yaml.browser.js
     - editor-module.js
 ---
 

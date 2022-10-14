@@ -29,7 +29,7 @@ module.exports = function () {
                         class: "W(100%) H(5em) Fz(1em)",
                         value: data.text,
                         onblur: (e) => {
-                            data.text = e.target.value;
+                            data.text = e.target.value.trim();
                         }
                     })
                 ]

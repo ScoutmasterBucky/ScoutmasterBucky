@@ -18,8 +18,12 @@ module.exports = function (components) {
             return m("div", [
                 "Requirement ",
                 m("input", {
+                    type: "text",
                     value: data.requirement,
-                    class: "W(5em)"
+                    class: "W(5em)",
+                    onblur: (e) => {
+                        data.requirement = e.target.value.trim();
+                    }
                 })
             ]);
         }
@@ -48,12 +52,20 @@ module.exports = function (components) {
         }
 
         viewWorkbook(data) {
+            if (!data.workbook) {
+                data.workbook = [];
+            }
+
             return m(components.WorkbookItemList, {
                 data: data.workbook
             });
         }
 
         viewChildren(data) {
+            if (!data.children) {
+                data.children = [];
+            }
+
             return m(components.RequirementList, {
                 data: data.children
             });

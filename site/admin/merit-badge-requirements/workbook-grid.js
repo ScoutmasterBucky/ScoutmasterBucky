@@ -5,27 +5,23 @@ module.exports = function (components) {
         view(vnode) {
             const data = vnode.attrs.data;
 
-            return m('div', {
-                class: 'D(f) Fxd(c)'
-            }, ['Gridded Area (Text is optional)',
-                    this.viewLines(data),
+            return m(
+                "div",
+                {
+                    class: "D(f) Fxd(c)"
+                },
+                [
+                    "Gridded Area (Text is optional)",
+                    m(components.Numeric, {
+                        data,
+                        label: "Number of lines (vertically)",
+                        prop: "grid"
+                    }),
                     m(components.Text, {
                         data: data
                     })
-            ]);
-        }
-
-        viewLines(data) {
-            return m("label", [
-                "Number of lines (vertically): ",
-                m("input", {
-                    value: data.grid,
-                    type: "number",
-                    oninput: (e) => {
-                        data.grid = +e.target.value;
-                    }
-                })
-            ]);
+                ]
+            );
         }
     };
 };
