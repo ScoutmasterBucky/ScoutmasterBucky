@@ -65,7 +65,7 @@ Symmetry is everywhere. Minerals organize themselves in crystals, which are repe
     E. Learn about Seminole or Miccosukee patchwork designs.
         {{#note type="counselor"}}In the early 20th century, the Seminole and Miccosukee people of Florida developed a style of clothing decorated by sewing together blocks of fabric with contrasting colors in an alternating design. This distinctive art form was, for a long time, an important source of income for the communities where it was made. There are many examples available on the internet. The book "Patchwork: Seminole and Miccosukee Art and Activities" by Dorothy Downs (Pineapple Press, 2005) contains examples and the story of the art form and is accessible to Cub Scout–age children.{{/note}}
         1) Look at some pictures of Seminole or Miccosukee patchwork. Find as many similarities as possible within each piece. What does a basic block of each pattern look like? How many different basic blocks are used in the design?
-        2) Using different colors of paper, or other materials, make your own Seminolelike patchwork.
+        2) Using different colors of paper, or other materials, make your own Seminole-like patchwork.
 4. Visit a place where symmetry is important (such as an art exhibit, building site, or printer) or visit with a person who works with symmetry (such as an artist, interior designer, or landscape architect). Discuss with your counselor the symmetry or ideas of balance involved.
 5. Discuss with your counselor how symmetry impacts your everyday life.
 {{/requirements}}

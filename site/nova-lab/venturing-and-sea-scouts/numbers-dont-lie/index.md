@@ -31,17 +31,7 @@ This module is designed to help the Venturer explore how math affects his or her
         (1) Make a list of at least two questions or ideas from each article, website, or show.
         (2) Discuss two of the questions or questions with your counselor.
 2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a STEM exploration in that field. See [STEM Explorations](../../explorations/) for the requirements. (If you have already completed a Venturing STEM exploration in one of these fields, please choose a different field for this award.) After completion, discuss with your counselor how the Venturing STEM exploration you completed uses mathematics.
-    * Animation
-    * Chess
-    * Digital Technology
-    * Drafting
-    * Entrepreneurship
-    * Orienteering
-    * Personal Management
-    * Radio
-    * Signs, Signals and Codes
-    * Surveying
-    * Weather
+    Animation, Chess, Digital Technology, Drafting, Entrepreneurship, Orienteering, Personal Management, Radio, Signs, Signals and Codes, Surveying, Weather
 3. Choose TWO from A or B or C or D and complete ALL the requirements. (Write down your data and calculations to support your explanation to your counselor. You may use a spreadsheet. Do not use someone else’s data or calculations.)
     A. Calculate your horsepower when you run up a flight of stairs.
         Helpful Links
@@ -80,10 +70,13 @@ This module is designed to help the Venturer explore how math affects his or her
         {{#note type="counselor"}}The following are some sites to suggest but that do not have to be used.{{/note}}
         {{#note type="counselor"}}“SoccerXpert.com Soccer Stats”: SoccerXpert.com{{/note}}
         {{#note type="counselor"}}Website: https://www.soccerxpert.com/docs/GameStats.pdf{{/note}}
+        {{#note type="counselor"}}Local copy: [Soccer Stat Sheet](soccer-stat-sheet.pdf){{/note}}
         {{#note type="counselor"}}The Baseball Scorecard{{/note}}
         {{#note type="counselor"}}https://www.baseball.org.il/images/Scorecard.pdf{{/note}}
+        {{#note type="counselor"}}Local copy: [Baseball Score Card](baseball-score-card.pdf){{/note}}
         {{#note type="counselor"}}“How to Take Statistics at a Basketball Game”{{/note}}
         {{#note type="counselor"}}Website: https://www.basketballforcoaches.com/basketball-stat-sheet/{{/note}}
+        {{#note type="counselor"}}Local copy: [Basketball Stat Sheet](basketball-stat-sheet.pdf){{/note}}
     D. Attend a football game or watch one on TV. (This is a fun activity to do with a parent or friend!) Keep track of the efforts of your favorite team during the game. (Make sure you write down your data and calculations.) Calculate your team’s statistics using the following as examples:
         (1) Kicks/punts
             (a) Kickoff—Kick return yards

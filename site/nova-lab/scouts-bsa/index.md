@@ -6,7 +6,7 @@ program: scouts-bsa
 
 # Scouts BSA Nova Awards
 
-There are numerous adventures one can experience and two levels of medals that are awarded in the Scouts BSA program.
+There are numerous adventures one can experience while earning the medals that are awarded in the Scouts BSA program.
 
 ### Science
 
@@ -30,6 +30,7 @@ There are numerous adventures one can experience and two levels of medals that a
 
 {{>supernova supernova="dr-bernard-harris"}}
 {{>supernova supernova="thomas-alva-edison"}}
+{{>supernova supernova="dr-albert-einstein"}}
 
 </div>
 
