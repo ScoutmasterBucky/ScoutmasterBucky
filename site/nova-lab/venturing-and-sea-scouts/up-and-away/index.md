@@ -2,9 +2,7 @@
 nova: up-and-away
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdate: May 25, 2022
-hiddenNotes:
-    - Updated link for 3B1
+lastUpdate: '2022-05-25'
 ---
 
 This award explores the world of fluid dynamics, and how it affects your everyday life. Fluid dynamics is the study of how fluids (liquids, gases, and plasmas) behave and interact with other materials.
@@ -23,15 +21,7 @@ This award explores the world of fluid dynamics, and how it affects your everyda
         (1) Make a list of at least five questions or ideas from each article or show.
         (2) Discuss two of the questions with or ideas with your counselor.
 2. Complete ONE STEM field of interest from the following list. Complete ALL the requirements for a [Venturing STEM exploration](../../explorations/) in that field. (If you have already completed a Venturing STEM Exploration in one of these fields, please choose a different field for this award.
-    * Aviation
-    * Canoeing
-    * Chemistry
-    * Kayaking
-    * Oceanography
-    * Plumbing
-    * Rowing
-    * Scuba Diving
-    * Swimming
+    Aviation, Canoeing, Chemistry, Kayaking, Oceanography, Plumbing, Rowing, Scuba Diving, Swimming
 3. Complete two activities from A *or* B *or* C *or* D. Complete all the items under each activity.
     A. Conduct a Terminal Velocity Investigation.
         1. With your counselor, fill an empty tennis ball tube, or other clear plastic tube at least 12" tall, with clear corn syrup.
@@ -39,7 +29,7 @@ This award explores the world of fluid dynamics, and how it affects your everyda
         3. Note when the two balls reach terminal velocity (it should happen quickly). Did both objects have the same terminal velocity? Try the experiment again to see if it's repeatable.
         4. Discuss your investigation and findings with your counselor.
     B. Calculate your terminal velocity on different planets.
-        1. Download the worksheet at https://iflyworldcdn-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/iFLY-STEM-High-School-Lab-Worksheet-1.17.19.pdf or use a similar worksheet such as the "Student Terminal Velocity Worksheet" at https://www.grc.nasa.gov/www/k-12/airplane/termv.html. Calculate the terminal velocity of a 100-pound backpack on the planet earth.
+        1. Download the worksheet at https://www.iflyworld.com/plan-an-event/education/high-school/ or use [a similar worksheet](worksheet.pdf) such as the "Student Terminal Velocity Worksheet" at https://www.grc.nasa.gov/www/k-12/airplane/termv.html. Calculate the terminal velocity of a 100-pound backpack on the planet earth.
         2. Calculate your terminal velocity on Mars (hint: you will need to look up the values of gravity and atmospheric density on Mars). Compare the two values.
         3. Discuss the differences with your counselor. How would the conditions on Mars affect the engineering design of a Martian landing craft?
     C. Deliver rescue supplies to a community whose roads and bridges have been compromised by a natural disaster.
@@ -59,6 +49,6 @@ This award explores the world of fluid dynamics, and how it affects your everyda
 4. Complete one of the following A *or* B *or* C.
     A. Visit an iFLY Indoor Skydiving wind tunnel facility or other BSA approved indoor skydiving wind tunnel and participate in a STEM Education program. Discuss the STEM concepts related to the tunnel with your counselor.
     B. Visit an observatory, research facility, or a museum that highlights flight, aviation, or space. During your visit, talk to a docent or staff member about flight and fluid dynamics concepts covered at the site. Discuss what you learned with your counselor.
-    C. Take a real or online tour of a wind tunnel facility. A real tour may be obtained by contacting a local university that offers a degree in aerospace engineering or similar field. Virtual tours could include, but are not limited to, NASA wind tunnel facility tours: https://www.youtube.com/watch?v=bpRc9I8LMXo and https://www.nasa.gov/imagefeature/hypersonic-tunnel-facility. Discuss with your counselor the science and engineering concepts associated with the facility, e.g., what are the parts of a wind tunnel, what a wind tunnel is used for, what are the advantages of testing with a wind tunnel, how precise are they, etc.
+    C. Take a real or online tour of a wind tunnel facility. A real tour may be obtained by contacting a local university that offers a degree in aerospace engineering or similar field. Virtual tours could include, but are not limited to, NASA wind tunnel facility tours: https://www.youtube.com/watch?v=bpRc9I8LMXo and https://www.nasa.gov/image-feature/hypersonic-tunnel-facility. Discuss with your counselor the science and engineering concepts associated with the facility, e.g., what are the parts of a wind tunnel, what a wind tunnel is used for, what are the advantages of testing with a wind tunnel, how precise are they, etc.
 5. Discuss with your counselor how fluid dynamics is present in your everyday life and what you learned by working on this Nova.
 {{/requirements}}

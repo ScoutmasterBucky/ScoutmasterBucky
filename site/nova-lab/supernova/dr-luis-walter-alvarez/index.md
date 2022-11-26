@@ -12,14 +12,12 @@ hiddenNotes:
 
 **{{>supernova-name}} Supernova Award**<br />*For Cub Scouts – Bear and Wolf*
 
-This Supernova award can be earned by Cub Scouts like you who want to soar in science. To earn the award you must be a Bear or Wolf Cub Scout who is active with a den. With your parent’s and unit leader’s help, you must select a council-approved mentor who is a registered Scouter. You may NOT choose your parent or your unit leader (unless the mentor is working with more than one youth).
+This Supernova award can be earned by Cub Scouts like you who want to soar in science. To earn the award, you must be a Wolf or Bear Cub Scout who is active with a den. With your parent’s and unit leader’s help, you must select a council-approved mentor who is a registered Scouter. You may NOT choose your parent or your unit leader (unless the mentor is working with more than one youth).
 
 **A Note to the Mentor**
 
 * The Cub Scout Supernova award recognizes superior achievement by a Cub Scout in the fields of science, technology, engineering, and mathematics (STEM).
 * All experiments or projects should be conducted using the highest level of safety protocol and always under the supervision of a qualified, responsible adult.
-* Tigers are not eligible to earn the Cub Scout Supernova award.
-* Although it is not a requirement, it is recommended that you earn at least two Nova awards for Cub Scouts before earning the {{#trim}}{{>supernova-name supernova="dr-luis-walter-alvarez" sa=true}}{{/trim}}.
 
 </div></div>
 
@@ -28,16 +26,16 @@ This Supernova award can be earned by Cub Scouts like you who want to soar in sc
 For Cub Scouts - Bear and Wolf
 
 {{#requirements}}
-1. Complete the adventure appropriate for your rank AND complete either option A or option B.
+1. Complete the adventure appropriate for your rank or complete either option A or option B.
     * **Wolf Cub Scouts:** Code of the Wolf
-    * **Bear Cub Scouts:** Make It Move
+    * **Bear Cub Scouts:** *none*
     **Option A:** Do all of the following:
         (a) Keep track of the money you earn and spend for three weeks.
         (b) Geometry: Select a simple shape or figure. Observe the world around you for at least a week and keep a record of where you see this shape or figure and how it is used.
         (c) Visit a bank and have someone explain how interest works. Use the current interest rate and calculate how much interest different sums of money will earn.
     **Option B:** Do all of the following:
         (a) Measure how you use your time by keeping a diary or log of what you do for a week. Then make a chart or graph to display how you spend your time.
-        (b) Measure, mix, and prepare at least two recipes. Share your snacks with family, friends, or your den.
+        (b) Measure, mix and prepare at least two recipes. Share your snacks with family, friends, or your den.
         (c) Study geometry in architecture by exploring your neighborhood or community. Look at different types of buildings-houses, places of worship, businesses, etc.-and create a presentation (a set of photographs, a collage of pictures from newspapers and magazines, a model) that you can share with your den or pack to show what you have seen and learned about shapes in architecture.
 2. Complete the adventure appropriate for your rank or complete option A or B.
     * **Wolf Cub Scouts:** Call of the Wild
@@ -56,7 +54,7 @@ For Cub Scouts - Bear and Wolf
 7. Do ONE of the following:
     A. Visit with someone who works in a STEM-related career. Discuss what you learned with your mentor.
     B. Learn about a career that depends on knowledge about science, technology, engineering, or mathematics. Discuss what you learned with your mentor.
-8. Learn about the scientific method (or scientific process). Discuss this with your mentor, and include a simple demonstration to show what you learned.
-9. Participate in a Nova- or other STEM-related activity in your Cub Scout den or pack meeting that is conducted by a Scout, Venturer, or Sea Scout who is working on his or her Supernova award. If this is not possible, participate in another Nova- or STEM-related activity in your den or pack meeting.
-10. Submit an [application for the Cub Scout Supernova](https://www.scouting.org/filestore/STEM/pdf/SupernovaApplication.pdf) award to the district STEM or advancement committee for approval.
+8. Learn about the scientific method (or scientific process). Discuss this with your mentor and include a simple demonstration to show what you learned.
+9. Participate in a Nova- or other STEM-related activity in your Cub Scout den or pack meeting that is conducted by a Boy Scout or Venturer who is working on his or her Supernova award. If this is not possible, participate in another Nova- or STEM-related activity in your den or pack meeting.
+10. Submit [your application](../award-application.pdf) for the Cub Scout Supernova award to the district STEM or advancement committee for approval.
 {{/requirements}}

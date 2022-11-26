@@ -40,15 +40,7 @@ This module is designed for Venturers and Sea Scouts to explore 3D printing, and
         1. Make a list of at least five questions or ideas from the material you read.
         2. Discuss two of the questions or ideas that relate to 3D printing and other additive manufacturing processes with your counselor.
 2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a [Venturing or Sea Scout STEM exploration](../../explorations/) in that field. (If you have already completed a Venturing or Sea Scout STEM Exploration in one of these fields, please choose a different field for this award.)
-    * Additive Manufacturing
-    * CAD Modeling
-    * Composite Materials
-    * Inventing
-    * Modern Manufacturing
-    * Polymers and Plastics
-    * Sculpting
-    * Wood Carving
-    * Woodworking
+    Additive Manufacturing, CAD Modeling, Composite Materials, Inventing, Modern Manufacturing, Polymers and Plastics, Sculpting, Wood Carving, Woodworking
 3. Choose three activities from the following list and complete all the requirements.
     A. Design a Model
         1. Design a model of your choosing in a CAD program. Some common CAD programs with free student versions include Autodesk Inventor, Catia, CREO, Google SketchUp, Solid Works and Tinkercad.
