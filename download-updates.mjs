@@ -3,6 +3,7 @@
 import chalk from "chalk";
 import glob from "glob";
 import got from "got";
+import jsonStableStringify from "json-stable-stringify";
 import neodoc from "neodoc";
 import { parseHTML } from "linkedom";
 import path from "path";
@@ -31,6 +32,16 @@ const downloadables = [
         fn: downloadSupernovaAwards
     }
 ];
+
+function readJson(fn) {
+    return fsPromises.readFile(fn).then((content) => {
+        return JSON.parse(content.toString());
+    });
+}
+
+function writeJson(fn, data) {
+    return fsPromises.writeFile(fn, `${jsonStableStringify(data, {space: 4})}\n`);
+}
 
 function globPromise(spec) {
     return new Promise((resolve, reject) => {
@@ -187,21 +198,14 @@ function resolveUrl(link, dom) {
     return new URL(link.getAttribute("href"), dom.requestUrl);
 }
 
-function writeTimestamp(filename) {
-    const d = new Date();
-    const content = `${d.toISOString().substr(0, 10)}\n`;
-    debug(`Writing timestamp: ${filename}`);
-
-    return fsPromises.writeFile(filename, content);
-}
-
-function downloadMeritBadges() {
+function downloadMeritBadges(updated) {
     function fetchMeritBadge(link, dom) {
         const url = resolveUrl(link, dom);
         const badgeName = safeName(link.innerText);
 
         if (url.toString().match(/\.pdf(\?|$)/)) {
             console.log(`[PDF] ${badgeName}: ${url}`);
+            updated[badgeName] = Date.now();
 
             return savePdfAndText(
                 url,
@@ -220,6 +224,7 @@ function downloadMeritBadges() {
                     found += 1;
                     const secondUrl = resolveUrl(secondLink, secondDom);
                     console.log(`[WEB] ${badgeName}: ${secondUrl}`);
+                    updated[badgeName] = Date.now();
 
                     return savePdfAndText(
                         secondUrl,
@@ -278,15 +283,15 @@ function downloadMeritBadges() {
                 return Promise.resolve();
             })
         )
-        .then(() => fetchPage(1))
-        .then(() => writeTimestamp("merit-badges-updated.txt"));
+        .then(() => fetchPage(1));
 }
 
-function downloadNovaAwards() {
+function downloadNovaAwards(updated) {
     function fetchPdf(link, dom, fileBase) {
         const url = resolveUrl(link, dom);
         const name = safeName(link.innerText);
         console.log(`${name}: ${url}`);
+        updated[name] = Date.now();
 
         return savePdfAndText(url, `${fileBase}${name}/${name}.pdf`);
     }
@@ -327,14 +332,14 @@ function downloadNovaAwards() {
             return domQuery(dom, '[data-id="259c931"] a[href*="pdf"]', (link) =>
                 fetchPdf(link, dom, "site/nova-lab/venturing-and-sea-scouts/")
             );
-        })
-        .then(() => writeTimestamp("novas-updated.txt"));
+        });
 }
 
-function downloadList(list) {
+function downloadList(updated, updatedPrefix, list) {
     return serialPromises(list, (item) => {
         if (item.dest.match(".html")) {
             console.log(`${item.key}: ${item.url}`);
+            updated[item.key] = Date.now();
 
             return saveHtml(item.url, item.dest, item.selector);
         }
@@ -350,13 +355,14 @@ function downloadList(list) {
 
             const url = resolveUrl(links[0], dom);
             console.log(`${item.key}: ${url}`);
+            updated[item.key] = Date.now();
 
             return savePdfAndText(url, item.dest);
         });
     });
 }
 
-function downloadOtherAwards() {
+function downloadOtherAwards(updated) {
     const otherAwards = [
         {
             key: "cyber-chip-grades-6-to-8",
@@ -386,12 +392,10 @@ function downloadOtherAwards() {
 
     heading("Other Awards");
 
-    return downloadList(otherAwards).then(() =>
-        writeTimestamp("other-awards-updated.txt")
-    );
+    return downloadList(updated, 'other-awards', otherAwards);
 }
 
-function downloadSupernovaAwards() {
+function downloadSupernovaAwards(updated) {
     function downloadProgramAwards(program, url, selector, mapping) {
         subheading(program);
 
@@ -408,6 +412,7 @@ function downloadSupernovaAwards() {
                 }
 
                 console.log(`${name}: ${pdfUrl}`);
+                updated[name] = Date.now();
 
                 return savePdfAndText(
                     pdfUrl,
@@ -455,7 +460,7 @@ function downloadSupernovaAwards() {
         .then(() => {
             subheading("Additional Materials");
 
-            return downloadList([
+            return downloadList(updated, 'supernova', [
                 {
                     key: "activity-topics",
                     url: "https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-topics/",
@@ -495,8 +500,7 @@ function downloadSupernovaAwards() {
                     selector: '[data-id="9096690"] a[href*=".pdf"]'
                 }
             ]);
-        })
-        .then(() => writeTimestamp("supernovas-updated.txt"));
+        });
 }
 
 function help() {
@@ -549,13 +553,22 @@ for (const target of args.TARGET) {
 }
 
 if (!errors) {
-    let p = Promise.resolve();
+    readJson("updated.json")
+        .then((updated) => {
+            return serialPromises(downloadables, (item) => {
+                if (
+                    args.TARGET.includes(item.key) ||
+                    args.TARGET.includes("all")
+                ) {
+                    if (!updated[item.key]) {
+                        updated[item.key] = {};
+                    }
 
-    for (const item of downloadables) {
-        if (args.TARGET.includes(item.key) || args.TARGET.includes("all")) {
-            p = p.then(() => item.fn());
-        }
-    }
+                    return item.fn(updated[item.key]);
+                }
 
-    p.catch((err) => console.error(err));
+                return Promise.resolve();
+            }).then(() => writeJson("updated.json", updated));
+        })
+        .catch((err) => console.error(err));
 }

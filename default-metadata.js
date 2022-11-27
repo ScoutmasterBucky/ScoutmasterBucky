@@ -12,14 +12,12 @@ const metadata = {
         url: "https://scoutmasterbucky.com/",
         urlToRoot: "/"
     },
-    supernovaAwards: require("./supernova-awards.json")
+    supernovaAwards: require("./supernova-awards.json"),
+    updated: require("./updated.json")
 };
 
-const fs = require('fs');
-const meritBadgesUpdated = fs.readFileSync('./merit-badges-updated.txt').toString().trim();
 const meritBadgeMeta = {
-    active: Object.values(metadata.meritBadges).filter((x) => x.active),
-    lastUpdated: meritBadgesUpdated
+    active: Object.values(metadata.meritBadges).filter((x) => x.active)
 };
 
 meritBadgeMeta.activeCount = meritBadgeMeta.active.length;

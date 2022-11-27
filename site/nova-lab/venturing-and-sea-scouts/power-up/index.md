@@ -2,7 +2,7 @@
 nova: power-up
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdated: May 25, 2022
+lastUpdate: May 25, 2022
 hasNotes: true
 hiddenNotes:
     - Removed broken links from 3C2
