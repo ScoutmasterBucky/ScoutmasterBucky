@@ -343,7 +343,9 @@ function downloadList(list) {
             const links = domQuery(dom, item.selector);
 
             if (links.length !== 1) {
-                throw new Error(`Expected 1 link and found ${links.length}: ${item.url} ${item.selector}`);
+                throw new Error(
+                    `Expected 1 link and found ${links.length}: ${item.url} ${item.selector}`
+                );
             }
 
             const url = resolveUrl(links[0], dom);
@@ -357,6 +359,24 @@ function downloadList(list) {
 function downloadOtherAwards() {
     const otherAwards = [
         {
+            key: "cyber-chip-grades-6-to-8",
+            url: "https://www.scouting.org/training/youth-protection/cyber-chip/grades-6-8/",
+            dest: "site/other-awards/cyber-chip/cyber-chip-grades-6-to-8.html",
+            selector: "#post-35851"
+        },
+        {
+            key: "cyber-chip-grades-9-to-12",
+            url: "https://www.scouting.org/training/youth-protection/cyber-chip/grades-9-12/",
+            dest: "site/other-awards/cyber-chip/cyber-chip-grades-9-to-12.html",
+            selector: "#post-35852"
+        },
+        {
+            key: "cyber-chip-student-project-kit",
+            url: "https://www.scouting.org/training/youth-protection/cyber-chip/grades-9-12/",
+            dest: "site/other-awards/cyber-chip/student-project-kit.pdf",
+            selector: '#post-35852 a[href*=".pdf"]'
+        },
+        {
             key: "totin-chip",
             url: "https://www.scouting.org/awards/awards-central/totin-chip/",
             dest: "site/other-awards/totin-chip/totin-chip.html",
@@ -366,7 +386,9 @@ function downloadOtherAwards() {
 
     heading("Other Awards");
 
-    return downloadList(otherAwards).then(() => writeTimestamp("other-awards-updated.txt"));
+    return downloadList(otherAwards).then(() =>
+        writeTimestamp("other-awards-updated.txt")
+    );
 }
 
 function downloadSupernovaAwards() {
@@ -412,9 +434,9 @@ function downloadSupernovaAwards() {
                 "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
                 '[data-id="699347f"] a[href*=".pdf"]:not([href*="Supernova-Application"]):not([href*="flowchart"]):not([href*="Flow-Chart"])',
                 {
-                    'dr-bernard-harris-requirements': 'dr-bernard-harris',
-                    'thomas-edison-requirements': 'thomas-alva-edison',
-                    'dr-albert-einstein-requirements': 'dr-albert-einstein' // Same as Venturing
+                    "dr-bernard-harris-requirements": "dr-bernard-harris",
+                    "thomas-edison-requirements": "thomas-alva-edison",
+                    "dr-albert-einstein-requirements": "dr-albert-einstein" // Same as Venturing
                 }
             )
         )
@@ -424,54 +446,57 @@ function downloadSupernovaAwards() {
                 "https://www.scouting.org/stem-nova-awards/awards/venturer/",
                 '[data-id="97f67b6"] a[href*=".pdf"]:not([href*="Supernova-Application"]):not([href*="flowchart"]):not([href*="Flow-Chart"])',
                 {
-                    'dr-sally-ride-requirements': 'dr-sally-ride',
-                    'wright-brothers-requirements': 'wright-brothers',
-                    'dr-albert-einstein-requirements': 'dr-albert-einstein' // Same as Scouts BSA
+                    "dr-sally-ride-requirements": "dr-sally-ride",
+                    "wright-brothers-requirements": "wright-brothers",
+                    "dr-albert-einstein-requirements": "dr-albert-einstein" // Same as Scouts BSA
                 }
             )
         )
         .then(() => {
-            subheading('Additional Materials');
+            subheading("Additional Materials");
 
             return downloadList([
                 {
-                    key: 'activity-topics',
-                    url: 'https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-topics/',
-                    dest: 'site/nova-lab/supernova/activity-topics/activity-topics.html',
+                    key: "activity-topics",
+                    url: "https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-topics/",
+                    dest: "site/nova-lab/supernova/activity-topics/activity-topics.html",
                     selector: '[data-id="74ca43fb"]'
                 },
                 {
-                    key: 'award-application',
-                    url: 'https://www.scouting.org/stem-nova-awards/awards/cub-scout/',
-                    dest: 'site/nova-lab/supernova/award-application.pdf',
+                    key: "award-application",
+                    url: "https://www.scouting.org/stem-nova-awards/awards/cub-scout/",
+                    dest: "site/nova-lab/supernova/award-application.pdf",
                     selector: '[data-id="d291cac"] a[href*=".pdf"]'
                 },
                 {
-                    key: 'einstein-supernova-application',
-                    url: 'https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/',
-                    dest: 'site/nova-lab/supernova/dr-albert-einstein/einstein-supernova-application.pdf',
-                    selector: '[data-id="b009a02"] a[href*="Supernova-Application"]'
+                    key: "einstein-supernova-application",
+                    url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
+                    dest: "site/nova-lab/supernova/dr-albert-einstein/einstein-supernova-application.pdf",
+                    selector:
+                        '[data-id="b009a02"] a[href*="Supernova-Application"]'
                 },
                 {
-                    key: 'einstein-supernova-flowchart',
-                    url: 'https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/',
-                    dest: 'site/nova-lab/supernova/dr-albert-einstein/einstein-supernova-flowchart.pdf',
-                    selector: '[data-id="b009a02"] a[href*="Process-Flow-Chart"]'
+                    key: "einstein-supernova-flowchart",
+                    url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
+                    dest: "site/nova-lab/supernova/dr-albert-einstein/einstein-supernova-flowchart.pdf",
+                    selector:
+                        '[data-id="b009a02"] a[href*="Process-Flow-Chart"]'
                 },
                 {
-                    key: 'einstein-supernova-guide',
-                    url: 'https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/',
-                    dest: 'site/nova-lab/supernova/dr-albert-einstein/einstein-supernova-guide.pdf',
+                    key: "einstein-supernova-guide",
+                    url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
+                    dest: "site/nova-lab/supernova/dr-albert-einstein/einstein-supernova-guide.pdf",
                     selector: '[data-id="b009a02"] a[href*="Einstein-Guide"]'
                 },
                 {
-                    key: 'exploration-requirements',
-                    url: 'https://www.scouting.org/stem-nova-awards/awards/venturer/',
-                    dest: 'site/nova-lab/explorations/exploration-requirements.pdf',
+                    key: "exploration-requirements",
+                    url: "https://www.scouting.org/stem-nova-awards/awards/venturer/",
+                    dest: "site/nova-lab/explorations/exploration-requirements.pdf",
                     selector: '[data-id="9096690"] a[href*=".pdf"]'
                 }
             ]);
-        }).then(() => writeTimestamp("supernovas-updated.txt"));
+        })
+        .then(() => writeTimestamp("supernovas-updated.txt"));
 }
 
 function help() {
