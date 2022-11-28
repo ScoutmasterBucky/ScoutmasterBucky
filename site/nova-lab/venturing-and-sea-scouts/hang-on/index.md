@@ -2,7 +2,7 @@
 nova: hang-on
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdate: May 25, 2022
+lastUpdate: '2022-05-25'
 hasNotes: true
 hiddenNotes:
     - 3C1 said "merit badge" and replaced it with STEM exploration
@@ -18,7 +18,7 @@ This module is designed to help Venturing and Sea Scouts explore how engineering
     A. Watch about three hours total of engineering-related shows or documentaries that involve motion or motion-inspired technology. Then do the following:
         (1) Make a list of at least five questions or ideas from the show(s) you watched.
         (2) Discuss two of the questions or ideas with your counselor.
-        {{#note type="counselor"}}Some examples include—but are not limited to—shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision. One example is the NOVA Lever, an Obelisk page on ancient Egypt and the use of levers, available at www.pbslearningmedia.org/resource/phy03.sci.phys.energy.vegypt/raising-an-obelisk-anengineering-puzzle/?student=true&focus=true{{/note}}
+        {{#note type="counselor"}}Some examples include—but are not limited to—shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision. One example is the NOVA Lever, an Obelisk page on ancient Egypt and the use of levers, available at www.pbslearningmedia.org/resource/phy03.sci.phys.energy.vegypt/raising-an-obelisk-an-engineering-puzzle/?student=true&focus=true{{/note}}
     B. Read (about three hours total) about motion or motion-inspired technology. Then do the following:
         (1) Make a list of at least two questions or ideas from each article.
         (2) Discuss two of the questions or ideas with your counselor.
@@ -27,24 +27,12 @@ This module is designed to help Venturing and Sea Scouts explore how engineering
         (1) Make a list of at least two questions or ideas from each article or show.
         (2) Discuss two of the questions or ideas with your counselor.
 2. Complete ONE STEM field of interest from the following list. Complete ALL the requirements for a Venturing and Sea Scout exploration in that field. See [STEM Explorations](../../explorations/) for the requirements. If you have already completed a Venturing or Sea Scout exploration in one of these fields, choose a different field for this award. After completion, discuss with your counselor how the exploration you earned uses engineering.
-    * Archery
-    * Aviation
-    * Composite Materials
-        Composites can be found just about everywhere: in airplanes and sports cars, golf clubs and guitars, boats and baseball bats, bathtubs and circuit boards, and even bridges. Composites make bicycles and skis lighter, kayaks and fishing poles stronger, houses warmer, and helmets tougher. Venturers and Sea Scouts can choose one of these items for their discussion to answer requirement 3c.
-    * Drafting
-    * Electronics
-    * Engineering
-    * Inventing
-    * Mining in Society
-    * Model Design and Building
-    * Railroading
-    * Rifle Shooting
-    * Robotics
-    * Shotgun Shooting
+    Archery, Aviation, Composite Materials, Drafting, Electronics, Engineering, Inventing, Mining in Society, Model Design and Building, Railroading, Rifle Shooting, Robotics, Shotgun Shooting
+    Composites can be found just about everywhere: in airplanes and sports cars, golf clubs and guitars, boats and baseball bats, bathtubs, and circuit boards, and even bridges. Composites make bicycles and skis lighter, kayaks and fishing poles stronger, houses warmer, and helmets tougher. Venturers and Sea Scouts can choose one of these items for their discussion to answer requirement 3c.
 3. Do ALL the following.
     A. Make a list or drawing of the six simple machines.
         Helpful Links
-        “Six Simple Machines”:
+        “Six Simple Machines”: http://www.constructionknowledge.net/
         https://www.livescience.com/49106-simple-machines.html
         https://www.teachengineering.org/populartopics/simplemachines
         {{#note type="counselor"}}A lever is a rigid bar that turns around a fulcrum or fixed point. The force - a push or a pull that is applied to the lever - is called the effort. The farther the effort is from the fulcrum, the easier it is to use the lever. What the lever moves is called the load or the resistance. Levers can change the direction of motion, make it easier to move something, or cause something to move a greater distance. There are three classes, or types, of levers. Class 1 lever - The fulcrum is located between the effort and the load. The direction the load moves is opposite the direction of the effort.  Depending on where the fulcrum is placed, a class 1 lever can either move the load more easily or move the load a greater distance. Examples of class 1 levers include seesaws, crowbars, scissors, and pliers.{{/note}}

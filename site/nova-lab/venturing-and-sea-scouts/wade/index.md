@@ -2,9 +2,7 @@
 nova: wade
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdate: May 25, 2022
-hiddenNotes:
-    - Updated Surf Your Watershed link to How's My Waterway, Version 2 for 5B1.
+lastUpdate: '2022-05-25'
 ---
 
 This module is designed to help you explore how water affects your life every day. **Wade** is part of the Science category.
@@ -14,7 +12,7 @@ This module is designed to help you explore how water affects your life every da
     A. Watch about three hours total of science-related programming that discusses water as it relates to the hydrologic cycle, primary sources, primary users (including wildlife), health, sources of pollution, waste treatment, and related sciences and technologies. Then do the following:
         (1) Make a list of at least five questions or ideas from the show(s) you watched.
         (2) Discuss two of the questions or ideas with your counselor.
-        Some examples include—but are not limited to—shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), History Channel, the National Academy of Sciences YouTube Channel, and http://www.waterblues.org. You may choose to watch a live performance or movie developed by a local museum or state or federal agency. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision.
+        Some examples include—but are not limited to—shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), History Channel, the National Academy of Sciences YouTube Channel, and www.waterblues.org. You may choose to watch a live performance or movie developed by a local museum or state or federal agency. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision.
     B. Read (for about three hours total) about water as it relates to the hydrologic cycle, primary sources, primary users, health, sources of pollution, waste treatment, and related sciences and technologies. Then do the following:
         (1) Make a list of at least five questions or ideas from each article.
         (2) Discuss two of the questions or ideas with your counselor.
@@ -23,19 +21,7 @@ This module is designed to help you explore how water affects your life every da
         (1) Make a list of at least five questions or ideas from each article or show.
         (2) Discuss two of the questions or ideas with your counselor.
 2. Choose **ONE** STEM field of interest from the following list. Complete **ALL** the requirements for a [Venturing STEM exploration](../../explorations/) in that field. You should be prepared to discuss the role of water in the area or field you’ve chosen. (If you have already completed a Venturing STEM exploration in one of these fields, please choose a different field for this award.)
-    * Chemistry
-    * Environmental Science
-    * Fish and Wildlife Management
-    * Fishing
-    * Fly-Fishing
-    * Forestry
-    * Geology
-    * Nature
-    * Oceanography
-    * Public Health
-    * Soil and Water Conservation
-    * Sustainability
-    * Weather
+    Chemistry, Environmental Science, Fish and Wildlife Management, Fishing, Fly-Fishing, Forestry, Geology, Nature, Oceanography, Public Health, Soil and Water Conservation, Sustainability, Weather
 3. Learn how the volume of water changes as it moves from phase to phase. Do all the following.
     A. Describe how you would measure the change in volume for the transition of water from liquid to ice.
     B. Discuss with your counselor the effects that floating sea ice and land-based ice have on sea levels when they melt.
@@ -46,7 +32,7 @@ This module is designed to help you explore how water affects your life every da
     {{#note type="counselor"}}A surfactant is a material that lowers surface tension between two liquids, breaking down the barrier between them. They are used in detergents, dispersants, wetting agents, medicine, and so on.{{/note}}
     {{#note type="counselor"}}See{{/note}}
     {{#note type="counselor"}}Explainer: why are chemical dispersants used in oil spills?{{/note}}
-    {{#note type="counselor"}}https://www.chemistryworld.com/news/explainer-why-are-chemical-dispersants-used-in-oilspills/1017322.article{{/note}}
+    {{#note type="counselor"}}https://www.chemistryworld.com/news/explainer-why-are-chemical-dispersants-used-in-oil-spills/1017322.article{{/note}}
     {{#note type="counselor"}}Oil Spill Dispersants: Efficacy and Effects (2005){{/note}}
     {{#note type="counselor"}}https://www.nap.edu/catalog/11283/oil-spill-dispersants-efficacy-and-effects{{/note}}
     {{#note type="counselor"}}One activity could be having scouts try different tools to skim the oil using different tools – a paper towel, wood splint, steel wool, cotton balls, and so on. You could also have them build a physical oil skimmer. Which one collects the most oil and least water?{{/note}}
@@ -60,23 +46,23 @@ This module is designed to help you explore how water affects your life every da
     B. Surface water
         (1) Discuss with your counselor the following concepts: a watershed and how it relates to a river basin, runoff, runoff coefficient, infiltration, point source pollution, non-point source pollution, and oceanic dead zones near the mouth of rivers.
             {{#note type="counselor"}}Useful Links{{/note}}
-            {{#note type="counselor"}}USGS web sites https://water.usgs.gov/edu/watershed.html and https://water.usgs.gov/edu/runoff.html{{/note}}
-            {{#note type="counselor"}}US EPA's How's My Waterway, Version 2 https://www.epa.gov/waterdata/hows-my-waterway{{/note}}
+            {{#note type="counselor"}}USGS web sites https://water.usgs.gov/edu/watershed.html , and https://water.usgs.gov/edu/runoff.html{{/note}}
+            {{#note type="counselor"}}US EPA's Surf your Watershed https://www.epa.gov/waterdata/surf-your-watershed{{/note}}
             {{#note type="counselor"}}USGS Watershed Tool at https://viewer.nationalmap.gov/advanced-viewer/ . Turn on the National Hydrography Dataset (NHD) in the Layers list, and the topographical lines will show where water flows. Turn on the Watershed Boundary Dataset in the Layers list, and you can see how large of an area your watershed covers, and other watersheds that are nearby.{{/note}}
-            {{#note type="counselor"}}Watershed - a geographic area that drains into a common outflow point, which could be a river basin.{{/note}}
-            {{#note type="counselor"}}Runoff - That part of the precipitation, snow melt, or irrigation water that appears in surface streams, rivers, drains or sewers. It may be described by how fast it appears, or by source.{{/note}}
-            {{#note type="counselor"}}Runoff coefficient - a dimensionless coefficient that describes the amount of precipitation that runs off an area, as opposed to being absorbed into the ground. It ranges from 0 to 1, with larger values for areas with pavement and steep gradients (roofs range from 0.75 to 0.95), and lower for permeable, well-vegetated areas such as forests and flat lands (woodlands can range from 0.05 to 0.25). A composite runoff coefficient is one that covers an area made up of multiple types of surfaces – for example, a lot that is ½ pavement and ½ asphalt would have a composite coefficient that was proportional to the amount of each surface area.{{/note}}
-            {{#note type="counselor"}}Infiltration – rainfall or other water that is absorbed into the soil{{/note}}
-            {{#note type="counselor"}}Point source pollution - water pollution coming from a single identifiable point, such as a sewage-outflow pipe{{/note}}
-            {{#note type="counselor"}}Non-point source pollution – pollution collected as water washes off a large area. Could include pesticides, soil particles, and so on.{{/note}}
-            {{#note type="counselor"}}Oceanic dead zones – a low-oxygen area (hypoxic), often found near the mouth of rivers, resulting from "excessive nutrient pollution from human activities coupled with other factors that deplete the oxygen required to support most marine life in bottom and near-bottom water.  (National Oceanic and Atmospheric Administration)"{{/note}}
+            {{#note type="counselor"}}**Watershed** - a geographic area that drains into a common outflow point, which could be a river basin.{{/note}}
+            {{#note type="counselor"}}**Runoff** - That part of the precipitation, snow melt, or irrigation water that appears in surface streams, rivers, drains or sewers. It may be described by how fast it appears, or by source.{{/note}}
+            {{#note type="counselor"}}**Runoff coefficient** - a dimensionless coefficient that describes the amount of precipitation that runs off an area, as opposed to being absorbed into the ground. It ranges from 0 to 1, with larger values for areas with pavement and steep gradients (roofs range from 0.75 to 0.95), and lower for permeable, well-vegetated areas such as forests and flat lands (woodlands can range from 0.05 to 0.25). A composite runoff coefficient is one that covers an area made up of multiple types of surfaces – for example, a lot that is ½ pavement and ½ asphalt would have a composite coefficient that was proportional to the amount of each surface area.{{/note}}
+            {{#note type="counselor"}}**Infiltration** – rainfall or other water that is absorbed into the soil{{/note}}
+            {{#note type="counselor"}}**Point source pollution** - water pollution coming from a single identifiable point, such as a sewage-outflow pipe{{/note}}
+            {{#note type="counselor"}}**Non-point source pollution** – pollution collected as water washes off a large area. Could include pesticides, soil particles, and so on.{{/note}}
+            {{#note type="counselor"}}**Oceanic dead zones** – a low-oxygen area (hypoxic), often found near the mouth of rivers, resulting from "excessive nutrient pollution from human activities coupled with other factors that deplete the oxygen required to support most marine life in bottom and near-bottom water. (National Oceanic and Atmospheric Administration)"{{/note}}
         (2) Determine which river basin you live in and research (or estimate) its size.  Estimate the total volume of water that falls on this watershed every minute during a 1-inch per hour rainfall.
             {{#note type="counselor"}}Example: If the watershed you selected is 10 acres, that is 6.273 x 107 sq in. A 1 inch per hour rainfall will deposit:{{/note}}
             {{#note type="counselor"}}6.273 x 107 sq in * 1 in/hr. * 1 hour = 6.273 x 107 cubic inches of rain per hour{{/note}}
             {{#note type="counselor"}}6.273 x 107 cubic inches of rain/hr. * 1hr/60 minutes = 1,045,500 cubic inches of rain/minute{{/note}}
             {{#note type="counselor"}}1,045,500 cubic inches of rain/minute * 0.004329 gallons/cubic inch = 4520 gallons rain/minute{{/note}}
             {{#note type="counselor"}}To put that into perspective, an average American shower uses 17 gallons of water, which is 270 showers worth of water falling every minute over the watershed.{{/note}}
-        (3) Construct a chart that shows the volume of water that runs into the river as a fraction of the total rain falling on the watershed (using composite runoff coefficients). Estimate the rate of runoff in cubic feet per minute for a 1inch per hour rainfall from your home’s lot or a nearby property.
+        (3) Construct a chart that shows the volume of water that runs into the river as a fraction of the total rain falling on the watershed (using composite runoff coefficients). Estimate the rate of runoff in cubic feet per minute for a 1-inch per hour rainfall from your home’s lot or a nearby property.
             {{#note type="counselor"}}<table><tr><th>Type</th><th>Runoff Coefficient</th><th>% of water that runs off</th></tr><tr><td>Drives, Walks, Roofs</td><td>0.90</td><td>90%</td></tr><tr><td>Lawns, 50% grass</td><td>0.10</td><td>10%</td></tr><tr><td>Lawns, 75% or more grass</td><td>0.05</td><td>5%</td></tr><tr><td>Street, paved</td><td>0.90</td><td>90%</td></tr><tr><td>Streets, gravel</td><td>0.25</td><td>25%</td></tr></table>{{/note}}
             {{#note type="counselor"}}Sample Calculation:{{/note}}
             {{#note type="counselor"}}If your property is 1 acre, that is 6.273 x 106 sq in.{{/note}}
@@ -87,8 +73,8 @@ This module is designed to help you explore how water affects your life every da
             {{#note type="counselor"}}Runoff = (1/2*0.90 + ½*0.05)*104,550 in3/minute = 49,661 in3/minute{{/note}}
             {{#note type="counselor"}}This is the Rational Method for runoff calculations, and is a quick, simple calculation. Much more sophisticated models and computer algorithms are also available.{{/note}}
         (4) Discuss with your counselor the implications of these calculations as they relate to the effect of changes in land use on flooding, soil moisture, erosion, and point and non-point source pollution. What are the most common types of water pollution in your area, and how are these being impacted by land use? How might these be reduced?
-        {{#note type="counselor"}}Helpful Resources:{{/note}}
-        {{#note type="counselor"}}The USGS Water Science School – https://water.usgs.gov/edu/) may be helpful in researching these topics.{{/note}}
+    Helpful Resources:
+        * The USGS Water Science School – https://water.usgs.gov/edu/ may be helpful in researching these topics.
 6. Choose **ONE** of the following options:
     A. Research a disaster involving water, such as the receding Sarichef Island in Alaska, the 2011 Tōhoku tsunami, a hurricane, coral reef bleaching, sea level rise, etc. Determine the causes of the event, the damage caused, and how the area has recovered. Find out about any remediation that has occurred to restore the area to its pre-disaster state or efforts to prevent future damage from similar events. Share the results of your research with your crew and with your counselor.
     B. Research the major functions of a sewage treatment plant. Describe to your counselor how it reduces the impact of sewage on aquatic life. List any pollutants that remain in the water after processing and their potential impact on aquatic life.

@@ -22,6 +22,7 @@ These awards are ways to reward Scouts for learning more about Science, Technolo
 
 {{>supernova supernova="dr-bernard-harris"}}
 {{>supernova supernova="thomas-alva-edison"}}
+{{>supernova supernova="dr-albert-einstein"}}
 
 </div>
 
@@ -38,14 +39,16 @@ These awards are ways to reward Scouts for learning more about Science, Technolo
 ## Supernova Award Progression
 
 * Cub Scouts
+    * You can earn a bronze award in your program.
     * (Bronze) Bear and Wolf Cub Scouts can earn the {{#trim}}{{>supernova-link supernova="dr-luis-walter-alvarez" sa=true}}{{/trim}}.
     * (Bronze) Webelos and Arrow of Light Scouts have the {{#trim}}{{>supernova-link supernova="dr-charles-h-townes" sa=true}}{{/trim}}.
 * Scouts BSA
+    * Start by working on the Scouts BSA bronze and then can progress to Scouts BSA or Venturing / Sea Scouts Silver, and then finally work up to gold.
     * (Bronze) Earn the {{#trim}}{{>supernova-link supernova="dr-bernard-harris" sa=true}}{{/trim}} first.
     * (Silver) The {{#trim}}{{>supernova-link supernova="thomas-alva-edison" sa=true}}{{/trim}} is able to be earned after the bronze.
+    * (Gold) The {{#trim}}{{>supernova-link supernova="dr-albert-einstein" sa=true}}{{/trim}} is the last one.
 * Venturers and Sea Scouts
+    * Start by earning the bronze award and then progress to silver and lastly gold.
     * (Bronze) Start with the bronze {{#trim}}{{>supernova-link supernova="dr-sally-ride" sa=true}}{{/trim}}.
     * (Silver) You may work on the {{#trim}}{{>supernova-link supernova="wright-brothers" sa=true}}{{/trim}} after earning the Scouts BSA or Venturing / Sea Scouts bronze.
     * (Gold) The {{#trim}}{{>supernova-link supernova="dr-albert-einstein" sa=true}}{{/trim}} can be worked on after the Scouts BSA or Venturing / Sea Scouts silver.
-
-<img src="supernova-progression.jpg" class="W(100%) H(a)">

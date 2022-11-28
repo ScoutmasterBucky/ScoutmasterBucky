@@ -31,7 +31,7 @@ This module is designed to help you explore the wonders of archaeology.
     **Note: Do not eat the hot dog,** and make sure to store your experiment in a safe place and dispose of it properly when you are done.
     Useful Links:
         https://www.scientificamerican.com/article/bring-science-home-mummification/
-        http://www.sciencebuddies.org/science-fairprojects/project_ideas/HumBio_p022.shtml
+        http://www.sciencebuddies.org/science-fair-projects/project_ideas/HumBio_p022.shtml
     **Option B:** Use plaster of paris to create a “rock” mold at least half an inch thick. Once it is set, create a dark surface like a patina on the rock, possibly by using tempera paint.  Use a carving tool, such as a screw or push pin, to create one or more petroglyphs on your rock.
     Search online for “plaster of paris petroglyphs” for instructions.
 3. Explore. Do **each** of the following:

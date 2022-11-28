@@ -2,7 +2,7 @@
 nova: launch
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdate: May 25, 2022
+lastUpdate: '2022-05-25'
 hasNotes: true
 hiddenNotes:
     - 3A2 only had broken links in the counselor's notes and broken links for the normal page, but the link text worked. Updated.
@@ -26,15 +26,7 @@ This module is designed for Venturing and Sea Scouts to explore how science affe
         (1) Make a list of at least two questions or ideas from each article or show.
         (2) Discuss two of the questions or ideas with your counselor.
 2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a STEM exploration in that field. See [STEM Explorations](../../explorations/) for the requirements. (If you have already completed a Venturing or Sea Scouts STEM exploration in one of these fields, you must choose a different field for this award.)
-    * Archery
-    * Astronomy
-    * Aviation
-    * Digital Technology
-    * Rifle Shooting
-    * Robotics
-    * Shotgun Shooting
-    * Space Exploration
-    * Weather
+    Archery, Astronomy, Aviation, Digital Technology, Rifle Shooting, Robotics, Shotgun Shooting, Space Exploration, Weather
 3. Choose A or B and complete ALL the requirements.
     A. Simulations. Find and use a projectile simulation applet on the Internet (with your parent’s or guardian’s permission). Then design and complete a hands-on experiment to demonstrate projectile motion.
         (1) Keep a record of the angle, time, and distance.
@@ -44,7 +36,7 @@ This module is designed for Venturing and Sea Scouts to explore how science affe
             Projectile Motion Applets
             Website: http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/Projectile/projectile.html
             Fowler's Physics Applets
-            Website: https://www.compadre.org/introphys/items/detail.cfm?ID=7823#:~:text=Fowler%27s%20Physics%20Applets%20This%20is%20a%20collection%20of,collection%20includes%20materials%20in%20mechanics%2C%20and%20modern%20physics.
+            Website: https://www.compadre.org/introphys/items/detail.cfm?ID=7823
             Java Applets on Physics
             Website: http://www.cco.caltech.edu/~phys1/java.html
         (3) Discuss with your counselor:

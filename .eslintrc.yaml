@@ -1,5 +1,5 @@
 parserOptions:
-    ecmaVersion: 6
+    ecmaVersion: latest
     sourceType: module
 env:
     es6: true
@@ -157,7 +157,6 @@ rules:
     require-yield: error
     semi: error
     semi-spacing: error
-    sort-imports: error
     space-before-blocks: error
     space-in-parens: error
     space-infix-ops:

@@ -6,7 +6,7 @@ program: venturing-and-sea-scouts
 
 # Venturing and Sea Scouts Nova Awards
 
-This is the only program where the gold medal ([Dr. Albert Einstein Supernova Award](../dr-albert-einstein/)) can be earned.
+Venturers complete [STEM explorations](../explorations/) instead of merit badges, but the rest of the content is very similar to the [Scouts BSA](../scouts-bsa/) program.
 
 ### Science
 
