@@ -1,0 +1,191 @@
+<div class="D(n) notesToggles-inPerson_D(b)">
+    <h1 id="mb-header">
+        {{>badge-name badge=badge}} - In-Person Class Notes
+    </h1>
+
+    <p>
+        Please arrive with ample time prior to the start time of your class for
+        registration. Remember, there will be others checking in as well that
+        registration may take a little time, depending on the size of the class
+        and the event held in conjunction with the class.
+    </p>
+
+    <p>
+        Your Scout uniform is required to be worn when attending this merit
+        badge session. If you have any additional questions, please feel free to
+        contact Brian Reiners (Scoutmater Bucky) via email at
+        <a href="mailto:scoutmasterbucky@yahoo.com"
+            >scoutmasterbucky@yahoo.com</a
+        >
+        or on the phone at 612-483-0665.
+    </p>
+
+    <p>
+        Reviewing the merit badge pamphlet <em>PRIOR</em> to attending and doing
+        preparation work will ensure that Scouts get the most out of these class
+        opportunities. The merit badge pamphlet is a wealth of information that
+        can make earning a merit badge a lot easier. It contains many of the
+        answers and solutions needed or can at least provide direction as to
+        where one can find the answers.
+    </p>
+
+    <p>
+        It is <em>NOT</em> acceptable to come unprepared to a Scoutmaster Bucky
+        event. You can (and should) use the Scoutmaster Bucky {{>badge-name
+        badge=badge}} Merit Badge Workbook to help get a head start and organize
+        your preparation work. Please note that the use of any workbook is
+        merely for note taking and reference. Completion of any merit badge
+        workbook does not warrant, guarantee, or confirm a Scout's completion of
+        any merit badge requirements.
+    </p>
+
+    <p>
+        It should be noted that this merit badge class is not meant for those
+        who just want to come and see what they can get done. It is possible to
+        complete this merit badge by being properly prepared and having done the
+        preparation work prior to the class. Preparation is a <em>MUST</em>! If
+        you are not willing to participate to these expectations and standards,
+        perhaps the Scoutmaster Bucky opportunity is not for you.
+    </p>
+
+    <p>Things to remember to bring for this merit badge class:</p>
+
+    <ul class="My(0.5em)">
+        <li class="My(0.5em)">
+            Merit badge blue card properly filled out and signed off by your
+            Scoutmaster
+        </li>
+        <li class="My(0.5em)">
+            {{>badge-name badge=badge}} Merit Badge Pamphlet
+        </li>
+        <li class="My(0.5em)">Scout uniform</li>
+        <li class="My(0.5em)">
+            Supporting documentation or project work pertinent to the
+            {{>badge-name badge=badge}} merit badge, which may also include a
+            <a href="{{@root.rootPath}}merit-badges/{{badge}}/workbook/"
+                >merit badge workbook</a
+            >
+            for reference with notes
+        </li>
+        {{#whatToBring}}
+        <li class="My(0.5em)">{{{.}}}</li>
+        {{/whatToBring}}
+        <li class="My(0.5em)">A positive Scouting focus and attitude</li>
+    </ul>
+
+    <p>
+        Please read and understand the
+        <a href="{{@root.rootPath}}blue-card-process/"
+            >Scoutmaster Bucky Blue Card Process</a
+        >.
+    </p>
+</div>
+
+<div class="D(n) notesToggles-online_D(b)">
+    <h1 id="mb-header">
+        {{>badge-name badge=badge}} - Online Class Notes
+    </h1>
+
+    <p>
+        Please arrive with ample time prior to the start time of your class to
+        ensure your connection to the online session is working properly. Ask
+        people in your household to refrain from unnecessary internet usage,
+        including but not limited to: streaming videos, online gaming, and other
+        heavy bandwidth usage.
+    </p>
+
+    <p>
+        You will receive a link 12 to 24 hours before the class start time.
+        Notification will come through the email address provided during the
+        registration process, so please make sure you enter your email
+        correctly.
+    </p>
+
+    <p>
+        Your Scout Uniform is required to be worn when attending this Online
+        Merit Badge session. If you have any additional questions, please feel
+        free to contact Brian Reiners; Scoutmaster Bucky via email at
+        <a href="mailto:scoutmasterbucky@yahoo.com"
+            >scoutmasterbucky@yahoo.com</a
+        >
+        or on the phone at 612-483-0665.
+    </p>
+
+    <p>
+        Reviewing the Merit Badge Pamphlet PRIOR to attending and doing
+        preparation work will insure that Scouts get the most out of these
+        online class opportunities. The Merit Badge Pamphlet is a wealth of
+        information that can make earning a Merit Badge a lot easier. It
+        contains many of the answers and solutions needed or can at least
+        provide direction as to where one can find the answers.
+    </p>
+
+    <p>
+        It is NOT acceptable to come unprepared to a Scoutmaster Bucky event.
+        You can (and should) use the Scoutmaster Bucky {{>badge-name badge=badge}}
+        Merit Badge Workbook to help get a head start and organize your preparation
+        work. Please note that the use of any workbook is merely for note taking
+        and reference.
+        <strong
+            >Completion of any Merit Badge Workbook does not warrant, guarantee,
+            or confirm a Scouts completion of any merit badge
+            requirement(s).</strong
+        >
+        You can download the
+        <a href="{{@root.rootPath}}merit-badges/{{badge}}/workbook/"
+            >Scoutmaster Bucky {{>badge-name badge=badge}} Merit Badge
+            Workbook</a
+        >
+        for taking notes to help you prepare.
+    </p>
+
+    <p>
+        It should be noted that this Merit Badge class is not meant for those
+        who just want to come and see what they can get done. It is possible to
+        complete this Merit Badge by being properly prepared and having done the
+        preparation work prior to the class. Preparation is a MUST! If you are
+        not willing to participate to these expectations and standards, perhaps
+        the Scoutmaster Bucky opportunity is not for you.
+    </p>
+</div>
+
+<h1 id="mb">
+    <div class="D(f) Jc(sb) Ai(c) Ai(fs)--sm Fxd(c)--sm">
+        <div>
+            {{>badge-name badge=badge}} Merit Badge
+        </div>
+        <div class="Fz(0.4em) Fw(n) Tt(n) Fs(i)">
+            Current Scouts BSA Requirements<br class="D(n)--sm"/>
+            as of {{>last-updated section='merit-badges' key=badge}}
+        </div>
+    </div>
+</h1>
+
+<div class="W(20%) W(25%)--l W(33%)--m W(50%)--s D(f) Fxd(c) Ai(c) P(4px) Fl(end)">
+    <img src="{{@root.rootPath}}{{#with (lookup @root.meritBadges badge)}}{{image}}{{/with}}"
+         class="W(100%) H(a)"
+         width="10"
+         height="10"
+         />
+</div>
+
+<div class="D(n) notesToggles-inPerson_D(b) notesToggles-online_D(b) Pb(0.6em)">
+    <p class="C(red) Fw(b)">
+        Please make sure you read the top portion of this page for general
+        participation expectations in a Scoutmaster Bucky merit badge class.
+    </p>
+
+    <p class="C(red) Fw(b)">
+        Pay careful attention to the action verbs within the requirements. An
+        example to note:
+    </p>
+
+    <p class="C(red) Fw(b)">
+        "Tell", "explain", "describe", and "discuss" are commonly used and will
+        require the Scout to perform these actions during the class. When these
+        action verbs are a part of any requirement, Scouts are expected to be
+        prepared to share. Reading responses is not acceptable since it does not
+        fulfill the requirement of showing the Scout's knowledge and
+        understanding.
+    </p>
+</div>

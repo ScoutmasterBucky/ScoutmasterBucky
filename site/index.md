@@ -7,8 +7,6 @@ news:
     - November 5, 2022 in Bloomington, Minnesota will be an in person event.  Registration is OPEN
     - December 17, 2022 in Prior Lake, Minnesota will be an in person event.  Registration is OPEN
     - working on more online offerings, keep checking back - Holiday classes will be posted soon
-css:
-    - css/calendar.css
 js:
     - js/jquery-3.4.1.min.js
     - js/jquery.e-calendar-0.9.3.js
@@ -32,14 +30,14 @@ js:
 
 ## Scoutmaster Bucky Event Calendar
 
-<div id="calendar" class="Mb(0.9em) H(218px) H(426px)--m"></div>
+<div id="calendar" class="Mb(0.9em) H(218px) H(426px)--sm"></div>
 
 Registration opens at 12:05 am on the first of the month for the following month's activities. The only exception is that February events open on January 2 at 12:05 am. Some events do open for registration earlier, so please check events carefully below.
 
 ## News
 
-<div class="D(f) Fxd(c)--m">
-<div class="Maw(189px) Mx(a)--m W(30%)--m">
+<div class="D(f) Fxd(c)--sm">
+<div class="Maw(189px) Mx(a)--sm W(30%)--sm">
 <img src="{{@root.rootPath}}images/bucky-with-newspaper.jpg" class="W(100%) H(a)" width="189" height="225" />
 </div>
 <div>
@@ -62,7 +60,7 @@ The Scoutmaster Bucky program is a volunteer run program managed and maintained 
 
 ## Refund Policy & Contact Information
 
-<div class="D(f) Fxd(c)--s"><div>
+<div class="D(f) Fxd(c)--ss"><div>
 
 Requests for refunds or cancellations will be honored up to a week prior to any event.
 
@@ -72,7 +70,7 @@ Contact number: 612-483-0665<br />
 Email: <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry">ScoutmasterBucky@yahoo.com</a>
 
 </div>
-<div class="Maw(30%)--s Maw(15%) Maw(20%)--m M(a)--s">
+<div class="Maw(30%)--ss Maw(15%) Maw(20%)--sm M(a)--s">
 <img src="images/bucky-waving.jpg" alt="Bucky Waving" class="W(100%) H(a)"/>
 </div>
 </div>

@@ -1,0 +1,17 @@
+{{#if @root.data.requirements}}
+{{#if workbook}}
+{{>smb-merit-badge-workbook}}
+{{else}}
+{{>smb-merit-badge-requirements}}
+{{/if}}
+{{/if}}
+
+{{/smb-transform-elements}}
+
+                </div>
+            </div>
+
+{{#if workbook}}
+<script src="{{@root.rootPath}}js/workbook.js"></script>
+{{/if}}
+{{>smb-layout-footer}}

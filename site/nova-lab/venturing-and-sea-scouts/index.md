@@ -26,7 +26,7 @@ Venturers complete [STEM explorations](../explorations/) instead of merit badges
 
 ### Supernova Awards
 
-<div class="D(f) Jc(se) Fxd(c)--m">
+<div class="D(f) Jc(se) Fxd(c)--sm">
 
 {{>supernova supernova="dr-sally-ride"}}
 {{>supernova supernova="wright-brothers"}}
@@ -38,7 +38,7 @@ Venturers complete [STEM explorations](../explorations/) instead of merit badges
 
 Nova awards for Venturers and Sea Scouts require a [STEM exploration](../explorations/). If your activities already align with one of these topics, it would be an ideal time to also earn a Nova award.
 
-<div class="Cc(2) Cc(1)--l">
+<div class="Cc(2) Cc(1)--sml">
 
 * Additive Manufacturing - {{#trim}}{{>nova-link nova="something-from-nothing"}}{{/trim}}
 * American Business - {{#trim}}{{>nova-link nova="numbers-dont-lie"}}{{/trim}}
