@@ -42,9 +42,9 @@ metalsmithSite.run({
         // the index page may include the events because the links and images
         // are made with the rootPath.
         sugar.use("metalsmith-handlebars-contents", {
-            helpers: ["./handlebars/pages/helpers/**/*.js"],
+            helpers: ["./handlebars/helpers/**/*.js"],
             match: ["events/*.md"],
-            partials: ["./handlebars/pages/partials/**/*"]
+            partials: ["./handlebars/partials/**/*"]
         });
         sugar.use("metalsmith-browserify-alt");
     },

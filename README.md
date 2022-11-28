@@ -39,7 +39,7 @@ General-Purpose Partials and Helpers
 Index Page
 ----------
 
-The index page lists the events - they are slurped up into the index page. Also, these helpers and partials are only usable on the index page.
+The index page lists the events - they are slurped up into the index page.
 
 * `{{>event-badge-header badge="geocaching"}}` - Shows an event header with "Scoutmaster Bucky", the Bucky-themed image, and the round merit badge. Centers text below the "Scoutmaster Bucky" logo.
 
