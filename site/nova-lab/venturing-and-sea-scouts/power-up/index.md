@@ -2,7 +2,7 @@
 nova: power-up
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdated: May 25, 2022
+lastUpdate: May 25, 2022
 hasNotes: true
 hiddenNotes:
     - Removed broken links from 3C2
@@ -25,22 +25,7 @@ This module is designed to help Venturers or Sea Scouts explore how technology a
         (1) Make a list of at least two questions or ideas from each article or show.
         (2) Discuss two of the questions or ideas with your counselor.
 2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a STEM exploration in that field. See [STEM Explorations](../../explorations/) for the requirements. (If you have already completed a Venturing STEM exploration in one of these fields, please choose a different field for this award.)
-    * Automotive Maintenance
-    * Aviation
-    * Canoeing
-    * Cycling
-    * Drafting
-    * Electricity
-    * Energy
-    * Farm Mechanics
-    * Kayaking
-    * Motorboating
-    * Nuclear Science
-    * Railroading
-    * Rowing
-    * Small-Boat Sailing
-    * Space Exploration
-    * Truck Transportation
+    Automotive Maintenance, Aviation, Canoeing, Cycling, Drafting, Electricity, Energy, Farm Mechanics, Kayaking, Motorboating, Nuclear Science, Railroading, Rowing, Small-Boat Sailing, Space Exploration, Truck Transportation
 3. Do ALL the following.
     A. Using the requirements from the above list of STEM explorations:
         (1) Tell your counselor the energy source(s) used in these STEM explorations.

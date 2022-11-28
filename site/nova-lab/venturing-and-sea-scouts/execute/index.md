@@ -2,7 +2,7 @@
 nova: execute
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdate: May 25, 2022
+lastUpdate: '2022-05-25'
 ---
 
 This module is designed to help you explore how programming affects everyday life.
@@ -19,15 +19,7 @@ This module is designed to help you explore how programming affects everyday lif
         1. Make a list of at least five questions or ideas from the material you read.
         2. Discuss two of the questions or ideas that relate to programming and other computer topics with your counselor.
 2. Choose ONE STEM field of interest from the following list. Complete ALL the requirements for a Venturing STEM exploration in that field. (If you have already completed a [Venturing STEM Exploration](../../explorations/) in one of these fields, please choose a different field for this award.)
-    * Computer Hardware
-    * Cryptology
-    * Cybersecurity
-    * Electronics
-    * Information Technology
-    * Networking
-    * Programming
-    * Robotics
-    * Social Media Marketing
+    Computer Hardware, Cryptology, Cybersecurity, Electronics, Information Technology, Networking, Programming, Robotics, Social Media Marketing
 3. Experiment! Choose three activities from the following list and complete ALL the requirements.
     A. Build an app.
         1. Create an app that helps solve a problem of your choosing. You can use a development environment of your choosing. Some common software applications include:

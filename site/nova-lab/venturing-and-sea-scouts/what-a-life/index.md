@@ -2,20 +2,17 @@
 nova: what-a-life
 program: venturing-and-sea-scouts
 layout: nova-req
-lastUpdate: May 25, 2022
-hiddenNotes:
-    - Removed dead links from 3A2, 3B2, 3D2, 3E2
-    - Corrected link title for 3A2
+lastUpdate: '2022-05-24'
 ---
 
 This module is designed for Venturers and Sea Scouts to encourage you to explore different facets of the biological life and living systems around you, including macrobiotic and microbiotic life, ecology, genetics, and advances in medicine.
 
 {{#requirements}}
 1. Choose A *or* B *or* C and complete ALL the requirements.
-    A. Watch not less than three hours total of shows or documentaries related to areas of biology: botany, zoology, genetics, medicine, ecology, veterinary medicine, or microbiology.  Then do the following:
+    A. Watch not less than three hours total of shows or documentaries related to areas of biology: botany, zoology, genetics, medicine, ecology, veterinary medicine, or microbiology. Then do the following:
         (1) Make a list of at least five questions or ideas from the show(s) you watched.
         (2) Discuss two of the questions or ideas with your counselor.
-        Some examples include-but are not limited to—shows found on PBS (NOVA: "Cracking the Code"), Discovery Channel, Science Channel, National Geographic Channel, Animal Planet and TED Talks (online videos). The Human Genome Institute at NIH website at www.genome.gov/10000002/education/ has educational information and activities related with human genetics. You may choose to watch a live performance or movie developed by a local science museum or state or federal agency. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision.
+        Some examples include—but are not limited to—shows found on PBS (NOVA: “Cracking the Code”), Discovery Channel, Science Channel, National Geographic Channel, Animal Planet and TED Talks (online videos). The Human Genome Institute at NIH website at www.genome.gov/10000002/education/ has educational information and activities related with human genetics. You may choose to watch a live performance or movie developed by a local science museum or state or federal agency. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision.
     B. Read (not less than three hours total) about anything related to a biological topic and do the following:
         (1) Make a list of at least five questions or ideas from each article.
         (2) Discuss two of the questions or ideas with your counselor.
@@ -23,23 +20,8 @@ This module is designed for Venturers and Sea Scouts to encourage you to explore
     C. Combine reading and watching activities (not less than three hours total), and do the following:
         (1) Make a list of at least five questions or ideas from your activity.
         (2) Discuss two of the questions or ideas with your counselor.
-2.  Choose ONE subject from the following list. Complete ALL the requirements from among the [Venturing STEM exploration](../../explorations/) topics. If you have already completed a Venturing STEM exploration in one of these fields, please choose a different field for this award. Discuss with your counselor THREE salient points you learned from each activity.
-    * Animal Science
-    * Environmental science
-    * Fish and Wildlife
-    * Fishing
-    * Forestry
-    * Gardening
-    * Health Care
-    * Insect Study
-    * Mammal Study
-    * Management
-    * Nature
-    * Oceanography Wildlife conservation
-    * Plant Science
-    * Professions
-    * Soil and water conservation
-    * Veterinary science
+2. Choose ONE subject from the following list. Complete ALL the requirements from among the [Venturing STEM exploration topics](../../explorations/). If you have already completed a Venturing STEM exploration in one of these fields, please choose a different field for this award. Discuss with your counselor THREE salient points you learned from each activity.
+    Animal Science, Environmental Science, Fish and Wildlife Management, Fishing, Forestry, Gardening, Health Care Professions, Insect Study, Mammal Study, Nature, Oceanography, Plant Science, Soil and Water Conservation, Wildlife Conservation, Veterinary Science
 3. Be a biologist! Consider different areas of biological explorations presented below and pick TWO from A *or* B *or* C *or* D *or* E. Run the experiments or perform the activity and discuss your observations and conclusions with your counselor. Always be sure you have your parent’s or guardian’s permission before using the Internet.
     A. **Botanical Investigation: Effect of Light on Plant Growth**
         (1) Experiment: Plant pea seeds in potting soil, and grow and water one set under normal sunlight, another set under fluorescent light, and a last set of potted peas in large boxes with only one quarter-size hole for sunlight. Predict what difference(s) you expect to see among the three conditions and allow plants to germinate and grow for at least two weeks.
@@ -50,7 +32,7 @@ This module is designed for Venturers and Sea Scouts to encourage you to explore
             * What factors contributed to the differences, if any, between your hypothesis and the actual experimental results?
             Helpful Links
                 * Factors affecting plant growth: https://edis.ifas.ufl.edu/pdf/4H/4H36000.pdf
-                * Being an agricultural technician: https://www.sciencebuddies.org/scienceengineering-careers?s=agricultural%20technician
+                * Being an agricultural technician: https://www.sciencebuddies.org/science-engineering-careers?s=agricultural%20technician
         (3) Discover. Explain to your counselor possible reasons that support your experimental results. Then answer TWO of the following questions.
             a. How does sunlight affect the process of photosynthesis?
             b. How do different colors of light affect plant growth?
@@ -90,7 +72,7 @@ This module is designed for Venturers and Sea Scouts to encourage you to explore
         (3) Discover: Take a tour of a local veterinary clinic or animal shelter and interview a medical professional about what is involved in a routine pet check-up, including vaccinations, and why.
             * Explain to your counselor what kind of education is required to be a veterinarian.
             * What are other related career options in this field?
-            * Are there differences in routine check-ups of different pets
+            * Are there differences in routine check-ups of different pets?
             * What is the difference in the digestive system of ruminants?
     D. **Genetics: DNA Demystified**
         (1) Experiment: With permission of your parents or guardians, find a recipe on the internet to create your own DNA extraction kit using household materials, and use it to purify DNA from strawberries.
@@ -104,10 +86,9 @@ This module is designed for Venturers and Sea Scouts to encourage you to explore
             Helpful Links
                 * The Animated Genome: https://ulc.drivingcreative.com/media/animations/659#660
                 * Talking Glossary of Genetic Terms: https://www.genome.gov/genetics-glossary
-                * Brief history of Human Genome Project https://unlockinglifescode.org/timeline
+                * Brief history of Human Genome Project https://www.unlockinglifescode.org/timeline
                 * Genomic Careers: https://www.genome.gov/careers-in-genomics
-                * What do you think? Ethical and social questions surrounding genomic research: https://unlockinglifescode.org/wdyt/#/
-                * Understanding genetics: http://genetics.thetech.org/about-genetics
+                * What do you think? Ethical and social questions surrounding genomic research: https://www.unlockinglifescode.org/wdyt/#!/
         (3) Explain to your counselor TWO of the following questions:
             a. What is the science of genetics? The fields of genetics and genomics offer dozens of career possibilities. Which are the three most interesting to you?
             b. What are some diseases or disabilities that result from genetic mutations or alterations in human DNA? What possible environmental factors cause genetic mutations in humans?
@@ -122,7 +103,7 @@ This module is designed for Venturers and Sea Scouts to encourage you to explore
             b. What are the environmental concerns for that area? Explain them using photographs, graphs, or available data.
             c. What project has been or could be done to improve the natural habitat threatened in that area?
             Helpful links
-                * Environmental Information by Location: https://www.epa.gov/environmental-topics/location-specificenvironmental-information
+                * Environmental Information by Location: https://www.epa.gov/environmental-topics/location-specific-environmental-information
                 * Learning activities about Environment: https://www.epa.gov/students
                 * National Geographic Education: https://www.nationalgeographic.org/lesson/?q=&grade_bands=9%E2%80%9312+(Ages+14%%20E2%80%9318)&per_page=25&subjects=Ecology
                 * National Park Service: https://www.nps.gov/teachers/teacher-resources.htm#q=ecology
