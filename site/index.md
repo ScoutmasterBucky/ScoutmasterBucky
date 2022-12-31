@@ -1,12 +1,11 @@
 ---
 title: Scoutmaster Bucky
 layout: smb
-opportunities: 14,500+
-online: 1,975+
+opportunities: 15,000+
+online: 2,000+
 news:
-    - November 5, 2022 in Bloomington, Minnesota will be an in person event.  Registration is OPEN
-    - December 17, 2022 in Prior Lake, Minnesota will be an in person event.  Registration is OPEN
-    - working on more online offerings, keep checking back - Holiday classes will be posted soon
+    - February 11, 2023 in Bloomington, Minnesota will be an in person event.  Registration opens soon
+    - more online classes coming in early 2023, keep checking back
 css:
     - css/calendar.css
 js:
