@@ -4,64 +4,28 @@
   children:
       - requirement: a
         text: |-
-            State and explain the Range Safety Rules:
-        children:
-            - requirement: 1
-              text: |-
-                  Three safety rules when on the shooting line
-              workbook:
-                  - lines: 8
-                  - lines: 8
-                  - lines: 8
-            - requirement: 2
-              text: |-
-                  Three safety rules when retrieving arrows
-              workbook:
-                  - lines: 8
-                  - lines: 8
-                  - lines: 8
-            - requirement: 3
-              text: |-
-                  The four whistle commands used on a range and their related
-                  verbal commands
-              workbook:
-                  - lines: 8
-                  - lines: 8
-                  - lines: 8
-                  - lines: 8
-            - note:
-                  - inPerson
-                  - online
-              text: |-
-                  Scouts should read the merit badge pamphlet prior to the
-                  class and be familiar with the Range Safety Rules that will
-                  further be discussed as a part of the class. It is not
-                  acceptable to arrive assuming that this requirement will be
-                  covered at the class. It is important that Scouts know these
-                  rules and commands prior to the class so that they understand
-                  the difference between standard commands and safety rules and
-                  those that may be exclusive to the particular range they are
-                  utilizing.
-      - requirement: b
-        text: |-
-            State and explain the general safety rules for archery. Demonstrate
-            how to safely carry arrows in your hands.
+            Explain the five range safety rules.
         workbook:
             - lines: 8
-            - task: true
-              text: |-
-                  Demonstrate how to safely carry arrows in your hands
-        children:
-            - note:
-                  - inPerson
-                  - online
-              text: |-
-                  Scouts must arrive to class with a basic understanding of
-                  general safety rules for archery. Familiarize yourself with
-                  the proper carrying of arrows as you will be required to
-                  demonstrate your knowledge and ability to the counselor
-                  during the class.
+            - lines: 8
+            - lines: 8
+            - lines: 8
+            - lines: 8
+      - requirement: b
+        text: |-
+            Explain the four whistle commands used on the range.
+        workbook:
+            - lines: 8
+            - lines: 8
+            - lines: 8
+            - lines: 8
       - requirement: c
+        text: |-
+            Explain how to safely remove arrows from the target and return them
+            to your quiver.
+        workbook:
+            - lines: 8
+      - requirement: d
         text: |-
             Tell about your local and state laws for owning and using archery
             equipment.
@@ -80,6 +44,19 @@
                   Scouts should look up the local (state, county, city - where
                   applicable) laws regarding archery and come prepared to share
                   their findings during the class discussion.
+      - note:
+            - inPerson
+            - online
+        text: |-
+            Scouts should read the merit badge pamphlet prior to the
+            class and be familiar with the Range Safety Rules that will
+            further be discussed as a part of the class. It is not
+            acceptable to arrive assuming that this requirement will be
+            covered at the class. It is important that Scouts know these
+            rules and commands prior to the class so that they understand
+            the difference between standard commands and safety rules and
+            those that may be exclusive to the particular range they are
+            utilizing.
 - requirement: 2
   text: |-
       Do the following:
@@ -206,24 +183,15 @@
                   the requirement.
       - requirement: b
         text: |-
-            Explain the following terms: cast, draw weight, string height,
-            aiming, spine, mechanical release, and barebow.
+            Explain the following terms: draw length, draw weight, mechanical
+            release and barebow.
         workbook:
             - lines: 8
               text: |-
-                  Cast
+                  Draw length
             - lines: 8
               text: |-
                   Draw weight
-            - lines: 8
-              text: |-
-                  String height
-            - lines: 8
-              text: |-
-                  Aiming
-            - lines: 8
-              text: |-
-                  Spine
             - lines: 8
               text: |-
                   Mechanical release
@@ -265,35 +233,20 @@
   children:
       - requirement: a
         text: |-
-            The importance of obedience to a range officer or other person in
-            charge of a range
-        workbook:
-            - lines: 8
-        children:
-            - note:
-                  - inPerson
-                  - online
-              text: |-
-                  Scouts will be briefed on this subject during the class
-                  however prior to the class Scouts should think about this and
-                  formulate their thoughts on this as it will be discussed
-                  during the class.
-      - requirement: b
-        text: |-
             The difference between an end and a round
         workbook:
             - lines: 8
-      - requirement: c
+      - requirement: b
         text: |-
             The differences among field, target, and 3-D archery
         workbook:
             - lines: 8
-      - requirement: d
+      - requirement: c
         text: |-
             How the five-color World Archery Federation target is scored
         workbook:
             - lines: 8
-      - requirement: e
+      - requirement: d
         text: |-
             How the National Field Archery Association (NFAA) black-and-white
             field targets and blue indoor targets are scored
@@ -347,18 +300,9 @@
             - lines: 8
       - requirement: c
         text: |-
-            Show the 10 steps of good shooting for the bow you are shooting.
+            Demonstrate and explain USA Archery's "Steps of Shooting" for the bow you are shooting.
         workbook:
-            - lines: 2
-            - lines: 2
-            - lines: 2
-            - lines: 2
-            - lines: 2
-            - lines: 2
-            - lines: 2
-            - lines: 2
-            - lines: 2
-            - lines: 2
+            - lines: 8
       - requirement: d
         text: |-
             Demonstrate the proper way to string a recurve bow or longbow.
@@ -387,11 +331,9 @@
                         of 60 points<br/>
                         b. A BSA Scout field round of 14 targets and make a
                         score of 80 points<br/>
-                        c. A Junior 900 round and make a score of 180
-                        points<br/>
-                        d. A World Archery/USA Archery indoor`*` round I and
+                        c. A World Archery/USA Archery indoor`*` round I and
                         make a score of 80 points<br/>
-                        e. An NFAA indoor`*` round and make a score of 50
+                        d. An NFAA indoor`*` round and make a score of 50
                         points
                   - task: true
               children:
@@ -406,16 +348,12 @@
                         of 80 points
                     workbookHide: true
                   - requirement: c
-                    text: |-
-                        A Junior 900 round and make a score of 180 points
-                    workbookHide: true
-                  - requirement: d
                     markdown: true
                     text: |-
                         A World Archery/USA Archery indoor`*` round I and make
                         a score of 80 points
                     workbookHide: true
-                  - requirement: e
+                  - requirement: d
                     markdown: true
                     text: |-
                         An NFAA indoor`*` round and make a score of 50 points
@@ -470,19 +408,10 @@
             - lines: 8
       - requirement: c
         text: |-
-            Show the 10 steps of good shooting for the compound bow you are
-            shooting.
+            Demonstrate and explain USA Archery's "Steps of Shooting" for the
+            bow you are shooting.
         workbook:
-            - lines: 2
-            - lines: 2
-            - lines: 2
-            - lines: 2
-            - lines: 2
-            - lines: 2
-            - lines: 2
-            - lines: 2
-            - lines: 2
-            - lines: 2
+            - lines: 8
       - requirement: d
         text: |-
             Explain why it is necessary to have the string or cable on a
@@ -511,11 +440,9 @@
                         of 70 points<br/>
                         b. A BSA Scout field round of 14 targets and make a
                         score of 90 points<br/>
-                        c. A Junior 900 round and make a score of 200
-                        points<br/>
-                        d. A World Archery/USA Archery indoor`*` round I and
+                        c. A World Archery/USA Archery indoor`*` round I and
                         make a score of 90 points<br/>
-                        e. An NFAA indoor`*` round and make a score of 60
+                        d. An NFAA indoor`*` round and make a score of 60
                         points
                   - task: true
               children:
@@ -530,16 +457,12 @@
                         of 90 points
                     workbookHide: true
                   - requirement: c
-                    text: |-
-                        A Junior 900 round and make a score of 200 points
-                    workbookHide: true
-                  - requirement: d
                     markdown: true
                     text: |-
                         A World Archery/USA Archery indoor`*` round I and make
                         a score of 90 points
                     workbookHide: true
-                  - requirement: e
+                  - requirement: d
                     markdown: true
                     text: |-
                         An NFAA indoor`*` round and make a score of 60 points
@@ -547,8 +470,8 @@
             - requirement: 2
               text: |-
                   Shooting at an 80-centimeter (32-inch) five-color target
-                  using the 10 scoring regions, make a minimum score of 160.
-                  Accomplish this in the following manner:
+                  using the 10 scoring regions, make a minimum score of 160
+                  points. Accomplish this in the following manner:
               workbook:
                   - header: true
                     markdown: true

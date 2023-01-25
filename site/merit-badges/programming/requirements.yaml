@@ -10,9 +10,9 @@
             - signature: Adult Scout Leader
       - requirement: b
         text: |-
-            Discuss first aid and prevention for potential injuries, such as
-            eyestrain and repetitive stress injuries, that could occur during
-            programming activities.
+            Discuss first aid and prevention for the types of injuries that
+            could occur during programming activities, including repetitive
+            stress injuries and eyestrain.
         workbook:
             - lines: 8
               text: |-
@@ -57,7 +57,7 @@
   children:
       - requirement: a
         text: |-
-            Create a list of 10 popular programming languages in use today and
+            Create a list of 5 popular programming languages in use today and
             describe which industry or industries they are primarily used in
             and why.
         workbook:
@@ -71,26 +71,6 @@
                   - header: true
                     text: |-
                         Why used there
-            - split:
-                  - lines: 2
-                  - lines: 2
-                  - lines: 2
-            - split:
-                  - lines: 2
-                  - lines: 2
-                  - lines: 2
-            - split:
-                  - lines: 2
-                  - lines: 2
-                  - lines: 2
-            - split:
-                  - lines: 2
-                  - lines: 2
-                  - lines: 2
-            - split:
-                  - lines: 2
-                  - lines: 2
-                  - lines: 2
             - split:
                   - lines: 2
                   - lines: 2

@@ -8,68 +8,68 @@
   children:
       - requirement: a
         text: |-
-            Explain to your counselor the most likely risks you may encounter during athletics activities and what you should do to anticipate, help prevent, mitigate, and respond to these risks.
+            Explain to your counselor the most likely hazards you may encounter while playing sports, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
         workbook:
             - lines: 8
               text: |-
-                  Anticipate risks
+                  Anticipate hazards
             - lines: 8
               text: |-
-                  Prevent risks
+                  Prevent hazards
             - lines: 8
               text: |-
-                  Mitigate risks
+                  Mitigate hazards
             - lines: 8
               text: |-
-                  Respond to risks
+                  Respond to hazards
       - requirement: b
         text: |-
-            Show that you know first aid or understand the treatment for injuries that could occur while participating in athletics, including sprains, strains, muscle cramps, contusions, abrasions, blisters, dehydration, heat reactions, and concussions.
+            Show that you know first aid for injuries or illnesses that could occur while participating in sports, including sprains, strains, contusions, abrasions, fractures, blisters, muscle cramps, injured teeth, dehydration, heat and cold reactions, and concussions or other suspected injuries to the head, neck, and back.
         workbook:
             - lines: 8
               text: |-
                   Sprains, strains
             - lines: 8
               text: |-
-                  Muscle cramps
+                  Contusions, abrasions
             - lines: 8
               text: |-
-                  Contusions, abrasions
+                  Fractures
             - lines: 8
               text: |-
                   Blisters
             - lines: 8
               text: |-
+                  Muscle cramps
+            - lines: 8
+              text: |-
+                  Injured teeth
+            - lines: 8
+              text: |-
                   Dehydration
             - lines: 8
               text: |-
-                  Heat reactions
+                  Heat and cold reactions
             - lines: 8
               text: |-
-                  Concussions
+                  Concussions or other suspected injuries to the head, neck, and back
 - requirement: 2
   text: |-
-      Explain the following:
+      Explain the importance of the following:
   children:
       - requirement: a
         text: |-
-            Before completing requirements 4 and 5, show that you have received a physical examination from your health care practioner within the last 12 months.
+            The importance of the physical exam.
         workbook:
-            - signature: Parent or Guardian
-              checkbox: Confirmed
+            - lines: 8
       - requirement: b
         text: |-
-            Explain the importance of the physical exam.
+            The importance of maintaining good health habits for life (such as exercising regularly), and how the use of tobacco products, alcohol, and other harmful substances can negatively affect your health and your performance in sports activities.
         workbook:
             - lines: 8
       - requirement: c
         text: |-
-            Explain the importance of maintaining good health habits for life (such as exercising regularly), and how the use of tobacco products, alcohol, and other harmful substances can negatively affect your health and your performance in sports activities.
-        workbook:
-            - lines: 8
-      - requirement: d
-        text: |-
-            Explain the importance of maintaining a healthy diet.
+            The importance of maintaining a healthy diet.
         workbook:
             - lines: 8
 - requirement: 3
@@ -97,11 +97,36 @@
         workbook:
             - lines: 8
 - requirement: 4
+  text: |-
+      With guidance from your counselor, establish a personal training program suited to the activities you choose for requirement 5. Then do the following:
+  children:
+      - requirement: a
+        text: |-
+            Create a chart and track your training, practice, and development in the sports for one season (or four months).
+        workbook:
+            - area: 8
+      - requirement: b
+        text: |-
+            Demonstrate proper technique for your two chosen sports.
+        workbook:
+            - split:
+                  - task: true
+                    text: |-
+                        First sport demonstrated
+                  - task: true
+                    text: |-
+                        Second sport demonstrated
+      - requirement: c
+        text: |-
+            At the end of the season, share your completed chart with your counselor and discuss how your participation in the sports you chose has affected you mentally and physically.
+        workbook:
+            - lines: 4
+- requirement: 5
   markdown: true
   text: |-
-      Take part for one season (or four months) as a competitive individual or as a member of an organized team in TWO of the following sports: baseball, basketball, bowling, cross-country, field hockey, football, golf gymnastics, ice hockey, lacrosse, soccer, softball, swimming, table tennis, tennis, track and field, volleyball, water polo, wrestling, cheerleading, and/or badminton. Your counselor may approve in advance other recognized sports, but not any sport that is restricted and not authorized by the BSA:
+      Take part for one season (or four months) as a competitive individual or as a member of an organized team in TWO of the following sports: baseball, basketball, bowling, cross-country, diving, field hockey, flag football, flag team, golf, gymnastics, ice hockey, lacrosse, soccer, softball, spirit/cheerleading, swimming, tackle football, table tennis, tennis, track & field, volleyball, water polo and wrestling, and/or badminton. Your counselor may approve in advance other recognized sports.`*` Then with your chosen sports do the following:
 
-      Then with your chosen sports do the following:
+      *`*` The BSA has prohibited as official Scouting activities intramural, interscholastic, or club-sport competitions or activities. However, they can be acceptable for your organized school, leage, or club activity if approved by your counselor.*
   workbook:
       - lines: 2
         text: |-
@@ -132,7 +157,7 @@
                   Second sport
       - requirement: c
         text: |-
-            Draw diagrams of the playing area for your two sports.
+            Draw diagrams of the playing areas for your two sports.
         workbook:
             - area: 20
               text: |-
@@ -140,28 +165,3 @@
             - area: 20
               text: |-
                   Second sport
-- requirement: 5
-  text: |-
-      With guidance from your counselor and before beginning requirement 4, establish a personal training program suited to the activities you chose for requirement 4. Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Organize a chart and track your training, practice, and development in the sports for one season or four months
-        workbook:
-            - area: 8
-      - requirement: b
-        text: |-
-            Demonstrate proper technique for your two chosen sports.
-        workbook:
-            - split:
-                  - task: true
-                    text: |-
-                        First sport demonstrated
-                  - task: true
-                    text: |-
-                        Second sport demonstrated
-      - requirement: c
-        text: |-
-            At the end of the season, share your completed chart with your counselor and discuss how your participation in the sports you chose has affected you mentally and physically.
-        workbook:
-            - lines: 4

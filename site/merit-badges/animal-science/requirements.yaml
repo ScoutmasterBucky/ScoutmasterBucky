@@ -1,8 +1,8 @@
 - requirement: 1
   text: |-
       Name four breeds of livestock in each of the following classifications:
-      horses, dairy cattle, beef cattle, sheep, hogs. Tell their principal uses
-      and merits.  Tell where the breeds originated.
+      horses, dairy cattle, beef cattle, sheep, hogs, poultry, and goats. Tell
+      their principal uses and merits.  Tell where the breeds originated.
   workbook:
       - lines: 8
         text: |-
@@ -937,12 +937,16 @@
             roosts, feeders, waterers, and means of ventilation. Explain how
             insulation, ventilation, temperature controls, automatic lights,
             and other environmental controls are used to protect birds from
-            heat, cold, and bad weather.
+            heat, cold, and bad weather. Explain the importance of light for
+            egg production.
         workbook:
             - area: 30
             - lines: 8
               text: |-
                   How environmental controls are used to protect birds
+            - lines: 8
+              text: |-
+                  The importance of light for egg production
         children:
             - note:
                   - inPerson
@@ -1048,26 +1052,26 @@
                         fulfill the requirement to their satisfaction.
       - requirement: e
         text: |-
-            Define the following terms: hen, rooster, chick, capon; tom, poult.
+            Define the following terms: chick, pullet, hen, cockerel, cock, capon
         workbook:
-            - lines: 8
-              text: |-
-                  Hen
-            - lines: 8
-              text: |-
-                  Rooster
             - lines: 8
               text: |-
                   Chick
             - lines: 8
               text: |-
+                  Pullet
+            - lines: 8
+              text: |-
+                  Hen
+            - lines: 8
+              text: |-
+                  Cockerel
+            - lines: 8
+              text: |-
+                  Cock
+            - lines: 8
+              text: |-
                   Capon
-            - lines: 8
-              text: |-
-                  Tom
-            - lines: 8
-              text: |-
-                  Poult
         children:
             - note:
                   - inPerson
