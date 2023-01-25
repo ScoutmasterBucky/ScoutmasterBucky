@@ -91,7 +91,7 @@
   children:
       - requirement: a
         text: |-
-            Float faceup in a resting position for at least one minute.
+            Float faceup in a resting position for at least three minutes with minimal movement.
         workbook:
             - task: true
       - requirement: b
@@ -142,8 +142,8 @@
       least 7 feet deep`*`, show a standing headfirst dive from a dock or pool
       deck. Show a long shallow dive, also from the dock or pool deck.
 
-      **`*` If your state, city, or local community requires a water depth
-      greater than 7 feet, it is important to abide by that mandate.**
+      *`*` If your state, city, or local community requires a water depth
+      greater than 7 feet, it is important to abide by that mandate.*
   workbook:
       - task: true
 - requirement: 8

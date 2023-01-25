@@ -1,8 +1,4 @@
-# Weirdly, this PDF contains the text for requirements 8 and 9 from small boat
-# sailing.
-# The snowboarding section should stop at j but continues to m.
-# Then, at the end, text from Soil and Water Conservation continues immediately
-# after the requirements.
+# The snowboarding section should stop at l but continues to m.
 - requirement: 1
   text: |-
       Do the following:
@@ -74,7 +70,7 @@
       - requirement: b
         text: |-
             Explain the procedure used to report an accident to the local ski
-            patrol for the area where you usually ski, ride, or snowshoe.
+            patrol or local emergency personnel.
         workbook:
             - lines: 8
 - requirement: 3
@@ -138,8 +134,8 @@
             **Downhill (Alpine) Skiing Option**
       - requirement: a
         text: |-
-            Show how to use and maintain your own release bindings and explain
-            the use of two others. Explain the international DIN standard and
+            Show how to wax and maintain your skis and use/maintain your
+            release bindings. Explain the international DIN standard and
             what it means to skiers.
         workbook:
             - lines: 8
@@ -180,29 +176,11 @@
             - task: true
       - requirement: h
         text: |-
-            Make a controlled run down an intermediate slope and demonstrate
-            the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Short-, medium-, and long-radius parallel turns
-              workbook:
-                  - task: true
-            - requirement: 2
-              text: |-
-                  A sideslip and safety (hockey) stop to each side
-              workbook:
-                  - task: true
-            - requirement: 3
-              text: |-
-                  Traverse across a slope
-              workbook:
-                  - task: true
+            Make a controlled run down an intermediate slope.
       - requirement: i
         text: |-
             Demonstrate the ability to ski in varied conditions, including
-            changes in pitch, snow conditions, and moguls. Maintain your
-            balance and ability to turn.
+            changes in pitch, and snow conditions.
         workbook:
             - task: true
       - requirement: j
@@ -217,14 +195,13 @@
             **Cross-Country (Nordic) Skiing Option**
       - requirement: a
         text: |-
-            Show your ability to select, use, and repair, if necessary, the
-            correct equipment for ski touring in safety and comfort.
+            Show your ability to select, use, and maintain equipment for
+            cross-country skiing in safety and comfort.
         workbook:
             - lines: 8
       - requirement: b
         text: |-
-            Discuss classical and telemark skis. Demonstrate two ways to carry
-            skis and poles safely and easily.
+            Discuss classic, skating, touring, and telemark skis.
         workbook:
             - lines: 8
       - requirement: c
@@ -235,8 +212,8 @@
             - lines: 8
       - requirement: d
         text: |-
-            Discuss the differences between cross-country skiing, ski touring,
-            ski mountaineering, and downhill skiing.
+            Discuss the differences between cross-country, backcountry/ski
+            touring, ski mountaineering, and downhill/telemark skiing.
         workbook:
             - lines: 8
       - requirement: e
@@ -259,13 +236,13 @@
       - requirement: h
         text: |-
             On a cross-country trial, demonstrate effective propulsion by
-            showing proper weight transfer form ski to ski, pole timing,
+            showing proper weight transfer from ski to ski, pole timing,
             rhythm, flow, and glide.
         workbook:
             - task: true
       - requirement: i
         text: |-
-            Demonstrate your ability, on a tour, to cope with an average
+            Demonstrate your ability, on a 4-mile tour, to cope with an average
             variety of snow conditions.
         workbook:
             - task: true
@@ -332,32 +309,28 @@
                   - task: true
       - requirement: h
         text: |-
-            On a moderate slope, demonstrate an Ollie, a nose-end grab, and a
+            On a moderate slope, demonstrate an ollie, a nose-end grab, and a
             wheelie.
       - requirement: i
         text: |-
-            Make a controlled run down an intermediate slope and demonstrate
-            the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Skidded, carved, and jump turns
-              workbook:
-                  - task: true
-            - requirement: 2
-              text: |-
-                  Stops
-              workbook:
-                  - task: true
-            - requirement: 3
-              text: |-
-                  Riding fakie
-              workbook:
-                  - task: true
+            Make a controlled run down an intermediate slope.
       - requirement: j
         text: |-
             Demonstrate your ability to ride in varied conditions, including
             changes in pitch, snow conditions, and moguls. Maintain your
+            balance and ability to turn.
+        workbook:
+            - task: true
+      - requirement: k
+        text: |-
+            Name the major snowboarding organizations in the United States and
+            explain their functions.
+        workbook:
+            - lines: 8
+      - requirement: l
+        text: |-
+            Demonstrate your ability to ride in varied conditions, including
+            changes in pitch, snow conditions, and moguls.  Maintain your
             balance and ability to turn.
         workbook:
             - task: true
@@ -388,7 +361,7 @@
             - lines: 8
       - requirement: e
         text: |-
-            Describe how to make an emergency snowshoe.
+            List the items you would take on a one-day snowshoe hike.
         workbook:
             - lines: 8
       - requirement: f
@@ -405,17 +378,17 @@
       - requirement: h
         text: |-
             Demonstrate the most efficient ways to break trail, climb uphill,
-            travel downhill and traverse a slope.
+            travel downhill, and traverse a slope.
         workbook:
             - task: true
       - requirement: i
         text: |-
-            Take a two-mile snowshoe hike with a buddy or your troop.
+            Demonstrate your ability, on a 2-mile snowshoe hike, to cope with an average
+            variety to snow conditions.
         workbook:
             - task: true
       - requirement: j
         text: |-
-            Demonstrate your ability, on a hike, to cope with an average
-            variety of snow conditions.
+            Demonstrate the proper use of a topographic map and compass.
         workbook:
             - task: true

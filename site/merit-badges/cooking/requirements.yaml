@@ -197,16 +197,17 @@
             - lines: 8
       - requirement: c
         text: |-
-            Determine your daily level of activity and your caloric need based
-            on your activity level. Then, based on the MyPlate food guide,
+            Track your daily level of activity and your daily caloric need based
+            on your activity for five days. Then, based on the My Plate food guide,
             discuss with your counselor an appropriate meal plan for yourself
             for one day.
         workbook:
             - lines: 8
       - requirement: d
         text: |-
-            Discuss your current eating habits with your counselor and what you
-            can do to eat healthier, based on the MyPlate food guide.
+            Discuss with your counselor food allergies, food intolerance, and
+            food-related illnesses and diseases. Explain why everyone who
+            handles or prepares food needs to be aware of these concerns.
         workbook:
             - lines: 8
       - requirement: e
@@ -426,7 +427,7 @@
       breakfasts, three lunches, and three dinners) plus one dessert. Your
       menus should include enough to feed yourself and at least one adult,
       keeping in mind any special needs (such as food allergies) and how you
-      kept your foods safe and free from cross-contamination. List the
+      keep your foods safe and free from cross-contamination. List the
       equipment and utensils needed to prepare and serve these meals. Then do
       the following:
   workbook:
@@ -457,15 +458,16 @@
             Dessert
       - lines: 8
         text: |-
-            How you kept your foods safe and free from cross-contamination
+            How you keep your foods safe and free from cross-contamination
       - lines: 8
         text: |-
             Equipment and utensils needed to prepare and serve these meals
   children:
       - requirement: a
         text: |-
-            Create a shopping list for your meals showing the amount of food
-            needed to prepare and serve each meal, and the cost for each meal.
+            Find recipes for each meal. Create a shopping list for your meals
+            showing the amount of food needed to prepare for the number of
+            people you will serve.  Determine the cost for each meal.
         workbook:
             - lines: 45
       - requirement: b
@@ -601,8 +603,10 @@
                   meals
       - requirement: b
         text: |-
-            Create a shopping list for your meals showing the amount of food
-            needed to prepare and serve each meal, and the cost for each meal.
+            Find or create recipes for at least three meals, a dessert and a
+            snack. Adjust menu items in the recipes for the number to be
+            served. Create a shopping list and budget to determine the
+            per-person cost.
         workbook:
             - lines: 45
       - requirement: c
@@ -615,11 +619,11 @@
         markdown: true
         text: |-
             In the outdoors, using your menu plans for this requirement, cook
-            two of the five meals you planned using either a lightweight stove
-            or a low-impact fire. Use a different cooking method from
-            requirement 3 for each meal. You must also cook a third meal using
-            either a Dutch oven OR a foil pack OR kabobs. Serve all of these
-            meals to your patrol or a group of youth.`**`
+            three of the five meals you planned using either a camp stove OR a
+            backpack stove. Use a skillet over campire coals OR a Dutch Oven
+            for a fourth meal, and cook the fifth meal in a foil pack OR on a
+            skewer. Serve all of these meals to your patrol or a group of
+            youth.`**`
         workbook:
             - task: true
               text: |-
@@ -636,7 +640,7 @@
       - requirement: e
         markdown: true
         text: |-
-            In the outdoors, prepare a dessert OR a snack and serve it to your
+            In the outdoors, prepare a dessert OR snack and serve it to your
             patrol or a group of youth.`**`
         workbook:
             - task: true
@@ -663,9 +667,9 @@
                   cooking
       - requirement: g
         text: |-
-            Explain to your counselor how you cleaned the equipment, utensils,
-            and the cooking site thoroughly after each meal.  Explain how you
-            properly disposed of dishwater and of all garbage.
+            Lead the clean-up of equipment, utensils, and the cooking site
+            thoroughly after each meal.  Properly store or dispose unused
+            ingredients, leftover food, dishwater and garbage.
         workbook:
             - lines: 8
               text: |-
@@ -687,13 +691,11 @@
       - requirement: a
         text: |-
             Using the MyPlate food guide or the current USDA nutrition model,
-            plan a menu for trail hiking or backpacking that includes one
+            plan a meal for trail hiking or backpacking that includes one
             breakfast, one lunch, one dinner, and one snack. These meals must
-            not require refrigeration and are to be consumed by three to five
-            people (including you).  Be sure to keep in mind any special needs
-            (such as food allergies) and how you will keep your foods safe and
-            free from cross-contamination. List the equipment and utensils
-            needed to prepare and serve these meals.
+            consider weight, not require refrigeration and are to be consumed
+            by three to five people (including you). List the equipment and
+            utensils needed to prepare and serve these meals.
         workbook:
             - lines: 8
               text: |-
@@ -771,11 +773,10 @@
                   hiking or backpacking meals
       - requirement: f
         text: |-
-            Discuss how you followed the Outdoor Code and no-trace principles
-            during your outing. Explain to your counselor how you cleaned any
-            equipment, utensils, and the cooking site after each meal. Explain
-            how you properly disposed of any dishwater and packed out all
-            garbage.
+            Explain to your counselor how you should divide the food and
+            cooking supplies among the patrol in order to share the load.
+            Discuss how to properly clean the cooking area and store your food
+            to protect it from animals.
         workbook:
             - lines: 8
               text: |-
