@@ -95,8 +95,9 @@
             in the Merit Badge Pamphlet or online.
 - requirement: 3
   text: |-
-      Do ONE activity from seven of the following categories (using the
-      activities in this pamphlet as the basis for planning and projects):
+      Do ONE activity from SEVEN of the following EIGHT categories (using the
+      activities in this pamphlet as the basis for planning and carrying out
+      your projects):
   children:
       - note:
             - inPerson
@@ -130,7 +131,7 @@
             information.  Only Scouts who have prepared and put effort into
             this merit badge and its preparation will be signed off on the
             respective requirements and components A.
-      - requirement: a
+      - requirement: A
         text: |-
             Ecology
         children:
@@ -154,7 +155,7 @@
                   nature and how it survives.
               workbook:
                   - lines: 8
-      - requirement: b
+      - requirement: B
         text: |-
             Air Pollution
         children:
@@ -182,7 +183,7 @@
                   take to help reduce its effects.
               workbook:
                   - lines: 8
-      - requirement: c
+      - requirement: C
         text: |-
             Water Pollution
         children:
@@ -208,7 +209,7 @@
                   effect is linked to biomagnification.
               workbook:
                   - lines: 8
-      - requirement: d
+      - requirement: D
         text: |-
             Land Pollution
         children:
@@ -233,7 +234,7 @@
                   eroded and what might be done to help alleviate the erosion.
               workbook:
                   - lines: 8
-      - requirement: e
+      - requirement: E
         text: |-
             Endangered Species
         children:
@@ -271,7 +272,7 @@
               workbook:
                   - signature: Natural Resource Professional
                   - lines: 8
-      - requirement: f
+      - requirement: F
         text: |-
             Pollution Prevention, Resource Recovery, and Conservation
         children:
@@ -279,7 +280,7 @@
               text: |-
                   Look around your home and determine 10 ways your family can
                   help reduce pollution. Practice at least two of these methods
-                  for seven days and discuss with your counselor what you have
+                  for five days and discuss with your counselor what you have
                   learned.
               workbook:
                   - lines: 8
@@ -298,7 +299,7 @@
                   your counselor.
               workbook:
                   - lines: 8
-      - requirement: g
+      - requirement: G
         text: |-
             Pollination
         children:
@@ -348,14 +349,26 @@
                         - task: true
                           text: |-
                               Presented report to a group
+            - requirement: 3
+              text: |-
+                  Hive a swarm OR divide at least one colony of honey bees.
+                  Explain how a hive is constructed.
+              workbook:
+                  - split:
+                        - task: true
+                          text: |-
+                              Presented report to counselor
+                        - task: true
+                          text: |-
+                              Presented report to a group
             - detail: true
               markdown: true
               text: |-
-                  **Before you choose requirement 3g(3), you will need to first
+                  **Before you choose requirement 3G(3), you will need to first
                   find out whether you are allergic to bee stings.  Visit an
                   allergist or your family physician to find out. If you are
                   allergic to bee stings, you should choose another option
-                  within requirement 3. In completing requirement 3g(3), your
+                  within requirement 3. In completing requirement 3G(3), your
                   counselor can help you find an established beekeeper to meet
                   with you and your buddy. Ask whether you can help hive a
                   swarm or divide a colony of honey bees. Before your visit, be
@@ -363,41 +376,6 @@
                   locating a beekeeper in your state, visit www.beeculture.com
                   and click on "Resources," then select "Find Help" and "Find a
                   Local Beekeeper."**
-            - requirement: 3
-              text: |-
-                  Hive a swarm OR divide at least one colony of honey bees.
-                  Explain how a hive is constructed.
-              workbook:
-                  - task: true
-                  - lines: 8
-      - requirement: h
-        text: |-
-            Invasive Species
-        children:
-            - requirement: 1
-              text: |-
-                  Learn to identify the major invasive plant species in your
-                  community or camp and explain to your counselor what can be
-                  done to either eradicate or control their spread.
-              workbook:
-                  - lines: 8
-            - requirement: 2
-              text: |-
-                  Do research on two invasive plant or animal species in your
-                  community or camp. Find out where the species originated, how
-                  they were transported to the United States, their life
-                  history, how they are spread, and the recommended means to
-                  eradicate or control their spread. Report your research
-                  orally or in writing to your counselor.
-              workbook:
-                  - lines: 8
-            - requirement: 3
-              text: |-
-                  Take part in a project of at least one hour to eradicate or
-                  control the spread of an invasive plant species in your
-                  community or camp.
-              workbook:
-                  - lines: 8
       - note:
             - inPerson
             - online
@@ -409,18 +387,22 @@
       (e.g., hilltop vs. bottom of a hill; field vs. forest; swamp vs. dry
       land). For BOTH study areas, do ONE of the following:
   children:
-      - requirement: a
+      - requirement: A
         text: |-
             Mark off a plot of 4 square yards in each study area, and count the
             number of species found there. Estimate how much space is occupied
             by each plant species and the type and number of nonplant species
-            you find. Report to your counselor orally or in writing the
-            biodiversity and population density of these study areas.
+            you find. Write a report that adequately discusses the biodiversity
+            and population density of these study areas. Discuss your report
+            with your counselor.
         workbook:
             - task: true
               text: |-
                   Marked off a plot
             - lines: 8
+            - task: true
+              text: |-
+                  Discussed report with counselor
         children:
             - note:
                   - inPerson
@@ -433,14 +415,17 @@
                   this requirement prior to the class will be provided with a
                   merit badge counselor contact for follow up after the class
                   once they have completed this requirement.
-      - requirement: b
+      - requirement: B
         text: |-
             Make at least three visits to each of the two study areas (for a
             total of six visits), staying for at least 20 minutes each time, to
             observe the living and nonliving parts of the ecosystem. Space each
             visit far enough apart that there are readily apparent differences
             in the observations. Keep a journal that includes the differences
-            you observe. Discuss your observations with your counselor.
+            you observe. Then, write a short report that adequately addresses
+            your observations, including how the differences of the study areas
+            might relate to the differences noted, and discuss this with your
+            counselor.
         workbook:
             - lines: 8
             - lines: 8
@@ -459,9 +444,10 @@
                   starting work on this component of Requirement 4.
 - requirement: 5
   text: |-
-      Using the construction project provided or a plan you create on your own,
-      identify the items that would need to be included in an environmental
-      impact statement for the project planned.
+      Identify the items that would need to be included in an environmental
+      impact statement for a construction project such as building a house,
+      adding a new building to your Scout camp, or one you create on your own
+      that is approved by your counselor.
   workbook:
       - lines: 8
   children:

@@ -76,7 +76,7 @@
       - requirement: b
         text: |-
             Explain the procedure used to report an accident to the local ski
-            patrol for the area where you usually ski, ride, or snowshoe.
+            patrol or local emergency personnel.
         workbook:
             - lines: 8
 - requirement: 3
@@ -140,8 +140,8 @@
             **Downhill (Alpine) Skiing Option**
       - requirement: a
         text: |-
-            Show how to use and maintain your own release bindings and explain
-            the use of two others. Explain the international DIN standard and
+            Show how to wax and maintain your skis and use/maintain your
+            release bindings. Explain the international DIN standard and
             what it means to skiers.
         workbook:
             - lines: 8
@@ -182,29 +182,11 @@
             - task: true
       - requirement: h
         text: |-
-            Make a controlled run down an intermediate slope and demonstrate
-            the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Short-, medium-, and long-radius parallel turns
-              workbook:
-                  - task: true
-            - requirement: 2
-              text: |-
-                  A sideslip and safety (hockey) stop to each side
-              workbook:
-                  - task: true
-            - requirement: 3
-              text: |-
-                  Traverse across a slope
-              workbook:
-                  - task: true
+            Make a controlled run down an intermediate slope.
       - requirement: i
         text: |-
             Demonstrate the ability to ski in varied conditions, including
-            changes in pitch, snow conditions, and moguls. Maintain your
-            balance and ability to turn.
+            changes in pitch, and snow conditions.
         workbook:
             - task: true
       - requirement: j

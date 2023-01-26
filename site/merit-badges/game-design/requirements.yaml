@@ -133,25 +133,24 @@
                   What you enjoy and what you dislike
       - requirement: b
         text: |-
-            Describe four types of play value and provide an example of a game
-            built around each concept. Discuss with your counselor other
-            reasons people play games.
+            Describe five different reasons that people play games. For each,
+            give an example of a game that fits that reason.
         workbook:
             - lines: 8
               text: |-
-                  First type of play value and an example
+                  First reason and an example of a game that fits the reason
             - lines: 8
               text: |-
-                  Second type of play value and an example
+                  Second reason and an example of a game that fits the reason
             - lines: 8
               text: |-
-                  Third type of play value and an example
+                  Third reason and an example of a game that fits the reason
             - lines: 8
               text: |-
-                  Fourth type of play value and an example
+                  Fourth reason and an example of a game that fits the reason
             - lines: 8
               text: |-
-                  Reasons people play games
+                  Fifth reason and an example of a game that fits the reason
       - note:
             - inPerson
             - online
@@ -358,7 +357,7 @@
                   Characters
       - requirement: b
         text: |-
-            Describe the play value.
+            Describe the reason that someone would want to play your game.
         workbook:
             - lines: 8
       - requirement: c
@@ -383,10 +382,6 @@
         markdown: true
         text: |-
             See Notes after Requirement 7.
-- detail: true
-  text: |-
-      You must have your merit badge counselor’s approval of your concept
-      before you begin creating the prototype.
 - requirement: 6
   text: |-
       Do the following:
@@ -396,6 +391,10 @@
             Received merit badge counselor's approval of your concept before
             you began creating the prototype.
   children:
+      - detail: true
+        text: |-
+            You must have your merit badge counselor’s approval of your concept
+            before you begin creating the prototype.
       - requirement: a
         text: |-
             Prototype your game from requirement 5. If applicable, demonstrate
@@ -476,27 +475,18 @@
   children:
       - requirement: a
         text: |-
-            With your parent’s permission and your counselor’s approval, visit
-            with a professional in the game development industry and ask him or
-            her about his or her job and how it fits into the overall
-            development process. Alternately, meet with a professional in game
-            development education and discuss the skills he or she emphasizes
-            in the classroom.
+            With your parent or guardian’s permission and your counselor’s
+            approval, visit with a professional in the game development
+            industry and ask them about their job and how it fits into the
+            overall development process.
         workbook:
           - lines: 8
       - requirement: b
         text: |-
-            List three career opportunities in game development. Pick one and
-            find out about the education, training, and experience required for
-            the profession. Discuss this with your counselor. Explain why this
-            profession might interest you.
+            Alternately, meet with a professional in game development education
+            and discuss the skills they emphasize in the classroom.
         workbook:
           - lines: 8
-            text: |-
-              Three career opportunities
-          - lines: 8
-            text: |-
-              Education, training, and experience required
       - note:
             - inPerson
             - online

@@ -39,17 +39,17 @@
   children:
       - requirement: a
         text: |-
-            Spend three hours in each of two different kinds of natural habitats or at different elevations. List the different mammal species and individual members that you identified by sight or sign. Tell why all mammals do not live in the same kind of habitat.
+            Spend three hours in each of two different kinds of natural habitats or at different elevations for a total of 6 hours. List the different mammal species and how many of each you identified by sight or sign. Tell why all mammals do not live in the same kind of habitat.
         workbook:
           - lines: 8
       - requirement: b
         text: |-
-            Spend three hours on each of five days on at least a 25-acre area (about the size of 31/2 football fields).  List the mammal species you identified by sight or sign.
+            Spend three hours on each of five different days in at least a 25-acre area (about the size of 31/2 football fields) for a total of 15 hours.  List the mammal species you identified by sight or sign.
         workbook:
           - lines: 8
       - requirement: c
         text: |-
-            From study and reading, write a simple life history of one nongame mammal that lives in your area. Tell how this mammal lived before its habitat was affected in any way by humans. Tell how it reproduces, what it eats, and its natural habitat. Describe its dependency upon plants and other animals (including humans), and how they depend upon it. Tell how it is helpful or harmful to humankind.
+            From study and reading, write a simple life history of one nongame mammal that lives in your area. Tell how this mammal lived before its habitat was affected in any way by humans. Tell how it reproduces, what it eats, and its natural habitat. Describe its dependency upon plants and other animals (including humans), and how they depend upon it. Describe how humans have benefited from the mammal you have chosen and whether the mammal has benefited from association with humankind.
         workbook:
           - lines: 8
 - requirement: 4
@@ -60,7 +60,7 @@
         text: |-
             Under the guidance of a nature center or natural history museum, make two study skins of rats or mice. Tell the uses of study skins and mounted specimens respectively.
         workbook:
-          - split: 
+          - split:
             - task: true
               text: |-
                 First study skin
