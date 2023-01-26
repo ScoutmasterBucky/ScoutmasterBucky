@@ -76,7 +76,7 @@
       - requirement: b
         text: |-
             Explain the procedure used to report an accident to the local ski
-            patrol for the area where you usually ski, ride, or snowshoe.
+            patrol or local emergency personnel.
         workbook:
             - lines: 8
 - requirement: 3
@@ -190,32 +190,28 @@
                   - task: true
       - requirement: h
         text: |-
-            On a moderate slope, demonstrate an Ollie, a nose-end grab, and a
+            On a moderate slope, demonstrate an ollie, a nose-end grab, and a
             wheelie.
       - requirement: i
         text: |-
-            Make a controlled run down an intermediate slope and demonstrate
-            the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Skidded, carved, and jump turns
-              workbook:
-                  - task: true
-            - requirement: 2
-              text: |-
-                  Stops
-              workbook:
-                  - task: true
-            - requirement: 3
-              text: |-
-                  Riding fakie
-              workbook:
-                  - task: true
+            Make a controlled run down an intermediate slope.
       - requirement: j
         text: |-
             Demonstrate your ability to ride in varied conditions, including
             changes in pitch, snow conditions, and moguls. Maintain your
+            balance and ability to turn.
+        workbook:
+            - task: true
+      - requirement: k
+        text: |-
+            Name the major snowboarding organizations in the United States and
+            explain their functions.
+        workbook:
+            - lines: 8
+      - requirement: l
+        text: |-
+            Demonstrate your ability to ride in varied conditions, including
+            changes in pitch, snow conditions, and moguls.  Maintain your
             balance and ability to turn.
         workbook:
             - task: true

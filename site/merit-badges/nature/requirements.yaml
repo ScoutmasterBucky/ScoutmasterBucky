@@ -176,18 +176,28 @@
                         - lines: 2
             - requirement: 2
               text: |-
-                  Collect and label the seeds of six plants OR the leaves of 12
-                  plants.
-              workbook:
-                  - task: true
+                  Do ONE of the following options:
+              children:
+                  - requirement: a
+                    text: |-
+                        Collect and label the seeds of six plants OR the leaves
+                        of 12 plants.
+                    workbook:
+                        - task: true
+                  - requirement: b
+                    text: |-
+                        Photograph the seeds of six plants OR the leaves of 12
+                        plants and create a catalog of your photos.
+                    workbook:
+                        - task: true
       - requirement: h
         text: |-
             Soils and Rocks
         children:
             - requirement: 1
               text: |-
-                  Collect and identify soils found in different layers of a
-                  soil profile.
+                  Collect and identify three different types of soil that
+                  represent soils high in sand, clay and humus.
               workbook:
                   - lines: 8
             - requirement: 2
@@ -207,6 +217,26 @@
       Discuss the principle of Leave No Trace and how it relates to nature.
   workbook:
       - lines: 8
+- requirement: 6
+  text: |-
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain what succession is to your counselor.
+        workbook:
+            - lines: 8
+      - requirement: b
+        text: |-
+            Visit a natural area (forest, grassland, meadow, water feature) and
+            explain what stage of succession (both plant and animal) the area
+            is in. Talk about what community/succession stages may have been
+            there before and what community/succession stages may replace what
+            you see now. Discuss what disturbandes or changes have taken place
+            in the past to create this landscape and what changes may occur in
+            the future to change the landscape further.
+        workbook:
+            - lines: 32
 - detail: true
   markdown: true
   text: |-

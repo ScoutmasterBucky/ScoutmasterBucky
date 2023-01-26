@@ -39,8 +39,8 @@
   text: |-
       With the approval of your parents or guardians and your merit badge
       counselor, decide on and carry out a project that you would do around the
-      home that would benefit your family. Submit a report to your merit badge
-      counselor outlining how the project benefited your family.
+      home that would benefit your family. Discuss you report with your merit
+      badge counselor.
   workbook:
       - split:
             - task: true
@@ -86,30 +86,28 @@
             - lines: 8
       - requirement: b
         text: |-
-            After this discussion, plan and carry out a family meeting to
-            include the following subjects:
+            Prepare a meeting agenda that includes the following topics, review
+            it with your parents or guardians, and then carry out one or more
+            family meetings:
         children:
             - requirement: 1
               text: |-
-                  Avoiding substance abuse, including tobacco, alcohol, and
-                  drugs, all of which negatively affect your health and
-                  well-being
+                  How living the principles of the Scout Oath and Scout Law
+                  contributes to your family life
               workbook:
                   - task: true
             - requirement: 2
               markdown: true
               text: |-
-                  Understanding the growing-up process and how the body
-                  changes, and making responsible decisions dealing with sex`*`
-
-                  `*` This conversation may take place with only one or both of
-                  your parents or guardians.
+                  The greatest dangers and addictions facing youth in today's
+                  society (examples include use of tobaco products, alcohol, or
+                  drugs and other items such as debts, social media, etc.)
               workbook:
                   - task: true
             - requirement: 3
               text: |-
-                  How your chores in requirement 3 contributed to your role in
-                  the family
+                  Understanding the growing-up process and how the body
+                  changes, and making responsible decisions dealing with sex
               workbook:
                   - task: true
             - requirement: 4
@@ -134,8 +132,8 @@
                   - task: true
             - detail: true
               text: |-
-                  Discussion of each of these subjects will very likely carry
-                  over to more than one family meeting.
+                  Discussion of each of these subjects may carry over to more
+                  than one family meeting.
 - requirement: 7
   text: |-
       Discuss with your counselor your understanding of what makes an effective
