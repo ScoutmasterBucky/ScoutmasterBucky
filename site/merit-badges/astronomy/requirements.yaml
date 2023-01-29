@@ -569,12 +569,12 @@
             observed.
         workbook:
             - task: true
-  children:
-      - note:
-            - inPerson
-            - online
-        text: |-
-            EXPLAIN
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  EXPLAIN
 - requirement: 9
   text: |-
       Find out about three career opportunities in astronomy. Pick one and find
