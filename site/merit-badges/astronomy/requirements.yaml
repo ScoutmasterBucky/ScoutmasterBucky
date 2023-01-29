@@ -290,6 +290,14 @@
             Explain what we see when we look at the Milky Way.
         workbook:
             - lines: 8
+      - note:
+            - inPerson
+            - online
+        markdown: true
+        text: |-
+            While Scouts will have an opportunity to share their work and research during the class discussion, however without preparation work, these requirement components will be impossible for Scouts to complete at or during the class.  Scouts should come to class with notes, drawings, sketches, and/or other documentation showing that they have completed their observations and identification of the required constellations and stars along with their sketches.
+
+            NOTE: Stars and Constellations move about the sky depending on the time of year and time of night they are observed, so the tracking of date and time of the observation is crucial. Many online resources are available to aid in the identification of these stars and constellations. Drawing the constellation as it appears during your observation in the sky may be helpful as well. It must also be noted that just saying you have done these components of requirement 4 will NOT be enough to be signed off during the class. You must provide some sort of supporting documentation to the counselor to show that you have worked on and met the expectations of these components in Requirement 4.
 - requirement: 5
   text: |-
       Do the following:
@@ -311,7 +319,13 @@
             - lines: 8
               text: |-
                   Explain which ones can appear in phases similar to lunar
-                  phases and which ones connot, and explain why
+                  phases and which ones connot, and explain why.
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  EXPLAIN
       - requirement: b
         text: |-
             Using the internet (with your parent’s permission) and other
@@ -321,16 +335,34 @@
             form of a chart or table.
         workbook:
             - grid: 30
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  EXPLAIN
       - requirement: c
         text: |-
             Describe the motion of the planets across the sky.
         workbook:
             - lines: 8
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  EXPLAIN
       - requirement: d
         text: |-
             Observe a planet and describe what you saw.
         workbook:
             - lines: 8
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  EXPLAIN
 - requirement: 6
   text: |-
       Do the following:
@@ -341,6 +373,12 @@
             five craters. Label these landmarks.
         workbook:
             - area: 40
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  EXPLAIN
       - requirement: b
         text: |-
             Sketch the phase and position of the Moon, at the same hour and
@@ -354,11 +392,23 @@
             - split:
                   - area: 20
                   - area: 20
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  EXPLAIN
       - requirement: c
         text: |-
             List the factors that keep the Moon in orbit around Earth.
         workbook:
             - lines: 8
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  EXPLAIN
       - requirement: d
         text: |-
             With the aid of diagrams, explain the relative positions of the
@@ -368,6 +418,12 @@
         workbook:
             - area: 20
             - lines: 8
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  EXPLAIN
 - requirement: 7
   text: |-
       Do the following:
@@ -388,6 +444,12 @@
               text: |-
                   Some effects of its radiation on Earth's weather and
                   communications
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  EXPLAIN
       - requirement: b
         text: |-
             Define sunspots and describe some of the effects they may have on
@@ -399,6 +461,12 @@
             - lines: 8
               text: |-
                   Describe some of the effects they may have on solar radiation
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  EXPLAIN
       - requirement: c
         text: |-
             Identify at least one red star, one blue star, and one yellow star
@@ -413,6 +481,12 @@
             - lines: 8
               text: |-
                   At least one yellow star and the meaning of the color yellow
+        children:
+            - note:
+                  - inPerson
+                  - online
+              text: |-
+                  EXPLAIN
 - requirement: 8
   text: |-
       With your counselor’s approval and guidance, do ONE of the following:
@@ -495,6 +569,12 @@
             observed.
         workbook:
             - task: true
+  children:
+      - note:
+            - inPerson
+            - online
+        text: |-
+            EXPLAIN
 - requirement: 9
   text: |-
       Find out about three career opportunities in astronomy. Pick one and find
@@ -508,3 +588,9 @@
       - lines: 8
         text: |-
             Education, training, and experience required for one profession
+  children:
+      - note:
+            - inPerson
+            - online
+        text: |-
+            EXPLAIN
