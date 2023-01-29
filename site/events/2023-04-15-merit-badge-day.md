@@ -49,7 +49,7 @@ onSaleDate: 2023-03-01 0:05
 {{>badge badge="automotive-maintenance"}}
 {{>badge badge="bird-study"}}
 {{>badge badge="citizenship-in-the-community"}}
-{{>badge badge="health-care-professionals"}}
+{{>badge badge="health-care-professions"}}
 {{>badge badge="scouting-heritage"}}
 
 {{/badge-list}}
@@ -57,6 +57,6 @@ onSaleDate: 2023-03-01 0:05
 {{>eventbrite badge="automotive-maintenance" event="523967961277" start=pmStart end=pmEnd}}
 {{>eventbrite badge="bird-study" event="524615086847" start=pmStart end=pmEnd}}
 {{>eventbrite badge="citizenship-in-the-community" event="524796780297" start=pmStart end=pmEnd}}
-{{>eventbrite badge="health-care-professionals" event="524699569537" start=pmStart end=pmEnd}}
+{{>eventbrite badge="health-care-professions" event="524699569537" start=pmStart end=pmEnd}}
 {{>eventbrite badge="scouting-heritage" event="525087038467" start=pmStart end=pmEnd}}
 

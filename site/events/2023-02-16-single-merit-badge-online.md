@@ -2,7 +2,7 @@
 host: Scoutmaster Bucky
 title: Entrepreneurship Merit Badge Online
 online: true
-badge: Entrepreneurship
+badge: entrepreneurship
 eventDateStart: 2023-02-16 18:00
 eventDateEnd: 2023-02-16 21:30
 eventBriteEventId: 525162102987
