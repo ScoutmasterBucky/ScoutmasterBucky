@@ -10,8 +10,7 @@ imageSmb: scoutmaster-bucky-cyber-chip.jpg
 
 <div class="D(f) Fxd(c)--s">
 <div class="Ta(c) Pt(1em)--s">
-
-![scoutmaster-bucky-cyber-chip]({{imageSmb}})
+<img src="{{imageSmb}}" alt="Scoutmaster Bucky Cyber Chip" />
 </div>
 
 <div>
