@@ -250,7 +250,7 @@
   workbook:
       - header: true
         text: |-
-            Group 1: Sprinting
+            **Group 1: Sprinting**|-
       - split:
             - lines: 2
               text: |-
@@ -260,7 +260,7 @@
                   200-meter dash
       - header: true
         text: |-
-            Group 2: Long-Distance Running
+            **Group 2: Long-Distance Running**|-
       - split:
             - lines: 2
               text: |-
@@ -270,7 +270,7 @@
                   5k run
       - header: true
         text: |-
-            Group 3: Long Jump OR High Jump
+            **Group 3: Long Jump OR High Jump **|-
       - split:
             - lines: 2
               text: |-
@@ -280,7 +280,7 @@
                   Standing long jump OR standing high jump (best of three tries)
       - header: true
         text: |-
-            Group 4: Swimming
+            **Group 4: Swimming**|-
       - split:
             - lines: 2
               text: |-
@@ -290,7 +290,7 @@
                   200-meter swim
       - header: true
         text: |-
-            Group 5: Pull-Ups AND Push-Ups
+            **Group 5: Pull-Ups AND Push-Ups**|-
       - split:
             - lines: 2
               text: |-
@@ -299,8 +299,8 @@
               text: |-
                   Push-ups in two minutes
       - header: true
-        text: |-
-            Group 6: Baseball Throw
+                text: |-
+            **Group 6: Baseball Throw**|-
       - split:
             - lines: 2
               text: |-
@@ -311,7 +311,7 @@
       - header: true
         markdown: true
         text: |-
-            Group 7: Basketball Shooting
+            **Group 7: Basketball Shooting **|-
 
             <img src="/merit-badges/athletics/athletics-basketball-positions.gif" class="Maw(100%)" />
       - split:
@@ -343,8 +343,8 @@
               text: |-
                   Three-point line
       - header: true
-        text: |-
-            Group 8: Football Kick OR Soccer Kick
+         text: |-
+            **Group 8: Football Kick OR Soccer Kick**|-
       - split:
             - lines: 2
               text: |-
@@ -354,7 +354,7 @@
                   Five kicks for distance (total distance)
       - header: true
         text: |-
-            Group 9: Weight Training
+            **Group 9: Weight Training**|-
       - split:
             - lines: 2
               text: |-
@@ -365,7 +365,7 @@
   children:
       - callout: true
         text: |-
-            Group 1: Sprinting
+            **Group 1: Sprinting**|-
       - requirement: a
         text: |-
             100-meter dash
@@ -376,7 +376,7 @@
         workbookHide: true
       - callout: true
         text: |-
-            Group 2: Long-Distance Running
+            **Group 2: Long-Distance Running**|-
       - requirement: a
         text: |-
             3k run
@@ -387,7 +387,7 @@
         workbookHide: true
       - callout: true
         text: |-
-            Group 3: Long Jump OR High Jump
+            **Group 3: Long Jump OR High Jump**|-
       - requirement: a
         text: |-
             Running long jump OR running high jump (best of three tries)
@@ -398,7 +398,7 @@
         workbookHide: true
       - callout: true
         text: |-
-            Group 4: Swimming
+            **Group 4: Swimming**|-
       - requirement: a
         text: |-
             100-meter swim
@@ -409,7 +409,7 @@
         workbookHide: true
       - callout: true
         text: |-
-            Group 5: Pull-Ups AND Push-Ups
+            **Group 5: Pull-Ups AND Push-Ups**|-
       - requirement: a
         text: |-
             Pull-ups in two minutes
@@ -420,7 +420,7 @@
         workbookHide: true
       - callout: true
         text: |-
-            Group 6: Baseball Throw
+            **Group 6: Baseball Throw**|-
       - requirement: a
         text: |-
             Baseball throw for accuracy, 10 throws at a target (distance to be
@@ -433,7 +433,7 @@
         workbookHide: true
       - callout: true
         text: |-
-            Group 7: Basketball Shooting
+            **Group 7: Basketball Shooting**|-
       - requirement: a
         text: |-
             Basketball shot for accuracy, 10 free-throw shots
@@ -480,7 +480,7 @@
               workbookHide: true
       - callout: true
         text: |-
-            Group 8: Football Kick OR Soccer Kick
+            **Group 8: Football Kick OR Soccer Kick**|-
       - requirement: a
         text: |-
             Goals from the 10-yard line, eight kicks
@@ -492,7 +492,7 @@
         workbookHide: true
       - callout: true
         text: |-
-            Group 9: Weight Training
+            **Group 9: Weight Training**|-
       - requirement: a
         text: |-
             Chest/bench press, two sets of 15 repetitions each
