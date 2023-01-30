@@ -6,7 +6,7 @@ eventDateEnd: 2023-05-21 9:00
 registrationLink: https://clever-coyote.8b.io/registration.html
 ---
 
-<div class="W(35%) W(70%)--s M(a)">
+<div class="W(35%)--_s W(70%)--s M(a)">
 <img src="{{@root.rootPath}}images/clever-coyote-logo.png" alt="Clever Coyote Logo" class="W(100%)" />
 </div>
 

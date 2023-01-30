@@ -25,5 +25,5 @@ module.exports = function(obj) {
     content = content.replace(/\n/g, ' ');
 
     // One line so it can be used within requirements
-    return `<div class="C(red) Fw(b) Fs(i) Pb(smbReqP) ${notesToggles}">${content}</div>`;
+    return `<div class="C(red) Fw(b) Fs(i) Pb(requirementGap) ${notesToggles}">${content}</div>`;
 };

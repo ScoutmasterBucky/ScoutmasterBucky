@@ -9,7 +9,7 @@ These awards are ways to reward Scouts for learning more about Science, Technolo
 
 ### Cub Scout Supernova Awards
 
-<div class="D(f) Jc(se) Fxd(c)--s">
+<div class="D(f) Jc(spe) Fxd(c)--s">
 
 {{>supernova supernova="dr-luis-walter-alvarez"}}
 {{>supernova supernova="dr-charles-h-townes"}}
@@ -18,7 +18,7 @@ These awards are ways to reward Scouts for learning more about Science, Technolo
 
 ### Scouts BSA Supernova Awards
 
-<div class="D(f) Jc(se) Fxd(c)--s">
+<div class="D(f) Jc(spe) Fxd(c)--s">
 
 {{>supernova supernova="dr-bernard-harris"}}
 {{>supernova supernova="thomas-alva-edison"}}
@@ -28,7 +28,7 @@ These awards are ways to reward Scouts for learning more about Science, Technolo
 
 ### Venturing and Sea Scout Supernova Awards
 
-<div class="D(f) Jc(se) Fxd(c)--m">
+<div class="D(f) Jc(spe) Fxd(c)--m">
 
 {{>supernova supernova="dr-sally-ride"}}
 {{>supernova supernova="wright-brothers"}}

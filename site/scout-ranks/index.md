@@ -21,14 +21,14 @@ Following are the ranks of Scouting.  Click on the respective rank or rank insi
 
 {{#badge-list}}
 {{#ancestry.children}}
-<div class="W(20%) W(25%)--l W(33%)--m W(50%)--s D(f) Fxd(c) Ai(c) P(4px)">
+<div class="W(20%)--_sml W(25%)--l W(33%)--m W(50%)--s D(f) Fxd(c) Ai(c) P(4px)">
     <a href="{{linkPath}}">
         <img
             src="{{linkPath}}{{image}}"
             class="W(100%) H(a)"
         />
     </a>
-    <p class="Fz(1.2em) Fz(1em)--s Ta(c)">
+    <p class="Fz(1.2em)--_s Fz(1em)--s Ta(c)">
         <a href="{{linkPath}}" class="Td(n)">{{title}}</a>
     </p>
 </div>

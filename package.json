@@ -15,14 +15,14 @@
     },
     "dependencies": {
         "@babel/preset-env": "^7.20.2",
-        "@fidian/acss-live": "^0.0.12",
+        "@fidian/acss-live": "^2.0.7",
         "@fidian/metalsmith-clean-css": "^6.2.2",
-        "@fidian/metalsmith-site": "^2.0.2",
-        "ajv": "^8.11.2",
+        "@fidian/metalsmith-site": "^2.1.2",
+        "ajv": "^8.12.0",
         "browserify": "^17.0.0",
-        "clean-css": "^5.3.1",
-        "luxon": "^3.1.0",
-        "marked": "^4.2.3",
+        "clean-css": "^5.3.2",
+        "luxon": "^3.2.1",
+        "marked": "^4.2.12",
         "metalsmith-babel": "^5.1.0",
         "metalsmith-browserify-alt": "^2.0.0",
         "metalsmith-html-minifier": "^4.0.1",
@@ -30,17 +30,17 @@
         "metalsmith-uglify": "^2.4.1",
         "mithril": "^2.2.2",
         "moment": "^2.29.4",
-        "moment-timezone": "^0.5.39",
+        "moment-timezone": "^0.5.40",
         "wkhtmltopdf": "^0.4.0"
     },
     "devDependencies": {
-        "chalk": "^5.1.2",
+        "chalk": "^5.2.0",
         "debug": "^4.3.4",
-        "glob": "^8.0.3",
+        "glob": "^8.1.0",
         "got": "^12.5.3",
         "json-stable-stringify": "^1.0.2",
         "linkedom": "^0.14.21",
         "neodoc": "^2.0.2",
-        "pdfjs-dist": "^3.1.81"
+        "pdfjs-dist": "^3.3.122"
     }
 }

@@ -26,7 +26,7 @@ There are numerous adventures one can experience while earning the medals that a
 
 ### Supernova Awards
 
-<div class="D(f) Jc(se) Fxd(c)--s">
+<div class="D(f) Jc(spe) Fxd(c)--s">
 
 {{>supernova supernova="dr-bernard-harris"}}
 {{>supernova supernova="thomas-alva-edison"}}
@@ -38,7 +38,7 @@ There are numerous adventures one can experience while earning the medals that a
 
 Nova awards for Scouts BSA require merit badges. If you are already going to complete a merit badge or have one in the list below, you could leverage that merit badge to earn a Nova award.
 
-<div class="Cc(2) Cc(1)--sml Mt(0.6em)">
+<div class="Colmc(2)--_sml Colmc(1)--sml Mt(0.6em)">
 
 * {{#trim}}{{>badge-link badge="american-business"}}{{/trim}} - {{#trim}}{{>nova-link nova="designed-to-crunch"}}{{/trim}}, {{#trim}}{{>nova-link nova="next-big-thing"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="animal-science"}}{{/trim}} - {{#trim}}{{>nova-link nova="let-it-grow"}}{{/trim}}, {{#trim}}{{>nova-link nova="mendels-minions"}}{{/trim}}

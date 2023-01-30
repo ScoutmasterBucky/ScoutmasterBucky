@@ -8,7 +8,7 @@ bannerDateColor: green
 borderColor: green
 ---
 
-<div class="W(50%) W(75%)--s M(a)">
+<div class="W(50%)--_s W(75%)--s M(a)">
 <img src="{{@root.rootPath}}images/mrs-scoutmaster-bucky-stamp-and-scrap-day.jpg" class="W(100%)" />
 </div>
 

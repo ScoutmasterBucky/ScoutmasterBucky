@@ -34,7 +34,7 @@ Earning a Nova award, at a very high level, looks like this for the different pr
 </div></div>
 
 
-<div class="D(f) Fxd(c)--sm Ai(c)--sm Fxd(rr) Mt(1em)"><div class="W(100%)">
+<div class="D(f) Fxd(c)--sm Ai(c)--sm Fxd(rr)--_sm Mt(1em)"><div class="W(100%)">
 
 After earning some Nova awards, the next step is to work on a [Supernova Award](supernova/). The Supernova starts with [STEM explorations](explorations/) and then learning more about [activity topics](supernova/activity-topics/). When achieving a Supernova Award, the recipient is given a medal instead of a patch or a pin. The lowest award is bronze, and that's roughly the same amount of work as a Nova Award. After that, you can achieve silver and gold, depending on your program - [learn more about award progression](supernova/).
 

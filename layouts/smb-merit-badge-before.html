@@ -11,7 +11,7 @@
 
 {{>smb-layout-body}}
 
-            <div class="P(0.4em) Bgc(smbHdBg) Jc(se) D(f) Fxd(c)--s Ai(c) D(n)--p Fw(b)">
+            <div class="P(0.4em) Bgc(smbHdBg) Jc(spe) D(f)--_p Fxd(c)--s Ai(c) D(n)--p Fw(b)">
                 {{#unless requirements}}
                 <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/" class="C(gold)">Merit Badge Requirements</a>
                 {{/unless}}
@@ -25,13 +25,13 @@
 
             <div class="notesToggles">
 {{#if @root.requirements}}
-                <div class="D(f) Jc(se) Ai(st) D(n)--p">
+                <div class="D(f)--_p Jc(spe) Ai(st) D(n)--p">
                     {{>top-down-tab short="Requirements" long="Requirements Only" type="none"}}
                     {{>top-down-tab short="In-Person Notes" long="In-Person Class Prep Notes" type="inPerson"}}
                     {{>top-down-tab short="Online Notes" long="Online Class Prep Notes" type="online"}}
                 </div>
 {{/if}}
-                <div class="P(20px) P(0)--p">
+                <div class="P(20px)--_p P(0)--p">
 
 {{#if @root.workbook}}
 <div class="Bgc(smbHdBg) C(white) Fw(b) Tt(u) Ta(c) P(0.25em) Bdw(0.25em) Bdc(smbHdBg)">{{>badge-name badge=badge}} Merit Badge Workbook</div>
@@ -43,7 +43,7 @@
                         <p class="Ta(c)"><a href="{{@root.site.url}}merit-badges/{{badge}}/">{{@root.site.url}}merit-badges/{{badge}}/</a></p>
                     </div>
 
-                    <div class="Pt(1em) Bi(av)">
+                    <div class="Pt(1em) Bki(av)">
                         <div class="Bdw(1pt) P(0.25em)">
                             <div class="W(7em) Mt(0.5em) Pos(a)">
                                 Scout's Name:
