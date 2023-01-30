@@ -219,7 +219,8 @@ function downloadMeritBadges(updated) {
 
             return domQuery(
                 secondDom,
-                '[data-widget_type="button.default"]:not([data-settings]) a[href*=".pdf"]',
+                // data-id 30a3852 is either for American Business's previous requirements or a generic previous requirements button
+                '[data-widget_type="button.default"]:not([data-settings]):not([data-id="30a3852"]) a[href*=".pdf"]',
                 (secondLink) => {
                     found += 1;
                     const secondUrl = resolveUrl(secondLink, secondDom);

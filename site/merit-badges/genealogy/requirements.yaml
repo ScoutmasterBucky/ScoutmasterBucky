@@ -1,19 +1,34 @@
 - requirement: 1
   markdown: true
   text: |-
-      Explain to your counselor what the words *genealogy*, *ancestor*, and
-      *descendant* mean.
-  workbook:
-      - lines: 8
-        text: |-
-            Genealogy
-      - lines: 8
-        text: |-
-            Ancestor
-      - lines: 8
-        text: |-
-            Descendant
+      Do EACH of the following:
   children:
+      - requirement: a
+        text: |-
+            Explain to your counselor what the words *genealogy*, *ancestor* and
+            *descendant* mean.
+        workbook:
+            - lines: 8
+              text: |-
+                  Genealogy
+            - lines: 8
+              text: |-
+                  Ancestor
+            - lines: 8
+              text: |-
+                  Descendant
+      - requirement: b
+        text: |-
+            Explain what a family tree is and what information would be kept
+            there.
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            Explain what a family group record is and what information would be
+            kept there.
+        workbook:
+            - lines: 8
       - note:
             - inPerson
             - online
@@ -78,12 +93,13 @@
             recording.
 - requirement: 4
   text: |-
-      Do the following:
+      Do EACH of the following:
   children:
       - requirement: a
         text: |-
-            Name three types of genealogical resources and explain how these
-            resources can help you chart your family tree.
+            Name three types of physical genealogical resources, where you can
+            find them, and explain how these resources can help you chart your
+            family tree.
         workbook:
             - lines: 8
             - lines: 8
@@ -101,16 +117,26 @@
                   their helpfulness.
       - requirement: b
         text: |-
+            Name three types of digital geneaological resources, where you can
+            find them, and how these resources can help you chart your family
+            tree.
+        workbook:
+            - lines: 8
+            - lines: 8
+            - lines: 8
+      - requirement: c
+        text: |-
             Obtain at least one genealogical document that supports an event
             that is or can be recorded on your pedigree chart or family group
             record. The document could be found at home or at a government
             office, religious organization, archive, or library.
         workbook:
             - task: true
-      - requirement: c
+      - requirement: d
         text: |-
-            Tell how you would evaluate the genealogical information you found
-            for requirement 4b.
+            Tell how you found it and how you would evaluate the genealogical
+            information you found
+            for requirement 4c.
         workbook:
             - lines: 8
         children:
@@ -131,6 +157,20 @@
                   accurately prepared for this requirement prior to the class
                   will have the opportunity of being considered for sign off
                   during the class.
+      - requirement: d
+        text: |-
+            Tell a likely place to find these types of genealogical records:
+            marriage record, census record, birth record, and burial
+            information.
+        workbook:
+            - lines: 4
+              text: Marriage record
+            - lines: 4
+              text: Census record
+            - lines: 4
+              text: Birth record
+            - lines: 4
+              text: Burial information
 - requirement: 5
   text: |-
       Contact ONE of the following individuals or institutions.  Ask what
@@ -245,13 +285,19 @@
   children:
       - requirement: a
         text: |-
-            Explain the effect computers and the Internet are having on the
+            Explain the effect computers and the internet are having on the
             world of genealogy.
         workbook:
             - lines: 8
       - requirement: b
         text: |-
-            Explain how photography (including microfilming) has influenced
+            Explain how photography has influenced geneaology has influenced
+            genealogy.
+        workbook:
+            - lines: 8
+      - requirement: c
+        text: |-
+            Explain how record indexing works and how that has influenced
             genealogy.
         workbook:
             - lines: 8

@@ -52,7 +52,7 @@
             - lines: 8
       - requirement: b
         text: |-
-            Learn all about the product or service to be sold.
+            Learn all about the product to be sold.
         workbook:
             - lines: 8
       - requirement: c
@@ -65,8 +65,7 @@
       - requirement: d
         text: |-
             Follow up with customers after their purchase to confirm their
-            satisfaction and discuss their concerns about the product or
-            service.
+            satisfaction and discuss their concerns about the product.
         workbook:
             - lines: 8
       - note:
@@ -83,8 +82,8 @@
             during the class.
 - requirement: 3
   text: |-
-      Write and present a sales plan for a product or service and a sales
-      territory assigned by your counselor.
+      Write and present a sales plan for a product and a sales territory
+      assigned by your counselor.
   workbook:
       - lines: 8
   children:
@@ -191,7 +190,7 @@
                   - lines: 4
             - requirement: 3
               text: |-
-                  How is the product or service sold?
+                  How is the product sold?
               workbook:
                   - lines: 4
             - requirement: 4

@@ -62,7 +62,7 @@
                   that need to take place when working with composites.
       - requirement: c
         text: |-
-            Describe what a material safety data sheet (MSDS) is and tell why
+            Describe what a safety data sheet (SDS) is and tell why
             it is used.
         workbook:
             - lines: 8
@@ -174,7 +174,7 @@
         text: |-
             Discuss three different composite reinforcement materials, their
             positive and negative characteristics, and their uses. Obtain the
-            MSDS for each one and discuss the toxicity, disposal, and
+            SDS for each one and discuss the toxicity, disposal, and
             safe-handling sections for these materials.
         workbook:
             - lines: 8
@@ -183,33 +183,33 @@
                   negative characteristics, and its uses
             - task: true
               text: |-
-                  Obtained MSDS
+                  Obtained SDS
             - lines: 8
               text: |-
                   Second composite reinforcement material, its positive and
                   negative characteristics, and its uses
             - task: true
               text: |-
-                  Obtained MSDS
+                  Obtained SDS
             - lines: 8
               text: |-
                   Third composite reinforcement material, its positive and
                   negative characteristics, and its uses
             - task: true
               text: |-
-                  Obtained MSDS
+                  Obtained SDS
         children:
             - note:
                   - inPerson
                   - online
               text: |-
-                  Scout will need to bring to class with them the MSDS sheets
+                  Scout will need to bring to class with them the SDS sheets
                   for the materials they chose for this component and be ready
                   to discuss and share their findings.
       - requirement: b
         text: |-
             Discuss three different resins used in composites, their positive
-            and negative characteristics, and their uses. Obtain the MSDS for
+            and negative characteristics, and their uses. Obtain the SDS for
             each one and discuss the toxicity, disposal, and safe-handling
             sections for these materials. Include thermoset resins and
             thermoplastic resins in your discussion.
@@ -220,21 +220,21 @@
                   characteristics, and its uses
             - task: true
               text: |-
-                  Obtained MSDS
+                  Obtained SDS
             - lines: 8
               text: |-
                   Second resin used in composities, its positive and negative
                   characteristics, and its uses
             - task: true
               text: |-
-                  Obtained MSDS
+                  Obtained SDS
             - lines: 8
               text: |-
                   Third resin used in composities, its positive and negative
                   characteristics, and its uses
             - task: true
               text: |-
-                  Obtained MSDS
+                  Obtained SDS
       - requirement: c
         text: |-
             For each of the three resins you chose for requirement 3b, think of

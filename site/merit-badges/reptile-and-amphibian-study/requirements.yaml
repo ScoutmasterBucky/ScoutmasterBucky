@@ -18,7 +18,7 @@
       - lines: 8
 - requirement: 3
   text: |-
-      Describe the main differences between
+      Describe the main differences between:
   children:
       - requirement: a
         text: |-
@@ -37,11 +37,6 @@
             - lines: 4
       - requirement: d
         text: |-
-            Salamanders and lizards
-        workbook:
-            - lines: 4
-      - requirement: e
-        text: |-
             Snakes and lizards
         workbook:
             - lines: 4
@@ -57,7 +52,7 @@
       - lines: 8
 - requirement: 5
   text: |-
-      Describe how reptiles and amphibians reproduce.
+      Compare how reptiles reproduce to how amphibians reproduce.
   workbook:
       - lines: 8
 - requirement: 6
@@ -110,7 +105,7 @@
             an amphibian from the time of laying until their transformation
             into tadpoles (frogs) or larvae (salamanders). Whichever you chose,
             keep records of and report to your counselor how you cared for your
-            animal/eggs/larvae to include lighting, habitat, temperature and
+            animal/eggs/larvae to include lighting, habitat, temperature, and
             humidity maintenance, and any veterinary care requirements.
 
             NOTE: Scouts must not use venomous reptiles in fulfilling

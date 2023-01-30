@@ -596,10 +596,11 @@
                   - lines: 8
             - requirement: 2
               text: |-
-                  Record environmental factors that may influence the presence
-                  of plants on your site, including latitude, climate, air and
-                  soil temperature, soil type and pH, geology, hydrology, and
-                  topography.
+                  Using information from maps, textbooks, or the internet,
+                  describe the environmental factors that may influence the
+                  presence of plants on your site, including latitude, climate,
+                  air and soil temperature, soil type and pH, geology,
+                  hydrology, and topography.
               workbook:
                   - lines: 8
             - requirement: 3
@@ -612,10 +613,9 @@
       - requirement: B
         text: |-
             Select a study site that is at least 100 by 100 feet. Make a list
-            of the plants in the study site by groups of plants: canopy trees,
-            small trees, shrubs, herbaceous wildflowers and grasses, vines,
-            ferns, mosses, algae, fungi, lichens. Find out which of these are
-            native plants and which are exotic (or nonnative).
+            of 10 woody plants (trees and shrubs) and 10 non-woody plants in
+            the study site. Find out which of these are native plants and which
+            are exotic (or nonnative).
         workbook:
             - lines: 3
               text: |-
@@ -701,9 +701,8 @@
                         - lines: 8
                   - requirement: d
                     text: |-
-                        Lead a walk to teach others about trees and their
-                        value, OR write and distribute materials that will help
-                        others learn about trees.
+                        Show two or more people how to use a leaf or twig key
+                        to identify at least five species of trees or shrubs.
                     workbook:
                         - lines: 8
             - requirement: 2
@@ -754,8 +753,9 @@
                               1. Identify each tree within 10 feet of the
                               transect line.
 
-                              2. Measure the diameter of each tree at 4 feet
-                              above the ground, and map and list each tree.
+                              2. Measure the diameter of each tree larger than
+                              3 inches in diameter at 4 feet above the ground,
+                              and map and list each tree.
                         - split:
                             - grid: 10
                               text: |-
@@ -815,15 +815,18 @@
                           text: |-
                               1. Identify, measure, and map each tree in a
                               100-by-100-foot plot.  (Measure the diameter of
-                              each tree at 4 feet above the ground.)
+                              each tree larger than 3 inches in diameter at 4
+                              feet above the ground.)
 
-                              2. Identify and map all trees and shrubs in a
+                              2. Identify and count all trees and shrubs in a
                               10-by-10-foot plot within each of the larger
                               areas.
 
-                              3. Identify and map all plants (wildflowers,
-                              ferns, grasses, mosses, etc.) of a 4-by-4-foot
-                              plot within the 10-by-10-foot plot.
+                              3. Identify and count all broad-leaved plants
+                              (trees, shrubs, vines, and herbaceous plants) all
+                              plants (wildflowers, ferns, grasses, mosses,
+                              etc.) of a 4-by-4-foot plot within the
+                              10-by-10-foot plot.
                         - split:
                             - grid: 10
                               text: |-
@@ -836,19 +839,22 @@
                           text: |-
                               Identify, measure, and map each tree in a
                               100-by-100-foot plot.  (Measure the diameter of
-                              each tree at 4 feet above the ground.)
+                              each tree larger than 3 inches in diameter at 4
+                              feet above the ground.)
                           workbookHide: true
                         - requirement: 2
                           text: |-
-                              Identify and map all trees and shrubs in a
+                              Identify and count all trees and shrubs in a
                               10-by-10-foot plot within each of the larger
                               areas.
                           workbookHide: true
                         - requirement: 3
                           text: |-
-                              Identify and map all plants (wildflowers, ferns,
-                              grasses, mosses, etc.) of a 4-by-4-foot plot
-                              within the 10-by-10-foot plot.
+                              Identify and count all broad-leaved plants
+                              (trees, shrubs, vines, and herbaceous plants) all
+                              plants (wildflowers, ferns, grasses, mosses,
+                              etc.) of a 4-by-4-foot plot within the
+                              10-by-10-foot plot.
                           workbookHide: true
             - requirement: 4
               text: |-
