@@ -1,5 +1,5 @@
 const pluginKit = require("metalsmith-plugin-kit");
-const luxon = require("luxon");
+const date = require("../handlebars/helpers/date");
 
 function start(f) {
     return `<!DOCTYPE html>
@@ -9,7 +9,7 @@ function start(f) {
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <!-- Do not include reset.css - it messes up the print headers by adding 100% width to html and body -->
-        <link rel="stylesheet" href="${f.rootPath}css/atomic.css" />
+        <script src="${f.rootPath}js/acss-live.js"></script>
         <link rel="stylesheet" href="${f.rootPath}css/site.css" />
         <link rel="stylesheet" href="${f.rootPath}css/fonts.css" />
         <title>Scoutmaster Bucky ${
@@ -20,7 +20,7 @@ function start(f) {
 `;
 }
 
-function end(f) {
+function end() {
     return `
     </body>
 </html>`;
@@ -45,14 +45,15 @@ function makeHeader(f) {
                 <div class="Ta(c) C(blue)">www.ScoutmasterBucky.com</div>
             </div>
         </div>` +
-        end(f)
+        end()
     );
 }
 
 function makeFooter(f) {
-    const lastUpdated = luxon.DateTime.fromISO(f.meritBadgeMeta.lastUpdated, {
-        zone: "America/Chicago"
-    }).toFormat("MMMM d, yyyy");
+    const lastUpdated = date({
+        fn: () => `${f.updated["merit-badges"][f.badge]}`,
+        hash: {}
+    });
 
     return (
         start(f) +
@@ -72,7 +73,7 @@ document.write('Page ' + p + ' of ' + t);
                 <br>Current Scouts BSA Requirements, as of ${lastUpdated}</td>
             </tr>
         </table>` +
-        end(f)
+        end()
     );
 }
 
@@ -95,11 +96,11 @@ module.exports = function workbookHeaderFooter() {
             if (fileObject.workbook) {
                 workbooks.push(workbookInfo(filename, fileObject));
                 const headerFilename = filename.replace(
-                    "index.html",
+                    "index.md",
                     "header.html"
                 );
                 const footerFilename = filename.replace(
-                    "index.html",
+                    "index.md",
                     "footer.html"
                 );
                 pluginKit.addFile(
