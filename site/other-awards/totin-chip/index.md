@@ -5,7 +5,7 @@ linkPath: totin-chip/
 image: totin-chip-patch.jpg
 ---
 
-<div class="W(20%) W(25%)--l W(33%)--m W(50%)--s D(f) Fxd(c) Ai(c) P(4px) Fl(end)">
+<div class="W(20%)--_sml W(25%)--l W(33%)--m W(50%)--s D(f) Fxd(c) Ai(c) P(4px) Fl(end)">
     <img src="totin-chip-patch.jpg" class="W(100%) H(a)">
 </div>
 
@@ -15,13 +15,13 @@ The privileges this awards grants are able to be taken away if the Scout fails i
 
 When earned, the Scout may receive the patch, the card, or both.
 
-<div class="W(20%) W(25%)--l W(33%)--m W(50%)--s D(f) Fxd(c) Ai(c) P(4px)">
+<div class="W(20%)--_sml W(25%)--l W(33%)--m W(50%)--s D(f) Fxd(c) Ai(c) P(4px)">
     <img src="totin-chip-card-front.jpg" class="W(100%) H(a)">
 </div>
 
 # Requirements
 
-<div class="W(20%) W(25%)--l W(33%)--m W(50%)--s D(f) Fxd(c) Ai(c) P(4px) Fl(end)">
+<div class="W(20%)--_sml W(25%)--l W(33%)--m W(50%)--s D(f) Fxd(c) Ai(c) P(4px) Fl(end)">
     <img src="scoutmaster-bucky-totin-chip.jpg" class="W(100%) H(a)" width="10" height="10">
 </div>
 

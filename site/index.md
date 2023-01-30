@@ -16,7 +16,7 @@ js:
 
 <script>window.events = [];</script>
 
-# <div class="D(f) Jc(sb) Ai(b) Fxd(c)--s"><div>Welcome</div><div class="Fz(0.4em) Fw(n) Tt(n)">Last Update: {{#date}}{{buildDate}}{{/date}}</div></div>
+# <div class="D(f) Jc(spb) Ai(b) Fxd(c)--s"><div>Welcome</div><div class="Fz(0.4em) Fw(n) Tt(n)">Last Update: {{#date}}{{buildDate}}{{/date}}</div></div>
 
 <div class="C(smbThmTx) Fw(b) Fz(2em) D(f) Jc(c)">Scoutmaster Bucky</div>
 <div class="D(f) Jc(c) Pb(1em)">Serving Scouts since January 2009</div>
@@ -31,7 +31,7 @@ js:
 
 ## Scoutmaster Bucky Event Calendar
 
-<div id="calendar" class="Mb(0.9em) H(218px) H(426px)--sm"></div>
+<div id="calendar" class="Mb(0.9em) H(218px)--_sm H(426px)--sm"></div>
 
 Registration opens at 12:05 am on the first of the month for the following month's activities. The only exception is that February events open on January 2 at 12:05 am. Some events do open for registration earlier, so please check events carefully below.
 
@@ -61,7 +61,7 @@ The Scoutmaster Bucky program is a volunteer run program managed and maintained 
 
 ## Refund Policy & Contact Information
 
-<div class="D(f) Fxd(c)--ss"><div>
+<div class="D(f) Fxd(c)--s"><div>
 
 Requests for refunds or cancellations will be honored up to a week prior to any event.
 
@@ -71,7 +71,7 @@ Contact number: 612-483-0665<br />
 Email: <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry">ScoutmasterBucky@yahoo.com</a>
 
 </div>
-<div class="Maw(30%)--ss Maw(15%) Maw(20%)--sm M(a)--s">
+<div class="Maw(15%)--_sm Maw(20%)--sm M(a)--s">
 <img src="images/bucky-waving.jpg" alt="Bucky Waving" class="W(100%) H(a)"/>
 </div>
 </div>

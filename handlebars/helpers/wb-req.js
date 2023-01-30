@@ -1,8 +1,8 @@
 module.exports = function(obj) {
-    let result = '<div class="Bi(av) Pbi(av) Lh(wbLh)">';
+    let result = '<div class="Bki(av) Pgbi(av) Lh(wbLh)">';
 
     if (obj.hash.alert) {
-        result += `<div class="Tt(u) Mt(1em) Bgc(smbAccBg) Bdc(red) Bdw(0.25em) P(1em) P(0.5em)--s Fw(b) C(red)">${obj.hash.alert}</div>`;
+        result += `<div class="Tt(u) Mt(1em) Bgc(smbAccBg) Bdc(red) Bdw(0.25em) P(1em)--_s P(0.5em)--s Fw(b) C(red)">${obj.hash.alert}</div>`;
     }
 
     result += `

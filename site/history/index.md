@@ -21,7 +21,7 @@ Ernest Thompson-Seton, an author, nature artist, and naturalist from New York, w
 
 ## Merit Badge History Pages
 
-<div class="Cc(3) Cc(2)--l Cc(1)--sm">
+<div class="Colmc(3)--_sml Colmc(2)--l Colmc(1)--sm">
 
 {{#each meritBadges}}
 <div class="{{#if active}}Fw(b){{/if}}"><a href="{{@root.rootPath}}merit-badges/{{@key}}/history/">{{name}}</a></div>

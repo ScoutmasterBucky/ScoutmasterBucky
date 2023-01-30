@@ -3,7 +3,7 @@ supernova: thomas-alva-edison
 layout: nova-req
 ---
 
-<div class="D(f) Jc(sb) Fxd(rr) Fxd(c)--s">
+<div class="D(f) Jc(spb) Fxd(rr)--_s Fxd(c)--s">
 <div class="W(175px) Ta(c) Fxs(0) Mx(a)--s"><img src="{{supernova}}-award.jpg" class="W(100%) Mx(a) H(a)"></div>
 <div>
 

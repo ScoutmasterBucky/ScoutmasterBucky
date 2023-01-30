@@ -31,7 +31,7 @@ Basic skills and safety precautions are presented in the BSA publication: [Aquat
 ## Boardsailing BSA Award
 <div class="D(f) Fxd(c)--s">
 <div>
-<p>Upon successful completion, participants earn the Boardsailing BSA patch along with their achievment card.  Completion indiciates the individual has experieneced a valuable introduction to boardsailing.</p>
+<p>Upon successful completion, participants earn the Boardsailing BSA patch along with their achievement card.  Completion indiciates the individual has experieneced a valuable introduction to boardsailing.</p>
 </div>
 <div class="Ta(c) Pt(1em)--s">
 
