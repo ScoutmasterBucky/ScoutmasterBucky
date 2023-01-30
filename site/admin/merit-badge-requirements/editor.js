@@ -1,4 +1,4 @@
-/* global m, navigator, YAML */
+/* global alert, m, navigator, YAML */
 
 module.exports = function (components) {
     return class Editor {
@@ -114,7 +114,15 @@ module.exports = function (components) {
                                 }
                             );
                             console.log(yamlStr);
-                            navigator.clipboard.writeText(yamlStr);
+                            navigator.permissions.query({
+                                name: "clipboard-write"
+                            }).then((result) => {
+                                if (result.state === "denied") {
+                                    alert("Clipboard access denied");
+                                } else {
+                                    navigator.clipboard.writeText(yamlStr);
+                                }
+                            });
                         },
                         label: this.copyDisabled
                             ? "** COPIED **"

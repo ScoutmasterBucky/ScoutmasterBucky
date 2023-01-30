@@ -95,8 +95,8 @@
   children:
       - requirement: a
         text: |-
-            Are you living in such a way that your risk of preventable diseases
-            is minimized?
+            Are you free from all curable diseases? Are you living in such a
+            way that your risk of preventable diseases is minimized?
         workbook:
             - lines: 8
       - requirement: b
@@ -146,6 +146,37 @@
             home life?
         workbook:
             - lines: 8
+      - requirement: j
+        text: |-
+            Do you carry out daily activities without noticeable effort? Do you
+            have extra energy for other activities?
+        workbook:
+            - lines: 8
+      - requirement: k
+        text: |-
+            Are you free from habits relating to poor nutrition and the use of
+            alcohol, tobacco, drugs, and other practices that could be harmful
+            to your health?
+        workbook:
+            - lines: 8
+      - requirement: l
+        text: |-
+            Do you participate in a regular exercise program or recreational
+            activites?
+        workbook:
+            - lines: 8
+      - requirement: m
+        text: |-
+            Do you sleep well at night and wake up feeling ready to start the
+            new day?
+        workbook:
+            - lines: 8
+      - requirement: n
+        text: |-
+            Are you actively involved in the religious organization of your
+            choice, and do you participate in its youth activities?
+        workbook:
+            - lines: 8
 - requirement: 4
   text: |-
       Explain the following about physical fitness:
@@ -167,8 +198,8 @@
             - lines: 8
       - requirement: d
         text: |-
-            How a program like ScoutStrong can lead to lifelong healthful
-            habits
+            How a program like the President's Council on Sports, Fitness &
+            Nutrition can lead to lifelong healthful habits
         workbook:
             - lines: 8
       - requirement: e
@@ -179,7 +210,7 @@
             - lines: 8
 - requirement: 5
   text: |-
-      Explain the following:
+      Explain the following about nutrition:
   children:
       - requirement: a
         text: |-
@@ -248,11 +279,10 @@
       your exercise heart rate; etc.). Keep a log of your weekly healthy eating
       goals. Repeat the aerobic fitness, muscular strength, and flexibility
       tests every four weeks and record your results. After the 12th week,
-      repeat all of the required activities in each of the three test
-      categories, record your results, and show improvement in each one.
-      Discuss how well you met your healthy eating goals over these 12 weeks.
-      Discuss the meaning and benefit of your experience, and describe your
-      long-term plans regarding your personal fitness.
+      repeat the three tests, record your results, and show improvement in each
+      one.  Discuss how well you met your healthy eating goals over these 12
+      weeks.  Discuss the meaning and benefit of your experience, and describe
+      your long-term plans regarding your personal fitness.
   workbook:
       - lines: 8
 - requirement: 9

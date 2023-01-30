@@ -28,7 +28,7 @@
         text: |-
             Review prevention, symptoms, and first-aid treatment for the
             following injuries or illnesses that can occur while sailing:
-            blisters, cold-water shock and hypothermia, dehydration and
+            blisters, cold-water shock and hypothermia, dehydration, and
             heat-related illnesses, sunburn, sprains, and strains.
         workbook:
             - lines: 8
@@ -141,7 +141,7 @@
             - task: true
       - requirement: b
         text: |-
-            Get under way from a dock, mooring, or beach.
+            Get underway from a dock, mooring, or beach.
         workbook:
             - task: true
       - requirement: c
@@ -187,6 +187,12 @@
         workbook:
             - task: true
       - requirement: i
+        text: |-
+            Accept a single line or side tow and maneuver the craft being towed
+            safely for 20 boat lengths.
+        workbook:
+            - task: true
+      - requirement: j
         text: |-
             Upon returning to the dock, mooring, or beach, properly secure all
             equipment, furl or stow sails, and prepare the craft for unattended
