@@ -267,25 +267,27 @@
         of these knots. Only Scouts showing proficiency in these knots AND
         properly and safely able to demonstrate the securing of a canoe will be
         considered for sign off on this part of Requirement 7
-    - callout: true
+    - note:
+        - online
+        - inPerson
       text: |-
         TRUCKER'S HITCH
 
-        <img src="/images/knots/truckers-hitch.jpg" />
-      markdown: true
-    - callout: true
+        <img src="/merit-badges/canoeing/truckers-hitch.jpg" />
+    - note:
+        - online
+        - inPerson
       text: |-
         TAUTLINE HITCH
 
-        <img src="/images/knots/tautline-hitch.jpg" />
-      markdown: true
+        <img src="/merit-badges/canoeing/tautline-hitch.jpg" />
     - note:
         - online
         - inPerson
       text: |-
         BOWLINE HITCH
 
-        <img src="/images/knots/bowline-hitch.jpg" />
+        <img src="/merit-badges/canoeing/bowline-hitch.jpg" />
   workbookHide: true
 - requirement: 8
   text: |-
