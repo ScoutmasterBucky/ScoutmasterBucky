@@ -268,8 +268,24 @@
         properly and safely able to demonstrate the securing of a canoe will be
         considered for sign off on this part of Requirement 7
     - callout: true
-      text: TRUCKER'S HITCH
+      text: |-
+        TRUCKER'S HITCH
+
+        <img src="/images/knots/truckers-hitch.jpg" />
       markdown: true
+    - callout: true
+      text: |-
+        TAUTLINE HITCH
+
+        <img src="/images/knots/tautline-hitch.jpg" />
+      markdown: true
+    - note:
+        - online
+        - inPerson
+      text: |-
+        BOWLINE HITCH
+
+        <img src="/images/knots/bowline-hitch.jpg" />
   workbookHide: true
 - requirement: 8
   text: |-
