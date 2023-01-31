@@ -64,7 +64,6 @@
         canoeing activities. Scouts clearly not having prepared ahead of class
         will not be allowed to continue participation in the class after arrival
         until they show acceptable comprehension of this policy.
-  workbookHide: true
 - requirement: 2
   text: "Before doing the following requirements, successfully complete the BSA
     swimmer test: Jump feetfirst into water over the head in depth. Level off
@@ -105,9 +104,7 @@
       workbook:
         - lines: 8
     - requirement: b
-      text: |-
-        Describe how the length and shape of a canoe affect its
-        performance.
+      text: Describe how the length and shape of a canoe affect its performance.
       workbook:
         - lines: 8
     - requirement: c
@@ -115,6 +112,7 @@
         to make canoes.
       workbook:
         - lines: 8
+  workbookHide: true
 - note:
     - online
     - inPerson
@@ -148,6 +146,7 @@
       text: This requirement component will be covered in the class, however Scouts
         should review the merit badge pamphlet for a basic understanding of how
         to size a paddle for themselves and someone else.
+  workbookHide: true
 - requirement: 5
   text: "Do the following:"
   children:
@@ -167,9 +166,7 @@
         Scouts who actively discuss their findings, as required, will be signed
         off.
     - requirement: b
-      text: |-
-        Demonstrate how to select and properly fit the correct size life
-        jacket.
+      text: Demonstrate how to select and properly fit the correct size life jacket.
       workbook:
         - task: true
     - note:
@@ -194,7 +191,6 @@
         the counselor will review each of these during the class, Scouts are
         expected to have  prior prepared knowledge for each of these.  Be
         Prepared.
-  workbookHide: true
 - requirement: 6
   text: Discuss with your counselor the general care and maintenance of canoes,
     paddles, and other canoeing equipment.
@@ -270,67 +266,70 @@
     - note:
         - online
         - inPerson
-      text: |-
-        TRUCKER'S HITCH
-
-        <img src="/merit-badges/canoeing/truckers-hitch.jpg" />
+      text: TRUCKER'S HITCH
     - note:
         - online
         - inPerson
-      text: |-
-        TAUTLINE HITCH
-
-        <img src="/merit-badges/canoeing/tautline-hitch.jpg" />
+      text: <img src="/merit-badges/canoeing/truckers-hitch.jpg" />
+      markdown: true
     - note:
         - online
         - inPerson
-      text: |-
-        BOWLINE HITCH
-
-        <img src="/merit-badges/canoeing/bowline-hitch.jpg" />
-  workbookHide: true
+      text: TAUTLINE HITCH
+    - note:
+        - online
+        - inPerson
+      text: <img src="/merit-badges/canoeing/tautline-hitch.jpg" />
+      markdown: true
+    - note:
+        - online
+        - inPerson
+      text: BOWLINE HITCH
+    - note:
+        - online
+        - inPerson
+      text: <img src="/merit-badges/canoeing/bowline-hitch.jpg" />
+      markdown: true
+    - callout: true
+      text: BOWLINE HITCH
+    - callout: true
+      text: <img src="/merit-badges/canoeing/bowline-hitch.jpg" />
+      markdown: true
 - requirement: 8
-  text: |-
-    With a companion, use a properly equipped canoe to demonstrate the
-    following:
+  text: "With a companion, use a properly equipped canoe to demonstrate the
+    following:"
   workbook:
     - task: true
-      text: |-
-        a. Safely carry and launch the canoe from a dock or shore (both, if
+      text: a. Safely carry and launch the canoe from a dock or shore (both, if
         possible).
     - task: true
-      text: |-
-        b. Safely land the canoe on a dock or shore (both, if possible) and
+      text: b. Safely land the canoe on a dock or shore (both, if possible) and
         return it to its proper storage location.
     - task: true
-      text: |-
-        c. Demonstrate kneeling and sitting positions in a canoe and
-        explain the proper use for each position.
+      text: c. Demonstrate kneeling and sitting positions in a canoe and explain the
+        proper use for each position.
     - task: true
       text: d. Change places while afloat in the canoe.
   children:
     - requirement: a
-      text: |-
-        Safely carry and launch the canoe from a dock or shore (both, if
+      text: Safely carry and launch the canoe from a dock or shore (both, if
         possible).
       workbookHide: true
     - requirement: b
-      text: |-
-        Safely land the canoe on a dock or shore (both, if possible) and
-        return it to its proper storage location.
+      text: Safely land the canoe on a dock or shore (both, if possible) and return
+        it to its proper storage location.
       workbookHide: true
+      markdown: true
     - requirement: c
-      text: |-
-        Demonstrate kneeling and sitting positions in a canoe and explain
-        the proper use for each position.
+      text: Demonstrate kneeling and sitting positions in a canoe and explain the
+        proper use for each position.
       workbookHide: true
     - requirement: d
       text: Change places while afloat in the canoe.
       workbookHide: true
 - requirement: 9
-  text: |-
-    With a companion, use a properly equipped canoe to demonstrate the
-    following:
+  text: "With a companion, use a properly equipped canoe to demonstrate the
+    following:"
   workbook:
     - task: true
       text: a. In deep water, exit the canoe and get back in without capsizing.
