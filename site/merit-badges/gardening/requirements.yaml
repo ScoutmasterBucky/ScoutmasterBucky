@@ -1,227 +1,276 @@
 - requirement: 1
-  text: |-
-      Do the following:
+  text: "Do the following:"
   children:
-      - requirement: a
-        text: |-
-            Explain to your counselor the most likely hazards associated with
-            gardening and what you should do to anticipate, help prevent,
-            mitigate, and respond to these hazards.
-        workbook:
-            - lines: 8
-              text: |-
-                  Most likely hazards
-            - lines: 8
-              text: |-
-                  Anticipate hazards
-            - lines: 8
-              text: |-
-                  Prevent hazards
-            - lines: 8
-              text: |-
-                  Mitigat hazards
-            - lines: 8
-              text: |-
-                  Respond to hazards
-      - requirement: b
-        text: |-
-            Discuss the prevention of, and treatment for, health concerns that
-            could occur while gardening, including cuts, scratches, puncture
-            wounds, insect bites, anaphylactic shock, heat reactions, and
-            reactions from exposure to pesticides and fertilizers.
-        workbook:
-            - lines: 8
-              text: |-
-                  Cuts
-            - lines: 8
-              text: |-
-                  Scratches
-            - lines: 8
-              text: |-
-                  Puncture wounds
-            - lines: 8
-              text: |-
-                  Insect bites
-            - lines: 8
-              text: |-
-                  Anaphylactic shock
-            - lines: 8
-              text: |-
-                  Heat reactions
-            - lines: 8
-              text: |-
-                  Exposure to pesticides and fertilizers
+    - requirement: a
+      text: Explain to your counselor the most likely hazards associated with
+        gardening and what you should do to anticipate, help prevent, mitigate,
+        and respond to these hazards.
+      workbook:
+        - lines: 8
+          text: Most likely hazards
+        - lines: 8
+          text: Anticipate hazards
+        - lines: 8
+          text: Prevent hazards
+        - lines: 8
+          text: Mitigat hazards
+        - lines: 8
+          text: Respond to hazards
+    - note:
+        - online
+        - inPerson
+      text: Scouts should be prepared to explain and describe their ability to
+        identify hazards likely associated with gardening.  Scouts may find it
+        beneficial to make notes to bring to class for reference when completing
+        this part of Requirement 1.
+    - requirement: b
+      text: Discuss the prevention of, and treatment for, health concerns that could
+        occur while gardening, including cuts, scratches, puncture wounds,
+        insect bites, anaphylactic shock, heat reactions, and reactions from
+        exposure to pesticides and fertilizers.
+      workbook:
+        - lines: 8
+          text: Cuts
+        - lines: 8
+          text: Scratches
+        - lines: 8
+          text: Puncture wounds
+        - lines: 8
+          text: Insect bites
+        - lines: 8
+          text: Anaphylactic shock
+        - lines: 8
+          text: Heat reactions
+        - lines: 8
+          text: Exposure to pesticides and fertilizers
+    - note:
+        - online
+        - inPerson
+      text: Scouts should utilize the Gardening Merit Badge pamphlet to review and
+        prepare for discussion during the class. Scouts will be expected to
+        relay to the counselor their understanding of health concerns and
+        treatment related to gardening instances.
+  workbookHide: true
 - requirement: 2
-  text: |-
-      Do the following:
+  text: "Do the following:"
   children:
-      - requirement: a
-        text: |-
-            Grow six vegetables, three from seeds and three from seedlings,
-            through harvest.
-        workbook:
-            - split:
-                  - task: true
-                    text: |-
-                        Grow three vegetables from seeds through harvest
-                  - task: true
-                    text: |-
-                        Grow three vegetables from seedlings through harvest
-      - requirement: b
-        text: |-
-            Grow six flowers, three from seeds and three from seedlings,
-            through flowering.
-        workbook:
-            - split:
-                  - task: true
-                    text: |-
-                        Grow three flowers from seeds through flowering
-                  - task: true
-                    text: |-
-                        Grow three flowers from seedlings through flowering
-- requirement: 3
-  text: |-
-      Give the nutritional value of the following:
-  children:
-      - requirement: a
-        text: |-
-            Three root or tuber crops
-        workbook:
-            - lines: 8
-            - lines: 8
-            - lines: 8
-      - requirement: b
-        text: |-
-            Three vegetables that bear above ground
-        workbook:
-            - lines: 8
-            - lines: 8
-            - lines: 8
-      - requirement: c
-        text: |-
-            Three fruits
-        workbook:
-            - lines: 8
-            - lines: 8
-            - lines: 8
-- requirement: 4
-  text: |-
-      Test 100 seeds for germination. Determine the percentage of seeds that
-      germinate. Explain why you think some did not germinate.
-  workbook:
-      - lines: 8
-- requirement: 5
-  text: |-
-      Visit your county extension agent’s office, local university agricultural
-      college, nursery, or a botanical garden or arboretum. Report on what you
-      learned.
-  workbook:
-      - lines: 8
-- requirement: 6
-  text: |-
-      Explain to your counselor how and why honey bees are used in pollinating
-      food crops. Discuss the problems facing the bee population today, and
-      tell what you think would be the impact to humanity if there were no
-      pollinators.
-  workbook:
-      - lines: 8
-        text: |-
-            How and why honey bees are used
-      - lines: 8
-        text: |-
-            Problems facing the bee population today
-      - lines: 8
-        text: |-
-            Impact to humanity if there were no pollinators
-- requirement: 7
-  text: |-
-      Identify five garden pests (insects, diseased plants).  Recommend two
-      solutions for each pest. At least one of the two solutions must be an
-      organic method.
-  workbook:
-      - split:
-            - lines: 3
-              text: |-
-                  Pest
-            - lines: 3
-              text: |-
-                  Organic solution
-            - lines: 3
-              text: |-
-                  Any second solution
-      - split:
-            - lines: 3
-            - lines: 3
-            - lines: 3
-      - split:
-            - lines: 3
-            - lines: 3
-            - lines: 3
-      - split:
-            - lines: 3
-            - lines: 3
-            - lines: 3
-      - split:
-            - lines: 3
-            - lines: 3
-            - lines: 3
-- requirement: 8
-  text: |-
-      Do ONE of the following:
-  children:
-      - requirement: a
-        text: |-
-            Build a compost bin and maintain it for 90 days.
-        workbook:
-            - split:
-                  - lines: 1
-                    text: |-
-                        Date started
-                  - lines: 1
-                    text: |-
-                        Date completed
-      - requirement: b
-        text: |-
-            Build a vermipost bin (worm compost bin) and maintain it for 90
-            days.
-        workbook:
-            - split:
-                  - lines: 1
-                    text: |-
-                        Date started
-                  - lines: 1
-                    text: |-
-                        Date completed
-      - requirement: c
-        text: |-
-            Build a hydroponic garden containing three vegetables or herbs, or
-            three ornamental plants. Maintain this garden through harvest or
-            flowering, or for 90 days.
-        workbook:
-            - split:
-                  - lines: 1
-                    text: |-
-                        Date started
-                  - lines: 1
-                    text: |-
-                        Date completed
-      - requirement: d
-        text: |-
-            Build one water garden, either in a container (at least 12 by 6
-            inches and 6 inches deep), or in the ground as a small, decorative
-            pond no larger than 6 by 3 feet and 24 inches deep. Maintain the
-            water garden for 90 days.
-        workbook:
-            - split:
-                  - lines: 2
-                    text: |-
-                        Date started
-                  - lines: 2
-                    text: |-
-                        Date completed
-      - requirement: e
-        text: |-
-            Prepare a honey super for use on a hive or colony. Remove a filled
-            honey super from the hive or colony and prepare the honey for sale.
-        workbook:
+    - requirement: a
+      text: |-
+        Grow six vegetables, three from seeds and three from seedlings,
+        through harvest.
+      workbook:
+        - split:
             - task: true
+              text: Grow three vegetables from seeds through harvest
+            - task: true
+              text: Grow three vegetables from seedlings through harvest
+    - requirement: b
+      text: |-
+        Grow six flowers, three from seeds and three from seedlings,
+        through flowering.
+      workbook:
+        - split:
+            - task: true
+              text: Grow three flowers from seeds through flowering
+            - task: true
+              text: Grow three flowers from seedlings through flowering
+  workbookHide: true
+- note:
+    - online
+  text: This requirement will NOT be done as any part of the class.  Scouts are
+    responsible for growing their vegetables and flowers (as well as procuring
+    all necessary materials) on their own.  It is HIGHLY recommended that you
+    document with photos, video, and/or writing your obeservations throughout
+    the process of planting to harvest for this requirement. Scouts not having
+    substantial proof of their efforts throughout the gardening process will
+    find it difficult to receive sign off from the counselor.
+- note:
+    - inPerson
+  text: This requirement will be started during the class however you will NOT be
+    able to complete this requirement in full during the class. Follow up
+    instructions will be provided as a part of the class.
+- requirement: 3
+  text: "Give the nutritional value of the following:"
+  children:
+    - requirement: a
+      text: Three root or tuber crops
+      workbook:
+        - lines: 8
+        - lines: 8
+        - lines: 8
+    - requirement: b
+      text: Three vegetables that bear above ground
+      workbook:
+        - lines: 8
+        - lines: 8
+        - lines: 8
+    - requirement: c
+      text: Three fruits
+      workbook:
+        - lines: 8
+        - lines: 8
+        - lines: 8
+- note:
+    - online
+    - inPerson
+  text: While the counselor will help mentor in the class, Scouts should have
+    reviewed the merit badge pamphlet and any other sources to best build their
+    knowledge for completing this requirement in the class.  Scouts will be
+    required to actively partake in providing explanations on all components of
+    this requirement in one-on-one discussion with the counselor and/or within
+    the class group environment.
+- requirement: 4
+  text: Test 100 seeds for germination. Determine the percentage of seeds that
+    germinate. Explain why you think some did not germinate.
+  workbook:
+    - lines: 8
+- note:
+    - online
+    - inPerson
+  text: Requirement 4 will NOT be completed within the class, however, the counselor
+    will help facilitate this requirement during the class as best they can with
+    the resources Scouts bring to the class to share.  Germinating seeds takes
+    time so prepare ahead of time and do this experiment ahead of the
+    class.  Scouts wishing to be considered for sign off on this requirement
+    will need to do preparation work and bring photos or proof of their
+    germination activity for consideration by the counselor. Scouts not able to
+    or not having completed this requirement prior to the class will get
+    guidance from the counselor as to how they may follow up after the class to
+    show completion of this requirement.
+- requirement: 5
+  text: Visit your county extension agent’s office, local university agricultural
+    college, nursery, or a botanical garden or arboretum. Report on what you
+    learned.
+  workbook:
+    - lines: 8
+- note:
+    - online
+    - inPerson
+  text: This requirement will NOT be completed during the class. HOWEVER, Scouts who
+    can bring documented proof of completing this requirement will have an
+    opportunity to share with the counselor their accomplishments and
+    potentially be signed off  Sign off is dependent on whether the work meets
+    the satisfaction of the merit badge counselor; saying you did it is not
+    enough, you need to bring proof.
+- requirement: 6
+  text: Explain to your counselor how and why honey bees are used in pollinating
+    food crops. Discuss the problems facing the bee population today, and tell
+    what you think would be the impact to humanity if there were no pollinators.
+  workbook:
+    - lines: 8
+      text: How and why honey bees are used
+    - lines: 8
+      text: Problems facing the bee population today
+    - lines: 8
+      text: Impact to humanity if there were no pollinators
+- note:
+    - online
+    - inPerson
+  text: Scouts will need to do some research and reading in order to prepare for
+    this requirement.  It is recommended that Scouts make notes of their
+    findings to help show the counselor their efforts in preparing for the
+    class.  These notes can also serve to help Scouts successfully perform their
+    explanation or discussion elements of this requirement. It will be very
+    difficult for Scouts who do not come prepared for this requirement to
+    successfully complete the requirement in the class
+- requirement: 7
+  text: Identify five garden pests (insects, diseased plants).  Recommend two
+    solutions for each pest. At least one of the two solutions must be an
+    organic method.
+  workbook:
+    - split:
+        - lines: 3
+          text: Pest
+        - lines: 3
+          text: Organic solution
+        - lines: 3
+          text: Any second solution
+    - split:
+        - lines: 3
+        - lines: 3
+        - lines: 3
+    - split:
+        - lines: 3
+        - lines: 3
+        - lines: 3
+    - split:
+        - lines: 3
+        - lines: 3
+        - lines: 3
+    - split:
+        - lines: 3
+        - lines: 3
+        - lines: 3
+- note:
+    - online
+    - inPerson
+  text: This requirement will be covered in the class, however, only Scouts who have
+    prepared by familiarizing themselves with the required knowledge AND
+    actively participate in the class activity for this requirement, will be
+    considered for sign off on the requirement. You will not get credit for this
+    requirement during the class if you can not show that you did preparation
+    work for this requirement.
+- requirement: 8
+  text: "Do ONE of the following:"
+  children:
+    - requirement: a
+      text: Build a compost bin and maintain it for 90 days.
+      workbook:
+        - split:
+            - lines: 1
+              text: Date started
+            - lines: 1
+              text: Date completed
+    - requirement: b
+      text: |-
+        Build a vermipost bin (worm compost bin) and maintain it for 90
+        days.
+      workbook:
+        - split:
+            - lines: 1
+              text: Date started
+            - lines: 1
+              text: Date completed
+    - requirement: c
+      text: |-
+        Build a hydroponic garden containing three vegetables or herbs, or
+        three ornamental plants. Maintain this garden through harvest or
+        flowering, or for 90 days.
+      workbook:
+        - split:
+            - lines: 1
+              text: Date started
+            - lines: 1
+              text: Date completed
+    - requirement: d
+      text: |-
+        Build one water garden, either in a container (at least 12 by 6
+        inches and 6 inches deep), or in the ground as a small, decorative
+        pond no larger than 6 by 3 feet and 24 inches deep. Maintain the
+        water garden for 90 days.
+      workbook:
+        - split:
+            - lines: 2
+              text: Date started
+            - lines: 2
+              text: Date completed
+    - requirement: e
+      text: |-
+        Prepare a honey super for use on a hive or colony. Remove a filled
+        honey super from the hive or colony and prepare the honey for sale.
+      workbook:
+        - task: true
+- note:
+    - inPerson
+  text: The counselor will decide which project you will do as a part of the
+    class.  Obviously, none of the options can be completed the day of the class
+    but direction and follow up instructions will be provided by the counselor
+    on how to best receive sign off on this requirement (and likely the merit
+    badge) upon successful completion of the requirement component selected.
+- note:
+    - online
+  text: Scouts are recommended to select one of the requirement options and do prior
+    to the class. Scouts attending the class without this requirement ready for
+    review or having not started work on this requirement will be subject to the
+    counselor choosing the project you will work on after the class.  Be
+    Prepared.
