@@ -1,7 +1,7 @@
 ---
 title: Merit Badge Index
 layout: smb
-year: 2021
+year: 2023
 ---
 
 # List of Merit Badges
