@@ -4,6 +4,7 @@ const metadata = {
     liveReload: !!process.env.LIVE_RELOAD,
     meritBadges: require("./merit-badges.json"),
     novaAwards: require("./nova-awards.json"),
+    scoutRanks: require("./scout-ranks.json"),
     site: {
         buildDate: "replaced by metalsmith.js",
         owner: "Scoutmaster Bucky",

@@ -27,6 +27,11 @@ const downloadables = [
         fn: downloadOtherAwards
     },
     {
+        key: "scout-ranks",
+        desc: "Scout ranks",
+        fn: downloadScoutRanks
+    },
+    {
         key: "supernova-awards",
         desc: "Supernova awards for all programs",
         fn: downloadSupernovaAwards
@@ -394,6 +399,74 @@ function downloadOtherAwards(updated) {
     heading("Other Awards");
 
     return downloadList(updated, 'other-awards', otherAwards);
+}
+
+function downloadScoutRanks(updated) {
+    const url = "https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/";
+    heading("Scout Ranks");
+
+    return downloadList(updated, 'scout-ranks', [
+        {
+            key: "scout",
+            url,
+            dest: "site/scout-ranks/scout/scout-rank-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Scout Rank Requirements\")"
+        },
+        {
+            key: "tenderfoot",
+            url,
+            dest: "site/scout-ranks/tenderfoot/tenderfoot-rank-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Tenderfoot Rank Requirements\")"
+        },
+        {
+            key: "second-class",
+            url,
+            dest: "site/scout-ranks/second-class/second-class-rank-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Second Class Rank Requirements\")"
+        },
+        {
+            key: "first-class",
+            url,
+            dest: "site/scout-ranks/first-class/first-class-rank-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"First Class Rank Requirements\")"
+        },
+        {
+            key: "star",
+            url,
+            dest: "site/scout-ranks/star/star-rank-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Star Rank Requirements\")"
+        },
+        {
+            key: "life",
+            url,
+            dest: "site/scout-ranks/life/life-rank-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Life Rank Requirements\")"
+        },
+        {
+            key: "eagle",
+            url,
+            dest: "site/scout-ranks/eagle/eagle-rank-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Eagle Rank Requirements\")"
+        },
+        {
+            key: "eagle-palms",
+            url,
+            dest: "site/scout-ranks/eagle-palms/eagle-palms.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Eagle Palms\")"
+        },
+        {
+            key: "alternative-requirements",
+            url,
+            dest: "site/scout-ranks/alternative-requirements/alternative-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Ranks Alternative Requirements\")"
+        },
+        {
+            key: "eagle-alternative-requirements",
+            url,
+            dest: "site/scout-ranks/eagle-alternative-requirements/eagle-alternative-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Eagle Scout Rank Alternative Requirements\")"
+        }
+    ]);
 }
 
 function downloadSupernovaAwards(updated) {

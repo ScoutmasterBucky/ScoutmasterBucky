@@ -1,8 +1,17 @@
 ---
 title: Scout Ranks
 layout: smb
-imagemain: scout-ranks.jpg
-
+badgesInOrder:
+    - scout
+    - tenderfoot
+    - second-class
+    - first-class
+    - star
+    - life
+    - eagle
+additionalPages:
+    - eagle-palms
+    - alternate-requirements
 ---
 
 <div class="D(f) Fxd(c)--s"><div>
@@ -13,24 +22,26 @@ Following are the ranks of Scouting.  Click on the respective rank or rank insi
 
 </div><div class="Ta(c) Pt(1em)--s">
 
-![scout-ranks]({{imagemain}})
+![scout-ranks](scout-ranks.jpg)
 
 </div></div>
 
 ## List of Scout Ranks
 
 {{#badge-list}}
-{{#ancestry.children}}
-<div class="W(20%)--_sml W(25%)--l W(33%)--m W(50%)--s D(f) Fxd(c) Ai(c) P(4px)">
-    <a href="{{linkPath}}">
-        <img
-            src="{{linkPath}}{{image}}"
-            class="W(100%) H(a)"
-        />
-    </a>
-    <p class="Fz(1.2em)--_s Fz(1em)--s Ta(c)">
-        <a href="{{linkPath}}" class="Td(n)">{{title}}</a>
-    </p>
-</div>
-{{/ancestry.children}}
+{{#each scoutRanks}}
+{{#if rank}}
+{{>scout-rank rank=@key}}
+{{/if}}
+{{/each}}
+{{/badge-list}}
+
+## Additional Awards and Information
+
+{{#badge-list}}
+{{#each scoutRanks}}
+{{#unless rank}}
+{{>scout-rank rank=@key}}
+{{/unless}}
+{{/each}}
 {{/badge-list}}
