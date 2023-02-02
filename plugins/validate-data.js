@@ -59,7 +59,7 @@ module.exports = function validateData() {
                 objectCache.push(fileObject.data.requirements);
             }
         },
-        match: "merit-badges/*/index.md|merit-badges/*/workbook/index.md|nova-awards/**/index.md"
+        match: "merit-badges/*/index.md|merit-badges/*/workbook/index.md|nova-awards/**/index.md|scout-ranks/*/index.md"
     });
 };
 

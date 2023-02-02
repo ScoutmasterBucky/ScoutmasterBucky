@@ -1,0 +1,62 @@
+{
+    "scout": {
+        "name": "Scout",
+        "rank": true,
+        "image": "scout-ranks/scout/scout.jpg",
+        "bucky": "scout-ranks/scout/scoutmaster-bucky-scout.jpg"
+    },
+    "tenderfoot": {
+        "name": "Tenderfoot",
+        "rank": true,
+        "image": "scout-ranks/tenderfoot/tenderfoot.jpg",
+        "bucky": "scout-ranks/tenderfoot/scoutmaster-bucky-tenderfoot.jpg"
+    },
+    "second-class": {
+        "name": "Second Class",
+        "rank": true,
+        "image": "scout-ranks/second-class/second-class.jpg",
+        "bucky": "scout-ranks/second-class/scoutmaster-bucky-second-class.jpg"
+    },
+    "first-class": {
+        "name": "First Class",
+        "rank": true,
+        "image": "scout-ranks/first-class/first-class.jpg",
+        "bucky": "scout-ranks/first-class/scoutmaster-bucky-first-class.jpg"
+    },
+    "star": {
+        "name": "Star",
+        "rank": true,
+        "image": "scout-ranks/star/star.jpg",
+        "bucky": "scout-ranks/star/scoutmaster-bucky-star.jpg"
+    },
+    "life": {
+        "name": "Life",
+        "rank": true,
+        "image": "scout-ranks/life/life.jpg",
+        "bucky": "scout-ranks/life/scoutmaster-bucky-life.jpg"
+    },
+    "eagle": {
+        "name": "Eagle",
+        "rank": true,
+        "image": "scout-ranks/eagle/eagle.jpg",
+        "bucky": "scout-ranks/eagle/scoutmaster-bucky-eagle.jpg"
+    },
+    "eagle-palms": {
+        "name": "Eagle Palms",
+        "rank": false,
+        "image": "scout-ranks/eagle-palms/palms.jpg",
+        "bucky": "scout-ranks/eagle-palms/scoutmaster-bucky-palms.jpg"
+    },
+    "alternative-requirements": {
+        "name": "Alternative Requirements",
+        "rank": false,
+        "image": "scout-ranks/alternative-requirements/stscfc.jpg",
+        "bucky": "scout-ranks/alternative-requirements/stscfc.jpg"
+    },
+    "eagle-alternative-requirements": {
+        "name": "Eagle Alternative Requirements",
+        "rank": false,
+        "image": "scout-ranks/eagle-alternative-requirements/stscfc.jpg",
+        "bucky": "scout-ranks/eagle-alternative-requirements/stscfc.jpg"
+    }
+}

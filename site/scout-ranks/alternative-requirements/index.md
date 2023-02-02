@@ -1,17 +1,16 @@
 ---
-title: Alternate-Requirements
+title: Alternate Requirements
+summary: Alternative requirements for Scout, Tenderfoot, Second Class, and First Class
 layout: smb
-linkPath: Alternate-Requirements/
-imageSTSCFC: stscfc.jpg
+linkPath: alternate-requirements/
+image: stscfc.jpg
 ---
-
-## Alternative Requirements for Scout Rank
 
 <div class="D(f) Fxd(c)--s">
 
 <div class="Ta(c) Pt(1em)--s">
 
-![stscfc]({{imageSTSCFC}})</div>
+![stscfc]({{image}})</div>
 
 </div>
 
