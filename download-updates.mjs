@@ -371,6 +371,18 @@ function downloadList(updated, updatedPrefix, list) {
 function downloadOtherAwards(updated) {
     const otherAwards = [
         {
+            key: "50-miler",
+            url: "https://www.scouting.org/awards/awards-central/50-miler/",
+            dest: "site/other-awards/50-miler/application.pdf",
+            selector: 'a[href*=pdf]'
+        },
+        {
+            key: "boardsailing-bsa",
+            url: "https://www.scouting.org/awards/awards-central/boardsailing/",
+            dest: "site/other-awards/boardsailing-bsa/aquatics-guide.pdf",
+            selector: 'a[href*=pdf]'
+        },
+        {
             key: "cyber-chip-grades-6-to-8",
             url: "https://www.scouting.org/training/youth-protection/cyber-chip/grades-6-8/",
             dest: "site/other-awards/cyber-chip/cyber-chip-grades-6-to-8.html",
