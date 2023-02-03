@@ -1,0 +1,8 @@
+<a href="{{@root.rootPath}}other-awards/{{award}}/">
+    <img
+        src="{{@root.rootPath}}{{#with (lookup @root.otherAwards award)}}{{image}}{{/with}}"
+        class="W(100%) H(a)"
+        width="200"
+        height="200"
+    />
+</a>

@@ -12,17 +12,7 @@ Shown here are some of these additional awards and recognitions a Scout may earn
 ## List Of Awards
 
 {{#badge-list}}
-{{#ancestry.children}}
-<div class="W(20%)--_sml W(25%)--l W(33%)--m W(50%)--s D(f) Fxd(c) Ai(c) P(4px)">
-    <a href="{{linkPath}}">
-        <img
-            src="{{linkPath}}{{image}}"
-            class="W(100%) H(a)"
-        />
-    </a>
-    <p class="Fz(1.2em) Fz(1em)--s Ta(c)">
-        <a href="{{linkPath}}" class="Td(n)">{{title}}</a>
-    </p>
-</div>
-{{/ancestry.children}}
+{{#each otherAwards}}
+{{>other-award award=@key}}
+{{/each}}
 {{/badge-list}}
