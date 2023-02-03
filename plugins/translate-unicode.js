@@ -3,7 +3,7 @@ const pluginKit = require('metalsmith-plugin-kit');
 module.exports = function translateUnicode() {
     return pluginKit.middleware({
         match: '**/*.md',
-        each: function (filename, fileObject, files) {
+        each: function (filename, fileObject) {
             let contents = fileObject.contents.toString();
             contents = contents.replace(/—/g, '–'); // en-dash to em-dash
             contents = contents.replace(/ - /g, '–'); // hyphen to trimmed em-dash
