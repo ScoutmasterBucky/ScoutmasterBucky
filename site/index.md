@@ -5,7 +5,7 @@ opportunities: 15,000+
 online: 2,000+
 news:
     - February 11, 2023 in Bloomington, Minnesota will be an in person event.  Registration opens soon
-    - more online classes coming in early 2023, keep checking back
+    - More online classes coming in early 2023, keep checking back!
 css:
     - css/calendar.css
 js:
@@ -37,11 +37,10 @@ Registration opens at 12:05 am on the first of the month for the following month
 
 ## News
 
-<div class="D(f) Fxd(c)--sm">
-<div class="Maw(189px) Mx(a)--sm W(30%)--sm">
+{{#figure-container align="left" position="top"}}
 <img src="{{@root.rootPath}}images/bucky-with-newspaper.jpg" class="W(100%) H(a)" width="189" height="225" />
-</div>
-<div>
+{{^}}
+
 {{#news}}
 <div class="D(f)">
 <div class="D(f) C(red) Fw(b) Px(8px)">NEW!</div>
@@ -52,8 +51,7 @@ Registration opens at 12:05 am on the first of the month for the following month
 </div>
 </div>
 {{/news}}
-</div>
-</div>
+{{/figure-container}}
 
 ## Disclaimer
 
@@ -61,20 +59,16 @@ The Scoutmaster Bucky program is a volunteer run program managed and maintained 
 
 ## Refund Policy & Contact Information
 
-<div class="D(f) Fxd(c)--s"><div>
-
+{{#figure-container}}
+<img src="images/bucky-waving.jpg" alt="Bucky Waving" class="W(100%) H(a)"/>
+{{^}}
 Requests for refunds or cancellations will be honored up to a week prior to any event.
 
 Scoutmaster Bucky is Brian Reiners and is registered in Northern Star Scouting of the Boy Scouts of America.
 
 Contact number: 612-483-0665<br />
 Email: <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry">ScoutmasterBucky@yahoo.com</a>
-
-</div>
-<div class="Maw(15%)--_sm Maw(20%)--sm M(a)--s">
-<img src="images/bucky-waving.jpg" alt="Bucky Waving" class="W(100%) H(a)"/>
-</div>
-</div>
+{{/figure-container}}
 
 ## UPCOMING EVENTS
 

@@ -1,8 +1,8 @@
-<div class="W(20%)--_sml W(25%)--l W(33%)--m W(50%)--s D(f) Fxd(c) Ai(c) P(4px)">
-    {{>other-award-image award=award}}
+{{#scaled}}
+    {{>other-award-image}}
     <p class="Fz(1.2em)--_s Fz(1em)--s Ta(c)">
     <a href="{{@root.rootPath}}other-award/{{award}}/" class="Td(n)"
-            >{{>other-award-name award=award}}</a
+            >{{>other-award-name}}</a
         >
     </p>
-</div>
+{{/scaled}}

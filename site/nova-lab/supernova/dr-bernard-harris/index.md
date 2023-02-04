@@ -5,9 +5,9 @@ hiddenNotes:
     - Fixed spacing for 4's note
 ---
 
-<div class="D(f) Jc(spb) Fxd(rr)--_s Fxd(c)--s">
-<div class="W(175px) Ta(c) Fxs(0) Mx(a)--s"><img src="{{supernova}}-award.jpg" class="W(100%) Mx(a) H(a)"></div>
-<div>
+{{#figure-container}}
+<img src="{{supernova}}-award.jpg" class="W(100%) Mx(a) H(a)">
+{{^}}
 
 **{{>supernova-name}} Supernova Award**<br />*For Scouts BSA*
 
@@ -17,7 +17,7 @@ If you thrive on challenge, then earning the Supernova award will be right up yo
 
 The Scouts BSA Supernova awards recognize superior achievement by a Scout in the fields of science, technology, engineering, and mathematics (STEM). All experiments or projects should be conducted using the highest level of safety protocol and always under the supervision of a qualified, responsible adult. The Scout should always have a buddy when meeting with his counselor or mentor.
 
-</div></div>
+{{/figure-container}}
 
 # Requirements
 

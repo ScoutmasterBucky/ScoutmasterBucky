@@ -6,9 +6,9 @@ hiddenNotes:
     - Changed "Boy Scout or Venturer" to "Scout, Venturer, or Sea Scout"
 ---
 
-<div class="D(f) Jc(spb) Fxd(rr)--_s Fxd(c)--s">
-<div class="W(175px) Ta(c) Fxs(0) Mx(a)--s"><img src="{{supernova}}-award.jpg" class="W(100%) Mx(a) H(a)"></div>
-<div>
+{{#figure-container}}
+<img src="{{supernova}}-award.jpg" class="W(100%) Mx(a) H(a)">
+{{^}}
 
 **{{>supernova-name}} Supernova Award**<br />*For Cub Scouts – Bear and Wolf*
 
@@ -19,7 +19,7 @@ This Supernova award can be earned by Cub Scouts like you who want to soar in sc
 * The Cub Scout Supernova award recognizes superior achievement by a Cub Scout in the fields of science, technology, engineering, and mathematics (STEM).
 * All experiments or projects should be conducted using the highest level of safety protocol and always under the supervision of a qualified, responsible adult.
 
-</div></div>
+{{/figure-container}}
 
 # Requirements
 

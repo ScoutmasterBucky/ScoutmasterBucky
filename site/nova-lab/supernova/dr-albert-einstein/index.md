@@ -8,9 +8,9 @@ hiddenNotes:
     - Changed 3 from "Venturing" to "Venturing / Sea Scouts"
 ---
 
-<div class="D(f) Jc(spb) Fxd(rr)--_s Fxd(c)--s">
-<div class="W(175px) Ta(c) Fxs(0) Mx(a)--s"><img src="{{supernova}}-award.jpg" class="W(100%) Mx(a) H(a)"></div>
-<div>
+{{#figure-container}}
+<img src="{{supernova}}-award.jpg" class="W(100%) Mx(a) H(a)">
+{{^}}
 
 **{{>supernova-name}} Supernova Award**<br />*For Scouts BSA (age 14 years or older and First Class Rank), Venturers, and Sea Scouts
 
@@ -18,7 +18,7 @@ hiddenNotes:
 
 The Supernova awards recognize superior achievement in the fields of science, technology, engineering, and mathematics (STEM). All experiments or projects should be conducted using the highest level of safety protocol and always under the supervision of a qualified, responsible adult.
 
-</div></div>
+{{/figure-container}}
 
 # Requirements
 

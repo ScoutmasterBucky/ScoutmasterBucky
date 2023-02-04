@@ -17,7 +17,9 @@ These four subject areas tie into our life every day.
 
 ## Nova and Supernova Awards
 
-<div class="D(f) Fxd(c)--sm Ai(c)--sm"><div class="W(100%)">
+{{#figure-container}}
+<img src="images/nova-patch.jpg" Class="W(100%) H(a)">
+{{^}}
 
 Because of how prevalent and important these fields of research are, Boy Scouts of America has created Nova and Supernova awards. The Cub Scout, Scouts BSA, Venturer, or Sea Scout can complete some of the requirements for rank advancement or typical progression. A little extra work will be rewarded with the Nova Award patch. Subsequent Nova Awards are rewarded with a device that's pinned to the patch.
 
@@ -29,17 +31,14 @@ Earning a Nova award, at a very high level, looks like this for the different pr
 
 * **[Venturing and Sea Scouts](venturing-and-sea-scouts/):** 3 hours of study, 1 [STEM-related exploration](explorations/), additional research into a field, some actual work, and discussions with a Nova counselor. Visual aids are often produced in the form of models, charts, drawings, presentations, or reports. The additional work that is performed is sufficient to have a good sample of that field in order to gain further understanding.
 
-</div><div class="W(300px) Maw(100%) Fxs(0) P(1em)">
-<img src="images/nova-patch.jpg" Class="W(100%) H(a)">
-</div></div>
+{{/figure-container}}
 
-
-<div class="D(f) Fxd(c)--sm Ai(c)--sm Fxd(rr)--_sm Mt(1em)"><div class="W(100%)">
+{{#figure-container align="left"}}
+<img src="supernova/dr-albert-einstein/dr-albert-einstein-award.jpg" Class="W(100%) H(a)">
+{{^}}
 
 After earning some Nova awards, the next step is to work on a [Supernova Award](supernova/). The Supernova starts with [STEM explorations](explorations/) and then learning more about [activity topics](supernova/activity-topics/). When achieving a Supernova Award, the recipient is given a medal instead of a patch or a pin. The lowest award is bronze, and that's roughly the same amount of work as a Nova Award. After that, you can achieve silver and gold, depending on your program - [learn more about award progression](supernova/).
 
-These medals are rarely seen out and may be worn during formal events, such as at Blue and Gold ceremonies, Courts of Honor, and Bridges of Honor.
+These medals are rarely seen, which makes them extremely interesting. They may be worn during formal events, such as at Blue and Gold ceremonies, Courts of Honor, and Bridges of Honor.
 
-</div><div class="W(300px) Maw(100%) Fxs(0) P(1em)">
-<img src="supernova/dr-albert-einstein/dr-albert-einstein-award.jpg" Class="W(100%) H(a)">
-</div></div>
+{{/figure-container}}

@@ -26,13 +26,11 @@ Venturers complete [STEM explorations](../explorations/) instead of merit badges
 
 ### Supernova Awards
 
-<div class="D(f) Jc(spe) Fxd(c)--sm">
-
+{{#supernova-list}}
 {{>supernova supernova="dr-sally-ride"}}
 {{>supernova supernova="wright-brothers"}}
 {{>supernova supernova="dr-albert-einstein"}}
-
-</div>
+{{/supernova-list}}
 
 ## Related Explorations
 
