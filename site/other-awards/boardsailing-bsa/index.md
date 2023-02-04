@@ -8,15 +8,10 @@ data:
 
 # Boardsailing BSA
 
-<div class="D(f) Fxd(c)--s">
-<div class="Ta(c) Pt(1em)--s">
-
+{{#figure-container}}
 {{>other-award-bucky}}
-
-<p>Swimsuit / swim trunks emblem - The Boardsailing BSA patch is NOT worn on the uniform or the sash; it is worn on the left side of the swimsuit / swim trunks</p>
-
-</div>
-<div>
+<p>Swimsuit / swim trunks emblem</p>
+{{^}}
 
 Boardsailing BSA has been developed to introduce basic boardsailing skills, equipment, and safety precautions; to encourage the development of skills that promote fitness and safe aquatic recreation; and to lay a foundation for more advanced and demanding boardsailing activities.  Any youth or adult who is registered with a troop, crew, or ship and completes the requirements is eligible for a patch and recognition card. The completed award application should be handled as directed by the council Training, Aquatics, or other committee.
 
@@ -29,7 +24,9 @@ Instruction must be conducted on a protected body of water in an area free from 
 
 All requirements must be completed as stated. Basic skills and safety precautions are presented in the BSA publication: [Aquatics Supervision: A Youth Leader’s Guide for Swimming and Boating Activities, No. 34346](aquatics-guide.pdf). Additional resources may be found online at www.uswindsurfing.org and www.ussailing.org.
 
-</div></div>
+*Swimsuit / swim trunks emblem - The Boardsailing BSA patch is NOT worn on the uniform or the sash; it is worn on the left side of the swimsuit / swim trunks*
+
+{{/figure-container}}
 
 ## Boardsailing BSA Award
 <div class="D(f) Fxd(c)--s">

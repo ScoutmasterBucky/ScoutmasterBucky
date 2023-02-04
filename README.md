@@ -33,7 +33,15 @@ General-Purpose Partials and Helpers
 
 * `{{>countdown to="2020-01-31T13:59:59Z" message="Sorry, time is up"}}` - Shows a JavaScript countdown timer to a target time.
 
+* `{{#figure}}...content...{{/figure}}` - Shows a scaling figure to the right (default) or the left (add `align="left"` in the first tag). Scales just like `{{#scaled}}`.
+
+* `{{#figure-container}...figure...{{^}}...content{{/figure-container}}` - Shows a figure to the left or right. When on a phone, the figure will pop to the top or botom. Default is right side, then bottom when compressed. Change it by adding `align="left"` and `position="top"` to the first tag. Scaling happens just like `{{#scaled}}`.
+
+* `{{#scaled}}...content...{{/scaled}}` - Shows the content (typically an image of a merit badge, rank, etc) in a box that scales with the size of the window. Makes it fit 5 across on desktop and scales down to 2 across on phones.
+
 * `{{#smb-accent}}special words{{/smb-accent}}` - Wraps these words in a special color to make them stand out from other text.
+
+* `{{#supernova-list}}...{{/supernova-list}}` - Shows Supernova awards and wraps them to show three, two, or one medal on a line, depending on the browser's width.
 
 
 Index Page

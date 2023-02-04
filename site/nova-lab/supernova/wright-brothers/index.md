@@ -6,9 +6,9 @@ hiddenNotes:
     - Changed "Boy Scout" to "Scouts BSA member"
 ---
 
-<div class="D(f) Jc(spb) Fxd(rr)--_s Fxd(c)--s">
-<div class="W(175px) Ta(c) Fxs(0) Mx(a)--s"><img src="{{supernova}}-award.jpg" class="W(100%) Mx(a) H(a)"></div>
-<div>
+{{#figure-container}}
+<img src="{{supernova}}-award.jpg" class="W(100%) Mx(a) H(a)">
+{{^}}
 
 **{{>supernova-name}} Supernova Award**<br />*For Venturers and Sea Scouts*
 
@@ -18,7 +18,7 @@ You must be a Venturer or Sea Scout to earn a Venturing or Sea Scout Supernova a
 
 The Venturing and Sea Scout Supernova awards recognize superior achievement by a Venturer or Sea Scout in the fields of science, technology, engineering, and mathematics (STEM). All experiments or projects should be conducted using the highest level of safety protocol and always under the supervision of a qualified, responsible adult.
 
-</div></div>
+{{/figure-container}}
 
 # Requirements
 

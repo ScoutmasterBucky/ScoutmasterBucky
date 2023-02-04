@@ -5,9 +5,9 @@ hiddenNotes:
     - Changed "Boy Scout or Venturer" to "Scout, Venturer, or Sea Scout"
 ---
 
-<div class="D(f) Jc(spb) Fxd(rr)--_s Fxd(c)--s">
-<div class="W(175px) Ta(c) Fxs(0) Mx(a)--s"><img src="{{supernova}}-award.jpg" class="W(100%) Mx(a) H(a)"></div>
-<div>
+{{#figure-container}}
+<img src="{{supernova}}-award.jpg" class="W(100%) Mx(a) H(a)">
+{{^}}
 
 **{{>supernova-name}} Supernova Award**<br />*For Webelos and Arrow of Light Scouts*
 
@@ -21,7 +21,7 @@ All experiments or projects should be conducted using the highest level of safet
 
 Although it is not a requirement, it is recommended that you earn at least two [Nova awards for Cub Scouts](../../cub-scouts/) before earning the {{#trim}}{{>supernova-name supernova="dr-charles-h-townes" sa=true}}{{/trim}}.
 
-</div></div>
+{{/figure-container}}
 
 # Requirements
 

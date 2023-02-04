@@ -26,13 +26,11 @@ There are numerous adventures one can experience while earning the medals that a
 
 ### Supernova Awards
 
-<div class="D(f) Jc(spe) Fxd(c)--s">
-
+{{#supernova-list}}
 {{>supernova supernova="dr-bernard-harris"}}
 {{>supernova supernova="thomas-alva-edison"}}
 {{>supernova supernova="dr-albert-einstein"}}
-
-</div>
+{{/supernova-list}}
 
 ## Related Merit Badges
 

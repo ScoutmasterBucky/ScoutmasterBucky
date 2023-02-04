@@ -8,21 +8,17 @@ data:
 
 # 50-Miler
 
-<div class="D(f) Fxd(c)--s">
-<div class="Ta(c) Pt(1em)--s">
-
+{{#figure-container}}
 {{>other-award-bucky}}
-
-<p>The 50-Miler award is available as a decal or in either a cloth or leather patch. It is NOT worn on the uniform or sash, but may be attached to equipment, jackets, backpacks, patch vests, or blankets.</p>
-
-</div>
-<div>
+{{^}}
 
 The primary objective of this program is to stimulate Scouts BSA, Sea Scout, and Venturer interest in the ideals of the movement and to promote activity that will result in personal fitness, self-reliance, know-ledge of wood lore, water trek, and/or outdoor experience.
 
 Chartered unit participation is most desirable; however, provisional Scouting units are eligible. This award does not apply if any other BSA award is available for a trip.
 
-</div></div>
+*The 50-Miler award is available as a decal or in either a cloth or leather patch. It is NOT worn on the uniform or sash, but may be attached to equipment, jackets, backpacks, patch vests, or blankets.*
+
+{{/figure-container}}
 
 ## 50-Miler Award Requirements
 

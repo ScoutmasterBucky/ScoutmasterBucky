@@ -8,15 +8,10 @@ data:
 
 # Eagle Scout Palms
 
-<div class="D(f) Fxd(c)--s">
-<div class="Ta(c) Pt(1em)--s">
-
+{{#figure-container}}
 {{>scout-rank-bucky}}
-<br/>
-Palms are **NOT** considered ranks but rather an award
-
-</div>
-<div>
+<p>Palms are <b>NOT</b> considered ranks but rather an award</p>
+{{^}}
 
 A Venturer or Sea Scout attaining the rank of Eagle may earn Eagle Palms. For Venturers working on Scouts BSA requirements, replace “Scoutmaster” with “crew Advisor.” For Sea Scouts working on Scouts BSA requirements, replace “Scoutmaster” with “Skipper.”
 
@@ -26,7 +21,7 @@ After successfully completing your Eagle Scout board of review on or after Aug. 
 
 After becoming an Eagle Scout and receiving the Eagle Palms you are entitled to, you may earn additional Palms by completing the following requirements:
 
-</div></div>
+{{/figure-container}}
 
 ## Eagle Scout Palms Requirements
 
