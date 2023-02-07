@@ -1,6 +1,8 @@
 ---
 title: Energy Technology
 layout: nova
+data:
+    requirementsPart2: requirements-part-2.yaml
 ---
 
 {{> nova-activity-topic }}
@@ -15,12 +17,7 @@ Arrange and go on a field trip to a site where you can learn about innovative an
 
 ### Part 2: Analysis and Report
 
-{{#requirements}}
-1. Create a report that describes your field trip and what you learned.
-2. For the energy production and/or use that you chose, find out about the current state of technology, its course in historical that led to today’s technology, and future directions for this technology. Discuss the following with your mentor.
-    A. The effect on the environment, our natural resources, and our economy of our current methods
-    B. Whether current methods are sustainable over the long term
-{{/requirements}}
+{{>show-requirements requirements=data.requirementsPart2}}
 
 ### Resources
 

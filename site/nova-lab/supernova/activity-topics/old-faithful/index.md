@@ -1,6 +1,9 @@
 ---
 title: "Linking the Past to the Future: Predicting Old Faithful’s Next Eruption"
 layout: nova
+data:
+    requirementsPart1: requirements-part-1.yaml
+    requirementsPart2: requirements-part-2.yaml
 ---
 
 {{> nova-activity-topic }}
@@ -13,22 +16,11 @@ This activity can be done individually, but works much better with three to six 
 
 ### Part 1: Data Gathering and Initial Analysis
 
-{{#requirements}}
-1. Gather information about geysers in general and their behavior.
-    A. Find data on intervals (length of time) between eruptions for Old Faithful. Be aware that Old Faithful’s eruption behavior has changed over the years. Use the most current data you can find. For your analysis and to test your prediction strategy, you will need information on all of the intervals for three consecutive 24-hour periods, plus intervals for the fourth consecutive 24-hour period. Each additional youth must use intervals for different days.
-    B. Create two graphical displays of the data from three days of eruptions, analyze the patterns, and formulate your initial prediction strategy.
-{{/requirements}}
+{{>show-requirements requirements=data.requirementsPart1}}
 
 ### Part 2: Further Analysis, Refinement of Prediction Strategy, and Report
 
-{{#requirements}}
-1. Do the following:
-    A. Using the data you have collected for part 1, determine how much variability you see from day to day. How much variability is there within a single 24-hour period? Is knowledge of one interval sufficient to predict the next eruption? Why or why not?
-    B. Determine what patterns in the data are illuminated (or perhaps obscured) in the different graphical displays. Of the graphs you used, which one best illustrated the wait time pattern for Old Faithful? Would you refine your prediction strategy? If so, why and how? If not, why not?
-    C. Use your prediction strategy to estimate all of the eruptions for the fourth 24-hour period, and compare your estimates to the actual eruption times. Calculate the differences between your estimates and the actual times. What is the maximum difference? Why are there patterns in the Old Faithful data? Is there a geological explanation?
-    D. Create a report that describes and addresses your prediction strategy, includes your graphical displays, and explains how your graphical displays support your strategy.
-    E. Discuss the data you have collected, your report, and what you have learned with your mentor.
-{{/requirements}}
+{{>show-requirements requirements=data.requirementsPart2}}
 
 ### Resources
 
