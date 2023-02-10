@@ -1,0 +1,266 @@
+- requirement: 1
+  markdown: true
+  text: |-
+      Choose A *or* B *or* C and complete ALL of the requirements.
+  children:
+      - requirement: A
+        text: |-
+            Watch not less than three hours total of shows or documentaries
+            that discuss fluid dynamics, or a show related to fluid dynamics.
+            Then do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least five questions or ideas from the
+                  show(s) you watched.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions with or ideas with your
+                  counselor.
+            - detail: true
+              text: |-
+                  Some examples of shows to watch include—but are not limited
+                  to; documentaries produced by PBS (such as “NOVA”), the
+                  Discovery Channel, Science Channel, National Geographic
+                  Channel, and the History Channel; or lectures or
+                  presentations focused on science, technology, engineering, or
+                  math (such as TED Talks www.ted.com) using some search terms
+                  you might think such as “fluid dynamics for kids” or “the
+                  science of flight.” You may watch online productions with
+                  your counselor’s approval and under your parent’s or
+                  guardian’s supervision. You may choose to watch a live
+                  performance, demonstration or movie at a museum or other
+                  venue where fluid dynamics is being highlighted instead of
+                  watching a media production.
+      - requirement: B
+        text: |-
+            Read not less than three hours total about a topic related to fluid
+            dynamics. Then do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least two questions or ideas from the
+                  article(s) you read.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions with or ideas with your counselor.
+            - detail: true
+              text: |-
+                  Examples of magazines include—but are not limited to—Odyssey,
+                  Popular Mechanics, Popular Science, Science Illustrated,
+                  Discover, Air & Space, Aviation Week, Science News, and
+                  Scientific American.
+      - requirement: C
+        text: |-
+            Do a combination of reading and watching (not less than three hours
+            total). Then do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least two questions or ideas from each
+                  article or show.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions with or ideas with your
+                  counselor.
+- requirement: 2
+  markdown: true
+  text: |-
+      Complete ONE merit badge from the following list. (Choose one that you
+      have not already used toward another Nova award). After completion,
+      discuss with your counselor how it relates to fluid dynamics.
+
+      * <a href="archery">Archery</a>
+      * <a href="aviation">Aviation</a>
+      * <a href="canoeing">Canoeing</a>
+      * <a href="chemistry">Chemistry</a>
+      * <a href="kayaking">Kayaking</a>
+      * <a href="oceanography">Oceanography</a>
+      * <a href="plumbing">Plumbing</a>
+      * <a href="rifle-shooting">Rifle Shooting</a>
+      * <a href="rowing">Rowing</a>
+      * <a href="scuba-diving">Scuba Diving</a>
+      * <a href="shotgun-shooting">Shotgun Shooting</a>
+      * <a href="space-exploration">Space Exploration</a>
+      * <a href="swimming">Swimming</a>
+- requirement: 3
+  markdown: true
+  text: |-
+      Complete two activities from A *or* B *or* C *or* D. Complete all of the
+      items under each activity.
+  children:
+      - requirement: A
+        text: |-
+            Investigate terminal velocity.
+        children:
+            - requirement: 1
+              text: |-
+                  With your counselor, fill an empty tennis ball tube, or other
+                  clear plastic tube at least 12" tall, with clear corn syrup
+                  or another liquid.
+            - requirement: 2
+              text: |-
+                  Drop two round objects with the same diameter but different
+                  masses, that will sink, into the liquid (example: a steel
+                  ball and a glass marble).
+            - requirement: 3
+              text: |-
+                  Define terminal velocity. Note when the two balls reach
+                  terminal velocity (it should happen quickly). Did both
+                  objects have the same terminal velocity? Try the experiment
+                  again to see if it's repeatable.
+            - requirement: 4
+              text: |-
+                  Discuss your investigation and findings with your counselor.
+      - requirement: B
+        text: |-
+            Test Fluid Dynamics in liquids and gases.
+        children:
+            - requirement: 1
+              text: |-
+                  The study of fluid dynamics can include both liquids and
+                  gases. On Earth, two of the most common are air and water.
+                  With your parents’ permission or working with your counselor,
+                  look at how a golf ball or other sphere would travel through
+                  the air and through water. What would be the standard
+                  equations for a sphere to travel through air? Through water?
+                  What is the key difference between the two?  Remember both
+                  are fluids.
+            - requirement: 2
+              text: |-
+                  After looking at the math behind the motion of a sphere
+                  through a fluid perform an experiment to support what you
+                  have learned.
+            - requirement: 3
+              text: |-
+                  Drop a sphere from a height of between one and two feet in
+                  both air and in water.  Your height will likely be dependent
+                  on what you have to hold water since you want the height to
+                  be the same for dropping your sphere or ball in water and in
+                  air.
+            - requirement: 4
+              text: |-
+                  Perform your test several times in each fluid.
+            - requirement: 5
+              text: |-
+                  About how long did it take for your object to hit the ground
+                  in air? In water? What did you notice as you dropped the
+                  object in each fluid?
+            - requirement: 6
+              text: |-
+                  Show and discuss with your counselor your findings regarding
+                  the difference in the equations used for the motion of the
+                  sphere and the results of your experiment.
+      - requirement: C
+        text: |-
+            Develop a parachute delivery system.
+        children:
+            - requirement: 1
+              text: |-
+                  Use lightweight recycled materials or snap-together building
+                  blocks to construct a crate or harness to contain your
+                  payload, an egg or other object approved by your mentor.
+                  Using an egg would test the survivability of the system given
+                  the nature of an egg. To reduce mess and complexity you may
+                  want to use a hard boiled egg which will show damage but not
+                  be as fragile.
+            - requirement: 2
+              text: |-
+                  Use common household materials, such as trash bags, plastic
+                  tablecloth, string, paperclips, rubber bands, etc. to design
+                  a parachute that will safely deliver your payload safety to
+                  the ground from an appropriate height. The Guide for Safe
+                  Scouting should be followed regarding ‘dropping’ of your
+                  payload.
+            - requirement: 3
+              text: |-
+                  Design your parachute first on paper, then create a prototype
+                  and test it. You may want to fist use a ‘dummy’ payload to
+                  simulate your package since the package is easy damaged. It
+                  is advisable to test your system outdoors due possible
+                  failure in your designs.
+            - requirement: 4
+              text: |-
+                  Record how long it took to land and the condition of the
+                  payload.
+            - requirement: 5
+              text: |-
+                  What could you do to slow the descent even further? Modify
+                  your design and test it out again. Record the results then
+                  modify and test again.
+            - requirement: 6
+              text: |-
+                  Conduct a final test (at least three tests total) and record
+                  your best (slowest) time.
+            - requirement: 7
+              text: |-
+                  Show your system, parachute and harness, to your counselor
+                  and explain how you designed and modified it. Talk about how
+                  the system worked and how both the parachute and the harness
+                  contributed to a successful delivery of your package.  What
+                  were some of the key factors that contributed to the success
+                  or failure of your design. Could what you designed be scaled
+                  up for large payloads both in size and weight?
+      - requirement: D
+        text: |-
+            Test out different airfoils.
+        children:
+            - requirement: 1
+              text: |-
+                  Construct simple airfoil shapes using sheets of plain paper
+                  secured with tape.
+            - requirement: 2
+              text: |-
+                  Make a “testing apparatus” that allows the airfoil to move
+                  freely in the vertical direction using drinking straws and
+                  skewers.
+            - requirement: 3
+              text: |-
+                  Using a fan or hair dryer, direct a flow of fast-moving air
+                  across the airfoil and observe how high it lifts off from the
+                  testing apparatus. Use a ruler marked with centimeters to
+                  measure results. Repeat changing the test parameters, e.g.,
+                  how fast the air flows, the direction of the air flow, etc.
+            - requirement: 4
+              text: |-
+                  Research the Bernoulli Effect and discuss how this phenomenon
+                  applies to your observations of the airfoils.
+            - requirement: 5
+              text: |-
+                  Discuss the results with your counselor.
+- requirement: 4
+  text: |-
+      Complete one of the following A or B or C.
+  children:
+      - requirement: A
+        text: |-
+            Visit a research facility, other facility where fluid dynamics is
+            studied or takes place such as iFLY. This could include but is not
+            limited to facilities such as a waste treatment plant, bottling
+            plant, airport, or a government or private research center. During
+            your visit, talk to a staff member about flight or fluid dynamics
+            concepts covered at the site. Discuss what you learned with your
+            counselor.
+      - requirement: B
+        text: |-
+            Visit a museum that highlights flight, aviation, or space. During
+            your visit, talk to a docent or staff member about flight and fluid
+            dynamics concepts covered at the site. Discuss what you learned
+            with your counselor.
+      - requirement: C
+        markdown: true
+        text: |-
+            Take a real or online tour of a wind tunnel facility. A real tour
+            may be obtained by contacting a local university that offers a degree
+            in aerospace engineering or similar field. Virtual tours could include,
+            but are not limited to, NASA wind tunnel facility tours:
+            https://www.youtube.com/watch?v=bpRc9I8LMXo and
+            https://www.nasa.gov/image-feature/hypersonic-tunnel-facility/
+            Discuss with your counselor the science and engineering concepts
+            associated with the facility, e.g., what are the parts of a wind
+            tunnel, what a wind tunnel is used for, what are the advantages of
+            testing with a wind tunnel, how precise are they, etc.
+- requirement: 5
+  text: |-
+      Discuss with your counselor how fluid dynamics is present in your
+      everyday life and what you learned by working on this Nova.
