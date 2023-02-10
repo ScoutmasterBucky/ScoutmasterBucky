@@ -36,7 +36,8 @@ module.exports = function (components) {
                         },
                         [
                             this.viewCheckbox(data, "online"),
-                            this.viewCheckbox(data, "inPerson")
+                            this.viewCheckbox(data, "inPerson"),
+                            this.viewCheckbox(data, "counselor")
                         ]
                     )
                 ]
