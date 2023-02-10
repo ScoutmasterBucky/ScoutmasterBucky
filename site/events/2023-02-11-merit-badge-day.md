@@ -30,13 +30,6 @@ onSaleDate: 2023-01-02 0:05
 {{>eventbrite badge="crime-prevention" event="524625678527" start=amStart end=amEnd}}
 {{>eventbrite badge="safety" event="524631054607" start=amStart end=amEnd}}
 
-### Mid-Day Class
-
-{{#badge-list}}
-{{>badge badge="snow-sports"}}
-{{/badge-list}}
-{{>eventbrite badge="snow-sports" event="523966998397" start=MidDayStart end=MidDayEnd}}
-
 
 ### Afternoon Classes
 
