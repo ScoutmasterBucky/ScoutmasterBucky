@@ -100,43 +100,37 @@
 
             **Build It:** Look at the symmetry of what you made. Did you
             plan for this?
-      - requirement: A
+      - detail: true
         markdown: true
         text: |-
             **Option A:** Complete all of the following:
-        children:
-            - requirement: a
-              text: |-
-                  Explain the difference between the symmetry of the flower of
-                  a geranium and the symmetry of the flower of herbaceous
-                  periwinkle.
-            - requirement: b
-              text: |-
-                  Explain the difference in leaf arrangement (the pattern of
-                  where leaves appear on the stem) between a maple tree and a
-                  sweetgum tree.
-            - requirement: c
-              text: |-
-                  Find another pair of plants that you can distinguish based on
-                  some difference in symmetry.
-      - requirement: B
+      - requirement: a
+        text: |-
+          Explain the difference between the symmetry of the flower of a
+          geranium and the symmetry of the flower of herbaceous periwinkle.
+      - requirement: b
+        text: |-
+          Explain the difference in leaf arrangement (the pattern of where
+          leaves appear on the stem) between a maple tree and a sweetgum tree.
+      - requirement: c
+        text: |-
+          Find another pair of plants that you can distinguish based on some
+          difference in symmetry.
+      - detail: true
         markdown: true
         text: |-
             **Option B:** Complete all of the following:
-        children:
-            - requirement: a
-              text: |-
-                  Using toothpicks and colored marshmallows, or other
-                  appropriate materials, make a model of the crystal structure
-                  of olivine.
-            - requirement: b
-              text: |-
-                  Using toothpicks and colored marshmallows, or other
-                  appropriate materials, make a model of the crystal structure
-                  of halite.
-            - requirement: c
-              text: |-
-                  Use your models to guess which of the two minerals is harder.
+      - requirement: a
+        text: |-
+          a. Using toothpicks and colored marshmallows, or other appropriate
+          materials, make a model of the crystal structure of olivine.
+      - requirement: b
+        text: |-
+          Using toothpicks and colored marshmallows, or other appropriate
+          materials, make a model of the crystal structure of halite.
+      - requirement: c
+        text: |-
+          Use your models to guess which of the two minerals is harder.
 - requirement: 3
   text: |-
       Choose TWO options from A or B or C or D or E , and complete ALL the
