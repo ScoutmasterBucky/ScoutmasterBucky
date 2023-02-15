@@ -1,11 +1,6 @@
 ---
 supernova: dr-albert-einstein
 layout: nova-req
-hiddenNotes:
-    - Changed 1 from "Boy Scout" to "Scouts BSA member"
-    - Changed 1 and 2 from "Venturuer" to "Venturer or Sea Scout"
-    - Changed 3 from "Boy Scouts" to "Scouts BSA"
-    - Changed 3 from "Venturing" to "Venturing / Sea Scouts"
 data:
     requirements: requirements.yaml
 ---

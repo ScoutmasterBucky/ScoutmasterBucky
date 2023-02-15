@@ -4,8 +4,6 @@ program: cub-scouts
 layout: nova-req
 lastUpdate: '2022-05-24'
 hasNotes: true
-hidden:
-    - Requirement 2BBb stopped with "Show and explain"
 ---
 
 This module is designed to help you explore how earth science affects your life each day.
@@ -35,6 +33,7 @@ This module is designed to help you explore how earth science affects your life 
         (d) With your family or den, make a mineral test kit, and test minerals according to the Mohs scale of mineral hardness. Record the results.
     **Option B:** Complete one of the following:
         (a) Make a fossil cast.
+        # Official text stops with "Show and explain", but I was able to find the rest of the original requirement on the internet.
         (b) Make a dinosaur dig. Be a paleontologist and dig through a dinosaur dig made by another member of your den. Show and explain the ways a paleontologist works carefully during a dig.
         {{#note type="counselor"}}The official requirement stops after "Show and explain", but the extra wording was found in another requirement.{{/note}}
 3. Investigate: Choose A or B or C or D and complete ALL the requirements:

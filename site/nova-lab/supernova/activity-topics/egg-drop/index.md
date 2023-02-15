@@ -1,8 +1,6 @@
 ---
 title: "Design and Redesign: Egg Drop Contest"
 layout: nova
-hiddenNotes:
-    - Removed resources whose links are dead
 data:
     requirementsPart1: requirements-part-1.yaml
     requirementsPart2: requirements-part-2.yaml

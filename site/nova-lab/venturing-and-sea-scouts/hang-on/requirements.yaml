@@ -1,3 +1,5 @@
+# Counselor notes are messed up in the original.
+
 - requirement: 1
   text: |-
       Choose A or B or C and complete ALL the requirements.
@@ -61,6 +63,7 @@
             - requirement: 2
               text: |-
                   Discuss two of the questions or ideas with your counselor.
+# It appears that this is listing merit badges instead of STEM explorations.
 - requirement: 2
   markdown: true
   text: |-
@@ -100,6 +103,8 @@
                   https://www.livescience.com/49106-simple-machines.html
 
                   https://www.teachengineering.org/populartopics/simplemachines
+            # Kept older images because the newer ones don't have the text
+            # labels.
             - note:
                 - counselor
               text: |-
@@ -151,12 +156,16 @@
         text: |-
             Discuss the following with your counselor:
         children:
+            # This said "merit badge" and changed it to "STEM exploration"
+            # because this is for venturers.
             - requirement: 1
               text: |-
                   The simple machines that were involved with the motion in
                   your chosen STEM exploration (Hint: Look at the moving parts
                   of an engine to find simple machines.)
               children:
+                  # Kept older images because the newer ones don't have the
+                  # text labels.
                   - note:
                       - counselor
                     markdown: true

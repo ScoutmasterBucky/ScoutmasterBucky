@@ -90,6 +90,9 @@
                   easier, as will doing many repetitions using variable heights
                   from which the projectile can be launched.)
               children:
+                  # only had broken links in the counselor's notes and broken
+                  # links for the normal page, but the link text worked.
+                  # Updated links.
                   - detail: true
                     markdown: true
                     text: |-
@@ -128,6 +131,7 @@
                   - requirement: b
                     text: |-
                         What projectile motion is
+                  # Removed broken links
                   - requirement: c
                     text: |-
                         The factors affecting the path of a projectile
@@ -223,6 +227,7 @@
             guardian’s permission, you may explore websites to find this
             information.)
         children:
+            # Removed broken links
             - requirement: 1
               text: |-
                   Why are satellites usually launched toward the east, and what
@@ -310,6 +315,7 @@
                         extended to catch the wind.” Source: “Speed of a
                         Skydiver (Terminal Velocity),” The Physics Factbook,
                         website http://hypertextbook.com/facts/JianHuang.shtml.
+            # Removed broken links
             - requirement: 3
               text: |-
                   How fast does a bullet, baseball, airplane, or rocket have to
@@ -367,6 +373,7 @@
                   viewing, the weather conditions, how long the satellite was
                   visible, and the path of the satellite. Then discuss your
                   viewing with your counselor.
+# This miscounted the requirements. I renumbered them.
 - requirement: 5
   text: |-
       Choose A or B or C and complete ALL the requirements.

@@ -4,8 +4,6 @@ program: scouts-bsa
 layout: nova-req
 lastUpdate: '2022-05-26'
 hasNotes: true
-hiddenNotes:
-    - Fixed typo in 5
 data:
     requirements: requirements.yaml
 ---

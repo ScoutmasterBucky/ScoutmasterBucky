@@ -4,9 +4,6 @@ program: venturing-and-sea-scouts
 layout: nova-req
 lastUpdate: May 25, 2022
 hasNotes: true
-hiddenNotes:
-    - Moved comments to 3A
-    - Fixed "Netflilx" to "Netflix" for 1A2
 data:
     requirements: requirements.yaml
 ---

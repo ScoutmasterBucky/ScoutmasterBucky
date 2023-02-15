@@ -1,8 +1,6 @@
 ---
 supernova: dr-bernard-harris
 layout: nova-req
-hiddenNotes:
-    - Fixed spacing for 4's note
 data:
     requirements: requirements.yaml
 ---

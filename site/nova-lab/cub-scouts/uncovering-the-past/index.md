@@ -5,7 +5,6 @@ layout: nova-req
 lastUpdate: January 2022
 hasNotes: true
 hiddenNotes:
-    - Useful link for requirement 2 uses "bring-science-homemummification" and was updated in January to omit the necessary hyphen. Link updated in our version.
 ---
 
 This module is designed to help you explore the wonders of archaeology.
@@ -25,6 +24,7 @@ This module is designed to help you explore the wonders of archaeology.
         1. Make a list of at least two questions or ideas from what you have read and watched.
         2. Discuss two of the questions or ideas with your counselor.
 2. Complete ONE adventure from the following list for your current rank (Webelos or AOL) or complete option A or option B. (If you choose an adventure, choose one you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
+    # Useful link uses "bring-science-homemummification" and was updated in January to omit the necessary hyphen. Link remains correct (old version) in our version.
     * **Webelos Scouts:** Project Family
     <img src="stone-art.jpg" class="W(100%) H(a)" />
     **Option A:** Some of the objects archaeologists find have been preserved in various ways.  Experiment with preserving a hot dog with baking soda. Measure each dimension, then completely surround and cover the hot dog in baking soda. Let sit in a safe place for seven days, and measure again. Then cover the hot dog again, let it sit another seven days, and measure it a third time. Make note of any changes in size, shape, color, and other properties. Compare it to a hot dog that has not been preserved. Discuss your experiment with your counselor.
