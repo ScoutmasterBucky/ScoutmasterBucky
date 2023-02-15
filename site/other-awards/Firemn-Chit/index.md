@@ -30,9 +30,9 @@ The Firem’n Chit is a contract for Scouts who have demonstrated the proper pro
 
 <div class="D(f) Fxd(c)--s">
 <div>
-<p>Scouts should carry their Firem'n Chit card to all Scout events or activities where they might be working with fire. This certification grants a Scout the right to carry fire-lighting devices (matches, lighters, etc.) and to build campfires or cooking fires. Scouts may not manage a campfire, cooking fire, or light a lantern without being in posession of their Firem'n Chit card.</p>
+<p>Scouts should carry their Firem'n Chit card to all Scout events or activities where they might be working with fire. This certification grants a Scout the right to carry fire-lighting devices (matches, lighters, etc.) and to build campfires or cooking fires. Scouts may not manage a campfire, cooking fire, or light a lantern without being in possession of their Firem'n Chit card.</p>
 
-<p>The Scout’s “Firem’n Rights” can be taken if they fail in their responsibility. Typically, corners are cut from the Firem’n Chit card for each infraction. If four corners are cut away or a Scout conducts a serious infraction with fire, the card is taken away. Scouts will have to re-earn thier Firem'n Chit by re-taking Firem'n Chit training from a senior scout or adult leader.</p>
+<p>The Scout’s “Firem’n Rights” can be taken if they fail in their responsibility. Typically, corners are cut from the Firem’n Chit card for each infraction. If four corners are cut away or a Scout conducts a serious infraction with fire, the card is taken away. Scouts will have to re-earn their Firem'n Chit by re-taking Firem'n Chit training from a senior scout or adult leader.</p>
 </div>
 <div class="Ta(c) Pt(1em)--s">
 
@@ -42,7 +42,7 @@ The Firem’n Chit is a contract for Scouts who have demonstrated the proper pro
 
 ## Firem'n Chit Requirements
 
-To earn the Friem'n Chit certification, a Scout must show their Scout leader, or someone designated by their leader, an understanding of the responsibility to do the following:
+To earn the Firem'n Chit certification, a Scout must show their Scout leader, or someone designated by their leader, an understanding of the responsibility to do the following:
 
 {{#requirements}}
 1. I have read and understand use and safety rules from the Scouts BSA Handbook.

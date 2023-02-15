@@ -99,7 +99,7 @@ There are five ways to obtain a course completion card:
 <p></p>
 <p>The BSA Lifeguard award is available to all Scouts BSA members and Venturers age 15 and older, and adult volunteers who have successfully completed the BSA Lifeguard course and demonstrated the ability to perform each of the skills taught in the course.</p>
 
-<p>Upon successful completion, participants earn the BSA Lifeguard patch along with their BSA Lifegaurd certification card. BSA Lifeguard training and certification is valid for two years.</p>
+<p>Upon successful completion, participants earn the BSA Lifeguard patch along with their BSA Lifeguard certification card. BSA Lifeguard training and certification is valid for two years.</p>
 </div>
 <div class="Ta(c) Pt(1em)--s">
 

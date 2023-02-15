@@ -18,7 +18,7 @@ imageCC: whitewater-rafting-bsa-card-front.jpg
 
 <div>
 
-The Whitewater Rafting BSA Award provides an introduction to whitewater rafting skills and safety procedures and serves as a program opportunity for Scouts BSA, Venturing, and Sea Scioutng units in camp or out. The Whitewater Rafting BSA Award recognizes the challenge and adventure of participation in a rafting trip conducted by outfitters or councils. Mastery of Whitewater Rafting BSA skills is a first critical step towards satisfying *Safety Afloat* guidelines for safe whitewater rafting excursions.
+The Whitewater Rafting BSA Award provides an introduction to whitewater rafting skills and safety procedures and serves as a program opportunity for Scouts BSA, Venturing, and Sea Scouting units in camp or out. The Whitewater Rafting BSA Award recognizes the challenge and adventure of participation in a rafting trip conducted by outfitters or councils. Mastery of Whitewater Rafting BSAlskills is a first critical step towards satisfying *Safety Afloat* guidelines for safe whitewater rafting excursions.
 
 Even though the outfitter is primarily responsible for the safe conduct of a whitewater excursion, unit leaders are still required to have BSA Safety Afloat training. Guides may not be familiar with some aspects of Safety Afloat such as medical reviews, the buddy system, or swimming ability. In particular, unit leaders should pre-screen applicants for the BSA Whitewater Rafting award to meet the prerequisite requirement for BSA swimmer classification.
 
@@ -29,7 +29,7 @@ Even though the outfitter is primarily responsible for the safe conduct of a whi
 <div>
 <p>Any adult leader, approved by the council, who is trained in *Safety Afloat* and can personally verify that all instruction and skill completions were directly supervised by a professionally trained or licensed rafting guide or outfitter, may serve as a counselor for this award. Such guides may be employed by council high adventure programs or commercial outfitters.</p>
 
-<p>Upon successful completion, participants earn the Whitewater Rafting BSA Patch along with their achievment card.  Completion indiciates the individual has experieneced a valuable introduction to whitewater paddling under the supervision of a qualified rafting guide.  Individuals should consider continuing the development of their river paddling skills with  experienced paddle carft instructors. and should always reepect the power of moving warter, remembering to always wear their life jacket and helmet.</p>
+<p>Upon successful completion, participants earn the Whitewater Rafting BSA Patch along with their achievement card. Completion indicates the individual has experienced a valuable introduction to whitewater paddling under the supervision of a qualified rafting guide.  Individuals should consider continuing the development of their river paddling skills with experienced paddle craft instructors and should always respect the power of moving water, remembering to always wear their life jacket and helmet.</p>
 </div>
 <div class="Ta(c) Pt(1em)--s">
 

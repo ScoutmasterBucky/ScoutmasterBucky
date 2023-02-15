@@ -30,7 +30,7 @@ Float trips that last overnight also require camping skills. Because Scouting em
 ## BSA Aquatics Supervision: Paddle Craft Safety
 The program contains four options, within two modules. Basic Canoeing and Basic Kayaking options cover flat water skills covered in the **Aquatics Supervision: Paddle Craft Safety - Basic** module. River Canoeing and River Kayaking options build on the basic programs to include moving water with in the **Aquatics Supervision: Paddle Craft Safety - River** module.
 
-![basic canoeing segment]({{imageBC}})![basic kayaking segement]({{imageBK}})![river canoeing segment]({{imageRC}})![river kayaking segement]({{imageRK}})
+![basic canoeing segment]({{imageBC}})![basic kayaking segment]({{imageBK}})![river canoeing segment]({{imageRC}})![river kayaking segment]({{imageRK}})
 
 <p></p>
 
@@ -86,7 +86,7 @@ The program contains four options, within two modules. Basic Canoeing and Basic 
 **Aquatics Supervision: Paddle Craft Safety — River** builds on the Basic program to include moving water skills, as well as knowledge, needed for a unit leader to confidently supervise canoeing or kayaking excursions on moving water. Persons completing the training should be even better able to access their preparation to supervise paddle craft activities in all water conditions.
 
 {{#requirements}}
-1. Prerequisities:
+1. Prerequisites:
      a. Submit written evidence of physical fitness.
      b. Have current *Safety Afloat* training.
      c. Have current training in *Aquatics Supervision: Paddle Craft Safety - Basic* for the appropriate craft.
@@ -119,13 +119,13 @@ The program contains four options, within two modules. Basic Canoeing and Basic 
 
 You can request a complimentary copy of the ACA/BSA video *Reading the Rhythms of Rivers and Rapids*, by going to the [American Canoe Association website](http://www.americancanoe.org/page/BSADVD).
 
-[Canoe Training Video - Enlgish](https://youtu.be/fGiWzRrM-us)
+[Canoe Training Video - English](https://youtu.be/fGiWzRrM-us)
 [Canoe Training Video - Spanish](https://www.youtube.com/watch?v=POdZR7-WwT4)
 
 [Kayak Training Video - English](https://youtu.be/T2jIRRBXhB0)
 [Kayak Training Video - Spanish](https://www.youtube.com/watch?v=_pSgUdVYyzE)
 
-[Paddle Craft Safety Corse PowerPoint](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/ppt/430-502.ppt)
+[Paddle Craft Safety Course PowerPoint](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/ppt/430-502.ppt)
 
 [Paddle Craft Safety Course Exam](http://www.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/430-503.pdf)
 
