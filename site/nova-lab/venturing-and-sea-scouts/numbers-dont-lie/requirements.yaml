@@ -114,6 +114,7 @@
         text: |-
             Calculate your horsepower when you run up a flight of stairs.
         children:
+            # Updated link
             - detail: true
               markdown: true
               text: |-
@@ -297,6 +298,7 @@
       - requirement: 5
         text: |-
             Discuss with your counselor how math affects your everyday life.
+# Fixed bullet points
 - note:
     - counselor
   markdown: true

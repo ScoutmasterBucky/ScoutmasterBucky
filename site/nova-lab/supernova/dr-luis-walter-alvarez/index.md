@@ -3,7 +3,6 @@ supernova: dr-luis-walter-alvarez
 layout: nova-req
 hiddenNotes:
     - Changed "counselor" to "mentor" to match terms with current BSA training
-    - Changed "Boy Scout or Venturer" to "Scout, Venturer, or Sea Scout"
 data:
     requirements: requirements.yaml
 ---

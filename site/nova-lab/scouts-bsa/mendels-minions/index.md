@@ -4,8 +4,6 @@ program: scouts-bsa
 layout: nova-req
 lastUpdate: '2022-05-26'
 hasNotes: true
-hiddenNotes:
-    - Updated link for 3C
 data:
     requirements: requirements.yaml
 ---

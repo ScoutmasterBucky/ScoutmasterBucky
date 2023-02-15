@@ -1,9 +1,6 @@
 ---
 supernova: wright-brothers
 layout: nova-req
-hiddenNotes:
-    - Changed "Venturer" to "Venturer / Sea Scout" or "Venturer or Sea Scout" in most requirements
-    - Changed "Boy Scout" to "Scouts BSA member"
 data:
     requirements: requirements.yaml
 ---

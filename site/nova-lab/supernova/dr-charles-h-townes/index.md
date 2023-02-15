@@ -1,8 +1,6 @@
 ---
 supernova: dr-charles-h-townes
 layout: nova-req
-hiddenNotes:
-    - Changed "Boy Scout or Venturer" to "Scout, Venturer, or Sea Scout"
 data:
     requirements: requirements.yaml
 ---
