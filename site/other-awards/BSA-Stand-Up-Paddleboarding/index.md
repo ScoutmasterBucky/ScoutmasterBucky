@@ -38,7 +38,7 @@ including the instructor. The instructor’s buddy may serve as an assistant on 
 instruction is close enough to shore for easy verbal communication. The instructor’s buddy must know enough to
 realize when the instructor is having difficultly rather than demonstrating a fall.</p>
 
-<p>Upon successful completion, participants earn the BSA Stand Up Paddleboarding patch along with their achievment card.  Completion indiciates the individual has experieneced a valuable introduction to stand up paddleboarding.</p>
+<p>Upon successful completion, participants earn the BSA Stand Up Paddleboarding patch along with their achievement card.  Completion indicates the individual has experienced a valuable introduction to stand up paddleboarding.</p>
 </div>
 <div class="Ta(c) Pt(1em)--s">
 
