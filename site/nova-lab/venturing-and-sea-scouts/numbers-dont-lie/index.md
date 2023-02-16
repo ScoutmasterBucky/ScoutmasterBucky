@@ -9,5 +9,3 @@ data:
 ---
 
 This module is designed to help the Venturer explore how math affects his or her life each day.
-
-{{>show-requirements requirements=data.requirements}}

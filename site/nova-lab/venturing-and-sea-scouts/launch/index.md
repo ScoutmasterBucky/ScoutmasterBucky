@@ -9,5 +9,3 @@ data:
 ---
 
 This module is designed for Venturing and Sea Scouts to explore how science affects your life each day.
-
-{{>show-requirements requirements=data.requirements}}

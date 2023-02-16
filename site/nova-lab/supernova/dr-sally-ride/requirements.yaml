@@ -24,44 +24,41 @@
                   school grades over the previous period.
       - requirement: B
         text: |-
+            Do TWO of the following:
         children:
             - requirement: 1
               text: |-
-                  Do TWO of the following:
-              children:
-                  - requirement: 1
-                    text: |-
-                        Discuss with your mentor the following situation:
-                        Suppose you are writing a research paper and you find a
-                        resource in which the author’s words are so perfectly
-                        aligned with your perspectives and understanding that
-                        you cannot imagine a better way to put it in your paper
-                        than to use the author’s own words.  How can you handle
-                        such a situation while still maintaining scholarly
-                        integrity?
-                  - requirement: 2
-                    text: |-
-                        Discuss with your mentor the following situation:
-                        Suppose you are writing a research paper and you find
-                        resources with conflicting “facts” and/or conflicting
-                        conclusions. What are some viable strategies for
-                        resolving these conflicts and deciding which resources
-                        are trustworthy?
-                  - requirement: 3
-                    text: |-
-                        Discuss with your mentor the following situation:
-                        Suppose you are writing a research paper and have
-                        acquired dozens of resources. How would you keep track
-                        of the resources, summarize the salient parts of each
-                        resource, and synthesize the collection of resources
-                        into a coherent research paper?
-                  - requirement: 4
-                    text: |-
-                        Get a note from an instructor of yours that states
-                        that during the past term you have demonstrated
-                        satisfactory abilities or progress in independently
-                        completing scholarly endeavors and proactively seeking
-                        help when needed.
+                  Discuss with your mentor the following situation:
+                  Suppose you are writing a research paper and you find a
+                  resource in which the author’s words are so perfectly
+                  aligned with your perspectives and understanding that
+                  you cannot imagine a better way to put it in your paper
+                  than to use the author’s own words.  How can you handle
+                  such a situation while still maintaining scholarly
+                  integrity?
+            - requirement: 2
+              text: |-
+                  Discuss with your mentor the following situation:
+                  Suppose you are writing a research paper and you find
+                  resources with conflicting “facts” and/or conflicting
+                  conclusions. What are some viable strategies for
+                  resolving these conflicts and deciding which resources
+                  are trustworthy?
+            - requirement: 3
+              text: |-
+                  Discuss with your mentor the following situation:
+                  Suppose you are writing a research paper and have
+                  acquired dozens of resources. How would you keep track
+                  of the resources, summarize the salient parts of each
+                  resource, and synthesize the collection of resources
+                  into a coherent research paper?
+            - requirement: 4
+              text: |-
+                  Get a note from an instructor of yours that states
+                  that during the past term you have demonstrated
+                  satisfactory abilities or progress in independently
+                  completing scholarly endeavors and proactively seeking
+                  help when needed.
 - requirement: 3
   text: |-
       Do ONE of the following:

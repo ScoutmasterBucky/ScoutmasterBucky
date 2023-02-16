@@ -20,5 +20,3 @@ The Scouts BSA Supernova awards recognize superior achievement by a Scout in the
 {{/figure-container}}
 
 # Requirements
-
-{{>show-requirements requirements=data.requirements}}

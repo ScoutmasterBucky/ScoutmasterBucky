@@ -9,5 +9,3 @@ data:
 ---
 
 This module is designed for Venturers and Sea Scouts to explore 3D printing, and how it is becoming prevalent in everyday life.
-
-{{>show-requirements requirements=data.requirements}}

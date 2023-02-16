@@ -9,5 +9,3 @@ data:
 ---
 
 This module is designed to help Venturers or Sea Scouts explore how technology affects their life each day.
-
-{{>show-requirements requirements=data.requirements}}

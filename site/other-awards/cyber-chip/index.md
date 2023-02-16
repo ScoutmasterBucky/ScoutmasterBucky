@@ -10,7 +10,7 @@ data:
 # Cyber Chip
 
 {{#figure-container}}
-{{>other-award-bucky}}
+{{>other-award-image}}
 {{^}}
 
 The Cyber Chip for Scouts BSA comes in two different levels, depending on the Scout's grade.
@@ -23,7 +23,11 @@ Note: All Cyber Chips will expire annually. Each Scout will need to go to [Netsm
 
 ## Cyber Chip Requirements for Grades 6-8
 
-{{>show-requirements requirements=data.requirements_6_8}}
+{{#figure-container position="top"}}
+{{>other-award-bucky}}
+{{^}}
+{{>show-requirements requirements=data.requirements}}
+{{/figure-container}}
 
 ## Cyber Chip Requirements for Grades 9-12
 

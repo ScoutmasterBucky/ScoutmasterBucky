@@ -377,9 +377,9 @@ function downloadOtherAwards(updated) {
             selector: 'a[href*=pdf]'
         },
         {
-            key: "boardsailing-bsa",
+            key: "aquatics-guide",
             url: "https://www.scouting.org/awards/awards-central/boardsailing/",
-            dest: "site/other-awards/boardsailing-bsa/aquatics-guide.pdf",
+            dest: "site/other-awards/aquatics-guide.pdf",
             selector: 'a[href*=pdf]'
         },
         {
