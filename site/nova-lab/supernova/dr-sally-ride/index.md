@@ -22,5 +22,3 @@ The Venturing and Sea Scout Supernova awards recognize superior achievement by a
 {{/figure-container}}
 
 # Requirements
-
-{{>show-requirements requirements=data.requirements}}

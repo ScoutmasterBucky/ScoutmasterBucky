@@ -26,5 +26,3 @@ Although it is not a requirement, it is recommended that you earn at least two [
 # Requirements
 
 For Webelos and Arrow of Light Scouts
-
-{{>show-requirements requirements=data.requirements}}

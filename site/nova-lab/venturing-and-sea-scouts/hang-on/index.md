@@ -9,5 +9,3 @@ data:
 ---
 
 This module is designed to help Venturing and Sea Scouts explore how engineering affects their life each day.
-
-{{>show-requirements requirements=data.requirements}}

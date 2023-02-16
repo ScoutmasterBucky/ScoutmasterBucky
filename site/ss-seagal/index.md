@@ -6,5 +6,3 @@ layout: sss
 # Welcome
 
 Future home of S.S. Seagal
-
-Coming soon!

@@ -8,5 +8,3 @@ data:
 ---
 
 This module is designed to help you explore how programming affects everyday life.
-
-{{>show-requirements requirements=data.requirements}}

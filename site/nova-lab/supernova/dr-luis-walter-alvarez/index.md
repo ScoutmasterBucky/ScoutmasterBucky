@@ -25,5 +25,3 @@ This Supernova award can be earned by Cub Scouts like you who want to soar in sc
 # Requirements
 
 For Cub Scouts - Bear and Wolf
-
-{{>show-requirements requirements=data.requirements}}

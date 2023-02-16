@@ -9,7 +9,7 @@ data:
 # 50-Miler
 
 {{#figure-container}}
-{{>other-award-bucky}}
+{{>other-award-image}}
 {{^}}
 
 The primary objective of this program is to stimulate Scouts BSA, Sea Scout, and Venturer interest in the ideals of the movement and to promote activity that will result in personal fitness, self-reliance, know-ledge of wood lore, water trek, and/or outdoor experience.
@@ -30,7 +30,11 @@ The Scouts BSA, Sea Scout, or Venturing unit or provisional group must follow th
 
 The 50-Miler Award is presented to each qualifying individual for satisfactory participation in an approved trip. In order to qualify for the award, the group of which the individual is a member must fulfill all of the following requirements:
 
+{{#figure-container position="top"}}
+{{>other-award-bucky}}
+{{^}}
 {{>show-requirements requirements=data.requirements}}
+{{/figure-container}}
 
 ### 50-Miler Award - Forms, Links, and Resources
 

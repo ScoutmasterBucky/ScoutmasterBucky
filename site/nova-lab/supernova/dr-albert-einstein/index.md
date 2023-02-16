@@ -23,6 +23,4 @@ The Supernova awards recognize superior achievement in the fields of science, te
 
 **Third-Level Supernova Award for Scouts BSA, Venturers, and Sea Scouts**
 
-{{>show-requirements requirements=data.requirements}}
-
-A [guide to earning and mentoring the {{#trim}}{{>supernova-name supernova="dr-albert-einstein" sa=true}}{{/trim}}](einstein-supernova-guide.pdf), as is a [flowchart](einstein-supernova-flowchart.pdf) to help explain the process.
+A [guide to earning and mentoring the {{#trim}}{{>supernova-name supernova="dr-albert-einstein" sa=true}}{{/trim}}](einstein-supernova-guide.pdf) may be downloaded, as well as a [flowchart](einstein-supernova-flowchart.pdf) to help explain the process.
