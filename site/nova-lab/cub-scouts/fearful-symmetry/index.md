@@ -13,5 +13,3 @@ This module is designed to help you explore how symmetry affects your life each 
 Perhaps there is some combination of these. A common pattern is that the pattern repeats if you move down the line and reflect across the line, as happens with alternating leaf arrangement on a plant (glide reflection symmetry). There are far more patterns than names.
 
 Symmetry is everywhere. Minerals organize themselves in crystals, which are repeating patterns. Plants and animals have many interesting symmetries in their shapes. Most artistic traditions in the world, and many activities where people design a shape for its function, depend on some form of symmetry. In this award, Scouts get to explore many aspects of this topic.
-
-{{>show-requirements requirements=data.requirements}}

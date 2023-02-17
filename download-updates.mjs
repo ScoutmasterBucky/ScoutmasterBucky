@@ -343,7 +343,7 @@ function downloadNovaAwards(updated) {
 
 function downloadList(updated, updatedPrefix, list) {
     return serialPromises(list, (item) => {
-        if (item.dest.match(".html")) {
+        if (item.dest.match(".html.orig")) {
             console.log(`${item.key}: ${item.url}`);
             updated[item.key] = Date.now();
 
@@ -385,13 +385,13 @@ function downloadOtherAwards(updated) {
         {
             key: "cyber-chip-grades-6-to-8",
             url: "https://www.scouting.org/training/youth-protection/cyber-chip/grades-6-8/",
-            dest: "site/other-awards/cyber-chip/cyber-chip-grades-6-to-8.html",
+            dest: "site/other-awards/cyber-chip/cyber-chip-grades-6-to-8.html.orig",
             selector: "#post-35851"
         },
         {
             key: "cyber-chip-grades-9-to-12",
             url: "https://www.scouting.org/training/youth-protection/cyber-chip/grades-9-12/",
-            dest: "site/other-awards/cyber-chip/cyber-chip-grades-9-to-12.html",
+            dest: "site/other-awards/cyber-chip/cyber-chip-grades-9-to-12.html.orig",
             selector: "#post-35852"
         },
         {
@@ -403,7 +403,7 @@ function downloadOtherAwards(updated) {
         {
             key: "totin-chip",
             url: "https://www.scouting.org/awards/awards-central/totin-chip/",
-            dest: "site/other-awards/totin-chip/totin-chip.html",
+            dest: "site/other-awards/totin-chip/totin-chip.html.orig",
             selector: ".entry-content"
         }
     ];
@@ -550,7 +550,7 @@ function downloadSupernovaAwards(updated) {
                 {
                     key: "activity-topics",
                     url: "https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-topics/",
-                    dest: "site/nova-lab/supernova/activity-topics/activity-topics.html",
+                    dest: "site/nova-lab/supernova/activity-topics/activity-topics.html.orig",
                     selector: '[data-id="74ca43fb"]'
                 },
                 {

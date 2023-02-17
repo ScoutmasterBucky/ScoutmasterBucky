@@ -37,11 +37,11 @@ function makeHeader(f) {
         }" class="H(1in) W(a)" />
             </div>
             <div class="D(tbc) W(70%) Va(m) Ta(c)">
-                <div class="Ta(c) C(smbThmTx) Fz(1.2em) Fs(i) Fw(b)">Scoutmaster Bucky</div>
+                <div class="Ta(c) C(--themeText) Fz(1.2em) Fs(i) Fw(b)">Scoutmaster Bucky</div>
                 <div class="Ta(c) Tt(u) Fz(1.2em) Fw(b)">${
                     f.meritBadges[f.badge].name
                 }</div>
-                <div class="Ta(c) C(smbThmTx) Fz(1.2em) Fs(i) Fw(b)">Merit Badge Workbook</div>
+                <div class="Ta(c) C(--themeText) Fz(1.2em) Fs(i) Fw(b)">Merit Badge Workbook</div>
                 <div class="Ta(c) C(blue)">www.ScoutmasterBucky.com</div>
             </div>
         </div>` +

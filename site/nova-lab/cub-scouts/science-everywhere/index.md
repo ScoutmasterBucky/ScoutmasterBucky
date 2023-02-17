@@ -9,5 +9,3 @@ data:
 ---
 
 This module is designed to help the Scout explore how science affects their life each day. Science helps people understand how the world around them works.
-
-{{>show-requirements requirements=data.requirements}}

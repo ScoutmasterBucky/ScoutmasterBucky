@@ -9,5 +9,3 @@ data:
 ---
 
 This module is designed to help you explore how math affects your life each day.
-
-{{>show-requirements requirements=data.requirements}}

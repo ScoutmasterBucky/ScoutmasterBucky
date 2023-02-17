@@ -8,5 +8,3 @@ data:
 ---
 
 This module is designed to help you explore where your food comes from and how agriculture affects your life each day. Agriculture includes growing crops and raising animals to provide food and other products.
-
-{{>show-requirements requirements=data.requirements}}

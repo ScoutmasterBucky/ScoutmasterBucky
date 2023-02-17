@@ -9,5 +9,3 @@ data:
 ---
 
 This module is designed to help you explore the wonders of archaeology.
-
-{{>show-requirements requirements=data.requirements}}

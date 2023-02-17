@@ -18,7 +18,7 @@ js:
 
 # <div class="D(f) Jc(spb) Ai(b) Fxd(c)--s"><div>Welcome</div><div class="Fz(0.4em) Fw(n) Tt(n)">Last Update: {{#date}}{{buildDate}}{{/date}}</div></div>
 
-<div class="C(smbThmTx) Fw(b) Fz(2em) D(f) Jc(c)">Scoutmaster Bucky</div>
+<div class="C(--themeText) Fw(b) Fz(2em) D(f) Jc(c)">Scoutmaster Bucky</div>
 <div class="D(f) Jc(c) Pb(1em)">Serving Scouts since January 2009</div>
 
 <div class="Maw(450px) Ta(c) Mx(a)">Over {{#smb-accent}}{{opportunities}}{{/smb-accent}} Scout in-person merit badge opportunities and over {{#smb-accent}}{{online}}{{/smb-accent}} Scout online merit badge opportunities, with thousands of past Cub Scout and Venturing advancement opportunities.</div>

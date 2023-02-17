@@ -9,5 +9,3 @@ data:
 ---
 
 This module is designed for Scouts BSA to help you explore how technology affects your life each day.
-
-{{>show-requirements requirements=data.requirements}}
