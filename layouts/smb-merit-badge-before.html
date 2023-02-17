@@ -12,16 +12,22 @@
 {{>smb-layout-body}}
 
             <div class="P(0.4em) Bgc(--headingBackground) Jc(spe) D(f)--_p Fxd(c)--s Ai(c) D(n)--p Fw(b)">
-                {{#if (lookup (lookup @root.meritBadges @root.badge) active)}}
                 {{#unless requirements}}
-                <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/" class="C(gold)">Merit Badge Requirements</a>
+                    {{#with (lookup @root.meritBadges @root.badge)}}
+                        {{#if active}}
+                            <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/" class="C(gold)">Merit Badge Requirements</a>
+                        {{/if}}
+                    {{/with}}
                 {{/unless}}
                 {{#unless workbook}}
-                <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/workbook/" class="C(gold)">Merit Badge Workbook</a>
+                    {{#with (lookup @root.meritBadges @root.badge)}}
+                        {{#if active}}
+                            <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/workbook/" class="C(gold)">Merit Badge Workbook</a>
+                        {{/if}}
+                    {{/with}}
                 {{/unless}}
-                {{/if}}
                 {{#unless history}}
-                <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/history/" class="C(gold)">Merit Badge History</a>
+                    <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/history/" class="C(gold)">Merit Badge History</a>
                 {{/unless}}
             </div>
 
