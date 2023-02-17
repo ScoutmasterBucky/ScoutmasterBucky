@@ -9,5 +9,3 @@ data:
 ---
 
 This module is designed for Scouts BSA to explore how projectiles and space affect your life each day.
-
-{{>show-requirements requirements=data.requirements}}

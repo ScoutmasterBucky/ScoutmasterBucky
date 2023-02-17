@@ -1,5 +1,6 @@
 const metalsmithSite = require('@fidian/metalsmith-site');
 const os = require('os');
+const path = require('path');
 const wkhtmltopdf = require("wkhtmltopdf");
 
 // For PDF generation
@@ -32,10 +33,10 @@ metalsmithSite.run({
     },
     buildBefore: (sugar) => {
         // Translate Unicode
-        sugar.use(__dirname + '/plugins/translate-unicode');
+        sugar.use(path.join(__dirname, '/plugins/translate-unicode'));
     },
     contentsAfter: (sugar) => {
-        sugar.use(__dirname + '/plugins/workbook-header-footer');
+        sugar.use(path.join(__dirname, '/plugins/workbook-header-footer'));
     },
     contentsBefore: (sugar) => {
         // Pre-process events so they can be included into the index page. Only
@@ -85,6 +86,25 @@ metalsmithSite.run({
 
             done(e);
         });
+    },
+    redirectsAfter: (sugar) => {
+        // Eliminate the event files - they are no longer needed
+        sugar.use((files, metalsmith, done) => {
+            for (const key of Object.keys(files)) {
+                if (key.match(/^events\//)) {
+                    delete files[key];
+                }
+            }
+            done();
+        });
+        if (process.env.CHECK_LINKS) {
+            sugar.use('@fidian/metalsmith-link-checker', {
+                ignore: [
+                    /^https?:\/\//,
+                    /^\.\.\/workbook\/.*.pdf$/ // Workbooks are generated after the build
+                ]
+            });
+        }
     }
 }, err => {
     if (err) {

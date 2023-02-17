@@ -9,5 +9,3 @@ data:
 ---
 
 This module is designed to help you discover the wonders of space exploration.
-
-{{>show-requirements requirements=data.requirements}}

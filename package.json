@@ -7,16 +7,17 @@
         ]
     },
     "scripts": {
-        "build": "WORKBOOKS=true SERVE=true KILL_AFTER_WORKBOOKS=true MINIFY=true node metalsmith.js",
+        "build": "WORKBOOKS=true CHECK_LINKS=true SERVE=true KILL_AFTER_WORKBOOKS=true MINIFY=true node metalsmith.js",
         "clean": "rm -rf node_modules/ package-lock.json",
         "fastbuild": "node metalsmith.js",
-        "start": "SERVE=true LIVE_RELOAD=true node metalsmith.js",
-        "start-slow": "SERVE=true MINIFY=true LIVE_RELOAD=true node metalsmith.js"
+        "start": "SERVE=true CHECK_LINKS=true LIVE_RELOAD=true node metalsmith.js",
+        "start-slow": "SERVE=true CHECK_LINKS=true MINIFY=true LIVE_RELOAD=true node metalsmith.js"
     },
     "dependencies": {
         "@babel/preset-env": "^7.20.2",
         "@fidian/acss-live": "^2.1.0",
         "@fidian/metalsmith-clean-css": "^6.2.2",
+        "@fidian/metalsmith-link-checker": "^0.5.2",
         "@fidian/metalsmith-site": "^2.1.2",
         "ajv": "^8.12.0",
         "browserify": "^17.0.0",

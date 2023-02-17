@@ -9,5 +9,3 @@ data:
 ---
 
 This module is designed to help Scouts BSA explore how engineering affects your life each day.
-
-{{>show-requirements requirements=data.requirements}}

@@ -9,5 +9,3 @@ data:
 ---
 
 This module is designed to help you learn about wildlife and the natural world around you.
-
-{{>show-requirements requirements=data.requirements}}

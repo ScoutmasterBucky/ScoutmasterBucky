@@ -8,5 +8,3 @@ data:
 ---
 
 This award explores the world of product design, which involves balancing time, cost, and quality to create something new, usually a product that will be sold to consumers or other businesses.
-
-{{>show-requirements requirements=data.requirements}}

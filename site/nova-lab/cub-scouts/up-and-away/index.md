@@ -9,5 +9,3 @@ data:
 ---
 
 This award explores the world of fluid dynamics, and how it affects your everyday life. Fluid dynamics is the study of how fluids (liquids, gases, and plasmas) behave and interact with other materials.
-
-{{>show-requirements requirements=data.requirements}}

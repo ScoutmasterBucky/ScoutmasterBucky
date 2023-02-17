@@ -1,26 +1,20 @@
     </head>
-    <body class="Ovx(h) Bgc(smbPgMBg)--_p Bgc(t)--p Ta(j)--_sml body">
-        <div class="Maw(1002px)--_p Mx(a) Bgc(smbPgBg)--_p Bgc(t)--p Maw(100%)--p">
+    <body class="Ovx(h) Bgc(--pageMarginBackground)--_p Bgc(t)--p Ta(j)--_sml body">
+        <div class="Maw(1002px)--_p Mx(a) Bgc(--pageBackground)--_p Bgc(t)--p Maw(100%)--p">
             <div {{#if @root.workbook}}class="D(n)--p"{{/if}}>
 {{#if @root.rootPath}}
                 <a href="{{@root.rootPath}}">
 {{/if}}
-<script>
-(function () {
-    var d = new Date();
-    var picture = '<img src="{{@root.rootPath}}images/header-month-' + (d.getMonth() + 1) + '.jpg" class="W(100%) H(a) D(b)" height="279" width="1002">';
-    document.write(picture);
-})();
-</script>
+<script src="{{@root.rootPath}}js/smb-header-image.js"></script>
 {{#if @root.rootPath}}
                 </a>
 {{/if}}
             </div>
 
-            <div class="Bgc(smbHd2Bg) D(f)--_s Jc(spe) Pt(0.4em) D(n)--s Fz(0.9em)--m Flw(w) body_D(n)--p">
-                {{>smb-menu class="Mb(0.4em) Bgc(smbBtnBg)" textClass="C(smbBtnTx)"}}
+            <div class="Bgc(--heading2Background) D(f)--_s Jc(spe) Pt(0.4em) D(n)--s Fz(0.9em)--m Flw(w) body_D(n)--p">
+                {{>smb-menu class="Mb(0.4em) Bgc(--buttonBackground)" textClass="C(--buttonText)"}}
             </div>
 
-            <div class="Bgc(smbHd2Bg) D(f)--_s Jc(spe) D(n)--s Fz(0.9em)--m body_D(n)--p">
-                {{>cross-link-buttons smb=true class="Mb(0.4em) Bgc(smbBtnBg)" textClass="C(smbBtnTx)" captionClass="C(smbBtnTx2)"}}
+            <div class="Bgc(--heading2Background) D(f)--_s Jc(spe) D(n)--s Fz(0.9em)--m body_D(n)--p">
+                {{>cross-link-buttons smb=true class="Mb(0.4em) Bgc(--buttonBackground)" textClass="C(--buttonText)" captionClass="C(--buttonText2)"}}
             </div>
