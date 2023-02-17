@@ -9,8 +9,8 @@
     "scripts": {
         "build": "WORKBOOKS=true CHECK_LINKS=true SERVE=true KILL_AFTER_WORKBOOKS=true MINIFY=true node metalsmith.js",
         "clean": "rm -rf node_modules/ package-lock.json",
-        "fastbuild": "node metalsmith.js",
-        "start": "SERVE=true CHECK_LINKS=true LIVE_RELOAD=true node metalsmith.js",
+        "fastbuild": "CHECK_LINKS=true node metalsmith.js",
+        "start": "SERVE=true LIVE_RELOAD=true node metalsmith.js",
         "start-slow": "SERVE=true CHECK_LINKS=true MINIFY=true LIVE_RELOAD=true node metalsmith.js"
     },
     "dependencies": {
