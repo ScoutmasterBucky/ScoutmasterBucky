@@ -1,11 +1,5 @@
 const metalsmithSite = require('@fidian/metalsmith-site');
-const os = require('os');
 const path = require('path');
-const wkhtmltopdf = require("wkhtmltopdf");
-
-// For PDF generation
-const pdfCache = {};
-let lastFiles = null;
 
 metalsmithSite.run({
     baseDirectory: __dirname,
@@ -27,7 +21,6 @@ metalsmithSite.run({
         }
 
         sugar.use((files, metalsmith, d) => {
-            lastFiles = files;
             d();
         });
     },
@@ -69,23 +62,10 @@ metalsmithSite.run({
         });
 
         // Verify all data against schemas
-        sugar.use(__dirname + '/plugins/validate-data');
+        sugar.use(path.join(__dirname, '/plugins/validate-data'));
 
         // Remove merit badge pamphlets and other non-linked data
-        sugar.use(__dirname + '/plugins/remove-unnecessary-assets');
-    },
-    postProcess: (done) => {
-        generatePdfs(lastFiles, (e) => {
-            if (e) {
-                throw e;
-            }
-
-            if (process.env.KILL_AFTER_WORKBOOKS) {
-                process.exit(0);
-            }
-
-            done(e);
-        });
+        sugar.use(path.join(__dirname, '/plugins/remove-unnecessary-assets'));
     },
     redirectsAfter: (sugar) => {
         // Eliminate the event files - they are no longer needed
@@ -100,8 +80,7 @@ metalsmithSite.run({
         if (process.env.CHECK_LINKS) {
             sugar.use('@fidian/metalsmith-link-checker', {
                 ignore: [
-                    /^https?:\/\//,
-                    /^\.\.\/workbook\/.*.pdf$/ // Workbooks are generated after the build
+                    /^https?:\/\//
                 ]
             });
         }
@@ -111,112 +90,3 @@ metalsmithSite.run({
         console.error(`${err}`);
     }
 });
-
-function generatePdfs(files, done) {
-    let list = [];
-    let needed = 0;
-
-    Object.keys(files).forEach((filename) => {
-        const file = files[filename];
-
-        // Filter out everything if WORKBOOKS isn't defined in the environment.
-        // Filter out files that don't have "workbook" set as metadata.
-        if (!process.env.WORKBOOKS || !file.workbook) {
-            return;
-        }
-
-        const filenameBase = filename.replace(/[^/]*$/, "");
-        const headerName = filenameBase + "header.html";
-        const footerName = filenameBase + "footer.html";
-
-        if (!files[headerName] || !files[footerName]) {
-            console.error('Workbook missing header or footer: ' + filenameBase);
-
-            return;
-        }
-
-        fileContents = file.contents.toString();
-        headerContents = files[headerName].contents.toString();
-        footerContents = files[footerName].contents.toString();
-
-        if (
-            pdfCache[filename] === fileContents &&
-            pdfCache[headerName] === headerContents &&
-            pdfCache[footerName] === footerContents
-        ) {
-            return;
-        }
-
-        pdfCache[filename] = fileContents;
-        pdfCache[headerName] = headerContents;
-        pdfCache[footerName] = footerContents;
-        const pdf = filenameBase + file.badge + "-workbook.pdf";
-        needed += 1;
-        list.push({
-            pdf: pdf,
-            filename: filename,
-            headerName: headerName,
-            footerName: footerName
-        });
-    });
-
-    let running = 0;
-    let current = 0;
-    let error = null;
-    let n = Math.max(1, os.cpus().length);
-
-    if (list.length) {
-        while (n--) {
-            processPdf()
-        }
-    } else {
-        processPdf();
-    }
-
-    function processPdf() {
-        if (error) {
-            return;
-        }
-
-        if (!list.length) {
-            if (running === 0) {
-                done();
-            }
-
-            return;
-        }
-
-        running += 1;
-        const mine = list.shift();
-        current += 1;
-        console.log(`Creating ${mine.pdf} (${current}/${needed})`);
-        const stream = wkhtmltopdf(
-            "http://localhost:8080/" + mine.filename + "?print=true",
-            {
-                // debug: true,
-                // debugStdOut: true,
-                // debugJavascript: true,
-                printMediaType: true,
-                enableForms: true,
-                marginTop: "1in",
-                marginBottom: ".55in",
-                marginLeft: ".25in",
-                marginRight: ".25in",
-                headerHtml: "http://localhost:8080/" + mine.headerName,
-                footerHtml: "http://localhost:8080/" + mine.footerName,
-                output: "build/" + mine.pdf,
-                pageSize: 'letter'
-            }
-        );
-        stream.on("error", (e) => {
-            if (!error) {
-                error = e;
-                done(error);
-            }
-        });
-        stream.on("end", () => {
-            running -= 1;
-            processPdf();
-        });
-    }
-}

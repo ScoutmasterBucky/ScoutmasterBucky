@@ -7,9 +7,9 @@
         ]
     },
     "scripts": {
-        "build": "WORKBOOKS=true CHECK_LINKS=true SERVE=true KILL_AFTER_WORKBOOKS=true MINIFY=true node metalsmith.js",
+        "build": "CHECK_LINKS=true MINIFY=true node metalsmith.js",
         "clean": "rm -rf node_modules/ package-lock.json",
-        "fastbuild": "CHECK_LINKS=true node metalsmith.js",
+        "fastbuild": "node metalsmith.js",
         "start": "SERVE=true LIVE_RELOAD=true node metalsmith.js",
         "start-slow": "SERVE=true CHECK_LINKS=true MINIFY=true LIVE_RELOAD=true node metalsmith.js"
     },
@@ -31,8 +31,7 @@
         "metalsmith-uglify": "^2.4.1",
         "mithril": "^2.2.2",
         "moment": "^2.29.4",
-        "moment-timezone": "^0.5.40",
-        "wkhtmltopdf": "^0.4.0"
+        "moment-timezone": "^0.5.40"
     },
     "devDependencies": {
         "chalk": "^5.2.0",
