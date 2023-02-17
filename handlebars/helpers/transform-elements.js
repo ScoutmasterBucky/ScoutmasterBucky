@@ -5,7 +5,7 @@ module.exports = function (options) {
         /(<h1 id="[^"]*")>/g,
         (ignore, match) =>
             match +
-            ` class="Bgc(---headingBackground) C(--headingText) Px(10px) Py(6px) Tt(u) My(0.6em) Fz(2em)--_s Fz(1.4em)--s notesToggles-online_Bgc(--tabBackground) Cl(b)">`
+            ` class="Bgc(--headingBackground) C(--headingText) Px(10px) Py(6px) Tt(u) My(0.6em) Fz(2em)--_s Fz(1.4em)--s notesToggles-online_Bgc(--tabBackground) Cl(b)">`
     );
     content = content.replace(
         /(<h2 id="[^"]*")>/g,

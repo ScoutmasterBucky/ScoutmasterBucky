@@ -4,16 +4,16 @@
                 <img src="{{@root.rootPath}}advisor-kodi/images/ak-footer.jpg" class="W(100%) H(a)" height="153" width="1280">
             </div>
         </div>
-        <div id="menu" class="Bgc(akHd2Bg) Pos(f) T(0) D(n)--_s D(b)--s C(akBtnTx) P(8px) body_D(n)--p">
-            <a class="Pos(a) T(0) Start(100%) D(n)--_s D(b)--s Bgc(akHd2Bg) P(8px)"
+        <div id="menu" class="Bgc(--heading2Background) Pos(f) T(0) D(n)--_s D(b)--s C(--buttonText) P(8px) body_D(n)--p">
+            <a class="Pos(a) T(0) Start(100%) D(n)--_s D(b)--s Bgc(--heading2Background) P(8px)"
                 onclick="document.getElementById('menu').classList.toggle('flyout')"
                 href="#">
-                {{>hamburger-menu class="Fill(akBtnBg)"}}
+                {{>hamburger-menu}}
             </a>
 
             <div class="Mt(16px)"></div>
 
-            {{>cross-link-buttons ak=true class="Bgc(akBtnBg) Mb(8px)" textClass="C(akBtnTx)" captionClass="C(akBtnTx2)"}}
+            {{>cross-link-buttons ak=true}}
         </div>
     </body>
 </html>
