@@ -3,32 +3,17 @@
         <link rel="stylesheet" href="{{@root.rootPath}}css/site.css" />
         <script src="{{@root.rootPath}}js/toggle-notes.js"></script>
 
-{{#if workbook}}
-        <title>Scoutmaster Bucky {{>badge-name badge=badge}} Merit Badge Workbook</title>
-{{else}}
         <title>{{>badge-name badge=badge}} Merit Badge</title>
-{{/if}}
 
 {{>smb-layout-body}}
 
             <div class="P(0.4em) Bgc(--headingBackground) Jc(spe) D(f)--_p Fxd(c)--s Ai(c) D(n)--p Fw(b)">
-                {{#unless requirements}}
-                    {{#with (lookup @root.meritBadges @root.badge)}}
-                        {{#if active}}
-                            <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/" class="C(gold)">Merit Badge Requirements</a>
-                        {{/if}}
-                    {{/with}}
-                {{/unless}}
-                {{#unless workbook}}
-                    {{#with (lookup @root.meritBadges @root.badge)}}
-                        {{#if active}}
-                            <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/workbook/" class="C(gold)">Merit Badge Workbook</a>
-                        {{/if}}
-                    {{/with}}
-                {{/unless}}
-                {{#unless history}}
-                    <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/history/" class="C(gold)">Merit Badge History</a>
-                {{/unless}}
+                {{#with (lookup @root.meritBadges @root.badge)}}
+                    {{#if active}}
+                        <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/workbook/" class="C(gold)">Merit Badge Workbook</a>
+                    {{/if}}
+                {{/with}}
+                <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/history/" class="C(gold)">Merit Badge History</a>
             </div>
 
             <div class="notesToggles">
@@ -40,27 +25,5 @@
                 </div>
 {{/if}}
                 <div class="P(20px)--_p P(0)--p">
-
-{{#if @root.workbook}}
-<div class="Bgc(--headingBackground) C(white) Fw(b) Tt(u) Ta(c) P(0.25em) Bdw(0.25em) Bdc(--headingBackground)">{{>badge-name badge=badge}} Merit Badge Workbook</div>
-                    <div class="Bdstartw(1pt) Bdendw(1pt) C(#999999) Ta(c)">This Scoutmaster Bucky Merit Badge Workbook is based off the current <em>Scouts BSA Requirements</em>.</div>
-                    <div class="Bdw(0.25em) Bdc(red) Bgc(--accentBackground) P(1em)">
-                        <div class="Mb(1em) Ta(c) Fz(22px) D(n)--p">Type your work on this page or download the <a href="{{badge}}-workbook.pdf">{{>badge-name badge=badge}} Workbook PDF</a>.</div>
-
-                        <p>Consider also using the {{>badge-name badge=badge}} merit badge class preparation page for clarification and expections when participating in a Scoutmaster Bucky merit badge opportunity (<a href="../?notes=online">online</a> or <a href="../?notes=inPerson">in-person</a>).</p>
-                        <p class="Ta(c)"><a href="{{@root.site.url}}merit-badges/{{badge}}/">{{@root.site.url}}merit-badges/{{badge}}/</a></p>
-                    </div>
-
-                    <div class="Pt(1em) Bki(av)">
-                        <div class="Bdw(1pt) P(0.25em)">
-                            <div class="W(7em) Mt(0.5em) Pos(a)">
-                                Scout's Name:
-                            </div>
-                            <div class="Mstart(7em) My(0.3em)">
-                                <input class="Bgc(--accentBackground):h W(100%) Bdw(0) Fz(22px)" name="name" type="text" />
-                            </div>
-                        </div>
-                    </div>
-{{/if}}
 
 {{#transform-elements}}

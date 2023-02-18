@@ -1,122 +1,77 @@
 - requirement: 1
   text: |-
-      Discuss and demonstrate the proper elements of a good motion picture. In
-      your discussion, include visual storytelling, rhythm, the 180-axis rule,
-      camera movement, framing and composition of camera shots, and lens
-      selection.
-  workbook:
-      - lines: 8
+    Discuss and demonstrate the proper elements of a good motion picture. In
+    your discussion, include visual storytelling, rhythm, the 180-axis rule,
+    camera movement, framing and composition of camera shots, and lens
+    selection.
 - requirement: 2
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            In a three- or four-paragraph treatment, tell the story you plan to
-            produce, making sure that the treatment conveys a visual picture.
-        workbook:
-            - lines: 40
-      - requirement: b
-        text: |-
-            Prepare a storyboard for your motion picture. (This can be done
-            with rough sketches and stick figures.)
-        workbook:
-            - area: 40
-      - requirement: c
-        text: |-
-            Demonstrate the following motion picture shooting techniques:
-        children:
-            - requirement: 1
-              text: |-
-                  Using a tripod
-              workbook:
-                  - task: true
-            - requirement: 2
-              text: |-
-                  Panning a camera
-              workbook:
-                  - task: true
-            - requirement: 3
-              text: |-
-                  Framing a shot
-              workbook:
-                  - task: true
-            - requirement: 4
-              text: |-
-                  Selecting an angle
-              workbook:
-                  - task: true
-            - requirement: 5
-              text: |-
-                  Selecting proper lighting
-              workbook:
-                  - task: true
-            - requirement: 6
-              text: |-
-                  Handheld shooting
-              workbook:
-                  - task: true
-      - requirement: d
-        text: |-
-            Using motion picture shooting techniques, plan ONE of the following
-            programs. Start with a treatment and complete the requirement by
-            presenting this program to a pack or your troop, patrol, or class.
-        workbook:
-            - header: true
-              markdown: true
-              text: |-
-                  1. Film or videotape a court of honor and show it to an
-                  audience.
-
-                  2. Create a short feature of your own design, using the
-                  techniques you learned.
-
-                  3. Shoot a vignette that could be used to train a new Scout
-                  in a Scouting skill.
-            - lines: 8
-            - task: true
-              text: |-
-                  Presented
-        children:
-            - requirement: 1
-              text: |-
-                  Film or videotape a court of honor and show it to an
-                  audience.
-              workbookHide: true
-            - requirement: 2
-              text: |-
-                  Create a short feature of your own design, using the
-                  techniques you learned.
-              workbookHide: true
-            - requirement: 3
-              text: |-
-                  Shoot a vignette that could be used to train a new Scout in a
-                  Scouting skill.
-              workbookHide: true
+    - requirement: a
+      text: |-
+        In a three- or four-paragraph treatment, tell the story you plan to
+        produce, making sure that the treatment conveys a visual picture.
+    - requirement: b
+      text: |-
+        Prepare a storyboard for your motion picture. (This can be done
+        with rough sketches and stick figures.)
+    - requirement: c
+      text: |-
+        Demonstrate the following motion picture shooting techniques:
+      children:
+        - requirement: 1
+          text: |-
+            Using a tripod
+        - requirement: 2
+          text: |-
+            Panning a camera
+        - requirement: 3
+          text: |-
+            Framing a shot
+        - requirement: 4
+          text: |-
+            Selecting an angle
+        - requirement: 5
+          text: |-
+            Selecting proper lighting
+        - requirement: 6
+          text: |-
+            Handheld shooting
+    - requirement: d
+      text: |-
+        Using motion picture shooting techniques, plan ONE of the following
+        programs. Start with a treatment and complete the requirement by
+        presenting this program to a pack or your troop, patrol, or class.
+      children:
+        - requirement: 1
+          text: |-
+            Film or videotape a court of honor and show it to an
+            audience.
+        - requirement: 2
+          text: |-
+            Create a short feature of your own design, using the
+            techniques you learned.
+        - requirement: 3
+          text: |-
+            Shoot a vignette that could be used to train a new Scout in a
+            Scouting skill.
 - requirement: 3
   text: |-
-      Do ONE of the following:
+    Do ONE of the following:
   children:
-      - requirement: a
-        text: |-
-            With your parent’s permission and your counselor’s approval, visit
-            a film set or television production studio and watch how production
-            work is done.
-        workbook:
-            - task: true
-              text: |-
-                  Visited
-      - requirement: b
-        text: |-
-            Explain to your counselor the elements of the zoom lens and three
-            important parts.
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        With your parent’s permission and your counselor’s approval, visit
+        a film set or television production studio and watch how production
+        work is done.
+    - requirement: b
+      text: |-
+        Explain to your counselor the elements of the zoom lens and three
+        important parts.
 - requirement: 4
   text: |-
-      Find out about three career opportunities in moviemaking.  Pick one and
-      find out the education, training, and experience required for this
-      profession. Discuss this career with your counselor. Explain why this
-      profession might interest you.
-  workbook:
-      - lines: 8
+    Find out about three career opportunities in moviemaking.  Pick one and
+    find out the education, training, and experience required for this
+    profession. Discuss this career with your counselor. Explain why this
+    profession might interest you.

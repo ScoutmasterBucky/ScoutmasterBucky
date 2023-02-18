@@ -1,153 +1,88 @@
 - requirement: 1
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain to your counsel the hazards you are most likely to
-            encounter while using leatherwork tools and materials, and what you
-            should do to anticipate, help prevent, mitigate, or lessen these
-            hazards.
-        workbook:
-            - lines: 8
-              text: |-
-                  Most likely hazards
-            - lines: 8
-              text: |-
-                  Anticipate hazards
-            - lines: 8
-              text: |-
-                  Prevent hazards
-            - lines: 8
-              text: |-
-                  Mitigate hazards
-            - lines: 8
-              text: |-
-                  Lessen hazards
-      - requirement: b
-        text: |-
-            Show that you know first aid for injuries or illnesses that could
-            occur while working with leather, including minor cuts and
-            scratches, puncture wounds, ingested poisoning, and reactions from
-            exposure to chemicals such as dyes, cements, and finishes used in
-            leatherworking.
-        workbook:
-            - split:
-                  - task: true
-                    text: |-
-                        Minor cuts and scratches
-                  - task: true
-                    text: |-
-                        Puncture wounds
-            - split:
-                  - task: true
-                    text: |-
-                        Injested poisoning
-                  - task: true
-                    text: |-
-                        Chemical exposure reactions
+    - requirement: a
+      text: |-
+        Explain to your counsel the hazards you are most likely to
+        encounter while using leatherwork tools and materials, and what you
+        should do to anticipate, help prevent, mitigate, or lessen these
+        hazards.
+    - requirement: b
+      text: |-
+        Show that you know first aid for injuries or illnesses that could
+        occur while working with leather, including minor cuts and
+        scratches, puncture wounds, ingested poisoning, and reactions from
+        exposure to chemicals such as dyes, cements, and finishes used in
+        leatherworking.
 - requirement: 2
   text: |-
-      Explain to your counselor
+    Explain to your counselor
   children:
-      - requirement: a
-        text: |-
-            Where leather comes from
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            What kinds of hides are used to make leather
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            What are five types of leather
-        workbook:
-            - lines: 8
-      - requirement: d
-        text: |-
-            What are the best uses for each type of leather
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        Where leather comes from
+    - requirement: b
+      text: |-
+        What kinds of hides are used to make leather
+    - requirement: c
+      text: |-
+        What are five types of leather
+    - requirement: d
+      text: |-
+        What are the best uses for each type of leather
 - requirement: 3
   text: |-
-      Make one or more articles of leather that use at least five of the
-      following steps:
+    Make one or more articles of leather that use at least five of the
+    following steps:
   children:
-      - requirement: a
-        text: |-
-            Pattern layout and transfer
-        workbook:
-            - task: true
-      - requirement: b
-        text: |-
-            Cutting leather
-        workbook:
-            - task: true
-      - requirement: c
-        text: |-
-            Punching holes
-        workbook:
-            - task: true
-      - requirement: d
-        text: |-
-            Carving or stamping surface designs
-        workbook:
-            - task: true
-      - requirement: e
-        text: |-
-            Applying dye or stain and finish to the project
-        workbook:
-            - task: true
-      - requirement: f
-        text: |-
-            Assembly by lacing or stitching
-        workbook:
-            - task: true
-      - requirement: g
-        text: |-
-            Setting snaps and rivets
-        workbook:
-            - task: true
-      - requirement: h
-        text: |-
-            Dressing edges
-        workbook:
-            - task: true
+    - requirement: a
+      text: |-
+        Pattern layout and transfer
+    - requirement: b
+      text: |-
+        Cutting leather
+    - requirement: c
+      text: |-
+        Punching holes
+    - requirement: d
+      text: |-
+        Carving or stamping surface designs
+    - requirement: e
+      text: |-
+        Applying dye or stain and finish to the project
+    - requirement: f
+      text: |-
+        Assembly by lacing or stitching
+    - requirement: g
+      text: |-
+        Setting snaps and rivets
+    - requirement: h
+      text: |-
+        Dressing edges
 - requirement: 4
   text: |-
-      Braid or plait an article out of leather, vinyl lace, or paracord.
-  workbook:
-      - task: true
+    Braid or plait an article out of leather, vinyl lace, or paracord.
 - requirement: 5
   text: |-
-      Do ONE of the following:
+    Do ONE of the following:
   children:
-      - requirement: a
-        text: |-
-            Learn about the commercial tanning process. Report about it to your
-            merit badge counselor.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            Tan the skin of a small animal. Describe the safety precautions you
-            will take and the tanning method that you used.
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            Recondition or show that you can take proper care of your shoes, a
-            baseball glove, a saddle, furniture, or other articles of leather.
-            Discuss with your counselor the advantages or disadvantages of
-            leather vs. synthetic materials.
-        workbook:
-            - lines: 8
-      - requirement: d
-        text: |-
-            Visit a leather-related business. This could be a leathercraft
-            supply company, a tannery, a leather goods or shoe factory, or a
-            saddle shop. Report on your visit to your counselor.
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        Learn about the commercial tanning process. Report about it to your
+        merit badge counselor.
+    - requirement: b
+      text: |-
+        Tan the skin of a small animal. Describe the safety precautions you
+        will take and the tanning method that you used.
+    - requirement: c
+      text: |-
+        Recondition or show that you can take proper care of your shoes, a
+        baseball glove, a saddle, furniture, or other articles of leather.
+        Discuss with your counselor the advantages or disadvantages of
+        leather vs. synthetic materials.
+    - requirement: d
+      text: |-
+        Visit a leather-related business. This could be a leathercraft
+        supply company, a tannery, a leather goods or shoe factory, or a
+        saddle shop. Report on your visit to your counselor.

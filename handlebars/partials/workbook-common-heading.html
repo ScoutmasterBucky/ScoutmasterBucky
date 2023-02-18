@@ -1,0 +1,13 @@
+<h1 id="workbook-header">{{>badge-name}} Merit Badge Workbook</h1>
+
+<p>Consider also using the {{>badge-name badge=badge}} merit badge class preparation page for clarification and expections when participating in a Scoutmaster Bucky merit badge opportunity (<a href="../?notes=online">online</a> or <a href="../?notes=inPerson">in-person</a>).</p>
+
+{{#if workbookMultipleOptionsMessage}}
+<p>The {{>badge-name}} workbook has been split into individual options. Only one option is required in order to earn the merit badge.</p>
+{{/if}}
+
+<ul>
+{{#each downloads}}
+<li><a href="{{url}}">{{name}}</a>
+{{/each}}
+</ul>

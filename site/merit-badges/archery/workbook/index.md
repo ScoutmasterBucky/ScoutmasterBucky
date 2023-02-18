@@ -1,9 +1,10 @@
 ---
 badge: archery
 layout: smb
+workbookMultipleOptionsMessage: true
+downloads:
+    - name: Archery Workbook - Compound Option
+      url: archery-workbook-compound.pdf
+    - name: Archery Workbook - Recurve Option
+      url: archery-workbook-recurve.pdf
 ---
-
-The Archery workbook has been split into individual options. Only one option is required in order to earn the merit badge.
-
-* [Using a Recurve or Longbow](recurve/)
-* [Using a Compound Bow](compound/)

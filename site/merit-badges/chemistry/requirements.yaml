@@ -1,379 +1,183 @@
 - requirement: 1
   text: |-
-      Do EACH of the following:
+    Do EACH of the following:
   children:
-      - requirement: a
-        text: |-
-            Describe three examples of safety equipment used in a chemistry laboratory and the reason each one is used.
-        workbook:
-          - lines: 8
-          - lines: 8
-          - lines: 8
-        children:
-          - note:
+    - requirement: a
+      text: |-
+        Describe three examples of safety equipment used in a chemistry laboratory and the reason each one is used.
+      children:
+        - note:
             - inPerson
             - online
-            text: |-
-              Scouts should be prepared to describe their findings for this portion of the requirement. It is suggested that any notes or references be brought with to the class in order to aid in completion.
-      - requirement: b
-        text: |-
-            Describe what a safety data sheet (SDS) is and tell why it is used.
-        workbook:
-          - lines: 8
-        children:
-          - note:
+          text: |-
+            Scouts should be prepared to describe their findings for this portion of the requirement. It is suggested that any notes or references be brought with to the class in order to aid in completion.
+    - requirement: b
+      text: |-
+        Describe what a safety data sheet (SDS) is and tell why it is used.
+      children:
+        - note:
             - inPerson
             - online
-            text: |-
-              Scouts should research and formulate an answer that they can describe to the counselor during the class.
-      - requirement: c
-        text: |-
-            Obtain an SDS for both a paint and an insecticide. Compare and discuss the toxicity, disposal, and safe-handling sections for these two common household products.
-        workbook:
-          - split:
-            - task: true
-              text: |-
-                Obtain an SDS for a paint
-            - task: true
-              text: |-
-                Obtain an SDS for an insecticide
-          - lines: 8
-            text: |-
-              Toxicity section comparison
-          - lines: 8
-            text: |-
-              Disposal section comparison
-          - lines: 8
-            text: |-
-              Safe-handling section comparison
-        children:
-          - note:
+          text: |-
+            Scouts should research and formulate an answer that they can describe to the counselor during the class.
+    - requirement: c
+      text: |-
+        Obtain an SDS for both a paint and an insecticide. Compare and discuss the toxicity, disposal, and safe-handling sections for these two common household products.
+      children:
+        - note:
             - inPerson
-            text: |-
-              This part of the requirement will be completed in the class however Scouts should be familiar with the requirement and its terms in order to be better prepared for discussion.
-          - note:
+          text: |-
+            This part of the requirement will be completed in the class however Scouts should be familiar with the requirement and its terms in order to be better prepared for discussion.
+        - note:
             - online
-            text: |-
-              Scouts will need to come to the class having ovtained two SDSs. Only Scouts that come to the class having prepared by obtaining these sheets will be considered ofr sign off on this requirement as a part of the class.
-      - requirement: d
-        text: |-
-            Discuss the safe storage of chemicals. How does the safe storage of chemicals apply to your home, your school, your community, and the environment?
-        workbook:
-          - lines: 8
-            text: |-
-              Safe storage of chemicals
-          - lines: 8
-            text: |-
-              How the safe storage of chemicals applies to your home
-          - lines: 8
-            text: |-
-              How the safe storage of chemicals applies to your school
-          - lines: 8
-            text: |-
-              How the safe storage of chemicals applies to your community
-          - lines: 8
-            text: |-
-              How the safe storage of chemicals applies to the environment
-        children:
-          - note:
+          text: |-
+            Scouts will need to come to the class having ovtained two SDSs. Only Scouts that come to the class having prepared by obtaining these sheets will be considered ofr sign off on this requirement as a part of the class.
+    - requirement: d
+      text: |-
+        Discuss the safe storage of chemicals. How does the safe storage of chemicals apply to your home, your school, your community, and the environment?
+      children:
+        - note:
             - inPerson
             - online
-            text: |-
-              Scouts should review this requirement and its components and be prepared to discuss.
+          text: |-
+            Scouts should review this requirement and its components and be prepared to discuss.
 - requirement: 2
   text: |-
-      Do EACH of the following:
+    Do EACH of the following:
   children:
-      - requirement: a
-        text: |-
-            Predict what would happen if you placed an iron nail in a copper sulfate solution. Then, put an iron nail in a copper sulfate solution. Describe your observations and make a conclusion based on your observations. Compare your prediction and original conclusion with what actually happened. Write the formula for the reaction that you described.
-        workbook:
-          - lines: 8
-            text: |-
-              Your prediction
-          - lines: 8
-            text: |-
-              Your observations
-          - lines: 8
-            text: |-
-              Make a conclusion based on your observations
-          - lines: 8
-            text: |-
-              Write the formula for the reaction that you described
-        children:
-          - note:
+    - requirement: a
+      text: |-
+        Predict what would happen if you placed an iron nail in a copper sulfate solution. Then, put an iron nail in a copper sulfate solution. Describe your observations and make a conclusion based on your observations. Compare your prediction and original conclusion with what actually happened. Write the formula for the reaction that you described.
+      children:
+        - note:
             - inPerson
             - online
-            text: |-
-              This portion of requirement 2 will be completed in the class.
-      - requirement: b
-        text: |-
-            Demonstrate how you would separate sand (or gravel) from water.  Describe how you would separate table salt from water, oil from water, and gasoline from motor oil. Name the practical processes that require these kinds of separations and how the processes may differ.
-        workbook:
-          - task: true
-            text: |-
-              Demonstrate how you would separate sand (or gravel) from water.
-          - lines: 8
-            text: |-
-              How you would separate table salt from water
-          - lines: 8
-            text: |-
-              How you would separate oil from water
-          - lines: 8
-            text: |-
-              How you would separate gasoline from motor oil
-          - lines: 8
-            text: |-
-              Name the processes that require these kinds of separations and how the processes may differ
-        children:
-          - note:
+          text: |-
+            This portion of requirement 2 will be completed in the class.
+    - requirement: b
+      text: |-
+        Demonstrate how you would separate sand (or gravel) from water.  Describe how you would separate table salt from water, oil from water, and gasoline from motor oil. Name the practical processes that require these kinds of separations and how the processes may differ.
+      children:
+        - note:
             - inPerson
-            text: |-
-              The first part of the requirement will be done in the class with the assistance of the counselor, however, prior to arrival at the class, Scouts should research and be prepared to describe how each is separated from the other. Scouts should also have at least one "process" sample for each of these in mind to share and how they differ from the others.
-          - note:
+          text: |-
+            The first part of the requirement will be done in the class with the assistance of the counselor, however, prior to arrival at the class, Scouts should research and be prepared to describe how each is separated from the other. Scouts should also have at least one "process" sample for each of these in mind to share and how they differ from the others.
+        - note:
             - online
-            text: |-
-              The first part of the requirement will NOT be done in the class.  Scouts will need to procure sand and gravel and any necessary resources to be able to demonstrate the separation process as the requirement states during the class. The remaining parts of this requirement component will be discussed in the class however, prior to arrival at the class, Scouts should research and be prepared to describe how each is separated from the other. Scouts should also have at least one "process" sample for each of these in mind to share and how they differ from the others.
-      - requirement: c
-        text: |-
-            Describe the difference between a chemical reaction and a physical change.
-        workbook:
-          - lines: 8
-        children:
-          - note:
+          text: |-
+            The first part of the requirement will NOT be done in the class.  Scouts will need to procure sand and gravel and any necessary resources to be able to demonstrate the separation process as the requirement states during the class. The remaining parts of this requirement component will be discussed in the class however, prior to arrival at the class, Scouts should research and be prepared to describe how each is separated from the other. Scouts should also have at least one "process" sample for each of these in mind to share and how they differ from the others.
+    - requirement: c
+      text: |-
+        Describe the difference between a chemical reaction and a physical change.
+      children:
+        - note:
             - inPerson
             - online
-            text: |-
-              Scouts should bring any supporting notes to the class and be prepared to describe.
+          text: |-
+            Scouts should bring any supporting notes to the class and be prepared to describe.
 - requirement: 3
   text: |-
-      Construct a Cartesian diver. Describe its function in terms of how gases in general behave under different pressures and different temperatures. Describe how the behavior of gases affects a backpacker at high altitudes and a scuba diver underwater.
-  workbook:
-    - task: true
-      text: |-
-        Construct a Cartesian diver
-    - lines: 8
-      text: |-
-        Describe its function
-    - lines: 8
-      text: |-
-        Describe how the behavior of gases affects a backpacker at high altitudes
-    - lines: 8
-      text: |-
-        Describe how the behavior of gases affects a scuba diver underwater
+    Construct a Cartesian diver. Describe its function in terms of how gases in general behave under different pressures and different temperatures. Describe how the behavior of gases affects a backpacker at high altitudes and a scuba diver underwater.
   children:
     - note:
-      - inPerson
+        - inPerson
       text: |-
         This requirement will be covered in the class.
     - note:
-      - online
+        - online
       text: |-
         This requirement will NOT be covered in the class however, Scouts should utilize the Chemistry Merit Badge pamphlet or other source, to learn how to construct and bring their successfully constructed Cartesian diver to the class to share with the counselor / instructor and other Scouts for sign off consideration.
 - requirement: 4
   text: |-
-      Do EACH of the following:
+    Do EACH of the following:
   children:
-      - requirement: a
-        text: |-
-            Cut a round onion into small chunks. Separate the onion chunks into three equal portions. Leave the first portion raw. Cook the second portion of onion chunks until the pieces are translucent. Cook the third portion until the onions are caramelized, or brown in color. Taste each type of onion. Describe the taste of raw onion versus partially cooked onion versus caramelized onion.  Explain what happens to molecules in the onion during the cooking process.
-        workbook:
-          - lines: 8
-            text: |-
-              Describe the taste of the raw oion
-          - lines: 8
-            text: |-
-              Describe the taste of the partially cooked oion
-          - lines: 8
-            text: |-
-              Describe the taste of the carmelized onion
-          - lines: 8
-            text: |-
-              What happens to molecules in the onion during the cooking process
-        children:
-          - note:
+    - requirement: a
+      text: |-
+        Cut a round onion into small chunks. Separate the onion chunks into three equal portions. Leave the first portion raw. Cook the second portion of onion chunks until the pieces are translucent. Cook the third portion until the onions are caramelized, or brown in color. Taste each type of onion. Describe the taste of raw onion versus partially cooked onion versus caramelized onion.  Explain what happens to molecules in the onion during the cooking process.
+      children:
+        - note:
             - online
-            text: |-
-              Scouts will need to do this requirement at home (with parental supervision) and come to the class with their findings.  Proof should be made with photographs of their experiment to show the counselor / instructor during the class that they actually did the experiment. Time will be allotted during the class to share their experienece with the counselor / instructor and other Scouts to complete the discussion parts of this requirement component. Only Scouts who can show the counselor / instructor proof that they actually did the onion experiment will be considered for sign off.
-      - requirement: b
-        text: |-
-            Describe the chemical similarities and differences between toothpaste and an abrasive household cleanser. Explain how the end use or purpose of a product affects its chemical formulation.
-        children:
-          - note:
+          text: |-
+            Scouts will need to do this requirement at home (with parental supervision) and come to the class with their findings.  Proof should be made with photographs of their experiment to show the counselor / instructor during the class that they actually did the experiment. Time will be allotted during the class to share their experienece with the counselor / instructor and other Scouts to complete the discussion parts of this requirement component. Only Scouts who can show the counselor / instructor proof that they actually did the onion experiment will be considered for sign off.
+    - requirement: b
+      text: |-
+        Describe the chemical similarities and differences between toothpaste and an abrasive household cleanser. Explain how the end use or purpose of a product affects its chemical formulation.
+      children:
+        - note:
             - online
-            text: |-
-              Scouts should come prepared having reviewed the information in the merit badge pamphlet as it pertains to these requirements component for class discussion.
-      - requirement: c
-        text: |-
-            In a clear container, mix a half-cup of water with a tablespoon of oil.  Explain why the oil and water do not mix. Find a substance that will help the two combine, and add it to the mixture. Describe what happened, and explain how that substance worked to combine the oil and water.
-        workbook:
-          - lines: 8
-            text: |-
-              Why oil and water do not mix
-          - lines: 8
-            text: |-
-              Describe what happened, and explain how that substance worked to combine the oil and water
-        children:
-          - note:
+          text: |-
+            Scouts should come prepared having reviewed the information in the merit badge pamphlet as it pertains to these requirements component for class discussion.
+    - requirement: c
+      text: |-
+        In a clear container, mix a half-cup of water with a tablespoon of oil.  Explain why the oil and water do not mix. Find a substance that will help the two combine, and add it to the mixture. Describe what happened, and explain how that substance worked to combine the oil and water.
+      children:
+        - note:
             - online
-            text: |-
-              Scouts should have the ingredients and supplies for this experiment to do as a part of the class under counselor / instructor guidance.  ALl Scouts will do this experiment as a part of the online class and share their results and findings as a part of the class discussion. Please do not do this experiment ahead of time.
-      - note:
+          text: |-
+            Scouts should have the ingredients and supplies for this experiment to do as a part of the class under counselor / instructor guidance.  ALl Scouts will do this experiment as a part of the online class and share their results and findings as a part of the class discussion. Please do not do this experiment ahead of time.
+    - note:
         - inPerson
         - online
-        text: |-
-          All components of requirements 4 will be completed during the class as a part of this class. Scouts should come prepared having reviewed the information in the merit badge pamphlet as it pertains to these requirements.
+      text: |-
+        All components of requirements 4 will be completed during the class as a part of this class. Scouts should come prepared having reviewed the information in the merit badge pamphlet as it pertains to these requirements.
 - requirement: 5
   text: |-
-      List the five classical divisions of chemistry. Briefly describe each one, and tell how it applies to your everyday life.
-  workbook:
-    - lines: 8
-    - lines: 8
-    - lines: 8
-    - lines: 8
-    - lines: 8
+    List the five classical divisions of chemistry. Briefly describe each one, and tell how it applies to your everyday life.
   children:
     - note:
-      - inPerson
-      - online
+        - inPerson
+        - online
       text: |-
         Scouts should review this requirement and be prepared to discuss. It is strongly recommended that Scouts bring any notes or supporting documents they may have to help show the counselor that they have prepared for discussion of these items.
 - requirement: 6
   text: |-
-      Do EACH of the following:
+    Do EACH of the following:
   children:
-      - requirement: a
-        text: |-
-            Name two government agencies that are responsible for tracking the use of chemicals for commercial or industrial use. Pick one agency and briefly describe its responsibilities.
-        workbook:
-          - lines: 8
-            text: |-
-              Two government agencies
-          - lines: 8
-            text: |-
-              One of the agencies' responsibilities
-      - requirement: b
-        text: |-
-            Define pollution. Explain the chemical impacts on the ozone layer and global climate change.
-        workbook:
-          - lines: 8
-            text: |-
-              Define pollution
-          - lines: 8
-            text: |-
-              Explain the chemical impacts on the ozone layer and global climate change
-      - requirement: c
-        text: |-
-            Using reasons from chemistry, describe the effect on the environment of ONE of the following:
-        workbook:
-          - header: true
-            markdown: true
-            text: |-
-                  1. The production of aluminum cans
-                  2. Burning fossil fuels
-                  3. Single-use items, such as water bottles, bags, straws, or paper
-          - lines: 8
-        children:
-            - requirement: 1
-              text: |-
-                  The production of aluminum cans
-              workbookHide: true
-            - requirement: 2
-              text: |-
-                  Burning fossil fuels
-              workbookHide: true
-            - requirement: 3
-              text: |-
-                  Single-use items, such as water bottles, bags, straws, or paper
-              workbookHide: true
-      - requirement: d
-        text: |-
-            Briefly describe the purpose of phosphates in fertilizer and in laundry detergent. Explain how the use of phosphates in fertilizers affects the environment. Explain why phosphates have been removed from laundry detergents.
-        workbook:
-          - lines: 8
-            text: |-
-              Purpose of phosphates in fertilizer and in laundry detergent
-          - lines: 8
-            text: |-
-              How the use of phosphates in fertilizers affects the environment
-          - lines: 8
-            text: |-
-              Why phosphates have been removed from laundry detergents
-      - note:
+    - requirement: a
+      text: |-
+        Name two government agencies that are responsible for tracking the use of chemicals for commercial or industrial use. Pick one agency and briefly describe its responsibilities.
+    - requirement: b
+      text: |-
+        Define pollution. Explain the chemical impacts on the ozone layer and global climate change.
+    - requirement: c
+      text: |-
+        Using reasons from chemistry, describe the effect on the environment of ONE of the following:
+      children:
+        - requirement: 1
+          text: |-
+            The production of aluminum cans
+        - requirement: 2
+          text: |-
+            Burning fossil fuels
+        - requirement: 3
+          text: |-
+            Single-use items, such as water bottles, bags, straws, or paper
+    - requirement: d
+      text: |-
+        Briefly describe the purpose of phosphates in fertilizer and in laundry detergent. Explain how the use of phosphates in fertilizers affects the environment. Explain why phosphates have been removed from laundry detergents.
+    - note:
         - inPerson
         - online
-        text: |-
-          All of the options for requirement 6 can and should be researched and reviewed prior to the class. It is strongly recommended that Scouts bring any notes or supporting documents they may have to help show the counselor that they have prepared for discussion of these items.
+      text: |-
+        All of the options for requirement 6 can and should be researched and reviewed prior to the class. It is strongly recommended that Scouts bring any notes or supporting documents they may have to help show the counselor that they have prepared for discussion of these items.
 - requirement: 7
   text: |-
-      Do ONE of the following activities:
+    Do ONE of the following activities:
   children:
-      - requirement: a
-        text: |-
-            Visit a laboratory and talk to a chemist. Ask what that chemist does and what training and education are needed to work as a chemist.
-        workbook:
-          - lines: 8
-      - requirement: b
-        text: |-
-            Using resources found at the library and in periodicals, books, and the internet (with your parent’s permission), learn about two different kinds of work done by chemists, chemical engineers, chemical technicians, or industrial chemists. For each of the four positions, find out the education and training requirements.
-        workbook:
-          - header: true
-            text: |-
-              Chemists
-          - lines: 2
-            text: |-
-              Two different kinds of work
-          - lines: 2
-          - lines: 8
-            text: |-
-              Education and training requirements
-          - header: true
-            text: |-
-              Chemical engineers
-          - lines: 2
-            text: |-
-              Two different kinds of work
-          - lines: 2
-          - lines: 8
-            text: |-
-              Education and training requirements
-          - header: true
-            text: |-
-              Chemical Technicians
-          - lines: 2
-            text: |-
-              Two different kinds of work
-          - lines: 2
-          - lines: 8
-            text: |-
-              Education and training requirements
-          - header: true
-            text: |-
-              Industrial chemists
-          - lines: 2
-            text: |-
-              Two different kinds of work
-          - lines: 2
-          - lines: 8
-            text: |-
-              Education and training requirements
-      - requirement: c
-        text: |-
-            Visit an industrial plant that makes chemical products or uses chemical processes and describe the processes used. What, if any, by-products are produced and how are they handled?
-        workbook:
-          - lines: 8
-            text: |-
-              Describe the processes used
-          - lines: 8
-            text: |-
-              By-products that are produced and how they are handled
-      - requirement: d
-        text: |-
-            Visit a county farm agency or similar governmental agency and learn how chemistry is used to meet the needs of agriculture in your county.
-        workbook:
-          - lines: 8
-      - note:
+    - requirement: a
+      text: |-
+        Visit a laboratory and talk to a chemist. Ask what that chemist does and what training and education are needed to work as a chemist.
+    - requirement: b
+      text: |-
+        Using resources found at the library and in periodicals, books, and the internet (with your parent’s permission), learn about two different kinds of work done by chemists, chemical engineers, chemical technicians, or industrial chemists. For each of the four positions, find out the education and training requirements.
+    - requirement: c
+      text: |-
+        Visit an industrial plant that makes chemical products or uses chemical processes and describe the processes used. What, if any, by-products are produced and how are they handled?
+    - requirement: d
+      text: |-
+        Visit a county farm agency or similar governmental agency and learn how chemistry is used to meet the needs of agriculture in your county.
+    - note:
         - inPerson
         - online
-        text: |-
-          Scouts will need to do one of the options for requirement 7 prior to the class. Three of the four options require site visits which may prove challenging for some. Time will be allotted during the class for all Scouts to share their activity with the counselor and class for consideration of sign off on this requirement. Just saying you did it is not enough, Scouts should bring proof to share along with their presentation to the counselor and class.
+      text: |-
+        Scouts will need to do one of the options for requirement 7 prior to the class. Three of the four options require site visits which may prove challenging for some. Time will be allotted during the class for all Scouts to share their activity with the counselor and class for consideration of sign off on this requirement. Just saying you did it is not enough, Scouts should bring proof to share along with their presentation to the counselor and class.

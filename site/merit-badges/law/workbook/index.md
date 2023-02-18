@@ -1,7 +1,7 @@
 ---
 badge: law
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Law Workbook
+      url: law-workbook.pdf
 ---

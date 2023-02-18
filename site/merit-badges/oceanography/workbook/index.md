@@ -1,7 +1,7 @@
 ---
 badge: oceanography
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Oceanography Workbook
+      url: oceanography-workbook.pdf
 ---

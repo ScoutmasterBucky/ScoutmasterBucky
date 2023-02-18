@@ -1,585 +1,335 @@
 - requirement: 1
   text: |-
-      Discuss with your counselor the influence that EIGHT of the following
-      people had on the history of health care:
-  workbook:
-      - split:
-            - header: true
-              text: |-
-                  a. Hippocrates<br />
-                  b. William Harvey<br />
-                  c. Antonie van Leewenhoek<br />
-                  d. Edward Jenner<br />
-                  e. Florence Nightingale<br />
-                  f. Louis Pasteur<br />
-                  g. Gregor Mendel<br />
-                  h. Joseph Lister<br />
-                  i. Robert Koch<br />
-                  j. Daniel Hale Williams
-            - header: true
-              text: |-
-                  k. Wilhelm Conrad Roentgen<br />
-                  l. Marie and Pierre Curie<br />
-                  m. Walter Reed<br />
-                  n. Karl Landsteiner<br />
-                  o. Alexander Fleming<br />
-                  p. Charles Richard Drew<br />
-                  q. Helen Taussig<br />
-                  r. James Watson and Francis Crick<br />
-                  s. Jonas Salk
+    Discuss with your counselor the influence that EIGHT of the following
+    people had on the history of health care:
   children:
-      - requirement: a
-        text: |-
-            Hippocrates
-        workbookHide: true
-      - requirement: b
-        text: |-
-            William Harvey
-        workbookHide: true
-      - requirement: c
-        text: |-
-            Antonie van Leewenhoek
-        workbookHide: true
-      - requirement: d
-        text: |-
-            Edward Jenner
-        workbookHide: true
-      - requirement: e
-        text: |-
-            Florence Nightingale
-        workbookHide: true
-      - requirement: f
-        text: |-
-            Louis Pasteur
-        workbookHide: true
-      - requirement: g
-        text: |-
-            Gregor Mendel
-        workbookHide: true
-      - requirement: h
-        text: |-
-            Joseph Lister
-        workbookHide: true
-      - requirement: i
-        text: |-
-            Robert Koch
-        workbookHide: true
-      - requirement: j
-        text: |-
-            Daniel Hale Williams
-        workbookHide: true
-      - requirement: k
-        text: |-
-            Wilhelm Conrad Roentgen
-        workbookHide: true
-      - requirement: l
-        text: |-
-            Marie and Pierre Curie
-        workbookHide: true
-      - requirement: m
-        text: |-
-            Walter Reed
-        workbookHide: true
-      - requirement: n
-        text: |-
-            Karl Landsteiner
-        workbookHide: true
-      - requirement: o
-        text: |-
-            Alexander Fleming
-        workbookHide: true
-      - requirement: p
-        text: |-
-            Charles Richard Drew
-        workbookHide: true
-      - requirement: q
-        text: |-
-            Helen Taussig
-        workbookHide: true
-      - requirement: r
-        text: |-
-            James Watson and Francis Crick
-        workbookHide: true
-      - requirement: s
-        text: |-
-            Jonas Salk
-        workbookHide: true
+    - requirement: a
+      text: |-
+        Hippocrates
+    - requirement: b
+      text: |-
+        William Harvey
+    - requirement: c
+      text: |-
+        Antonie van Leewenhoek
+    - requirement: d
+      text: |-
+        Edward Jenner
+    - requirement: e
+      text: |-
+        Florence Nightingale
+    - requirement: f
+      text: |-
+        Louis Pasteur
+    - requirement: g
+      text: |-
+        Gregor Mendel
+    - requirement: h
+      text: |-
+        Joseph Lister
+    - requirement: i
+      text: |-
+        Robert Koch
+    - requirement: j
+      text: |-
+        Daniel Hale Williams
+    - requirement: k
+      text: |-
+        Wilhelm Conrad Roentgen
+    - requirement: l
+      text: |-
+        Marie and Pierre Curie
+    - requirement: m
+      text: |-
+        Walter Reed
+    - requirement: n
+      text: |-
+        Karl Landsteiner
+    - requirement: o
+      text: |-
+        Alexander Fleming
+    - requirement: p
+      text: |-
+        Charles Richard Drew
+    - requirement: q
+      text: |-
+        Helen Taussig
+    - requirement: r
+      text: |-
+        James Watson and Francis Crick
+    - requirement: s
+      text: |-
+        Jonas Salk
 - requirement: 2
   text: |-
-      Explain the Hippocratic Oath to your counselor, and compare the original
-      version to a more modern one. Discuss to whom those subscribing to the
-      original version of the oath owe the greatest allegiance.
-  workbook:
-      - lines: 8
+    Explain the Hippocratic Oath to your counselor, and compare the original
+    version to a more modern one. Discuss to whom those subscribing to the
+    original version of the oath owe the greatest allegiance.
 - requirement: 3
   text: |-
-      Discuss the health-care provider–patient relationship with your
-      counselor, and the importance of such a relationship in the ­delivery of
-      quality care to the patient. Describe the role of ­confidentiality in
-      this relationship.
+    Discuss the health-care provider–patient relationship with your
+    counselor, and the importance of such a relationship in the ­delivery of
+    quality care to the patient. Describe the role of ­confidentiality in
+    this relationship.
 - requirement: 4
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Describe the roles the following people play in the delivery of
-            health care:
-        workbook:
-            - lines: 8
-              text: |-
-                  1. Allopathic physician (M.D.) and osteopathic physician
-                  (D.O.)
-            - lines: 8
-              text: |-
-                  2. Chiropractor (D.C.)
-            - lines: 8
-              text: |-
-                  3. Emergency medical technician
-            - lines: 8
-              text: |-
-                  4. Licensed practical/vocational nurse
-            - lines: 8
-              text: |-
-                  5. Medical assistant
-            - lines: 8
-              text: |-
-                  6. Medical laboratory technologist
-            - lines: 8
-              text: |-
-                  7. Nurse-midwife
-            - lines: 8
-              text: |-
-                  8. Nurse practitioner
-            - lines: 8
-              text: |-
-                  9. Occupational therapist
-            - lines: 8
-              text: |-
-                  10. Optometrist
-            - lines: 8
-              text: |-
-                  11. Pharmacist
-            - lines: 8
-              text: |-
-                  12. Physical therapist
-            - lines: 8
-              text: |-
-                  13. Physician’s assistant
-            - lines: 8
-              text: |-
-                  14. Podiatrist
-            - lines: 8
-              text: |-
-                  15. Psychologist
-            - lines: 8
-              text: |-
-                  16. Radiologic technologist
-            - lines: 8
-              text: |-
-                  17. Registered nurse
-            - lines: 8
-              text: |-
-                  18. Respiratory therapist
-        children:
-            - requirement: 1
-              text: |-
-                  Allopathic physician (M.D.) and osteopathic physician (D.O.)
-              workbookHide: true
-            - requirement: 2
-              text: |-
-                  Chiropractor (D.C.)
-              workbookHide: true
-            - requirement: 3
-              text: |-
-                  Emergency medical technician
-              workbookHide: true
-            - requirement: 4
-              text: |-
-                  Licensed practical/vocational nurse
-              workbookHide: true
-            - requirement: 5
-              text: |-
-                  Medical assistant
-              workbookHide: true
-            - requirement: 6
-              text: |-
-                  Medical laboratory technologist
-              workbookHide: true
-            - requirement: 7
-              text: |-
-                  Nurse-midwife
-              workbookHide: true
-            - requirement: 8
-              text: |-
-                  Nurse practitioner
-              workbookHide: true
-            - requirement: 9
-              text: |-
-                  Occupational therapist
-              workbookHide: true
-            - requirement: 10
-              text: |-
-                  Optometrist
-              workbookHide: true
-            - requirement: 11
-              text: |-
-                  Pharmacist
-              workbookHide: true
-            - requirement: 12
-              text: |-
-                  Physical therapist
-              workbookHide: true
-            - requirement: 13
-              text: |-
-                  Physician’s assistant
-              workbookHide: true
-            - requirement: 14
-              text: |-
-                  Podiatrist
-              workbookHide: true
-            - requirement: 15
-              text: |-
-                  Psychologist
-              workbookHide: true
-            - requirement: 16
-              text: |-
-                  Radiologic technologist
-              workbookHide: true
-            - requirement: 17
-              text: |-
-                  Registered nurse
-              workbookHide: true
-            - requirement: 18
-              text: |-
-                  Respiratory therapist
-              workbookHide: true
-      - requirement: b
-        text: |-
-            Describe the educational and licensing requirements to practice
-            health care in your state for FIVE of the professions in
-            requirement 4a. (Not all professions may exist in your state.)
-        workbook:
-            - lines: 8
-              text: |-
-                  First profession
-            - lines: 8
-              text: |-
-                  Second profession
-            - lines: 8
-              text: |-
-                  Third profession
-            - lines: 8
-              text: |-
-                  Fourth profession
-            - lines: 8
-              text: |-
-                  Fifth profession
+    - requirement: a
+      text: |-
+        Describe the roles the following people play in the delivery of
+        health care:
+      children:
+        - requirement: 1
+          text: |-
+            Allopathic physician (M.D.) and osteopathic physician (D.O.)
+        - requirement: 2
+          text: |-
+            Chiropractor (D.C.)
+        - requirement: 3
+          text: |-
+            Emergency medical technician
+        - requirement: 4
+          text: |-
+            Licensed practical/vocational nurse
+        - requirement: 5
+          text: |-
+            Medical assistant
+        - requirement: 6
+          text: |-
+            Medical laboratory technologist
+        - requirement: 7
+          text: |-
+            Nurse-midwife
+        - requirement: 8
+          text: |-
+            Nurse practitioner
+        - requirement: 9
+          text: |-
+            Occupational therapist
+        - requirement: 10
+          text: |-
+            Optometrist
+        - requirement: 11
+          text: |-
+            Pharmacist
+        - requirement: 12
+          text: |-
+            Physical therapist
+        - requirement: 13
+          text: |-
+            Physician’s assistant
+        - requirement: 14
+          text: |-
+            Podiatrist
+        - requirement: 15
+          text: |-
+            Psychologist
+        - requirement: 16
+          text: |-
+            Radiologic technologist
+        - requirement: 17
+          text: |-
+            Registered nurse
+        - requirement: 18
+          text: |-
+            Respiratory therapist
+    - requirement: b
+      text: |-
+        Describe the educational and licensing requirements to practice
+        health care in your state for FIVE of the professions in
+        requirement 4a. (Not all professions may exist in your state.)
 - requirement: 5
   # Had no text, so added the wording "Do the following":
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Tell what is meant by the term “primary care” with regard to a
-            medical specialty.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            Briefly describe the types of work done by physicians in the
-            following specialties:
-        workbook:
-            - lines: 8
-              text: |-
-                  1. Internal medicine`*`
-            - lines: 8
-              text: |-
-                  2. Family practice`*`
-            - lines: 8
-              text: |-
-                  3. Obstetrics/gynecology`*`
-            - lines: 8
-              text: |-
-                  4. Pediatrics`*`
-            - lines: 8
-              text: |-
-                  5. Psychiatry
-            - lines: 8
-              text: |-
-                  6. Surgery
-            - lines: 8
-              text: |-
-                  7. `*` “Primary care” specialties
-        children:
-            - requirement: 1
-              markdown: true
-              text: |-
-                  Internal medicine`*`
-              workbookHide: true
-            - requirement: 2
-              markdown: true
-              text: |-
-                  Family practice`*`
-              workbookHide: true
-            - requirement: 3
-              markdown: true
-              text: |-
-                  Obstetrics/gynecology`*`
-              workbookHide: true
-            - requirement: 4
-              text: |-
-                  Pediatrics`*`
-              workbookHide: true
-            - requirement: 5
-              text: |-
-                  Psychiatry
-              workbookHide: true
-            - requirement: 6
-              text: |-
-                  Surgery
-              workbookHide: true
-            - detail: true
-              markdown: true
-              text: |-
-                  `*` “Primary care” specialties
-      - requirement: c
-        text: |-
-            Describe the additional educational requirements for these
-            specialties.
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        Tell what is meant by the term “primary care” with regard to a
+        medical specialty.
+    - requirement: b
+      text: |-
+        Briefly describe the types of work done by physicians in the
+        following specialties:
+      children:
+        - requirement: 1
+          markdown: true
+          text: |-
+            Internal medicine`*`
+        - requirement: 2
+          markdown: true
+          text: |-
+            Family practice`*`
+        - requirement: 3
+          markdown: true
+          text: |-
+            Obstetrics/gynecology`*`
+        - requirement: 4
+          text: |-
+            Pediatrics`*`
+        - requirement: 5
+          text: |-
+            Psychiatry
+        - requirement: 6
+          text: |-
+            Surgery
+        - detail: true
+          markdown: true
+          text: |-
+            `*` “Primary care” specialties
+    - requirement: c
+      text: |-
+        Describe the additional educational requirements for these
+        specialties.
 - requirement: 6
   # Had no text, so added the wording "Do the following":
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Briefly describe the types of work performed by physicians in FIVE
-            of the following specialties or subspecialties:
-        workbook:
-            - split:
-                  - header: true
-                    text: |-
-                        1. Allergy/immunology<br />
-                        2. Anesthesiology<br />
-                        3. Cardiology<br />
-                        4. Colorectal surgery<br />
-                        5. Critical care medicine (intensive care medicine)<br />
-                        6. Dermatology<br />
-                        7. Emergency medicine<br />
-                        8. Endocrinology<br />
-                        9. Gastroenterology<br />
-                        10. Geriatric medicine<br />
-                        11. Hematology/oncology<br />
-                        12. Hospitalist<br />
-                        13. Infectious disease<br />
-                        14. Nephrology<br />
-                        15. Neurosurgery
-                  - header: true
-                    text: |-
-                        16. Neurology<br />
-                        17. Nuclear medicine<br />
-                        18. Ophthalmology<br />
-                        19. Orthopedic surgery<br />
-                        20. Otolaryngology/head and neck surgery<br />
-                        21. Pathology<br />
-                        22. Physical medicine and rehabilitation<br />
-                        23. Plastic, reconstructive, and maxillofacial surgery<br />
-                        24. Preventive medicine<br />
-                        25. Pulmonology<br />
-                        26. Radiology<br />
-                        27. Rheumatology<br />
-                        28. Thoracic/cardiothoracic sur­gery<br />
-                        29. Urology<br />
-                        30. Vascular surgery
-        children:
-            - requirement: 1
-              text: |-
-                  Allergy/immunology
-              workbookHide: true
-            - requirement: 2
-              text: |-
-                  Anesthesiology
-              workbookHide: true
-            - requirement: 3
-              text: |-
-                  Cardiology
-              workbookHide: true
-            - requirement: 4
-              text: |-
-                  Colorectal surgery
-              workbookHide: true
-            - requirement: 5
-              text: |-
-                  Critical care medicine (intensive care medicine)
-              workbookHide: true
-            - requirement: 6
-              text: |-
-                  Dermatology
-              workbookHide: true
-            - requirement: 7
-              text: |-
-                  Emergency medicine
-              workbookHide: true
-            - requirement: 8
-              text: |-
-                  Endocrinology
-              workbookHide: true
-            - requirement: 9
-              text: |-
-                  Gastroenterology
-              workbookHide: true
-            - requirement: 10
-              text: |-
-                  Geriatric medicine
-              workbookHide: true
-            - requirement: 11
-              text: |-
-                  Hematology/oncology
-              workbookHide: true
-            - requirement: 12
-              text: |-
-                  Hospitalist
-              workbookHide: true
-            - requirement: 13
-              text: |-
-                  Infectious disease
-              workbookHide: true
-            - requirement: 14
-              text: |-
-                  Nephrology
-              workbookHide: true
-            - requirement: 15
-              text: |-
-                  Neurosurgery
-              workbookHide: true
-            - requirement: 16
-              text: |-
-                  Neurology
-              workbookHide: true
-            - requirement: 17
-              text: |-
-                  Nuclear medicine
-              workbookHide: true
-            - requirement: 18
-              text: |-
-                  Ophthalmology
-              workbookHide: true
-            - requirement: 19
-              text: |-
-                  Orthopedic surgery
-              workbookHide: true
-            - requirement: 20
-              text: |-
-                  Otolaryngology/head and neck surgery
-              workbookHide: true
-            - requirement: 21
-              text: |-
-                  Pathology
-              workbookHide: true
-            - requirement: 22
-              text: |-
-                  Physical medicine and rehabilitation
-              workbookHide: true
-            - requirement: 23
-              text: |-
-                  Plastic, reconstructive, and maxillofacial surgery
-              workbookHide: true
-            - requirement: 24
-              text: |-
-                  Preventive medicine
-              workbookHide: true
-            - requirement: 25
-              text: |-
-                  Pulmonology
-              workbookHide: true
-            - requirement: 26
-              text: |-
-                  Radiology
-              workbookHide: true
-            - requirement: 27
-              text: |-
-                  Rheumatology
-              workbookHide: true
-            - requirement: 28
-              text: |-
-                  Thoracic/cardiothoracic sur­gery
-              workbookHide: true
-            - requirement: 29
-              text: |-
-                  Urology
-              workbookHide: true
-            - requirement: 30
-              text: |-
-                  Vascular surgery
-              workbookHide: true
-      - requirement: b
-        text: |-
-            Describe the additional educational requirements for the FIVE
-            specialties or subspecialties you chose in 6a.
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        Briefly describe the types of work performed by physicians in FIVE
+        of the following specialties or subspecialties:
+      children:
+        - requirement: 1
+          text: |-
+            Allergy/immunology
+        - requirement: 2
+          text: |-
+            Anesthesiology
+        - requirement: 3
+          text: |-
+            Cardiology
+        - requirement: 4
+          text: |-
+            Colorectal surgery
+        - requirement: 5
+          text: |-
+            Critical care medicine (intensive care medicine)
+        - requirement: 6
+          text: |-
+            Dermatology
+        - requirement: 7
+          text: |-
+            Emergency medicine
+        - requirement: 8
+          text: |-
+            Endocrinology
+        - requirement: 9
+          text: |-
+            Gastroenterology
+        - requirement: 10
+          text: |-
+            Geriatric medicine
+        - requirement: 11
+          text: |-
+            Hematology/oncology
+        - requirement: 12
+          text: |-
+            Hospitalist
+        - requirement: 13
+          text: |-
+            Infectious disease
+        - requirement: 14
+          text: |-
+            Nephrology
+        - requirement: 15
+          text: |-
+            Neurosurgery
+        - requirement: 16
+          text: |-
+            Neurology
+        - requirement: 17
+          text: |-
+            Nuclear medicine
+        - requirement: 18
+          text: |-
+            Ophthalmology
+        - requirement: 19
+          text: |-
+            Orthopedic surgery
+        - requirement: 20
+          text: |-
+            Otolaryngology/head and neck surgery
+        - requirement: 21
+          text: |-
+            Pathology
+        - requirement: 22
+          text: |-
+            Physical medicine and rehabilitation
+        - requirement: 23
+          text: |-
+            Plastic, reconstructive, and maxillofacial surgery
+        - requirement: 24
+          text: |-
+            Preventive medicine
+        - requirement: 25
+          text: |-
+            Pulmonology
+        - requirement: 26
+          text: |-
+            Radiology
+        - requirement: 27
+          text: |-
+            Rheumatology
+        - requirement: 28
+          text: |-
+            Thoracic/cardiothoracic sur­gery
+        - requirement: 29
+          text: |-
+            Urology
+        - requirement: 30
+          text: |-
+            Vascular surgery
+    - requirement: b
+      text: |-
+        Describe the additional educational requirements for the FIVE
+        specialties or subspecialties you chose in 6a.
 - requirement: 7
   # Had no text, so added the wording "Do the following":
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        markdown: true
-        text: |-
-            Visit a physician’s office`*`, preferably one who delivers
-            ­“primary care.” (This may be that of your counselor.) Discuss the
-            components of a medical history and physical examination (an
-            official BSA health form may be used to guide this discussion), and
-            become familiar with the instruments used.
+    - requirement: a
+      markdown: true
+      text: |-
+        Visit a physician’s office`*`, preferably one who delivers
+        ­“primary care.” (This may be that of your counselor.) Discuss the
+        components of a medical history and physical examination (an
+        official BSA health form may be used to guide this discussion), and
+        become familiar with the instruments used.
 
-            `*` If this cannot be arranged, demonstrate to your counselor that you understand the components of a medical history and physical, and ­discuss the instruments involved.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            Describe the characteristics of a good diagnostic test to screen
-            for disease (e.g., routine blood pressure measurement). Explain
-            briefly why diagnostic tests are not “perfect.”
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            Show how to take a blood pressure and a pulse reading.
-        workbook:
-            - task: true
+        `*` If this cannot be arranged, demonstrate to your counselor that you understand the components of a medical history and physical, and ­discuss the instruments involved.
+    - requirement: b
+      text: |-
+        Describe the characteristics of a good diagnostic test to screen
+        for disease (e.g., routine blood pressure measurement). Explain
+        briefly why diagnostic tests are not “perfect.”
+    - requirement: c
+      text: |-
+        Show how to take a blood pressure and a pulse reading.
 - requirement: 8
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        # Text was jumbled in extract
-        text: |-
-            Discuss the roles medical societies, employers, the insurance
-            industry, and the government play in influencing the practice of
-            medicine in the United States.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            Briefly tell how your state monitors the quality of health care
-            within its borders, and how it provides care to those who do not
-            have health insurance.
-        workbook:
-            - lines: 8
+    - requirement: a
+      # Text was jumbled in extract
+      text: |-
+        Discuss the roles medical societies, employers, the insurance
+        industry, and the government play in influencing the practice of
+        medicine in the United States.
+    - requirement: b
+      text: |-
+        Briefly tell how your state monitors the quality of health care
+        within its borders, and how it provides care to those who do not
+        have health insurance.
 - requirement: 9
   text: |-
-      Compare and discuss with your counselor at least two types of health care
-      delivery systems used throughout the world.
-  workbook:
-      - lines: 8
+    Compare and discuss with your counselor at least two types of health care
+    delivery systems used throughout the world.
 - requirement: 10
   text: |-
-      Serve as a volunteer at a health-related event or facility in your
-      community (e.g., blood drive, “health fair,” blood pressure screening,
-      etc.) approved by your counselor.
-  workbook:
-      - task: true
+    Serve as a volunteer at a health-related event or facility in your
+    community (e.g., blood drive, “health fair,” blood pressure screening,
+    etc.) approved by your counselor.

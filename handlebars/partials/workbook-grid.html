@@ -1,8 +1,0 @@
-<div class="{{>workbook-section-classes}}">
-{{>workbook-item-caption}}
-{{! Printing this background looks bad in wkhtmltopdf because it does not
-attach to the textarea and appears to attach to the page. printBgStyleRemove
-will remove it in that case !}}
-<div class="Fz(workbookLineHeight) Lh(1) H({{grid}}em) printBgStyleRemove" style="background-image: url({{@root.rootPath}}images/bg-grid-26px.png)">
-</div>
-</div>

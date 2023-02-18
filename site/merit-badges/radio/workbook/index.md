@@ -1,11 +1,14 @@
 ---
 badge: radio
 layout: smb
+workbookMultipleOptionsMessage: true
+downloads:
+    - name: Radio Workbook - Amateur Radio Option
+      url: radio-workbook-amateur-radio.pdf
+    - name: Radio Workbook - Broadcasting Option
+      url: radio-workbook-broadcasting.pdf
+    - name: Radio Workbook - Directing Finding Option
+      url: radio-workbook-direction-finding.pdf
+    - name: Radio Workbook - Shortwave and Medium-Wave Listening Option
+      url: radio-workbook-shortwave-and-medium-wave-listening.pdf
 ---
-
-The Radio workbook has been split into individual options. Only one option is required in order to earn the merit badge.
-
-* [Amateur Radio](amateur-radio/)
-* [Radio Broadcasting](broadcasting/)
-* [Shortwave and Medium-Wave Listening](listening/)
-* [Amateur Radio Direction Finding](direction-finding/)

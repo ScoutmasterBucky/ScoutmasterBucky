@@ -28,9 +28,6 @@ metalsmithSite.run({
         // Translate Unicode
         sugar.use(path.join(__dirname, '/plugins/translate-unicode'));
     },
-    contentsAfter: (sugar) => {
-        sugar.use(path.join(__dirname, '/plugins/workbook-header-footer'));
-    },
     contentsBefore: (sugar) => {
         // Pre-process events so they can be included into the index page. Only
         // the index page may include the events because the links and images
