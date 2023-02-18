@@ -1,7 +1,7 @@
 ---
 badge: collections
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Collections Workbook
+      url: collections-workbook.pdf
 ---

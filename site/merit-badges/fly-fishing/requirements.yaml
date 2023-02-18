@@ -1,313 +1,98 @@
 - requirement: 1
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain to your counselor the most likely hazards you may encounter
-            while participating in fly-fishing activities and what you should
-            do to anticipate, help prevent, mitigate, and respond to these
-            hazards. Name and explain five safety practices you should always
-            follow while fly-fishing.
-        workbook:
-            - lines: 8
-              text: |-
-                  Most likely hazards
-            - lines: 8
-              text: |-
-                  Anticipate hazards
-            - lines: 8
-              text: |-
-                  Prevent hazards
-            - lines: 8
-              text: |-
-                  Mitigate hazards
-            - lines: 8
-              text: |-
-                  Respond to hazards
-            - lines: 8
-              text: |-
-                  Five safety practices
-      - requirement: b
-        text: |-
-            Discuss the prevention of and treatment for health concerns that
-            could occur while fly-fishing, including cuts and scratches,
-            puncture wounds, insect bites, hypothermia, dehydration, heat
-            exhaustion, heatstroke, and sunburn.
-        workbook:
-            - lines: 8
-              text: |-
-                  Cuts and scratches
-            - lines: 8
-              text: |-
-                  Puncture wounds
-            - lines: 8
-              text: |-
-                  Insect bites
-            - lines: 8
-              text: |-
-                  Hypothermia
-            - lines: 8
-              text: |-
-                  Dehydration
-            - lines: 8
-              text: |-
-                  Heat exhaustion
-            - lines: 8
-              text: |-
-                  Heatstroke
-            - lines: 8
-              text: |-
-                  Sunburn
-      - requirement: c
-        text: |-
-            Explain how to remove a hook that has lodged in your arm.
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        Explain to your counselor the most likely hazards you may encounter
+        while participating in fly-fishing activities and what you should
+        do to anticipate, help prevent, mitigate, and respond to these
+        hazards. Name and explain five safety practices you should always
+        follow while fly-fishing.
+    - requirement: b
+      text: |-
+        Discuss the prevention of and treatment for health concerns that
+        could occur while fly-fishing, including cuts and scratches,
+        puncture wounds, insect bites, hypothermia, dehydration, heat
+        exhaustion, heatstroke, and sunburn.
+    - requirement: c
+      text: |-
+        Explain how to remove a hook that has lodged in your arm.
 - requirement: 2
   text: |-
-      Demonstrate how to match a fly rod, line, and leader to achieve a
-      balanced system. Discuss several types of fly lines, and explain how and
-      when each would be used.  Review with your counselor how to care for this
-      equipment.
-  workbook:
-      - lines: 8
-        text: |-
-            How to match a fly rod, line, and leader
-      - lines: 8
-        text: |-
-            Several types of fly lines and when each would be used
-      - lines: 8
-        text: |-
-            How to care for this equipment
+    Demonstrate how to match a fly rod, line, and leader to achieve a
+    balanced system. Discuss several types of fly lines, and explain how and
+    when each would be used.  Review with your counselor how to care for this
+    equipment.
 - requirement: 3
   text: |-
-      Demonstrate how to tie proper knots to prepare a fly rod for fishing:
-  workbook:
-      - task: true
-        text: |-
-            a. Tie backing to the arbor of a fly reel spool using an arbor
-            knot.
-      - task: true
-        text: |-
-            b. Tie backing to the fly line using a nail knot.
-      - task: true
-        text: |-
-            c. Attach a leader to the fly line using a nail knot or a
-            loop-to-loop connection.
-      - task: true
-        text: |-
-            d. Add a tippet to a leader using a surgeon’s knot or a
-            loop-to-loop connection.
-      - task: true
-        text: |-
-            e. Tie a fly onto the terminal end of the leader using an improved
-            clinch knot.
+    Demonstrate how to tie proper knots to prepare a fly rod for fishing:
   children:
-      - requirement: a
-        text: |-
-            Tie backing to the arbor of a fly reel spool using an arbor knot.
-        workbookHide: true
-      - requirement: b
-        text: |-
-            Tie backing to the fly line using a nail knot.
-        workbookHide: true
-      - requirement: c
-        text: |-
-            Attach a leader to the fly line using a nail knot or a loop-to-loop
-            connection.
-        workbookHide: true
-      - requirement: d
-        text: |-
-            Add a tippet to a leader using a surgeon’s knot or a loop-to-loop
-            connection.
-        workbookHide: true
-      - requirement: e
-        text: |-
-            Tie a fly onto the terminal end of the leader using an improved
-            clinch knot.
-        workbookHide: true
+    - requirement: a
+      text: |-
+        Tie backing to the arbor of a fly reel spool using an arbor knot.
+    - requirement: b
+      text: |-
+        Tie backing to the fly line using a nail knot.
+    - requirement: c
+      text: |-
+        Attach a leader to the fly line using a nail knot or a loop-to-loop
+        connection.
+    - requirement: d
+      text: |-
+        Add a tippet to a leader using a surgeon’s knot or a loop-to-loop
+        connection.
+    - requirement: e
+      text: |-
+        Tie a fly onto the terminal end of the leader using an improved
+        clinch knot.
 - requirement: 4
   text: |-
-      Explain how and when each of the following types of flies is used: dry
-          flies, wet flies, nymphs, streamers, bass bugs, poppers, and
-          saltwater flies. Tell what each one imitates. Tie at least two types
-          of the flies mentioned in this requirement.
-  workbook:
-      - header: true
-        text: |-
-            Dry flies
-      - lines: 8
-        text: |-
-            When they are used
-      - split:
-            - lines: 2
-              text: |-
-                  What it imitates
-            - task: true
-              text: |-
-                  Tied this type of fly
-      - header: true
-        text: |-
-            Wet flies
-      - lines: 8
-        text: |-
-            When they are used
-      - split:
-            - lines: 2
-              text: |-
-                  What it imitates
-            - task: true
-              text: |-
-                  Tied this type of fly
-      - header: true
-        text: |-
-            Nymphs
-      - lines: 8
-        text: |-
-            When they are used
-      - split:
-            - lines: 2
-              text: |-
-                  What it imitates
-            - task: true
-              text: |-
-                  Tied this type of fly
-      - header: true
-        text: |-
-            Streamers
-      - lines: 8
-        text: |-
-            When they are used
-      - split:
-            - lines: 2
-              text: |-
-                  What it imitates
-            - task: true
-              text: |-
-                  Tied this type of fly
-      - header: true
-        text: |-
-            Bass bugs
-      - lines: 8
-        text: |-
-            When they are used
-      - split:
-            - lines: 2
-              text: |-
-                  What it imitates
-            - task: true
-              text: |-
-                  Tied this type of fly
-      - header: true
-        text: |-
-            Poppers
-      - lines: 8
-        text: |-
-            When they are used
-      - split:
-            - lines: 2
-              text: |-
-                  What it imitates
-            - task: true
-              text: |-
-                  Tied this type of fly
-      - header: true
-        text: |-
-            Saltwater flies
-      - lines: 8
-        text: |-
-            When they are used
-      - split:
-            - lines: 2
-              text: |-
-                  What it imitates
-            - task: true
-              text: |-
-                  Tied this type of fly
+    Explain how and when each of the following types of flies is used: dry
+        flies, wet flies, nymphs, streamers, bass bugs, poppers, and
+        saltwater flies. Tell what each one imitates. Tie at least two types
+        of the flies mentioned in this requirement.
 - requirement: 5
   text: |-
-      Demonstrate the ability to cast a fly 30 feet consistently and accurately
-      using both overhead and roll cast techniques.
-  workbook:
-      - split:
-            - task: true
-              text: |-
-                  Overhead cast
-            - task: true
-              text: |-
-                  Roll cast
+    Demonstrate the ability to cast a fly 30 feet consistently and accurately
+    using both overhead and roll cast techniques.
 - requirement: 6
   text: |-
-      Go to a suitable fishing location and observe what fish may be eating
-      both above and beneath the water’s surface.  Explain the importance of
-      matching the hatch.
-  workbook:
-      - lines: 8
+    Go to a suitable fishing location and observe what fish may be eating
+    both above and beneath the water’s surface.  Explain the importance of
+    matching the hatch.
 - requirement: 7
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain the importance of practicing Leave No Trace techniques.
-            Discuss the positive effects of Leave No Trace on fly-fishing
-            resources.
-        workbook:
-            - lines: 8
-              text: |-
-                  Importance of practicing Leave No Trace techniques
-            - lines: 8
-              text: |-
-                  Positive effects of Leave No Trace
-      - requirement: b
-        text: |-
-            Discuss the meaning and importance of catch and release. Describe
-            how to properly release a fish safely to the water.
-        workbook:
-            - lines: 8
-              text: |-
-                  Meaning and importance of catch and release
-            - lines: 8
-              text: |-
-                  How to properly release a fish safely to the water
+    - requirement: a
+      text: |-
+        Explain the importance of practicing Leave No Trace techniques.
+        Discuss the positive effects of Leave No Trace on fly-fishing
+        resources.
+    - requirement: b
+      text: |-
+        Discuss the meaning and importance of catch and release. Describe
+        how to properly release a fish safely to the water.
 - requirement: 8
   text: |-
-      Obtain and review a copy of the regulations affecting game fishing where
-      you live or where you plan to fish. Explain why they were adopted and
-      what is accomplished by following them.
-  workbook:
-      - lines: 8
+    Obtain and review a copy of the regulations affecting game fishing where
+    you live or where you plan to fish. Explain why they were adopted and
+    what is accomplished by following them.
 - requirement: 9
   text: |-
-      Discuss what good sportsmanlike behavior is and how it relates to
-      anglers. Tell how the Outdoor Code of the Boy Scouts of America relates
-      to a fishing enthusiast, including the aspects of littering, trespassing,
-      courteous behavior, “catch and release,” and obeying fishing regulations.
-  workbook:
-      - lines: 8
-        text: |-
-            What good sportsmanlike behavior is and how it relates to anglers
-      - lines: 8
-        text: |-
-            How the Outdoor Code of the Boy Scouts of America relates to a
-            fishing enthusiast
+    Discuss what good sportsmanlike behavior is and how it relates to
+    anglers. Tell how the Outdoor Code of the Boy Scouts of America relates
+    to a fishing enthusiast, including the aspects of littering, trespassing,
+    courteous behavior, “catch and release,” and obeying fishing regulations.
 - requirement: 10
   text: |-
-      Catch at least one fish using a fly rod and a fly. Identify it and
-      quickly release it live back into the water. Discuss this experience with
-      your counselor.
-  workbook:
-      - split:
-            - task: true
-            - lines: 2
-              text: |-
-                  Type of fish
+    Catch at least one fish using a fly rod and a fly. Identify it and
+    quickly release it live back into the water. Discuss this experience with
+    your counselor.
 - requirement: 11
   text: |-
-      If regulations and health concerns permit, clean and cook a fish you have
-      caught. If you are unable to catch a fish for eating, acquire a fish,
-      clean the fish you acquired, and cook the fish you acquired. (It is not
-      required that you eat the fish.)
-  workbook:
-      - task: true
+    If regulations and health concerns permit, clean and cook a fish you have
+    caught. If you are unable to catch a fish for eating, acquire a fish,
+    clean the fish you acquired, and cook the fish you acquired. (It is not
+    required that you eat the fish.)

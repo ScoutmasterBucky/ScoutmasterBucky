@@ -1,7 +1,7 @@
 ---
 badge: bird-study
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Bird Study Workbook
+      url: bird-study-workbook.pdf
 ---

@@ -1,7 +1,7 @@
 ---
 badge: wood-carving
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Wood Carving Workbook
+      url: wood-carving-workbook.pdf
 ---

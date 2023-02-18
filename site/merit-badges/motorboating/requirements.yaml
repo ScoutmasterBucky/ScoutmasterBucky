@@ -1,222 +1,131 @@
 - requirement: 1
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Discuss with your counselor the following hazards you might
-            encounter while motorboating: flammable fuel; carbon monoxide;
-            propellers; collisions; falls overboard; capsize; running aground.
-            Explain what you should do to anticipate, prevent, mitigate and
-            respond to these hazards.
-        workbook:
-            - lines: 8
-              text: |-
-                  Flammable Fuel
-            - lines: 8
-              text: |-
-                  Carbon monoxide
-            - lines: 8
-              text: |-
-                  Propellers
-            - lines: 8
-              text: |-
-                  Collisions
-            - lines: 8
-              text: |-
-                  Falls overboard
-            - lines: 8
-              text: |-
-                  Capsize
-            - lines: 8
-              text: |-
-                  Running aground
-      - requirement: b
-        text: |-
-            Explain first aid for injuries or illnesses that could occur while
-            motorboating, including hypothermia, heat reactions, dehydration,
-            motion sickness, bugbites, and blisters.
-        workbook:
-            - lines: 8
-              text: |-
-                  Hypothermia
-            - lines: 8
-              text: |-
-                  Heat reactions
-            - lines: 8
-              text: |-
-                  Dehydration
-            - lines: 8
-              text: |-
-                  Motion sickness
-            - lines: 8
-              text: |-
-                  Bugbites
-            - lines: 8
-              text: |-
-                  Blisters
-      - requirement: c
-        text: |-
-            Identify the conditions that must exist before performing CPR on a
-            person, and explain how such conditions are recognized. Demonstrate
-            proper technique for performing CPR using a training device
-            approved by your counselor.
-        workbook:
-            - lines: 8
-            - task: true
-              text: |-
-                  Demonstrated
+    - requirement: a
+      text: |-
+        Discuss with your counselor the following hazards you might
+        encounter while motorboating: flammable fuel; carbon monoxide;
+        propellers; collisions; falls overboard; capsize; running aground.
+        Explain what you should do to anticipate, prevent, mitigate and
+        respond to these hazards.
+    - requirement: b
+      text: |-
+        Explain first aid for injuries or illnesses that could occur while
+        motorboating, including hypothermia, heat reactions, dehydration,
+        motion sickness, bugbites, and blisters.
+    - requirement: c
+      text: |-
+        Identify the conditions that must exist before performing CPR on a
+        person, and explain how such conditions are recognized. Demonstrate
+        proper technique for performing CPR using a training device
+        approved by your counselor.
 - requirement: 2
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        # Fixed the requirement - added "B" at the beginning
-        text: |-
-            Before doing requirement 5, successfully complete the BSA swimmer
-            test.
-        workbook:
-            - signature: Swim Test Observer
-      - requirement: b
-        text: |-
-            Name the different types of personal flotation devices (PFDs), and
-            explain when each type should be used.  Show how to choose and
-            properly fit a PFD.
-        workbook:
-            - lines: 8
-            - task: true
-              text: |-
-                  Shown how to choose and properly fit a PFD
+    - requirement: a
+      # Fixed the requirement - added "B" at the beginning
+      text: |-
+        Before doing requirement 5, successfully complete the BSA swimmer
+        test.
+    - requirement: b
+      text: |-
+        Name the different types of personal flotation devices (PFDs), and
+        explain when each type should be used.  Show how to choose and
+        properly fit a PFD.
 - requirement: 3
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain inboard, outboard, and inboard/outboard motors, and the
-            uses and advantages of each.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            Explain the safety procedures and precautions involving handling
-            fuel and engine servicing, and equipment storage and placement.
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            Explain how to winterize a boat motor and tell why this procedure
-            is necessary.
-        workbook:
-            - lines: 8
-      - requirement: d
-        text: |-
-            Explain the safety procedures and precautions involving swimmers
-            and skiers in the water, passenger positions underway, and boat
-            wakes.
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        Explain inboard, outboard, and inboard/outboard motors, and the
+        uses and advantages of each.
+    - requirement: b
+      text: |-
+        Explain the safety procedures and precautions involving handling
+        fuel and engine servicing, and equipment storage and placement.
+    - requirement: c
+      text: |-
+        Explain how to winterize a boat motor and tell why this procedure
+        is necessary.
+    - requirement: d
+      text: |-
+        Explain the safety procedures and precautions involving swimmers
+        and skiers in the water, passenger positions underway, and boat
+        wakes.
 - requirement: 4
   text: |-
-      Show you know safety guidelines for motorboating by doing the following:
+    Show you know safety guidelines for motorboating by doing the following:
   children:
-      - requirement: a
-        text: |-
-            Review how each item of the BSA Safety Afloat policy applies,
-            including checking the weather prior to and during time on the
-            water, confirming all required equipment is present and functional,
-            and following a float plan.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            Explain the rules or laws that apply to recreational boating in
-            your area or state. Have a permit to operate a motorboat, if
-            required by the laws of your state. Discuss how you would find
-            information regarding the boating laws in different states.
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            Discuss how hazards of weather and heavy water conditions can
-            affect safety and performance in motorboating.
-        workbook:
-            - lines: 8
-      - requirement: d
-        text: |-
-            Discuss with your counselor the nautical rules of the road and
-            describe the national and your state’s aids to navigation.
-        workbook:
-            - lines: 8
-      - requirement: e
-        text: |-
-            Explain and show the correct use of equipment required by both
-            state and federal regulations to be carried aboard a motorboat.
-        workbook:
-            - lines: 8
-      - requirement: f
-        text: |-
-            Explain federal and state rules for a ventilation system, and tell
-            why these rules are required.
-        workbook:
-            - lines: 8
-      - requirement: g
-        text: |-
-            Explain the use of lights (sight signals) and sound signals on
-            motorboats.
-        workbook:
-            - lines: 8
-      - requirement: h
-        text: |-
-            Discuss the common types of anchors used in motorboating and under
-            what conditions each would be preferred.  Explain proper anchoring
-            techniques.
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        Review how each item of the BSA Safety Afloat policy applies,
+        including checking the weather prior to and during time on the
+        water, confirming all required equipment is present and functional,
+        and following a float plan.
+    - requirement: b
+      text: |-
+        Explain the rules or laws that apply to recreational boating in
+        your area or state. Have a permit to operate a motorboat, if
+        required by the laws of your state. Discuss how you would find
+        information regarding the boating laws in different states.
+    - requirement: c
+      text: |-
+        Discuss how hazards of weather and heavy water conditions can
+        affect safety and performance in motorboating.
+    - requirement: d
+      text: |-
+        Discuss with your counselor the nautical rules of the road and
+        describe the national and your state’s aids to navigation.
+    - requirement: e
+      text: |-
+        Explain and show the correct use of equipment required by both
+        state and federal regulations to be carried aboard a motorboat.
+    - requirement: f
+      text: |-
+        Explain federal and state rules for a ventilation system, and tell
+        why these rules are required.
+    - requirement: g
+      text: |-
+        Explain the use of lights (sight signals) and sound signals on
+        motorboats.
+    - requirement: h
+      text: |-
+        Discuss the common types of anchors used in motorboating and under
+        what conditions each would be preferred.  Explain proper anchoring
+        techniques.
 - requirement: 5
   text: |-
-      With your counselor or other adults on board, demonstrate proper
-      boat-handling procedures and skills by doing the following:
+    With your counselor or other adults on board, demonstrate proper
+    boat-handling procedures and skills by doing the following:
   children:
-      - requirement: a
-        text: |-
-            Board and assist others in boarding. Confirm that all passengers on
-            board are wearing properly fitted life jackets.
-        workbook:
-            - task: true
-      - requirement: b
-        text: |-
-            Fuel the boat and complete a safety check.
-        workbook:
-            - task: true
-      - requirement: c
-        text: |-
-            If equiped, attach a kill switch and safely start the motor.  Get
-            underway from dockside or from a beach launch..
-        workbook:
-            - task: true
-      - requirement: d
-        text: |-
-            Run a course for at least a mile, showing procedures for overtaking
-            and passing slower craft, yielding right-of-way, passing oncoming
-            traffic, making turns, reversing direction, and using navigation
-            aids.
-        workbook:
-            - task: true
-      - requirement: e
-        text: |-
-            Stop and secure the boat in position on the open water using
-            anchors. Raise and stow the anchor and get underway.
-        workbook:
-            - task: true
-      - requirement: f
-        text: |-
-            Land or dock the boat, disembark, and assist others in doing the
-            same.
-        workbook:
-            - task: true
-      - requirement: g
-        text: |-
-            Moor, dock, or beach the boat and secure all gear.
-        workbook:
-            - task: true
+    - requirement: a
+      text: |-
+        Board and assist others in boarding. Confirm that all passengers on
+        board are wearing properly fitted life jackets.
+    - requirement: b
+      text: |-
+        Fuel the boat and complete a safety check.
+    - requirement: c
+      text: |-
+        If equiped, attach a kill switch and safely start the motor.  Get
+        underway from dockside or from a beach launch..
+    - requirement: d
+      text: |-
+        Run a course for at least a mile, showing procedures for overtaking
+        and passing slower craft, yielding right-of-way, passing oncoming
+        traffic, making turns, reversing direction, and using navigation
+        aids.
+    - requirement: e
+      text: |-
+        Stop and secure the boat in position on the open water using
+        anchors. Raise and stow the anchor and get underway.
+    - requirement: f
+      text: |-
+        Land or dock the boat, disembark, and assist others in doing the
+        same.
+    - requirement: g
+      text: |-
+        Moor, dock, or beach the boat and secure all gear.

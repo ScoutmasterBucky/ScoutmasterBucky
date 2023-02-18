@@ -1,7 +1,7 @@
 ---
 badge: electronics
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Electronics Workbook
+      url: electronics-workbook.pdf
 ---

@@ -1,7 +1,7 @@
 ---
 badge: woodwork
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Woodwork Workbook
+      url: woodwork-workbook.pdf
 ---

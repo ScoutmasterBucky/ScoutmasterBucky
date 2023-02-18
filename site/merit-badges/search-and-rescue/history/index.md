@@ -1,6 +1,6 @@
 ---
 badge: search-and-rescue
-layout: smb-merit-badge
+layout: smb-merit-badge-history
 history: true
 ---
 

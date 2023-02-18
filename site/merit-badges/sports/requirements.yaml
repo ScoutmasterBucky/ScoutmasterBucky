@@ -1,167 +1,72 @@
 - detail: true
   markdown: true
   text: |-
-      **Note:** The activities used to fulfill the requirements for the Sports merit badge may not be used to help fulfill requirements for other merit badges.
+    **Note:** The activities used to fulfill the requirements for the Sports merit badge may not be used to help fulfill requirements for other merit badges.
 - requirement: 1
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain to your counselor the most likely hazards you may encounter while playing sports, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
-        workbook:
-            - lines: 8
-              text: |-
-                  Anticipate hazards
-            - lines: 8
-              text: |-
-                  Prevent hazards
-            - lines: 8
-              text: |-
-                  Mitigate hazards
-            - lines: 8
-              text: |-
-                  Respond to hazards
-      - requirement: b
-        text: |-
-            Show that you know first aid for injuries or illnesses that could occur while participating in sports, including sprains, strains, contusions, abrasions, fractures, blisters, muscle cramps, injured teeth, dehydration, heat and cold reactions, and concussions or other suspected injuries to the head, neck, and back.
-        workbook:
-            - lines: 8
-              text: |-
-                  Sprains, strains
-            - lines: 8
-              text: |-
-                  Contusions, abrasions
-            - lines: 8
-              text: |-
-                  Fractures
-            - lines: 8
-              text: |-
-                  Blisters
-            - lines: 8
-              text: |-
-                  Muscle cramps
-            - lines: 8
-              text: |-
-                  Injured teeth
-            - lines: 8
-              text: |-
-                  Dehydration
-            - lines: 8
-              text: |-
-                  Heat and cold reactions
-            - lines: 8
-              text: |-
-                  Concussions or other suspected injuries to the head, neck, and back
+    - requirement: a
+      text: |-
+        Explain to your counselor the most likely hazards you may encounter while playing sports, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
+    - requirement: b
+      text: |-
+        Show that you know first aid for injuries or illnesses that could occur while participating in sports, including sprains, strains, contusions, abrasions, fractures, blisters, muscle cramps, injured teeth, dehydration, heat and cold reactions, and concussions or other suspected injuries to the head, neck, and back.
 - requirement: 2
   text: |-
-      Explain the importance of the following:
+    Explain the importance of the following:
   children:
-      - requirement: a
-        text: |-
-            The importance of the physical exam.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            The importance of maintaining good health habits for life (such as exercising regularly), and how the use of tobacco products, alcohol, and other harmful substances can negatively affect your health and your performance in sports activities.
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            The importance of maintaining a healthy diet.
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        The importance of the physical exam.
+    - requirement: b
+      text: |-
+        The importance of maintaining good health habits for life (such as exercising regularly), and how the use of tobacco products, alcohol, and other harmful substances can negatively affect your health and your performance in sports activities.
+    - requirement: c
+      text: |-
+        The importance of maintaining a healthy diet.
 - requirement: 3
   text: |-
-      Discuss the following:
+    Discuss the following:
   children:
-      - requirement: a
-        text: |-
-            The importance of warming up and cooling down.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            The importance of weight training.
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            What an amateur athlete is and the differences between an amateur and a professional athlete.
-        workbook:
-            - lines: 8
-      - requirement: d
-        text: |-
-            The attributes (qualities) of a good sport, the importance of sportsmanship, and the traits of a good team leader and player who exhibits Scout spirit on and off the playing field.
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        The importance of warming up and cooling down.
+    - requirement: b
+      text: |-
+        The importance of weight training.
+    - requirement: c
+      text: |-
+        What an amateur athlete is and the differences between an amateur and a professional athlete.
+    - requirement: d
+      text: |-
+        The attributes (qualities) of a good sport, the importance of sportsmanship, and the traits of a good team leader and player who exhibits Scout spirit on and off the playing field.
 - requirement: 4
   text: |-
-      With guidance from your counselor, establish a personal training program suited to the activities you choose for requirement 5. Then do the following:
+    With guidance from your counselor, establish a personal training program suited to the activities you choose for requirement 5. Then do the following:
   children:
-      - requirement: a
-        text: |-
-            Create a chart and track your training, practice, and development in the sports for one season (or four months).
-        workbook:
-            - area: 8
-      - requirement: b
-        text: |-
-            Demonstrate proper technique for your two chosen sports.
-        workbook:
-            - split:
-                  - task: true
-                    text: |-
-                        First sport demonstrated
-                  - task: true
-                    text: |-
-                        Second sport demonstrated
-      - requirement: c
-        text: |-
-            At the end of the season, share your completed chart with your counselor and discuss how your participation in the sports you chose has affected you mentally and physically.
-        workbook:
-            - lines: 4
+    - requirement: a
+      text: |-
+        Create a chart and track your training, practice, and development in the sports for one season (or four months).
+    - requirement: b
+      text: |-
+        Demonstrate proper technique for your two chosen sports.
+    - requirement: c
+      text: |-
+        At the end of the season, share your completed chart with your counselor and discuss how your participation in the sports you chose has affected you mentally and physically.
 - requirement: 5
   markdown: true
   text: |-
-      Take part for one season (or four months) as a competitive individual or as a member of an organized team in TWO of the following sports: baseball, basketball, bowling, cross-country, diving, field hockey, flag football, flag team, golf, gymnastics, ice hockey, lacrosse, soccer, softball, spirit/cheerleading, swimming, tackle football, table tennis, tennis, track & field, volleyball, water polo and wrestling, and/or badminton. Your counselor may approve in advance other recognized sports.`*` Then with your chosen sports do the following:
+    Take part for one season (or four months) as a competitive individual or as a member of an organized team in TWO of the following sports: baseball, basketball, bowling, cross-country, diving, field hockey, flag football, flag team, golf, gymnastics, ice hockey, lacrosse, soccer, softball, spirit/cheerleading, swimming, tackle football, table tennis, tennis, track & field, volleyball, water polo and wrestling, and/or badminton. Your counselor may approve in advance other recognized sports.`*` Then with your chosen sports do the following:
 
-      *`*` The BSA has prohibited as official Scouting activities intramural, interscholastic, or club-sport competitions or activities. However, they can be acceptable for your organized school, leage, or club activity if approved by your counselor.*
-  workbook:
-      - lines: 2
-        text: |-
-            First sport
-      - lines: 2
-        text: |-
-            Second sport
+    *`*` The BSA has prohibited as official Scouting activities intramural, interscholastic, or club-sport competitions or activities. However, they can be acceptable for your organized school, leage, or club activity if approved by your counselor.*
   children:
-      - requirement: a
-        text: |-
-            Give the rules and etiquette for the two sports you picked.
-        workbook:
-            - lines: 8
-              text: |-
-                  First sport
-            - lines: 8
-              text: |-
-                  Second sport
-      - requirement: b
-        text: |-
-            List the equipment needed for the two sports you chose.  Describe the protective equipment and appropriate clothing (if any) and explain why it is needed.
-        workbook:
-            - lines: 8
-              text: |-
-                  First sport
-            - lines: 8
-              text: |-
-                  Second sport
-      - requirement: c
-        text: |-
-            Draw diagrams of the playing areas for your two sports.
-        workbook:
-            - area: 20
-              text: |-
-                  First sport
-            - area: 20
-              text: |-
-                  Second sport
+    - requirement: a
+      text: |-
+        Give the rules and etiquette for the two sports you picked.
+    - requirement: b
+      text: |-
+        List the equipment needed for the two sports you chose.  Describe the protective equipment and appropriate clothing (if any) and explain why it is needed.
+    - requirement: c
+      text: |-
+        Draw diagrams of the playing areas for your two sports.

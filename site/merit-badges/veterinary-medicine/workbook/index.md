@@ -1,7 +1,7 @@
 ---
 badge: veterinary-medicine
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Veterinary Medicine Workbook
+      url: veterinary-medicine-workbook.pdf
 ---

@@ -1,7 +1,7 @@
 ---
 badge: genealogy
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Genealogy Workbook
+      url: genealogy-workbook.pdf
 ---

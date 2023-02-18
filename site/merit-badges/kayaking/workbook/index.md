@@ -1,7 +1,7 @@
 ---
 badge: kayaking
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Kayaking Workbook
+      url: kayaking-workbook.pdf
 ---

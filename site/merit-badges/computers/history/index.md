@@ -1,5 +1,5 @@
 ---
 badge: computers
-layout: smb-merit-badge
+layout: smb-merit-badge-history
 history: true
 ---

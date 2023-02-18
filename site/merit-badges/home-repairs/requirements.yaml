@@ -1,311 +1,139 @@
 - detail: true
   text: |-
-      Either a parent or the merit badge counselor may supervise the Scout’s
-      work on any Home Repairs requirements.
+    Either a parent or the merit badge counselor may supervise the Scout’s
+    work on any Home Repairs requirements.
 - requirement: 1
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain to your counselor the most likely hazards you may encounter
-            while working on home repairs and what you should do to anticipate,
-            mitigate and prevent, and respond to these hazards. Describe the
-            appropriate safety gear and clothing that should be used when
-            working on home repairs.
-        workbook:
-            - lines: 8
-              text: |-
-                  Most likely hazards
-            - lines: 8
-              text: |-
-                  Anticipate hazards
-            - lines: 8
-              text: |-
-                  Mitigate and prevent hazards
-            - lines: 8
-              text: |-
-                  Respond to hazards
-            - lines: 8
-              text: |-
-                  Appropriate safety gear and clothing
-      - requirement: b
-        text: |-
-            Discuss general precautions related to home repairs.  Name at least
-            10 safe practices that every home repairer should exercise.
-        workbook:
-            - lines: 8
-              text: |-
-                  General precautions
-            - lines: 8
-              text: |-
-                  At least 10 safe practices
+    - requirement: a
+      text: |-
+        Explain to your counselor the most likely hazards you may encounter
+        while working on home repairs and what you should do to anticipate,
+        mitigate and prevent, and respond to these hazards. Describe the
+        appropriate safety gear and clothing that should be used when
+        working on home repairs.
+    - requirement: b
+      text: |-
+        Discuss general precautions related to home repairs.  Name at least
+        10 safe practices that every home repairer should exercise.
 - requirement: 2
   text: |-
-      Under the supervision of your merit badge counselor, do FOUR of the
-      following:
-  workbook:
-      - split:
-            - task: true
-              text: |-
-                  a. Maintain or recondition a yard tool and show that you know
-                  how to clean up and properly store this equipment.
-            - task: true
-              text: |-
-                  b. Weather-strip a window or door.
-      - split:
-            - task: true
-              text: |-
-                  c. Caulk cracks or joints open to the weather.
-            - task: true
-              text: |-
-                  d. Waterproof a basement.
-      - split:
-            - task: true
-              text: |-
-                  e. Repair a break in a concrete or asphalt surface.
-            - task: true
-              text: |-
-                  f. Repair the screen in a window or door.
-      - split:
-            - task: true
-              text: |-
-                  g. Replace a pane of glass.
-            - task: true
-              text: |-
-                  h. Solder a broken wire or metal object.
+    Under the supervision of your merit badge counselor, do FOUR of the
+    following:
   children:
-      - requirement: a
-        text: |-
-            Maintain or recondition a yard tool and show that you know how to
-            clean up and properly store this equipment.
-        workbookHide: true
-      - requirement: b
-        text: |-
-            Weather-strip a window or door.
-        workbookHide: true
-      - requirement: c
-        text: |-
-            Caulk cracks or joints open to the weather.
-        workbookHide: true
-      - requirement: d
-        text: |-
-            Waterproof a basement.
-        workbookHide: true
-      - requirement: e
-        text: |-
-            Repair a break in a concrete or asphalt surface.
-        workbookHide: true
-      - requirement: f
-        text: |-
-            Repair the screen in a window or door.
-        workbookHide: true
-      - requirement: g
-        text: |-
-            Replace a pane of glass.
-        workbookHide: true
-      - requirement: h
-        text: |-
-            Solder a broken wire or metal object.
-        workbookHide: true
+    - requirement: a
+      text: |-
+        Maintain or recondition a yard tool and show that you know how to
+        clean up and properly store this equipment.
+    - requirement: b
+      text: |-
+        Weather-strip a window or door.
+    - requirement: c
+      text: |-
+        Caulk cracks or joints open to the weather.
+    - requirement: d
+      text: |-
+        Waterproof a basement.
+    - requirement: e
+      text: |-
+        Repair a break in a concrete or asphalt surface.
+    - requirement: f
+      text: |-
+        Repair the screen in a window or door.
+    - requirement: g
+      text: |-
+        Replace a pane of glass.
+    - requirement: h
+      text: |-
+        Solder a broken wire or metal object.
 - requirement: 3
   text: |-
-      Under the supervision of your merit badge counselor, do THREE of the
-      following:
-  workbook:
-      - split:
-            - task: true
-              text: |-
-                  a. Install or build equipment for storing tools.
-            - task: true
-              text: |-
-                  b. Build a workbench.
-      - split:
-            - task: true
-              text: |-
-                  c. Repair a piece of furniture.
-            - task: true
-              text: |-
-                  d. Paint or varnish a piece of furniture, a door, or trim on
-                  a house.
-      - split:
-            - task: true
-              text: |-
-                  e. Repair a sagging door or gate.
-            - task: true
-              text: |-
-                  f. Repair a loose step or railing.
-      - task: true
-        text: |-
-            g. Repair a fence.
+    Under the supervision of your merit badge counselor, do THREE of the
+    following:
   children:
-      - requirement: a
-        text: |-
-            Install or build equipment for storing tools.
-        workbookHide: true
-      - requirement: b
-        text: |-
-            Build a workbench.
-        workbookHide: true
-      - requirement: c
-        text: |-
-            Repair a piece of furniture.
-        workbookHide: true
-      - requirement: d
-        text: |-
-            Paint or varnish a piece of furniture, a door, or trim on a house.
-        workbookHide: true
-      - requirement: e
-        text: |-
-            Repair a sagging door or gate.
-        workbookHide: true
-      - requirement: f
-        text: |-
-            Repair a loose step or railing.
-        workbookHide: true
-      - requirement: g
-        text: |-
-            Repair a fence.
-        workbookHide: true
+    - requirement: a
+      text: |-
+        Install or build equipment for storing tools.
+    - requirement: b
+      text: |-
+        Build a workbench.
+    - requirement: c
+      text: |-
+        Repair a piece of furniture.
+    - requirement: d
+      text: |-
+        Paint or varnish a piece of furniture, a door, or trim on a house.
+    - requirement: e
+      text: |-
+        Repair a sagging door or gate.
+    - requirement: f
+      text: |-
+        Repair a loose step or railing.
+    - requirement: g
+      text: |-
+        Repair a fence.
 - requirement: 4
   text: |-
-      Under the supervision of your merit badge counselor, do TWO of the
-      following:
-  workbook:
-      - split:
-            - task: true
-              text: |-
-                  a. Locate a main electrical switch box and know how to
-                  replace a fuse or reset a circuit breaker.
-            - task: true
-              text: |-
-                  b. Replace an electrical cord or repair a plug or lamp
-                  socket.
-      - split:
-            - task: true
-              text: |-
-                  c. Install a single-pole light switch.
-            - task: true
-              text: |-
-                  d. Replace an electrical wall outlet.
+    Under the supervision of your merit badge counselor, do TWO of the
+    following:
   children:
-      - requirement: a
-        text: |-
-            Locate a main electrical switch box and know how to replace a fuse
-            or reset a circuit breaker.
-        workbookHide: true
-      - requirement: b
-        text: |-
-            Replace an electrical cord or repair a plug or lamp socket.
-        workbookHide: true
-      - requirement: c
-        text: |-
-            Install a single-pole light switch.
-        workbookHide: true
-      - requirement: d
-        text: |-
-            Replace an electrical wall outlet.
-        workbookHide: true
+    - requirement: a
+      text: |-
+        Locate a main electrical switch box and know how to replace a fuse
+        or reset a circuit breaker.
+    - requirement: b
+      text: |-
+        Replace an electrical cord or repair a plug or lamp socket.
+    - requirement: c
+      text: |-
+        Install a single-pole light switch.
+    - requirement: d
+      text: |-
+        Replace an electrical wall outlet.
 - requirement: 5
   text: |-
-      Under the supervision of your merit badge counselor, do TWO of the
-      following:
-  workbook:
-      - split:
-            - task: true
-              text: |-
-                  a. Clear a clogged drain or trap.
-            - task: true
-              text: |-
-                  b. Repair a leaky water faucet.
-      - split:
-            - task: true
-              text: |-
-                  c. Repair a flush toilet.
-            - task: true
-              text: |-
-                  d. Repair a leaky hose or connector.
-      - task: true
-        text: |-
-            e. Clean or replace a sprinkler head.
+    Under the supervision of your merit badge counselor, do TWO of the
+    following:
   children:
-      - requirement: a
-        text: |-
-            Clear a clogged drain or trap.
-        workbookHide: true
-      - requirement: b
-        text: |-
-            Repair a leaky water faucet.
-        workbookHide: true
-      - requirement: c
-        text: |-
-            Repair a flush toilet.
-        workbookHide: true
-      - requirement: d
-        text: |-
-            Repair a leaky hose or connector.
-        workbookHide: true
-      - requirement: e
-        text: |-
-            Clean or replace a sprinkler head.
-        workbookHide: true
+    - requirement: a
+      text: |-
+        Clear a clogged drain or trap.
+    - requirement: b
+      text: |-
+        Repair a leaky water faucet.
+    - requirement: c
+      text: |-
+        Repair a flush toilet.
+    - requirement: d
+      text: |-
+        Repair a leaky hose or connector.
+    - requirement: e
+      text: |-
+        Clean or replace a sprinkler head.
 - requirement: 6
   text: |-
-      Under the supervision of your merit badge counselor, do THREE of the
-      following:
-  workbook:
-      - split:
-            - task: true
-              text: |-
-                  a. Paint a wall or ceiling.
-            - task: true
-              text: |-
-                  b. Repair or replace damaged tile, linoleum, or vinyl
-                  flooring.
-      - split:
-            - task: true
-              text: |-
-                  c. Install drapery or curtain rods and then hang drapes or
-                  curtains.
-            - task: true
-              text: |-
-                  d. Replace window blind cords.
-      - split:
-            - task: true
-              text: |-
-                  e. Repair or replace a window sash cord.
-            - task: true
-              text: |-
-                  f. Reinforce a picture frame.
-      - task: true
-        text: |-
-            g. Mend an object made of china, glass, or pottery.
+    Under the supervision of your merit badge counselor, do THREE of the
+    following:
   children:
-      - requirement: a
-        text: |-
-            Paint a wall or ceiling.
-        workbookHide: true
-      - requirement: b
-        text: |-
-            Repair or replace damaged tile, linoleum, or vinyl flooring.
-        workbookHide: true
-      - requirement: c
-        text: |-
-            Install drapery or curtain rods and then hang drapes or curtains.
-        workbookHide: true
-      - requirement: d
-        text: |-
-            Replace window blind cords.
-        workbookHide: true
-      - requirement: e
-        text: |-
-            Repair or replace a window sash cord.
-        workbookHide: true
-      - requirement: f
-        text: |-
-            Reinforce a picture frame.
-        workbookHide: true
-      - requirement: g
-        text: |-
-            Mend an object made of china, glass, or pottery.
-        workbookHide: true
+    - requirement: a
+      text: |-
+        Paint a wall or ceiling.
+    - requirement: b
+      text: |-
+        Repair or replace damaged tile, linoleum, or vinyl flooring.
+    - requirement: c
+      text: |-
+        Install drapery or curtain rods and then hang drapes or curtains.
+    - requirement: d
+      text: |-
+        Replace window blind cords.
+    - requirement: e
+      text: |-
+        Repair or replace a window sash cord.
+    - requirement: f
+      text: |-
+        Reinforce a picture frame.
+    - requirement: g
+      text: |-
+        Mend an object made of china, glass, or pottery.

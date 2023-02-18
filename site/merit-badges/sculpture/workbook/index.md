@@ -1,7 +1,7 @@
 ---
 badge: sculpture
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Sculpture Workbook
+      url: sculpture-workbook.pdf
 ---

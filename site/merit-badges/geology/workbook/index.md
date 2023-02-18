@@ -1,11 +1,14 @@
 ---
 badge: geology
 layout: smb
+workbookMultipleOptionsMessage: true
+downloads:
+    - name: Geology Workbook - Earth History Option
+      url: geology-workbook-earth-history.pdf
+    - name: Geology Workbook - Energy Resources Option
+      url: geology-workbook-energy-resources.pdf
+    - name: Geology Workbook - Mineral Resources Option
+      url: geology-workbook-mineral-resources.pdf
+    - name: Geology Workbook - Surface and Sedimentary Process Option
+      url: geology-workbook-surface-and-sedimentary-process.pdf
 ---
-
-The Geology workbook has been split into individual options. Only one option is required in order to earn the merit badge.
-
-* [Surface and Sedimentary Processes Option](sediment/)
-* [Energy Resources Option](energy/)
-* [Mineral Resources Option](mineral/)
-* [Earth History Option](earth/)
