@@ -1,139 +1,77 @@
 - requirement: 1
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain to your counselor the most likely hazards you may encounter
-            while participating in water sports activities and what you should
-            do to anticipate, help prevent, mitigate, and respond to these
-            hazards.
-        workbook:
-            - lines: 8
-              text: |-
-                  Most likely hazards
-            - lines: 8
-              text: |-
-                  Anticipate hazards
-            - lines: 8
-              text: |-
-                  Prevent hazards
-            - lines: 8
-              text: |-
-                  Mitigate hazards
-            - lines: 8
-              text: |-
-                  Respond to hazards
-      - requirement: b
-        text: |-
-            Review prevention, symptoms, and first-aid treatment for the
-            following injuries or illnesses that could occur while
-            participating in water sports: blisters, cold-water shock and
-            hypothermia, dehydration, heat-related illnesses, sunburn, sprains,
-            strains, minor cuts and bruises, spinal injury, and concussions and
-            head trauma.
-        workbook:
-            - lines: 8
-              text: |-
-                  Blisters
-            - lines: 8
-              text: |-
-                  Cold-water shock and hypothermia
-            - lines: 8
-              text: |-
-                  Dehydration
-            - lines: 8
-              text: |-
-                  Heat-related illnesses
-            - lines: 8
-              text: |-
-                  Sunburn
-            - lines: 8
-              text: |-
-                  Sprains and strains
-            - lines: 8
-              text: |-
-                  Minor cuts and bruises
-            - lines: 8
-              text: |-
-                  Spinal injury
-            - lines: 8
-              text: |-
-                  Concussions and head trauma
-      - requirement: c
-        text: |-
-            Review the BSA Safety Afloat policy. Tell how it applies to water
-            sports.
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        Explain to your counselor the most likely hazards you may encounter
+        while participating in water sports activities and what you should
+        do to anticipate, help prevent, mitigate, and respond to these
+        hazards.
+    - requirement: b
+      text: |-
+        Review prevention, symptoms, and first-aid treatment for the
+        following injuries or illnesses that could occur while
+        participating in water sports: blisters, cold-water shock and
+        hypothermia, dehydration, heat-related illnesses, sunburn, sprains,
+        strains, minor cuts and bruises, spinal injury, and concussions and
+        head trauma.
+    - requirement: c
+      text: |-
+        Review the BSA Safety Afloat policy. Tell how it applies to water
+        sports.
 - requirement: 2
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Discuss with your counselor the characteristics of life jackets
-            most appropriate for water sports, and tell why one must always be
-            worn while waterskiing or wakeboarding. Then demonstrate how to
-            select and fit a life jacket for water sports activities.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            Review and discuss the Water Sports Safety Code with your
-            counselor. Promise that you will live up to it and follow it in all
-            water work for this merit badge. Review the safety precautions that
-            must be used by the boat operator in pulling waterskiers and
-            wakeboarders.
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        Discuss with your counselor the characteristics of life jackets
+        most appropriate for water sports, and tell why one must always be
+        worn while waterskiing or wakeboarding. Then demonstrate how to
+        select and fit a life jacket for water sports activities.
+    - requirement: b
+      text: |-
+        Review and discuss the Water Sports Safety Code with your
+        counselor. Promise that you will live up to it and follow it in all
+        water work for this merit badge. Review the safety precautions that
+        must be used by the boat operator in pulling waterskiers and
+        wakeboarders.
 - requirement: 3
   text: |-
-      Before doing requirements 4 through 6, successfully complete the BSA
-      swimmer test: Jump feetfirst into water over the head in depth. Level off
-      and swim 75 yards in a strong manner using one or more of the following
-      strokes: sidestroke, breaststroke, trudgen, or crawl; then swim 25 yards
-      using an easy, resting backstroke. The 100 yards must be completed in one
-      swim without stops and must include at least one sharp turn.  After
-      completing the swim, rest by floating.
-  workbook:
-      - signature: Swim Test Observer
+    Before doing requirements 4 through 6, successfully complete the BSA
+    swimmer test: Jump feetfirst into water over the head in depth. Level off
+    and swim 75 yards in a strong manner using one or more of the following
+    strokes: sidestroke, breaststroke, trudgen, or crawl; then swim 25 yards
+    using an easy, resting backstroke. The 100 yards must be completed in one
+    swim without stops and must include at least one sharp turn.  After
+    completing the swim, rest by floating.
 - requirement: 4
   text: |-
-      Show the following skier signals to the safety observer in the boat:
-      skier safe, faster, slower, turns, back to dock, cut motor, skier in
-      water.
-  workbook:
-      - task: true
+    Show the following skier signals to the safety observer in the boat:
+    skier safe, faster, slower, turns, back to dock, cut motor, skier in
+    water.
 - requirement: 5
   text: |-
-      Showing reasonable control while using two skis, one ski, or a wakeboard,
-      do EACH of the following:
+    Showing reasonable control while using two skis, one ski, or a wakeboard,
+    do EACH of the following:
   children:
-      - requirement: a
-        text: |-
-            Show how to enter the water from a boat and make a deepwater start
-            without help.
-        workbook:
-            - task: true
-      - requirement: b
-        text: |-
-            Starting from outside the wakes, show you can cross both wakes four
-            times and return to the center of the wake each time, without
-            falling.
-        workbook:
-            - task: true
-      - requirement: c
-        text: |-
-            Show you can fall properly to avoid an obstacle. Also show that you
-            can drop handle and coast to a stop without losing your balance.
-        workbook:
-            - task: true
+    - requirement: a
+      text: |-
+        Show how to enter the water from a boat and make a deepwater start
+        without help.
+    - requirement: b
+      text: |-
+        Starting from outside the wakes, show you can cross both wakes four
+        times and return to the center of the wake each time, without
+        falling.
+    - requirement: c
+      text: |-
+        Show you can fall properly to avoid an obstacle. Also show that you
+        can drop handle and coast to a stop without losing your balance.
 - requirement: 6
   text: |-
-      While on shore, show that you know how to properly adjust the bindings of
-      your ski(s) or wakeboard to fit yourself.  Then, in deep water, show you
-      can adjust bindings to fit.  Recover and put on your ski(s) or wakeboard
-      that has come off during a fall.
-  workbook:
-      - task: true
+    While on shore, show that you know how to properly adjust the bindings of
+    your ski(s) or wakeboard to fit yourself.  Then, in deep water, show you
+    can adjust bindings to fit.  Recover and put on your ski(s) or wakeboard
+    that has come off during a fall.

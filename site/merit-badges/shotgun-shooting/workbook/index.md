@@ -1,9 +1,10 @@
 ---
 badge: shotgun-shooting
 layout: smb
+workbookMultipleOptionsMessage: true
+downloads:
+    - name: Shotgun Shooting - Muzzleloading Option
+      url: shotgun-shooting-workbook-muzzleloading.pdf
+    - name: Shotgun Shooting - Shotgun (Modern Shotshell) Option
+      url: shotgun-shooting-workbook-shotgun.pdf
 ---
-
-The Shotgun Shooting workbook has been split into individual options. Only one option is required in order to earn the merit badge.
-
-* [Shotgun (Modern Shotshell)](shotgun/)
-* [Muzzleloading](muzzleloading/)

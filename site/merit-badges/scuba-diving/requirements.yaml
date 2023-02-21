@@ -1,89 +1,40 @@
 - requirement: 1
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Show that you know first aid for injuries or illnesses that could
-            occur while scuba diving, including hypothermia, hyperventilation,
-            squeezes, decompression illness, nitrogen narcosis, motion
-            sickness, fatigue, overexertion, heat reactions, dehydration,
-            injuries by aquatic life, and cuts and scrapes.
-        workbook:
-            - lines: 8
-              text: |-
-                  Hypothermia
-            - lines: 8
-              text: |-
-                  Hyperventilation
-            - lines: 8
-              text: |-
-                  Squeezes
-            - lines: 8
-              text: |-
-                  Decompression illness
-            - lines: 8
-              text: |-
-                  Nitrogen narcosis
-            - lines: 8
-              text: |-
-                  Motion sickness
-            - lines: 8
-              text: |-
-                  Fatigue
-            - lines: 8
-              text: |-
-                  Overexertion
-            - lines: 8
-              text: |-
-                  Heat reactions
-            - lines: 8
-              text: |-
-                  Dehydration
-            - lines: 8
-              text: |-
-                  Injuries by aquatic life
-            - lines: 8
-              text: |-
-                  Cuts and scrapes
-      - requirement: b
-        text: |-
-            Identify the conditions that must exist before performing CPR on a
-            person, and explain how to recognize such conditions. Demonstrate
-            the proper technique for performing CPR using a training device
-            approved by your counselor.
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        Show that you know first aid for injuries or illnesses that could
+        occur while scuba diving, including hypothermia, hyperventilation,
+        squeezes, decompression illness, nitrogen narcosis, motion
+        sickness, fatigue, overexertion, heat reactions, dehydration,
+        injuries by aquatic life, and cuts and scrapes.
+    - requirement: b
+      text: |-
+        Identify the conditions that must exist before performing CPR on a
+        person, and explain how to recognize such conditions. Demonstrate
+        the proper technique for performing CPR using a training device
+        approved by your counselor.
 - requirement: 2
   markdown: true
   text: |-
-      Before completing requirements 3 through 6, earn the <a
-      href="/merit-badges/swimming/">Swimming</a> merit badge.
-  workbook:
-      - signature: Adult Scout Leader
+    Before completing requirements 3 through 6, earn the <a
+    href="/merit-badges/swimming/">Swimming</a> merit badge.
 - requirement: 3
   text: |-
-      Discuss the Scuba Diver’s Code with your merit badge counselor, and
-      explain the importance of each guideline to a scuba diver’s safety.
-  workbook:
-      - lines: 8
+    Discuss the Scuba Diver’s Code with your merit badge counselor, and
+    explain the importance of each guideline to a scuba diver’s safety.
 - requirement: 4
   text: |-
-      Earn an Open Water Diver Certification from a scuba organization
-      recognized by the Boy Scouts of America scuba policy.
-  workbook:
-      - signature: Instructor
+    Earn an Open Water Diver Certification from a scuba organization
+    recognized by the Boy Scouts of America scuba policy.
 - requirement: 5
   text: |-
-      Explain what an ecosystem is, and describe four aquatic ecosystems a
-      diver might experience.
-  workbook:
-      - lines: 8
+    Explain what an ecosystem is, and describe four aquatic ecosystems a
+    diver might experience.
 - requirement: 6
   text: |-
-      Find out about three career opportunities in the scuba industry. Pick one
-      and find out the education, training, and experience required for this
-      profession. Discuss this with your counselor, and explain why this
-      profession might interest you.
-  workbook:
-      - lines: 8
+    Find out about three career opportunities in the scuba industry. Pick one
+    and find out the education, training, and experience required for this
+    profession. Discuss this with your counselor, and explain why this
+    profession might interest you.

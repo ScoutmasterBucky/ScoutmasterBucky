@@ -27,6 +27,11 @@ const downloadables = [
         fn: downloadOtherAwards
     },
     {
+        key: "scout-ranks",
+        desc: "Scout ranks",
+        fn: downloadScoutRanks
+    },
+    {
         key: "supernova-awards",
         desc: "Supernova awards for all programs",
         fn: downloadSupernovaAwards
@@ -338,7 +343,7 @@ function downloadNovaAwards(updated) {
 
 function downloadList(updated, updatedPrefix, list) {
     return serialPromises(list, (item) => {
-        if (item.dest.match(".html")) {
+        if (item.dest.match(".html.orig")) {
             console.log(`${item.key}: ${item.url}`);
             updated[item.key] = Date.now();
 
@@ -366,15 +371,27 @@ function downloadList(updated, updatedPrefix, list) {
 function downloadOtherAwards(updated) {
     const otherAwards = [
         {
+            key: "50-miler",
+            url: "https://www.scouting.org/awards/awards-central/50-miler/",
+            dest: "site/other-awards/50-miler/application.pdf",
+            selector: 'a[href*=pdf]'
+        },
+        {
+            key: "aquatics-guide",
+            url: "https://www.scouting.org/awards/awards-central/boardsailing/",
+            dest: "site/other-awards/aquatics-guide.pdf",
+            selector: 'a[href*=pdf]'
+        },
+        {
             key: "cyber-chip-grades-6-to-8",
             url: "https://www.scouting.org/training/youth-protection/cyber-chip/grades-6-8/",
-            dest: "site/other-awards/cyber-chip/cyber-chip-grades-6-to-8.html",
+            dest: "site/other-awards/cyber-chip/cyber-chip-grades-6-to-8.html.orig",
             selector: "#post-35851"
         },
         {
             key: "cyber-chip-grades-9-to-12",
             url: "https://www.scouting.org/training/youth-protection/cyber-chip/grades-9-12/",
-            dest: "site/other-awards/cyber-chip/cyber-chip-grades-9-to-12.html",
+            dest: "site/other-awards/cyber-chip/cyber-chip-grades-9-to-12.html.orig",
             selector: "#post-35852"
         },
         {
@@ -386,7 +403,7 @@ function downloadOtherAwards(updated) {
         {
             key: "totin-chip",
             url: "https://www.scouting.org/awards/awards-central/totin-chip/",
-            dest: "site/other-awards/totin-chip/totin-chip.html",
+            dest: "site/other-awards/totin-chip/totin-chip.html.orig",
             selector: ".entry-content"
         }
     ];
@@ -394,6 +411,74 @@ function downloadOtherAwards(updated) {
     heading("Other Awards");
 
     return downloadList(updated, 'other-awards', otherAwards);
+}
+
+function downloadScoutRanks(updated) {
+    const url = "https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/";
+    heading("Scout Ranks");
+
+    return downloadList(updated, 'scout-ranks', [
+        {
+            key: "scout",
+            url,
+            dest: "site/scout-ranks/scout/scout-rank-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Scout Rank Requirements\")"
+        },
+        {
+            key: "tenderfoot",
+            url,
+            dest: "site/scout-ranks/tenderfoot/tenderfoot-rank-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Tenderfoot Rank Requirements\")"
+        },
+        {
+            key: "second-class",
+            url,
+            dest: "site/scout-ranks/second-class/second-class-rank-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Second Class Rank Requirements\")"
+        },
+        {
+            key: "first-class",
+            url,
+            dest: "site/scout-ranks/first-class/first-class-rank-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"First Class Rank Requirements\")"
+        },
+        {
+            key: "star",
+            url,
+            dest: "site/scout-ranks/star/star-rank-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Star Rank Requirements\")"
+        },
+        {
+            key: "life",
+            url,
+            dest: "site/scout-ranks/life/life-rank-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Life Rank Requirements\")"
+        },
+        {
+            key: "eagle",
+            url,
+            dest: "site/scout-ranks/eagle/eagle-rank-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Eagle Rank Requirements\")"
+        },
+        {
+            key: "eagle-palms",
+            url,
+            dest: "site/scout-ranks/eagle-palms/eagle-palms.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Eagle Palms\")"
+        },
+        {
+            key: "alternative-requirements",
+            url,
+            dest: "site/scout-ranks/alternative-requirements/alternative-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Ranks Alternative Requirements\")"
+        },
+        {
+            key: "eagle-alternative-requirements",
+            url,
+            dest: "site/scout-ranks/eagle-alternative-requirements/eagle-alternative-requirements.pdf",
+            selector: "a[href*=\".pdf\"]:contains(\"Eagle Scout Rank Alternative Requirements\")"
+        }
+    ]);
 }
 
 function downloadSupernovaAwards(updated) {
@@ -465,7 +550,7 @@ function downloadSupernovaAwards(updated) {
                 {
                     key: "activity-topics",
                     url: "https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-topics/",
-                    dest: "site/nova-lab/supernova/activity-topics/activity-topics.html",
+                    dest: "site/nova-lab/supernova/activity-topics/activity-topics.html.orig",
                     selector: '[data-id="74ca43fb"]'
                 },
                 {

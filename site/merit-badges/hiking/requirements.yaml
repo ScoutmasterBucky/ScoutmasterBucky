@@ -1,168 +1,53 @@
 - requirement: 1
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain to your counselor the most likely hazards you may encounter while hiking, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
-        workbook:
-            - lines: 8
-              text: |-
-                  Most likely hazards
-            - lines: 8
-              text: |-
-                  Anticipate hazards
-            - lines: 8
-              text: |-
-                  Prevent hazards
-            - lines: 8
-              text: |-
-                  Mitigate hazards
-            - lines: 8
-              text: |-
-                  Respond to hazards
-      - requirement: b
-        text: |-
-            Show that you know first aid for injuries or illnesses that could occur while hiking, including hypothermia, frostbite, dehydration, heat exhaustion, heatstroke, sunburn, hyperventilation, altitude sickness, sprained ankle, blisters, insect stings, tick bites, and snakebite.
-        workbook:
-            - split:
-                  - task: true
-                    text: |-
-                        Hypothermia
-                  - task: true
-                    text: |-
-                        Frostbite
-                  - task: true
-                    text: |-
-                        Dehydration
-            - split:
-                  - task: true
-                    text: |-
-                        Heat exhaustion
-                  - task: true
-                    text: |-
-                        Heatstroke
-                  - task: true
-                    text: |-
-                        Sunburn
-            - split:
-                  - task: true
-                    text: |-
-                        Hyperventilation
-                  - task: true
-                    text: |-
-                        Altitude sickness
-                  - task: true
-                    text: |-
-                        Sprained ankle
-            - split:
-                  - task: true
-                    text: |-
-                        Blisters
-                  - task: true
-                    text: |-
-                        Insect stings
-                  - task: true
-                    text: |-
-                        Tick bites
-            - split:
-                  - task: true
-                    text: |-
-                        Snakebite
+    - requirement: a
+      text: |-
+        Explain to your counselor the most likely hazards you may encounter while hiking, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
+    - requirement: b
+      text: |-
+        Show that you know first aid for injuries or illnesses that could occur while hiking, including hypothermia, frostbite, dehydration, heat exhaustion, heatstroke, sunburn, hyperventilation, altitude sickness, sprained ankle, blisters, insect stings, tick bites, and snakebite.
 - requirement: 2
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain and, where possible, show the points of good hiking
-            practices including proper outdoor ethics, hiking safety in the
-            daytime and at night, courtesy to others, choice of footwear, and
-            proper care of feet and footwear.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            Read aloud or recite the Leave No Trace guidelines, and discuss why
-            each is important while hiking.
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            Read aloud or recite the Outdoor Code, and give examples of how to
-            follow it on a hike.
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        Explain and, where possible, show the points of good hiking
+        practices including proper outdoor ethics, hiking safety in the
+        daytime and at night, courtesy to others, choice of footwear, and
+        proper care of feet and footwear.
+    - requirement: b
+      text: |-
+        Read aloud or recite the Leave No Trace guidelines, and discuss why
+        each is important while hiking.
+    - requirement: c
+      text: |-
+        Read aloud or recite the Outdoor Code, and give examples of how to
+        follow it on a hike.
 - requirement: 3
   text: |-
-      Explain how hiking is an aerobic activity. Develop a plan for
-      conditioning yourself for 10-mile hikes, and describe how you will
-      increase your fitness for longer hikes.
-  workbook:
-      - lines: 8
-        text: |-
-            Explain how hiking is an aerobic activity
-      - lines: 8
-        text: |-
-            A plan for conditioning yourself for 10-mile hikes
-      - lines: 8
-        text: |-
-            Describe how you will increase your fitness for longer hokes
+    Explain how hiking is an aerobic activity. Develop a plan for
+    conditioning yourself for 10-mile hikes, and describe how you will
+    increase your fitness for longer hikes.
 - requirement: 4
   markdown: true
   text: |-
-      Take four 10-mile hikes and one 20-mile hike, each on a different day,
-      and each of continuous miles. Prepare a written hike plan before each
-      hike and share it with your merit badge counselor or a designee for
-      approval before starting the hike. Include map routes, a clothing and
-      equipment list, and a list of items for a trail lunch. You may stop for
-      as many short rest periods as needed, as well as one meal, during each
-      hike, but not for an extended period such as overnight.`*`
+    Take four 10-mile hikes and one 20-mile hike, each on a different day,
+    and each of continuous miles. Prepare a written hike plan before each
+    hike and share it with your merit badge counselor or a designee for
+    approval before starting the hike. Include map routes, a clothing and
+    equipment list, and a list of items for a trail lunch. You may stop for
+    as many short rest periods as needed, as well as one meal, during each
+    hike, but not for an extended period such as overnight.`*`
   children:
     - detail: true
       markdown: true
       text: |-
-          `*` The required hikes for this badge may be used in fulfilling hiking
-          requirements for rank advancement. However, these hikes cannot be
-          used to fulfill requirements of other merit badges.
-  workbook:
-      - split:
-            - task: true
-              text: |-
-                  First 10-mile hike
-            - task: true
-              text: |-
-                  Second 10-mile hike
-      - split:
-            - task: true
-              text: |-
-                  Third 10-mile hike
-            - task: true
-              text: |-
-                  Fourth 10-mile hike
-      - split:
-            - task: true
-              text: |-
-                  One 20-mile hike
+        `*` The required hikes for this badge may be used in fulfilling hiking
+        requirements for rank advancement. However, these hikes cannot be
+        used to fulfill requirements of other merit badges.
 - requirement: 5
   text: |-
-      After each of the hikes (or during each hike if on one continuous “trek”) in requirement 4, write a short report on your hike. For each hike, give the date and description (or map) of the route covered, the weather, any interesting things you saw, and any challenges you had and how you overcame them. It may include something you learned about yourself, about the outdoors, or about others you were hiking with. Share this with your merit badge counselor.
-  workbook:
-      - lines: 8
-        text: |-
-            One 5-mile hike
-      - lines: 8
-        text: |-
-            First 10-mile hike
-      - lines: 8
-        text: |-
-            Second 10-mile hike
-      - lines: 8
-        text: |-
-            Third 10-mile hike
-      - lines: 8
-        text: |-
-            One 15-mile hike
-      - lines: 8
-        text: |-
-            One 20-mile hike
+    After each of the hikes (or during each hike if on one continuous “trek”) in requirement 4, write a short report on your hike. For each hike, give the date and description (or map) of the route covered, the weather, any interesting things you saw, and any challenges you had and how you overcame them. It may include something you learned about yourself, about the outdoors, or about others you were hiking with. Share this with your merit badge counselor.

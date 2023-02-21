@@ -3,45 +3,8 @@ nova: let-it-grow
 program: scouts-bsa
 layout: nova-req
 lastUpdate: '2022-05-26'
+data:
+    requirements: requirements.yaml
 ---
 
 This module is designed to help you explore where your food comes from and how agriculture affects your life each day. Agriculture includes growing crops and raising animals to provide food and other products.
-
-
-{{#requirements}}
-1. Choose A or B or C and complete ALL the requirements.
-    A. Watch about three hours total of shows or documentaries related to agriculture or farming. Then do the following:
-        1. Make a list of at least five questions or ideas from the show(s) you watched.
-        2. Discuss two of the questions or ideas with your counselor.
-        Some examples include—but are not limited to—shows found on PBS (“America’s Heartland,” “America Revealed,” “NOVA”), Discovery Channel, Science Channel, National Geographic Channel, History Channel, TED Talks (online videos), or “Good Eats” on the Food Network. You may choose to watch a live performance or movie at a science museum instead of watching a media production. Good search criteria might be “agriculture”, You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision; appropriate websites include https://www.americasheartland.org/ , https://www.neok12.com/Agriculture.htm and https://www.nationalgeographic.org/encyclopedia/agriculture/
-    B. Read (about three hours total) about anything related to agriculture or farming. Then do the following:
-        1. Make a list of at least five questions or ideas from each article.
-        2. Discuss two of the questions or ideas with your counselor.
-        Books on these topics may be found at your local library. Examples of magazines include—but are not limited to—Odyssey, Discover, National Geographic, Scientific American, The Scientist, Science News.
-    C. Do a combination of reading and watching (about three hours total). Then do the following:
-        1. Make a list of at least five questions or ideas from each article or show.
-        2. Discuss two of the questions or ideas with your counselor.
-2. Complete ONE merit badge from the following list. (Choose one that you have not already used toward another Nova award). After completion, discuss with your counselor how the merit badge you earned uses agriculture.
-    {{#trim}}{{>badge-link badge="animal-science"}}{{/trim}}, {{#trim}}{{>badge-link badge="cooking"}}{{/trim}}, {{#trim}}{{>badge-link badge="farm-mechanics"}}{{/trim}}, {{#trim}}{{>badge-link badge="fish-and-wildlife-management"}}{{/trim}}, {{#trim}}{{>badge-link badge="fishing"}}{{/trim}}, {{#trim}}{{>badge-link badge="forestry"}}{{/trim}}, {{#trim}}{{>badge-link badge="gardening"}}{{/trim}}, {{#trim}}{{>badge-link badge="insect-study"}}{{/trim}}, {{#trim}}{{>badge-link badge="mammal-study"}}{{/trim}}, {{#trim}}{{>badge-link badge="nature"}}{{/trim}}, {{#trim}}{{>badge-link badge="plant-science"}}{{/trim}}, {{#trim}}{{>badge-link badge="soil-and-water-conservation"}}{{/trim}}
-3. Act like a farmer! Think about crops or animals that are found on a farm and think about the different kinds of farms. Then choose TWO from A or B or C.
-    A. With your counselor, choose two of the following topics related to food production or processing, and investigate them. Discuss your findings with your counselor.
-        1. Where did the food you ate for dinner last night come from? Pick one food item and learn more about each of its ingredients. Where were those ingredients grown, and how did the food item get to your table?
-        2. What kind of equipment is used on a farm?
-        3. How were food plants invented? Where do most food plants come from?
-        4. How and why are scientists working to develop plants that don’t need as much water?
-        5. If a big disaster wiped out a lot of food plants, how would we get more of them?  How do seed banks work?
-    B. Define and learn about two of the following and discuss with your counselor.
-        1. Farming practice categories (conventional, sustainable, till, low-till, and no-till)
-        2. Conventional, organic, and biotech farming (compare and contrast)
-        3. Effects of weather on farming
-        4. Converting biomass into energy
-        5. STEM careers in agriculture (food science, plant science, farming, agricultural engineering)
-    C. Do an “agriscience” experiment and discuss the results with your counselor. Examples of experiments include—but are not limited to—the following:
-        1. Grow different types of seeds and compare the seedling plants. Use fast- growing seeds such as carrots, castor beans, lima beans, onions, radishes, soybeans, or tomatoes.
-        2. Select and study a specific growing variable such as the type of liquid used to water a seed, the type of light, the growing temperature, or the soil type.  (Examples of growing studies can be found at www.sciencekids.co.nz/projects/plants.html .)
-        3. People often think of microorganisms as germs, but many of the ones found in soil are good for agriculture. How can plants grow in soil if no microorganisms are present? Search the internet—with your parent’s or guardian’s permission— and find an experiment that can be done to test the effect of microorganisms.  Then perform the experiment.
-4. Visit a farm, botanical garden, grocery store, or any other location where farm produce can be found. If a visit is not possible, you can do a virtual tour online with your parent’s or guardian’s permission and counselor’s approval.
-    A. During your visit, talk with someone in charge about how the plants are grown, or animals are raised, and how the food is processed.
-    B. Discuss with your counselor the food science involved at the place you visited.
-5. Discuss with your counselor how farming affects your everyday life.
-{{/requirements}}

@@ -1,332 +1,250 @@
 - requirement: 1
   markdown: true
   text: |-
-      Do EACH of the following:
+    Do EACH of the following:
   children:
-      - requirement: a
-        text: |-
-            Explain to your counselor what the words *genealogy*, *ancestor* and
-            *descendant* mean.
-        workbook:
-            - lines: 8
-              text: |-
-                  Genealogy
-            - lines: 8
-              text: |-
-                  Ancestor
-            - lines: 8
-              text: |-
-                  Descendant
-      - requirement: b
-        text: |-
-            Explain what a family tree is and what information would be kept
-            there.
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            Explain what a family group record is and what information would be
-            kept there.
-        workbook:
-            - lines: 8
-      - note:
-            - inPerson
-            - online
-        text: |-
-            Scouts will find using the merit badge pamphlet helpful, if not
-            easiest, to prepare for this requirement. It is highly recommended
-            that Scouts make notes to help prepare themselves for discussion
-            during the class on this requirement.  It is not acceptable to try
-            and wing-it or fake their way through answering this requirement
-            and Scouts should be ready to show that they understand the meaning
-            of these genealogical terms.
+    - requirement: a
+      markdown: true
+      text: |-
+        Explain to your counselor what the words *genealogy*, *ancestor* and
+        *descendant* mean.
+    - requirement: b
+      text: |-
+        Explain what a family tree is and what information would be kept
+        there.
+    - requirement: c
+      text: |-
+        Explain what a family group record is and what information would be
+        kept there.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        Scouts will find using the merit badge pamphlet helpful, if not
+        easiest, to prepare for this requirement. It is highly recommended
+        that Scouts make notes to help prepare themselves for discussion
+        during the class on this requirement.  It is not acceptable to try
+        and wing-it or fake their way through answering this requirement
+        and Scouts should be ready to show that they understand the meaning
+        of these genealogical terms.
 - requirement: 2
   text: |-
-      Do ONE of the following:
+    Do ONE of the following:
   children:
-      - requirement: a
-        text: |-
-            Create a time line for yourself or for a relative. Then write a
-            short biography based on that time line.
-        workbook:
-            - area: 25
-            - lines: 20
-      - requirement: b
-        text: |-
-            Keep a journal for six weeks. You must write in it at least once a
-            week.
-        workbook:
-            - task: true
-      - note:
-            - inPerson
-            - online
-        text: |-
-            This requirement will NOT be done in the class as this requirement
-            is personal to the Scout and should be done ahead of time in
-            preparation for the class.  Scouts having done the work for this
-            requirement prior to the class will be given the opportunity to
-            share their work with the counselor and other participants for
-            consideration of being signed off on this requirement.  Be
-            prepared.
+    - requirement: a
+      text: |-
+        Create a time line for yourself or for a relative. Then write a
+        short biography based on that time line.
+    - requirement: b
+      text: |-
+        Keep a journal for six weeks. You must write in it at least once a
+        week.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        This requirement will NOT be done in the class as this requirement
+        is personal to the Scout and should be done ahead of time in
+        preparation for the class.  Scouts having done the work for this
+        requirement prior to the class will be given the opportunity to
+        share their work with the counselor and other participants for
+        consideration of being signed off on this requirement.  Be
+        prepared.
 - requirement: 3
   text: |-
-      With your parent’s help, choose a relative or a family acquaintance you
-      can interview in person, by telephone, or by email or letter. Record the
-      information you collect so you do not forget it.
-  workbook:
-      - lines: 20
+    With your parent’s help, choose a relative or a family acquaintance you
+    can interview in person, by telephone, or by email or letter. Record the
+    information you collect so you do not forget it.
   children:
-      - note:
-            - inPerson
-            - online
-        text: |-
-            Scouts will need to do this requirement prior to the class for
-            consideration of being signed off.  It is important to note that
-            the requirement clearly states that the Scout must record the
-            information they collect from the relative they interview.  Only
-            Scouts who can show record of their findings will have the
-            opportunity to be reviewed for sign off on this requirement during
-            the class.  Just saying that you did the interview is not enough as
-            the requirement states you must record your work.  It is strongly
-            recommended that Scouts consider utilizing a merit badge workbook
-            or other accessible media to help organize their notes and
-            recording.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        Scouts will need to do this requirement prior to the class for
+        consideration of being signed off.  It is important to note that
+        the requirement clearly states that the Scout must record the
+        information they collect from the relative they interview.  Only
+        Scouts who can show record of their findings will have the
+        opportunity to be reviewed for sign off on this requirement during
+        the class.  Just saying that you did the interview is not enough as
+        the requirement states you must record your work.  It is strongly
+        recommended that Scouts consider utilizing a merit badge workbook
+        or other accessible media to help organize their notes and
+        recording.
 - requirement: 4
   text: |-
-      Do EACH of the following:
+    Do EACH of the following:
   children:
-      - requirement: a
-        text: |-
-            Name three types of physical genealogical resources, where you can
-            find them, and explain how these resources can help you chart your
-            family tree.
-        workbook:
-            - lines: 8
-            - lines: 8
-            - lines: 8
-        children:
-            - note:
-                  - inPerson
-                  - online
-              text: |-
-                  Scouts will find reviewing the merit badge pamphlet will be
-                  their best resource for identifying genealogical resources
-                  and understanding how they can help in their genealogical
-                  work.  Scouts should be prepared to share at least three
-                  types of resources they could use and give explanation to
-                  their helpfulness.
-      - requirement: b
-        text: |-
-            Name three types of digital geneaological resources, where you can
-            find them, and how these resources can help you chart your family
-            tree.
-        workbook:
-            - lines: 8
-            - lines: 8
-            - lines: 8
-      - requirement: c
-        text: |-
-            Obtain at least one genealogical document that supports an event
-            that is or can be recorded on your pedigree chart or family group
-            record. The document could be found at home or at a government
-            office, religious organization, archive, or library.
-        workbook:
-            - task: true
-      - requirement: d
-        text: |-
-            Tell how you found it and how you would evaluate the genealogical
-            information you found
-            for requirement 4c.
-        workbook:
-            - lines: 8
-        children:
-            - note:
-                  - inPerson
-                  - online
-              text: |-
-                  Components b and c will be reviewed in the class for all
-                  Scouts who come to the class having done preparation work.
-                  It is recommended that Scouts bring a copy (no originals
-                  please) of their selected document for use during the class.
-                  Because this requirement is associated a Scout's personal
-                  pedigree chart or family group record, Scouts will need to be
-                  able to show one of these items as well.  Scouts will have
-                  some time during the class to create a pedigree or family
-                  group sheet but must come to the class minimally with the
-                  information needed to fill these out.  Only Scouts who have
-                  accurately prepared for this requirement prior to the class
-                  will have the opportunity of being considered for sign off
-                  during the class.
-      - requirement: d
-        text: |-
-            Tell a likely place to find these types of genealogical records:
-            marriage record, census record, birth record, and burial
-            information.
-        workbook:
-            - lines: 4
-              text: Marriage record
-            - lines: 4
-              text: Census record
-            - lines: 4
-              text: Birth record
-            - lines: 4
-              text: Burial information
+    - requirement: a
+      text: |-
+        Name three types of physical genealogical resources, where you can
+        find them, and explain how these resources can help you chart your
+        family tree.
+      children:
+        - note:
+            - inPerson
+            - online
+          text: |-
+            Scouts will find reviewing the merit badge pamphlet will be
+            their best resource for identifying genealogical resources
+            and understanding how they can help in their genealogical
+            work.  Scouts should be prepared to share at least three
+            types of resources they could use and give explanation to
+            their helpfulness.
+    - requirement: b
+      text: |-
+        Name three types of digital geneaological resources, where you can
+        find them, and how these resources can help you chart your family
+        tree.
+    - requirement: c
+      text: |-
+        Obtain at least one genealogical document that supports an event
+        that is or can be recorded on your pedigree chart or family group
+        record. The document could be found at home or at a government
+        office, religious organization, archive, or library.
+    - requirement: d
+      text: |-
+        Tell how you found it and how you would evaluate the genealogical
+        information you found
+        for requirement 4c.
+      children:
+        - note:
+            - inPerson
+            - online
+          text: |-
+            Components b and c will be reviewed in the class for all
+            Scouts who come to the class having done preparation work.
+            It is recommended that Scouts bring a copy (no originals
+            please) of their selected document for use during the class.
+            Because this requirement is associated a Scout's personal
+            pedigree chart or family group record, Scouts will need to be
+            able to show one of these items as well.  Scouts will have
+            some time during the class to create a pedigree or family
+            group sheet but must come to the class minimally with the
+            information needed to fill these out.  Only Scouts who have
+            accurately prepared for this requirement prior to the class
+            will have the opportunity of being considered for sign off
+            during the class.
+    - requirement: d
+      text: |-
+        Tell a likely place to find these types of genealogical records:
+        marriage record, census record, birth record, and burial
+        information.
 - requirement: 5
   text: |-
-      Contact ONE of the following individuals or institutions.  Ask what
-      genealogical services, records, or activities this individual or
-      institution provides, and report the results:
-  workbook:
-      - header: true
-        markdown: true
-        text: |-
-            a. A genealogical or lineage society
-
-            b. A professional genealogist (someone who gets paid for doing
-            genealogical research)
-
-            c. A surname organization, such as your family’s organization
-
-            d. A genealogical educational facility or institution
-
-            e. A genealogical record repository of any type (courthouse,
-            genealogical library, state or national archive, state library,
-            etc.)
-      - lines: 8
+    Contact ONE of the following individuals or institutions.  Ask what
+    genealogical services, records, or activities this individual or
+    institution provides, and report the results:
   children:
-      - requirement: a
-        text: |-
-            A genealogical or lineage society
-        workbookHide: true
-      - requirement: b
-        text: |-
-            A professional genealogist (someone who gets paid for doing
-            genealogical research)
-        workbookHide: true
-      - requirement: c
-        text: |-
-            A surname organization, such as your family’s organization
-        workbookHide: true
-      - requirement: d
-        text: |-
-            A genealogical educational facility or institution
-        workbookHide: true
-      - requirement: e
-        text: |-
-            A genealogical record repository of any type (courthouse,
-            genealogical library, state or national archive, state library,
-            etc.)
-        workbookHide: true
-      - note:
-            - inPerson
-            - online
-        text: |-
-            While the merit badge counselor MAY be able to assist with helping
-            fulfill this requirement during the class, Scouts should not rely
-            upon this possibility if they want to ensure sign off on this
-            requirement during the class.  Scouts should contact one of the
-            organizations listed in the components of this requirement prior to
-            the class to gather the required information.  Scouts attending the
-            class will have an opportunity to share their results during the
-            class for consideration of sign off by th merit badge counselor.
-            Scouts must positively and actively participate in class discussion
-            as well as be prepared for this consideration to exist.
+    - requirement: a
+      text: |-
+        A genealogical or lineage society
+    - requirement: b
+      text: |-
+        A professional genealogist (someone who gets paid for doing
+        genealogical research)
+    - requirement: c
+      text: |-
+        A surname organization, such as your family’s organization
+    - requirement: d
+      text: |-
+        A genealogical educational facility or institution
+    - requirement: e
+      text: |-
+        A genealogical record repository of any type (courthouse,
+        genealogical library, state or national archive, state library,
+        etc.)
+    - note:
+        - inPerson
+        - online
+      text: |-
+        While the merit badge counselor MAY be able to assist with helping
+        fulfill this requirement during the class, Scouts should not rely
+        upon this possibility if they want to ensure sign off on this
+        requirement during the class.  Scouts should contact one of the
+        organizations listed in the components of this requirement prior to
+        the class to gather the required information.  Scouts attending the
+        class will have an opportunity to share their results during the
+        class for consideration of sign off by th merit badge counselor.
+        Scouts must positively and actively participate in class discussion
+        as well as be prepared for this consideration to exist.
 - requirement: 6
   text: |-
-      Begin your family tree by listing yourself and include at least two
-      additional generations. You may complete this requirement by using the
-      chart provided in this pamphlet or the genealogy software program of your
-      choice.
-  workbook:
-      - area: 45
+    Begin your family tree by listing yourself and include at least two
+    additional generations. You may complete this requirement by using the
+    chart provided in this pamphlet or the genealogy software program of your
+    choice.
   children:
-      - note:
-            - inPerson
-            - online
-        text: |-
-            Scouts are encouraged to do this prior to the class however some
-            time will be allotted to work on this requirement during the class.
-            Scouts should come prepared with information that will help them
-            fulfill the requirement.  Scouts attending the class without this
-            information or having done preparation work will find it difficult
-            to complete this requirement during the class.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        Scouts are encouraged to do this prior to the class however some
+        time will be allotted to work on this requirement during the class.
+        Scouts should come prepared with information that will help them
+        fulfill the requirement.  Scouts attending the class without this
+        information or having done preparation work will find it difficult
+        to complete this requirement during the class.
 - requirement: 7
   text: |-
-      Complete a family group record form, listing yourself and your brothers
-      and sisters as the children. On another family group record form, show
-      one of your parents and his or her brothers and sisters as the children.
-      This requirement may be completed using the chart provided or the
-      genealogy software program of your choice.
-  workbook:
-      - split:
-            - task: true
-              text: |-
-                  Family group form for yourself
-            - task: true
-              text: |-
-                  Family group form for a parent
-      - lines: 8
+    Complete a family group record form, listing yourself and your brothers
+    and sisters as the children. On another family group record form, show
+    one of your parents and his or her brothers and sisters as the children.
+    This requirement may be completed using the chart provided or the
+    genealogy software program of your choice.
   children:
-      - note:
-            - inPerson
-            - online
-        text: |-
-            Scouts should at a minimum gather the required information asked
-            for in this requirement.  The merit badge counselor will help
-            facilitate discussion and education on family group sheets as it
-            pertains to genealogy.  Scouts should do their best to prepare for
-            this requirement ahead of time to get the most out of the class
-            discussion and education.  Scout without the required information
-            for filling in the family group sheet will not be able to finish or
-            be signed off on this requirement during the class.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        Scouts should at a minimum gather the required information asked
+        for in this requirement.  The merit badge counselor will help
+        facilitate discussion and education on family group sheets as it
+        pertains to genealogy.  Scouts should do their best to prepare for
+        this requirement ahead of time to get the most out of the class
+        discussion and education.  Scout without the required information
+        for filling in the family group sheet will not be able to finish or
+        be signed off on this requirement during the class.
 - requirement: 8
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain the effect computers and the internet are having on the
-            world of genealogy.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            Explain how photography has influenced geneaology has influenced
-            genealogy.
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            Explain how record indexing works and how that has influenced
-            genealogy.
-        workbook:
-            - lines: 8
-      - note:
-            - inPerson
-            - online
-        text: |-
-            The merit badge counselor will help facilitate discussion on this
-            requirement, however Scouts must review the merit badge pamphlet
-            prior to the class to have an understanding of the requirement.
-            Scouts not having reviewed the merit badge pamphlet or other
-            sources may find it difficult to complete this requirement.  Active
-            participation in the class discussion is also required for
-            consideration in being signed off on this requirement.
+    - requirement: a
+      text: |-
+        Explain the effect computers and the internet are having on the
+        world of genealogy.
+    - requirement: b
+      text: |-
+        Explain how photography has influenced geneaology has influenced
+        genealogy.
+    - requirement: c
+      text: |-
+        Explain how record indexing works and how that has influenced
+        genealogy.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        The merit badge counselor will help facilitate discussion on this
+        requirement, however Scouts must review the merit badge pamphlet
+        prior to the class to have an understanding of the requirement.
+        Scouts not having reviewed the merit badge pamphlet or other
+        sources may find it difficult to complete this requirement.  Active
+        participation in the class discussion is also required for
+        consideration in being signed off on this requirement.
 - requirement: 9
   text: |-
-      Discuss what you have learned about your family and your family members
-      through your genealogical research.
-  workbook:
-      - lines: 8
+    Discuss what you have learned about your family and your family members
+    through your genealogical research.
   children:
-      - note:
-            - inPerson
-            - online
-        text: |-
-            The merit badge counselor will help facilitate the discussion for
-            completing this requirement.  As the requirement states, Scouts
-            will need to share what they learned in completing the other
-            previous requirements.  Only Scouts who actively participate in the
-            discussion AND have met most of the previous requirements will be
-            qualified for being signed off on this requirement during the
-            class.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        The merit badge counselor will help facilitate the discussion for
+        completing this requirement.  As the requirement states, Scouts
+        will need to share what they learned in completing the other
+        previous requirements.  Only Scouts who actively participate in the
+        discussion AND have met most of the previous requirements will be
+        qualified for being signed off on this requirement during the
+        class.

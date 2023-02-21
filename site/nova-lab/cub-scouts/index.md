@@ -26,12 +26,10 @@ These Nova awards are excellent ways to expand a Cub Scout's knowledge in severa
 
 ### Supernova Awards
 
-<div class="D(f) Jc(se) Fxd(c)--s">
-
+{{#supernova-list}}
 {{>supernova supernova="dr-luis-walter-alvarez"}}
 {{>supernova supernova="dr-charles-h-townes"}}
-
-</div>
+{{/supernova-list}}
 
 ## Nova Awards by Adventure
 

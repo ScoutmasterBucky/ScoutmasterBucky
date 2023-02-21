@@ -1,7 +1,7 @@
 ---
 badge: pets
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Pets Workbook
+      url: pets-workbook.pdf
 ---

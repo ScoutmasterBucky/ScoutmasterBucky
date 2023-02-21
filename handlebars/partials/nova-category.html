@@ -1,0 +1,7 @@
+<ul>
+{{#each (lookup @root.novaAwards program)}}
+{{#if (equals category ../show)}}
+<li><a href="{{@root.rootPath}}nova-lab/{{../program}}/{{@key}}/">{{name}}</a> - {{summary}}
+{{/if}}
+{{/each}}
+</ul>

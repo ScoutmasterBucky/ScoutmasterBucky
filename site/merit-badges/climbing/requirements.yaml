@@ -1,498 +1,283 @@
 - requirement: 1
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain to your counselor the most likely hazards you may encounter
-            while participating in climbing and rappelling activities and what
-            you should do to anticipate, help prevent, mitigate, and respond to
-            these hazards.
-        workbook:
-            - lines: 8
-              text: |-
-                  Most likely hazards
-            - lines: 8
-              text: |-
-                  Anticipate hazards
-            - lines: 8
-              text: |-
-                  Prevent hazards
-            - lines: 8
-              text: |-
-                  Mitigate hazards
-            - lines: 8
-              text: |-
-                  Respond to hazards
-      - requirement: b
-        text: |-
-            Show that you know first aid for and how to prevent injuries or
-            illnesses that could occur during climbing activities, including
-            heat and cold reactions, dehydration, stopped breathing, sprains,
-            abrasions, fractures, rope burns, blisters, snakebite, concussions,
-            and insect bites or stings.
-        workbook:
-            - split:
-                  - task: true
-                    text: |-
-                        Heat reactions
-                  - task: true
-                    text: |-
-                        Cold reactions
-                  - task: true
-                    text: |-
-                        Dehydration
-            - split:
-                  - task: true
-                    text: |-
-                        Stopped breathing
-                  - task: true
-                    text: |-
-                        Sprains
-                  - task: true
-                    text: |-
-                        Abrasions
-            - split:
-                  - task: true
-                    text: |-
-                        Fractures
-                  - task: true
-                    text: |-
-                        Rope burns
-                  - task: true
-                    text: |-
-                        Blisters
-            - split:
-                  - task: true
-                    text: |-
-                        Snakebite
-                  - task: true
-                    text: |-
-                        Concussions
-                  - task: true
-                    text: |-
-                        Insect bites or stings
-      - requirement: c
-        text: |-
-            Identify the conditions that must exist before performing CPR on a
-            person.
-        workbook:
-            - lines: 8
-      - note:
-            - inPerson
-        text: |-
-            Scouts should review this requirement and its components and be
-            prepared to discuss, demonstrate, explain, and show as necessary
-            their first aid knowledge and proficiency as it applies to this merit
-            badge as well as the ability to identify hazards likely to be
-            encountered in climbing and rappelling activities.
+    - requirement: a
+      text: |-
+        Explain to your counselor the most likely hazards you may encounter
+        while participating in climbing and rappelling activities and what
+        you should do to anticipate, help prevent, mitigate, and respond to
+        these hazards.
+    - requirement: b
+      text: |-
+        Show that you know first aid for and how to prevent injuries or
+        illnesses that could occur during climbing activities, including
+        heat and cold reactions, dehydration, stopped breathing, sprains,
+        abrasions, fractures, rope burns, blisters, snakebite, concussions,
+        and insect bites or stings.
+    - requirement: c
+      text: |-
+        Identify the conditions that must exist before performing CPR on a
+        person.
+    - note:
+        - inPerson
+      text: |-
+        Scouts should review this requirement and its components and be
+        prepared to discuss, demonstrate, explain, and show as necessary
+        their first aid knowledge and proficiency as it applies to this merit
+        badge as well as the ability to identify hazards likely to be
+        encountered in climbing and rappelling activities.
 - requirement: 2
   text: |-
-      Learn the Leave No Trace principles and Outdoor Code, and explain what
-      they mean.
-  workbook:
-      - lines: 8
-        text: |-
-            Leave No Trace principles
-      - lines: 8
-        text: |-
-            Outdoor Code
+    Learn the Leave No Trace principles and Outdoor Code, and explain what
+    they mean.
   children:
-      - note:
-            - inPerson
-        text: |-
-            Scouts are highly encouraged to work on this requirement prior to the
-            class. While time will be allotted in the class to covering the
-            principles of Leave No Trace and the Outdoor Code, it will be
-            structured more as a review of these principles rather than an
-            introduction. Scouts should familiarize themselves with these if they
-            are not already familiar and be prepared to explain what they mean.
+    - note:
+        - inPerson
+      text: |-
+        Scouts are highly encouraged to work on this requirement prior to the
+        class. While time will be allotted in the class to covering the
+        principles of Leave No Trace and the Outdoor Code, it will be
+        structured more as a review of these principles rather than an
+        introduction. Scouts should familiarize themselves with these if they
+        are not already familiar and be prepared to explain what they mean.
 - requirement: 3
   text: |-
-      Present yourself properly dressed for belaying, climbing, and rappelling
-      (i.e., appropriate clothing, footwear, and a helmet; rappellers can also
-      wear gloves).
-  workbook:
-      - task: true
+    Present yourself properly dressed for belaying, climbing, and rappelling
+    (i.e., appropriate clothing, footwear, and a helmet; rappellers can also
+    wear gloves).
   children:
-      - note:
-            - inPerson
-        text: |-
-            Scouts should bring and wear appropriate climbing attire. No open-toed
-            shoes, sandals, or boots will be allowed; Scouts should have tennis
-            shoes or climbing shoes in order to participate. All other safety
-            equipment will be provided by the facility for use during the class in
-            order to complete this requirement.
+    - note:
+        - inPerson
+      text: |-
+        Scouts should bring and wear appropriate climbing attire. No open-toed
+        shoes, sandals, or boots will be allowed; Scouts should have tennis
+        shoes or climbing shoes in order to participate. All other safety
+        equipment will be provided by the facility for use during the class in
+        order to complete this requirement.
 - requirement: 4
   markdown: true
   text: |-
-      **Location.** Do the following:
+    **Location.** Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain how the difficulty of climbs is classified, and apply
-            classifications to the rock faces or walls where you will
-            demonstrate your climbing skills.
-        workbook:
-            - lines: 8
-              text: |-
-                  How the difficulty of climbs is classified
-            - task: true
-              text: |-
-                  Applied classifications to the rock faces or walls where you will
-                  demonstrate your climbing skills
-      - requirement: b
-        text: |-
-            Explain the following: top-rope climbing, lead climbing, and
-            bouldering.
-        workbook:
-            - lines: 8
-              text: |-
-                  Top-rope climbing
-            - lines: 8
-              text: |-
-                  Lead climbing
-            - lines: 8
-              text: |-
-                  Bouldering
-      - requirement: c
-        text: |-
-            Evaluate the safety of a particular climbing area.  Consider
-            weather, visibility, the condition of the climbing surface, and any
-            other environmental hazards.
-        workbook:
-            - task: true
-      - requirement: d
-        text: |-
-            Determine how to summon aid to the climbing area in case of an
-            emergency.
-        workbook:
-            - lines: 8
-      - note:
-            - inPerson
-        text: |-
-            While this requirement will be covered in the class, Scouts should
-            review their merit badge pamphlet and come with an understanding for
-            explanation and discussion with the counselor during the class.
+    - requirement: a
+      text: |-
+        Explain how the difficulty of climbs is classified, and apply
+        classifications to the rock faces or walls where you will
+        demonstrate your climbing skills.
+    - requirement: b
+      text: |-
+        Explain the following: top-rope climbing, lead climbing, and
+        bouldering.
+    - requirement: c
+      text: |-
+        Evaluate the safety of a particular climbing area.  Consider
+        weather, visibility, the condition of the climbing surface, and any
+        other environmental hazards.
+    - requirement: d
+      text: |-
+        Determine how to summon aid to the climbing area in case of an
+        emergency.
+    - note:
+        - inPerson
+      text: |-
+        While this requirement will be covered in the class, Scouts should
+        review their merit badge pamphlet and come with an understanding for
+        explanation and discussion with the counselor during the class.
 - requirement: 5
   markdown: true
   text: |-
-      **Verbal signals.** Explain the importance of using verbal signals during
-      every climb and rappel, and while bouldering. With the help of the merit
-      badge counselor or another Scout, demonstrate the verbal signals used by
-      each of the following:
-  workbook:
-      - lines: 8
-        text: |-
-            Importance of using verbal signals during every climb and rappel, and
-            while bouldering
-      - header: true
-        text: |-
-            Demonstrate the verbal signals
-      - split:
-            - task: true
-              text: |-
-                  a. Climbers
-            - task: true
-              text: |-
-                  b. Rappellers
-            - task: true
-              text: |-
-                  c. Belayers
-            - task: true
-              text: |-
-                  d. Boulderers and their spotters
+    **Verbal signals.** Explain the importance of using verbal signals during
+    every climb and rappel, and while bouldering. With the help of the merit
+    badge counselor or another Scout, demonstrate the verbal signals used by
+    each of the following:
   children:
-      - requirement: a
-        text: |-
-            Climbers
-      - requirement: b
-        text: |-
-            Rappellers
-      - requirement: c
-        text: |-
-            Belayers
-      - requirement: d
-        text: |-
-            Boulderers and their spotters
-      - note:
-            - inPerson
-        text: |-
-            This requirement will be completed in the class and only Scouts
-            displaying the competency of understanding these terms and properly
-            demonstrating their use (with prior guidance from the counselor) will
-            be able to complete this requirement. Scouts failing to complete this
-            requirement will not be allowed to continue on further requirements
-            until mastery of these safety commands and procedures are
-            successfully completed.
+    - requirement: a
+      text: |-
+        Climbers
+    - requirement: b
+      text: |-
+        Rappellers
+    - requirement: c
+      text: |-
+        Belayers
+    - requirement: d
+      text: |-
+        Boulderers and their spotters
+    - note:
+        - inPerson
+      text: |-
+        This requirement will be completed in the class and only Scouts
+        displaying the competency of understanding these terms and properly
+        demonstrating their use (with prior guidance from the counselor) will
+        be able to complete this requirement. Scouts failing to complete this
+        requirement will not be allowed to continue on further requirements
+        until mastery of these safety commands and procedures are
+        successfully completed.
 - requirement: 6
   markdown: true
   text: |-
-      **Rope.** Do the following:
+    **Rope.** Do the following:
   children:
-      - requirement: a
-        text: |-
-            Describe the kinds of rope acceptable for use in climbing and
-            rappelling.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            Show how to examine a rope for signs of wear or damage.
-        workbook:
-            - task: true
-      - requirement: c
-        text: |-
-            Discuss ways to prevent a rope from being damaged.
-        workbook:
-            - lines: 8
-      - requirement: d
-        text: |-
-            Explain when and how a rope should be retired.
-        workbook:
-            - lines: 8
-      - requirement: e
-        text: |-
-            Properly coil a rope.
-        workbook:
-            - task: true
-      - note:
-            - inPerson
-        text: |-
-            Scouts should utilize their merit badge pamphlet to review the
-            section on rope and come to the class with a knowledge to actively
-            discuss components a thru d for this requirement. Scouts will have an
-            opportunity to learn and demonstrate their ability (requirement 6e)
-            to coil a rope in class.
+    - requirement: a
+      text: |-
+        Describe the kinds of rope acceptable for use in climbing and
+        rappelling.
+    - requirement: b
+      text: |-
+        Show how to examine a rope for signs of wear or damage.
+    - requirement: c
+      text: |-
+        Discuss ways to prevent a rope from being damaged.
+    - requirement: d
+      text: |-
+        Explain when and how a rope should be retired.
+    - requirement: e
+      text: |-
+        Properly coil a rope.
+    - note:
+        - inPerson
+      text: |-
+        Scouts should utilize their merit badge pamphlet to review the
+        section on rope and come to the class with a knowledge to actively
+        discuss components a thru d for this requirement. Scouts will have an
+        opportunity to learn and demonstrate their ability (requirement 6e)
+        to coil a rope in class.
 - requirement: 7
   markdown: true
   text: |-
-      **Knots.** Demonstrate the ability to tie each of the following knots.
-      Give at least one example of how each knot is used in belaying, climbing,
-      or rappelling.
-  workbook:
-      - split:
-            - header: true
-              text: |-
-                  Demonstrated the ability to tie
-            - header: true
-              text: |-
-                  How used in belaying, climbing, or rappellilng
-      - split:
-            - task: true
-              text: |-
-                  a. Figure eight on a bight
-            - lines: 2
-      - split:
-            - task: true
-              text: |-
-                  b. Figure eight follow-through
-            - lines: 2
-      - split:
-            - task: true
-              text: |-
-                  c. Water knot
-            - lines: 2
-      - split:
-            - task: true
-              text: |-
-                  d. Double fisherman's knot (grapevine knot)
-            - lines: 2
-      - split:
-            - task: true
-              text: |-
-                  e. Safety knot
-            - lines: 2
+    **Knots.** Demonstrate the ability to tie each of the following knots.
+    Give at least one example of how each knot is used in belaying, climbing,
+    or rappelling.
   children:
-      - requirement: a
-        text: |-
-            Figure eight on a bight
-        workbookHide: true
-      - requirement: b
-        text: |-
-            Figure eight follow-through
-        workbookHide: true
-      - requirement: c
-        text: |-
-            Water knot
-        workbookHide: true
-      - requirement: d
-        text: |-
-            Double fisherman’s knot (grapevine knot)
-        workbookHide: true
-      - requirement: e
-        text: |-
-            Safety knot
-        workbookHide: true
-      - note:
-            - inPerson
-        markdown: true
-        text: |-
-            Scouts should practice and be knowledgeable in the manner to which
-            each of these knots are tied. While some class time will be allotted
-            to going over these knots, only those Scouts demonstrating their
-            ability to tie each knot will be signed off only on those knots that
-            they respectively are able to tie. Scouts should also be prepared to
-            share their knowledge of what each knot might be best utilized for as
-            it pertains to climbing and rappelling.
-      - note:
-            - inPerson
-            - online
-        markdown: true
-        text: |-
-            The safety knot is also known as a stopper knot
+    - requirement: a
+      text: |-
+        Figure eight on a bight
+    - requirement: b
+      text: |-
+        Figure eight follow-through
+    - requirement: c
+      text: |-
+        Water knot
+    - requirement: d
+      text: |-
+        Double fisherman’s knot (grapevine knot)
+    - requirement: e
+      text: |-
+        Safety knot
+    - note:
+        - inPerson
+      markdown: true
+      text: |-
+        Scouts should practice and be knowledgeable in the manner to which
+        each of these knots are tied. While some class time will be allotted
+        to going over these knots, only those Scouts demonstrating their
+        ability to tie each knot will be signed off only on those knots that
+        they respectively are able to tie. Scouts should also be prepared to
+        share their knowledge of what each knot might be best utilized for as
+        it pertains to climbing and rappelling.
+    - note:
+        - inPerson
+        - online
+      markdown: true
+      text: |-
+        The safety knot is also known as a stopper knot
 - requirement: 8
   markdown: true
   text: |-
-      **Harnesses.** Correctly put on a commercially made climbing harness.
-  workbook:
-      - task: true
+    **Harnesses.** Correctly put on a commercially made climbing harness.
   children:
-      - note:
-            - inPerson
-        text: |-
-            This requirement will be completed in the class under the direction of
-            the climbing instructors and counselor.
+    - note:
+        - inPerson
+      text: |-
+        This requirement will be completed in the class under the direction of
+        the climbing instructors and counselor.
 - requirement: 9
   markdown: true
   text: |-
-      **Belaying.** Do the following:
+    **Belaying.** Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain the importance of belaying climbers and rappellers and when
-            it is necessary.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            Belay three different climbers ascending a rock face or climbing
-            wall.
-        workbook:
-            - split:
-                  - task: true
-                    text: |-
-                        First climber
-                  - task: true
-                    text: |-
-                        Second climber
-                  - task: true
-                    text: |-
-                        Third climber
-      - requirement: c
-        text: |-
-            Belay three different rappellers descending a rock face or climbing
-            wall using a top rope.
-        workbook:
-            - split:
-                  - task: true
-                    text: |-
-                        First rappeller
-                  - task: true
-                    text: |-
-                        Second rappeller
-                  - task: true
-                    text: |-
-                        Third rappeller
-      - note:
-            - inPerson
-        text: |-
-            This requirement will be covered in the class and Scouts will have
-            the opportunity to complete this requirement if they are able to
-            mentally and physically complete each of the requirement's
-            components. Please note that this requirement contains both mental
-            and physical components and must be met successfully in order to be
-            considered a possibility by the counselor to sign off on the
-            requirement.
+    - requirement: a
+      text: |-
+        Explain the importance of belaying climbers and rappellers and when
+        it is necessary.
+    - requirement: b
+      text: |-
+        Belay three different climbers ascending a rock face or climbing
+        wall.
+    - requirement: c
+      text: |-
+        Belay three different rappellers descending a rock face or climbing
+        wall using a top rope.
+    - note:
+        - inPerson
+      text: |-
+        This requirement will be covered in the class and Scouts will have
+        the opportunity to complete this requirement if they are able to
+        mentally and physically complete each of the requirement's
+        components. Please note that this requirement contains both mental
+        and physical components and must be met successfully in order to be
+        considered a possibility by the counselor to sign off on the
+        requirement.
 - requirement: 10
   markdown: true
   text: |-
-      **Climbing.** Do the following:
+    **Climbing.** Do the following:
   children:
-      - requirement: a
-        text: |-
-            Show the correct way to directly tie into a belay rope.
-        workbook:
-            - task: true
-      - requirement: b
-        text: |-
-            Climb at least three different routes on a rock face or climbing
-            wall, demonstrating good technique and using verbal signals with a
-            belayer.
-        workbook:
-            - split:
-                  - task: true
-                    text: |-
-                        First route
-                  - task: true
-                    text: |-
-                        Second route
-                  - task: true
-                    text: |-
-                        Third route
-      - note:
-            - inPerson
-        text: |-
-            An opportunity will be given to all Scouts to complete this
-            requirement during the class. Every effort will be made to allow
-            Scouts to complete this requirement in the time allotted. The class
-            size and facility's capacity have been considered to allow all
-            participants to have more than ample time to attempt completing
-            this requirement in most cases. Please note that this requirement
-            contains both mental and physical components and must be met
-            successfully in order to successfully complete this requirement.
+    - requirement: a
+      text: |-
+        Show the correct way to directly tie into a belay rope.
+    - requirement: b
+      text: |-
+        Climb at least three different routes on a rock face or climbing
+        wall, demonstrating good technique and using verbal signals with a
+        belayer.
+    - note:
+        - inPerson
+      text: |-
+        An opportunity will be given to all Scouts to complete this
+        requirement during the class. Every effort will be made to allow
+        Scouts to complete this requirement in the time allotted. The class
+        size and facility's capacity have been considered to allow all
+        participants to have more than ample time to attempt completing
+        this requirement in most cases. Please note that this requirement
+        contains both mental and physical components and must be met
+        successfully in order to successfully complete this requirement.
 - requirement: 11
   markdown: true
   text: |-
-      **Rappelling.** Do the following:
+    **Rappelling.** Do the following:
   children:
-      - requirement: a
-        text: |-
-            Using a carabiner and a rappel device, secure your climbing harness
-            to a rappel rope.
-        workbook:
-            - task: true
-      - requirement: b
-        text: |-
-            Tie into a belay rope set up to protect rappellers.
-        workbook:
-            - task: true
-      - requirement: c
-        text: |-
-            Rappel down three different rock faces or three rappel routes on a
-            climbing wall. Use verbal signals to communicate with a belayer,
-            and demonstrate good rappelling technique.
-        workbook:
-            - split:
-                  - task: true
-                    text: |-
-                        First rock face or rappel route
-                  - task: true
-                    text: |-
-                        Second rock face or rappel route
-                  - task: true
-                    text: |-
-                        Third rock face or rappel route
-      - note:
-            - inPerson
-        text: |-
-            Scouts will all have an opportunity to attempt to complete this
-            requirement. As with the previous two requirements, successful
-            completion is based off of both mental and physical ability, and
-            only Scouts able to successfully complete each component will
-            complete this requirement.
+    - requirement: a
+      text: |-
+        Using a carabiner and a rappel device, secure your climbing harness
+        to a rappel rope.
+    - requirement: b
+      text: |-
+        Tie into a belay rope set up to protect rappellers.
+    - requirement: c
+      text: |-
+        Rappel down three different rock faces or three rappel routes on a
+        climbing wall. Use verbal signals to communicate with a belayer,
+        and demonstrate good rappelling technique.
+    - note:
+        - inPerson
+      text: |-
+        Scouts will all have an opportunity to attempt to complete this
+        requirement. As with the previous two requirements, successful
+        completion is based off of both mental and physical ability, and
+        only Scouts able to successfully complete each component will
+        complete this requirement.
 - requirement: 12
   text: |-
-      Demonstrate ways to store rope, hardware, and other gear used for
-      climbing, rappelling, and belaying.
-  workbook:
-      - task: true
+    Demonstrate ways to store rope, hardware, and other gear used for
+    climbing, rappelling, and belaying.
   children:
-      - note:
-            - inPerson
-        text: |-
-            This requirement will be covered in the class however Scouts should
-            review the merit badge pamphlet and have an understanding of proper
-            storage and care practices for gear used in climbing, rappelling,
-            and belaying and be prepared to discuss and demonstrate with the
-            counselor.
+    - note:
+        - inPerson
+      text: |-
+        This requirement will be covered in the class however Scouts should
+        review the merit badge pamphlet and have an understanding of proper
+        storage and care practices for gear used in climbing, rappelling,
+        and belaying and be prepared to discuss and demonstrate with the
+        counselor.

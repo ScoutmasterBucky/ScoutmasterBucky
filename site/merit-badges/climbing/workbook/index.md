@@ -1,7 +1,7 @@
 ---
 badge: climbing
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Climbing Workbook
+      url: climbing-workbook.pdf
 ---

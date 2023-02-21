@@ -9,32 +9,26 @@ These awards are ways to reward Scouts for learning more about Science, Technolo
 
 ### Cub Scout Supernova Awards
 
-<div class="D(f) Jc(se) Fxd(c)--s">
-
+{{#supernova-list}}
 {{>supernova supernova="dr-luis-walter-alvarez"}}
 {{>supernova supernova="dr-charles-h-townes"}}
-
-</div>
+{{/supernova-list}}
 
 ### Scouts BSA Supernova Awards
 
-<div class="D(f) Jc(se) Fxd(c)--s">
-
+{{#supernova-list}}
 {{>supernova supernova="dr-bernard-harris"}}
 {{>supernova supernova="thomas-alva-edison"}}
 {{>supernova supernova="dr-albert-einstein"}}
-
-</div>
+{{/supernova-list}}
 
 ### Venturing and Sea Scout Supernova Awards
 
-<div class="D(f) Jc(se) Fxd(c)--m">
-
+{{#supernova-list}}
 {{>supernova supernova="dr-sally-ride"}}
 {{>supernova supernova="wright-brothers"}}
 {{>supernova supernova="dr-albert-einstein"}}
-
-</div>
+{{/supernova-list}}
 
 ## Supernova Award Progression
 

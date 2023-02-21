@@ -15,7 +15,7 @@ Thursten Lodge &mdash; Rum River Scout Camp
 
 </div>
 
-<div class="My(1em)">Registration for the Open is $15 per person, included is a commemorative mini disc. All profits go twoards helping to maintain and improve the disc golf course. Check-in is at Thurston Lodge 20 minutes prior to your time slot. The time slots are every 15 minutes. If needed, camp has loaner discs: 1 mid-range, 1 putter.</div>
+<div class="My(1em)">Registration for the Open is $15 per person, included is a commemorative mini disc. All profits go towards helping to maintain and improve the disc golf course. Check-in is at Thurston Lodge 20 minutes prior to your time slot. The time slots are every 15 minutes. If needed, camp has loaner discs: 1 mid-range, 1 putter.</div>
 
 <div class="D(f) Ai(c) Fxd(c)">
 

@@ -1,7 +1,7 @@
 ---
 badge: wilderness-survival
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Wilderness Survival Workbook
+      url: wilderness-survival-workbook.pdf
 ---

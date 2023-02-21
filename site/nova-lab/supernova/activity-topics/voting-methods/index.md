@@ -1,6 +1,9 @@
 ---
 title: "A Paradox of Counting: Voting Methods and Fair Decisions"
 layout: nova
+data:
+    requirementsPart1: requirements-part-1.yaml
+    requirementsPart2: requirements-part-2.yaml
 ---
 
 {{> nova-activity-topic }}
@@ -15,31 +18,11 @@ This is not a binding decision on your unit! This is an exercise, but one that w
 
 ### Part 1: Ballot Setup, Gathering, and Tabulating
 
-{{#requirements}}
-1. Decide on four superactivities that your unit would genuinely be interested in doing next summer. Aim for four genuine options, none of which is likely to receive a majority of the votes. Discuss these options with your mentor before doing the following:
-    A. Create ballots on which each voter can list his/her first, second, third, and fourth choices from among the four prospective superactivities.
-    B. Find 20 to 30 unit members, prospective guests for the superactivity, unit leaders, parents, and so on, to complete one ballot each. Each voter should vote sincerely, without trying to strategize.
-    C. Do some research and learn how to tabulate winners using each of the following four voting methods:
-        1. Plurality method
-        2. Borda count method
-        3. Plurality-with-elimination method (sometimes called the instant runoff method)
-        4. Pair-wise comparison method (sometimes called Copeland’s method)
-{{/requirements}}
+{{>show-requirements requirements=data.requirementsPart1}}
 
 ### Part 2: Analysis and Report
 
-{{#requirements}}
-1. As you tabulate the results using each voting method, evaluate each method and discuss the following with your mentor.
-    A. What do you notice? How fair is each method?
-    B. How would the results be affected if two or three voters had cast strategic ballots (instead of sincere ballots), in an effort to “not waste their votes”?
-    C. Which of the four voting methods do you believe is the right voting method for this decision in your unit? Why?
-    D. Consider how we elect the president of the United States of America.
-        1. What voting method do we use?
-        2. What are its advantages and disadvantages?
-        3. Do you believe each voting citizen in the United States has an equal say in the vote tabulation?
-        4. Is it possible for citizens to cast strategic votes and influence the outcome of a presidential election?
-2. Create a report that summarizes the results from the various voting methods, outlines your analysis, and comments on voting methods for the U.S. presidency. Share your report with your mentor.
-{{/requirements}}
+{{>show-requirements requirements=data.requirementsPart2}}
 
 ### Resources
 

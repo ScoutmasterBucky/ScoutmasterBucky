@@ -1,1 +1,5 @@
 Add Outdoor Code and link it in
+
+Remove {{#requirements}} everywhere as a way to show requirements and switch to requirements.yaml
+
+Shouldn't need {{#trim}} any longer

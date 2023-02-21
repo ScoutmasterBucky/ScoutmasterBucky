@@ -1,10 +1,12 @@
 ---
 badge: rifle-shooting
 layout: smb
+workbookMultipleOptionsMessage: true
+downloads:
+    - name: Rifle Shooting - Air Rifle Shooting (BB or pellet) Option
+      url: rifle-shooting-workbook-air-rifle-shooting.pdf
+    - name: Rifle Shooting - Muzzleloading Rifle Shooting Option
+      url: rifle-shooting-workbook-muzzleloading-rifle-shooting.pdf
+    - name: Rifle Shooting - Rifle Shooting (Modern cartridge type) Option
+      url: rifle-shooting-workbook-rifle-shooting.pdf
 ---
-
-The Rifle Shooting workbook has been split into individual options. Only one option is required in order to earn the merit badge.
-
-* [Rifle Shooting (Modern cartridge type)](rifle/)
-* [Air Rifle Shooting (BB or pellet)](air-rifle/)
-* [Muzzleloading Rifle Shooting](muzzleloading/)

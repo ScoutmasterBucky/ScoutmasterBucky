@@ -1,0 +1,24 @@
+        </div>
+        <div class="Maw(1002px) Mx(a) D(n)--p">
+            <div>
+                <img src="{{@root.rootPath}}nova-lab/images/nova-footer.jpg" class="W(100%) H(a)" height="153" width="1280">
+            </div>
+            <div class="Pos(a) T(0) D(f) W(100%) H(100%) nova C(--headingText) Jc(c) Ai(c) Fw(b) Fz(2.3em)--_sml Fz(2em)--l Fz(1.5em)--m Fz(1em)--s">
+                Science, Technology, Engineering, Math
+            </div>
+        </div>
+        <div id="menu" class="Bgc(--heading2Background) Pos(f) T(0) D(n)--_s D(b)--s C(--buttonText) P(8px) body_D(n)--p">
+            <a class="Pos(a) T(0) Start(100%) D(n)--_s D(b)--s Bgc(--heading2Background) P(8px)"
+                onclick="document.getElementById('menu').classList.toggle('flyout')"
+                href="#">
+                {{>hamburger-menu}}
+            </a>
+
+            {{>nova-menu}}
+
+            <div class="Mt(16px)"></div>
+
+            {{>cross-link-buttons nova=true}}
+        </div>
+    </body>
+</html>

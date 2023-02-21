@@ -4,59 +4,8 @@ program: cub-scouts
 layout: nova-req
 lastUpdate: '2022-05-27'
 hasNotes: true
+data:
+    requirements: requirements.yaml
 ---
 
 This module is designed to help you discover the wonders of space exploration.
-
-{{#requirements}}
-1. Choose A or B or C and complete ALL the requirements.
-    A. Watch an episode or episodes (about one hour total) of a show about the planets, space, space exploration, NASA, or astronomy. Then do the following:
-        1. Make a list of at least two questions or ideas from what you watched.
-        2. Discuss two of the questions or ideas with your counselor.
-        {{#note type="counselor"}}Some examples include - but are not limited to - shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may, with your parent’s permission, visit a website for young scientists or astronomers and investigate the learning activities Young Astronomer, Kids Astronomy, Young Stargazers, and NASA StarChild.){{/note}}
-    B. Read (about one hour total) about the planets, space, space exploration, NASA, or astronomy. Then do the following:
-        1. Make a list of at least two questions or ideas from what you read.
-        2. Discuss two of the questions or ideas with your counselor.
-        {{#note type="counselor"}}Books on many topics may be found at your local library. Examples of magazines include - but are not limited to - Odyssey, KIDS DISCOVER, National Geographic Kids, Highlights, and OWL or owlkids.com.{{/note}}
-    C. Do a combination of reading and watching (about one hour total) about the planets, space, space exploration, NASA, or astronomy. Then do the following:
-        1. Make a list of at least two questions or ideas from what you read and watched.
-        2. Discuss two of the questions or ideas with your counselor.
-2. Complete ONE adventure from the following list for your current rank or complete option A or B. (Choose an Adventure you have not already earned.) Discuss with your counselor what kind of science, technology, engineering, and math was used in the adventure or option.
-    * **Wolf Cub Scouts:** Germs Alive!
-    * **Bear Cub Scouts:** Super Science
-    * **Webelos Scouts:** Engineer, Game Design
-    **Option A:** Do all the following:
-        (a) Demonstrate how to focus a simple telescope or binoculars. (A local astronomy club may be a resource for this activity.)
-        (b) Draw a diagram of our solar system. Identify the planets and other objects.
-        (c) Draw and label five constellations. See if you can locate any of them in the sky using a star map.
-    **Option B:** Do both of the following.
-        (a) Make a paper airplane and fly it five times. Try to make it fly farther by altering its shape. Fly it at least five more times to see if your changes were effective.
-        (b) Make a balloon-powered sled or a balloon-powered boat. Test your sled or boat with larger and smaller balloons.
-3. Choose TWO from A or B or C or D or E or F and complete ALL the requirements for the options you choose.
-    A. Have a star party with your den, pack, or family. (Make sure you wear proper clothing for the nighttime temperature.)
-        1. Choose a clear night to investigate the stars. A fun time to watch stars is during a meteor shower. You may check http://earthsky.org/astronomy-essentials with your parent’s or guardian’s permission to find good times to watch meteors.
-        2. Find five different constellations and draw them. With your parent’s or guardian’s permission, you may use a free smartphone application such as Google Sky Map for Android phones or Night Sky for iPhones to help identify stars and constellations.
-        3. Share your drawings with your counselor. Discuss whether you would always be able to see those constellations in the same place.
-    B. Explain how “revolution,” or “orbit,” compares with “rotation” when talking about planets and the solar system. Show these by walking and spinning around your counselor. Do the following:
-        1. Choose three planets to investigate (you may include the dwarf planet Pluto). Compare these planets to Earth. Find out how long the planet takes to go around the sun (the planet’s year) and how long the planet takes to spin on its axis (the planet’s day). Include at least TWO of these: distance from the sun, diameter, atmosphere, temperature, number of moons.
-        2. Discuss what you have learned with your counselor.
-    C. Using materials you have on hand (plastic building blocks, food containers, recycled materials, etc.), design a model Mars rover that would be useful to explore the rocky planet’s surface. Share your model with your counselor and explain the following:
-        1. The data the rover would collect
-        2. How the rover would work
-        3. How the rover would transmit data
-        4. Why rovers are needed for space exploration
-    D. Design on paper an inhabited base located on Mars or the moon. Consider the following: the energy source, how the base will be constructed, the life-support system, food, entertainment, the purpose and function, and other things you think would be important. Then do the following:
-        1. Draw or build a model of your base using recycled materials.
-        2. Discuss with your counselor what people would need to survive on Mars or the moon.
-    E. Become an asteroid mapper. Obtain your parent’s or guardian’s permission and map an asteroid as part of the Jet Propulsion Laboratory and the California Institute of Technology’s Dawn project: http://dawn.jpl.nasa.gov/DawnCommunity/asteroid_mappers.asp.
-        Then discuss with your counselor your mapping activities, why mapping asteroids is important, and what you learned about space and asteroids.
-    F. Eclipses
-        1. Investigate and make models or diagrams of solar and lunar eclipses. (Example: You may wish to use balls of different sizes and a flashlight to represent the sun.)
-        2. Using your model or diagram, discuss eclipses with your counselor, and explain the difference between a solar eclipse and a lunar eclipse.
-4. Visit or explore. Choose A or B and complete ALL the requirements.
-    A. Visit a place where space science is being done, used, explained, or investigated, such as one of the following: observatory, planetarium, air and space museum, star lab, astronomy club, NASA, or any other location where space science is being done, used, explained, or investigated.
-        1. During your visit, talk to someone in charge about how people at the location use or investigate space science. Find out how this investigation could make the world a better place.
-        2. Discuss with your counselor the science being done, used, explained, or investigated at the place you visited.
-    B. Explore a career associated with space exploration. Find out what subjects you would need to study as you get older. Find out whether you must be an astronaut to explore space, and what other opportunities exist for people interested in space exploration.
-5. Tell your counselor what you have learned about space exploration while working on this award.
-{{/requirements}}

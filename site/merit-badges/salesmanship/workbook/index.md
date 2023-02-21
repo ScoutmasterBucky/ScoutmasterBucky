@@ -1,7 +1,7 @@
 ---
 badge: salesmanship
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Salesmanship Workbook
+      url: salesmanship-workbook.pdf
 ---

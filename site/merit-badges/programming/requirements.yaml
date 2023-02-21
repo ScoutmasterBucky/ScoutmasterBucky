@@ -1,184 +1,94 @@
 - requirement: 1
   text: |-
-      Safety. Do the following:
+    Safety. Do the following:
   children:
-      - requirement: a
-        text: |-
-            Show your counselor your current, up-to-date [Cyber
-            Chip](/other-awards/cyber-chip/).
-        workbook:
-            - signature: Adult Scout Leader
-      - requirement: b
-        text: |-
-            Discuss first aid and prevention for the types of injuries that
-            could occur during programming activities, including repetitive
-            stress injuries and eyestrain.
-        workbook:
-            - lines: 8
-              text: |-
-                  Eyestrain
-            - lines: 8
-              text: |-
-                  Repetitive streess injuries
-            - lines: 8
-              text: |-
-                  Other injuries
+    - requirement: a
+      text: |-
+        Show your counselor your current, up-to-date [Cyber
+        Chip](/other-awards/cyber-chip/).
+    - requirement: b
+      text: |-
+        Discuss first aid and prevention for the types of injuries that
+        could occur during programming activities, including repetitive
+        stress injuries and eyestrain.
 - requirement: 2
   text: |-
-      History. Do the following:
+    History. Do the following:
   children:
-      - requirement: a
-        text: |-
-            Give a brief history of programming, including at least three
-            milestones related to the advancement or development of
-            programming.
-        workbook:
-            - lines: 8
-              text: |-
-                  History of programming
-            - lines: 8
-              text: |-
-                  First milestone
-            - lines: 8
-              text: |-
-                  Second milestone
-            - lines: 8
-              text: |-
-                  Third milestone
-      - requirement: b
-        text: |-
-            Discuss with your counselor the history of programming and the
-            evolution of programming languages.
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        Give a brief history of programming, including at least three
+        milestones related to the advancement or development of
+        programming.
+    - requirement: b
+      text: |-
+        Discuss with your counselor the history of programming and the
+        evolution of programming languages.
 - requirement: 3
   text: |-
-      General knowledge. Do the following:
+    General knowledge. Do the following:
   children:
-      - requirement: a
-        text: |-
-            Create a list of 5 popular programming languages in use today and
-            describe which industry or industries they are primarily used in
-            and why.
-        workbook:
-            - split:
-                  - header: true
-                    text: |-
-                        Language
-                  - header: true
-                    text: |-
-                        Industries
-                  - header: true
-                    text: |-
-                        Why used there
-            - split:
-                  - lines: 2
-                  - lines: 2
-                  - lines: 2
-            - split:
-                  - lines: 2
-                  - lines: 2
-                  - lines: 2
-            - split:
-                  - lines: 2
-                  - lines: 2
-                  - lines: 2
-            - split:
-                  - lines: 2
-                  - lines: 2
-                  - lines: 2
-            - split:
-                  - lines: 2
-                  - lines: 2
-                  - lines: 2
-      - requirement: b
-        text: |-
-            Describe three different programmed devices you rely on every day.
-        workbook:
-            - lines: 3
-            - lines: 3
-            - lines: 3
+    - requirement: a
+      text: |-
+        Create a list of 5 popular programming languages in use today and
+        describe which industry or industries they are primarily used in
+        and why.
+    - requirement: b
+      text: |-
+        Describe three different programmed devices you rely on every day.
 - requirement: 4
   text: |-
-      Intellectual property. Do the following:
+    Intellectual property. Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain the four types of intellectual property used to protect
-            computer programs.
-        workbook:
-            - lines: 8
-            - lines: 8
-            - lines: 8
-            - lines: 8
-      - requirement: b
-        text: |-
-            Describe the difference between licensing and owning software.
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            Describe the differences between freeware, open source, and
-            commercial software, and why it is important to respect the terms
-            of use of each.
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        Explain the four types of intellectual property used to protect
+        computer programs.
+    - requirement: b
+      text: |-
+        Describe the difference between licensing and owning software.
+    - requirement: c
+      text: |-
+        Describe the differences between freeware, open source, and
+        commercial software, and why it is important to respect the terms
+        of use of each.
 - requirement: 5
   text: |-
-      Projects. Do the following:
+    Projects. Do the following:
   children:
-      - requirement: a
-        markdown: true
-        text: |-
-            With your counselor’s approval, choose a sample program. Modify the
-            code or add a function or subroutine to it. Debug and demonstrate
-            the modified program to your counselor.
+    - requirement: a
+      markdown: true
+      text: |-
+        With your counselor’s approval, choose a sample program. Modify the
+        code or add a function or subroutine to it. Debug and demonstrate
+        the modified program to your counselor.
 
-            The Programming merit badge website, www.scoutlife.org/programming,
-            has a number of sample programs that you could use for requirement
-            5a. However, you have the option of finding a program on your own.
-            It’s a good idea to seek your merit badge counselor’s guidance.
-        workbook:
-            - lines: 2
-              text: |-
-                  First programming language
-            - task: true
-      - requirement: b
-        text: |-
-            With your counselor’s approval, choose a second programming
-            language and development environment, different from those used for
-            requirement 5a and in a different industry from 5a. Then write,
-            debug, and demonstrate a functioning program to your counselor,
-            using that language and environment.
-        workbook:
-            - lines: 2
-              text: |-
-                  Second programming language
-            - task: true
-      - requirement: c
-        text: |-
-            With your counselor’s approval, choose a third programming language
-            and development environment, different from those used for
-            requirements 5a and 5b and in a different industry from 5a or 5b.
-            Then write, debug, and demonstrate a functioning program to your
-            counselor, using that language and environment.
-        workbook:
-            - lines: 2
-              text: |-
-                  Third programming language
-            - task: true
-      - requirement: d
-        text: |-
-            Explain how the programs you wrote for requirements 5a, 5b, and 5c
-            process inputs, how they make decisions based on those inputs, and
-            how they provide outputs based on the decision making.
-        workbook:
-            - lines: 8
+        The Programming merit badge website, www.scoutlife.org/programming,
+        has a number of sample programs that you could use for requirement
+        5a. However, you have the option of finding a program on your own.
+        It’s a good idea to seek your merit badge counselor’s guidance.
+    - requirement: b
+      text: |-
+        With your counselor’s approval, choose a second programming
+        language and development environment, different from those used for
+        requirement 5a and in a different industry from 5a. Then write,
+        debug, and demonstrate a functioning program to your counselor,
+        using that language and environment.
+    - requirement: c
+      text: |-
+        With your counselor’s approval, choose a third programming language
+        and development environment, different from those used for
+        requirements 5a and 5b and in a different industry from 5a or 5b.
+        Then write, debug, and demonstrate a functioning program to your
+        counselor, using that language and environment.
+    - requirement: d
+      text: |-
+        Explain how the programs you wrote for requirements 5a, 5b, and 5c
+        process inputs, how they make decisions based on those inputs, and
+        how they provide outputs based on the decision making.
 - requirement: 6
   text: |-
-      Careers. Find out about three career opportunities that require knowledge
-      in programming. Pick one and find out the education, training, and
-      experience required. Discuss this with your counselor and explain why
-      this career might be of interest to you.
-  workbook:
-      - lines: 8
+    Careers. Find out about three career opportunities that require knowledge
+    in programming. Pick one and find out the education, training, and
+    experience required. Discuss this with your counselor and explain why
+    this career might be of interest to you.

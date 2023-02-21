@@ -1,7 +1,7 @@
 ---
 badge: exploration
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Exploration Workbook
+      url: exploration-workbook.pdf
 ---
