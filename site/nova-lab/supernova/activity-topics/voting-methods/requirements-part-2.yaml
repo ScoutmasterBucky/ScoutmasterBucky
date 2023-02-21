@@ -1,0 +1,41 @@
+- requirement: 1
+  text: |-
+      As you tabulate the results using each voting method, evaluate each
+      method and discuss the following with your mentor.
+  children:
+      - requirement: A
+        text: |-
+            What do you notice? How fair is each method?
+      - requirement: B
+        text: |-
+            How would the results be affected if two or three voters had cast
+            strategic ballots (instead of sincere ballots), in an effort to
+            “not waste their votes”?
+      - requirement: C
+        text: |-
+            Which of the four voting methods do you believe is the right voting
+            method for this decision in your unit? Why?
+      - requirement: D
+        text: |-
+            Consider how we elect the president of the United States of
+            America.
+        children:
+            - requirement: 1
+              text: |-
+                  What voting method do we use?
+            - requirement: 2
+              text: |-
+                  What are its advantages and disadvantages?
+            - requirement: 3
+              text: |-
+                  Do you believe each voting citizen in the United States has
+                  an equal say in the vote tabulation?
+            - requirement: 4
+              text: |-
+                  Is it possible for citizens to cast strategic votes and
+                  influence the outcome of a presidential election?
+- requirement: 2
+  text: |-
+      Create a report that summarizes the results from the various voting
+      methods, outlines your analysis, and comments on voting methods for the
+      U.S. presidency. Share your report with your mentor.

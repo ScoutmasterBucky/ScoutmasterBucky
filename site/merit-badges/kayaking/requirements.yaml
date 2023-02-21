@@ -1,256 +1,118 @@
 - requirement: 1
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain to your counselor the hazards you are most likely to encounter while participating in kayaking activities, including weather and water-related hazards, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
-        workbook:
-          - lines: 8
-            text: |-
-              Most likely hazards
-          - lines: 8
-            text: |-
-              Anticipate hazards
-          - lines: 8
-            text: |-
-              Prevent hazards
-          - lines: 8
-            text: |-
-              Mitigate hazards
-          - lines: 8
-            text: |-
-              Respond to hazards
-      - requirement: b
-        text: |-
-            Review prevention, symptoms, and first-aid treatment for the following injuries or illnesses that can occur while kayaking: blisters, cold-water shock and hypothermia, heat-related illnesses, dehydration, sunburn, sprains, and strains.
-        workbook:
-            - lines: 8
-              text: |-
-                Blisters
-            - lines: 8
-              text: |-
-                Cold-water shock and hypothermia
-            - lines: 8
-              text: |-
-                Heat-related illnesses
-            - lines: 8
-              text: |-
-                Dehydration
-            - lines: 8
-              text: |-
-                Sunburn
-            - lines: 8
-              text: |-
-                Sprains and strains
-      - requirement: c
-        text: |-
-            Review the BSA Safety Afloat policy. Explain to your counselor how this applies to kayaking.
-        workbook:
-          - lines: 8
+    - requirement: a
+      text: |-
+        Explain to your counselor the hazards you are most likely to encounter while participating in kayaking activities, including weather and water-related hazards, and what you should do to anticipate, help prevent, mitigate, and respond to these hazards.
+    - requirement: b
+      text: |-
+        Review prevention, symptoms, and first-aid treatment for the following injuries or illnesses that can occur while kayaking: blisters, cold-water shock and hypothermia, heat-related illnesses, dehydration, sunburn, sprains, and strains.
+    - requirement: c
+      text: |-
+        Review the BSA Safety Afloat policy. Explain to your counselor how this applies to kayaking.
 - requirement: 2
   text: |-
-      Before doing requirements 3 through 8, successfully complete the BSA swimmer test: Jump feetfirst into water over the head in depth. Level off and swim 75 yards in a strong manner using one or more of the following strokes: sidestroke, breaststroke, trudgen, or crawl; then swim 25 yards using an easy, resting backstroke.  The 100 yards must be completed in one swim without stops and must include at least one sharp turn. After completing the swim, rest by floating.
-  workbook:
-    - signature: Swim Test Observer
+    Before doing requirements 3 through 8, successfully complete the BSA swimmer test: Jump feetfirst into water over the head in depth. Level off and swim 75 yards in a strong manner using one or more of the following strokes: sidestroke, breaststroke, trudgen, or crawl; then swim 25 yards using an easy, resting backstroke.  The 100 yards must be completed in one swim without stops and must include at least one sharp turn. After completing the swim, rest by floating.
 - requirement: 3
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Review the characteristics of life jackets most appropriate for kayaking and understand why one must always be worn while paddling. Then demonstrate how to select and fit a life jacket for kayaking.
-        workbook:
-          - lines: 8
-          - task: true
-            text: |-
-              Demonstrated how to select and fit a life jacket for kayaking
-      - requirement: b
-        text: |-
-            Review the importance of safety equipment such as a signal device, extra paddle, sponge, bilge pump, flotation bags, and throw bag.
-        workbook:
-          - lines: 8
+    - requirement: a
+      text: |-
+        Review the characteristics of life jackets most appropriate for kayaking and understand why one must always be worn while paddling. Then demonstrate how to select and fit a life jacket for kayaking.
+    - requirement: b
+      text: |-
+        Review the importance of safety equipment such as a signal device, extra paddle, sponge, bilge pump, flotation bags, and throw bag.
 - requirement: 4
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Name and point out the major parts of a kayak.
-        workbook:
-          - lines: 8
-      - requirement: b
-        text: |-
-            Review the differences in the design between recreational, whitewater, and sea or touring kayaks. Include how length, width, stability, and rocker are involved in the design of each type.
-        workbook:
-          - lines: 8
-      - requirement: c
-        text: |-
-            Explain the care, maintenance, and storage of a kayak.
-        workbook:
-          - lines: 8
+    - requirement: a
+      text: |-
+        Name and point out the major parts of a kayak.
+    - requirement: b
+      text: |-
+        Review the differences in the design between recreational, whitewater, and sea or touring kayaks. Include how length, width, stability, and rocker are involved in the design of each type.
+    - requirement: c
+      text: |-
+        Explain the care, maintenance, and storage of a kayak.
 - requirement: 5
   text: |-
-      Discuss the following:
+    Discuss the following:
   children:
-      - requirement: a
-        text: |-
-            How to use a kayak paddle.
-        workbook:
-          - lines: 8
-      - requirement: b
-        text: |-
-            Parts of a paddle.
-        workbook:
-          - lines: 8
-      - requirement: c
-        text: |-
-            The care and maintenance of a paddle.
-        workbook:
-          - lines: 8
+    - requirement: a
+      text: |-
+        How to use a kayak paddle.
+    - requirement: b
+      text: |-
+        Parts of a paddle.
+    - requirement: c
+      text: |-
+        The care and maintenance of a paddle.
 - requirement: 6
   text: |-
-      Using a properly equipped kayak with an open cockpit, a sit-on-top, or an inflatable kayak, do the following:
-  workbook:
-    - split:
-      - task: true
-        text: |-
-            a. Safely capsize and perform a wet exit.
-      - task: true
-        text: |-
-            b. Reenter the kayak with assistance from a buddy boat.
-    - split:
-      - task: true
-        text: |-
-            c. Demonstrate a kayak-over-kayak rescue.
-      - task: true
-        text: |-
-            d. Demonstrate the HELP position.
-    - task: true
-      text: |-
-            e. Capsize the kayak, swim it and the paddle to shore, and empty water from the kayak with assistance, if needed.
+    Using a properly equipped kayak with an open cockpit, a sit-on-top, or an inflatable kayak, do the following:
   children:
-      - requirement: a
-        text: |-
-            Safely capsize and perform a wet exit.
-        workbookHide: true
-      - requirement: b
-        text: |-
-            Reenter the kayak with assistance from a buddy boat.
-        workbookHide: true
-      - requirement: c
-        text: |-
-            Demonstrate a kayak-over-kayak rescue.
-        workbookHide: true
-      - requirement: d
-        text: |-
-            Demonstrate the HELP position.
-        workbookHide: true
-      - requirement: e
-        text: |-
-            Capsize the kayak, swim it and the paddle to shore, and empty water from the kayak with assistance, if needed.
-        workbookHide: true
+    - requirement: a
+      text: |-
+        Safely capsize and perform a wet exit.
+    - requirement: b
+      text: |-
+        Reenter the kayak with assistance from a buddy boat.
+    - requirement: c
+      text: |-
+        Demonstrate a kayak-over-kayak rescue.
+    - requirement: d
+      text: |-
+        Demonstrate the HELP position.
+    - requirement: e
+      text: |-
+        Capsize the kayak, swim it and the paddle to shore, and empty water from the kayak with assistance, if needed.
 - requirement: 7
   text: |-
-      As a solo paddler, use a properly equipped kayak to demonstrate the following:
-  workbook:
-    - split:
-      - task: true
-        text: |-
-            a. Forward stroke
-      - task: true
-        text: |-
-            b. Reverse stroke
-    - split:
-      - task: true
-        text: |-
-            c. Forward sweep
-      - task: true
-        text: |-
-            d. Reverse sweep
-    - split:
-      - task: true
-        text: |-
-            e. Draw stroke
-      - task: true
-        text: |-
-            f. Stern draw
+    As a solo paddler, use a properly equipped kayak to demonstrate the following:
   children:
-      - requirement: a
-        text: |-
-            Forward stroke
-        workbookHide: true
-      - requirement: b
-        text: |-
-            Reverse stroke
-        workbookHide: true
-      - requirement: c
-        text: |-
-            Forward sweep
-        workbookHide: true
-      - requirement: d
-        text: |-
-            Reverse sweep
-        workbookHide: true
-      - requirement: e
-        text: |-
-            Draw stroke
-        workbookHide: true
-      - requirement: f
-        text: |-
-            Stern draw
-        workbookHide: true
+    - requirement: a
+      text: |-
+        Forward stroke
+    - requirement: b
+      text: |-
+        Reverse stroke
+    - requirement: c
+      text: |-
+        Forward sweep
+    - requirement: d
+      text: |-
+        Reverse sweep
+    - requirement: e
+      text: |-
+        Draw stroke
+    - requirement: f
+      text: |-
+        Stern draw
 - requirement: 8
   text: |-
-      As a solo paddler, use a properly equipped kayak to demonstrate the following:
-  workbook:
-    - task: true
-      text: |-
-        a. Paddle a straight line for 15 to 20 boat lengths using appropriate strokes while maintaining trim and balance of the kayak.
-    - task: true
-      text: |-
-        b. Spin or pivot from a stationary position 180 degrees (half circle) to the right and left within two boat lengths.
-    - task: true
-      text: |-
-        c. Move abeam to the right 10 feet and to the left 10 feet.
-    - task: true
-      text: |-
-        d. Stop the boat in one boat length.
-    - task: true
-      text: |-
-        e. While maintaining forward motion, turn the kayak 90 degrees to the right and left.
-    - task: true
-      text: |-
-        f. Move the kayak backward three to four boat lengths using appropriate and effective reverse strokes.
-    - task: true
-      text: |-
-        g. Paddle the kayak in a buoyed figure 8 course around markers three to four boat lengths apart.
+    As a solo paddler, use a properly equipped kayak to demonstrate the following:
   children:
-      - requirement: a
-        text: |-
-            Paddle a straight line for 15 to 20 boat lengths using appropriate strokes while maintaining trim and balance of the kayak.
-        workbookHide: true
-      - requirement: b
-        text: |-
-            Spin or pivot from a stationary position 180 degrees (half circle) to the right and left within two boat lengths.
-        workbookHide: true
-      - requirement: c
-        text: |-
-            Move abeam to the right 10 feet and to the left 10 feet.
-        workbookHide: true
-      - requirement: d
-        text: |-
-            Stop the boat in one boat length.
-        workbookHide: true
-      - requirement: e
-        text: |-
-            While maintaining forward motion, turn the kayak 90 degrees to the right and left.
-        workbookHide: true
-      - requirement: f
-        text: |-
-            Move the kayak backward three to four boat lengths using appropriate and effective reverse strokes.
-        workbookHide: true
-      - requirement: g
-        text: |-
-            Paddle the kayak in a buoyed figure 8 course around markers three to four boat lengths apart.
-        workbookHide: true
+    - requirement: a
+      text: |-
+        Paddle a straight line for 15 to 20 boat lengths using appropriate strokes while maintaining trim and balance of the kayak.
+    - requirement: b
+      text: |-
+        Spin or pivot from a stationary position 180 degrees (half circle) to the right and left within two boat lengths.
+    - requirement: c
+      text: |-
+        Move abeam to the right 10 feet and to the left 10 feet.
+    - requirement: d
+      text: |-
+        Stop the boat in one boat length.
+    - requirement: e
+      text: |-
+        While maintaining forward motion, turn the kayak 90 degrees to the right and left.
+    - requirement: f
+      text: |-
+        Move the kayak backward three to four boat lengths using appropriate and effective reverse strokes.
+    - requirement: g
+      text: |-
+        Paddle the kayak in a buoyed figure 8 course around markers three to four boat lengths apart.

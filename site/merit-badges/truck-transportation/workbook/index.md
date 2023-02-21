@@ -1,7 +1,7 @@
 ---
 badge: truck-transportation
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Truck Transportation Workbook
+      url: truck-transportation-workbook.pdf
 ---

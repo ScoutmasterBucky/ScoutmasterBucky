@@ -1,7 +1,7 @@
 ---
 badge: lifesaving
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Lifesaving Workbook
+      url: lifesaving-workbook.pdf
 ---

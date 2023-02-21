@@ -1,7 +1,7 @@
 ---
 badge: gardening
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Gardening Workbook
+      url: gardening-workbook.pdf
 ---

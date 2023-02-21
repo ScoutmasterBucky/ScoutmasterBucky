@@ -1,0 +1,454 @@
+- requirement: 1
+  markdown: true
+  text: |-
+      Choose A *or* B *or* C and complete ALL the requirements.
+  children:
+      - requirement: A
+        text: |-
+            Watch not less than three hours total of shows or documentaries
+            related to areas of biology: botany, zoology, genetics, medicine,
+            ecology, veterinary medicine, or microbiology. Then do the
+            following:
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least five questions or ideas from the
+                  show(s) you watched.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions or ideas with your counselor.
+            - detail: true
+              markdown: true
+              text: |-
+                  Some examples include—but are not limited to—shows found on
+                  PBS (NOVA: “Cracking the Code”), Discovery Channel, Science
+                  Channel, National Geographic Channel, Animal Planet and TED
+                  Talks (online videos). The Human Genome Institute at NIH
+                  website at www.genome.gov/10000002/education/ has educational
+                  information and activities related with human genetics. You
+                  may choose to watch a live performance or movie developed by
+                  a local science museum or state or federal agency. You may
+                  watch online productions with your counselor’s approval and
+                  under your parent’s or guardian’s supervision.
+      - requirement: B
+        text: |-
+            Read (not less than three hours total) about anything related to a
+            biological topic and do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least five questions or ideas from each
+                  article.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions or ideas with your counselor.
+            - detail: true
+              text: |-
+                  Examples of magazines include—but are not limited
+                  to—Discover, Science News, Natural History, Scientific
+                  American, National Geographic, Smithsonian and The Scientist.
+      - requirement: C
+        text: |-
+            Combine reading and watching activities (not less than three hours
+            total), and do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least five questions or ideas from your
+                  activity.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions or ideas with your counselor.
+- requirement: 2
+  markdown: true
+  text: |-
+      Choose ONE subject from the following list. Complete ALL the requirements
+      from among the [Venturing STEM exploration topics](../../explorations/).
+      If you have already completed a Venturing STEM exploration in one of
+      these fields, please choose a different field for this award. Discuss
+      with your counselor THREE salient points you learned from each activity.
+
+      Animal Science, Environmental Science, Fish and Wildlife Management,
+      Fishing, Forestry, Gardening, Health Care Professions, Insect Study,
+      Mammal Study, Nature, Oceanography, Plant Science, Soil and Water
+      Conservation, Wildlife Conservation, Veterinary Science
+- requirement: 3
+  markdown: true
+  text: |-
+      Be a biologist! Consider different areas of biological explorations
+      presented below and pick TWO from A *or* B *or* C *or* D *or* E. Run the
+      experiments or perform the activity and discuss your observations and
+      conclusions with your counselor. Always be sure you have your parent’s or
+      guardian’s permission before using the Internet.
+  children:
+      - requirement: A
+        markdown: true
+        text: |-
+            **Botanical Investigation: Effect of Light on Plant Growth**
+        children:
+            - requirement: 1
+              markdown: true
+              text: |-
+                  Experiment: Plant pea seeds in potting soil, and grow and
+                  water one set under normal sunlight, another set under
+                  fluorescent light, and a last set of potted peas in large
+                  boxes with only one quarter-size hole for sunlight. Predict
+                  what difference(s) you expect to see among the three
+                  conditions and allow plants to germinate and grow for at
+                  least two weeks.
+
+                  Record specific observations about the height, leaf size,
+                  number of leaves, color, and stem diameter. Document your
+                  results with photos. Graph your quantitative results.
+            - requirement: 2
+              markdown: true
+              text: |-
+                  Discuss with your counselor:
+
+                  * What was your hypothesis?
+                  * Did your experimental results agree with your hypothesis?
+                  * What factors contributed to the differences, if any,
+                  between your hypothesis and the actual experimental results?
+              children:
+                  - detail: true
+                    markdown: true
+                    text: |-
+                        Helpful Links
+
+                        * Factors affecting plant growth:
+                        https://edis.ifas.ufl.edu/pdf/4H/4H36000.pdf
+                        * Being an agricultural technician:
+                        https://www.sciencebuddies.org/science-engineering-careers?s=agricultural%20technician
+            - requirement: 3
+              text: |-
+                  Discover. Explain to your counselor possible reasons that
+                  support your experimental results. Then answer TWO of the
+                  following questions.
+              children:
+                  - requirement: a
+                    text: |-
+                        How does sunlight affect the process of photosynthesis?
+                  - requirement: b
+                    text: |-
+                        How do different colors of light affect plant growth?
+                  - requirement: c
+                    text: |-
+                        What is the best color of light to grow a plant in?
+                  - requirement: d
+                    text: |-
+                        How can this knowledge be used to improve the quality
+                        and yield of food crops?
+      - requirement: B
+        markdown: true
+        text: |-
+            **Microscopic Discovery: Life in a Drop of Pond Water**
+        children:
+            - requirement: 1
+              markdown: true
+              text: |-
+                  Experiment: Collect a pint of water from a local pond, creek,
+                  river or estuary, or any source of standing water. Observe a
+                  drop of the water under the microscope at 100x magnification,
+                  using a slide with a well depression. Draw what you see, and
+                  research the identity of the microorganisms you discovered in
+                  the sample.  Divide your sample into three equal portions,
+                  and store them in jars with access to air (e.g., punch some
+                  holes into the lid):
+
+                  * To the first jar, add a pinch of rice flour or ground
+                  yeast. Predict what will change in one week.
+                  * To the second jar, add a teaspoon of household bleach.
+                  Predict what will change in one week.
+                  * Keep the third jar as a control sample. Predict what will
+                  change in one week.
+
+                  At the end of the one-week incubation, take samples from each
+                  jar, and observe under the microscope what changes occurred.
+            - requirement: 2
+              markdown: true
+              text: |-
+                  Discuss with your counselor the following:
+
+                  * What was your original hypothesis?
+                  * Did your experimental results agree with your hypothesis?
+                  * What factors contributed to the differences, if any,
+                  between your hypothesis and the actual experimental results?
+              children:
+                  - detail: true
+                    text: |-
+                        Helpful Links
+
+                        * Guide to identification of freshwater organisms:
+                        www.msnucleus.org/watersheds/mission/plankton.pdf
+                        * Pond life identification:
+                        www.biologycorner.com/worksheets/identifypond.html
+                        * The Microbial World—Yeasts and yeast-like fungi:
+                        http://archive.bio.ed.ac.uk/jdeacon/microbes/yeast.htm
+            - requirement: 3
+              markdown: true
+              text: |-
+                  Discover: Explain to your counselor possible reasons that
+                  support your experimental results. Then answer TWO of the
+                  following questions. (With your parent’s or guardian’s
+                  permission, you may use the internet to find this
+                  information.)
+
+                  * What did you learn about the changes in your
+                  micro-ecosystem, and how can you extrapolate what you learned
+                  to a larger ecosystem?
+                  * Which methods are used to purify the water?
+                  * Research how to make yeast bread, yogurt, or cheese (Choose
+                  ONE only).
+                      * Prepare a sample of the food product to show to your
+                      counselor.
+                      * Discuss with your counselor how microbes were utilized
+                      in production of this food.
+      - requirement: C
+        markdown: true
+        text: |-
+            **Zoology and Veterinary Science: Puppy Chow**
+        children:
+            - requirement: 1
+              text: |-
+                  Experiment: Visit an animal feed store or research the
+                  internet for information on nutritional requirements for the
+                  different life stages—juvenile, adult, and senior adult—of
+                  ONE animal.
+              children:
+                  - requirement: a
+                    text: |-
+                        Compare and contrast the nutrient content of feed for
+                        at least three major life stages of your selected
+                        animal subject.
+                  - requirement: b
+                    text: |-
+                        Volunteer at an animal center for at least eight hours.
+                        Gather practical information about diet components and
+                        feeding requirements of at least three animals
+                        representing the different life stages.
+                  - requirement: c
+                    text: |-
+                        Tabulate your data and present it to your counselor.
+            - requirement: 2
+              markdown: true
+              text: |-
+                  Discuss with your counselor the following:
+
+                  * Why each life stage requires a different balance of nutrients.
+                  * Why is overfeeding a nutrient, such as protein, not a good practice?
+                  * Why do pets need at least an annual check-up?
+              children:
+                  - detail: true
+                    text: |-
+                        Helpful Links
+
+                        * Animal Nutrition:
+                        https://animalbiosciences.uoguelph.ca/~gking/Ag_2350/nutrition.htm
+            - requirement: 3
+              markdown: true
+              text: |-
+                  Discover: Take a tour of a local veterinary clinic or animal
+                  shelter and interview a medical professional about what is
+                  involved in a routine pet check-up, including vaccinations,
+                  and why.
+
+                  * Explain to your counselor what kind of education is
+                  required to be a veterinarian.
+                  * What are other related career options in this field?
+                  * Are there differences in routine check-ups of different
+                  pets?
+                  * What is the difference in the digestive system of
+                  ruminants?
+      - requirement: D
+        markdown: true
+        text: |-
+            **Genetics: DNA Demystified**
+        children:
+            - requirement: 1
+              text: |-
+                  Experiment: With permission of your parents or guardians,
+                  find a recipe on the internet to create your own DNA
+                  extraction kit using household materials, and use it to
+                  purify DNA from strawberries.
+              children:
+                  - requirement: a
+                    text: |-
+                        Perform the DNA extraction, recording your materials
+                        and observations at each step.
+                  - requirement: b
+                    text: |-
+                        Present a report of your experiment to your counselor.
+            - requirement: 2
+              text: |-
+                  Discuss with your counselor the following:
+              children:
+                  - requirement: a
+                    text: |-
+                        What is DNA, its composition and structure, and where
+                        is it found in a cell?
+                  - requirement: b
+                    text: |-
+                        What is the purpose of each of the components of your
+                        DNA extraction liquid?
+                  - requirement: c
+                    text: |-
+                        Why are strawberries a good choice for DNA extraction?
+                        What else could you use?
+                  - requirement: d
+                    text: |-
+                        Why do you think you are able to see the DNA without
+                        using a microscope?
+                  - detail: true
+                    markdown: true
+                    text: |-
+                        Helpful Links
+
+                        * The Animated Genome:
+                        https://ulc.drivingcreative.com/media/animations/659#660
+                        * Talking Glossary of Genetic Terms:
+                        https://www.genome.gov/genetics-glossary
+                        * Brief history of Human Genome Project
+                        https://www.unlockinglifescode.org/timeline
+                        * Genomic Careers:
+                        https://www.genome.gov/careers-in-genomics
+                        * What do you think? Ethical and social questions
+                        surrounding genomic research:
+                        https://www.unlockinglifescode.org/wdyt/#!/
+            - requirement: 3
+              text: |-
+                  Explain to your counselor TWO of the following questions:
+              children:
+                  - requirement: a
+                    text: |-
+                        What is the science of genetics? The fields of genetics
+                        and genomics offer dozens of career possibilities.
+                        Which are the three most interesting to you?
+                  - requirement: b
+                    text: |-
+                        What are some diseases or disabilities that result from
+                        genetic mutations or alterations in human DNA? What
+                        possible environmental factors cause genetic mutations
+                        in humans?
+                  - requirement: c
+                    text: |-
+                        Do you think that genomic medicine and personalized
+                        medicine will improve our health?  Are there any
+                        ethical or moral issues that need to be considered as
+                        these technologies are developed?
+      - requirement: E
+        markdown: true
+        text: |-
+            **Ecology**
+        children:
+            - requirement: 1
+              text: |-
+                  Study at least four diverse environmental areas near where
+                  you live. Plan and execute a field trip to each of these
+                  areas, with the permission of your parents or guardians and
+                  your counselor.
+              children:
+                  - requirement: a
+                    text: |-
+                        Describe the reasons for selecting these areas, their
+                        boundaries, user groups, any outside forces that
+                        interact with them, and a list of what plants, animals,
+                        and other life you expect to find at each of them.
+                  - requirement: b
+                    text: |-
+                        Explain the basic natural systems, cycles, and changes
+                        that occur over time. Include the four basic elements
+                        (what are these?), land–use patterns, and at least six
+                        different species in your analysis and how they have
+                        changed over time. Discuss both biological and physical
+                        components.
+                  - requirement: c
+                    text: |-
+                        Under the guidance of a natural resources professional,
+                        carry out an investigation of an ecological subject
+                        approved by your counselor in one of the four
+                        identified environmental areas. Make sure to inventory
+                        and map the area, and to observe the living and
+                        nonliving parts of the ecosystem.
+            - requirement: 2
+              text: |-
+                  Discuss with your counselor the following:
+              children:
+                  - requirement: a
+                    text: |-
+                        How living things respond to changes in their
+                        environments.
+                  - requirement: b
+                    text: |-
+                        What are the environmental concerns for that area?
+                        Explain them using photographs, graphs, or available
+                        data.
+                  - requirement: c
+                    text: |-
+                        What project has been or could be done to improve the
+                        natural habitat threatened in that area?
+                  - detail: true
+                    markdown: true
+                    text: |-
+                        Helpful links
+
+                        * Environmental Information by Location:
+                        https://www.epa.gov/environmental-topics/location-specific-environmental-information
+                        * Learning activities about Environment:
+                        https://www.epa.gov/students
+                        * National Geographic Education:
+                        https://www.nationalgeographic.org/lesson/?q=&grade_bands=9%E2%80%9312+(Ages+14%%20E2%80%9318)&per_page=25&subjects=Ecology
+                        * National Park Service:
+                        https://www.nps.gov/teachers/teacher-resources.htm#q=ecology
+                        * Local flora and fauna guides
+- requirement: 4
+  text: |-
+      Discover: Research and discuss with your counselor THREE of the current
+      environmental issues listed below and their effect on microbiotic and
+      macrobiotic life.
+  children:
+      - requirement: a
+        text: |-
+            Pollution
+      - requirement: b
+        text: |-
+            Global warming
+      - requirement: c
+        text: |-
+            Overpopulation
+      - requirement: d
+        text: |-
+            Natural resource depletion
+      - requirement: e
+        text: |-
+            Waste disposal
+      - requirement: f
+        text: |-
+            Climate change
+      - requirement: g
+        text: |-
+            Loss of biodiversity
+      - requirement: h
+        text: |-
+            Deforestation
+      - requirement: i
+        text: |-
+            Ocean acidification
+      - requirement: j
+        text: |-
+            Ozone layer depletion
+      - requirement: k
+        text: |-
+            Acid rain
+      - requirement: l
+        text: |-
+            Water pollution
+      - requirement: m
+        text: |-
+            Urban sprawl
+      - requirement: n
+        text: |-
+            Public health
+- requirement: 5
+  text: |-
+      Discuss with your counselor how macrobiotic and microbiotic life affects
+      your everyday life.

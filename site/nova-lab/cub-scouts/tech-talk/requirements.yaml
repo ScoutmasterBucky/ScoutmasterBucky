@@ -1,0 +1,200 @@
+- requirement: 1
+  text: |-
+    Choose A or B or C and complete ALL the requirements.
+  children:
+    - requirement: A
+      text: |-
+        Watch an episode or episodes (about one hour total) of a show about
+        anything related to technology. Then do the following:
+      children:
+        - requirement: 1
+          text: |-
+            Make a list of at least two questions or ideas from what you
+            watched.
+        - requirement: 2
+          text: |-
+            Discuss two of the questions or ideas with your counselor.
+        - note:
+          - counselor
+          markdown: true
+          text: |-
+            Some examples include — but are not limited to — shows found on PBS
+            (“NOVA”), Discovery Channel, Science Channel, National Geographic
+            Channel, TED Talks (online videos), and the History Channel. You
+            may choose to watch a live performance or movie at a planetarium or
+            science museum instead of watching a media production. You may
+            watch online productions with your counselor’s approval and under
+            your parent’s supervision.
+
+            Many Scouts will watch episodes on airplanes, space flight,
+            computers, and other high-tech products.
+    - requirement: B
+      text: |-
+        Read (about one hour total) about anything related to technology. Then
+        do the following:
+      children:
+        - requirement: 1
+          text: |-
+            Make a list of at least two questions or ideas from what you read.
+        - requirement: 2
+          text: |-
+            Discuss two of the questions or ideas with your counselor.
+        - note:
+          - counselor
+          text: |-
+            Books on many topics may be found at your local library. Examples
+            of magazines include but are not limited to Odyssey, KIDS DISCOVER,
+            National Geographic Kids, Highlights, and OWL or owlkids.com.
+    - requirement: C
+      text: |-
+        Do a combination of reading and watching (about one hour total) about
+        anything related to technology. Then do the following:
+      children:
+        - requirement: 1
+          text: |-
+            Make a list of at least two questions or ideas from what you read
+            and watched.
+        - requirement: 2
+          text: |-
+            Discuss two of the questions or ideas with your counselor.
+- requirement: 2
+  text: |-
+    Complete ONE adventure from the following list for your current rank or
+    complete option A or B. (If you choose an Adventure, choose one you have
+    not already earned.) Discuss with your counselor what kind of science,
+    technology, engineering, and math was used in the adventure or option.
+  children:
+    - detail: true
+      markdown: true
+      text: |-
+        * **Wolf Cub Scouts:** Finding Your Way
+    - note:
+      - counselor
+      markdown: true
+      text: |-
+        **Finding Your Way:** Map and compass are technologies that have been utilized for centuries.
+    - detail: true
+      markdown: true
+      text: |-
+        * **Bear Cub Scouts:** Option A or B
+    - detail: true
+      markdown: true
+      text: |-
+        * **Webelos Scouts:** Build It
+    - note:
+      - counselor
+      markdown: true
+      text: |-
+        **Build It:** Using tools to create a specific project
+    - detail: true
+      markdown: true
+      text: |-
+        **Option A:** Complete all of the following:
+    - requirement: a
+      text: |-
+        Explain these parts of a personal computer: central processing unit
+        (CPU), monitor, keyboard, mouse, modem, and printer.
+    - requirement: b
+      text: |-
+        Make a list of ten devices that can be found in a home that use a
+        computer chip to function.
+    - requirement: c
+      text: |-
+        Use a spreadsheet program to organize some information.
+    - detail: true
+      markdown: true
+      text: |-
+        **Option B:** Complete all of the following:
+    - requirement: a
+      markdown: true
+      text: |-
+        Point out the major features of a camera to your den or family and
+        explain the function of each part. Parts **COULD** include memory card,
+        lens, shutter, power on and off, zoom, battery, flash, display panel,
+        case, settings, etc.
+    - requirement: b
+      text: |-
+        Discuss with your leader or adult partner the benefits and
+        contributions photography makes to modern life.
+    - requirement: c
+      text: |-
+        Use a camera to take at least 10 pictures of your family, pet, scenery;
+        show these to your den.
+- requirement: 3
+  text: |-
+    Explore EACH of the following:
+  children:
+    - requirement: A
+      markdown: true
+      text: |-
+        Look up a definition of the word *technology* and discuss the meaning
+        with your counselor.
+      children:
+        - note:
+          - counselor
+          text: |-
+            Technology is defined as the application of science, utilizing the
+            scientific method to achieve a commercial or industrial objective
+            or the electronic and digital products that are considered as a
+            group. Technology is very closely aligned with engineering
+    - requirement: B
+      text: |-
+        Find out how technology is used in EACH of the following fields:
+      children:
+        - requirement: 1
+          text: |-
+            Communication
+        - requirement: 2
+          text: |-
+            Business
+        - requirement: 3
+          text: |-
+            Construction
+        - requirement: 4
+          text: |-
+            Sports
+        - requirement: 5
+          text: |-
+            Entertainment
+    - requirement: C
+      text: |-
+        Discuss your findings with your counselor.
+- requirement: 4
+  text: |-
+    Visit a place where technology is being designed, used, or explained, such
+    as one of the following: an amusement park, a police or fire station, a
+    radio or television station, a newspaper office, a factory or store, or any
+    other location where technology is being designed, used, or explained.
+  children:
+    - note:
+      - counselor
+      markdown: true
+      text: |-
+        * An amusement park: Computers, rides, entry gates, and camera monitors
+        * A police or fire station: Computers, vehicles, rescue equipment,
+        sirens, Jaws of Life, fingerprint ink, handcuffs, and hoses
+        * A radio or television station: Computers, printers, broadcast
+        equipment, fax machines, and telephones
+        * A newspaper office: Computers, printers, rollers, folding machines,
+        telephones, and recording and voice recognition devices
+        * A factory or store: Computers, cash registers, scanning equipment,
+        lights, machinery, and vehicles
+        * Any location where technology is being designed, used, or explained.
+        (Be creative — technology is used everywhere.)
+    - requirement: A
+      text: |-
+        During your visit, talk to someone in charge about the following:
+      children:
+        - requirement: 1
+          text: |-
+            The technologies used where you are visiting
+        - requirement: 2
+          text: |-
+            Why the organization is using these technologies
+    - requirement: B
+      text: |-
+        Discuss with your counselor the technology that is designed, used, or
+        explained at the place you visited.
+- requirement: 5
+  text: |-
+    Discuss with your counselor how technology affects your everyday life.

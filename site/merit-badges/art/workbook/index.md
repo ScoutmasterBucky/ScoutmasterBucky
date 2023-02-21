@@ -1,7 +1,7 @@
 ---
 badge: art
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Art Workbook
+      url: art-workbook.pdf
 ---

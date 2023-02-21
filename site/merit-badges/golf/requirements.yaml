@@ -1,186 +1,86 @@
 - requirement: 1
   text: |-
-      Discuss safety on the golf course. Show that you know first aid for injuries or illnesses that could occur while golfing, including lightning, heat reactions, dehydration, blisters, sprains, and strains.
-  workbook:
-    - lines: 8
-      text: |-
-        Discuss safety
-    - header: true
-      text: |-
-        Show you know first aid for
-    - split:
-      - task: true
-        text: |-
-          Lightning
-      - task: true
-        text: |-
-          Heat reactions
-      - task: true
-        text: |-
-          Dehydration
-    - split:
-      - task: true
-        text: |-
-          Blisters
-      - task: true
-        text: |-
-          Sprains
-      - task: true
-        text: |-
-          Strains
+    Discuss safety on the golf course. Show that you know first aid for injuries or illnesses that could occur while golfing, including lightning, heat reactions, dehydration, blisters, sprains, and strains.
 - requirement: 2
   text: |-
-      Study the USGA “Rules of Golf” now in use.
+    Study the USGA “Rules of Golf” now in use.
   children:
-      - requirement: a
-        text: |-
-            Tell about the three categories of golf etiquette.
-        workbook:
-          - lines: 8
-      - requirement: b
-        text: |-
-            Demonstrate that you understand the definitions of golf terms.
-        workbook:
-          - lines: 8
-      - requirement: c
-        text: |-
-            Show that you understand the “Rules of Amateur Status.”
-        workbook:
-          - lines: 8
+    - requirement: a
+      text: |-
+        Tell about the three categories of golf etiquette.
+    - requirement: b
+      text: |-
+        Demonstrate that you understand the definitions of golf terms.
+    - requirement: c
+      text: |-
+        Show that you understand the “Rules of Amateur Status.”
 - requirement: 3
   text: |-
-      Tell about your understanding of the USGA system of handicapping.
-  workbook:
-    - lines: 8
+    Tell about your understanding of the USGA system of handicapping.
 - requirement: 4
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Tell about the early history of golf.
-        workbook:
-          - lines: 8
-      - requirement: b
-        text: |-
-            Describe golf’s early years in the United States.
-        workbook:
-          - lines: 8
-      - requirement: c
-        text: |-
-            Tell about the accomplishments of a top golfer of your choice.
-        workbook:
-          - lines: 8
+    - requirement: a
+      text: |-
+        Tell about the early history of golf.
+    - requirement: b
+      text: |-
+        Describe golf’s early years in the United States.
+    - requirement: c
+      text: |-
+        Tell about the accomplishments of a top golfer of your choice.
 - requirement: 5
   text: |-
-      Discuss with your counselor vocational opportunities related to golf.
-  workbook:
-    - lines: 8
+    Discuss with your counselor vocational opportunities related to golf.
 - requirement: 6
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Tell how golf can contribute to a healthy lifestyle, mentally and physically.
-        workbook:
-          - lines: 8
-      - requirement: b
-        text: |-
-            Tell how a golf exercise plan can help you play better. Show two exercises that would help improve your game.
-        workbook:
-          - lines: 8
+    - requirement: a
+      text: |-
+        Tell how golf can contribute to a healthy lifestyle, mentally and physically.
+    - requirement: b
+      text: |-
+        Tell how a golf exercise plan can help you play better. Show two exercises that would help improve your game.
 - requirement: 7
   text: |-
-      Show the following:
-  workbook:
-    - split:
-      - task: true
-        text: |-
-            a. The proper grip, stance, posture, and key fundamentals of a good swing
-      - task: true
-        text: |-
-            b. Driver played from a tee
-    - split:
-      - task: true
-        text: |-
-            c. The fairway wood shot
-      - task: true
-        text: |-
-            d. The long iron shot
-    - split:
-      - task: true
-        text: |-
-            e. The short iron shot
-      - task: true
-        text: |-
-            f. The approach, chip-and-run, and pitch shots
-    - split:
-      - task: true
-        text: |-
-            g. The sand iron shot, bunker, or heavy rough recovery shots
-      - task: true
-        text: |-
-            h. A sound putting stroke
+    Show the following:
   children:
-      - requirement: a
-        text: |-
-            The proper grip, stance, posture, and key fundamentals of a good swing
-        workbookHide: true
-      - requirement: b
-        text: |-
-            Driver played from a tee
-        workbookHide: true
-      - requirement: c
-        text: |-
-            The fairway wood shot
-        workbookHide: true
-      - requirement: d
-        text: |-
-            The long iron shot
-        workbookHide: true
-      - requirement: e
-        text: |-
-            The short iron shot
-        workbookHide: true
-      - requirement: f
-        text: |-
-            The approach, chip-and-run, and pitch shots
-        workbookHide: true
-      - requirement: g
-        text: |-
-            The sand iron shot, bunker, or heavy rough recovery shots
-        workbookHide: true
-      - requirement: h
-        text: |-
-            A sound putting stroke
-        workbookHide: true
+    - requirement: a
+      text: |-
+        The proper grip, stance, posture, and key fundamentals of a good swing
+    - requirement: b
+      text: |-
+        Driver played from a tee
+    - requirement: c
+      text: |-
+        The fairway wood shot
+    - requirement: d
+      text: |-
+        The long iron shot
+    - requirement: e
+      text: |-
+        The short iron shot
+    - requirement: f
+      text: |-
+        The approach, chip-and-run, and pitch shots
+    - requirement: g
+      text: |-
+        The sand iron shot, bunker, or heavy rough recovery shots
+    - requirement: h
+      text: |-
+        A sound putting stroke
 - requirement: 8
   text: |-
-      Play a minimum of two nine-hole rounds or one 18-hole round of golf with another golfer about your age and with your counselor, or an adult approved by your counselor. Do the following:
-  workbook:
-    - header: true
-      text: |-
-        a. Follow the “Rules of Golf.”<br/>
-        b. Practice good golf etiquette.<br/>
-        c. Show respect to fellow golfers, committee, sponsor, and gallery.
-    - split:
-      - task: true
-        text: |-
-          Completed first 9 holes
-      - task: true
-        text: |-
-          Completed second 9 holes
+    Play a minimum of two nine-hole rounds or one 18-hole round of golf with another golfer about your age and with your counselor, or an adult approved by your counselor. Do the following:
   children:
-      - requirement: a
-        text: |-
-            Follow the “Rules of Golf.”
-        workbookHide: true
-      - requirement: b
-        text: |-
-            Practice good golf etiquette.
-        workbookHide: true
-      - requirement: c
-        text: |-
-            Show respect to fellow golfers, committee, sponsor, and gallery.
-        workbookHide: true
+    - requirement: a
+      text: |-
+        Follow the “Rules of Golf.”
+    - requirement: b
+      text: |-
+        Practice good golf etiquette.
+    - requirement: c
+      text: |-
+        Show respect to fellow golfers, committee, sponsor, and gallery.

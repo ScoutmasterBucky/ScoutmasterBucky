@@ -22,15 +22,6 @@
         "text": {
             "description": "Plain text, html, or vanilla markdown when the markdown flag is set",
             "type": "string"
-        },
-        "workbook": {
-            "type": "array",
-            "items": {
-                "$ref": "./workbook-item.json"
-            }
-        },
-        "workbookHide": {
-            "type": "boolean"
         }
     },
     "additionalProperties": false,

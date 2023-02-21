@@ -1,0 +1,28 @@
+{{>layout-header}}
+
+        <link rel="stylesheet" href="{{@root.rootPath}}nova-lab/css/theme.css" />
+        <title>{{>nova-or-supernova-title}}</title>
+        <script src="{{@root.rootPath}}js/toggle-notes.js"></script>
+
+{{>nova-layout-body}}
+
+            <div class="notesToggles">
+
+{{#if @root.hasNotes}}
+                <div class="D(f)--_p Jc(spe) Ai(st) D(n)--p">
+                    {{>top-down-tab short="Requirements" long="Requirements Only" type="none"}}
+                    {{>top-down-tab short="In-Person Notes" long="With Counselor Notes" type="counselor"}}
+                </div>
+{{/if}}
+
+                <div class="P(20px)">
+
+        <h1 id="title">{{>nova-or-supernova-title}}</h1>
+
+{{#if lastUpdate}}
+
+<p><em>Based off requirements from {{lastUpdate}}.</em></p>
+
+{{/if}}
+
+{{#transform-elements}}

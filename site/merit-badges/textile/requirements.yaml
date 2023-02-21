@@ -1,343 +1,173 @@
 - requirement: 1
   markdown: true
   text: |-
-      Discuss with your merit badge counselor the importance of textiles. In
-      your discussion, define the terms *fiber*, *fabric*, and *textile*. Give
-      examples of textiles you use every day.
-  workbook:
-      - lines: 8
+    Discuss with your merit badge counselor the importance of textiles. In
+    your discussion, define the terms *fiber*, *fabric*, and *textile*. Give
+    examples of textiles you use every day.
   children:
-      - note:
-            - inPerson
-            - online
-        text: |-
-            Scouts will find using the merit badge pamphlet helpful, if not
-            easiest, to prepare for this requirement. It is highly recommended
-            that Scouts make notes to help prepare themselves for discussion
-            during the class on this requirement.  It is not acceptable to try
-            and wing-it or fake their way through answering this requirement
-            and Scouts should be ready to show that they understand the
-            elements called for in this requirement.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        Scouts will find using the merit badge pamphlet helpful, if not
+        easiest, to prepare for this requirement. It is highly recommended
+        that Scouts make notes to help prepare themselves for discussion
+        during the class on this requirement.  It is not acceptable to try
+        and wing-it or fake their way through answering this requirement
+        and Scouts should be ready to show that they understand the
+        elements called for in this requirement.
 - requirement: 2
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Get swatches of two natural-fiber fabrics (100 percent cotton,
-            linen, wool, or silk; no blends). Get swatches of two
-            synthetic-fiber fabrics (nylon, polyester, acrylic, olefin, or
-            spandex). Get a sample of one cellulosic fabric (rayon, acetate, or
-            lyocell).
-        children:
-            - note:
-                  - inPerson
-                  - online
-              text: |-
-                  Scouts should bring their swatches to class to share and use
-                  during the class discussion of Requirement 2 and its
-                  components.
-      - requirement: b
-        text: |-
-            Give the origin, major characteristics, and general content of each
-            type of fiber obtained for 2(a). Explain the difference between a
-            cellulosic manufactured fiber and a synthetic manufactured fiber.
-        workbook:
-            - split:
-                  - lines: 3
-                    text: |-
-                        Fiber type
-                  - lines: 3
-                    text: |-
-                        Origin
-                  - lines: 3
-                    text: |-
-                        Characteristics
-                  - lines: 3
-                    text: |-
-                        General content
-            - split:
-                  - lines: 3
-                    text: |-
-                        Fiber type
-                  - lines: 3
-                    text: |-
-                        Origin
-                  - lines: 3
-                    text: |-
-                        Characteristics
-                  - lines: 3
-                    text: |-
-                        General content
-            - split:
-                  - lines: 3
-                    text: |-
-                        Fiber type
-                  - lines: 3
-                    text: |-
-                        Origin
-                  - lines: 3
-                    text: |-
-                        Characteristics
-                  - lines: 3
-                    text: |-
-                        General content
-            - split:
-                  - lines: 3
-                    text: |-
-                        Fiber type
-                  - lines: 3
-                    text: |-
-                        Origin
-                  - lines: 3
-                    text: |-
-                        Characteristics
-                  - lines: 3
-                    text: |-
-                        General content
-            - split:
-                  - lines: 3
-                    text: |-
-                        Fiber type
-                  - lines: 3
-                    text: |-
-                        Origin
-                  - lines: 3
-                    text: |-
-                        Characteristics
-                  - lines: 3
-                    text: |-
-                        General content
-            - lines: 4
-              text: |-
-                  Difference between cellulosic manufactured fiber and a
-                  synthetic manufactured fiber
-        children:
-            - note:
-                  - inPerson
-                  - online
-              text: |-
-                  Scouts should come to the class with notes or some other way
-                  of sharing their findings asked for in requirement 2b along
-                  with their swatch samples.
-      - requirement: c
-        text: |-
-            Describe the main steps in making raw fiber into yarn, and yarn
-            into fabric.
-        workbook:
-            - lines: 8
-        children:
-            - note:
-                  - inPerson
-                  - online
-              text: |-
-                  Scouts will find reviewing the merit badge pamphlet will help
-                  them prepare for class discussion on this requirement.
-      - requirement: d
-        text: |-
-            Assume you will soon buy a new garment or other textile item. Tell
-            your counselor what fiber or blend of fibers you want the item to
-            be, and give reasons for your choice.
-        workbook:
-            - lines: 8
-        children:
-            - note:
-                  - inPerson
-                  - online
-              text: |-
-                  Scouts should come to the class with a garment or textile
-                  item in mind and be prepared to discuss their findings.
+    - requirement: a
+      text: |-
+        Get swatches of two natural-fiber fabrics (100 percent cotton,
+        linen, wool, or silk; no blends). Get swatches of two
+        synthetic-fiber fabrics (nylon, polyester, acrylic, olefin, or
+        spandex). Get a sample of one cellulosic fabric (rayon, acetate, or
+        lyocell).
+      children:
+        - note:
+            - inPerson
+            - online
+          text: |-
+            Scouts should bring their swatches to class to share and use
+            during the class discussion of Requirement 2 and its
+            components.
+    - requirement: b
+      text: |-
+        Give the origin, major characteristics, and general content of each
+        type of fiber obtained for 2(a). Explain the difference between a
+        cellulosic manufactured fiber and a synthetic manufactured fiber.
+      children:
+        - note:
+            - inPerson
+            - online
+          text: |-
+            Scouts should come to the class with notes or some other way
+            of sharing their findings asked for in requirement 2b along
+            with their swatch samples.
+    - requirement: c
+      text: |-
+        Describe the main steps in making raw fiber into yarn, and yarn
+        into fabric.
+      children:
+        - note:
+            - inPerson
+            - online
+          text: |-
+            Scouts will find reviewing the merit badge pamphlet will help
+            them prepare for class discussion on this requirement.
+    - requirement: d
+      text: |-
+        Assume you will soon buy a new garment or other textile item. Tell
+        your counselor what fiber or blend of fibers you want the item to
+        be, and give reasons for your choice.
+      children:
+        - note:
+            - inPerson
+            - online
+          text: |-
+            Scouts should come to the class with a garment or textile
+            item in mind and be prepared to discuss their findings.
 - requirement: 3
   text: |-
-      Do TWO of the following:
+    Do TWO of the following:
   children:
-      - requirement: a
-        text: |-
-            Visit a textile plant, textile products manufacturer, or textile
-            school or college. Report on what you saw and learned.
-        workbook:
-            - lines: 4
-      - requirement: b
-        text: |-
-            Weave a belt, headband, place mat, or wall hanging. Use a simple
-            loom that you have made yourself.
-        workbook:
-            - task: true
-      - requirement: c
-        text: |-
-            With a magnifying glass, examine a woven fabric, a nonwoven fabric,
-            and a knitted fabric. Sketch what you see. Explain how the three
-            constructions are different.
-        workbook:
-            - area: 20
-            - lines: 8
-      - requirement: d
-        text: |-
-            Make a piece of felt.
-        workbook:
-            - task: true
-      - requirement: e
-        text: |-
-            Make two natural dyes and use them to dye a garment or a piece of
-            fabric.
-        workbook:
-            - task: true
-      - requirement: f
-        text: |-
-            Waterproof a fabric.
-        workbook:
-            - task: true
-      - requirement: g
-        text: |-
-            Demonstrate how to identify fibers, using microscope identification
-            or the breaking test.
-        workbook:
-            - task: true
-      - note:
-            - inPerson
-        text: |-
-            The merit badge counselor will help facilitate completing this
-            requirement in the class, however, Scouts should review the merit
-            badge pamphlet prior to the class to have a general understanding
-            of each of the components of this requirement. While not required,
-            but highly encouraged, Scouts are encouraged to explore doing work
-            ahead of time and bringing that work to share as a part of the
-            class.
-      - note:
-            - online
-        text: |-
-            The merit badge counselor will review any work the Scouts have done
-            in preparing for this requirement, however it must be noted that
-            the online format does not accommodate completion of this
-            requirement during the class. Scouts are encouraged to explore
-            doing work ahead of time and bringing that work to share as a part
-            of the class.
+    - requirement: a
+      text: |-
+        Visit a textile plant, textile products manufacturer, or textile
+        school or college. Report on what you saw and learned.
+    - requirement: b
+      text: |-
+        Weave a belt, headband, place mat, or wall hanging. Use a simple
+        loom that you have made yourself.
+    - requirement: c
+      text: |-
+        With a magnifying glass, examine a woven fabric, a nonwoven fabric,
+        and a knitted fabric. Sketch what you see. Explain how the three
+        constructions are different.
+    - requirement: d
+      text: |-
+        Make a piece of felt.
+    - requirement: e
+      text: |-
+        Make two natural dyes and use them to dye a garment or a piece of
+        fabric.
+    - requirement: f
+      text: |-
+        Waterproof a fabric.
+    - requirement: g
+      text: |-
+        Demonstrate how to identify fibers, using microscope identification
+        or the breaking test.
+    - note:
+        - inPerson
+      text: |-
+        The merit badge counselor will help facilitate completing this
+        requirement in the class, however, Scouts should review the merit
+        badge pamphlet prior to the class to have a general understanding
+        of each of the components of this requirement. While not required,
+        but highly encouraged, Scouts are encouraged to explore doing work
+        ahead of time and bringing that work to share as a part of the
+        class.
+    - note:
+        - online
+      text: |-
+        The merit badge counselor will review any work the Scouts have done
+        in preparing for this requirement, however it must be noted that
+        the online format does not accommodate completion of this
+        requirement during the class. Scouts are encouraged to explore
+        doing work ahead of time and bringing that work to share as a part
+        of the class.
 - requirement: 4
   text: |-
-      Explain the meaning of 10 of the following terms: warp, harness, heddle,
-      shed, aramid, spandex, sliver, yarn, spindle, distaff, loom, cellulose,
-      sericulture, extrusion, carbon fibers, spinneret, staple, worsted,
-      nonwoven, greige goods.
-  workbook:
-      - lines: 2
-        text: |-
-            Warp
-      - lines: 2
-        text: |-
-            Harness
-      - lines: 2
-        text: |-
-            Heddle
-      - lines: 2
-        text: |-
-            Shed
-      - lines: 2
-        text: |-
-            Aramid
-      - lines: 2
-        text: |-
-            Spandex
-      - lines: 2
-        text: |-
-            Sliver
-      - lines: 2
-        text: |-
-            Yarn
-      - lines: 2
-        text: |-
-            Spindle
-      - lines: 2
-        text: |-
-            Distaff
-      - lines: 2
-        text: |-
-            Loom
-      - lines: 2
-        text: |-
-            Cellulose
-      - lines: 2
-        text: |-
-            Sericulture
-      - lines: 2
-        text: |-
-            Extrusion
-      - lines: 2
-        text: |-
-            Carbon fibers
-      - lines: 2
-        text: |-
-            Spinneret
-      - lines: 2
-        text: |-
-            Staple
-      - lines: 2
-        text: |-
-            Worsted
-      - lines: 2
-        text: |-
-            Nonwoven
-      - lines: 2
-        text: |-
-            Greige goods
+    Explain the meaning of 10 of the following terms: warp, harness, heddle,
+    shed, aramid, spandex, sliver, yarn, spindle, distaff, loom, cellulose,
+    sericulture, extrusion, carbon fibers, spinneret, staple, worsted,
+    nonwoven, greige goods.
   children:
-      - note:
-            - inPerson
-            - online
-        text: |-
-            Scouts should review the Textile Merit Badge Pamphlet or other
-            reliable srouces and attend with an understanding for discussion,
-            the terms identified in this requirement. It is highly recommended
-            to utilize a Merit Badge Workbook to make notes of your findings.
-            Scouts in attendance that have not prepared for this requirement
-            and/or do not actively participate in the class discussion will
-            find it difficult to complete this requirement.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        Scouts should review the Textile Merit Badge Pamphlet or other
+        reliable srouces and attend with an understanding for discussion,
+        the terms identified in this requirement. It is highly recommended
+        to utilize a Merit Badge Workbook to make notes of your findings.
+        Scouts in attendance that have not prepared for this requirement
+        and/or do not actively participate in the class discussion will
+        find it difficult to complete this requirement.
 - requirement: 5
   text: |-
-      List the advantages and disadvantages of natural plant fibers, natural
-      animal fibers, cellulosic manufactured fibers, and synthetic manufactured
-      fibers. Identify and discuss at least four ecological concerns regarding
-      the production and care of textiles.
-  workbook:
-      - lines: 4
-        text: |-
-            Natural plant fibers
-      - lines: 4
-        text: |-
-            Natural animal fibers
-      - lines: 4
-        text: |-
-            Cellulosic manufactured fibers
-      - lines: 4
-        text: |-
-            Synthetic manufactured fibers
-      - lines: 4
-        text: |-
-            Ecological concerns
+    List the advantages and disadvantages of natural plant fibers, natural
+    animal fibers, cellulosic manufactured fibers, and synthetic manufactured
+    fibers. Identify and discuss at least four ecological concerns regarding
+    the production and care of textiles.
   children:
-      - note:
-            - inPerson
-            - online
-        text: |-
-            Scouts will need to do little research ahead of time for this
-            requirement. Scouts may want to utilize a notebook or Merit Badge
-            Workbook to help organize their findings and notes.  While not
-            required, documenting your research and findings will help make
-            completion of this requirement much more likely during the class.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        Scouts will need to do little research ahead of time for this
+        requirement. Scouts may want to utilize a notebook or Merit Badge
+        Workbook to help organize their findings and notes.  While not
+        required, documenting your research and findings will help make
+        completion of this requirement much more likely during the class.
 - requirement: 6
   text: |-
-      Explain to your merit badge counselor, either verbally or in a written
-      report, five career possibilities in the textile industry. Tell about two
-      positions that interest you the most and the education, cost of training,
-      and specific duties those positions require.
-  workbook:
-      - lines: 8
+    Explain to your merit badge counselor, either verbally or in a written
+    report, five career possibilities in the textile industry. Tell about two
+    positions that interest you the most and the education, cost of training,
+    and specific duties those positions require.
   children:
-      - note:
-            - inPerson
-            - online
-        text: |-
-            Scouts should review this requirement and its components and be
-            prepared to discuss. It is strongly recommended that Scouts bring
-            any notes or supporting documents they may have to help show the
-            counselor that they have prepared for completion of this
-            requirement.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        Scouts should review this requirement and its components and be
+        prepared to discuss. It is strongly recommended that Scouts bring
+        any notes or supporting documents they may have to help show the
+        counselor that they have prepared for completion of this
+        requirement.

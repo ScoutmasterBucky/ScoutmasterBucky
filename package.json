@@ -7,39 +7,38 @@
         ]
     },
     "scripts": {
-        "build": "WORKBOOKS=true SERVE=true KILL_AFTER_WORKBOOKS=true MINIFY=true node metalsmith.js",
+        "build": "CHECK_LINKS=true MINIFY=true node metalsmith.js",
         "clean": "rm -rf node_modules/ package-lock.json",
         "fastbuild": "node metalsmith.js",
         "start": "SERVE=true LIVE_RELOAD=true node metalsmith.js",
-        "start-slow": "SERVE=true MINIFY=true LIVE_RELOAD=true node metalsmith.js"
+        "start-slow": "SERVE=true CHECK_LINKS=true MINIFY=true LIVE_RELOAD=true node metalsmith.js"
     },
     "dependencies": {
-        "@babel/preset-env": "^7.17.10",
+        "@babel/preset-env": "^7.20.2",
+        "@fidian/acss-live": "^2.1.0",
         "@fidian/metalsmith-clean-css": "^6.2.2",
-        "@fidian/metalsmith-site": "^1.2.4",
-        "ajv": "^8.11.0",
+        "@fidian/metalsmith-link-checker": "^0.5.2",
+        "@fidian/metalsmith-site": "^2.1.2",
+        "ajv": "^8.12.0",
         "browserify": "^17.0.0",
-        "clean-css": "^5.3.0",
-        "luxon": "^2.5.2",
-        "marked": "^4.0.15",
+        "clean-css": "^5.3.2",
+        "luxon": "^3.2.1",
+        "marked": "^4.2.12",
         "metalsmith-babel": "^5.1.0",
         "metalsmith-browserify-alt": "^2.0.0",
         "metalsmith-html-minifier": "^4.0.1",
         "metalsmith-plugin-kit": "^1.2.2",
         "metalsmith-uglify": "^2.4.1",
-        "mithril": "^2.2.2",
-        "moment": "^2.29.4",
-        "moment-timezone": "^0.5.35",
-        "wkhtmltopdf": "^0.4.0"
+        "mithril": "^2.2.2"
     },
     "devDependencies": {
-        "chalk": "^5.1.2",
+        "chalk": "^5.2.0",
         "debug": "^4.3.4",
-        "glob": "^8.0.3",
+        "glob": "^8.1.0",
         "got": "^12.5.3",
         "json-stable-stringify": "^1.0.2",
-        "linkedom": "^0.14.21",
+        "linkedom": "^0.14.22",
         "neodoc": "^2.0.2",
-        "pdfjs-dist": "^3.0.279"
+        "pdfjs-dist": "^3.3.122"
     }
 }

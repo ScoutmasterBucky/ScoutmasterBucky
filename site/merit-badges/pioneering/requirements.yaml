@@ -1,229 +1,97 @@
 - requirement: 1
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain to your counselor the most likely hazards you might
-            encounter while participating in pioneering activities and what you
-            should do to anticipate, help prevent, mitigate, and respond to
-            these hazards.
-        workbook:
-            - lines: 8
-              text: |-
-                  Most likely hazards
-            - lines: 8
-              text: |-
-                  Anticipate hazards
-            - lines: 8
-              text: |-
-                  Prevent hazards
-            - lines: 8
-              text: |-
-                  Mitigate hazards
-            - lines: 8
-              text: |-
-                  Respond to hazards
-      - requirement: b
-        text: |-
-            Discuss the prevention of, and first-aid treatment for, injuries
-            and conditions that could occur while working on pioneering
-            projects, including rope splinters, rope burns, cuts, scratches,
-            insect bites and stings, hypothermia, dehydration, heat exhaustion,
-            heatstroke, sunburn, and falls.
-        workbook:
-            - lines: 8
-              text: |-
-                  Rope splinters
-            - lines: 8
-              text: |-
-                  Rope burns
-            - lines: 8
-              text: |-
-                  Cuts
-            - lines: 8
-              text: |-
-                  Scratches
-            - lines: 8
-              text: |-
-                  Insect bites and stings
-            - lines: 8
-              text: |-
-                  Hypothermia
-            - lines: 8
-              text: |-
-                  Dehydration
-            - lines: 8
-              text: |-
-                  Heat exhaustion
-            - lines: 8
-              text: |-
-                  Heatstroke
-            - lines: 8
-              text: |-
-                  Sunburn
-            - lines: 8
-              text: |-
-                  Falls
+    - requirement: a
+      text: |-
+        Explain to your counselor the most likely hazards you might
+        encounter while participating in pioneering activities and what you
+        should do to anticipate, help prevent, mitigate, and respond to
+        these hazards.
+    - requirement: b
+      text: |-
+        Discuss the prevention of, and first-aid treatment for, injuries
+        and conditions that could occur while working on pioneering
+        projects, including rope splinters, rope burns, cuts, scratches,
+        insect bites and stings, hypothermia, dehydration, heat exhaustion,
+        heatstroke, sunburn, and falls.
 - requirement: 2
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Demonstrate the West Country method of whipping a rope.
-        workbook:
-            - task: true
-              text: |-
-                  Demonstrated West Country method of whipping a rope
-      - requirement: b
-        text: |-
-            Demonstrate how to tie a rope tackle and the following knots: clove
-            hitch formed as two half hitches, clove hitch on a bight, butterfly
-            knot, roundturn with two half hitches, and rolling hitch.
-        workbook:
-            - split:
-                - task: true
-                  text: |-
-                      Clove hitch formed as two half hitches
-                - task: true
-                  text: |-
-                      Clove hitch on a bight
-            - split:
-                - task: true
-                  text: |-
-                      Butterfly knot
-                - task: true
-                  text: |-
-                      Roundturn with two half hitches
-                - task: true
-                  text: |-
-                      Rolling hitch
-      - requirement: c
-        text: |-
-            Demonstrate and explain when to use the following lashings: square,
-            diagonal, round, shear, tripod, and floor lashing.
-        workbook:
-            - split:
-                - header: true
-                  text: |-
-                      Lashing
-                - header: true
-                  text: |-
-                      When to use
-            - split:
-                - task: true
-                  text: |-
-                      Square
-                - lines: 2
-            - split:
-                - task: true
-                  text: |-
-                      Diagonal
-                - lines: 2
-            - split:
-                - task: true
-                  text: |-
-                      Round
-                - lines: 2
-            - split:
-                - task: true
-                  text: |-
-                      Shear
-                - lines: 2
-            - split:
-                - task: true
-                  text: |-
-                      Tripod
-                - lines: 2
-            - split:
-                - task: true
-                  text: |-
-                      Floor
-                - lines: 2
+    - requirement: a
+      text: |-
+        Demonstrate the West Country method of whipping a rope.
+    - requirement: b
+      text: |-
+        Demonstrate how to tie a rope tackle and the following knots: clove
+        hitch formed as two half hitches, clove hitch on a bight, butterfly
+        knot, roundturn with two half hitches, and rolling hitch.
+    - requirement: c
+      text: |-
+        Demonstrate and explain when to use the following lashings: square,
+        diagonal, round, shear, tripod, and floor lashing.
 - requirement: 3
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Using square and tripod lashings from requirement 2c, build a
-            Tripod Wash Station (or with your counselor’s permission, another
-            camp gadget of your own design).
-        workbook:
-            - task: true
-      - requirement: b
-        text: |-
-            Using rolling hitches or roundturns with two half hitches, and
-            round lashings from requirements 2b and 2c, build a 15-foot Scout
-            Stave Flagpole (or with your counselor’s permission, another camp
-            gadget of your own design).
-        workbook:
-            - task: true
-      - requirement: c
-        text: |-
-            Using shear, square, and floor lashings, clove hitches on a bight,
-            and rope tackles from requirements 2b and 2c, build a Simple Camp
-            Table (or with your counselor’s permission, another camp gadget of
-            your own design.
-        workbook:
-            - task: true
+    - requirement: a
+      text: |-
+        Using square and tripod lashings from requirement 2c, build a
+        Tripod Wash Station (or with your counselor’s permission, another
+        camp gadget of your own design).
+    - requirement: b
+      text: |-
+        Using rolling hitches or roundturns with two half hitches, and
+        round lashings from requirements 2b and 2c, build a 15-foot Scout
+        Stave Flagpole (or with your counselor’s permission, another camp
+        gadget of your own design).
+    - requirement: c
+      text: |-
+        Using shear, square, and floor lashings, clove hitches on a bight,
+        and rope tackles from requirements 2b and 2c, build a Simple Camp
+        Table (or with your counselor’s permission, another camp gadget of
+        your own design.
 - requirement: 4
   text: |-
-      Explain the differences between synthetic ropes and natural fiber ropes.
-      Discuss which types of rope are suitable for pioneering work and why.
-      Include the following in your discussion: breaking strength, safe working
-      loads, and the care and storage of rope.
-  workbook:
-      - lines: 8
+    Explain the differences between synthetic ropes and natural fiber ropes.
+    Discuss which types of rope are suitable for pioneering work and why.
+    Include the following in your discussion: breaking strength, safe working
+    loads, and the care and storage of rope.
 - requirement: 5
   text: |-
-      Explain the uses for the back splice, eye splice, and short splice.  View
-      a demonstration on forming each splice.
-  workbook:
-      - lines: 8
+    Explain the uses for the back splice, eye splice, and short splice.  View
+    a demonstration on forming each splice.
 - requirement: 6
   text: |-
-      Using a rope-making device or machine, make a rope at least 6 feet long
-      consisting of three strands, each having three yarns. Whip the ends.
-  workbook:
-      - task: true
+    Using a rope-making device or machine, make a rope at least 6 feet long
+    consisting of three strands, each having three yarns. Whip the ends.
 - requirement: 7
   text: |-
-      Explain the importance of effectively anchoring a pioneering project.
-      Describe to your counselor the 3-2–1 anchoring system and the
-      log-and-stake anchoring system.
-  workbook:
-      - split:
-            - lines: 8
-            - area: 8
+    Explain the importance of effectively anchoring a pioneering project.
+    Describe to your counselor the 3-2–1 anchoring system and the
+    log-and-stake anchoring system.
 - requirement: 8
   text: |-
-      Describe the lashings that are used when building a trestle, how the
-      poles are positioned, and how X braces contribute to the overall
-      structural integrity of a pioneering project.
-  workbook:
-      - split:
-            - lines: 8
-            - area: 8
+    Describe the lashings that are used when building a trestle, how the
+    poles are positioned, and how X braces contribute to the overall
+    structural integrity of a pioneering project.
 - requirement: 9
   markdown: true
   text: |-
-      Working in a group, (or individually with the help of your counselor)
-      build a full size pioneering structure, using one of the following
-      designs in the merit badge pamphlet.
+    Working in a group, (or individually with the help of your counselor)
+    build a full size pioneering structure, using one of the following
+    designs in the merit badge pamphlet.
 
-      * Double A-Frame Monkey Bridge
-      * Single A-Frame Bridge
-      * Single Trestle Bridge
-      * Single Lock Bridge
-      * 4x4 Square Climbing Tower
-      * Four Flag Gateway Tower
-      * Double Tripod Chippewa Kitchen
-      * Another type of structure approved in advance by your counselor
+    * Double A-Frame Monkey Bridge
+    * Single A-Frame Bridge
+    * Single Trestle Bridge
+    * Single Lock Bridge
+    * 4x4 Square Climbing Tower
+    * Four Flag Gateway Tower
+    * Double Tripod Chippewa Kitchen
+    * Another type of structure approved in advance by your counselor
 
-      Carefully plan the project, assembling and organizing all the materials,
-      referring to the points under Safe Pioneering, and complying with the
-      height restrictions in the *Guide to Safe Scouting*.
-  workbook:
-      - lines: 8
+    Carefully plan the project, assembling and organizing all the materials,
+    referring to the points under Safe Pioneering, and complying with the
+    height restrictions in the *Guide to Safe Scouting*.

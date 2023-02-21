@@ -1,10 +1,12 @@
 ---
 badge: skating
 layout: smb
+workbookMultipleOptionsMessage: true
+downloads:
+    - name: Skating Workbook - Ice Skating Option
+      url: skating-workbook-ice-skating.pdf
+    - name: Skating Workbook - In-Line Skating Option
+      url: skating-workbook-in-line-skating.pdf
+    - name: Skating Workbook - Roller Skating Option
+      url: skating-workbook-roller-skating.pdf
 ---
-
-The Skating workbook has been split into individual options. Only one option is required in order to earn the merit badge.
-
-* [Ice Skating](ice-skating/)
-* [Roller Skating](roller-skating/)
-* [In-Line Skating](in-line-skating/)

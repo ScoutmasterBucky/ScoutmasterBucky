@@ -1,0 +1,7 @@
+{{#scaled}}
+<a href="{{@root.rootPath}}merit-badges/{{badge}}/workbook/" class="Td(n)">
+    <img src="{{@root.rootPath}}{{#with (lookup @root.meritBadges badge)}}{{image}}{{/with}}" class="Pos(a) End(1%) Pt(2%) W(55%) H(a)" width="200" height="200">
+    <img src="{{@root.rootPath}}images/bucky-holding-badge.png" class="W(100%) H(a)" width="490" height="349">
+    <p class="Fz(1.2em)--_s Fz(1em)--s Ta(c)">{{>badge-name badge=badge}}</p>
+</a>
+{{/scaled}}

@@ -1,7 +1,7 @@
 ---
 badge: bugling
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Bugling Workbook
+      url: bugling-workbook.pdf
 ---

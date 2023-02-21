@@ -1,0 +1,301 @@
+- requirement: 1
+  text: |-
+    Choose A or B or C and complete ALL the requirements.
+  children:
+    - requirement: A
+      text: |-
+        Watch an episode or episodes (about one hour total) of a show that
+        involves math or physics. Then do the following:
+      children:
+        - requirement: 1
+          text: |-
+            Make a list of at least two questions or ideas from what you
+            watched.
+        - requirement: 2
+          text: |-
+            Discuss two of the questions or ideas with your counselor.
+        - note:
+          - counselor
+          text: |-
+            Some examples include-but are not limited to-shows found on PBS
+            ("NOVA"), Discovery Channel, Science Channel, National Geographic
+            Channel, TED Talks (online videos), and the History Channel. You
+            may choose to watch a live performance or movie at a planetarium or
+            science museum instead of watching a media production. You may
+            watch online productions with your counselor’s approval and under
+            your parent’s supervision.
+    - requirement: B
+      text: |-
+        Read (about one hour total) about anything that involves math or
+        physics. Then do the following:
+      children:
+        - requirement: 1
+          text: |-
+            Make a list of at least two questions or ideas from what you read.
+        - requirement: 2
+          text: |-
+            Discuss two of the questions or ideas with your counselor.
+        - note:
+          - counselor
+          text: |-
+            Books on many topics may be found at your local library. Examples
+            of magazines include but are not limited to Odyssey, KIDS DISCOVER,
+            National Geographic Kids, Highlights, and OWL or owlkids.com.
+    - requirement: C
+      text: |-
+        Do a combination of reading and watching (about one hour total) about
+        anything that involves math or physics. Then do the following:
+      children:
+        - requirement: 1
+          text: |-
+            Make a list of at least two questions or ideas from what you read
+            and watched.
+        - requirement: 2
+          text: |-
+            Discuss two of the questions or ideas with your counselor.
+- requirement: 2
+  text: |-
+    Complete ONE adventure from the following list for your current rank or
+    complete option A or B. (If you choose an Adventure, choose one you have
+    not already earned.) Discuss with your counselor what kind of science,
+    technology, engineering, and math was used in the adventure or option.
+  children:
+    - detail: true
+      markdown: true
+      text: |-
+        * **Wolf Cub Scouts:** Code of the Wolf
+    - note:
+      - counselor
+      markdown: true
+      text: |-
+        **Code of the Wolf:** Working with numbers, logic, and math
+    - detail: true
+      markdown: true
+      text: |-
+        * **Bear Cub Scouts:** Options A or B
+    - detail: true
+      markdown: true
+      text: |-
+        * **Webelos Scouts:** Game Design
+    - note:
+      - counselor
+      markdown: true
+      text: |-
+        **Game Design:** Working with logic
+    - detail: true
+      markdown: true
+      text: |-
+        **Option A:** Complete both of the following:
+    - requirement: a
+      text: |-
+        Conduct an opinion survey through which you collect data to answer a
+        question and then show your results with a chart or graph. For example,
+        what is the favorite food of the scouts in your den (chart how many
+        like pizza, how many like cookies, etc.).
+    - requirement: b
+      text: |-
+        Conduct and keep a record of a coin toss probability experiment. Keep
+        track of at least 25 tosses.
+    - detail: true
+      markdown: true
+      text: |-
+        **Option B:** Complete both of the following:
+    - requirement: a
+      text: |-
+        Interview four adults in different occupations and see how they use
+        measurement in their job.
+    - requirement: b
+      text: |-
+        Measure how tall someone is. Have them measure you. Complete in both
+        inches and centimeters.
+- requirement: 3
+  text: |-
+    Explore TWO options from A or B or C and complete ALL the requirements for
+    those options. Keep your work to share with your counselor. The necessary
+    information to make your calculations can be found in a book or on the
+    Internet. (See the Helpful Links box for ideas.) You may work with your
+    counselor on these calculations.
+  children:
+    - requirement: A
+      text: |-
+        Choose TWO of the following places and calculate how much you would
+        weigh there.
+      children:
+        - requirement: 1
+          text: |-
+            On the sun or the moon
+          children:
+            - note:
+              - counselor
+              markdown: true
+              text: |-
+                Earth weight (in pounds) × 28 (27.97) = Sun weight<br>
+                Earth weight (in pounds) × 0.166 = Moon weight
+        - requirement: 2
+          text: |-
+            On Jupiter or Pluto
+          children:
+            - note:
+              - counselor
+              markdown: true
+              text: |-
+                Earth weight (in pounds) × 2.36 = Jupiter weight
+
+                Pluto is no longer considered a planet because it is so small.
+                Pluto is now considered a planetoid. A human would weigh less
+                on Pluto than on Earth’s moon.
+
+                Earth weight (in pounds) × 0.059 = Pluto weight
+        - requirement: 3
+          text: |-
+            On a planet that you choose
+          children:
+            - note:
+              - counselor
+              markdown: true
+              text: |-
+                Earth weight (in pounds) × 0.378 = Mercury weight<br>
+                Earth weight (in pounds) × 0.907 = Venus weight<br>
+                Earth weight (in pounds) × 1.000 = Earth weight<br>
+                Earth weight (in pounds) × 0.377 = Mars weight<br>
+                Earth weight (in pounds) × 2.36 = Jupiter weight<br>
+                Earth weight (in pounds) × 0.916 = Saturn weight<br>
+                Earth weight (in pounds) × 0.889 = Uranus weight<br>
+                Earth weight (in pounds) × 1.12 = Neptune weight
+
+                Very young Cub Scouts may not be familiar with decimal numbers
+                yet, or may be familiar with decimal numbers only up to one or
+                two places after the decimal point. Feel free to round a given
+                gravity multiplier to the tenths or hundredths place if this
+                will help a Cub Scout complete the activity on his own.
+                Alternatively, one can avoid decimals entirely by thinking in
+                terms of ratios; for example, every 10 pounds on Earth equals
+                about 9 pounds on Venus, so a child who weighs 60 pounds on
+                Earth will weigh about 54 pounds on Venus.
+    - requirement: B
+      text: |-
+        Choose ONE of the following and calculate its height:
+      children:
+        - requirement: 1
+          text: |-
+            A tree
+        - requirement: 2
+          text: |-
+            Your house
+        - requirement: 3
+          text: |-
+            A building of your choice
+        - note:
+          - counselor
+          markdown: true
+          text: |-
+            Step 1 - On a sunny day, choose a tree that casts a clear shadow.
+            Trees and other tall objects that stand by themselves are easiest
+            to work with.
+
+            Step 2 - Hold a 12-inch ruler perpendicular to the ground, right
+            next to the tree.
+
+            Step 3 - Measure the shadow of the ruler in inches, and record the
+            measurement. Call this measurement A.
+
+            Step 4 - Measure the shadow of the tree in feet, and record the
+            measurement. Call the tree shadow measurement B.
+
+            Step 5 - Multiply measurement B by 12, then divide that answer by
+            measurement A. The result is the height of the tree in inches.
+    - requirement: C
+      text: |-
+        Calculate the volume of air in your bedroom. Make sure your
+        measurements have the same units - all feet or all inches - and show
+        your work.
+      children:
+        - note:
+          - counselor
+          markdown: true
+          text: |-
+            Volume = Length × Width × Height
+
+            The answer will be in cubic feet or cubic inches (ft³ or in³).
+- requirement: 4
+  text: |-
+    Secret Codes
+  children:
+    - requirement: A
+      text: |-
+        Look up, then discuss with your counselor each of the following:
+      children:
+        - requirement: 1
+          text: |-
+            Cryptography
+          children:
+            - note:
+              - counselor
+              text: |-
+                One of the earliest recorded uses of cryptography, the practice
+                of hiding information, was when Roman leader Julius Caesar (100
+                b.c. to 44 b.c.) used a substituted letter code to hide
+                information. Cryptography has been very useful during wars for
+                transmitting information without revealing it to the enemy
+                (unless the code is broken). The major use of cryptography
+                today is with computers, especially in finance and electronic
+                data transmissions. ATM cards, computer passwords, and personal
+                identification numbers depend on cryptography.
+        - requirement: 2
+          text: |-
+            At least three ways secret codes or ciphers are made
+          children:
+            - note:
+              - counselor
+              markdown: true
+              text: |-
+                A code is a symbol or signal used to represent or communicate
+                something else. A cipher is a way to make a secret message by
+                changing or rearranging the letters in the message. Codes
+                replace words, phrases, or sentences with groups of letters or
+                numbers; ciphers rearrange or substitute letters. Examples of
+                codes and ciphers include but are not limited to:
+
+                * Transposition ciphers: Rearrange the letters in a word.
+                * Book code/dictionary code: Use two copies of the same book
+                (dictionaries work best). For each word in the code, give the
+                page number, (and column number for a dictionary), row number,
+                and word number. Usually it is best to use two or three digits
+                for each coded word, using zeros as placeholders.
+                * Letter shifts: Shift every letter in the alphabet a set
+                number of places.
+                * Number substitutions: Assign every letter a number. This can
+                be combined with letter shifts.
+                * Keyboard ciphers: Using a keyboard, shift a set number of
+                places.
+                * Date shift ciphers: Use a date to create a letter shift.
+                * Stacked ciphers: Combine two or more codes and/or ciphers.
+        - requirement: 3
+          text: |-
+            How secret codes and ciphers relate to mathematics
+          children:
+            - note:
+              - counselor
+              text: |-
+                Many ciphers can be broken by using what is called frequency
+                analysis. For example, the letter “e” is the most frequently
+                used letter in the English language. Ciphers are pairs of
+                algorithms, rules or a set of rules to solve a problem, used to
+                encrypt and decrypt information (make information unreadable or
+                readable). Since the early 20th century, cryptography has made
+                a much more extensive use of mathematics, including information
+                theory, computational complexity, statistics, number theory,
+                and abstract algebra.
+    - requirement: B
+      text: |-
+        Design a secret code or cipher. Then do the following:
+      children:
+        - requirement: 1
+          text: |-
+            Write a message in your code or cipher.
+        - requirement: 2
+          text: |-
+            Share your code or cipher with your counselor.
+- requirement: 5
+  text: |-
+    Discuss with your counselor how math affects your everyday life.

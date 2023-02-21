@@ -1,0 +1,25 @@
+- requirement: 1
+  text: |-
+      Discuss the following with your mentor:
+  children:
+      - requirement: A
+        text: |-
+            What happened during the experiment.
+      - requirement: B
+        text: |-
+            How the evidence supported or contradicted your hypothesis.
+      - requirement: C
+        text: |-
+            Whether the experiment raised any new questions for you.
+      - requirement: D
+        text: |-
+            Whether something unexpected happened during the experiment. Tell
+            how what happened might suggest about a future experiment on this
+            same phenomenon.
+- requirement: 2
+  markdown: true
+  text: |-
+      Create a report that describes your hypothesis, experiment, and
+      conclusions. (For guidance, see “<a href="../">Report Format Options</a>”
+      earlier in this section.)
+

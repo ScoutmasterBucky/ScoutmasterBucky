@@ -1,413 +1,166 @@
 - requirement: 1
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain to your counselor the most likely hazards you may encounter
-            while participating in cycling activities and what you should do to
-            anticipate, help prevent, mitigate, and respond to these hazards.
-            Explain to your counselor how to ride predictably, be conspicuous,
-            think ahead, and ride ready.
-        workbook:
-            - lines: 8
-              text: |-
-                  Most likely hazards
-            - lines: 8
-              text: |-
-                  Anticipate hazards
-            - lines: 8
-              text: |-
-                  Prevent hazards
-            - lines: 8
-              text: |-
-                  Mitigate hazards
-            - lines: 8
-              text: |-
-                  Respond to hazards
-            - lines: 8
-              text: |-
-                  Ride predictably
-            - lines: 8
-              text: |-
-                  Be conspicuous
-            - lines: 8
-              text: |-
-                  Think ahead
-            - lines: 8
-              text: |-
-                  Ride ready
-      - requirement: b
-        text: |-
-            Show that you know first aid for injuries or illnesses that could
-            occur while cycling, including cuts, scratches, blisters, sunburn,
-            heat exhaustion, heatstroke, hypothermia, frostbite, dehydration,
-            insect stings, tick bites, and snakebite. Explain to your counselor
-            why you should be able to identify the poisonous plants and
-            poisonous animals that are found in your area.
-        workbook:
-            - split:
-                  - task: true
-                    text: |-
-                        Cuts
-                  - task: true
-                    text: |-
-                        Scratches
-                  - task: true
-                    text: |-
-                        Blisters
-                  - task: true
-                    text: |-
-                        Sunburn
-            - split:
-                  - task: true
-                    text: |-
-                        Heat exhaustion
-                  - task: true
-                    text: |-
-                        Heatstroke
-                  - task: true
-                    text: |-
-                        Hypothermia
-                  - task: true
-                    text: |-
-                        Frostbite
-            - split:
-                  - task: true
-                    text: |-
-                        Dehydration
-                  - task: true
-                    text: |-
-                        Insect stings
-                  - task: true
-                    text: |-
-                        Tick bites
-                  - task: true
-                    text: |-
-                        Snakebite
-            - lines: 8
-              text: |-
-                  Why you should be able to identify the poisonous plants and
-                  poisonous animals that are found in your area
+    - requirement: a
+      text: |-
+        Explain to your counselor the most likely hazards you may encounter
+        while participating in cycling activities and what you should do to
+        anticipate, help prevent, mitigate, and respond to these hazards.
+        Explain to your counselor how to ride predictably, be conspicuous,
+        think ahead, and ride ready.
+    - requirement: b
+      text: |-
+        Show that you know first aid for injuries or illnesses that could
+        occur while cycling, including cuts, scratches, blisters, sunburn,
+        heat exhaustion, heatstroke, hypothermia, frostbite, dehydration,
+        insect stings, tick bites, and snakebite. Explain to your counselor
+        why you should be able to identify the poisonous plants and
+        poisonous animals that are found in your area.
 - requirement: 2
   text: |-
-      Describe your state and local laws concerning bicycles.  Discuss what is
-      the same and what is different from laws applying to motor vehicles.
-      Explain where and how you should ride on roads and streets to include
-      lane position, changing lanes, making left and right turns, and riding
-      through intersections.
-  workbook:
-      - lines: 8
-        text: State and local laws
-      - lines: 8
-        text: What is the same and what is different from laws applying to motor vehicles
-      - lines: 8
-        text: Where and how you should ride on roads and streets
+    Describe your state and local laws concerning bicycles.  Discuss what is
+    the same and what is different from laws applying to motor vehicles.
+    Explain where and how you should ride on roads and streets to include
+    lane position, changing lanes, making left and right turns, and riding
+    through intersections.
 - requirement: 3
   text: |-
-      Explain the importance of wearing a properly sized and fitted
-      helmet while cycling, and of wearing the right clothing for the
-      weather. Know the BSA Bike Safety Guidelines.
-  workbook:
-      - lines: 8
+    Explain the importance of wearing a properly sized and fitted
+    helmet while cycling, and of wearing the right clothing for the
+    weather. Know the BSA Bike Safety Guidelines.
 - requirement: 4
   text: |-
-      Using a bicycle safety checklist, clean and adjust a bicycle and present
-      it to your counselor for inspection. Do the following:
+    Using a bicycle safety checklist, clean and adjust a bicycle and present
+    it to your counselor for inspection. Do the following:
   children:
-      - requirement: a
-        text: |-
-            Show points that should be checked regularly to make sure the
-            bicycle is safe to ride.
-        workbook:
-            - task: true
-      - requirement: b
-        text: |-
-            Show how to adjust the saddle and handlebars for a proper fit.
-        workbook:
-            - task: true
-      - requirement: c
-        text: |-
-            Show how to adjust brakes and gear shifting (derailleurs).
-        workbook:
-            - task: true
-      - requirement: d
-        text: |-
-            Show all points that need regular lubrication
-        workbook:
-            - task: true
-      - requirement: e
-        text: |-
-            Show how to repair a flat by removing the tire, replacing or
-            patching the tube, and remounting the tire.
-        workbook:
-            - task: true
-      - requirement: f
-        text: |-
-            Show that the bicycle meets local laws.
-        workbook:
-            - task: true
+    - requirement: a
+      text: |-
+        Show points that should be checked regularly to make sure the
+        bicycle is safe to ride.
+    - requirement: b
+      text: |-
+        Show how to adjust the saddle and handlebars for a proper fit.
+    - requirement: c
+      text: |-
+        Show how to adjust brakes and gear shifting (derailleurs).
+    - requirement: d
+      text: |-
+        Show all points that need regular lubrication
+    - requirement: e
+      text: |-
+        Show how to repair a flat by removing the tire, replacing or
+        patching the tube, and remounting the tire.
+    - requirement: f
+      text: |-
+        Show that the bicycle meets local laws.
 - requirement: 5
   text: |-
-      Demonstrate basic bicycle handling skills to your counselor, to include how to properly mount your bicycle, starting and stopping (to include emergency stops), riding in a straight line, turning, shifting gears, scanning, and signaling.
-  workbook:
-      - task: true
+    Demonstrate basic bicycle handling skills to your counselor, to include how to properly mount your bicycle, starting and stopping (to include emergency stops), riding in a straight line, turning, shifting gears, scanning, and signaling.
 - requirement: 7
   markdown: true
   text: |-
-      Using the BSA buddy system, complete all of the requirements for ONE
-      of the following options: road biking OR mountain biking. `*`
+    Using the BSA buddy system, complete all of the requirements for ONE
+    of the following options: road biking OR mountain biking. `*`
 
-      `*` The bicycle used for fulfilling these requirements must have all
-      required safety features and must be registered as required by your local
-      traffic laws.
+    `*` The bicycle used for fulfilling these requirements must have all
+    required safety features and must be registered as required by your local
+    traffic laws.
   children:
-      - detail: true
-        markdown: true
-        text: |-
-            **Option A: Road Biking**
-      - requirement: a
-        text: |-
-            Take a road test with your counselor and demonstrate the following:
-        children:
-            - requirement: 1
-              text: |-
-                  On an urban street with light traffic, properly execute a
-                  left turn from the center of the street; also demonstrate an
-                  alternate left-turn technique used during periods of heavy
-                  traffic.
-              workbook:
-                  - task: true
-            - requirement: 2
-              text: |-
-                  Properly execute a right turn.
-              workbook:
-                  - task: true
-            - requirement: 3
-              text: |-
-                  Demonstrate appropriate actions at a right-turn-only lane
-                  when you are continuing straight.
-              workbook:
-                  - task: true
-            - requirement: 4
-              text: |-
-                  Show proper curbside and road-edge riding. Show how to ride
-                  safely along a row of parked cars.
-              workbook:
-                  - task: true
-            - requirement: 5
-              text: |-
-                  Cross railroad tracks properly.
-              workbook:
-                  - task: true
-      - requirement: b
-        text: |-
-            Avoiding main highways, take two rides of 10 miles each, two rides
-            of 15 miles each, and two rides of 25 miles each.  You must make a
-            report of the rides taken. List dates for the routes traveled, and
-            interesting things seen on the ride.
-        workbook:
-            - split:
-                  - lines: 2
-                    text: |-
-                        Date
-                  - lines: 2
-                    text: |-
-                        Distance
-            - lines: 8
-              text: |-
-                  Notes and interesting things seen
-            - split:
-                  - lines: 2
-                    text: |-
-                        Date
-                  - lines: 2
-                    text: |-
-                        Distance
-            - lines: 8
-              text: |-
-                  Notes and interesting things seen
-            - split:
-                  - lines: 2
-                    text: |-
-                        Date
-                  - lines: 2
-                    text: |-
-                        Distance
-            - lines: 8
-              text: |-
-                  Notes and interesting things seen
-            - split:
-                  - lines: 2
-                    text: |-
-                        Date
-                  - lines: 2
-                    text: |-
-                        Distance
-            - lines: 8
-              text: |-
-                  Notes and interesting things seen
-            - split:
-                  - lines: 2
-                    text: |-
-                        Date
-                  - lines: 2
-                    text: |-
-                        Distance
-            - lines: 8
-              text: |-
-                  Notes and interesting things seen
-            - split:
-                  - lines: 2
-                    text: |-
-                        Date
-                  - lines: 2
-                    text: |-
-                        Distance
-            - lines: 8
-              text: |-
-                  Notes and interesting things seen
-      - requirement: c
-        text: |-
-            After completing requirement b for the road biking option, do ONE
-            of the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Lay out on a road map a 50-mile trip. Stay away from main
-                  highways. Using your map, make this ride in eight hours or less.
-              workbook:
-                  - task: true
-            - requirement: 2
-              text: |-
-                  Participate in an organized bike tour of at least 50 miles.
-                  Make this ride in eight hours. Afterward, use the tour’s cue
-                  sheet to make a map of the ride.
-              workbook:
-                  - task: true
-      - detail: true
-        markdown: true
-        text: |-
-            **Option B: Mountain Biking**
-      - requirement: a
-        text: |-
-            Demonstrate the following mountain bike handling skills to your counselor:
-        children:
-            - requirement: 1
-              text: |-
-                  Neutral position, ready position, bike body separation (side to side, and forward and back), and body positioning for cornering.
-              workbook:
-                  - task: true
-            - requirement: 2
-              text: |-
-                  Show shifting skills as applicable to climbs and obstacles.
-              workbook:
-                  - task: true
-            - requirement: 3
-              text: |-
-                  Show proper techinque for riding up (seated, crouched, and standing) and down hills.
-              workbook:
-                  - task: true
-      - requirement: b
-        text: |-
-            Take a trail ride with your counselor and demonstrate the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Show proper trail etiquette to hikers and other cyclists,
-                  including when to yield the right-of-way.
-              workbook:
-                  - task: true
-            - requirement: 2
-              text: |-
-                  Demonstrate how to correctly cross an obstacle by either
-                  going over the obstacle on your bike or dismounting your bike
-                  and crossing over or around the obstacle.
-              workbook:
-                  - task: true
-            - requirement: 3
-              text: |-
-                  Cross rocks, gravel, and roots properly.
-              workbook:
-                  - task: true
-      - requirement: c
-        text: |-
-            Describe the rules of trail riding, including how to know when a
-            trail is unsuitable for riding.
-        workbook:
-            - lines: 8
-      - requirement: d
-        text: |-
-            On trails approved by your counselor, take two rides of 2 miles
-            each, two rides of 5 miles each, and two rides of 8 miles each. You
-            must make a report of the rides taken. List dates for the routes
-            traveled, and interesting things seen.
-        workbook:
-            - split:
-                  - lines: 2
-                    text: |-
-                        Date
-                  - lines: 2
-                    text: |-
-                        Distance
-            - lines: 8
-              text: |-
-                  Notes and interesting things seen
-            - split:
-                  - lines: 2
-                    text: |-
-                        Date
-                  - lines: 2
-                    text: |-
-                        Distance
-            - lines: 8
-              text: |-
-                  Notes and interesting things seen
-            - split:
-                  - lines: 2
-                    text: |-
-                        Date
-                  - lines: 2
-                    text: |-
-                        Distance
-            - lines: 8
-              text: |-
-                  Notes and interesting things seen
-            - split:
-                  - lines: 2
-                    text: |-
-                        Date
-                  - lines: 2
-                    text: |-
-                        Distance
-            - lines: 8
-              text: |-
-                  Notes and interesting things seen
-            - split:
-                  - lines: 2
-                    text: |-
-                        Date
-                  - lines: 2
-                    text: |-
-                        Distance
-            - lines: 8
-              text: |-
-                  Notes and interesting things seen
-            - split:
-                  - lines: 2
-                    text: |-
-                        Date
-                  - lines: 2
-                    text: |-
-                        Distance
-            - lines: 8
-              text: |-
-                  Notes and interesting things seen
-      - requirement: d
-        text: |-
-            After fulfilling the previous requirement, lay out on a trail map a
-            22-mile trip. You may include multiple trail systems, if needed.
-            Stay away from main highways. Using your map, make this ride in six
-            hours.
-        workbook:
-            - task: true
+    - detail: true
+      markdown: true
+      text: |-
+        **Option A: Road Biking**
+    - requirement: a
+      text: |-
+        Take a road test with your counselor and demonstrate the following:
+      children:
+        - requirement: 1
+          text: |-
+            On an urban street with light traffic, properly execute a
+            left turn from the center of the street; also demonstrate an
+            alternate left-turn technique used during periods of heavy
+            traffic.
+        - requirement: 2
+          text: |-
+            Properly execute a right turn.
+        - requirement: 3
+          text: |-
+            Demonstrate appropriate actions at a right-turn-only lane
+            when you are continuing straight.
+        - requirement: 4
+          text: |-
+            Show proper curbside and road-edge riding. Show how to ride
+            safely along a row of parked cars.
+        - requirement: 5
+          text: |-
+            Cross railroad tracks properly.
+    - requirement: b
+      text: |-
+        Avoiding main highways, take two rides of 10 miles each, two rides
+        of 15 miles each, and two rides of 25 miles each.  You must make a
+        report of the rides taken. List dates for the routes traveled, and
+        interesting things seen on the ride.
+    - requirement: c
+      text: |-
+        After completing requirement b for the road biking option, do ONE
+        of the following:
+      children:
+        - requirement: 1
+          text: |-
+            Lay out on a road map a 50-mile trip. Stay away from main
+            highways. Using your map, make this ride in eight hours or less.
+        - requirement: 2
+          text: |-
+            Participate in an organized bike tour of at least 50 miles.
+            Make this ride in eight hours. Afterward, use the tour’s cue
+            sheet to make a map of the ride.
+    - detail: true
+      markdown: true
+      text: |-
+        **Option B: Mountain Biking**
+    - requirement: a
+      text: |-
+        Demonstrate the following mountain bike handling skills to your counselor:
+      children:
+        - requirement: 1
+          text: |-
+            Neutral position, ready position, bike body separation (side to side, and forward and back), and body positioning for cornering.
+        - requirement: 2
+          text: |-
+            Show shifting skills as applicable to climbs and obstacles.
+        - requirement: 3
+          text: |-
+            Show proper techinque for riding up (seated, crouched, and standing) and down hills.
+    - requirement: b
+      text: |-
+        Take a trail ride with your counselor and demonstrate the following:
+      children:
+        - requirement: 1
+          text: |-
+            Show proper trail etiquette to hikers and other cyclists,
+            including when to yield the right-of-way.
+        - requirement: 2
+          text: |-
+            Demonstrate how to correctly cross an obstacle by either
+            going over the obstacle on your bike or dismounting your bike
+            and crossing over or around the obstacle.
+        - requirement: 3
+          text: |-
+            Cross rocks, gravel, and roots properly.
+    - requirement: c
+      text: |-
+        Describe the rules of trail riding, including how to know when a
+        trail is unsuitable for riding.
+    - requirement: d
+      text: |-
+        On trails approved by your counselor, take two rides of 2 miles
+        each, two rides of 5 miles each, and two rides of 8 miles each. You
+        must make a report of the rides taken. List dates for the routes
+        traveled, and interesting things seen.
+    - requirement: d
+      text: |-
+        After fulfilling the previous requirement, lay out on a trail map a
+        22-mile trip. You may include multiple trail systems, if needed.
+        Stay away from main highways. Using your map, make this ride in six
+        hours.

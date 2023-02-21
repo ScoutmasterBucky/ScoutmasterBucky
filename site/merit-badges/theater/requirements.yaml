@@ -1,177 +1,93 @@
 - requirement: 1
   markdown: true
   text: |-
-      See or read three full-length plays.`*` Write a review of each.  Discuss
-      with your counselor the plot or story. If you chose to watch the plays,
-      comment on the acting and the staging.
+    See or read three full-length plays.`*` Write a review of each.  Discuss
+    with your counselor the plot or story. If you chose to watch the plays,
+    comment on the acting and the staging.
 
-      `*` Watching plays on television, video, or as a movie is not permitted.
-  workbook:
-      - lines: 8
-        text: |-
-            First play
-      - lines: 8
-        text: |-
-            Second play
-      - lines: 8
-        text: |-
-            Third play
+    `*` Watching plays on television, video, or as a movie is not permitted.
 - requirement: 2
   text: |-
-      Write a one-act play that will take at least 10 minutes to perform. The
-      play must have a main character, conflict, and a climax.
-  workbook:
-      - task: true
+    Write a one-act play that will take at least 10 minutes to perform. The
+    play must have a main character, conflict, and a climax.
 - requirement: 3
   text: |-
-      Discuss with your counselor the safety precautions that should be
-      practiced when working in a theater to protect the cast and crew. Then do
-      THREE of the following:
+    Discuss with your counselor the safety precautions that should be
+    practiced when working in a theater to protect the cast and crew. Then do
+    THREE of the following:
   children:
-      - requirement: a
-        text: |-
-            Act a major part in a full-length play; or act a part in three
-            one-act plays.
-        workbook:
-            - task: true
-      - requirement: b
-        text: |-
-            Direct a play. Cast, rehearse, and stage it. The play must be at
-            least 10 minutes long.
-        workbook:
-            - task: true
-      - requirement: c
-        text: |-
-            Design the set for a play or a theatrical production.  Make a model
-            of it.
-        workbook:
-            - task: true
-      - requirement: d
-        text: |-
-            Design the costumes for five characters in a theatrical production
-            set in a historical time.
-        workbook:
-            - task: true
-      - requirement: e
-        text: |-
-            Show skill in hair and makeup design. Make up yourself or a friend
-            as a historical figure, a clown, an extraterrestrial, or a monster
-            as directed.
-        workbook:
-            - task: true
-      - requirement: f
-        text: |-
-            With your counselor’s approval, help with the building and painting
-            of the scenery for a theatrical production.
-        workbook:
-            - task: true
-      - requirement: g
-        text: |-
-            With your counselor’s approval, design the lighting for a play; or
-            help install, focus, color, program, and operate the lighting for a
-            theatrical production.
-        workbook:
-            - task: true
-      - requirement: h
-        text: |-
-            With your counselor’s approval, help install, focus, equalize,
-            program, and operate the sound for a theatrical production.
-        workbook:
-            - task: true
-      - requirement: i
-        text: |-
-            Serve as the stage manager for a theatrical production.  Document
-            all cues and stage setups in your calling script.
-        workbook:
-            - task: true
-      - requirement: j
-        text: |-
-            Serve as musical director for a musical theater production.
-        workbook:
-            - task: true
+    - requirement: a
+      text: |-
+        Act a major part in a full-length play; or act a part in three
+        one-act plays.
+    - requirement: b
+      text: |-
+        Direct a play. Cast, rehearse, and stage it. The play must be at
+        least 10 minutes long.
+    - requirement: c
+      text: |-
+        Design the set for a play or a theatrical production.  Make a model
+        of it.
+    - requirement: d
+      text: |-
+        Design the costumes for five characters in a theatrical production
+        set in a historical time.
+    - requirement: e
+      text: |-
+        Show skill in hair and makeup design. Make up yourself or a friend
+        as a historical figure, a clown, an extraterrestrial, or a monster
+        as directed.
+    - requirement: f
+      text: |-
+        With your counselor’s approval, help with the building and painting
+        of the scenery for a theatrical production.
+    - requirement: g
+      text: |-
+        With your counselor’s approval, design the lighting for a play; or
+        help install, focus, color, program, and operate the lighting for a
+        theatrical production.
+    - requirement: h
+      text: |-
+        With your counselor’s approval, help install, focus, equalize,
+        program, and operate the sound for a theatrical production.
+    - requirement: i
+      text: |-
+        Serve as the stage manager for a theatrical production.  Document
+        all cues and stage setups in your calling script.
+    - requirement: j
+      text: |-
+        Serve as musical director for a musical theater production.
 - requirement: 4
   text: |-
-      Mime or pantomime any ONE of the following, chosen by your counselor.
+    Mime or pantomime any ONE of the following, chosen by your counselor.
   children:
-      - requirement: a
-        text: |-
-            You have come into a large room. It is full of pictures, furniture,
-            and other things of interest.
-        workbook:
-            - task: true
-      - requirement: b
-        text: |-
-            As you are getting on a bus, your books fall into a puddle. By the
-            time you pick them up, the bus has driven off.
-        workbook:
-            - task: true
-      - requirement: c
-        text: |-
-            You have failed a school test. You are talking with your teacher,
-            who does not buy your story.
-        workbook:
-            - task: true
-      - requirement: d
-        text: |-
-            You are at camp with a new Scout. You try to help them pass a
-            cooking test. The Scout learns very slowly.
-        workbook:
-            - task: true
-      - requirement: e
-        text: |-
-            You are at a banquet. The meat is good. You don’t like the
-            vegetable. The dessert is ice cream.
-        workbook:
-            - task: true
-      - requirement: f
-        text: |-
-            You are a circus performer such as a juggler, high-wire artist, or
-            lion tamer doing a routine.
-        workbook:
-            - task: true
+    - requirement: a
+      text: |-
+        You have come into a large room. It is full of pictures, furniture,
+        and other things of interest.
+    - requirement: b
+      text: |-
+        As you are getting on a bus, your books fall into a puddle. By the
+        time you pick them up, the bus has driven off.
+    - requirement: c
+      text: |-
+        You have failed a school test. You are talking with your teacher,
+        who does not buy your story.
+    - requirement: d
+      text: |-
+        You are at camp with a new Scout. You try to help them pass a
+        cooking test. The Scout learns very slowly.
+    - requirement: e
+      text: |-
+        You are at a banquet. The meat is good. You don’t like the
+        vegetable. The dessert is ice cream.
+    - requirement: f
+      text: |-
+        You are a circus performer such as a juggler, high-wire artist, or
+        lion tamer doing a routine.
 - requirement: 5
   text: |-
-      Explain the following: proscenium arch, central or arena staging, center
-      stage, stage right, stage left, downstage, upstage, stage crew, flies,
-      portal, cyclorama, stage brace, spotlight, floodlight, lighting control
-      board, sound mixing desk, thrust staging, ground plans, and sightlines.
-  workbook:
-      - lines: 3
-        text: |-
-            Proscenium arch
-      - lines: 3
-        text: |-
-            Central or arena staging
-      - lines: 5
-        text: |-
-            Center stage, stage right, stage left, downstage, upstage
-      - lines: 3
-        text: |-
-            Stage crew
-      - lines: 3
-        text: |-
-            Flies
-      - lines: 3
-        text: |-
-            Portal
-      - lines: 3
-        text: |-
-            Cyclorama
-      - lines: 3
-        text: |-
-            Spotlight, floodlight
-      - lines: 3
-        text: |-
-            Lighting control board
-      - lines: 3
-        text: |-
-            Sound mixing desk
-      - lines: 3
-        text: |-
-            Thrust staging
-      - lines: 3
-        text: |-
-            Ground plans
-      - lines: 3
-        text: |-
-            Sightlines
+    Explain the following: proscenium arch, central or arena staging, center
+    stage, stage right, stage left, downstage, upstage, stage crew, flies,
+    portal, cyclorama, stage brace, spotlight, floodlight, lighting control
+    board, sound mixing desk, thrust staging, ground plans, and sightlines.

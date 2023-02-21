@@ -1,7 +1,7 @@
 ---
 badge: mining-in-society
-layout: smb-merit-badge
-workbook: true
-data:
-    requirements: ../requirements.yaml
+layout: smb-merit-badge-workbook
+downloads:
+    - name: Mining in Society Workbook
+      url: mining-in-society-workbook.pdf
 ---

@@ -6,5 +6,3 @@ layout: ak
 # Welcome
 
 Future home of Advisor Kodi
-
-Coming soon!

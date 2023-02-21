@@ -1,339 +1,239 @@
 - requirement: 1
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain why BB and pellet air guns must always be treated with the
-            same respect as firearms.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            Describe how you would react if a friend visiting your home asked
-            to see your or your family’s firearm(s).
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            Explain the need for, and use and types of, eye and hearing
-            protection.  Demonstrate their proper use.
-        workbook:
-            - lines: 8
-      - requirement: d
-        text: |-
-            Give the main points of the laws for owning and using guns in your
-            community and state.
-        workbook:
-            - lines: 8
-      - requirement: e
-        text: |-
-            Explain how hunting is related to the wise use of renewable
-            wildlife resources.
-        workbook:
-            - lines: 8
-      - requirement: f
-        text: |-
-            Successfully complete a state hunter education course or obtain a
-            copy of the hunting laws for your state, then do the following:
-        workbook:
-            - task: true
-        children:
-            - requirement: 1
-              text: |-
-                  Explain the main points of hunting laws in your state and
-                  give any special laws on the use of guns and ammunition.
-              workbook:
-                  - lines: 8
-            - requirement: 2
-              text: |-
-                  List the kinds of wildlife that can be legally hunted in your
-                  state.
-              workbook:
-                  - lines: 8
-      - requirement: g
-        text: |-
-            Identify and explain how you can join or be a part of shooting
-            sports activities.
-        workbook:
-            - lines: 8
-      - requirement: h
-        text: |-
-            Explain to your counselor the proper hygienic guidelines used in
-            shooting.
-        workbook:
-            - lines: 8
-      - requirement: i
-        text: |-
-            Give your counselor a list of sources that you could contact for
-            information on firearms and their uses.
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        Explain why BB and pellet air guns must always be treated with the
+        same respect as firearms.
+    - requirement: b
+      text: |-
+        Describe how you would react if a friend visiting your home asked
+        to see your or your family’s firearm(s).
+    - requirement: c
+      text: |-
+        Explain the need for, and use and types of, eye and hearing
+        protection.  Demonstrate their proper use.
+    - requirement: d
+      text: |-
+        Give the main points of the laws for owning and using guns in your
+        community and state.
+    - requirement: e
+      text: |-
+        Explain how hunting is related to the wise use of renewable
+        wildlife resources.
+    - requirement: f
+      text: |-
+        Successfully complete a state hunter education course or obtain a
+        copy of the hunting laws for your state, then do the following:
+      children:
+        - requirement: 1
+          text: |-
+            Explain the main points of hunting laws in your state and
+            give any special laws on the use of guns and ammunition.
+        - requirement: 2
+          text: |-
+            List the kinds of wildlife that can be legally hunted in your
+            state.
+    - requirement: g
+      text: |-
+        Identify and explain how you can join or be a part of shooting
+        sports activities.
+    - requirement: h
+      text: |-
+        Explain to your counselor the proper hygienic guidelines used in
+        shooting.
+    - requirement: i
+      text: |-
+        Give your counselor a list of sources that you could contact for
+        information on firearms and their uses.
 - requirement: 2
   text: |-
-      Do ONE of the following options:
+    Do ONE of the following options:
   children:
-      - detail: true
-        markdown: true
-        text: |-
-            **Option A—Rifle Shooting (Modern cartridge type)**
-      - requirement: a
-        text: |-
-            Identify the three main parts of a rifle, and tell how they
-            function.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            Identify and demonstrate the three fundamental rules for safe gun
-            handling.
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            Identify the two types of cartridges, their parts, and how they
-            function.
-        workbook:
-            - lines: 8
-      - requirement: d
-        text: |-
-            Explain to your counselor what a misfire, hangfire, and squib fire
-            are, and explain the procedures to follow in response to each.
-        workbook:
-            - lines: 8
-      - requirement: e
-        text: |-
-            Identify and demonstrate the five fundamentals of shooting a rifle
-            safely.
-        workbook:
-            - lines: 8
-      - requirement: f
-        text: |-
-            Explain to your counselor the fundamental rules for safe gun
-            handling.  Explain each rule for using and storing a gun. Identify
-            and explain each rule for safe shooting.
-        workbook:
-            - lines: 8
-      - requirement: g
-        text: |-
-            Explain the range commands and range procedures.
-        workbook:
-            - lines: 8
-      - requirement: h
-        text: |-
-            Demonstrate the knowledge, skills, and attitude necessary to safely
-            shoot a rifle from the benchrest position or supported prone
-            position while using the five fundamentals of rifle shooting.
-        workbook:
-            - lines: 8
-      - requirement: i
-        text: |-
-            Identify the basic safety rules for cleaning a rifle, and identify
-            the materials needed.
-        workbook:
-            - lines: 8
-      - requirement: j
-        text: |-
-            Demonstrate how to clean a rifle properly and safely.
-        workbook:
-            - lines: 8
-      - requirement: k
-        text: |-
-            Discuss what points you would consider in selecting a rifle.
-        workbook:
-            - lines: 8
-      - requirement: l
-        text: |-
-            Using a .22 caliber rimfire rifle and shooting from a benchrest or
-            supported prone position at 50 feet, fire five groups (three shots
-            per group) that can be covered by a quarter. Using these targets,
-            explain how to adjust sights to zero a rifle.
-        workbook:
-            - task: true
-      - requirement: m
-        markdown: true
-        text: |-
-            Adjust sights to center the group on the target`*` and fire five
-            groups (five shots per group). According to the target used, each
-            shot in the group must meet the following minimum score: (1) A-32
-            targets—9; (2) A-17 or TQ-1 targets—7; (3) A-36 targets—5.
+    - detail: true
+      markdown: true
+      text: |-
+        **Option A—Rifle Shooting (Modern cartridge type)**
+    - requirement: a
+      text: |-
+        Identify the three main parts of a rifle, and tell how they
+        function.
+    - requirement: b
+      text: |-
+        Identify and demonstrate the three fundamental rules for safe gun
+        handling.
+    - requirement: c
+      text: |-
+        Identify the two types of cartridges, their parts, and how they
+        function.
+    - requirement: d
+      text: |-
+        Explain to your counselor what a misfire, hangfire, and squib fire
+        are, and explain the procedures to follow in response to each.
+    - requirement: e
+      text: |-
+        Identify and demonstrate the five fundamentals of shooting a rifle
+        safely.
+    - requirement: f
+      text: |-
+        Explain to your counselor the fundamental rules for safe gun
+        handling.  Explain each rule for using and storing a gun. Identify
+        and explain each rule for safe shooting.
+    - requirement: g
+      text: |-
+        Explain the range commands and range procedures.
+    - requirement: h
+      text: |-
+        Demonstrate the knowledge, skills, and attitude necessary to safely
+        shoot a rifle from the benchrest position or supported prone
+        position while using the five fundamentals of rifle shooting.
+    - requirement: i
+      text: |-
+        Identify the basic safety rules for cleaning a rifle, and identify
+        the materials needed.
+    - requirement: j
+      text: |-
+        Demonstrate how to clean a rifle properly and safely.
+    - requirement: k
+      text: |-
+        Discuss what points you would consider in selecting a rifle.
+    - requirement: l
+      text: |-
+        Using a .22 caliber rimfire rifle and shooting from a benchrest or
+        supported prone position at 50 feet, fire five groups (three shots
+        per group) that can be covered by a quarter. Using these targets,
+        explain how to adjust sights to zero a rifle.
+    - requirement: m
+      markdown: true
+      text: |-
+        Adjust sights to center the group on the target`*` and fire five
+        groups (five shots per group). According to the target used, each
+        shot in the group must meet the following minimum score: (1) A-32
+        targets—9; (2) A-17 or TQ-1 targets—7; (3) A-36 targets—5.
 
-            `*` NOTE: It is not always practical to adjust the sights (i.e.,
-            when using a borrowed fixed-sight rifle). For requirement 2(l), you
-            may demonstrate your ability to use the shooting fundamentals by
-            shooting five shot groups (five shots per group) in which all shots
-            can be covered by or touch a quarter and then explain how to adjust
-            the sights to zero the rifle used.
-        workbook:
-            - task: true
-      - detail: true
-        markdown: true
-        text: |-
-            **Option B—Air Rifle Shooting (BB or pellet)**
-      - requirement: a
-        text: |-
-            Identify the three main parts of an air rifle, and tell how they
-            function.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            Identify and demonstrate the three fundamental rules for safe gun
-            handling.
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            Explain the range commands and range procedures.
-        workbook:
-            - lines: 8
-      - requirement: d
-        text: |-
-            Identify the two most common types of air rifle ammunition.
-        workbook:
-            - lines: 8
-      - requirement: e
-        text: |-
-            Identify and demonstrate the five fundamentals of shooting a rifle
-            safely.
-        workbook:
-            - lines: 8
-      - requirement: f
-        text: |-
-            Identify and explain each rule for shooting an air rifle safely.
-        workbook:
-            - lines: 8
-      - requirement: g
-        text: |-
-            Demonstrate the knowledge, skills, and attitude necessary to safely
-            shoot a target from the benchrest position or supported prone
-            position while using the five fundamentals of rifle shooting.
-        workbook:
-            - lines: 8
-      - requirement: h
-        text: |-
-            Identify the basic safety rules for cleaning an air rifle, and
-            identify the materials needed.
-        workbook:
-            - lines: 8
-      - requirement: i
-        text: |-
-            Demonstrate how to clean an air rifle safely.
-        workbook:
-            - lines: 8
-      - requirement: j
-        text: |-
-            Discuss what points you would consider in selecting an air rifle.
-        workbook:
-            - lines: 8
-      - requirement: k
-        text: |-
-            Using a BB gun or pellet air rifle and shooting from a benchrest or
-            supported prone position at 15 feet for BB guns or 33 feet for air
-            rifles, fire five groups (three shots per group) that can be
-            covered by a quarter.
-        workbook:
-            - task: true
-      - requirement: l
-        text: |-
-            Adjust sights to center the group on the target and fire five
-            groups (five shots per group). According to the target used, each
-            shot in the group must meet the following minimum score: (1) BB
-            rifle at 15 feet or 5 meters using TQ-5 targets—8; (2) pellet air
-            rifle at 25 feet using TQ-5 targets—8, at 33 feet or 10 meters
-            using AR-1 targets—6.
-        workbook:
-            - task: true
-      - detail: true
-        markdown: true
-        text: |-
-            **Option C—Muzzleloading Rifle Shooting**
-      - requirement: a
-        text: |-
-            Give a brief history of the development of muzzleloading rifles.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            Identify principal parts of percussion rifles and discuss how they
-            function.
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            Demonstrate and discuss the safe handling of muzzleloading rifles.
-        workbook:
-            - lines: 8
-      - requirement: d
-        text: |-
-            Identify the various grades of black powder and black powder
-            substitutes and explain their proper use.
-        workbook:
-            - lines: 8
-      - requirement: e
-        text: |-
-            Discuss proper safety procedures pertaining to black powder use and
-            storage.
-        workbook:
-            - lines: 8
-      - requirement: f
-        text: |-
-            Discuss proper components of a load.
-        workbook:
-            - lines: 8
-      - requirement: g
-        text: |-
-            Identify proper procedures and accessories used for loading a
-            muzzleloading rifle.
-        workbook:
-            - lines: 8
-      - requirement: h
-        text: |-
-            Demonstrate the knowledge, skills, and attitude necessary to safely
-            shoot a muzzleloading rifle on a range, including range procedures.
-            Explain what a misfire, hangfire, and squib fire are, and explain
-            the procedures to follow in response to each.
-        workbook:
-            - lines: 8
-      - requirement: i
-        text: |-
-            Shoot a target with a muzzleloading rifle using the five
-            fundamentals of firing a shot.
-        workbook:
-            - lines: 8
-      - requirement: j
-        text: |-
-            Identify the materials needed to clean a muzzleloading rifle
-            safely. Using these materials, demonstrate how to clean a
-            muzzleloading rifle safely.
-        workbook:
-            - lines: 8
-      - requirement: k
-        text: |-
-            Identify the causes of a muzzleloading rifle’s failure to fire and
-            explain or demonstrate proper correction procedures.
-        workbook:
-            - lines: 8
-      - requirement: l
-        text: |-
-            Discuss what points you would consider in selecting a muzzleloading
-            rifle.
-        workbook:
-            - lines: 8
-      - requirement: m
-        text: |-
-            Using a muzzleloading rifle of .45 or .50 caliber and shooting from
-            a benchrest or supported prone position, fire three groups (three
-            shots per group) at 50 feet that can be covered by the base of a
-            standard-size soft drink can.
-        workbook:
-            - task: true
-      - requirement: n
-        text: |-
-            Center the group on the target and fire three groups (five shots
-            per group).  According to the target used, each shot in the group
-            must meet the following minimum score: (1) at 25 yards using NRA
-            A-23 or NMLRA 50-yard targets—7; (2) at 50 yards using NRA A-25 or
-            NMLRA 100-yard targets—7.
-        workbook:
-            - task: true
+        `*` NOTE: It is not always practical to adjust the sights (i.e.,
+        when using a borrowed fixed-sight rifle). For requirement 2(l), you
+        may demonstrate your ability to use the shooting fundamentals by
+        shooting five shot groups (five shots per group) in which all shots
+        can be covered by or touch a quarter and then explain how to adjust
+        the sights to zero the rifle used.
+    - detail: true
+      markdown: true
+      text: |-
+        **Option B—Air Rifle Shooting (BB or pellet)**
+    - requirement: a
+      text: |-
+        Identify the three main parts of an air rifle, and tell how they
+        function.
+    - requirement: b
+      text: |-
+        Identify and demonstrate the three fundamental rules for safe gun
+        handling.
+    - requirement: c
+      text: |-
+        Explain the range commands and range procedures.
+    - requirement: d
+      text: |-
+        Identify the two most common types of air rifle ammunition.
+    - requirement: e
+      text: |-
+        Identify and demonstrate the five fundamentals of shooting a rifle
+        safely.
+    - requirement: f
+      text: |-
+        Identify and explain each rule for shooting an air rifle safely.
+    - requirement: g
+      text: |-
+        Demonstrate the knowledge, skills, and attitude necessary to safely
+        shoot a target from the benchrest position or supported prone
+        position while using the five fundamentals of rifle shooting.
+    - requirement: h
+      text: |-
+        Identify the basic safety rules for cleaning an air rifle, and
+        identify the materials needed.
+    - requirement: i
+      text: |-
+        Demonstrate how to clean an air rifle safely.
+    - requirement: j
+      text: |-
+        Discuss what points you would consider in selecting an air rifle.
+    - requirement: k
+      text: |-
+        Using a BB gun or pellet air rifle and shooting from a benchrest or
+        supported prone position at 15 feet for BB guns or 33 feet for air
+        rifles, fire five groups (three shots per group) that can be
+        covered by a quarter.
+    - requirement: l
+      text: |-
+        Adjust sights to center the group on the target and fire five
+        groups (five shots per group). According to the target used, each
+        shot in the group must meet the following minimum score: (1) BB
+        rifle at 15 feet or 5 meters using TQ-5 targets—8; (2) pellet air
+        rifle at 25 feet using TQ-5 targets—8, at 33 feet or 10 meters
+        using AR-1 targets—6.
+    - detail: true
+      markdown: true
+      text: |-
+        **Option C—Muzzleloading Rifle Shooting**
+    - requirement: a
+      text: |-
+        Give a brief history of the development of muzzleloading rifles.
+    - requirement: b
+      text: |-
+        Identify principal parts of percussion rifles and discuss how they
+        function.
+    - requirement: c
+      text: |-
+        Demonstrate and discuss the safe handling of muzzleloading rifles.
+    - requirement: d
+      text: |-
+        Identify the various grades of black powder and black powder
+        substitutes and explain their proper use.
+    - requirement: e
+      text: |-
+        Discuss proper safety procedures pertaining to black powder use and
+        storage.
+    - requirement: f
+      text: |-
+        Discuss proper components of a load.
+    - requirement: g
+      text: |-
+        Identify proper procedures and accessories used for loading a
+        muzzleloading rifle.
+    - requirement: h
+      text: |-
+        Demonstrate the knowledge, skills, and attitude necessary to safely
+        shoot a muzzleloading rifle on a range, including range procedures.
+        Explain what a misfire, hangfire, and squib fire are, and explain
+        the procedures to follow in response to each.
+    - requirement: i
+      text: |-
+        Shoot a target with a muzzleloading rifle using the five
+        fundamentals of firing a shot.
+    - requirement: j
+      text: |-
+        Identify the materials needed to clean a muzzleloading rifle
+        safely. Using these materials, demonstrate how to clean a
+        muzzleloading rifle safely.
+    - requirement: k
+      text: |-
+        Identify the causes of a muzzleloading rifle’s failure to fire and
+        explain or demonstrate proper correction procedures.
+    - requirement: l
+      text: |-
+        Discuss what points you would consider in selecting a muzzleloading
+        rifle.
+    - requirement: m
+      text: |-
+        Using a muzzleloading rifle of .45 or .50 caliber and shooting from
+        a benchrest or supported prone position, fire three groups (three
+        shots per group) at 50 feet that can be covered by the base of a
+        standard-size soft drink can.
+    - requirement: n
+      text: |-
+        Center the group on the target and fire three groups (five shots
+        per group).  According to the target used, each shot in the group
+        must meet the following minimum score: (1) at 25 yards using NRA
+        A-23 or NMLRA 50-yard targets—7; (2) at 50 yards using NRA A-25 or
+        NMLRA 100-yard targets—7.

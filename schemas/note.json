@@ -10,7 +10,7 @@
             "type": "array",
             "items": {
                 "type": "string",
-                "enum": ["online", "inPerson"]
+                "enum": ["online", "inPerson", "counselor"]
             }
         },
         "text": {

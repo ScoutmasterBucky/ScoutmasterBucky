@@ -1,522 +1,216 @@
 - requirement: 1
   text: |-
-      Understand how coins are made and where the active U.S. Mint facilities
-      are located.
-  workbook:
-      - lines: 8
-        text: |-
-            How coins are made
-      - lines: 8
-        text: |-
-            List all U.S. Mint facilities
+    Understand how coins are made and where the active U.S. Mint facilities
+    are located.
   children:
-      - note:
-            - inPerson
-            - online
-        text: |-
-            This requirement will be covered in the class however Scouts should
-            make sure they have read the merit badge pamphlet prior to the
-            class so that they can actively participate in the class
-            presentation and discussions for completing this requirement.
-            Active participation in the class will be one of the measures the
-            counselor uses to determine whether the Scout has met the
-            requirement which is to understand the elements of this
-            requirement.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        This requirement will be covered in the class however Scouts should
+        make sure they have read the merit badge pamphlet prior to the
+        class so that they can actively participate in the class
+        presentation and discussions for completing this requirement.
+        Active participation in the class will be one of the measures the
+        counselor uses to determine whether the Scout has met the
+        requirement which is to understand the elements of this
+        requirement.
 - requirement: 2
   text: |-
-      Explain these collecting terms:
-  workbook:
-      - lines: 8
-        text: |-
-            a. Obverse
-      - lines: 8
-        text: |-
-            b. Reverse
-      - lines: 8
-        text: |-
-            c. Reeding
-      - lines: 8
-        text: |-
-            d. Clad
-      - lines: 8
-        text: |-
-            e. Type set
-      - lines: 8
-        text: |-
-            f. Date set
+    Explain these collecting terms:
   children:
-      - requirement: a
-        text: |-
-            Obverse
-        workbookHide: true
-      - requirement: b
-        text: |-
-            Reverse
-        workbookHide: true
-      - requirement: c
-        text: |-
-            Reeding
-        workbookHide: true
-      - requirement: d
-        text: |-
-            Clad
-        workbookHide: true
-      - requirement: e
-        text: |-
-            Type set
-        workbookHide: true
-      - requirement: f
-        text: |-
-            Date set
-        workbookHide: true
-      - note:
-            - inPerson
-            - online
-        text: |-
-            Scouts should review this requirement and its terms and be prepared
-            to explain. It is strongly recommended that Scouts bring any notes
-            or supporting documents they may have to help show the counselor
-            that they have prepared for explanation of these items. These terms
-            will be discussed in the class.
+    - requirement: a
+      text: |-
+        Obverse
+    - requirement: b
+      text: |-
+        Reverse
+    - requirement: c
+      text: |-
+        Reeding
+    - requirement: d
+      text: |-
+        Clad
+    - requirement: e
+      text: |-
+        Type set
+    - requirement: f
+      text: |-
+        Date set
+    - note:
+        - inPerson
+        - online
+      text: |-
+        Scouts should review this requirement and its terms and be prepared
+        to explain. It is strongly recommended that Scouts bring any notes
+        or supporting documents they may have to help show the counselor
+        that they have prepared for explanation of these items. These terms
+        will be discussed in the class.
 - requirement: 3
   markdown: true
   text: |-
-      Explain the grading terms Uncirculated, Extremely Fine, Very Fine, Fine,
-      Very Good, Good, and Poor. Show five different grade examples of the same
-      coin type. Explain the term *proof* and why it is not a grade. Tell what
-      encapsulated coins are.
-  workbook:
-      - lines: 8
-        text: |-
-            Uncirculated
-      - lines: 8
-        text: |-
-            Extremely Fine
-      - lines: 8
-        text: |-
-            Very Fine
-      - lines: 8
-        text: |-
-            Fine
-      - lines: 8
-        text: |-
-            Very Good
-      - lines: 8
-        text: |-
-            Good
-      - lines: 8
-        text: |-
-            Poor
-      - header: true
-        text: |-
-            Show five different grade examples of the same coin type
-      - split:
-            - lines: 8
-              text: |-
-                  Grade and notes
-            - area: 8
-              text: |-
-                  Example
-      - split:
-            - lines: 8
-              text: |-
-                  Grade and notes
-            - area: 8
-              text: |-
-                  Example
-      - split:
-            - lines: 8
-              text: |-
-                  Grade and notes
-            - area: 8
-              text: |-
-                  Example
-      - split:
-            - lines: 8
-              text: |-
-                  Grade and notes
-            - area: 8
-              text: |-
-                  Example
-      - split:
-            - lines: 8
-              text: |-
-                  Grade and notes
-            - area: 8
-              text: |-
-                  Example
-      - lines: 8
-        markdown: true
-        text: |-
-            Explain the term *proof* and why it is not a grade
-      - lines: 8
-        text: |-
-            What encapsulated coins are
+    Explain the grading terms Uncirculated, Extremely Fine, Very Fine, Fine,
+    Very Good, Good, and Poor. Show five different grade examples of the same
+    coin type. Explain the term *proof* and why it is not a grade. Tell what
+    encapsulated coins are.
   children:
-      - note:
-            - inPerson
-            - online
-        text: |-
-            This requirement will be worked on in class, however Scouts should
-            review this requirement and its components and be prepared to
-            explain what they have learned both prior to the class and in the
-            class. Reading the merit badge pamphlet ahead of time will prove to
-            be very helpful preparation for this requirement..
+    - note:
+        - inPerson
+        - online
+      text: |-
+        This requirement will be worked on in class, however Scouts should
+        review this requirement and its components and be prepared to
+        explain what they have learned both prior to the class and in the
+        class. Reading the merit badge pamphlet ahead of time will prove to
+        be very helpful preparation for this requirement..
 - requirement: 4
   text: |-
-      Know three different ways to store a collection, and describe the
-      benefits, drawbacks, and expense of each method.  Pick one to use when
-      completing requirements.
-  workbook:
-      - header: true
-        text: |-
-            First way to store a collection
-      - split:
-            - lines: 4
-              text: |-
-                  Name and description
-            - lines: 4
-              text: |-
-                  Expense
-      - split:
-            - lines: 4
-              text: |-
-                  Benefits
-            - lines: 4
-              text: |-
-                  Drawbacks
-      - header: true
-        text: |-
-            Second way to store a collection
-      - split:
-            - lines: 4
-              text: |-
-                  Name and description
-            - lines: 4
-              text: |-
-                  Expense
-      - split:
-            - lines: 4
-              text: |-
-                  Benefits
-            - lines: 4
-              text: |-
-                  Drawbacks
-      - header: true
-        text: |-
-            Third way to store a collection
-      - split:
-            - lines: 4
-              text: |-
-                  Name and description
-            - lines: 4
-              text: |-
-                  Expense
-      - split:
-            - lines: 4
-              text: |-
-                  Benefits
-            - lines: 4
-              text: |-
-                  Drawbacks
+    Know three different ways to store a collection, and describe the
+    benefits, drawbacks, and expense of each method.  Pick one to use when
+    completing requirements.
   children:
-      - note:
-            - inPerson
-            - online
-        text: |-
-            Scouts will need to research this ahead of time as they will need
-            to apply their findings to some of the following requirements.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        Scouts will need to research this ahead of time as they will need
+        to apply their findings to some of the following requirements.
 - requirement: 5
   text: |-
-      Do ONE of the following:
+    Do ONE of the following:
   children:
-      - requirement: a
-        text: |-
-            Demonstrate to your counselor that you know how to use two U.S. or
-            world coin reference catalogs.
-        workbook:
-            - task: true
-      - requirement: b
-        text: |-
-            Read a numismatic magazine or newspaper and tell your counselor
-            about what you learned.
-        workbook:
-            - lines: 8
-      - note:
-            - inPerson
-            - online
-        text: |-
-            This requirement will be completed as a part of the class. Scouts
-            are encouraged to bring any reference catalogs or
-            magazine/newspapers they may have related to coin collecting for
-            use during the class.
+    - requirement: a
+      text: |-
+        Demonstrate to your counselor that you know how to use two U.S. or
+        world coin reference catalogs.
+    - requirement: b
+      text: |-
+        Read a numismatic magazine or newspaper and tell your counselor
+        about what you learned.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        This requirement will be completed as a part of the class. Scouts
+        are encouraged to bring any reference catalogs or
+        magazine/newspapers they may have related to coin collecting for
+        use during the class.
 - requirement: 6
   text: |-
-      Describe the 1999–2008 50 State Quarters® program or the 2010-2021
-      America the Beautiful Quarters® program. Collect and show your counselor
-      five different quarters from circulation you have acquired from one of
-      these programs.
-  workbook:
-      - lines: 8
-        text: |-
-            Description of either program
-      - task: true
-        text: |-
-            Collected five different quarters from circulation you have
-            acquired from one of these programs
+    Describe the 1999–2008 50 State Quarters® program or the 2010-2021
+    America the Beautiful Quarters® program. Collect and show your counselor
+    five different quarters from circulation you have acquired from one of
+    these programs.
   children:
-      - note:
-            - inPerson
-            - online
-        text: |-
-            Scouts will find this requirement enjoyable and easy to do. While
-            not required, after you have collected the five different State
-            Quarters to fulfill the requirement, see how many MORE State
-            Quarters you can gather up from everyday circulating coins. Scouts
-            will need to bring at least 5 State Quarters in order to be
-            considered for completion of this requirement at the class.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        Scouts will find this requirement enjoyable and easy to do. While
+        not required, after you have collected the five different State
+        Quarters to fulfill the requirement, see how many MORE State
+        Quarters you can gather up from everyday circulating coins. Scouts
+        will need to bring at least 5 State Quarters in order to be
+        considered for completion of this requirement at the class.
 - requirement: 7
   text: |-
-      Collect from circulation a set of current U.S. coins.  Include one coin
-      of each denomination (cent, nickel, dime, quarter, half dollar, dollar).
-      For each coin, locate the mint marks, if any, and the designer’s
-      initials, if any.
-  workbook:
-      - split:
-            - header: true
-              text: |-
-                  Coin demonination
-            - header: true
-              text: |-
-                  Mint mark
-            - header: true
-              text: |-
-                  Designer's initials
-      - split:
-            - task: true
-              text: |-
-                  Cent
-            - lines: 2
-            - lines: 2
-      - split:
-            - task: true
-              text: |-
-                  Nickel
-            - lines: 2
-            - lines: 2
-      - split:
-            - task: true
-              text: |-
-                  Dime
-            - lines: 2
-            - lines: 2
-      - split:
-            - task: true
-              text: |-
-                  Quarter
-            - lines: 2
-            - lines: 2
-      - split:
-            - task: true
-              text: |-
-                  Half dollar
-            - lines: 2
-            - lines: 2
-      - split:
-            - task: true
-              text: |-
-                  Dollar
-            - lines: 2
-            - lines: 2
+    Collect from circulation a set of current U.S. coins.  Include one coin
+    of each denomination (cent, nickel, dime, quarter, half dollar, dollar).
+    For each coin, locate the mint marks, if any, and the designer’s
+    initials, if any.
   children:
-      - note:
-            - inPerson
-            - online
-        text: |-
-            Scouts must at a minimum collect from circulation a set of current
-            U.S. coins and bring them with to the class. The Scoutmaster Bucky
-            Coin Collecting Merit Badge Workbook can serve as a great organizer
-            / checklist for gathering these coins. The rest of this requirement
-            will be covered in the class.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        Scouts must at a minimum collect from circulation a set of current
+        U.S. coins and bring them with to the class. The Scoutmaster Bucky
+        Coin Collecting Merit Badge Workbook can serve as a great organizer
+        / checklist for gathering these coins. The rest of this requirement
+        will be covered in the class.
 - requirement: 8
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Identify the people depicted on the following denominations of
-            current U.S. paper money: $1, $2, $5, $10, $20, $50, and $100.
-        workbook:
-            - split:
-                  - raw: true
-                    text: |-
-                        <img src="one-front.jpg" class="W(100%)">
-                  - raw: true
-                    text: |-
-                        <img src="one-back.jpg" class="W(100%)">
-            - split:
-                  - raw: true
-                    text: |-
-                        <img src="two-front.jpg" class="W(100%)">
-                  - raw: true
-                    text: |-
-                        <img src="two-back.jpg" class="W(100%)">
-            - split:
-                  - raw: true
-                    text: |-
-                        <img src="five-front.jpg" class="W(100%)">
-                  - raw: true
-                    text: |-
-                        <img src="five-back.jpg" class="W(100%)">
-            - split:
-                  - raw: true
-                    text: |-
-                        <img src="ten-front.jpg" class="W(100%)">
-                  - raw: true
-                    text: |-
-                        <img src="ten-back.jpg" class="W(100%)">
-            - split:
-                  - raw: true
-                    text: |-
-                        <img src="twenty-front.jpg" class="W(100%)">
-                  - raw: true
-                    text: |-
-                        <img src="twenty-back.jpg" class="W(100%)">
-            - split:
-                  - raw: true
-                    text: |-
-                        <img src="fifty-front.jpg" class="W(100%)">
-                  - raw: true
-                    text: |-
-                        <img src="fifty-back.jpg" class="W(100%)">
-            - split:
-                  - raw: true
-                    text: |-
-                        <img src="hundred-front.jpg" class="W(100%)">
-                  - raw: true
-                    text: |-
-                        <img src="hundred-back.jpg" class="W(100%)">
-            - header: true
-              markdown: true
-              text: |-
-                  **Just for fun**
-
-                  These denominations are no longer printed but still are
-                  considered legal tender when circulated.
-            - split:
-                  - raw: true
-                    text: |-
-                        <img src="five-hundred.jpg" class="W(100%)">
-                  - raw: true
-                    text: |-
-                        <img src="thousand.jpg" class="W(100%)">
-            - split:
-                  - raw: true
-                    text: |-
-                        <img src="five-thousand.jpg" class="W(100%)">
-                  - raw: true
-                    text: |-
-                        <img src="ten-thousand.jpg" class="W(100%)">
-            - split:
-                  - raw: true
-                    text: |-
-                        <img src="hundred-thousand.jpg" class="W(100%)">
-                  - area: 0
-      - requirement: b
-        text: |-
-            Explain “legal tender.”
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            Describe the role the Federal Reserve System plays in the
-            distribution of currency.
-        workbook:
-            - lines: 8
-      - note:
-            - inPerson
-            - online
-        text: |-
-            Scouts are encouraged to try and answer these requirements prior to
-            coming to the class. Use of the Scoutmaster Bucky Coin Collecting
-            Merit Badge Workbook can make organizing your answers a lot easier.
-            This requirement will be covered in the class.
+    - requirement: a
+      text: |-
+        Identify the people depicted on the following denominations of
+        current U.S. paper money: $1, $2, $5, $10, $20, $50, and $100.
+    - requirement: b
+      text: |-
+        Explain “legal tender.”
+    - requirement: c
+      text: |-
+        Describe the role the Federal Reserve System plays in the
+        distribution of currency.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        Scouts are encouraged to try and answer these requirements prior to
+        coming to the class. Use of the Scoutmaster Bucky Coin Collecting
+        Merit Badge Workbook can make organizing your answers a lot easier.
+        This requirement will be covered in the class.
 - requirement: 9
   text: |-
-      Do ONE of the following:
+    Do ONE of the following:
   children:
-      - requirement: a
-        text: |-
-            Collect and identify 50 foreign coins from at least 10 different
-            countries.
-        workbook:
-            - task: true
-      - requirement: b
-        text: |-
-            Collect and identify 20 bank notes from at least five different
-            countries.
-        workbook:
-            - task: true
-      - requirement: c
-        text: |-
-            Collect and identify 15 different tokens or medals.
-        workbook:
-            - task: true
-      - requirement: d
-        text: |-
-            For each year since the year of your birth, collect a date set of a
-            single type of coin.
-        workbook:
-            - task: true
-      - note:
-            - inPerson
-            - online
-        text: |-
-            This is the third of three "collect coins" requirements that Scouts
-            must do prior to the class. Choose one of the options above, gather
-            your coins, and bring them to class to share and complete this
-            requirement. Scouts should be prepared to share their collection
-            with the counselor and the rest of the Scouts in the class.
+    - requirement: a
+      text: |-
+        Collect and identify 50 foreign coins from at least 10 different
+        countries.
+    - requirement: b
+      text: |-
+        Collect and identify 20 bank notes from at least five different
+        countries.
+    - requirement: c
+      text: |-
+        Collect and identify 15 different tokens or medals.
+    - requirement: d
+      text: |-
+        For each year since the year of your birth, collect a date set of a
+        single type of coin.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        This is the third of three "collect coins" requirements that Scouts
+        must do prior to the class. Choose one of the options above, gather
+        your coins, and bring them to class to share and complete this
+        requirement. Scouts should be prepared to share their collection
+        with the counselor and the rest of the Scouts in the class.
 - requirement: 10
   text: |-
-      Do ONE of the following:
+    Do ONE of the following:
   children:
-      - requirement: a
-        text: |-
-            Tour a U.S. Mint facility, a Bureau of Engraving and Printing
-            facility, a Federal Reserve Bank, or a numismatic museum or
-            exhibit, and describe what you learned to your counselor.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            With your parent’s permission, attend a coin show or coin club
-            meeting, or view the website of the U.S. Mint or a coin dealer, and
-            report what you learned.
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            Give a talk about coin collecting to a group such as your troop, a
-            Cub Scout pack, or your class at school.
-        workbook:
-            - task: true
-      - requirement: d
-        text: |-
-            Do drawings of five Colonial-era U.S. coins.
-        workbook:
-            - area: 45
-      - note:
-            - inPerson
-            - online
-        text: |-
-            Scouts wishing to do one of these requirements ahead of time are
-            encouraged to do so. This requirement MAY or MAY NOT be done in the
-            class. IF there is time at the end of the class, Scouts will have
-            an opportunity to do Requirement 10D, however no guarantee is made
-            that there will be enough time to complete this requirement in the
-            class. Scouts having done preparation work for one of these options
-            WILL have an opportunity to present their work and more than likely
-            be able to complete this requirement as well as the merit badge
-            (ultimately sign off on ANY requirement is at the sole discretion
-            of the merit badge counselor).
+    - requirement: a
+      text: |-
+        Tour a U.S. Mint facility, a Bureau of Engraving and Printing
+        facility, a Federal Reserve Bank, or a numismatic museum or
+        exhibit, and describe what you learned to your counselor.
+    - requirement: b
+      text: |-
+        With your parent’s permission, attend a coin show or coin club
+        meeting, or view the website of the U.S. Mint or a coin dealer, and
+        report what you learned.
+    - requirement: c
+      text: |-
+        Give a talk about coin collecting to a group such as your troop, a
+        Cub Scout pack, or your class at school.
+    - requirement: d
+      text: |-
+        Do drawings of five Colonial-era U.S. coins.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        Scouts wishing to do one of these requirements ahead of time are
+        encouraged to do so. This requirement MAY or MAY NOT be done in the
+        class. IF there is time at the end of the class, Scouts will have
+        an opportunity to do Requirement 10D, however no guarantee is made
+        that there will be enough time to complete this requirement in the
+        class. Scouts having done preparation work for one of these options
+        WILL have an opportunity to present their work and more than likely
+        be able to complete this requirement as well as the merit badge
+        (ultimately sign off on ANY requirement is at the sole discretion
+        of the merit badge counselor).

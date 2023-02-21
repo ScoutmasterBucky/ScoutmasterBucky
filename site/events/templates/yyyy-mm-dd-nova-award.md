@@ -6,7 +6,7 @@ eventDateEnd: 2021-04-22 21:00
 registrationLink: https://clever-coyote.ticketspice.com/splash
 ---
 
-<div class="W(35%) W(70%)--s M(a)">
+<div class="W(35%)--_s W(70%)--s M(a)">
 <img src="{{@root.rootPath}}nova-lab/images/nova-patch.jpg" alt="Nova Award Logo" class="W(100%)" />
 </div>
 

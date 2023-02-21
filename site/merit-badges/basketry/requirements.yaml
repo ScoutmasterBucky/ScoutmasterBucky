@@ -1,159 +1,102 @@
 - note:
-      - inPerson
+    - inPerson
   text: |-
-      Scoutmaster Bucky Basketry Merit Badge classes will provide the basketry
-      kits as part of the class.
+    Scoutmaster Bucky Basketry Merit Badge classes will provide the basketry
+    kits as part of the class.
 - requirement: 1
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain to your counselor the hazards you are most likely to
-            encounter while using basketry tools and materials, and what you
-            should do to anticipate, help prevent, mitigate, and respond to
-            these hazards.
-        workbook:
-            - lines: 8
-              text: |-
-                  Most likely hazards
-            - lines: 8
-              text: |-
-                  Anticipate hazards
-            - lines: 8
-              text: |-
-                  Prevent hazards
-            - lines: 8
-              text: |-
-                  Mitigate hazards
-            - lines: 8
-              text: |-
-                  Respond to hazards
-      - requirement: b
-        text: |-
-            Discuss the prevention of and first-aid treatment for injuries,
-            including cuts, scratches, and scrapes, that could occur while
-            working with basketry tools and materials.
-        workbook:
-            - lines: 8
-              text: |-
-                  Cuts
-            - lines: 8
-              text: |-
-                  Scratches
-            - lines: 8
-              text: |-
-                  Scrapes
-      - note:
-            - inPerson
-            - online
-        text: |-
-            Scouts will engage in discussion on their findings during the
-            class. Scouts should review the Basketry Merit Badge pamphlet to
-            have a better understanding of hazards and first aid components for
-            this requirement. The counselor / instructor will facilitate
-            discussion on this requirement during the class. It should be noted
-            that only Scouts that actively, positively, and successfully
-            participate in the discussion will be signed off on this
-            requirement. Preparation is a must.
+    - requirement: a
+      text: |-
+        Explain to your counselor the hazards you are most likely to
+        encounter while using basketry tools and materials, and what you
+        should do to anticipate, help prevent, mitigate, and respond to
+        these hazards.
+    - requirement: b
+      text: |-
+        Discuss the prevention of and first-aid treatment for injuries,
+        including cuts, scratches, and scrapes, that could occur while
+        working with basketry tools and materials.
+    - note:
+        - inPerson
+        - online
+      text: |-
+        Scouts will engage in discussion on their findings during the
+        class. Scouts should review the Basketry Merit Badge pamphlet to
+        have a better understanding of hazards and first aid components for
+        this requirement. The counselor / instructor will facilitate
+        discussion on this requirement during the class. It should be noted
+        that only Scouts that actively, positively, and successfully
+        participate in the discussion will be signed off on this
+        requirement. Preparation is a must.
 - requirement: 2
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Show your counselor that you are able to identify each of the
-            following types of baskets: plaited, coiled, ribbed, and wicker.
-        workbook:
-            - lines: 8
-              text: |-
-                  Plaited
-            - lines: 8
-              text: |-
-                  Coiled
-            - lines: 8
-              text: |-
-                  Ribbed
-            - lines: 8
-              text: |-
-                  Wicker
-        children:
-            - note:
-                  - inPerson
-                  - online
-              text: |-
-                  Scouts should look up and learn each of these types of
-                  baskets and be prepared to share their understanding of each
-                  in class discussion. All terms can be found in the Merit
-                  Badge Pamphlet. Some Scouts may find it easier to write down
-                  their findings in their Merit Badge Workbook for quicker and
-                  easier reference for use during the class.
-      - requirement: b
-        text: |-
-            Describe three different types of weaves to your counselor.
-        workbook:
-            - lines: 8
-            - lines: 8
-            - lines: 8
-        children:
-            - note:
-                  - inPerson
-                  - online
-              text: |-
-                  Scouts will find most, if not all, information needed to
-                  complete this requirement in the merit badge pamphlet. Scouts
-                  are encouraged to use a Merit Badge Workbook to track their
-                  findings and to share these with their merit badge counselor
-                  / instructor during the appropriate time during the class to
-                  insure the counselor that Scouts have prepared and completed
-                  this requirement to their satisfaction.
+    - requirement: a
+      text: |-
+        Show your counselor that you are able to identify each of the
+        following types of baskets: plaited, coiled, ribbed, and wicker.
+      children:
+        - note:
+            - inPerson
+            - online
+          text: |-
+            Scouts should look up and learn each of these types of
+            baskets and be prepared to share their understanding of each
+            in class discussion. All terms can be found in the Merit
+            Badge Pamphlet. Some Scouts may find it easier to write down
+            their findings in their Merit Badge Workbook for quicker and
+            easier reference for use during the class.
+    - requirement: b
+      text: |-
+        Describe three different types of weaves to your counselor.
+      children:
+        - note:
+            - inPerson
+            - online
+          text: |-
+            Scouts will find most, if not all, information needed to
+            complete this requirement in the merit badge pamphlet. Scouts
+            are encouraged to use a Merit Badge Workbook to track their
+            findings and to share these with their merit badge counselor
+            / instructor during the appropriate time during the class to
+            insure the counselor that Scouts have prepared and completed
+            this requirement to their satisfaction.
 - requirement: 3
   text: |-
-      Plan and weave EACH of the following projects:
-  workbook:
-      - split:
-            - task: true
-              text: |-
-                  A square basket
-            - task: true
-              text: |-
-                  A round basket
-            - task: true
-              text: |-
-                  A campstool seat
+    Plan and weave EACH of the following projects:
   children:
-      - requirement: a
-        text: |-
-            A square basket
-        workbookHide: true
-      - requirement: b
-        text: |-
-            A round basket
-        workbookHide: true
-      - requirement: c
-        text: |-
-            A campstool seat
-        workbookHide: true
-      - note:
-            - inPerson
-        text: |-
-            Scouts will be provided basketry kits for each of the components in
-            requirement 3 and will spend the majority of class time working on
-            each. Once Scouts have completed each of these components the
-            counselor / instructor will review their work and sign off
-            appropriately. These weaving projects take some time and Scouts
-            should not expect to complete all three projects within the time
-            frame of the class. Some Scouts have been able to but is should not
-            be expected.
-      - note:
-            - online
-        text: |-
-            Scouts will need to procure the three appropriate basketry kits
-            outlined in requirement 3. Scouts will have the opportunity to
-            share their completed basketry work or get guidance on these from
-            the counselor / instructor as a part of this class. Once Scouts
-            have completed each of these components the counselor / instructor
-            will review their work and sign off appropriately. These weaving
-            projects take some time and Scouts should not expect to complete
-            all three projects within the time frame of the class. Follow up
-            opportunities will be provided during the class. Be Preapred!
+    - requirement: a
+      text: |-
+        A square basket
+    - requirement: b
+      text: |-
+        A round basket
+    - requirement: c
+      text: |-
+        A campstool seat
+    - note:
+        - inPerson
+      text: |-
+        Scouts will be provided basketry kits for each of the components in
+        requirement 3 and will spend the majority of class time working on
+        each. Once Scouts have completed each of these components the
+        counselor / instructor will review their work and sign off
+        appropriately. These weaving projects take some time and Scouts
+        should not expect to complete all three projects within the time
+        frame of the class. Some Scouts have been able to but is should not
+        be expected.
+    - note:
+        - online
+      text: |-
+        Scouts will need to procure the three appropriate basketry kits
+        outlined in requirement 3. Scouts will have the opportunity to
+        share their completed basketry work or get guidance on these from
+        the counselor / instructor as a part of this class. Once Scouts
+        have completed each of these components the counselor / instructor
+        will review their work and sign off appropriately. These weaving
+        projects take some time and Scouts should not expect to complete
+        all three projects within the time frame of the class. Follow up
+        opportunities will be provided during the class. Be Preapred!

@@ -44,22 +44,28 @@ module.exports = function validateData() {
             );
         },
         each: function (filename, fileObject) {
-            if (
-                fileObject.data &&
-                fileObject.data.requirements &&
-                objectCache.indexOf(fileObject.data.requirements) === -1
-            ) {
-                debug(`Validating data: ${filename}`);
-                validateOrThrow(
-                    filename,
-                    fileObject.data.requirements,
-                    requirementsValidator
-                );
-                augmentRequirements(fileObject.data.requirements, []);
-                objectCache.push(fileObject.data.requirements);
+            if (!fileObject.data) {
+                return;
             }
-        },
-        match: "merit-badges/*/index.md|merit-badges/*/workbook/index.md"
+
+            for (const key of Object.keys(fileObject.data)) {
+                if (
+                    key.match(/^requirements/) &&
+                    objectCache.indexOf(fileObject.data[key] === -1)
+                ) {
+                    debug(`Validating data: ${filename}`);
+                    validateOrThrow(
+                        filename,
+                        fileObject.data[key],
+                        requirementsValidator
+                    );
+                    // Copy so we don't augment the same object reference
+                    fileObject.data[key] = JSON.parse(JSON.stringify(fileObject.data[key]));
+                    augmentRequirements(fileObject.data[key], []);
+                    objectCache.push(fileObject.data[key]);
+                }
+            }
+        }
     });
 };
 

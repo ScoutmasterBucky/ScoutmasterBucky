@@ -1,73 +1,45 @@
 - requirement: 1
   text: |-
-      Explain the proper safety procedures to follow when preparing surfaces
-      and applying coatings.
-  workbook:
-      - lines: 8
+    Explain the proper safety procedures to follow when preparing surfaces
+    and applying coatings.
 - requirement: 2
   text: |-
-      Do the following:
+    Do the following:
   children:
-      - requirement: a
-        text: |-
-            Explain three ways that coatings can improve a surface.
-        workbook:
-            - lines: 8
-      - requirement: b
-        text: |-
-            Explain where you would apply enamel paint, flat paint, wood stain,
-            and varnish, and explain the importance of sheen.
-        workbook:
-            - lines: 8
-      - requirement: c
-        text: |-
-            Tell why each is best for these uses.
-        workbook:
-            - lines: 8
+    - requirement: a
+      text: |-
+        Explain three ways that coatings can improve a surface.
+    - requirement: b
+      text: |-
+        Explain where you would apply enamel paint, flat paint, wood stain,
+        and varnish, and explain the importance of sheen.
+    - requirement: c
+      text: |-
+        Tell why each is best for these uses.
 - requirement: 3
   text: |-
-      Prepare and paint two different surfaces using patching materials or
-      caulking and the proper primers and topcoats. Suggested projects include
-      an interior or exterior wall, a door, a piece of furniture, a concrete
-      wall or floor, a porch rail, or a fence. Your counselor must preapprove
-      the projects.
-  workbook:
-      - split:
-          - task: true
-            text: |-
-                First surface prepared and painted
-          - task: true
-            text: |-
-                Second surface prepared and painted
+    Prepare and paint two different surfaces using patching materials or
+    caulking and the proper primers and topcoats. Suggested projects include
+    an interior or exterior wall, a door, a piece of furniture, a concrete
+    wall or floor, a porch rail, or a fence. Your counselor must preapprove
+    the projects.
 - requirement: 4
   text: |-
-      Prepare and paint an item using harmonizing colors that you have selected
-      using the color wheel in the Painting merit badge pamphlet.
-  workbook:
-      - task: true
-        text: |-
-            Prepared and painted an item
+    Prepare and paint an item using harmonizing colors that you have selected
+    using the color wheel in the Painting merit badge pamphlet.
 - requirement: 5
   text: |-
-      Show the right way to use, clean, maintain, and store painting equipment.
-  workbook:
-      - lines: 8
+    Show the right way to use, clean, maintain, and store painting equipment.
 - requirement: 6
   text: |-
-      Explain the importance of ladder safety, personal hygiene, and the use of
-      personal protective equipment when painting.
-  workbook:
-      - lines: 8
+    Explain the importance of ladder safety, personal hygiene, and the use of
+    personal protective equipment when painting.
 - requirement: 7
   text: |-
-      Explain some of the environmental and health issues concerning removing
-      paint, applying paint, and discarding old paint.
-  workbook:
-      - lines: 8
+    Explain some of the environmental and health issues concerning removing
+    paint, applying paint, and discarding old paint.
 - requirement: 8
   text: |-
-      Find out about career opportunities in the painting craft. Discuss the
-      training and experience required, and explain why this profession might
-      interest you.
-  workbook:
-      - lines: 8
+    Find out about career opportunities in the painting craft. Discuss the
+    training and experience required, and explain why this profession might
+    interest you.
