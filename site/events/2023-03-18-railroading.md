@@ -8,6 +8,7 @@ location:
     - Coon Rapids, MN 55433
 data:
     requirements: "!railroading-event-requirements.yaml"
+badge: railroading
 ---
 
 {{>event-badge-header badge="railroading"}}

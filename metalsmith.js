@@ -30,29 +30,10 @@ metalsmithSite.run(
             sugar.use(path.join(__dirname, "/plugins/translate-unicode"));
         },
         contentsBefore: (sugar) => {
-            // Pre-process events so they can be included into the index page. Only
-            // the index page may include the events because the links and images
-            // are made with the rootPath.
-            sugar.use("metalsmith-handlebars-contents", {
-                helpers: ["./handlebars/helpers/**/*.js"],
-                match: ["events/*.md"],
-                partials: ["./handlebars/partials/**/*"]
-            });
             sugar.use("metalsmith-browserify-alt");
         },
         metadataAfter: (sugar) => {
-            // "Fix" the rootPath for events because they are embedded into the index page,
-            // so their rootPath should be "".
-            sugar.use((files, metalsmith, done) => {
-                for (const key of Object.keys(files)) {
-                    if (key.match(/^events\//)) {
-                        files[key].rootPath = "";
-                    }
-                }
-                done();
-            });
-
-            // Likewise, change the rootPath for the 404 page because it could be
+            // Change the rootPath for the 404 page because it could be
             // loaded at any path.
             sugar.use((files, metalsmith, done) => {
                 files["404.md"].rootPath = "/";
@@ -68,15 +49,6 @@ metalsmithSite.run(
             );
         },
         redirectsAfter: (sugar) => {
-            // Eliminate the event files - they are no longer needed
-            sugar.use((files, metalsmith, done) => {
-                for (const key of Object.keys(files)) {
-                    if (key.match(/^events\//)) {
-                        delete files[key];
-                    }
-                }
-                done();
-            });
             if (process.env.CHECK_LINKS) {
                 sugar.use("@fidian/metalsmith-link-checker", {
                     ignore: [/^https?:\/\//]

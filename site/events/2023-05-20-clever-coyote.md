@@ -4,6 +4,7 @@ subtitle: Mayday @ Birch Bend Campground
 eventDateStart: 2023-05-20 7:00
 eventDateEnd: 2023-05-21 9:00
 registrationLink: https://clever-coyote.8b.io/registration.html
+icon: /images/clever-coyote-logo.png
 ---
 
 <div class="W(35%)--_s W(70%)--s M(a)">

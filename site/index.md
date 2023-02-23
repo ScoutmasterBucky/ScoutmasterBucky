@@ -6,15 +6,9 @@ online: 2,000+
 news:
     - February 11, 2023 in Bloomington, Minnesota will be an in person event.  Registration opens soon
     - More online classes coming in early 2023, keep checking back!
-css:
-    - css/calendar.css
 js:
-    - js/jquery-3.4.1.min.js
-    - js/jquery.e-calendar-0.9.3.js
-    - index.js
+    - js/index.js
 ---
-
-<script>window.events = [];</script>
 
 # <div class="D(f) Jc(spb) Ai(b) Fxd(c)--s"><div>Welcome</div><div class="Fz(0.4em) Fw(n) Tt(n)">Last Update: {{#date}}{{buildDate}}{{/date}}</div></div>
 
@@ -28,12 +22,6 @@ js:
 <div class="Ta(c)">At Scoutmaster Bucky events this is not a request, wish, or desire…</div>
 
 <div class="Ta(c)">{{#smb-accent}}it is an expectation.{{/smb-accent}}</div>
-
-## Scoutmaster Bucky Event Calendar
-
-<div id="calendar" class="Mb(0.9em) H(218px)--_sm H(426px)--sm"></div>
-
-Registration opens at 12:05 am on the first of the month for the following month's activities. The only exception is that February events open on January 2 at 12:05 am. Some events do open for registration earlier, so please check events carefully below.
 
 ## News
 
@@ -53,6 +41,14 @@ Registration opens at 12:05 am on the first of the month for the following month
 {{/news}}
 {{/figure-container}}
 
+## Upcoming Events
+
+<div class="D(f) Fxw(w) Jc(sb) Ai(fs) Ta(in)">
+{{#ancestry.childrenByName.events.ancestry.members}}
+{{>event-tile event=.}}
+{{/ancestry.childrenByName.events.ancestry.members}}
+</div>
+
 ## Disclaimer
 
 The Scoutmaster Bucky program is a volunteer run program managed and maintained entirely by Brian Reiners (Scoutmaster Bucky) in conjunction with the council of Northern Star Scouting and other Scouting volunteers. All content, scheduling, arrangements, and the like are managed by Scoutmaster Bucky. All proceeds collected go to cover program expenses and operating costs (including but not limited to building rentals, program materials, class materials, and technology support), with any profits (when and if there are any) put back into the Scouting program annually.
@@ -69,9 +65,3 @@ Scoutmaster Bucky is Brian Reiners and is registered in Northern Star Scouting o
 Contact number: 612-483-0665<br />
 Email: <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry">ScoutmasterBucky@yahoo.com</a>
 {{/figure-container}}
-
-## UPCOMING EVENTS
-
-{{#ancestry.childrenByName.events.ancestry.members}}
-{{>event}}
-{{/ancestry.childrenByName.events.ancestry.members}}

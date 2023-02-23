@@ -8,6 +8,7 @@ location:
     - 8260 4th Street North
     - Oakdale, Minnesota 55128
 meritBadge: true
+icon: /images/bucky-waving.jpg
 # These are for the dates in the merit badge classes
 amStart: 2023-03-11 8:00
 amEnd: 2023-03-11 11:30
