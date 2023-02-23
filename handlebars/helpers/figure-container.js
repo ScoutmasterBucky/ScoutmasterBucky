@@ -13,5 +13,6 @@ module.exports = function (obj) {
     <div>
         ${normalContent}
     </div>
-</div>`;
+</div>
+<div class="Cl(b)"></div>`; // The last line is a clearfix for the floating element
 };
