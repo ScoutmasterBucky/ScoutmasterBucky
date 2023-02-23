@@ -1,0 +1,36 @@
+<div class="W(33%)--_sml W(50%)--l W(100%)--sm P(0.5em)">
+    <a href="/events/{{#change-md-to-html}}{{ancestry.basename}}{{/change-md-to-html}}" class="Td(n) C(in)">
+        <div
+            class="Bds(s) Bdw(2px) Bdrs(1em) P(0.5em) Bdc(--headingBackground):h Bdc(--heading2Background) Bgc(--accentBackground):h"
+        >
+            <div class="D(f) Jc(spa) Fxd(rre)">
+                <div class="H(76.5px) D(f) Fxd(c) Jc(c) Ai(c)">
+                    <div class="Fz(1.4em)">
+                        {{#date format="h:mm a"}}{{event.eventDateStart}}{{/date}}
+                    </div>
+                    <script>
+                        eventTileTime("{{#date format="iso-local"}}{{event.eventDateStart}}{{/date}}")
+                    </script>
+                </div>
+                <div class="Bdc(--heading2Background) Bdw(3px) Bdrs(5px)">
+                    <div class="Ta(c) Fz(1.2em) Bgc(--heading2Background)">
+                        {{#date format="MMM"}}{{event.eventDateStart}}{{/date}}
+                    </div>
+                    <div class="Ta(c) Fz(2em) W(1.7em) Bgc(--pageBackground)">
+                        {{#date format="d"}}{{event.eventDateStart}}{{/date}}
+                    </div>
+                </div>
+                <div class="W(76.5px) H(76.5px)">
+                    {{#if badge}}
+                        {{>badge-image noLink=true}}
+                    {{else}}
+                        {{#if icon}}
+                            <img src="{{icon}}" class="Mah(100%) Maw(100%)" />
+                        {{/if}}
+                    {{/if}}
+                </div>
+            </div>
+            <div class="Ta(c) Fz(1.4em) Pt(10px)">{{event.title}}</div>
+        </div>
+    </a>
+</div>

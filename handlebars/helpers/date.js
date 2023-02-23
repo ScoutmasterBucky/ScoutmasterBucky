@@ -18,6 +18,10 @@ module.exports = function (obj) {
         d = luxon.DateTime.fromISO(dateStr, { zone: "America/Chicago" });
     }
 
+    if (format === "iso-local") {
+        return d.toISO();
+    }
+
     if (format === "iso") {
         return d.setZone("utc").toISO();
     }

@@ -8,6 +8,7 @@ location:
     - 2075 70th Street East
     - Inver Grove Heights, Minnesota 55077
 meritBadge: true
+icon: /images/bucky-waving.jpg
 # These are for the dates in the merit badge classes
 amStart: 2023-04-15 8:00
 amEnd: 2023-04-15 11:30
