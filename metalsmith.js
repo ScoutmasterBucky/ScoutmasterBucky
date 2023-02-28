@@ -28,6 +28,7 @@ metalsmithSite.run(
         buildBefore: (sugar) => {
             // Translate Unicode
             sugar.use(path.join(__dirname, "/plugins/translate-unicode"));
+            sugar.use("metalsmith-relative-links");
         },
         contentsBefore: (sugar) => {
             sugar.use("metalsmith-browserify-alt");

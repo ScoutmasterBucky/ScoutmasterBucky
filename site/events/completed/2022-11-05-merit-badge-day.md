@@ -1,4 +1,5 @@
 ---
+layout: smb-event
 host: Scoutmaster Bucky
 title: November Merit Badge Day
 eventDateStart: 2022-11-05 8:00

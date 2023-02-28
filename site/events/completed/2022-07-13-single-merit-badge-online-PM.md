@@ -1,4 +1,5 @@
 ---
+layout: smb-event
 host: Scoutmaster Bucky
 title: Soil and Water Conservation Merit Badge Online
 online: true

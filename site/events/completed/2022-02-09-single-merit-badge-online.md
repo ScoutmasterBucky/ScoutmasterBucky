@@ -1,4 +1,5 @@
 ---
+layout: smb-event
 host: Scoutmaster Bucky
 title: Scouting Heritage Merit Badge Online
 online: true

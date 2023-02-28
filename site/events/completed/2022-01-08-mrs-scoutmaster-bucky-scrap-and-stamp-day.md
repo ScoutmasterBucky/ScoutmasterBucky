@@ -1,4 +1,5 @@
 ---
+layout: smb-event
 host: Mrs. Scoutmaster Bucky
 title: Scrap and Stamp Day
 subtitle: Scrap, Stamp, or just hang out

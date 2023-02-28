@@ -1,0 +1,16 @@
+{{>layout-header}}
+
+        <script src="/js/on-sale-date.js"></script>
+        <link rel="stylesheet" href="{{@root.rootPath}}css/site.css" />
+        <title>{{title}}</title>
+
+{{>smb-layout-body}}
+
+            <div class="P(20px)">
+
+{{#transform-elements}}
+
+{{>event-page-header}}
+
+{{#if online}}{{>event-page-online}}{{/if}}
+

@@ -1,4 +1,5 @@
 ---
+layout: smb-event
 host: Scoutmaster Bucky
 title: Signs, Signals, and Codes Merit Badge Day
 eventDateStart: 2022-04-16 08:45

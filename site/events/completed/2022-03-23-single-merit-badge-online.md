@@ -1,4 +1,5 @@
 ---
+layout: smb-event
 host: Scoutmaster Bucky
 title: Pulp and Paper Merit Badge Online
 online: true

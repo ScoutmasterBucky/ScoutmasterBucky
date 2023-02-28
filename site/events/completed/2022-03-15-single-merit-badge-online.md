@@ -1,4 +1,5 @@
 ---
+layout: smb-event
 host: Scoutmaster Bucky
 title: Reading and/or Scholarship Merit Badges Online
 online: true
