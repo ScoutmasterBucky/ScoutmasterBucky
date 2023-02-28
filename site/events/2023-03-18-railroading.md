@@ -1,4 +1,5 @@
 ---
+layout: smb-event
 title: Railroading Merit Badge Event
 eventDateStart: 2023-03-18 13:00
 eventDateEnd: 2023-03-18 16:00

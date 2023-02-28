@@ -1,4 +1,5 @@
 ---
+layout: smb-event
 host: Scoutmaster Bucky
 title: Citizenship in the Nation Merit Badge Online
 online: true

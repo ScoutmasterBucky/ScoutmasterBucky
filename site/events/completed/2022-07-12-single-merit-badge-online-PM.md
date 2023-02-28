@@ -1,4 +1,5 @@
 ---
+layout: smb-event
 host: Scoutmaster Bucky
 title: Disabilities Awareness Merit Badge Online
 online: true

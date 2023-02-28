@@ -1,4 +1,5 @@
 ---
+layout: smb-event
 title: Online Nova Award
 subtitle: Splash! / Wade!
 eventDateStart: 2021-04-19 19:00

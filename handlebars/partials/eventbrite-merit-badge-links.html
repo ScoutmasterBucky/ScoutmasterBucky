@@ -3,12 +3,7 @@
 <div class="Fz(1.5em) D(f) Jc(c)">{{>badge-name badge=badge}} Merit Badge</div>
 <div class="D(f) Jc(spe) Pt(10px)">
 <a class="Td(n) Fs(i) Pstart(1em)" href="{{@root.rootPath}}merit-badges/{{badge}}/" target="_blank">Requirements</a>
-{{#online}}
-<a class="Td(n) Fs(i) Pstart(1em)" href="{{@root.rootPath}}merit-badges/{{badge}}/?notes=online" target="_blank">Online Class Preparation</a>
-{{/online}}
-{{^online}}
-<a class="Td(n) Fs(i) Pstart(1em)" href="{{@root.rootPath}}merit-badges/{{badge}}/?notes=inPerson" target="_blank">In-Person Class Preparation</a>
-{{/online}}
+<a class="Td(n) Fs(i) Pstart(1em)" href="{{@root.rootPath}}extra/class-expectations">Class Expectations</a>
 <a class="Td(n) Fs(i) Pstart(1em)" href="{{@root.rootPath}}merit-badges/{{badge}}/workbook/" target="_blank">Workbook</a>
 </div>
 </div>

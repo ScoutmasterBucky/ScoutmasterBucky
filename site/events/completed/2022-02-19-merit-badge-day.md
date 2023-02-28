@@ -1,4 +1,5 @@
 ---
+layout: smb-event
 host: Scoutmaster Bucky
 title: February Merit Badge Day
 eventDateStart: 2022-02-19 08:00

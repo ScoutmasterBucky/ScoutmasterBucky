@@ -1,4 +1,5 @@
 ---
+layout: smb-event
 title: Clever Coyote
 subtitle: Mayday @ Birch Bend Campground
 eventDateStart: 2023-05-20 7:00

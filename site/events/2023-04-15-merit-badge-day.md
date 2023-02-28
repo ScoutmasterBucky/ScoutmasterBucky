@@ -1,4 +1,5 @@
 ---
+layout: smb-event
 host: Scoutmaster Bucky
 title: April Merit Badge Day
 eventDateStart: 2023-04-15 8:00

@@ -93,18 +93,15 @@ Event files can have the following metadata.
 Text and Markdown
 -----------------
 
-Text is used for many "Requirement List Items" and "Workbook List Items". There is typically a `text` property and a `markdown` property. The `markdown` property defaults to false, which means `text` is plain text or HTML. When `markdown` is true, then `text` is interpreted as markdown.
+Text is used for many "Requirement List Items". There can be both `text` and `markdown` properties. The `markdown` property defaults to false, which means `text` is plain text or HTML. When `markdown` is true, then `text` is interpreted as markdown.
 
 Another important note is that you can include as many lines of text as you want. The important thing is to make the YAML structured correctly, which heavily depends on the number of spaces at the beginning of the line.
-
-When a link is displayed in a workbook, that link needs to be absolute (`https://scoutmasterbucky.com/...`) otherwise the generated PDF will not have the right link. Images need to be root-relative (`/merit-badges/athletics/athletics-basketball-positions.gif`) otherwise the workbook page or the requirements page will not have the right image.
 
 
 Merit Badge Requirements
 ------------------------
 
-Merit badge requirements are stored in `requirements.yaml` and both the
-requirements page and the workbook are built with the data.
+Merit badge requirements are stored in `requirements.yaml`.
 
 The file is a list of these types of items - let's call them "Requirement List
 Items":
@@ -118,7 +115,7 @@ Items":
 ### Callout
 
 Adds text between requirements. Centered, italicized. Useful for headings, "OR"
-or "AND" lines, and the like. Does not show up on the workbook.
+or "AND" lines, and the like.
 
 ```
 - callout: true
@@ -143,7 +140,6 @@ Properties:
 
 Adds text between requirements that look like just another paragraph. Useful
 for separators, headings, and additional information that isn't a requirement.
-    This is included on workbooks unless `workbookHide` is set to `true`.
 
 ```
 - detail: true
@@ -156,13 +152,11 @@ Properties:
 * `detail`: Must be `true`
 * `markdown`: Optional, controls `text`
 * `text`: Text / HTML / markdown to display
-* `workbookHide`: Optional, set to `true` if this should not be shown in the
-  workbook
 
 
 ### Note
 
-Defines a note for the requirements page only. Does not show up on workbooks.
+Defines a note for the requirements page only.
 
 ```
 - note:
@@ -194,7 +188,7 @@ Lists a requirement, which may have child requirements.
       Do ONE of the following:
 ```
 
-Shows this one requirement. There's no extra sections generated for the workbook.
+Shows this one requirement.
 
 ```
 - requirement: 2
@@ -227,50 +221,7 @@ Shows this one requirement. There's no extra sections generated for the workbook
 ```
 
 This illustrates how notes and children can be added. Children can be any type
-of "Requirement List Item." Still, there's nothing extra set up for the
-workbook. Let's fix that.
-
-```
-- requirement: 3
-  text: |-
-      Do stuff. Write stuff down.
-  workbook:
-      - lines: 8
-```
-
-That sets up an 8-line section for this requirement. The list of different
-"Workbook List Items" is detailed later. When you combine little requirements
-into one section, you can use extra workbook areas. This next example is a bit
-extreme.
-
-```
-- requirement: 4
-  text: |-
-      Research one of the following. Describe the term, then draw a picture to
-      illustrate the term.
-  workbook:
-      - header: true
-        markdown: true
-        text: |-
-            a - Rube-Goldberg machine
-
-            OR
-
-            b - Popsicle stick explosion
-  children:
-      - requirement: a
-        text: |-
-            Rube-Goldberg machine
-        workbookHide: true
-      - requirement: b
-        text: |-
-            Popsicle stick explosion
-        workbookHide: true
-```
-
-`workbookHide` will not generate a section for that requirement.
-
-The different workbook entries are detailed below, under "Workbook Generation".
+of "Requirement List Item."
 
 Properties:
 
@@ -278,216 +229,6 @@ Properties:
 * `markdown`: Optional, controls `text`
 * `requirement`: The number or letter of the requirement
 * `text`: Text / HTML / markdown to display
-* `workbook`: Optional, list of "Workbook List Items"
-* `workbookHide`: Optional, if `true` this hides the requirement from automatic
-  generation in the workbook
-
-
-Workbook Generation
--------------------
-
-Workbooks are generated from the same `requirements.yaml` as the requirements page. Extra information is gathered from the `workbook` property in requirements.
-
-"Workbook List Items" can be any of the following:
-
-* Area
-* Grid
-* Header
-* Lines
-* Raw
-* Signature
-* Split
-* Task
-
-**Workbook Heights:** Heights for areas, grids, and lines are all specified the
-same - each line is 26 pixels tall, which is about 0.7 cm when printed. "Lines"
-and "Grid" also correspond to how many lines or grid rows are shown. The
-heights are measured the same so a workbook row can be split into equal height
-cells and you can use the full cell with each of these.
-
-
-### Area
-
-Shows an empty area, which is useful for drawings.
-
-```
-- area: 8
-```
-
-A text caption can be included at the top, just like grids and lines.
-
-```
-- area: 8
-  text: |-
-      This is a caption.
-```
-
-Properties:
-
-* `area`: Height of the area in the workbook - see "Workbook Heights" for
-  information
-* `markdown`: Optional, controls `text`
-* `text`: Optional, text / HTML / markdown to as a caption
-
-
-### Grid
-
-Shows a grid, which is useful for drawings. Due to technical difficulties, the
-grid will not be part of the generated PDF, but it would appear if a visitor to
-the site printed the workbook web page.
-
-```
-- grid: 8
-```
-
-Optionally, a caption can be included above the grid.
-
-```
-- grid: 8
-  text: |-
-      This is a caption
-```
-
-Properties:
-
-* `grid`: Number of rows to display - see "Workbook Heights" for information
-* `markdown`: Optional, controls `text`
-* `text`: Optional, text / HTML / markdown to as a caption
-
-
-### Header
-
-Display text in the same size font as the requirement. The background is
-a slightly different color. Good when combining requirements together to save
-on space.
-
-```
-- header: true
-  markdown: true
-  text: |-
-      a - Height
-
-      b - Width
-
-      c - Area
-```
-
-Properties:
-
-* `header`: Must be `true`
-* `markdown`: Optional, controls `text`
-* `text`: Text / HTML / markdown to as a caption
-
-
-### Lines
-
-Show a ruled area for an answer. Due to technical difficulties, the ruling
-won't be included in the generated PDF, but it would show up if a visitor
-printed the workbook's web page.
-
-```
-- lines: 8
-```
-
-Optionally, a caption can be included above the ruled area.
-
-```
-- lines: 8
-  text: |-
-      This is a caption.
-```
-
-Properties:
-
-* `lines`: Number of lines to display - see "Workbook Heights" for information
-* `markdown`: Optional, controls `text`
-* `text`: Optional, text / HTML / markdown to as a caption
-
-
-### Raw
-
-Shows text or HTML in an area. Use this if you want ultimate control over the contents of a spot.
-
-```
-- raw: true
-  text: |-
-      Text or HTML goes here.
-```
-
-Properties:
-
-* `raw`: Must be `true`
-* `markdown`: Optional, controls `text`
-* `text`: Text / HTML / markdown to as a caption
-
-
-### Signature
-
-Include an area for an adult to sign off on the requirement. The `signature`
-property defines who is being asked to sign.
-
-```
-- signature: Adult Leader
-```
-
-The checkbox label defaults to "Approved". If you would rather have it say
-something else, it is configurable.
-
-```
-- signature: Librarian
-  checkbox: Verified
-```
-
-Properties:
-
-* `checkbox`: Optional, label for the checkbox (defaults to "Approved")
-* `signature`: The label for the person that needs to sign
-
-
-### Split
-
-Split a row into even columns. Accepts a list of "Workbook List Items" and puts them on one row.
-
-```
-- split:
-      - gridHeight: 6
-        text: |-
-            Draw the tool
-      - lines: 8
-        text: |-
-            Describe the tool's function
-```
-
-Properties:
-
-* `split`: List of "Workbook List Items"
-
-
-### Task
-
-Show a checkbox to indicate a task was completed. The caption is automatically
-set to "Completed".
-
-```
-- task: true
-```
-
-This also supports markdown for more advanced formatting options and you can
-specify your own caption.
-
-```
-- task: true
-  markdown: true
-  text: |-
-      Read the *Woodwork* merit badge pamphlet.
-```
-
-Properties:
-
-* `markdown`: Optional, controls `text`
-* `task`: Must be `true`
-* `text`: Optional, text / HTML / markdown to as a caption, defaults to
-  "Completed"
 
 
 Data Validation

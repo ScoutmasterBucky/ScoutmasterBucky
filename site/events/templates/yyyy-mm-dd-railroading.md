@@ -1,4 +1,5 @@
 ---
+layout: smb-event
 title: Scoutmaster Bucky Merit Badge Special
 eventDateStart: 2020-03-28 9:00
 eventDateEnd: 2020-03-28 15:00

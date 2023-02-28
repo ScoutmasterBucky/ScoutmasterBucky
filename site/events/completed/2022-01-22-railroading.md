@@ -1,4 +1,5 @@
 ---
+layout: smb-event
 title: Railroading Merit Badge Event
 eventDateStart: 2022-01-22 12:00
 eventDateEnd: 2022-01-22 15:00

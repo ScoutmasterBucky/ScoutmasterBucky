@@ -1,4 +1,5 @@
 ---
+layout: smb-event
 title: Wood Badge - Fall 2020
 subtitle: C1-250-20-2
 logo: images/wood-badge/logo.png

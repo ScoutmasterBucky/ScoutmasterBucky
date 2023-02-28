@@ -1,3 +1,16 @@
+{{#if online}}
+    <div class="P(15px)--_sm P(6px)--sm Bgc(#cc9900) Mb(20px)">
+{{else}}
+    {{#if meritBadge}}
+        <div class="P(15px)--_sm P(6px)--sm Bgc(#009933) Mb(20px)">
+    {{else}}
+        <div class="P(15px)--_sm P(6px)--sm Bgc(black) Mb(20px)">
+    {{/if}}
+{{/if}}
+
+
+<div class="Bgc(white) P(10px)">
+
 {{#if host}}
 <div class="D(f) Jc(c) Tt(u) C(red) Ta(c) Fw(b) Fz(32px)--_sml Fz(24px)--l Fz(20px)--m Fz(16px)--s">{{host}}</div>
 {{/if}}
@@ -12,3 +25,6 @@
 {{/location}}
 </div>
 {{/if}}
+
+</div>
+</div>
