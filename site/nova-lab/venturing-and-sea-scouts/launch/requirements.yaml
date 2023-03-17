@@ -120,8 +120,7 @@
                     text: |-
                         What a projectile is
                     children:
-                        - note:
-                            - counselor
+                        - detail: true
                           markdown: true
                           text: |-
                               A projectile is:
@@ -136,8 +135,7 @@
                     text: |-
                         The factors affecting the path of a projectile
                     children:
-                        - note:
-                            - counselor
+                        - detail: true
                           markdown: true
                           text: |-
                               When an object is fired, launched, or thrown, it
@@ -233,8 +231,7 @@
                   Why are satellites usually launched toward the east, and what
                   is a launch window?
               children:
-                  - note:
-                      - counselor
+                  - detail: true
                     markdown: true
                     text: |-
                         Escape velocity is the speed at which an object will be
@@ -299,8 +296,7 @@
                   the fastest you would go if you were to jump out of an
                   airplane?)
               children:
-                  - note:
-                      - counselor
+                  - detail: true
                     markdown: true
                     text: |-
                         Terminal velocity is when the acceleration due to
@@ -322,8 +318,7 @@
                   travel in order to escape Earth’s gravitational field? (What
                   is Earth’s escape velocity?)
               children:
-                  - note:
-                      - counselor
+                  - detail: true
                     markdown: true
                     text: |-
                         Helpful Links

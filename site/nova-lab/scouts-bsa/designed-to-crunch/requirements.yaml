@@ -118,8 +118,7 @@
         text: |-
             Calculate your horsepower when you run up a flight of stairs.
         children:
-            - note:
-                  - counselor
+            - detail: true
               markdown: true
               text: |-
                   Horsepower is a unit of power. One horsepower equals 33,000
@@ -135,8 +134,7 @@
 
                   “How to Calculate Your Horsepower”: wikiHow<br />
                   Website: http://www.wikihow.com/Calculate-Your-Horsepower
-            - note:
-                  - counselor
+            - detail: true
               markdown: true
               text: |-
                   1. Find out how much you weigh in kilograms and write it down.
@@ -183,8 +181,7 @@
               text: |-
                   How does your horsepower compare to the horsepower of your
                   favorite car?
-            - note:
-                  - counselor
+            - detail: true
               text: |-
                   Most car information packets and many websites list the
                   horsepower of cars.
@@ -212,8 +209,7 @@
                   attended. Share your calculations with your counselor, and
                   discuss your conclusions about the racers’ strengths and
                   weaknesses.
-            - note:
-                  - counselor
+            - detail: true
               text: |-
                   Average speed = Distance / Time
       - requirement: C
@@ -235,8 +231,7 @@
               text: |-
                   Basketball—Points, baskets attempted, rebounds, steals,
                   turnovers, and blocked shots
-            - note:
-                  - counselor
+            - detail: true
               markdown: true
               text: |-
                   Helpful Links
@@ -325,8 +320,7 @@
       - requirement: C
         text: |-
             Discuss with your counselor how math affects your everyday life.
-      - note:
-            - counselor
+      - detail: true
         markdown: true
         text: |-
             Here are some ideas for your Scout to consider. Pick a few or think of others.

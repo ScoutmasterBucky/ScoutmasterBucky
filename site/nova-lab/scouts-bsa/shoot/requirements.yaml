@@ -122,8 +122,7 @@
                     text: |-
                         What a projectile is
                     children:
-                        - note:
-                              - counselor
+                        - detail: true
                           markdown: true
                           text: |-
                               A projectile is:
@@ -135,8 +134,7 @@
                     text: |-
                         What projectile motion is
                     children:
-                        - note:
-                              - counselor
+                        - detail: true
                           markdown: true
                           text: |-
                               Projectile motion is the curved path taken by an
@@ -147,8 +145,7 @@
                     text: |-
                         The factors affecting the path of a projectile
                     children:
-                        - note:
-                              - counselor
+                        - detail: true
                           markdown: true
                           text: |-
                               When an object is fired, launched, or thrown, it
@@ -190,8 +187,7 @@
                         The difference between forward velocity and
                         acceleration due to gravity.
                     children:
-                        - note:
-                              - counselor
+                        - detail: true
                           markdown: true
                           text: |-
                               Forward velocity is the speed horizontal to Earth
@@ -227,8 +223,7 @@
             guardian’s permission, you may wish to explore websites to find
             this information.)
         children:
-            - note:
-                  - counselor
+            - detail: true
               markdown: true
               text: |-
                   Escape velocity is the speed at which an object will be able
@@ -281,8 +276,7 @@
                   Why are satellites usually launched toward the east, and what
                   is a launch window?
               children:
-                  - note:
-                        - counselor
+                  - detail: true
                     markdown: true
                     text: |-
                         When satellites are launched to the east, Earth’s spin
@@ -303,8 +297,7 @@
                   the fastest you would go if you were to jump out of an
                   airplane?)
               children:
-                  - note:
-                        - counselor
+                  - detail: true
                     markdown: true
                     text: |-
                         Terminal velocity is when the acceleration due to
@@ -325,13 +318,11 @@
                   travel in order to escape Earth’s gravitational field? (What
                   is Earth’s escape velocity?)
               children:
-                  - note:
-                        - counselor
+                  - detail: true
                     text: |-
                         Escape velocity from Earth is 11.2 km/s, or 25038.72 mph.
             #- Fixed citation for link ("NRP" to "NPR")
-            - note:
-                  - counselor
+            - detail: true
               text: |-
                   Helpful Links
 

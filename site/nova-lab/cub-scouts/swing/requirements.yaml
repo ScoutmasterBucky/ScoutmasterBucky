@@ -13,8 +13,7 @@
         - requirement: 2
           text: |-
             Discuss two of the questions or ideas with your counselor.
-        - note:
-          - counselor
+        - detail: true
           text: |-
             Some examples include—but are not limited to—shows found on PBS
             (“NOVA”), Discovery Channel, Science Channel, National Geographic
@@ -33,8 +32,7 @@
         - requirement: 2
           text: |-
             Discuss two of the questions or ideas with your counselor.
-        - note:
-          - counselor
+        - detail: true
           text: |-
             Books on many topics may be found at your local library. Examples
             of magazines include but are not limited to Odyssey, KIDS DISCOVER,
@@ -62,8 +60,7 @@
       markdown: true
       text: |-
         * **Wolf Cub Scouts:** Paws of Skill
-    - note:
-      - counselor
+    - detail: true
       markdown: true
       text: |-
         **Paws of Skill:** Levers are used in many sports, including baseball, golf, and tennis.
@@ -71,8 +68,7 @@
       markdown: true
       text: |-
         * **Bear Cub Scouts:** Baloo the Builder, A Bear Goes Fishing
-    - note:
-      - counselor
+    - detail: true
       markdown: true
       text: |-
         **Baloo the Builder:** Using a lever (crowbars, pliers, screwdrivers, hammer, etc.)
@@ -82,8 +78,7 @@
       markdown: true
       text: |-
         * **Webelos Scouts:** Engineer
-    - note:
-      - counselor
+    - detail: true
       markdown: true
       text: |-
         **Engineer:** Entire adventure deals with engineering.
@@ -122,8 +117,7 @@
             3. The class of each lever
             4. Why we use levers
           children:
-            - note:
-              - counselor
+            - detail: true
               markdown: true
               text: |-
                 <img src="seesaw.png" class="W(100%) H(a)">
@@ -197,8 +191,7 @@
       text: |-
         Discuss your findings with your counselor.
       children:
-        - note:
-          - counselor
+        - detail: true
           markdown: true
           text: |-
             Levers can be used to:
@@ -222,8 +215,7 @@
         construction site, restaurant kitchen, or any other location that uses
         levers.
       children:
-        - note:
-          - counselor
+        - detail: true
           markdown: true
           text: |-
             * Playground—Seesaws (class 1), swings (class 2), and sandbox
@@ -239,8 +231,7 @@
         Discuss with your counselor the equipment or tools that use levers in
         the place you visited.
       children:
-        - note:
-          - counselor
+        - detail: true
           text: |-
             Visitations to places like carpentry shops, construction sites,
             restaurant kitchens, etc., will require advance planning by the

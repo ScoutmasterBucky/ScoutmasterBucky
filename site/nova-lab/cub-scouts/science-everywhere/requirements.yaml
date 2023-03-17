@@ -14,8 +14,7 @@
         - requirement: 2
           text: |-
             Discuss two of the questions or ideas with your counselor.
-        - note:
-          - counselor
+        - detail: true
           text: |-
             Some examples include - but are not limited to - shows found on PBS
             (“NOVA”), Discovery Channel, Science Channel, National Geographic
@@ -35,8 +34,7 @@
         - requirement: 2
           text: |-
             Discuss two of the questions or ideas with your counselor.
-        - note:
-          - counselor
+        - detail: true
           text: |-
             Books on many topics may be found at your local library. Examples
             of magazines include but are not limited to Odyssey, KIDS DISCOVER,
@@ -65,8 +63,7 @@
       markdown: true
       text: |-
         * *Wolf Cub Scouts:* Digging in the Past, Germs Alive!
-    - note:
-      - counselor
+    - detail: true
       markdown: true
       text: |-
         **Digging in the Past:** Paleontology and geology
@@ -76,8 +73,7 @@
       markdown: true
       text: |-
         * *Bear Cub Scouts:* A Bear Goes Fishing, Bear Picnic, Critter Care
-    - note:
-      - counselor
+    - detail: true
       markdown: true
       text: |-
         **A Bear Goes Fishing:** Ecology and biology
@@ -90,8 +86,7 @@
       markdown: true
       text: |-
         * *Webelos Scouts:* Earth Rocks!
-    - note:
-      - counselor
+    - detail: true
       markdown: true
       text: |-
         **Earth Rocks!:** Geology
@@ -139,15 +134,13 @@
           text: |-
             Why do rockets have fins? Is there any connection between the
             feathers on arrows and fins on rockets?
-        - note:
-          - counselor
+        - detail: true
           text: |-
             Arrow feathers and rocket fins serve the same purpose—they provide aerodynamic stability during flight through the atmosphere.
         - requirement: 2
           text: |-
             Why do some cars have spoilers? How do spoilers work?
-        - note:
-          - counselor
+        - detail: true
           markdown: true
           text: |-
             In theory, spoilers on cars use Bernoulli’s principle in the
@@ -159,21 +152,20 @@
             increased stability. The faster the car goes, the faster the air
             moves under the spoiler and the more anti-lift is generated, which
             provides more stability.
-            
+
             Without a spoiler, the only way to increase stability would be to
             increase the weight of the car. However, increasing the weight of
             the car increases its inertia, causing problems at corners and
             turns. Designers of spoilers have to balance the anti-lift with the
             drag created by using a spoiler.
-            
+
             You may find the following page at PhysLink.com helpful:
               www.physlink.com/education/askexperts/ae496.cfm.
         - requirement: 3
           text: |-
             If there is a creek or stream in your neighborhood, where does it
             go? Does your stream flow to the Atlantic or the Pacific ocean?
-        - note:
-          - counselor
+        - detail: true
           text: |-
             With your parent’s or guardian’s permission and assistance, you may
             want to use an online mapping application to follow the streams and
@@ -184,8 +176,7 @@
         - requirement: 4
           text: |-
             Is the creek or stream in your neighborhood or park polluted?
-        - note:
-          - counselor
+        - detail: true
           markdown: true
           text: |-
             You can do a stream sample to find out what kinds of things are
@@ -214,8 +205,7 @@
         found, how you investigated, and what you found out about your
         question.
       children:
-        - note:
-          - counselor
+        - detail: true
           markdown: true
           text: |-
             Your youth may use either the list or the diagram to help them

@@ -105,8 +105,7 @@
         each number into a 5-bit binary code by using a zero for each 0 card
         and a 1 for each dotted card in order. HINT: 20 = 10100
       children:
-        - note:
-          - counselor
+        - detail: true
           markdown: true
           text: |-
             See the binary cards in action!
@@ -216,8 +215,7 @@
       text: |-
         Discuss with your counselor what you were able to create. Explain what
         you liked best about it and what was difficult.
-    - note:
-      - counselor
+    - detail: true
       markdown: true
       text: |-
         Some useful resources include:

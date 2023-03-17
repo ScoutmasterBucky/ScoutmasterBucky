@@ -3,7 +3,6 @@ nova: uncovering-the-past
 program: cub-scouts
 layout: nova-req
 lastUpdate: January 2022
-hasNotes: true
 data:
     requirements: requirements.yaml
 ---

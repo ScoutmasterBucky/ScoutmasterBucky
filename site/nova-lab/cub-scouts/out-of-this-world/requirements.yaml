@@ -15,8 +15,7 @@
         - requirement: 2
           text: |-
             Discuss two of the questions or ideas with your counselor.
-        - note:
-          - counselor
+        - detail: true
           text: |-
             Some examples include - but are not limited to - shows found on PBS
             (“NOVA”), Discovery Channel, Science Channel, National Geographic
@@ -37,8 +36,7 @@
         - requirement: 2
           text: |-
             Discuss two of the questions or ideas with your counselor.
-        - note:
-          - counselor
+        - detail: true
           markdown: true
           text: |-
             Books on many topics may be found at your local library. Examples

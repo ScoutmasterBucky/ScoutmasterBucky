@@ -15,8 +15,7 @@
         - requirement: 2
           text: |-
             Discuss two of the questions or ideas with your counselor.
-        - note:
-          - counselor
+        - detail: true
           text: |-
             Some examples include—but are not limited to—shows found on PBS (“NOVA”), Discovery Channel, Science Channel, National Geographic Channel, TED Talks (online videos), and the History Channel. You may choose to watch a live performance or movie at a planetarium or science museum instead of watching a media production. You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision.
     - requirement: B
@@ -31,8 +30,7 @@
         - requirement: 2
           text: |-
             Discuss two of the questions or ideas with your counselor.
-        - note:
-          - counselor
+        - detail: true
           markdown: true
           text: |-
             Books on many topics may be found at your local library. Examples of magazines include but are not limited to Odyssey, KIDS DISCOVER, National Geographic Kids, Whizz Pop Bang, Science+Nature, How it Works, Aquila, Popular Science, muse, and OWL or owlkids.com.
@@ -101,8 +99,7 @@
         Make a dinosaur dig. Be a paleontologist and dig through a dinosaur dig
         made by another member of your den. Show and explain the ways a
         paleontologist works carefully during a dig.
-    - note:
-      - counselor
+    - detail: true
       text: |-
         The official requirement stops after "Show and explain", but the extra
         wording was found in another version online.

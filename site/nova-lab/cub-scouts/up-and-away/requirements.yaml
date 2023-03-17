@@ -16,8 +16,7 @@
         - requirement: 2
           text: |-
             Discuss two of the questions with or ideas with your counselor.
-        - note:
-          - counselor
+        - detail: true
           markdown: true
           text: |-
             Some examples of shows to watch include - but are not limited to -
@@ -44,8 +43,7 @@
         - requirement: 2
           text: |-
             Discuss two of the questions with or ideas with your counselor.
-        - note:
-          - counselor
+        - detail: true
           text: |-
             Examples of magazines include—but are not limited to—Odyssey,
             Popular Mechanics, Popular Science, Science Illustrated, Discover,

@@ -52,12 +52,6 @@
 
 {{>event-date-time-location start=eventDateStart end=eventDateEnd}}
 
-<div class="D(f) Jc(c) Py(10px)">
-<a href="https://www.eventbrite.com/e/registration-{{eventBriteEventId}}" rel="noopener noreferrer" target="_blank">
-<button type="button" class="P(1em) Bgc(#ff8100) Fw(b) Bdrs(10px)">Get Tickets</button>
-</a>
-</div>
-
 {{#if onSaleDate}}
 <script>onSaleDate('{{#date format='iso'}}{{onSaleDate}}{{/date}}');</script>
 {{/if}}

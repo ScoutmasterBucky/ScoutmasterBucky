@@ -51,8 +51,7 @@
         markdown: true
         text: |-
             * **Wolf Cub Scouts:** Air of the Wolf, Code of the Wolf
-      - note:
-          - counselor
+      - detail: true
         markdown: true
         text: |-
             **Air of the Wolf:** The symmetry of flying objects has a big
@@ -70,8 +69,7 @@
         markdown: true
         text: |-
             **Bear Cub Scouts:** Forensics, Marble Madness
-      - note:
-          - counselor
+      - detail: true
         markdown: true
         text: |-
             **Forensics:** The crystal structure of various substances
@@ -89,8 +87,7 @@
         markdown: true
         text: |-
             **Webelos Scouts:** Art Explosion, Build It
-      - note:
-          - counselor
+      - detail: true
         markdown: true
         text: |-
             **Art Explosion:** Notice all the symmetry you can - and also
@@ -165,8 +162,7 @@
                   Use sand, chalk dust, flour, or some other material to make a
                   kolam of your own.
               children:
-                  - note:
-                      - counselor
+                  - detail: true
                     markdown: true
                     text: |-
                         Here are some kolams (original artwork courtesy of Sunita Vatuk):
@@ -182,8 +178,7 @@
         text: |-
             Learn about the litema wall decorations from Lesotho and South Africa.
         children:
-            - note:
-                - counselor
+            - detail: true
               text: |-
                   People in certain regions of Lesotho and South Africa
                   decorate the outside walls of their houses by spreading a mud
@@ -207,8 +202,7 @@
         text: |-
             Learn about the design of Navajo rugs.
         children:
-            - note:
-                - counselor
+            - detail: true
               text: |-
                   The Navajo people of the southwestern part of the United
                   States have a long tradition of weaving rugs and blankets
@@ -229,8 +223,7 @@
         text: |-
             Learn about Seminole or Miccosukee patchwork designs.
         children:
-            - note:
-                - counselor
+            - detail: true
               text: |-
                   In the early 20th century, the Seminole and Miccosukee people
                   of Florida developed a style of clothing decorated by sewing

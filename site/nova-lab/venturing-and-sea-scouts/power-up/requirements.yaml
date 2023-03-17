@@ -80,8 +80,7 @@
                   Tell your counselor the energy source(s) used in these STEM
                   explorations.
               children:
-                  - note:
-                      - counselor
+                  - detail: true
                     markdown: true
                     text: |-
                         Automotive Maintenance—Gasoline, diesel fuel, electric, blended gasoline, biodiesel, hybrid
@@ -120,8 +119,7 @@
               text: |-
                   Discuss the pros and cons of each energy source with your counselor.
               children:
-                  - note:
-                      - counselor
+                  - detail: true
                     markdown: true
                     text: |-
                         Helpful Links
@@ -150,8 +148,7 @@
                   sources.
             # Removed broken links
             # Fixed link to correct section for Alternative Fuel: Popular Mechanics
-            - note:
-                - counselor
+            - detail: true
               markdown: true
               text: |-
                   Helpful Links

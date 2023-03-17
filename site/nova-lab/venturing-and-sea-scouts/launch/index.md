@@ -3,7 +3,6 @@ nova: launch
 program: venturing-and-sea-scouts
 layout: nova-req
 lastUpdate: '2022-05-25'
-hasNotes: true
 data:
     requirements: requirements.yaml
 ---

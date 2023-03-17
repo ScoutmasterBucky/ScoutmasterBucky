@@ -1,7 +1,6 @@
 {{>layout-header}}
 
         <link rel="stylesheet" href="{{@root.rootPath}}css/site.css" />
-        <script src="{{@root.rootPath}}js/toggle-notes.js"></script>
 
         <title>{{>badge-name badge=badge}} Merit Badge</title>
 
@@ -20,14 +19,7 @@
                 {{/with}}
             </div>
 
-            <div class="notesToggles">
-{{#if @root.requirements}}
-                <div class="D(f)--_p Jc(spe) Ai(st) D(n)--p">
-                    {{>top-down-tab short="Requirements" long="Requirements Only" type="none"}}
-                    {{>top-down-tab short="In-Person Notes" long="In-Person Class Prep Notes" type="inPerson"}}
-                    {{>top-down-tab short="Online Notes" long="Online Class Prep Notes" type="online"}}
-                </div>
-{{/if}}
-                <div class="P(20px)--_p P(0)--p">
+            <div>
+                <div class="Px(20px)--_p P(0)--p">
 
 {{#transform-elements}}

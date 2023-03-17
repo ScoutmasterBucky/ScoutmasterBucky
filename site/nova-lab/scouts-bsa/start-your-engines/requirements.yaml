@@ -90,8 +90,7 @@
                   Tell your counselor the energy source(s) used in these merit
                   badges.
               children:
-                  - note:
-                        - counselor
+                  - detail: true
                     markdown: true
                     text: |-
                         * Automotive Maintenance—Gasoline, diesel fuel,
@@ -123,8 +122,7 @@
                   Discuss the pros and cons of each energy source with your
                   counselor.
               children:
-                  - note:
-                        - counselor
+                  - detail: true
                     markdown: true
                     text: |-
                         Helpful Links
@@ -151,8 +149,7 @@
               text: |-
                   Discuss the pros and cons of using alternative energy
                   sources.
-            - note:
-                  - counselor
+            - detail: true
               markdown: true
               text: |-
                   Helpful Links
