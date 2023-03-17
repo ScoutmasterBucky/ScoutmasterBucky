@@ -15,8 +15,7 @@
         - requirement: 2
           text: |-
             Discuss two of the questions or ideas with your counselor.
-        - note:
-          - counselor
+        - detail: true
           text: |-
             Some examples include—but are not limited to—shows found on PBS
             (such as NOVA), Discovery Channel, Science Channel, National
@@ -36,8 +35,7 @@
         - requirement: 2
           text: |-
             Discuss two of the questions or ideas with your counselor.
-        - note:
-          - counselor
+        - detail: true
           text: |-
             Books on many topics may be found at your local library. Examples of magazines include but are not limited to Odyssey, Kids Discover, National Geographic Kids, Highlights, and OWL or owlkids.com.
 
@@ -112,8 +110,7 @@
         archaeologist does on a dig site, and what other activities are
         involved in their work. Discuss it with your counselor.
       children:
-        - note:
-          - counselor
+        - detail: true
           text: |-
             Archaeology is the study of the human past by recovering and
             analyzing materials that people left behind.
@@ -123,8 +120,7 @@
         ecofacts. Discuss with your counselor examples of each that
         archaeologists can find for a prehistoric people group.
       children:
-        - note:
-          - counselor
+        - detail: true
           markdown: true
           text: |-
             An *artifact* is any object made by a human being. Usually, it
@@ -143,8 +139,7 @@
         serve as clues to the way you live. Discuss what you discovered with
         your counselor.
       children:
-        - note:
-          - counselor
+        - detail: true
           text: |-
             Artifacts could include anything found lying around the Scout’s
             home. A dog crate could indicate the family has kept domesticated
@@ -166,8 +161,7 @@
         with your counselor how the relative age of the artifacts be estimated
         based on their location in the trash can.
       children:
-        - note:
-          - counselor
+        - detail: true
           text: |-
             You may want to have the Scout wear disposable gloves, especially
             if the trash can contains food remains. The Scout could lay out a
@@ -188,8 +182,7 @@
         why you chose these items and what they would show archaeologists about
         how you lived. Excavate your items when you’re done.
       children:
-        - note:
-          - counselor
+        - detail: true
           text: |-
             The lower the level, the older the item would be.
 - requirement: 5

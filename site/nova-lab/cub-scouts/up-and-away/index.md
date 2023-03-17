@@ -3,7 +3,6 @@ nova: up-and-away
 program: cub-scouts
 layout: nova-req
 lastUpdate: '2022-05-18'
-hasNotes: true
 data:
     requirements: requirements.yaml
 ---

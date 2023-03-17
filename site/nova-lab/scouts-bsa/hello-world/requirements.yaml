@@ -49,8 +49,7 @@
                   watching a media production. You may watch online productions
                   with your counselor’s approval and under your parent’s
                   supervision.
-            - note:
-                  - counselor
+            - detail: true
               markdown: true
               text: |-
                   Suggested reading and watching material might include the following.
@@ -93,16 +92,14 @@
       Explore different concepts in computer programming. Discuss these
       programming concepts with your counselor:
   children:
-      - note:
-            - counselor
+      - detail: true
         text: |-
             Each of these concepts should be basic to computer programmers.
       - requirement: A
         text: |-
             What is the difference between a local and global variable?
         children:
-            - note:
-                  - counselor
+            - detail: true
               text: |-
                   Local variable is only defined and used within one routine. A
                   global variable is defined for the entire program
@@ -111,8 +108,7 @@
             What is integer, Boolean, floating point, and character data types
             and what values can each of these data types hold?
         children:
-            - note:
-                  - counselor
+            - detail: true
               markdown: true
               text: |-
                   Integer – a variable that holds only whole numbers (e.g., 56,
@@ -129,8 +125,7 @@
         text: |-
             What is a scalar variable versus an array or list variable?
         children:
-            - note:
-                  - counselor
+            - detail: true
               text: |-
                   A scalar variable can only hold one value. An array or list
                   variable can hold multiple values and each value can be
@@ -145,8 +140,7 @@
               text: |-
                   A While Loop
               children:
-                  - note:
-                      - counselor
+                  - detail: true
                     text: |-
                         A while loop continuously executes the code held in the
                         loop while a condition that is checked at the beginning
@@ -157,8 +151,7 @@
               text: |-
                   A Do-While Loop
               children:
-                  - note:
-                      - counselor
+                  - detail: true
                     text: |-
                         A Repeat loop continuously executes the code held in
                         the loop while a condition checked at the end of the
@@ -169,8 +162,7 @@
                   A For loop which performs a fixed number of iterations (i.e.,
                   For Loop)
               children:
-                  - note:
-                      - counselor
+                  - detail: true
                     text: |-
                         A For Loop executes the code held in the loop a fixed
                         number of times.
@@ -178,8 +170,7 @@
               text: |-
                   An If statement
               children:
-                  - note:
-                      - counselor
+                  - detail: true
                     text: |-
                         An If statement executes a given computer instruction
                         or a block of instructions if a condition is TRUE. It
@@ -189,8 +180,7 @@
         text: |-
             What is a function and when is it used?
         children:
-            - note:
-                - counselor
+            - detail: true
               text: |-
                   A function is a block of instructions which computes a result
                   and returns the result to the calling program. A program can
@@ -203,16 +193,14 @@
         text: |-
             What is a parameter to a function?
         children:
-            - note:
-                - counselor
+            - detail: true
               text: |-
                   A parameter is an input to a function used in the computation of the result.
       - requirement: G
         text: |-
             What is a key/value pair in a database?
         children:
-            - note:
-                - counselor
+            - detail: true
               text: |-
                   A Key/Value pair in database programming is a set of two
                   linked data elements which allow the programmer to use a
@@ -222,8 +210,7 @@
         text: |-
             What is a Universal Resource Locator (URL) and where is it used?
         children:
-            - note:
-                - counselor
+            - detail: true
               text: |-
                   A Universal Resource Locator (URL) is a set of characters
                   which identify a resource such as a webpage or a file on the
@@ -232,8 +219,7 @@
   text: |-
       In a programming language of your choosing, do the following:
   children:
-      - note:
-          - counselor
+      - detail: true
         markdown: true
         text: |-
             Requirements 4, 5 and 6:

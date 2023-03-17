@@ -3,7 +3,6 @@ nova: down-and-dirty
 program: cub-scouts
 layout: nova-req
 lastUpdate: '2022-05-24'
-hasNotes: true
 data:
     requirements: requirements.yaml
 ---

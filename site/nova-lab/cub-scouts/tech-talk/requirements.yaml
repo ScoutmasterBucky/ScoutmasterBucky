@@ -14,8 +14,7 @@
         - requirement: 2
           text: |-
             Discuss two of the questions or ideas with your counselor.
-        - note:
-          - counselor
+        - detail: true
           markdown: true
           text: |-
             Some examples include — but are not limited to — shows found on PBS
@@ -39,8 +38,7 @@
         - requirement: 2
           text: |-
             Discuss two of the questions or ideas with your counselor.
-        - note:
-          - counselor
+        - detail: true
           text: |-
             Books on many topics may be found at your local library. Examples
             of magazines include but are not limited to Odyssey, KIDS DISCOVER,
@@ -68,8 +66,7 @@
       markdown: true
       text: |-
         * **Wolf Cub Scouts:** Finding Your Way
-    - note:
-      - counselor
+    - detail: true
       markdown: true
       text: |-
         **Finding Your Way:** Map and compass are technologies that have been utilized for centuries.
@@ -81,8 +78,7 @@
       markdown: true
       text: |-
         * **Webelos Scouts:** Build It
-    - note:
-      - counselor
+    - detail: true
       markdown: true
       text: |-
         **Build It:** Using tools to create a specific project
@@ -130,8 +126,7 @@
         Look up a definition of the word *technology* and discuss the meaning
         with your counselor.
       children:
-        - note:
-          - counselor
+        - detail: true
           text: |-
             Technology is defined as the application of science, utilizing the
             scientific method to achieve a commercial or industrial objective
@@ -166,8 +161,7 @@
     radio or television station, a newspaper office, a factory or store, or any
     other location where technology is being designed, used, or explained.
   children:
-    - note:
-      - counselor
+    - detail: true
       markdown: true
       text: |-
         * An amusement park: Computers, rides, entry gates, and camera monitors

@@ -43,7 +43,6 @@ onSaleDate: 2023-03-01 0:05
 {{/badge-list}}
 {{>eventbrite badge="emergency-preparedness" event="525328962067" start=MidDayStart end=MidDayEnd}}
 
-
 ### Afternoon Classes
 
 {{#badge-list}}

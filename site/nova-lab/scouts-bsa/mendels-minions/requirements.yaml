@@ -58,8 +58,7 @@
             - requirement: 2
               text: |-
                   Discuss two of the questions or ideas with your counselor.
-            - note:
-                  - counselor
+            - detail: true
               markdown: true
               text: |-
                   Some resources that may prove useful are listed below.

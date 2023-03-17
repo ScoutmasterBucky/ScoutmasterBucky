@@ -17,8 +17,7 @@
             - requirement: 2
               text: |-
                   Discuss two of the questions or ideas with your counselor.
-            - note:
-                - counselor
+            - detail: true
               markdown: true
               text: |-
                   Some examples include—but are not limited to—shows found on
@@ -43,8 +42,7 @@
             - requirement: 2
               text: |-
                   Discuss two of the questions or ideas with your counselor.
-            - note:
-                - counselor
+            - detail: true
               text: |-
                   Examples of magazines include—but are not limited to—Odyssey,
                   Popular Mechanics, Popular Science, Science Illustrated,
@@ -105,8 +103,7 @@
                   https://www.teachengineering.org/populartopics/simplemachines
             # Kept older images because the newer ones don't have the text
             # labels.
-            - note:
-                - counselor
+            - detail: true
               text: |-
                   A lever is a rigid bar that turns around a fulcrum or fixed
                   point. The force - a push or a pull that is applied to the
@@ -166,8 +163,7 @@
               children:
                   # Kept older images because the newer ones don't have the
                   # text labels.
-                  - note:
-                      - counselor
+                  - detail: true
                     markdown: true
                     text: |-
                         Helpful Links
@@ -223,8 +219,7 @@
                   What you learned about motion from earning your STEM
                   exploration.
               children:
-                  - note:
-                      - counselor
+                  - detail: true
                     text: |-
                         Wind, gasoline/fossil fuel, electric power, and human
                         power all are sources of energy.
@@ -254,8 +249,7 @@
               text: |-
                   The forces involved in the motion of any two playground
                   fixtures
-            - note:
-                - counselor
+            - detail: true
               text: |-
                   A force is a push or a pull. Many rides use the force of
                   gravity to cause changes in up and down motion. Rides that go

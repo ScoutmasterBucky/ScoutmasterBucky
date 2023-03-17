@@ -14,8 +14,7 @@
         - requirement: 2
           text: |-
             Discuss two of the questions or ideas with your counselor.
-        - note:
-          - counselor
+        - detail: true
           text: |-
             Some examples include-but are not limited to-shows found on PBS
             ("NOVA"), Discovery Channel, Science Channel, National Geographic
@@ -35,8 +34,7 @@
         - requirement: 2
           text: |-
             Discuss two of the questions or ideas with your counselor.
-        - note:
-          - counselor
+        - detail: true
           text: |-
             Books on many topics may be found at your local library. Examples
             of magazines include but are not limited to Odyssey, KIDS DISCOVER,
@@ -64,8 +62,7 @@
       markdown: true
       text: |-
         * **Wolf Cub Scouts:** Code of the Wolf
-    - note:
-      - counselor
+    - detail: true
       markdown: true
       text: |-
         **Code of the Wolf:** Working with numbers, logic, and math
@@ -77,8 +74,7 @@
       markdown: true
       text: |-
         * **Webelos Scouts:** Game Design
-    - note:
-      - counselor
+    - detail: true
       markdown: true
       text: |-
         **Game Design:** Working with logic
@@ -125,8 +121,7 @@
           text: |-
             On the sun or the moon
           children:
-            - note:
-              - counselor
+            - detail: true
               markdown: true
               text: |-
                 Earth weight (in pounds) × 28 (27.97) = Sun weight<br>
@@ -135,8 +130,7 @@
           text: |-
             On Jupiter or Pluto
           children:
-            - note:
-              - counselor
+            - detail: true
               markdown: true
               text: |-
                 Earth weight (in pounds) × 2.36 = Jupiter weight
@@ -150,8 +144,7 @@
           text: |-
             On a planet that you choose
           children:
-            - note:
-              - counselor
+            - detail: true
               markdown: true
               text: |-
                 Earth weight (in pounds) × 0.378 = Mercury weight<br>
@@ -185,8 +178,7 @@
         - requirement: 3
           text: |-
             A building of your choice
-        - note:
-          - counselor
+        - detail: true
           markdown: true
           text: |-
             Step 1 - On a sunny day, choose a tree that casts a clear shadow.
@@ -210,8 +202,7 @@
         measurements have the same units - all feet or all inches - and show
         your work.
       children:
-        - note:
-          - counselor
+        - detail: true
           markdown: true
           text: |-
             Volume = Length × Width × Height
@@ -229,8 +220,7 @@
           text: |-
             Cryptography
           children:
-            - note:
-              - counselor
+            - detail: true
               text: |-
                 One of the earliest recorded uses of cryptography, the practice
                 of hiding information, was when Roman leader Julius Caesar (100
@@ -245,8 +235,7 @@
           text: |-
             At least three ways secret codes or ciphers are made
           children:
-            - note:
-              - counselor
+            - detail: true
               markdown: true
               text: |-
                 A code is a symbol or signal used to represent or communicate
@@ -274,8 +263,7 @@
           text: |-
             How secret codes and ciphers relate to mathematics
           children:
-            - note:
-              - counselor
+            - detail: true
               text: |-
                 Many ciphers can be broken by using what is called frequency
                 analysis. For example, the letter “e” is the most frequently
