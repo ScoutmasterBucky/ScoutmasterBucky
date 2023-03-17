@@ -250,12 +250,11 @@
             - requirement: c
               markdown: true
               text: |-
-                A World Archery/USA Archery indoor`*` round I and make
-                a score of 80 points
+                A World Archery/USA Archery indoor`*` round and make a score of 80 points
             - requirement: d
               markdown: true
               text: |-
-                An NFAA indoor`*` round and make a score of 50 points
+                An NFAA indoor * `round and make a score of 50 points
         - requirement: 2
           text: |-
             Shooting 30 arrows in five-arrow ends at an 80-centimeter
@@ -274,8 +273,7 @@
         - detail: true
           markdown: true
           text: |-
-            `*` The indoor rounds can be shot outdoors if this is more
-            convenient.
+            `*` The indoor rounds can be shot outdoors if this is more convenient.
     - note:
         - inPerson
       markdown: true
@@ -326,7 +324,7 @@
             - requirement: c
               markdown: true
               text: |-
-                A World Archery/USA Archery indoor`*` round I and make
+                A World Archery/USA Archery indoor`*` round and make
                 a score of 90 points
             - requirement: d
               markdown: true
