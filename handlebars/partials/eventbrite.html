@@ -1,34 +1,12 @@
-{{>toggle-start open=open}}
-Register for {{>eventbrite-event-title}}
-{{>toggle-label-close}}
-Hide {{>eventbrite-event-title}}
-{{>toggle-middle}}
-
-<div class="D(f) Fxd(cr)--sm">
-<div class="W(100%)">
-{{>event-badge-header badge=badge badge2=badge2}}
-</div>
-
-<div class="W(100%) Maw(30%)--_sm Maw(100%)--sm Fxb(2)">
-
-{{>event-date-time-location start=start end=end badge=badge}}
-
-<div class="D(f) Jc(c) Py(10px)">
-<a href="https://www.eventbrite.com/e/registration-{{event}}" rel="noopener noreferrer" target="_blank">
-<button type="button" class="P(1em) Bgc(#ff8100) Fw(b) Bdrs(10px)">Get Tickets</button>
-</a>
-</div>
-
-{{#if onSaleDate}}
-<script>onSaleDate('{{#date format='iso'}}{{onSaleDate}}{{/date}}');</script>
-{{/if}}
-
-</div>
-</div>
-
-{{>eventbrite-merit-badge-links badge=badge}}
-{{#if badge2}}
-{{>eventbrite-merit-badge-links badge=badge2}}
-{{/if}}
-
-{{>toggle-end}}
+<iframe
+    src="http://www.eventbrite.com/tickets-external?eid={{eventBriteEventId}}&ref=etckt"
+    frameborder="0"
+    width="100%"
+    vspace="0"
+    hspace="0"
+    marginheight="5"
+    marginwidth="5"
+    scrolling="auto"
+    allowtransparency="true"
+    class="H(425px)"
+></iframe>

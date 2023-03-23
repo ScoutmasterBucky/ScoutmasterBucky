@@ -1,0 +1,33 @@
+<div class="D(f) Jc(c) Ai(c) Fxd(c)--s">
+    <div class="Pend(10px) W(20%)--_sml W(25%)--l W(33%)--m W(50%)--s">
+        {{>badge-image}}
+    </div>
+    <div class="W(50%)--_s W(100%)--s">
+        {{>merit-badge-links badge=badge}} {{#if badge2}} {{>merit-badge-links
+        badge=badge2}} {{/if}}
+        <div class="D(f) Ai(c)">
+            <a
+                href="https://www.eventbrite.com/e/registration-{{event}}"
+                rel="noopener noreferrer"
+                target="_blank"
+                class="Pend(10px)"
+            >
+                <button
+                    type="button"
+                    class="P(1em) Bgc(#ff8100) Fw(b) Bdrs(10px)"
+                >
+                    Get Tickets
+                </button>
+            </a>
+            <div>
+                <a class="Fs(i) Td(n)" href="#prepare">How To Prepare For Class</a>
+            </div>
+        </div>
+    </div>
+
+    {{#if onSaleDate}}
+    <script>
+        onSaleDate('{{#date format='iso'}}{{onSaleDate}}{{/date}}');
+    </script>
+    {{/if}}
+</div>

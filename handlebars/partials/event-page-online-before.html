@@ -1,0 +1,61 @@
+<div class="P(15px)--_sm P(6px)--sm Bgc(#cc9900) Mb(20px)">
+    <div class="Bgc(white) P(10px)">
+        {{>event-page-header}}
+    </div>
+</div>
+
+<div class="W(100%)">
+    <div class="W(80%) M(a)">
+        <svg
+            version="1.1"
+            xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+            width="100%"
+            viewbox="0 0 575 262"
+        >
+            <image
+                xlink:href="{{@root.rootPath}}images/smb-online-logo2.jpg"
+                x="0"
+                y="0"
+                width="575"
+                height="262"
+            />
+            {{#if badge2}}
+            <a href="{{@root.rootPath}}merit-badges/{{badge}}/">
+                <image
+                    xlink:href="{{@root.rootPath}}{{#with (lookup @root.meritBadges badge)}}{{image}}{{/with}}"
+                    x="170"
+                    y="135"
+                    width="90"
+                    height="90"
+                />
+            </a>
+            <a href="{{@root.rootPath}}merit-badges/{{badge2}}/">
+                <image
+                    xlink:href="{{@root.rootPath}}{{#with (lookup @root.meritBadges badge2)}}{{image}}{{/with}}"
+                    x="221"
+                    y="135"
+                    width="90"
+                    height="90"
+                />
+            </a>
+            {{else}}
+            <a href="{{@root.rootPath}}merit-badges/{{badge}}/">
+                <image
+                    xlink:href="{{@root.rootPath}}{{#with (lookup @root.meritBadges badge)}}{{image}}{{/with}}"
+                    x="208"
+                    y="135"
+                    width="100"
+                    height="100"
+                />
+            </a>
+            {{/if}}
+        </svg>
+    </div>
+</div>
+
+<div class="D(f) Fxd(c) Ai(c) Jc(c)">
+{{>merit-badge-links badge=badge}} {{#if badge2}}
+{{>merit-badge-links badge=badge2}} {{/if}}
+<a class="Fs(i) Td(n)" href="#prepare">How To Prepare For Class</a>
+</div>

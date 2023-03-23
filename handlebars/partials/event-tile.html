@@ -1,4 +1,5 @@
-<div class="W(33%)--_sml W(50%)--l W(100%)--sm P(0.5em)">
+{{#unless hidden}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em)">
     <a href="/events/{{#change-md-to-html}}{{ancestry.basename}}{{/change-md-to-html}}" class="Td(n) C(in)">
         <div
             class="Bds(s) Bdw(2px) Bdrs(1em) P(0.5em) Bdc(--headingBackground):h Bdc(--heading2Background) Bgc(--accentBackground):h"
@@ -8,6 +9,11 @@
                     <div class="Fz(1.4em)">
                         {{#date format="h:mm a"}}{{event.eventDateStart}}{{/date}}
                     </div>
+                    {{#if online}}
+                    <div class="Fz(0.8em)">
+                        Central
+                    </div>
+                    {{/if}}
                     <script>
                         eventTileTime("{{#date format="iso-local"}}{{event.eventDateStart}}{{/date}}")
                     </script>
@@ -34,3 +40,4 @@
         </div>
     </a>
 </div>
+{{/unless}}

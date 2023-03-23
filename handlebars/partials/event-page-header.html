@@ -1,30 +1,31 @@
-{{#if online}}
-    <div class="P(15px)--_sm P(6px)--sm Bgc(#cc9900) Mb(20px)">
-{{else}}
-    {{#if meritBadge}}
-        <div class="P(15px)--_sm P(6px)--sm Bgc(#009933) Mb(20px)">
-    {{else}}
-        <div class="P(15px)--_sm P(6px)--sm Bgc(black) Mb(20px)">
-    {{/if}}
-{{/if}}
-
-
-<div class="Bgc(white) P(10px)">
-
 {{#if host}}
-<div class="D(f) Jc(c) Tt(u) C(red) Ta(c) Fw(b) Fz(32px)--_sml Fz(24px)--l Fz(20px)--m Fz(16px)--s">{{host}}</div>
+<div
+    class="D(f) Jc(c) Tt(u) C(red) Ta(c) Fw(b) Fz(32px)--_sml Fz(24px)--l Fz(20px)--m Fz(16px)--s"
+>
+    {{host}}
+</div>
+{{/if}} {{#if eventDateStart}}
+<div
+    class="D(f) Jc(c) Tt(u) C({{eventColor}}) Ta(c) Fw(b) Fz(32px)--_sml Fz(24px)--l Fz(20px)--m Fz(16px)--s"
+>
+    {{#date format="EEEE, MMMM d, y"}}{{eventDateStart}}{{/date}}<br />{{#date
+    format="h:mm a"}}{{eventDateStart}}{{/date}}{{#if eventDateEnd}} - {{#date
+    format="h:mm a"}}{{eventDateEnd}}{{/date}}{{/if}} Central
+</div>
+{{/if}} {{#if onSaleDate}}
+<script>
+    onSaleDate('{{#date format='iso'}}{{onSaleDate}}{{/date}}');
+</script>
 {{/if}}
-{{#if eventDateStart}}
-<div class="D(f) Jc(c) Tt(u) C({{eventColor}}) Ta(c) Fw(b) Fz(32px)--_sml Fz(24px)--l Fz(20px)--m Fz(16px)--s">{{#date}}{{eventDateStart}}{{/date}}</div>
-{{/if}}
-<div class="D(f) Jc(c) Tt(u) C(red) Ta(c) Fw(b) Fz(32px)--_sml Fz(24px)--l Fz(20px)--m Fz(16px)--s">{{title}}</div>
+<div
+    class="D(f) Jc(c) Tt(u) C(red) Ta(c) Fw(b) Fz(32px)--_sml Fz(24px)--l Fz(20px)--m Fz(16px)--s"
+>
+    {{title}}
+</div>
 {{#if location}}
 <div class="D(f) Fxd(c) Ai(c) Tt(u) C({{eventColor}}) Ta(c) Fw(b)">
-{{#location}}
-<div>{{.}}</div>
-{{/location}}
+    {{#location}}
+    <div>{{.}}</div>
+    {{/location}}
 </div>
 {{/if}}
-
-</div>
-</div>
