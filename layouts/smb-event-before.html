@@ -12,7 +12,12 @@
 
 {{#transform-elements}}
 
-{{>event-page-header}}
-
-{{#if online}}{{>event-page-online}}{{/if}}
-
+{{#if online}}
+{{>event-page-online-before}}
+{{else}}
+{{#if meritBadge}}
+{{>event-page-merit-badge-before}}
+{{else}}
+{{>event-page-other-before}}
+{{/if}}
+{{/if}}

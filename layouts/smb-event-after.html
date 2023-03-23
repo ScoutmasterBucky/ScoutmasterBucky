@@ -1,8 +1,12 @@
-{{#if eventBriteEventId}}
-<iframe src="http://www.eventbrite.com/tickets-external?eid={{eventBriteEventId}}&ref=etckt" frameborder="0" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true" class="H(425px)"></iframe>
+{{#if online}}
+{{>event-page-online-after}}
+{{else}}
+{{#if meritBadge}}
+{{>event-page-merit-badge-after}}
+{{else}}
+{{>event-page-other-after}}
 {{/if}}
-
-{{>online-class-preparation}}
+{{/if}}
 
 {{/transform-elements}}
 
