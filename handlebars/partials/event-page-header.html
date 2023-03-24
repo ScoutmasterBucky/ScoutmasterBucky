@@ -1,12 +1,12 @@
 {{#if host}}
 <div
-    class="D(f) Jc(c) Tt(u) C(red) Ta(c) Fw(b) Fz(32px)--_sml Fz(24px)--l Fz(20px)--m Fz(16px)--s"
+    class="D(f) Jc(c) C(red) Ta(c) Fw(b) Fz(32px)--_sml Fz(24px)--l Fz(20px)--m Fz(16px)--s"
 >
     {{host}}
 </div>
 {{/if}} {{#if eventDateStart}}
 <div
-    class="D(f) Jc(c) Tt(u) C({{eventColor}}) Ta(c) Fw(b) Fz(32px)--_sml Fz(24px)--l Fz(20px)--m Fz(16px)--s"
+    class="D(f) Jc(c) C({{eventColor}}) Ta(c) Fw(b) Fz(32px)--_sml Fz(24px)--l Fz(20px)--m Fz(16px)--s"
 >
     {{#date format="EEEE, MMMM d, y"}}{{eventDateStart}}{{/date}}<br />{{#date
     format="h:mm a"}}{{eventDateStart}}{{/date}}{{#if eventDateEnd}} - {{#date
@@ -18,12 +18,12 @@
 </script>
 {{/if}}
 <div
-    class="D(f) Jc(c) Tt(u) C(red) Ta(c) Fw(b) Fz(32px)--_sml Fz(24px)--l Fz(20px)--m Fz(16px)--s"
+    class="D(f) Jc(c) C(red) Ta(c) Fw(b) Fz(32px)--_sml Fz(24px)--l Fz(20px)--m Fz(16px)--s"
 >
     {{title}}
 </div>
 {{#if location}}
-<div class="D(f) Fxd(c) Ai(c) Tt(u) C({{eventColor}}) Ta(c) Fw(b)">
+<div class="D(f) Fxd(c) Ai(c) C({{eventColor}}) Ta(c) Fw(b)">
     {{#location}}
     <div>{{.}}</div>
     {{/location}}
