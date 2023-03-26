@@ -34,6 +34,12 @@ metalsmithSite.run(
             sugar.use("metalsmith-browserify-alt");
         },
         metadataAfter: (sugar) => {
+            // Add a second ancestry tree for items sorted in reverse
+            sugar.use("metalsmith-ancestry", {
+                ancestryProperty: "ancestryReverse",
+                reverse: true
+            });
+
             // Change the rootPath for the 404 page because it could be
             // loaded at any path.
             sugar.use((files, metalsmith, done) => {

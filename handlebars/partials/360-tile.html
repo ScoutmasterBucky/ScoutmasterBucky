@@ -1,0 +1,29 @@
+{{#unless hidden}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em)">
+    <a href="{{#change-md-to-html}}{{year}}/{{ancestry.basename}}{{/change-md-to-html}}" class="Td(n) C(in)">
+        <div
+            class="Bds(s) Bdw(2px) Bdrs(1em) P(0.5em) Bdc(--headingBackground):h Bdc(--heading2Background) Bgc(--accentBackground):h"
+        >
+            <div class="D(f) Jc(spa)">
+                {{#if logo}}
+                    <img class="Maw(33%) Mah(100px)" src="{{logo}}" />
+                {{else}}
+                    <img class="Maw(33%) Mah(100px)" src="/images/360-awareness-project-logo.png" />
+                {{/if}}
+                <div class="D(f) Fxd(c) Jc(c) Ai(c)">
+                    {{#date format="cccc"}}{{eventDate}}{{/date}}
+                    {{>calendar-day eventDate=eventDate}}
+                </div>
+                {{#if ribbon}}
+                    <img class="Maw(33%) Mah(100px)" src="{{ribbon}}" />
+                {{else}}
+                    <div class="W(64px)"></div>
+                {{/if}}
+            </div>
+            <div class="Ta(c) Pt(10px)">{{presenter}}</div>
+            <div class="Ta(c) Fz(1.4em) Fw(b)">{{event.title}}</div>
+            <div class="Ta(c) Fs(i)">{{summary}}</div>
+        </div>
+    </a>
+</div>
+{{/unless}}

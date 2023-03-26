@@ -15,6 +15,8 @@ js:
 
 # <div class="D(f) Jc(spb) Ai(b) Fxd(c)--s"><div>Welcome</div><div class="Fz(0.4em) Fw(n) Tt(n)">Last Update: {{#date}}{{buildDate}}{{/date}}</div></div>
 
+<div class="D(f) Fxd(c)--sm Jc(spa)">
+<div>
 <div class="C(--themeText) Fw(b) Fz(2em) D(f) Jc(c)">Scoutmaster Bucky</div>
 <div class="D(f) Jc(c) Pb(1em)">Serving Scouts since January 2009</div>
 
@@ -25,8 +27,15 @@ js:
 <div class="Ta(c)">At Scoutmaster Bucky events this is not a request, wish, or desire…</div>
 
 <div class="Ta(c)">{{#smb-accent}}it is an expectation.{{/smb-accent}}</div>
+</div>
+<div class="D(f) Ai(c) Fxd(c) Maw(30%)--l Maw(25%)--_sml">
+<a class="D(f) Jc(c)" href="/360/"><img src="/images/360-awareness-project-logo.png" class="W(80%)--_sm W(35%)--m W(60%)--s H(a)"></a>
+<div class="Pt(0.5em)"><a href="/360/">Follow our 2023 progress</a></div>
+</div>
+</div>
 
 {{#if news}}
+
 ## News
 
 {{#figure-container align="left" position="top"}}
@@ -34,6 +43,7 @@ js:
 {{^}}
 
 {{#news}}
+
 <div class="D(f)">
 <div class="D(f) C(red) Fw(b) Px(8px)">NEW!</div>
 <div>
@@ -69,4 +79,6 @@ Scoutmaster Bucky is Brian Reiners and is registered in Northern Star Scouting o
 
 Contact number: 612-483-0665<br />
 Email: <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry">ScoutmasterBucky@yahoo.com</a>
+
+Learn more about [Scoutmaster Bucky and his team](/about-us/).
 {{/figure-container}}
