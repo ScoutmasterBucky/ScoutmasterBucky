@@ -3,9 +3,12 @@ title: Scoutmaster Bucky
 layout: smb
 opportunities: 15,000+
 online: 2,000+
+# Show the news section when there are items in the list.
+# Add items to the news so they look like this:
+# news:
+#     - This is news item 1
+#     - A second news item.
 news:
-    - February 11, 2023 in Bloomington, Minnesota will be an in person event.  Registration opens soon
-    - More online classes coming in early 2023, keep checking back!
 js:
     - js/index.js
 ---
@@ -23,6 +26,7 @@ js:
 
 <div class="Ta(c)">{{#smb-accent}}it is an expectation.{{/smb-accent}}</div>
 
+{{#if news}}
 ## News
 
 {{#figure-container align="left" position="top"}}
@@ -40,6 +44,7 @@ js:
 </div>
 {{/news}}
 {{/figure-container}}
+{{/if}}
 
 ## Upcoming Events
 
