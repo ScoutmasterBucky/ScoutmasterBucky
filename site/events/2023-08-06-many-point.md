@@ -8,4 +8,4 @@ icon: /images/bucky-waving.jpg
 
 Come join Scoutmaster Bucky for the Funnest Week Of Many Point Ever!
 
-{{>eventBrite eventBriteEventId="123"}}
+{{>eventbrite eventBriteEventId="123"}}
