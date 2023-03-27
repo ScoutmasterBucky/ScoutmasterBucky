@@ -8,9 +8,12 @@ layout: smb
 ***First and foremost, the Scoutmaster Bucky program started, grew, and exists because of the dedication, commitment, and support to our youth that so many fellow volunteers have given, and continue to give, to Scouting and the Scoutmaster Bucky Program. THANK YOU VERY MUCH each and every one of you.***
 
 The Scoutmaster Bucky Program started in January 2009, by accident. As a monthly Saturday morning merit badge get-together for the handful of Scouts that formed Scoutmaster Bucky's first troop. These opportunities were also made available to neighboring troops in the spirit of Scouting to join in. Interest and popularity spread quickly and growth doubled each month; 12 Scout that first January growing to nearly 200 Scouts attending the montly event in May of that year.
-
+{{#figure-container position="top"}}
 
 <img src="smb-invasive-species.jpg" class="Maw(100%)">
+
+{{^}}
+
 In 2012, the Scoutmaster Bucky program was asked to pilot a potential new merit badge for the Boy Scouts of America on Invasive Species.  100 local Scouts participated and had positive feedback, but due to changes at the time at the National level, this merit badge never came to be.
 
 In 2013 the Scoutmaster Bucky progrma introduced the **Honor Weekend** program; a weekend-long program for teenagers focusing on manners, etiquette, and social graces which ran until 2020. Also in 2013, the **Scoutmaster Bucky Online** program was one of the first to offer online merit badge opportunities. Some in the online community loudly proclaimed unwarranted criticism of these online offerings, at least until 2020. Everything changed as the COVID-19 pandemic ascended upon our Scouting world and attitudes seemed to change almost overnight.
@@ -20,8 +23,11 @@ The Scoutmaster Bucky Online Program in 2020 gained tremendous awareness and a f
 **ScoutmasterBucky.com** strives to provide the most accurate and current version of requirements and insight in Scouting in the areas of STEM, Merit Badges, and more. With new content always being developed and added, the website is a platform for innovationa and evolution for Today's Scouting youth and their families. As such, the Scoutmaster Bucky website is one of the most visited Scouting websites online today.
 
 Today, the Scoutmaster Bucky Program, like so many other things, is slowly regrouping from the tragic aftermath of the COVID 19 pandemic.  We have seen slow but continual growth again and are excited to be evolving, innovating, and providing opportunities for our Scouting youth, and beyond, to help them "Be Prepared!"
+{{/figure-container}}
 
-## About Scoutmaster Bucky
+## The Scoutmaster Bucky Team
+
+### Scoutmaster Bucky (Brian Reiners)
 
 {{#figure-container position="top"}}
 
@@ -39,8 +45,47 @@ Scoutmaster Bucky has been recognized with many awards and recognitions during h
 Brian's skills in public speaking, training and mentoring coupled with his energy, passion, and natural ability to connect with youth, make him a favorite counselor for the youth.
 {{/figure-container}}
 
-## More About his Team
 
 ### Mrs. Scoutmaster Bucky (Cheryl Reiners)
 
-Cheryl is his second in command, ensuring registration runs smoothly and allows him to have online classes.
+Coming soon!
+
+
+### Scoutmaster Jeff aka Earnest the Eagle (Jeff Jurek)
+
+Coming soon!
+
+
+### Mr Clever Coyote (Tyler Akins)
+
+Coming soon!
+
+
+### Magical Mary (Mary Wangerin)
+
+Coming soon!
+
+
+### Gracious Mary (Mary Woida)
+
+Coming soon!
+
+
+### Virtuous Vicki (Vicki Jurek)
+
+Coming soon!
+
+
+### Tony Vu Tiger (Tony Phan)
+
+Coming soon!
+
+
+### El Sal Dior (Sal Aloisio)
+
+Coming soon!
+
+
+### Advisor Bev (Bev Verweg)
+
+Coming soon!
