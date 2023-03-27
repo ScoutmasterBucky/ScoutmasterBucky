@@ -6,7 +6,7 @@ presenter: Scoutmaster Bucky
 # Logo is optional. If no logo, delete the line or comment it out.
 # logo: bucky.jpg
 # Ribbon is optional. If no ribbon, delete the line or comment it out.
- ribbon: ribbon/ar-light-blue.png
+ribbon: ribbon/ar-light-blue.png
 layout: smb-360
 summary: I have Stage 4 Prostate Cancer
 ---
