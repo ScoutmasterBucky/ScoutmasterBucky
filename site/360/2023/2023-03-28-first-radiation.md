@@ -6,7 +6,7 @@ presenter: Brian and Cheryl Reiners
 # Logo is optional. If no logo, delete the line or comment it out.
 logo: ribbon/ar-orange.png
 # Ribbon is optional. If no ribbon, delete the line or comment it out.
-ribbon: ribbon/ar-light blue.png
+ribbon: ribbon/ar-light-blue.png
 layout: smb-360
 summary: ...in sickness and in health...
 ---
