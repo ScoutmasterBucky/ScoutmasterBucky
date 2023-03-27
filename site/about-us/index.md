@@ -53,9 +53,21 @@ Coming soon!
 Coming soon!
 
 
-### Mr Clever Coyote (Tyler Akins)
+### Tyler Akins, the Guy in Green
 
-Coming soon!
+{{#figure-container position="top"}}
+
+<img src="/images/clever-coyote-logo.png" class="Maw(100%)">
+
+{{^}}
+When his son joined Scouts in 2011, Tyler understood that many hands make light work, so he volunteered to help the Cub Scout pack in any way he could. Likewise, they moved to a troop and Tyler saw a golden opportunity to help Scouts. He'd become a merit badge counselor, Nova award counselor, and Supernova award mentor. (He loves STEM stuff!) After bumping into Brian Reiners and working with him for a while, Tyler has updated the Scoutmaster Bucky website and loves to assist at Scoutmaster Bucky merit badge days.
+
+In his Scouting career, he has served as a committee member and Assistant Scoutmaster for his family's troops. Tyler has received two awards of merit from different districts, but prefers to avoid additional recognition. He's attended Wood Badge and helped at a few council camporees and likes to instruct youth at the College of Wilderness Knowledge on weekends.
+
+He is also the sole coordinator of [Clever Coyote](https://clever-coyote.8b.io/), a 24-hour survival event. Its theme changes yearly and isn't advertised in advance, so the attendees do not know how to best prepare. It's a very free-form adventure where Scouts choose what they tackle and how they want to solve each survival-related problem. There's no hand-holding and it's hard, just like survival.
+
+Tyler believes that Scouting is a unique way to help prepare youth to make it through any problem, from getting fired at work to thinking fast during a tornado. He's simply offering his services to anyone that wants them; all of the accomplishments are really the youth's. You're welcome to reach out to him too.
+{{/figure-container}}
 
 
 ### Magical Mary (Mary Wangerin)
