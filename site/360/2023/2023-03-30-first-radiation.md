@@ -1,5 +1,5 @@
 ---
-hidden: true
+hidden: false
 eventDate: '2023-03-30'
 title: We're in this Together
 presenter: Brian and Cheryl Reiners

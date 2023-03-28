@@ -1,5 +1,5 @@
 ---
-hidden: true
+hidden: false
 eventDate: '2023-03-31'
 title: Teen Challenge
 presenter: Daron Meyer
