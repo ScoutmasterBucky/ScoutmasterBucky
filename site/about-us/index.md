@@ -11,6 +11,7 @@ The Scoutmaster Bucky Program started in January 2009, by accident. As a monthly
 {{#figure-container position="top"}}
 <img src="smb-invasive-species.jpg" class="Maw(100%)">
 {{^}}
+
 In 2012, the Scoutmaster Bucky program was asked to pilot a potential new merit badge for the Boy Scouts of America on Invasive Species.  100 local Scouts participated and had positive feedback, but due to changes at the time at the National level, this merit badge never came to be.
 
 In 2013 the Scoutmaster Bucky program introduced the **Honor Weekend** program; a weekend-long program for teenagers focusing on manners, etiquette, and social graces which ran until 2020. Also in 2013, the **Scoutmaster Bucky Online** program was one of the first to offer online merit badge opportunities. Some in the online community loudly proclaimed unwarranted criticism of these online offerings, at least until 2020. Everything changed as the COVID-19 pandemic ascended upon our Scouting world and attitudes seemed to change almost overnight.
