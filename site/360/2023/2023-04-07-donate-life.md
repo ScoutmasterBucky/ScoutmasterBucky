@@ -4,7 +4,7 @@ eventDate: '2023-04-07'
 title: Organ and Tissue Donation Month
 presenter: Heather Klemm
 # Logo is optional. If no logo, delete the line or comment it out.
-logo: 2023-04-07-logo.png
+logo: 2023-graphics/donate-life-logo.png
 # Ribbon is optional. If no ribbon, delete the line or comment it out.
 ribbon: ribbon/ar-green.png
 layout: smb-360
@@ -19,7 +19,7 @@ This National Donate Life Month, we ask you to be a part of this interconnected 
 
 Find out more at https://donatelife.net/
 
-<img src="2023-04-07-001.png" class="Maw(100%)">
+<img src="2023-graphics/donate-life-pic-01.png" class="Maw(100%)">
 
 #360Bucky
 
