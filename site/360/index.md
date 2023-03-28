@@ -6,7 +6,7 @@ hidden: true
 
 ## 2023 <span class="C(red)">&lt;3</span>60 Awareness Project
 
-In November 2022, shortly after Thanksgiving, I (Scoutmaster Bucky) was initially diagnosed with Stage 4 Prostate Cancer.  Over these initial 4 months, navigating the unknown, discovering good and bad, grasping mortality and faith, traversing the highs and lows, and redefining life ambitions and goals, I present the "<360 Awareness Project".
+In November 2022, shortly after Thanksgiving, I (Scoutmaster Bucky) was initially diagnosed with Stage 4 Prostate Cancer.  Over these initial 4 months, navigating the unknown, discovering good and bad, grasping mortality and faith, traversing the highs and lows, and redefining life ambitions and goals, I present the <span class="C(red)">&lt;3</span>60 Awareness Project.
 
 This initiative is to get people talking... to help bring awareness to causes, issues, and organizations; to help broaden your own self and social awareness.
 
