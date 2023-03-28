@@ -1,6 +1,6 @@
 ---
-hidden: false
-eventDate: '2023-03-27'
+hidden: true
+eventDate: '2023-03-29'
 title: Prostate Cancer
 presenter: Scoutmaster Bucky
 # Logo is optional. If no logo, delete the line or comment it out.
