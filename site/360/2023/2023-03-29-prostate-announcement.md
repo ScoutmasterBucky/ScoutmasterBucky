@@ -1,5 +1,5 @@
 ---
-hidden: true
+hidden: false
 eventDate: '2023-03-29'
 title: Prostate Cancer
 presenter: Brian Reiners
