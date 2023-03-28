@@ -13,6 +13,8 @@ summary: In-Person Merit Badge Days since 2009
 
 Add text here
 
-#360Bucky
+<span class="C(red)">&lt;3</span>60 Awareness Project#360Bucky
+
+<span class="C(red)">&#35360Bucky</span>
 
 
