@@ -5,7 +5,7 @@ title: Prostate Cancer
 presenter: Brian Reiners
 # Logo is optional. If no logo, delete the line or comment it out.
 # This is relative to the index file, not this file.
-# logo: bucky.jpg
+# logo: ribbon/ar-light-blue.png
 # Ribbon is optional. If no ribbon, delete the line or comment it out.
 # This is relative to the index file, not this file.
 ribbon: ribbon/ar-light-blue.png
@@ -22,3 +22,7 @@ I'd love to hear your thoughts or comments so don't be shy, comment on the socia
 Stay Positive, I certainly am
 
 Scoutmaster Bucky
+
+<span class="C(red)">&lt;3</span>60 Awareness Project#360Bucky
+
+<span class="C(red)">&#35360Bucky</span>
