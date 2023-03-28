@@ -13,9 +13,17 @@
                 </div>
 
 {{#transform-elements}}
-                <h2>{{title}}</h2>
-                <h3>{{#date}}{{eventDate}}{{/date}}</h3>
-                <div>{{presenter}}</div>
+
+                <div class="D(f) Jc(spb)">
+                    <div>
+                        <h2>{{title}}</h2>
+                        <h3>{{#date}}{{eventDate}}{{/date}}</h3>
+                        <div>{{presenter}}</div>
+                    </div>
+                    {{#if ribbon}}
+                    <img src="../{{ribbon}}" class="Mah(4.5em) W(a)">
+                    {{/if}}
+                </div>
 
                 <h3 id="title">{{title}}</h3>
 
