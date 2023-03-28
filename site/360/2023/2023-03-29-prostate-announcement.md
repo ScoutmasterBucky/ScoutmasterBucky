@@ -4,8 +4,10 @@ eventDate: '2023-03-29'
 title: Prostate Cancer
 presenter: Brian Reiners
 # Logo is optional. If no logo, delete the line or comment it out.
+# This is relative to the index file, not this file.
 # logo: bucky.jpg
 # Ribbon is optional. If no ribbon, delete the line or comment it out.
+# This is relative to the index file, not this file.
 ribbon: ribbon/ar-light-blue.png
 layout: smb-360
 summary: I have Stage 4 Prostate Cancer
