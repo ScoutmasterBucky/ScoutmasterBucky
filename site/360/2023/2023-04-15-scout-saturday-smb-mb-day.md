@@ -1,5 +1,5 @@
 ---
-hidden: true
+hidden: false
 eventDate: '2023-04-15'
 title: Scout Saturday - Scoumaster Bucky Merit Badeg Day
 presenter: Scoutmaster Bucky

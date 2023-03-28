@@ -1,5 +1,5 @@
 ---
-hidden: true
+hidden: false
 eventDate: '2023-04-08'
 title: Scout Saturday - Scoumaster Bucky Online
 presenter: Scoutmaster Bucky
