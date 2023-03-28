@@ -2,7 +2,7 @@
 hidden: false
 eventDate: '2023-03-29'
 title: Prostate Cancer
-presenter: Scoutmaster Bucky
+presenter: Brian Reiners
 # Logo is optional. If no logo, delete the line or comment it out.
 # logo: bucky.jpg
 # Ribbon is optional. If no ribbon, delete the line or comment it out.
