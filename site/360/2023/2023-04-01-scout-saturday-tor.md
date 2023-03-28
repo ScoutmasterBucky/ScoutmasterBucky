@@ -1,5 +1,5 @@
 ---
-hidden: false
+hidden: true
 eventDate: '2023-04-01'
 title: Scout Saturday - BSA's Torch of Gold Award
 presenter: Scoutmaster Bucky
