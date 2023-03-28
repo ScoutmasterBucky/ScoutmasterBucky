@@ -1,6 +1,6 @@
 ---
 hidden: true
-eventDate: '2023-03-28'
+eventDate: '2023-03-30'
 title: We're in this Together
 presenter: Brian and Cheryl Reiners
 # Logo is optional. If no logo, delete the line or comment it out.
