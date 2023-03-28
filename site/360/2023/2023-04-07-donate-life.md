@@ -1,5 +1,5 @@
 ---
-hidden: false
+hidden: true
 eventDate: '2023-04-07'
 title: Organ and Tissue Donation Month
 presenter: Heather Klemm
@@ -23,7 +23,7 @@ Find out more at https://donatelife.net/
 
 ***<span class="C(red)">&lt;3</span>60 Awareness Project***
 
-***<span class="C(orange)">#360Bucky</span>
+***<span class="C(red)">#360Bucky</span>***
 
 
 
