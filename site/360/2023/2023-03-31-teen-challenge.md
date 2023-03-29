@@ -32,8 +32,3 @@ Learn more about Minnesota Adult & Teen Challenge’s services <a href="https://
 
 
 
-***<span class="C(red)">&lt;3</span>60 Awareness Project***
-
-***<span class="C(red)">#360Bucky</span>***
-
-

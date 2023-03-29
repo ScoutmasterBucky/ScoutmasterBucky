@@ -13,8 +13,6 @@ summary: Providing Online Advancement Opportunities since 2013
 
 Add text here
 
-***<span class="C(red)">&lt;3</span>60 Awareness Project***
 
-***<span class="C(red)">#360Bucky</span>***
 
 

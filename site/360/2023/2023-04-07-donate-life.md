@@ -21,9 +21,7 @@ Find out more at https://donatelife.net/
 
 <img src="graphics/donate-life-pic-01.png" class="Maw(100%)">
 
-***<span class="C(red)">&lt;3</span>60 Awareness Project***
 
-***<span class="C(red)">#360Bucky</span>***
 
 
 

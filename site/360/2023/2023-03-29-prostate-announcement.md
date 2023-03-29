@@ -23,7 +23,3 @@ Stay Positive, I certainly am
 
 Scoutmaster Bucky
 
-
-***<span class="C(red)">&lt;3</span>60 Awareness Project***
-
-***<span class="C(red)">#360Bucky</span>***
