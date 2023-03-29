@@ -1,5 +1,5 @@
 ---
-hidden: false
+hidden: true
 eventDate: '2023-04-02'
 title: Sunday Funday - Awareness Ribbons
 presenter: Scoutmaster Bucky
