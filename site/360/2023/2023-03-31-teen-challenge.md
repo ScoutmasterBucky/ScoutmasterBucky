@@ -14,7 +14,7 @@ summary: Minnesota Adult and Teen Challenge
 
 
 <div class="D(f) Jc(c)">
-<img src="graphics/mnatc-pic-01.jpg" class="Maw(100%)">
+<img src="graphics/mnatc-pic-01.png" class="Maw(100%)">
 </div>
 
 
