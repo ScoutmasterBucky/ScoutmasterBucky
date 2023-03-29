@@ -1,5 +1,5 @@
 ---
-hidden: false
+hidden: true
 eventDate: '2023-03-31'
 title: Adult and Teen Challenge
 presenter: Daron Meyer
@@ -13,7 +13,7 @@ summary: Minnesota Adult and Teen Challenge
 ***Our mission is to assist men, women and teens in gaining freedom from chemical addictions and other life-controlling problems by addressing their physical, emotional and spiritual needs*** **- Minnesota Adult and Teen Challenge**
 
 
-<div class="D(f) Jc(c)">
+<div class="D(f) Jc(c) My(1.4em)">
 <img src="graphics/mnatc-pic-01.png" class="Maw(100%)">
 </div>
 
