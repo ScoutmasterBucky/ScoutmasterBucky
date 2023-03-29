@@ -23,7 +23,7 @@ This initiative is to get people talking... to help bring awareness to causes, i
 {{/figure-container}}
 
 
-<div class="D(f) Fxw(w) Jc(sb) Ai(fs) Ta(in)">
+<div class="D(f) Fxw(w) Jc(sb) Ai(fs) Ta(in) Mt(1.4em)">
 {{#ancestryReverse.childrenByName.2023.ancestryReverse.members}}
 {{>360-tile event=. year=2023}}
 {{/ancestryReverse.childrenByName.2023.ancestryReverse.members}}
