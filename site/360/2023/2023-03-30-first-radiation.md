@@ -32,8 +32,5 @@ In one of the upcoming days we will revisit Cheryl's MS, but for now I am so hap
 
 So in summary, today's topic is love...unconditional love.  Make a point to tell someone that you love them today and every day thereafter.  Don't just say the words, tell them why you love them. And if someone out there thinks they don't have someone that loves them, well just give Cheryl and I a call, we've got lots of love to share, because our love is strong and there's plenty to go around.  I love you Cheryl!
 
-***<span class="C(red)">&lt;3</span>60 Awareness Project***
-
-***<span class="C(red)">#360Bucky</span>***
 
 

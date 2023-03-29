@@ -13,8 +13,6 @@ summary: Awareness Ribbons for hundreds of health concerns, social causes, and o
 
 Add text here
 
-***<span class="C(red)">&lt;3</span>60 Awareness Project***
 
-***<span class="C(red)">#360Bucky</span>***
 
 
