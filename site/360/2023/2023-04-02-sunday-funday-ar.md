@@ -8,7 +8,7 @@ presenter: Scoutmaster Bucky
 # Ribbon is optional. If no ribbon, delete the line or comment it out.
 ribbon: 2023/graphics/sunday-funday-logo.png
 layout: smb-360
-summary: Awareness Ribbons for hnudreds of causes, xxxx, and organizations
+summary: Awareness Ribbons for hundreds of health concerns, social causes, and organizations
 ---
 
 Add text here
