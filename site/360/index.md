@@ -14,7 +14,7 @@ In November 2022, shortly after Thanksgiving, I (Scoutmaster Bucky) was initiall
 
 This initiative is to get people talking... to help bring awareness to causes, issues, and organizations; to help broaden your own self and social awareness.
 
-***<span class="C(red)">&lt;3</span>60 Awareness Project*** 60 days, 60 topics, 60 seconds.
+***<span class="C(red)">&lt;3</span>60 Awareness Project*** - 60 days, 60 topics, 60 seconds.
 
 ***<span class="C(red)">#360Bucky</span>***
 {{/figure-container}}

@@ -18,7 +18,7 @@ summary: Minnesota Adult and Teen Challenge
 </div>
 
 
-Adult & Teen Challenge provides Christian faith-based, residential care to young people and adults who struggle with addiction and life-controlling problems. It is ATC's goal to provide a start for men and women and empower them to become mentally sound, emotionally balanced, socially adjusted, physically well, and spiritually alive. The program will provide an opportunity from the damaging atmosphere of the past and permit time to make quality decisions for a hopeful future.
+Adult and Teen Challenge provides Christian faith-based, residential care to young people and adults who struggle with addiction and life-controlling problems. It is ATC's goal to provide a start for men and women and empower them to become mentally sound, emotionally balanced, socially adjusted, physically well, and spiritually alive. The program provides an opportunity from the damaging atmosphere of the past and permits time for individuals to make quality decisions for a hopeful future.
 
 Addiction does not just affect the addict; it is also damaging to family members, people who care about you and people you work with. There are problems besides drugs and alcohol that have the potential to do as much damage as substance abuse. In fact, substance abuse is often symptomatic of much deeper life-controlling problems, such as lifestyle addictions. Lifestyle addictions cover a wide array of issues that affect many people such as poor self-image, violence and anger issues, eating disorders, and sexual addiction. People struggling with these issues can also benefit from an addiction recovery program.
 
@@ -26,7 +26,7 @@ Through effective discipleship, mentoring, and life-skills training, Adult and T
 
 A recent study conducted by the Center for Compassion at Evangel University confirms that an astonishing 78% of graduates from Adult & Teen Challenge addiction recovery centers remain sober and substance free post-graduation! Furthermore, the study showed those same graduates indicated holistic improvement across multiple health indicators, from sobriety to relational and spiritual dimensions, following their recovery through Adult and Teen Challenge centers.
 
-Unfortunately, the program relies on community support, and while demand has gone up, donations have drastically decreased. If you’re interested in supporting Minnesota Adult & Teen Challenge, you can make a donation on their website.
+The program relies on community support, and while demand has gone up, donations have drastically decreased. If you’re interested in supporting Minnesota Adult & Teen Challenge, you can make a donation on their website.
 
 Learn more about Minnesota Adult & Teen Challenge’s services <a href="https://www.mntc.org/">here</a>.
 

@@ -27,9 +27,6 @@ It didn't take us long to decide how we wanted to proceed together with this dia
 
 4. At worse, we have each other, and we are in this together.  This 4-month journey has really helped clarify personal relationships with friends and family.  With only a few exceptions, we have found so much more love and support than we ever realized. For those genuine and true friends, both of us extend our gracious love and thanks to you.
 
-Cheryl's Multiple Sclerosis has not really evolved since her diagnosis. She lives with it each day.  She is my inspiration to be strong, not complain, and to power through, just like her.  She reminds me regularly that I promised her that she could be the one to leave this Earth first, so I have another reason to fight hard, because I am a man of my word and will do everything I can to live up to the promises I make.
-In one of the upcoming days we will revisit Cheryl's MS, but for now I am so happy to have the best co-captain on this cruise through life.
-
 So in summary, today's topic is love...unconditional love.  Make a point to tell someone that you love them today and every day thereafter.  Don't just say the words, tell them why you love them. And if someone out there thinks they don't have someone that loves them, well just give Cheryl and I a call, we've got lots of love to share, because our love is strong and there's plenty to go around.  I love you Cheryl!
 
 
