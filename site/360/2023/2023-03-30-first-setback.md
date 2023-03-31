@@ -13,9 +13,9 @@ summary: one door closes another door opens
 
 ***"We have complete control over our own attitude. We are the ones who decide how we feel, how we look at things, how we react."*** *- Catherine Pulsifer*
 
-What a surprise when I arrived for my first day of treatment. Cheryl and I had a whole routine we were going to improv and film to kick off the <360 Awareness Project and my impression of a microwaveable popcorn bag.  As you may have seen in our Day 1 video, we showed up only to find that the radiation plan was yet again going through another rewrite.
+What a surprise when I arrived for my first day of treatment. Cheryl and I had a whole routine we were going to improv and film to kick off the **<span class="C(red)">&lt;3</span>60 Awareness Project** and my impression of a microwaveable popcorn bag.  As you may have seen in our Day 1 video, we showed up only to find that the radiation plan was yet again going through another rewrite.
 
-Late last week, when reviewing scans and records, my oncologist determined that some additional hot spots for Cancer were detected in a couple more lymph nodes.  While I admit, this "setback" was disappointing, I guess the alternative (being dead sooner) is not as appealing as waiting a few days.  However, we are not waiting to push forward on the <360 Awareness Project.
+Late last week, when reviewing scans and records, my oncologist determined that some additional hot spots for Cancer were detected in a couple more lymph nodes.  While I admit, this "setback" was disappointing, I guess the alternative (being dead sooner) is not as appealing as waiting a few days.  However, we are not waiting to push forward on the **<span class="C(red)">&lt;3</span>60 Awareness Project**.
 
 We felt this first day was a perfect opportunity to highlight that when it comes to medicine, change is always present, flexibility is must, and nothing is guaranteed.  We live our lives chasing schedules and goals that we often times forget to stop and "smell the roses". We forget to stop and appreciate this thing called life.  Remember, change will happen whether you want it to or not, however it's how you choose to deal with change that will make it seem tolerable or not.
 
