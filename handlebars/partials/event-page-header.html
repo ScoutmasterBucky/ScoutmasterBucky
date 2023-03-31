@@ -4,24 +4,30 @@
 >
     {{host}}
 </div>
-{{/if}} {{#if eventDateStart}}
-<div
-    class="D(f) Jc(c) C({{eventColor}}) Ta(c) Fw(b) Fz(32px)--_sml Fz(24px)--l Fz(20px)--m Fz(16px)--s"
->
-    {{#date format="EEEE, MMMM d, y"}}{{eventDateStart}}{{/date}}<br />{{#date
-    format="h:mm a"}}{{eventDateStart}}{{/date}}{{#if eventDateEnd}} - {{#date
-    format="h:mm a"}}{{eventDateEnd}}{{/date}}{{/if}} Central
-</div>
-{{/if}} {{#if onSaleDate}}
-<script>
-    onSaleDate('{{#date format='iso'}}{{onSaleDate}}{{/date}}');
-</script>
 {{/if}}
 <div
     class="D(f) Jc(c) C(red) Ta(c) Fw(b) Fz(32px)--_sml Fz(24px)--l Fz(20px)--m Fz(16px)--s"
 >
     {{title}}
 </div>
+{{#if eventDateStart}}
+<div
+    class="D(f) Jc(c) C({{eventColor}}) Ta(c) Fw(b) Fz(32px)--_sml Fz(24px)--l Fz(20px)--m Fz(16px)--s"
+>
+    {{#if multipleDays}}
+    Starts: {{#date format="EEEE, MMMM d, y"}}{{eventDateStart}}{{/date}}{{#unless hideTimes}} at {{#date format="h:mm a"}}{{eventDateStart}}{{/date}}{{/unless}}<br />
+    Finishes: {{#date format="EEEE, MMMM d, y"}}{{eventDateEnd}}{{/date}}{{#unless hideTimes}} at {{#date format="h:mm a"}}{{eventDateEnd}}{{/date}}{{/unless}}
+    {{else}}
+    {{#date format="EEEE, MMMM d, y"}}{{eventDateStart}}{{/date}}{{#unless hideTimes}}<br />
+    {{#date format="h:mm a"}}{{eventDateStart}}{{/date}}{{#if eventDateEnd}} - {{#date format="h:mm a"}}{{eventDateEnd}}{{/date}}{{/if}} Central
+    {{/unless}}
+    {{/if}}
+</div>
+{{/if}} {{#if onSaleDate}}
+<script>
+    onSaleDate('{{#date format='iso'}}{{onSaleDate}}{{/date}}');
+</script>
+{{/if}}
 {{#if location}}
 <div class="D(f) Fxd(c) Ai(c) C({{eventColor}}) Ta(c) Fw(b)">
     {{#location}}
