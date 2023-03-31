@@ -23,6 +23,7 @@ summary: Scouting for Youth with Special Needs and Disabilities
 Since its founding in 1910, the Boy Scouts of America has had fully participating members with physical, mental, and emotional disabilities. Even the Boy Scouts of America's first Chief Scout Executive, James E. West, had a disability. He was born May 16, 1876, never knew his father and his mother died when he was six. He spent most of his youth in a Washington, D.C. orphanage. At the age eight he spent two years in a hospital where he was treated for tuberculosis, which left one leg crippled.
 
 No foolin', I am honored to have received the BSA's Torch of Gold Award today, April 1, 2023 at the Northern Star Council's Annual Adult Volunteer Recognition Event.  While this post to some may seem self promoting, most will understand that I am sharing the receipt of this award to help bring awareness and NOT brag. Most of life's recognitions are not those that we seek but rather those that find us; the BSA's Torch of Gold Award is definetly one that found me.
+{{/figure-container}}
 
 {{#figure-container}}
 <img src="graphics/tog-award.png" class="Maw(100%)">
@@ -42,8 +43,6 @@ Need a starting point?
 *Chair of the Boy Scouts of America National Special Needs and Disabilities Committee* - Warren Wenner, CNP (specialneedschair@scouting.org)
 
 *Co-Chairs of the Northern Star Scouting Special Needs and Disabilities Committee* - Mary Wangerin (wangerinmary@gmail.com) or Donna Larson
-{{/figure-container}}
-{{/figure-container}}
 {{/figure-container}}
 
 
