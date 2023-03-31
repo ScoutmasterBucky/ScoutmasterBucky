@@ -58,7 +58,7 @@ Coming soon!
 
 {{#figure-container position="top"}}
 
-<img src="/images/clever-coyote-logo.png" class="Maw(100%)">
+<img src="tyler-akins-profile.jpg" class="Maw(100%)">
 
 {{^}}
 When his son joined Scouts in 2011, Tyler understood that many hands make light work, so he volunteered to help the Cub Scout pack in any way he could. Likewise, they moved to a troop and Tyler saw a golden opportunity to help Scouts. He'd become a merit badge counselor, Nova award counselor, and Supernova award mentor. (He loves STEM stuff!) After bumping into Brian Reiners and working with him for a while, Tyler has updated the Scoutmaster Bucky website and loves to assist at Scoutmaster Bucky merit badge days.
