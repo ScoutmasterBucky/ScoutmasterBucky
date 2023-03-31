@@ -2,10 +2,15 @@
 layout: smb-event
 title: Clever Coyote
 subtitle: Mayday @ Birch Bend Campground
-eventDateStart: 2023-05-20 7:00
+eventDateStart: 2023-05-20 8:00
 eventDateEnd: 2023-05-21 9:00
+multipleDays: true
 registrationLink: https://clever-coyote.8b.io/registration.html
 icon: /images/clever-coyote-logo.png
+location:
+    - Birch Bend
+    - 33082 268th St
+    - Pierz, MN 56364
 ---
 
 <div class="W(35%)--_s W(70%)--s M(a)">

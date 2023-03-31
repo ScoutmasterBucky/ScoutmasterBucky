@@ -51,15 +51,7 @@ The index page lists the events - they are slurped up into the index page.
 
 * `{{>event-badge-header badge="geocaching"}}` - Shows an event header with "Scoutmaster Bucky", the Bucky-themed image, and the round merit badge. Centers text below the "Scoutmaster Bucky" logo.
 
-* `{{>event-banner host="The Location" title="Energy Extravaganza"}}` - Shows the banner at the top of an in-person event. Shows the starting time of the event (`eventDateStart`) using the color (`eventColor`) in the event's metadata.
-
 * `{{>event-date-time-location start="2020-01-31T13:59:59Z" end="2020-01-31T15:05:00Z"}}` - Lists the date and time for the event, when it starts and when it ends. Also will set up the translation of the time into the browser's timezone if it is not the same as the site's. Only usable on the index page and in events.
-
-* `{{>event-type-generic}}` - Wrapper for events without a more specific wrapper. Black border.
-
-* `{{>event-type-merit-badge}}` - Wrapper for in-person events. Green border.
-
-* `{{>event-type-online}}` - Wrapper for online events. Gold border.
 
 * `{{>event}}` - Display an event using the event's metadata. Chooses what type of wrapper and headings to use.
 
@@ -68,8 +60,6 @@ The index page lists the events - they are slurped up into the index page.
 * `{{#safety-warning}}warning text goes here{{/safety-warning}}` - Standard disclaimer area, but lets you have custom text. Typically used in the merit badge requirements pages.
 
 * `{{>safety-warning-generic}}` - Standard disclaimer that Scouts not listening will be asked to leave. This is typically used in the merit badge requirements pages, but could be used anywhere.
-
-* `{{>toggle-start}}Clickable Header{{>toggle-middle}}Collapsed content{{>toggle-end}}` - Shows a collapsible area. The "Clickable Header", when clicked, will toggle open the collapsed content.
 
 
 ### Events
@@ -81,6 +71,8 @@ Event files can have the following metadata.
 * `subtitle` - Additional description line. Shown as the second line in the calendar.
 * `eventDateStart` - When the event starts. Appears in the header.
 * `eventDateEnd` - When the event starts. Appears in the header.
+* `multipleDays` - If this spans multiple days, set this to `true` to show the both dates in the header.
+* `hideTimes` - When set to `true`, only shows the event dates.
 * `borderColor` - When `online` is true, defaults to gold. When `meritBadge` is true, defaults to green. Otherwise defaults to black.
 * `bannerDateColor` - Defaults to black.
 * `location` - Array of strings for the location of the event.
