@@ -5,20 +5,22 @@
             class="Bds(s) Bdw(2px) Bdrs(1em) P(0.5em) Bdc(--headingBackground):h Bdc(--heading2Background) Bgc(--accentBackground):h"
         >
             <div class="D(f) Jc(spa)">
+                <div class="W(33%) Fxs(1) Mah(100px) D(f) Jc(fs) Ai(c)">
                 {{#if logo}}
-                    <img class="Maw(33%) Mah(100px)" src="{{logo}}" />
+                    <img class="Maw(100%) Mah(100%)" src="{{logo}}" />
                 {{else}}
-                    <img class="Maw(33%) Mah(100px)" src="/images/360-awareness-project-logo.png" />
+                    <img class="Maw(100%) Mah(100%)" src="/images/360-awareness-project-logo.png" />
                 {{/if}}
-                <div class="D(f) Fxd(c) Jc(c) Ai(c)">
+                </div>
+                <div class="D(f) Fxd(c) Jc(c) Ai(c) W(33%)">
                     {{#date format="cccc"}}{{eventDate}}{{/date}}
                     {{>calendar-day eventDate=eventDate}}
                 </div>
+                <div class="W(33%) Fxs(1) Mah(100px) D(f) Jc(fe) Ai(c)">
                 {{#if ribbon}}
-                    <img class="Maw(33%) Mah(100px)" src="{{ribbon}}" />
-                {{else}}
-                    <div class="W(64px)"></div>
+                    <img class="Maw(100%) Mah(100%)" src="{{ribbon}}" />
                 {{/if}}
+                </div>
             </div>
             <div class="Ta(c) Pt(10px)">{{presenter}}</div>
             <div class="Ta(c) Fz(1.4em) Fw(b)">{{event.title}}</div>
