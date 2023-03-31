@@ -27,6 +27,6 @@ Check out our video for Day 1 here: https://www.facebook.com/brianscoutmasterbuc
 
 Radiate Positivity and Embrace the Adventure of Change.
 
-<img src="graphics/change.jpg" class="Maw(100%)">
+<img src="graphics/change-pic-01.jpg" class="Maw(100%)">
 
 
