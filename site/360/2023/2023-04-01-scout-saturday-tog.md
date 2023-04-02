@@ -45,5 +45,5 @@ Need a starting point?
 *Co-Chairs of the Northern Star Scouting Special Needs and Disabilities Committee* - Mary Wangerin (wangerinmary@gmail.com) or Donna Larson
 {{/figure-container}}
 
-
+Check out our Day 3 video here: https://www.facebook.com/100025357920920/videos/605015074977626
 
