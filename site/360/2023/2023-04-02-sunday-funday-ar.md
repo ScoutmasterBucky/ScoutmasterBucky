@@ -176,7 +176,7 @@ In the early 1970s, the song "Tie a Yellow Ribbon Round the Ole Oak Tree" was re
 {{/figure-container}}
 
 {{#figure-container}}
-<img src="../ribbon/ar-denim.png" class="Maw(100%)">
+<img src="../ribbon/ar-blue-jeans.png" class="Maw(100%)">
 {{^}}
 **BLUE JEANS**  Hereditary and Genetic Diseases
 {{/figure-container}}
