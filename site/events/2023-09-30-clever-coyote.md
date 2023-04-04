@@ -1,9 +1,9 @@
 ---
 layout: smb-event
 title: Clever Coyote
-subtitle: Mayday @ Birch Bend Campground
-eventDateStart: 2023-05-20 9:00
-eventDateEnd: 2023-05-21 9:00
+subtitle: An Interesting Story @ Birch Bend Campground
+eventDateStart: 2023-09-30 9:00
+eventDateEnd: 2023-10-01 9:00
 multipleDays: true
 registrationLink: https://clever-coyote.8b.io/registration.html
 icon: /images/clever-coyote-logo.png
@@ -23,13 +23,9 @@ location:
 
 </div>
 
-<div class="D(f) M(0.5em) Ai(c) Jc(c)">
-    <div class="Fw(b) Px(0.5em) Py(0.25em) Bgc(yellow)">This is a repeat of the scenario from last fall.</div>
-</div>
-
 Can your team survive the Clever Coyote challenge? Participants will experience a simulated survival event where their wits and resourcefulness are put to the test. There is a new challenge each year.
 
-*Your airplane is malfunctioning and is unable to stay aloft. The pilot calls for mayday and the worst imaginable scenario happens - the flight crashes. You survive with a couple others. You're in unfamiliar territory and you've still got a job to do.*
+*You're exploring a storage room at school filled with previous science fair experiments. The various dusty contraptions are fascinating! After going through a curious hatch, there seems to be some sort of bunker on the other side with lots of controls in front of a chair. Someone casually presses a blinking button and the hatch closes. The ship, you now realize, is taking you somewhere very strange.*
 
 Open to adventurous youth involved with any Scouting program. Visit the [Clever Coyote website](https://clever-coyote.8b.io/) for more about this event plus a lot of great videos to help you prepare for the challenges ahead.
 
@@ -41,4 +37,4 @@ Hosted at Birch Bend Campground just west of Lake Mille Lacs in central Minnesot
 
 * [Learn More](https://clever-coyote.8b.io/) - It's highly recommended to study!
 
-{{>ticketspice widget="c1f0835d5badb44bdefe70fbaea71b17" height="400px"}}
+{{>ticketspice widget="d3427757523f371af5d575c18e208e6d" height="400px"}}
