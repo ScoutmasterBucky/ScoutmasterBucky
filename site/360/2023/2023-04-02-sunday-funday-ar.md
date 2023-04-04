@@ -13,6 +13,8 @@ summary: Awareness Ribbons for hundreds of health concerns, social causes, and o
 
 In the early 1970s, the song "Tie a Yellow Ribbon Round the Ole Oak Tree" was released, and based on this song, Penney Laingen, wife of Iran hostage Bruce Laingen, was the first who used the ribbon as an awareness symbol. Awareness ribbons started as single color ribbons, but as their popularity caught on they hav eveloved to be two-color or even tri-color ribbons.  While this is a detailed list it is by far not as comprehensive as some sources.  Without an official registry there is a lot of ambiguity among sources as well.
 
+Just want to see the video summary, click here: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/1342674236299091
+
 {{#figure-container}}
 <img src="../ribbon/ar-black.png" class="Maw(100%)">
 {{^}}
