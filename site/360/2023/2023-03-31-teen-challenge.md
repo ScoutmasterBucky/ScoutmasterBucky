@@ -26,16 +26,15 @@ Through effective discipleship, mentoring, and life-skills training, Adult and T
 
 A recent study conducted by the Center for Compassion at Evangel University confirms that an astonishing 78% of graduates from Adult & Teen Challenge addiction recovery centers remain sober and substance free post-graduation! Furthermore, the study showed those same graduates indicated holistic improvement across multiple health indicators, from sobriety to relational and spiritual dimensions, following their recovery through Adult and Teen Challenge centers.
 {{#figure-container}}
-
-The program relies on community support, and while demand has gone up, donations have drastically decreased. If you’re interested in supporting Minnesota Adult & Teen Challenge, you can make a donation on their website or better yet help fill the need for mentors, which are always needed.
 <img src="graphics/day-02-t.png" class="Maw(100%)">
 {{^}}
+The program relies on community support, and while demand has gone up, donations have drastically decreased. If you’re interested in supporting Minnesota Adult & Teen Challenge, you can make a donation on their website or better yet help fill the need for mentors, which are always needed.
 
 Today's T-Shirt specially made by Daron Meyer
 
 Learn more about Minnesota Adult & Teen Challenge’s services <a href="https://www.mntc.org/">here</a>.
 
-Check out our video for Day 2 here: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/775463404295131
+Check out our video for Day 2 <a href="https://www.facebook.com/brianscoutmasterbucky.reiners/videos/775463404295131">here</a>.
 {{/figure-container}}
 
 
