@@ -28,13 +28,13 @@ When they radiate me I told them all I want are the protons, keep the electrons,
 
 Check out our video for Day 1 <a href="https://www.facebook.com/brianscoutmasterbucky.reiners/videos/593701476121629">here</a>.
 
-Today's T-Shirts available <a href="https://www.amazon.com/gp/product/B08FRFQ8ZV/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&customId=B07537PKB3&psc=1">here</a>.
+Today's T-Shirt that Cheryl wore available <a href="https://www.amazon.com/gp/product/B08FRFQ8ZV/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&customId=B07537PKB3&psc=1">here</a>.
 {{/figure-container}}
 {{#figure-container}}
 <img src="graphics/day-01b-t.png" class="Maw(100%)">
 {{^}}
 
-Today's T-Shirts available <a href="https://www.amazon.com/gp/product/B08HJXHYS1/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&customId=B07537PKB3&psc=1">here</a>.
+Today's T-Shirt that I wore available <a href="https://www.amazon.com/gp/product/B08HJXHYS1/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&customId=B07537PKB3&psc=1">here</a>.
 
 Radiate Positivity and Embrace the Adventure of Change.
 
