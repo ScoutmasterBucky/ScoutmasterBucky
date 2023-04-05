@@ -44,6 +44,11 @@ Need a starting point?
 
 *Co-Chairs of the Northern Star Scouting Special Needs and Disabilities Committee* - Mary Wangerin (wangerinmary@gmail.com) or Donna Larson
 {{/figure-container}}
+{{#figure-container}}
+<img src="graphics/day-03-t.png" class="Maw(100%)">
+{{^}}
+
+Available at: https://www.etsy.com/listing/1432769905/classic-victory-torch-unisex-softstyle-t?variation0=3314934107&variation1=3314934099
 
 Check out our Day 3 video here: https://www.facebook.com/100025357920920/videos/605015074977626
-
+{{/figure-container}}
