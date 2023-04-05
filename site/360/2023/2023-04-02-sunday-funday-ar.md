@@ -315,3 +315,8 @@ Just want to see the video summary, click here: https://www.facebook.com/briansc
 **PUZZLE**  Autism and Asperger’s Syndrome
 {{/figure-container}}
 
+{{#figure-container}}
+<img src="graphics/day-04-t.png" class="Maw(100%)">
+{{^}}
+Today's T-Shirt available at: https://www.etsy.com/listing/1407495748/fight-cancer-in-all-colors?click_key=45e3e447ee567f6e32a813de1ca0ed9c366ffa4c%3A1407495748&click_sum=954ee107&ga_search_query=cancer&ref=shop_items_search_1&pro=1&sts=1
+{{/figure-container}}

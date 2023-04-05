@@ -37,18 +37,18 @@ Both National and Local Scouting organizations have resources that include but a
 Scouting has always provided a safe haven for youth to grow. Today the need is greater than ever with many Scouts having a diagnosis and even more that are undiagnosed. While there are units that are composed exclusively of Scouts with disabilities, analysis has shown that whether a Scout's challenge is visible or invisible, Scouting works best when these youth are mainstreamed - placed in a regular patrol in a regular troop. Even better, my experience has found that the basic premise of Scouting for ALL youth is that every youth wants to participate fully and be treated and respected like every other member of the troop.
 
 Need a starting point?
-
+{{/figure-container}}
 *Introduction to Working with Scouts with Special Needs and Disabilities* - https://filestore.scouting.org/filestore/pdf/510-071.pdf
 
 *Chair of the Boy Scouts of America National Special Needs and Disabilities Committee* - Warren Wenner, CNP (specialneedschair@scouting.org)
-
-*Co-Chairs of the Northern Star Scouting Special Needs and Disabilities Committee* - Mary Wangerin (wangerinmary@gmail.com) or Donna Larson
-{{/figure-container}}
 {{#figure-container}}
+*Co-Chairs of the Northern Star Scouting Special Needs and Disabilities Committee* - Mary Wangerin (wangerinmary@gmail.com) or Donna Larson
+
+
 <img src="graphics/day-03-t.png" class="Maw(100%)">
 {{^}}
 
-Available at: https://www.etsy.com/listing/1432769905/classic-victory-torch-unisex-softstyle-t?variation0=3314934107&variation1=3314934099
+Today's T-shirt available at: https://www.etsy.com/listing/1432769905/classic-victory-torch-unisex-softstyle-t?variation0=3314934107&variation1=3314934099
 
 Check out our Day 3 video here: https://www.facebook.com/100025357920920/videos/605015074977626
 {{/figure-container}}
