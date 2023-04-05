@@ -21,11 +21,24 @@ We felt this first day was a perfect opportunity to highlight that when it comes
 
 Without change, I would not be alive in a year.  Had this diagnosis befallen me 50 years ago, I most certainly would be celebrating the last of each of the holidays 2023 would bring. 2024 likely would be a future I would not see.  Despite the change of starting treatment a mere 5 days later than planned, seems a small inconvenience to give myself... to give Cheryl and I, the best longevity together possible.
 
+{{#figure-container}}
+<img src="graphics/day-01a-t.png" class="Maw(100%)">
+{{^}}
 When they radiate me I told them all I want are the protons, keep the electrons, because all I want are positive things in my life.
 
 Check out our video for Day 1 here: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/593701476121629
 
+Today's T-Shirts available at: https://www.amazon.com/gp/product/B08FRFQ8ZV/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&customId=B07537PKB3&psc=1
+{{/figure-container}}
+{{#figure-container}}
+<img src="graphics/day-01b-t.png" class="Maw(100%)">
+{{^}}
+
+Today's T-Shirts available at: https://www.amazon.com/gp/product/B08HJXHYS1/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&customId=B07537PKB3&psc=1
+
 Radiate Positivity and Embrace the Adventure of Change.
+
+{{/figure-container}}
 
 <img src="graphics/change-pic-01.jpg" class="Maw(100%)">
 
