@@ -25,6 +25,7 @@ Addiction does not just affect the addict; it is also damaging to family members
 Through effective discipleship, mentoring, and life-skills training, Adult and Teen Challenge and its affiliates have seen positive outcomes and radical life-transformation throughout its sixty-year history. Unlike a conventional rehab, this recovery program encompasses every aspect of life, guiding people to become mentally sound, emotionally balanced, socially adjusted, and physically well.  It offers nonmedical recovery methods such as moral guidance, counseling, and biblical principles to life-controlling problems. The programs are typically 12-18 months and consist of individual and group biblical studies, work projects, education (for adolescents), recreation and more.
 
 A recent study conducted by the Center for Compassion at Evangel University confirms that an astonishing 78% of graduates from Adult & Teen Challenge addiction recovery centers remain sober and substance free post-graduation! Furthermore, the study showed those same graduates indicated holistic improvement across multiple health indicators, from sobriety to relational and spiritual dimensions, following their recovery through Adult and Teen Challenge centers.
+
 {{#figure-container}}
 <img src="graphics/day-02-t.png" class="Maw(100%)">
 {{^}}
