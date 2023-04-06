@@ -8,7 +8,7 @@ presenter: Me and my invisble Mom
 # Ribbon is optional. If no ribbon, delete the line or comment it out.
 ribbon: ribbon/ar-navy.png
 layout: smb-360
-summary: &#10004; ur :
+summary: CHECK ur :
 ---
 
 Today my 80 year old mother joined me, but was less than enthusiastic to appear on video, let alone a picture that would be posted to the internet.  I respectfully honor my mom's wishes and have not created a video or picture with her in it today.  However, something near and dear to both of our hearts is the awareness topic today; the cancer that ultimately took my father's life.  Colon Cancer.
