@@ -16,8 +16,19 @@ National Donate Life Month (NDLM) was established by Donate Life America and its
 Frogs (and toads!) are a sign of healing and renewal, and water lilies represent hope. The lily pads we see on the surface of a pond are part of a much larger plant rooted below the water. The water lily plant reminds us of the support and collaboration needed for hope to bloom.
 
 This National Donate Life Month, we ask you to be a part of this interconnected life-sustaining community by registering as an organ, eye, and tissue donor; becoming educated about living donation; and championing the Donate Life cause.
+{{#figure-container}}
+<img src="graphics/day-09-t.png" class="Maw(100%)">
+{{^}}
 
-Find out more at https://donatelife.net/
+Find out more at https://donatelife.net/.
+
+Check out our video for Day 9 with Heather <a href="https://www.facebook.com/brianscoutmasterbucky.reiners/videos/587653896644252">here</a>.
+
+Today's T-Shirt available <a href="https://cassivalen.com/donate-life-merchandise-2023-ndlm-next-level-shirt?product=unisex-standard-t-shirt&variant_key=royal-s&color=royal&size=s&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fKv6yv6YDoWAenkOM5BDrk4WevIpxHkvRwaKk5moZuOvlnSplqgJ_oaAg9QEALw_wcB">here</a>.
+
+{{#figure-container}}
+
+
 
 <img src="graphics/donate-life-pic-01.png" class="Maw(100%)">
 
