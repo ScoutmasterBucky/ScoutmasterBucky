@@ -8,7 +8,7 @@ presenter: Me and my invisble Mom
 # Ribbon is optional. If no ribbon, delete the line or comment it out.
 ribbon: ribbon/ar-navy.png
 layout: smb-360
-summary: CHECK ur :
+summary: &#10004; ur :
 ---
 
 Today my 80 year old mother joined me, but was less than enthusiastic to appear on video, let alone a picture that would be posted to the internet.  I respectfully honor my mom's wishes and have not created a video or picture with her in it today.  However, something near and dear to both of our hearts is the awareness topic today; the cancer that ultimately took my father's life.  Colon Cancer.
@@ -31,6 +31,6 @@ Although you can't see my T-Shirt for today because I am not in the video, here 
 
 Today's T-Shirt available <a href="https://www.teepublic.com/t-shirt/20292792-check-your-colon-cancer-awareness-costume-survivor?feed_sku=20292792D1V&feed_country=US&utm_source=google&utm_medium=shopping&utm_campaign=%5BG%5D+%5BG.NAM%5D+%5BL.ENG%5D+%5BGEN%5D+%5BC.TShirts%5D+%5BPLF%5D&utm_id=notset&utm_content=cancer+awareness&ar_clx=yes&ar_channel=google&ar_campaign=71700000088748521&ar_adgroup=58700007503484722&ar_ad=PRODUCT_GROUP&ar_strategy=search&utm_source=google&utm_medium=cpc&utm_campaign=%5BG%5D+%5BG.USA%5D+%5BL.ENG%5D+%5BGEN%5D+%5BC.TShirts%5D+%5BSSC%5D&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fJeqr4mXC9EUBVgZgV4eyqis4YQ51Zsa9TCcfdNJlQmECWnamy6h28aAp-uEALw_wcB&gclsrc=aw.ds">here</a>.
 
-{{#figure-container}}
+{{/figure-container}}
 
 
