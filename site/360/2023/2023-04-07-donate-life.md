@@ -26,7 +26,7 @@ Check out our video for Day 9 with Heather <a href="https://www.facebook.com/bri
 
 Today's T-Shirt available <a href="https://cassivalen.com/donate-life-merchandise-2023-ndlm-next-level-shirt?product=unisex-standard-t-shirt&variant_key=royal-s&color=royal&size=s&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fKv6yv6YDoWAenkOM5BDrk4WevIpxHkvRwaKk5moZuOvlnSplqgJ_oaAg9QEALw_wcB">here</a>.
 
-{{#figure-container}}
+{{/figure-container}}
 
 
 
