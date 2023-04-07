@@ -18,302 +18,306 @@ In the early 1970s, the song "Tie a Yellow Ribbon Round the Ole Oak Tree" was re
 
 Just want to see the video summary, click here: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/1342674236299091
 
-{{#figure-container}}
-<img src="../ribbon/ar-black.png" class="Maw(100%)">
-{{^}}
-**BLACK**  Accidents, Anti-Terrorism, Funerals, Gang Prevention, Insomnia, Melanoma, Mourning, Narcolepsy, POW/MIA, Skin Cancer, Sleep Apnea
-{{/figure-container}}
+<div class="D(f) Fxw(w) Jc(sb) Ai(fs) Ta(in) Mt(1.4em)">
 
-{{#figure-container}}
-<img src="../ribbon/ar-brown.png" class="Maw(100%)">
-{{^}}
-**BROWN**  Anti-Tobacco, Tobacco Awareness
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-black.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">BLACK</div>
+<div class="Ta(c)">Accidents, Anti-Terrorism, Funerals, Gang Prevention, Insomnia, Melanoma, Mourning, Narcolepsy, POW/MIA, Skin Cancer, Sleep Apnea</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-burgundy.png" class="Maw(100%)">
-{{^}}
-**BURGUNDY**  Adults with Disabilities, Arteriovenous Malformation (AVM), Brain Aneurysm, Cesarean Section,  Factor V Leiden, Headaches, Hospice Care, Meningitis, Migraine, Multiple Myeloma, and Sickle Cell Anemia
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-brown.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">BROWN</div>
+<div class="Ta(c)">Anti-Tobacco, Tobacco Awareness</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-cranberry.png" class="Maw(100%)">
-{{^}}
-**CRANBERRY**  Fibromyalgia
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-burgundy.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">BURGUNDY</div>
+<div class="Ta(c)">Adults with Disabilities, Arteriovenous Malformation (AVM), Brain Aneurysm, Cesarean Section,  Factor V Leiden, Headaches, Hospice Care, Meningitis, Migraine, Multiple Myeloma, and Sickle Cell Anemia</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-red.png" class="Maw(100%)">
-{{^}}
-**RED**  Blood Cancers, Diseases, and Disorders, Burn Victims, Cardiovascular Disease, Courage and Inspiration, DARE, Disaster Relief, Distracted Driving, Driving under the Influence, Drug Addiction, Evans Syndrome, High Blood Pressure, HIV/AIDS, Huffing / Sniffing Abuse, Hypertension, Inhalant Abuse, Love, Mothers Against Drunk Driving (MADD), Stroke, Substance Abuse, Tuberculosis, Women’s Heart Health
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-cranberry.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">CRANBERRY</div>
+<div class="Ta(c)">Fibromyalgia</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-hot-pink.png" class="Maw(100%)">
-{{^}}
-**HOT PINK**  Cleft Palate
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-red.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">RED</div>
+<div class="Ta(c)">Blood Cancers, Diseases, and Disorders, Burn Victims, Cardiovascular Disease, Courage and Inspiration, DARE, Disaster Relief, Distracted Driving, Driving under the Influence, Drug Addiction, Evans Syndrome, High Blood Pressure, HIV/AIDS, Huffing / Sniffing Abuse, Hypertension, Inhalant Abuse, Love, Mothers Against Drunk Driving (MADD), Stroke, Substance Abuse, Tuberculosis, Women’s Heart Health</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-pink.png" class="Maw(100%)">
-{{^}}
-**PINK**  Birth Parents, Breast Cancer, Nursing Mothers, Women’s Health
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-hot-pink.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">HOT PINK</div>
+<div class="Ta(c)">Cleft Palate</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-peach.png" class="Maw(100%)">
-{{^}}
-**PEACH**  Endometrial Cancer, Vaginal Cancer, Uterine Cancer
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-pink.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">PINK</div>
+<div class="Ta(c)">Birth Parents, Breast Cancer, Nursing Mothers, Women’s Health</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-orange.png" class="Maw(100%)">
-{{^}}
-**ORANGE**  ADHD, Chronic Obstructive Pulmonary Disease (COPD), Cultural Diversity, Kidney Cancer, Leukemia,  Malnutrition / Hunger, Multiple Sclerosis (MS), Self-Injury / Self-Harm, Spinal Cancer, Work Zone Safety
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-peach.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">PEACH</div>
+<div class="Ta(c)">Endometrial Cancer, Vaginal Cancer, Uterine Cancer</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-amber.png" class="Maw(100%)">
-{{^}}
-**AMBER**  Appendix Cancer
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-orange.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">ORANGE</div>
+<div class="Ta(c)">ADHD, Chronic Obstructive Pulmonary Disease (COPD), Cultural Diversity, Kidney Cancer, Leukemia,  Malnutrition / Hunger, Multiple Sclerosis (MS), Self-Injury / Self-Harm, Spinal Cancer, Work Zone Safety</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-gold.png" class="Maw(100%)">
-{{^}}
-**GOLD**  Childhood Cancer
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-amber.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">AMBER</div>
+<div class="Ta(c)">Appendix Cancer</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-yellow.png" class="Maw(100%)">
-{{^}}
-**YELLOW**  Adoptive Parents, Bone Cancer, Carbon Monoxide Poisoning, Endometriosis,  Liver Cancer / Disease, Missing Persons, Obesity, POW/MIA, Suicide Awareness and Prevention,  Support our Troops
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-gold.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">GOLD</div>
+<div class="Ta(c)">Childhood Cancer</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-light-green.png" class="Maw(100%)">
-{{^}}
-**LIGHT GREEN**  Celiac Disease, Chronic Pelvic Pain, Human Papilloma Virus (HPV), Sexually Transmitted Diseases (STD)
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-yellow.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">YELLOW</div>
+<div class="Ta(c)">Adoptive Parents, Bone Cancer, Carbon Monoxide Poisoning, Endometriosis,  Liver Cancer / Disease, Missing Persons, Obesity, POW/MIA, Suicide Awareness and Prevention,  Support our Troops</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-lime-green.png" class="Maw(100%)">
-{{^}}
-**LIME GREEN**  Lyme Disease, Mental Health and Illnesses, Muscular Dystrophy, Non-Hodgkin’s Lymphoma (Lymph Node Cancer), Psychosis, Spinal Cord Disorders
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-light-green.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">LIGHT GREEN</div>
+<div class="Ta(c)">Celiac Disease, Chronic Pelvic Pain, Human Papilloma Virus (HPV), Sexually Transmitted Diseases (STD)</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-green.png" class="Maw(100%)">
-{{^}}
-**GREEN**  Bipolar Disorder, Bone Marrow Disease, Cerebral Palsy, Depression, Cirrhosis of the Liver, Eye Injury and Cancer, Gallbladder Cancer, Glaucoma, Kidney Donation, Mental Health and Mental Illness, Organ / Tissue Donation, Spinal Cord Injury and Research, Stem Cell Donation and Research
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-lime-green.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">LIME GREEN</div>
+<div class="Ta(c)">Lyme Disease, Mental Health and Illnesses, Muscular Dystrophy, Non-Hodgkin’s Lymphoma (Lymph Node Cancer), Psychosis, Spinal Cord Disorders</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-jade.png" class="Maw(100%)">
-{{^}}
-**JADE**  Hepatitis B, Liver Cancer
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-green.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">GREEN</div>
+<div class="Ta(c)">Bipolar Disorder, Bone Marrow Disease, Cerebral Palsy, Depression, Cirrhosis of the Liver, Eye Injury and Cancer, Gallbladder Cancer, Glaucoma, Kidney Donation, Mental Health and Mental Illness, Organ / Tissue Donation, Spinal Cord Injury and Research, Stem Cell Donation and Research</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-sea-foam.png" class="Maw(100%)">
-{{^}}
-**SEA FOAM**  Lisping, Stammering, Stuttering
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-jade.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">JADE</div>
+<div class="Ta(c)">Hepatitis B, Liver Cancer</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-teal.png" class="Maw(100%)">
-{{^}}
-**TEAL**  Addiction Recovery, Anxiety Disorders, Food Allergies, Compulsive Disorder,  Gambling Addiction, Hoarding, Ovarian Cancers, Panic Disorder,  Post Traumatic Stress Disorder (PTSD), Rape, Sexual Assault/Abuse/Violence, Social Anxiety, Stress Disorders, Tsunami Victims
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-sea-foam.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">SEA FOAM</div>
+<div class="Ta(c)">Lisping, Stammering, Stuttering</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-turquoise.png" class="Maw(100%)">
-{{^}}
-**TURQUOISE**  Addiction Recovery, Bone Tumor Awareness, and Interstitial Cystitis, Tourette’s Syndrome
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-teal.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">TEAL</div>
+<div class="Ta(c)">Addiction Recovery, Anxiety Disorders, Food Allergies, Compulsive Disorder,  Gambling Addiction, Hoarding, Ovarian Cancers, Panic Disorder,  Post Traumatic Stress Disorder (PTSD), Rape, Sexual Assault/Abuse/Violence, Social Anxiety, Stress Disorders, Tsunami Victims</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-robin-egg.png" class="Maw(100%)">
-{{^}}
-**ROBIN EGG**  Pierre Robin Syndrome
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-turquoise.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">TURQUOISE</div>
+<div class="Ta(c)">Addiction Recovery, Bone Tumor Awareness, and Interstitial Cystitis, Tourette’s Syndrome</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-light-blue.png" class="Maw(100%)">
-{{^}}
-**LIGHT BLUE**  Chronic Illness, Foster Care Awareness, Graves’ Disease, Men's Health, Prostate Cancer, Spay / Neuter Pets, Thyroid Disease
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-robin-egg.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">ROBIN EGG</div>
+<div class="Ta(c)">Pierre Robin Syndrome</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-pale-blue.png" class="Maw(100%)">
-{{^}}
-**PALE BLUE**  Achalasia Disease
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-light-blue.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">LIGHT BLUE</div>
+<div class="Ta(c)">Chronic Illness, Foster Care Awareness, Graves’ Disease, Men's Health, Prostate Cancer, Spay / Neuter Pets, Thyroid Disease</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-white.png" class="Maw(100%)">
-{{^}}
-**WHITE**  Adoption, Blindness, Bone Disease and Cancer, Child Sexual Abuse/Assault Awareness, End Violence Against Women, Hernia, Hope and Support, Invisible Illness, Lung Disease and Cancer, Online Sexual Predator Awareness and Internet Safety, Osteoporosis, Postpartum Depression, Scoliosis
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-pale-blue.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">PALE BLUE</div>
+<div class="Ta(c)">Achalasia Disease</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-silver.png" class="Maw(100%)">
-{{^}}
-**SILVER**  Brain Disabilities and Disorders, Disabled Children, Dyslexia, Elderly Abuse, Encephalitis, Parkinson’s Disease, Schizophrenia, Sciatic Pain
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-white.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">WHITE</div>
+<div class="Ta(c)">Adoption, Blindness, Bone Disease and Cancer, Child Sexual Abuse/Assault Awareness, End Violence Against Women, Hernia, Hope and Support, Invisible Illness, Lung Disease and Cancer, Online Sexual Predator Awareness and Internet Safety, Osteoporosis, Postpartum Depression, Scoliosis</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-pearl.png" class="Maw(100%)">
-{{^}}
-**PEARL**  Emphysema, Lung Disease and Cancer, Mesothelioma
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-silver.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">SILVER</div>
+<div class="Ta(c)">Brain Disabilities and Disorders, Disabled Children, Dyslexia, Elderly Abuse, Encephalitis, Parkinson’s Disease, Schizophrenia, Sciatic Pain</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-periwinkle.png" class="Maw(100%)">
-{{^}}
-**PERIWINKLE**  Acid Reflux, Anorexia Nervosa, Bulimia Nervosa, Eating Disorders, Esophageal Cancer, Gastric Cancer, Gastroesophageal Reflux Disease (GERD), Irritable Bowel Syndrome (IBS), Pulmonary Hypertension, Small Intestine Cancer, Stomach Cancer
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-pearl.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">PEARL</div>
+<div class="Ta(c)">Emphysema, Lung Disease and Cancer, Mesothelioma</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-gray.png" class="Maw(100%)">
-{{^}}
-**GRAY**  Allergies, Asthma, Brain Cancer, Brain Tumor Awareness, Borderline Personality Disorder, Mental Illness
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-periwinkle.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">PERIWINKLE</div>
+<div class="Ta(c)">Acid Reflux, Anorexia Nervosa, Bulimia Nervosa, Eating Disorders, Esophageal Cancer, Gastric Cancer, Gastroesophageal Reflux Disease (GERD), Irritable Bowel Syndrome (IBS), Pulmonary Hypertension, Small Intestine Cancer, Stomach Cancer</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-blue-jeans.png" class="Maw(100%)">
-{{^}}
-**BLUE JEANS**  Hereditary and Genetic Diseases
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-gray.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">GRAY</div>
+<div class="Ta(c)">Allergies, Asthma, Brain Cancer, Brain Tumor Awareness, Borderline Personality Disorder, Mental Illness</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-blue.png" class="Maw(100%)">
-{{^}}
-**BLUE**  Acute Respiratory Distress Syndrome (ARDS), Anti-Bullying, Autism Awareness, Chronic Fatigue Syndrome, Dystonia, Huntington’s Disease, Hurricanes, Ichthyosis, Malaria, Parkinson’s Disease, Police Lost in Line of Duty, Restless Legs Syndrome, Rheumatism, Teens against Smoking, Transverse Myelitis, Victim’s Rights, Water Accidents, Water Quality, Water Safety, West Nile Virus
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-blue-jeans.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">BLUE JEANS</div>
+<div class="Ta(c)">Hereditary and Genetic Diseases</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-royal-blue.png" class="Maw(100%)">
-{{^}}
-**ROYAL BLUE**  Child Abuse Awareness, Spinal Neurological Conditions
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-blue.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">BLUE</div>
+<div class="Ta(c)">Acute Respiratory Distress Syndrome (ARDS), Anti-Bullying, Autism Awareness, Chronic Fatigue Syndrome, Dystonia, Huntington’s Disease, Hurricanes, Ichthyosis, Malaria, Parkinson’s Disease, Police Lost in Line of Duty, Restless Legs Syndrome, Rheumatism, Teens against Smoking, Transverse Myelitis, Victim’s Rights, Water Accidents, Water Quality, Water Safety, West Nile Virus</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-navy.png" class="Maw(100%)">
-{{^}}
-**NAVY BLUE**  Arthritis, Colon Cancer, Colorectal Cancer, Rectal Cancer
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-royal-blue.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">ROYAL BLUE</div>
+<div class="Ta(c)">Child Abuse Awareness, Spinal Neurological Conditions</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-purple.png" class="Maw(100%)">
-{{^}}
-**PURPLE**  ADD, Alzheimer’s Awareness, Chronic Pain, Crohn’s Disease, Cystic Fibrosis, Dementia, Domestic Violence, Drug Overdose, Homelessness, Lupus, Macular Degeneration, Military Kids, Opioid Crisis, Pancreatic Cancer, Pancreatitis (Chronic), Religious Tolerance, Rett Syndrome, Seizure Disorders, Thyroid Cancer
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-navy.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">NAVY BLUE</div>
+<div class="Ta(c)">Arthritis, Colon Cancer, Colorectal Cancer, Rectal Cancer</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-violet.png" class="Maw(100%)">
-{{^}}
-**VIOLET**  Hodgkin’s Disease and Hodgkin’s Lymphoma
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-purple.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">PURPLE</div>
+<div class="Ta(c)">ADD, Alzheimer’s Awareness, Chronic Pain, Crohn’s Disease, Cystic Fibrosis, Dementia, Domestic Violence, Drug Overdose, Homelessness, Lupus, Macular Degeneration, Military Kids, Opioid Crisis, Pancreatic Cancer, Pancreatitis (Chronic), Religious Tolerance, Rett Syndrome, Seizure Disorders, Thyroid Cancer</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-orchid.png" class="Maw(100%)">
-{{^}}
-**ORCHID**  Testicular Cancer
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-violet.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">VIOLET</div>
+<div class="Ta(c)">Hodgkin’s Disease and Hodgkin’s Lymphoma</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-lavender.png" class="Maw(100%)">
-{{^}}
-**LAVENDER**  Caregiver Appreciation, Epilepsy, Foster Care, General Cancer Awareness
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-orchid.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">ORCHID</div>
+<div class="Ta(c)">Testicular Cancer</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-blue-and-black.png" class="Maw(100%)">
-{{^}}
-**BLUE & BLACK**  loss of a male child, mourning a brother, loss of a brother, mourning a son
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-lavender.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">LAVENDER</div>
+<div class="Ta(c)">Caregiver Appreciation, Epilepsy, Foster Care, General Cancer Awareness</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-blue-and-gray.png" class="Maw(100%)">
-{{^}}
-**BLUE & GRAY**  Diabetes
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-blue-and-black.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">BLUE &amp; BLACK</div>
+<div class="Ta(c)">loss of a male child, mourning a brother, loss of a brother, mourning a son</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-blue-and-pink.png" class="Maw(100%)">
-{{^}}
-**BLUE & PINK**  Birth Defects, Child Loss, Infant Diseases, Infertility, Male Breast Cancer, Miscarriage, Prematurity, Prostate & Breast Cancer Together, Stillbirth, Sudden Infant Death Syndrome (SIDS)
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-blue-and-gray.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">BLUE &amp; GRAY</div>
+<div class="Ta(c)">Diabetes</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-blue-and-white.png" class="Maw(100%)">
-{{^}}
-**BLUE & WHITE**  Teen Cancer
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-blue-and-pink.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">BLUE &amp; PINK</div>
+<div class="Ta(c)">Birth Defects, Child Loss, Infant Diseases, Infertility, Male Breast Cancer, Miscarriage, Prematurity, Prostate &amp; Breast Cancer Together, Stillbirth, Sudden Infant Death Syndrome (SIDS)</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-orange-and-lavender.png" class="Maw(100%)">
-{{^}}
-**ORANGE & LAVENDER**  Eczema and Psoriasis
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-blue-and-white.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">BLUE &amp; WHITE</div>
+<div class="Ta(c)">Teen Cancer</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-orange-and-white.png" class="Maw(100%)">
-{{^}}
-**ORANGE & WHITE**  Bicycle Safety and Bicycle Helmet Safety
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-orange-and-lavender.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">ORANGE &amp; LAVENDER</div>
+<div class="Ta(c)">Eczema and Psoriasis</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-pink-and-black.png" class="Maw(100%)">
-{{^}}
-**PINK & BLACK**  loss of a female child, mourning a sister, loss of a sister, mourning a daughter
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-orange-and-white.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">ORANGE &amp; WHITE</div>
+<div class="Ta(c)">Bicycle Safety and Bicycle Helmet Safety</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-red-and-blue.png" class="Maw(100%)">
-{{^}}
-**RED & BLUE**  Heart Ailments, Defects, Diseases, and Syndromes
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-pink-and-black.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">PINK &amp; BLACK</div>
+<div class="Ta(c)">loss of a female child, mourning a sister, loss of a sister, mourning a daughter</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-red-white-and-blue.png" class="Maw(100%)">
-{{^}}
-**RED, WHITE, & BLUE**  Military and Troop Support and Patriotism
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-red-and-blue.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">RED &amp; BLUE</div>
+<div class="Ta(c)">Heart Ailments, Defects, Diseases, and Syndromes</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-silver-and-gold.png" class="Maw(100%)">
-{{^}}
-**SILVER & GOLD**  Deafness, Hearing Diseases, Impairments, and Loss
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-red-white-and-blue.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">RED, WHITE, &amp; BLUE</div>
+<div class="Ta(c)">Military and Troop Support and Patriotism</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-teal-and-purple.png" class="Maw(100%)">
-{{^}}
-**TEAL & PURPLE**  Domestic Violence, Sexual Assault, Suicide, Surviving Family Members of Suicide
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-silver-and-gold.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">SILVER &amp; GOLD</div>
+<div class="Ta(c)">Deafness, Hearing Diseases, Impairments, and Loss</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-teal-and-white.png" class="Maw(100%)">
-{{^}}
-**TEAL & WHITE**  Cervical Cancer
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-teal-and-purple.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">TEAL &amp; PURPLE</div>
+<div class="Ta(c)">Domestic Violence, Sexual Assault, Suicide, Surviving Family Members of Suicide</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-yellow-and-blue.png" class="Maw(100%)">
-{{^}}
-**YELLOW & BLUE**  Down Syndrome and Designated Drivers
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-teal-and-white.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">TEAL &amp; WHITE</div>
+<div class="Ta(c)">Cervical Cancer</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-yellow-and-purple.png" class="Maw(100%)">
-{{^}}
-**YELLOW & PURPLE**  Bladder Cancer
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-yellow-and-blue.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">YELLOW &amp; BLUE</div>
+<div class="Ta(c)">Down Syndrome and Designated Drivers</div>
+</div>
 
-{{#figure-container}}
-<img src="../ribbon/ar-puzzle.png" class="Maw(100%)">
-{{^}}
-**PUZZLE**  Autism and Asperger’s Syndrome
-{{/figure-container}}
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-yellow-and-purple.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">YELLOW &amp; PURPLE</div>
+<div class="Ta(c)">Bladder Cancer</div>
+</div>
+
+<div class="W(33%)--_sml W(50%)--ml W(100%)--s P(0.5em) D(f) Ai(c) Fxd(c)">
+<img src="../ribbon/ar-puzzle.png" class="Maw(15%)">
+<div class="Tt(u) Fw(b)">PUZZLE</div>
+<div class="Ta(c)">Autism and Asperger’s Syndrome</div>
+</div>
+
+</div>
