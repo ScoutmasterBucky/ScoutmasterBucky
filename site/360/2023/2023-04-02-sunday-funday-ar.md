@@ -9,6 +9,9 @@ presenter: Scoutmaster Bucky
 ribbon: 2023/graphics/sunday-funday-logo.png
 layout: smb-360
 summary: Awareness Ribbons for hundreds of health concerns, social causes, and organizations
+shirtImage: graphics/day-04-t.png
+shirtLink: https://www.etsy.com/listing/1407495748/fight-cancer-in-all-colors?click_key=45e3e447ee567f6e32a813de1ca0ed9c366ffa4c%3A1407495748&click_sum=954ee107&ga_search_query=cancer&ref=shop_items_search_1&pro=1&sts=1
+videoLink: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/1342674236299091
 ---
 
 In the early 1970s, the song "Tie a Yellow Ribbon Round the Ole Oak Tree" was released, and based on this song, Penney Laingen, wife of Iran hostage Bruce Laingen, was the first who used the ribbon as an awareness symbol. Awareness ribbons started as single color ribbons, but as their popularity caught on they hav eveloved to be two-color or even tri-color ribbons.  While this is a detailed list it is by far not as comprehensive as some sources.  Without an official registry there is a lot of ambiguity among sources as well.
@@ -313,10 +316,4 @@ Just want to see the video summary, click here: https://www.facebook.com/briansc
 <img src="../ribbon/ar-puzzle.png" class="Maw(100%)">
 {{^}}
 **PUZZLE**  Autism and Asperger’s Syndrome
-{{/figure-container}}
-
-{{#figure-container}}
-<img src="graphics/day-04-t.png" class="Maw(100%)">
-{{^}}
-Today's T-Shirt available <a href="https://www.etsy.com/listing/1407495748/fight-cancer-in-all-colors?click_key=45e3e447ee567f6e32a813de1ca0ed9c366ffa4c%3A1407495748&click_sum=954ee107&ga_search_query=cancer&ref=shop_items_search_1&pro=1&sts=1">here</a>.
 {{/figure-container}}

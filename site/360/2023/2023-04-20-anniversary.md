@@ -9,6 +9,9 @@ presenter: Brian and Cheryl Reiners
 ribbon: 2023/graphics/aynil-logo.png
 layout: smb-360
 summary: ...in sickness and in health...
+# shirtImage: graphics/day-xx-t.png
+# shirtLink: https://...
+# videoLink: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/
 ---
 
 ***"I take you to be my spouse, to have and to hold from this day forward, for better, for worse, for richer, for poorer, in sickness and in health, to love and to cherish, till death do us part"***
