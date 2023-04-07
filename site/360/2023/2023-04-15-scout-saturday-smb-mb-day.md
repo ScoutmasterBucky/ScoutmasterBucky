@@ -9,6 +9,9 @@ logo: 2023/graphics/bsa-logo.png
 ribbon: 2023/graphics/smb-logo.png
 layout: smb-360
 summary: In-Person Merit Badge Days since 2009
+# shirtImage: graphics/day-xx-t.png
+# shirtLink: https://...
+# videoLink: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/
 ---
 
 Add text here

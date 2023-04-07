@@ -9,6 +9,9 @@ logo: 2023/graphics/bsa-logo.png
 ribbon: 2023/graphics/tog-logo.png
 layout: smb-360
 summary: Scouting for Youth with Special Needs and Disabilities
+shirtImage: graphics/day-03-t.png
+shirtLink: https://www.etsy.com/listing/1432769905/classic-victory-torch-unisex-softstyle-t?variation0=3314934107&variation1=3314934099
+videoLink: https://www.facebook.com/100025357920920/videos/605015074977626
 ---
 
 ***SCOUT SATURDAY*** - Highlighting Scouting each Saturday of the **<span class="C(red)">&lt;3</span>60 Awareness Project**.
@@ -43,12 +46,5 @@ Need a starting point?
 
 *Chair of the Boy Scouts of America National Special Needs and Disabilities Committee* - Warren Wenner, CNP (specialneedschair@scouting.org)
 
-{{#figure-container}}
-<img src="graphics/day-03-t.png" class="Maw(100%)">
-{{^}}
 *Co-Chairs of the Northern Star Scouting Special Needs and Disabilities Committee* - Mary Wangerin (wangerinmary@gmail.com) or Donna Larson
 
-Today's T-shirt available <a href="https://www.etsy.com/listing/1432769905/classic-victory-torch-unisex-softstyle-t?variation0=3314934107&variation1=3314934099">here</a>.
-
-Check out our Day 3 video <a href="https://www.facebook.com/100025357920920/videos/605015074977626">here</a>.
-{{/figure-container}}
