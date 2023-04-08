@@ -1,5 +1,5 @@
 ---
-hidden: false
+hidden: true
 eventDate: '2023-04-09'
 title: Sunday Funday - Easter
 presenter: Scoutmaster Bucky
