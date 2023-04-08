@@ -4,9 +4,9 @@ eventDate: '2023-04-02'
 title: Sunday Funday - Awareness Ribbons
 presenter: Scoutmaster Bucky
 # Logo is optional. If no logo, delete the line or comment it out.
-# logo: 2023/graphics/sunday-funday-logo.png
+logo: 2023/graphics/sunday-funday-logo.png
 # Ribbon is optional. If no ribbon, delete the line or comment it out.
-ribbon: 2023/graphics/sunday-funday-logo.png
+ribbon: 2023/graphics/ars-pic-01.png
 layout: smb-360
 summary: Awareness Ribbons for hundreds of health concerns, social causes, and organizations
 shirtImage: graphics/day-04-t.png
@@ -14,9 +14,7 @@ shirtLink: https://www.etsy.com/listing/1407495748/fight-cancer-in-all-colors?cl
 videoLink: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/1342674236299091
 ---
 
-In the early 1970s, the song "Tie a Yellow Ribbon Round the Ole Oak Tree" was released, and based on this song, Penney Laingen, wife of Iran hostage Bruce Laingen, was the first who used the ribbon as an awareness symbol. Awareness ribbons started as single color ribbons, but as their popularity caught on they hav eveloved to be two-color or even tri-color ribbons.  While this is a detailed list it is by far not as comprehensive as some sources.  Without an official registry there is a lot of ambiguity among sources as well.
-
-Just want to see the video summary, click here: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/1342674236299091
+In the early 1970s, the song *"Tie a Yellow Ribbon Round the Ole Oak Tree"* was released, and based on this song, Penney Laingen, wife of Iranian-hostage Bruce Laingen, was the first who used the ribbon as an awareness symbol. Awareness ribbons started as single color ribbons, but as their popularity caught on they hav eveloved to be two-color or even tri-color ribbons.  While this is a detailed list it is by far not as comprehensive as some sources.  Without an official registry there is a lot of ambiguity among sources as well.
 
 <div class="D(f) Fxw(w) Jc(sb) Ai(fs) Ta(in) Mt(1.4em)">
 
