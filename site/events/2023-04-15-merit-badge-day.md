@@ -21,8 +21,6 @@ onSaleDate: 2023-03-01 0:05
 ---
 ### Morning Classes
 
-{{>eventbrite-registration badge="american-heritage" event="523989555867" start=amStart end=amEnd}}
-{{>eventbrite-registration badge="automotive-maintenance" event="610969234427" start=amStart end=amEnd}}
 {{>eventbrite-registration badge="citizenship-in-the-community" event="524761855837" start=amStart end=amEnd}}
 {{>eventbrite-registration badge="composite-materials" event="523967921157" start=amStart end=amEnd}}
 {{>eventbrite-registration badge="inventing" event="523955152967" start=amStart end=amEnd}}
@@ -40,5 +38,5 @@ onSaleDate: 2023-03-01 0:05
 {{>eventbrite-registration badge="bird-study" event="524615086847" start=pmStart end=pmEnd}}
 {{>eventbrite-registration badge="citizenship-in-the-community" event="524796780297" start=pmStart end=pmEnd}}
 {{>eventbrite-registration badge="health-care-professions" event="524699569537" start=pmStart end=pmEnd}}
-{{>eventbrite-registration badge="scouting-heritage" event="525087038467" start=pmStart end=pmEnd}}
+
 
