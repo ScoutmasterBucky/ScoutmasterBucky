@@ -6,7 +6,7 @@ presenter: Cheryl Reiners
 # Logo is optional. If no logo, delete the line or comment it out.
 logo: 2023/graphics/aynil-logo.png
 # Ribbon is optional. If no ribbon, delete the line or comment it out.
-ribbon: 2023/graphics/bandc.png
+ribbon: ribbon/bandc.png
 layout: smb-360
 summary: ...in sickness and in health...
 shirtImage: graphics/day-22a-t.png
