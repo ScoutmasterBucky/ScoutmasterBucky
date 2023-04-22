@@ -6,7 +6,7 @@ presenter: companion
 # Logo is optional. If no logo, delete the line or comment it out.
 logo: 2023/graphics/sunday-funday-logo.png
 # Ribbon is optional. If no ribbon, delete the line or comment it out.
-ribbon: ribbon/all-weather.png
+ribbon: 2023/graphics/all-weather.png
 layout: smb-360
 summary: WTF - What's the Forecast?
 shirtImage: graphics/day-18-t.png
