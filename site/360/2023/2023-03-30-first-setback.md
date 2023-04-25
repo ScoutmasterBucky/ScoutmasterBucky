@@ -29,8 +29,6 @@ Without change, I would not be alive in a year.  Had this diagnosis befallen me 
 {{^}}
 When they radiate me I told them all I want are the protons, keep the electrons, because all I want are positive things in my life.
 
-Check out our video for Day 1 <a href="https://www.facebook.com/brianscoutmasterbucky.reiners/videos/593701476121629">here</a>.
-
 Today's T-Shirt that Cheryl wore available <a href="https://www.amazon.com/gp/product/B08FRFQ8ZV/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&customId=B07537PKB3&psc=1">here</a>.
 
 Radiate Positivity and Embrace the Adventure of Change.
