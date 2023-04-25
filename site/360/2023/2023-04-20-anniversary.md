@@ -1,22 +1,22 @@
 ---
 hidden: true
-eventDate: '2023-03-30'
-title: We're in this Together
-presenter: Brian and Cheryl Reiners
+eventDate: '2023-04-20'
+title: 32 Years - We're in this Together
+presenter: Cheryl Reiners
 # Logo is optional. If no logo, delete the line or comment it out.
-# logo: 2023/graphics/aynil-logo.png
+logo: 2023/graphics/aynil-logo.png
 # Ribbon is optional. If no ribbon, delete the line or comment it out.
-ribbon: 2023/graphics/aynil-logo.png
+ribbon: ribbon/bandc.png
 layout: smb-360
 summary: ...in sickness and in health...
-# shirtImage: graphics/day-xx-t.png
-# shirtLink: https://...
-# videoLink: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/
+shirtImage: graphics/day-22a-t.png
+shirtLink: https://allstarshirt.com/products/multiple-sclerosis-awareness-ms-survivor-wife-warrior-t-shirt-women-t-shirt-zrv?variant_id=6567762
+videoLink: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/115486954833132
 ---
 
 ***"I take you to be my spouse, to have and to hold from this day forward, for better, for worse, for richer, for poorer, in sickness and in health, to love and to cherish, till death do us part"***
 
-Almost 32 years ago, we said these words to each other and while we may have had a lot more of the "worse", "poorer", and now "sickness" than we had hoped for, our love for each other has never been stronger or more certain. Cheryl was diagnosed with Multiple Sclerosis 4 years ago, shortly after the loss of my Dad, who passed away from Colon Cancer and previous Prostate Cancer challenges.  Now we find ourselves adding a Stage 4 Prostate Cancer diagnosis for me to our resume.
+32 years ago, we said these words to each other and while we may have had a lot more of the "worse", "poorer", and now "sickness" than we had hoped for, our love for each other has never been stronger or more certain. Cheryl was diagnosed with Multiple Sclerosis 4 years ago, shortly after the loss of my Dad, who passed away from Colon Cancer and previous Prostate Cancer challenges.  Now we find ourselves adding a Stage 4 Prostate Cancer diagnosis for me to our resume.
 
 We have quickly navigated a very emotional journey through the 5 stages of grief. Today we continue through that final stage of grief called acceptance and forge on together with the strongest of faith.  They say that God only gives us what He knows we can handle, but WOW c'mon Dude, anytime you want to let up on this "worse", "poorer" and now "sickness" stuff, I don't think either of us would be bothered in the least.
 
@@ -32,5 +32,11 @@ It didn't take us long to decide how we wanted to proceed together with this dia
 
 So in summary, today's topic is love...unconditional love.  Make a point to tell someone that you love them today and every day thereafter.  Don't just say the words, tell them why you love them. And if someone out there thinks they don't have someone that loves them, well just give Cheryl and I a call, we've got lots of love to share, because our love is strong and there's plenty to go around.  I love you Cheryl!
 
+{{#figure-container}}
+<img src="graphics/day-22b-t.png" class="Maw(100%)">
+{{^}}
 
+Today's T-Shirt that Cheryl wore available <a href="https://allstarshirt.com/products/prostate-cancer-awareness-spouse-husband-wife-support-t-shirt-women-t-shirt-unv">here</a>.
+
+{{/figure-container}}
 
