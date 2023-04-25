@@ -19,11 +19,11 @@ Come join Scoutmaster Bucky and his team for a week at Many Point Scout Camp. We
 
 Whether you want to work on merit badges, work on specialized advancement in the areas of rank and/or merit badges, or you just want to come and enjoy the best that Many Point has to offer, this is the opportunity you are looking for.
 
-Y﻿ou (actually your parents) are responsible for transportation to and from Many Point, but we will take it from there. Arrival is between 2:00 and 3:00 pm on Sunday August 6, 2023. Pick up from Many Point will be discussed at our information meeting in July, but will take place Friday evening thru early Saturday morning.
+You (actually your parents) are responsible for transportation to and from Many Point, but we will take it from there. Arrival is between 2:00 and 3:00 pm on Sunday August 6, 2023. Pick up from Many Point will be discussed at our information meeting in July, but will take place Friday evening thru early Saturday morning.
 
-C﻿ost will be a flat $400.00 with some incidental costs built into this cost, with any extra money being returned to Scout families after the week and all expenses have been balanced.
+Cost will be a flat $400.00 with some incidental costs built into this cost, with any extra money being returned to Scout families after the week and all expenses have been balanced.
 
-H﻿ave questions, email ScoutmasterBucky@yahoo.com
+Have questions, email ScoutmasterBucky@yahoo.com
 
 Sign up if you are interested in learning more. Signing up does NOT obligate you to attend.
 
