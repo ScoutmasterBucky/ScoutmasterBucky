@@ -23,8 +23,3 @@ Research and describe to your mentor:
 Analyze how your container performed, and discuss with your mentor your design strategy and how well the container you designed performed. Then do the following:
 
 {{>show-requirements requirements=data.requirementsPart2}}
-
-### Resources
-
-3-Egg Drop Challenge, http://teachertech.rice.edu/Participants/pschweig/eggdrop.html (Look here for rules that offer a more challenging contest.)
-
