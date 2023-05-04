@@ -27,6 +27,3 @@ This activity can be done individually, but works much better with three to six 
 T. Scott Bryan. Geysers: What They Are and How They Work, 2nd ed. Mountain Press Publishing Company, 2005.
 
 William J. Fritz. Roadside Geology of the Yellowstone Country. Mountain Press Publishing Company, 1985.
-
-For more data, visit the Geyser Observation and Study Association at http://www.geyserstudy.org/.
-

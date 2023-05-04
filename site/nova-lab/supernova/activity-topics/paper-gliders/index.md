@@ -30,8 +30,6 @@ Science 85 Magazine. The Paper Airplane Book: The Official Book of the Second Gr
 
 Hubert Smith. The Illustrated Guide to Aerodynamics (for background research). McGraw-Hill Professional, 1991.
 
-AG Industries WhiteWings, https://whitewings.com/ (glider kits)
-
 NASA Beginner’s Guide to Aeronautics, https://www.grc.nasa.gov/WWW/K-12/airplane/guided.htm (For background research, look at the gliders section.)
 
 The Online Paper Airplane Museum, http://www.theonlinepaperairplanemuseum.com/ (free glider plans)
