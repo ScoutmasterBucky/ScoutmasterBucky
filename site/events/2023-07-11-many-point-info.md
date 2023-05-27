@@ -6,8 +6,8 @@ eventDateEnd: '2023-07-11 20:00'
 icon: /images/smb-2023-mpsc.jpg
 location:
     - Woodlake Lutheran Church
-    - 2120 W 76th St
-    - Minneapolis, MN 55423
+    - 2120 West 76th Street
+    - Richfield, Minnesota 55423
 ---
 
 Have your questions answered and meet some of the leaders that are going on this fantastic trip.
