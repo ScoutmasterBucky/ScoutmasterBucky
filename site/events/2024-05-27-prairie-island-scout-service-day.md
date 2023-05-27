@@ -1,7 +1,7 @@
 ---
 layout: smb-event
 title: Prairie Island Patriotic Scout Service Day
-eventDateStart: '2024-05-27 7:30'
+eventDateStart: '2024-05-27 07:30'
 eventDateEnd: '2024-05-27 16:30'
 icon: /images/icon-prairie-island-indian-community.png
 location:
@@ -20,4 +20,4 @@ Schedule:
   3:30 pm to  4:15 pm - Flag Lowering and Closing Pow Wow
   4:15 pm to  4:30 pm - Gracious Appreciation and Goodbyes
   
-This is a all day event, no half days for anyone that partakes in the Brunch!
+This is an all day event, no half days for anyone that partakes in the Brunch!
