@@ -1,6 +1,7 @@
 ---
 layout: smb-event
-title: Northern Star Scouting - Shooting Sports & Climbing Tower Day at Phillippo
+host: Northern Star Scouting
+title: Shooting Sports & Climbing Tower Day at Phillippo
 eventDateStart: 2023-09-16 09:00
 eventDateEnd: 2023-09-16 16:00
 icon: /images/icon-phillippo.png

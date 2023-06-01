@@ -1,6 +1,7 @@
 ---
 layout: smb-event
-title: Northern Star Scouting - First Class Adventure and Nature Hike at Rum River
+host: Northern Star Scouting
+title: First Class Adventure and Nature Hike at Rum River
 eventDateStart: 2024-04-20 8:00
 eventDateEnd: 2024-04-20 17:00
 icon: /images/icon-rum-river.png

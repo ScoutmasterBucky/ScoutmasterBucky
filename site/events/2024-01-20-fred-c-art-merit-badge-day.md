@@ -1,6 +1,7 @@
 ---
 layout: smb-event
-title: Northern Star Scouting - Art Merit Badge Day at Fred C Andersen
+host: Northern Star Scouting
+title: Art Merit Badge Day at Fred C Andersen
 eventDateStart: 2024-01-20 09:00
 eventDateEnd: 2024-01-20 15:30
 icon: /images/icon-fred-c-andersen.png

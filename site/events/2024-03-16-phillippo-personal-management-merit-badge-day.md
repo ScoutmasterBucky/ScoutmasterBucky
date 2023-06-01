@@ -1,6 +1,7 @@
 ---
 layout: smb-event
-title: Northern Star Scouting - Personal Management Merit Badge Day at Phillippo
+host: Northern Star Scouting
+title: Personal Management Merit Badge Day at Phillippo
 eventDateStart: 2024-03-16 09:00
 eventDateEnd: 2024-03-16 15:30
 icon: /images/icon-phillippo.png

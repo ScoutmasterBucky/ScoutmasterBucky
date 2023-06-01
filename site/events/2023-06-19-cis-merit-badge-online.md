@@ -1,6 +1,5 @@
 ---
 layout: smb-event
-host: Scoutmaster Bucky
 title: ONLINE - Scoutmaster Bucky Citizenship in Society Merit Badge
 online: true
 badge: citizenship-in-society

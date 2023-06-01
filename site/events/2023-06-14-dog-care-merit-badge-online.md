@@ -1,6 +1,5 @@
 ---
 layout: smb-event
-host: Scoutmaster Bucky
 title: ONLINE - Scoutmaster Bucky Dog Care Merit Badge
 online: true
 badge: dog-care
