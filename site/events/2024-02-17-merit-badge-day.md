@@ -1,6 +1,6 @@
 ---
 layout: smb-event
-title: Scoutmaster Bucky Merit Badge Day - 2024 February
+title: Scoutmaster Bucky Merit Badge Day
 eventDateStart: '2024-02-17 8:00'
 eventDateEnd: '2024-02-17 16:30'
 icon: /images/bucky-feb.png

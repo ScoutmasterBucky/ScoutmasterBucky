@@ -1,6 +1,6 @@
 ---
 layout: smb-event
-title: Scoutmaster Bucky Merit Badge Day - 2023 December
+title: Scoutmaster Bucky Merit Badge Day
 eventDateStart: '2023-12-16 8:00'
 eventDateEnd: '2023-12-16 16:30'
 icon: /images/bucky-dec.png

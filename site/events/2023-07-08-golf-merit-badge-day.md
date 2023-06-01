@@ -1,6 +1,5 @@
 ---
 layout: smb-event
-host: Scoutmaster Bucky
 title: Scoutmaster Bucky Golf Merit Badge Day
 online: false
 badge: golf
