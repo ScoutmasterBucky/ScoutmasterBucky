@@ -1,6 +1,7 @@
 ---
 layout: smb-event
-title: ONLINE - Scoutmaster Bucky Citizenship in Society Merit Badge
+host: ONLINE
+title: Scoutmaster Bucky Citizenship in Society Merit Badge
 online: true
 badge: citizenship-in-society
 eventDateStart: 2023-06-07 09:00
