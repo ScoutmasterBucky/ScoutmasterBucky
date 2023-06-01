@@ -80,6 +80,7 @@ Event files can have the following metadata.
 * `online` - If `true`, uses the online event colors and template.
 * `onSaleDate` - If set, this will show "Tickets go on sale MMMM D, YYYY" as long as that day is in the future.
 * `eventBriteEventId` - For the generation of the registration link. Used for online events only.
+* `registrationLink` - When there is a link to a registration page, set this property and a "Register Here" button will automatically be added to the end.
 
 
 Text and Markdown
