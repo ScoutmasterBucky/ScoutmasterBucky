@@ -1,15 +1,13 @@
 ---
 layout: smb-event
-title: Scoutmaster Bucky Golf Merit Badge Day - 2023 July
-eventDateStart: '2023-07-08 7:00'
-eventDateEnd: '2023-07-08 13:30'
+host: Scoutmaster Bucky
+title: Scoutmaster Bucky Golf Merit Badge Day
+online: false
+badge: golf
 icon: /images/bucky-golf.png
-location:
-    - Island Lake Golf Course
-    - 1000 Red Fox Road
-    - Shoreview, Minnesota 55126
+eventDateStart: 2023-07-08 07:00
+eventDateEnd: 2023-07-08 13:30
+registrationLink: https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-golf-merit-badge---2023-07-08
+onSaleDate: 2023-06-01 0:05
+
 ---
-
-Save the Date - More information coming in June 2023
-
-Registration opens June 1, 2023 12:05 am Central Time

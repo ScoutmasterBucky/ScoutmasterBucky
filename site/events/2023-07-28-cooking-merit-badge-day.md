@@ -2,11 +2,11 @@
 layout: smb-event
 title: Scoutmaster Bucky Cooking Merit Badge Day
 online: false
-eventDateStart: 2023-07-29 8:00
-eventDateEnd: 2023-07-29 14:00
+eventDateStart: 2023-07-28 13:00
+eventDateEnd: 2023-07-28 18:00
 badge: cooking
 icon: /images/bucky-cooking.png
-registrationLink: https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-cooking-merit-badge---2023-07-29
+registrationLink: https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-cooking-merit-badge---2023-07-28
 location:
     - Shepherd of the Lake Lutheran Church
     - 3611 North Berens Road NW
