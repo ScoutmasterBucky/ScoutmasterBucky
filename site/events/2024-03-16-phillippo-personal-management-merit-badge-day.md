@@ -13,4 +13,3 @@ registrationLink: https://scoutingevent.com/250-71132-175432
 ---
 
 Program: Personal Management Merit Badge
-Price: $5 pre-registration required
