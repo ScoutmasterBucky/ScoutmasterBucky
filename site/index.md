@@ -2,7 +2,7 @@
 title: Scoutmaster Bucky
 layout: smb
 opportunities: 15,000+
-online: 2,000+
+online: 2,250+
 # Show the news section when there are items in the list.
 # Add items to the news so they look like this:
 # news:
@@ -20,7 +20,9 @@ js:
 <div class="C(--themeText) Fw(b) Fz(2em) D(f) Jc(c)">Scoutmaster Bucky</div>
 <div class="D(f) Jc(c) Pb(1em)">Serving Scouts since January 2009</div>
 
-<div class="Maw(450px) Ta(c) Mx(a)">Over {{#smb-accent}}{{opportunities}}{{/smb-accent}} Scout in-person merit badge opportunities and over {{#smb-accent}}{{online}}{{/smb-accent}} Scout online merit badge opportunities, with thousands of past Cub Scout and Venturing advancement opportunities.</div>
+<div class="Maw(450px) Ta(c) Mx(a)">{{#smb-accent}}Tens of Thousands{{/smb-accent}} of Scouts served across all program areas thru in-person and online advancement and merit badge opportunities and training.</div>
+
+# <div class="Maw(450px) Ta(c) Mx(a)">Over {{#smb-accent}}{{opportunities}}{{/smb-accent}} Scout in-person merit badge opportunities and over {{#smb-accent}}{{online}}{{/smb-accent}} Scout online merit badge opportunities, with thousands of past Cub Scout and Venturing advancement opportunities.</div>
 
 <div class="Ta(c) Mt(1em)">Remember the Scout Motto: {{#smb-accent}}Be Prepared{{/smb-accent}}</div>
 
