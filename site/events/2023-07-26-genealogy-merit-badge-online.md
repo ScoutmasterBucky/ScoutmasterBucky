@@ -1,6 +1,6 @@
 ---
 layout: smb-event
-title: ONLINE - Scoutmaster Bucky Genealogy Merit Badge
+title: ONLINE - Genealogy Merit Badge
 online: true
 badge: genealogy
 eventDateStart: 2023-07-18 18:00

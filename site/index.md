@@ -22,8 +22,6 @@ js:
 
 <div class="Maw(450px) Ta(c) Mx(a)">{{#smb-accent}}Tens of Thousands{{/smb-accent}} of Scouts served across all program areas thru in-person and online advancement and merit badge opportunities and training.</div>
 
-# <div class="Maw(450px) Ta(c) Mx(a)">Over {{#smb-accent}}{{opportunities}}{{/smb-accent}} Scout in-person merit badge opportunities and over {{#smb-accent}}{{online}}{{/smb-accent}} Scout online merit badge opportunities, with thousands of past Cub Scout and Venturing advancement opportunities.</div>
-
 <div class="Ta(c) Mt(1em)">Remember the Scout Motto: {{#smb-accent}}Be Prepared{{/smb-accent}}</div>
 
 <div class="Ta(c)">At Scoutmaster Bucky events this is not a request, wish, or desire…</div>

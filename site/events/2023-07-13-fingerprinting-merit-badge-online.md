@@ -1,6 +1,6 @@
 ---
 layout: smb-event
-title: ONLINE - Scoutmaster Bucky Fingerprinting Merit Badge
+title: ONLINE - Fingerprinting Merit Badge
 online: true
 badge: fingerprinting
 eventDateStart: 2023-07-13 18:00

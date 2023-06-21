@@ -1,6 +1,6 @@
 ---
 layout: smb-event
-title: Scoutmaster Bucky Cooking Merit Badge Day
+title: Cooking Merit Badge Day
 online: false
 eventDateStart: 2023-07-28 13:00
 eventDateEnd: 2023-07-28 18:00

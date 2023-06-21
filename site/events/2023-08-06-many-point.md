@@ -1,6 +1,7 @@
 ---
 layout: smb-event
 title: Many Point Scout Camp
+subtitle: Any and All Scouts BSA Scouts Welcome
 eventDateStart: '2023-08-06'
 eventDateEnd: '2023-08-12'
 multipleDays: true

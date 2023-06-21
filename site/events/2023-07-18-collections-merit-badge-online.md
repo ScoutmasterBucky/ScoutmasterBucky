@@ -1,6 +1,6 @@
 ---
 layout: smb-event
-title: ONLINE - Scoutmaster Bucky Collections Merit Badge
+title: ONLINE - Collections Merit Badge
 online: true
 badge: collections
 eventDateStart: 2023-07-18 18:00
