@@ -1,7 +1,7 @@
 ---
 layout: smb-event
 title: Scoutmaster Bucky Citizenship in Society Merit Badge Day
-online: false
+Meritbadge: true
 eventDateStart: 2023-09-23 8:30
 eventDateEnd: 2023-09-23 16:00
 badge: citizenship-in-society
