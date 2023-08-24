@@ -15,10 +15,10 @@ registrationLink: https://scoutingevent.com/250-71132-175427
 Programs: Archery, BB, Rifle, and the Climbing Tower will all be open during select times (see below). 
 Merit badge counselors for Archery, Rifle Shooting, and Climbing merit badges to sign off on requirements from partials.
 
-* Please note that participants must be in 5th grade or higher to participate in Rifle Shooting.*
+* Please note that participants must be in 5th grade or higher to participate in Rifle Shooting.
 
-Schedule:
-The Archery Range will be open from 10 a.m. - 5 p.m.
-The BB Range will be open from 10 a.m. - 1:30 a.m.
-The Climbing Tower will be open from 1:00 p.m. - 5 p.m.
+Schedule:<br>
+The Archery Range will be open from 10 a.m. - 5 p.m.<br>
+The BB Range will be open from 10 a.m. - 1:30 a.m.<br>
+The Climbing Tower will be open from 1:00 p.m. - 5 p.m.<br>
 The .22 Rifle Range will be open from 1:30 p.m. - 5 p.m.
