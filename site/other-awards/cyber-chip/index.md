@@ -15,7 +15,7 @@ data:
 
 The Cyber Chip for Scouts BSA comes in two different levels, depending on the Scout's grade.
 
-Note: All Cyber Chips will expire annually. Each Scout will need to go to [Netsmartz](https://www.missingkids.org/NetSmartz) and complete 2 new resources to recommit to net safety and netiquette. Then, with the unit leader, the Scout can add the new date to the Cyber Chip card or certificate.
+Note: All Cyber Chips will expire annually. Each Scout will need to go to [NetSmartz](https://www.missingkids.org/netsmartz/videos) and complete 2 new resources to recommit to net safety and netiquette. Then, with the unit leader, the Scout can add the new date to the Cyber Chip card or certificate.
 
 *Current Scouts BSA requirements as of {{#trim}}{{>last-updated section="other-awards" key="cyber-chip-grades-6-to-8"}}{{/trim}}.*
 
