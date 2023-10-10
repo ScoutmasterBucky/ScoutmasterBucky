@@ -2,7 +2,7 @@
 layout: smb-event
 title: Scoutmaster Bucky Merit Badge Day
 eventDateStart: '2023-11-04 8:00'
-eventDateEnd: '2023-11-04 16:30'
+eventDateEnd: '2023-11-04 16:00'
 icon: /images/bucky-nov.png
 location:
     - Christ the King Lutheran Church
