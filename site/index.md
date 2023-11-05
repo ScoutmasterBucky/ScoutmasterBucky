@@ -29,7 +29,7 @@ js:
 <div class="Ta(c)">{{#smb-accent}}it is an expectation.{{/smb-accent}}</div>
 </div>
 <div class="D(f) Ai(c) Fxd(c) Maw(30%)--l Maw(25%)--_sml">
-<a class="D(f) Jc(c)" href="/360/"><img src="/images/2023iowa.png" class="W(80%)--_sm W(35%)--m W(60%)--s H(a)"></a>
+<a class="D(f) Jc(c)" href="/events/2023-12-02-merit-badge-day.html"><img src="/images/2023iowa.png" class="W(80%)--_sm W(35%)--m W(60%)--s H(a)"></a>
 <div class="Pt(0.5em)">December 2, 2023 - details below</div>
 </div>
 </div>
