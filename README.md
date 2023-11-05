@@ -25,6 +25,8 @@ General-Purpose Partials and Helpers
 
 * `{{#badge-list}}...{{/badge-list}}` - Wraps the listing to show some number of badges that would fill the browser's width.
 
+* `{{>badge-registration badge="pioneering" registrationLink="https://the-other-site/"}}` - Shows the merit badge's round badge, centers the name below it, and adds a link to the registration page.
+
 * `{{#date format="MMMM D, YYYY"}}2020-01-31T13:59:59Z{{/date}}` - Reformat a date using the given format. If the `format` attribute is missing, this defaults to "MMMM D, YYYY" (January 1, 2020).
 
 * `{{>badge-name badge="american-business"}}` - Used to look up a merit badge's name.
@@ -36,6 +38,8 @@ General-Purpose Partials and Helpers
 * `{{#figure}}...content...{{/figure}}` - Shows a scaling figure to the right (default) or the left (add `align="left"` in the first tag). Scales just like `{{#scaled}}`.
 
 * `{{#figure-container}...figure...{{^}}...content{{/figure-container}}` - Shows a figure to the left or right. When on a phone, the figure will pop to the top or botom. Default is right side, then bottom when compressed. Change it by adding `align="left"` and `position="top"` to the first tag. Scaling happens just like `{{#scaled}}`.
+
+* `{{>image-registration image="/images/my-image-name.png" registrationLink="https://the-other-site/"}}` - Shows the image and adds a link to the registration page beneath.
 
 * `{{#scaled}}...content...{{/scaled}}` - Shows the content (typically an image of a merit badge, rank, etc) in a box that scales with the size of the window. Makes it fit 5 across on desktop and scales down to 2 across on phones.
 
