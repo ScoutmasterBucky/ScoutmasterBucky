@@ -25,7 +25,7 @@ location:
 ### 9:00 am Adult Training Class 9:00 am to 12:00 pm
 
 {{#badge-list}}
-{{>badge-registration badge="disabilities-awareness" registrationLink="https://scoutmasterbucky.regfox.com/online-or-in-person-advanced-adult-training-all-about-special-needs-in-scouting"}}
+{{>image-registration image="/images/2023iowa.png" registrationLink="https://scoutmasterbucky.regfox.com/online-or-in-person-advanced-adult-training-all-about-special-needs-in-scouting"}}
 {{/badge-list}}
 
 ### 12:30 pm Merit Badge Class 12:30 pm to 3:00 pm
