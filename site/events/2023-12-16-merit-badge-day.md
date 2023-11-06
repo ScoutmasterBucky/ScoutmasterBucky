@@ -2,7 +2,7 @@
 layout: smb-event
 title: Scoutmaster Bucky Merit Badge Day
 eventDateStart: '2023-12-16 8:00'
-eventDateEnd: '2023-12-16 16:30'
+eventDateEnd: '2023-12-16 16:00'
 icon: /images/bucky-dec.png
 location:
     - Shepherd of the Lake Lutheran Church
@@ -13,7 +13,7 @@ location:
 ### ALL DAY 2023 WEBELOS / AOL Pin Day 8:00 am to 4:00 pm
 
 {{#badge-list}}
-{{>badge-registration badge="coin-collecting" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-webelos-aol-pin-day-2023-12-16"}}
+{{>badge-registration image="/images/smb2023wpd.png" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-webelos-aol-pin-day-2023-12-16"}}
 {{/badge-list}}
 
 ### Morning Classes 8:00 am to Noon
