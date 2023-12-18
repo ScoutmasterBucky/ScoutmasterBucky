@@ -25,7 +25,7 @@ location:
 ### Afternoon Classes 12:30 pm to 4:00 pm
 
 {{#badge-list}}
-{{>badge-registration badge="citiaenship-in-the-world" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-citizenship-in-the-world-merit-badge-2024-01-06-pm"}}
+{{>badge-registration badge="citizenship-in-the-world" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-citizenship-in-the-world-merit-badge-2024-01-06-pm"}}
 {{>badge-registration badge="communication" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-communication-merit-badge-2024-01-06-pm"}}
 {{>badge-registration badge="electronics" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-electronics-merit-badge-2024-01-06-pm"}}
 {{>badge-registration badge="nuclear-science" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-nuclear-science-merit-badge-2024-01-06-pm"}}
