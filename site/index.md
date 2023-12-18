@@ -29,7 +29,7 @@ js:
 <div class="Ta(c)">{{#smb-accent}}it is an expectation.{{/smb-accent}}</div>
 </div>
 <div class="D(f) Ai(c) Fxd(c) Maw(30%)--l Maw(25%)--_sml">
-<a class="D(f) Jc(c)" href="/images/bxmas.mp4"><img src="/images/wreath.jpg" class="W(80%)--_sm W(35%)--m W(60%)--s H(a)"></a>
+<a class="D(f) Jc(c)" href="/images/bxmas.jpg"><img src="/images/wreath.jpg" class="W(80%)--_sm W(35%)--m W(60%)--s H(a)"></a>
 <div class="Pt(0.4em)">Merry Christmas and a Happy Holidays from the Scoutmaster Bucky Team</div>
 </div>
 </div>
