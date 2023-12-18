@@ -14,7 +14,7 @@ location:
 
 {{#badge-list}}
 {{>badge-registration badge="chemistry" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-chemistry-merit-badge-2024-01-06-am"}}
-{{>badge-registration badge="citizenship-in-the-world" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-citienship-in-the-world-merit-badge-2024-01-06-am"}}
+{{>badge-registration badge="citizenship-in-the-world" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-citizenship-in-the-world-merit-badge-2024-01-06-am"}}
 {{>badge-registration badge="communication" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-communication-merit-badge-2024-01-06-am"}}
 {{>badge-registration badge="digital-technology" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-digital-technology-merit-badge-2024-01-06-am"}}
 {{>badge-registration badge="dog-care" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-dog-care-merit-badge-2024-01-06-am"}}
