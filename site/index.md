@@ -24,7 +24,7 @@ js:
 
 <div class="Ta(c) Mt(1em)">Remember the Scout Motto: {{#smb-accent}}Be Prepared{{/smb-accent}}</div>
 
-<div class="Ta(c)">At Scoutmaster Bucky events this is not a request, wish, or desire…</div>
+<div class="Ta(c)">at Scoutmaster Bucky events this is not a request, wish, or desire…</div>
 
 <div class="Ta(c)">{{#smb-accent}}it is an expectation.{{/smb-accent}}</div>
 </div>
