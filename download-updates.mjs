@@ -225,8 +225,9 @@ function downloadMeritBadges(updated) {
             return domQuery(
                 secondDom,
                 // data-id 075d167 is for American Business's previous requirements
+                // data-id d005c1d is for Automotive Maintenance's previous requirements
                 // data-id 30a3852 is for a generic previous requirements button that may not be shown
-                '[data-widget_type="button.default"]:not([data-settings]):not([data-id="075d167"]):not([data-id="30a3852"]) a[href*=".pdf"]',
+                '[data-widget_type="button.default"]:not([data-settings]):not([data-id="075d167"]):not([data-id="30a3852"]):not([data-id="d005c1d"]) a[href*=".pdf"]',
                 (secondLink) => {
                     found += 1;
                     const secondUrl = resolveUrl(secondLink, secondDom);
@@ -263,10 +264,9 @@ function downloadMeritBadges(updated) {
                 dom,
                 '[data-id="874908e"] h2 a, [data-id="93e56cd"] h2 a',
                 fetchMeritBadge
-            ).then(() => {
-                const hits = domQuery(dom, `a[href*="/page/${page + 1}/"]`);
-
-                if (hits.length) {
+            ).then((result) => {
+                // If links were found, proceed to the next page
+                if (result.length) {
                     return fetchPage(page + 1);
                 }
 
@@ -384,28 +384,10 @@ function downloadOtherAwards(updated) {
             selector: 'a[href*=pdf]'
         },
         {
-            key: "cyber-chip-grades-6-to-8",
-            url: "https://www.scouting.org/training/youth-protection/cyber-chip/grades-6-8/",
-            dest: "site/other-awards/cyber-chip/cyber-chip-grades-6-to-8.html.orig",
-            selector: "#post-35851"
-        },
-        {
-            key: "cyber-chip-grades-9-to-12",
-            url: "https://www.scouting.org/training/youth-protection/cyber-chip/grades-9-12/",
-            dest: "site/other-awards/cyber-chip/cyber-chip-grades-9-to-12.html.orig",
-            selector: "#post-35852"
-        },
-        {
-            key: "cyber-chip-student-project-kit",
-            url: "https://www.scouting.org/training/youth-protection/cyber-chip/grades-9-12/",
-            dest: "site/other-awards/cyber-chip/student-project-kit.pdf",
-            selector: '#post-35852 a[href*=".pdf"]'
-        },
-        {
             key: "totin-chip",
             url: "https://www.scouting.org/awards/awards-central/totin-chip/",
             dest: "site/other-awards/totin-chip/totin-chip.html.orig",
-            selector: ".entry-content"
+            selector: "[data-id=7627899f]"
         }
     ];
 

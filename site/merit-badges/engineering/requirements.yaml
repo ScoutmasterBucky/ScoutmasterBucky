@@ -17,7 +17,7 @@
 - requirement: 2
   text: |-
     Select an engineering achievement that has had a major impact on society.
-    Using resources such as the Internet (with your parent’s permission),
+    Using resources such as the internet (with your parent or guardian’s permission),
     books, and magazines, find out about the engineers who made this
     engineering feat possible, the special obstacles they had to overcome,
     and how this achievement has influenced the world today.  Tell your
@@ -91,33 +91,8 @@
         requirement.
 - requirement: 5
   text: |-
-    Do ONE of the following:
-  children:
-    - requirement: a
-      text: |-
-        Use the systems engineering approach to make step-by-step plans for
-        your next campout. List alternative ideas for such items as program
-        schedule, campsites, transportation, and costs. Tell why you made
-        the choices you did and what improvements were made.
-    - requirement: b
-      text: |-
-        Make an original design for a piece of patrol equipment.  Use the
-        systems engineering approach to help you decide how it should work
-        and look. Draw plans for it. Show the plans to your counselor,
-        explain why you designed it the way you did, and explain how you
-        would make it.
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Scouts are encouraged to prepare for this requirement ahead of time
-        as best they can.  At a minimum Scouts should come to the class
-        with some conceptualized ideas in relation to the components of
-        this requirement.  The merit badge counselor / instructor will help
-        facilitate this requirement completion during the class for those
-        Scouts that have done preparation work.  Please note that positive
-        and active participation during the class is also required in order
-        to be considered for sign off on this requirement.
+    Use the systems engineering approach to design an original piece of patrol
+    equipment, a toy or a useful device for the home, office or garage.
 - requirement: 6
   text: |-
     Do TWO of the following:
@@ -142,8 +117,8 @@
       markdown: true
       text: |-
         *Understanding electronics.* Using an electronic device such as a
-        mobile telephone or portable digital media player, find out how
-        sound travels from one location to another. Explain how the device
+        smartphone or tablet computer, find out how sound, video, text or images
+        travel from one location to another. Explain how the device
         was designed for ease of use, function, and durability.
     - requirement: d
       markdown: true
@@ -175,7 +150,7 @@
         engineering fair or similar competition.  (This requirement may be
         met by participation on an engineering competition project team.)
         Discuss with your counselor what your project demonstrates, the
-        kinds of questions visitors to the fair asked, and how well you
+        kinds of questions visitors to the fair asked you, and how well you
         were able to answer their questions.
     - note:
         - inPerson

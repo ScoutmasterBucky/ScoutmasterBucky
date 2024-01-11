@@ -1,251 +1,184 @@
+# PDF does not have 9f, 9g, 9h
 - requirement: 1
   text: "Do the following:"
   children:
-    - requirement: a
-      text: |-
-        Explain to your counselor the most likely hazards you may encounter
-        while participating in canoeing activities and what you should do
-        to anticipate, help prevent, mitigate, and respond to these
-        hazards.
-    - note:
-        - online
-        - inPerson
-      text: Scouts should review this requirement component and its elements and be prepared to explain hazards they might encounter participating in canoeing activities.
-    - requirement: b
-      text: "Review prevention, symptoms, and first-aid treatment for the following injuries or illnesses that could occur while canoeing: blisters, cold-water shock and hypothermia, dehydration, heat-related illnesses, sunburn, sprains, and strains."
-    - note:
-        - online
-        - inPerson
-      text: Scouts should review this requirement component and its elements and be prepared to discuss, demonstrate, explain, and show as necessary their first aid knowledge and proficiency as it applies to the canoeing merit badge as well as the ability to identify hazards likely to be encountered in canoeing activities
-    - requirement: c
-      text: Discuss the BSA Safety Afloat policy. Tell how it applies to canoeing activities.
-    - note:
-        - online
-        - inPerson
-      text: Scouts should review the BSA Safety Afloat policy prior to the class. It is NOT acceptable to attend the class not having read the BSA Safety Afloat policy and having a general understanding of it's application to canoeing activities. Scouts clearly not having prepared ahead of class will not be allowed to continue participation in the class after arrival until they show acceptable comprehension of this policy.
+      - requirement: a
+        text: |-
+            Explain to your counselor the most likely hazards you may encounter
+            while participating in canoeing activities and what you should do
+            to anticipate, help prevent, mitigate, and respond to these
+            hazards.
+      - note:
+            - online
+            - inPerson
+        text: Scouts should review this requirement component and its elements and be prepared to explain hazards they might encounter participating in canoeing activities.
+      - requirement: b
+        text: "Review prevention, symptoms, and first-aid treatment for the following injuries or illnesses that could occur while canoeing: blisters, cold-water shock and hypothermia, dehydration, heat-related illnesses, sunburn, sprains, and strains."
+      - note:
+            - online
+            - inPerson
+        text: Scouts should review this requirement component and its elements and be prepared to discuss, demonstrate, explain, and show as necessary their first aid knowledge and proficiency as it applies to the canoeing merit badge as well as the ability to identify hazards likely to be encountered in canoeing activities
+      - requirement: c
+        text: Discuss the BSA Safety Afloat policy. Tell how it applies to canoeing activities.
+      - note:
+            - online
+            - inPerson
+        text: Scouts should review the BSA Safety Afloat policy prior to the class. It is NOT acceptable to attend the class not having read the BSA Safety Afloat policy and having a general understanding of it's application to canoeing activities. Scouts clearly not having prepared ahead of class will not be allowed to continue participation in the class after arrival until they show acceptable comprehension of this policy.
 - requirement: 2
   text: "Before doing the following requirements, successfully complete the BSA swimmer test: Jump feetfirst into water over the head in depth. Level off and swim 75 yards in a strong manner using one or more of the following strokes: sidestroke, breaststroke, trudgen, or crawl; then swim 25 yards using an easy, resting backstroke. The 100 yards must be completed in one swim without stops and must include at least one sharp turn. After completing the swim, rest by floating."
 - note:
-    - online
-    - inPerson
+      - online
+      - inPerson
   text: "**ALL SCOUTS SHOULD BRING PROOF OF HAVING PASSED THE BSA SWIMMER TEST WITHIN THE PAST YEAR.**  (A camp swimmer's tag clearly showing it belongs to the Scout (and dated), a signed letter from a certified swimming instructor stating the Scout's competency as measured against the BSA Swimmer's test requirements, or a signed note from a BSA Swimming Merit Badge Counselor or Scout Leader will suffice - parental notes are not enough in conjunction with the  merit badge requirements.)"
   markdown: true
 - note:
-    - online
-    - inPerson
+      - online
+      - inPerson
   text: Even with this "proof" the counselor(s) reserve the right to retest any Scout that they deem necessary or to satisfy their interest in safety. Scouts not having any "proof" will be required to pass the BSA Swimmer Test prior to starting participation in the class.  Those not able to pass the BSA Swimmer Test may be dismissed from the class at the discretion of the counselor.  Those not able to pass the BSA Swimmer Test and allowed to stay in the class will be limited to "on land" requirements at the discretion of the counselor.
 - requirement: 3
   text: "Do the following:"
   children:
-    - requirement: a
-      text: Name and point out the major parts of a canoe.
-    - requirement: b
-      text: Describe how the length and shape of a canoe affect its performance.
-    - requirement: c
-      text: Discuss the advantages and disadvantages of the different materials used to make canoes.
+      - requirement: a
+        text: Name and point out the major parts of a canoe.
+      - requirement: b
+        text: Describe how the length and shape of a canoe affect its performance.
 - note:
-    - online
-    - inPerson
+      - online
+      - inPerson
   text: Scouts need to review the merit badge pamphlet for requirement 3. All information needed to complete these requirement components of Requirement 3 can be found in the merit badge pamphlet book. It is recommended to make notes on your Merit Badge Workbook to use when sharing your knowledge during the class.
 - requirement: 4
   text: "Do the following:"
   children:
-    - requirement: a
-      text: Name and point out the parts of a paddle.
-    - note:
-        - online
-        - inPerson
-      text: Scouts will need to make sure they have reviewed and are familiar with the parts of a paddle, knowing the different uses and benefits of different types of paddles may also be helpful. Scouts will be asked to name and explain the different parts of a paddle during the class.
-    - requirement: b
-      text: Demonstrate how to size correctly a paddle for a paddler in a sitting position and a kneeling position.
-    - note:
-        - online
-        - inPerson
-      text: This requirement component will be covered in the class, however Scouts should review the merit badge pamphlet for a basic understanding of how to size a paddle for themselves and someone else.
+      - requirement: a
+        text: Name and point out the parts of a paddle.
+      - note:
+            - online
+            - inPerson
+        text: Scouts will need to make sure they have reviewed and are familiar with the parts of a paddle, knowing the different uses and benefits of different types of paddles may also be helpful. Scouts will be asked to name and explain the different parts of a paddle during the class.
+      - requirement: b
+        text: Demonstrate how to correctly size a paddle for a paddler in a sitting position and a kneeling position.
+      - note:
+            - online
+            - inPerson
+        text: This requirement component will be covered in the class, however Scouts should review the merit badge pamphlet for a basic understanding of how to size a paddle for themselves and someone else.
 - requirement: 5
   text: "Do the following:"
   children:
-    - requirement: a
-      text: Discuss with your counselor the characteristics of life jackets most appropriate for canoeing and tell why a life jacket must always be worn while paddling.
-    - note:
-        - online
-        - inPerson
-      text: This requirement componet will be discussed in class, however only Scouts who actively discuss their findings, as required, will be signed off.
-    - requirement: b
-      text: Demonstrate how to select and properly fit the correct size life jacket.
-    - note:
-        - online
-        - inPerson
-      text: This requirement component will be covered in the class, however Scouts should make sure they have a general understanding of how to fit different types of life jackets that they might encounter and be prepared to demonstrate their knowledge and understanding during the class.
-    - requirement: c
-      text: Review the importance of safety and rescue equipment such as a sound signal device, extra paddle, sponge, bailer, bilge pump, rescue sling, ropes and throw bag.
-    - note:
-        - online
-        - inPerson
-      text: Scouts should make sure they can can identify and explain each of the safety and resuce equipment items of this requirement component.  While the counselor will review each of these during the class, Scouts are expected to have  prior prepared knowledge for each of these.  Be Prepared.
+      - requirement: a
+        text: Discuss with your counselor the characteristics of life jackets most appropriate for canoeing and tell why a life jacket must always be worn while paddling.
+      - note:
+            - online
+            - inPerson
+        text: This requirement componet will be discussed in class, however only Scouts who actively discuss their findings, as required, will be signed off.
+      - requirement: b
+        text: Demonstrate how to select and properly fit the correct size life jacket.
+      - note:
+            - online
+            - inPerson
+        text: This requirement component will be covered in the class, however Scouts should make sure they have a general understanding of how to fit different types of life jackets that they might encounter and be prepared to demonstrate their knowledge and understanding during the class.
+      - requirement: c
+        text: Review the importance of safety and rescue equipment such as a sound signal device, extra paddle, sponge, bailer, bilge pump, rescue sling, ropes and throw bag.
+      - note:
+            - online
+            - inPerson
+        text: Scouts should make sure they can can identify and explain each of the safety and resuce equipment items of this requirement component.  While the counselor will review each of these during the class, Scouts are expected to have  prior prepared knowledge for each of these.  Be Prepared.
 - requirement: 6
   text: Discuss with your counselor the general care and maintenance of canoes, paddles, and other canoeing equipment.
 - note:
-    - online
-    - inPerson
+      - online
+      - inPerson
   text: While the counselor will give insight during the class, only Scouts that actively  and knowledgeably discuss their findings will be signed off on this requirement. You may want to consider making notes that you can reference during the class to assist in your discussion.  Scouts that do not come with prior knowledge or research effort will NOT be able to complete this requirement during the class and may be required to follow up with the counselor at another date and time to complete this requirement. Remember the counselor will supplement knowledge.
 - requirement: 7
-  text: "Do the following:"
+  text: "With a companion, use a properly equipped canoe to demonstrate the following:"
   children:
-    - requirement: a
-      text: Discuss what personal and group equipment would be appropriate for a canoe camping trip. Describe how personal and group equipment can be packed and protected from water.
-    - note:
-        - online
-        - inPerson
-      text: Scouts will want to be prepared for discussion on what kinds of equipment would be appropriate for different canoeing activities. Only those Scouts actively participating in the class discussion will be considered for sign off on this component of the requirement.
-    - requirement: b
-      text: Using the containers and packs from requirement 7a, demonstrate how to load and secure the containers and other equipment in the canoe.
-    - note:
-        - online
-      text: This requirement will NOT be covered in the online class.  The counselor will provide instruction in how to successfully complete this requirement with follow up after the class.
-    - note:
-        - inPerson
-      text: With the knowledge brought to and gained at the class, Scouts will work with the counselor to complete this requirement component
-    - requirement: c
-      text: Using appropriate knots, including a trucker’s hitch, tautline hitch, and bowline, demonstrate how to secure a canoe to a vehicle or a trailer, or if these are not available, a rack on land.
-    - note:
-        - online
-      text: Shown below are the referenced knots from this requirement component.  Only Scouts showing proficiency in these knots AND properly and safely being able to demonstrate the securing of a canoe to the satisfaction of the merit badge counselor and the counselor's instructions in doing so, will be considered for sign off.
-    - note:
-        - inPerson
-      text: Scouts will need to show their proficiency using rope to secure a canoe to a vehicle / trailer utilizing appropriate and referenced knots. Below are some guides to use while refreshing one's self on how to tie a few of these knots. Only Scouts showing proficiency in these knots AND properly and safely able to demonstrate the securing of a canoe will be considered for sign off on this part of Requirement 7
-    - note:
-        - online
-        - inPerson
-      text: TRUCKER'S HITCH
-    - note:
-        - online
-        - inPerson
-      text: <img src="/merit-badges/canoeing/truckers-hitch.jpg" />
-      markdown: true
-    - note:
-        - online
-        - inPerson
-      text: TAUTLINE HITCH
-    - note:
-        - online
-        - inPerson
-      text: <img src="/merit-badges/canoeing/tautline-hitch.jpg" />
-      markdown: true
-    - note:
-        - online
-        - inPerson
-      text: BOWLINE HITCH
-    - note:
-        - online
-        - inPerson
-      text: <img src="/merit-badges/canoeing/bowline-hitch.jpg" />
-      markdown: true
-    - callout: true
-      text: TRUCKER'S HITCH
-    - callout: true
-      text: <img src="/merit-badges/canoeing/truckers-hitch.jpg" />
-      markdown: true
-    - callout: true
-      text: TAUTLINE HITCH
-    - callout: true
-      text: <img src="/merit-badges/canoeing/tautline-hitch.jpg" />
-      markdown: true
-    - callout: true
-      text: BOWLINE HITCH
-    - callout: true
-      text: <img src="/merit-badges/canoeing/bowline-hitch.jpg" />
-      markdown: true
+      - requirement: a
+        text: Safely carry and launch the canoe from a dock or shore (both, if possible).
+      - requirement: b
+        text: Safely land the canoe on a dock or shore (both, if possible) and return it to its proper storage location.
+        markdown: true
+      - requirement: c
+        text: Demonstrate kneeling and sitting positions in a canoe and explain the proper use for each position.
+      - requirement: d
+        text: Change places while afloat in the canoe.
 - requirement: 8
   text: "With a companion, use a properly equipped canoe to demonstrate the following:"
   children:
-    - requirement: a
-      text: Safely carry and launch the canoe from a dock or shore (both, if possible).
-    - requirement: b
-      text: Safely land the canoe on a dock or shore (both, if possible) and return it to its proper storage location.
-      markdown: true
-    - requirement: c
-      text: Demonstrate kneeling and sitting positions in a canoe and explain the proper use for each position.
-    - requirement: d
-      text: Change places while afloat in the canoe.
+      - requirement: a
+        text: |-
+            Safely exit the canoe in deep water without losing contact with the
+            canoe. Reenter the canoe with the assistance of the other paddler
+            without capsizing the boat.
+      - requirement: b
+        text: |-
+            Safely perform a controlled capsize of the canoe and demonstrate
+            how staying with a capsized canoe will support both paddlers.
+      - requirement: c
+        text: |-
+            Swim, tow, or push a swamped canoe 50 feet to shallow water. In the
+            shallow water, empty the swamped canoe and reenter it.
+      - requirement: d
+        text: |-
+            In deep water, rescue a swamped canoe and its paddlers. After checking
+            that those in the water do not need immediate assistance, empty the
+            swamped canoe and help the paddlers safely reenter their boat without
+            capsizing.
+      - requirement: e
+        text: |-
+            Perform a canoe rescue of a conscious swimmer.
+      - requirement: f
+        text: |-
+            Using a rescue (throw) bag from shore, lay the line within 3 feet of
+            a conscous swimmer 30 feet away. Show how to repack the bag when
+            done.
 - requirement: 9
-  text: "With a companion, use a properly equipped canoe to demonstrate the following:"
-  children:
-    - requirement: a
-      text: In deep water, exit the canoe and get back in without capsizing.
-    - requirement: b
-      text: |-
-        Safely perform a controlled capsize of the canoe and demonstrate
-        how staying with a capsized canoe will support both paddlers.
-    - requirement: c
-      text: |-
-        Swim, tow, or push a swamped canoe 50 feet to shallow water. In the
-        shallow water, empty the swamped canoe and reenter it.
-    - requirement: d
-      text: |-
-        In deep water, rescue a swamped canoe and its paddlers by emptying
-        the swamped canoe and helping the paddlers safely reenter their
-        boat without capsizing.
-- requirement: 10
   text: |-
-    With a companion, use a properly equipped canoe to demonstrate the
-    following paddling strokes as both a bow and stern paddler:
+      With a companion, using a properly equipped canoe to demonstrate the
+      following tandem maneuvers while paddling in unison on opposite sides and
+      without changing sides.  Each paddler must demonstrate these maneuvers in
+      both the bow and stern and on both sides of the canoe while maintaining trim
+      and balance of the canoe:
   children:
-    - requirement: a
-      text: Forward stroke
-    - requirement: b
-      text: Backstroke
-    - requirement: c
-      text: Draw
-    - detail: true
-      text: "For stern paddling only:"
-    - requirement: d
-      text: J-stroke
-    - requirement: e
-      text: Pushaway
-    - requirement: f
-      text: Forward sweep
-    - requirement: g
-      text: Reverse sweep
-    - requirement: h
-      text: Rudder stroke
-    - requirement: i
-      text: Stern pry
-- requirement: 11
-  text: |-
-    Using the strokes in requirement 10, and in an order determined by your
-    counselor, use a properly equipped canoe to demonstrate the following
-    tandem maneuvers while paddling on opposite sides and without changing
-    sides.  Each paddler must demonstrate these maneuvers in both the bow and
-    stern and on opposite paddling sides:
-  children:
-    - requirement: a
-      text: Pivot or spin the canoe in either direction.
-    - requirement: b
-      text: Move the canoe sideways or abeam in either direction.
-    - requirement: c
-      text: Stop the canoe.
-    - requirement: d
-      text: Move the canoe in a straight line for 50 yards.
-- requirement: 12
-  text: "Use a properly equipped canoe to demonstrate solo canoe handling:"
-  children:
-    - requirement: a
-      text: Launch from shore or a pier (both, if possible).
-    - requirement: b
-      text: |-
-        Using a single-blade paddle and paddling only on one side,
-        demonstrate proper form and use of the forward stroke, backstroke,
-        draw stroke, pushaway stroke, forward sweep, reverse sweep,
-        J-stroke, and rudder stroke. Repeat while paddling on the other
-        side.
-    - requirement: c
-      text: |-
-        Using a single-blade paddle and paddling only on one side,
-        demonstrate proper form and use of a combination of a forward
-        stroke, rudder stroke, and stern pry by canoeing to a target 50
-        yards away. Repeat while paddling on the other side.
-    - requirement: d
-      text: |-
-        Make a proper landing at a dock or shore (both, if possible). Store
-        canoe properly (with assistance, if needed).
+      - requirement: a
+        text: |-
+            Pivot (spin) the canoe 180° (half circle) to the right from a
+            stationary position, stop, and return to the starting position by
+            pivoting to the left using draw and pushaway strokes or using forward
+            and reverse sweeps staying within 2 boat lengths of the starting
+            position.
+      - requirement: b
+        text: |-
+            Move a canoe sideways (abeam) in one direction for 10 feet and then
+            return to the starting position using the draw and pushaway strokes.
+      - requirement: c
+        text: |-
+            While in forward motion, stop the canoe within two boat lengths using
+            the backstroke.
+      - requirement: d
+        text: |-
+            While in the stern position and without assistance from the bow
+            paddler, paddle in a straight line 15-20 boat lengths using an
+            appropriate steering stroke, e.g., the J-stroke or thumb-down rudder
+            stroke with or without a stern pry.
+      - requirement: e
+        text: |-
+            Move the canoe in a straight line 15-20 boat lengths with the bow
+            paddler using as necessary the forward stroke, draw stroke or forward
+            sweep and the stern paddler using an appropriate steering stroke, e.g.,
+            the J-stroke or thumb-down rudder stroke with or without a stern pry.
+      - requirement: f
+        text: |-
+            While maintaining forward motion, turn the canoe 90° in an arc to the
+            right in 5-10 boat lengths with the bow paddler using as necessary
+            either the draw stroke or forward sweep and the stern paddler using
+            only the forward stroke. Repeat the maneuver turning the canoe 90° to
+            the left.
+      - requirement: g
+        text: |-
+            Move the canoe backwards in a straight line 3-4 boat lengths using as
+            necessary the back stroke, reverse sweep or draw stroke in the bow or
+            the stern.
+      - requirement: h
+        text: |-
+            Complete a figure of 8 course around markers 3-4 boat lengths apart
+            using appropriate strokes including the draw stroke, and the forward
+            and reverse sweeps.

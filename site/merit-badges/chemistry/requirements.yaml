@@ -34,7 +34,7 @@
             Scouts will need to come to the class having ovtained two SDSs. Only Scouts that come to the class having prepared by obtaining these sheets will be considered ofr sign off on this requirement as a part of the class.
     - requirement: d
       text: |-
-        Discuss the safe storage of chemicals. How does the safe storage of chemicals apply to your home, your school, your community, and the environment?
+        Discuss the safe storage of chemicals. How does safe storage apply to your home, your school, your community, and the environment?
       children:
         - note:
             - inPerson
@@ -69,6 +69,7 @@
     - requirement: c
       text: |-
         Describe the difference between a chemical reaction and a physical change.
+        Observe one of each and share your observation with your counselor.
       children:
         - note:
             - inPerson
@@ -122,13 +123,30 @@
         All components of requirements 4 will be completed during the class as a part of this class. Scouts should come prepared having reviewed the information in the merit badge pamphlet as it pertains to these requirements.
 - requirement: 5
   text: |-
-    List the five classical divisions of chemistry. Briefly describe each one, and tell how it applies to your everyday life.
+    Discuss with your counselor the 5 classical areas of chemistry (organic,
+    inorganic, physical, analytical and biological), and two others from the
+    following list. Explain what they are, and how they impact your daily life.
   children:
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Scouts should review this requirement and be prepared to discuss. It is strongly recommended that Scouts bring any notes or supporting documents they may have to help show the counselor that they have prepared for discussion of these items.
+      - requirement: a
+        text: Agricultural chemistry
+      - requirement: b
+        text: Atmospheric chemistry
+      - requirement: c
+        text: Computational chemistry
+      - requirement: d
+        text: Electrochemistry
+      - requirement: e
+        text: Environmental chemistry and green chemistry
+      - requirement: f
+        text: Flavor chemistry, fragrance chemistry, and food chemistry
+      - requirement: g
+        text: Medicinal and natural products chemistry
+      - requirement: h
+        text: Photochemistry
+      - requirement: i
+        text: Polymer chemistry
+      - requirement: j
+        text: Or another area of chemistry of your choosing
 - requirement: 6
   text: |-
     Do EACH of the following:
@@ -169,7 +187,7 @@
         Visit a laboratory and talk to a chemist. Ask what that chemist does and what training and education are needed to work as a chemist.
     - requirement: b
       text: |-
-        Using resources found at the library and in periodicals, books, and the internet (with your parent’s permission), learn about two different kinds of work done by chemists, chemical engineers, chemical technicians, or industrial chemists. For each of the four positions, find out the education and training requirements.
+        Using resources found at the library and in periodicals, books, and the internet (with your parent's or guardian's permission), learn about two different kinds of work done by chemists, chemical engineers, chemical technicians, or industrial chemists. For each of the four positions, find out the education and training requirements.
     - requirement: c
       text: |-
         Visit an industrial plant that makes chemical products or uses chemical processes and describe the processes used. What, if any, by-products are produced and how are they handled?
