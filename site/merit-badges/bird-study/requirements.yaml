@@ -23,10 +23,14 @@
 - requirement: 2
   text: |-
     Show that you are familiar with the terms used to describe birds by
-    sketching or tracing a perched bird and then labeling 15 different parts
-    of the bird.  Sketch or trace an extended wing and label six types of
-    wing feathers.
+    doing the following:
   children:
+    - requirement: a
+      text: |-
+          Sketch or trace a perched bird and then label 15 different parts of the bird.
+    - requirement: b
+      text: |-
+          Sketch or trace an extended wing and label six types of wing feathers.
     - note:
         - inPerson
         - online
@@ -91,10 +95,6 @@
     - requirement: f
       text: |-
         Sparrow
-    - requirement: g
-      text: |-
-        Nonnative bird (introduced to North America from a foreign country
-        since 1800)
     - note:
         - inPerson
       text: |-
@@ -219,10 +219,11 @@
 - requirement: 7
   text: |-
     Explain the function of a bird’s song. Be able to identify five of the 20
-    species in your field notebook by song or call alone. For each of these
-    five species, enter a description of the song or call, and note the
-    behavior of the bird making the sound. Note why you think the bird was
-    making the call or song that you heard.
+    species in your field notebook by song or call alone. Explain the
+    difference between songs and calls. For each of these five species, enter a
+    description of the song or call, and note the behavior of the bird making
+    the sound. Note why you think the bird was making the call or song that you
+    heard.
   children:
     - note:
         - inPerson
@@ -284,6 +285,24 @@
             why these were present in small numbers. If the number of
             birds of these species is decreasing, explain why, and what,
             if anything, could be done to reverse their decline.
+    - requirement: c
+      text: |-
+          Participate in a bird banding program with an approved federal or state
+          agency, university researcher, bird observatory, or certified private individual.
+      children:
+          - requirement: 1
+            text: |-
+                Explain who is able to band birds and why.
+          - requirement: 2
+            text: |-
+                Explain why birds get banded.
+          - requirement: 3
+            text: |-
+                Explain what kinds of birds get banded.
+          - requirement: 4
+            text: |-
+                Tell how the birds were captured, the number of bird species recorded
+                during your visit, and your role in the program.
     - note:
         - inPerson
       text: |-
@@ -318,6 +337,10 @@
       text: |-
         Build a backyard sanctuary for birds by planting trees and shrubs
         for food and cover.
+    - requirement: d
+      text: |-
+          Build a nest box for a species of your choice using plans approved by your
+          counselor.
     - note:
         - online
       text: |-
@@ -346,7 +369,7 @@
         threatened.
     - requirement: b
       text: |-
-        Identify a bird species that is on the endangered or threatened
+        Identify bird species that is on the endangered or threatened
         list. Explain what caused their decline. Discuss with your
         counselor what can be done to reverse this trend and what can be
         done to help remove the species from the endangered or threatened
@@ -362,6 +385,11 @@
         class with this work already done usually will receive sign off on
         this requirement and its components.
 - requirement: 11
+  text: |-
+    Identify a nonnative bird (introduced to North America from a foreign country
+    since 1800). Describe how nonnative birds may become damaging to the
+    ecosystem.
+- requirement: 12
   text: |-
     Identify three career opportunities connected to the study of birds. Pick
     one and find out the education, training, and experience required for
