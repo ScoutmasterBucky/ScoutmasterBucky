@@ -16,7 +16,7 @@ There are occasions when a merit badge counselor can not show up for their class
 Scouting Magazine has guidance on [group merit badge instruction](group-merit-badge-instruction.jpg). We follow everything there, plus have several suggestions for a more successful experience in your class.
 
 {{#figure-container position="top"}}
-<img src="group-merit-badge-instruction.jpg" class="Maw(100%)">
+<a href="group-merit-badge-instruction.jpg"><img src="group-merit-badge-instruction.jpg" class="Maw(100%)"></a>
 {{^}}
 1. **Youth Protection at all times.** Of course we must always keep youth safe.
 2. **We're here to serve youth.** The focus of the class needs to be on the audience and doing what we can to assist their growth.
