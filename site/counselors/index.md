@@ -32,5 +32,5 @@ In addition to those rules, we've learned a lot about how classes should be ran 
 3. **Projectors are boring.** A huge slide deck with lots of words per slide is a monotonous, non-interactive presentation. When projectors are used, ensure they display visual aids and talking points. Don't read from slides.
 4. **Focus on the Scouts.** They are all here for a reason. Even if they only leave with partials, it would be best to ensure that the class time targets their merit badge needs and helping them as much as you can on their journey.
 
-Sounds interesting? Please reach out to Scoutmaster Bucky at [ScoutmasterBucky@yahoo.com](mailto:ScoutmasterBucky@yahoo.com?subject=Volunteer Merit Badge Counselor).
+Sounds interesting? Please reach out to Scoutmaster Bucky at <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Volunteer Merit Badge Counselor">ScoutmasterBucky@yahoo.com</a>.
 {{/figure-container}}
