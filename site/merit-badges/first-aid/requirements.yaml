@@ -13,9 +13,6 @@
     - requirement: b
       text: |-
         A remote location on a wilderness camping trip
-    - requirement: c
-      text: |-
-        An activity on open water
 - requirement: 3
   markdown: true
   text: |-
@@ -23,9 +20,8 @@
     handle a medical emergency until help arrives.
 - requirement: 4
   text: |-
-    Explain the standard precautions as applied to the transmission of
-    infections. Discuss the ways you should protect yourself and the victim
-    while administering first aid.
+    Explain the precautions you must take to reduce the risk of transmitting an
+    infection between you and the victim while administering first aid.
 - requirement: 5
   text: |-
     Do the following:
@@ -60,11 +56,20 @@
     - requirement: a
       text: |-
         Describe the conditions that must exist before performing CPR on a
-        person. Then demonstrate proper CPR technique using a training
-        device approved by your counselor.
+        person.
     - requirement: b
       text: |-
+        Demonstrate proper CPR technique using a training
+        device approved by your counselor.
+    - requirement: c
+      text: |-
         Explain the use of an automated external defibrillator (AED).
+    - requirement: d
+      text: |-
+        Demonstrate or simulate the proper use of an automated external
+        defibrillator (AED), using an AED training device if available.
+    - requirement: e
+      text: |-
         Identify the location of the AED at your school, place of worship,
         and troop meeting place, if one is present.
 - requirement: 8
@@ -86,38 +91,30 @@
         tourniquet.
     - requirement: d
       text: |-
-        Describe the proper application of a tourniquet.
+        Demonstrate the application of a tourniquet without tightening it.
 - requirement: 9
   text: |-
-    Explain when a bee sting could be life threatening and what action should
+    Explain when an insect or bee sting could be life threatening and what action should
     be taken for prevention and for first aid.
 - requirement: 10
   text: |-
-    Do the following:
-  children:
-    - requirement: a
-      text: |-
-        Describe the signs and symptoms of an open or closed fracture or
-        dislocation.
-    - requirement: b
-      text: |-
-        Explain what measures should be taken to reduce the likelihood of
-        further complications of fractures and dislocations.
+    Describe the signs, symptoms, and potential complications of a fracture and
+    dislocation.
 - requirement: 11
   # Lowercased "fingers"  in c for consistency
   text: |-
     Demonstrate the proper procedures for handling and immobilizing suspected
-    closed or open fractures or dislocations of the
+    closed or open fractures or dislocations of the:
   children:
     - requirement: a
       text: |-
-        Forearm
+        Finger
     - requirement: b
       text: |-
-        Wrist
+        Forearm
     - requirement: c
       text: |-
-        Hand and fingers
+        Wrist
     - requirement: d
       text: |-
         Upper leg
@@ -129,58 +126,59 @@
         Ankle
 - requirement: 12
   text: |-
-    Describe the signs and symptoms, proper first-aid procedures, and
-    possible prevention measures for the following conditions:
+    Describe the signs, symptoms, and possible complications and demonstrate
+    care for someone with a suspected injury to the neck or back.
+- requirement: 13
+  text: |-
+    Describe the symptoms, proper first-aid procedures, and possible prevention
+    measures for the following conditions:
   children:
     - requirement: a
       text: |-
-        Anaphylaxis/allergic reactions
+        Concussion
     - requirement: b
       text: |-
-        Asthma attack
+        Anaphylaxis/allergic reactions
     - requirement: c
       text: |-
-        Bruises
+        Asthma attack
     - requirement: d
       text: |-
-        Sprains or strains
+        Bruises
     - requirement: e
       text: |-
-        Hypothermia
+        Sprains or strains
     - requirement: f
       text: |-
-        Frostbite
+        Hypothermia
     - requirement: g
       text: |-
-        Burns—first, second, and third degree
+        Frostbite
     - requirement: h
       text: |-
-        Concussion
+        Burns-first, second, and third degree
     - requirement: i
       text: |-
         Convulsions/seizures
     - requirement: j
       text: |-
-        Someone who is unconscious
+        Dehydration
     - requirement: k
       text: |-
-        Dehydration
+        Muscle cramps
     - requirement: l
       text: |-
-        Muscle cramps
+        Heat exhaustion
     - requirement: m
       text: |-
-        Heat exhaustion
+        Heat stroke
     - requirement: n
       text: |-
-        Heat stroke
+        Abdominal pain
     - requirement: o
       text: |-
-        Abdominal pain
-    - requirement: p
-      text: |-
         Broken, chipped, or loosened tooth
-- requirement: 13
+- requirement: 14
   text: |-
     Do the following:
   children:
@@ -196,6 +194,16 @@
       text: |-
         With helpers under your supervision, improvise a stretcher and move
         a presumably unconscious person.
-- requirement: 14
+- requirement: 15
+  text: "Describe the following:"
+  children:
+      - requirement: a
+        text: |-
+            The indications that someone might be a danger to themselves or others.
+      - requirement: b
+        text: |-
+            What action you should take if you suspect that someone might be a
+            danger to themselves or others.
+- requirement: 16
   text: |-
     Teach another Scout a first-aid skill selected by your counselor.

@@ -11,13 +11,13 @@
         List the most frequent causes of burn injuries.
     - requirement: c
       text: |-
-        Explain how to safely discard and store flammable liquids.
+        Explain how to safely store flammable and combustible liquids. Describe
+        the options available for safely disposing of unwanted hazardous substances
+        in your community.
 - requirement: 2
   text: |-
-    Explain the chemistry and physics of fire. Name the parts of the fire
-    tetrahedron.  Explain why vapors are important to the burning process.
-    Name the products of combustion. Give an example of how fire grows and
-    what happens.
+    Explain the concept of fire and name the parts of the fire tetrahedron. Name the
+    by-products of combustion. Describe the life cycle of a fire.
 - requirement: 3
   text: |-
     Name the most frequent causes of fire in the home, and give examples of
@@ -25,8 +25,21 @@
     smoking in the home, cooking, candles, fireplaces, and electrical
     appliances.
 - requirement: 4
-  text: |-
-    Explain the role of human behavior in the arson problem in this country.
+  text: "Do the following:"
+  children:
+      - requirement: a
+        text: |-
+            Explain the four classifications of fire origin (accidental, natural,
+            incendiary, or undetermined) and give an example of each.
+      - requirement: b
+        text: |-
+            Describe how a fire classified as incendiary might lead to criminal
+            prosecution of a person charged with arson.
+      - requirement: c
+        text: |-
+            Explain some of the social, economic and environmental consequences
+            that result from incendiary fires that damage or destroy structures and
+            wildlands.
 - requirement: 5
   text: |-
     List the actions and common circumstances that cause seasonal and
@@ -42,14 +55,15 @@
         and conduct a home fire drill.
     - requirement: b
       text: |-
-        Test a smoke alarm and demonstrate regular maintenance of a smoke
-        alarm.
+        Identify the location of all smoke alarms in your home and confirm that
+        none are more than 10 years old. Test each smoke alarm and demonstrate
+        regular maintenance of a smoke alarm.
     - requirement: c
       text: |-
-        Explain what to do when you smell gas and when you smell smoke.
+        Explain what to do when you smell natural gas and when you smell smoke.
     - requirement: d
       text: |-
-        Explain how you would report a fire alarm.
+        Explain how you would report a fire to have the fire department respond.
     - requirement: e
       text: |-
         Explain what fire safety equipment can be found in public
@@ -60,7 +74,7 @@
         can be used.
     - requirement: g
       text: |-
-        Explain how to extinguish a grease pan fire.
+        Explain how to extinguish a stovetop pan fire.
     - requirement: h
       text: |-
         Explain what fire safety precautions you should take when you are
@@ -71,7 +85,8 @@
   children:
     - requirement: a
       text: |-
-        Demonstrate lighting a match safely.
+        Demonstrate lighting a match safely, the proper way to extinguish it
+        and to dispose of it.
     - requirement: b
       text: |-
         Demonstrate the safe way to start a charcoal fire.
@@ -89,9 +104,9 @@
   children:
     - requirement: a
       text: |-
-        Describe for your counselor the safe way to refuel a liquid fuel
-        engine, such as a lawn mower, weed eater, an outboard motor, farm
-        machine, or an automobile with gas from an approved gas can.
+        Describe for your counselor the safe way to refuel a liquid fueled
+        engine, such as a lawn mower, weed eater, outboard motor, farm
+        machine, or automobile with fuel from an approved gasoline container.
     - requirement: b
       text: |-
         Demonstrate the safety factors, such as proper ventilation, for
@@ -102,8 +117,8 @@
   children:
     - requirement: a
       text: |-
-        Explain the cost of outdoor and wildland fires and how to prevent
-        them.
+        Explain the costs associated with outdoor and wildland fires and how
+        they can be prevented.
     - requirement: b
       text: |-
         Demonstrate setting up and putting out a cooking fire.
@@ -115,8 +130,9 @@
         Explain how to set up a campsite safe from fire.
 - requirement: 11
   text: |-
-    Visit a fire station. Identify the types of fire trucks. Find out about
-    the fire prevention activities in your community.
+    Visit a fire station. Identify the various types of fire trucks and
+    describe the functions of each. Find out about the fire prevention
+    activities in your community during your visit.
 - requirement: 12
   text: |-
     Determine if smoke detectors are required in all dwellings within your
