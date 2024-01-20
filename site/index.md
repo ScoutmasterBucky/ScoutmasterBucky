@@ -80,5 +80,5 @@ Scoutmaster Bucky is Brian Reiners and is registered in Northern Star Scouting o
 Contact number: 612-483-0665<br />
 Email: <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry">ScoutmasterBucky@yahoo.com</a>
 
-Learn more about [Scoutmaster Bucky and his team](/about-us/).
+Learn more about [being a counselor for Bucky](/counselors/).
 {{/figure-container}}
