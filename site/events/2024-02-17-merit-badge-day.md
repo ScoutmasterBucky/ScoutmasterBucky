@@ -32,8 +32,8 @@ location:
 ### 3/4 Day Classes 8:00 am to 3:00 pm
 
 {{#badge-list}}
-{{>badge-registration badge="cooking" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-cooking-merit-badge-2024-02-17"}}
 {{>badge-registration badge="emergecy-preparedness" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-emergency-preparedness-merit-badge-2024-02-17"}}
+{{>badge-registration badge="pioneering" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-pioneering-merit-badge-2024-02-17"}}
 {{/badge-list}}
 
 ### Afternoon Classes 12:30 pm to 4:00 pm
