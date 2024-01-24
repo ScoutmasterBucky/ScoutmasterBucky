@@ -14,7 +14,7 @@ location:
 ### Advanced Adult Leader Training Series - for Parents and Scout Leaders -  9:00 am to Noon
 
 {{#badge-list}}
-{{>badge-registra{{>image-registration image="/images/aalt-logo.jpg" registrationLink="https://www.eventbrite.com/e/advanced-adult-leadership-training-scouting-with-special-needs-tickets-806320425097?aff=oddtdtcreator"}}
+{{>image-registration image="/images/aalt-logo.jpg" registrationLink="https://www.eventbrite.com/e/advanced-adult-leadership-training-scouting-with-special-needs-tickets-806320425097?aff=oddtdtcreator"}}
 {{/badge-list}}
 
 ### Morning Classes 8:00 am to Noon
