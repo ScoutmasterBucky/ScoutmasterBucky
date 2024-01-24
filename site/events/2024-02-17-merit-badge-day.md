@@ -23,7 +23,7 @@ location:
 {{>badge-registration badge="american-business" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-american-business-merit-badge-2024-02-17-am"}}
 {{>badge-registration badge="coin-collecting" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-coin-collecting-merit-badge-2024-02-17-am"}}
 {{>badge-registration badge="game-design" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-game-design-merit-badge-2024-02-17-am"}}
-{{>badge-registration badge="grphic-arts" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-graphic-arts-merit-badge-2024-02-17-am"}}
+{{>badge-registration badge="graphic-arts" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-graphic-arts-merit-badge-2024-02-17-am"}}
 {{>badge-registration badge="photography" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-photography-merit-badge-2024-02-17-am"}}
 {{>badge-registration badge="sustainability" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-sustainability-merit-badge-2024-02-17-am"}}
 {{>badge-registration badge="weather" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-weather-merit-badge-2024-02-17-am"}}
