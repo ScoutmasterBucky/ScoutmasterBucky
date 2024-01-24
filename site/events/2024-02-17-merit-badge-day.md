@@ -9,6 +9,7 @@ location:
     - 8600 Fremont Avenue South
     - Bloomington, Minnesota 55420
 
+---
 
 ### Advanced Adult Leader Training Series - for Parents and Scout Leaders -  9:00 am to Noon
 
