@@ -5,7 +5,7 @@ title: Aviation Merit Badge Day
 eventDateStart: 2024-05-18 8:00
 eventDateEnd: 2024-05-18 12:30
 registrationLink: https://scoutingevent.com/250-greatmnaviationgathering24
-icon: /events/images/mpa.png
+icon: /events/images/minnesota-pilots-association-logo.svg
 location:
     - Buffalo Municipal Airport
     - 1305 County Rd 134 NE
