@@ -80,11 +80,12 @@ Event files can have the following metadata.
 * `borderColor` - When `online` is true, defaults to gold. When `meritBadge` is true, defaults to green. Otherwise defaults to black.
 * `bannerDateColor` - Defaults to black.
 * `location` - Array of strings for the location of the event.
-* `meritBadge` - If `true`, uses the merit badge event colors and template.
-* `online` - If `true`, uses the online event colors and template.
+* `meritBadge` - If `true`, uses the merit badge event colors and template. This is for a Scoutmaster Bucky merit badge event, not an outside event.
+* `online` - If `true`, uses the online event colors and template. This is for a Scoutmaster Bucky online event, not an outside event.
 * `onSaleDate` - If set, this will show "Tickets go on sale MMMM D, YYYY" as long as that day is in the future.
 * `eventBriteEventId` - For the generation of the registration link. Used for online events only.
 * `registrationLink` - When there is a link to a registration page, set this property and a "Register Here" button will automatically be added to the end.
+* `icon` - Image to show in association in the event card.
 
 
 Text and Markdown
