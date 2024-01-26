@@ -5,7 +5,7 @@ title: Spring Merit Badge Day
 eventDateStart: 2024-02-03 8:30
 eventDateEnd: 2024-02-03 14:30
 registrationLink: https://www.gatewayscouting.org/MeritBadgeDay
-icon: /events/images/merit-badges.jpg
+icon: /events/images/gateway-area-council-logo.jpg
 location:
     - University of La Crosse Student Union
     - 521 East Avenue N

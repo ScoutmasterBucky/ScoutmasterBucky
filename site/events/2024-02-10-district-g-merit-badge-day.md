@@ -1,15 +1,15 @@
 ---
 layout: smb-event
 host: District G
-title: Super Merit Badge Day
+title: District G Merit Badge Day
 eventDateStart: 2024-02-10 8:00
 eventDateEnd: 2024-02-10 16:00
 registrationLink: https://www.signupgenius.com/go/10C0D49A9AF28AAF58-47227237-merit#/
-icon: /events/images/merit-badges.jpg
+icon: /events/images/district-g.png
 location:
     - The Grove United Methodist Church
     - 7465 Steepleview Rd
-    - Woodbury, MN 55125
+    - Woodbury, Minnesota 55125
 ---
 
 Schedule:
