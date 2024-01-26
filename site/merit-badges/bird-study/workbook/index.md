@@ -1,6 +1,7 @@
 ---
 badge: bird-study
 layout: smb-merit-badge-workbook
+workbookMultipleOptionsMessage: true
 downloads:
     - name: Bird Study Workbook
       url: bird-study-workbook.pdf
