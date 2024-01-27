@@ -25,7 +25,7 @@ location:
 {{>badge-registration badge="scouting-heritage" registrationLink="https://scoutmasterbucky.regfox.com/2024-twin-cities-trade-o-ree-scouting-heritage-merit-badge"}}
 {{/badge-list}}
 
-### All Day Classes - 9:00 am to 2:30 pm
+### All Day Classes - 8:00 am to 3:00 pm
 
 {{#badge-list}}
 {{>badge-registration badge="citizenship-in-the-nation" registrationLink="https://scoutmasterbucky.regfox.com/2024-twin-cities-trade-o-ree-citizenship-in-the-nation-merit-badge"}}
