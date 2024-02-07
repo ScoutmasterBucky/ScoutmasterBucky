@@ -40,9 +40,7 @@ location:
 
 {{#badge-list}}
 {{>badge-registration badge="american-labor" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-american-labor-merit-badge-2024-02-17-pm"}}
-{{>badge-registration badge="chess" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-chess-merit-badge-2024-02-17-pm"}}
 {{>badge-registration badge="engineering" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-engineering-merit-badge-2024-02-17-pm"}}
-{{>badge-registration badge="journalism" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-journalism-merit-badge-2024-02-17-pm"}}
 {{>badge-registration badge="pulp-and-paper" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-pulp-and-paper-merit-badge-2024-02-17-pm"}}
 {{>badge-registration badge="stamp-collecting" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-stamp-collecting-merit-badge-2024-02-17-pm"}}
 {{>badge-registration badge="sustainability" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-sustainability-merit-badge-2024-02-17-pm"}}
