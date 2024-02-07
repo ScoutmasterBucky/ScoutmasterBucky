@@ -3,6 +3,8 @@ badge: animal-science
 layout: smb-merit-badge-workbook
 workbookMultipleOptionsMessage: true
 downloads:
+    - name: Animal Science Workbook - for all (plus one option below)
+      url: animal-science-workbook.pdf
     - name: Animal Science Workbook - Avian Option
       url: animal-science-workbook-avian.pdf
     - name: Animal Science Workbook - Beef Cattle Option
