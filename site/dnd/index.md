@@ -32,13 +32,13 @@ Scoutmaster Bucky is hosting a Dungeons & Dragons full-day event at Phillippo Sc
 
 # Registration
 
-Registration is not yet open.
-
 Registration is done by table, meaning that participants will sign up for a specific class at a specific table. Each table will hold up to four players and there will not be duplicates of any class. Encourage your friends to join your table and help ensure a fun time and a successful quest.
+
+<div class="D(f) Ai(c) Jc(c) Fz(1.8em) kalam"><a href="https://scoutmasterbucky.regfox.com/2024-dungeons-dragons-honour-among-scouts" class="C(red)">Register Here</a></div>
 
 # Dungeon Masters
 
-We need experienced Dungeon Masters to help make this event successful. You will be asked to staff stations in the morning and preside over a table in the afternoon. In addition, there will be an instruction weekend to help get everyone on the same page and playtest the adventure before we open it up to Scouts. Please contact Scoutmaster Bucky at <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Dungeon Master Intereset">ScoutmasterBucky@yahoo.com</a>.
+We need experienced Dungeon Masters to help make this event successful. You will be asked to staff stations in the morning and preside over a table in the afternoon. In addition, there will be an instruction weekend to help get everyone on the same page and playtest the adventure before we open it up to Scouts. Please contact Scoutmaster Bucky at <a class="C(red)" href="mailto:ScoutmasterBucky@yahoo.com?subject=Dungeon Master Intereset">ScoutmasterBucky@yahoo.com</a>.
 
 <script defer src="wc-carousel-lite.min.js"></script>
 <script defer src="carousel.js"></script>
