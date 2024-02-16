@@ -28,10 +28,16 @@ js:
 
 <div class="Ta(c)">{{#smb-accent}}it is an expectation.{{/smb-accent}}</div>
 </div>
+
+
+
 <div class="D(f) Ai(c) Fxd(c) Maw(30%)--l Maw(25%)--_sml">
-<a class="D(f) Jc(c)" href="mailto:ScoutmasterBucky@yahoo.com?subject=Contact Us Home Page Inquiry"><img src="/images/contact-us.png" class="W(80%)--_sm W(35%)--m W(60%)--s H(a)"></a>
-<div class="Pt(0.4em)">Have an idea, suggestion, request or just want to say hello? We'd love to hear from you.</div>
+<a class="D(f) Jc(c)" href="/dnd/"><img src="/dnd/bucky-guild.png" class="W(80%)--_sm W(35%)--m W(60%)--s H(a) Bgc(black) Bdrs(1em)"></a>
+<div class="Pt(0.4em) Tt(u) Fw(b) Fz(1.2em)">Dungeons &amp; Dragons</div>
+<p>Join Scoutmaster Bucky and his team of Dungeon Masters on October 5th.</p>
+<p><a href="/dnd/">Learn more!</a></p>
 </div>
+
 </div>
 
 {{#if news}}
