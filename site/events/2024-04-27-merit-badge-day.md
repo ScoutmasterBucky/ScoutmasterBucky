@@ -30,6 +30,7 @@ location:
 {{>badge-registration badge="environmental-science" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-environmental-science-merit-badge-2024-04-27-pm"}}
 {{>badge-registration badge="forestry" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-forestry-merit-badge-2024-04-27-pm"}}
 {{>badge-registration badge="geocaching" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-geocaching-merit-badge-2024-04-27-pm"}}
+{{>badge-registration badge="mammal-study" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-mammal-study-merit-badge-2024-04-27-pm"}}
 {{>badge-registration badge="soil-and-water-conservation" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-soil-and-water-conservation-merit-badge-2024-04-27-pm"}}
 {{>badge-registration badge="weather" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-weather-merit-badge-2024-04-27-pm"}}
 

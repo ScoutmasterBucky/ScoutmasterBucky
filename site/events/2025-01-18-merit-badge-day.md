@@ -34,9 +34,10 @@ location:
 {{>badge-registration badge="personal-management" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-personal-management-merit-badge-2025-01-18-pm"}}
 {{>badge-registration badge="pets" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-pets-merit-badge-2025-01-18-pm"}}
 {{>badge-registration badge="programming" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-programming-merit-badge-2025-01-18-pm"}}
-{{>badge-registration badge="reading" badge2="scholarship" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-reading-and-scholarship-merit-badge-2025-01-18-pm"}}
+{{>badge-registration badge="reading" badge2="scholarship" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-reading-andor-scholarship-merit-badge-2025-01-18-pm"}}
 {{/badge-list}}
 
 
 Registration opens Sunday, December 1, 2024 12:05 am Central Time
+
 Registration closes Thursday, January 16, 2025 10:00 pm Central Time
