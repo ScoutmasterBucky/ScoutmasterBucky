@@ -26,7 +26,7 @@ location:
 
 {{#badge-list}}
 {{>badge-registration badge="pioneering" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-pioneering-merit-badge-2024-03-09"}}
-{{>badge-registration badge="woodwork" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-woodwork-merit-badge-2024-03-09-am"}}
+{{>badge-registration badge="woodwork" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-woodwork-merit-badge-2024-03-09"}}
 {{/badge-list}}
 
 ### Afternoon Classes 12:30 pm to 4:00 pm
@@ -44,4 +44,6 @@ location:
 
 
 Registration opens Thursday, February 1, 2024 12:05 am Central Time
+
+
 Registration closes Thursday, March 7, 2024 10:00 pm Central Time

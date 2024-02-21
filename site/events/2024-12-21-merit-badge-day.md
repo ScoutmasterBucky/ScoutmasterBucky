@@ -43,4 +43,6 @@ location:
 
 
 Registration opens Friday, November 1, 2024 12:05 am Central Time
+
+
 Registration closes Thursday, December 19, 2021 10:00 pm Central Time
