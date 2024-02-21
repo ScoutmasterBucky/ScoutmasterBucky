@@ -11,13 +11,6 @@ location:
 
 ---
 
-### All Day Cub Scout Fun - 9:00 am to 3:00 pm
-
-{{#badge-list}}
-{{>image-registration image="/images/cub-bsa.png"  registrationLink="https://scoutmasterbucky.regfox.com/2024-twin-cities-trade-o-ree-cub-scout-fun"}}
-{{/badge-list}}
-
-
 ### Morning Classes - 8:00 am to 11:30 am
 
 {{#badge-list}}
