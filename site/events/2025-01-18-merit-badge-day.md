@@ -34,7 +34,7 @@ location:
 {{>badge-registration badge="personal-management" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-personal-management-merit-badge-2025-01-18-pm"}}
 {{>badge-registration badge="pets" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-pets-merit-badge-2025-01-18-pm"}}
 {{>badge-registration badge="programming" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-programming-merit-badge-2025-01-18-pm"}}
-{{>badge-registration badge="reading" badge2="scholarship" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-reading-andor-scholarship-merit-badge-2025-01-18-pm"}}
+{{>badge-registration badge="reading" badge2="scholarship" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-reading-andor-scholarship-merit-badges-2025-01-18-pm"}}
 {{/badge-list}}
 
 
