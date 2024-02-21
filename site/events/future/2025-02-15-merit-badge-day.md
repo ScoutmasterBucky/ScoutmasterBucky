@@ -38,7 +38,7 @@ location:
 {{>badge-registration badge="home-repairs" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-stamp-collecting-merit-badge-2025-02-15-pm"}}
 {{>badge-registration badge="painting" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-pulp-and-paper-merit-badge-2025-02-15-pm"}}
 {{>badge-registration badge="pulp-and-paper" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-pulp-and-paper-merit-badge-2025-02-15-pm"}}
-{{>badge-registration badge="woodcarving" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-sustainability-merit-badge-2025-02-15-pm"}}
+{{>badge-registration badge="wood-carving" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-sustainability-merit-badge-2025-02-15-pm"}}
 {{/badge-list}}
 
 
