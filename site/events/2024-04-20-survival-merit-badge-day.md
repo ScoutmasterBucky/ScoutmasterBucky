@@ -1,3 +1,4 @@
+---
 layout: smb-event
 title: SSC and WS Merit Badge Day
 eventDateStart: '2024-04-20 8:00'
@@ -7,7 +8,7 @@ location:
     - Rum River Scout Camp
     - 15659 St Francis Boulevard NW
     - Ramsey, Minnesota 55303
-
+---
 
 ### Saturday Class - 8:00 am to 3:00 pm - includes daily camper fee
 
