@@ -3,7 +3,7 @@ layout: smb-event
 title: Scoutmaster Bucky Railroading Merit Badge Day
 eventDateStart: '2024-03-17 13:00'
 eventDateEnd: '2024-03-17 16:00'
-icon: /images/railroading.png
+icon: /events/images/railroading.png
 location:
     - North Metro Model Railroad Club
     - 1929 Coon Rapids Boulevard NW
