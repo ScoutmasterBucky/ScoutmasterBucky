@@ -1,0 +1,73 @@
+<h3>Expectations</h3>
+
+{{#figure-container align="right"}}
+<img src="{{@root.rootPath}}/images/class-prep-right.jpg" class="Maw(100%)" alt="What to Bring" />
+{{^}}
+
+<p><span class="Fz(1.4em) Fvc(sc)">Read and review ALL requirements prior to the class.</span><br/>
+Even though a requirement may be identified as one to be done in class, Scouts are still expected to familiarize, review, and prepare for the requirement – BE PREPARED!</p>
+
+<p><span class="Fz(1.2em)">Active interaction/participation is expected and mandatory.</span></p>
+
+<p><span class="Fz(1.2em)">Share in your own words – avoid reading your answers.</span></p>
+
+<p><span class="Fz(1.2em)">Pay attention to the action verbs in the requirements.</span></p>
+
+<p><span class="Fz(1.2em)">Bring proof of completion, even partially completed work.</span></p>
+
+{{/figure-container}}
+
+<h3>Requirement Insights</h3>
+
+<table class="Bdcl(c) W(100%)">
+    <thead>
+        <tr class="Bgc(--headingBackground) C(--headingText)">
+            <th class="P(8px)">Requirements</th>
+            <th class="P(8px) W(100%)">Expectations</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#insights}}
+        <tr class="Bgc(--heading2Background):even">
+            <th class="P(8px) Ta(c)">{{{req}}}</th>
+            <td class="P(8px)">
+                {{#if (lookup @root.classPrepInsights text)}}
+                    {{{lookup @root.classPrepInsights text}}}
+                {{else}}
+                    {{{text}}}
+                {{/if}}
+            </td>
+        </tr>
+        {{/insights}}
+    </tbody>
+</table>
+
+<h3>Things to Remember to Bring</h3>
+
+{{#figure-container align="left"}}
+<img src="{{@root.rootPath}}/images/class-prep-left.jpg" class="Maw(100%)" alt="What to Bring" />
+{{^}}
+<ol>
+    <li>Your BSA ID# and / or your Merit Badge Blue Card properly filled out and signed off by your Scout Leader.</li>
+    <li>Notes and questions from reading the {{>badge-name badge=@root.badge}} Merit Badge Pamphlet.</li>
+    <li>Wear your Scout Uniform.</li>
+    {{#bring}}
+    <li>
+        {{#if (lookup @root.classPrepBring .)}}
+            {{{lookup @root.classPrepBring .}}}
+        {{else}}
+            {{{.}}}
+        {{/if}}
+    </li>
+    {{/bring}}
+    <li>Supporting documentation or project work pertinent to this merit badge, which may also include a <a href="../workbook/">Merit Badge Workbook</a> for reference with notes.</li>
+    <li>A positive Scouting focus and attitude.</li>
+</ol>
+{{/figure-container}}
+
+<div class="Bds(g) Bdw(8px) Bdc(--headingBackground) P(0.8em) Mt(1em)">
+Merit Badge Workbooks are a tool to aid Scouts with their work preparation. BSA discourages —
+but does not ban — the use of any merit badge worksheets or workbooks. Merit badge counselors
+must NEVER require the use of merit badge worksheets or workbooks and may if they choose,
+refuse to accept them. Scouts shall not be required to use ANY of these to complete a merit badge.
+</div>
