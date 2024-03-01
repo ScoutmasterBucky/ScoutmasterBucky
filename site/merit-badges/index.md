@@ -8,7 +8,7 @@ year: 2024
 
 Find information and resources on each of the {{meritBadgeMeta.activeCount}} Scouts BSA merit badges offered in {{year}} by the Boy Scouts of America. Annual updates are released during the first quarter of the year.
 
-The links below direct to the specific merit badge and its requirements as well as links to resources like the Scoutmaster Bucky Merit Badge Workbook which includes class preparation notes under the "Requirements Insights" section. as well as the Scoutmaster Bucky Merit Badge History Pages.
+The links below direct to the specific merit badge and its requirements as well as links to resources like the Scoutmaster Bucky Merit Badge Workbook, Class Preparation notes, as well as the Scoutmaster Bucky Merit Badge History Pages.
 
 All requirements are current as listed on https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/ unless otherwise noted.
 
