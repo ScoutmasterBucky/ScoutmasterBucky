@@ -3,7 +3,7 @@ badge: athletics
 layout: smb-merit-badge-class-prep
 classPrep: true
 insights:
-    - req: 
+    - req:
       text: |-
         <p><span class="C(red)">NOTE:</span></p>
         <p> If meeting any of the requirements for this merit badge is against the Scout's religious convictions, the requirement does not have to be done if the Scout's parents and the proper religious advisors state in writing that to do so would be against religious convictions. The Scout's parents must also accept full responsibility for anything that might happen because of this exemption.</p>
@@ -13,7 +13,7 @@ insights:
       text: |-
         <p><span class="C(red)">Before completing any of the following requirements for this merit badge, Scouts will need to show that they have had a physical exam with their health-care provider using the BSA Health Form. This must be done and dated prior to completing any of requirements 3, 4, or 5.</span></p>
         <p>Proof of this starting date can be shown by having your current or past BSA Health Form with for validation by the merit badge counselor.</p>
-	- req: 2b, 2c, 2d, 6
+    - req: 2b, 2c, 2d, 6
       text: timeIsAllotted
     - req: 3
       text: |-
