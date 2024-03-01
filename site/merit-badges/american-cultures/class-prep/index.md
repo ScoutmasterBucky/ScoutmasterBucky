@@ -3,15 +3,10 @@ badge: american-cultures
 layout: smb-merit-badge-class-prep
 classPrep: true
 insights:
-    - req: 1, 2, 3, 4, 7
+    - req: 1, 3, 4, 5
       text: timeIsAllotted
-    - req: 5
-      text: prepareAheadOfTime
-    - req: 6
+    - req: 2
       text: |-
-        <p><span class="C(red)">You will need to complete as much of the supplemental workbook for your selected animal option as possible.</span></p>
-        <p><span class="C(red)">NOTE: Many of these options can take months to complete.</span></p>
-bring:
-    - outdoorClothing
-    - Elephants, monkeys, and other available zoo animals.
+        <p><span class="C(red)">Successful completion of this requirement is contingent upon your Requirement 1 preparation and presentation.</span></p>
+        <p>The merit badge instructor / counselor will facilitate discussion during the class to complete this requirement.</p>
 ---
