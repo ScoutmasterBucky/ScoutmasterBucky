@@ -1,0 +1,17 @@
+{{>layout-header}}
+
+        <link rel="stylesheet" href="{{@root.rootPath}}css/site.css" />
+
+        <title>{{>badge-name badge=badge}} Class Prep</title>
+
+{{>smb-layout-body}}
+
+            <div class="P(0.4em) Bgc(--headingBackground) Jc(spe) D(f)--_p Fxd(c)--s Ai(c) D(n)--p Fw(b)">
+                {{> smb-merit-badge-links}}
+            </div>
+
+            <div>
+                <div class="Px(20px)--_p P(0)--p">
+
+{{#transform-elements}}
+{{>class-prep-common-heading}}

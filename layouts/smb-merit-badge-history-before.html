@@ -7,16 +7,7 @@
 {{>smb-layout-body}}
 
             <div class="P(0.4em) Bgc(--headingBackground) Jc(spe) D(f)--_p Fxd(c)--s Ai(c) D(n)--p Fw(b)">
-                {{#with (lookup @root.meritBadges @root.badge)}}
-                    {{#if active}}
-                        <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/" class="C(gold)">Merit Badge Requirements</a>
-                    {{/if}}
-                {{/with}}
-                {{#with (lookup @root.meritBadges @root.badge)}}
-                    {{#if active}}
-                        <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/workbook/" class="C(gold)">Workbook and Resources</a>
-                    {{/if}}
-                {{/with}}
+                {{> smb-merit-badge-links}}
             </div>
 
             <div>
