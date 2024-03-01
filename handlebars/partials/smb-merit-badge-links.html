@@ -19,7 +19,7 @@
 {{/unless}}
 {{#unless @root.classPrep}}
     {{#with (lookup @root.meritBadges @root.badge)}}
-        {{#if active}}
+        {{#if classPrep}}
             <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/class-prep/" class="C(gold)">Class Preparation Page</a>
         {{/if}}
     {{/with}}
