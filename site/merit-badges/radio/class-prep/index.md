@@ -5,7 +5,7 @@ classPrep: true
 insights:
     - req:
       text: |-
-        <p>There is a lot to this merit badge and preparation ahead of time is essential for successful completion</p>
+        <p><b><i>There is a lot to this merit badge and preparation ahead of time is essential for successful completion</b></i></p>
     - req: 1, 2, 3, 4, 5, 6, 8
       text: |-
         <p><span class="C(red)">Scouts will find the use of the Radio merit badge pamphlet to be extremely helpful and will help aid in completion of these requirements when they have prepared ahead of time.</span></p>
