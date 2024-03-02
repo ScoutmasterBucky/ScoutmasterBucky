@@ -3,15 +3,16 @@ badge: woodwork
 layout: smb-merit-badge-class-prep
 classPrep: true
 insights:
-    - req: 1, 2, 3, 4, 7
+    - req: 1
+      text: prepareHazards
+    - req: 2a
       text: timeIsAllotted
-    - req: 5
-      text: prepareAheadOfTime
-    - req: 6
+    - req: 2b
       text: |-
-        <p><span class="C(red)">You will need to complete as much of the supplemental workbook for your selected animal option as possible.</span></p>
-        <p><span class="C(red)">NOTE: Many of these options can take months to complete.</span></p>
+        <p>Scouts must bring their wood blocks to class to share and use during the class discussion</p>
+        <p>complete.</p>
+    - req: 3, 4, 5, 6, 7
+      text: workInClass
 bring:
-    - outdoorClothing
-    - Elephants, monkeys, and other available zoo animals.
+    - Wood Block samples for Requirement 2b
 ---
