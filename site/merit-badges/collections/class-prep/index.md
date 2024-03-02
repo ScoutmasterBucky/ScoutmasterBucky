@@ -5,7 +5,7 @@ classPrep: true
 insights:
     - req:
       text: |-
-        <p><span class="C(red)"> STAMP AND COIN COLLECTING ARE EXCLUDED FROM ELIGIBILITY FOR THIS MERIT BADGE.</span></p>
+        <p><b><i>STAMP AND COIN COLLECTING ARE EXCLUDED FROM ELIGIBILITY FOR THIS MERIT BADGE.</b></i></p>
     - req: 1, 2, 3, 4, 5, 6, 7
       text: timeIsAllotted
     - req: 5b

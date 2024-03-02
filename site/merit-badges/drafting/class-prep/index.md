@@ -20,6 +20,7 @@ insights:
     - req: 4, 7
       text: timeIsAllotted
     - req: 5
+      text: |-
         <p><span class="C(red)"> Scouts are encouraged to attempt trying this prior to the class.</span></p>
         <p>This requirement will be completed during the class with guidance from the instructor / counselor.</p>
     - req: 6
