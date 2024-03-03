@@ -40,5 +40,16 @@ Registration is done by table, meaning that participants will sign up for a spec
 
 We need experienced Dungeon Masters to help make this event successful. You will be asked to staff stations in the morning and preside over a table in the afternoon. In addition, there will be an instruction weekend to help get everyone on the same page and playtest the adventure before we open it up to Scouts. Please contact Scoutmaster Bucky at <a class="C(red)" href="mailto:ScoutmasterBucky@yahoo.com?subject=Dungeon Master Intereset">ScoutmasterBucky@yahoo.com</a>.
 
+# Frequently Asked Questions
+
+* **Do I need to know how to play Dungeons &amp; Dragons?**
+** We welcome all skill levels, including people who have never played and are interested to try it out for the first time.
+
+* **Is this overnight?**
+** The event only lasts for the day, but you are welcome to reserve a campsite at Phillippo for the weekend.
+
+* **What meals are provided?**
+** Only lunch is included.
+
 <script defer src="wc-carousel-lite.min.js"></script>
 <script defer src="carousel.js"></script>
