@@ -17,7 +17,6 @@ location:
 {{>badge-registration badge="collections" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-collections-merit-badge-2024-03-09-am"}}
 {{>badge-registration badge="communication" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-communication-merit-badge-2024-03-09-am"}}
 {{>badge-registration badge="radio" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-radio-merit-badge-2024-03-09-am"}}
-{{>badge-registration badge="salesmanship" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-salesmanship-merit-badge-2024-03-09-am"}}
 {{>badge-registration badge="textile" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-textile-merit-badge-2024-03-09-am"}}
 
 {{/badge-list}}
@@ -35,7 +34,6 @@ location:
 {{>badge-registration badge="automotive-maintenance" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-automotive-maintenance-merit-badge-2024-03-09-pm"}}
 {{>badge-registration badge="communication" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-communication-merit-badge-2024-03-09-pm"}}
 {{>badge-registration badge="drafting" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-drafting-merit-badge-2024-03-09-pm"}}
-{{>badge-registration badge="fire-safety" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-fire-safety-merit-badge-2024-03-09-pm"}}
 {{>badge-registration badge="sculpture" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-sculpture-merit-badge-2024-03-09-pm"}}
 {{>badge-registration badge="space-exploration" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-space-exploration-merit-badge-2024-03-09-pm"}}
 
