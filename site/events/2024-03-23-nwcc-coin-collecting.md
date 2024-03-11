@@ -2,8 +2,8 @@
 layout: smb-event
 host: Northwest Coin Club
 title: Coin Collecting Merit Badge
-eventDateStart: 2024-03-24 8:30
-eventDateEnd: 2024-03-24 14:00
+eventDateStart: 2024-03-23 8:30
+eventDateEnd: 2024-03-23 14:00
 registrationLink: https://www.northwestcoinclub.com/scouts-merit-badges.html
 icon: /events/images/nwcc.png
 location:
