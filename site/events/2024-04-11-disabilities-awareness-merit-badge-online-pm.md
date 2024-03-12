@@ -1,6 +1,6 @@
 ---
 layout: smb-event
-title: ONLINE - Disaabilities Awareness Merit Badge
+title: ONLINE - Disabilities Awareness Merit Badge
 online: true
 badge: disabilities-awareness
 eventDateStart: 2024-04-11 18:00
