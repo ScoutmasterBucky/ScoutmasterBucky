@@ -16,7 +16,7 @@ insights:
         <p>Review this requirement ahead of time to help formulate how you will answer each of these requirement components.</p>
     - req: 4, 6
       text: doneInClass
-    - req: 5
+    - req: 7
       text: |-
         <p><span class="C(red)">Scouts will be able to successfully complete this requirement when they have prepared ahead of time.</span></p>
         <p>Martin Luther King, Jr. will NOT be an accepted selection for this requirement, please choose someone else. Document your work.</p>
