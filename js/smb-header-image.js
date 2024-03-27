@@ -1,0 +1,1 @@
+"use strict";!function(){var t='<img src="/images/header-month-'+((new Date).getMonth()+1)+'.jpg" class="W(100%) H(a) D(b)" height="279" width="1002">';document.write(t)}();
