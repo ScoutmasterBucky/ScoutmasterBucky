@@ -14,4 +14,3 @@ These STEM exploration topics are approved for earning the Venturing & Sea Scout
 
 Animal Science, Archaeology, Architecture, Astronomy, Automotive Maintenance, Aviation, Bird Study, Chemistry, Composite Materials, Computers, Dentistry, Drafting, Electricity, Electronics, Energy, Engineering, Environmental Science, Farm Mechanics, Fish and Wildlife Management, Forestry, Gardening, Geocaching, Geology, Insect Study, Inventing, Mammal Study, Medicine, Nature, Nuclear Science, Oceanography, Plant Science, Pulp and Paper, Radio, Reptile and Amphibian Study, Robotics, Scuba Diving, Soil and Water Conservation, Space Exploration, Surveying, Veterinary Medicine, Weather, Welding.
 
-{{>show-requirements requirements=data.requirements}}
