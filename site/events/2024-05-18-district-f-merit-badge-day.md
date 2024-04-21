@@ -16,8 +16,6 @@ registrationLink: https://meritbadge.regfox.com/2024-spring-merit-badge-day-dist
 <img src="{{icon}}" alt="Logo" class="W(100%)" />
 </div>
 
-**Save the date!**
-
 District F is having it's annual Spring Merit Badge Day at the Almelund Threshing Grounds. All are invited.
 
 Troops can camp May 17-19, or you may make this only a day-long event with registration.
