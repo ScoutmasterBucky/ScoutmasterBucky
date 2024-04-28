@@ -1,6 +1,6 @@
 ---
 badge: geology
-layout: smb
+layout: smb-merit-badge-workbook
 workbookMultipleOptionsMessage: true
 downloads:
     - name: Geology Workbook - Earth History Option
