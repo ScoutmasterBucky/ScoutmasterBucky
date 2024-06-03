@@ -9,3 +9,8 @@ whatToBring:
 ---
 
 {{#note type="inPerson"}}{{>safety-warning-generic}}{{/note}}
+
+## Resources
+
+{{#figure}}<img src="woodwork-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Woodwork Workbook](woodwork-workbook.pdf)

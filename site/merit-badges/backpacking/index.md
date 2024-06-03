@@ -9,3 +9,8 @@ whatToBring:
 data:
     requirements: ./requirements.yaml
 ---
+
+## Resources
+
+{{#figure}}<img src="backpacking-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Backpacking Workbook](backpacking-workbook.pdf)

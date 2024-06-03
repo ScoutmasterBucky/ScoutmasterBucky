@@ -5,3 +5,8 @@ requirements: true
 data:
     requirements: ./requirements.yaml
 ---
+
+## Resources
+
+{{#figure}}<img src="plumbing-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Plumbing Workbook](plumbing-workbook.pdf)

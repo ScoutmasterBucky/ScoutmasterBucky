@@ -9,3 +9,8 @@ whatToBring:
 data:
     requirements: ./requirements.yaml
 ---
+
+## Resources
+
+{{#figure}}<img src="bird-study-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Bird Study Workbook](bird-study-workbook.pdf)

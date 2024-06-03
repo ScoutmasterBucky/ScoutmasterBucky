@@ -5,3 +5,8 @@ requirements: true
 data:
     requirements: ./requirements.yaml
 ---
+
+## Resources
+
+{{#figure}}<img src="sustainability-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Sustainability Workbook](sustainability-workbook.pdf)

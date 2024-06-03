@@ -7,3 +7,8 @@ whatToBring:
 data:
     requirements: ./requirements.yaml
 ---
+
+## Resources
+
+{{#figure}}<img src="art-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Art Workbook](art-workbook.pdf)

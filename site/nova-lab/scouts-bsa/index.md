@@ -40,10 +40,10 @@ Nova awards for Scouts BSA require merit badges. If you are already going to com
 
 * {{#trim}}{{>badge-link badge="american-business"}}{{/trim}} - {{#trim}}{{>nova-link nova="designed-to-crunch"}}{{/trim}}, {{#trim}}{{>nova-link nova="next-big-thing"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="animal-science"}}{{/trim}} - {{#trim}}{{>nova-link nova="let-it-grow"}}{{/trim}}, {{#trim}}{{>nova-link nova="mendels-minions"}}{{/trim}}
-* {{#trim}}{{>badge-link badge="archery"}}{{/trim}} - {{#trim}}{{>nova-link nova="shoot"}}{{/trim}}, {{#trim}}{{>nova-link nova="whoosh"}}{{/trim}}
+* {{#trim}}{{>badge-link badge="animation"}}{{/trim}} - {{#trim}}{{>nova-link nova="designed-to-crunch"}}{{/trim}}, {{#trim}}{{>nova-link nova="hello-world"}}{{/trim}}
+* {{#trim}}{{>badge-link badge="archery"}}{{/trim}} - {{#trim}}{{>nova-link nova="shoot"}}{{/trim}}, {{#trim}}{{>nova-link nova="up-and-away"}}{{/trim}}, {{#trim}}{{>nova-link nova="whoosh"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="architecture"}}{{/trim}} - {{#trim}}{{>nova-link nova="next-big-thing"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="astronomy"}}{{/trim}} - {{#trim}}{{>nova-link nova="shoot"}}{{/trim}}
-* {{#trim}}{{>badge-link badge="athletics"}}{{/trim}} - {{#trim}}{{>nova-link nova="shoot"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="automotive-maintenance"}}{{/trim}} - {{#trim}}{{>nova-link nova="start-your-engines"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="aviation"}}{{/trim}} - {{#trim}}{{>nova-link nova="shoot"}}{{/trim}}, {{#trim}}{{>nova-link nova="start-your-engines"}}{{/trim}}, {{#trim}}{{>nova-link nova="up-and-away"}}{{/trim}}, {{#trim}}{{>nova-link nova="whoosh"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="bird-study"}}{{/trim}} - {{#trim}}{{>nova-link nova="mendels-minions"}}{{/trim}}
@@ -53,7 +53,7 @@ Nova awards for Scouts BSA require merit badges. If you are already going to com
 * {{#trim}}{{>badge-link badge="composite-materials"}}{{/trim}} - {{#trim}}{{>nova-link nova="next-big-thing"}}{{/trim}}, {{#trim}}{{>nova-link nova="whoosh"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="cooking"}}{{/trim}} - {{#trim}}{{>nova-link nova="let-it-grow"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="cycling"}}{{/trim}} - {{#trim}}{{>nova-link nova="start-your-engines"}}{{/trim}}
-* {{#trim}}{{>badge-link badge="digital-technology"}}{{/trim}} - {{#trim}}{{>nova-link nova="designed-to-crunch"}}{{/trim}}, {{#trim}}{{>nova-link nova="hello-world"}}{{/trim}}, {{#trim}}{{>nova-link nova="next-big-thing"}}{{/trim}}
+* {{#trim}}{{>badge-link badge="digital-technology"}}{{/trim}} - {{#trim}}{{>nova-link nova="designed-to-crunch"}}{{/trim}}, {{#trim}}{{>nova-link nova="hello-world"}}{{/trim}}, {{#trim}}{{>nova-link nova="next-big-thing"}}{{/trim}}, {{#trim}}{{>nova-link nova="shoot"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="drafting"}}{{/trim}} - {{#trim}}{{>nova-link nova="designed-to-crunch"}}{{/trim}}, {{#trim}}{{>nova-link nova="next-big-thing"}}{{/trim}}, {{#trim}}{{>nova-link nova="start-your-engines"}}{{/trim}}, {{#trim}}{{>nova-link nova="whoosh"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="electricity"}}{{/trim}} - {{#trim}}{{>nova-link nova="start-your-engines"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="electronics"}}{{/trim}} - {{#trim}}{{>nova-link nova="next-big-thing"}}{{/trim}}, {{#trim}}{{>nova-link nova="whoosh"}}{{/trim}}
@@ -69,11 +69,11 @@ Nova awards for Scouts BSA require merit badges. If you are already going to com
 * {{#trim}}{{>badge-link badge="game-design"}}{{/trim}} - {{#trim}}{{>nova-link nova="shoot"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="gardening"}}{{/trim}} - {{#trim}}{{>nova-link nova="let-it-grow"}}{{/trim}}, {{#trim}}{{>nova-link nova="mendels-minions"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="geology"}}{{/trim}} - {{#trim}}{{>nova-link nova="splash"}}{{/trim}}
+* {{#trim}}{{>badge-link badge="health-care-professions"}}{{/trim}} - {{#trim}}{{>nova-link nova="mendels-minions"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="insect-study"}}{{/trim}} - {{#trim}}{{>nova-link nova="let-it-grow"}}{{/trim}}, {{#trim}}{{>nova-link nova="mendels-minions"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="inventing"}}{{/trim}} - {{#trim}}{{>nova-link nova="next-big-thing"}}{{/trim}}, {{#trim}}{{>nova-link nova="whoosh"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="kayaking"}}{{/trim}} - {{#trim}}{{>nova-link nova="start-your-engines"}}{{/trim}}, {{#trim}}{{>nova-link nova="up-and-away"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="mammal-study"}}{{/trim}} - {{#trim}}{{>nova-link nova="let-it-grow"}}{{/trim}}, {{#trim}}{{>nova-link nova="mendels-minions"}}{{/trim}}
-* {{#trim}}{{>badge-link badge="medicine"}}{{/trim}} - {{#trim}}{{>nova-link nova="mendels-minions"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="mining-in-society"}}{{/trim}} - {{#trim}}{{>nova-link nova="whoosh"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="model-design-and-building"}}{{/trim}} - {{#trim}}{{>nova-link nova="next-big-thing"}}{{/trim}}, {{#trim}}{{>nova-link nova="whoosh"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="motorboating"}}{{/trim}} - {{#trim}}{{>nova-link nova="start-your-engines"}}{{/trim}}
@@ -84,22 +84,22 @@ Nova awards for Scouts BSA require merit badges. If you are already going to com
 * {{#trim}}{{>badge-link badge="personal-management"}}{{/trim}} - {{#trim}}{{>nova-link nova="designed-to-crunch"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="plant-science"}}{{/trim}} - {{#trim}}{{>nova-link nova="let-it-grow"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="plumbing"}}{{/trim}} - {{#trim}}{{>nova-link nova="up-and-away"}}{{/trim}}
-* {{#trim}}{{>badge-link badge="programming"}}{{/trim}} - {{#trim}}{{>nova-link nova="hello-world"}}{{/trim}}, {{#trim}}{{>nova-link nova="start-your-engines"}}{{/trim}}
+* {{#trim}}{{>badge-link badge="programming"}}{{/trim}} - {{#trim}}{{>nova-link nova="hello-world"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="public-health"}}{{/trim}} - {{#trim}}{{>nova-link nova="mendels-minions"}}{{/trim}}, {{#trim}}{{>nova-link nova="splash"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="radio"}}{{/trim}} - {{#trim}}{{>nova-link nova="designed-to-crunch"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="railroading"}}{{/trim}} - {{#trim}}{{>nova-link nova="start-your-engines"}}{{/trim}}, {{#trim}}{{>nova-link nova="whoosh"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="reptile-and-amphibian-study"}}{{/trim}} - {{#trim}}{{>nova-link nova="mendels-minions"}}{{/trim}}
-* {{#trim}}{{>badge-link badge="rifle-shooting"}}{{/trim}} - {{#trim}}{{>nova-link nova="shoot"}}{{/trim}}, {{#trim}}{{>nova-link nova="whoosh"}}{{/trim}}
+* {{#trim}}{{>badge-link badge="rifle-shooting"}}{{/trim}} - {{#trim}}{{>nova-link nova="shoot"}}{{/trim}}, {{#trim}}{{>nova-link nova="up-and-away"}}{{/trim}}, {{#trim}}{{>nova-link nova="whoosh"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="robotics"}}{{/trim}} - {{#trim}}{{>nova-link nova="hello-world"}}{{/trim}}, {{#trim}}{{>nova-link nova="shoot"}}{{/trim}}, {{#trim}}{{>nova-link nova="whoosh"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="rowing"}}{{/trim}} - {{#trim}}{{>nova-link nova="up-and-away"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="scuba-diving"}}{{/trim}} - {{#trim}}{{>nova-link nova="up-and-away"}}{{/trim}}
-* {{#trim}}{{>badge-link badge="shotgun-shooting"}}{{/trim}} - {{#trim}}{{>nova-link nova="shoot"}}{{/trim}}, {{#trim}}{{>nova-link nova="whoosh"}}{{/trim}}
+* {{#trim}}{{>badge-link badge="shotgun-shooting"}}{{/trim}} - {{#trim}}{{>nova-link nova="shoot"}}{{/trim}}, {{#trim}}{{>nova-link nova="up-and-away"}}{{/trim}}, {{#trim}}{{>nova-link nova="whoosh"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="signs-signals-and-codes"}}{{/trim}} - {{#trim}}{{>nova-link nova="designed-to-crunch"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="small-boat-sailing"}}{{/trim}} - {{#trim}}{{>nova-link nova="start-your-engines"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="soil-and-water-conservation"}}{{/trim}} - {{#trim}}{{>nova-link nova="let-it-grow"}}{{/trim}}, {{#trim}}{{>nova-link nova="splash"}}{{/trim}}
-* {{#trim}}{{>badge-link badge="space-exploration"}}{{/trim}} - {{#trim}}{{>nova-link nova="shoot"}}{{/trim}}, {{#trim}}{{>nova-link nova="start-your-engines"}}{{/trim}}
+* {{#trim}}{{>badge-link badge="space-exploration"}}{{/trim}} - {{#trim}}{{>nova-link nova="shoot"}}{{/trim}}, {{#trim}}{{>nova-link nova="start-your-engines"}}{{/trim}}, {{#trim}}{{>nova-link nova="up-and-away"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="surveying"}}{{/trim}} - {{#trim}}{{>nova-link nova="designed-to-crunch"}}{{/trim}}
-* {{#trim}}{{>badge-link badge="sustainability"}}{{/trim}} - {{#trim}}{{>nova-link nova="shoot"}}{{/trim}}, {{#trim}}{{>nova-link nova="splash"}}{{/trim}}
+* {{#trim}}{{>badge-link badge="sustainability"}}{{/trim}} - {{#trim}}{{>nova-link nova="splash"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="swimming"}}{{/trim}} - {{#trim}}{{>nova-link nova="up-and-away"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="truck-transportation"}}{{/trim}} - {{#trim}}{{>nova-link nova="start-your-engines"}}{{/trim}}
 * {{#trim}}{{>badge-link badge="veterinary-medicine"}}{{/trim}} - {{#trim}}{{>nova-link nova="mendels-minions"}}{{/trim}}

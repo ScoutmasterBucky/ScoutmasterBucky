@@ -7,3 +7,8 @@ whatToBring:
 data:
     requirements: ./requirements.yaml
 ---
+
+## Resources
+
+{{#figure}}<img src="animation-bucky.gif" class="W(100%)" />{{/figure}}
+* [Animation Workbook](animation-workbook.pdf)

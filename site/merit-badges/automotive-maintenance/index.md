@@ -7,3 +7,8 @@ whatToBring:
 data:
     requirements: ./requirements.yaml
 ---
+
+## Resources
+
+{{#figure}}<img src="automotive-maintenance-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Automotive Maintenance Workbook](automotive-maintenance-workbook.pdf)

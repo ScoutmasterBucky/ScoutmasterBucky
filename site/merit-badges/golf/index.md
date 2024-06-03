@@ -5,3 +5,8 @@ requirements: true
 data:
     requirements: ./requirements.yaml
 ---
+
+## Resources
+
+{{#figure}}<img src="golf-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Golf Workbook](golf-workbook.pdf)

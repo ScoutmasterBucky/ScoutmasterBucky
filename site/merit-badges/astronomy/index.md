@@ -8,3 +8,8 @@ whatToBring:
 data:
     requirements: ./requirements.yaml
 ---
+
+## Resources
+
+{{#figure}}<img src="astronomy-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Astronomy Workbook](astronomy-workbook.pdf)

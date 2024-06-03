@@ -5,3 +5,8 @@ requirements: true
 data:
     requirements: ./requirements.yaml
 ---
+
+## Resources
+
+{{#figure}}<img src="fishing-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Fishing Workbook](fishing-workbook.pdf)
