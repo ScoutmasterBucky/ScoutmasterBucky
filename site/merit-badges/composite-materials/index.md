@@ -5,3 +5,8 @@ requirements: true
 data:
     requirements: ./requirements.yaml
 ---
+
+## Resources
+
+{{#figure}}<img src="composite-materials-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Composite Materials Workbook](composite-materials-workbook.pdf)

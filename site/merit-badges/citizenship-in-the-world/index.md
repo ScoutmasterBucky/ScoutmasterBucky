@@ -5,3 +5,8 @@ requirements: true
 data:
     requirements: ./requirements.yaml
 ---
+
+## Resources
+
+{{#figure}}<img src="citizenship-in-the-world-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Citizenship in the World Workbook](citizenship-in-the-world-workbook.pdf)

@@ -10,17 +10,3 @@
         <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/history/" class="C(gold)">Merit Badge History</a>
     {{/with}}
 {{/unless}}
-{{#unless @root.workbook}}
-    {{#with (lookup @root.meritBadges @root.badge)}}
-        {{#if active}}
-            <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/workbook/" class="C(gold)">Workbook and Resources</a>
-        {{/if}}
-    {{/with}}
-{{/unless}}
-{{#unless @root.classPrep}}
-    {{#with (lookup @root.meritBadges @root.badge)}}
-        {{#if classPrep}}
-            <a href="{{@root.rootPath}}merit-badges/{{@root.badge}}/class-prep/" class="C(gold)">Class Preparation Page</a>
-        {{/if}}
-    {{/with}}
-{{/unless}}

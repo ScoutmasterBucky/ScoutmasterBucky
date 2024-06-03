@@ -5,3 +5,8 @@ requirements: true
 data:
     requirements: ./requirements.yaml
 ---
+
+## Resources
+
+{{#figure}}<img src="railroading-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Railroading Workbook](railroading-workbook.pdf)

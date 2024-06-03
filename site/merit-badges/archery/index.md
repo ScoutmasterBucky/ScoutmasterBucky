@@ -10,3 +10,8 @@ data:
 ---
 
 {{#note type="inPerson"}}{{>safety-warning-generic}}{{/note}}
+
+## Resources
+
+{{#figure}}<img src="archery-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Archery Workbook](archery-workbook.pdf)

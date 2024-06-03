@@ -5,3 +5,8 @@ requirements: true
 data:
     requirements: ./requirements.yaml
 ---
+
+## Resources
+
+{{#figure}}<img src="personal-management-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Personal Management Workbook](personal-management-workbook.pdf)
