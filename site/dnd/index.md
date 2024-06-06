@@ -16,7 +16,7 @@ Your adventure shall begin with a multitude of games and festivities. After part
 
 # About the Event
 
-Scoutmaster Bucky is hosting a Dungeons & Dragons full-day event at Phillippo Scout Camp. Join us for a morning filled with outdoor challenges and an afternoon of role playing.
+Scoutmaster Bucky is hosting a Dungeons & Dragons full-day event at Phillippo Scout Camp. Join us for a morning filled with outdoor challenges and an afternoon of role playing. Bring your non-Scouting friends and family as well!
 
 # Schedule
 
@@ -43,13 +43,13 @@ We need experienced Dungeon Masters to help make this event successful. You will
 # Frequently Asked Questions
 
 * **Do I need to know how to play Dungeons &amp; Dragons?**
-** We welcome all skill levels, including people who have never played and are interested to try it out for the first time.
+    * We welcome all skill levels, including people who have never played and are interested to try it out for the first time.
 
 * **Is this overnight?**
-** The event only lasts for the day, but you are welcome to reserve a campsite at Phillippo for the weekend.
+    * The event only lasts for the day, but you are welcome to reserve a campsite at Phillippo for the weekend.
 
 * **What meals are provided?**
-** Only lunch is included.
+    * Only lunch is included.
 
 <script defer src="wc-carousel-lite.min.js"></script>
 <script defer src="carousel.js"></script>
