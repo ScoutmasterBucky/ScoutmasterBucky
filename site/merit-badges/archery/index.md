@@ -14,4 +14,5 @@ data:
 ## Resources
 
 {{#figure}}<img src="archery-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Archery Class Preparation Page](archery-cpp.pdf)
 * [Archery Workbook](archery-workbook.pdf)

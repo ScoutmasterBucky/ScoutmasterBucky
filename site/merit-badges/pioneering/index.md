@@ -9,4 +9,5 @@ data:
 ## Resources
 
 {{#figure}}<img src="pioneering-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Pioneering Class Preparation Page](pioneering-cpp.pdf)
 * [Pioneering Workbook](pioneering-workbook.pdf)

@@ -9,4 +9,5 @@ data:
 ## Resources
 
 {{#figure}}<img src="archaeology-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Archaeology Class Preapration Page](archaeology-cpp.pdf)
 * [Archaeology Workbook](archaeology-workbook.pdf)

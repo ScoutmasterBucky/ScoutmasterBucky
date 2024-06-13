@@ -9,4 +9,5 @@ data:
 ## Resources
 
 {{#figure}}<img src="aviation-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Aviation Class Preparation Page](aviation-cpp.pdf)
 * [Aviation Workbook](aviation-workbook.pdf)
