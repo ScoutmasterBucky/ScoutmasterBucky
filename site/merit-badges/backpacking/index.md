@@ -13,4 +13,5 @@ data:
 ## Resources
 
 {{#figure}}<img src="backpacking-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Backpacking Class Preparation Page](backpacking-cpp.pdf)
 * [Backpacking Workbook](backpacking-workbook.pdf)

@@ -9,7 +9,9 @@ data:
 ## Resources
 
 {{#figure}}<img src="animal-science-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Animal Science Class Preparation Page](animal-science-cpp.pdf)
 * [Animal Science Workbook - for all (plus one option below)](animal-science-workbook.pdf)
+
 * [Animal Science Workbook - Avian Option](animal-science-workbook-avian.pdf)
 * [Animal Science Workbook - Beef Cattle Option](animal-science-workbook-beef-cattle.pdf)
 * [Animal Science Workbook - Dairying Option](animal-science-workbook-dairying.pdf)
