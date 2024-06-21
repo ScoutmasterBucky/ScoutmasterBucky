@@ -9,4 +9,5 @@ data:
 ## Resources
 
 {{#figure}}<img src="citizenship-in-the-community-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Citizenship in the Community Class Preparation Page](citizenship-in-the-community-cpp.pdf)
 * [Citizenship in the Community Workbook](citizenship-in-the-community-workbook.pdf)

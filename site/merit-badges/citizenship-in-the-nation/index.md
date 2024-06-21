@@ -9,4 +9,5 @@ data:
 ## Resources
 
 {{#figure}}<img src="citizenship-in-the-nation-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Citizenship in the Nation Class Preparation Page](citizenship-in-the-nation-cpp.pdf)
 * [Citizenship in the Nation Workbook](citizenship-in-the-nation-workbook.pdf)
