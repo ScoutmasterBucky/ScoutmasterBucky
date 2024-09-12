@@ -89,7 +89,7 @@ window.addEventListener("load", () => {
             gender: "female"
         },
         {
-            name: "Umberto Thurton",
+            name: "Umberto Thurston",
             class: "Fighter - Champion",
             race: "Human",
             attributes: "Kind and Clean",
