@@ -15,11 +15,11 @@
         "start-slow": "SERVE=true CHECK_LINKS=true MINIFY=true LIVE_RELOAD=true node metalsmith.js"
     },
     "dependencies": {
-        "@babel/preset-env": "^7.25.4",
+        "@babel/preset-env": "^7.25.7",
         "@fidian/acss-live": "^2.2.0",
-        "@fidian/metalsmith-clean-css": "^6.2.2",
-        "@fidian/metalsmith-link-checker": "^0.6.0",
-        "@fidian/metalsmith-site": "^2.6.0",
+        "@fidian/metalsmith-clean-css": "^6.3.0",
+        "@fidian/metalsmith-link-checker": "^0.7.0",
+        "@fidian/metalsmith-site": "^2.7.2",
         "ajv": "^8.17.1",
         "browserify": "^17.0.0",
         "clean-css": "^5.3.3",
@@ -28,8 +28,8 @@
         "metalsmith-babel": "^5.1.0",
         "metalsmith-browserify-alt": "^2.0.0",
         "metalsmith-html-minifier": "^4.0.1",
-        "metalsmith-plugin-kit": "^1.5.0",
-        "metalsmith-relative-links": "^1.5.0",
+        "metalsmith-plugin-kit": "^1.6.0",
+        "metalsmith-relative-links": "^1.6.0",
         "metalsmith-uglify": "^2.4.3",
         "mithril": "^2.2.5"
     },
