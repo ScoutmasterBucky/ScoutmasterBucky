@@ -1,13 +1,13 @@
 #!/usr/bin/env node
 
 import chalk from "chalk";
-import glob from "glob";
+import { glob } from "glob";
 import got from "got";
 import jsonStableStringify from "json-stable-stringify";
 import neodoc from "neodoc";
 import { parseHTML } from "linkedom";
 import path from "path";
-import pdfjslib from "pdfjs-dist/build/pdf.js";
+import { getDocument } from "pdfjs-dist";
 import { promises as fsPromises } from "fs";
 
 const downloadables = [
@@ -46,18 +46,6 @@ function readJson(fn) {
 
 function writeJson(fn, data) {
     return fsPromises.writeFile(fn, `${jsonStableStringify(data, {space: 4})}\n`);
-}
-
-function globPromise(spec) {
-    return new Promise((resolve, reject) => {
-        glob(spec, (err, files) => {
-            if (err) {
-                reject(err);
-            } else {
-                resolve(files);
-            }
-        });
-    });
 }
 
 function serialPromises(array, callback) {
@@ -133,9 +121,8 @@ function getPdfText(body) {
             .join("");
     }
 
-    return pdfjslib
-        .getDocument({
-            data: body,
+    return getDocument({
+            data: new Uint8Array(body),
             verbosity: 0
         })
         .promise.then((pdf) => {
@@ -204,13 +191,17 @@ function resolveUrl(link, dom) {
 }
 
 function downloadMeritBadges(updated) {
+    const fetched = {};
+
     function fetchMeritBadge(link, dom) {
         const url = resolveUrl(link, dom);
         const badgeName = safeName(link.innerText);
 
+        // No longer used, but kept because their site tends to change frequently
         if (url.toString().match(/\.pdf(\?|$)/)) {
             console.log(`[PDF] ${badgeName}: ${url}`);
             updated[badgeName] = Date.now();
+            fetched[badgeName] = true;
 
             return savePdfAndText(
                 url,
@@ -224,15 +215,15 @@ function downloadMeritBadges(updated) {
 
             return domQuery(
                 secondDom,
-                // data-id 075d167 is for American Business's previous requirements
                 // data-id d005c1d is for Automotive Maintenance's previous requirements
                 // data-id 30a3852 is for a generic previous requirements button that may not be shown
-                '[data-widget_type="button.default"]:not([data-settings]):not([data-id="075d167"]):not([data-id="30a3852"]):not([data-id="d005c1d"]) a[href*=".pdf"]',
+                '[data-widget_type="button.default"]:not([data-settings]):not([data-id="30a3852"]):not([data-id="d005c1d"]) a[href*=".pdf"]',
                 (secondLink) => {
                     found += 1;
                     const secondUrl = resolveUrl(secondLink, secondDom);
                     console.log(`[WEB] ${badgeName}: ${secondUrl}`);
                     updated[badgeName] = Date.now();
+                    fetched[badgeName] = true;
 
                     return savePdfAndText(
                         secondUrl,
@@ -258,15 +249,14 @@ function downloadMeritBadges(updated) {
         }
 
         return getHtmlDom(url).then((dom) => {
-            // Merit badge names that link to PDF documents use 874908e
-            // Merit badge names that link to HTML documents use 93e56cd
             return domQuery(
                 dom,
-                '[data-id="874908e"] h2 a, [data-id="93e56cd"] h2 a',
+                '.mb-card .mb-title .mb-card-title a',
                 fetchMeritBadge
             ).then((result) => {
                 // If links were found, proceed to the next page
-                if (result.length) {
+                // Previously, one was required to go to subsequent pages.
+                if (result.length && !fetched['woodwork']) {
                     return fetchPage(page + 1);
                 }
 
@@ -278,7 +268,7 @@ function downloadMeritBadges(updated) {
     heading("Merit Badges");
     debug("Cleaning old files");
 
-    return globPromise("site/merit-badges/*/*.@(pdf|txt|html)")
+    return glob("site/merit-badges/*/*.@(pdf|txt|html)")
         .then((files) =>
             serialPromises(files, (file) => {
                 const parts = file.split("/");
