@@ -3,6 +3,8 @@ title: Supernova Activity Topics
 layout: nova
 ---
 
+# Activity Topics
+
 Each STEM field—science, technology, engineering, mathematics—offers a choice of three Supernova activity topics. These are two-part, hands-on, high-level activities created to challenge you and help you continue along your STEM journey to excellence. Part 1 involves research, preparation, set up, coordination, and/or organization. Part 2 includes elements such as analysis, reflection, experimentation, design, or invention, and culminates in a report created by you.
 
 ### Report Format Options
