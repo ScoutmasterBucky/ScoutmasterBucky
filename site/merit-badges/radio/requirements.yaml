@@ -73,7 +73,7 @@
       - requirement: c
         text: |-
             Discuss how information is sent when using amplitude modulation
-            (AM), frequency modulation (FM), continuous wave (CW) Morse Code
+            (AM), frequency modulation (FM), continuous wave (CW) Morse code
             transmission, single sideband (SSB) transmission, and digital
             transmission.
       - requirement: d
@@ -108,7 +108,7 @@
       - requirement: a
         markdown: true
         text: |-
-            **Amateur Radio**
+            **AMATEUR RADIO**
         children:
             - requirement: 1
               text: |-
@@ -129,8 +129,9 @@
                   Morse code.
             - requirement: 5
               text: |-
-                  Explain the differences between handheld, mobile, and base station
-                  transceivers and their uses. Explain the use of amateur repeaters.
+                  Explain the differences between handheld transceivers and
+                  home "base" transceivers. Explain the uses of mobile amateur
+                  radio transceivers and amateur radio repeaters.
             - requirement: 6
               text: |-
                   Using proper call signs, Q signals, and abbreviations, carry
@@ -143,7 +144,7 @@
       - requirement: b
         markdown: true
         text: |-
-            **Radio Broadcasting**
+            **RADIO BROADCAASTING*
         children:
             - requirement: 1
               text: |-
@@ -175,7 +176,7 @@
       - requirement: c
         markdown: true
         text: |-
-            **Shortwave and Medium-Wave Listening**
+            **SHORTWAVE AND MEDIUM-WAVE LISTENING**
         children:
             - requirement: 1
               text: |-
@@ -209,7 +210,7 @@
       - requirement: d
         markdown: true
         text: |-
-            **Amateur Radio Direction Finding**
+            **AMATEUR RADIO DIRECTION FINDING**
         children:
             - requirement: 1
               text: |-
