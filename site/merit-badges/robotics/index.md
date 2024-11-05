@@ -9,4 +9,5 @@ data:
 ## Resources
 
 {{#figure}}<img src="robotics-bucky.jpg" class="W(100%)" />{{/figure}}
+* [Robotics Class Preparation Page](robotics-cpp.pdf)
 * [Robotics Workbook](robotics-workbook.pdf)
