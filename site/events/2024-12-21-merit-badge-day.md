@@ -15,6 +15,7 @@ location:
 {{#badge-list}}
 {{>badge-registration badge="animation" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-animation-merit-badge-2024-12-21-am"}}
 {{>badge-registration badge="coin-collecting" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-coin-collecting-merit-badge-2024-12-21-am"}}
+{{>badge-registration badge="communication" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-communication-merit-badge-2024-12-21-am"}}
 {{>badge-registration badge="music" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-music-merit-badge-2024-12-21-am"}}
 {{>badge-registration badge="photography" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-photography-merit-badge-2024-12-21-am"}}
 {{>badge-registration badge="safety" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-safety-merit-badge-2024-12-21-am"}}
@@ -32,6 +33,7 @@ location:
 
 {{#badge-list}}
 {{>badge-registration badge="bugling" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-bugling-merit-badge-2024-12-21-pm"}}
+{{>badge-registration badge="communication" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-communication-merit-badge-2024-12-21-pm"}}
 {{>badge-registration badge="disabilities-awareness" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-disabilities-awareness-merit-badge-2024-12-21-pm"}}
 {{>badge-registration badge="health-care-professions" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-health-care-professions-merit-badge-2024-12-21-pm"}}
 {{>badge-registration badge="journalism" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-jounalism-merit-badge-2024-12-21-pm"}}
