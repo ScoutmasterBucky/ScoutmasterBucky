@@ -9,5 +9,5 @@ data:
 ## Resources
 
 {{#figure}}<img src="mining-in-society-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Mining in Society Class Preapration Page](mining-in-society-cpp.pdf)
+* [Mining in Society Class Preparation Page](mining-in-society-cpp.pdf)
 * [Mining in Society Workbook](mining-in-society-workbook.pdf)
