@@ -4,6 +4,18 @@
         class="Td(n) Fs(i) Mx(1em)"
         href="{{@root.rootPath}}merit-badges/{{badge}}/"
         target="_blank"
-        >Requirements, Prereq's, and Workbook</a
+        >Requirements</a
     >
 </div>
+{{#with (lookup @root.meritBadges badge)}}
+{{#resources}}
+<div class="Px(10px)">
+    <a
+        class="Td(n) Fs(i) Mx(1em)"
+        href="{{url}}"
+        target="_blank"
+       >{{shortName}}</a
+    >
+</div>
+{{/resources}}
+{{/with}}

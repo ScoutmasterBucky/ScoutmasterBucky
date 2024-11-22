@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="personal-fitness-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Personal Fitness Workbook](personal-fitness-workbook.pdf)
+{{>resources}}

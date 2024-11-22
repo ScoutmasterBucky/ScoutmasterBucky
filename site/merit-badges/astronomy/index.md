@@ -12,5 +12,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="astronomy-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Astronomy Class Preparation Page](astronomy-cpp.pdf)
-* [Astronomy Workbook](astronomy-workbook.pdf)
+{{>resources}}

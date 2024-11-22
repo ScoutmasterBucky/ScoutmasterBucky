@@ -9,5 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="fingerprinting-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Fingerprinting Class Preparation Page](fingerprinting-cpp.pdf)
-* [Fingerprinting Workbook](fingerprinting-workbook.pdf)
+{{>resources}}

@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="indian-lore-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Indian Lore Workbook](indian-lore-workbook.pdf)
+{{>resources}}

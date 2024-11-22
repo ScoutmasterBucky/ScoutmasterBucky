@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="kayaking-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Kayaking Workbook](kayaking-workbook.pdf)
+{{>resources}}

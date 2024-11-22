@@ -9,5 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="exploration-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Exploration Class Preparation Page](exploration-cpp.pdf)
-* [Exploration Workbook](exploration-workbook.pdf)
+{{>resources}}

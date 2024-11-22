@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="textile-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Textile Workbook](textile-workbook.pdf)
+{{>resources}}

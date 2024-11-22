@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="wilderness-survival-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Wilderness Survival Workbook](wilderness-survival-workbook.pdf)
+{{>resources}}

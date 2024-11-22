@@ -20,6 +20,28 @@
             },
             "image": {
                 "type": "string"
+            },
+            "resources": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "description": {
+                            "type": "string"
+                        },
+                        "name": {
+                            "type": "string"
+                        },
+                        "shortName": {
+                            "type": "string"
+                        },
+                        "url": {
+                            "type": "string"
+                        }
+                    },
+                    "required": ["name", "shortName", "url"],
+                    "additionalProperties": false
+                }
             }
         },
         "additionalProperties": false,

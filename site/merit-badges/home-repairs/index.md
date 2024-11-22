@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="home-repairs-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Home Repairs Workbook](home-repairs-workbook.pdf)
+{{>resources}}

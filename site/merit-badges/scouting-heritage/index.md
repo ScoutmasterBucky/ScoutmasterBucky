@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="scouting-heritage-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Scouting Heritage Workbook](scouting-heritage-workbook.pdf)
+{{>resources}}

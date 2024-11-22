@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="gardening-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Gardening Workbook](gardening-workbook.pdf)
+{{>resources}}

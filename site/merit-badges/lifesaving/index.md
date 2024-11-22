@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="lifesaving-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Lifesaving Workbook](lifesaving-workbook.pdf)
+{{>resources}}

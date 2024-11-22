@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="nature-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Nature Workbook](nature-workbook.pdf)
+{{>resources}}

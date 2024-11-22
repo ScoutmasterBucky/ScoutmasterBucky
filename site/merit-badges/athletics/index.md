@@ -9,5 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="athletics-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Athletics Class Preparation Page](athletics-cpp.pdf)
-* [Athletics Workbook](athletics-workbook.pdf)
+{{>resources}}

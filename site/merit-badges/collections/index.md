@@ -9,5 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="collections-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Collections Class Preparation Page](collections-cpp.pdf)
-* [Collections Workbook](collections-workbook.pdf)
+{{>resources}}

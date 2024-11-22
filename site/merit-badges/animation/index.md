@@ -11,5 +11,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="animation-bucky.gif" class="W(100%)" />{{/figure}}
-* [Animation Class Preparation Page](animation-cpp.pdf)
-* [Animation Workbook](animation-workbook.pdf)
+{{>resources}}

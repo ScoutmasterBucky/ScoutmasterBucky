@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="small-boat-sailing-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Small-Boat Sailing Workbook](small-boat-sailing-workbook.pdf)
+{{>resources}}

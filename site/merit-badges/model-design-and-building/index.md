@@ -9,5 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="model-design-and-building-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Model Design and Building Class Preparation Page](model-design-and-building-cpp.pdf)
-* [Model Design and Building Workbook](model-design-and-building-workbook.pdf)
+{{>resources}}

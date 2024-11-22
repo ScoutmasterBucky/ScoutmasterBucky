@@ -11,5 +11,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="art-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Art Class Preparation Page](art-cpp.pdf)
-* [Art Workbook](art-workbook.pdf)
+{{>resources}}

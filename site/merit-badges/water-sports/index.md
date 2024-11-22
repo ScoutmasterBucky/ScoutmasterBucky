@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="water-sports-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Water Sports Workbook](water-sports-workbook.pdf)
+{{>resources}}
