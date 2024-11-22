@@ -9,5 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="electronics-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Electronics Class Preparation Page](electronics-cpp.pdf)
-* [Electronics Workbook](electronics-workbook.pdf)
+{{>resources}}

@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="reptile-and-amphibian-study-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Reptile and Amphibian Study Workbook](reptile-and-amphibian-study-workbook.pdf)
+{{>resources}}

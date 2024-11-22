@@ -11,5 +11,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="automotive-maintenance-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Automotive Maintenance Class Preparation Page](automotive-maintenance-cpp.pdf)
-* [Automotive Maintenance Workbook](automotive-maintenance-workbook.pdf)
+{{>resources}}

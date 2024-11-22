@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="sculpture-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Sculpture Workbook](sculpture-workbook.pdf)
+{{>resources}}

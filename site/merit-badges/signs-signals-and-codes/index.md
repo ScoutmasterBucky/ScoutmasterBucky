@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="signs-signals-and-codes-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Signs, Signals, and Codes Workbook](signs-signals-and-codes-workbook.pdf)
+{{>resources}}

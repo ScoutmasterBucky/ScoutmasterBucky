@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="insect-study-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Insect Study Workbook](insect-study-workbook.pdf)
+{{>resources}}

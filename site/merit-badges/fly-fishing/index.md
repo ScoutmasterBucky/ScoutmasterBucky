@@ -9,5 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="fly-fishing-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Fly Fishing Class Preparation Page](fly-fishing-cpp.pdf)
-* [Fly Fishing Workbook](fly-fishing-workbook.pdf)
+{{>resources}}

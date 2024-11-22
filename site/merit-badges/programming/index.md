@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="programming-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Programming Workbook](programming-workbook.pdf)
+{{>resources}}

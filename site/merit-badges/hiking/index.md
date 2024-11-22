@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="hiking-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Hiking Workbook](hiking-workbook.pdf)
+{{>resources}}

@@ -9,4 +9,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="salesmanship-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Salesmanship Workbook](salesmanship-workbook.pdf)
+{{>resources}}

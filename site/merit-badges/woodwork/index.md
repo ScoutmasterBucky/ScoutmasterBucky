@@ -13,4 +13,4 @@ whatToBring:
 ## Resources
 
 {{#figure}}<img src="woodwork-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Woodwork Workbook](woodwork-workbook.pdf)
+{{>resources}}

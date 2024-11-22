@@ -13,6 +13,4 @@ data:
 ## Resources
 
 {{#figure}}<img src="bird-study-bucky.jpg" class="W(100%)" />{{/figure}}
-* [Bird Study Class Preparation Page](bird-study-cpp.pdf)
-* [Bird Study Workbook](bird-study-workbook.pdf)
-* [Scoutmaster Bucky Bird Study Field Notebook](scoutmaster-bucky-bird-study-field-notebook.pdf)
+{{>resources}}
