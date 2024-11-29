@@ -37,7 +37,7 @@ location:
 {{>badge-registration badge="disabilities-awareness" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-disabilities-awareness-merit-badge-2024-12-21-pm"}}
 {{>badge-registration badge="health-care-professions" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-health-care-professions-merit-badge-2024-12-21-pm"}}
 {{>badge-registration badge="journalism" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-journalism-merit-badge-2024-12-21-pm"}}
-{{>badge-registration badge="reading" badge2="scholarship" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-reading-and-scholarship-merit-badges-2024-12-21-pm"}}
+{{>badge-registration badge="reading" badge2="scholarship" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-reading-andor-scholarship-merit-badges-2024-12-21-pm"}}
 {{>badge-registration badge="stamp-collecting" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-stamp-collecting-merit-badge-2024-12-21-pm"}}
 {{/badge-list}}
 
