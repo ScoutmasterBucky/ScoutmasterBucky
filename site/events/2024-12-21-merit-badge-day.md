@@ -18,7 +18,7 @@ location:
 {{>badge-registration badge="communication" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-communication-merit-badge-2024-12-21-am"}}
 {{>badge-registration badge="music" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-music-merit-badge-2024-12-21-am"}}
 {{>badge-registration badge="photography" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-photography-merit-badge-2024-12-21-am"}}
-{{>badge-registration badge="safety" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-safety-merit-badge-2024-12-21-am"}}
+{{>badge-registration badge="safety" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-safety-merit-badge-2024-12-21am"}}
 {{>badge-registration badge="textile" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-textile-merit-badge-2024-12-21-am"}}
 {{/badge-list}}
 
