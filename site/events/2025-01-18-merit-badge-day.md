@@ -15,6 +15,7 @@ location:
 {{#badge-list}}
 {{>badge-registration badge="chemistry" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-chemistry-merit-badge-2025-01-18-am"}}
 {{>badge-registration badge="citizenship-in-the-world" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-citizenship-in-the-world-merit-badge-2025-01-18-am"}}
+{{>badge-registration badge="communication" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-communication-merit-badge-2025-01-18-am"}}
 {{>badge-registration badge="digital-technology" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-digital-technology-merit-badge-2025-01-18-am"}}
 {{>badge-registration badge="dog-care" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-dog-care-merit-badge-2025-01-18-am"}}
 {{>badge-registration badge="electricity" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-electricity-merit-badge-2025-01-18-am"}}
@@ -28,6 +29,7 @@ location:
 
 {{#badge-list}}
 {{>badge-registration badge="citizenship-in-the-world" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-citizenship-in-the-world-merit-badge-2025-01-18-pm"}}
+{{>badge-registration badge="communication" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-communication-merit-badge-2025-01-18-pm"}}
 {{>badge-registration badge="electronics" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-electronics-merit-badge-2025-01-18-pm"}}
 {{>badge-registration badge="inventing" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-inventing-merit-badge-2025-01-18-pm"}}
 {{>badge-registration badge="nuclear-science" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-nuclear-science-merit-badge-2025-01-18-pm"}}
