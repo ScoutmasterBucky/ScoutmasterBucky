@@ -22,7 +22,6 @@ location:
 {{>badge-registration badge="genealogy" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-genealogy-merit-badge-2025-01-18-am"}}
 {{>badge-registration badge="law" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-law-merit-badge-2025-01-18-am"}}
 {{>badge-registration badge="personal-management" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-personal-management-merit-badge-2025-01-18-am"}}
-{{>badge-registration badge="public-speaking" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-public-speaking-merit-badge-2025-01-18-am"}}
 {{/badge-list}}
 
 ### Afternoon Classes 12:30 pm to 4:00 pm
