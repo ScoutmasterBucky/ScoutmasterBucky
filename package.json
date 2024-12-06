@@ -17,30 +17,30 @@
     "dependencies": {
         "@babel/preset-env": "^7.26.0",
         "@fidian/acss-live": "^2.2.0",
-        "@fidian/metalsmith-clean-css": "^6.3.0",
-        "@fidian/metalsmith-link-checker": "^0.7.0",
-        "@fidian/metalsmith-site": "^2.7.2",
+        "@fidian/metalsmith-clean-css": "^6.4.0",
+        "@fidian/metalsmith-link-checker": "^0.8.0",
+        "@fidian/metalsmith-site": "^2.8.0",
         "ajv": "^8.17.1",
         "browserify": "^17.0.1",
         "clean-css": "^5.3.3",
         "luxon": "^3.5.0",
-        "marked": "^15.0.2",
+        "marked": "^15.0.3",
         "metalsmith-babel": "^5.1.0",
         "metalsmith-browserify-alt": "^2.0.0",
         "metalsmith-html-minifier": "^4.0.1",
-        "metalsmith-plugin-kit": "^1.6.0",
-        "metalsmith-relative-links": "^1.6.0",
+        "metalsmith-plugin-kit": "^1.7.0",
+        "metalsmith-relative-links": "^1.7.0",
         "metalsmith-uglify": "^2.4.3",
-        "mithril": "^2.2.10"
+        "mithril": "^2.2.11"
     },
     "devDependencies": {
         "chalk": "^5.3.0",
-        "debug": "^4.3.7",
+        "debug": "^4.4.0",
         "glob": "^11.0.0",
-        "got": "^14.4.4",
+        "got": "^14.4.5",
         "json-stable-stringify": "^1.1.1",
         "linkedom": "^0.18.5",
         "neodoc": "^2.0.2",
-        "pdfjs-dist": "^4.8.69"
+        "pdfjs-dist": "^4.9.155"
     }
 }
