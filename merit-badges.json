@@ -2124,14 +2124,14 @@
                 "url": "/merit-badges/radio/radio-workbook-amateur-radio.pdf"
             },
             {
-                "name": "Radio Workbook - Broadcasting Option",
-                "shortName": "Workbook - Broadcasting Option",
-                "url": "/merit-badges/radio/radio-workbook-broadcasting.pdf"
+                "name": "Radio Workbook - Radio Broadcasting Option",
+                "shortName": "Workbook - Radio Broadcasting Option",
+                "url": "/merit-badges/radio/radio-workbook-radio-broadcasting.pdf"
             },
             {
-                "name": "Radio Workbook - Direction Finding Option",
-                "shortName": "Workbook - Direction Finding Option",
-                "url": "/merit-badges/radio/radio-workbook-direction-finding.pdf"
+                "name": "Radio Workbook - Amateur Radio Direction Finding Option",
+                "shortName": "Workbook - Amateur Radio Direction Finding Option",
+                "url": "/merit-badges/radio/radio-workbook-amateur-radio-direction-finding.pdf"
             },
             {
                 "name": "Radio Workbook - Shortwave and Medium-Wave Listening Option",
@@ -2424,6 +2424,11 @@
         "name": "Skating",
         "resources": [
             {
+                "name": "Skating Class Preparation Page - for all options",
+                "shortName": "Class Preparation Page",
+                "url": "/merit-badges/skating/skating-cpp.pdf"
+            },
+            {
                 "name": "Skating Workbook - Ice Skating Option",
                 "shortName": "Workbook - Ice Skating Option",
                 "url": "/merit-badges/skating/skating-workbook-ice-skating.pdf"
@@ -2437,6 +2442,11 @@
                 "name": "Skating Workbook - Roller Skating Option",
                 "shortName": "Workbook - Roller Skating Option",
                 "url": "/merit-badges/skating/skating-workbook-roller-skating.pdf"
+            },
+            {
+                "name": "Skating Workbook - Skateboarding Option",
+                "shortName": "Workbook - Skateboarding Option",
+                "url": "/merit-badges/skating/skating-workbook-skateboarding.pdf"
             }
         ]
     },
@@ -2523,10 +2533,19 @@
         "image": "merit-badges/sports/sports.png",
         "name": "Sports",
         "resources": [
+                "name": "Sports Class Preparation Page",
+                "shortName": "Class Preparation Page",
+                "url": "/merit-badges/sports/sports-cpp.pdf"
+            },
             {
                 "name": "Sports Workbook",
                 "shortName": "Workbook",
                 "url": "/merit-badges/sports/sports-workbook.pdf"
+            },
+            {
+                "name": "Scoutmaster Bucky's - Sports Merit Badge tracking Sheets (for requirement 4a)",
+                "shortName": "Sports 4a Tracking Sheets",
+                "url": "/merit-badges/sports/scoutmaster-bucky-sports-tacking-sheets.pdf"
             }
         ]
     },
