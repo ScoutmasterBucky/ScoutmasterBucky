@@ -1,0 +1,1 @@
+window.acssConfig={breakPoints:{p:"@media print"}};
