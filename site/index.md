@@ -30,13 +30,14 @@ js:
 </div>
 
 
-
+<!--
 <div class="D(f) Ai(c) Fxd(c) Maw(30%)--l Maw(25%)--_sml">
 <a class="D(f) Jc(c)" href="/dnd/"><img src="/dnd/bucky-guild.png" class="W(80%)--_sm W(35%)--m W(60%)--s H(a) Bgc(black) Bdrs(1em)"></a>
 <div class="Pt(0.4em) Tt(u) Fw(b) Fz(1.2em)">Dungeons &amp; Dragons</div>
 <p>Join Scoutmaster Bucky and his team of Dungeon Masters on October 5th.</p>
 <p><a href="/dnd/">Learn more!</a></p>
 </div>
+-->
 
 </div>
 
