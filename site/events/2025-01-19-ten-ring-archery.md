@@ -2,8 +2,8 @@
 layout: smb-event
 host: Ten Ring
 title: Archery Merit Badge
-eventDateStart: 2024-01-12 8:00
-eventDateEnd: 2024-01-12 12:00
+eventDateStart: 2024-01-19 8:00
+eventDateEnd: 2024-01-19 12:00
 registrationLink: https://www.tenring.org/events.php
 icon: /events/images/ten-ring.png
 location:
