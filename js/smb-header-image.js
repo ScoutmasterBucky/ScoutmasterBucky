@@ -1,0 +1,1 @@
+(()=>{var e='<img src="/images/header-month-'+((new Date).getMonth()+1)+'.jpg" class="W(100%) H(a) D(b)" height="279" width="1002">';document.write(e)})();
