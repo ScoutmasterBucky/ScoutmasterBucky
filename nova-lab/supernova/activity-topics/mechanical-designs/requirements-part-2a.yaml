@@ -1,0 +1,17 @@
+- requirement: 1
+  text: |-
+      Determine the following:
+  children:
+      - requirement: A
+        text: |-
+            The major components of the bicycle
+      - requirement: B
+        text: |-
+            What parts make up each component
+      - requirement: C
+        text: |-
+            How the components work together
+      - requirement: D
+        text: |-
+            The mechanical or electronic advantages that a minimum of three
+            parts or circuits convey
