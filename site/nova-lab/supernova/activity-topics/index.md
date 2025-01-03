@@ -25,7 +25,7 @@ The report must provide sufficient detail so that someone unfamiliar with the to
 
 ### A Note About Resources
 
-The books and websites provided for each superactivity topic are presented as optional resources and are merely suggestions. In most cases, they are not crucial to the corresponding activities. The Boy Scouts of America makes no guarantee that they will be available in local public libraries, from booksellers, or online.
+The books and websites provided for each superactivity topic are presented as optional resources and are merely suggestions. In most cases, they are not crucial to the corresponding activities. Scouting America makes no guarantee that they will be available in local public libraries, from booksellers, or online.
 
 The resources represent examples of the types you might use to support your work on a particular activity. You may very well find alternative and/or additional resources that serve you as well or better than those presented here.
 
