@@ -1,8 +1,17 @@
 #!/usr/bin/env bash
 
 cd "${0%/*}" || exit
+
+echo "--- Finding problems where hypenation has a space, such as \"hard- working\""
 grep -E '[a-zA-Z0-9]- ' -r site --include \*.yaml
+
+echo "--- Finding problems where an extra space is added when word wrapping"
+grep -e '[.?]  ' -r site --include \*.yaml
+
+echo "--- Building"
 npm run fastbuild
 cd build || exit
+
+echo "--- Finding bad markdown conversions"
 grep -E '( \*[^ ]|\)\[|\\|\{\{)' -r . --include index.html
 :
