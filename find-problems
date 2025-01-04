@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 cd "${0%/*}" || exit
+grep -E '[a-zA-Z0-9]- ' -r site --include \*.yaml
 npm run fastbuild
 cd build || exit
 grep -E '( \*[^ ]|\)\[|\\|\{\{)' -r . --include index.html
