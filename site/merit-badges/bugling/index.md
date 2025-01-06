@@ -57,9 +57,10 @@ calls:
 {{#figure}}<img src="bugling-bucky.jpg" class="W(100%)" />{{/figure}}
 {{>resources}}
 
-### Calls
+**Bugle Calls**
 
+<ul>
 {{#calls}}
-<img src="{{score}}" class="W(50%)" />
-<div class="D(f) Jc(c)"><a href="{{audio}}">Listen to {{label}}</a></div>
+<li><a href="{{audio}}">Listen to {{label}}</a> - see <a href="{{score}}">musical score</a></li>
 {{/calls}}
+</ul>
