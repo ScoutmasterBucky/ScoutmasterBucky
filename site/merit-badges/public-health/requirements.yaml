@@ -1,7 +1,8 @@
+# Requirement 7 is split weird in the HTML
 - requirement: 1
   markdown: true
   text: |-
-    Explain what public health is. Explain how *Escherichia coli* (E. coli),
+    Explain what public health is. Explain how Escherichia coli (E. coli),
     tetanus, AIDS, encephalitis, salmonellosis, Lyme disease, and coronavirus
     (COVID-19) are contracted. Then, pick any four of the following diseases
     and explain how each one is contracted and possibly prevented: gonorrhea,
@@ -17,13 +18,12 @@
     - requirement: a
       markdown: true
       text: |-
-        Explain the meaning of *immunization*.
+        Explain the meaning of <em>immunization.</em>
     - requirement: b
       text: |-
-        Name eight diseases against which a young child should be
-        immunized, two diseases against which everyone should be
-        reimmunized periodically, and one immunization everyone should
-        receive annually.
+        Name eight diseases against which a young child should be immunized,
+        two diseases against which everyone should be reimmunized periodically,
+        and one immunization everyone should receive annually.
     - requirement: c
       text: |-
         Using the list of diseases and conditions in requirement 1, discuss
@@ -32,8 +32,8 @@
 - requirement: 3
   text: |-
     Discuss the importance of safe drinking water in terms of the spread of
-    disease. Then, demonstrate two ways for making water safe to drink that
-    can be used while at camp. In your demonstration, explain how dishes and
+    disease. Then, demonstrate two ways for making water safe to drink that can
+    be used while at camp. In your demonstration, explain how dishes and
     utensils should be washed, dried, and kept sanitary at home and in camp.
 - requirement: 4
   text: |-
@@ -43,7 +43,8 @@
     individuals and which ones require long-term, collective action.
 - requirement: 5
   text: |-
-    With your parent’s and counselor’s approval, do ONE of the following:
+    With your parent or guardian's and counselor's approval, do ONE of the
+    following:
   children:
     - requirement: a
       text: |-
@@ -52,15 +53,15 @@
       children:
         - requirement: 1
           text: |-
-            Describe how the facility safely treats and disposes of
-            sewage or solid waste.
+            Describe how the facility safely treats and disposes of sewage or
+            solid waste.
         - requirement: 2
           text: |-
             Discuss your visit and what you learned with your counselor.
         - requirement: 3
           text: |-
-            Describe how sewage and solid waste should be disposed of
-            under wilderness camping conditions.
+            Describe how sewage and solid waste should be disposed of under
+            wilderness camping conditions.
     - requirement: b
       text: |-
         Visit a food service facility, such as a restaurant or school
@@ -68,13 +69,13 @@
       children:
         - requirement: 1
           text: |-
-            Observe food preparation, handling, and storage. Learn how
-            the facility keeps food from becoming contaminated.
+            Observe food preparation, handling, and storage. Learn how the
+            facility keeps food from becoming contaminated.
         - requirement: 2
           text: |-
-            Find out what conditions allow microorganisms to multiply in
-            food, what can be done to help prevent them from growing and
-            spreading, and how to kill them.
+            Find out what conditions allow microorganisms to multiply in food,
+            what can be done to help prevent them from growing and spreading,
+            and how to kill them.
         - requirement: 3
           text: |-
             Discuss the importance of using a thermometer to check food
@@ -91,45 +92,45 @@
         Describe the health dangers from air, water, and noise pollution.
     - requirement: b
       text: |-
-        Describe health dangers from tobacco use and alcohol and drug
-        abuse.
+        Describe health dangers from tobacco use and alcohol and drug abuse.
     - requirement: c
       text: |-
         Describe the health dangers from abusing illegal and prescription
         drugs.
 - requirement: 7
   text: |-
-    With your parent’s and counselor’s approval, do ONE of the following:
+    With your parent or guardian's and counselor's approval, do ONE of the
+    following:
   children:
     - requirement: a
       text: |-
         Visit your city, county, or state public health agency.
     - requirement: b
       text: |-
-        Familiarize yourself with your city, county, or state health
-        agency’s website.
+        Familiarize yourself with your city, county, state, or a federal health
+        agency's website.
     - detail: true
       text: |-
         After completing either 7a or 7b, do the following:
-    - requirement: 1
+    - requirement: i
       text: |-
-        Compare the four leading causes of mortality (death) in your
-        community for any of the past five years with the four leading
-        causes of disease in your community. Explain how the public health
-        agency you visited is trying to reduce the mortality and morbidity
-        rates of these leading causes of illness and death.
-    - requirement: 2
+        Compare the four leading causes of mortality (death) in your community
+        for any of the past five years with the four leading causes of disease
+        in your community. Explain how the public health agency you visited is
+        trying to reduce the mortality and morbidity rates of these leading
+        causes of illness and death.
+    - requirement: ii
       text: |-
-        Explain the role of your health agency as it relates to the
-        outbreak of diseases.
-    - requirement: 3
+        Explain the role of your health agency as it relates to the outbreak of
+        diseases.
+    - requirement: iii
       text: |-
-        Discuss the kinds of public assistance the agency is able to
-        provide in case of disasters such as floods, storms, tornadoes,
-        earthquakes, and other acts of destruction. Your discussion can
-        include the cleanup necessary after the disaster.
+        Discuss the kinds of public assistance the agency is able to provide in
+        case of disasters such as floods, storms, tornadoes, earthquakes, and
+        other acts of destruction. Your discussion can include the cleanup
+        necessary after the disaster.
 - requirement: 8
   text: |-
-    Pick a profession in the public health sector that interests you. Find
-    out the education, training, and experience required to work in this
+    Pick a profession in the public health sector that interests you. Find out
+    the education, training, and experience required to work in this
     profession. Discuss what you learn with your counselor.
