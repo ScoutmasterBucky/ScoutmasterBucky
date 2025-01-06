@@ -246,8 +246,7 @@
   text: |-
     Discuss with your counselor how engineering and simple machines affect your everyday life.
   children:
-    - note:
-      - counselor
+    - detail: true
       markdown: true
       text: |-
           **Helpful Link:** Technologystudent.com (www.technologystudent.com/forcmom/lever1.htm)

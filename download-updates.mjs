@@ -196,7 +196,10 @@ async function downloadMeritBadges(updated, args) {
         // Load the merit badge page
         console.log(`[WEB] ${badgeName}: ${mbUrl}`);
         const dest = `site/merit-badges/${badgeName}/${badgeName}.html.orig`;
-        await saveHtml(mbUrl, dest, '.mb-requirement-container');
+
+        // .mb-requirement-container works for most merit badges, but
+        // "small-boat-sailing" is slightly different. Possibly others.
+        await saveHtml(mbUrl, dest, ':has(> .mb-requirement-container)');
     }
 
     heading("Merit Badges");
