@@ -1,3 +1,9 @@
+# The requirement numbers are missing periods in the HTML. "1" instead of "1.". Same goes for a, b, etc for sub-requirements.
+# Requirement 4's group needs a break between 2 and 3 - fixed
+# Requirement 4's group also needs to remove the break between "Radiology Technologist" - fixed
+# Requirement 5's children were all in one big block - fixed
+# Requirement 5 has "theirworkplace" - fixed
+# Removed space in requirement 9 "parents/ guardian"
 - requirement: 1
   text: |-
     Select three of the professions from Group 1 listed below which interest
@@ -5,23 +11,22 @@
   children:
     - requirement: a
       text: |-
-        Briefly describe to your counselor the roles these professionals
-        play in the delivery of health care.
+        Briefly describe to your counselor the roles these professionals play
+        in the delivery of health care.
     - requirement: b
       text: |-
-        Describe to your counselor the educational and licensing
-        requirements for the professionals you selected.
+        Describe to your counselor the educational and licensing requirements
+        for the professionals you selected.
     - detail: true
-      markdown: true
       text: |-
-        **Group 1:**<br/>
-        (1) Allopathic physician (MD) — all specialties<br/>
-        (2) Osteopathic physician (DO) — all specialties<br/>
-        (3) Podiatrist (DPM)<br/>
-        (4) Chiropractor (DC)<br/>
-        (5) Nurse Practitioner (NP)<br/>
-        (6) Psychologist (PhD or PsyD)<br/>
-        (7) Optometrist (OD)<br/>
+        <strong>Group 1:</strong><br />
+        (1) Allopathic physician (MD) -- all specialties<br />
+        (2) Osteopathic physician (DO) -- all specialties<br />
+        (3) Podiatrist (DPM)<br />
+        (4) Chiropractor (DC)<br />
+        (5) Nurse Practitioner (NP)<br />
+        (6) Psychologist (PhD or PsyD)<br />
+        (7) Optometrist (OD)<br />
         (8) Audiologist (AudD)
 - requirement: 2
   text: |-
@@ -30,24 +35,23 @@
   children:
     - requirement: a
       text: |-
-        Briefly describe to your counselor the roles these professionals
-        play in the delivery of health care.
+        Briefly describe to your counselor the roles these professionals play
+        in the delivery of health care.
     - requirement: b
       text: |-
-        Describe to your counselor the educational and licensing
-        requirements for the professionals you selected.
+        Describe to your counselor the educational and licensing requirements
+        for the professionals you selected.
     - detail: true
-      markdown: true
       text: |-
-        **Group 2:**<br/>
-        (1) Physician Assistant (PA)<br/>
-        (2) Registered Nurse (RN)<br/>
-        (3) Certified Nurse Midwife (CNM)<br/>
-        (4) Certified Nurse Assistant (CNA)<br/>
-        (5) Licensed Practical Nurse (LPN/LVN)<br/>
-        (6) Nurse Anesthetist (CRNA)<br/>
-        (7) Pharmacist (PharmD)<br/>
-        (8) Pharmacy Technician<br/>
+        <strong>Group 2:</strong><br />
+        (1) Physician Assistant (PA)<br />
+        (2) Registered Nurse (RN)<br />
+        (3) Certified Nurse Midwife (CNM)<br />
+        (4) Certified Nurse Assistant (CNA)<br />
+        (5) Licensed Practical Nurse (LPN/LVN)<br />
+        (6) Nurse Anesthetist (CRNA)<br />
+        (7) Pharmacist (PharmD)<br />
+        (8) Pharmacy Technician<br />
         (9) Emergency Medical Technician (EMT)/Paramedic
 - requirement: 3
   text: |-
@@ -56,23 +60,22 @@
   children:
     - requirement: a
       text: |-
-        Briefly describe to your counselor the roles these professionals
-        play in the delivery of health care.
+        Briefly describe to your counselor the roles these professionals play
+        in the delivery of health care.
     - requirement: b
       text: |-
-        Describe to your counselor the educational and licensing
-        requirements for the professionals you selected.
+        Describe to your counselor the educational and licensing requirements
+        for the professionals you selected.
     - detail: true
-      markdown: true
       text: |-
-        **Group 3:**<br/>
-        (1) Physical Therapist (DPT)<br/>
-        (2) Occupational Therapist (OT)<br/>
-        (3) Orthotist/Prosthetist<br/>
-        (4) Medical Appliance Technician<br/>
-        (5) Respiratory Therapist (RT)<br/>
-        (6) Medical Assistant<br/>
-        (7) Dietitian (RD)<br/>
+        <strong>Group 3:</strong><br />
+        (1) Physical Therapist (DPT)<br />
+        (2) Occupational Therapist (OT)<br />
+        (3) Orthotist/Prosthetist<br />
+        (4) Medical Appliance Technician<br />
+        (5) Respiratory Therapist (RT)<br />
+        (6) Medical Assistant<br />
+        (7) Dietitian (RD)<br />
         (8) Speech-Language Pathologist (Speech Therapist) (SLP)
 - requirement: 4
   text: |-
@@ -81,29 +84,28 @@
   children:
     - requirement: a
       text: |-
-        Briefly describe to your counselor the roles these professionals
-        play in the delivery of health care.
+        Briefly describe to your counselor the roles these professionals play
+        in the delivery of health care.
     - requirement: b
       text: |-
-        Describe to your counselor the educational and licensing
-        requirements for the professionals you selected.
+        Describe to your counselor the educational and licensing requirements
+        for the professionals you selected.
     - detail: true
-      markdown: true
       text: |-
-        **Group 4:**<br/>
-        (1) Biomedical Engineer (BME)<br/>
-        (2) Medical Technologist<br/>
-        (3) Phlebotomist<br/>
-        (4) Radiology Technologist<br/>
-        (5) Sonographer<br/>
-        (6) Medical Records Specialist<br/>
-        (7) Cytopathologist<br/>
+        <strong>Group 4:</strong><br />
+        (1) Biomedical Engineer (BME)<br />
+        (2) Medical Technologist<br />
+        (3) Phlebotomist<br />
+        (4) Radiology Technologist<br />
+        (5) Sonographer<br />
+        (6) Medical Records Specialist<br />
+        (7) Cytopathologist<br />
         (8) Histotechnologist
 - requirement: 5
   text: |-
-    Select one career from any of the lists in Requirements 1, 2, 3, or 4 and
-    arrange to visit that professional at their workplace. Discuss with your
-    counselor the following:
+      Select one career from any of the lists in Requirements 1, 2, 3, or 4 and
+      arrange to visit that professional at their workplace. Discuss with your
+      counselor the following:
   children:
     - requirement: a
       text: |-
@@ -121,26 +123,24 @@
       text: |-
         What has been the most surprising aspect of their career?
     - requirement: f
-      # Added a question mark at the end for consistency
       text: |-
         What continuing education requirements are required to maintain
         certification?
 - requirement: 6
   text: |-
     Discuss with your counselor your understanding of the meaning of the
-    Physician’s Oath.
+    Physician's Oath.
 - requirement: 7
-  # Corrected spelling of confidentiality
   text: |-
-    Describe the role of confidentiality between a patient and the health
-    care provider. What is HIPAA?
+    Describe the role of confidentiality between a patient and the health care
+    provider. What is HIPAA?
 - requirement: 8
   text: |-
     Identify a medical advancement or discovery that has been in the news
     recently. Discuss with your counselor how this can affect patient care.
 - requirement: 9
   text: |-
-    With approval of your counselor and parents/guardian, serve as a
-    volunteer at a health-related event or facility in your community (e.g.
-    blood drive, health fair, blood pressure screening event). Report to your
-    counselor what you did and learned from the experience.
+    With approval of your counselor and parents/guardian, serve as a volunteer
+    at a health related event or facility in your community (e.g. blood drive,
+    health fair, blood pressure screening event). Report to your counselor what
+    you did and learned from the experience.
