@@ -10,8 +10,10 @@ grep -e '[.?]  ' -r site --include \*.yaml
 
 echo "--- Building"
 npm run fastbuild
-cd build || exit
 
-echo "--- Finding bad markdown conversions"
-grep -E '( \*[^ ]|\)\[|\\|\{\{)' -r . --include index.html
+echo "--- Finding bad markdown conversions (bold, emphasis)"
+grep -E '( \*[^ ]|\)\[|\\|\{\{)' -r build --include index.html
+
+echo "--- Finding bad markdown conversions (&lt;, &gt;)"
+grep -E '&lt;|&gt;' -r build/merit-badges --include index.html
 :
