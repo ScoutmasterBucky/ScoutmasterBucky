@@ -1,5 +1,6 @@
 # Requirement 4 starts with "4. 4. Take four" - removed "4."
 # Same for requirement 5. Removed "5."
+# Altered footnote to add a space after *
 - requirement: 1
   text: |-
     Do the following:
@@ -77,6 +78,6 @@
 - detail: true
   markdown: true
   text: |-
-    `*`The required hikes for this badge may be used in fulfilling hiking
+    `*` The required hikes for this badge may be used in fulfilling hiking
     requirements for rank advancement. However, these hikes cannot be used to
     fulfill requirements of other merit badges.
