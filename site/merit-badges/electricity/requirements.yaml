@@ -1,81 +1,129 @@
 - requirement: 1
   text: |-
-    Demonstrate that you know how to respond to electrical emergencies by
-    doing the following:
+    Demonstrate that you know how to respond to electrical emergencies by doing
+    the following:
   children:
     - requirement: a
       text: |-
-        Show how to rescue a person touching a live wire in the home.
+        Explain how to turn off power for a particular circuit and the whole
+        house in the event of an emergency.
     - requirement: b
       text: |-
-        Show how to render first aid to a person who is unconscious from
-        electrical shock.
+        Demonstrate how to rescue a person touching a live wire in the home.
     - requirement: c
       text: |-
-        Show how to treat an electrical burn.
+        Describe how to safely get out of a car in an accident if you suspect a
+        utility wire is on the car.
     - requirement: d
       text: |-
-        Explain what to do in an electrical storm.
+        Show how to render first aid to a person who is unconscious from an
+        apparent electrical shock.
     - requirement: e
       text: |-
+        Show how to treat an electrical burn.
+    - requirement: f
+      text: |-
         Explain what to do in the event of an electrical fire.
+    - requirement: g
+      text: |-
+        Explain what to do if caught out in the open during an electrical
+        storm.
 - requirement: 2
   text: |-
     Complete an electrical home safety inspection of your home, using the
-    checklist found in this pamphlet or one approved by your counselor.
-    Discuss what you find with your counselor.
+    checklist found in this pamphlet or one approved by your counselor. Discuss
+    what you find with your counselor.
 - requirement: 3
   text: |-
     Make a simple electromagnet and use it to show magnetic attraction and
     repulsion.
 - requirement: 4
   text: |-
-    Explain the difference between direct current and alternating current.
+    Do the following:
+  children:
+    - requirement: a
+      text: |-
+        Explain the difference between direct current and alternating current,
+        the advantages and disadvantages of each, and give a practical example
+        of the use of each type.
+    - requirement: b
+      text: |-
+        Explain three ways that electricity is produced.
 - requirement: 5
   text: |-
     Make a simple drawing to show how a battery and an electric bell work.
+    Describe the purpose of each of the components.
 - requirement: 6
-  text: |-
-    Explain why a fuse blows or a circuit breaker trips. Tell how to find a
-    blown fuse or tripped circuit breaker in your home. Show how to safely
-    reset the circuit breaker.
-- requirement: 7
-  text: |-
-    Explain what overloading an electric circuit means. Tell what you have
-    done to make sure your home circuits are not overloaded.
-- requirement: 8
-  text: |-
-    Make a floor plan wiring diagram of the lights, switches, and outlets for
-    a room in your home. Show which fuse or circuit breaker protects each
-    one.
-- requirement: 9
   text: |-
     Do the following:
   children:
     - requirement: a
       text: |-
-        Read an electric meter and, using your family’s electric bill,
-        determine the energy cost from the meter readings.
+        Define what overloading an electric circuit means. Tell what you have
+        done to make sure your home circuits are not overloaded.
     - requirement: b
       text: |-
-        Discuss with your counselor five ways in which your family can
-        conserve energy.
-- requirement: 10
+        Determine if there is an overload on a branch circuit by either getting
+        the current draw from all the equipment plugged into the circuit or use
+        the power equation to calculate the current draws.
+    - requirement: c
+      text: |-
+        Explain why a fuse blows and a circuit breaker trips.
+    - requirement: d
+      text: |-
+        Tell how to find a blown fuse and a tripped circuit breaker in your
+        home. Show how to safely reset the circuit breaker.
+- requirement: 7
   text: |-
-    Explain the following electrical terms: volt, ampere, watt, ohm,
-    resistance, potential difference, rectifier, rheostat, conductor,
-    ground, GFCI, circuit, and short circuit.
-- requirement: 11
+    Make a floor plan wiring diagram of the lights, switches, and outlets for a
+    room in your home. Show which fuse or circuit breaker protects each one.
+- requirement: 8
   text: |-
-    Do any TWO of the following:
+    Do the following:
   children:
     - requirement: a
       text: |-
-        Connect a buzzer, bell, or light with a battery. Have a key or
-        switch in the line.
+        Read a meter associated with an electric bill. Determine the total
+        power used since the bill, and the cost of that power.
     - requirement: b
       text: |-
-        Make and run a simple electric motor (not from a kit).
+        Explain other charges on the bill that were taxes or fees.
+    - requirement: c
+      text: |-
+        Discuss with your counselor five ways in which your family can conserve
+        energy.
+- requirement: 9
+  text: |-
+    Explain the following:
+  children:
+    - requirement: a
+      text: |-
+        Electrical terms - Current, energy, power, resistance, voltage
+    - requirement: b
+      text: |-
+        Units of measure - Ampere (amps), ohms, volts, watts, watt-hours
+    - requirement: c
+      text: |-
+        Electrical conditions - Generating source with example, ground, open
+        circuit, overvoltage, potential difference, short circuit
+    - requirement: d
+      text: |-
+        Equipment and their use - circuit, conductor, Ground Fault Circuit
+        Interrupter (GFCI), insulator, inverter, rectifier, rheostat,
+        substation, surge protection, solar panel, transformer, transmission
+        and distribution systems, wind turbine.
+- requirement: 10
+  text: |-
+    Do TWO of the following:
+  children:
+    - requirement: a
+      text: |-
+        Connect a buzzer, bell, or light with a battery. Have a key or switch
+        in the line.
+    - requirement: b
+      text: |-
+        Make and run a simple electric motor (from a kit is acceptable, if
+        approved by your counselor ahead of time).
     - requirement: c
       text: |-
         Build a simple rheostat. Show that it works.
@@ -84,4 +132,18 @@
         Build a single-pole, double-throw switch. Show that it works.
     - requirement: e
       text: |-
-        Hook a model electric train layout to a house circuit.
+        Explain how 3-way switch wiring works in a lighting circuit.
+    - requirement: f
+      text: |-
+        Connect two lights together in a series circuit along with a battery
+        and a switch. Then connect the same circuit in parallel. Discuss the
+        differences in the two circuits.
+- requirement: 11
+  text: |-
+    Identify three career opportunities that would use skills and knowledge in
+    electricity. Pick one and research the training, education, certification
+    requirements, experience, and expenses associated with entering the field.
+    Research the prospects for employment, starting salary, advancement
+    opportunities and career goals associated with this career. Discuss what
+    you learned with your counselor and whether you might be interested in this
+    career.
