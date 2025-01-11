@@ -8,9 +8,9 @@
   children:
     - requirement: a
       text: |-
-        Draw a simple schematic diagram. It must show resistors,
-        capacitors, and transistors or integrated circuits. Use the correct
-        symbols. Label all parts.
+        Draw a simple schematic diagram. It must show resistors, capacitors,
+        and transistors or integrated circuits. Use the correct symbols. Label
+        all parts.
     - requirement: b
       text: |-
         Tell the purpose of each part.
@@ -26,45 +26,44 @@
         Show how to avoid heat damage to electronic components.
     - requirement: c
       text: |-
-        Tell about the function of a printed circuit board.  Tell what
-        precautions should be observed when soldering printed circuit
-        boards.
+        Tell about the function of a printed circuit board. Tell what
+        precautions should be observed when soldering printed circuit boards.
 - requirement: 4
   text: |-
     Do the following:
   children:
     - requirement: a
       text: |-
-        Discuss each of the following with your merit badge counselor:
+        Discuss each of the following with your counselor:
       children:
-        - requirement: i
+        - requirement: 1
           text: |-
             How to use electronics for a control purpose
-        - requirement: ii
+        - requirement: 2
           text: |-
-            The basic principles of digital techniques
-        - requirement: iii
+            Explain the basic principles of digital logic.
+        - requirement: 3
           text: |-
-            How to use electronics for three different audio applications
+            How to use electronics for three different analog applications.
     - requirement: b
       text: |-
-        Show how to change three decimal numbers into binary numbers and
-        three binary numbers into decimal numbers.
+        Show how to change three decimal numbers into binary numbers and three
+        binary numbers into decimal numbers.
     - requirement: c
       text: |-
-        Choose ONE of the following three projects. For your project, find
-        or create a schematic diagram. To the best of your ability, explain
-        to your counselor how the circuit you built operates.
+        Choose ONE of the following THREE projects. For your project, find or
+        create a schematic diagram. To the best of your ability, explain to
+        your counselor how the circuit you built operates.
       children:
-        - requirement: i
+        - requirement: 1
           text: |-
             A control device
-        - requirement: ii
+        - requirement: 2
           text: |-
             A digital circuit
-        - requirement: iii
+        - requirement: 3
           text: |-
-            An audio circuit
+            Analog circuit
 - requirement: 5
   text: |-
     Do the following:
@@ -72,18 +71,25 @@
     - requirement: a
       text: |-
         Show how to solve a simple problem involving current, voltage, and
-        resistance using Ohm’s law.
+        resistance using Ohm's law.
     - requirement: b
       text: |-
-        Tell about the need for and the use of test equipment in
-        electronics. Name three types of test equipment.  Tell how they
-        operate.
+        Tell about the need for and the use of test equipment in electronics.
+        Name three types of test equipment. Tell how they operate.
     - requirement: c
       text: |-
         Demonstrate to your counselor how to read the colored bands of a
         resistor to determine its resistance value.
+    - requirement: c
+      text: |-
+        Explain the differences between Through Hole and Surface Mount assembly
+        technologies and give three advantages of each.
 - requirement: 6
   text: |-
-    Find out about three career opportunities in electronics that interest
-    you. Discuss with and explain to your counselor what training and
-    education are needed for each position.
+    Identify three career opportunities that would use skills and knowledge in
+    Electronics. Pick one and research the training, education, certification
+    requirements, experience, and expenses associated with entering the field.
+    Research the prospects for employment, starting salary, advancement
+    opportunities and career goals associated with this career. Discuss what
+    you learned with your counselor and whether you might be interested in this
+    career.

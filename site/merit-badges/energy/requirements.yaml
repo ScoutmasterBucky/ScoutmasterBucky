@@ -4,17 +4,17 @@
   children:
     - requirement: a
       text: |-
-        With your parent’s permission, use the internet to find a blog,
-        podcast, website, or an article on the use or conservation of
-        energy. Discuss with your counselor what details in the article
-        were interesting to you, the questions it raises, and what ideas it
+        With your parent or guardian's permission, use the internet to find a
+        blog, podcast, website, or an article on the use or conservation of
+        energy. Discuss with your counselor what details in the article were
+        interesting to you, the questions it raises, and what ideas it
         addresses that you do not understand.
     - requirement: b
       text: |-
-        After you have completed requirements 2 through 8, revisit your
-        source for requirement 1a. Explain to your counselor what you have
-        learned in completing the requirements that helps you better
-        understand the article.
+        After you have completed requirements 2 through 8, revisit your source
+        for requirement 1a. Explain to your counselor what you have learned in
+        completing the requirements that helps you better understand the
+        article.
 - requirement: 2
   text: |-
     Show you understand energy forms and conversions by doing the following:
@@ -22,8 +22,8 @@
     - requirement: a
       text: |-
         Explain how THREE of the following devices use energy, and explain
-        their energy conversions: toaster, greenhouse, lightbulb, bow
-        drill, cell phone, nuclear reactor, sweat lodge.
+        their energy conversions: toaster, greenhouse, lightbulb, bow drill,
+        cell phone, nuclear reactor, sauna, electric vehicles.
     - requirement: b
       text: |-
         Construct a system that makes at least two energy conversions and
@@ -40,7 +40,7 @@
         movement.
     - requirement: b
       text: |-
-        Name the system’s primary source of energy.
+        Name the system's primary source of energy.
     - requirement: c
       text: |-
         Identify the useful outcomes of the system.
@@ -49,32 +49,32 @@
         Identify the energy losses of the system.
 - requirement: 4
   text: |-
-    Conduct an energy audit of your home. Keep a 14-day log that records what
-    you and your family did to reduce energy use. Include the following in
-    your report and, after the 14-day period, discuss what you have learned
-    with your counselor.
+    Conduct an energy audit of your home. Keep a 14 day log that records what
+    you and your family did to reduce energy use. Include the following in your
+    report and, after the 14-day period, discuss what you have learned with
+    your counselor.
   children:
     - requirement: a
       text: |-
-        List the types of energy used in your home such as electricity,
-        wood, oil, liquid petroleum, and natural gas, and tell how each is
-        delivered and measured, and the current cost; OR record the
-        transportation fuel used, miles driven, miles per gallon, and trips
-        using your family car or another vehicle.
+        List the types of energy used in your home such as electricity, wood,
+        oil, liquid petroleum, and natural gas, and tell how each is delivered
+        and measured, and the current cost; OR record the transportation fuel
+        used, miles driven, miles per gallon, and trips using your family car
+        or another vehicle.
     - requirement: b
       text: |-
-        Describe ways you and your family can use energy resources more
-        wisely.  In preparing your discussion, consider the energy required
-        for the things you do and use on a daily basis (cooking, showering,
-        using lights, driving, watching TV, using the computer). Explain
-        what is meant by sustainable energy sources.  Explain how you can
-        change your energy use through reuse and recycling.
+        Describe ways you and your family can use energy resources more wisely.
+        In preparing your discussion, consider the energy required for the
+        things you do and use on a daily basis (cooking, showering, using
+        lights, driving, watching TV, using the computer). Explain what is
+        meant by sustainable energy sources. Explain how you can change your
+        energy use through reuse and recycling.
 - requirement: 5
   text: |-
-    In a notebook, identify and describe five examples of energy waste in
-    your school or community. Suggest in each case possible ways to reduce
-    this waste.  Describe the idea of trade-offs in energy use. In your
-    response, do the following:
+    In a notebook, identify and describe five examples of energy waste in your
+    school or community. Suggest in each case possible ways to reduce this
+    waste.  Describe the idea of trade-offs in energy use. In your response, do
+    the following:
   children:
     - requirement: a
       text: |-
@@ -82,14 +82,14 @@
         pollution, or otherwise improve your community.
     - requirement: b
       text: |-
-        Explain what changes to routines, habits, or convenience are
-        necessary to reduce energy waste. Tell why people might resist the
-        changes you suggest.
+        Explain what changes to routines, habits, or convenience are necessary
+        to reduce energy waste. Tell why people might resist the changes you
+        suggest.
 - requirement: 6
   text: |-
     Prepare pie charts showing the following information, and explain to your
     counselor the important ideas each chart reveals. Tell where you got your
-    information. Explain how cost affects the use of a nonrenewable energy
+    information.  Explain how cost affects the use of a nonrenewable energy
     resource and makes alternatives practical.
   children:
     - requirement: a
@@ -98,36 +98,57 @@
         energy
     - requirement: b
       text: |-
-        The share of energy resources used by the United States that comes
-        from other countries
+        The share of energy resources used by the United States that comes from
+        other countries
     - requirement: c
       text: |-
-        The proportion of energy resources used by homes, businesses,
-        industry, and transportation
+        The proportion of energy resources used by homes, businesses, industry,
+        and transportation
     - requirement: d
       text: |-
-        The fuels used to generate America’s electricity
+        The fuels used to generate America's electricity
     - requirement: e
       text: |-
-        The world’s known and estimated primary energy resource reserves
+        The world's known and estimated primary energy resource reserves.
 - requirement: 7
-  markdown: true
   text: |-
     Tell what is being done to make FIVE of the following energy systems
     produce more usable energy. In your explanation, describe the technology,
     cost, environmental impacts, and safety concerns.
-
-    * Biomass digesters or waste-to-energy plants
-    * Cogeneration plants
-    * Fossil fuel power plants
-    * Fuel cells
-    * Geothermal power plants
-    * Nuclear power plants
-    * Solar power systems
-    * Tidal energy, wave energy, or ocean thermal energy conversion devices
-    * Wind turbines
+  children:
+    - requirement: a
+      text: |-
+        Biomass digesters or waste-to-energy plants
+    - requirement: a
+      text: |-
+        Cogeneration plants
+    - requirement: a
+      text: |-
+        Fossil fuel power plants
+    - requirement: a
+      text: |-
+        Fuel cells
+    - requirement: a
+      text: |-
+        Geothermal power plants
+    - requirement: a
+      text: |-
+        Nuclear power plants
+    - requirement: a
+      text: |-
+        Solar power systems
+    - requirement: a
+      text: |-
+        Tidal energy, wave energy, or ocean thermal energy conversion devices
+    - requirement: a
+      text: |-
+        Wind turbines.
 - requirement: 8
   text: |-
-    Find out what opportunities are available for a career in energy. Choose
-    one position that interests you and describe the education and training
-    required.
+    Identify three career opportunities that would use skills and knowledge in
+    energy. Pick one and research the training, education, certification
+    requirements, experience, and expenses associated with entering the field.
+    Research the prospects for employment, starting salary, advancement
+    opportunities, and career goals associated with this career. Discuss what
+    you learned with your counselor and whether you might be interested in this
+    career.
