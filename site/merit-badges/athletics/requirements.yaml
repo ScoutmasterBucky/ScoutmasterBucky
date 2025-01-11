@@ -1,11 +1,13 @@
+# 2a has "(a) a. Before" - removed one of them
+# 5, option 7, b - mentions a diagram but didn't include one. Kept one from previous requirements.
 - callout: true
   text: |-
     If meeting any of the requirements for this merit badge is against the
-    Scout's religious convictions, the requirement does not have to be done
-    if the Scout's parents and the proper religious advisors state in writing
-    that to do so would be against religious convictions. The Scout's parents
-    must also accept full responsibility for anything that might happen
-    because of this exemption.
+    Scout's religious convictions, the requirement does not have to be done if
+    the Scout's parent or guardian and the proper religious advisors state in
+    writing that to do so would be against religious convictions. The Scout's
+    parent or guardian must also accept full responsibility for anything that
+    might happen because of this exemption.
 - requirement: 1
   text: |-
     Do the following:
@@ -13,14 +15,14 @@
     - requirement: a
       text: |-
         Explain to your counselor the most likely hazards you may encounter
-        during athletic activities, and what you should do to anticipate,
-        help prevent, mitigate, and respond to these hazards.
+        during athletics activities, and what you should do to anticipate, help
+        prevent, mitigate, and respond to these hazards.
     - requirement: b
       text: |-
         Show that you know first aid for injuries or illnesses that could
         occur while participating in athletics events, including sprains,
-        strains, contusions, abrasions, blisters, dehydration, heat
-        reactions, and concussions.
+        strains, contusions, abrasions, blisters, dehydration, heat reactions,
+        and concussions.
 - requirement: 2
   text: |-
     Do the following:
@@ -28,17 +30,17 @@
     - requirement: a
       text: |-
         Before completing requirements 3 and 5, have your health-care
-        practitioner give you a physical examination, using the Scout
-        medical examination form.
+        practitioner give you a physical examination, using the Scout Annual
+        Health and Medical Record form.
     - requirement: b
       text: |-
         Explain the importance of a physical exam.
     - requirement: c
       text: |-
-        Explain the importance of maintaining good health habits,
-        especially during training--and how the use of tobacco products,
-        alcohol, and other harmful substances can negatively affect your
-        health and your performance in athletic activities.
+        Explain the importance of maintaining good health habits, especially
+        during training-and how the use of tobacco products, alcohol, and other
+        harmful substances can negatively affect your health and your
+        performance in athletic activities.
     - requirement: d
       text: |-
         Explain the importance of maintaining a healthy diet.
@@ -49,8 +51,8 @@
     - requirement: a
       text: |-
         With guidance from your counselor, establish a personal training
-        program suited to the activity you have chosen.  Follow this
-        training program for three months.
+        program suited to the activity you have chosen. Follow this training
+        program for three months.
     - requirement: b
       text: |-
         Create a chart to monitor your progress during this time.
@@ -61,9 +63,9 @@
     - requirement: d
       text: |-
         At the end of three months, review the chart you created for
-        requirement 3b, and discuss with your counselor what progress you
-        have made during training.  Tell how your development has affected
-        you mentally and physically.
+        requirement 3b, and discuss with your counselor what progress you have
+        made during training. Tell how your development has affected you
+        mentally and physically.
 - requirement: 4
   text: |-
     Do the following:
@@ -81,68 +83,61 @@
         differences between an amateur and a professional athlete.
     - requirement: d
       text: |-
-        Discuss the traits and importance of good sportsmanship.  Tell what
-        role sportsmanship plays in both individual and group athletic
-        activities.
+        Discuss the traits and importance of good sportsmanship. Tell what role
+        sportsmanship plays in both individual and group athletic activities.
 - requirement: 5
   text: |-
-    Complete the activities in FOUR of the following groups and show
+    Complete the activities in FOUR of the following options and show
     improvement over a three-month period:
   children:
-    - callout: true
-      markdown: true
+    - detail: true
       text: |-
-        **Group 1: Sprinting**
+        <strong>Option 1: Sprinting</strong>
     - requirement: a
       text: |-
         100-meter dash
     - requirement: b
       text: |-
         200-meter dash
-    - callout: true
-      markdown: true
+    - detail: true
       text: |-
-        **Group 2: Long-Distance Running**
+        <strong>Option 2: Long-Distance Running</strong>
     - requirement: a
       text: |-
         3k run
     - requirement: b
       text: |-
         5k run
-    - callout: true
-      markdown: true
+    - detail: true
       text: |-
-        **Group 3: Long Jump OR High Jump**
+        <strong>Option 3: Long Jump OR High Jump</strong>
     - requirement: a
       text: |-
         Running long jump OR running high jump (best of three tries)
     - requirement: b
       text: |-
         Standing long jump OR standing high jump (best of three tries)
-    - callout: true
-      markdown: true
+    - detail: true
       text: |-
-        **Group 4: Swimming**
+        <strong>Option 4: Swimming</strong>
     - requirement: a
       text: |-
         100-meter swim
     - requirement: b
       text: |-
         200-meter swim
-    - callout: true
-      markdown: true
+    - detail: true
       text: |-
-        **Group 5: Pull-Ups AND Push-Ups**
+        <strong>Option 5: Pull-Ups AND Push-Ups</strong>
     - requirement: a
       text: |-
         Pull-ups in two minutes
     - requirement: b
       text: |-
         Push-ups in two minutes
-    - callout: true
-      markdown: true
+    - detail: true
       text: |-
-        **Group 6: Baseball Throw**
+        <strong>Option 6: Baseball Throw</strong>
     - requirement: a
       text: |-
         Baseball throw for accuracy, 10 throws at a target (distance to be
@@ -152,16 +147,15 @@
       text: |-
         Baseball throw for distance, five throws (total distance)
     - callout: true
-      markdown: true
       text: |-
-        **Group 7: Basketball Shooting**
+        <strong>Option 7: Basketball Shooting</strong>
     - requirement: a
       text: |-
         Basketball shot for accuracy, 10 free-throw shots
     - requirement: b
       text: |-
-        Basketball throw for skill and agility, the following shots as
-        shown on the diagram: <img
+        Basketball throw for skill and agility, the following shots as shown on
+        the diagram: <img
         src="/merit-badges/athletics/athletics-basketball-positions.gif"
         class="Maw(100%)" />
       children:
@@ -190,9 +184,8 @@
           text: |-
             Anywhere along the three-point line
     - callout: true
-      markdown: true
       text: |-
-        **Group 8: Football Kick OR Soccer Kick**
+        <strong>Option 8: Football Kick OR Soccer Kick</strong>
     - requirement: a
       text: |-
         Goals from the 10-yard line, eight kicks
@@ -201,9 +194,8 @@
         Football kick or soccer kick for distance, five kicks (total
         distance)
     - callout: true
-      markdown: true
       text: |-
-        **Group 9: Weight Training**
+        <strong>Option 9: Weight Training</strong>
     - requirement: a
       text: |-
         Chest/bench press, two sets of 15 repetitions each
@@ -216,13 +208,13 @@
   children:
     - requirement: a
       text: |-
-        Prepare plans for conducting a sports meet or field day that
-        includes 10 activities, at least five of which must come from the
-        groups mentioned in requirement 5.  Outline the duties of each
-        official needed and list the equipment the meet will require.
+        Prepare plans for conducting a sports meet or field day that includes
+        10 activities, at least five of which must come from the groups
+        mentioned in requirement 5. Outline the duties of each official needed
+        and list the equipment the meet will require.
     - requirement: b
       text: |-
-        With your parent’s and counselor’s approval, serve as an official
-        or volunteer at a sports meet to observe officials in action. Tell
-        your counselor about your responsibilities at the meet and discuss
+        With your parent or guardian's and counselor's approval, serve as an
+        official or volunteer at a sports meet to observe officials in action.
+        Tell your counselor about your responsibilities at the meet and discuss
         what you learned.

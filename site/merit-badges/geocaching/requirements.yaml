@@ -1,4 +1,5 @@
 # Moved footnote from after 8 to where it is used in 7
+# Altered footnote to add a space after *
 # Requirement 8a says "Eaglecode ®" twice, when it should be "Eagle®" - fixed
 - requirement: 1
   text: |-
@@ -71,7 +72,7 @@
     with your counselor the posted information about three of those geocaches.
     Then, pick one of the three and find the cache.
 
-    `*`To fulfill this requirement, you will need to set up a free user account
+    `*` To fulfill this requirement, you will need to set up a free user account
     with www.Geocaching.com. Before doing so, ask your parent for permission
     and help.
 - requirement: 8

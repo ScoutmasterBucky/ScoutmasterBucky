@@ -1,6 +1,7 @@
 # 4c has duplicated text, which was removed
 # Removed space in 7b "major weaknesses on this course ."
 # Moved footnote from beginning of requirements to requirement 7a, where it is used.
+# Altered footnote to add a space after *
 - requirement: 1
   text: |-
     Show that you know first aid for the following types of injuries that could
@@ -78,7 +79,7 @@
         Take part in three orienteering events. One of these must be a
         cross-country course.`*`
 
-        `*`Note to the Counselor: While orienteering is primarily an individual
+        `*` Note to the Counselor: While orienteering is primarily an individual
         sport, BSA Youth Protection procedures call for using the buddy system.
         Requirement 7a can be completed by pairs or groups of Scouts.
     - requirement: b
