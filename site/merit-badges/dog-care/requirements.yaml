@@ -1,3 +1,4 @@
+# There is a footnote in the HTML that used to be for requirement 4. Currently 4 has the text included into the requirement, so the footnote was unnecessary and removed.
 - requirement: 1
   text: |-
     Do the following:
@@ -7,12 +8,12 @@
         Briefly discuss the historical origin and domestication of the dog.
     - requirement: b
       text: |-
-        Describe some common characteristics of the dogs that make up each
-        of the seven major dog groups.
+        Describe some common characteristics of the dogs that make up each of
+        the seven major dog groups.
     - requirement: c
       text: |-
-        Tell some specific characteristics of seven breeds of dogs (one
-        from each major group), OR give a short history of one breed.
+        Tell some specific characteristics of seven breeds of dogs (one from
+        each major group), OR give a short history of one breed.
 - requirement: 2
   text: |-
     Point out on a dog or a sketch at least 10 body parts. Give the correct
@@ -27,28 +28,26 @@
         socialization training for your dog.
     - requirement: b
       text: |-
-        Explain what “responsible pet ownership” means.
+        Explain what "responsible pet ownership" means.
     - requirement: c
       text: |-
         Explain what issues (including temperament) must be considered when
         deciding on what breed of dog to get as a family pet.
 - requirement: 4
-  markdown: true
   text: |-
-    For two months, keep and care for your dog.`*` Maintain a log of your
-    activities during this period that includes these items: feeding
-    schedule, types of food used, amount fed, exercise periods, training
-    schedule, a weekly body weight record, grooming and bathing schedules,
-    veterinary care, if necessary, and costs. Also include a brief
-    description of the type of housing/shelter arrangements you have for your
-    dog.
-
-    `*` The activities used to fulfill the requirements for the Dog Care merit badge may not be used to help fulfill requirements for other merit badges.
+    For two months, keep and care for your dog. Maintain a log of your
+    activities during this period that includes these items: feeding schedule,
+    types of food used, amount fed, exercise periods, training schedule, a
+    weekly body weight record, grooming and bathing schedules, veterinary care,
+    if necessary, and costs. Also include a brief description of the type of
+    housing/shelter arrangements you have for your dog. (The activities used to
+    fulfill the requirements for the Dog Care merit badge may not be used to
+    help fulfill requirements for other merit badges.)
 - requirement: 5
   text: |-
     Explain the correct way to obedience train a dog and what equipment you
-    would need. Show with your dog any three of these commands: “come,”
-    “sit,” “down,” “heel,” “stay,” “fetch” or “get it,” and “drop it.”
+    would need. Show with your dog any three of these commands: "come," "sit,"
+    "down," "heel," "stay," "fetch," "get it," "drop it."
 - requirement: 6
   text: |-
     Do the following:
@@ -59,22 +58,22 @@
         puppyhood through adulthood.
     - requirement: b
       text: |-
-        Discuss the control methods for preventing fleas, ticks,
-        heartworms, and intestinal parasites (worms) for a dog in your area
-        from puppyhood through adulthood.
+        Discuss the control methods for preventing fleas, ticks, heartworms,
+        and intestinal parasites (worms) for a dog in your area from puppyhood
+        through adulthood.
     - requirement: c
       text: |-
-        Explain the importance of dental care and tooth brushing to your
-        pet’s health.
+        Explain the importance of dental care and tooth brushing to your pet's
+        health.
     - requirement: d
       text: |-
-        Discuss the benefits of grooming your dog’s coat and nails on a
-        regular basis.
+        Discuss the benefits of grooming your dog's coat and nails on a regular
+        basis.
     - requirement: e
       text: |-
-        Discuss with your counselor any seasonal conditions (like hot
-        summers, cold winters, or extreme humidity) where you live that
-        need to be considered for your dog.
+        Discuss with your counselor any seasonal conditions (like hot summers,
+        cold winters, or extreme humidity) where you live that need to be
+        considered for your dog.
     - requirement: f
       text: |-
         Discuss with your counselor the considerations and advantages of
@@ -101,15 +100,15 @@
         Explain what to do if a dog is hit by a car.
     - requirement: f
       text: |-
-        List the things needed in every dog owner’s first-aid kit.
+        List the things needed in every dog owner's first-aid kit.
     - requirement: g
       text: |-
         Tell the dangers of home treatment of a serious ailment.
     - requirement: h
       text: |-
-        Briefly discuss the cause and method of spread, the signs and
-        symptoms and the methods of prevention of rabies, parvovirus,
-        distemper, and heartworms in dogs.
+        Briefly discuss the cause and method of spread, the signs and symptoms
+        and the methods of prevention of rabies, parvovirus, distemper, and
+        heartworms in dogs.
 - requirement: 8
   text: |-
     Visit a veterinary hospital or an animal shelter and give a report about
@@ -120,7 +119,23 @@
     community.
 - requirement: 10
   text: |-
-    Learn about three career opportunities for working with dogs. Pick one
-    and find out about the education, training, and experience required for
-    this career, and discuss this with your counselor. Tell why this
-    profession interests you.
+    Do ONE of the following:
+  children:
+    - requirement: a
+      text: |-
+        Identify three career opportunities that would use skills and knowledge
+        in working with dogs. Pick one and research the training, education,
+        certification requirements, experience, and expenses associated with
+        entering the field. Research the prospects for employment, starting
+        salary, advancement opportunities and career goals associated with this
+        career. Discuss what you learned with your counselor and whether you
+        might be interested in this career.
+    - requirement: b
+      text: |-
+        Identify how you might use the skills and knowledge in working with
+        dogs to pursue a personal hobby and/or healthy lifestyle. Research the
+        additional training required, expenses, and affiliation with
+        organizations that would help you maximize the enjoyment and benefit
+        you might gain from it. Discuss what you learned with your counselor
+        and share what short-term and long-term goals you might have if you
+        pursued this.
