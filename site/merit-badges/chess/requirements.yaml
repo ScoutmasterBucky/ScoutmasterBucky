@@ -1,16 +1,17 @@
+# 3 has the * for a footnote but is missing it. Copied from previous version.
 - requirement: 1
   text: |-
-    Discuss with your merit badge counselor the history of the game of chess.
-    Explain why it is considered a game of planning and strategy.
+    Discuss with your counselor the history of the game of chess. Explain why
+    it is considered a game of planning and strategy.
 - requirement: 2
   text: |-
-    Discuss with your merit badge counselor the following:
+    Discuss with your counselor the following:
   children:
     - requirement: a
       text: |-
-        The benefits of playing chess, including developing critical
-        thinking skills, concentration skills, and decision-making skills,
-        and how these skills can help you in other areas of your life
+        The benefits of playing chess, including developing critical thinking
+        skills, concentration skills, and decision-making skills, and how these
+        skills can help you in other areas of your life
     - requirement: b
       text: |-
         Sportsmanship and chess etiquette
@@ -18,7 +19,7 @@
   markdown: true
   text: |-
     Demonstrate to your counselor that you know each of the following. Then,
-    using Scouting’s Teaching EDGE`*`, teach someone (preferably another Scout)
+    using Scouting's Teaching EDGE`*`, teach someone (preferably another Scout)
     who does not know how to play chess:
 
     `*` You may learn about Scouting’s Teaching EDGE from your unit leader,
@@ -32,20 +33,18 @@
         How to set up a chessboard
     - requirement: c
       text: |-
-        How each chess piece moves, including castling and en passant
-        captures
+        How each chess piece moves, including castling and en passant captures
 - requirement: 4
   text: |-
     Do the following:
   children:
     - requirement: a
       text: |-
-        Demonstrate scorekeeping using the algebraic system of chess
-        notation.
+        Demonstrate scorekeeping using the algebraic system of chess notation.
     - requirement: b
       text: |-
-        Discuss the differences between the opening, the middle game, and
-        the endgame.
+        Discuss the differences between the opening, the middle game, and the
+        endgame.
     - requirement: c
       text: |-
         Explain four opening principles.
@@ -54,37 +53,32 @@
         Explain the four rules for castling.
     - requirement: e
       text: |-
-        On a chessboard, demonstrate a “scholar’s mate” and a “fool’s
-        mate.”
+        On a chessboard, demonstrate a "scholar's mate" and a "fool's mate."
     - requirement: f
       text: |-
-        Demonstrate on a chessboard four ways a chess game can end in a
-        draw.
+        Demonstrate on a chessboard four ways a chess game can end in a draw.
 - requirement: 5
   text: |-
     Do the following:
   children:
     - requirement: a
       text: |-
-        Explain four of the following elements of chess strategy:
-        exploiting weaknesses, force, king safety, pawn structure, space,
-        tempo, time.
+        Explain four of the following elements of chess strategy: exploiting
+        weaknesses, force, king safety, pawn structure, space, tempo, time.
     - requirement: b
       text: |-
-        Explain any five of these chess tactics: clearance sacrifice,
-        decoy, discovered attack, double attack, fork, interposing,
-        overloading, overprotecting, pin, remove the defender, skewer,
-        zwischenzug.
+        Explain any five of these chess tactics: clearance sacrifice, decoy,
+        discovered attack, double attack, fork, interposing, overloading,
+        overprotecting, pin, remove the defender, skewer, zwischenzug.
     - requirement: c
-      markdown: true
       text: |-
-        Set up a chessboard with the white king on *`e1`*, the white rooks
-        on *`a1`* and *`h1`*, and the black king on *`e5`*.  With White to
-        move first, demonstrate how to force checkmate on the black king.
+        Set up a chessboard with the white king on <em>e1</em>, the white
+        rooks on <em>a1</em> and <em>h1</em>, and the black king on <em>e5</em>.
+        With White to move first, demonstrate how to force checkmate on the
+        black king.
     - requirement: d
       text: |-
-        Set up and solve five direct-mate problems provided by your merit
-        badge counselor.
+        Set up and solve five direct-mate problems provided by your counselor.
 - requirement: 6
   text: |-
     Do ONE of the following:
@@ -92,16 +86,14 @@
     - requirement: a
       text: |-
         Play at least three games of chess with other Scouts and/or your
-        merit badge counselor. Replay the games from your score sheets and
-        discuss with your counselor how you might have played each game
-        differently.
+        counselor. Replay the games from your score sheets and discuss with
+        your counselor how you might have played each game differently.
     - requirement: b
       text: |-
-        Play in a scholastic (youth) chess tournament and use your score
-        sheets from that tournament to replay your games with your merit
-        badge counselor. Discuss with your counselor how you might have
-        played each game differently.
+        Play in a scholastic (youth) chess tournament and use your score sheets
+        from that tournament to replay your games with your counselor. Discuss
+        with your counselor how you might have played each game differently.
     - requirement: c
       text: |-
-        Organize and run a chess tournament with at least four players,
-        plus you. Have each competitor play at least two games.
+        Organize and run a chess tournament with at least four players, plus
+        you. Have each competitor play at least two games.
