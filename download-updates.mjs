@@ -200,6 +200,7 @@ async function downloadMeritBadges(updated, args) {
         // .mb-requirement-container works for most merit badges, but
         // "small-boat-sailing" is slightly different. Possibly others.
         await saveHtml(mbUrl, dest, ':has(> .mb-requirement-container)');
+        updated[badgeName] = Date.now();
     }
 
     heading("Merit Badges");
