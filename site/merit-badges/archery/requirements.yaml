@@ -1,42 +1,27 @@
+# 5A and 5B use "A.)" and "B.)" which isn't needed for our format.
 - requirement: 1
   text: |-
     Do the following:
   children:
     - requirement: a
       text: |-
-        Explain the five range safety rules.
+        Explain what a projectile is, and why any device that shoots a
+        projectile at high speed must be handled with care and respect, and
+        used only in approved locations.
     - requirement: b
       text: |-
-        Explain the four whistle commands used on the range.
+        Explain the five range safety rules.
     - requirement: c
       text: |-
-        Explain how to safely remove arrows from the target and return them
-        to your quiver.
+        Explain the four whistle commands used on the range.
     - requirement: d
       text: |-
-        Tell about your local and state laws for owning and using archery
-        equipment.
-      children:
-        - note:
-            - inPerson
-            - online
-          text: |-
-            Scouts should look up the local (state, county, city - where
-            applicable) laws regarding archery and come prepared to share
-            their findings during the class discussion.
-    - note:
-        - inPerson
-        - online
+        Explain how to safely remove arrows from the target and return them to
+        your quiver
+    - requirement: e
       text: |-
-        Scouts should read the merit badge pamphlet prior to the
-        class and be familiar with the Range Safety Rules that will
-        further be discussed as a part of the class. It is not
-        acceptable to arrive assuming that this requirement will be
-        covered at the class. It is important that Scouts know these
-        rules and commands prior to the class so that they understand
-        the difference between standard commands and safety rules and
-        those that may be exclusive to the particular range they are
-        utilizing.
+        Tell your counselor about your local and state laws for owning and
+        using archery equipment.
 - requirement: 2
   text: |-
     Do the following:
@@ -49,117 +34,36 @@
         Describe three or more different types of arrows.
     - requirement: c
       text: |-
-        Name the four principal materials for making arrow shafts.
-      children:
-        - note:
-            - inPerson
-            - online
-          text: |-
-            Scouts need to review the merit badge pamphlet for
-            requirements 2a through 2c. All information needed to
-            complete these parts of Requirement 2 can be found in the
-            merit badge pamphlet book. It is recommended to make notes on
-            your Merit Badge Workbook to use when sharing your knowledge
-            during the class. Requirement 2d will be covered in the
-            class.
+        Name the four principle materials for making arrow shafts.
     - requirement: d
       text: |-
-        Do ONE of the following
+        Do ONE of the following:
       children:
         - requirement: 1
           text: |-
-            Make a complete arrow from a bare shaft using appropriate
-            equipment available to you.
-        - callout: true
-          text: |-
-            OR
+            Make a complete arrow from a bare shaft using appropriate equipment
+            available to you.
         - requirement: 2
           text: |-
-            To demonstrate arrow repair, inspect the shafts and prepare
-            and replace at least three vanes, one point, and one nock.
-            You may use as many arrows as necessary to accomplish this.
-            The repairs can be done on wood, fiberglass, or aluminum
-            arrows.
-        - note:
-            - inPerson
-          text: |-
-            Scouts will complete one of these requirement components as
-            part of the class.
-        - note:
-            - online
-          text: |-
-            Scouts will need to complete one of these requirement
-            components; 2d1 or 2d2, on their own prior to the class if
-            they want the counselor to consider sign off on this
-            requirement component. Time will be allotted during the
-            online class for Scouts to show their skill and/or work for
-            consideration by the counselor. The online format does not
-            allow for these requirement components to be facilitated in
-            the online format.
+            To demonstrate arrow repair, inspect the shafts and prepare and
+            replace at least three vanes, one point, and one nock. You may use
+            as many arrows as necessary to accomplish this. The repairs can be
+            done on wood, fiberglass, or aluminum arrows.
     - requirement: e
       text: |-
         Explain how to properly care for and store arrows.
-      children:
-        - note:
-            - inPerson
-            - online
-          text: |-
-            Scouts need to review the merit badge pamphlet for
-            requirement 2e. All information needed to complete these
-            parts of Requirement 2 can be found in the merit badge
-            pamphlet book. It is recommended to make notes on your Merit
-            Badge Workbook to use when sharing your knowledge during the
-            class. Requirement 2d will be covered in the class.
 - requirement: 3
   text: |-
     Do the following:
   children:
     - requirement: a
       text: |-
-        Explain the proper use, care, and storage of, as well as the
-        reasons for using tabs, arm guards, shooting gloves, and quivers.
-      children:
-        - note:
-            - inPerson
-            - online
-          text: |-
-            Scouts should utilize their Merit Badge Workbook and make
-            notes on the proper care for each of the archery items listed
-            in this requirement. Having notes will allow Scouts to more
-            actively partake in the discussion during the class and help
-            the counselor show that the Scout is prepared and understands
-            the requirement.
+        Explain the proper use, care, and storage of, as well as the reasons
+        for using tabs, arm guards, shooting gloves, quivers.
     - requirement: b
       text: |-
         Explain the following terms: draw length, draw weight, mechanical
-        release and barebow.
-      children:
-        - note:
-            - inPerson
-            - online
-          text: |-
-            Scouts should look up and learn each of these terms and be
-            prepared to share their understanding of each of these terms
-            in class discussion. All terms can be found in the Merit
-            Badge Pamphlet. Some Scouts may find it easier to write down
-            their findings in their Merit Badge Workbook for quicker and
-            easier reference for use during the class.
-    - requirement: c
-      text: |-
-        Make a bowstring using appropriate materials.
-      children:
-        - note:
-            - inPerson
-          text: |-
-            Scouts will complete requirement 3c as part of the class.
-        - note:
-            - online
-          text: |-
-            Scouts will need to complete this requirement component; 3c,
-            on their own prior to the class if they want the counselor to
-            consider sign off on this requirement component. as a part of
-            the class. Time will be allotted during the online class for
-            Scouts to share their work with the counselor.
+        release, barebow.
 - requirement: 4
   text: |-
     Explain the following:
@@ -175,116 +79,77 @@
         How the five-color World Archery Federation target is scored
     - requirement: d
       text: |-
-        How the National Field Archery Association (NFAA) black-and-white
-        field targets and blue indoor targets are scored
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Reviewing the merit badge pamphlet will yield the answers to these
-        remaining parts of requirement 4. Scouts will find most, if not
-        all, information needed to complete this requirement in the merit
-        badge pamphlet. Scouts are encouraged to use a Merit Badge Workbook
-        to track their findings and to share these with your merit badge
-        counselor during the appropriate time during the class. This will
-        help show the counselor that Scouts have prepared and are ready for
-        consideration for sign off on this requirement; if the work meets
-        the counselor's satisfaction.
+        How the National Field Archery Association (NFAA) black-and-white field
+        targets and blue indoor targets are scored.
 - requirement: 5
   text: |-
-    Do ONE of the following options.
+    Working under the supervision of a certified USA Archery Level 1 Instructor
+    or a certified long-term camp staff member (i.e., a National Camping School
+    [NCS] Range Activities Director; or a Rangemaster over age 18 who is
+    trained by a NCS Range Activities Director or by a USA Archery Level 1
+    Instructor), do ONE of the following Options:
   children:
-    - note:
-        - online
+    - requirement: A
       text: |-
-        Scout will have the opportunity to cover the "Name" and "Explain"
-        requirement components during the online class.  Scouts with the
-        proper equipment available to them will also have the ability to
-        "Show", "Demonstrate", and "Locate" as well. Requirement component
-        f in both options will require the Scout to have verifiable proof
-        for the counselor in order for consideration and review.  It is
-        recommended that Scouts video their Shooting session and provide an
-        unedited copy of this video for the counselor prior to during the
-        class for review.
-    - detail: true
-      markdown: true
-      text: |-
-        **Option A—Using a Recurve Bow or Longbow**
-    - requirement: a
-      text: |-
-        Name and point to the parts of the recurve or longbow you are
-        shooting.
-    - requirement: b
-      text: |-
-        Explain how to properly care for and store recurve bows and
-        longbows.
-    - requirement: c
-      text: |-
-        Demonstrate and explain USA Archery's "Steps of Shooting" for the bow you are shooting.
-    - requirement: d
-      text: |-
-        Demonstrate the proper way to string a recurve bow or longbow.
-    - requirement: e
-      text: |-
-        Using a bow square, locate and mark with dental floss, crimp-on, or
-        other method, the nocking point on the bowstring of the bow that
-        you are using.
-    - requirement: f
-      text: |-
-        Do ONE of the following:
+        <strong>Option A: Recurve Bow or Longbow</strong>
       children:
-        - requirement: 1
+        - requirement: a
           text: |-
-            Using a recurve or longbow and arrows with a finger release,
-            shoot a single round of one of the following BSA, USA
-            Archery, or NFAA rounds:
+            Name and point to the parts of the recurve or longbow you are
+            shooting.
+        - requirement: b
+          text: |-
+            Explain how to properly care for and store recurve bows and
+            longbows.
+        - requirement: c
+          text: |-
+            Demonstrate and explain USA Archery's eleven "Steps of Shooting"
+            for the bow you are shooting.
+        - requirement: d
+          text: |-
+            Demonstrate the proper way to string a recurve bow or longbow.
+        - requirement: e
+          text: |-
+            Using a bow square, locate and mark with dental floss, crimp-on, or
+            other method, the nocking point on the bowstring of the bow you are
+            using.
+        - requirement: f
+          text: |-
+            Do ONE of the following:
           children:
-            - requirement: a
+            - requirement: 1
               text: |-
-                An NFAA field round of 14 targets and make a score of
-                60 points
-            - requirement: b
+                Using a recurve bow or longbow and arrows with a finger
+                release, shoot a single round of one of the following BSA, USA
+                Archery, or NFAA rounds:
+              children:
+                - requirement: a
+                  text: |-
+                    An NFAA field round of 14 targets and make a score of 60
+                    points
+                - requirement: b
+                  text: |-
+                    Scouting America field round of 14 targets and make a score
+                    of 80 points
+                - requirement: c
+                  markdown: true
+                  text: |-
+                    A World Archery/USA Archery indoor round and make a score
+                    of 80 points (indoor rounds may be shot outdoors if this is
+                    more convenient)
+                - requirement: d
+                  markdown: true
+                  text: |-
+                    An NFAA indoor round and make a score of 50 points (indoor
+                    rounds may be shot outdoors if this is more convenient).
+            - requirement: 2
               text: |-
-                A BSA Scout field round of 14 targets and make a score
-                of 80 points
-            - requirement: c
-              markdown: true
-              text: |-
-                A World Archery/USA Archery indoor`*` round and make a score of 80 points
-            - requirement: d
-              markdown: true
-              text: |-
-                An NFAA indoor * `round and make a score of 50 points
-        - requirement: 2
-          text: |-
-            Shooting 30 arrows in five-arrow ends at an 80-centimeter
-            (32-inch) five-color target at 10 yards and using the 10
-            scoring regions, make a score of 150.
-        - requirement: 3
-          text: |-
-            As a member of the USA Archery Junior Olympic Archery
-            Development program (JOAD), earn your indoor or outdoor
-            green, purple, and gray achievement award pins using a
-            recurve bow or longbow.
-        - requirement: 4
-          text: |-
-            As a member of the NFAA’s Junior Division, earn a Cub or
-            Youth 100-score Progression Patch.
-        - detail: true
-          markdown: true
-          text: |-
-            `*` The indoor rounds can be shot outdoors if this is more convenient.
-    - note:
-        - inPerson
-      markdown: true
+                Shooting 30 arrows in five-arrow ends at an 80-centimeter
+                (32-inch) five-color target at 10 yards and using the 10
+                scoring regions, make a score of 150.
+    - requirement: B
       text: |-
-        The Recurve Bow or Longbow (Option A) will **NOT** be done in the
-        class as the class will focus on the other option (Option B -
-        compound bow) for this requirement.
-    - detail: true
-      markdown: true
-      text: |-
-        **Option B—Using a Compound Bow**
+        <strong>Option B: Compound Bow </strong>
     - requirement: a
       text: |-
         Name and point to the parts of the compound bow you are shooting.
@@ -293,84 +158,51 @@
         Explain how to properly care for and store compound bows.
     - requirement: c
       text: |-
-        Demonstrate and explain USA Archery's "Steps of Shooting" for the
-        bow you are shooting.
+        Demonstrate and explain USA Archery's eleven "Steps of Shooting" for
+        the bow you are shooting.
     - requirement: d
       text: |-
-        Explain why it is necessary to have the string or cable on a
-        compound bow replaced at an archery shop.
+        Explain why it is necessary to have the string or cable on a compound
+        bow replaced at an archery shop.
     - requirement: e
       text: |-
         Locate and mark with dental floss, crimp-on, or other method, the
-        nocking point on the bowstring of the bow that you are using.
+        nocking point on the bowstring of the bow you are using.
     - requirement: f
       text: |-
         Do ONE of the following:
       children:
         - requirement: 1
           text: |-
-            Using a compound bow and arrows with a finger release, shoot
-            a single round of one of the following BSA, USA Archery, or
-            NFAA rounds:
+            Using a compound bow and arrows with a finger release, shoot a
+            single round of ONE of the following BSA, NAA,or NFAA rounds:
           children:
             - requirement: a
               text: |-
-                An NFAA field round of 14 targets and make a score of
-                70 points
+                An NFAA field round of 14 targets and make a score of 70 points
             - requirement: b
               text: |-
-                A BSA Scout field round of 14 targets and make a score
-                of 90 points
+                Scouting America field round of 14 targets and make a score of
+                90 points
             - requirement: c
               markdown: true
               text: |-
-                A World Archery/USA Archery indoor`*` round and make
-                a score of 90 points
+                World Archery/USA Archery indoor round and make a score of 90
+                points (indoor rounds may be shot outdoors if this is more
+                convenient)
             - requirement: d
               markdown: true
               text: |-
-                An NFAA indoor`*` round and make a score of 60 points
+                NFAA indoor round and make a score of 60 points (indoor rounds
+                may be shot outdoors if this is more convenient)
         - requirement: 2
           text: |-
-            Shooting at an 80-centimeter (32-inch) five-color target
-            using the 10 scoring regions, make a minimum score of 160
-            points. Accomplish this in the following manner:
+            Shooting at an 80-centimeter (32-inch) five-color target using the
+            10 scoring regions, make a minimum score of 160. Accomplish this in
+            the following manner:
           children:
             - detail: true
               text: |-
                 Shoot 15 arrows in five-arrow ends, at a distance of 10
-                yards
-            - callout: true
-              text: |-
-                AND
-            - detail: true
-              text: |-
-                Shoot 15 arrows in five-arrow ends, at a distance of 15
-                yards.
-        - requirement: 3
-          text: |-
-            As a member of the USA Archery Junior Olympic Archery
-            Development program (JOAD), earn your indoor or outdoor
-            green, purple, and gray achievement award pins using a
-            compound bow.
-        - requirement: 4
-          text: |-
-            As a member of the NFAA’s Junior Division, earn a Cub or
-            Youth 100-score Progression Patch.
-        - detail: true
-          markdown: true
-          text: |-
-            `*` The indoor rounds can be shot outdoors if this is more
-            convenient.
-    - note:
-        - inPerson
-      text: |-
-        Most of the requirements for Option B will be done during the
-        class, however Scouts should review Option B requirements 5a, 5b,
-        5c, and 5d prior to the class and come with a knowledge to expedite
-        discussion on these items. Option B requirement 5e will be covered
-        in the class and Option B requirement 5f2 will be utilized as the
-        measure of shooting proficiency that must be attained by Scouts
-        when shooting. Please note that this is a skill-based requirement
-        and only Scouts that are able to meet the standards will have the
-        opportunity of completing this component of the requirement.
+                yards<br /> AND<br /> Shoot 15 arrows in five-arrow ends, at a
+                distance of 15 yards.

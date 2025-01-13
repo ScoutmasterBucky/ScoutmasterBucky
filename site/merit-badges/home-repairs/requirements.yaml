@@ -1,7 +1,4 @@
-- detail: true
-  text: |-
-    Either a parent or the merit badge counselor may supervise the Scout’s
-    work on any Home Repairs requirements.
+# Requirements 4, 5 are missing a colon at the end - added
 - requirement: 1
   text: |-
     Do the following:
@@ -11,24 +8,24 @@
         Explain to your counselor the most likely hazards you may encounter
         while working on home repairs and what you should do to anticipate,
         mitigate and prevent, and respond to these hazards. Describe the
-        appropriate safety gear and clothing that should be used when
-        working on home repairs.
+        appropriate safety gear and clothing that should be used when working
+        on home repairs.
     - requirement: b
       text: |-
-        Discuss general precautions related to home repairs.  Name at least
-        10 safe practices that every home repairer should exercise.
+        Discuss general precautions related to home repairs. Name at least 10
+        safe practices that every home repairer should exercise.
 - requirement: 2
   text: |-
-    Under the supervision of your merit badge counselor, do FOUR of the
-    following:
+    Under the supervision of your parent, guardian, or counselor, do FOUR of
+    the following:
   children:
     - requirement: a
       text: |-
-        Maintain or recondition a yard tool and show that you know how to
-        clean up and properly store this equipment.
+        Maintain or recondition a yard tool and show that you know how to clean
+        up and properly store this equipment.
     - requirement: b
       text: |-
-        Weather-strip a window or door.
+        Weather strip a window or door.
     - requirement: c
       text: |-
         Caulk cracks or joints open to the weather.
@@ -49,8 +46,8 @@
         Solder a broken wire or metal object.
 - requirement: 3
   text: |-
-    Under the supervision of your merit badge counselor, do THREE of the
-    following:
+    Under the supervision of your parent, guardian, or counselor, do THREE of
+    the following:
   children:
     - requirement: a
       text: |-
@@ -75,13 +72,13 @@
         Repair a fence.
 - requirement: 4
   text: |-
-    Under the supervision of your merit badge counselor, do TWO of the
+    Under the supervision of your parent, guardian, or counselor, do TWO of the
     following:
   children:
     - requirement: a
       text: |-
-        Locate a main electrical switch box and know how to replace a fuse
-        or reset a circuit breaker.
+        Locate a main electrical switch box and know how to replace a fuse or
+        reset a circuit breaker.
     - requirement: b
       text: |-
         Replace an electrical cord or repair a plug or lamp socket.
@@ -93,7 +90,7 @@
         Replace an electrical wall outlet.
 - requirement: 5
   text: |-
-    Under the supervision of your merit badge counselor, do TWO of the
+    Under the supervision of your parent, guardian, or counselor, do TWO of the
     following:
   children:
     - requirement: a
@@ -112,9 +109,13 @@
       text: |-
         Clean or replace a sprinkler head.
 - requirement: 6
+  markdown: true
   text: |-
-    Under the supervision of your merit badge counselor, do THREE of the
-    following:
+    Under the supervision of your parent, guardian, or counselor, do THREE of
+    the following:
+
+    (Either a parent or the merit badge counselor may supervise the Scout's
+    work on any Home Repairs requirements.)
   children:
     - requirement: a
       text: |-

@@ -7,6 +7,7 @@ import jsonStableStringify from "json-stable-stringify";
 import neodoc from "neodoc";
 import { parseHTML } from "linkedom";
 import path from "path";
+import * as prettier from "prettier";
 import { getDocument } from "pdfjs-dist";
 import { promises as fsPromises } from "fs";
 
@@ -38,26 +39,27 @@ const downloadables = [
     }
 ];
 
-function readJson(fn) {
-    return fsPromises.readFile(fn).then((content) => {
-        return JSON.parse(content.toString());
-    });
+async function readJson(fn) {
+    const content = await fsPromises.readFile(fn);
+
+    return JSON.parse(content.toString());
 }
 
-function writeJson(fn, data) {
-    return fsPromises.writeFile(fn, `${jsonStableStringify(data, {space: 4})}\n`);
+async function writeJson(fn, data) {
+    await fsPromises.writeFile(
+        fn,
+        `${jsonStableStringify(data, { space: 4 })}\n`
+    );
 }
 
-function serialPromises(array, callback) {
-    return array.reduce((promiseChain, next) => {
-        return promiseChain.then((resultArray) => {
-            return Promise.resolve(callback(next)).then((nextResult) => {
-                resultArray.push(nextResult);
+async function serialPromises(array, callback) {
+    const result = [];
 
-                return resultArray;
-            });
-        });
-    }, Promise.resolve([]));
+    for (const item of array) {
+        result.push(await callback(item));
+    }
+
+    return result;
 }
 
 function heading(msg) {
@@ -83,16 +85,15 @@ function safeName(name) {
         .replace(/ +/g, "-");
 }
 
-function getHtmlDom(url) {
-    return got(url).then((response) => {
-        const dom = parseHTML(response.body);
-        dom.requestUrl = response.request.requestUrl;
+async function getHtmlDom(url) {
+    const response = await got(url);
+    const dom = parseHTML(response.body);
+    dom.requestUrl = response.request.requestUrl;
 
-        return dom;
-    });
+    return dom;
 }
 
-function domQuery(dom, selector, callback) {
+async function domQuery(dom, selector, callback) {
     const result = [];
 
     for (const node of dom.window.document.querySelectorAll(selector)) {
@@ -122,30 +123,29 @@ function getPdfText(body) {
     }
 
     return getDocument({
-            data: new Uint8Array(body),
-            verbosity: 0
-        })
-        .promise.then((pdf) => {
-            function getPage(page) {
-                if (page > pdf.numPages) {
-                    return result;
-                }
-
-                return pdf
-                    .getPage(page)
-                    .then((pageData) => pageData.getTextContent())
-                    .then((textTokens) => tokensToText(textTokens))
-                    .then((text) => {
-                        result.push(text);
-
-                        return getPage(page + 1);
-                    });
+        data: new Uint8Array(body),
+        verbosity: 0
+    }).promise.then((pdf) => {
+        function getPage(page) {
+            if (page > pdf.numPages) {
+                return result;
             }
 
-            const result = [];
+            return pdf
+                .getPage(page)
+                .then((pageData) => pageData.getTextContent())
+                .then((textTokens) => tokensToText(textTokens))
+                .then((text) => {
+                    result.push(text);
 
-            return getPage(1).then((textArray) => textArray.join("\n\n\n"));
-        });
+                    return getPage(page + 1);
+                });
+        }
+
+        const result = [];
+
+        return getPage(1).then((textArray) => textArray.join("\n\n\n"));
+    });
 }
 
 function savePdfAndText(url, destPdf) {
@@ -164,214 +164,145 @@ function savePdfAndText(url, destPdf) {
     });
 }
 
-function saveHtml(url, destHtml, selector) {
+async function saveHtml(url, destHtml, selector) {
     selector = selector || "html";
+    const dom = await getHtmlDom(url);
+    const result = await domQuery(dom, selector || "html");
 
-    return getHtmlDom(url)
-        .then((dom) => {
-            const result = domQuery(dom, selector || "html").map((n) => {
-                return n.innerHTML;
-            });
+    if (result.length !== 1) {
+        throw new Error(
+            `Expected exactly one result instead of ${result.length} for selector: ${selector}`
+        );
+    }
 
-            if (result.length !== 1) {
-                throw new Error(
-                    `Expected exactly one result instead of ${result.length} for selector: ${selector}`
-                );
-            }
-
-            return result[0].replace(/\r\n?/g, "\n");
-        })
-        .then((result) => {
-            return fsPromises.writeFile(destHtml, result);
-        });
+    const content = result[0].innerHTML.replace(/\r\n?/g, "\n");
+    const pretty = await prettier.format(content, { parser: "html" });
+    await fsPromises.writeFile(destHtml, pretty);
 }
 
 function resolveUrl(link, dom) {
     return new URL(link.getAttribute("href"), dom.requestUrl);
 }
 
-function downloadMeritBadges(updated) {
-    const fetched = {};
-
-    function fetchMeritBadge(link, dom) {
-        const url = resolveUrl(link, dom);
+async function downloadMeritBadges(updated, args) {
+    async function fetchMeritBadge(link, indexDom) {
+        const mbUrl = resolveUrl(link, indexDom);
         const badgeName = safeName(link.innerText);
 
-        // No longer used, but kept because their site tends to change frequently
-        if (url.toString().match(/\.pdf(\?|$)/)) {
-            console.log(`[PDF] ${badgeName}: ${url}`);
-            updated[badgeName] = Date.now();
-            fetched[badgeName] = true;
-
-            return savePdfAndText(
-                url,
-                `site/merit-badges/${badgeName}/${badgeName}.pdf`
-            );
+        if (args["--filter"] && !badgeName.match(new RegExp(args["--filter"]))) {
+            return;
         }
 
-        // "Web" merit badges go to a dedicated page.
-        return getHtmlDom(url).then((secondDom) => {
-            let found = 0;
+        // Load the merit badge page
+        console.log(`[WEB] ${badgeName}: ${mbUrl}`);
+        const dest = `site/merit-badges/${badgeName}/${badgeName}.html.orig`;
 
-            return domQuery(
-                secondDom,
-                // data-id d005c1d is for Automotive Maintenance's previous requirements
-                // data-id 30a3852 is for a generic previous requirements button that may not be shown
-                '[data-widget_type="button.default"]:not([data-settings]):not([data-id="30a3852"]):not([data-id="d005c1d"]) a[href*=".pdf"]',
-                (secondLink) => {
-                    found += 1;
-                    const secondUrl = resolveUrl(secondLink, secondDom);
-                    console.log(`[WEB] ${badgeName}: ${secondUrl}`);
-                    updated[badgeName] = Date.now();
-                    fetched[badgeName] = true;
-
-                    return savePdfAndText(
-                        secondUrl,
-                        `site/merit-badges/${badgeName}/${badgeName}.pdf`
-                    );
-                }
-            ).then(() => {
-                if (found !== 1) {
-                    throw new Error(
-                        `Expected 1 link for ${badgeName} and found ${found}`
-                    );
-                }
-            });
-        });
-    }
-
-    function fetchPage(page) {
-        subheading(`Fetching page ${page}`);
-        let url = "https://www.scouting.org/skills/merit-badges/all/";
-
-        if (page > 1) {
-            url += `page/${page}/`;
-        }
-
-        return getHtmlDom(url).then((dom) => {
-            return domQuery(
-                dom,
-                '.mb-card .mb-title .mb-card-title a',
-                fetchMeritBadge
-            ).then((result) => {
-                // If links were found, proceed to the next page
-                // Previously, one was required to go to subsequent pages.
-                if (result.length && !fetched['woodwork']) {
-                    return fetchPage(page + 1);
-                }
-
-                return Promise.resolve();
-            });
-        });
+        // .mb-requirement-container works for most merit badges, but
+        // "small-boat-sailing" is slightly different. Possibly others.
+        await saveHtml(mbUrl, dest, ':has(> .mb-requirement-container)');
     }
 
     heading("Merit Badges");
-    debug("Cleaning old files");
 
-    return glob("site/merit-badges/*/*.@(pdf|txt|html)")
-        .then((files) =>
-            serialPromises(files, (file) => {
-                const parts = file.split("/");
+    if (args["--filter"]) {
+        console.log(chalk.yellow('NOT REMOVING OLD FILES - Merit badges are being filtered'));
+    } else {
+        debug("Cleaning old files");
+        const files = await glob("site/merit-badges/*/*.@(pdf|txt|html)");
+        await serialPromises(files, async (file) => {
+            const parts = file.split("/");
 
-                if (parts[2] === parts[3].replace(/\.(pdf|txt|html)$/, "")) {
-                    return fsPromises.unlink(file);
-                }
+            if (parts[2] === parts[3].replace(/\.(pdf|txt|html)$/, "")) {
+                await fsPromises.unlink(file);
+            }
+        });
+    }
 
-                return Promise.resolve();
-            })
-        )
-        .then(() => fetchPage(1));
+    subheading(`Fetching merit badge index`);
+    let indexUrl = "https://www.scouting.org/skills/merit-badges/all/";
+    const indexDom = await getHtmlDom(indexUrl);
+    await domQuery(
+        indexDom,
+        ".mb-card .mb-title .mb-card-title a",
+        fetchMeritBadge
+    );
 }
 
-function downloadNovaAwards(updated) {
-    function fetchPdf(link, dom, fileBase) {
+async function downloadNovaAwards(updated) {
+    async function fetchPdf(link, dom, fileBase) {
         const url = resolveUrl(link, dom);
         const name = safeName(link.innerText);
         console.log(`${name}: ${url}`);
         updated[name] = Date.now();
-
-        return savePdfAndText(url, `${fileBase}${name}/${name}.pdf`);
+        await savePdfAndText(url, `${fileBase}${name}/${name}.pdf`);
     }
 
     heading("Nova Awards");
     subheading("Cub Scouts Nova Awards");
-
-    return getHtmlDom(
+    const cubDom = await getHtmlDom(
         "https://www.scouting.org/stem-nova-awards/awards/cub-scout/"
-    )
-        .then((dom) => {
-            return domQuery(
-                dom,
-                '[data-id="73543ea7"] a[href*=".pdf"]',
-                (link) => fetchPdf(link, dom, "site/nova-lab/cub-scouts/")
-            );
-        })
-        .then(() => {
-            subheading("Scouts BSA Nova Awards");
+    );
+    await domQuery(cubDom, '[data-id="73543ea7"] a[href*=".pdf"]', (link) =>
+        fetchPdf(link, cubDom, "site/nova-lab/cub-scouts/")
+    );
 
-            return getHtmlDom(
-                "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/"
-            );
-        })
-        .then((dom) => {
-            return domQuery(dom, '[data-id="9786783"] a[href*="pdf"]', (link) =>
-                fetchPdf(link, dom, "site/nova-lab/scouts-bsa/")
-            );
-        })
-        .then(() => {
-            subheading("Venturing and Sea Scouts Nova Awards");
+    subheading("Scouts BSA Nova Awards");
+    const scoutDom = await getHtmlDom(
+        "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/"
+    );
+    await domQuery(scoutDom, '[data-id="9786783"] a[href*="pdf"]', (link) =>
+        fetchPdf(link, scoutDom, "site/nova-lab/scouts-bsa/")
+    );
 
-            return getHtmlDom(
-                "https://www.scouting.org/stem-nova-awards/awards/venturer/"
-            );
-        })
-        .then((dom) => {
-            return domQuery(dom, '[data-id="259c931"] a[href*="pdf"]', (link) =>
-                fetchPdf(link, dom, "site/nova-lab/venturing-and-sea-scouts/")
-            );
-        });
+    subheading("Venturing and Sea Scouts Nova Awards");
+    const ventureDom = await getHtmlDom(
+        "https://www.scouting.org/stem-nova-awards/awards/venturer/"
+    );
+    await domQuery(ventureDom, '[data-id="259c931"] a[href*="pdf"]', (link) =>
+        fetchPdf(link, ventureDom, "site/nova-lab/venturing-and-sea-scouts/")
+    );
 }
 
-function downloadList(updated, updatedPrefix, list) {
-    return serialPromises(list, (item) => {
+async function downloadList(updated, updatedPrefix, list) {
+    await serialPromises(list, async (item) => {
         if (item.dest.match(".html.orig")) {
             console.log(`${item.key}: ${item.url}`);
             updated[item.key] = Date.now();
+            await saveHtml(item.url, item.dest, item.selector);
 
-            return saveHtml(item.url, item.dest, item.selector);
+            return;
         }
 
-        return getHtmlDom(item.url).then((dom) => {
-            const links = domQuery(dom, item.selector);
+        const dom = await getHtmlDom(item.url);
+        const links = await domQuery(dom, item.selector);
 
-            if (links.length !== 1) {
-                throw new Error(
-                    `Expected 1 link and found ${links.length}: ${item.url} ${item.selector}`
-                );
-            }
+        if (links.length !== 1) {
+            throw new Error(
+                `Expected 1 link and found ${links.length}: ${item.url} ${item.selector}`
+            );
+        }
 
-            const url = resolveUrl(links[0], dom);
-            console.log(`${item.key}: ${url}`);
-            updated[item.key] = Date.now();
-
-            return savePdfAndText(url, item.dest);
-        });
+        const url = resolveUrl(links[0], dom);
+        console.log(`${item.key}: ${url}`);
+        updated[item.key] = Date.now();
+        await savePdfAndText(url, item.dest);
     });
 }
 
-function downloadOtherAwards(updated) {
-    const otherAwards = [
+async function downloadOtherAwards(updated) {
+    heading("Other Awards");
+    await downloadList(updated, "other-awards", [
         {
             key: "50-miler",
             url: "https://www.scouting.org/awards/awards-central/50-miler/",
             dest: "site/other-awards/50-miler/application.pdf",
-            selector: 'a[href*=pdf]'
+            selector: "a[href*=pdf]"
         },
         {
             key: "aquatics-guide",
             url: "https://www.scouting.org/awards/awards-central/boardsailing/",
             dest: "site/other-awards/aquatics-guide.pdf",
-            selector: 'a[href*=pdf]'
+            selector: "a[href*=pdf]"
         },
         {
             key: "totin-chip",
@@ -379,111 +310,108 @@ function downloadOtherAwards(updated) {
             dest: "site/other-awards/totin-chip/totin-chip.html.orig",
             selector: "[data-id=7627899f]"
         }
-    ];
-
-    heading("Other Awards");
-
-    return downloadList(updated, 'other-awards', otherAwards);
+    ]);
 }
 
-function downloadScoutRanks(updated) {
-    const url = "https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/";
+async function downloadScoutRanks(updated) {
+    const url =
+        "https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/";
     heading("Scout Ranks");
-
-    return downloadList(updated, 'scout-ranks', [
+    await downloadList(updated, "scout-ranks", [
         {
             key: "scout",
             url,
             dest: "site/scout-ranks/scout/scout-rank-requirements.pdf",
-            selector: "a[href*=\".pdf\"]:contains(\"Scout Rank Requirements\")"
+            selector: 'a[href*=".pdf"]:contains("Scout Rank Requirements")'
         },
         {
             key: "tenderfoot",
             url,
             dest: "site/scout-ranks/tenderfoot/tenderfoot-rank-requirements.pdf",
-            selector: "a[href*=\".pdf\"]:contains(\"Tenderfoot Rank Requirements\")"
+            selector: 'a[href*=".pdf"]:contains("Tenderfoot Rank Requirements")'
         },
         {
             key: "second-class",
             url,
             dest: "site/scout-ranks/second-class/second-class-rank-requirements.pdf",
-            selector: "a[href*=\".pdf\"]:contains(\"Second Class Rank Requirements\")"
+            selector:
+                'a[href*=".pdf"]:contains("Second Class Rank Requirements")'
         },
         {
             key: "first-class",
             url,
             dest: "site/scout-ranks/first-class/first-class-rank-requirements.pdf",
-            selector: "a[href*=\".pdf\"]:contains(\"First Class Rank Requirements\")"
+            selector:
+                'a[href*=".pdf"]:contains("First Class Rank Requirements")'
         },
         {
             key: "star",
             url,
             dest: "site/scout-ranks/star/star-rank-requirements.pdf",
-            selector: "a[href*=\".pdf\"]:contains(\"Star Rank Requirements\")"
+            selector: 'a[href*=".pdf"]:contains("Star Rank Requirements")'
         },
         {
             key: "life",
             url,
             dest: "site/scout-ranks/life/life-rank-requirements.pdf",
-            selector: "a[href*=\".pdf\"]:contains(\"Life Rank Requirements\")"
+            selector: 'a[href*=".pdf"]:contains("Life Rank Requirements")'
         },
         {
             key: "eagle",
             url,
             dest: "site/scout-ranks/eagle/eagle-rank-requirements.pdf",
-            selector: "a[href*=\".pdf\"]:contains(\"Eagle Rank Requirements\")"
+            selector: 'a[href*=".pdf"]:contains("Eagle Rank Requirements")'
         },
         {
             key: "eagle-palms",
             url,
             dest: "site/scout-ranks/eagle-palms/eagle-palms.pdf",
-            selector: "a[href*=\".pdf\"]:contains(\"Eagle Palms\")"
+            selector: 'a[href*=".pdf"]:contains("Eagle Palms")'
         },
         {
             key: "alternative-requirements",
             url,
             dest: "site/scout-ranks/alternative-requirements/alternative-requirements.pdf",
-            selector: "a[href*=\".pdf\"]:contains(\"Ranks Alternative Requirements\")"
+            selector:
+                'a[href*=".pdf"]:contains("Ranks Alternative Requirements")'
         },
         {
             key: "eagle-alternative-requirements",
             url,
             dest: "site/scout-ranks/eagle-alternative-requirements/eagle-alternative-requirements.pdf",
-            selector: "a[href*=\".pdf\"]:contains(\"Eagle Scout Rank Alternative Requirements\")"
+            selector:
+                'a[href*=".pdf"]:contains("Eagle Scout Rank Alternative Requirements")'
         }
     ]);
 }
 
-function downloadSupernovaAwards(updated) {
-    function downloadProgramAwards(program, url, selector, mapping) {
+async function downloadSupernovaAwards(updated) {
+    async function downloadProgramAwards(program, url, selector, mapping) {
         subheading(program);
+        const dom = await getHtmlDom(url);
+        await domQuery(dom, selector, async (link) => {
+            const nameBeforeMapping = safeName(link.innerText);
+            const name = mapping[nameBeforeMapping];
+            const pdfUrl = resolveUrl(link, dom);
 
-        return getHtmlDom(url).then((dom) => {
-            return domQuery(dom, selector, (link) => {
-                const nameBeforeMapping = safeName(link.innerText);
-                const name = mapping[nameBeforeMapping];
-                const pdfUrl = resolveUrl(link, dom);
-
-                if (!name) {
-                    throw new Error(
-                        `Unable to map Supernova name: ${nameBeforeMapping}`
-                    );
-                }
-
-                console.log(`${name}: ${pdfUrl}`);
-                updated[name] = Date.now();
-
-                return savePdfAndText(
-                    pdfUrl,
-                    `site/nova-lab/supernova/${name}/${name}.pdf`
+            if (!name) {
+                throw new Error(
+                    `Unable to map Supernova name: ${nameBeforeMapping}`
                 );
-            });
+            }
+
+            console.log(`${name}: ${pdfUrl}`);
+            updated[name] = Date.now();
+
+            await savePdfAndText(
+                pdfUrl,
+                `site/nova-lab/supernova/${name}/${name}.pdf`
+            );
         });
     }
 
     heading("Supernova Awards");
-
-    return downloadProgramAwards(
+    await downloadProgramAwards(
         "Cub Scouts",
         "https://www.scouting.org/stem-nova-awards/awards/cub-scout/",
         '[data-id="2b32d13"] a[href*=".pdf"]',
@@ -491,75 +419,66 @@ function downloadSupernovaAwards(updated) {
             "the-dr-louis-w-alvarez-supernova-award": "dr-luis-walter-alvarez",
             "the-dr-charles-townes-supernova-award": "dr-charles-h-townes"
         }
-    )
-        .then(() =>
-            downloadProgramAwards(
-                "Scouts BSA",
-                "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
-                '[data-id="699347f"] a[href*=".pdf"]:not([href*="Supernova-Application"]):not([href*="flowchart"]):not([href*="Flow-Chart"])',
-                {
-                    "dr-bernard-harris-requirements": "dr-bernard-harris",
-                    "thomas-edison-requirements": "thomas-alva-edison",
-                    "dr-albert-einstein-requirements": "dr-albert-einstein" // Same as Venturing
-                }
-            )
-        )
-        .then(() =>
-            downloadProgramAwards(
-                "Venturing and Sea Scouting",
-                "https://www.scouting.org/stem-nova-awards/awards/venturer/",
-                '[data-id="97f67b6"] a[href*=".pdf"]:not([href*="Supernova-Application"]):not([href*="flowchart"]):not([href*="Flow-Chart"])',
-                {
-                    "dr-sally-ride-requirements": "dr-sally-ride",
-                    "wright-brothers-requirements": "wright-brothers",
-                    "dr-albert-einstein-requirements": "dr-albert-einstein" // Same as Scouts BSA
-                }
-            )
-        )
-        .then(() => {
-            subheading("Additional Materials");
-
-            return downloadList(updated, 'supernova', [
-                {
-                    key: "activity-topics",
-                    url: "https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-topics/",
-                    dest: "site/nova-lab/supernova/activity-topics/activity-topics.html.orig",
-                    selector: '[data-id="74ca43fb"]'
-                },
-                {
-                    key: "award-application",
-                    url: "https://www.scouting.org/stem-nova-awards/awards/cub-scout/",
-                    dest: "site/nova-lab/supernova/award-application.pdf",
-                    selector: '[data-id="d291cac"] a[href*=".pdf"]'
-                },
-                {
-                    key: "einstein-supernova-application",
-                    url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
-                    dest: "site/nova-lab/supernova/dr-albert-einstein/einstein-supernova-application.pdf",
-                    selector:
-                        '[data-id="b009a02"] a[href*="Supernova-Application"]'
-                },
-                {
-                    key: "einstein-supernova-flowchart",
-                    url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
-                    dest: "site/nova-lab/supernova/dr-albert-einstein/einstein-supernova-flowchart.pdf",
-                    selector:
-                        '[data-id="b009a02"] a[href*="Process-Flow-Chart"]'
-                },
-                {
-                    key: "einstein-supernova-guide",
-                    url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
-                    dest: "site/nova-lab/supernova/dr-albert-einstein/einstein-supernova-guide.pdf",
-                    selector: '[data-id="b009a02"] a[href*="Einstein-Guide"]'
-                },
-                {
-                    key: "exploration-requirements",
-                    url: "https://www.scouting.org/stem-nova-awards/awards/venturer/",
-                    dest: "site/nova-lab/explorations/exploration-requirements.pdf",
-                    selector: '[data-id="9096690"] a[href*=".pdf"]'
-                }
-            ]);
-        });
+    );
+    await downloadProgramAwards(
+        "Scouts BSA",
+        "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
+        '[data-id="699347f"] a[href*=".pdf"]:not([href*="Supernova-Application"]):not([href*="flowchart"]):not([href*="Flow-Chart"])',
+        {
+            "dr-bernard-harris-requirements": "dr-bernard-harris",
+            "thomas-edison-requirements": "thomas-alva-edison",
+            "dr-albert-einstein-requirements": "dr-albert-einstein" // Same as Venturing
+        }
+    );
+    await downloadProgramAwards(
+        "Venturing and Sea Scouting",
+        "https://www.scouting.org/stem-nova-awards/awards/venturer/",
+        '[data-id="97f67b6"] a[href*=".pdf"]:not([href*="Supernova-Application"]):not([href*="flowchart"]):not([href*="Flow-Chart"])',
+        {
+            "dr-sally-ride-requirements": "dr-sally-ride",
+            "wright-brothers-requirements": "wright-brothers",
+            "dr-albert-einstein-requirements": "dr-albert-einstein" // Same as Scouts BSA
+        }
+    );
+    subheading("Additional Materials");
+    await downloadList(updated, "supernova", [
+        {
+            key: "activity-topics",
+            url: "https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-topics/",
+            dest: "site/nova-lab/supernova/activity-topics/activity-topics.html.orig",
+            selector: '[data-id="74ca43fb"]'
+        },
+        {
+            key: "award-application",
+            url: "https://www.scouting.org/stem-nova-awards/awards/cub-scout/",
+            dest: "site/nova-lab/supernova/award-application.pdf",
+            selector: '[data-id="d291cac"] a[href*=".pdf"]'
+        },
+        {
+            key: "einstein-supernova-application",
+            url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
+            dest: "site/nova-lab/supernova/dr-albert-einstein/einstein-supernova-application.pdf",
+            selector: '[data-id="b009a02"] a[href*="Supernova-Application"]'
+        },
+        {
+            key: "einstein-supernova-flowchart",
+            url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
+            dest: "site/nova-lab/supernova/dr-albert-einstein/einstein-supernova-flowchart.pdf",
+            selector: '[data-id="b009a02"] a[href*="Process-Flow-Chart"]'
+        },
+        {
+            key: "einstein-supernova-guide",
+            url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
+            dest: "site/nova-lab/supernova/dr-albert-einstein/einstein-supernova-guide.pdf",
+            selector: '[data-id="b009a02"] a[href*="Einstein-Guide"]'
+        },
+        {
+            key: "exploration-requirements",
+            url: "https://www.scouting.org/stem-nova-awards/awards/venturer/",
+            dest: "site/nova-lab/explorations/exploration-requirements.pdf",
+            selector: '[data-id="9096690"] a[href*=".pdf"]'
+        }
+    ]);
 }
 
 function help() {
@@ -569,6 +488,8 @@ function help() {
 Options:
 
     --help            Show this help message
+    --filter=REGEXP   Filter the list of merit badges to match the expression.
+                      Only works with merit badges.
 
 Target:
 
@@ -612,22 +533,15 @@ for (const target of args.TARGET) {
 }
 
 if (!errors) {
-    readJson("updated.json")
-        .then((updated) => {
-            return serialPromises(downloadables, (item) => {
-                if (
-                    args.TARGET.includes(item.key) ||
-                    args.TARGET.includes("all")
-                ) {
-                    if (!updated[item.key]) {
-                        updated[item.key] = {};
-                    }
+    const updated = await readJson("updated.json");
+    await serialPromises(downloadables, (item) => {
+        if (args.TARGET.includes(item.key) || args.TARGET.includes("all")) {
+            if (!updated[item.key]) {
+                updated[item.key] = {};
+            }
 
-                    return item.fn(updated[item.key]);
-                }
-
-                return Promise.resolve();
-            }).then(() => writeJson("updated.json", updated));
-        })
-        .catch((err) => console.error(err));
+            return item.fn(updated[item.key], args);
+        }
+    });
+    await writeJson("updated.json", updated);
 }

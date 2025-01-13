@@ -1,3 +1,4 @@
+# Requirement 8 was missing a trailing period. Added one.
 - requirement: 1
   text: |-
     Select a manufactured item in your home (such as a toy or an appliance)
@@ -5,90 +6,40 @@
     investigate how and why it works as it does. Find out what sort of
     engineering activities were needed to create it. Discuss with your
     counselor what you learned and how you got the information.
-  children:
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Scouts will find preparing for this requirement ahead of time to be
-        beneficial.  Scouts should bring their selected item to the class
-        to share with the counselor and other participants and be prepared
-        to discuss their findings and observations.
 - requirement: 2
   text: |-
     Select an engineering achievement that has had a major impact on society.
-    Using resources such as the internet (with your parent or guardian’s permission),
-    books, and magazines, find out about the engineers who made this
-    engineering feat possible, the special obstacles they had to overcome,
-    and how this achievement has influenced the world today.  Tell your
+    Using resources such as the internet (with your parent or guardian's
+    permission), books, and magazines, find out about the engineers who made
+    this engineering feat possible, the special obstacles they had to overcome,
+    and how this achievement has influenced the world today. Tell your
     counselor what you learned.
-  children:
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Scouts will need to prepare for this requirement prior to the class
-        and bring their work to the class to share with the counselor and
-        other class participants. Only Scouts who have prepared ahead of
-        time will be guaranteed the opportunity to be considered for sign
-        off on this requirement.
 - requirement: 3
   text: |-
-    Explain the work of six types of engineers. Pick two of the six and
-    explain how their work is related.
-  children:
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Scouts should prepare a list prior to the class and be sure to pick
-        two of their six choices to be prepared for explanation of their
-        findings as related to this requirement.  Scouts may find it
-        beneficial and helpful to make notes of their research for this
-        requirement and ease of sharing and referencing during the class.
+    Explain the work of six types of engineers. Pick two of the six types and
+    explain how their work is related to engineering.
 - requirement: 4
   text: |-
-    Visit with an engineer (who may be your counselor or parent) and do the
-    following:
+    Visit with an engineer (who may be your counselor, parent or guardian) and
+    do the following:
   children:
     - requirement: a
       text: |-
-        Discuss the work this engineer does and the tools the engineer
-        uses.
+        Discuss the work this engineer does and the tools the engineer uses.
     - requirement: b
       text: |-
-        Discuss with the engineer a current project and the engineer’s
+        Discuss with the engineer a current project and the engineer's
         particular role in it.
     - requirement: c
       text: |-
-        Find out how the engineer’s work is done and how results are
-        achieved.
+        Find out how the engineer's work is done and how results are achieved.
     - requirement: d
       text: |-
-        Ask to see the reports that the engineer writes concerning the
-        project.
+        Ask to see the reports that the engineer writes concerning the project.
     - requirement: e
       text: |-
         Discuss with your counselor what you learned about engineering from
         this visit.
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Scouts are encouraged to prepare ahead of time if they know someone
-        who is an engineer.  While the merit badge counselor will help
-        facilitate this requirement during the class, it is appreciated
-        when Scouts can bring diversity to the class discussion with
-        personalized research to share during the class discussion on the
-        components of this requirement.  Scouts, at a minimum should review
-        this requirement and have an understanding of each of the aspects
-        of this requirement.  It should not be expected that Scouts who
-        have not reviewed this requirement will be signed off during the
-        class.  There is some level of preparation that can and should be
-        done prior to the class, even if there is not someone that they can
-        interview prior to the class.  Formulating some questions to ask
-        should be the minimum preparation done prior to the class for this
-        requirement.
 - requirement: 5
   text: |-
     Use the systems engineering approach to design an original piece of patrol
@@ -98,120 +49,63 @@
     Do TWO of the following:
   children:
     - requirement: a
-      markdown: true
       text: |-
-        *Transforming motion.* Using common materials or a construction
-        set, make a simple model that will demonstrate motion. Explain how
-        the model uses basic mechanical elements like levers and inclined
-        planes to demonstrate motion. Describe an example where this
-        mechanism is used in a real product.
+        <i>Transforming motion.</i> Using common materials or a construction
+        set, make a simple model that will demonstrate motion. Explain how the
+        model uses basic mechanical elements like levers and inclined planes to
+        demonstrate motion. Describe an example where this mechanism is used in
+        a real product.
     - requirement: b
-      markdown: true
       text: |-
-        *Using electricity.* Make a list of 10 electrical appliances in
-        your home. Find out approximately how much electricity each uses in
-        one month. Learn how to find out the amount and cost of electricity
-        used in your home during periods of light and heavy use. List five
-        ways to conserve electricity.
+        <i>Using electricity.</i> Make a list of 10 electrical appliances in
+        your home. Find out approximately how much electricity each uses in one
+        month. Learn how to find out the amount and cost of electricity used in
+        your home during periods of light and heavy use. List five ways to
+        conserve electricity.
     - requirement: c
-      markdown: true
       text: |-
-        *Understanding electronics.* Using an electronic device such as a
-        smartphone or tablet computer, find out how sound, video, text or images
-        travel from one location to another. Explain how the device
-        was designed for ease of use, function, and durability.
+        <i>Understanding electronics.</i> Using an electronic device such as a
+        smartphone or tablet computer, find out how sound, video, text or
+        images travel from one location to another. Explain how the device was
+        designed for ease of use, function, and durability.
     - requirement: d
-      markdown: true
       text: |-
-        *Using materials.* Do experiments to show the differences in
+        <i>Using materials.</i> Do experiments to show the differences in
         strength and heat conductivity in wood, metal, and plastic. Discuss
         with your counselor what you have learned.
     - requirement: e
-      markdown: true
       text: |-
-        *Converting energy.* Do an experiment to show how mechanical, heat,
-        chemical, solar, and/or electrical energy may be converted from one
-        or more types of energy to another. Explain your results. Describe
-        to your counselor what energy is and how energy is converted and
-        used in your surroundings.
+        <i>Converting energy.</i> Do an experiment to show how mechanical,
+        heat, chemical, solar, and/or electrical energy may be converted from
+        one or more types of energy to another. Explain your results. Describe
+        to your counselor what energy is and how energy is converted and used
+        in your surroundings.
     - requirement: f
-      markdown: true
       text: |-
-        *Moving people.* Find out the different ways people in your
-        community get to work.  Make a study of traffic flow (number of
-        vehicles and relative speed) in both heavy and light traffic
-        periods.  Discuss with your counselor what might be improved to
-        make it easier for people in your community to get where they need
-        to go.
+        <i>Moving people.</i> Find out the different ways people in your
+        community get to work. Make a study of traffic flow (number of vehicles
+        and relative speed) in both heavy and light traffic periods. Discuss
+        with your counselor what might be improved to make it easier for people
+        in your community to get where they need to go.
     - requirement: g
-      markdown: true
       text: |-
-        *Building an engineering project.* Enter a project in a science or
-        engineering fair or similar competition.  (This requirement may be
-        met by participation on an engineering competition project team.)
-        Discuss with your counselor what your project demonstrates, the
-        kinds of questions visitors to the fair asked you, and how well you
-        were able to answer their questions.
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Scouts should review each of these concepts in the requirement by
-        reviewing the merit badge pamphlet prior to the class.  The
-        counselor will choose two of the components of this requirement to
-        focus on during the class (counselor choice), however Scouts should
-        be prepared by understanding the basic concepts of each of these
-        components by reviewing the merit badge pamphlet.  Scouts attending
-        the class who cannot satisfactorily show that they have reviewed
-        for this requirement prior to the class will find it difficult to
-        complete this requirement. The counselor will assist in completing
-        this requirement but only if the Scouts can show they have a core
-        understanding coming into the class. Be Prepared.
+        <i>Building an engineering project.</i> Enter a project in a science or
+        engineering fair or similar competition. (This requirement may be met
+        by participation on an engineering competition project team.) Discuss
+        with your counselor what your project demonstrates, the kinds of
+        questions visitors to the fair asked you, and how well you were able to
+        answer their questions.
 - requirement: 7
   text: |-
-    Explain what it means to be a registered Professional Engineer (P.E.).
-    Name the types of engineering work for which registration is most
-    important.
-  children:
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Scouts will find utilizing the merit badge pamphlet will help them
-        prepare for this requirement completely.  Scouts will NOT be signed
-        off on this requirement if they are unable to show that they have
-        reviewed the merit badge pamphlet to gain understanding in
-        preparing for this discussion item during the class.
+    Explain what it means to be a registered Professional Engineer (P.E.). Name
+    the types of engineering work for which registration is most important.
 - requirement: 8
   text: |-
-    Study the Engineer’s Code of Ethics. Explain how it is like the Scout
-    Oath and Scout Law.
-  children:
-    - note:
-        - inPerson
-        - online
-      text: |-
-        While the merit badge counselor will help educate Scouts further on
-        this requirement, Scouts will need to prepare for this requirement
-        by doing some simple pre-class research.  The merit badge pamphlet
-        is a good starting point however Scouts are encouraged to use other
-        resources in their preparation.  Scouts may want to consider
-        utilizing a merit badge workbook to help organize their notes while
-        preparing for this requirement.  These notes will be helpful to
-        reference during the class discussion..
+    Study the Engineer's Code of Ethics. Explain how it is like the Scout Oath
+    and Scout Law.
 - requirement: 9
   text: |-
-    Find out about three career opportunities in engineering.  Pick one and
+    Find out about three career opportunities in engineering. Pick one and
     research the education, training, and experience required for this
     profession. Discuss this with your counselor, and explain why this
     profession might interest you.
-  children:
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Scouts should review this requirement and its components and be
-        prepared to discuss.  It is strongly recommended that Scouts bring
-        any notes or supporting documentation they may have to help show
-        the counselor that they have prepared for completion of this
-        requirement.

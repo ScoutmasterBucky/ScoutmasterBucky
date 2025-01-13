@@ -1,3 +1,5 @@
+# 2b uses a double hyphen and the rest use single. Adjusted to be single.
+# Requirement 7 doesn't have a period, like "7."
 - requirement: 1
   text: |-
     Safety. Do the following:
@@ -5,14 +7,16 @@
     - requirement: a
       text: |-
         Explain to your counselor the most likely hazards you may encounter
-        while working with photography and what you should do to
-        anticipate, mitigate, prevent, and respond to these hazards.
-        Explain how you would prepare for exposure to environmental
-        situations such as weather, sun, and water.
+        while working with photography and what you should do to anticipate,
+        mitigate, prevent, and respond to these hazards. Explain how you would
+        prepare for exposure to environmental situations such as weather, sun,
+        and water.
     - requirement: b
       text: |-
-        View the Personal Safety Awareness “Digital Safety” video (with your
-        parent or guardian’s permission).
+        View the <a
+        href="https://www.scouting.org/training/youth-protection/scouts-bsa/"
+        >Personal Safety Awareness "Digital Safety" video</a> (with your parent
+        or guardian's permission).
 - requirement: 2
   text: |-
     Explain how the following elements and terms can affect the quality of a
@@ -20,17 +24,17 @@
   children:
     - requirement: a
       text: |-
-        Light—natural light (ambient/existing), low light (such as at
-        night), and artificial light (such as from a flash)
+        Light - natural light (ambient/existing), low light (such as at night),
+        and artificial light (such as from a flash)
     - requirement: b
       text: |-
-        Exposure—aperture (f-stops), shutter speed, ISO
+        Exposure -- aperture (f-stops), shutter speed, ISO
     - requirement: c
       text: |-
         Depth of field
     - requirement: d
       text: |-
-        Composition—rule of thirds, leading lines, framing, depth
+        Composition - rule of thirds, leading lines, framing, depth
     - requirement: e
       text: |-
         Angle of view
@@ -39,20 +43,11 @@
         Stop action and blur motion
     - requirement: g
       text: |-
-        Decisive moment (action or expression captured by the photographer)
-    - note:
-        - inPerson
-      text: |-
-        Scouts should review these terms and how they affect the quality of a picture and bring any notes or reference material to aid them in their explanation of each during the class
+        Decisive moment (action or expression captured by the photographer).
 - requirement: 3
   text: |-
-    Explain the basic parts and operation of a camera. Explain how an
-    exposure is made when you take a picture.
-  children:
-    - note:
-        - inPerson
-      text: |-
-        Scouts should review this requirement and its components and be prepared to explain. It is strongly recommended that Scouts bring any notes or supporting documents they may have to help show the counselor that they have prepared for explanation of these items.
+    Explain the basic parts and operation of a camera. Explain how an exposure
+    is made when you take a picture.
 - requirement: 4
   text: |-
     Do TWO of the following, then share your work with your counselor.
@@ -62,7 +57,7 @@
         Photograph one subject from two different angles or perspectives.
     - requirement: b
       text: |-
-        Photograph one subject from two different light sources-artificial
+        Photograph one subject from two different light sources - artificial
         and natural.
     - requirement: c
       text: |-
@@ -70,10 +65,6 @@
     - requirement: d
       text: |-
         Photograph one subject with two different compositional techniques.
-    - note:
-        - inPerson
-      text: |-
-        Scouts should bring their photography work for this requirement to the class to share for completion of this requirement
 - requirement: 5
   text: |-
     Photograph THREE of the following, then share your work with your
@@ -96,76 +87,42 @@
         Nature shot
     - requirement: f
       text: |-
-        Picture of a person—candid, posed, or camera aware
-    - note:
-        - inPerson
-      text: |-
-        Scouts should bring their photography work for this requirement to the class to share for completion of this requirement.
+        Picture of a person - candid, posed, or camera aware.
 - requirement: 6
   text: |-
     Describe how software allows you to enhance your photograph after it is
     taken. Select a photo you have taken, then do ONE of the following, and
     share what you have done with your counselor.
   children:
-    - note:
-        - inPerson
-      text: |-
-        Scouts should be prepared to describe how photo editing software works and the basic processes of modifying electronic photos.  Scouts should note which software application they utilized and some of the reasons why they chose that application. Participation in the class discussion with a working knowledge is the minimal expectation for this requirement component
     - requirement: a
       text: |-
-        Crop your photograph.
+        Crop your photograph
     - requirement: b
       text: |-
-        Adjust the exposure or make a color correction.
+        Adjust the exposure or make a color correction
     - requirement: c
       text: |-
         Show another way you could improve your picture for impact.
-    - note:
-        - inPerson
-      text: |-
-        Scouts should bring with them their original photo and their modified photo to share with the counselor for the selected requirement component. Scouts should be prepared to describe how they accomplished the modification in the selected software application as well
 - requirement: 7
   text: |-
-    Using images other than those created for requirements 4, 5, or 6,
-    produce a visual story to document an event to photograph OR choose a
-    topic that interests you to photograph. Do the following:
+    Using images other than those created for requirements 4, 5, and 6, produce
+    a visual story to document an event to photograph OR choose a topic that
+    interests you to photograph. Do the following:
   children:
     - requirement: a
       text: |-
         Plan the images you need to photograph for your photo story.
-      children:
-        - note:
-            - inPerson
-          text: |-
-            Scouts should come to the class having completed this component of Requirement 7.  While a later component says to select 8 to 12 photos, Scouts should have many more than the required number of photos to be able to fully and properly complete the remaining components at the class.  Photos may be in electronic or printed format
     - requirement: b
       text: |-
-        Share your plan with your counselor, and get your counselor’s input
-        and approval before you proceed.
-      children:
-        - note:
-            - inPerson
-          text: |-
-            Only Scouts who attend the class with the required photos for requirement component 7a ready will have the opportunity to complete this requirement component. Scouts NOT having prepared MAY have a chance, but cannot be guaranteed.
+        Share your plan with your counselor, and get your counselor's input and
+        approval before you proceed.
     - requirement: c
       text: |-
-        Select eight to 12 images that best tell your story.  Arrange your
-        images in order and mount the prints on a poster board, OR create
-        an electronic presentation.  Share your visual story with your
-        counselor.
-      children:
-        - note:
-            - inPerson
-          text: |-
-            Scouts should come to the class with their mounting materials or electronic photo management application ready and able to make modifications and assembly of this requirement once the counselor has approved Requirement components 7a and 7b.  Class time will be provided to complete this requirement for those that need additional time.  Be prepared
+        Select eight to 12 images that best tell your story. Arrange your
+        images in order and mount the prints on a poster board, OR create an
+        electronic presentation. Share your visual story with your counselor.
 - requirement: 8
   text: |-
-    Identify three career opportunities in photography. Pick one and explain
-    to your counselor how to prepare for such a career. Discuss what
-    education and training are required, and why this profession might
-    interest you.
-  children:
-    - note:
-        - inPerson
-      text: |-
-        Scouts should review this requirement and its components and be prepared to discuss. It is strongly recommended that Scouts bring any notes or supporting documents they may have to help show the counselor that they have prepared for discussion of these items
+    Identify three career opportunities in photography. Pick one and explain to
+    your counselor how to prepare for such a career. Discuss what education and
+    training are required, and why this profession might interest you.

@@ -1,4 +1,3 @@
-# Had requirements from Gardening in the PDF
 - requirement: 1
   text: |-
     Do the following:
@@ -6,69 +5,29 @@
     - requirement: a
       text: |-
         Analyze four games you have played, each from a different medium.
-        Identify the medium, player format, objectives, rules, resources,
-        and theme (if relevant). Discuss with your counselor the play
-        experience, what you enjoy in each game, and what you dislike. Make
-        a chart to compare and contrast the games.
+        Identify the medium, player format, objectives, rules, resources, and
+        theme (if relevant). Discuss with your counselor the play experience,
+        what you enjoy in each game, and what you dislike. Make a chart to
+        compare and contrast the games.
     - requirement: b
       text: |-
-        Describe five different reasons that people play games. For each,
-        give an example of a game that fits that reason.
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Scout should come prepared to the class ready to share their
-        analysis of the games they have played.  When preparing for this
-        requirement, Scouts may find it helpful to have notes organized and
-        ready for sharing during the class as it may be difficult to record
-        this information during the class and thus fall behind the
-        discussion trying to keep up with taking notes.
+        Describe four types of play value and provide an example of a game
+        built around each concept. Discuss with your counselor other reasons
+        people play games.
 - requirement: 2
-  markdown: true
   text: |-
-    Discuss with your counselor five of the following 17 game design terms.
-    For each term that you pick, describe how it relates to a specific game.
-
-    Thematic game elements: *story, setting, characters*
-
-    Gameplay elements: *play sequence, level design, interface design*
-
-    Game analysis: *difficulty, balance, depth, pace, replay value, age
-    appropriateness*
-
-    Related terms: *single-player vs. multiplayer, cooperative vs.
-    competitive, turnbased vs. real-time, strategy vs. reflex vs. chance,
-    abstract vs. thematic*
-  children:
-    - note:
-        - inPerson
-        - online
-      text: |-
-        The answers for this requirement can be easily found in the merit
-        badge pamphlet and Scouts should be prepared for discussion on each
-        of the components of this requirement in the class.  Some Scouts
-        may find it helpful to utilize a Merit Badge Workbook to organize
-        their notes and findings for easier reference during the class and
-        to better ensure completion of this requirement in the class.
+    Discuss with your counselor FIVE of the following 17 game design terms. For
+    each term that you pick, describe how it relates to a specific game: story,
+    setting, characters, play sequence, level design, interface design,
+    difficulty, balance, depth, pace, replay value, age appropriateness,
+    single-player vs. multiplayer, cooperative vs. competitive, turn-based vs.
+    real-time, strategy vs. reflex vs. chance, abstract vs. thematic.
 - requirement: 3
-  markdown: true
   text: |-
-    Define the term *intellectual property*. Describe the types of
-    intellectual property associated with the game design industry. Describe
-    how intellectual property is protected and why protection is necessary.
-    Define and give an example of a licensed property.
-  children:
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Scouts should review this requirement and its terms and be prepared
-        to explain.  It is strongly recommended that Scouts bring any notes
-        or supporting documents they may have to help show the counselor
-        that they have prepared for explanation of these items. The
-        intellectual property term, types, and process will be discussed in
-        the class.
+    Define the term intellectual property. Describe the types of intellectual
+    property associated with the game design industry. Describe how
+    intellectual property is protected and why protection is necessary. Define
+    and give an example of a licensed property.
 - requirement: 4
   text: |-
     Do the following:
@@ -76,143 +35,99 @@
     - requirement: a
       text: |-
         Pick a game where the players can change the rules or objectives
-        (examples: basketball, hearts, chess, kickball). Briefly summarize
-        the standard rules and objectives and play through the game
-        normally.
+        (examples: basketball, hearts, chess, kickball). Briefly summarize the
+        standard rules and objectives and play through the game normally.
     - requirement: b
       text: |-
-        Propose changes to several rules or objectives. Predict how each
-        change will affect gameplay.
+        Propose changes to several rules or objectives. Predict how each change
+        will affect gameplay.
     - requirement: c
       text: |-
         Play the game with one rule or objective change, observing how the
-        players’ actions and emotional experiences are affected by the rule
-        change.  Repeat this process with two other changes.
+        players' actions and emotional experiences are affected by the rule
+        change. Repeat this process with two other changes.
     - requirement: d
       text: |-
         Explain to your counselor how the changes affected the actions and
-        experience of the players. Discuss the accuracy of your
-        predictions.
-    - note:
-        - inPerson
-        - online
-      text: |-
-        See Notes after Requirement 7.
+        experience of the players. Discuss the accuracy of your predictions.
 - requirement: 5
   text: |-
-    Design a new game. Any game medium or combination of mediums is
-    acceptable. Record your work in a game design notebook.
+    Design a new game. Any game medium or combination of mediums is acceptable.
+    Record your work in a game design notebook.
   children:
     - requirement: a
       text: |-
         Write a vision statement for your game. Identify the medium, player
-        format, objectives, and theme of the game. If suitable, describe
-        the setting, story, and characters.
+        format, objectives, and theme of the game. If suitable, describe the
+        setting, story, and characters.
     - requirement: b
       text: |-
         Describe the reason that someone would want to play your game.
     - requirement: c
       text: |-
-        Make a preliminary list of the rules of the game. Define the
-        resources.
+        Make a preliminary list of the rules of the game. Define the resources.
     - requirement: d
       text: |-
         Draw the game elements.
-    - note:
-        - inPerson
-        - online
-      markdown: true
-      text: |-
-        See Notes after Requirement 7.
+- detail: true
+  text: |-
+    <strong >You must have your counselor's approval of your concept before you
+    begin creating the prototype.</strong
 - requirement: 6
   text: |-
     Do the following:
   children:
-    - detail: true
-      text: |-
-        You must have your merit badge counselor’s approval of your concept
-        before you begin creating the prototype.
     - requirement: a
       text: |-
-        Prototype your game from requirement 5. If applicable, demonstrate
-        to your counselor that you have addressed player safety through the
-        rules and equipment. Record your work in your game design notebook.
+        Prototype your game from requirement 5. If applicable, demonstrate to
+        your counselor that you have addressed player safety through the rules
+        and equipment. Record your work in your game design notebook.
     - requirement: b
       text: |-
-        Test your prototype with as many other people as you need to meet
-        the player format. Compare the play experience to your descriptions
-        from requirement 5b. Correct unclear rules, holes in the rules,
-        dead ends, and obvious rule exploits. Change at least one rule,
-        mechanic, or objective from your first version of the game, and
-        describe why you are making the change. Play the game again. Record
-        in your game design notebook whether or not your change had the
-        expected effect.
+        Test your prototype with as many other people as you need to meet the
+        player format. Compare the play experience to your descriptions from
+        requirement 5b. Correct unclear rules, holes in the rules, dead ends,
+        and obvious rule exploits. Change at least one rule, mechanic, or
+        objective from your first version of the game, and describe why you are
+        making the change. Play the game again. Record in your game design
+        notebook whether or not your change had the expected effect.
     - requirement: c
       text: |-
-        Repeat 6b at least two more times and record the results in your
-        game design notebook.
-    - note:
-        - inPerson
-        - online
-      text: |-
-        See Notes after Requirement 7.
+        Repeat 6b at least two more times and record the results in your game
+        design notebook.
 - requirement: 7
   text: |-
     Blind test your game. Do the following:
   children:
     - requirement: a
       text: |-
-        Write an instruction sheet that includes all of the information
-        needed to play the game. Clearly describe how to set up the game,
-        play the game, and end the game. List the game objectives.
+        Write an instruction sheet that includes all of the information needed
+        to play the game. Clearly describe how to set up the game, play the
+        game, and end the game. List the game objectives.
     - requirement: b
       text: |-
-        Share your prototype from requirement 6 with a group of players
-        that has not played it or witnessed a previous playtest. Provide
-        them with your instruction sheet(s) and any physical components.
-        Watch them play the game, but do not provide them with instruction.
-        Record their feedback in your game design notebook.
+        Share your prototype from requirement 6a with a group of players that
+        has not played it or witnessed a previous playtest. Provide them with
+        your instruction sheet(s) and any physical components. Watch them play
+        the game, but do not provide them with instruction. Record their
+        feedback in your game design notebook.
     - requirement: c
       text: |-
-        Share your game design notebook with your counselor. Discuss the
-        player reactions to your project and what you learned about the
-        game design process. Based on your testing, determine what you like
-        most about your game and suggest one or more changes.
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Requirements 4, 5, 6 and 7 will be covered and managed by the
-        counselor in the class. Scouts still need to have read the merit
-        badge pamphlet prior to the class in order to complete these
-        requirements.  These 4 requirements will be worked on for the
-        majority of the class.  Scouts are expected to be attentive and
-        courteous during this class in order to potentially finish all the
-        components in these requirements.  While the intention, and plan,
-        is to offer Scouts the ability to finish all of these requirement
-        in the class, performance and behavior may affect individual, small
-        group of, or the entire class of Scouts in fulfilling all of these
-        requirements.
+        Share your game design notebook with your counselor. Discuss the player
+        reactions to your project and what you learned about the game design
+        process. Based on your testing, determine what you like most about your
+        game and suggest one or more changes.
 - requirement: 8
   text: |-
     Do ONE of the following:
   children:
     - requirement: a
       text: |-
-        With your parent or guardian’s permission and your counselor’s
-        approval, visit with a professional in the game development
-        industry and ask them about their job and how it fits into the
-        overall development process.
+        With your parent or guardian's permission and your counselor's
+        approval, visit with a professional in the game development industry
+        and ask them about their job and how it fits into the overall
+        development process.
     - requirement: b
       text: |-
-        Alternately, meet with a professional in game development education
+        Alternatively, meet with a professional in game development education
         and discuss the skills they emphasize in the classroom.
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Scouts should review this requirement and its components and be
-        prepared to discuss.  It is strongly recommended that Scouts bring
-        any notes or supporting documents they may have to help show the
-        counselor that they have prepared for completion of this
-        requirement.
