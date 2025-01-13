@@ -1,212 +1,35 @@
+# Requirement 6 has a space after the period before the *. Removed.
 - requirement: 1
   text: |-
     Give a brief history of the bugle.
-  children:
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Scouts should have this written out to show the counselor that some
-        thought and research has gone into this requirement and Scouts
-        should be prepared to discuss their findings. Scouts will not
-        automatically be signed off on this requirement just for attending
-        as the requirement states that they must give a brief history of
-        the bugle.
 - requirement: 2
   text: |-
     Do the following:
   children:
     - requirement: a
       text: |-
-        Explain and demonstrate how the bugle makes sound, and explain how
-        the bugle is related to other brass wind instruments.
+        Explain and demonstrate how the bugle makes sound, and explain how the
+        bugle is related to other brass wind instruments.
     - requirement: b
       text: |-
-        Compose a bugle call for your troop or patrol to signal a common
-        group activity, such as assembling for mealtime or striking a
-        campsite. Play the call that you have composed before your unit or
-        patrol.
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Scouts should review this requirement and its components and be
-        ready to demonstrate their fulfillment of this requirement in the
-        class.
+        Compose a bugle call for your troop or patrol to signal a common group
+        activity, such as assembling for mealtime or striking a campsite. Play
+        the call that you have composed before your unit or patrol.
 - requirement: 3
   text: |-
-    Sound 10 of the following bugle calls: “First Call,” “Reveille,”
-    “Assembly,” “Mess,” “Drill,” “Fatigue,” “Officers,” “Recall,” “Church,”
-    “Swimming,” “Fire,” “Retreat,” “To the Colors,” “Call to Quarters,” and
-    “Taps.”
-  children:
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Scouts should begin practicing these bugle calls immediately so
-        that during the class they may make the most of their time with the
-        counselor. Scouts should not expect to become proficient during the
-        class on any of these bugle calls. Preparation and practice are a
-        MUST.
-    - detail: true
-      text: |-
-        <img
-        src="/merit-badges/bugling/first-call.png"
-        class="W(100%)"/>
-        <div class="D(f) Jc(c)"><a
-        href="/merit-badges/bugling/first-call.mp3">Listen
-        to First Call</a></div>
-    - detail: true
-      text: |-
-        <img
-        src="/merit-badges/bugling/reveille.png"
-        class="W(100%)"/>
-        <div class="D(f) Jc(c)"><a
-        href="/merit-badges/bugling/reveille.mp3">Listen
-        to Reveille</a></div>
-    - detail: true
-      text: |-
-        <img
-        src="/merit-badges/bugling/assembly.png"
-        class="W(100%)"/>
-        <div class="D(f) Jc(c)"><a
-        href="/merit-badges/bugling/assembly.mp3">Listen
-        to Assembly</a></div>
-    - detail: true
-      text: |-
-        <img
-        src="/merit-badges/bugling/mess.png"
-        class="W(100%)"/>
-        <div class="D(f) Jc(c)"><a
-        href="/merit-badges/bugling/mess.mp3">Listen
-        to Mess</a></div>
-    - detail: true
-      text: |-
-        <img
-        src="/merit-badges/bugling/drill-call.png"
-        class="W(100%)"/>
-        <div class="D(f) Jc(c)"><a
-        href="/merit-badges/bugling/drill-call.mp3">Listen
-        to Drill Call</a></div>
-    - detail: true
-      text: |-
-        <img
-        src="/merit-badges/bugling/fatigue.png"
-        class="W(100%)"/>
-        <div class="D(f) Jc(c)"><a
-        href="/merit-badges/bugling/fatigue.mp3">Listen
-        to Fatigue</a></div>
-    - detail: true
-      text: |-
-        <img
-        src="/merit-badges/bugling/officers-call.png"
-        class="W(100%)"/>
-        <div class="D(f) Jc(c)"><a
-        href="/merit-badges/bugling/officers-call.mp3">Listen
-        to Officer's Call</a></div>
-    - detail: true
-      text: |-
-        <img
-        src="/merit-badges/bugling/recall.png"
-        class="W(100%)"/>
-        <div class="D(f) Jc(c)"><a
-        href="/merit-badges/bugling/recall.mp3">Listen
-        to Recall</a></div>
-    - detail: true
-      text: |-
-        <img
-        src="/merit-badges/bugling/church-call.png"
-        class="W(100%)"/>
-        <div class="D(f) Jc(c)"><a
-        href="/merit-badges/bugling/church-call.mp3">Listen
-        to Church Call</a></div>
-    - detail: true
-      text: |-
-        <img
-        src="/merit-badges/bugling/swimming-call.png"
-        class="W(100%)"/>
-        <div class="D(f) Jc(c)"><a
-        href="/merit-badges/bugling/swimming-call.mp3">Listen
-        to Swimming Call</a></div>
-    - detail: true
-      text: |-
-        <img
-        src="/merit-badges/bugling/fire-call.png"
-        class="W(100%)"/>
-        <div class="D(f) Jc(c)"><a
-        href="/merit-badges/bugling/fire-call.mp3">Listen
-        to Fire Call</a></div>
-    - detail: true
-      text: |-
-        <img
-        src="/merit-badges/bugling/retreat-evening-colors.png"
-        class="W(100%)"/>
-        <div class="D(f) Jc(c)"><a
-        href="/merit-badges/bugling/retreat-evening-colors.mp3">Listen
-        to Retreat (Evening Colors)</a></div>
-    - detail: true
-      text: |-
-        <img
-        src="/merit-badges/bugling/to-the-colors.png"
-        class="W(100%)"/>
-        <div class="D(f) Jc(c)"><a
-        href="/merit-badges/bugling/to-the-colors.mp3">Listen
-        to To The Colors</a></div>
-    - detail: true
-      text: |-
-        <img
-        src="/merit-badges/bugling/call-to-quarters.png"
-        class="W(100%)"/>
-        <div class="D(f) Jc(c)"><a
-        href="/merit-badges/bugling/call-to-quarters.mp3">Listen
-        to Call To Quarters</a></div>
-    - detail: true
-      text: |-
-        <img
-        src="/merit-badges/bugling/taps.png"
-        class="W(100%)"/>
-        <div class="D(f) Jc(c)"><a
-        href="/merit-badges/bugling/taps.mp3">Listen
-        to Taps</a></div>
+    Sound 10 of the following bugle calls: "First Call," "Reveille,"
+    "Assembly," "Mess," "Drill," "Fatigue," "Officers," "Recall," "Church,"
+    "Swimming," "Fire," "Retreat," "To the Colors," "Call to Quarters," "Taps."
 - requirement: 4
   text: |-
-    Explain the use of each of the calls you performed.
-  children:
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Scouts will spend time in the class working on this requirement. It
-        is strongly recommended for ensuring the best opportunity of
-        receiving credit for this requirement that Scouts bring their notes
-        and research in an ordered format to help facilitate their
-        explanation during the class..
+    Explain when each of the calls in requirement 3 is used
 - requirement: 5
   text: |-
     Explain how to care for, clean, and maintain a bugle.
-  children:
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Scouts should review this requirement and its components and be
-        ready to demonstrate their fulfillment of this requirement in the
-        class..
 - requirement: 6
   markdown: true
   text: |-
     Serve as bugler in your troop for three months.`*`
 
     `*` NOTE: A bugle, trumpet, or cornet may be used to meet these
-      requirements.
-  children:
-    - note:
-        - inPerson
-        - online
-      text: |-
-        Obviously, this requirement can NOT be completed as part of the
-        class. However, Scouts having served successfully as their Troop
-        Bugler should bring a note signed by their Scoutmaster AND Senior
-        Patrol Leader for consideration by the counselor for sign off at
-        the class if they have completed this requirement.
+    requirements.

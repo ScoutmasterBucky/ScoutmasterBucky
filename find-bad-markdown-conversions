@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-
-cd "${0%/*}" || exit
-npm run fastbuild
-cd build || exit
-grep -E '( \*[^ ]|\)\[|\\|\{\{)' -r . --include index.html
-:

@@ -1,209 +1,411 @@
+# Requirement 10 did not bold "Moving a Patient." - added bold
 - requirement: 1
   text: |-
-    Demonstrate to your counselor that you have current knowledge of all
-    first-aid requirements for Tenderfoot, Second Class, and First Class
-    ranks.
-- requirement: 2
-  text: |-
-    Explain how you would obtain emergency medical assistance from:
+    <b>Handling a First Aid Emergency.</b> Do the following:
   children:
     - requirement: a
       text: |-
-        Your home
+        Explain the steps necessary to assess and handle a first aid emergency,
+        including a safety evaluation of the scene.
     - requirement: b
       text: |-
-        A remote location on a wilderness camping trip
-- requirement: 3
-  markdown: true
-  text: |-
-    Define the term *triage*. Explain the steps necessary to assess and
-    handle a medical emergency until help arrives.
-- requirement: 4
-  text: |-
-    Explain the precautions you must take to reduce the risk of transmitting an
-    infection between you and the victim while administering first aid.
-- requirement: 5
-  text: |-
-    Do the following:
-  children:
-    - requirement: a
-      text: |-
-        Prepare a first-aid kit for your home. Display and discuss its
-        contents with your counselor.
-    - requirement: b
-      text: |-
-        With an adult leader, inspect your troop’s first-aid kit. Evaluate
-        it for completeness. Report your findings to your counselor and
-        Scout leader.
-- requirement: 6
-  text: |-
-    Describe the early signs and symptoms of each of the following and
-    explain what actions you should take:
-  children:
-    - requirement: a
-      text: |-
-        Shock
-    - requirement: b
-      text: |-
-        Heart attack
+        Tell how you would obtain emergency medical assistance from your home
+        and from a remote location on a wilderness camping trip.
     - requirement: c
       text: |-
-        Stroke
-- requirement: 7
+        Demonstrate the precautions you must take to reduce the risk of
+        transmitting an infection between you and the victim while administering
+        first aid, including the safe disposal of used first aid supplies.
+    - requirement: d
+      text: |-
+        Demonstrate evaluation of and management of a patient's airway and
+        breathing.
+    - requirement: e
+      text: |-
+        Demonstrate a thorough examination of an accident victim.
+    - requirement: f
+      text: |-
+        Discuss why shock is an emergency.
+    - requirement: g
+      text: |-
+        Define the term triage and describe examples of triage situations that
+        you may encounter.
+- requirement: 2
   text: |-
-    Do the following:
+    <b>Preparing for First Aid Emergencies.</b> Do the following:
   children:
     - requirement: a
+      text: |-
+        Obtain a copy of the Scout Annual Health and Medical Record and discuss
+        the importance of the form including information on immunizations,
+        allergies, medications, health history, and medical examinations to
+        providing first aid at Scouting events.
+    - requirement: b
+      text: |-
+        Using checklists provided in the First Aid Merit Badge pamphlet or ones
+        approved by your counselor, do the following:
+      children:
+        - requirement: 1
+          text: |-
+            Assemble a personal first-aid kit for hiking and backpacking.
+            Demonstrate the proper use of each item in your first-aid kit to
+            your counselor.
+        - requirement: 2
+          text: |-
+            With your counselor, inspect a unit, home, vehicle, or camp
+            first-aid kit and discuss your findings.
+- requirement: 3
+  text: |-
+    <b>Wounds with No External Bleeding.</b> Describe the symptoms and signs
+    of, show first aid for, and explain prevention of these wounds:
+  children:
+    - requirement: a
+      text: |-
+        Closed wounds, such as a bruise (contusion) or a hematoma
+    - requirement: b
+      text: |-
+        Superficial, partial thickness, and full thickness thermal (heat) burns
+        or scalds
+    - requirement: c
+      text: |-
+        Chemical burns
+    - requirement: d
+      text: |-
+        Electrical burns
+    - requirement: e
+      text: |-
+        Sunburn
+    - requirement: f
+      text: |-
+        Snow blindness
+    - requirement: g
+      text: |-
+        Immersion foot, frostnip, frostbite, and ice burns
+    - requirement: h
+      text: |-
+        Abrasions, such as chafing and rope burns
+    - requirement: i
+      text: |-
+        Blisters on the hands, feet, buttocks, and shoulders
+    - requirement: j
+      text: |-
+        Puncture wounds from splinters, rope splinters, nails, and fish hooks
+    - requirement: k
+      text: |-
+        Rash from poisonous plants
+    - requirement: l
+      text: |-
+        Bug bites of chiggers, ticks, mosquitoes, and biting gnats
+    - requirement: m
+      text: |-
+        Bee stings
+    - requirement: n
+      text: |-
+        Bites of spiders
+    - requirement: o
+      text: |-
+        Sting of a scorpion
+    - requirement: p
+      text: |-
+        Bite of a pet or wild mammal or human
+    - requirement: q
+      text: |-
+        Bite of a venomous snake.
+- requirement: 4
+  text: |-
+    <b>Bleeding Wounds.</b> Describe the symptoms and signs of, show first aid
+    for, and explain prevention of these wounds:
+  children:
+    - requirement: a
+      text: |-
+        A nosebleed.
+    - requirement: b
+      text: |-
+        An open wound with mild or moderate bleeding, such as a scratch or a
+        scrape (abrasions), or a shallow cut (laceration).
+    - requirement: c
+      text: |-
+        An open wound with severe bleeding such as a deep cut on an arm or leg.
+    - requirement: d
+      text: |-
+        Explain when it is appropriate and is not appropriate to use one or
+        more tourniquets. List some of the benefits and dangers of using a
+        tourniquet. Demonstrate the application of a tourniquet without
+        tightening it.
+- requirement: 5
+  text: |-
+    <b>Breathing Emergencies.</b> Describe the symptoms and signs of, show
+    first aid for, and explain prevention of these conditions affecting
+    breathing:
+  children:
+    - requirement: a
+      text: |-
+        Choking
+    - requirement: a
+      text: |-
+        Asthmatic attack
+    - requirement: a
+      text: |-
+        Anaphylaxis from an insect bite or sting or from food or product
+        allergy
+    - requirement: a
+      text: |-
+        Inhalation injuries
+    - requirement: a
+      text: |-
+        Altitude sickness.
+- requirement: 6
+  text: |-
+    <b>Loss of Consciousness.</b> Describe the symptoms and signs of, show
+    first aid for, and explain prevention of these conditions causing loss of
+    consciousness:
+  children:
+    - requirement: a
+      text: |-
+        Fainting
+    - requirement: b
+      text: |-
+        Hypoglycemia
+    - requirement: c
+      text: |-
+        Seizure
+    - requirement: d
+      text: |-
+        Drug overdose and alcohol poisoning
+    - requirement: e
+      text: |-
+        Underwater hypoxic blackout
+    - requirement: f
+      text: |-
+        Cold water shock and drowning
+    - requirement: g
+      text: |-
+        Lightning strike and electric shock.
+- requirement: 7
+  text: |-
+    <b>Heart Attack.</b> Do the following:
+  children:
+    - requirement: a
+      text: |-
+        Explain what a heart attack is.
+    - requirement: b
+      text: |-
+        Describe the symptoms and signs of a heart attack and first aid for
+        this condition.
+    - requirement: c
       text: |-
         Describe the conditions that must exist before performing CPR on a
         person.
-    - requirement: b
+    - requirement: d
       text: |-
-        Demonstrate proper CPR technique using a training
-        device approved by your counselor.
-    - requirement: c
+        Demonstrate proper CPR technique using a training device approved by
+        your counselor.
+    - requirement: e
       text: |-
         Explain the use of an automated external defibrillator (AED).
-    - requirement: d
-      text: |-
-        Demonstrate or simulate the proper use of an automated external
-        defibrillator (AED), using an AED training device if available.
-    - requirement: e
-      text: |-
-        Identify the location of the AED at your school, place of worship,
-        and troop meeting place, if one is present.
-- requirement: 8
-  text: |-
-    Do the following:
-  children:
-    - requirement: a
-      text: |-
-        Show the steps that need to be taken for someone who has a large
-        open wound or cut that is not bleeding severely.
-    - requirement: b
-      text: |-
-        Show the steps that need to be taken for someone who has a large
-        open wound or cut that is severely bleeding.
-    - requirement: c
-      text: |-
-        Explain when it is appropriate and not appropriate to use a
-        tourniquet. List some of the benefits and dangers of the use of a
-        tourniquet.
-    - requirement: d
-      text: |-
-        Demonstrate the application of a tourniquet without tightening it.
-- requirement: 9
-  text: |-
-    Explain when an insect or bee sting could be life threatening and what action should
-    be taken for prevention and for first aid.
-- requirement: 10
-  text: |-
-    Describe the signs, symptoms, and potential complications of a fracture and
-    dislocation.
-- requirement: 11
-  # Lowercased "fingers"  in c for consistency
-  text: |-
-    Demonstrate the proper procedures for handling and immobilizing suspected
-    closed or open fractures or dislocations of the:
-  children:
-    - requirement: a
-      text: |-
-        Finger
-    - requirement: b
-      text: |-
-        Forearm
-    - requirement: c
-      text: |-
-        Wrist
-    - requirement: d
-      text: |-
-        Upper leg
-    - requirement: e
-      text: |-
-        Lower leg
     - requirement: f
       text: |-
-        Ankle
-- requirement: 12
-  text: |-
-    Describe the signs, symptoms, and possible complications and demonstrate
-    care for someone with a suspected injury to the neck or back.
-- requirement: 13
-  text: |-
-    Describe the symptoms, proper first-aid procedures, and possible prevention
-    measures for the following conditions:
-  children:
-    - requirement: a
-      text: |-
-        Concussion
-    - requirement: b
-      text: |-
-        Anaphylaxis/allergic reactions
-    - requirement: c
-      text: |-
-        Asthma attack
-    - requirement: d
-      text: |-
-        Bruises
-    - requirement: e
-      text: |-
-        Sprains or strains
-    - requirement: f
-      text: |-
-        Hypothermia
+        Demonstrate or simulate the proper use of an AED, using an AED training
+        device if available.
     - requirement: g
       text: |-
-        Frostbite
-    - requirement: h
-      text: |-
-        Burns-first, second, and third degree
-    - requirement: i
-      text: |-
-        Convulsions/seizures
-    - requirement: j
-      text: |-
-        Dehydration
-    - requirement: k
-      text: |-
-        Muscle cramps
-    - requirement: l
-      text: |-
-        Heat exhaustion
-    - requirement: m
-      text: |-
-        Heat stroke
-    - requirement: n
-      text: |-
-        Abdominal pain
-    - requirement: o
-      text: |-
-        Broken, chipped, or loosened tooth
-- requirement: 14
+        Identify the typical location(s) of one or more AED(s) at public
+        facilities in your community, such as, your school, place of worship,
+        unit meeting place, sports facilities, and/or camp or by using a smart
+        phone app. Discuss the reasons for choosing locations like these.
+- requirement: 8
   text: |-
-    Do the following:
+    <b>Muscle and Bone Injuries.</b> Do the following:
   children:
     - requirement: a
       text: |-
-        Describe the conditions under which an injured person should be
-        moved.
+        Explain the similarities and differences in a strain, a muscle tear, a
+        tendon rupture, a sprain, a dislocation, a simple fracture, and a
+        compound fracture.
     - requirement: b
       text: |-
-        If a sick or an injured person must be moved, tell how you would
-        determine the best method.  Demonstrate this method.
+        Describe the symptoms and signs of and first aid for a muscle strain, a
+        muscle tear, and a tendon rupture.
     - requirement: c
       text: |-
-        With helpers under your supervision, improvise a stretcher and move
-        a presumably unconscious person.
-- requirement: 15
-  text: "Describe the following:"
-  children:
-      - requirement: a
-        text: |-
-            The indications that someone might be a danger to themselves or others.
-      - requirement: b
-        text: |-
-            What action you should take if you suspect that someone might be a
-            danger to themselves or others.
-- requirement: 16
+        Describe the symptoms and signs of, and potential complications of, a
+        sprain, a fracture, and a dislocation.
+    - requirement: d
+      text: |-
+        Demonstrate bandages for these injuries:
+      children:
+        - requirement: 1
+          text: |-
+            Arm slings for forearm or upper arm or collarbone fractures
+        - requirement: 2
+          text: |-
+            Elastic wrap and cravat bandages for ankle sprain
+        - requirement: 3
+          text: |-
+            Elastic wrap and cravat bandages for wrist sprain or hand injury.
+    - requirement: e
+      text: |-
+        Demonstrate the proper procedures for handling and splinting of
+        suspected closed or open fractures or dislocations of the:
+      children:
+        - requirement: 1
+          text: |-
+            Finger and toe
+        - requirement: 2
+          text: |-
+            Forearm or wrist
+        - requirement: 3
+          text: |-
+            Upper leg
+        - requirement: 4
+          text: |-
+            Lower leg or ankle.
+- requirement: 9
   text: |-
-    Teach another Scout a first-aid skill selected by your counselor.
+      <b>Head and Spine Injuries.</b> Do the following:
+  children:
+    - requirement: a
+      text: |-
+        Describe the symptoms and signs of, relationships between, possible
+        complications of, and prevention of head, neck, and back injuries.
+    - requirement: b
+      text: |-
+        Describe the symptoms and signs of and first aid for a concussion.
+    - requirement: c
+      text: |-
+        Demonstrate first aid for an open head wound with a triangular or other
+        bandage.
+    - requirement: d
+      text: |-
+        Demonstrate first aid for someone with a suspected neck or back injury.
+- requirement: 10
+  text: |-
+    <b>Moving a Patient.</b> Do the following:
+  children:
+    - requirement: a
+      text: |-
+        Describe the conditions under which an injured person should and should
+        not be moved.
+    - requirement: b
+      text: |-
+        If a sick or an injured person must be moved, tell how you would decide
+        the best method. Demonstrate these methods.
+    - requirement: c
+      text: |-
+        By yourself and with a partner, demonstrate how to transport a person
+        from a smoke-filled room.
+    - requirement: d
+      text: |-
+        By yourself and with a partner, demonstrate how to transport a person
+        with a sprained ankle for at least 25 yards.
+    - requirement: e
+      text: |-
+        With helpers under your supervision, improvise a stretcher and move
+        a presumably unconscious person for at least 25 yards.
+- requirement: 11
+  text: |-
+    <b>Heat- and Cold-related Conditions.</b> Describe the symptoms and signs
+    of, show first aid for, and explain prevention of these conditions
+    associated with exertion and/or heat or cold exposure:
+  children:
+    - requirement: a
+      text: |-
+        Dehydration and over-hydration
+    - requirement: b
+      text: |-
+        Heat cramps and muscle pain after exertion
+    - requirement: c
+      text: |-
+        Heat exhaustion
+    - requirement: d
+      text: |-
+        Heat stroke
+    - requirement: e
+      text: |-
+        Chest pains associated with cold exposure
+    - requirement: f
+      text: |-
+        Hypothermia.
+- requirement: 12
+  text: |-
+    <b>Mental Health Conditions.</b> Describe the following:
+  children:
+    - requirement: a
+      text: |-
+        Reactions associated with at least three stressful situations, such as
+        mountain backpacking, rappelling, a ropes course, speaking before an
+        audience, making a phone call to an adult, taking a swim test, missing
+        home, lighting a match, trying out for a sports team, meeting someone
+        for the first time, or other stressful circumstances.
+    - requirement: b
+      text: |-
+        The actions that you and others should take to prepare for and manage
+        these situations.
+    - requirement: c
+      text: |-
+        The indications that someone might be a danger to themselves or others.
+    - requirement: d
+      text: |-
+        The actions that you should take if you suspect that someone might be a
+        danger to themselves or others.
+- requirement: 13
+  text: |-
+    <b>Miscellaneous Conditions.</b> Describe the symptoms and signs of, show
+    first aid for, and explain prevention of the following conditions:
+  children:
+    - requirement: a
+      text: |-
+        Object in the eye
+    - requirement: b
+      text: |-
+        Broken, chipped, loosened, or knocked out tooth
+    - requirement: c
+      text: |-
+        Vomiting and diarrhea associated with food poisoning
+    - requirement: d
+      text: |-
+        Abdominal pain
+    - requirement: e
+      text: |-
+        (e) Stroke.
+- requirement: 14
+  text: |-
+    With guidance from your counselor, develop a plan to teach a first-aid
+    skill or topic using the EDGE method. Discuss your skill, topic, and plan
+    with your counselor, and then teach your skill or topic to your family or
+    to one or more Scouts.
+- requirement: 15
+  text: |-
+    Do ONE of the following:
+  children:
+    - requirement: a
+      text: |-
+        Visit an emergency medical station house or training center in person.
+        From the medical first responders that you meet during your visit,
+        learn about how they serve their community and about their careers.
+        Discuss with your counselor what you learned during your tour and
+        interviews.
+    - requirement: b
+      text: |-
+        Interview an emergency medical services professional about their work.
+        Learn about how they chose this career and about their duties. Discuss
+        what you learned with your counselor and whether you might be
+        interested in this career.
+    - requirement: c
+      text: |-
+        Identify three career opportunities that would use skills and knowledge
+        in emergency medical services. Pick one and research the training,
+        education, certification requirements, experience, and expenses
+        associated with entering the field. Research the prospects for
+        employment, starting salary, advancement opportunities, and career
+        goals associated with this career. Discuss what you learned with your
+        counselor and whether you might be interested in this career.
+    - requirement: d
+      text: |-
+        Identify how you might use the skills and knowledge in the field of
+        emergency medical services to pursue a personal hobby and/or healthy
+        lifestyle. Research the additional training required, expenses, and
+        affiliation with organizations that would help you maximize the
+        enjoyment and benefit you might gain from it. Discuss what you learned
+        with your counselor and share what short-term and long-term goals you
+        might have if you pursued this.

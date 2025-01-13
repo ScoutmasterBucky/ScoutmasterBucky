@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+cd "${0%/*}" || exit
+
+echo "--- Finding problems where hypenation has a space, such as \"hard- working\""
+grep -P '[a-zA-Z0-9]- (?!or( |$)|and( |$)|to( |$))' -r site --include \*.yaml
+
+echo "--- Finding problems where an extra space is added when word wrapping"
+grep -e '[.?]  ' -r site --include \*.yaml
+
+echo "--- Building"
+npm run fastbuild
+
+echo "--- Finding bad markdown conversions (bold, emphasis)"
+grep -E '( \*[^ ]|\)\[|\\|\{\{)' -r build --include index.html
+
+echo "--- Finding bad markdown conversions (&lt;, &gt;)"
+grep -E '&lt;|&gt;' -r build/merit-badges --include index.html
+:
