@@ -13,7 +13,6 @@ location:
 ### Morning Classes 8:00 am to Noon
 
 {{#badge-list}}
-{{>badge-registration badge="chemistry" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-chemistry-merit-badge-2025-01-18-am"}}
 {{>badge-registration badge="citizenship-in-the-world" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-citizenship-in-the-world-merit-badge-2025-01-18-am"}}
 {{>badge-registration badge="communication" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-communication-merit-badge-2025-01-18-am"}}
 {{>badge-registration badge="digital-technology" registrationLink="https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-digital-technology-merit-badge-2025-01-18-am"}}
