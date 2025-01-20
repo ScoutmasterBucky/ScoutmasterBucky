@@ -1,10 +1,11 @@
 ---
 layout: smb-event
+host: Scoutmaster Bucky
 title: Scoutmaster Bucky Merit Badge Day - Morning Classes
 eventDateStart: '2025-02-15 8:00'
 eventDateEnd: '2025-02-15 12:00'
-icon: /images/bucky-feb.png
 registrationLink: https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-february-merit-badge-day-am-2025-02-15-am
+icon: /images/bucky-feb.png
 location:
     - Christ the King Lutheran Church
     - 8600 Fremont Avenue South
@@ -12,7 +13,6 @@ location:
 ---
 
 **Morning Offerings**
-
 * American Business
 * Art
 * Communications
