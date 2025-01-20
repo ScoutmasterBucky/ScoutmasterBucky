@@ -1,0 +1,1 @@
+require("./components/smb-accent.mjs");

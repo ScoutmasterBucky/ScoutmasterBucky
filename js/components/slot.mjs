@@ -1,0 +1,1 @@
+var _fudgelMin=require("../fudgel.min.mjs");(0,_fudgelMin.defineSlotComponent)();
