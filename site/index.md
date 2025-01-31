@@ -17,11 +17,8 @@ js:
 <div>
 <div class="C(--themeText) Fw(b) Fz(2em) D(f) Jc(c)">Welcome from Scoutmaster Bucky</div>
 <div class="D(f) Jc(c) Pb(1em)">Serving Scouts since January 2009</div>
-
 <div class="Ta(c) Mt(1em)">Remember the Scout Motto: <smb-accent>Be Prepared</smb-accent></div>
-
 <div class="Ta(c)">at Scoutmaster Bucky events this is not a request, wish, or desire…</div>
-
 <div class="Ta(c)"><smb-accent>it is an expectation.</smb-accent></div>
 </div>
 
