@@ -6,9 +6,6 @@ metalsmithSite.run(
         baseDirectory: __dirname,
         buildAfter: (sugar) => {
             if (process.env.MINIFY) {
-                sugar.use("metalsmith-babel", {
-                    presets: ["@babel/preset-env"]
-                });
                 sugar.use("metalsmith-uglify", {
                     sameName: true,
                     uglify: {
@@ -29,9 +26,6 @@ metalsmithSite.run(
             // Translate Unicode
             sugar.use(path.join(__dirname, "/plugins/translate-unicode"));
             sugar.use("metalsmith-relative-links");
-        },
-        contentsBefore: (sugar) => {
-            sugar.use("metalsmith-browserify-alt");
         },
         metadataAfter: (sugar) => {
             // Add a second ancestry tree for items sorted in reverse

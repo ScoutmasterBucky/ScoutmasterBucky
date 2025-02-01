@@ -2596,6 +2596,24 @@
             }
         ]
     },
+    "multisport": {
+        "active": false,
+        "bucky": "merit-badges/multisport/multisport-bucky.png",
+        "image": "merit-badges/multisport/multisport.png",
+        "name": "Multisport",
+        "resources": [
+            {
+                "name": "Scoutmaster Bucky's Merit Badge Advancement Quick Reference",
+                "shortName": "Advancement Quick Reference",
+                "url": "/documents/mbaqr.pdf"
+            },
+            {
+                "name": "Scoutmaster Bucky's Acknowledgement Form",
+                "shortName": "Acknowledgement Form",
+                "url": "/documents/mbaf.pdf"
+            }
+        ]
+    },
     "music": {
         "active": true,
         "bucky": "merit-badges/music/music-bucky.jpg",
