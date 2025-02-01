@@ -8,7 +8,7 @@
     },
     "scripts": {
         "build": "npm run build-js && npm run build-site",
-        "build-js": "rollup -c",
+        "build-js": "rollup -c && cp site/js/bundle.js site/site/js/bundle.js",
         "build-site": "CHECK_LINKS=true MINIFY=true node metalsmith.js",
         "clean": "rm -rf node_modules/ package-lock.json",
         "fastbuild": "node metalsmith.js",
