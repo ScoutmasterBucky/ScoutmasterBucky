@@ -1,7 +1,7 @@
 ---
 title: Merit Badge Index
 layout: smb
-year: 2024
+year: 2025
 ---
 
 # List of Merit Badges
