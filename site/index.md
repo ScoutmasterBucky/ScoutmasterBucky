@@ -84,6 +84,6 @@ Email: <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry">Sco
 
 Learn more about [being a counselor for Bucky](/counselors/).
 
-Last Update: {{#date}}{{buildDate}}{{/date}}
+Last Update: {{#date format="FF"}}{{buildDate}}{{/date}}
 
 {{/figure-container}}
