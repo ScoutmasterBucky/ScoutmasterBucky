@@ -29,15 +29,6 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Check for files in site
-        run: find site -type f
-
-      - name: Check for files in build
-        run: find site -type f
-
-      - name: Check for files in site
-        run: ls -l site/js site/site/js build/js build/site/js
-
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:

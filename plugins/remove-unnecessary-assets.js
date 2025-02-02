@@ -22,6 +22,10 @@ module.exports = function removeUnnecessaryAssets() {
                 remove = true;
             }
 
+            if (pathParts[pathParts.length - 1] === '.gitignore') {
+                remove = true;
+            }
+
             if (remove) {
                 delete files[filename];
             }
