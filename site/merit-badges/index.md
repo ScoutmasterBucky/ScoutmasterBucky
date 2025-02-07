@@ -1,7 +1,7 @@
 ---
 title: Merit Badge Index
 layout: smb
-year: 2024
+year: 2025
 ---
 
 # List of Merit Badges
@@ -10,7 +10,7 @@ Find information and resources on each of the {{meritBadgeMeta.activeCount}} Sco
 
 The links below direct to the specific merit badge and its requirements as well as links to resources like the Scoutmaster Bucky Merit Badge Workbook, Class Preparation Page, as well as the Scoutmaster Bucky Merit Badge History Pages (coming soon).
 
-All requirements are current as listed on https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/ unless otherwise noted.
+All requirements are current as listed on <a href="https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/">Scouting America's List</a> unless otherwise noted.
 
 ## Merit Badge Index
 
