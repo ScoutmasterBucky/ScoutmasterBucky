@@ -14,14 +14,11 @@ location:
     - Bloomington, Minnesota 55420
 morningBadges:
 afternoonBadges:
-    - american-labor
     - chess
     - communication
-    - engineering
     - pulp-and-paper
     - sculpture
     - sustainability
-    - theater
 allDayBadges:
 ---
 

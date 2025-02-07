@@ -17,10 +17,8 @@ morningBadges:
     - art
     - communication
     - game-design
-    - geology
     - graphic-arts
     - sustainability
-    - truck-transportation
 afternoonBadges:
 allDayBadges:
 ---
