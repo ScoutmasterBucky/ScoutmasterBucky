@@ -4,8 +4,8 @@ host: Scoutmaster Bucky
 title: Scoutmaster Bucky March Merit Badge Day - DULUTH, MINNESOTA
 eventDateStart: '2025-03-15 8:00'
 eventDateEnd: '2025-03-15 16:00'
-registrationOpens: Sunday, January 20, 2025 12:05 am Central Time
-registrationCloses: Thursday, February 13, 2025 10:00 pm Central Time
+registrationOpens: Friday, February 8, 2025 12:05 am Central Time
+registrationCloses: Wednesday, March 12, 2025 10:00 pm Central Time
 registrationLink: https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-march-merit-badge-day-duluth-mn-2025-03-15
 icon: /images/bucky-mar.png
 location:
