@@ -195,7 +195,7 @@ async function downloadMeritBadges(updated, args) {
 
         // Load the merit badge page
         console.log(`[WEB] ${badgeName}: ${mbUrl}`);
-        const dest = `site/merit-badges/${badgeName}/${badgeName}.html.orig`;
+        const dest = `src/pages/merit-badges/${badgeName}/${badgeName}.html.orig`;
 
         // .mb-requirement-container works for most merit badges, but
         // "small-boat-sailing" is slightly different. Possibly others.
@@ -209,7 +209,7 @@ async function downloadMeritBadges(updated, args) {
         console.log(chalk.yellow('NOT REMOVING OLD FILES - Merit badges are being filtered'));
     } else {
         debug("Cleaning old files");
-        const files = await glob("site/merit-badges/*/*.@(pdf|txt|html)");
+        const files = await glob("src/pages/merit-badges/*/*.@(pdf|txt|html)");
         await serialPromises(files, async (file) => {
             const parts = file.split("/");
 
@@ -244,7 +244,7 @@ async function downloadNovaAwards(updated) {
         "https://www.scouting.org/stem-nova-awards/awards/cub-scout/"
     );
     await domQuery(cubDom, '[data-id="73543ea7"] a[href*=".pdf"]', (link) =>
-        fetchPdf(link, cubDom, "site/nova-lab/cub-scouts/")
+        fetchPdf(link, cubDom, "src/pages/nova-lab/cub-scouts/")
     );
 
     subheading("Scouts BSA Nova Awards");
@@ -252,7 +252,7 @@ async function downloadNovaAwards(updated) {
         "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/"
     );
     await domQuery(scoutDom, '[data-id="9786783"] a[href*="pdf"]', (link) =>
-        fetchPdf(link, scoutDom, "site/nova-lab/scouts-bsa/")
+        fetchPdf(link, scoutDom, "src/pages/nova-lab/scouts-bsa/")
     );
 
     subheading("Venturing and Sea Scouts Nova Awards");
@@ -260,7 +260,7 @@ async function downloadNovaAwards(updated) {
         "https://www.scouting.org/stem-nova-awards/awards/venturer/"
     );
     await domQuery(ventureDom, '[data-id="259c931"] a[href*="pdf"]', (link) =>
-        fetchPdf(link, ventureDom, "site/nova-lab/venturing-and-sea-scouts/")
+        fetchPdf(link, ventureDom, "src/pages/nova-lab/venturing-and-sea-scouts/")
     );
 }
 
@@ -296,19 +296,19 @@ async function downloadOtherAwards(updated) {
         {
             key: "50-miler",
             url: "https://www.scouting.org/awards/awards-central/50-miler/",
-            dest: "site/other-awards/50-miler/application.pdf",
+            dest: "src/pages/other-awards/50-miler/application.pdf",
             selector: "a[href*=pdf]"
         },
         {
             key: "aquatics-guide",
             url: "https://www.scouting.org/awards/awards-central/boardsailing/",
-            dest: "site/other-awards/aquatics-guide.pdf",
+            dest: "src/pages/other-awards/aquatics-guide.pdf",
             selector: "a[href*=pdf]"
         },
         {
             key: "totin-chip",
             url: "https://www.scouting.org/awards/awards-central/totin-chip/",
-            dest: "site/other-awards/totin-chip/totin-chip.html.orig",
+            dest: "src/pages/other-awards/totin-chip/totin-chip.html.orig",
             selector: "[data-id=7627899f]"
         }
     ]);
@@ -322,64 +322,64 @@ async function downloadScoutRanks(updated) {
         {
             key: "scout",
             url,
-            dest: "site/scout-ranks/scout/scout-rank-requirements.pdf",
+            dest: "src/pages/scout-ranks/scout/scout-rank-requirements.pdf",
             selector: 'a[href*=".pdf"]:contains("Scout Rank Requirements")'
         },
         {
             key: "tenderfoot",
             url,
-            dest: "site/scout-ranks/tenderfoot/tenderfoot-rank-requirements.pdf",
+            dest: "src/pages/scout-ranks/tenderfoot/tenderfoot-rank-requirements.pdf",
             selector: 'a[href*=".pdf"]:contains("Tenderfoot Rank Requirements")'
         },
         {
             key: "second-class",
             url,
-            dest: "site/scout-ranks/second-class/second-class-rank-requirements.pdf",
+            dest: "src/pages/scout-ranks/second-class/second-class-rank-requirements.pdf",
             selector:
                 'a[href*=".pdf"]:contains("Second Class Rank Requirements")'
         },
         {
             key: "first-class",
             url,
-            dest: "site/scout-ranks/first-class/first-class-rank-requirements.pdf",
+            dest: "src/pages/scout-ranks/first-class/first-class-rank-requirements.pdf",
             selector:
                 'a[href*=".pdf"]:contains("First Class Rank Requirements")'
         },
         {
             key: "star",
             url,
-            dest: "site/scout-ranks/star/star-rank-requirements.pdf",
+            dest: "src/pages/scout-ranks/star/star-rank-requirements.pdf",
             selector: 'a[href*=".pdf"]:contains("Star Rank Requirements")'
         },
         {
             key: "life",
             url,
-            dest: "site/scout-ranks/life/life-rank-requirements.pdf",
+            dest: "src/pages/scout-ranks/life/life-rank-requirements.pdf",
             selector: 'a[href*=".pdf"]:contains("Life Rank Requirements")'
         },
         {
             key: "eagle",
             url,
-            dest: "site/scout-ranks/eagle/eagle-rank-requirements.pdf",
+            dest: "src/pages/scout-ranks/eagle/eagle-rank-requirements.pdf",
             selector: 'a[href*=".pdf"]:contains("Eagle Rank Requirements")'
         },
         {
             key: "eagle-palms",
             url,
-            dest: "site/scout-ranks/eagle-palms/eagle-palms.pdf",
+            dest: "src/pages/scout-ranks/eagle-palms/eagle-palms.pdf",
             selector: 'a[href*=".pdf"]:contains("Eagle Palms")'
         },
         {
             key: "alternative-requirements",
             url,
-            dest: "site/scout-ranks/alternative-requirements/alternative-requirements.pdf",
+            dest: "src/pages/scout-ranks/alternative-requirements/alternative-requirements.pdf",
             selector:
                 'a[href*=".pdf"]:contains("Ranks Alternative Requirements")'
         },
         {
             key: "eagle-alternative-requirements",
             url,
-            dest: "site/scout-ranks/eagle-alternative-requirements/eagle-alternative-requirements.pdf",
+            dest: "src/pages/scout-ranks/eagle-alternative-requirements/eagle-alternative-requirements.pdf",
             selector:
                 'a[href*=".pdf"]:contains("Eagle Scout Rank Alternative Requirements")'
         }
@@ -406,7 +406,7 @@ async function downloadSupernovaAwards(updated) {
 
             await savePdfAndText(
                 pdfUrl,
-                `site/nova-lab/supernova/${name}/${name}.pdf`
+                `src/pages/nova-lab/supernova/${name}/${name}.pdf`
             );
         });
     }
@@ -446,37 +446,37 @@ async function downloadSupernovaAwards(updated) {
         {
             key: "activity-topics",
             url: "https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-topics/",
-            dest: "site/nova-lab/supernova/activity-topics/activity-topics.html.orig",
+            dest: "src/pages/nova-lab/supernova/activity-topics/activity-topics.html.orig",
             selector: '[data-id="74ca43fb"]'
         },
         {
             key: "award-application",
             url: "https://www.scouting.org/stem-nova-awards/awards/cub-scout/",
-            dest: "site/nova-lab/supernova/award-application.pdf",
+            dest: "src/pages/nova-lab/supernova/award-application.pdf",
             selector: '[data-id="d291cac"] a[href*=".pdf"]'
         },
         {
             key: "einstein-supernova-application",
             url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
-            dest: "site/nova-lab/supernova/dr-albert-einstein/einstein-supernova-application.pdf",
+            dest: "src/pages/nova-lab/supernova/dr-albert-einstein/einstein-supernova-application.pdf",
             selector: '[data-id="b009a02"] a[href*="Supernova-Application"]'
         },
         {
             key: "einstein-supernova-flowchart",
             url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
-            dest: "site/nova-lab/supernova/dr-albert-einstein/einstein-supernova-flowchart.pdf",
+            dest: "src/pages/nova-lab/supernova/dr-albert-einstein/einstein-supernova-flowchart.pdf",
             selector: '[data-id="b009a02"] a[href*="Process-Flow-Chart"]'
         },
         {
             key: "einstein-supernova-guide",
             url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
-            dest: "site/nova-lab/supernova/dr-albert-einstein/einstein-supernova-guide.pdf",
+            dest: "src/pages/nova-lab/supernova/dr-albert-einstein/einstein-supernova-guide.pdf",
             selector: '[data-id="b009a02"] a[href*="Einstein-Guide"]'
         },
         {
             key: "exploration-requirements",
             url: "https://www.scouting.org/stem-nova-awards/awards/venturer/",
-            dest: "site/nova-lab/explorations/exploration-requirements.pdf",
+            dest: "src/pages/nova-lab/explorations/exploration-requirements.pdf",
             selector: '[data-id="9096690"] a[href*=".pdf"]'
         }
     ]);
