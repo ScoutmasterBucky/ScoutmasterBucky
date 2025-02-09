@@ -1,0 +1,144 @@
+/* color palette */
+:root {
+    --palette-black: #000;
+    --palette-pale-green: #a4c57c;
+    --palette-deep-green: #5b8800;
+    --palette-severe: red;
+    --palette-white: #fff;
+}
+
+/* semantic color variables for this project */
+:root {
+    --dnd-background: var(--palette-black);
+    --index-news-text-color: var(--palette-severe);
+    --menu-button-border: 1.5px solid var(--palette-black);
+    --menu-button-background: var(--palette-deep-green);
+    --menu-button-background-hover: #336600;
+    --menu-button-title-color: var(--palette-white);
+    --menu-button-subtitle-color: var(--palette-black);
+    --heading-1-background: var(--palette-pale-green);
+    --heading-2-background: var(--palette-deep-green);
+    --heading-2-text-color: var(--palette-white);
+    --heading-3-border-color: var(--palette-deep-green);
+    --heading-3-text-color: var(--palette-deep-green);
+    --page-margin-background: var(--palette-black);
+    --page-background: var(--palette-white);
+    --smb-text-color: var(--palette-deep-green);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  position: relative;
+  font-weight: normal;
+}
+
+body {
+    overflow-x: hidden;
+    background-color: var(--page-margin-background);
+    font-family: "Open Sans Regular", sans-serif;
+    line-height: 1.4;
+}
+
+@media print {
+    body {
+        background-color: transparent;
+    }
+}
+
+h2 {
+    margin-top: 0.9em;
+    margin-bottom: 0.5em;
+    background: var(--heading-2-background);
+    color: var(--heading-2-text-color);
+    padding: 6px 10px;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    clear: both;
+    font-weight: bold;
+}
+
+@media (max-width: 480px) {
+    h2 {
+        font-size: 1.2em;
+    }
+}
+
+h3 {
+    color: var(--heading-3-text-color);
+    text-transform: uppercase;
+    display: flex;
+    font-size: 16px;
+    font-weight: bold;
+    justify-content: center;
+    margin: 1em auto;
+    padding: 1em 0;
+    border-top: 1px solid var(--heading-3-border-color);
+    border-bottom: 1px solid var(--heading-3-border-color);
+    width: 95%;
+    clear: both;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: local("Open Sans Italic"), local("OpenSans-Italic"),
+        url(/fonts/opensans-italic.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Open Sans";
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: local("Open Sans Bold Italic"), local("OpenSans-BoldItalic"),
+        url(/fonts/opensans-bolditalic.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local("Open Sans Regular"), local("OpenSans-Regular"),
+        url(/fonts/opensans-regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local("Open Sans Bold"), local("OpenSans-Bold"),
+        url(/fonts/opensans-bold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Kalam";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local("Kalam"), local("Kalam-Regular"),
+        url(/fonts/kalam.ttf) format("truetype");
+}
+
+.kalam {
+    font-family: "Kalam", sans-serif;
+}
+
+@font-face {
+    font-family: "Offside";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local("Offside"), local("Offside-Regular"),
+        url(/fonts/offside.ttf) format("truetype");
+}
+
+.offside {
+    font-family: "Offside", sans-serif;
+}

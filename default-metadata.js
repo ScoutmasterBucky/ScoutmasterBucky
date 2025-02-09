@@ -4,8 +4,6 @@ const yaml = require('js-yaml');
 const metadata = {
     buildDate: new Date().toISOString(),
     buildTime: Date.now(),
-    classPrepBring: yaml.load(fs.readFileSync("./class-prep-bring.yaml", "utf8")),
-    classPrepInsights: yaml.load(fs.readFileSync("./class-prep-insights.yaml", "utf8")),
     liveReload: !!process.env.LIVE_RELOAD,
     meritBadges: require("./merit-badges.json"),
     novaAwards: require("./nova-awards.json"),
