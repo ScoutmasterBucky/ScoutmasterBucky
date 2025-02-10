@@ -34,6 +34,8 @@
     <main>
         <slot />
     </main>
+    <SmbFooter />
+    <SmbFlyoutMenu />
 </template>
 
 <style>

@@ -1,8 +1,10 @@
 /* color palette */
 :root {
     --palette-black: #000;
-    --palette-pale-green: #a4c57c;
+    --palette-pale-green: #75A343;
+    --palette-hover-green: #336600;
     --palette-deep-green: #5b8800;
+    --palette-dark-border-green: #0f510d;
     --palette-severe: red;
     --palette-white: #fff;
 }
@@ -11,12 +13,18 @@
 :root {
     --dnd-background: var(--palette-black);
     --index-news-text-color: var(--palette-severe);
-    --menu-button-border: 1.5px solid var(--palette-black);
-    --menu-button-background: var(--palette-deep-green);
-    --menu-button-background-hover: #336600;
+    --flyout-menu-background: var(--palette-deep-green);
+    --flyout-menu-icon-color: var(--palette-pale-green);
+    --flyout-menu-text-color: var(--palette-white);
+    --flyout-menu-border: 2px solid var(--palette-dark-border-green);
+    --menu-button-border: 2px solid var(--palette-dark-border-green);
+    --menu-button-background: var(--palette-pale-green);
+    --menu-button-background-hover: var(--palette-hover-green);
     --menu-button-title-color: var(--palette-white);
     --menu-button-subtitle-color: var(--palette-black);
-    --heading-1-background: var(--palette-pale-green);
+    --menu-button-icon-color: var(--palette-pale-green);
+    --heading-1-border: 2px solid var(--palette-dark-border-green);
+    --heading-1-background: var(--palette-deep-green);
     --heading-2-background: var(--palette-deep-green);
     --heading-2-text-color: var(--palette-white);
     --heading-3-border-color: var(--palette-deep-green);

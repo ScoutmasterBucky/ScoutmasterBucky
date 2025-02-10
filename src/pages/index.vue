@@ -1,8 +1,8 @@
 <page>
 title: Scoutmaster Bucky
-news:
-    - The Duluth event is now LIVE!
-    - Merit badges have been updated to 2025 requirements.
+#news:
+#    - The Duluth event is now LIVE!
+#    - Merit badges have been updated to 2025 requirements.
 </page>
 
 <template>
