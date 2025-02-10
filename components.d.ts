@@ -20,6 +20,8 @@ declare module 'vue' {
     ScaledContent: typeof import('./src/components/ScaledContent.vue')['default']
     SmbBannerMenu: typeof import('./src/components/SmbBannerMenu.vue')['default']
     SmbBannerMenuButton: typeof import('./src/components/SmbBannerMenuButton.vue')['default']
+    SmbFlyoutMenu: typeof import('./src/components/SmbFlyoutMenu.vue')['default']
+    SmbFooter: typeof import('./src/components/SmbFooter.vue')['default']
     SmbHeaderBannerImage: typeof import('./src/components/SmbHeaderBannerImage.vue')['default']
     SmbNews: typeof import('./src/components/SmbNews.vue')['default']
   }

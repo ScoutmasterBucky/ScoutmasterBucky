@@ -1,0 +1,39 @@
+---
+badge: rifle-shooting
+layout: smb-merit-badge
+requirements: true
+data:
+    requirements: ./requirements.yaml
+---
+
+## Resources
+
+{{#figure}}<img src="rifle-shooting-bucky.jpg" class="W(100%)" />{{/figure}}
+{{>resources}}
+[
+  {
+    "name": "Rifle Shooting Workbook - Air Rifle Shooting (BB or Pellet) Option",
+    "shortName": "Workbook - Air Rifle Shooting (BB or Pellet) Option",
+    "url": "/merit-badges/rifle-shooting/rifle-shooting-workbook-air-rifle-shooting.pdf"
+  },
+  {
+    "name": "Rifle Shooting Workbook - Muzzleloading Rifle Shooting Option",
+    "shortName": "Workbook - Muzzleloading Rifle Shooting Option",
+    "url": "/merit-badges/rifle-shooting/rifle-shooting-workbook-muzzleloading-rifle-shooting.pdf"
+  },
+  {
+    "name": "Rifle Shooting Workbook - Rifle Shooting (Modern Cartridge Type) Option",
+    "shortName": "Workbook - Rifle Shooting (Modern Cartridge Type) Option",
+    "url": "/merit-badges/rifle-shooting/rifle-shooting-workbook-rifle-shooting.pdf"
+  },
+  {
+    "name": "Scoutmaster Bucky's Merit Badge Advancement Quick Reference",
+    "shortName": "Advancement Quick Reference",
+    "url": "/documents/mbaqr.pdf"
+  },
+  {
+    "name": "Scoutmaster Bucky's Acknowledgement Form",
+    "shortName": "Acknowledgement Form",
+    "url": "/documents/mbaf.pdf"
+  }
+]
