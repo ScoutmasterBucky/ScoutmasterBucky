@@ -1,88 +1,101 @@
----
+<page>
+title: Bugling Merit Badge
 badge: bugling
-layout: smb-merit-badge
-requirements: true
-data:
-    requirements: ./requirements.yaml
+resources:
+    - name: Bugling Class Preparation Page
+      shortName: Class Preparation Page
+      url: /merit-badges/bugling/bugling-cpp.pdf
+    - name: Bugling Workbook
+      shortName: Workbook
+      url: /merit-badges/bugling/bugling-workbook.pdf
+    - name: Scoutmaster Bucky's Merit Badge Advancement Quick Reference
+      shortName: Advancement Quick Reference
+      url: /documents/mbaqr.pdf
+    - name: Scoutmaster Bucky's Acknowledgement Form
+      shortName: Acknowledgement Form
+      url: /documents/mbaf.pdf
 calls:
     - audio: first-call.mp3
-      label: First Call
       score: first-call.png
     - audio: reveille.mp3
-      label: Reveille
       score: reveille.png
     - audio: assembly.mp3
-      label: Assembly
       score: assembly.png
     - audio: mess.mp3
-      label: Mess
       score: mess.png
     - audio: drill-call.mp3
-      label: Drill Call
       score: drill-call.png
     - audio: fatigue.mp3
-      label: Fatigue
       score: fatigue.png
     - audio: officers-call.mp3
-      label: Officer's Call
       score: officers-call.png
     - audio: recall.mp3
-      label: Recall
       score: recall.png
     - audio: church-call.mp3
-      label: Church Call
       score: church-call.png
     - audio: swimming-call.mp3
-      label: Swimming Call
       score: swimming-call.png
     - audio: fire-call.mp3
-      label: Fire Call
       score: fire-call.png
     - audio: retreat-evening-colors.mp3
-      label: Retreat (Evening Colors)
       score: retreat-evening-colors.png
     - audio: to-the-colors.mp3
-      label: To The Colors
       score: to-the-colors.png
     - audio: call-to-quarters.mp3
-      label: Call To Quarters
       score: call-to-quarters.png
     - audio: taps.mp3
-      label: Taps
       score: taps.png
----
+</page>
 
-## Resources
+<script setup lang="ts">
+import requirements from '../../../../data/merit-badges/bugling/requirements.yaml'
+</script>
 
-{{#figure}}<img src="bugling-bucky.jpg" class="W(100%)" />{{/figure}}
-{{>resources}}
+<template>
+    <MeritBadgePage
+        :badge="$frontmatter.badge"
+        :requirements="requirements"
+        :resources="$frontmatter.resources"
+    >
+        <template #additionalResources>
+            <h3>Bugle Calls</h3>
 
-**Bugle Calls**
+            <div class="wrapper">
+                <div v-for="call in $frontmatter.calls" class="item">
+                    <a :href="call.score" alt="Score" target="_blank">
+                    <img :src="call.score" alt="Score" class="score"/>
+                    </a>
+                    <audio :src="call.audio" controls></audio>
+                </div>
+            </div>
+        </template>
+    </MeritBadgePage>
+</template>
 
-<ul>
-{{#calls}}
-<li><a href="{{audio}}">Listen to {{label}}</a> - see <a href="{{score}}">musical score</a></li>
-{{/calls}}
-</ul>
-[
-  {
-    "name": "Bugling Class Preparation Page",
-    "shortName": "Class Preparation Page",
-    "url": "/merit-badges/bugling/bugling-cpp.pdf"
-  },
-  {
-    "name": "Bugling Workbook",
-    "shortName": "Workbook",
-    "url": "/merit-badges/bugling/bugling-workbook.pdf"
-  },
-  {
-    "name": "Scoutmaster Bucky's Merit Badge Advancement Quick Reference",
-    "shortName": "Advancement Quick Reference",
-    "url": "/documents/mbaqr.pdf"
-  },
-  {
-    "name": "Scoutmaster Bucky's Acknowledgement Form",
-    "shortName": "Acknowledgement Form",
-    "url": "/documents/mbaf.pdf"
-  }
-]
+<style scoped>
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-evenly;
+}
+
+.item {
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+@media (max-width: 768px) {
+    .item {
+        width: 90%;
+    }
+}
+
+.score {
+    width: 100%;
+    height: auto;
+}
+</style>

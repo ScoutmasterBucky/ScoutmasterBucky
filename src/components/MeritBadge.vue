@@ -1,13 +1,13 @@
 <script setup lang="ts">
 defineProps<{ badge: String; badge2?: String }>();
-import meritBadges from '../../merit-badges.json';
+import meritBadges from '../../data/merit-badges.json';
 </script>
 
 <template>
     <ScaledContent>
         <div v-if="badge2">
             <MeritBadgeImage :badge="badge" :badge2="badge2" />
-            <p>
+            <div class="name">
                 <a :href="`/merit-badges/${badge}/`">{{
                     meritBadges[badge].name
                 }}</a>
@@ -15,15 +15,15 @@ import meritBadges from '../../merit-badges.json';
                 <a :href="`/merit-badges/${badge2}/`">{{
                     meritBadges[badge2].name
                 }}</a>
-            </p>
+            </div>
         </div>
         <div v-else>
             <MeritBadgeImage :badge="badge" />
-            <p>
+            <div class="name">
                 <a :href="`/merit-badges/${badge}/`">{{
                     meritBadges[badge].name
                 }}</a>
-            </p>
+            </div>
         </div>
     </ScaledContent>
 </template>
@@ -33,13 +33,13 @@ a {
     text-decoration: none;
 }
 
-p {
+.name {
     font-size: 1.2em;
     text-align: center;
 }
 
 @media (max-width: 480px) {
-    p {
+    .name {
         font-size: 1em;
     }
 }

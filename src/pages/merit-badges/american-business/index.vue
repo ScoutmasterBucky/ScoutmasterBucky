@@ -1,34 +1,29 @@
----
+<page>
+title: American Business Merit Badge
 badge: american-business
-layout: smb-merit-badge
-requirements: true
-data:
-    requirements: ./requirements.yaml
----
+resources:
+    - name: American Business Class Preparation Page
+      shortName: Class Preparation Page
+      url: /merit-badges/american-business/american-business-cpp.pdf
+    - name: American Business Workbook
+      shortName: Workbook
+      url: /merit-badges/american-business/american-business-workbook.pdf
+    - name: Scoutmaster Bucky's Merit Badge Advancement Quick Reference
+      shortName: Advancement Quick Reference
+      url: /documents/mbaqr.pdf
+    - name: Scoutmaster Bucky's Acknowledgement Form
+      shortName: Acknowledgement Form
+      url: /documents/mbaf.pdf
+</page>
 
-## Resources
+<script setup lang="ts">
+import requirements from '../../../../data/merit-badges/american-business/requirements.yaml'
+</script>
 
-{{#figure}}<img src="american-business-bucky.jpg" class="W(100%)" />{{/figure}}
-{{>resources}}
-[
-  {
-    "name": "American Business Class Preparation Page",
-    "shortName": "Class Preparation Page",
-    "url": "/merit-badges/american-business/american-business-cpp.pdf"
-  },
-  {
-    "name": "American Business Workbook",
-    "shortName": "Workbook",
-    "url": "/merit-badges/american-business/american-business-workbook.pdf"
-  },
-  {
-    "name": "Scoutmaster Bucky's Merit Badge Advancement Quick Reference",
-    "shortName": "Advancement Quick Reference",
-    "url": "/documents/mbaqr.pdf"
-  },
-  {
-    "name": "Scoutmaster Bucky's Acknowledgement Form",
-    "shortName": "Acknowledgement Form",
-    "url": "/documents/mbaf.pdf"
-  }
-]
+<template>
+    <MeritBadgePage
+        :badge="$frontmatter.badge"
+        :requirements="requirements"
+        :resources="$frontmatter.resources"
+    />
+</template>

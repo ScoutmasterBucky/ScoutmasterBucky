@@ -1,19 +1,27 @@
 <template>
-    <div
-        id="menu"
-    >
+    <div id="menu" class="unprintable">
         <a
             class="toggle"
             onclick="document.getElementById('menu').classList.toggle('flyout')"
             href="#"
         >
-<svg viewBox="0 0 100 100" width="40" height="40" class="Fill(--buttonBackground)">
-  <rect x="5" y="14" width="90" height="16" rx="10"></rect>
-  <rect x="5" y="42" width="90" height="16" rx="10"></rect>
-  <rect x="5" y="70" width="90" height="16" rx="10"></rect>
-</svg>
+            <svg
+                viewBox="0 0 100 100"
+                width="40"
+                height="40"
+                class="Fill(--buttonBackground)"
+            >
+                <rect x="5" y="14" width="90" height="16" rx="10"></rect>
+                <rect x="5" y="42" width="90" height="16" rx="10"></rect>
+                <rect x="5" y="70" width="90" height="16" rx="10"></rect>
+            </svg>
         </a>
-        <SmbBannerMenuButton href="/" title="Scoutmaster Bucky" src="/images/smb-small.png" subtitle="an area for Scouts BSA" />
+        <SmbBannerMenuButton
+            href="/"
+            title="Scoutmaster Bucky"
+            src="/images/smb-small.png"
+            subtitle="an area for Scouts BSA"
+        />
 
         <div class="featured">
             <SmbBannerMenuButton href="/merit-badges/" title="Merit Badges" />

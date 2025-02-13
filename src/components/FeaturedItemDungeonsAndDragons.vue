@@ -2,8 +2,8 @@
     <div class="wrapper kalam">
         <a class="image-container" href="/dnd/"><img src="/dnd/bucky-guild.png" /></a>
         <div class="title">Dungeons &amp; Dragons</div>
-        <p>Join Scoutmaster Bucky and his team of Dungeon Masters on October 5th.</p>
-        <p><a href="/dnd/">Learn more!</a></p>
+        <div class="description">Join Scoutmaster Bucky and his team of Dungeon Masters on October 5th.</div>
+        <div class="description"><a href="/dnd/">Learn more!</a></div>
     </div>
 </template>
 
@@ -27,7 +27,7 @@
     }
 }
 
-p {
+.description {
     text-align: center;
 }
 

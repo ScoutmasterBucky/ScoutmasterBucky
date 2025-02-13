@@ -1,29 +1,26 @@
----
+<page>
+title: Painting Merit Badge
 badge: painting
-layout: smb-merit-badge
-requirements: true
-data:
-    requirements: ./requirements.yaml
----
+resources:
+    - name: Painting Workbook
+      shortName: Workbook
+      url: /merit-badges/painting/painting-workbook.pdf
+    - name: Scoutmaster Bucky's Merit Badge Advancement Quick Reference
+      shortName: Advancement Quick Reference
+      url: /documents/mbaqr.pdf
+    - name: Scoutmaster Bucky's Acknowledgement Form
+      shortName: Acknowledgement Form
+      url: /documents/mbaf.pdf
+</page>
 
-## Resources
+<script setup lang="ts">
+import requirements from '../../../../data/merit-badges/painting/requirements.yaml'
+</script>
 
-{{#figure}}<img src="painting-bucky.jpg" class="W(100%)" />{{/figure}}
-{{>resources}}
-[
-  {
-    "name": "Painting Workbook",
-    "shortName": "Workbook",
-    "url": "/merit-badges/painting/painting-workbook.pdf"
-  },
-  {
-    "name": "Scoutmaster Bucky's Merit Badge Advancement Quick Reference",
-    "shortName": "Advancement Quick Reference",
-    "url": "/documents/mbaqr.pdf"
-  },
-  {
-    "name": "Scoutmaster Bucky's Acknowledgement Form",
-    "shortName": "Acknowledgement Form",
-    "url": "/documents/mbaf.pdf"
-  }
-]
+<template>
+    <MeritBadgePage
+        :badge="$frontmatter.badge"
+        :requirements="requirements"
+        :resources="$frontmatter.resources"
+    />
+</template>

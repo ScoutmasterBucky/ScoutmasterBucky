@@ -1,34 +1,29 @@
----
+<page>
+title: Electricity Merit Badge
 badge: electricity
-layout: smb-merit-badge
-requirements: true
-data:
-    requirements: ./requirements.yaml
----
+resources:
+    - name: Electricity Class Preparation Page
+      shortName: Class Preparation Page
+      url: /merit-badges/electricity/electricity-cpp.pdf
+    - name: Electricity Workbook
+      shortName: Workbook
+      url: /merit-badges/electricity/electricity-workbook.pdf
+    - name: Scoutmaster Bucky's Merit Badge Advancement Quick Reference
+      shortName: Advancement Quick Reference
+      url: /documents/mbaqr.pdf
+    - name: Scoutmaster Bucky's Acknowledgement Form
+      shortName: Acknowledgement Form
+      url: /documents/mbaf.pdf
+</page>
 
-## Resources
+<script setup lang="ts">
+import requirements from '../../../../data/merit-badges/electricity/requirements.yaml'
+</script>
 
-{{#figure}}<img src="electricity-bucky.jpg" class="W(100%)" />{{/figure}}
-{{>resources}}
-[
-  {
-    "name": "Electricity Class Preparation Page",
-    "shortName": "Class Preparation Page",
-    "url": "/merit-badges/electricity/electricity-cpp.pdf"
-  },
-  {
-    "name": "Electricity Workbook",
-    "shortName": "Workbook",
-    "url": "/merit-badges/electricity/electricity-workbook.pdf"
-  },
-  {
-    "name": "Scoutmaster Bucky's Merit Badge Advancement Quick Reference",
-    "shortName": "Advancement Quick Reference",
-    "url": "/documents/mbaqr.pdf"
-  },
-  {
-    "name": "Scoutmaster Bucky's Acknowledgement Form",
-    "shortName": "Acknowledgement Form",
-    "url": "/documents/mbaf.pdf"
-  }
-]
+<template>
+    <MeritBadgePage
+        :badge="$frontmatter.badge"
+        :requirements="requirements"
+        :resources="$frontmatter.resources"
+    />
+</template>
