@@ -32,8 +32,8 @@ js:
 </div>
 -->
 
-<div class="D(f) Ai(c) Fxd(c) Maw(30%)--l Maw(25%)--_sml">
-<iframe src="https://www.youtube.com/embed/Pkacs9BdO0Q?modestbranding=1&rel=0" width="560" height="315" title="Scoutmaster Bucky - 2025 March Merit Badge Day - DULUTH, MINNESOTA" frameborder="0" allowfullscreen class="W(100%) H(100%)" style="aspect-ratio: 560 / 315"></iframe>
+<div class="D(f) Ai(c) Fxd(c) Maw(30%)--l Maw(25%)--_sml Jc(c)">
+<iframe src="https://www.youtube.com/embed/Pkacs9BdO0Q?modestbranding=1&rel=0" width="560" height="315" title="Scoutmaster Bucky - 2025 March Merit Badge Day - DULUTH, MINNESOTA" frameborder="0" allowfullscreen class="W(100%) H(a)" style="aspect-ratio: 560 / 315"></iframe>
 </div>
 
 </div>
