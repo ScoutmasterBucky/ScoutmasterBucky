@@ -74,6 +74,10 @@ img {
     text-align: center;
 }
 
+a:hover .title {
+    color: var(--menu-button-title-color-hover);
+}
+
 .subtitle {
     color: var(--menu-button-subtitle-color);
     display: flex;
