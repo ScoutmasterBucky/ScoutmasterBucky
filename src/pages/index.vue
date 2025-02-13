@@ -21,6 +21,7 @@ title: Scoutmaster Bucky
     </div>
 
     <SmbNews v-if="$frontmatter.news" :news="$frontmatter.news" />
+    <TestLab />
 
     <h2>Upcoming Events</h2>
 </template>
