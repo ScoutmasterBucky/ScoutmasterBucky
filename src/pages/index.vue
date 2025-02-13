@@ -17,7 +17,7 @@ title: Scoutmaster Bucky
         </div>
 
         <!-- Spot here for a featured item to display on the right -->
-        <FeaturedItemDungeonsAndDragons />
+        <FeaturedItemYoutubeVideo />
     </div>
 
     <SmbNews v-if="$frontmatter.news" :news="$frontmatter.news" />

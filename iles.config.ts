@@ -1,4 +1,5 @@
 import { defineConfig } from 'iles'
+import ViteYaml from '@modyfi/vite-plugin-yaml';
 import { svelte } from '@sveltejs/vite-plugin-svelte';
 
 export default defineConfig({
@@ -7,6 +8,7 @@ export default defineConfig({
         clearScreen: false,
         plugins: [
             svelte(),
+            ViteYaml(),
         ],
     }
 })

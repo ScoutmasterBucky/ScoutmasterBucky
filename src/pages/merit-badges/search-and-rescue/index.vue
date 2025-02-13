@@ -1,29 +1,26 @@
----
+<page>
+title: Search and Rescue Merit Badge
 badge: search-and-rescue
-layout: smb-merit-badge
-requirements: true
-data:
-    requirements: ./requirements.yaml
----
+resources:
+    - name: Search and Rescue Workbook
+      shortName: Workbook
+      url: /merit-badges/search-and-rescue/search-and-rescue-workbook.pdf
+    - name: Scoutmaster Bucky's Merit Badge Advancement Quick Reference
+      shortName: Advancement Quick Reference
+      url: /documents/mbaqr.pdf
+    - name: Scoutmaster Bucky's Acknowledgement Form
+      shortName: Acknowledgement Form
+      url: /documents/mbaf.pdf
+</page>
 
-## Resources
+<script setup lang="ts">
+import requirements from '../../../../data/merit-badges/search-and-rescue/requirements.yaml'
+</script>
 
-{{#figure}}<img src="search-and-rescue-bucky.jpg" class="W(100%)" />{{/figure}}
-{{>resources}}
-[
-  {
-    "name": "Search and Rescue Workbook",
-    "shortName": "Workbook",
-    "url": "/merit-badges/search-and-rescue/search-and-rescue-workbook.pdf"
-  },
-  {
-    "name": "Scoutmaster Bucky's Merit Badge Advancement Quick Reference",
-    "shortName": "Advancement Quick Reference",
-    "url": "/documents/mbaqr.pdf"
-  },
-  {
-    "name": "Scoutmaster Bucky's Acknowledgement Form",
-    "shortName": "Acknowledgement Form",
-    "url": "/documents/mbaf.pdf"
-  }
-]
+<template>
+    <MeritBadgePage
+        :badge="$frontmatter.badge"
+        :requirements="requirements"
+        :resources="$frontmatter.resources"
+    />
+</template>

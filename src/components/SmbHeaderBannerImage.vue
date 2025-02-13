@@ -5,7 +5,7 @@ const src = `/images/header-month-${month}.jpg`;
 </script>
 
 <template>
-    <a href="/" aria-label="Scoutmaster Bucky Main Page">
+    <a href="/" aria-label="Scoutmaster Bucky Main Page" class="unprintable">
         <img :src="src" height="279" width="1002" alt="Scoutmaster Bucky Banner" />
     </a>
 </template>

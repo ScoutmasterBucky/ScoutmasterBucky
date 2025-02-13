@@ -1,8 +1,20 @@
 <template>
-    <div class="banner-line">
-        <SmbBannerMenuButton href="/merit-badges/" title="Merit Badges" />
-        <SmbBannerMenuButton href="/scout-ranks/" title="Scout Ranks" />
-        <SmbBannerMenuButton href="/other-awards/" title="Other Awards" />
+    <div class="banner-line unprintable">
+        <SmbBannerMenuButton
+            href="/merit-badges/"
+            title="Merit Badges"
+            src="/images/merit-badges-icon.png"
+        />
+        <SmbBannerMenuButton
+            href="/scout-ranks/"
+            title="Scout Ranks"
+            src="/images/ranks-icon.png"
+        />
+        <SmbBannerMenuButton
+            href="/other-awards/"
+            title="Other Awards"
+            src="/images/other-awards-icon.png"
+        />
         <SmbBannerMenuButton
             href="/nova-lab/"
             title="Nova Lab"
@@ -10,8 +22,7 @@
             subtitle="fun science awards"
         />
     </div>
-    <div class="banner-line-divider">
-    </div>
+    <div class="banner-line-divider unprintable"></div>
 </template>
 
 <style scoped>
@@ -30,7 +41,7 @@
     }
 }
 
-@media (max-width: 480px), print {
+@media (max-width: 480px) {
     .banner-line {
         display: none;
     }

@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+
+input="$1"
+badge="$(cat "$input" | grep "^badge:" | head -n 1 | sed 's/^badge: //')"
+resourcesJson="$(cat "$input" | grep ">resources" -A 10000 | tail +2)"
+resourcesYaml="$(echo "$resourcesJson" | yq -P | sed "s/^/    /")"
+badgeName="$(jq -r ".[\"$badge\"].name" ~/repo/scoutmasterbucky-iles/data/merit-badges.json)"
+frontmatter=$(cat "$input" | sed -n '/^---/,/^---/p' | grep -v '^---$')
+frontmatter=$(echo "$frontmatter" | grep -v '^badge: ' | grep -v '^layout: ')
+frontmatter=$(echo "$frontmatter" | grep -v '^requirements: ' | grep -v '^data:')
+frontmatter=$(echo "$frontmatter" | grep -v '^    requirements: ')
+
+if [[ "$frontmatter" != "" ]]; then
+    frontmatter="${frontmatter}$'\n'"
+fi
+
+
+cat <<EOF
+<page>
+title: ${badgeName} Merit Badge
+badge: ${badge}
+resources:
+${resourcesYaml}
+${frontmatter}</page>
+
+<script setup lang="ts">
+import requirements from '../../../../data/${badge}/requirements.yaml'
+</script>
+
+<template>
+    <MeritBadgePage
+        :badge="\$frontmatter.badge"
+        :requirements="requirements"
+        :resources="\$frontmatter.resources"
+    />
+</template>
+EOF

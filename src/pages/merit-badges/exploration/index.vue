@@ -1,34 +1,29 @@
----
+<page>
+title: Exploration Merit Badge
 badge: exploration
-layout: smb-merit-badge
-requirements: true
-data:
-    requirements: ./requirements.yaml
----
+resources:
+    - name: Exploration Class Preparation Page
+      shortName: Class Preparation Page
+      url: /merit-badges/exploration/exploration-cpp.pdf
+    - name: Exploration Workbook
+      shortName: Workbook
+      url: /merit-badges/exploration/exploration-workbook.pdf
+    - name: Scoutmaster Bucky's Merit Badge Advancement Quick Reference
+      shortName: Advancement Quick Reference
+      url: /documents/mbaqr.pdf
+    - name: Scoutmaster Bucky's Acknowledgement Form
+      shortName: Acknowledgement Form
+      url: /documents/mbaf.pdf
+</page>
 
-## Resources
+<script setup lang="ts">
+import requirements from '../../../../data/merit-badges/exploration/requirements.yaml'
+</script>
 
-{{#figure}}<img src="exploration-bucky.jpg" class="W(100%)" />{{/figure}}
-{{>resources}}
-[
-  {
-    "name": "Exploration Class Preparation Page",
-    "shortName": "Class Preparation Page",
-    "url": "/merit-badges/exploration/exploration-cpp.pdf"
-  },
-  {
-    "name": "Exploration Workbook",
-    "shortName": "Workbook",
-    "url": "/merit-badges/exploration/exploration-workbook.pdf"
-  },
-  {
-    "name": "Scoutmaster Bucky's Merit Badge Advancement Quick Reference",
-    "shortName": "Advancement Quick Reference",
-    "url": "/documents/mbaqr.pdf"
-  },
-  {
-    "name": "Scoutmaster Bucky's Acknowledgement Form",
-    "shortName": "Acknowledgement Form",
-    "url": "/documents/mbaf.pdf"
-  }
-]
+<template>
+    <MeritBadgePage
+        :badge="$frontmatter.badge"
+        :requirements="requirements"
+        :resources="$frontmatter.resources"
+    />
+</template>

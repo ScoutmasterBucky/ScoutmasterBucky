@@ -1,36 +1,29 @@
----
+<page>
+title: Animation Merit Badge
 badge: animation
-layout: smb-merit-badge
-requirements: true
-whatToBring:
-    - Pencils, sharpener, and a pad of drawing paper
-data:
-    requirements: ./requirements.yaml
----
+resources:
+    - name: Animation Class Preparation Page
+      shortName: Class Preparation Page
+      url: /merit-badges/animation/animation-cpp.pdf
+    - name: Animation Workbook
+      shortName: Workbook
+      url: /merit-badges/animation/animation-workbook.pdf
+    - name: Scoutmaster Bucky's Merit Badge Advancement Quick Reference
+      shortName: Advancement Quick Reference
+      url: /documents/mbaqr.pdf
+    - name: Scoutmaster Bucky's Acknowledgement Form
+      shortName: Acknowledgement Form
+      url: /documents/mbaf.pdf
+</page>
 
-## Resources
+<script setup lang="ts">
+import requirements from '../../../../data/merit-badges/animation/requirements.yaml'
+</script>
 
-{{#figure}}<img src="animation-bucky.gif" class="W(100%)" />{{/figure}}
-{{>resources}}
-[
-  {
-    "name": "Animation Class Preparation Page",
-    "shortName": "Class Preparation Page",
-    "url": "/merit-badges/animation/animation-cpp.pdf"
-  },
-  {
-    "name": "Animation Workbook",
-    "shortName": "Workbook",
-    "url": "/merit-badges/animation/animation-workbook.pdf"
-  },
-  {
-    "name": "Scoutmaster Bucky's Merit Badge Advancement Quick Reference",
-    "shortName": "Advancement Quick Reference",
-    "url": "/documents/mbaqr.pdf"
-  },
-  {
-    "name": "Scoutmaster Bucky's Acknowledgement Form",
-    "shortName": "Acknowledgement Form",
-    "url": "/documents/mbaf.pdf"
-  }
-]
+<template>
+    <MeritBadgePage
+        :badge="$frontmatter.badge"
+        :requirements="requirements"
+        :resources="$frontmatter.resources"
+    />
+</template>

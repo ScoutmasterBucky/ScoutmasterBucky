@@ -27,30 +27,35 @@
         <title>{{ $frontmatter.title }}</title>
     </Head>
 
-    <header>
-        <SmbHeaderBannerImage client:load />
-        <SmbBannerMenu />
-    </header>
-    <main>
-        <slot />
-    </main>
-    <SmbFooter />
+    <div class="page-container">
+        <header>
+            <SmbHeaderBannerImage client:load />
+            <SmbBannerMenu />
+        </header>
+        <main>
+            <slot />
+        </main>
+        <SmbFooter />
+    </div>
     <SmbFlyoutMenu />
 </template>
 
 <style>
 @import '~/assets/base.css';
 
-header, main {
+.page-container {
     max-width: 1002px;
     margin: 0 auto;
     background: var(--page-background);
 }
 
+main {
+    padding: 0 0.5em;
+}
+
 @media print {
-    header, main {
+    .page-container {
         max-width: initial;
-        background: transparent;
     }
 }
 </style>
