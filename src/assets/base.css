@@ -5,6 +5,7 @@
     --palette-hover-green: #336600;
     --palette-deep-green: #5b8800;
     --palette-dark-border-green: #0f510d;
+    --palette-active: #e5f2cb;
     --palette-severe: red;
     --palette-white: #fff;
 }
@@ -45,6 +46,8 @@
     --page-margin-background: var(--palette-black);
     --page-background: var(--palette-white);
     --smb-text-color: var(--palette-deep-green);
+    --tile-border: 2px solid var(--palette-dark-border-green);
+    --tile-hover-background: var(--palette-active);
 }
 
 *,
