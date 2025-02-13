@@ -17,13 +17,14 @@ title: Scoutmaster Bucky
         </div>
 
         <!-- Spot here for a featured item to display on the right -->
-        <FeaturedItemYoutubeVideo />
+        <FeaturedItemYoutubeVideo code="Pkacs9BdO0Q" ratio="16 / 9" />
     </div>
 
     <SmbNews v-if="$frontmatter.news" :news="$frontmatter.news" />
-    <TestLab />
 
     <h2>Upcoming Events</h2>
+
+    <TestLab />
 </template>
 
 <style scoped>

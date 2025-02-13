@@ -1,6 +1,15 @@
+<script setup lang="ts">
+defineProps<{ code: String; ratio: String }>();
+</script>
+
 <template>
     <div class="wrapper">
-<iframe src="https://www.youtube.com/embed/Pkacs9BdO0Q?modestbranding=1&rel=0" width="560" height="315" title="Scoutmaster Bucky - 2025 March Merit Badge Day - DULUTH, MINNESOTA" frameborder="0" allowfullscreen></iframe>
+        <iframe
+            :src="`https://www.youtube.com/embed/${code}?modestbranding=1&rel=0`"
+            :style="`aspect-ratio: ${ratio};`"
+            frameborder="0"
+            allowfullscreen
+        ></iframe>
     </div>
 </template>
 
@@ -26,8 +35,6 @@
 
 iframe {
     width: 100%;
-    height: 100%;
-    aspect-ratio: 16 / 9;
+    height: auto;
 }
-
 </style>

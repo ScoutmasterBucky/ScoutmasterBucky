@@ -24,9 +24,21 @@
         />
 
         <div class="featured">
-            <SmbBannerMenuButton href="/merit-badges/" title="Merit Badges" />
-            <SmbBannerMenuButton href="/scout-ranks/" title="Scout Ranks" />
-            <SmbBannerMenuButton href="/other-awards/" title="Other Awards" />
+            <SmbBannerMenuButton
+                href="/merit-badges/"
+                title="Merit Badges"
+                src="/images/merit-badges-icon.png"
+            />
+            <SmbBannerMenuButton
+                href="/scout-ranks/"
+                title="Scout Ranks"
+                src="/images/ranks-icon.png"
+            />
+            <SmbBannerMenuButton
+                href="/other-awards/"
+                title="Other Awards"
+                src="/images/other-awards-icon.png"
+            />
         </div>
 
         <SmbBannerMenuButton
