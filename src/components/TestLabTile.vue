@@ -23,8 +23,8 @@ a {
 }
 
 img {
-    width: 20%;
-    height: auto;
+    height: 55px;
+    width: auto;
 }
 
 div {
