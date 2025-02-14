@@ -28,6 +28,7 @@
     border: var(--tile-border);
     border-radius: 1em;
     transition: all 0.2s;
+    user-select: none;
 }
 
 .box:hover {

@@ -7,7 +7,6 @@ export {}
 /* prettier-ignore */
 declare module 'vue' {
   export interface GlobalComponents {
-    FeaturedItem: typeof import('./src/components/FeaturedItem.vue')['default']
     FeaturedItemDungeonsAndDragons: typeof import('./src/components/FeaturedItemDungeonsAndDragons.vue')['default']
     FeaturedItemYoutubeVideo: typeof import('./src/components/FeaturedItemYoutubeVideo.vue')['default']
     FigureContainer: typeof import('./src/components/FigureContainer.vue')['default']
@@ -17,6 +16,8 @@ declare module 'vue' {
     MeritBadgeImage: typeof import('./src/components/MeritBadgeImage.vue')['default']
     MeritBadgeList: typeof import('./src/components/MeritBadgeList.vue')['default']
     MeritBadgePage: typeof import('./src/components/MeritBadgePage.vue')['default']
+    Modal: typeof import('./src/components/Modal.vue')['default']
+    OnlineBanner: typeof import('./src/components/OnlineBanner.vue')['default']
     Requirements: typeof import('./src/components/Requirements.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
@@ -31,5 +32,13 @@ declare module 'vue' {
     TestLabTile: typeof import('./src/components/TestLabTile.vue')['default']
     Tile: typeof import('./src/components/Tile.vue')['default']
     TileWrapper: typeof import('./src/components/TileWrapper.vue')['default']
+    UpcomingEvent: typeof import('./src/components/UpcomingEvent.vue')['default']
+    UpcomingEventCalendar: typeof import('./src/components/UpcomingEventCalendar.vue')['default']
+    UpcomingEventDetails: typeof import('./src/components/UpcomingEventDetails.vue')['default']
+    UpcomingEventIcon: typeof import('./src/components/UpcomingEventIcon.vue')['default']
+    UpcomingEventLocation: typeof import('./src/components/UpcomingEventLocation.vue')['default']
+    UpcomingEventMeritBadges: typeof import('./src/components/UpcomingEventMeritBadges.vue')['default']
+    UpcomingEventRegistration: typeof import('./src/components/UpcomingEventRegistration.vue')['default']
+    UpcomingEvents: typeof import('./src/components/UpcomingEvents.vue')['default']
   }
 }
