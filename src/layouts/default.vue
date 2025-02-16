@@ -50,7 +50,7 @@
 }
 
 main {
-    padding: 0 0.5em;
+    padding: 0.5em 0.5em;
 }
 
 @media print {

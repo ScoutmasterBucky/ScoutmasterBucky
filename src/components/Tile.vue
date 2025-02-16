@@ -29,6 +29,7 @@
     border-radius: 1em;
     transition: all 0.2s;
     user-select: none;
+    height: 100%;
 }
 
 .box:hover {

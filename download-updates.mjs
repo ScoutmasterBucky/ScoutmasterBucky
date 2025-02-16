@@ -322,64 +322,64 @@ async function downloadScoutRanks(updated) {
         {
             key: "scout",
             url,
-            dest: "src/pages/scout-ranks/scout/scout-rank-requirements.pdf",
+            dest: "src/pages/scout-ranks/scout.pdf",
             selector: 'a[href*=".pdf"]:contains("Scout Rank Requirements")'
         },
         {
             key: "tenderfoot",
             url,
-            dest: "src/pages/scout-ranks/tenderfoot/tenderfoot-rank-requirements.pdf",
+            dest: "src/pages/scout-ranks/tenderfoot.pdf",
             selector: 'a[href*=".pdf"]:contains("Tenderfoot Rank Requirements")'
         },
         {
             key: "second-class",
             url,
-            dest: "src/pages/scout-ranks/second-class/second-class-rank-requirements.pdf",
+            dest: "src/pages/scout-ranks/second-class.pdf",
             selector:
                 'a[href*=".pdf"]:contains("Second Class Rank Requirements")'
         },
         {
             key: "first-class",
             url,
-            dest: "src/pages/scout-ranks/first-class/first-class-rank-requirements.pdf",
+            dest: "src/pages/scout-ranks/first-class.pdf",
             selector:
                 'a[href*=".pdf"]:contains("First Class Rank Requirements")'
         },
         {
             key: "star",
             url,
-            dest: "src/pages/scout-ranks/star/star-rank-requirements.pdf",
+            dest: "src/pages/scout-ranks/star.pdf",
             selector: 'a[href*=".pdf"]:contains("Star Rank Requirements")'
         },
         {
             key: "life",
             url,
-            dest: "src/pages/scout-ranks/life/life-rank-requirements.pdf",
+            dest: "src/pages/scout-ranks/life.pdf",
             selector: 'a[href*=".pdf"]:contains("Life Rank Requirements")'
         },
         {
             key: "eagle",
             url,
-            dest: "src/pages/scout-ranks/eagle/eagle-rank-requirements.pdf",
+            dest: "src/pages/scout-ranks/eagle.pdf",
             selector: 'a[href*=".pdf"]:contains("Eagle Rank Requirements")'
         },
         {
             key: "eagle-palms",
             url,
-            dest: "src/pages/scout-ranks/eagle-palms/eagle-palms.pdf",
+            dest: "src/pages/scout-ranks/eagle-palms.pdf",
             selector: 'a[href*=".pdf"]:contains("Eagle Palms")'
         },
         {
             key: "alternative-requirements",
             url,
-            dest: "src/pages/scout-ranks/alternative-requirements/alternative-requirements.pdf",
+            dest: "src/pages/scout-ranks/alternative-requirements.pdf",
             selector:
                 'a[href*=".pdf"]:contains("Ranks Alternative Requirements")'
         },
         {
             key: "eagle-alternative-requirements",
             url,
-            dest: "src/pages/scout-ranks/eagle-alternative-requirements/eagle-alternative-requirements.pdf",
+            dest: "src/pages/scout-ranks/eagle-alternative-requirements.pdf",
             selector:
                 'a[href*=".pdf"]:contains("Eagle Scout Rank Alternative Requirements")'
         }
