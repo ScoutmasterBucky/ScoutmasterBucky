@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const { align = 'right', position = 'bottom' } = defineProps<{
-    align: String;
-    position: String;
+    align?: String;
+    position?: String;
 }>();
 const classList = `wrapper ${align} ${position}`;
 </script>
