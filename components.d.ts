@@ -22,6 +22,8 @@ declare module 'vue' {
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     ScaledContent: typeof import('./src/components/ScaledContent.vue')['default']
+    ScoutRank: typeof import('./src/components/ScoutRank.vue')['default']
+    ScoutRankBucky: typeof import('./src/components/ScoutRankBucky.vue')['default']
     SmbBannerMenu: typeof import('./src/components/SmbBannerMenu.vue')['default']
     SmbBannerMenuButton: typeof import('./src/components/SmbBannerMenuButton.vue')['default']
     SmbFlyoutMenu: typeof import('./src/components/SmbFlyoutMenu.vue')['default']
