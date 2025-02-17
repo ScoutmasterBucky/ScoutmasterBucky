@@ -18,6 +18,8 @@ declare module 'vue' {
     MeritBadgePage: typeof import('./src/components/MeritBadgePage.vue')['default']
     Modal: typeof import('./src/components/Modal.vue')['default']
     OnlineBanner: typeof import('./src/components/OnlineBanner.vue')['default']
+    OtherAward: typeof import('./src/components/OtherAward.vue')['default']
+    OtherAwardBucky: typeof import('./src/components/OtherAwardBucky.vue')['default']
     Requirements: typeof import('./src/components/Requirements.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']

@@ -7,6 +7,7 @@ div {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    align-items: flex-start;
+    align-items: center;
+    align-content: stretch;
 }
 </style>

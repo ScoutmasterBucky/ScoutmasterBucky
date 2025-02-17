@@ -296,7 +296,7 @@ async function downloadOtherAwards(updated) {
         {
             key: "50-miler",
             url: "https://www.scouting.org/awards/awards-central/50-miler/",
-            dest: "src/pages/other-awards/50-miler/application.pdf",
+            dest: "src/pages/other-awards/50-miler.pdf",
             selector: "a[href*=pdf]"
         },
         {
@@ -308,7 +308,7 @@ async function downloadOtherAwards(updated) {
         {
             key: "totin-chip",
             url: "https://www.scouting.org/awards/awards-central/totin-chip/",
-            dest: "src/pages/other-awards/totin-chip/totin-chip.html.orig",
+            dest: "src/pages/other-awards/totin-chip.html.orig",
             selector: "[data-id=7627899f]"
         }
     ]);
