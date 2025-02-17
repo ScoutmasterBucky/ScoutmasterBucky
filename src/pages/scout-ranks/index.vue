@@ -13,7 +13,7 @@ additionalPages:
     - alternate-requirements
 </page>
 
-<script setup type="ts">
+<script setup lang="ts">
 import scoutRanks from '../../../data/scout-ranks.json';
 import updated from '../../../data/updated.json';
 

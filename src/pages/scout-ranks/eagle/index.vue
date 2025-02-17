@@ -2,7 +2,7 @@
 title: Eagle
 </page>
 
-<script setup type="ts">
+<script setup lang="ts">
 import requirements from "../../../../data/scout-ranks/eagle.yaml";
 </script>
 

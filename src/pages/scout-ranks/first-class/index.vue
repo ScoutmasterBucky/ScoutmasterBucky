@@ -2,7 +2,7 @@
 title: First Class
 </page>
 
-<script setup type="ts">
+<script setup lang="ts">
 import requirements from '../../../../data/scout-ranks/first-class.yaml';
 </script>
 

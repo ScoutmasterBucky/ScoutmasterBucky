@@ -2,7 +2,7 @@
 title: Tenderfoot
 </page>
 
-<script setup type="ts">
+<script setup lang="ts">
 import requirements from '../../../../data/scout-ranks/tenderfoot.yaml';
 </script>
 
