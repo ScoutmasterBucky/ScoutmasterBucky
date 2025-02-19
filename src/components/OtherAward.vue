@@ -6,7 +6,7 @@ import otherAwards from '../../data/other-awards.json';
 <template>
     <ScaledContent>
         <a :href="`/other-awards/${award}/`"
-            ><img :src="otherAwards[award].image" class="wide-image"
+            ><img :src="otherAwards[award].image" class="wide"
         /></a>
         <div class="name">
             <a :href="`/other-awards/${award}/`">{{ otherAwards[award].name }}</a>
@@ -15,11 +15,6 @@ import otherAwards from '../../data/other-awards.json';
 </template>
 
 <style scoped>
-.wide-image {
-    width: 100%;
-    height: auto;
-}
-
 .name {
     font-size: 1.2em;
     text-align: center;

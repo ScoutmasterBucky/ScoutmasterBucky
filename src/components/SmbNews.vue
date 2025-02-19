@@ -7,32 +7,18 @@ const newsArray = Array.isArray(news) ? news : [];
     <h2>News</h2>
 
     <div class="news-wrapper">
-        <FigureContainer align="left" position="top">
-            <template #figure>
-                <img
-                    src="/images/bucky-with-newspaper.jpg"
-                    class="bucky-newspaper"
-                />
-            </template>
+        <ScaledContent float="left">
+            <img src="/images/bucky-with-newspaper.jpg" class="wide" />
+        </ScaledContent>
 
-            <div
-                class="news-item"
-                v-for="item in $frontmatter.news"
-                :key="item"
-            >
-                <div class="news-new">NEW!</div>
-                <div>{{ item }}</div>
-            </div>
-        </FigureContainer>
+        <div class="news-item" v-for="item in $frontmatter.news" :key="item">
+            <div class="news-new">NEW!</div>
+            <div>{{ item }}</div>
+        </div>
     </div>
 </template>
 
 <style scoped>
-.bucky-newspaper {
-    width: 100%;
-    height: auto;
-}
-
 .news-wrapper {
     padding: 1em;
 }

@@ -11,7 +11,7 @@ defineProps<{
     <div class="pad">
         <a :href="href">
             <div v-if="src" class="icon-wrapper">
-                <img :src="src" />
+                <img :src="src" class="wide" />
             </div>
             <div class="label">
                 <div class="title">{{ title }}</div>
@@ -61,17 +61,13 @@ a:hover {
     }
 }
 
-img {
-    max-width: 100%;
-    max-height: auto;
-}
-
 .title {
     color: var(--menu-button-title-color);
     font-weight: bold;
     display: flex;
     justify-content: center;
     text-align: center;
+    transition: all 0.2s;
 }
 
 a:hover .title {

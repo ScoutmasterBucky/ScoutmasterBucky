@@ -7,7 +7,9 @@ import requirements from '../../../../data/scout-ranks/life.yaml';
 </script>
 
 <template>
-    <ScoutRankBucky rank="life" />
+    <ScaledContent align="center">
+        <ScoutRankBucky rank="life" />
+    </ScaledContent>
 
     <h3>Life Rank</h3>
 

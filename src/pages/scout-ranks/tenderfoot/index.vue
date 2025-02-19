@@ -7,7 +7,9 @@ import requirements from '../../../../data/scout-ranks/tenderfoot.yaml';
 </script>
 
 <template>
-    <ScoutRankBucky rank="tenderfoot" />
+    <ScaledContent align="center">
+        <ScoutRankBucky rank="tenderfoot" />
+    </ScaledContent>
 
     <h3>Tenderfoot Rank</h3>
 

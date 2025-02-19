@@ -19,8 +19,12 @@ const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
     <h1>{{ info.name }}</h1>
 
     <div class="bucky-and-badge unprintable">
-        <img :src="info.bucky" alt="Bucky" />
-        <img :src="info.image" alt="Merit Badge" />
+        <ScaledContent>
+            <img :src="info.bucky" alt="Bucky" />
+        </ScaledContent>
+        <ScaledContent>
+            <img :src="info.image" alt="Merit Badge" />
+        </ScaledContent>
     </div>
 
     <h3 class="unprintable">Resources</h3>
@@ -35,8 +39,10 @@ const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
 
     <h2 class="requirements-header">
         <div>{{ info.name }} Requirements</div>
-        <div class="updated">Current Scouts BSA requirements<br class="updated-break">
-            as of {{ updatedDateStr }}</div>
+        <div class="updated">
+            Current Scouts BSA requirements<br class="updated-break" />
+            as of {{ updatedDateStr }}
+        </div>
     </h2>
 
     <Requirements :requirements="requirements" />
@@ -47,10 +53,6 @@ const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-}
-
-.bucky-and-badge img {
-    max-width: 50%;
 }
 
 .requirements-header {

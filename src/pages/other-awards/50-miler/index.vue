@@ -7,7 +7,9 @@ import requirements from '../../../../data/other-awards/50-miler.yaml';
 </script>
 
 <template>
-    <OtherAwardBucky award="50-miler" />
+    <ScaledContent align="center">
+        <OtherAwardBucky award="50-miler" />
+    </ScaledContent>
 
     <h3>50-Miler</h3>
 

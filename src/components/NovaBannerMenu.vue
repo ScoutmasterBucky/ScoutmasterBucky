@@ -1,19 +1,10 @@
 <template>
     <div class="banner-line unprintable">
         <MenuButton
-            href="/merit-badges/"
-            title="Merit Badges"
-            src="/images/merit-badges-icon.png"
-        />
-        <MenuButton
-            href="/scout-ranks/"
-            title="Scout Ranks"
-            src="/images/ranks-icon.png"
-        />
-        <MenuButton
-            href="/other-awards/"
-            title="Other Awards"
-            src="/images/other-awards-icon.png"
+            href="/"
+            title="Scoutmaster Bucky"
+            src="/images/smb-small.png"
+            subtitle="an area for Scouts BSA"
         />
         <MenuButton
             href="/nova-lab/"

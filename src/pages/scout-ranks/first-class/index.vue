@@ -7,7 +7,9 @@ import requirements from '../../../../data/scout-ranks/first-class.yaml';
 </script>
 
 <template>
-    <ScoutRankBucky rank="first-class" />
+    <ScaledContent align="center">
+        <ScoutRankBucky rank="first-class" />
+    </ScaledContent>
 
     <h3>First Class Rank</h3>
 

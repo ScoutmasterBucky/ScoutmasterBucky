@@ -7,6 +7,7 @@ defineProps<{ code: String; ratio: String }>();
         <iframe
             :src="`https://www.youtube.com/embed/${code}?modestbranding=1&rel=0`"
             :style="`aspect-ratio: ${ratio};`"
+            class="wide"
             frameborder="0"
             allowfullscreen
         ></iframe>
@@ -31,10 +32,5 @@ defineProps<{ code: String; ratio: String }>();
     .wrapper {
         max-width: 100%;
     }
-}
-
-iframe {
-    width: 100%;
-    height: auto;
 }
 </style>

@@ -1,63 +1,3 @@
-/* color palette */
-:root {
-    --palette-black: #000;
-    --palette-light: #75a343;
-    --palette-dark: #336600;
-    --palette-very-dark: #0f510d;
-    --palette-very-light: #e5f2cb;
-    --palette-severe: red;
-    --palette-attention: #cc9900;
-    --palette-white: #fff;
-}
-
-/* semantic color variables for this project */
-:root {
-    --dnd-background: var(--palette-black);
-    --event-online-banner-border: 0.8px solid var(--palette-black);
-    --event-online-banner-background: var(--palette-attention);
-    --event-calendar-border: 3px solid var(--palette-light);
-    --event-calendar-month-background: var(--palette-light);
-    --event-details-border: 3px solid var(--palette-dark);
-    --event-registration-text-color: var(--palette-white);
-    --event-registration-button-background: var(--palette-dark);
-    --event-registration-button-background-hover: var(--palette-very-dark);
-    --index-news-text-color: var(--palette-severe);
-    --flyout-menu-background: var(--palette-dark);
-    --flyout-menu-icon-color: var(--palette-light);
-    --flyout-menu-text-color: var(--palette-white);
-    --flyout-menu-border: 2px solid var(--palette-very-dark);
-    --menu-button-border: 2px solid var(--palette-very-dark);
-    --menu-button-background: var(--palette-light);
-    --menu-button-background-hover: var(--palette-very-light);
-    --menu-button-title-color: var(--palette-white);
-    --menu-button-title-color-hover: var(--palette-very-dark);
-    --menu-button-subtitle-color: var(--palette-black);
-    --menu-button-icon-color: var(--palette-light);
-    --modal-border: 2px solid var(--palette-very-dark);
-    --modal-close-border: 2px solid var(--palette-very-dark);
-    --modal-close-background: var(--palette-light);
-    --modal-close-color: var(--palette-dark);
-    --heading-1-border: 2px solid var(--palette-very-dark);
-    --heading-1-background: var(--palette-dark);
-    --heading-1-text-color: var(--palette-white);
-    --heading-1-border: 2px solid var(--palette-dark);
-    --heading-2-background: linear-gradient(
-        90deg,
-        var(--palette-dark),
-        var(--palette-light),
-        var(--palette-dark)
-    );
-    --heading-2-text-color: var(--palette-white);
-    --heading-2-border: 2px solid var(--palette-dark);
-    --heading-3-border-color: var(--palette-dark);
-    --heading-3-text-color: var(--palette-dark);
-    --page-margin-background: var(--palette-black);
-    --page-background: var(--palette-white);
-    --smb-text-color: var(--palette-dark);
-    --tile-border: 2px solid var(--palette-very-dark);
-    --tile-hover-background: var(--palette-very-light);
-}
-
 *,
 *::before,
 *::after {
@@ -78,99 +18,24 @@ p {
 
 body {
     overflow-x: hidden;
-    background-color: var(--page-margin-background);
-    font-family: 'Open Sans Regular', sans-serif;
     line-height: 1.4;
 }
 
-@media print {
-    body {
-        background-color: transparent;
-        background-image: none;
-    }
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wide {
+    width: 100%;
+    height: auto;
+    display: block;
 }
 
 @media print {
     .unprintable {
         display: none !important;
-    }
-}
-
-h1 {
-    background: var(--heading-1-background);
-    color: var(--heading-1-text-color);
-    padding: 6px 10px;
-    text-transform: uppercase;
-    margin: 0.6em 0;
-    font-size: 2em;
-    clear: both;
-    border-radius: 0.2em;
-    border: var(--heading-1-border);
-}
-
-@media (max-width: 480px) {
-    h1 {
-        font-size: 2em;
-    }
-}
-
-@media print {
-    h1 {
-        color: black;
-        border-color: black;
-        background-color: transparent;
-        background-image: none;
-    }
-}
-
-h2 {
-    margin-top: 0.9em;
-    margin-bottom: 0.5em;
-    background: var(--heading-2-background);
-    color: var(--heading-2-text-color);
-    padding: 6px 10px;
-    text-transform: uppercase;
-    font-size: 1.5em;
-    clear: both;
-    font-weight: bold;
-    border-radius: 0.2em;
-    border: var(--heading-2-border);
-}
-
-@media (max-width: 480px) {
-    h2 {
-        font-size: 1.2em;
-    }
-}
-
-@media print {
-    h2 {
-        color: black;
-        border-color: black;
-        background-color: transparent;
-        background-image: none;
-    }
-}
-
-h3 {
-    color: var(--heading-3-text-color);
-    text-transform: uppercase;
-    display: flex;
-    font-size: 16px;
-    font-weight: bold;
-    justify-content: center;
-    margin: 1em auto;
-    padding: 1em 0;
-    border-top: 1px solid var(--heading-3-border-color);
-    border-bottom: 1px solid var(--heading-3-border-color);
-    width: 95%;
-    clear: both;
-}
-
-@media print {
-    h3 {
-        color: black;
-        border-color: black;
     }
 }
 
