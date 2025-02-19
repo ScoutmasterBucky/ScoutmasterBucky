@@ -6,7 +6,7 @@ import scoutRanks from '../../data/scout-ranks.json';
 <template>
     <ScaledContent>
         <a :href="`/scout-ranks/${rank}/`"
-            ><img :src="scoutRanks[rank].image" class="wide-image"
+            ><img :src="scoutRanks[rank].image" class="wide"
         /></a>
         <div class="name">
             <a :href="`/scout-ranks/${rank}/`">{{ scoutRanks[rank].name }}</a>
@@ -15,9 +15,8 @@ import scoutRanks from '../../data/scout-ranks.json';
 </template>
 
 <style scoped>
-.wide-image {
-    width: 100%;
-    height: auto;
+a {
+    text-decoration: none;
 }
 
 .name {

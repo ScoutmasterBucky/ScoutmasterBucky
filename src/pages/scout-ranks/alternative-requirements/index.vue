@@ -7,7 +7,9 @@ import requirements from '../../../../data/scout-ranks/alternative-requirements.
 </script>
 
 <template>
-    <ScoutRankBucky rank="alternative-requirements" />
+    <ScaledContent align="center">
+        <ScoutRankBucky rank="alternative-requirements" />
+    </ScaledContent>
 
     <h3>
         Scout, Tenderfoot, Second Class, and First Class Rank Alternative

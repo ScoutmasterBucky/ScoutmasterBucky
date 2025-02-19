@@ -7,7 +7,9 @@ import requirements from '../../../../data/other-awards/boardsailing-bsa.yaml';
 </script>
 
 <template>
-    <OtherAwardBucky award="boardsailing-bsa" />
+    <ScaledContent align="center">
+        <OtherAwardBucky award="boardsailing-bsa" />
+    </ScaledContent>
 
     <h3>Boardsailing BSA</h3>
 

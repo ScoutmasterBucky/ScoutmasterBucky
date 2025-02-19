@@ -7,7 +7,9 @@ import requirements from '../../../../data/scout-ranks/eagle-alternative-require
 </script>
 
 <template>
-    <ScoutRankBucky rank="eagle-alternative-requirements" />
+    <ScaledContent align="center">
+        <ScoutRankBucky rank="eagle-alternative-requirements" />
+    </ScaledContent>
 
     <h3>Alternative Requirements for Eagle Scout Rank</h3>
 

@@ -16,7 +16,7 @@
                 <rect x="5" y="70" width="90" height="16" rx="10"></rect>
             </svg>
         </a>
-        <SmbBannerMenuButton
+        <MenuButton
             href="/"
             title="Scoutmaster Bucky"
             src="/images/smb-small.png"
@@ -24,24 +24,24 @@
         />
 
         <div class="featured">
-            <SmbBannerMenuButton
+            <MenuButton
                 href="/merit-badges/"
                 title="Merit Badges"
                 src="/images/merit-badges-icon.png"
             />
-            <SmbBannerMenuButton
+            <MenuButton
                 href="/scout-ranks/"
                 title="Scout Ranks"
                 src="/images/ranks-icon.png"
             />
-            <SmbBannerMenuButton
+            <MenuButton
                 href="/other-awards/"
                 title="Other Awards"
                 src="/images/other-awards-icon.png"
             />
         </div>
 
-        <SmbBannerMenuButton
+        <MenuButton
             href="/nova-lab/"
             title="Nova Lab"
             src="/nova-lab/images/nova.svg"

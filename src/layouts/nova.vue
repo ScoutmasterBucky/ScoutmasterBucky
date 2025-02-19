@@ -27,21 +27,21 @@
         <title>{{ $frontmatter.title }}</title>
     </Head>
 
-    <div class="page-container theme-smb">
+    <div class="page-container theme-nova">
         <header>
-            <SmbHeaderBannerImage client:load />
-            <SmbBannerMenu />
+            <NovaBannerHeader />
+            <NovaBannerMenu />
         </header>
         <main>
             <slot />
         </main>
-        <SmbFooter />
+        <NovaFooter />
     </div>
     <FlyoutMenu />
 </template>
 
 <style>
-@import '~/assets/theme-smb.css';
+@import '~/assets/theme-nova.css';
 @import '~/assets/base.css';
 </style>
 

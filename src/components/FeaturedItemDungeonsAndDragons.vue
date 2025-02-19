@@ -1,8 +1,13 @@
 <template>
     <div class="wrapper kalam">
-        <a class="image-container" href="/dnd/"><img src="/dnd/bucky-guild.png" /></a>
+        <a class="image-container" href="/dnd/"
+            ><img src="/dnd/bucky-guild.png" class="wide"
+        /></a>
         <div class="title">Dungeons &amp; Dragons</div>
-        <div class="description">Join Scoutmaster Bucky and his team of Dungeon Masters on October 5th.</div>
+        <div class="description">
+            Join Scoutmaster Bucky and his team of Dungeon Masters on October
+            5th.
+        </div>
         <div class="description"><a href="/dnd/">Learn more!</a></div>
     </div>
 </template>
@@ -49,8 +54,6 @@
 }
 
 .image-container img {
-    width: 100%;
-    height: auto;
     background: var(--dnd-background);
     border-radius: 1em;
 }
@@ -61,5 +64,4 @@
     font-weight: bold;
     font-size: 1.2em;
 }
-
 </style>

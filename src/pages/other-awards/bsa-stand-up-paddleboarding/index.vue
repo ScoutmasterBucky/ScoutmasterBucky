@@ -7,7 +7,9 @@ import requirements from '../../../../data/other-awards/bsa-stand-up-paddleboard
 </script>
 
 <template>
-    <OtherAwardBucky award="bsa-stand-up-paddleboarding" />
+    <ScaledContent align="center">
+        <OtherAwardBucky award="bsa-stand-up-paddleboarding" />
+    </ScaledContent>
 
     <h3>BSA Stand Up Paddleboarding</h3>
 

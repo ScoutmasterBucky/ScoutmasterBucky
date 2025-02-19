@@ -5,7 +5,7 @@ import scoutRanks from '../../data/scout-ranks.json';
 
 <template>
     <div>
-        <img :src="scoutRanks[rank].bucky">
+        <img :src="scoutRanks[rank].bucky" class="wide">
     </div>
 </template>
 
@@ -13,9 +13,5 @@ import scoutRanks from '../../data/scout-ranks.json';
 div {
     display: flex;
     justify-content: center;
-}
-
-img {
-    max-width: 100%;
 }
 </style>

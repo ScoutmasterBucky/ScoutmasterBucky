@@ -5,7 +5,7 @@ import otherAwards from '../../data/other-awards.json';
 
 <template>
     <div>
-        <img :src="otherAwards[award].bucky">
+        <img :src="otherAwards[award].bucky" class="wide">
     </div>
 </template>
 
@@ -13,9 +13,5 @@ import otherAwards from '../../data/other-awards.json';
 div {
     display: flex;
     justify-content: center;
-}
-
-img {
-    max-width: 100%;
 }
 </style>

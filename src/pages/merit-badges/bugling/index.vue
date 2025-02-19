@@ -63,7 +63,7 @@ import requirements from '../../../../data/merit-badges/bugling/requirements.yam
             <div class="wrapper">
                 <div v-for="call in $frontmatter.calls" class="item">
                     <a :href="call.score" alt="Score" target="_blank">
-                    <img :src="call.score" alt="Score" class="score"/>
+                    <img :src="call.score" alt="Score" class="wide"/>
                     </a>
                     <audio :src="call.audio" controls></audio>
                 </div>
@@ -92,10 +92,5 @@ import requirements from '../../../../data/merit-badges/bugling/requirements.yam
     .item {
         width: 90%;
     }
-}
-
-.score {
-    width: 100%;
-    height: auto;
 }
 </style>

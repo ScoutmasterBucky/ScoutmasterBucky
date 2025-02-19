@@ -6,7 +6,7 @@ const { event } = defineProps<{
 
 <template>
     <div class="icon">
-        <img v-if="event.icon" :src="event.icon" />
+        <img v-if="event.icon" :src="event.icon" class="wide" />
     </div>
 </template>
 
@@ -16,8 +16,4 @@ const { event } = defineProps<{
     height: 76.5px;
 }
 
-.icon img {
-    width: 100%;
-    height: auto;
-}
 </style>

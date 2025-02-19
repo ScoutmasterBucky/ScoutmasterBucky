@@ -7,7 +7,9 @@ import requirements from '../../../../data/other-awards/totin-chip.yaml';
 </script>
 
 <template>
-    <OtherAwardBucky award="totin-chip" />
+    <ScaledContent align="center">
+        <OtherAwardBucky award="totin-chip" />
+    </ScaledContent>
 
     <p>The Totin' Chip is awarded to Scouts that lean and demonstrate the proper ability to safely handle and use bladed tools.</p>
 

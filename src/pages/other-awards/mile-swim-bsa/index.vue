@@ -7,7 +7,9 @@ import requirements from '../../../../data/other-awards/mile-swim-bsa.yaml';
 </script>
 
 <template>
-    <OtherAwardBucky award="mile-swim-bsa" />
+    <ScaledContent align="center">
+        <OtherAwardBucky award="mile-swim-bsa" />
+    </ScaledContent>
 
     <h3>Mile Swim BSA</h3>
 

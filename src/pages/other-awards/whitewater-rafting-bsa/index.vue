@@ -7,7 +7,9 @@ import requirements from '../../../../data/other-awards/whitewater-rafting-bsa.y
 </script>
 
 <template>
-    <OtherAwardBucky award="whitewater-rafting-bsa" />
+    <ScaledContent align="center">
+        <OtherAwardBucky award="whitewater-rafting-bsa" />
+    </ScaledContent>
 
     <h3>Whitewater Rafting BSA</h3>
 
