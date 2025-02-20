@@ -41,6 +41,7 @@
 </template>
 
 <style>
+@import '~/assets/theme-smb.css';
 @import '~/assets/theme-nova.css';
 @import '~/assets/base.css';
 </style>

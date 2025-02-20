@@ -1,0 +1,285 @@
+- requirement: 1
+  text: |-
+    Choose A or B or C and complete ALL the requirements:
+  children:
+    - requirement: A
+      text: |-
+        Watch an episode or episodes (about one hour total) of a show about
+        wildlife, endangered species, invasive species, food chains,
+        biodiversity, ecosystems, or wildlife habitats. Then do the following:
+      children:
+        - requirement: 1
+          text: |-
+            Make a list of at least two questions or ideas from what you
+            watched.
+        - requirement: 2
+          text: |-
+            Discuss two of the questions or ideas with your counselor.
+        - detail: true
+          text: |-
+            Some examples include - but are not limited to - shows found on PBS
+            (“NOVA”), Discovery Channel, Science Channel, National Geographic
+            Channel, TED Talks (online videos), and the History Channel. You
+            may choose to watch a live performance or movie at a planetarium or
+            science museum instead of watching a media production. You may
+            watch online productions with your counselor’s approval and under
+            your parent’s supervision.
+    - requirement: B
+      text: |-
+        Read (about one hour total) about wildlife, endangered species,
+        invasive species, food chains, biodiversity, ecosystems, or wildlife
+        habitats. Then do the following:
+      children:
+        - requirement: 1
+          text: |-
+            Make a list of at least two questions or ideas from what you read.
+        - requirement: 2
+          text: |-
+            Discuss two of the questions or ideas with your counselor.
+        - detail: true
+          text: |-
+            Books on many topics may be found at your local library. Examples
+            of magazines include but are not limited to Odyssey, KIDS DISCOVER,
+            National Geographic Kids, Highlights, and OWL or Owlkids
+            (<a href="https://www.owlkids.com/">https://www.owlkids.com/</a>).
+    - requirement: C
+      text: |-
+        Do a combination of reading and watching (about one hour total) about
+        wildlife, endangered species, invasive species, food chains,
+        biodiversity, ecosystems, or wildlife habitats. Then do the following:
+      children:
+        - requirement: 1
+          text: |-
+            Make a list of at least two questions or ideas from what you read
+            and watched.
+        - requirement: 2
+          text: |-
+            Discuss two of the questions or ideas with your counselor.
+- requirement: 2
+  text: |-
+    Complete ONE adventure from the following list for your current rank or
+    complete option A or B. (If you choose an Adventure, choose one you have
+    not already earned.) Discuss with your counselor what kind of science,
+    technology, engineering, and math was used in the adventure or option.
+    <ul>
+    <li><b>Wolf Cub Scouts:</b> Digging in the Past, Spirit of the Water</li>
+    <li><b>Bear Cub Scouts:</b> A Bear Goes Fishing, Critter Care</li>
+    <li><b>Webelos Scouts:</b> Into the Wild, Into the Woods</li>
+    </ul>
+  children:
+    - detail: true
+      text: |-
+        <b>Option A:</b> Do all of the following.
+    - requirement: a
+      text: |-
+        Make a poster that shows and explains the water cycle.
+    - requirement: b
+      text: |-
+        Set up a simple weather station to record rainfall, temperature, air
+        pressure or evaporation for one week.
+    - requirement: c
+      text: |-
+        Find the local weather forecast. Discuss with a family member the
+        weather forecast. Follow-up by discussing the accuracy of the forecast
+        the following day.
+    - detail: true
+      text: |-
+        <b>Option B:</b> Do all of the following.
+    - requirement: a
+      text: |-
+        Explain what natural resources are and why it’s important to protect
+        and conserve them.
+    - requirement: b
+      text: |-
+        Make a poster that shows and explains the food chain. Describe to your
+        den or adult what happens when the food chain becomes broken or
+        damaged.
+    - requirement: c
+      text: |-
+        Learn about an endangered species. Make a report to your den or adult
+        that includes a picture, how the species became endangered, and what is
+        being done to save it.
+- requirement: 3
+  text: |-
+    Explore.
+  children:
+    - requirement: A
+      text: |-
+        What is wildlife? Wildlife refers to animals that are not normally
+        domesticated (raised by humans).
+    - requirement: B
+      text: |-
+        Explain the relationships among producer, prey, predator, and food
+        chain. (You may draw and label a food chain to help you answer this
+        question.)
+    - requirement: C
+      text: |-
+        Draw (or find) pictures of your favorite native plant, native reptile
+        or fish, native bird, and native mammal that live in an ecosystem near
+        you. Why do you like these? How do they fit into the ecosystem?
+    - requirement: D
+      text: |-
+        Discuss what you have learned with your counselor.
+- requirement: 4
+  text: |-
+    Act like a naturalist. Choose TWO from A or B or C or D or E or F, and
+    complete ALL the requirements for those options.
+  children:
+    - requirement: A
+      text: |-
+        Investigate the endangered species in your state.
+      children:
+        - requirement: 1
+          text: |-
+            Make a list, drawing, or photo collection of three to five animals
+            and plants that are endangered.
+        - requirement: 2
+          text: |-
+            Design a display (a poster, PowerPoint presentation, or other type
+            of display) to show at least 10 of the threatened, endangered, or
+            extinct species in your state. (You may use your drawings or photo
+            collection in your display.)
+        - requirement: 3
+          text: |-
+            Discuss with your counselor the differences between threatened,
+            endangered, and extinct species. Discuss how threatened animals or
+            plants could become endangered or extinct. How might the loss of
+            these animals or plants affect the ecosystem and food chain? What
+            can be done to preserve these species?
+    - requirement: B
+      text: |-
+        Investigate invasive species.
+      children:
+        - requirement: 1
+          text: |-
+            Make a list, drawing, or photo collection of at least five mammals,
+            plants, fish, birds, insects, or any other organisms that are
+            invasive in your state or region of the country.
+        - requirement: 2
+          text: |-
+            Design a presentation (a poster, PowerPoint presentation, or other
+            display) including at least one of the invasive species from your
+            list. Explain where they came from, how they got to your area, what
+            damage they are causing, and what is being done to get rid of them.
+            Share your presentation with your counselor and your family or your
+            den.
+        - requirement: 3
+          text: |-
+            Discuss with your counselor what an invasive species is, how
+            invasive animals or plants cause problems for native species, and
+            how these invasive species could affect an ecosystem and food
+            chain.
+    - requirement: C
+      text: |-
+        Visit an ecosystem near where you live.
+      children:
+        - requirement: 1
+          text: |-
+            Investigate the types of animals and plants that live in that
+            ecosystem.
+        - requirement: 2
+          text: |-
+            Draw a food web of the animals and plants that live in this
+            ecosystem. Mark the herbivores, omnivores, and carnivores. Include
+            at least one decomposer or scavenger.
+        - requirement: 3
+          text: |-
+            Discuss with your counselor (using your food web drawing) how the
+            animals or plants in the food web fit into a food chain. Which
+            animals are predators and which can be prey? How does each plant
+            and animal obtain its energy? Describe the energy source for all
+            the plants and animals.
+    - requirement: D
+      text: |-
+        Investigate one wild mammal, bird, fish, or reptile that lives near
+        you.
+      children:
+        - requirement: 1
+          text: |-
+            Create a diorama representing the habitat of this creature. Include
+            representations of everything it needs to survive; its home, nest,
+            or den; and possible threats. You may use a variety of different
+            materials within your diorama (usually constructed in a shoebox or
+            similar container).
+        - requirement: 2
+          text: |-
+            Explain to your counselor what your animal must have in its habitat
+            in order to survive.
+    - requirement: E
+      text: |-
+        Investigate your wild neighbors.
+      children:
+        - requirement: 1
+          text: |-
+            Make a bird feeder and set it up in a place where you may observe
+            visitors. The feeder could be complex or as simple as a pinecone
+            covered with peanut butter and rolled in birdseed and then tied
+            with a string to an appropriate location, like a tree branch.
+        - requirement: 2
+          text: |-
+            Fill the feeder with birdseed. (Make sure that your feeder does not
+            remain empty once you have started feeding birds.)
+        - requirement: 3
+          text: |-
+            Provide a source of water.
+        - requirement: 4
+          text: |-
+            Watch and record the visitors to your feeder for two or three
+            weeks. (It may take a while for visitors to discover your food
+            source.)
+        - requirement: 5
+          text: |-
+            Identify your visitors using a field guide, and keep a list of what
+            visits your feeder. (Visitors are not always birds! Sometimes deer,
+            rabbits, chipmunks, squirrels, and raccoons visit bird feeders - or
+            the area under the feeder! The kinds of nonbird visitors will
+            depend on where you live. You may want to investigate how to
+            collect the tracks of any nighttime visitors.)
+        - requirement: 6
+          text: |-
+            Discuss with your counselor what you learned about your wild
+            neighbors.
+    - requirement: F
+      text: |-
+        Earn the Cub Scout World Conservation Award (if you have not already
+        earned them for another Nova award).
+- requirement: 5
+  text: |-
+    Visit a place where you can observe wildlife. Examples include parks
+    (national, state, and local), zoos, wetlands, nature preserves, and
+    national forests.
+  children:
+    - requirement: A
+      text: |-
+        During or after your visit, talk to someone about:
+      children:
+        - requirement: 1
+          text: |-
+            The native species, invasive species, and endangered or threatened
+            species that live there. If you visit a zoo, talk to someone about
+            the ecosystems for different zoo animals and whether any of the zoo
+            animals are invasive in different areas of the world. (For example,
+            pythons are often found in zoos, but they are an invasive species
+            in Florida.)
+        - requirement: 2
+          text: |-
+            The subjects studied in school that enable him or her to work with
+            wildlife. Examples of experts to talk to include forest ranger,
+            wildlife biologist, botanist, park ranger, naturalist, game warden,
+            zookeeper, docent, or another adult whose career involves wildlife.
+    - requirement: B
+      text: |-
+        Discuss with your counselor what you learned during your visit.
+- requirement: 6
+  text: |-
+    Discuss with your counselor:
+  children:
+    - requirement: A
+      text: |-
+        Why wildlife is important
+    - requirement: B
+      text: |-
+        Why biodiversity is important
+    - requirement: C
+      text: |-
+        The problems with invasive species and habitat destruction
