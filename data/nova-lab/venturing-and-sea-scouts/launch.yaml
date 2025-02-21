@@ -59,14 +59,13 @@
               text: |-
                   Discuss two of the questions or ideas with your counselor.
 - requirement: 2
-  markdown: true
   text: |-
       Choose ONE STEM field of interest from the following list. Complete ALL
-      the requirements for a STEM exploration in that field. See [STEM
-      Explorations](../../explorations/) for the requirements. (If you have
+      the requirements for a STEM exploration in that field. See <a href="../../explorations/">STEM
+      Explorations</a> for the requirements. (If you have
       already completed a Venturing or Sea Scouts STEM exploration in one of
-      these fields, you must choose a different field for this award.)
-
+      these fields, you must choose a different field for this award.)<br />
+      <br />
       Archery, Astronomy, Aviation, Digital Technology, Rifle Shooting,
       Robotics, Shotgun Shooting, Space Exploration, Weather
 - requirement: 3
@@ -94,24 +93,23 @@
                   # links for the normal page, but the link text worked.
                   # Updated links.
                   - detail: true
-                    markdown: true
                     text: |-
-                        Helpful Links
-
+                        Helpful Links<br />
+                        <br />
                         Be sure you have your parent’s or guardian’s permission
                         before using the Internet. Some of these websites
                         require the use of Java runtime environments. If your
                         computer does not support this program, you may not be
-                        able to visit those sites.
-
+                        able to visit those sites.<br />
+                        <br />
                         Projectile Motion Applets<br />
-                        Website: http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/Projectile/projectile.html
-
+                        Website: <a href="http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/Projectile/projectile.html">http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/Projectile/projectile.html</a><br />
+                        <br />
                         Fowler's Physics Applets<br />
-                        Website: https://www.compadre.org/introphys/items/detail.cfm?ID=7823
-
+                        Website: <a href="https://www.compadre.org/introphys/items/detail.cfm?ID=7823">https://www.compadre.org/introphys/items/detail.cfm?ID=7823</a><br />
+                        <br />
                         Java Applets on Physics<br />
-                        Website: http://www.cco.caltech.edu/~phys1/java.html
+                        Website: <a href="http://www.cco.caltech.edu/~phys1/java.html">http://www.cco.caltech.edu/~phys1/java.html</a>
             - requirement: 3
               text: |-
                   Discuss with your counselor:
@@ -121,12 +119,12 @@
                         What a projectile is
                     children:
                         - detail: true
-                          markdown: true
                           text: |-
                               A projectile is:
-
-                              * An object that is fired, launched, or thrown, but which cannot propel itself
-                              * A self-propelled missile, like a rocket
+                              <ul>
+                              <li>An object that is fired, launched, or thrown, but which cannot propel itself</li>
+                              <li>A self-propelled missile, like a rocket</li>
+                              </ul>
                   - requirement: b
                     text: |-
                         What projectile motion is
@@ -136,7 +134,6 @@
                         The factors affecting the path of a projectile
                     children:
                         - detail: true
-                          markdown: true
                           text: |-
                               When an object is fired, launched, or thrown, it
                               is given horizontal velocity. (Velocity is the
@@ -151,22 +148,22 @@
                               direction in which it was launched. Once the
                               object has been launched, the only force acting
                               upon it is the force of gravity, which
-                              accelerates the object toward Earth.
-
+                              accelerates the object toward Earth.<br />
+                              <br />
                               Projectile motion is the curved path taken by an
-                              object that is fired, launched, or thrown.
-
-                              Helpful Links
-
+                              object that is fired, launched, or thrown.<br />
+                              <br />
+                              Helpful Links<br />
+                              <br />
                               “Free Fall and the Acceleration of Gravity”: The Physics Classroom<br>
-                              Website: http://www.physicsclassroom.com/class/1dkin/u1l5b.cfm
-
+                              Website: <a href="http://www.physicsclassroom.com/class/1dkin/u1l5b.cfm">http://www.physicsclassroom.com/class/1dkin/u1l5b.cfm</a><br />
+                              <br />
                               “Vectors—Fundamentals and Operations”: The Physics Classroom<br>
-                              Website: http://www.physicsclassroom.com/class/vectors/u3l1e.cfm#trig
-
+                              Website: <a href="http://www.physicsclassroom.com/class/vectors/u3l1e.cfm#trig">http://www.physicsclassroom.com/class/vectors/u3l1e.cfm#trig</a><br />
+                              <br />
                               “Projectile Motion”: The Physics Classroom<br>
-                              Website: http://www.physicsclassroom.com/class/vectors/u3l2a.cfm
-
+                              Website: <a href="http://www.physicsclassroom.com/class/vectors/u3l2a.cfm">http://www.physicsclassroom.com/class/vectors/u3l2a.cfm</a><br />
+                              <br />
                               Projectile motion is caused by the force of
                               gravity giving vertical acceleration to an object
                               that has horizontal velocity. (When an object is
@@ -182,25 +179,25 @@
                               combination of constant horizontal velocity and
                               increasing downward velocity due to the
                               acceleration of gravity is what gives a
-                              projectile its curved path.
-
-                              <img src="projectile-path.png" class="W(100%) H(a)">
-
+                              projectile its curved path.<br />
+                              <br />
+                              <img src="/nova-lab/venturing-and-sea-scouts/launch-projectile-path.png" class="wide"><br />
+                              <br />
                               Forward velocity is the speed horizontal to Earth
                               given to a projectile. If the projectile is
                               thrown parallel to Earth, all of its original
                               speed will be its forward velocity. If an object
                               is thrown at an angle to Earth, the forward
                               velocity is that portion of the velocity that is
-                              parallel to Earth.
-
+                              parallel to Earth.<br />
+                              <br />
                               (Determining forward velocity can be done by
                               separating the velocity into horizontal and
                               vertical components—like on a triangle—using
-                              vector resolution.)
-
-                              Forward velocity has a constant speed.
-
+                              vector resolution.)<br />
+                              <br />
+                              Forward velocity has a constant speed.<br />
+                              <br />
                               Acceleration due to gravity slows down things
                               that are moving upward and speeds up things that
                               are moving downward. At most locations on Earth,
@@ -232,7 +229,6 @@
                   is a launch window?
               children:
                   - detail: true
-                    markdown: true
                     text: |-
                         Escape velocity is the speed at which an object will be
                         able to escape the gravity of Earth, the moon, or other
@@ -241,13 +237,13 @@
                         Earth is 11.2 km/s, or 25038.72 mph. Escape velocity is
                         proportional to the square root of the ratio between
                         the mass of the larger body and the distance of the
-                        smaller object from the center of the larger body.
-
-                        Helpful Links
-
+                        smaller object from the center of the larger body.<br />
+                        <br />
+                        Helpful Links<br />
+                        <br />
                         “Escape Velocity”: Georgia State University<br>
-                        Website: http://hyperphysics.phy-astr.gsu.edu/hbase/vesc.html
-
+                        Website: <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/vesc.html">http://hyperphysics.phy-astr.gsu.edu/hbase/vesc.html</a><br />
+                        <br />
                         Orbital velocity is achieved when an object’s
                         horizontal velocity balances the acceleration of
                         gravity at that location in space. An object that has
@@ -255,8 +251,8 @@
                         Earth as it travels away from Earth, giving the object
                         a circular path around Earth. The object continually
                         falls around Earth due to the combination of horizontal
-                        velocity and acceleration due to gravity.
-
+                        velocity and acceleration due to gravity.<br />
+                        <br />
                         Terminal velocity is the point at which the
                         acceleration of gravity on an object matches the air
                         resistance of the object. Terminal velocity is affected
@@ -267,18 +263,18 @@
                         lie flat to increase their air resistance. Later
                         divers streamline dive by holding their arms and legs
                         tightly to their bodies and dive headfirst toward Earth
-                        in order to catch the earlier divers in the air.)
-
+                        in order to catch the earlier divers in the air.)<br />
+                        <br />
                         Note: If it were not for air resistance, all objects,
                         regardless of mass, size, or any other factor, would
-                        fall at the SAME velocity.
-
+                        fall at the SAME velocity.<br />
+                        <br />
                         Watch astronauts David Scott and Jim Irwin do Galileo’s
-                        experiment on the moon.
-
+                        experiment on the moon.<br />
+                        <br />
                         “NASA Lunar Feather Drop Home Page”: NASA<br>
-                        Website: http://er.jsc.nasa.gov/seh/feather.html
-
+                        Website: <a href="http://er.jsc.nasa.gov/seh/feather.html">http://er.jsc.nasa.gov/seh/feather.html</a><br />
+                        <br />
                         When satellites are launched to the east, Earth’s spin
                         effectively adds to their velocity, making escape
                         velocity easier to obtain and requiring less fuel. Not
@@ -297,20 +293,19 @@
                   airplane?)
               children:
                   - detail: true
-                    markdown: true
                     text: |-
                         Terminal velocity is when the acceleration due to
                         gravity is matched by the air resistance (or resistance
                         of whatever fluid the object is traveling through).
                         When the acceleration of gravity is balanced by air
                         resistance, the object continues to fall, but it does
-                        not increase its velocity.
-
+                        not increase its velocity.<br />
+                        <br />
                         “A person has a terminal velocity of about 200 mph when
                         balled up and about 125 mph with arms and feet fully
                         extended to catch the wind.” Source: “Speed of a
                         Skydiver (Terminal Velocity),” The Physics Factbook,
-                        website http://hypertextbook.com/facts/JianHuang.shtml.
+                        website <a href="http://hypertextbook.com/facts/JianHuang.shtml">http://hypertextbook.com/facts/JianHuang.shtml</a>.
             # Removed broken links
             - requirement: 3
               text: |-
@@ -319,22 +314,21 @@
                   is Earth’s escape velocity?)
               children:
                   - detail: true
-                    markdown: true
                     text: |-
-                        Helpful Links
-
+                        Helpful Links<br />
+                        <br />
                         “Orbital Mechanics”: Rocket & Space Technology<br>
-                        Website: http://www.braeunig.us/space/orbmech.htm
-
+                        Website: <a href="http://www.braeunig.us/space/orbmech.htm">http://www.braeunig.us/space/orbmech.htm</a><br />
+                        <br />
                         “What is a ‘launch window’?”: ESA<br>
-                        Website: http://www.esa.int/esaSC/SEMO49YO4HD_index_0.html
-
+                        Website: <a href="http://www.esa.int/esaSC/SEMO49YO4HD_index_0.html">http://www.esa.int/esaSC/SEMO49YO4HD_index_0.html</a><br />
+                        <br />
                         “Launch Windows: How NASA Decides When to Fly”: NRP<br>
-                        Website: http://www.npr.org/templates/story/story.php?storyId=4749663
-
+                        Website: <a href="http://www.npr.org/templates/story/story.php?storyId=4749663">http://www.npr.org/templates/story/story.php?storyId=4749663</a><br />
+                        <br />
                         “Terminal Velocity”: NASA<br>
-                        Website: http://exploration.grc.nasa.gov/education/rocket/termvr.html
-
+                        Website: <a href="http://exploration.grc.nasa.gov/education/rocket/termvr.html">http://exploration.grc.nasa.gov/education/rocket/termvr.html</a><br />
+                        <br />
                         Escape velocity from Earth is 11.2 km/s, or 25038.72 mph.
 - requirement: 4
   text: |-
@@ -357,11 +351,10 @@
             position. Then do the following:
         children:
             - requirement: 1
-              markdown: true
               text: |-
                   Find out what time a satellite will pass over your area. (A
                   good resource to find the times for satellite passes is the
-                  Heavens Above website at http://www.heavens-above.com.)
+                  Heavens Above website at <a href="http://www.heavens-above.com">http://www.heavens-above.com</a>)
             - requirement: 2
               text: |-
                   Watch the satellite using binoculars. Record the time of your

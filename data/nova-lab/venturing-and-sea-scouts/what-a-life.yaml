@@ -1,7 +1,6 @@
 - requirement: 1
-  markdown: true
   text: |-
-      Choose A *or* B *or* C and complete ALL the requirements.
+      Choose A <em>or</em> B <em>or</em> C and complete ALL the requirements.
   children:
       - requirement: A
         text: |-
@@ -18,13 +17,14 @@
               text: |-
                   Discuss two of the questions or ideas with your counselor.
             - detail: true
-              markdown: true
               text: |-
                   Some examples include—but are not limited to—shows found on
                   PBS (NOVA: “Cracking the Code”), Discovery Channel, Science
                   Channel, National Geographic Channel, Animal Planet and TED
                   Talks (online videos). The Human Genome Institute at NIH
-                  website at www.genome.gov/10000002/education/ has educational
+                  website at
+                  <a href="https://www.genome.gov/10000002/education/">www.genome.gov/10000002/education/</a>
+                  has educational
                   information and activities related with human genetics. You
                   may choose to watch a live performance or movie developed by
                   a local science museum or state or federal agency. You may
@@ -60,34 +60,30 @@
               text: |-
                   Discuss two of the questions or ideas with your counselor.
 - requirement: 2
-  markdown: true
   text: |-
       Choose ONE subject from the following list. Complete ALL the requirements
-      from among the [Venturing STEM exploration topics](../../explorations/).
+      from among the <a href="../../explorations/">Venturing STEM exploration topics</a>.
       If you have already completed a Venturing STEM exploration in one of
       these fields, please choose a different field for this award. Discuss
-      with your counselor THREE salient points you learned from each activity.
-
+      with your counselor THREE salient points you learned from each activity.<br />
+      <br />
       Animal Science, Environmental Science, Fish and Wildlife Management,
       Fishing, Forestry, Gardening, Health Care Professions, Insect Study,
       Mammal Study, Nature, Oceanography, Plant Science, Soil and Water
       Conservation, Wildlife Conservation, Veterinary Science
 - requirement: 3
-  markdown: true
   text: |-
       Be a biologist! Consider different areas of biological explorations
-      presented below and pick TWO from A *or* B *or* C *or* D *or* E. Run the
+      presented below and pick TWO from A <em>or</em> B <em>or</em> C <em>or</em> D <em>or</em> E. Run the
       experiments or perform the activity and discuss your observations and
       conclusions with your counselor. Always be sure you have your parent’s or
       guardian’s permission before using the Internet.
   children:
       - requirement: A
-        markdown: true
         text: |-
-            **Botanical Investigation: Effect of Light on Plant Growth**
+            <b>Botanical Investigation: Effect of Light on Plant Growth</b>
         children:
             - requirement: 1
-              markdown: true
               text: |-
                   Experiment: Plant pea seeds in potting soil, and grow and
                   water one set under normal sunlight, another set under
@@ -95,30 +91,30 @@
                   boxes with only one quarter-size hole for sunlight. Predict
                   what difference(s) you expect to see among the three
                   conditions and allow plants to germinate and grow for at
-                  least two weeks.
-
+                  least two weeks.<br />
+                  <br />
                   Record specific observations about the height, leaf size,
                   number of leaves, color, and stem diameter. Document your
                   results with photos. Graph your quantitative results.
             - requirement: 2
-              markdown: true
               text: |-
                   Discuss with your counselor:
-
-                  * What was your hypothesis?
-                  * Did your experimental results agree with your hypothesis?
-                  * What factors contributed to the differences, if any,
-                  between your hypothesis and the actual experimental results?
+                  <ul>
+                  <li>What was your hypothesis?</li>
+                  <li>Did your experimental results agree with your hypothesis?</li>
+                  <li>What factors contributed to the differences, if any,
+                  between your hypothesis and the actual experimental results?</li>
+                  </ul>
               children:
                   - detail: true
-                    markdown: true
                     text: |-
                         Helpful Links
-
-                        * Factors affecting plant growth:
-                        https://edis.ifas.ufl.edu/pdf/4H/4H36000.pdf
-                        * Being an agricultural technician:
-                        https://www.sciencebuddies.org/science-engineering-careers?s=agricultural%20technician
+                        <ul>
+                        <li>Factors affecting plant growth:
+                        <a href="https://edis.ifas.ufl.edu/pdf/4H/4H36000.pdf">https://edis.ifas.ufl.edu/pdf/4H/4H36000.pdf</a></li>
+                        <li>Being an agricultural technician:
+                        <a href="https://www.sciencebuddies.org/science-engineering-careers?s=agricultural%20technician">https://www.sciencebuddies.org/science-engineering-careers?s=agricultural%20technician</a></li>
+                        </ul>
             - requirement: 3
               text: |-
                   Discover. Explain to your counselor possible reasons that
@@ -139,12 +135,10 @@
                         How can this knowledge be used to improve the quality
                         and yield of food crops?
       - requirement: B
-        markdown: true
         text: |-
-            **Microscopic Discovery: Life in a Drop of Pond Water**
+            <b>Microscopic Discovery: Life in a Drop of Pond Water</b>
         children:
             - requirement: 1
-              markdown: true
               text: |-
                   Experiment: Collect a pint of water from a local pond, creek,
                   river or estuary, or any source of standing water. Observe a
@@ -154,59 +148,63 @@
                   the sample. Divide your sample into three equal portions,
                   and store them in jars with access to air (e.g., punch some
                   holes into the lid):
-
-                  * To the first jar, add a pinch of rice flour or ground
-                  yeast. Predict what will change in one week.
-                  * To the second jar, add a teaspoon of household bleach.
-                  Predict what will change in one week.
-                  * Keep the third jar as a control sample. Predict what will
-                  change in one week.
-
+                  <ul>
+                  <li>To the first jar, add a pinch of rice flour or ground
+                  yeast. Predict what will change in one week.</li>
+                  <li>To the second jar, add a teaspoon of household bleach.
+                  Predict what will change in one week.</li>
+                  <li>Keep the third jar as a control sample. Predict what will
+                  change in one week.</li>
+                  </ul>
                   At the end of the one-week incubation, take samples from each
                   jar, and observe under the microscope what changes occurred.
             - requirement: 2
-              markdown: true
               text: |-
                   Discuss with your counselor the following:
-
-                  * What was your original hypothesis?
-                  * Did your experimental results agree with your hypothesis?
-                  * What factors contributed to the differences, if any,
-                  between your hypothesis and the actual experimental results?
+                  <ul>
+                  <li>What was your original hypothesis?</li>
+                  <li>Did your experimental results agree with your hypothesis?</li>
+                  <li>What factors contributed to the differences, if any,
+                  between your hypothesis and the actual experimental results?</li>
+                  </ul>
               children:
                   - detail: true
                     text: |-
                         Helpful Links
-
-                        * Guide to identification of freshwater organisms:
-                        www.msnucleus.org/watersheds/mission/plankton.pdf
-                        * Pond life identification:
-                        www.biologycorner.com/worksheets/identifypond.html
-                        * The Microbial World—Yeasts and yeast-like fungi:
-                        http://archive.bio.ed.ac.uk/jdeacon/microbes/yeast.htm
+                        <ul>
+                        <li>Guide to identification of freshwater organisms:
+                        <a href="www.msnucleus.org/watersheds/mission/plankton.pdf">www.msnucleus.org/watersheds/mission/plankton.pdf</a></li>
+                        <li>Pond life identification:
+                        <a href="www.biologycorner.com/worksheets/identifypond.html">www.biologycorner.com/worksheets/identifypond.html</a></li>
+                        <li>The Microbial World—Yeasts and yeast-like fungi:
+                        <a href="http://archive.bio.ed.ac.uk/jdeacon/microbes/yeast.htm">http://archive.bio.ed.ac.uk/jdeacon/microbes/yeast.htm</a></li>
+                        </ul>
             - requirement: 3
-              markdown: true
               text: |-
                   Discover: Explain to your counselor possible reasons that
                   support your experimental results. Then answer TWO of the
                   following questions. (With your parent’s or guardian’s
                   permission, you may use the internet to find this
                   information.)
-
-                  * What did you learn about the changes in your
+                  <ul>
+                  <li>What did you learn about the changes in your
                   micro-ecosystem, and how can you extrapolate what you learned
-                  to a larger ecosystem?
-                  * Which methods are used to purify the water?
-                  * Research how to make yeast bread, yogurt, or cheese (Choose
+                  to a larger ecosystem?</li>
+                  <li>Which methods are used to purify the water?</li>
+                  <li>Research how to make yeast bread, yogurt, or cheese (Choose
                   ONE only).
-                      * Prepare a sample of the food product to show to your
-                      counselor.
-                      * Discuss with your counselor how microbes were utilized
-                      in production of this food.
+                      <ul>
+                      <li>Prepare a sample of the food product to show to your
+                      counselor.</li>
+                      <li>Discuss with your counselor how microbes were utilized
+                      in production of this food.</li>
+                      </ul>
+                  </li>
+                  </ul>
       - requirement: C
         markdown: true
         text: |-
-            **Zoology and Veterinary Science: Puppy Chow**
+            <b>Zoology and Veterinary Science: Puppy Chow</b>
         children:
             - requirement: 1
               text: |-
@@ -230,39 +228,39 @@
                     text: |-
                         Tabulate your data and present it to your counselor.
             - requirement: 2
-              markdown: true
               text: |-
                   Discuss with your counselor the following:
-
-                  * Why each life stage requires a different balance of nutrients.
-                  * Why is overfeeding a nutrient, such as protein, not a good practice?
-                  * Why do pets need at least an annual check-up?
+                  <ul>
+                  <li>Why each life stage requires a different balance of nutrients.</li>
+                  <li>Why is overfeeding a nutrient, such as protein, not a good practice?</li>
+                  <li>Why do pets need at least an annual check-up?</li>
+                  </ul>
               children:
                   - detail: true
                     text: |-
                         Helpful Links
-
-                        * Animal Nutrition:
-                        https://animalbiosciences.uoguelph.ca/~gking/Ag_2350/nutrition.htm
+                        <ul>
+                        <li>Animal Nutrition:
+                        <a href="https://animalbiosciences.uoguelph.ca/~gking/Ag_2350/nutrition.htm">https://animalbiosciences.uoguelph.ca/~gking/Ag_2350/nutrition.htm</a></li>
+                        </ul>
             - requirement: 3
-              markdown: true
               text: |-
                   Discover: Take a tour of a local veterinary clinic or animal
                   shelter and interview a medical professional about what is
                   involved in a routine pet check-up, including vaccinations,
                   and why.
-
-                  * Explain to your counselor what kind of education is
-                  required to be a veterinarian.
-                  * What are other related career options in this field?
-                  * Are there differences in routine check-ups of different
-                  pets?
-                  * What is the difference in the digestive system of
-                  ruminants?
+                  <ul>
+                  <li>Explain to your counselor what kind of education is
+                  required to be a veterinarian.</li>
+                  <li>What are other related career options in this field?</li>
+                  <li>Are there differences in routine check-ups of different
+                  pets?</li>
+                  <li>What is the difference in the digestive system of
+                  ruminants?</li>
+                  </ul>
       - requirement: D
-        markdown: true
         text: |-
-            **Genetics: DNA Demystified**
+            <b>Genetics: DNA Demystified</b>
         children:
             - requirement: 1
               text: |-
@@ -299,21 +297,21 @@
                         Why do you think you are able to see the DNA without
                         using a microscope?
                   - detail: true
-                    markdown: true
                     text: |-
                         Helpful Links
-
-                        * The Animated Genome:
-                        https://ulc.drivingcreative.com/media/animations/659#660
-                        * Talking Glossary of Genetic Terms:
-                        https://www.genome.gov/genetics-glossary
-                        * Brief history of Human Genome Project
-                        https://www.unlockinglifescode.org/timeline
-                        * Genomic Careers:
-                        https://www.genome.gov/careers-in-genomics
-                        * What do you think? Ethical and social questions
+                        <ul>
+                        <li>The Animated Genome:
+                        <a href="https://ulc.drivingcreative.com/media/animations/659#660">https://ulc.drivingcreative.com/media/animations/659#660</a></li>
+                        <li>Talking Glossary of Genetic Terms:
+                        <a href="https://www.genome.gov/genetics-glossary">https://www.genome.gov/genetics-glossary</a></li>
+                        <li>Brief history of Human Genome Project
+                        <a href="https://www.unlockinglifescode.org/timeline">https://www.unlockinglifescode.org/timeline</a></li>
+                        <li>Genomic Careers:
+                        <a href="https://www.genome.gov/careers-in-genomics">https://www.genome.gov/careers-in-genomics</a></li>
+                        <li>What do you think? Ethical and social questions
                         surrounding genomic research:
-                        https://www.unlockinglifescode.org/wdyt/#!/
+                        <a href="https://www.unlockinglifescode.org/wdyt/#!/">https://www.unlockinglifescode.org/wdyt/#!/</a></li>
+                        </ul>
             - requirement: 3
               text: |-
                   Explain to your counselor TWO of the following questions:
@@ -338,7 +336,7 @@
       - requirement: E
         markdown: true
         text: |-
-            **Ecology**
+            <b>Ecology</b>
         children:
             - requirement: 1
               text: |-
@@ -387,19 +385,19 @@
                         What project has been or could be done to improve the
                         natural habitat threatened in that area?
                   - detail: true
-                    markdown: true
                     text: |-
                         Helpful links
-
-                        * Environmental Information by Location:
-                        https://www.epa.gov/environmental-topics/location-specific-environmental-information
-                        * Learning activities about Environment:
-                        https://www.epa.gov/students
-                        * National Geographic Education:
-                        https://www.nationalgeographic.org/lesson/?q=&grade_bands=9%E2%80%9312+(Ages+14%%20E2%80%9318)&per_page=25&subjects=Ecology
-                        * National Park Service:
-                        https://www.nps.gov/teachers/teacher-resources.htm#q=ecology
-                        * Local flora and fauna guides
+                        <ul>
+                        <li>Environmental Information by Location:
+                        <a href="https://www.epa.gov/environmental-topics/location-specific-environmental-information">https://www.epa.gov/environmental-topics/location-specific-environmental-information</a></li>
+                        <li>Learning activities about Environment:
+                        <a href="https://www.epa.gov/students">https://www.epa.gov/students</a></li>
+                        <li>National Geographic Education:
+                        <a href="https://www.nationalgeographic.org/lesson/?q=&grade_bands=9%E2%80%9312+(Ages+14%%20E2%80%9318)&per_page=25&subjects=Ecology">https://www.nationalgeographic.org/lesson/?q=&grade_bands=9%E2%80%9312+(Ages+14%%20E2%80%9318)&per_page=25&subjects=Ecology</a></li>
+                        <li>National Park Service:
+                        <a href="https://www.nps.gov/teachers/teacher-resources.htm#q=ecology">https://www.nps.gov/teachers/teacher-resources.htm#q=ecology</a></li>
+                        <li>Local flora and fauna guides</li>
+                        </ul>
 - requirement: 4
   text: |-
       Discover: Research and discuss with your counselor THREE of the current

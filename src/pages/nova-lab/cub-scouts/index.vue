@@ -41,7 +41,10 @@ program: cub-scouts
     <p>
         Nova awards are earned by working with a registered Nova counselor, who
         will help ensure the requirements are met. Once earned, the Scout needs
-        to have the advancement recorded by the pack.
+        to have the advancement recorded by the pack. The counselor may use the
+        <a href="/nova-lab/34403.pdf">Advancement Report, form 34403</a> to
+        record the award and provide the necessary information to the parents,
+        who in turn can provide it to the pack's advancement chair.
     </p>
 
     <p>

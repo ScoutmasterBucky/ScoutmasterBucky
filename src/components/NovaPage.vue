@@ -13,7 +13,7 @@ const award = novaAwards[program][nova];
 
     <h1>{{ award.name }}</h1>
 
-    <p v-if="award.lastUpdate"><em>Requirements last updated {{ award.lastUpdate }}.</em></p>
+    <p v-if="award.lastUpdate"><em>Requirements last updated {{ award.lastUpdate }}. There are broken links and outdated information in places and formatting may not match between two Nova awards because the requirements are preserved to match the original state from Scouting America. Where available, the related counselor notes have been included along with the requirements.</em></p>
 
     <Requirements :requirements="requirements" />
 </template>

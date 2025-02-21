@@ -19,20 +19,19 @@
                   processes.
             # Fixed typo "Netflilx" to "Netflix"
             - detail: true
-              markdown: true
               text: |-
-                  Examples:
-
-                  Print the Legend (Netflix)
-
-                  3D Printing is Changing the World<br>
-                  https://youtu.be/GV8zPtqOyqg
-
-                  What is additive manufacturing? GE Additive<br>
-                  https://youtu.be/EHvO-MlzAIM
-
-                  An Introduction to Additive Manufacturing, Prof. John Hart, MIT<br>
-                  https://youtu.be/ICjQ0UzE2Ao
+                  Examples:<br />
+                  <br />
+                  Print the Legend (Netflix)<br />
+                  <br />
+                  3D Printing is Changing the World<br />
+                  <a href="https://youtu.be/GV8zPtqOyqg">https://youtu.be/GV8zPtqOyqg</a><br />
+                  <br />
+                  What is additive manufacturing? GE Additive<br />
+                  <a href="https://youtu.be/EHvO-MlzAIM">https://youtu.be/EHvO-MlzAIM</a><br />
+                  <br />
+                  An Introduction to Additive Manufacturing, Prof. John Hart, MIT<br />
+                  <a href="https://youtu.be/ICjQ0UzE2Ao">https://youtu.be/ICjQ0UzE2Ao</a>
       - requirement: B
         text: |-
             Read not less than three hours total about anything related to 3D
@@ -48,17 +47,16 @@
                   that relate to 3D printing and other additive manufacturing
                   processes.
             - detail: true
-              markdown: true
               text: |-
-                  Examples:
-
-                  Magazines:<br>
-                  All3DP https://all3dp.com/<br>
-                  3D Printing Magazine<br>
-                  MANUFACTUR3D<br>
-                  TCT<br>
-                  3D Metal Printing<br>
-                  MAKE<br>
+                  Examples:<br />
+                  <br />
+                  Magazines:<br />
+                  All3DP <a href="https://all3dp.com/">https://all3dp.com/</a><br />
+                  3D Printing Magazine<br />
+                  MANUFACTUR3D<br />
+                  TCT<br />
+                  3D Metal Printing<br />
+                  MAKE<br />
                   3D MAKE & PRINT
       - requirement: C
         text: |-
@@ -75,14 +73,13 @@
                   printing and other additive manufacturing processes with your
                   counselor.
 - requirement: 2
-  markdown: true
   text: |-
       Choose ONE STEM field of interest from the following list. Complete ALL
-      the requirements for a [Venturing or Sea Scout STEM
-      exploration](../../explorations/) in that field. (If you have already
+      the requirements for a <a href="../../explorations/">Venturing or Sea Scout STEM
+      exploration</a> in that field. (If you have already
       completed a Venturing or Sea Scout STEM Exploration in one of these
-      fields, please choose a different field for this award.)
-
+      fields, please choose a different field for this award.)<br />
+      <br />
       Additive Manufacturing, CAD Modeling, Composite Materials, Inventing,
       Modern Manufacturing, Polymers and Plastics, Sculpting, Wood Carving,
       Woodworking
@@ -108,7 +105,6 @@
                   design to make it easier to 3D print.
             # Moved these comments here to somewhat match the intent
             - detail: true
-              markdown: true
               text: |-
                   To select an item to design, suggest the scout look around
                   their house for common household objects that 3D printing can
@@ -116,7 +112,7 @@
                   accessory, a desk storage container, an extra coat hanger,
                   cell phone holder and sound amplifier, bag clips, etc. They
                   could also look through a database of pre-designed objects
-                  ready for printing, such as https://www.thingiverse.com/ ,
+                  ready for printing, such as <a href="https://www.thingiverse.com/">https://www.thingiverse.com/</a>,
                   for ideas, but need to come up with an original design in
                   order to meet this requirement.
       - requirement: B
@@ -270,17 +266,15 @@
         text: |-
             University/High School 3D Printing/Prototyping Lab
       - requirement: C
-        markdown: true
         text: |-
             Lawrence Livermore National Laboratory 3D Printing Labs Virtual
-            Tour<br>
-            https://youtu.be/3MlHoDHoKPc<br>
-            https://3dprint.com/146386/llnl-virtual-tours-3d-print-labs/
+            Tour<br/>
+            <a href="https://youtu.be/3MlHoDHoKPc">https://youtu.be/3MlHoDHoKPc</a><br/>
+            <a href="https://3dprint.com/146386/llnl-virtual-tours-3d-print-labs/">https://3dprint.com/146386/llnl-virtual-tours-3d-print-labs/</a>
       - requirement: D
-        markdown: true
         text: |-
-            Interactive Tour of a formlab Printer<br>
-            https://formlabs.com/blog/interactive-tour-form-1-3d-printer/
+            Interactive Tour of a formlab Printer<br />
+            <a href="https://formlabs.com/blog/interactive-tour-form-1-3d-printer/">https://formlabs.com/blog/interactive-tour-form-1-3d-printer/</a>
 - requirement: 5
   text: |-
       Discuss with your counselor how 3D printing affects your everyday life

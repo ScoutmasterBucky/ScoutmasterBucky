@@ -45,14 +45,13 @@
                   Discuss two of the questions or ideas that relate to
                   programming and other computer topics with your counselor.
 - requirement: 2
-  markdown: true
   text: |-
       Choose ONE STEM field of interest from the following list. Complete ALL
       the requirements for a Venturing STEM exploration in that field. (If you
-      have already completed a [Venturing STEM
-      Exploration](../../explorations/) in one of these fields, please choose a
-      different field for this award.)
-
+      have already completed a <a href="../../explorations/">Venturing STEM
+      Exploration</a> in one of these fields, please choose a
+      different field for this award.)<br />
+      <br />
       Computer Hardware, Cryptology, Cybersecurity, Electronics, Information
       Technology, Networking, Programming, Robotics, Social Media Marketing
 - requirement: 3
@@ -71,9 +70,8 @@
                   common software applications include:
               children:
                   - requirement: a
-                    markdown: true
                     text: |-
-                        https://squeak.org/ (Smalltalk)
+                        <a href="https://squeak.org/">https://squeak.org/</a> (Smalltalk)
                   - requirement: b
                     text: |-
                         Liberty Basic or the free Just Basic
