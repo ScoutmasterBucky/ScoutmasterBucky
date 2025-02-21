@@ -3,24 +3,26 @@
     "version": "0.0.0",
     "type": "module",
     "scripts": {
-        "build": "iles build",
+        "build": "iles build && npm run verify",
         "now": "run build && npm run preview",
         "preview": "iles preview --open --port 5050",
         "reinstall": "rm -rf node_modules package-lock.json && npm install",
         "start": "iles dev --open",
-        "typecheck": "vue-tsc --noEmit"
+        "typecheck": "vue-tsc --noEmit",
+        "verify": "check-html-links dist/"
     },
     "engines": {
         "node": ">= 20.0.0"
     },
     "devDependencies": {
+        "@modyfi/vite-plugin-yaml": "^1.1.0",
         "@sveltejs/vite-plugin-svelte": "^4.0.0",
+        "check-html-links": "^0.2.4",
         "iles": "^0.10.0-beta.1",
         "typescript": "^5.6",
         "vue-tsc": "^2.1"
     },
     "dependencies": {
-        "@modyfi/vite-plugin-yaml": "^1.1.0",
         "luxon": "^3.5.0"
     }
 }
