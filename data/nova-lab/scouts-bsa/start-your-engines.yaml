@@ -40,7 +40,7 @@
               text: |-
                   Examples of magazines include—but are not limited to—Odyssey,
                   Popular Mechanics, Popular Science, Science Illustrated,
-                  Discover, Air & Space, Aviation Week, Astronomy, Science
+                  Discover, Air &amp; Space, Aviation Week, Astronomy, Science
                   News, Natural History, Robot, Servo, and Scientific American.
       - requirement: C
         text: |-
@@ -55,28 +55,28 @@
               text: |-
                   Discuss two of the questions or ideas with your counselor.
 - requirement: 2
-  markdown: true
   text: |-
       Complete ONE merit badge from the following list. (Choose one that you
       have not already used toward another Nova award.) After completion,
       discuss with your counselor how the merit badge you earned uses
       technology.
-
-      * <a href="../../../merit-badges/automotive-maintenance/">Automotive Maintenance</a>
-      * <a href="../../../merit-badges/aviation/">Aviation</a>
-      * <a href="../../../merit-badges/canoeing/">Canoeing</a>
-      * <a href="../../../merit-badges/cycling/">Cycling</a>
-      * <a href="../../../merit-badges/drafting/">Drafting</a>
-      * <a href="../../../merit-badges/electricity/">Electricity</a>
-      * <a href="../../../merit-badges/energy/">Energy</a>
-      * <a href="../../../merit-badges/farm-mechanics/">Farm Mechanics</a>
-      * <a href="../../../merit-badges/kayaking/">Kayaking</a>
-      * <a href="../../../merit-badges/motorboating/">Motorboating</a>
-      * <a href="../../../merit-badges/nuclear-science/">Nuclear Science</a>
-      * <a href="../../../merit-badges/railroading/">Railroading</a>
-      * <a href="../../../merit-badges/small-boat-sailing/">Small-Boat Sailing</a>
-      * <a href="../../../merit-badges/space-exploration/">Space Exploration</a>
-      * <a href="../../../merit-badges/truck-transportation/">Truck Transportation</a>
+      <ul>
+      <li><a href="/merit-badges/automotive-maintenance/">Automotive Maintenance</a></li>
+      <li><a href="/merit-badges/aviation/">Aviation</a></li>
+      <li><a href="/merit-badges/canoeing/">Canoeing</a></li>
+      <li><a href="/merit-badges/cycling/">Cycling</a></li>
+      <li><a href="/merit-badges/drafting/">Drafting</a></li>
+      <li><a href="/merit-badges/electricity/">Electricity</a></li>
+      <li><a href="/merit-badges/energy/">Energy</a></li>
+      <li><a href="/merit-badges/farm-mechanics/">Farm Mechanics</a></li>
+      <li><a href="/merit-badges/kayaking/">Kayaking</a></li>
+      <li><a href="/merit-badges/motorboating/">Motorboating</a></li>
+      <li><a href="/merit-badges/nuclear-science/">Nuclear Science</a></li>
+      <li><a href="/merit-badges/railroading/">Railroading</a></li>
+      <li><a href="/merit-badges/small-boat-sailing/">Small-Boat Sailing</a></li>
+      <li><a href="/merit-badges/space-exploration/">Space Exploration</a></li>
+      <li><a href="/merit-badges/truck-transportation/">Truck Transportation</a></li>
+      </ul>
 - requirement: 3
   text: |-
       Do ALL the following.
@@ -91,49 +91,52 @@
                   badges.
               children:
                   - detail: true
-                    markdown: true
                     text: |-
-                        * Automotive Maintenance—Gasoline, diesel fuel,
-                        electric, blended gasoline, biodiesel, hybrid
-                        * Aviation—Aviation fuel and kerosene
-                        * Canoeing—Human power
-                        * Cycling—Human power
-                        * Drafting—Human power, electricity
-                        * Electricity—Electromagnetism, chemical
-                        * Energy—Biomass digesters, cogeneration, fossil fuel
+                        <ul>
+                        <li>Automotive Maintenance—Gasoline, diesel fuel,
+                        electric, blended gasoline, biodiesel, hybrid</li>
+                        <li>Aviation—Aviation fuel and kerosene</li>
+                        <li>Canoeing—Human power</li>
+                        <li>Cycling—Human power</li>
+                        <li>Drafting—Human power, electricity</li>
+                        <li>Electricity—Electromagnetism, chemical</li>
+                        <li>Energy—Biomass digesters, cogeneration, fossil fuel
                         power, fuel cells, geothermal power, nuclear power,
                         solar power, tidal energy, wave energy, ocean thermal
-                        energy, wind
-                        * Farm Mechanics—Diesel fuel
-                        * Kayaking–Human power
-                        * Motorboating—Gasoline, diesel fuel, blended gasoline,
-                        biodiesel
-                        * Nuclear Science—Nuclear energy
-                        * Railroading—Diesel fuel
-                        * Small-Boat Sailing—Wind
-                        * Space Exploration—Most common solid: ammonium
+                        energy, wind</li>
+                        <li>Farm Mechanics—Diesel fuel</li>
+                        <li>Kayaking–Human power</li>
+                        <li>Motorboating—Gasoline, diesel fuel, blended gasoline,
+                        biodiesel</li>
+                        <li>Nuclear Science—Nuclear energy</li>
+                        <li>Railroading—Diesel fuel</li>
+                        <li>Small-Boat Sailing—Wind</li>
+                        <li>Space Exploration—Most common solid: ammonium
                         perchlorate mixed with powdered aluminum
-                            * Liquids for first-stage rockets—RP-1
-                            * Liquids for second-stage rockets—Liquid hydrogen,
-                            liquid oxygen
-                        * Truck Transportation—Diesel fuel
+                            <ul>
+                            <li>Liquids for first-stage rockets—RP-1</li>
+                            <li>Liquids for second-stage rockets—Liquid hydrogen,
+                            liquid oxygen</li>
+                            </ul>
+                        </li>
+                        <li>Truck Transportation—Diesel fuel</li>
+                        </ul>
             - requirement: 2
               text: |-
                   Discuss the pros and cons of each energy source with your
                   counselor.
               children:
                   - detail: true
-                    markdown: true
                     text: |-
-                        Helpful Links
-
-                        The following links are places to start.
-
+                        Helpful Links<br />
+                        <br />
+                        The following links are places to start.<br />
+                        <br />
                         “Diesel Reborn”: Edmunds.com<br />
-                        Website: https://www.edmunds.com/fuel-economy/diesel-reborn.html
-
+                        Website: <a href="https://www.edmunds.com/fuel-economy/diesel-reborn.html">https://www.edmunds.com/fuel-economy/diesel-reborn.html</a><br />
+                        <br />
                         “Aviation Jet Fuel Information”: CSGNetwork.com<br />
-                        Website: http://www.csgnetwork.com/jetfuel.html
+                        Website: <a href="http://www.csgnetwork.com/jetfuel.html">http://www.csgnetwork.com/jetfuel.html</a>
       - requirement: B
         text: |-
             Make a list of sources of energy that may be possible to use in
@@ -150,33 +153,32 @@
                   Discuss the pros and cons of using alternative energy
                   sources.
             - detail: true
-              markdown: true
               text: |-
-                  Helpful Links
-
+                  Helpful Links<br />
+                  <br />
                   The following links are places to start when researching
                   alternative fuels. It is not an exhaustive list. You can
                   also search “Air Force alternative fuels” using your favorite
                   search engine. Be sure you have your parent’s or guardian’s
-                  permission to use the Internet.
-
+                  permission to use the Internet.<br />
+                  <br />
                   “Alternative & Advanced Vehicles”: U.S. Department of
                   Energy<br />
-                  Website: https://afdc.energy.gov/fuels/electricity_benefits.html
-
+                  Website: <a href="https://afdc.energy.gov/fuels/electricity_benefits.html">https://afdc.energy.gov/fuels/electricity_benefits.html</a><br />
+                  <br />
                   Energy Sources and Uses: U.S. Department of Energy, Energy
                   Information Administration:<br />
-                  https://www.eia.gov/
-
+                  <a href="https://www.eia.gov/">https://www.eia.gov/</a><br />
+                  <br />
                   “Alternative Fuels”: U.S. Department of Energy<br />
-                  Website: https://www.fueleconomy.gov/feg/current.shtml
-
+                  Website: <a href="https://www.fueleconomy.gov/feg/current.shtml">https://www.fueleconomy.gov/feg/current.shtml</a><br />
+                  <br />
                   “Alternative Fuel”: Popular Mechanics<br />
-                  Website: https://www.popularmechanics.com/cars/hybrid-electric/
-
+                  Website: <a href="https://www.popularmechanics.com/cars/hybrid-electric/">https://www.popularmechanics.com/cars/hybrid-electric/</a><br />
+                  <br />
                   Nuclear Power: U.S. Department of Energy, Energy Information
                   Administration:<br />
-                  https://www.eia.gov/energyexplained/nuclear/
+                  <a href="https://www.eia.gov/energyexplained/nuclear/">https://www.eia.gov/energyexplained/nuclear/</a><br />
 - requirement: 4
   text: |-
       Design and build a working model vehicle (not from a kit).

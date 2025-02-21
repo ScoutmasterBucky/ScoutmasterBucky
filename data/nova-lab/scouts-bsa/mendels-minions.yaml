@@ -1,7 +1,6 @@
 - requirement: 1
-  markdown: true
   text: |-
-      Choose A *or* B *or* C and complete ALL the requirements.
+      Choose A <em>or</em> B <em>or</em> C and complete ALL the requirements.
   children:
       - requirement: A
         text: |-
@@ -21,7 +20,8 @@
                   PBS (NOVA: “Cracking the Code”), Discovery Channel, Science
                   Channel, National Geographic Channel, and TED Talks (online
                   videos). The Human Genome Institute at NIH website at
-                  www.genome.gov/10000002/education/ has educational
+                  <a href="http://www.genome.gov/10000002/education/">www.genome.gov/10000002/education/</a>
+                  has educational
                   information and activities related with human genetics. You
                   may choose to watch a live performance or movie developed by
                   a local science museum or state or federal agency. You may
@@ -59,34 +59,33 @@
               text: |-
                   Discuss two of the questions or ideas with your counselor.
             - detail: true
-              markdown: true
               text: |-
-                  Some resources that may prove useful are listed below.
-
+                  Some resources that may prove useful are listed below.<br />
+                  <br />
                   National Institute of General Medical Sciences:
-                  www.nigms.nih.gov/Pages/default.aspx
-
+                  <a href="http://www.nigms.nih.gov/Pages/default.aspx">www.nigms.nih.gov/Pages/default.aspx</a>
+                  <br />
                   Your Genome—Organisms That Have Had Their Genomes Sequenced:
-                  www.yourgenome.org/facts/timeline-organisms-that-have-had-their-genomes-sequenced
+                  <a href="http://www.yourgenome.org/facts/timeline-organisms-that-have-had-their-genomes-sequenced">www.yourgenome.org/facts/timeline-organisms-that-have-had-their-genomes-sequenced</a>
 - requirement: 2
-  markdown: true
   text: |-
       Complete one merit badge from the following list. (Choose one that you
       have not already used toward another Nova Award.) After completion,
       discuss with your counselor the genetic component of the merit badge you
       selected.
-
-      * <a href="../../../merit-badges/animal-science/">Animal Science</a>
-      * <a href="../../../merit-badges/bird-study/">Bird Study</a>
-      * <a href="../../../merit-badges/forestry/">Forestry</a>
-      * <a href="../../../merit-badges/gardening/">Gardening</a>
-      * <a href="../../../merit-badges/health-care-professions/">Health Care Professions</a>
-      * <a href="../../../merit-badges/insect-study/">Insect Study</a>
-      * <a href="../../../merit-badges/mammal-study/">Mammal Study</a>
-      * <a href="../../../merit-badges/nature/">Nature</a>
-      * <a href="../../../merit-badges/public-health/">Public Health</a>
-      * <a href="../../../merit-badges/reptile-and-amphibian-study/">Reptile and Amphibian Study</a>
-      * <a href="../../../merit-badges/veterinary-medicine/">Veterinary Medicine</a>
+      <ul>
+      <li><a href="/merit-badges/animal-science/">Animal Science</a></li>
+      <li><a href="/merit-badges/bird-study/">Bird Study</a></li>
+      <li><a href="/merit-badges/forestry/">Forestry</a></li>
+      <li><a href="/merit-badges/gardening/">Gardening</a></li>
+      <li><a href="/merit-badges/health-care-professions/">Health Care Professions</a></li>
+      <li><a href="/merit-badges/insect-study/">Insect Study</a></li>
+      <li><a href="/merit-badges/mammal-study/">Mammal Study</a></li>
+      <li><a href="/merit-badges/nature/">Nature</a></li>
+      <li><a href="/merit-badges/public-health/">Public Health</a></li>
+      <li><a href="/merit-badges/reptile-and-amphibian-study/">Reptile and Amphibian Study</a></li>
+      <li><a href="/merit-badges/veterinary-medicine/">Veterinary Medicine</a></li>
+      </ul>
 - requirement: 3
   text: |-
       Complete two of the following activities:

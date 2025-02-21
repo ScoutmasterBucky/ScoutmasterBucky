@@ -5,6 +5,7 @@ const { badge, requirements, resources } = defineProps<{
     resources: Object;
 }>();
 import meritBadges from '../../data/merit-badges.json';
+import novaAwards from '../../data/nova-awards.json';
 import updated from '../../data/updated.json';
 const info = meritBadges[badge];
 const updatedDate = new Date(updated['merit-badges'][badge]);
@@ -13,6 +14,16 @@ const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
     month: 'long',
     day: 'numeric',
 });
+
+const related = new Set();
+
+for (const novaName of info.novas) {
+    const nova = novaAwards['scouts-bsa'][novaName];
+    related.add({
+        name: `${nova.name} Nova Award`,
+        url: `/nova-lab/scouts-bsa/${nova}/`,
+    });
+}
 </script>
 
 <template>
@@ -20,10 +31,10 @@ const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
 
     <div class="bucky-and-badge unprintable">
         <ScaledContent>
-            <img :src="info.bucky" alt="Bucky" />
+            <img :src="info.bucky" alt="Bucky" class="wide" />
         </ScaledContent>
         <ScaledContent>
-            <img :src="info.image" alt="Merit Badge" />
+            <img :src="info.image" alt="Merit Badge" class="wide" />
         </ScaledContent>
     </div>
 
@@ -32,6 +43,14 @@ const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
     <ul>
         <li v-for="resource in resources">
             <a :href="resource.url">{{ resource.name }}</a>
+        </li>
+    </ul>
+
+    <h3 v-if="related.size" class="unprintable">Related</h3>
+
+    <ul v-if="related.size">
+        <li v-for="item in related">
+            <a :href="item.url">{{ item.name }}</a>
         </li>
     </ul>
 

@@ -46,10 +46,23 @@ program: cub-scouts
 
     <p>
         If this is the Cub Scout's first Nova award, they should be awarded with
-        the Cub Scouts Nova patch, which has a light blue border. Subsequent
-        Nova awards are recognized with a Pi device (the pin), which should be
-        pinned to a point on the patch.
+        the Cub Scouts Nova patch, which has a light blue border as shown above.
+        Subsequent Nova awards are recognized with a Pi device (the pin), which
+        should be pinned to a point on the patch.
     </p>
+
+    <h2>Supernova Awards</h2>
+
+    <p>
+        Seeking the next level of STEM awards? Want to impress your friends with
+        an amazing medal that you wear on your uniform? You should investigage
+        the <a href="../supernova/">Supernova awards</a> for Cub Scouts!
+    </p>
+
+    <MeritBadgeList>
+        <SupernovaAward supernova="dr-luis-walter-alvarez" />
+        <SupernovaAward supernova="dr-charles-h-townes" />
+    </MeritBadgeList>
 
     <h2>Nova Awards by Adventure</h2>
 
@@ -301,44 +314,4 @@ program: cub-scouts
             />
         </li>
     </ul>
-
-    <h2>Supernova Awards</h2>
-
-    <p>
-        Seeking the next level of STEM awards? Want to impress your friends with
-        an amazing medal that you wear on your uniform? You should investigage
-        the <a href="../supernova/">Supernova awards</a> for Cub Scouts!
-    </p>
-
-    <MeritBadgeList>
-        <ScaledContent
-            ><a href="../supernova/" class="medal"
-                ><img
-                    src="/nova-lab/supernova/dr-luis-walter-alvarez-medal.jpg"
-                    class="wide"
-                />
-                <div>Dr. Luis Walter Alvarez Supernova Award</div></a
-            ></ScaledContent
-        >
-        <ScaledContent
-            ><a href="../supernova/" class="medal"
-                ><img
-                    src="/nova-lab/supernova/dr-charles-h-townes-medal.jpg"
-                    class="wide"
-                />
-                <div>Dr. Charles H Townes Supernova Award</div></a
-            ></ScaledContent
-        >
-    </MeritBadgeList>
 </template>
-
-<style scoped>
-.medal {
-    text-decoration: none;
-    display: block;
-}
-
-.medal div {
-    text-align: center;
-}
-</style>

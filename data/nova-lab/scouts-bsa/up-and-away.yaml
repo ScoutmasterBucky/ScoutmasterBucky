@@ -1,7 +1,6 @@
 - requirement: 1
-  markdown: true
   text: |-
-      Choose A *or* B *or* C and complete ALL of the requirements.
+      Choose A <em>or</em> B <em>or</em> C and complete ALL of the requirements.
   children:
       - requirement: A
         text: |-
@@ -64,29 +63,28 @@
                   Discuss two of the questions with or ideas with your
                   counselor.
 - requirement: 2
-  markdown: true
   text: |-
       Complete ONE merit badge from the following list. (Choose one that you
       have not already used toward another Nova award). After completion,
       discuss with your counselor how it relates to fluid dynamics.
-
-      * <a href="../../../merit-badges/archery/">Archery</a>
-      * <a href="../../../merit-badges/aviation/">Aviation</a>
-      * <a href="../../../merit-badges/canoeing/">Canoeing</a>
-      * <a href="../../../merit-badges/chemistry/">Chemistry</a>
-      * <a href="../../../merit-badges/kayaking/">Kayaking</a>
-      * <a href="../../../merit-badges/oceanography/">Oceanography</a>
-      * <a href="../../../merit-badges/plumbing/">Plumbing</a>
-      * <a href="../../../merit-badges/rifle-shooting/">Rifle Shooting</a>
-      * <a href="../../../merit-badges/rowing/">Rowing</a>
-      * <a href="../../../merit-badges/scuba-diving/">Scuba Diving</a>
-      * <a href="../../../merit-badges/shotgun-shooting/">Shotgun Shooting</a>
-      * <a href="../../../merit-badges/space-exploration/">Space Exploration</a>
-      * <a href="../../../merit-badges/swimming/">Swimming</a>
+      <ul>
+      <li><a href="/merit-badges/archery/">Archery</a></li>
+      <li><a href="/merit-badges/aviation/">Aviation</a></li>
+      <li><a href="/merit-badges/canoeing/">Canoeing</a></li>
+      <li><a href="/merit-badges/chemistry/">Chemistry</a></li>
+      <li><a href="/merit-badges/kayaking/">Kayaking</a></li>
+      <li><a href="/merit-badges/oceanography/">Oceanography</a></li>
+      <li><a href="/merit-badges/plumbing/">Plumbing</a></li>
+      <li><a href="/merit-badges/rifle-shooting/">Rifle Shooting</a></li>
+      <li><a href="/merit-badges/rowing/">Rowing</a></li>
+      <li><a href="/merit-badges/scuba-diving/">Scuba Diving</a></li>
+      <li><a href="/merit-badges/shotgun-shooting/">Shotgun Shooting</a></li>
+      <li><a href="/merit-badges/space-exploration/">Space Exploration</a></li>
+      <li><a href="/merit-badges/swimming/">Swimming</a></li>
+      </ul>
 - requirement: 3
-  markdown: true
   text: |-
-      Complete two activities from A *or* B *or* C *or* D. Complete all of the
+      Complete two activities from A <em>or</em> B <em>or</em> C <em>or</em> D. Complete all of the
       items under each activity.
   children:
       - requirement: A
@@ -248,14 +246,14 @@
             dynamics concepts covered at the site. Discuss what you learned
             with your counselor.
       - requirement: C
-        markdown: true
         text: |-
             Take a real or online tour of a wind tunnel facility. A real tour
             may be obtained by contacting a local university that offers a degree
             in aerospace engineering or similar field. Virtual tours could include,
             but are not limited to, NASA wind tunnel facility tours:
-            https://www.youtube.com/watch?v=bpRc9I8LMXo and
-            https://www.nasa.gov/image-feature/hypersonic-tunnel-facility/
+            <a href="https://www.youtube.com/watch?v=bpRc9I8LMXo">https://www.youtube.com/watch?v=bpRc9I8LMXo</a>
+            and
+            <a href="https://www.nasa.gov/image-feature/hypersonic-tunnel-facility/">https://www.nasa.gov/image-feature/hypersonic-tunnel-facility/</a>
             Discuss with your counselor the science and engineering concepts
             associated with the facility, e.g., what are the parts of a wind
             tunnel, what a wind tunnel is used for, what are the advantages of

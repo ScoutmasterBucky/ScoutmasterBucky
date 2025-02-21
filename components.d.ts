@@ -37,6 +37,7 @@ declare module 'vue' {
     SmbFooter: typeof import('./src/components/SmbFooter.vue')['default']
     SmbHeaderBannerImage: typeof import('./src/components/SmbHeaderBannerImage.vue')['default']
     SmbNews: typeof import('./src/components/SmbNews.vue')['default']
+    SupernovaAward: typeof import('./src/components/SupernovaAward.vue')['default']
     TestLab: typeof import('./src/components/TestLab.vue')['default']
     TestLabTile: typeof import('./src/components/TestLabTile.vue')['default']
     Tile: typeof import('./src/components/Tile.vue')['default']

@@ -44,12 +44,11 @@
                   military and in everyday life and how a cryptographer uses
                   mathematics.
             - detail: true
-              markdown: true
               text: |-
-                  Helpful Link
-
+                  Helpful Link<br />
+                  <br />
                   “The Mathematics of Cryptology”: University of Massachusetts<br />
-                  Website: http://www.math.umass.edu/~gunnells/talks/crypt.pdf
+                  Website: <a href="http://www.math.umass.edu/~gunnells/talks/crypt.pdf">http://www.math.umass.edu/~gunnells/talks/crypt.pdf</a>
       - requirement: C
         text: |-
             Read at least three articles (about three hours total) about
@@ -88,25 +87,25 @@
               text: |-
                   Discuss two of the questions or ideas with your counselor.
 - requirement: 2
-  markdown: true
   text: |-
       Complete ONE merit badge from the following list. (Choose one that you
       have not already used toward another Nova award.) After completion,
       discuss with your counselor how the merit badge you earned uses
       mathematics.
-
-      * <a href="../../../merit-badges/american-business/">American Business</a>
-      * <a href="../../../merit-badges/animation/">Animation</a>
-      * <a href="../../../merit-badges/chess/">Chess</a>
-      * <a href="../../../merit-badges/digital-technology/">Digital Technology</a>
-      * <a href="../../../merit-badges/drafting/">Drafting</a>
-      * <a href="../../../merit-badges/entrepreneurship/">Entrepreneurship</a>
-      * <a href="../../../merit-badges/orienteering/">Orienteering</a>
-      * <a href="../../../merit-badges/personal-management/">Personal Management</a>
-      * <a href="../../../merit-badges/radio/">Radio</a>
-      * <a href="../../../merit-badges/signs-signals-and-codes/">Signs, Signals, and Codes</a>
-      * <a href="../../../merit-badges/surveying/">Surveying</a>
-      * <a href="../../../merit-badges/weather/">Weather</a>
+      <ul>
+      <li><a href="/merit-badges/american-business/">American Business</a></li>
+      <li><a href="/merit-badges/animation/">Animation</a></li>
+      <li><a href="/merit-badges/chess/">Chess</a></li>
+      <li><a href="/merit-badges/digital-technology/">Digital Technology</a></li>
+      <li><a href="/merit-badges/drafting/">Drafting</a></li>
+      <li><a href="/merit-badges/entrepreneurship/">Entrepreneurship</a></li>
+      <li><a href="/merit-badges/orienteering/">Orienteering</a></li>
+      <li><a href="/merit-badges/personal-management/">Personal Management</a></li>
+      <li><a href="/merit-badges/radio/">Radio</a></li>
+      <li><a href="/merit-badges/signs-signals-and-codes/">Signs, Signals, and Codes</a></li>
+      <li><a href="/merit-badges/surveying/">Surveying</a></li>
+      <li><a href="/merit-badges/weather/">Weather</a></li>
+      </li>
 - requirement: 3
   text: |-
       Choose TWO from A or B or C or D and complete ALL the requirements for
@@ -119,61 +118,56 @@
             Calculate your horsepower when you run up a flight of stairs.
         children:
             - detail: true
-              markdown: true
               text: |-
                   Horsepower is a unit of power. One horsepower equals 33,000
                   foot-pounds of work per minute, or 745.6 watts. James Watt,
                   who invented steam engines, based his unit of power on how
                   much weight a real horse could pull from a coal mine in one
                   minute. See “What Is Horsepower” at
-                  www.web-cars.com/math/horsepower.html.
+                  <a href="http://www.web-cars.com/math/horsepower.html">www.web-cars.com/math/horsepower.html</a>.
             - detail: true
               markdown: true
               text: |-
-                  Helpful Links
-
+                  Helpful Links<br />
+                  <br />
                   “How to Calculate Your Horsepower”: wikiHow<br />
-                  Website: http://www.wikihow.com/Calculate-Your-Horsepower
+                  Website: <a href="http://www.wikihow.com/Calculate-Your-Horsepower">http://www.wikihow.com/Calculate-Your-Horsepower</a>
             - detail: true
-              markdown: true
               text: |-
-                  1. Find out how much you weigh in kilograms and write it down.
-                  (Multiply your weight in pounds by 0.454 to get kilograms.)
-
-                  2. Find a stair, ladder, or something similar (as long as it gets
-                  you upward).
-
-                  3. Measure the height (not the length) of the stairs (or whatever
+                  <ul>
+                  <li>Find out how much you weigh in kilograms and write it down.
+                  (Multiply your weight in pounds by 0.454 to get kilograms.)</li>
+                  <li>Find a stair, ladder, or something similar (as long as it gets
+                  you upward).</li>
+                  <li>Measure the height (not the length) of the stairs (or whatever
                   you use) from the bottom to the ending point at the top and write
                   it down. This can be done by multiplying the height of one stair by
-                  the number of stairs (it doesn’t matter how long the stairs are).
-
-                  4. Take a running start toward the stairs. When you step on the
+                  the number of stairs (it doesn’t matter how long the stairs are).</li>
+                  <li>Take a running start toward the stairs. When you step on the
                   first step, start the timer; when both feet are on the top step,
                   stop the timer. (You may skip stairs.) Now you have all the numbers
-                  needed.
-
-                  5. Calculate the Power (P) with this formula: `mah/t (m*9.80*h)/t`,
+                  needed.</li>
+                  <li>Calculate the Power (P) with this formula: `mah/t (m*9.80*h)/t`,
                   where:
-
-                      * `m` = mass (your weight) in kilograms
-                      * `a` = acceleration (9.80 m/sec2 is the acceleration caused by Earth’s gravity)
-                      * `h` = height of staircase in meters
-                      * `t` = time in seconds
-
+                      <ul>
+                      <li>`m` = mass (your weight) in kilograms</li>
+                      <li>`a` = acceleration (9.80 m/sec2 is the acceleration caused by Earth’s gravity)</li>
+                      <li>`h` = height of staircase in meters</li>
+                      <li>`t` = time in seconds</li>
+                      </ul>
                       The number you get is in watts, which is equal to joules per
                       second (J/s) and newton meters per second (Nm/s). If you don’t
                       divide by time, you will calculate the energy needed to climb
                       the stairs.
-
-                      * Work = mah
-                      * Power = mah/t
-
+                      <ul>
+                      <li>Work = mah</li>
+                      <li>Power = mah/t</li>
+                      </ul>
                       Work (or energy) is measured in newton meters or joules; power
-                      is measured in joules/second or watts.
-
-                  6. Divide the number of watts by 745.6 w/hp to get the number in
-                  horsepower.
+                      is measured in joules/second or watts.</li>
+                  <li>Divide the number of watts by 745.6 w/hp to get the number in
+                  horsepower.</li>
+                  </ul>
             - requirement: 1
               text: |-
                   How does your horsepower compare to the power of a horse?
@@ -232,24 +226,23 @@
                   Basketball—Points, baskets attempted, rebounds, steals,
                   turnovers, and blocked shots
             - detail: true
-              markdown: true
               text: |-
-                  Helpful Links
-
+                  Helpful Links<br />
+                  <br />
                   The following are some suggested sites. You may find other
-                  sources on your own.
-
-                  “SoccerXpert.com Soccer Stats”: SoccerXpert.com<br />
-                  Website: https://www.soccerxpert.com/docs/GameStats.pdf<br />
-                  Local copy: [Soccer Stat Sheet](soccer-stat-sheet.pdf)
-
+                  sources on your own.<br />
+                  <br />
+                  “SoccerXpert.com Soccer Stats”: <a href="http://SoccerXpert.com">SoccerXpert.com</a><br />
+                  Website: <a href="https://www.soccerxpert.com/docs/GameStats.pdf">https://www.soccerxpert.com/docs/GameStats.pdf</a><br />
+                  Local copy: <a href="/nova-lab/scouts-bsa/designed-to-crunch-soccer-stat-sheet.pdf">Soccer Stat Sheet</a><br />
+                  <br />
                   The Baseball Scorecard<br />
-                  Website: https://www.baseball.org.il/images/Scorecard.pdf<br />
-                  Local copy: [Baseball Score Card](baseball-score-card.pdf)
-
+                  Website: <a href="https://www.baseball.org.il/images/Scorecard.pdf">https://www.baseball.org.il/images/Scorecard.pdf</a><br />
+                  Local copy: <a href="/nova-lab/scouts-bsa/designed-to-crunch-baseball-score-card.pdf">Baseball Score Card</a><br />
+                  <br />
                   “How to Take Statistics at a Basketball Game”<br />
-                  Website: https://www.basketballforcoaches.com/basketball-stat-sheet/<br />
-                  Local copy: [Basketball Stat Sheet](basketball-stat-sheet.pdf)
+                  Website: <a href="https://www.basketballforcoaches.com/basketball-stat-sheet/">https://www.basketballforcoaches.com/basketball-stat-sheet/</a><br />
+                  Local copy: <a href="/nova-lab/scouts-bsa/designed-to-crunch-basketball-stat-sheet.pdf">Basketball Stat Sheet</a>
             - detail: true
               text: |-
                   Share your calculations with your counselor and discuss your
@@ -321,38 +314,38 @@
         text: |-
             Discuss with your counselor how math affects your everyday life.
       - detail: true
-        markdown: true
         text: |-
             Here are some ideas for your Scout to consider. Pick a few or think of others.
-
-            * How can you add fractions using your calculator and get an answer
-            in fraction form?
-            * How can you perform repeated calculations efficiently?
-            * How many digits in a numerical answer can your calculator
+            <ul>
+            <li>How can you add fractions using your calculator and get an answer
+            in fraction form?</li>
+            <li>How can you perform repeated calculations efficiently?</li>
+            <li>How many digits in a numerical answer can your calculator
             display? What if the answer to your calculation has more digits
             than your calculator can display? Can you figure out how many
-            digits your answer has? Can you figure out the hidden digits?
-            * How can you enter, store, recall, and use a list of data to
-            perform data analysis calculations?
-            * For a calculator with graphing capabilities, how can you display
+            digits your answer has? Can you figure out the hidden digits?</li>
+            <li>How can you enter, store, recall, and use a list of data to
+            perform data analysis calculations?</li>
+            <li>For a calculator with graphing capabilities, how can you display
             a graph? Will a graphing calculator always show the entire graph or
             does it sometimes show only a portion of the graph? If it shows
             only a portion of the graph, how can you be certain that the
-            portion you are viewing shows the features you want to see?
-            * For numerical calculations, when does your calculator give exact
+            portion you are viewing shows the features you want to see?</li>
+            <li>For numerical calculations, when does your calculator give exact
             answers and when does it give approximate answers? What is the
-            difference? How can you tell? Does it matter?
-            * If your calculator defaults to giving you an approximate answer,
-            but you need an exact answer, what do you do?
-            * If an approximate answer will do, how might your calculator’s
+            difference? How can you tell? Does it matter?</li>
+            <li>If your calculator defaults to giving you an approximate answer,
+            but you need an exact answer, what do you do?</li>
+            <li>If an approximate answer will do, how might your calculator’s
             internal calculation limitations affect the accuracy of the
-            approximation?
-            * For a calculator with graphing capabilities, how might pixel
-            limitations affect its depiction of a graph?
-            * Is the calculator always right? Why or why not? How might you
+            approximation?</li>
+            <li>For a calculator with graphing capabilities, how might pixel
+            limitations affect its depiction of a graph?</li>
+            <li>Is the calculator always right? Why or why not? How might you
             tell? What might cause a calculator to give you an incorrect
             answer? (For a graphing calculator, what might cause the calculator
             to give you an incorrect graph, no graph, or a graph that cannot be
-            readily interpreted?)
-            * Are there numerical calculations that calculators can’t do? If
-            possible, give an example.
+            readily interpreted?)</li>
+            <li>Are there numerical calculations that calculators can’t do? If
+            possible, give an example.</li>
+            </ul>
