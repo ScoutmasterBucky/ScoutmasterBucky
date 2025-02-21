@@ -4,13 +4,6 @@ layout: nova
 program: scouts-bsa
 </page>
 
-<script setup lang="ts">
-import meritBadges from '../../../../data/merit-badges.json';
-const badgesWithNovas = Object.entries(meritBadges)
-    .map(([name, info]) => ({ ...info, name }))
-    .filter(badge => badge.novas.length > 0);
-</script>
-
 <template>
     <p>
         Nova awards use a slightly more scientific approach while exposing
@@ -47,9 +40,12 @@ const badgesWithNovas = Object.entries(meritBadges)
     </MeritBadgeList>
 
     <p>
-        Nova awards are earned by working with a registered Nova counselor, who
-        will help ensure the requirements are met. Once earned, the Scout needs
-        to have the advancement recorded by the pack.
+        A registered Nova counselor needs to work with the Scout to ensure all
+        requirements are met. Once earned, the Nova counselor will record the
+        advancement using
+        <a href="/nova-lab/34403.pdf">Advancement Report, form 34403</a>, which
+        can be given to the Scout. This form should be provided to the troop's
+        advancement chair to be recorded.
     </p>
 
     <p>
@@ -69,6 +65,11 @@ const badgesWithNovas = Object.entries(meritBadges)
         These awards are designed to be more challenging and more rewarding than
         the Nova awards. The medals that are awarded are rarely seen and are
         amazing to wear.
+    </p>
+
+    <p>
+        Learn more about the <a href="../supernova">Supernova awards</a> and the
+        award progression.
     </p>
 
     <MeritBadgeList>

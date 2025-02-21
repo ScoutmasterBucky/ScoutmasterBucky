@@ -18,7 +18,6 @@
               text: |-
                   Discuss two of the questions or ideas with your counselor.
             - detail: true
-              markdown: true
               text: |-
                   Some examples include—but are not limited to—shows found on
                   PBS (“NOVA”), Discovery Channel, Science Channel, National
@@ -29,7 +28,7 @@
                   counselor’s approval and under your parent’s or guardian’s
                   supervision. One example is the NOVA Lever, an Obelisk page
                   on ancient Egypt and the use of levers, available at
-                  www.pbslearningmedia.org/resource/phy03.sci.phys.energy.vegypt/raising-an-obelisk-an-engineering-puzzle/?student=true&focus=true
+                  <a href="http://www.pbslearningmedia.org/resource/phy03.sci.phys.energy.vegypt/raising-an-obelisk-an-engineering-puzzle/?student=true&focus=true">www.pbslearningmedia.org/resource/phy03.sci.phys.energy.vegypt/raising-an-obelisk-an-engineering-puzzle/?student=true&focus=true</a>
       - requirement: B
         text: |-
             Read (about three hours total) about motion or motion-inspired
@@ -63,20 +62,19 @@
                   Discuss two of the questions or ideas with your counselor.
 # It appears that this is listing merit badges instead of STEM explorations.
 - requirement: 2
-  markdown: true
   text: |-
       Complete ONE STEM field of interest from the following list. Complete ALL
       the requirements for a Venturing and Sea Scout exploration in that field.
-      See [STEM Explorations](../../explorations/) for the requirements. If you
+      See <a href="../../explorations/">STEM Explorations</a> for the requirements. If you
       have already completed a Venturing or Sea Scout exploration in one of
       these fields, choose a different field for this award. After completion,
       discuss with your counselor how the exploration you earned uses
-      engineering.
-
+      engineering.<br />
+      <br />
       Archery, Aviation, Composite Materials, Drafting, Electronics,
       Engineering, Inventing, Mining in Society, Model Design and Building,
-      Railroading, Rifle Shooting, Robotics, Shotgun Shooting
-
+      Railroading, Rifle Shooting, Robotics, Shotgun Shooting<br />
+      <br />
       Composites can be found just about everywhere: in airplanes and sports
       cars, golf clubs and guitars, boats and baseball bats, bathtubs, and
       circuit boards, and even bridges. Composites make bicycles and skis
@@ -92,15 +90,15 @@
             Make a list or drawing of the six simple machines.
         children:
             - detail: true
-              markdown: true
               text: |-
-                  Helpful Links
-
-                  “Six Simple Machines”: http://www.constructionknowledge.net/
-
-                  https://www.livescience.com/49106-simple-machines.html
-
-                  https://www.teachengineering.org/populartopics/simplemachines
+                  Helpful Links<br />
+                  <br />
+                  “Six Simple Machines”:
+                  <a href="http://www.constructionknowledge.net/">http://www.constructionknowledge.net/</a><br />
+                  <br />
+                  <a href="https://www.livescience.com/49106-simple-machines.html">https://www.livescience.com/49106-simple-machines.html</a><br />
+                  <br />
+                  <a href="https://www.teachengineering.org/populartopics/simplemachines">https://www.teachengineering.org/populartopics/simplemachines</a>
             # Kept older images because the newer ones don't have the text
             # labels.
             - detail: true
@@ -118,16 +116,16 @@
                   effort. Depending on where the fulcrum is placed, a class 1
                   lever can either move the load more easily or move the load a
                   greater distance. Examples of class 1 levers include seesaws,
-                  crowbars, scissors, and pliers.
-
+                  crowbars, scissors, and pliers.<br />
+                  <br />
                   Class 2 lever - The fulcrum is at one end, the effort is at
                   the other end, and the load is in the middle. The effort and
-                  the load move in the same direction.
-
+                  the load move in the same direction.<br />
+                  <br />
                   A class 2 lever makes an object easier to move. Examples of
                   class 2 levers include catapults, screwdrivers, nutcrackers,
-                  staplers, and wheelbarrows.
-
+                  staplers, and wheelbarrows.<br />
+                  <br />
                   Class 3 lever - The fulcrum is at one end, and the effort is
                   applied between the fulcrum and the load. The effort and the
                   load move in the same direction. A class 3 lever makes an
@@ -135,16 +133,16 @@
                   distance than the effort moves. Because the load end moves
                   faster than the effort (it has to travel farther during the
                   same amount of time), the load gains speed. Many sporting
-                  activities use class 3 levers.
-
+                  activities use class 3 levers.<br />
+                  <br />
                   Examples of class 3 levers include bats, rackets, paddles,
-                  clubs, fishing poles, and brooms.
-
-                  <img src="levers.png" class="W(100%) H(a)">
-
-                  <img src="simple-machines.png" class="W(100%) H(a)">
-
-                  <img src="screw-and-pulley.png" class="W(100%) H(a)">
+                  clubs, fishing poles, and brooms.<br />
+                  <br />
+                  <img src="/nova-lab/venturing-and-sea-scouts/hang-on-levers.png" class="wide"><br />
+                  <br />
+                  <img src="/nova-lab/venturing-and-sea-scouts/hang-on-simple-machines.png" class="wide"><br />
+                  <br />
+                  <img src="/nova-lab/venturing-and-sea-scouts/hang-on-screw-and-pulley.png" class="wide">
       - requirement: B
         text: |-
             Be able to tell your counselor the name of each machine and how
@@ -164,52 +162,52 @@
                   # Kept older images because the newer ones don't have the
                   # text labels.
                   - detail: true
-                    markdown: true
                     text: |-
-                        Helpful Links
-
-                        “Six Simple Machines”: ConstructionKnowledge.net
-
+                        Helpful Links<br />
+                        <br />
+                        “Six Simple Machines”: <a href="http://ConstructionKnowledge.net">ConstructionKnowledge.net</a><br />
+                        <br />
                         Website:
-                        https://www.constructionknowledge.net/general_technical_knowledge/general_tech_basic_six_simple_machines.php
-
-                        * Archery - The bow is a lever, and the hand is the
-                        fulcrum. Crossbows use a pulley.
-                        * Aviation - Wheel and axle, levers, and pulleys.
-                        Propellers are a type of screw.
-                        * Composite Materials - Composites can be found just
+                        <a href="https://www.constructionknowledge.net/general_technical_knowledge/general_tech_basic_six_simple_machines.php">https://www.constructionknowledge.net/general_technical_knowledge/general_tech_basic_six_simple_machines.php</a>
+                        <ul>
+                        <li>Archery - The bow is a lever, and the hand is the
+                        fulcrum. Crossbows use a pulley.</li>
+                        <li>Aviation - Wheel and axle, levers, and pulleys.
+                        Propellers are a type of screw.</li>
+                        <li>Composite Materials - Composites can be found just
                         about everywhere: in airplanes, golf clubs, baseball
                         bats, circuit boards, and even bridges. Composites make
                         sporting equipment lighter and stronger, houses warmer,
                         and helmets tougher. Pick a composite product and
-                        discuss the machines made of the components.
-                        * Drafting - Incline plane (triangle), wheel and axle,
-                        and lever.
-                        * Electronics - Varies. Lever used in soldering irons,
+                        discuss the machines made of the components.</li>
+                        <li>Drafting - Incline plane (triangle), wheel and axle,
+                        and lever.</li>
+                        <li>Electronics - Varies. Lever used in soldering irons,
                         switches, and circuit breakers (see
-                        https://electronics.howstuffworks.com/circuit-breaker.htm).
-                        * Engineering - Engineering makes use of all the simple
+                        <a href="https://electronics.howstuffworks.com/circuit-breaker.htm">https://electronics.howstuffworks.com/circuit-breaker.htm</a>).</li>
+                        <li>Engineering - Engineering makes use of all the simple
                         machines. See
-                        https://www.teachengineering.org/lessons/view/cub_simp_machines_lesson01
-                        * Inventing - Inventors can use simple machines to help
+                        <a href="https://www.teachengineering.org/lessons/view/cub_simp_machines_lesson01">https://www.teachengineering.org/lessons/view/cub_simp_machines_lesson01</a></li>
+                        <li>Inventing - Inventors can use simple machines to help
                         them construct their prototypes; their inventions may
-                        incorporate simple machines.
-                        * Model Design and Building - Tools such as knives
+                        incorporate simple machines.</li>
+                        <li>Model Design and Building - Tools such as knives
                         (wedge), handsaws (wedge), vises (screw and lever),
                         files, hammers (lever), screwdrivers (lever), hand
                         drills (screw, wheel and axle), drill bits (screw), and
-                        pliers (two levers working together).
-                        * Railroading - Levers, wheel and axle.
-                        * Rifle Shooting - The fulcrum (pivot point) in the
+                        pliers (two levers working together).</li>
+                        <li>Railroading - Levers, wheel and axle.</li>
+                        <li>Rifle Shooting - The fulcrum (pivot point) in the
                         trigger mechanism is between the effort (applied by the
                         trigger finger) and where the pressure (the load or
-                        resistance) is applied to the spring.
-                            <img src="trigger-mechanism.png" class="W(100%) H(a)">
-                        * Robotics - Robot designers and builders can use
+                        resistance) is applied to the spring.<br />
+                        <img src="/nova-lab/venturing-and-sea-scouts/hang-on-trigger-mechanism.png" class="wide"></li>
+                        <li>Robotics - Robot designers and builders can use
                         simple machines to help them build their robots. Robots
                         may contain simple machines to help them function, like
-                        how the human body incorporates simple machines.
-                        * Shotgun Shooting - See Rifle Shooting.
+                        how the human body incorporates simple machines.</li>
+                        <li>Shotgun Shooting - See Rifle Shooting.</li>
+                        </ul>
             - requirement: 2
               text: |-
                   The energy source causing the motion for the subject of your

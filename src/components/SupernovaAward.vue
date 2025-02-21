@@ -1,14 +1,18 @@
 <script setup lang="ts">
-defineProps<{ supernova: String }>();
+const { supernova } = defineProps<{ supernova: String }>();
 import supernovaAwards from '../../data/supernova-awards.json';
+const detail = supernovaAwards[supernova];
 </script>
 
 <template>
     <ScaledContent>
-    <a :href="`/nova-lab/supernova/${supernova}/`">
-        <img :src="`/nova-lab/supernova/${supernova}-medal.jpg`" class="wide" />
-        <div class="name">{{ supernovaAwards[supernova].name }} Supernova Award</div>
-    </a>
+        <a :href="`/nova-lab/supernova/${supernova}/`">
+            <div v-if="detail.caption" class="caption">
+                {{ detail.caption }}
+            </div>
+            <img :src="detail.medal" class="wide" />
+            <div class="name">{{ detail.name }} Supernova Award</div>
+        </a>
     </ScaledContent>
 </template>
 
@@ -18,7 +22,8 @@ a {
     display: block;
 }
 
-.name {
+.name,
+.caption {
     text-align: center;
 }
 </style>

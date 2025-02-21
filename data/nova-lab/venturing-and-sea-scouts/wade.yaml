@@ -1,6 +1,6 @@
-- requirement: "1"
-  text: "Choose A, *or* B, *or* C and complete ALL the requirements:"
-  markdown: true
+- requirement: 1
+  text: |-
+      Choose A, <em>or</em> B, <em>or</em> C and complete ALL the requirements:
   children:
       - requirement: A
         text: |-
@@ -21,12 +21,11 @@
                   Some examples include—but are not limited to—shows found on PBS
                   (“NOVA”), Discovery Channel, Science Channel, National Geographic
                   Channel, TED Talks (online videos), History Channel, the National
-                  Academy of Sciences YouTube Channel, and www.waterblues.org. You may
+                  Academy of Sciences YouTube Channel, and <a href="http://www.waterblues.org/">www.waterblues.org</a>. You may
                   choose to watch a live performance or movie developed by a local
                   museum or state or federal agency. You may watch online productions
                   with your counselor’s approval and under your parent’s or guardian’s
                   supervision.
-              markdown: true
       - requirement: B
         text: |-
             Read (for about three hours total) about water as it relates to the
@@ -53,11 +52,10 @@
             - requirement: 2
               text: Discuss two of the questions or ideas with your counselor.
 - requirement: 2
-  markdown: true
   text: |-
-      Choose **ONE** STEM field of interest from the following list. Complete
-      **ALL** the requirements for a [Venturing STEM
-      exploration](../../explorations/) in that field. You should be prepared
+      Choose <b>ONE</b> STEM field of interest from the following list. Complete
+      <b>ALL</b> the requirements for a <a href="../../explorations/">Venturing STEM
+      exploration</a> in that field. You should be prepared
       to discuss the role of water in the area or field you’ve chosen. (If you
       have already completed a Venturing STEM exploration in one of these
       fields, please choose a different field for this award.)
@@ -83,10 +81,9 @@
             Discuss with your counselor the effects that floating sea ice and
             land-based ice have on water tables when they melt.
       - detail: true
-        markdown: true
         text: |-
             The Polar Literacy Initiative
-            (https://polar-ice.org/polar-literacy-initiative/) is a good place to
+            (<a href="https://polar-ice.org/polar-literacy-initiative/">https://polar-ice.org/polar-literacy-initiative/</a>) is a good place to
             start investigating these topics.
 - requirement: 4
   text: |-
@@ -96,30 +93,29 @@
       your counselor the physical concept(s) involved.
   children:
       - detail: true
-        markdown: true
         text: |-
             Oil spills can be remediated in four ways: physically skimming the
             oil off the surface of the water, burning the oil, using
             surfactants to break the oil slick down, or doing nothing and
-            letting nature take care of it.
-
+            letting nature take care of it.<br />
+            <br />
             A surfactant is a material that lowers surface tension between two
             liquids, breaking down the barrier between them. They are used in
-            detergents, dispersants, wetting agents, medicine, and so on.
-
-            See
-
-            Explainer: why are chemical dispersants used in oil spills?<br>
-            https://www.chemistryworld.com/news/explainer-why-are-chemical-dispersants-used-in-oil-spills/1017322.article
-
-            Oil Spill Dispersants: Efficacy and Effects (2005)<br>
-            https://www.nap.edu/catalog/11283/oil-spill-dispersants-efficacy-and-effects
-
+            detergents, dispersants, wetting agents, medicine, and so on.<br />
+            <br />
+            See<br />
+            <br />
+            Explainer: why are chemical dispersants used in oil spills?<br />
+            <a href="https://www.chemistryworld.com/news/explainer-why-are-chemical-dispersants-used-in-oil-spills/1017322.article">https://www.chemistryworld.com/news/explainer-why-are-chemical-dispersants-used-in-oil-spills/1017322.article</a><br />
+            <br />
+            Oil Spill Dispersants: Efficacy and Effects (2005)<br />
+            <a href="https://www.nap.edu/catalog/11283/oil-spill-dispersants-efficacy-and-effects">https://www.nap.edu/catalog/11283/oil-spill-dispersants-efficacy-and-effects</a><br />
+            <br />
             One activity could be having scouts try different tools to skim the
             oil using different tools – a paper towel, wood splint, steel wool,
             cotton balls, and so on. You could also have them build a physical
-            oil skimmer. Which one collects the most oil and least water?
-
+            oil skimmer. Which one collects the most oil and least water?<br />
+            <br />
             Another activity could be putting oil and water into a sealed
             scintillation (or other clear) vial and shaking vigorously. What
             happens? Then add one drop of dishwashing liquid (Dawn works best)
@@ -149,14 +145,13 @@
                   to complement sewage treatment plants? Discuss your findings
                   with your counselor.
             - detail: true
-              markdown: true
               text: |-
                   Your state department of conservation or natural resources
-                  can be a great place to start.
-
+                  can be a great place to start.<br />
+                  <br />
                   Flyover Country® is a National Science Foundation funded
                   offline mobile app for geoscience outreach and data
-                  discovery. https://flyovercountry.io/
+                  discovery. <a href="https://flyovercountry.io/">https://flyovercountry.io/</a>
       - requirement: B
         text: Surface water
         children:
@@ -169,32 +164,31 @@
                   mouth of rivers.
               children:
                   - detail: true
-                    markdown: true
                     text: |-
-                        Useful Links
-
+                        Useful Links<br />
+                        <br />
                         USGS web sites
-                        https://water.usgs.gov/edu/watershed.html , and
-                        https://water.usgs.gov/edu/runoff.html<br>
+                        <a href="https://water.usgs.gov/edu/watershed.html">https://water.usgs.gov/edu/watershed.html</a>, and
+                        <a href="https://water.usgs.gov/edu/runoff.html">https://water.usgs.gov/edu/runoff.html</a><br />
                         US EPA's Surf your Watershed
-                        https://www.epa.gov/waterdata/surf-your-watershed<br>
+                        <a href="https://www.epa.gov/waterdata/surf-your-watershed">https://www.epa.gov/waterdata/surf-your-watershed</a><br/>
                         USGS Watershed Tool at
-                        https://viewer.nationalmap.gov/advanced-viewer/ . Turn
+                        <a href="https://viewer.nationalmap.gov/advanced-viewer/">https://viewer.nationalmap.gov/advanced-viewer/</a>. Turn
                         on the National Hydrography Dataset (NHD) in the Layers
                         list, and the topographical lines will show where water
                         flows. Turn on the Watershed Boundary Dataset in the
                         Layers list, and you can see how large of an area your
-                        watershed covers, and other watersheds that are nearby.
-
-                        **Watershed** - a geographic area that drains into a
-                        common outflow point, which could be a river basin.
-
-                        **Runoff** - That part of the precipitation, snow melt,
+                        watershed covers, and other watersheds that are nearby.<br />
+                        <br />
+                        <b>Watershed</b> - a geographic area that drains into a
+                        common outflow point, which could be a river basin.<br />
+                        <br />
+                        <b>Runoff</b> - That part of the precipitation, snow melt,
                         or irrigation water that appears in surface streams,
                         rivers, drains or sewers. It may be described by how
-                        fast it appears, or by source.
-
-                        **Runoff coefficient** - a dimensionless coefficient
+                        fast it appears, or by source.<br />
+                        <br />
+                        <b>Runoff coefficient</b> - a dimensionless coefficient
                         that describes the amount of precipitation that runs
                         off an area, as opposed to being absorbed into the
                         ground. It ranges from 0 to 1, with larger values for
@@ -206,20 +200,20 @@
                         of multiple types of surfaces – for example, a lot that
                         is ½ pavement and ½ asphalt would have a composite
                         coefficient that was proportional to the amount of each
-                        surface area.
-
-                        **Infiltration** – rainfall or other water that is
-                        absorbed into the soil
-
-                        **Point source pollution** - water pollution coming
+                        surface area.<br />
+                        <br />
+                        <b>Infiltration</b> – rainfall or other water that is
+                        absorbed into the soil<br />
+                        <br />
+                        <b>Point source pollution</b> - water pollution coming
                         from a single identifiable point, such as a
-                        sewage-outflow pipe
-
-                        **Non-point source pollution** – pollution collected as
+                        sewage-outflow pipe<br />
+                        <br />
+                        <b>Non-point source pollution</b> – pollution collected as
                         water washes off a large area. Could include
-                        pesticides, soil particles, and so on.
-
-                        **Oceanic dead zones** – a low-oxygen area (hypoxic),
+                        pesticides, soil particles, and so on.<br />
+                        <br />
+                        <b>Oceanic dead zones</b> – a low-oxygen area (hypoxic),
                         often found near the mouth of rivers, resulting from
                         "excessive nutrient pollution from human activities
                         coupled with other factors that deplete the oxygen
@@ -233,21 +227,20 @@
                   rainfall.
               children:
                   - detail: true
-                    markdown: true
                     text: |-
                         Example: If the watershed you selected is 10 acres,
                         that is 6.273 x 107 sq in. A 1 inch per hour rainfall
-                        will deposit:
-
+                        will deposit:<br />
+                        <br />
                         6.273 x 107 sq in * 1 in/hr. * 1 hour = 6.273 x 107
-                        cubic inches of rain per hour
-
+                        cubic inches of rain per hour<br />
+                        <br />
                         6.273 x 107 cubic inches of rain/hr. * 1hr/60 minutes =
-                        1,045,500 cubic inches of rain/minute
-
+                        1,045,500 cubic inches of rain/minute<br />
+                        <br />
                         1,045,500 cubic inches of rain/minute * 0.004329
-                        gallons/cubic inch = 4520 gallons rain/minute
-
+                        gallons/cubic inch = 4520 gallons rain/minute<br />
+                        <br />
                         To put that into perspective, an average American
                         shower uses 17 gallons of water, which is 270 showers
                         worth of water falling every minute over the watershed.
@@ -260,7 +253,6 @@
                   rainfall from your home’s lot or a nearby property.
               children:
                   - detail: true
-                    markdown: true
                     text: |-
                         <table>
                         <tr><th>Type</th><th>Runoff Coefficient</th><th>% of water that runs off</th></tr>
@@ -271,25 +263,25 @@
                         <tr><td>Streets, gravel</td><td>0.25</td><td>25%</td></tr>
                         </table>
 
-                        Sample Calculation:
-
-                        If your property is 1 acre, that is 6.273 x 106 sq in.
-
-                        A 1 inch per hour rainfall will deposit:
-
+                        Sample Calculation:<br />
+                        <br />
+                        If your property is 1 acre, that is 6.273 x 106 sq in.<br />
+                        <br />
+                        A 1 inch per hour rainfall will deposit:<br />
+                        <br />
                         6.273 x 106 sq in * 1 in/hr * 1 hour = 6.273 x 106
-                        cubic inches of rain per hour
-
+                        cubic inches of rain per hour<br />
+                        <br />
                         6.273 x 106 cubic inches of rain/hr. * 1hr/60 minutes =
-                        104,550 cubic inches of rain/minute
-
+                        104,550 cubic inches of rain/minute<br />
+                        <br />
                         If half the property is house (i.e., roof), and half
                         the property is a grass lawn, the amount of runoff would
-                        be:
-
+                        be:<br />
+                        <br />
                         Runoff = (1/2*0.90 + ½*0.05)*104,550 in3/minute =
-                        49,661 in3/minute
-
+                        49,661 in3/minute<br />
+                        <br />
                         This is the Rational Method for runoff calculations,
                         and is a quick, simple calculation. Much more
                         sophisticated models and computer algorithms are also
@@ -304,17 +296,16 @@
                   by land use? How might these be reduced?
               children:
                   - detail: true
-                    markdown: true
                     text: |-
                         Helpful Resources:
-
-                        * The USGS Water Science School –
-                        https://water.usgs.gov/edu/ may be helpful in
-                        researching these topics.
+                        <ul>
+                        <li>The USGS Water Science School –
+                        <a href="https://water.usgs.gov/edu/">https://water.usgs.gov/edu/</a>
+                        may be helpful in researching these topics.</li>
+                        </ul>
 - requirement: 6
-  markdown: true
   text: |-
-      Choose **ONE** of the following options:
+      Choose <b>ONE</b> of the following options:
   children:
       - requirement: A
         text: |-

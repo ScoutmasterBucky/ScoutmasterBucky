@@ -1,7 +1,6 @@
 - requirement: 1
-  markdown: true
   text: |-
-      Choose A *or* B *or* C and complete ALL of the requirements.
+      Choose A <em>or</em> B <em>or</em> C and complete ALL of the requirements.
   children:
       - requirement: A
         text: |-
@@ -18,11 +17,10 @@
                   Discuss two of the questions with or ideas with your
                   counselor.
             - detail: true
-              markdown: true
               text: |-
                   Some examples of shows to watch include — but are not limited
                   to — “The STEM of Indoor Skydiving”
-                  (https://youtu.be/V5jJ5FaX1ZU); documentaries produced by PBS
+                  (<a href="https://youtu.be/V5jJ5FaX1ZU">https://youtu.be/V5jJ5FaX1ZU</a>); documentaries produced by PBS
                   (such as “NOVA”), the Discovery Channel, Science Channel,
                   National Geographic Channel, and the History Channel; or
                   lectures or presentations focused on science, technology,
@@ -68,20 +66,18 @@
                   Discuss two of the questions with or ideas with your
                   counselor.
 - requirement: 2
-  markdown: true
   text: |-
       Complete ONE STEM field of interest from the following list. Complete ALL
-      the requirements for a [Venturing STEM exploration](../../explorations/)
+      the requirements for a <a href="../../explorations/">Venturing STEM exploration</a>
       in that field. (If you have already completed a Venturing STEM
       Exploration in one of these fields, please choose a different field for
-      this award.
-
+      this award.<br />
+      <br />
       Aviation, Canoeing, Chemistry, Kayaking, Oceanography, Plumbing, Rowing,
       Scuba Diving, Swimming
 - requirement: 3
-  markdown: true
   text: |-
-      Complete two activities from A *or* B *or* C *or* D. Complete all the
+      Complete two activities from A <em>or</em> B <em>or</em> C <em>or</em> D. Complete all the
       items under each activity.
   children:
       - requirement: A
@@ -112,10 +108,10 @@
             - requirement: 1
               text: |-
                   Download the worksheet at
-                  https://www.iflyworld.com/plan-an-event/education/high-school/
-                  or use [a similar worksheet](worksheet.pdf) such as the
+                  <a href="https://www.iflyworld.com/plan-an-event/education/high-school/">https://www.iflyworld.com/plan-an-event/education/high-school/</a>
+                  or use <a href="/nova-lab/venturing-and-sea-scouts/up-and-away-worksheet.pdf">a similar worksheet</a> such as the
                   "Student Terminal Velocity Worksheet" at
-                  https://www.grc.nasa.gov/www/k-12/airplane/termv.html.
+                  <a href="https://www.grc.nasa.gov/www/k-12/airplane/termv.html">https://www.grc.nasa.gov/www/k-12/airplane/termv.html</a>.
                   Calculate the terminal velocity of a 100-pound backpack on
                   the planet earth.
             - requirement: 2
@@ -201,9 +197,8 @@
               text: |-
                   Discuss the results with your counselor.
 - requirement: 4
-  markdown: true
   text: |-
-      Complete one of the following A *or* B *or* C.
+      Complete one of the following A <em>or</em> B <em>or</em> C.
   children:
       - requirement: A
         text: |-
@@ -218,15 +213,14 @@
             docent or staff member about flight and fluid dynamics concepts
             covered at the site. Discuss what you learned with your counselor.
       - requirement: C
-        markdown: true
         text: |-
             Take a real or online tour of a wind tunnel facility. A real tour
             may be obtained by contacting a local university that offers a
             degree in aerospace engineering or similar field. Virtual tours
             could include, but are not limited to, NASA wind tunnel facility
-            tours: https://www.youtube.com/watch?v=bpRc9I8LMXo and
-            https://www.nasa.gov/image-feature/hypersonic-tunnel-facility.
-
+            tours: <a href="https://www.youtube.com/watch?v=bpRc9I8LMXo">https://www.youtube.com/watch?v=bpRc9I8LMXo</a> and
+            <a href="https://www.nasa.gov/image-feature/hypersonic-tunnel-facility">https://www.nasa.gov/image-feature/hypersonic-tunnel-facility</a>.<br />
+            <br />
             Discuss with your counselor the science and engineering concepts
             associated with the facility, e.g., what are the parts of a wind
             tunnel, what a wind tunnel is used for, what are the advantages of
