@@ -50,39 +50,37 @@
             watch online productions with your counselor’s approval and under
             your parent’s or guardian’s supervision.
 - requirement: 2
-  markdown: true
   text: |-
       Complete ONE merit badge from the following list. (Choose one that you
       have not already used for another Nova award.) Discuss with your
       counselor how the merit badge you earned relates to product design.
-
-      * <a href="../../../merit-badges/american-business/">American Business</a>
-      * <a href="../../../merit-badges/architecture/">Architecture</a>
-      * <a href="../../../merit-badges/composite-materials/">Composite Materials</a>
-      * <a href="../../../merit-badges/digital-technology/">Digital Technology</a>
-      * <a href="../../../merit-badges/drafting/">Drafting</a>
-      * <a href="../../../merit-badges/electronics/">Electronics</a>
-      * <a href="../../../merit-badges/engineering/">Engineering</a>
-      * <a href="../../../merit-badges/inventing/">Inventing</a>
-      * <a href="../../../merit-badges/model-design-and-building/">Model Design and Building</a>
+      <ul>
+      <li><a href="/merit-badges/american-business/">American Business</a></li>
+      <li><a href="/merit-badges/architecture/">Architecture</a></li>
+      <li><a href="/merit-badges/composite-materials/">Composite Materials</a></li>
+      <li><a href="/merit-badges/digital-technology/">Digital Technology</a></li>
+      <li><a href="/merit-badges/drafting/">Drafting</a></li>
+      <li><a href="/merit-badges/electronics/">Electronics</a></li>
+      <li><a href="/merit-badges/engineering/">Engineering</a></li>
+      <li><a href="/merit-badges/inventing/">Inventing</a></li>
+      <li><a href="/merit-badges/model-design-and-building/">Model Design and Building</a></li>
+      </ul>
 - requirement: 3
   text: |-
       Complete four of the activities below.
   children:
       - requirement: A
-        markdown: true
         text: |-
-            Explore product innovation
-
+            Explore product innovation<br />
+            <br />
             Examine one product and at least two different versions of that
             product. Create a list of the differences between the designs.
             Discuss with your counselor the differences and what you think each
             difference is trying to solve.
       - requirement: B
-        markdown: true
         text: |-
-            Research prototyping methods
-
+            Research prototyping methods<br />
+            <br />
             Find and explain the differences between a “works-like” and
             “looks-like” prototype. Learn the reasons and applications where
             one method would be chosen over the other. Research different ways
@@ -90,10 +88,9 @@
             the reasons why one method would be chosen over another. Discuss
             and explain your findings with your counselor
       - requirement: C
-        markdown: true
         text: |-
-            Market research
-
+            Market research<br />
+            <br />
             Research and understand the terms: market size, business plan,
             value proposition, elevator pitch, cost-effective design, and
             ethnographic research - specifically, in reference to product
@@ -101,40 +98,36 @@
             they are important for a product designer to understand, and how
             they affect the design of a product.
       - requirement: D
-        markdown: true
         text: |-
-            Practice brainstorming
-
+            Practice brainstorming<br />
+            <br />
             Examine different brainstorming methods. Choose a product you have
             used or a situation you have experienced. Using one method you
             found, brainstorm various ways to improve the product or situation.
             You do not have to brainstorm designs, just ways to improve the
             design. Present your list to your counselor and discuss.
       - requirement: E
-        markdown: true
         text: |-
-            Learn about and practice “Painstorming”
-
+            Learn about and practice “Painstorming”<br />
+            <br />
             Research “painstorming”: what it is and how it is done? Choose a
             product you have used or a situation you have experienced and
             “painstorm” for at least 15 minutes. Do not think of designs to
             solve the pains, just list as many pains as you can. Present your
             list of pains to your counselor and discuss.
       - requirement: F
-        markdown: true
         text: |-
-            Inventors
-
+            Inventors<br />
+            <br />
             Choose a historical or modern inventor who interests you, and
             research them and their inventions. If possible, learn about the
             iterations their product went through before it became successful.
             Discuss with your counselor the researcher and their inventions, as
             well as why you chose that person.
 - requirement: 4
-  markdown: true
   text: |-
-      Product Design
-
+      Product Design<br />
+      <br />
       Do ALL the following requirements.
   children:
       - requirement: A

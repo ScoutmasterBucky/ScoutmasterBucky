@@ -1,7 +1,6 @@
 - requirement: 1
-  markdown: true
   text: |-
-      Choose A *or* B *or* C and complete ALL the requirements.
+      Choose A <em>or</em> B <em>or</em> C and complete ALL the requirements.
   children:
       - requirement: A
         text: |-
@@ -57,27 +56,26 @@
               text: |-
                   Discuss two of the questions or ideas with your counselor.
 - requirement: 2
-  markdown: true
   text: |-
       Complete ONE merit badge from the following list. (Choose one that you
       have not already used toward another Nova award.) After completion,
       discuss with your counselor how the merit badge you earned uses science
       and projectiles.
-
-      * <a href="../../../merit-badges/archery/">Archery</a>
-      * <a href="../../../merit-badges/astronomy/">Astronomy</a>
-      * <a href="../../../merit-badges/aviation/">Aviation</a>
-      * <a href="../../../merit-badges/digital-technology/">Digital Technology</a>
-      * <a href="../../../merit-badges/game-design/">Game Design</a>
-      * <a href="../../../merit-badges/rifle-shooting/">Rifle Shooting</a>
-      * <a href="../../../merit-badges/robotics/">Robotics</a>
-      * <a href="../../../merit-badges/shotgun-shooting/">Shotgun Shooting</a>
-      * <a href="../../../merit-badges/space-exploration/">Space Exploration</a>
-      * <a href="../../../merit-badges/weather/">Weather</a>
+      <ul>
+      <li><a href="/merit-badges/archery/">Archery</a></li>
+      <li><a href="/merit-badges/astronomy/">Astronomy</a></li>
+      <li><a href="/merit-badges/aviation/">Aviation</a></li>
+      <li><a href="/merit-badges/digital-technology/">Digital Technology</a></li>
+      <li><a href="/merit-badges/game-design/">Game Design</a></li>
+      <li><a href="/merit-badges/rifle-shooting/">Rifle Shooting</a></li>
+      <li><a href="/merit-badges/robotics/">Robotics</a></li>
+      <li><a href="/merit-badges/shotgun-shooting/">Shotgun Shooting</a></li>
+      <li><a href="/merit-badges/space-exploration/">Space Exploration</a></li>
+      <li><a href="/merit-badges/weather/">Weather</a></li>
+      </ul>
 - requirement: 3
-  markdown: true
   text: |-
-      Choose A *or* B and complete ALL the requirements.
+      Choose A <em>or</em> B and complete ALL the requirements.
   children:
       - requirement: A
         text: |-
@@ -96,24 +94,23 @@
                   easier, as will doing many repetitions using variable heights
                   from which the projectile can be launched.)
             - detail: true
-              markdown: true
               text: |-
-                  Helpful Links
-
+                  Helpful Links<br />
+                  <br />
                   Be sure you have your parent’s or guardian’s permission
                   before using the Internet. Some of these websites require the
                   use of Java runtime environments. If your computer does not
                   support this program, you may not be able to visit those
-                  sites.
-
+                  sites.<br />
+                  <br />
                   Projectile Motion Applets<br />
-                  Website: http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/Projectile/projectile.html
-
+                  Website: <a href="http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/Projectile/projectile.html">http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/Projectile/projectile.html</a>
+                  <br />
                   Fowler’s Physics Applets<br />
-                  Website: https://www.compadre.org/introphys/items/detail.cfm?ID=7823
-
+                  Website: <a href="https://www.compadre.org/introphys/items/detail.cfm?ID=7823">https://www.compadre.org/introphys/items/detail.cfm?ID=7823</a>
+                  <br />
                   Java Applets on Physics<br />
-                  Website: http://www.cco.caltech.edu/~phys1/java.html
+                  Website: <a href="http://www.cco.caltech.edu/~phys1/java.html">http://www.cco.caltech.edu/~phys1/java.html</a>
             - requirement: 3
               text: |-
                   Discuss with your counselor:
@@ -123,30 +120,28 @@
                         What a projectile is
                     children:
                         - detail: true
-                          markdown: true
                           text: |-
                               A projectile is:
-
-                              * An object that is fired, launched, or thrown,
-                              but which cannot propel itself
-                              * A self-propelled missile, like a rocket
+                              <ul>
+                              <li>An object that is fired, launched, or thrown,
+                              but which cannot propel itself</li>
+                              <li>A self-propelled missile, like a rocket</li>
+                              </ul>
                   - requirement: b
                     text: |-
                         What projectile motion is
                     children:
                         - detail: true
-                          markdown: true
                           text: |-
                               Projectile motion is the curved path taken by an
-                              object that is fired, launched, or thrown.
-
-                              See www.ncsec.org/cadre2/team1_2/pm.htm.
+                              object that is fired, launched, or thrown.<br />
+                              <br />
+                              See <a href="http://www.ncsec.org/cadre2/team1_2/pm.htm">www.ncsec.org/cadre2/team1_2/pm.htm</a>.
                   - requirement: c
                     text: |-
                         The factors affecting the path of a projectile
                     children:
                         - detail: true
-                          markdown: true
                           text: |-
                               When an object is fired, launched, or thrown, it
                               is given horizontal velocity. (Velocity is the
@@ -158,12 +153,12 @@
                               stays in motion unless acted upon by an outside
                               force. If gravity did not act on the projectile’s
                               path, the object would continue to move in the
-                              direction in which it was launched.
-
+                              direction in which it was launched.<br />
+                              <br />
                               Once the object has been launched, the only force
                               acting upon it is the force of gravity, which
-                              accelerates the object toward Earth.
-
+                              accelerates the object toward Earth.<br />
+                              <br />
                               Projectile motion is caused by the force of
                               gravity giving vertical acceleration to an object
                               that has horizontal velocity. (When an object is
@@ -179,16 +174,15 @@
                               combination of constant horizontal velocity and
                               increasing downward velocity due to the
                               acceleration of gravity is what gives a
-                              projectile its curved path.
-
-                              <img src="projectile-path.png" class="W(100%) H(a)" />
+                              projectile its curved path.<br />
+                              <br />
+                              <img src="/nova-lab/scouts-bsa/shoot-projectile-path.png" class="wide" />
                   - requirement: d
                     text: |-
                         The difference between forward velocity and
                         acceleration due to gravity.
                     children:
                         - detail: true
-                          markdown: true
                           text: |-
                               Forward velocity is the speed horizontal to Earth
                               given to a projectile. If the projectile is
@@ -199,10 +193,10 @@
                               parallel to Earth. (Determining forward velocity
                               can be done by separating the velocity into
                               horizontal and vertical components—like on a
-                              triangle—using vector resolution.)
-
-                              Forward velocity has a constant speed.
-
+                              triangle—using vector resolution.)<br />
+                              <br />
+                              Forward velocity has a constant speed.<br />
+                              <br />
                               Acceleration due to gravity slows down things
                               that are moving upward and speeds up things that
                               are moving downward. At most locations on Earth,
@@ -224,7 +218,6 @@
             this information.)
         children:
             - detail: true
-              markdown: true
               text: |-
                   Escape velocity is the speed at which an object will be able
                   to escape the gravity of Earth, the moon, or other body. An
@@ -233,24 +226,24 @@
                   25038.72 mph. Escape velocity is proportional to the square
                   root of the ratio between the mass of the larger body and the
                   distance of the smaller object from the center of the larger
-                  body.
-
-                  Helpful Links
-
+                  body.<br />
+                  <br />
+                  Helpful Links<br />
+                  <br />
                   “Escape Velocity”: Georgia State University<br />
-                  Website: http://hyperphysics.phy-astr.gsu.edu/hbase/vesc.html
-
+                  Website: <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/vesc.html">http://hyperphysics.phy-astr.gsu.edu/hbase/vesc.html</a><br />
+                  <br />
                   “Space Environment”: Northwestern University<br />
-                  Website: http://www.qrg.northwestern.edu/projects/vss/docs/spaceenvironment/2-whats-escape-velocity.html
-
+                  Website: <a href="http://www.qrg.northwestern.edu/projects/vss/docs/spaceenvironment/2-whats-escape-velocity.html">http://www.qrg.northwestern.edu/projects/vss/docs/spaceenvironment/2-whats-escape-velocity.html</a><br />
+                  <br />
                   Orbital velocity is achieved when an object’s horizontal
                   velocity balances the acceleration of gravity at that
                   location in space. An object that has orbital velocity (is in
                   orbit) continues to fall toward Earth as it travels away from
                   Earth, giving the object a circular path around Earth. The
                   object continually falls around Earth due to the combination
-                  of horizontal velocity and acceleration due to gravity.
-
+                  of horizontal velocity and acceleration due to gravity.<br />
+                  <br />
                   Terminal velocity is the point at which the acceleration of
                   gravity on an object matches the air resistance of the
                   object. Terminal velocity is affected by the weight of the
@@ -261,31 +254,30 @@
                   resistance. Later divers streamline dive by holding their
                   arms and legs tightly to their bodies and dive headfirst
                   toward Earth in order to catch the earlier divers in the
-                  air.)
-
+                  air.)<br />
+                  <br />
                   Note: If it were not for air resistance, all objects,
                   regardless of mass, size, orany other factor, would fall at
-                  the SAME velocity.
-
+                  the SAME velocity.<br />
+                  <br />
                   Watch astronauts David Scott and Jim Irwin do Galileo’s
                   experiment on the moon.<br />
                   “NASA Lunar Feather Drop Home Page”: NASA<br />
-                  Website: http://er.jsc.nasa.gov/seh/feather.html
+                  Website: <a href="http://er.jsc.nasa.gov/seh/feather.html">http://er.jsc.nasa.gov/seh/feather.html</a>
             - requirement: 1
               text: |-
                   Why are satellites usually launched toward the east, and what
                   is a launch window?
               children:
                   - detail: true
-                    markdown: true
                     text: |-
                         When satellites are launched to the east, Earth’s spin
                         effectively adds to their velocity, making escape
                         velocity easier to obtain and requiring less fuel. Not
                         all spacecraft are launched toward the east; the launch
                         direction depends also on the final orbit and purpose
-                        of the satellite.
-
+                        of the satellite.<br />
+                        <br />
                         In order for a spacecraft to rendezvous with another
                         spacecraft or other object in space, the orbits of both
                         objects must be taken into consideration. A launch
@@ -305,13 +297,13 @@
                         of whatever fluid the object is traveling through).
                         When the acceleration of gravity is balanced by air
                         resistance, the object continues to fall, but it does
-                        not increase its velocity.
-
+                        not increase its velocity.<br />
+                        <br />
                         “A person has a terminal velocity of about 200 mph when
                         balled up and about 125 mph with arms and feet fully
                         extended to catch the wind.” Source: “Speed of a
                         Skydiver (Terminal Velocity),” The Physics Factbook,
-                        website http://hypertextbook.com/facts/JianHuang.shtml.
+                        website <a href="http://hypertextbook.com/facts/JianHuang.shtml">http://hypertextbook.com/facts/JianHuang.shtml</a>.
             - requirement: 2
               text: |-
                   How fast does a bullet, baseball, airplane, or rocket have to
@@ -324,29 +316,28 @@
             #- Fixed citation for link ("NRP" to "NPR")
             - detail: true
               text: |-
-                  Helpful Links
-
+                  Helpful Links<br />
+                  <br />
                   “Orbital Mechanics”: Rocket & Space Technology<br />
-                  Website: http://www.braeunig.us/space/orbmech.htm
-
+                  Website: <a href="http://www.braeunig.us/space/orbmech.htm">http://www.braeunig.us/space/orbmech.htm</a><br />
+                  <br />
                   “Launching Satellites”: EUMETSAT<br />
-                  Website: http://www.eumetsat.int/Home/Main/Satellites/SatelliteProgrammesOverview/SP_20100427133512861?l=en
-
+                  Website: <a href="http://www.eumetsat.int/Home/Main/Satellites/SatelliteProgrammesOverview/SP_20100427133512861?l=en">http://www.eumetsat.int/Home/Main/Satellites/SatelliteProgrammesOverview/SP_20100427133512861?l=en</a><br />
+                  <br />
                   “What is a ‘launch window’?”: ESA<br />
-                  Website: http://www.esa.int/esaSC/SEMO49YO4HD_index_0.html
-
+                  Website: <a href="http://www.esa.int/esaSC/SEMO49YO4HD_index_0.html">http://www.esa.int/esaSC/SEMO49YO4HD_index_0.html</a><br />
+                  <br />
                   “Launch Windows: How NASA Decides When to Fly”: NPR<br />
-                  Website: http://www.npr.org/templates/story/story.php?storyId=4749663
-
+                  Website: <a href="http://www.npr.org/templates/story/story.php?storyId=4749663">http://www.npr.org/templates/story/story.php?storyId=4749663</a><br />
+                  <br />
                   “What Is a Launch Window?”: NASA<br />
-                  Website: http://www.nasa.gov/audience/forstudents/brainbites/nonflash/bb_home_launchwindow.html
-
+                  Website: <a href="http://www.nasa.gov/audience/forstudents/brainbites/nonflash/bb_home_launchwindow.html">http://www.nasa.gov/audience/forstudents/brainbites/nonflash/bb_home_launchwindow.html</a><br />
+                  <br />
                   “Terminal Velocity”: NASA<br />
-                  Website: http://exploration.grc.nasa.gov/education/rocket/termvr.html
+                  Website: <a href="http://exploration.grc.nasa.gov/education/rocket/termvr.html">http://exploration.grc.nasa.gov/education/rocket/termvr.html</a>
 - requirement: 4
-  markdown: true
   text: |-
-      Choose A *or* B and complete ALL the requirements.
+      Choose A <em>or</em> B and complete ALL the requirements.
   children:
       - requirement: A
         text: |-
@@ -365,11 +356,10 @@
             position. Then do the following:
         children:
             - requirement: 1
-              markdown: true
               text: |-
                   Find out what time a satellite will pass over your area. (A
                   good resource to find the times for satellite passes is the
-                  Heavens Above website at www.heavens-above.com.)
+                  Heavens Above website at <a href="http://www.heavens-above.com">www.heavens-above.com</a>.)
             - requirement: 2
               text: |-
                   Watch the satellite using binoculars. Record the time of your

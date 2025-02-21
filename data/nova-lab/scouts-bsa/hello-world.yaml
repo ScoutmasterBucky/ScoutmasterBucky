@@ -50,43 +50,44 @@
                   with your counselor’s approval and under your parent’s
                   supervision.
             - detail: true
-              markdown: true
               text: |-
-                  Suggested reading and watching material might include the following.
-
-                  What is Programming?
-
-                  * https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro
-                  * https://www.youtube.com/watch?v=THOEQ5soVpY
-                  * https://www.youtube.com/watch?v=Y4ZIA1A54ww
-                  * https://www.youtube.com/watch?v=N7ZmPYaXoic
-                  * https://www.youtube.com/watch?v=9zOo4JkZgSI
-
-                  **Movies about Programming**
-
-                  * Triumph of the Nerds
-                  * Pirates of Silicon Valley
-                  * Halt and Catch Fire
-                  * Revolution OS
-                  * The Code
-                  * Computer Programming in Five Minutes https://www.youtube.com/watch?v=UScm9avQM1Y
-
-                  **Articles on Computer Programming**
-                  * What is Computer programming http://guyhaas.com/bfoit/itp/Programming.html
-                  * Computer Programming https://en.wikipedia.org/wiki/Computer_programming
-                  * Computers http://www.explainthatstuff.com/howcomputerswork.html
-                  * Introduction to Computers and Programming www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf
+                  Suggested reading and watching material might include the following.<br />
+                  <br />
+                  What is Programming?<br />
+                  <ul>
+                  <li><a href="https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro">https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro</a></li>
+                  <li><a href="https://www.youtube.com/watch?v=THOEQ5soVpY">https://www.youtube.com/watch?v=THOEQ5soVpY</a></li>
+                  <li><a href="https://www.youtube.com/watch?v=Y4ZIA1A54ww">https://www.youtube.com/watch?v=Y4ZIA1A54ww</a></li>
+                  <li><a href="https://www.youtube.com/watch?v=N7ZmPYaXoic">https://www.youtube.com/watch?v=N7ZmPYaXoic</a></li>
+                  <li><a href="https://www.youtube.com/watch?v=9zOo4JkZgSI">https://www.youtube.com/watch?v=9zOo4JkZgSI</a></li>
+                  </ul>
+                  <b>Movies about Programming</b><br />
+                  <ul>
+                  <li>Triumph of the Nerds</li>
+                  <li>Pirates of Silicon Valley</li>
+                  <li>Halt and Catch Fire</li>
+                  <li>Revolution OS</li>
+                  <li>The Code</li>
+                  <li>Computer Programming in Five Minutes <a href="https://www.youtube.com/watch?v=UScm9avQM1Y">https://www.youtube.com/watch?v=UScm9avQM1Y</a></li>
+                  </ul>
+                  <b>Articles on Computer Programming</b><br />
+                  <ul>
+                  <li>What is Computer programming <a href="http://guyhaas.com/bfoit/itp/Programming.html">http://guyhaas.com/bfoit/itp/Programming.html</a></li>
+                  <li>Computer Programming <a href="https://en.wikipedia.org/wiki/Computer_programming">https://en.wikipedia.org/wiki/Computer_programming</a></li>
+                  <li>Computers <a href="http://www.explainthatstuff.com/howcomputerswork.html">http://www.explainthatstuff.com/howcomputerswork.html</a></li>
+                  <li>Introduction to Computers and Programming <a href="http://www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf">www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf</a></li>
+                  </ul>
 - requirement: 2
-  markdown: true
   text: |-
       Complete ONE merit badge from the following list. (Choose one that you
       have not already used for another Nova award.) Discuss with your
       counselor how the merit badge you earned uses coding.
-
-      * <a href="../../../merit-badges/animation/">Animation</a>
-      * <a href="../../../merit-badges/digital-technology/">Digital Technology</a>
-      * <a href="../../../merit-badges/programming/">Programming</a>
-      * <a href="../../../merit-badges/robotics/">Robotics</a>
+      <ul>
+      <li><a href="/merit-badges/animation/">Animation</a></li>
+      <li><a href="/merit-badges/digital-technology/">Digital Technology</a></li>
+      <li><a href="/merit-badges/programming/">Programming</a></li>
+      <li><a href="/merit-badges/robotics/">Robotics</a></li>
+      </ul>
 - requirement: 3
   text: |-
       Explore different concepts in computer programming. Discuss these
@@ -109,16 +110,15 @@
             and what values can each of these data types hold?
         children:
             - detail: true
-              markdown: true
               text: |-
                   Integer – a variable that holds only whole numbers (e.g., 56,
-                  7, -4, 23)
-
-                  Boolean – a variable that can hold only TRUE or FALSE
-
+                  7, -4, 23)<br />
+                  <br />
+                  Boolean – a variable that can hold only TRUE or FALSE<br />
+                  <br />
                   Floating Point – a variable that can hold any real number
-                  (e.g., 71.045)
-
+                  (e.g., 71.045)<br />
+                  <br />
                   Character variable – a variable that can hold only an
                   alphanumeric character (e.g., “A”, “G”, “&”)
       - requirement: C
@@ -220,46 +220,53 @@
       In a programming language of your choosing, do the following:
   children:
       - detail: true
-        markdown: true
         text: |-
-            Requirements 4, 5 and 6:
-
+            Requirements 4, 5 and 6:<br />
+            <br />
             Scratch Jr. is free app for tablets and phones. -
-            https://www.scratchjr.org/
-
+            <a href="https://www.scratchjr.org/">https://www.scratchjr.org/</a><br />
+            <br />
             App Lab is a great beginner programming environment where you make
-            simple apps right in your browser - https://code.org/educate/applab
-
+            simple apps right in your browser -
+            <a href="https://code.org/educate/applab">https://code.org/educate/applab</a><br />
+            <br />
             Web Lab is a tool to help beginning programmers create their own
-            webpages. - https://code.org/educate/weblab
-
+            webpages. -
+            <a href="https://code.org/educate/weblab">https://code.org/educate/weblab</a><br />
+            <br />
             Game Lab is programming environment that introduces how to make
             simple animations, interactive art and games using block
-            programming. - https://code.org/educate/gamelab
-
+            programming. -
+            <a href="https://code.org/educate/gamelab">https://code.org/educate/gamelab</a><br />
+            <br />
             Tynker.com has a drag and drop block programing environment that
             allows you to write games, controlling robots and drones and
-            interface to Minecraft - https://www.tynker.com/
-
+            interface to Minecraft -
+            <a href="https://www.tynker.com/">https://www.tynker.com/</a><br />
+            <br />
             Alice Programming Environment is a 3D interactive programming
             language. Alice 2 is not object oriented. Alice 3 is object
-            oriented. - http://www.alice.org/
-
+            oriented. -
+            <a href="http://www.alice.org/">http://www.alice.org/</a><br />
+            <br />
             Blocky is a visual code editor that uses interlocking blocks to
-            represent code - https://developers.google.com/blockly/
-
-            Python is a clear and easy way to learn object-oriented programming
-            - https://www.python.org/
-
-            Palindrome - https://en.wikipedia.org/wiki/Palindrome
-
-            Factorials - https://www.mathsisfun.com/numbers/factorial.html
-
+            represent code -
+            <a href="https://developers.google.com/blockly/">https://developers.google.com/blockly/</a><br />
+            <br />
+            Python is a clear and easy way to learn object-oriented programming -
+            <a href="https://www.python.org/">https://www.python.org/</a><br />
+            <br />
+            Palindrome -
+            <a href="https://en.wikipedia.org/wiki/Palindrome">https://en.wikipedia.org/wiki/Palindrome</a><br />
+            <br />
+            Factorials -
+            <a href="https://www.mathsisfun.com/numbers/factorial.html">https://www.mathsisfun.com/numbers/factorial.html</a><br />
+            <br />
             Guess the Number Program -
-            https://inventwithpython.com/chapter4.html
-
+            <a href="https://inventwithpython.com/chapter4.html">https://inventwithpython.com/chapter4.html</a><br />
+            <br />
             Basics of Sorting Algorithms -
-            https://www.geeksforgeeks.org/sorting-algorithms/
+            <a href="https://www.geeksforgeeks.org/sorting-algorithms/">https://www.geeksforgeeks.org/sorting-algorithms/</a>
       - requirement: A
         text: |-
             Write a program that determines if an input string of characters is
@@ -287,10 +294,9 @@
                   A program that calculates the sum of all numbers from a user
                   input starting number to a user input ending number.
             - detail: true
-              markdown: true
               text: |-
                   These programs can be coded in a programming language such as
-                  App Lab - https://code.org/educate/applab
+                  App Lab - <a href="https://code.org/educate/applab">https://code.org/educate/applab</a>
 # Fixed typo - programing -> programming
 - requirement: 5
   text: |-
@@ -324,17 +330,17 @@
             A program that takes a set of at least 15 characters from a user
             and then displays the string in reverse order.
       - requirement: E
-        markdown: true
         text: |-
             A program that displays an interactive webpage that accepts user
             input and modifies its display based on the input (See Web Lab -
-            https://code.org/educate/weblab for example)
+            <a href="https://code.org/educate/weblab">https://code.org/educate/weblab</a>
+            for example)
       - requirement: F
-        markdown: true
         text: |-
             A computer game of your choosing which uses interactive characters,
             requires skill, and reports a winner or a loser. (See Game Lab -
-            https://code.org/educate/gamelab for example)
+            <a href="https://code.org/educate/gamelab">https://code.org/educate/gamelab</a>
+            for example)
       - requirement: G
         text: |-
             Any other computer program agreed on by you and your counselor that

@@ -15,9 +15,22 @@
               text: |-
                   Discuss two of the questions or ideas with your counselor.
             - detail: true
-              markdown: true
               text: |-
-                  Some examples include—but are not limited to—shows found on PBS (“America’s Heartland,” “America Revealed,” “NOVA”), Discovery Channel, Science Channel, National Geographic Channel, History Channel, TED Talks (online videos), or “Good Eats” on the Food Network. You may choose to watch a live performance or movie at a science museum instead of watching a media production. Good search criteria might be “agriculture”, You may watch online productions with your counselor’s approval and under your parent’s or guardian’s supervision; appropriate websites include https://www.americasheartland.org/ , https://www.neok12.com/Agriculture.htm and https://www.nationalgeographic.org/encyclopedia/agriculture/
+                  Some examples include—but are not limited to—shows found on
+                  PBS (“America’s Heartland,” “America Revealed,” “NOVA”),
+                  Discovery Channel, Science Channel, National Geographic
+                  Channel, History Channel, TED Talks (online videos), or “Good
+                  Eats” on the Food Network. You may choose to watch a live
+                  performance or movie at a science museum instead of watching
+                  a media production. Good search criteria might be
+                  “agriculture”, You may watch online productions with your
+                  counselor’s approval and under your parent’s or guardian’s
+                  supervision; appropriate websites include <a
+                  href="https://www.americasheartland.org/">https://www.americasheartland.org/</a>,
+                  <a
+                  href="https://www.neok12.com/Agriculture.htm">https://www.neok12.com/Agriculture.htm</a>
+                  and <a
+                  href="https://www.nationalgeographic.org/encyclopedia/agriculture/">https://www.nationalgeographic.org/encyclopedia/agriculture/</a>
       - requirement: B
         text: |-
             Read (about three hours total) about anything related to
@@ -49,25 +62,25 @@
               text: |-
                   Discuss two of the questions or ideas with your counselor.
 - requirement: 2
-  markdown: true
   text: |-
       Complete ONE merit badge from the following list. (Choose one that you
       have not already used toward another Nova award). After completion,
       discuss with your counselor how the merit badge you earned uses
       agriculture.
-
-      * <a href="../../../merit-badges/animal-science/">Animal Science</a>
-      * <a href="../../../merit-badges/cooking/">Cooking</a>
-      * <a href="../../../merit-badges/farm-mechanics/">Farm Mechanics</a>
-      * <a href="../../../merit-badges/fish-and-wildlife-management/">Fish and Wildlife Management</a>
-      * <a href="../../../merit-badges/fishing/">Fishing</a>
-      * <a href="../../../merit-badges/forestry/">Forestry</a>
-      * <a href="../../../merit-badges/gardening/">Gardening</a>
-      * <a href="../../../merit-badges/insect-study/">Insect Study</a>
-      * <a href="../../../merit-badges/mammal-study/">Mammal Study</a>
-      * <a href="../../../merit-badges/nature/">Nature</a>
-      * <a href="../../../merit-badges/plant-science/">Plant Science</a>
-      * <a href="../../../merit-badges/soil-and-water-conservation/">Soil and Water Conservation</a>
+      <ul>
+      <li><a href="/merit-badges/animal-science/">Animal Science</a></li>
+      <li><a href="/merit-badges/cooking/">Cooking</a></li>
+      <li><a href="/merit-badges/farm-mechanics/">Farm Mechanics</a></li>
+      <li><a href="/merit-badges/fish-and-wildlife-management/">Fish and Wildlife Management</a></li>
+      <li><a href="/merit-badges/fishing/">Fishing</a></li>
+      <li><a href="/merit-badges/forestry/">Forestry</a></li>
+      <li><a href="/merit-badges/gardening/">Gardening</a></li>
+      <li><a href="/merit-badges/insect-study/">Insect Study</a></li>
+      <li><a href="/merit-badges/mammal-study/">Mammal Study</a></li>
+      <li><a href="/merit-badges/nature/">Nature</a></li>
+      <li><a href="/merit-badges/plant-science/">Plant Science</a></li>
+      <li><a href="/merit-badges/soil-and-water-conservation/">Soil and Water Conservation</a></li>
+      </ul>
 - requirement: 3
   text: |-
       Act like a farmer! Think about crops or animals that are found on a farm
@@ -136,13 +149,12 @@
                   plants. Use fast-growing seeds such as carrots, castor
                   beans, lima beans, onions, radishes, soybeans, or tomatoes.
             - requirement: 2
-              markdown: true
               text: |-
                   Select and study a specific growing variable such as the type
                   of liquid used to water a seed, the type of light, the
                   growing temperature, or the soil type. (Examples of growing
-                  studies can be found at
-                  www.sciencekids.co.nz/projects/plants.html .)
+                  studies can be found at <a
+                  href="http://www.sciencekids.co.nz/projects/plants.html">www.sciencekids.co.nz/projects/plants.html</a>.)
             - requirement: 3
               text: |-
                   People often think of microorganisms as germs, but many of

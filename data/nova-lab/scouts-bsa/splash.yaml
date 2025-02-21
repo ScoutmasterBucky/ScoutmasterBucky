@@ -1,7 +1,6 @@
 - requirement: 1
-  markdown: true
   text: |-
-      Choose A *or* B *or* C and complete ALL the requirements.
+      Choose A <em>or</em> B <em>or</em> C and complete ALL the requirements.
   children:
       - requirement: A
         text: |-
@@ -61,34 +60,33 @@
               text: |-
                   Discuss two of the questions or ideas with your counselor.
 - requirement: 2
-  markdown: true
   text: |-
-      Complete ONE merit badge from the following list.
-
+      Complete ONE merit badge from the following list.<br/>
+      <br />
       (Choose one that you have not already used toward another Nova Award.)
       After completion, discuss with your counselor how the merit badge you
       earned pertains to water, e.g., wastewater treatment and pollution, and
       the science you used.
-
-      * <a href="../../../merit-badges/chemistry/">Chemistry</a>
-      * <a href="../../../merit-badges/energy/">Energy</a>
-      * <a href="../../../merit-badges/engineering/">Engineering</a>
-      * <a href="../../../merit-badges/environmental-science/">Environmental Science</a>
-      * <a href="../../../merit-badges/fish-and-wildlife-management/">Fish and Wildlife Management</a>
-      * <a href="../../../merit-badges/fishing/">Fishing</a>
-      * <a href="../../../merit-badges/fly-fishing/">Fly Fishing</a>
-      * <a href="../../../merit-badges/forestry/">Forestry</a>
-      * <a href="../../../merit-badges/geology/">Geology</a>
-      * <a href="../../../merit-badges/nature/">Nature</a>
-      * <a href="../../../merit-badges/oceanography/">Oceanography</a>
-      * <a href="../../../merit-badges/public-health/">Public Health</a>
-      * <a href="../../../merit-badges/soil-and-water-conservation/">Soil and Water Conservation</a>
-      * <a href="../../../merit-badges/sustainability/">Sustainability</a>
-      * <a href="../../../merit-badges/weather/">Weather</a>
+      <ul>
+      <li><a href="/merit-badges/chemistry/">Chemistry</a></li>
+      <li><a href="/merit-badges/energy/">Energy</a></li>
+      <li><a href="/merit-badges/engineering/">Engineering</a></li>
+      <li><a href="/merit-badges/environmental-science/">Environmental Science</a></li>
+      <li><a href="/merit-badges/fish-and-wildlife-management/">Fish and Wildlife Management</a></li>
+      <li><a href="/merit-badges/fishing/">Fishing</a></li>
+      <li><a href="/merit-badges/fly-fishing/">Fly Fishing</a></li>
+      <li><a href="/merit-badges/forestry/">Forestry</a></li>
+      <li><a href="/merit-badges/geology/">Geology</a></li>
+      <li><a href="/merit-badges/nature/">Nature</a></li>
+      <li><a href="/merit-badges/oceanography/">Oceanography</a></li>
+      <li><a href="/merit-badges/public-health/">Public Health</a></li>
+      <li><a href="/merit-badges/soil-and-water-conservation/">Soil and Water Conservation</a></li>
+      <li><a href="/merit-badges/sustainability/">Sustainability</a></li>
+      <li><a href="/merit-badges/weather/">Weather</a></li>
+      </ul>
 - requirement: 3
-  markdown: true
   text: |-
-      Choose two requirements from A *or* B *or* C *or* D and complete ALL the
+      Choose two requirements from A <em>or</em> B <em>or</em> C <em>or</em> D and complete ALL the
       requirements for the two you selected.
   children:
       - requirement: A
@@ -101,18 +99,17 @@
             impurities.
         children:
             - detail: true
-              markdown: true
               text: |-
-                  Helpful Links
-
+                  Helpful Links<br />
+                  <br />
                   Be sure you have your parent’s or guardian’s permission
-                  before using the internet.
-
+                  before using the internet.<br />
+                  <br />
                   The Interactive Library—Explain It With Molecules:
-                  www.edinformatics.com/interactive_molecules
-
+                  <a href="http://www.edinformatics.com/interactive_molecules">www.edinformatics.com/interactive_molecules</a><br />
+                  <br />
                   University of Alcalá “Intermolecular hydrogen bonds in liquid
-                  water and in ice”: http://biomodel.uah.es/en/water/p1.htm
+                  water and in ice”: <a href="http://biomodel.uah.es/en/water/p1.htm">http://biomodel.uah.es/en/water/p1.htm</a>
       - requirement: B
         text: |-
             Prepare two demonstrations or activities involving surface tension
@@ -121,33 +118,36 @@
             presentation with your counselor.
         children:
             - detail: true
-              markdown: true
               text: |-
                   Information and Tools to Examine Properties of Water “A
                   gentle introduction to water and its structure”:
-                  www.chem1.com/acad/sci/aboutwater.html
-
+                  <a href="http://www.chem1.com/acad/sci/aboutwater.html">www.chem1.com/acad/sci/aboutwater.html</a><br />
+                  <br />
                   The Interactive Library—Explain It With Molecules:
-                  http://www.edinformatics.com/interactive_molecules/
-
+                  <a href="http://www.edinformatics.com/interactive_molecules/">http://www.edinformatics.com/interactive_molecules/</a><br />
+                  <br />
                   University of Alcallá—“Intermolecular hydrogen bonds in
-                  liquid water and in ice”: http://biomodel.uah.es/en/water/p1.htm
-
+                  liquid water and in ice”:
+                  <a href="http://biomodel.uah.es/en/water/p1.htm">http://biomodel.uah.es/en/water/p1.htm</a><br />
+                  <br />
                   Some Sources of Materials:
-
-                  * Hydrophobic materials—Naturesorb (dried sphagnum peat moss); Scotchgard (for coating sand grains)
-                  * Tulle fabric—From fabric store (use instead of screen)
-                  * Dialysis tubing—Carolina Biological Supply
-
+                  <ul>
+                  <li>Hydrophobic materials—Naturesorb (dried sphagnum peat moss); Scotchgard (for coating sand grains)</li>
+                  <li>Tulle fabric—From fabric store (use instead of screen)</li>
+                  <li>Dialysis tubing—Carolina Biological Supply</li>
+                  </ul>
                   Some Experiments
-                  * WonderHowTo—“How to do a science trick demonstrating
+                  <ul>
+                  <li>WonderHowTo—“How to do a science trick demonstrating
                   surface tension with pepper, soap, and water”:
-                  http://science.wonderhowto.com/how-to/do-science-trick-demonstrating-surface-tension-with-pepper-soap-and-water-396289/
-                  * SteveSpangler.com—“Magic Sand – Sand That Is Always Dry”:
-                  www.youtube.com/watch?v=10EnRI80zvk (hydrophobic material)
-                  * SteveSpangler.com—“Mysterious Water Suspension”:
-                  www.youtube.com/watch?v=y2fZYx3K6jI (water cohesion
-                  forces)
+                  <a href="http://science.wonderhowto.com/how-to/do-science-trick-demonstrating-surface-tension-with-pepper-soap-and-water-396289/">http://science.wonderhowto.com/how-to/do-science-trick-demonstrating-surface-tension-with-pepper-soap-and-water-396289/</a>
+                  <li>SteveSpangler.com—“Magic Sand – Sand That Is Always Dry”:
+                  <a href="https://www.youtube.com/watch?v=10EnRI80zvk">www.youtube.com/watch?v=10EnRI80zvk</a>
+                  (hydrophobic material)
+                  <li>SteveSpangler.com—“Mysterious Water Suspension”:
+                  <a href="https://www.youtube.com/watch?v=y2fZYx3K6jI">www.youtube.com/watch?v=y2fZYx3K6jI</a>
+                  (water cohesion forces)
+                  </li>
       - requirement: C
         text: |-
             Use the internet (with your parent’s or guardian’s permission) to
@@ -168,17 +168,15 @@
               text: |-
                   Discuss what you learned with your counselor.
             - detail: true
-              markdown: true
               text: |-
-                  Helpful Link:
-
+                  Helpful Link:<br />
+                  <br />
                   USGS Water Use in the United States
-                  https://water.usgs.gov/watuse/
+                  <a href="https://water.usgs.gov/watuse/">https://water.usgs.gov/watuse/</a>
       - requirement: D
-        markdown: true
         text: |-
-            Household water use.
-
+            Household water use.<br />
+            <br />
             Create a list all of the ways that water is used around your home
             in a 24-hour period, including the bathroom, kitchen, and any
             appliances. Don’t forget outdoor water uses such as pools, hot
@@ -193,13 +191,12 @@
                   estimate of total water usage by your family for one month or
                   one year.
             - requirement: 2
-              markdown: true
               text: |-
                   Compare your estimate with the actual total found on your
                   home water bill, and account for any large differences.
                   (Hint: ask your parent or guardian to help you locate that
-                  information on the monthly water bill or well meter.)
-
+                  information on the monthly water bill or well meter.)<br />
+                  <br />
                   Note: If you live in a multi-family housing unit and do not
                   have an individual water bill, you may be able to obtain the
                   information from your unit’s management. If not, measure your
