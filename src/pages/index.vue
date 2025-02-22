@@ -5,6 +5,11 @@ title: Scoutmaster Bucky
 #    - Merit badges have been updated to 2025 requirements.
 </page>
 
+<script setup lang="ts">
+import { DateTime } from 'luxon';
+const lastBuildTime = DateTime.now().setZone('America/Chicago').toFormat('LLL dd, yyyy, h:mm:ss a');
+</script>
+
 <template>
     <div class="showcase">
         <div class="centered-box">
@@ -25,6 +30,28 @@ title: Scoutmaster Bucky
     <UpcomingEvents client:load />
 
     <TestLab />
+
+    <h2>Disclaimer</h2>
+
+    <p>The Scoutmaster Bucky program is a volunteer run program managed and maintained entirely by Brian Reiners (Scoutmaster Bucky) in conjunction with the council of Northern Star Scouting and other Scouting volunteers. All content, scheduling, arrangements, and the like are managed by Scoutmaster Bucky. All proceeds collected go to cover program expenses and operating costs (including but not limited to building rentals, program materials, class materials, and technology support), with any profits (when and if there are any) put back into the Scouting program annually.
+    </p>
+
+    <h2>Policies &amp; Contact Information</h2>
+
+    <ScaledContent align="right"><img src="/bucky-waving.jpg" alt="Scoutmaster Bucky waving" class="wide" /></ScaledContent>
+
+    <p>Requests for refunds or cancellations will be honored up to a week prior to any Scoutmaster Bucky event.</p>
+
+    <p>Due to the high demand, only one Eagle-required merit badge is allowed per Scout per opportunity.</p>
+
+    <p>Scoutmaster Bucky is Brian Reiners and is registered in Northern Star Scouting of the Boy Scouts of America.</p>
+
+    <p>Contact number: 612-483-0665<br />
+    Email: <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry">ScoutmasterBucky@yahoo.com</a></p>
+
+    <p>Learn more about being <a href="counselors/">a counselor for Bucky</a>.</p>
+
+    <p>Last update: {{ lastBuildTime }} (Bucky Time is Central Time)</p>
 </template>
 
 <style scoped>

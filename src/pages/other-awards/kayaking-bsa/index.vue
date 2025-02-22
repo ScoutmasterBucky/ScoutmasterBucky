@@ -3,7 +3,7 @@ title: Kayaking BSA
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/other-awards/kayaking-bsa.yaml';
+import requirements from '~/data/other-awards/kayaking-bsa.yaml';
 </script>
 
 <template>

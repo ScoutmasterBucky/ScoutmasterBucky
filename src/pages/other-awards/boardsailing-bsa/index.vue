@@ -3,7 +3,7 @@ title: Boardsailing BSA
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/other-awards/boardsailing-bsa.yaml';
+import requirements from '~/data/other-awards/boardsailing-bsa.yaml';
 </script>
 
 <template>

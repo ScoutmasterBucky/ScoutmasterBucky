@@ -3,7 +3,7 @@ const { program, topic } = defineProps<{
     program: String;
     topic: String;
 }>();
-import novaAwards from '../../data/nova-awards.json';
+import novaAwards from '~/data/nova-awards.json';
 const filteredNovaAwards = [];
 for (const [nova, award] of Object.entries(novaAwards[program])) {
     if (award.topic === topic) {

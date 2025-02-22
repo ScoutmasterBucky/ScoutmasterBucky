@@ -1,6 +1,6 @@
 <script setup lang="ts">
 defineProps<{ badge: String; badge2?: String }>();
-import meritBadges from '../../data/merit-badges.json';
+import meritBadges from '~/data/merit-badges.json';
 </script>
 
 <template>

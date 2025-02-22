@@ -1,6 +1,6 @@
 <script setup lang="ts">
 defineProps<{ award: String }>();
-import otherAwards from '../../data/other-awards.json';
+import otherAwards from '~/data/other-awards.json';
 </script>
 
 <template>

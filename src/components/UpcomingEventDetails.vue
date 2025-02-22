@@ -5,7 +5,7 @@ const { event } = defineProps<{
 </script>
 
 <template>
-    <div class="scroll">
+    <div>
         <div class="big centered bottom-line"><UpcomingEventIcon :event="event" />{{ event.host }}</div>
         <div class="big centered">{{ event.title }}</div>
         <div class="time-location">
@@ -24,7 +24,7 @@ const { event } = defineProps<{
                         <span v-if="event.endDate && event.endDate.hasTime"
                             >to {{ event.endDate.local.hmma }}</span
                         ><span v-if="!event.isCentral"
-                               ><br />(in your timezone) {{event.x}}</span
+                               ><br />(in your timezone)</span
                         >
                     </span>
                 </div>
@@ -43,10 +43,6 @@ const { event } = defineProps<{
 </template>
 
 <style scoped>
-.scroll {
-    overflow-y: auto;
-}
-
 .centered {
     display: flex;
     justify-content: center;

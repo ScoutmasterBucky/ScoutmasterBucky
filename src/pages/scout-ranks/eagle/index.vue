@@ -3,7 +3,7 @@ title: Eagle
 </page>
 
 <script setup lang="ts">
-import requirements from "../../../../data/scout-ranks/eagle.yaml";
+import requirements from "~/data/scout-ranks/eagle.yaml";
 </script>
 
 <template>

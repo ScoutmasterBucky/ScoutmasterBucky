@@ -6,7 +6,7 @@ program: cub-scouts
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../../data/nova-lab/cub-scouts/uncovering-the-past.yaml';
+import requirements from '~/data/nova-lab/cub-scouts/uncovering-the-past.yaml';
 </script>
 
 <template>

@@ -4,7 +4,7 @@ layout: nova
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../../data/nova-lab/supernova/dr-albert-einstein.yaml';
+import requirements from '~/data/nova-lab/supernova/dr-albert-einstein.yaml';
 </script>
 
 <template>

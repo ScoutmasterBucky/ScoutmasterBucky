@@ -3,7 +3,7 @@ title: BSA Stand Up Paddleboarding
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/other-awards/bsa-stand-up-paddleboarding.yaml';
+import requirements from '~/data/other-awards/bsa-stand-up-paddleboarding.yaml';
 </script>
 
 <template>

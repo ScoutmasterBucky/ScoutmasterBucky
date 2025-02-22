@@ -3,7 +3,7 @@ title: Scuba BSA
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/other-awards/scuba-bsa.yaml';
+import requirements from '~/data/other-awards/scuba-bsa.yaml';
 </script>
 
 <template>

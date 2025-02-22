@@ -4,9 +4,9 @@ const { badge, requirements, resources } = defineProps<{
     requirements: Object;
     resources: Object;
 }>();
-import meritBadges from '../../data/merit-badges.json';
-import novaAwards from '../../data/nova-awards.json';
-import updated from '../../data/updated.json';
+import meritBadges from '~/data/merit-badges.json';
+import novaAwards from '~/data/nova-awards.json';
+import updated from '~/data/updated.json';
 const info = meritBadges[badge];
 const updatedDate = new Date(updated['merit-badges'][badge]);
 const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
@@ -38,7 +38,7 @@ for (const novaName of info.novas) {
         </ScaledContent>
     </div>
 
-    <h3 class="unprintable">Resources</h3>
+    <h3>Resources</h3>
 
     <ul>
         <li v-for="resource in resources">
@@ -46,7 +46,7 @@ for (const novaName of info.novas) {
         </li>
     </ul>
 
-    <h3 v-if="related.size" class="unprintable">Related</h3>
+    <h3 v-if="related.size">Related</h3>
 
     <ul v-if="related.size">
         <li v-for="item in related">

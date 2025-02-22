@@ -17,7 +17,7 @@ resources:
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/merit-badges/citizenship-in-the-world/requirements.yaml'
+import requirements from '~/data/merit-badges/citizenship-in-the-world/requirements.yaml'
 </script>
 
 <template>

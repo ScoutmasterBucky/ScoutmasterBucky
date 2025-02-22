@@ -17,7 +17,7 @@ resources:
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/merit-badges/pulp-and-paper/requirements.yaml'
+import requirements from '~/data/merit-badges/pulp-and-paper/requirements.yaml'
 </script>
 
 <template>

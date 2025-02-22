@@ -4,7 +4,7 @@ layout: nova
 </page>
 
 <script setup lang="ts">
-import requirementsPart2 from '../../../../../data/nova-lab/activity-topics/bungee-jumping-part-2.yaml';
+import requirementsPart2 from '~/data/nova-lab/activity-topics/bungee-jumping-part-2.yaml';
 </script>
 
 <template>
@@ -53,12 +53,12 @@ import requirementsPart2 from '../../../../../data/nova-lab/activity-topics/bung
         Continue adding rubber bands to see what the average drop height will be
         for different numbers of rubber bands. Do the experiment with at least
         six different numbers of rubber bands. Use a tabular chart to help you
-        organize and record your data. (You may use Excel or create your own
+        organize and record your ~/data. (You may use Excel or create your own
         tables.)
     </p>
 
     <p>
-        Scatter plots use horizontal and vertical axes on a graph to plot data
+        Scatter plots use horizontal and vertical axes on a graph to plot ~/data
         points and show how much one variable (or measurable “value”) is
         affected by another. Each variable can be represented on the scatter
         plot with a dot. Once the scatter plot has been filled in with a number

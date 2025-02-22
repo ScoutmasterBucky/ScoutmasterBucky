@@ -6,7 +6,7 @@ const { event } = defineProps<{
 
 <template>
 <div class="registration-button">
-    <a :href="event.registrationLink">
+    <a :href="event.registrationLink" target="_blank">
         <div
             class="button"
         >

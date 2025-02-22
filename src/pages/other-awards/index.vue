@@ -3,7 +3,7 @@ title: Other Scout Awards
 </page>
 
 <script setup lang="ts">
-import otherAwards from '../../../data/other-awards.json'
+import otherAwards from '~/data/other-awards.json'
 </script>
 
 <template>

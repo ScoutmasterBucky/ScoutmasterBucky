@@ -1,27 +1,38 @@
 <template>
-    <div class="modal-wrapper" @key.esc="$emit('close')" @click="$emit('close')">
-        <div class="modal-content">
+    <div class="modal-wrapper-outer" @key.esc="$emit('close')" @click="$emit('close')">
+        <div class="modal-wrapper-inner">
+            <div class="modal-content" @click.stop="">
+                <slot />
+            </div>
             <div class="modal-close" @click="$emit('close')">
                ✕
             </div>
-            <slot />
         </div>
     </div>
 </template>
 
 <style scoped>
-.modal-wrapper {
+.modal-wrapper-outer {
     position: fixed;
     z-index: 1;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    padding: 20px;
     background-color: rgba(0, 0, 0, 0.5);
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 10px;
+}
+
+.modal-wrapper-inner {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: min(100%, 1024px);
+    max-height: 100%;
 }
 
 .modal-content {
@@ -30,13 +41,14 @@
     border-radius: 0.8em;
     position: relative;
     border: var(--modal-border);
-    max-width: 100%;
+    overflow: auto;
+    max-height: 80vh;
 }
 
 .modal-close {
     position: absolute;
-    top: -20px;
-    right: -20px;
+    top: 0;
+    right: 0;
     cursor: pointer;
     border: var(--modal-close-border);
     background: var(--modal-close-background);
@@ -48,5 +60,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.scrollable {
+    overflow-y: auto;
 }
 </style>

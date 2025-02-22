@@ -3,7 +3,7 @@ title: First Class
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/scout-ranks/first-class.yaml';
+import requirements from '~/data/scout-ranks/first-class.yaml';
 </script>
 
 <template>

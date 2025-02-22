@@ -4,8 +4,8 @@ layout: nova
 </page>
 
 <script setup lang="ts">
-import requirementsPart1 from '../../../../../data/nova-lab/activity-topics/paper-gliders-part-1.yaml';
-import requirementsPart2 from '../../../../../data/nova-lab/activity-topics/paper-gliders-part-2.yaml';
+import requirementsPart1 from '~/data/nova-lab/activity-topics/paper-gliders-part-1.yaml';
+import requirementsPart2 from '~/data/nova-lab/activity-topics/paper-gliders-part-2.yaml';
 </script>
 
 <template>
@@ -29,7 +29,7 @@ import requirementsPart2 from '../../../../../data/nova-lab/activity-topics/pape
     <h3>Part 2: Analyze and Report</h3>
 
     <p>
-        Present to your mentor your recorded data in a tabular format as well as
+        Present to your mentor your recorded ~/data in a tabular format as well as
         a graphical format. (You may use Excel if you wish.) Then do the
         following:
     </p>

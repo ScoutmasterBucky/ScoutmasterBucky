@@ -6,7 +6,7 @@ program: scouts-bsa
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../../data/nova-lab/scouts-bsa/up-and-away.yaml';
+import requirements from '~/data/nova-lab/scouts-bsa/up-and-away.yaml';
 </script>
 
 <template>

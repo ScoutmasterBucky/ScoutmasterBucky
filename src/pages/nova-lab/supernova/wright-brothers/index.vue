@@ -4,7 +4,7 @@ layout: nova
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../../data/nova-lab/supernova/wright-brothers.yaml';
+import requirements from '~/data/nova-lab/supernova/wright-brothers.yaml';
 </script>
 
 <template>

@@ -18,7 +18,7 @@ resources:
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/merit-badges/geocaching/requirements.yaml'
+import requirements from '~/data/merit-badges/geocaching/requirements.yaml'
 </script>
 
 <template>

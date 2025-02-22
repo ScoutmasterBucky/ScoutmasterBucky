@@ -4,7 +4,7 @@ layout: nova
 </page>
 
 <script setup lang="ts">
-import requirementsPart2 from '../../../../../data/nova-lab/activity-topics/energy-technology-part-2.yaml';
+import requirementsPart2 from '~/data/nova-lab/activity-topics/energy-technology-part-2.yaml';
 </script>
 
 <template>

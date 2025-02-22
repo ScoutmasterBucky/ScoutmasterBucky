@@ -6,7 +6,7 @@ program: scouts-bsa
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../../data/nova-lab/scouts-bsa/let-it-grow.yaml';
+import requirements from '~/data/nova-lab/scouts-bsa/let-it-grow.yaml';
 </script>
 
 <template>

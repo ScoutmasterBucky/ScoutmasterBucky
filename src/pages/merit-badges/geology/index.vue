@@ -23,7 +23,7 @@ resources:
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/merit-badges/geology/requirements.yaml'
+import requirements from '~/data/merit-badges/geology/requirements.yaml'
 </script>
 
 <template>

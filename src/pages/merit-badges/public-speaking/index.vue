@@ -14,7 +14,7 @@ resources:
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/merit-badges/public-speaking/requirements.yaml'
+import requirements from '~/data/merit-badges/public-speaking/requirements.yaml'
 </script>
 
 <template>

@@ -3,7 +3,7 @@ title: 50 Miler
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/other-awards/50-miler.yaml';
+import requirements from '~/data/other-awards/50-miler.yaml';
 </script>
 
 <template>

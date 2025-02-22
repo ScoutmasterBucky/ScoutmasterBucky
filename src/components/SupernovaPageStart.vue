@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const { supernova } = defineProps<{ supernova: String }>();
-import supernovaAwards from '../../data/supernova-awards.json';
+import supernovaAwards from '~/data/supernova-awards.json';
 const detail = supernovaAwards[supernova];
 </script>
 

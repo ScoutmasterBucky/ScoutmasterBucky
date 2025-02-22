@@ -25,6 +25,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
 .wide {
@@ -111,4 +112,16 @@ body {
 
 .offside {
     font-family: 'Offside', sans-serif;
+}
+
+@media (min-width: 768.0001px) and (max-width: 1024px) {
+    .columns {
+        column-count: 2;
+    }
+}
+
+@media (min-width: 1024.001px) {
+    .columns {
+        column-count: 3;
+    }
 }

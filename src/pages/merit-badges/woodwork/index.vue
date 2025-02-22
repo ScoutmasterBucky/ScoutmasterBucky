@@ -17,7 +17,7 @@ resources:
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/merit-badges/woodwork/requirements.yaml'
+import requirements from '~/data/merit-badges/woodwork/requirements.yaml'
 </script>
 
 <template>

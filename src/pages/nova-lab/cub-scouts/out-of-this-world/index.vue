@@ -6,7 +6,7 @@ program: cub-scouts
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../../data/nova-lab/cub-scouts/out-of-this-world.yaml';
+import requirements from '~/data/nova-lab/cub-scouts/out-of-this-world.yaml';
 </script>
 
 <template>

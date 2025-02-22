@@ -3,7 +3,7 @@ title: Merit Badge Index
 </page>
 
 <script setup lang="ts">
-import meritBadges from '../../../data/merit-badges.json';
+import meritBadges from '~/data/merit-badges.json';
 </script>
 
 <template>

@@ -17,7 +17,7 @@ resources:
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/merit-badges/truck-transportation/requirements.yaml'
+import requirements from '~/data/merit-badges/truck-transportation/requirements.yaml'
 </script>
 
 <template>

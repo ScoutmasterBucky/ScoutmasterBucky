@@ -20,7 +20,7 @@ resources:
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/merit-badges/salesmanship/requirements.yaml'
+import requirements from '~/data/merit-badges/salesmanship/requirements.yaml'
 </script>
 
 <template>

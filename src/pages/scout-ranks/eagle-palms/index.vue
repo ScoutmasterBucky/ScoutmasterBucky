@@ -3,7 +3,7 @@ title: Eagle Palms
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/scout-ranks/eagle-palms.yaml';
+import requirements from '~/data/scout-ranks/eagle-palms.yaml';
 </script>
 
 <template>
