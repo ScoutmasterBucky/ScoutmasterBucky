@@ -4,9 +4,9 @@ layout: nova
 </page>
 
 <script setup lang="ts">
-import requirementsPart1 from '../../../../../data/nova-lab/activity-topics/mechanical-designs-part-1.yaml';
-import requirementsPart2a from '../../../../../data/nova-lab/activity-topics/mechanical-designs-part-2a.yaml';
-import requirementsPart2b from '../../../../../data/nova-lab/activity-topics/mechanical-designs-part-2b.yaml';
+import requirementsPart1 from '~/data/nova-lab/activity-topics/mechanical-designs-part-1.yaml';
+import requirementsPart2a from '~/data/nova-lab/activity-topics/mechanical-designs-part-2a.yaml';
+import requirementsPart2b from '~/data/nova-lab/activity-topics/mechanical-designs-part-2b.yaml';
 </script>
 
 <template>

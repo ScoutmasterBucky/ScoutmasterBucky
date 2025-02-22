@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { DateTime } from 'luxon';
-import eventList from '../../data/events.yaml';
+import eventList from '~/data/events.yaml';
 
 function areDaysDifferent(event) {
     if (!event.end) {

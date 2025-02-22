@@ -35,7 +35,7 @@ resources:
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/merit-badges/animal-science/requirements.yaml'
+import requirements from '~/data/merit-badges/animal-science/requirements.yaml'
 </script>
 
 <template>

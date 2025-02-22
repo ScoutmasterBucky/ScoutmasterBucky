@@ -1,6 +1,6 @@
 <script setup lang="ts">
 defineProps<{ rank: String }>();
-import scoutRanks from '../../data/scout-ranks.json';
+import scoutRanks from '~/data/scout-ranks.json';
 </script>
 
 <template>

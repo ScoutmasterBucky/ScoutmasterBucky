@@ -50,7 +50,7 @@
     );
     --heading-2-text-color: var(--palette-white);
     --heading-2-border: 2px solid var(--palette-dark);
-    --heading-3-border-color: var(--palette-dark);
+    --heading-3-border: 1px solid var(--palette-dark);
     --heading-3-text-color: var(--palette-dark);
     --page-margin-background: var(--palette-black);
     --page-background: var(--palette-white);
@@ -135,8 +135,8 @@ h3 {
     justify-content: center;
     margin: 1em auto;
     padding: 1em 0;
-    border-top: 1px solid var(--heading-3-border-color);
-    border-bottom: 1px solid var(--heading-3-border-color);
+    border-top: var(--heading-3-border);
+    border-bottom: var(--heading-3-border);
     width: 95%;
     clear: both;
 }

@@ -26,7 +26,7 @@ resources:
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/merit-badges/skating/requirements.yaml'
+import requirements from '~/data/merit-badges/skating/requirements.yaml'
 </script>
 
 <template>

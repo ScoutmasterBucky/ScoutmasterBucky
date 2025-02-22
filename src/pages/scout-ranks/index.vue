@@ -14,8 +14,8 @@ additionalPages:
 </page>
 
 <script setup lang="ts">
-import scoutRanks from '../../../data/scout-ranks.json';
-import updated from '../../../data/updated.json';
+import scoutRanks from '~/data/scout-ranks.json';
+import updated from '~/data/updated.json';
 
 const ranks = Object.keys(scoutRanks).filter(rank => scoutRanks[rank].rank);
 const additional = Object.keys(scoutRanks).filter(

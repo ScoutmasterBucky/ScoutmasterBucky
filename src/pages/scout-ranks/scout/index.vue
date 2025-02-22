@@ -3,7 +3,7 @@ title: Scout
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/scout-ranks/scout.yaml';
+import requirements from '~/data/scout-ranks/scout.yaml';
 </script>
 
 <template>

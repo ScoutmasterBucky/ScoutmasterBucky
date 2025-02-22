@@ -17,7 +17,7 @@ resources:
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/merit-badges/fish-and-wildlife-management/requirements.yaml'
+import requirements from '~/data/merit-badges/fish-and-wildlife-management/requirements.yaml'
 </script>
 
 <template>

@@ -3,7 +3,7 @@ title: Whitewater Rafting BSA
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/other-awards/whitewater-rafting-bsa.yaml';
+import requirements from '~/data/other-awards/whitewater-rafting-bsa.yaml';
 </script>
 
 <template>

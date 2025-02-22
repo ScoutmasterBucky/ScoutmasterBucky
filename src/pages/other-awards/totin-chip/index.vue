@@ -3,7 +3,7 @@ title: Totin' Chip
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/other-awards/totin-chip.yaml';
+import requirements from '~/data/other-awards/totin-chip.yaml';
 </script>
 
 <template>

@@ -4,7 +4,7 @@ layout: nova
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../../data/nova-lab/supernova/dr-sally-ride.yaml'
+import requirements from '~/data/nova-lab/supernova/dr-sally-ride.yaml'
 </script>
 
 <template>

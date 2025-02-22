@@ -4,7 +4,7 @@ const { nova, program, requirements } = defineProps<{
     program: String;
     requirements: Object;
 }>();
-import novaAwards from '../../data/nova-awards.json';
+import novaAwards from '~/data/nova-awards.json';
 const award = novaAwards[program][nova];
 </script>
 

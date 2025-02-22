@@ -3,7 +3,7 @@ title: Second Class
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/scout-ranks/second-class.yaml';
+import requirements from '~/data/scout-ranks/second-class.yaml';
 </script>
 
 <template>

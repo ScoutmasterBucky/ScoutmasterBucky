@@ -14,7 +14,7 @@ resources:
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/merit-badges/water-sports/requirements.yaml'
+import requirements from '~/data/merit-badges/water-sports/requirements.yaml'
 </script>
 
 <template>

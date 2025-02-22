@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import meritBadges from '../../data/merit-badges.json';
+import meritBadges from '~/data/merit-badges.json';
 const { event } = defineProps<{
     event: Object;
 }>();

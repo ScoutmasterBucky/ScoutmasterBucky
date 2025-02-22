@@ -3,7 +3,7 @@ title: Mile Swim BSA
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/other-awards/mile-swim-bsa.yaml';
+import requirements from '~/data/other-awards/mile-swim-bsa.yaml';
 </script>
 
 <template>

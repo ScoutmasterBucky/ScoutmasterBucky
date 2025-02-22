@@ -5,7 +5,7 @@ program: scouts-bsa
 </page>
 
 <script setup lang="ts">
-import meritBadges from '../../../../data/merit-badges.json';
+import meritBadges from '~/data/merit-badges.json';
 const badgesWithNovas = Object.entries(meritBadges)
     .map(([name, info]) => ({ ...info, name }))
     .filter(badge => badge.novas.length > 0);

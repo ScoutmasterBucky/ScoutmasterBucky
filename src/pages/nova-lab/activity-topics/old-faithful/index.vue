@@ -4,8 +4,8 @@ layout: nova
 </page>
 
 <script setup lang="ts">
-import requirementsPart1 from '../../../../../data/nova-lab/activity-topics/old-faithful-part-1.yaml';
-import requirementsPart2 from '../../../../../data/nova-lab/activity-topics/old-faithful-part-2.yaml';
+import requirementsPart1 from '~/data/nova-lab/activity-topics/old-faithful-part-1.yaml';
+import requirementsPart2 from '~/data/nova-lab/activity-topics/old-faithful-part-2.yaml';
 </script>
 
 <template>
@@ -25,12 +25,12 @@ import requirementsPart2 from '../../../../../data/nova-lab/activity-topics/old-
         ranger at Yellowstone National Park, where you know many visitors come
         to see the geyser Old Faithful. Many visitors arrive just after Old
         Faithful has erupted and they typically ask a nearby ranger when it is
-        next expected to erupt. Your task is to analyze past data on Old
+        next expected to erupt. Your task is to analyze past ~/data on Old
         Faithful’s eruptions in order to devise a strategy for predicting the
         next eruption.
     </p>
 
-    <h3>Part 1: Data Gathering and Initial Analysis</h3>
+    <h3>Part 1: ~/data Gathering and Initial Analysis</h3>
 
     <Requirements :requirements="requirementsPart1" />
 

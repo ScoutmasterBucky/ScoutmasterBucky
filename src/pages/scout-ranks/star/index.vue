@@ -3,7 +3,7 @@ title: Star
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/scout-ranks/star.yaml';
+import requirements from '~/data/scout-ranks/star.yaml';
 </script>
 
 <template>

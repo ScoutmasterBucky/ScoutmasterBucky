@@ -3,7 +3,7 @@ title: Life
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/scout-ranks/life.yaml';
+import requirements from '~/data/scout-ranks/life.yaml';
 </script>
 
 <template>

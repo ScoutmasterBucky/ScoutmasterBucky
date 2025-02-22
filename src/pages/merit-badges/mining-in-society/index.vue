@@ -17,7 +17,7 @@ resources:
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/merit-badges/mining-in-society/requirements.yaml'
+import requirements from '~/data/merit-badges/mining-in-society/requirements.yaml'
 </script>
 
 <template>

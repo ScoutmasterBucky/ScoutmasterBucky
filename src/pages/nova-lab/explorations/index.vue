@@ -4,7 +4,7 @@ layout: nova
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/nova-lab/exploration-requirements.yaml';
+import requirements from '~/data/nova-lab/exploration-requirements.yaml';
 </script>
 
 <template>

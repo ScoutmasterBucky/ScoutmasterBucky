@@ -195,7 +195,7 @@ async function downloadMeritBadges(updated, args) {
 
         // Load the merit badge page
         console.log(`[WEB] ${badgeName}: ${mbUrl}`);
-        const dest = `data/merit-badges/${badgeName}/${badgeName}.html.orig`;
+        const dest = `src/data/merit-badges/${badgeName}/${badgeName}.html.orig`;
 
         // .mb-requirement-container works for most merit badges, but
         // "small-boat-sailing" is slightly different. Possibly others.
@@ -209,7 +209,7 @@ async function downloadMeritBadges(updated, args) {
         console.log(chalk.yellow('NOT REMOVING OLD FILES - Merit badges are being filtered'));
     } else {
         debug("Cleaning old files");
-        const files = await glob("data/merit-badges/*/*.html.orig");
+        const files = await glob("src/data/merit-badges/*/*.html.orig");
         await serialPromises(files, async (file) => {
             const parts = file.split("/");
 
@@ -244,7 +244,7 @@ async function downloadNovaAwards(updated) {
         "https://www.scouting.org/stem-nova-awards/awards/cub-scout/"
     );
     await domQuery(cubDom, '[data-id="73543ea7"] a[href*=".pdf"]', (link) =>
-        fetchPdf(link, cubDom, "data/nova-lab/cub-scouts/")
+        fetchPdf(link, cubDom, "src/data/nova-lab/cub-scouts/")
     );
 
     subheading("Scouts BSA Nova Awards");
@@ -252,7 +252,7 @@ async function downloadNovaAwards(updated) {
         "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/"
     );
     await domQuery(scoutDom, '[data-id="9786783"] a[href*="pdf"]', (link) =>
-        fetchPdf(link, scoutDom, "data/nova-lab/scouts-bsa/")
+        fetchPdf(link, scoutDom, "src/data/nova-lab/scouts-bsa/")
     );
 
     subheading("Venturing and Sea Scouts Nova Awards");
@@ -260,7 +260,7 @@ async function downloadNovaAwards(updated) {
         "https://www.scouting.org/stem-nova-awards/awards/venturer/"
     );
     await domQuery(ventureDom, '[data-id="259c931"] a[href*="pdf"]', (link) =>
-        fetchPdf(link, ventureDom, "data/nova-lab/venturing-and-sea-scouts/")
+        fetchPdf(link, ventureDom, "src/data/nova-lab/venturing-and-sea-scouts/")
     );
 }
 
@@ -296,19 +296,19 @@ async function downloadOtherAwards(updated) {
         {
             key: "50-miler",
             url: "https://www.scouting.org/awards/awards-central/50-miler/",
-            dest: "data/other-awards/50-miler.pdf",
+            dest: "src/data/other-awards/50-miler.pdf",
             selector: "a[href*=pdf]"
         },
         {
             key: "aquatics-guide",
             url: "https://www.scouting.org/awards/awards-central/boardsailing/",
-            dest: "data/other-awards/aquatics-guide.pdf",
+            dest: "public/other-awards/aquatics-guide.pdf",
             selector: "a[href*=pdf]"
         },
         {
             key: "totin-chip",
             url: "https://www.scouting.org/awards/awards-central/totin-chip/",
-            dest: "data/other-awards/totin-chip.html.orig",
+            dest: "src/data/other-awards/totin-chip.html.orig",
             selector: "[data-id=7627899f]"
         }
     ]);
@@ -322,64 +322,64 @@ async function downloadScoutRanks(updated) {
         {
             key: "scout",
             url,
-            dest: "data/scout-ranks/scout.pdf",
+            dest: "src/data/scout-ranks/scout.pdf",
             selector: 'a[href*=".pdf"]:contains("Scout Rank Requirements")'
         },
         {
             key: "tenderfoot",
             url,
-            dest: "data/scout-ranks/tenderfoot.pdf",
+            dest: "src/data/scout-ranks/tenderfoot.pdf",
             selector: 'a[href*=".pdf"]:contains("Tenderfoot Rank Requirements")'
         },
         {
             key: "second-class",
             url,
-            dest: "data/scout-ranks/second-class.pdf",
+            dest: "src/data/scout-ranks/second-class.pdf",
             selector:
                 'a[href*=".pdf"]:contains("Second Class Rank Requirements")'
         },
         {
             key: "first-class",
             url,
-            dest: "data/scout-ranks/first-class.pdf",
+            dest: "src/data/scout-ranks/first-class.pdf",
             selector:
                 'a[href*=".pdf"]:contains("First Class Rank Requirements")'
         },
         {
             key: "star",
             url,
-            dest: "data/scout-ranks/star.pdf",
+            dest: "src/data/scout-ranks/star.pdf",
             selector: 'a[href*=".pdf"]:contains("Star Rank Requirements")'
         },
         {
             key: "life",
             url,
-            dest: "data/scout-ranks/life.pdf",
+            dest: "src/data/scout-ranks/life.pdf",
             selector: 'a[href*=".pdf"]:contains("Life Rank Requirements")'
         },
         {
             key: "eagle",
             url,
-            dest: "data/scout-ranks/eagle.pdf",
+            dest: "src/data/scout-ranks/eagle.pdf",
             selector: 'a[href*=".pdf"]:contains("Eagle Rank Requirements")'
         },
         {
             key: "eagle-palms",
             url,
-            dest: "data/scout-ranks/eagle-palms.pdf",
+            dest: "src/data/scout-ranks/eagle-palms.pdf",
             selector: 'a[href*=".pdf"]:contains("Eagle Palms")'
         },
         {
             key: "alternative-requirements",
             url,
-            dest: "data/scout-ranks/alternative-requirements.pdf",
+            dest: "src/data/scout-ranks/alternative-requirements.pdf",
             selector:
                 'a[href*=".pdf"]:contains("Ranks Alternative Requirements")'
         },
         {
             key: "eagle-alternative-requirements",
             url,
-            dest: "data/scout-ranks/eagle-alternative-requirements.pdf",
+            dest: "src/data/scout-ranks/eagle-alternative-requirements.pdf",
             selector:
                 'a[href*=".pdf"]:contains("Eagle Scout Rank Alternative Requirements")'
         }
@@ -406,7 +406,7 @@ async function downloadSupernovaAwards(updated) {
 
             await savePdfAndText(
                 pdfUrl,
-                `data/nova-lab/supernova/${name}.pdf`
+                `src/data/nova-lab/supernova/${name}.pdf`
             );
         });
     }
@@ -446,7 +446,7 @@ async function downloadSupernovaAwards(updated) {
         {
             key: "activity-topics",
             url: "https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-topics/",
-            dest: "data/nova-lab/activity-topics/activity-topics.html.orig",
+            dest: "src/data/nova-lab/activity-topics/activity-topics.html.orig",
             selector: '[data-id="74ca43fb"]'
         },
         {

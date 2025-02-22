@@ -6,7 +6,7 @@ program: venturing-and-sea-scouts
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../../data/nova-lab/venturing-and-sea-scouts/execute.yaml';
+import requirements from '~/data/nova-lab/venturing-and-sea-scouts/execute.yaml';
 </script>
 
 <template>

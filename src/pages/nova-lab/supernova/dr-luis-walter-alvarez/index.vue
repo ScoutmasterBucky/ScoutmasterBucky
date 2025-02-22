@@ -5,7 +5,7 @@ layout: nova
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../../data/nova-lab/supernova/dr-luis-walter-alvarez.yaml';
+import requirements from '~/data/nova-lab/supernova/dr-luis-walter-alvarez.yaml';
 </script>
 
 <template>

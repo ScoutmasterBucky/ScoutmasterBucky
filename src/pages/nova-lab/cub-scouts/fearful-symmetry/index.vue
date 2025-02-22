@@ -6,7 +6,7 @@ program: cub-scouts
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../../data/nova-lab/cub-scouts/fearful-symmetry.yaml';
+import requirements from '~/data/nova-lab/cub-scouts/fearful-symmetry.yaml';
 </script>
 
 <template>

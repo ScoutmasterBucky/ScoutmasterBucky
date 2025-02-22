@@ -3,7 +3,7 @@ const { nova, program } = defineProps<{
     nova: String;
     program: String;
 }>();
-import novaAwards from '../../data/nova-awards.json';
+import novaAwards from '~/data/nova-awards.json';
 const award = novaAwards[program][nova];
 </script>
 

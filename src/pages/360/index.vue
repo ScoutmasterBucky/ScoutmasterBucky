@@ -9,7 +9,6 @@ const posts = postsUnfiltered.value.filter((post) => !post.frontmatter.hidden);
 
 <template>
     <h2>2023 <span class="red">&lt;3</span>60 Awareness Project</h2>
-    {{x}}
 
     <MeritBadgeList><ScaledContent><img src="/360/360-awareness-project-logo.png" class="wide" /></ScaledContent></MeritBadgeList>
 

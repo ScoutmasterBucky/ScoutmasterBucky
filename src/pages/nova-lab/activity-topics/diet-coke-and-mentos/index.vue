@@ -4,8 +4,8 @@ layout: nova
 </page>
 
 <script setup lang="ts">
-import requirementsPart1 from '../../../../../data/nova-lab/activity-topics/diet-coke-and-mentos-part-1.yaml';
-import requirementsPart2 from '../../../../../data/nova-lab/activity-topics/diet-coke-and-mentos-part-2.yaml';
+import requirementsPart1 from '~/data/nova-lab/activity-topics/diet-coke-and-mentos-part-1.yaml';
+import requirementsPart2 from '~/data/nova-lab/activity-topics/diet-coke-and-mentos-part-2.yaml';
 </script>
 
 <template>

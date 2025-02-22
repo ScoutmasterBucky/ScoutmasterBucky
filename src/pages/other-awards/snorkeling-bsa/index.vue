@@ -3,7 +3,7 @@ title: Snorkeling BSA
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/other-awards/snorkeling-bsa.yaml';
+import requirements from '~/data/other-awards/snorkeling-bsa.yaml';
 </script>
 
 <template>

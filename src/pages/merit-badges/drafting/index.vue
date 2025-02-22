@@ -17,7 +17,7 @@ resources:
 </page>
 
 <script setup lang="ts">
-import requirements from '../../../../data/merit-badges/drafting/requirements.yaml'
+import requirements from '~/data/merit-badges/drafting/requirements.yaml'
 </script>
 
 <template>

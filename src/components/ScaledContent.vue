@@ -21,6 +21,7 @@ const alignClass = ['left', 'right', 'center'].includes(align)
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 9px;
 }
 
 .left {

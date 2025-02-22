@@ -4,7 +4,7 @@ defineProps<{ href: String; name: String; src: String }>();
 
 <template>
     <Tile>
-        <a :href="href">
+        <a :href="href" target="_blank">
             <img :src="src" :alt="name" />
             <div>{{ name }}</div>
         </a>
