@@ -80,23 +80,22 @@ layout: nova
     </MeritBadgeList>
 
     <p>
-        Nova awards are where you should start. They are smaller experiments
-        and engage youth in learning experiences in the STEM fields. The Nova
-        awards are broken down by program level. These are recognized with a
+        Nova awards are where you should start. They are smaller experiments and
+        engage youth in learning experiences in the STEM fields. The Nova awards
+        are broken down by program level. These are recognized with a
         program-specific patch or device (a pin for the patch). These are often
         easier and are designed so that they could be completed in short order.
     </p>
 
     <p>
-        Earning a Nova award, at a very high level, involves study,
-        experiments, and discussion. The amount of engagement is scaled to
-        match the youth's program level. Cub Scouts need to complete an hour of
-        study whereas others need three hours. There will also be a
-        STEM-related adventure, merit badge, or exploration. The youth will
-        also need to create visual aids, such as drawings, charts, posters, or
-        presentations. The youth will also need to perform some investigation
-        in the chosen STEM field and discuss their findings with a Nova
-        counselor.
+        Earning a Nova award, at a very high level, involves study, experiments,
+        and discussion. The amount of engagement is scaled to match the youth's
+        program level. Cub Scouts need to complete an hour of study whereas
+        others need three hours. There will also be a STEM-related adventure,
+        merit badge, or exploration. The youth will also need to create visual
+        aids, such as drawings, charts, posters, or presentations. The youth
+        will also need to perform some investigation in the chosen STEM field
+        and discuss their findings with a Nova counselor.
     </p>
 
     <MeritBadgeList>
@@ -107,32 +106,42 @@ layout: nova
             <img src="/nova-lab/scouts-bsa-nova-patch.webp" class="wide" />
         </ScaledContent>
         <ScaledContent>
-            <img src="/nova-lab/venturing-and-sea-scouts-nova-patch.webp" class="wide" />
+            <img
+                src="/nova-lab/venturing-and-sea-scouts-nova-patch.webp"
+                class="wide"
+            />
         </ScaledContent>
     </MeritBadgeList>
 
     <h3>Supernova Awards</h3>
 
-
-    <MeritBadgeList><Tile>
-        <a href="supernova/" class="logo">
-            <img
-                src="/nova-lab/supernova/dr-albert-einstein-award.jpg"
-                class="wide"
-            />
-            <div class="logo-text">All Supernova Awards</div>
-        </a>
-    </Tile></MeritBadgeList>
+    <MeritBadgeList
+        ><Tile>
+            <a href="supernova/" class="logo">
+                <img
+                    src="/nova-lab/supernova/dr-albert-einstein-award.jpg"
+                    class="wide"
+                />
+                <div class="logo-text">All Supernova Awards</div>
+            </a>
+        </Tile></MeritBadgeList
+    >
 
     <p>
         After earning some Nova awards, the next step is to work on a
         <a href="supernova/">Supernova Award</a>. The Supernova starts with
-        <a href="explorations/">STEM explorations</a> and then learning more
-        about <a href="supernova/activity-topics/">activity topics</a>. When
-        achieving a Supernova Award, the recipient is given a medal instead of a
-        patch or a pin. The first award earned must be a bronze, which is
-        roughly the same amount of work as an additional Nova award. After
-        that, you can achieve the silver, which then unlocks the gold award.
+        learning about topics through experiments in Cub Scouts, completing
+        <a href="/merit-badges/">merit badges</a> in Scouts BSA, or working
+        through <a href="explorations/">STEM explorations</a> as a Sea Scout or
+        Venturer. After that, one learns more by engaging in in
+        <a href="activity-topics/">activity topics</a>.
+    </p>
+
+    <p>
+        When achieving a Supernova Award, the recipient is given a medal instead
+        of a patch or a pin. The first award earned must be a bronze, which is
+        roughly the same amount of work as an additional Nova award. After that,
+        you can achieve the silver, which then unlocks the gold award.
     </p>
 
     <p>
