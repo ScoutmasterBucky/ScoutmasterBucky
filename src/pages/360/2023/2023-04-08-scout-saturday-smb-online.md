@@ -1,0 +1,37 @@
+---
+hidden: false
+eventDate: '2023-04-08'
+title: Scout Saturday - Scoumaster Bucky Online
+presenter: Scoutmaster Bucky
+# Logo is optional. If no logo, delete the line or comment it out.
+logo: 2023/graphics/bsa-logo.png
+# Ribbon is optional. If no ribbon, delete the line or comment it out.
+ribbon: 2023/graphics/smbo-logo.png
+summary: Providing Online Advancement Opportunities since 2013
+shirtImage: graphics/day-10-t.png
+shirtLink: https://www.etsy.com/listing/1349792104/scout-leader-shirt-scout-life-shirt?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=funny+scout+shirt&ref=sr_gallery-2-15&pro=1&frs=1&sts=1&organic_search_click=1&variation1=3087215705&variation0=3087215787
+videoLink: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/3345698932339450
+---
+
+Today's awareness is kind of simple, but still it has impacted thousands of Scouts for nearly a decade.  My very own Scoutmaster Bucky Online program.
+
+The Scoutmaster Bucky Program started in 2009, three and half years later, the Scoutmaster Bucky Online Program was introduced.
+
+Scoutmaster Bucky envisioned how online tools and technology could be utilized to help positively deliver the Scouting program.
+
+In July of 2013, with support and guidelines laid out from the local Scouting Council, the Scoutmaster Bucky Online program offered it’s first class.
+
+For years social media was anything but kind to the Scoutmaster Bucky Online offerings.
+
+In 2020 with the onset of the COVID-19 Pandemic the Scoutmaster Bucky Online Program went from being criticized to being praised and seen as innovative and the leader in online merit badge offerings.
+
+Today the Scoutmaster Bucky Online Program still leads the field of online merit badge opportunities, noted for it’s continual reinvention, consistent offerings that are relevant, interactive, and engaging, and revered for it’s winning formula of positively working with and engaging Scouts in an online environment.
+
+Thanks to all who have supported this program and here's to another strong and successful decade to come.
+
+Find out more at www.ScoutmasterBucky.com
+
+
+
+
+

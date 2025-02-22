@@ -21,7 +21,7 @@ for (const novaName of info.novas) {
     const nova = novaAwards['scouts-bsa'][novaName];
     related.add({
         name: `${nova.name} Nova Award`,
-        url: `/nova-lab/scouts-bsa/${nova}/`,
+        url: `/nova-lab/scouts-bsa/${novaName}/`,
     });
 }
 </script>

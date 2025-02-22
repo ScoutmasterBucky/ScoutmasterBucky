@@ -1,7 +1,6 @@
 # Changed "Venturer" to "Venturer or Sea Scout"
 # Changed requirement 7 - removed space after dangling hyphen
 - requirement: 1
-  markdown: true
   text: |-
       Earn the <a href="../dr-sally-ride/">Dr. Sally Ride</a> Supernova award
       while a registered Venturer or Sea Scout OR earn the <a
@@ -9,19 +8,17 @@
       a registered Scout in Scouts BSA.
 # Changed "Venturer" to "Venturer / Sea Scout" or "Venturer or Sea Scout"
 - requirement: 2
-  markdown: true
   text: |-
       As a Venturer or Sea Scout complete ONE additional <a
       href="../../venturing-and-sea-scouts/">Venturer/Sea Scout Nova award</a>
       for a total of four. The Nova award completed is to be different from any
       Nova awards previously completed.
 - requirement: 3
-  markdown: true
   text: |-
       Using the guidelines for <a href="../../explorations/">Venturing/Sea
       Scout STEM Explorations</a>, complete STEM explorations for four of the
-      topics listed below. Use of Scouts BSA Merit Badge content is encouraged.
-
+      topics listed below. Use of Scouts BSA Merit Badge content is encouraged.<br />
+      <br />
       Animal Science, Archaeology, Architecture, Astronomy, Automotive
       Maintenance, Aviation, Bird Study, Chemistry, Composite Materials,
       Computers, Dentistry, Drafting, Electricity, Electronics, Energy,
@@ -33,18 +30,16 @@
       Surveying, Veterinary Medicine, Weather, Welding.
 # Changed "Venturer" to "Venturer / Sea Scout"
 - requirement: 4
-  markdown: true
   text: |-
-      Complete TWO additional <a href="../activity-topics/">Supernova activity
+      Complete TWO additional <a href="../../activity-topics/">Supernova activity
       topics</a>, one each in the two STEM areas not completed for the <a
       href="../dr-sally-ride/">Dr. Sally Ride</a> Supernova award or <a
-      href="../dr-bernard-harris">Dr. Bernard Harris</a> Supernova award.
+      href="../dr-bernard-harris/">Dr. Bernard Harris</a> Supernova award.
       (Upon completion of the Wright Brothers Supernova award, the Venturer/Sea
       Scout will have completed one Supernova activity topic in each of the
       four STEM areas.)
 # Changed "Venturer" to "Venturer / Sea Scout"
 - requirement: 5
-  markdown: true
   text: |-
       Participate in a local, state, or national science fair or mathematics
       competition OR any other equally challenging STEM-oriented competition or
@@ -54,7 +49,6 @@
       in two such events.)
 # Changed "Venturer" to "Venturer / Sea Scout"
 - requirement: 6
-  markdown: true
   text: |-
       Working with your mentor, organize and present a Nova award or other
       STEM-related program at a Cub Scout den or pack meeting. Be sure to

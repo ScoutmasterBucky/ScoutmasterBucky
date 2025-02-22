@@ -1,81 +1,78 @@
+# Changed medicine merit badge to health care professions
 - requirement: 1
-  markdown: true
   text: |-
       Earn the <a href="../dr-bernard-harris/">Dr. Bernard Harris</a> Supernova
       award.
 - requirement: 2
-  markdown: true
   text: |-
-      Complete ONE additional <a href="../../scouts-bsa">Scouts BSA Nova
+      Complete ONE additional <a href="../../scouts-bsa/">Scouts BSA Nova
       award</a> for a total of four. (Note: This may be done at any time after
       becoming a member of Scouts BSA.)
 - requirement: 3
-  markdown: true
   text: |-
       Earn FOUR additional Supernova-approved merit badges from <a
       href="../../scouts-bsa/">the list provided</a>, other than the four
       earned while working on the <a href="../dr-bernard-harris/">Dr. Bernard
       Harris</a> Supernova award for a total of eight. (Note: These may be
       earned at any time after becoming a Scout.)
-
-      * <a href="../../../merit-badges/animal-science/">Animal Science</a>
-      * <a href="../../../merit-badges/archaeology/">Archaeology</a>
-      * <a href="../../../merit-badges/architecture/">Architecture</a>
-      * <a href="../../../merit-badges/astronomy/">Astronomy</a>
-      * <a href="../../../merit-badges/automotive-maintenance/">Automotive Maintenance</a>
-      * <a href="../../../merit-badges/aviation/">Aviation</a>
-      * <a href="../../../merit-badges/bird-study/">Bird Study</a>
-      * <a href="../../../merit-badges/chemistry/">Chemistry</a>
-      * <a href="../../../merit-badges/composite-materials/">Composite Materials</a>
-      * <a href="../../../merit-badges/dentistry/">Dentistry</a>
-      * <a href="../../../merit-badges/digital-technology/">Digital Technology</a>
-      * <a href="../../../merit-badges/drafting/">Drafting</a>
-      * <a href="../../../merit-badges/electricity/">Electricity</a>
-      * <a href="../../../merit-badges/electronics/">Electronics</a>
-      * <a href="../../../merit-badges/energy/">Energy</a>
-      * <a href="../../../merit-badges/engineering/">Engineering</a>
-      * <a href="../../../merit-badges/environmental-science/">Environmental Science</a>
-      * <a href="../../../merit-badges/farm-mechanics/">Farm Mechanics</a>
-      * <a href="../../../merit-badges/fish-and-wildlife-management/">Fish and Wildlife Management</a>
-      * <a href="../../../merit-badges/forestry/">Forestry</a>
-      * <a href="../../../merit-badges/game-design/">Game Design</a>
-      * <a href="../../../merit-badges/gardening/">Gardening</a>
-      * <a href="../../../merit-badges/geocaching/">Geocaching</a>
-      * <a href="../../../merit-badges/geology/">Geology</a>
-      * <a href="../../../merit-badges/insect-study/">Insect Study</a>
-      * <a href="../../../merit-badges/inventing/">Inventing</a>
-      * <a href="../../../merit-badges/mammal-study/">Mammal Study</a>
-      * <a href="../../../merit-badges/medicine/">Medicine</a>
-      * <a href="../../../merit-badges/mining-in-society/">Mining in Society</a>
-      * <a href="../../../merit-badges/nature/">Nature</a>
-      * <a href="../../../merit-badges/nuclear-science/">Nuclear Science</a>
-      * <a href="../../../merit-badges/oceanography/">Oceanography</a>
-      * <a href="../../../merit-badges/plant-science/">Plant Science</a>
-      * <a href="../../../merit-badges/programming/">Programming</a>
-      * <a href="../../../merit-badges/pulp-and-paper/">Pulp and Paper</a>
-      * <a href="../../../merit-badges/radio/">Radio</a>
-      * <a href="../../../merit-badges/reptile-and-amphibian-study/">Reptile and Amphibian Study</a>
-      * <a href="../../../merit-badges/robotics/">Robotics</a>
-      * <a href="../../../merit-badges/scuba-diving/">Scuba Diving</a>
-      * <a href="../../../merit-badges/signs-signals-and-codes/">Signs, Signals, and Codes</a>
-      * <a href="../../../merit-badges/soil-and-water-conservation/">Soil and Water Conservation</a>
-      * <a href="../../../merit-badges/space-exploration/">Space Exploration</a>
-      * <a href="../../../merit-badges/surveying/">Surveying</a>
-      * <a href="../../../merit-badges/sustainability/">Sustainability</a>
-      * <a href="../../../merit-badges/veterinary-medicine/">Veterinary Medicine</a>
-      * <a href="../../../merit-badges/weather/">Weather</a>
-      * <a href="../../../merit-badges/welding/">Welding</a>
+      <ul>
+      <li><a href="../../../merit-badges/animal-science/">Animal Science</a></li>
+      <li><a href="../../../merit-badges/archaeology/">Archaeology</a></li>
+      <li><a href="../../../merit-badges/architecture/">Architecture</a></li>
+      <li><a href="../../../merit-badges/astronomy/">Astronomy</a></li>
+      <li><a href="../../../merit-badges/automotive-maintenance/">Automotive Maintenance</a></li>
+      <li><a href="../../../merit-badges/aviation/">Aviation</a></li>
+      <li><a href="../../../merit-badges/bird-study/">Bird Study</a></li>
+      <li><a href="../../../merit-badges/chemistry/">Chemistry</a></li>
+      <li><a href="../../../merit-badges/composite-materials/">Composite Materials</a></li>
+      <li><a href="../../../merit-badges/dentistry/">Dentistry</a></li>
+      <li><a href="../../../merit-badges/digital-technology/">Digital Technology</a></li>
+      <li><a href="../../../merit-badges/drafting/">Drafting</a></li>
+      <li><a href="../../../merit-badges/electricity/">Electricity</a></li>
+      <li><a href="../../../merit-badges/electronics/">Electronics</a></li>
+      <li><a href="../../../merit-badges/energy/">Energy</a></li>
+      <li><a href="../../../merit-badges/engineering/">Engineering</a></li>
+      <li><a href="../../../merit-badges/environmental-science/">Environmental Science</a></li>
+      <li><a href="../../../merit-badges/farm-mechanics/">Farm Mechanics</a></li>
+      <li><a href="../../../merit-badges/fish-and-wildlife-management/">Fish and Wildlife Management</a></li>
+      <li><a href="../../../merit-badges/forestry/">Forestry</a></li>
+      <li><a href="../../../merit-badges/game-design/">Game Design</a></li>
+      <li><a href="../../../merit-badges/gardening/">Gardening</a></li>
+      <li><a href="../../../merit-badges/geocaching/">Geocaching</a></li>
+      <li><a href="../../../merit-badges/geology/">Geology</a></li>
+      <li><a href="../../../merit-badges/health-care-professions/">Health Care Professions</a></li>
+      <li><a href="../../../merit-badges/insect-study/">Insect Study</a></li>
+      <li><a href="../../../merit-badges/inventing/">Inventing</a></li>
+      <li><a href="../../../merit-badges/mammal-study/">Mammal Study</a></li>
+      <li><a href="../../../merit-badges/mining-in-society/">Mining in Society</a></li>
+      <li><a href="../../../merit-badges/nature/">Nature</a></li>
+      <li><a href="../../../merit-badges/nuclear-science/">Nuclear Science</a></li>
+      <li><a href="../../../merit-badges/oceanography/">Oceanography</a></li>
+      <li><a href="../../../merit-badges/plant-science/">Plant Science</a></li>
+      <li><a href="../../../merit-badges/programming/">Programming</a></li>
+      <li><a href="../../../merit-badges/pulp-and-paper/">Pulp and Paper</a></li>
+      <li><a href="../../../merit-badges/radio/">Radio</a></li>
+      <li><a href="../../../merit-badges/reptile-and-amphibian-study/">Reptile and Amphibian Study</a></li>
+      <li><a href="../../../merit-badges/robotics/">Robotics</a></li>
+      <li><a href="../../../merit-badges/scuba-diving/">Scuba Diving</a></li>
+      <li><a href="../../../merit-badges/signs-signals-and-codes/">Signs, Signals, and Codes</a></li>
+      <li><a href="../../../merit-badges/soil-and-water-conservation/">Soil and Water Conservation</a></li>
+      <li><a href="../../../merit-badges/space-exploration/">Space Exploration</a></li>
+      <li><a href="../../../merit-badges/surveying/">Surveying</a></li>
+      <li><a href="../../../merit-badges/sustainability/">Sustainability</a></li>
+      <li><a href="../../../merit-badges/veterinary-medicine/">Veterinary Medicine</a></li>
+      <li><a href="../../../merit-badges/weather/">Weather</a></li>
+      <li><a href="../../../merit-badges/welding/">Welding</a></li>
+      </ul>
 - requirement: 4
-  markdown: true
   text: |-
-      Complete TWO additional <a href="../activity-topics/">Supernova activity
+      Complete TWO additional <a href="../../activity-topics/">Supernova activity
       topics</a>, one each in the two STEM areas NOT completed for the <a
       href="../dr-bernard-harris/">Dr. Bernard Harris</a> Supernova award.
       (Note: The intent is that upon completion of the Thomas Alva Edison
       Supernova award the Scout will have completed one Supernova activity
       topic in each of the four STEM areas.)
 - requirement: 5
-  markdown: true
   text: |-
       Participate in a local, state, or national science fair or mathematics
       competition OR any other equally challenging STEM-oriented competition or
@@ -84,7 +81,6 @@
       Alva Edison Supernova award, the Scout will have participated in two such
       events.)
 - requirement: 6
-  markdown: true
   text: |-
       Working with your mentor, organize and present a Nova award or other
       STEM-related program to a Cub Scout den or pack meeting. Be sure to
@@ -101,7 +97,6 @@
       further affect our society during your lifetime. Present either a
       30-minute oral report or a 1,500-word written report to your mentor.
 - requirement: 8
-  markdown: true
   text: |-
       Submit a <a href="../award-application.pdf">Supernova award
       application</a> to the district or council Nova or advancement committee

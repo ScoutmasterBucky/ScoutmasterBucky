@@ -44,7 +44,7 @@
         <MenuButton
             href="/nova-lab/"
             title="Nova Lab"
-            src="/nova-lab/images/nova.svg"
+            src="/nova-lab/nova.svg"
             subtitle="fun science awards"
         />
     </div>
