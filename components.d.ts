@@ -7,6 +7,7 @@ export {}
 /* prettier-ignore */
 declare module 'vue' {
   export interface GlobalComponents {
+    ActivityTopicPreamble: typeof import('./src/components/ActivityTopicPreamble.vue')['default']
     FeaturedItemDungeonsAndDragons: typeof import('./src/components/FeaturedItemDungeonsAndDragons.vue')['default']
     FeaturedItemYoutubeVideo: typeof import('./src/components/FeaturedItemYoutubeVideo.vue')['default']
     FlyoutMenu: typeof import('./src/components/FlyoutMenu.vue')['default']
