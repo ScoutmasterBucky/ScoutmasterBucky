@@ -79,7 +79,7 @@ program: venturing-and-sea-scouts
     </p>
 
     <p>
-        Learn more about the <a href="../supernova">Supernova awards</a> and the
+        Learn more about the <a href="../supernova/">Supernova awards</a> and the
         award progression.
     </p>
 

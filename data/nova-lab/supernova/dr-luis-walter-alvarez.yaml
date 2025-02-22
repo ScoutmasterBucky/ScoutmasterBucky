@@ -1,16 +1,16 @@
 - requirement: 1
-  markdown: true
   text: |-
       Complete the adventure appropriate for your rank or complete either
       option A or option B.
 
-      * **Wolf Cub Scouts:** Code of the Wolf
-      * **Bear Cub Scouts:** *none*
+      <ul>
+      <li><b>Wolf Cub Scouts:</b> Code of the Wolf</li>
+      <li><b>Bear Cub Scouts:</b> <em>none</em></li>
+      </ul>
   children:
       - detail: true
-        markdown: true
         text: |-
-            **Option A:** Do all of the following:
+            <b>Option A:</b> Do all of the following:
       - requirement: a
         text: |-
             Keep track of the money you earn and spend for three weeks.
@@ -25,9 +25,8 @@
             current interest rate and calculate how much interest different
             sums of money will earn.
       - detail: true
-        markdown: true
         text: |-
-            **Option B:** Do all of the following:
+            <b>Option B:</b> Do all of the following:
       - requirement: a
         text: |-
             Measure how you use your time by keeping a diary or log of what you
@@ -46,17 +45,16 @@
             model) that you can share with your den or pack to show what you
             have seen and learned about shapes in architecture.
 - requirement: 2
-  markdown: true
   text: |-
       Complete the adventure appropriate for your rank or complete option A or B.
-
-      * **Wolf Cub Scouts:** Call of the Wild
-      * **Bear Cub Scouts:** Forensics
+      <ul>
+      <li><b>Wolf Cub Scouts:</b> Call of the Wild</li>
+      <li><b>Bear Cub Scouts:</b> Forensics</li>
+      </ul>
   children:
       - detail: true
-        markdown: true
         text: |-
-            **Option A:** Do all of the following:
+            <b>Option A:</b> Do all of the following:
       - requirement: a
         text: |-
             Go shopping with an adult and use a calculator to add up how much
@@ -75,7 +73,7 @@
       - detail: true
         markdown: true
         text: |-
-            **Option B:** Do both of the following:
+            <b>Option B:</b> Do both of the following:
       - requirement: a
         text: |-
             Explain to your den or your Mentor how a meteorologist or insurance
@@ -132,7 +130,7 @@
       Learn about the scientific method (or scientific process). Discuss this
       with your mentor and include a simple demonstration to show what you
       learned.
-# Changed "Boy Scout or Venturer" to "Scout, Venturer, or Sea Scout"
+# Changed "Boy Scout or Venturer" to "Scout BSA, Venturer, or Sea Scout"
 - requirement: 9
   text: |-
       Participate in a Nova- or other STEM-related activity in your Cub Scout

@@ -1,7 +1,6 @@
 # Changed "Boy Scout" to "Scouts BSA member"
 # Changed "Boy Scouts" to "Scouts BSA"
 - requirement: 1
-  markdown: true
   text: |-
       Earn either the <a href="../thomas-alva-edison/">Thomas Alva Edison</a>
       Supernova award while a registered Scouts BSA or the <a
@@ -9,9 +8,8 @@
       registered Venturer or Sea Scout (hereafter referred to as Scout).
 # Changed "Venturuer" to "Venturer or Sea Scout"
 - requirement: 2
-  markdown: true
   text: |-
-      Complete FOUR additional <a href="../activity-topics/">Supernova activity
+      Complete FOUR additional <a href="../../activity-topics/">Supernova activity
       topics</a>, one from each of the four different STEM areas. Note: Upon
       completion of the Dr. Albert Einstein Supernova award, the Scout will
       have completed two Supernova activity topics in each of the four STEM
@@ -19,9 +17,8 @@
 # Changed "Boy Scouts" to "Scouts BSA"
 # Changed "Venturing" to "Venturing / Sea Scouts"
 - requirement: 3
-  markdown: true
   text: |-
-      Pick one of the eight <a href="../activity-topics/">Supernova activity
+      Pick one of the eight <a href="../../activity-topics/">Supernova activity
       topics</a> you have completed and present the activity to a group. The
       group may be fellow Scouts, students, adult leaders, friends, or family.
 - requirement: 4
@@ -47,9 +44,8 @@
             experiment, they will request assistance from a specialist who will
             serve as a STEM consultant.
 - requirement: 5
-  markdown: true
   text: |-
-      Submit the <a href="einstein-supernova-application.pdf">Einstein
+      Submit the <a href="../dr-albert-einstein-supernova-application.pdf">Einstein
       Supernova application</a> along with all the supporting documentation,
       reports, and data for all parts of all requirements to your council’s
       STEM Committee chair or Advancement Committee Chair, who will coordinate

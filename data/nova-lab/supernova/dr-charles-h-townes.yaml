@@ -4,9 +4,8 @@
       option B.
   children:
       - detail: true
-        markdown: true
         text: |-
-            **Option A:** Do all of the following:
+            <b>Option A:</b> Do all of the following:
       - requirement: a
         text: |-
             Construct one of the following from wood, and one from another
@@ -29,7 +28,7 @@
       - detail: true
         markdown: true
         text: |-
-            **Option B:** Do all of the following:
+            <b>Option B:</b> Do all of the following:
       - requirement: a
         text: |-
             Take a field trip to a geological site, geological laboratory, or
@@ -50,9 +49,8 @@
       Wild, Into the Woods, option A or option B.
   children:
       - detail: true
-        markdown: true
         text: |-
-            **Option A:** Do two of the following:
+            <b>Option A:</b> Do two of the following:
       - requirement: a
         text: |-
             Go on a geocaching adventure with your den or family. Show how you
@@ -66,9 +64,8 @@
         text: |-
             Set up an aquarium or terrarium. Keep it for at least a month.
       - detail: true
-        markdown: true
         text: |-
-            **Option B:** Do both of the following:
+            <b>Option B:</b> Do both of the following:
       - requirement: a
         text: |-
             With adult supervision, build and launch a model rocket. Describe

@@ -3,6 +3,7 @@ import ViteYaml from '@modyfi/vite-plugin-yaml';
 import { svelte } from '@sveltejs/vite-plugin-svelte';
 
 export default defineConfig({
+    prettyUrls: false,
     siteUrl: 'https://scoutmasterbucky.com/',
     vite: {
         clearScreen: false,
