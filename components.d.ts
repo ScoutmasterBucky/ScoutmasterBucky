@@ -11,8 +11,6 @@ declare module 'vue' {
     FeaturedItemDungeonsAndDragons: typeof import('./src/components/FeaturedItemDungeonsAndDragons.vue')['default']
     FeaturedItemYoutubeVideo: typeof import('./src/components/FeaturedItemYoutubeVideo.vue')['default']
     FlyoutMenu: typeof import('./src/components/FlyoutMenu.vue')['default']
-    Head: typeof import('@unhead/vue/components')['Head']
-    Island: typeof import('./node_modules/iles/dist/client/app/components/Island.vue')['default']
     MenuButton: typeof import('./src/components/MenuButton.vue')['default']
     MeritBadge: typeof import('./src/components/MeritBadge.vue')['default']
     MeritBadgeImage: typeof import('./src/components/MeritBadgeImage.vue')['default']
