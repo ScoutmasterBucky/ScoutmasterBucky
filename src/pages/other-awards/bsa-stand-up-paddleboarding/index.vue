@@ -26,7 +26,7 @@ import requirements from '~/data/other-awards/bsa-stand-up-paddleboarding.yaml';
     <p>
         Information and skills are discussed in
         <a href="../aquatics-guide.pdf"
-            >Aquatics Supervision: A Leader’s Guide to Youth Swimming and
+            >Aquatics Supervision: A Leader's Guide to Youth Swimming and
             Boating Activities, No. 34346</a
         >, and the BSA SUP brochure at www.scouting.org. All counselors must be
         trained in Safety Afloat and have council approval. Any person with

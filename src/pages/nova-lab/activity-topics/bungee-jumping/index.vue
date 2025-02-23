@@ -38,9 +38,9 @@ import requirementsPart2 from '~/data/nova-lab/activity-topics/bungee-jumping-pa
     <h3>Part 1: Set-Up and Simulation</h3>
 
     <p>
-        Tape a weight(s) to the doll’s back so that it is heavy enough to
+        Tape a weight(s) to the doll's back so that it is heavy enough to
         stretch the rubber band "bungee cord." Tie one or two rubber bands (the
-        unstretched size should be about 4 inches) to the doll’s feet and drop
+        unstretched size should be about 4 inches) to the doll's feet and drop
         it, headfirst, from various heights. Keep raising the jump height until
         the head no longer hits the floor. Once you reach this height, perform
         three trials, measure the height of the drop each time, calculate the
@@ -64,7 +64,7 @@ import requirementsPart2 from '~/data/nova-lab/activity-topics/bungee-jumping-pa
         plot with a dot. Once the scatter plot has been filled in with a number
         of dots, you should be able to see how the variables are "scattered" to
         show a trend. To learn more about scatter plots, use your favorite
-        search engine on the Internet (with your parent’s or guardian’s
+        search engine on the Internet (with your parent's or guardian's
         permission), or ask your mentor.
     </p>
 

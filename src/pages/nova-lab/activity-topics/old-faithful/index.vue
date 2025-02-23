@@ -1,5 +1,5 @@
 <page>
-title: "Linking the Past to the Future: Predicting Old Faithful’s Next Eruption"
+title: "Linking the Past to the Future: Predicting Old Faithful's Next Eruption"
 layout: nova
 </page>
 
@@ -12,7 +12,7 @@ import requirementsPart2 from '~/data/nova-lab/activity-topics/old-faithful-part
     <ActivityTopicPreamble />
 
     <h2>
-        Linking the Past to the Future: Predicting Old Faithful’s Next Eruption
+        Linking the Past to the Future: Predicting Old Faithful's Next Eruption
     </h2>
 
     <p>
@@ -26,7 +26,7 @@ import requirementsPart2 from '~/data/nova-lab/activity-topics/old-faithful-part
         to see the geyser Old Faithful. Many visitors arrive just after Old
         Faithful has erupted and they typically ask a nearby ranger when it is
         next expected to erupt. Your task is to analyze past ~/data on Old
-        Faithful’s eruptions in order to devise a strategy for predicting the
+        Faithful's eruptions in order to devise a strategy for predicting the
         next eruption.
     </p>
 

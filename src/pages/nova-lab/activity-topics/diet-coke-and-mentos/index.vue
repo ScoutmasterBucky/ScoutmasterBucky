@@ -38,18 +38,18 @@ import requirementsPart2 from '~/data/nova-lab/activity-topics/diet-coke-and-men
     <h3>Resources</h3>
 
     <p>
-        Theodore Gray. Theo Gray’s Mad Science: Experiments You Can Do at Home -
-        But Probably Shouldn’t. Black Dog &amp; Leventhal Publishers, 2011.
+        Theodore Gray. Theo Gray's Mad Science: Experiments You Can Do at Home -
+        But Probably Shouldn't. Black Dog &amp; Leventhal Publishers, 2011.
     </p>
 
     <p>
         Robert Bruce Thompson. Illustrated Guide to Home Chemistry Experiments:
-        All Lab, No Lecture. O’Reilly Media, 2008.
+        All Lab, No Lecture. O'Reilly Media, 2008.
     </p>
 
     <p>
-        Using your favorite search engine online (with your parent’s or
-        guardian’s permission), enter search terms EepyBird, Mythbusters, and
+        Using your favorite search engine online (with your parent's or
+        guardian's permission), enter search terms EepyBird, Mythbusters, and
         "Diet Coke and Mentos."
     </p>
 </template>

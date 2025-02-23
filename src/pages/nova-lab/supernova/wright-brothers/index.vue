@@ -18,7 +18,7 @@ import requirements from '~/data/nova-lab/supernova/wright-brothers.yaml';
 
     <p>
         You must be a Venturer or Sea Scout to earn a Venturing or Sea Scout
-        Supernova award. With your parent’s and unit leader’s help, you must
+        Supernova award. With your parent's and unit leader's help, you must
         select a council-approved mentor who is a registered Scouter. You may
         NOT choose your parent or your unit leader (unless the mentor is working
         with more than one youth).

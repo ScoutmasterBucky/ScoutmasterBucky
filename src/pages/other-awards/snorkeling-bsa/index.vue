@@ -54,7 +54,7 @@ import requirements from '~/data/other-awards/snorkeling-bsa.yaml';
 
     <p>
         <a href="../aquatics-guide.pdf"
-            >Aquatics Supervision: A Leader’s Guide to Youth Swimming and
+            >Aquatics Supervision: A Leader's Guide to Youth Swimming and
             Boating Activities, No. 34346</a
         >, provides reference material for Snorkeling BSA instruction. Scuba
         training agencies, equipment manufacturers, and others occasionally

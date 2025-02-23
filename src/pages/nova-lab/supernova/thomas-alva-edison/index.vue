@@ -16,7 +16,7 @@ import requirements from '~/data/nova-lab/supernova/thomas-alva-edison.yaml';
         If you thrive on challenge, then earning the Supernova award will be
         right up your alley. To be eligible, you must be a First Class Scout or
         higher. As a prerequisite, you must first earn any three of the four
-        Nova awards for Scouts BSA. With your parent’s and unit leader’s help,
+        Nova awards for Scouts BSA. With your parent's and unit leader's help,
         you must select a council-approved mentor who is a registered Scouter.
         You may NOT choose your parent or your unit leader (unless the mentor is
         working with more than one youth).

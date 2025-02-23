@@ -12,7 +12,7 @@ import requirements from '~/data/nova-lab/supernova/dr-sally-ride.yaml'
 
     <p><b>Dr. Sally Ride Supernova Award</b><br /><i>For Venturers and Sea Scouts</i></p>
 
-    <p>You must be a Venturer or Sea Scout to earn a Venturing or Sea Scout Supernova award. With your parent’s and unit leader’s help, you must select a council-approved mentor who is a registered Scouter. You may NOT choose your parent or your unit leader (unless the mentor is working with more than one youth).</p>
+    <p>You must be a Venturer or Sea Scout to earn a Venturing or Sea Scout Supernova award. With your parent's and unit leader's help, you must select a council-approved mentor who is a registered Scouter. You may NOT choose your parent or your unit leader (unless the mentor is working with more than one youth).</p>
 
     <p>This is the first-level Supernova Award for Venturers and Sea Scouts.</p>
 

@@ -48,7 +48,7 @@ import requirementsPart2 from '~/data/nova-lab/activity-topics/voting-methods-pa
     </p>
 
     <p>
-        William Poundstone. Gaming the Vote: Why Elections Aren’t Fair (and What
+        William Poundstone. Gaming the Vote: Why Elections Aren't Fair (and What
         We Can Do About It). Hill and Wang, 2008.
     </p>
 </template>

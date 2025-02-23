@@ -14,7 +14,7 @@ import requirementsPart2 from '~/data/nova-lab/activity-topics/entertainment-tec
     <h2>Entertainment Technology</h2>
 
     <p>
-        This activity can be done individually or in a group. Many of today’s
+        This activity can be done individually or in a group. Many of today's
         movies involve extensive use of technology to create illusions of
         magnificent landscapes, mythical beasts, epic battle scenes, and so on.
         This activity involves learning about some of these technologies and

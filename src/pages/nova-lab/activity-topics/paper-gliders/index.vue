@@ -29,20 +29,21 @@ import requirementsPart2 from '~/data/nova-lab/activity-topics/paper-gliders-par
     <h3>Part 2: Analyze and Report</h3>
 
     <p>
-        Present to your mentor your recorded ~/data in a tabular format as well as
-        a graphical format. (You may use Excel if you wish.) Then do the
+        Present to your mentor your recorded ~/data in a tabular format as well
+        as a graphical format. (You may use Excel if you wish.) Then do the
         following:
     </p>
 
     <Requirements :requirements="requirementsPart2" />
 
     <p>
+        <!-- Updated link -->
         Source: The idea for this activity is based on the work of Andrew Olson,
         Ph.D., Science Buddies, What Makes a Good Aerodynamic Design? Test Your
         Ideas with High-Performance Paper Gliders. Visit
         <a
-            href="http://www.sciencebuddies.org/science-fair-projects/project_ideas/Aero_p009.shtml"
-            >www.sciencebuddies.org/science-fair-projects/project_ideas/Aero_p009.shtml</a
+            href="https://www.sciencebuddies.org/science-fair-projects/project-ideas/Aero_p009/aerodynamics-hydrodynamics/what-makes-a-good-aerodynamic-design-paper-gliders"
+            >https://www.sciencebuddies.org/science-fair-projects/project-ideas/Aero_p009/aerodynamics-hydrodynamics/what-makes-a-good-aerodynamic-design-paper-gliders</a
         >.
     </p>
 
@@ -60,7 +61,8 @@ import requirementsPart2 from '~/data/nova-lab/activity-topics/paper-gliders-par
     </p>
 
     <p>
-        NASA Beginner’s Guide to Aeronautics,
+        <!-- Fixing title of link -->
+        NASA Guided Tours of the BGA,
         <a href="https://www.grc.nasa.gov/WWW/K-12/airplane/guided.htm"
             >https://www.grc.nasa.gov/WWW/K-12/airplane/guided.htm</a
         >
@@ -68,9 +70,10 @@ import requirementsPart2 from '~/data/nova-lab/activity-topics/paper-gliders-par
     </p>
 
     <p>
+        <!-- Using https -->
         The Online Paper Airplane Museum,
-        <a href="http://www.theonlinepaperairplanemuseum.com/"
-            >http://www.theonlinepaperairplanemuseum.com/</a
+        <a href="https://www.theonlinepaperairplanemuseum.com/"
+            >https://www.theonlinepaperairplanemuseum.com/</a
         >
         (free glider plans)
     </p>
