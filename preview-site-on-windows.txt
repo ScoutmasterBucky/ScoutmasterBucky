@@ -1,0 +1,6 @@
+1. This requires Node.js to be installed.
+2. Open an administrator terminal (PowerShell).
+3. Type in "cd \Users\scout\OneDrive\Documents\GitHub\ScoutmasterBucky" or wherever the repository is located.
+4. Change the execution policy with "Set-ExecutionPolicy -ExecutionPolicy Unrestricted" and press Y and enter.
+5. Type in "npm ci" and press enter to make sure the packages are updated.
+6. Type in "npm run start" and press enter to start the server.
