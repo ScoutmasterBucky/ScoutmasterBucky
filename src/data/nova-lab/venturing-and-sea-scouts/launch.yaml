@@ -1,3 +1,11 @@
+# Updated cco.caltech.edu to https
+# Updated physicsclassroom.com to https
+# Updated http://er.jsc.nasa.gov/seh/feather.html to YouTube video
+# Updated http://hypertextbook.com/facts/JianHuang.shtml to https://hypertextbook.com/facts/1998/JianHuang.shtml
+# Updated http://www.esa.int/esaSC/SEMO49YO4HD_index_0.html to https://www.esa.int/Science_Exploration/Space_Science/What_is_a_launch_window
+# Updated http://www.npr.org/templates/story/story.php?storyId=4749663 to https://www.npr.org/2005/07/25/4749663/launch-windows-how-nasa-decides-when-to-fly
+# Updated http://exploration.grc.nasa.gov/education/rocket/termvr.html to https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/termvel/
+# Updated heavens-above.com to https
 - requirement: 1
   text: |-
      Choose A or B or C and complete ALL the requirements.
@@ -109,7 +117,7 @@
                         Website: <a href="https://www.compadre.org/introphys/items/detail.cfm?ID=7823">https://www.compadre.org/introphys/items/detail.cfm?ID=7823</a><br />
                         <br />
                         Java Applets on Physics<br />
-                        Website: <a href="http://www.cco.caltech.edu/~phys1/java.html">http://www.cco.caltech.edu/~phys1/java.html</a>
+                        Website: <a href="https://www.cco.caltech.edu/~phys1/java.html">https://www.cco.caltech.edu/~phys1/java.html</a>
             - requirement: 3
               text: |-
                   Discuss with your counselor:
@@ -156,13 +164,13 @@
                               Helpful Links<br />
                               <br />
                               "Free Fall and the Acceleration of Gravity": The Physics Classroom<br>
-                              Website: <a href="http://www.physicsclassroom.com/class/1dkin/u1l5b.cfm">http://www.physicsclassroom.com/class/1dkin/u1l5b.cfm</a><br />
+                              Website: <a href="https://www.physicsclassroom.com/class/1dkin/u1l5b.cfm">https://www.physicsclassroom.com/class/1dkin/u1l5b.cfm</a><br />
                               <br />
                               "Vectors - Fundamentals and Operations": The Physics Classroom<br>
-                              Website: <a href="http://www.physicsclassroom.com/class/vectors/u3l1e.cfm#trig">http://www.physicsclassroom.com/class/vectors/u3l1e.cfm#trig</a><br />
+                              Website: <a href="https://www.physicsclassroom.com/class/vectors/u3l1e.cfm#trig">https://www.physicsclassroom.com/class/vectors/u3l1e.cfm#trig</a><br />
                               <br />
                               "Projectile Motion": The Physics Classroom<br>
-                              Website: <a href="http://www.physicsclassroom.com/class/vectors/u3l2a.cfm">http://www.physicsclassroom.com/class/vectors/u3l2a.cfm</a><br />
+                              Website: <a href="https://www.physicsclassroom.com/class/vectors/u3l2a.cfm">https://www.physicsclassroom.com/class/vectors/u3l2a.cfm</a><br />
                               <br />
                               Projectile motion is caused by the force of
                               gravity giving vertical acceleration to an object
@@ -272,8 +280,8 @@
                         Watch astronauts David Scott and Jim Irwin do Galileo’s
                         experiment on the moon.<br />
                         <br />
-                        "NASA Lunar Feather Drop Home Page": NASA<br>
-                        Website: <a href="http://er.jsc.nasa.gov/seh/feather.html">http://er.jsc.nasa.gov/seh/feather.html</a><br />
+                        "David Scott does the feather hammer experiment on the moon"<br />
+                        Video: <a href="https://youtu.be/Oo8TaPVsn9Y">https://youtu.be/Oo8TaPVsn9Y</a><br />
                         <br />
                         When satellites are launched to the east, Earth’s spin
                         effectively adds to their velocity, making escape
@@ -305,7 +313,7 @@
                         balled up and about 125 mph with arms and feet fully
                         extended to catch the wind." Source: "Speed of a
                         Skydiver (Terminal Velocity)," The Physics Factbook,
-                        website <a href="http://hypertextbook.com/facts/JianHuang.shtml">http://hypertextbook.com/facts/JianHuang.shtml</a>.
+                        website <a href="https://hypertextbook.com/facts/1998/JianHuang.shtml">https://hypertextbook.com/facts/1998/JianHuang.shtml</a>.
             # Removed broken links
             - requirement: 3
               text: |-
@@ -321,13 +329,13 @@
                         Website: <a href="http://www.braeunig.us/space/orbmech.htm">http://www.braeunig.us/space/orbmech.htm</a><br />
                         <br />
                         "What is a ‘launch window’?": ESA<br>
-                        Website: <a href="http://www.esa.int/esaSC/SEMO49YO4HD_index_0.html">http://www.esa.int/esaSC/SEMO49YO4HD_index_0.html</a><br />
+                        Website: <a href="https://www.esa.int/Science_Exploration/Space_Science/What_is_a_launch_window">https://www.esa.int/Science_Exploration/Space_Science/What_is_a_launch_window</a><br />
                         <br />
                         "Launch Windows: How NASA Decides When to Fly": NRP<br>
-                        Website: <a href="http://www.npr.org/templates/story/story.php?storyId=4749663">http://www.npr.org/templates/story/story.php?storyId=4749663</a><br />
+                        Website: <a href="https://www.npr.org/2005/07/25/4749663/launch-windows-how-nasa-decides-when-to-fly">https://www.npr.org/2005/07/25/4749663/launch-windows-how-nasa-decides-when-to-fly</a><br />
                         <br />
                         "Terminal Velocity": NASA<br>
-                        Website: <a href="http://exploration.grc.nasa.gov/education/rocket/termvr.html">http://exploration.grc.nasa.gov/education/rocket/termvr.html</a><br />
+                        Website: <a href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/termvel/">https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/termvel/</a><br />
                         <br />
                         Escape velocity from Earth is 11.2 km/s, or 25038.72 mph.
 - requirement: 4
@@ -354,7 +362,7 @@
               text: |-
                   Find out what time a satellite will pass over your area. (A
                   good resource to find the times for satellite passes is the
-                  Heavens Above website at <a href="http://www.heavens-above.com">http://www.heavens-above.com</a>)
+                  Heavens Above website at <a href="https://www.heavens-above.com/">https://www.heavens-above.com/</a>)
             - requirement: 2
               text: |-
                   Watch the satellite using binoculars. Record the time of your

@@ -1,3 +1,6 @@
+# https://www.iflyworld.com/plan-an-event/education/highschool/ redirects to https://www.iflyworld.com/plan-an-event/education/highschool/ and does not specify which worksheet to use, plus the high school worksheet is blurred out except for the first page.
+# Shortened YouTube link
+# Changed https://www.nasa.gov/image-feature/hypersonic-tunnel-facility to https://www.nasa.gov/image-article/hypersonic-tunnel-facility/
 - requirement: 1
   text: |-
       Choose A <em>or</em> B <em>or</em> C and complete ALL of the requirements.
@@ -107,13 +110,9 @@
         children:
             - requirement: 1
               text: |-
-                  Download the worksheet at
-                  <a href="https://www.iflyworld.com/plan-an-event/education/high-school/">https://www.iflyworld.com/plan-an-event/education/high-school/</a>
-                  or use <a href="/nova-lab/venturing-and-sea-scouts/up-and-away-worksheet.pdf">a similar worksheet</a> such as the
-                  "Student Terminal Velocity Worksheet" at
-                  <a href="https://www.grc.nasa.gov/www/k-12/airplane/termv.html">https://www.grc.nasa.gov/www/k-12/airplane/termv.html</a>.
-                  Calculate the terminal velocity of a 100-pound backpack on
-                  the planet earth.
+                  Download the <a href="/nova-lab/venturing-and-sea-scouts/up-and-away-worksheet.pdf">worksheet</a> or use a similar worksheet. Calculate
+                  Terminal Velocity Worksheet</a> from NASA. Calculate
+                  the terminal velocity of a 100-pound backpack on the planet earth.
             - requirement: 2
               text: |-
                   Calculate your terminal velocity on Mars (hint: you will need
@@ -218,8 +217,8 @@
             may be obtained by contacting a local university that offers a
             degree in aerospace engineering or similar field. Virtual tours
             could include, but are not limited to, NASA wind tunnel facility
-            tours: <a href="https://www.youtube.com/watch?v=bpRc9I8LMXo">https://www.youtube.com/watch?v=bpRc9I8LMXo</a> and
-            <a href="https://www.nasa.gov/image-feature/hypersonic-tunnel-facility">https://www.nasa.gov/image-feature/hypersonic-tunnel-facility</a>.<br />
+            tours: <a href="https://youtu.be/bpRc9I8LMXo">https://youtu.be/bpRc9I8LMXo</a> and
+            <a href="https://www.nasa.gov/image-article/hypersonic-tunnel-facility/">https://www.nasa.gov/image-article/hypersonic-tunnel-facility/</a>.<br />
             <br />
             Discuss with your counselor the science and engineering concepts
             associated with the facility, e.g., what are the parts of a wind

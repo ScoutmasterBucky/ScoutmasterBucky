@@ -1,3 +1,9 @@
+# Updated http://www.waterblues.org/ to https://www.waterblues.psu.edu/explore/stories
+# Updated https://www.nap.edu/catalog/11283/oil-spill-dispersants-efficacy-and-effects to https://nap.nationalacademies.org/catalog/11283/oil-spill-dispersants-efficacy-and-effects
+# Updated https://water.usgs.gov/edu/watershed.html to https://www.usgs.gov/special-topics/water-science-school/science/watersheds-and-drainage-basins
+# Updated https://water.usgs.gov/edu/runoff.html to https://www.usgs.gov/special-topics/water-science-school/science/runoff-surface-and-overland-water-runoff
+# Replaced USGS watershed tool (viewer.nationalmap.gov) with current ArcGIS viewer.
+# Updated https://water.usgs.gov/edu/ with https://www.usgs.gov/special-topics/water-science-school
 - requirement: 1
   text: |-
       Choose A, <em>or</em> B, <em>or</em> C and complete ALL the requirements:
@@ -21,7 +27,7 @@
                   Some examples include - but are not limited to - shows found on PBS
                   ("NOVA"), Discovery Channel, Science Channel, National Geographic
                   Channel, TED Talks (online videos), History Channel, the National
-                  Academy of Sciences YouTube Channel, and <a href="http://www.waterblues.org/">www.waterblues.org</a>. You may
+                  Academy of Sciences YouTube Channel, and <a href="https://www.waterblues.psu.edu/explore/stories">https://www.waterblues.psu.edu/explore/stories</a>. You may
                   choose to watch a live performance or movie developed by a local
                   museum or state or federal agency. You may watch online productions
                   with your counselor’s approval and under your parent’s or guardian’s
@@ -109,7 +115,7 @@
             <a href="https://www.chemistryworld.com/news/explainer-why-are-chemical-dispersants-used-in-oil-spills/1017322.article">https://www.chemistryworld.com/news/explainer-why-are-chemical-dispersants-used-in-oil-spills/1017322.article</a><br />
             <br />
             Oil Spill Dispersants: Efficacy and Effects (2005)<br />
-            <a href="https://www.nap.edu/catalog/11283/oil-spill-dispersants-efficacy-and-effects">https://www.nap.edu/catalog/11283/oil-spill-dispersants-efficacy-and-effects</a><br />
+            <a href="https://nap.nationalacademies.org/catalog/11283/oil-spill-dispersants-efficacy-and-effects">https://nap.nationalacademies.org/catalog/11283/oil-spill-dispersants-efficacy-and-effects</a><br />
             <br />
             One activity could be having scouts try different tools to skim the
             oil using different tools – a paper towel, wood splint, steel wool,
@@ -168,17 +174,11 @@
                         Useful Links<br />
                         <br />
                         USGS web sites
-                        <a href="https://water.usgs.gov/edu/watershed.html">https://water.usgs.gov/edu/watershed.html</a>, and
-                        <a href="https://water.usgs.gov/edu/runoff.html">https://water.usgs.gov/edu/runoff.html</a><br />
+                        <a href="https://www.usgs.gov/special-topics/water-science-school/science/watersheds-and-drainage-basins">https://www.usgs.gov/special-topics/water-science-school/science/watersheds-and-drainage-basins</a>, and
+                        <a href="https://www.usgs.gov/special-topics/water-science-school/science/runoff-surface-and-overland-water-runoff">https://www.usgs.gov/special-topics/water-science-school/science/runoff-surface-and-overland-water-runoff</a><br />
                         US EPA's Surf your Watershed
                         <a href="https://www.epa.gov/waterdata/surf-your-watershed">https://www.epa.gov/waterdata/surf-your-watershed</a><br/>
-                        USGS Watershed Tool at
-                        <a href="https://viewer.nationalmap.gov/advanced-viewer/">https://viewer.nationalmap.gov/advanced-viewer/</a>. Turn
-                        on the National Hydrography Dataset (NHD) in the Layers
-                        list, and the topographical lines will show where water
-                        flows. Turn on the Watershed Boundary Dataset in the
-                        Layers list, and you can see how large of an area your
-                        watershed covers, and other watersheds that are nearby.<br />
+                        USGS 3D Hydrography Program ArcGIS Online Map Viewer <a href="https://www.arcgis.com/apps/mapviewer/index.html?featurecollection=https%3A%2F%2F3dhp.nationalmap.gov%2Farcgis%2Frest%2Fservices%3Ff%3Djson%26option%3Dfootprints&supportsProjection=true&supportsJSONP=true">https://www.arcgis.com/apps/mapviewer/index.html?featurecollection=https%3A%2F%2F3dhp.nationalmap.gov%2Farcgis%2Frest%2Fservices%3Ff%3Djson%26option%3Dfootprints&supportsProjection=true&supportsJSONP=true</a>.<br />
                         <br />
                         <b>Watershed</b> - a geographic area that drains into a
                         common outflow point, which could be a river basin.<br />
@@ -300,7 +300,7 @@
                         Helpful Resources:
                         <ul>
                         <li>The USGS Water Science School –
-                        <a href="https://water.usgs.gov/edu/">https://water.usgs.gov/edu/</a>
+                        <a href="https://www.usgs.gov/special-topics/water-science-school">https://www.usgs.gov/special-topics/water-science-school</a>
                         may be helpful in researching these topics.</li>
                         </ul>
 - requirement: 6
