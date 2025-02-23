@@ -146,13 +146,13 @@
                   first step, start the timer; when both feet are on the top step,
                   stop the timer. (You may skip stairs.) Now you have all the numbers
                   needed.</li>
-                  <li>Calculate the Power (P) with this formula: `mah/t (m*9.80*h)/t`,
+                  <li>Calculate the Power (P) with this formula: <var>mah/t (m*9.80*h)/t</var>,
                   where:
                       <ul>
-                      <li>`m` = mass (your weight) in kilograms</li>
-                      <li>`a` = acceleration (9.80 m/sec2 is the acceleration caused by Earth’s gravity)</li>
-                      <li>`h` = height of staircase in meters</li>
-                      <li>`t` = time in seconds</li>
+                      <li><var>m</var> = mass (your weight) in kilograms</li>
+                      <li><var>a</var> = acceleration (9.80 m/sec2 is the acceleration caused by Earth’s gravity)</li>
+                      <li><var>h</var> = height of staircase in meters</li>
+                      <li><var>t</var> = time in seconds</li>
                       </ul>
                       The number you get is in watts, which is equal to joules per
                       second (J/s) and newton meters per second (Nm/s). If you don’t
