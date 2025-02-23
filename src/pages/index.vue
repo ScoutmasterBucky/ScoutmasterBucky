@@ -63,7 +63,6 @@ const lastBuildTime = DateTime.now().setZone('America/Chicago').toFormat('LLL dd
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    padding: 1em 1em;
 }
 
 @media (max-width: 768px) {
