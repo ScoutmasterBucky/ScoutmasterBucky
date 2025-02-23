@@ -104,7 +104,6 @@
     Do ONE of the following options:
   children:
     - requirement: a
-      markdown: true
       text: |-
         <strong>Option A: Amatuer Radio</strong>
       children:
@@ -139,7 +138,6 @@
             radio operators. Properly log the real or simulated ham radio
             contact, and record the signal report.)
     - requirement: b
-      markdown: true
       text: |-
         <strong>Option B: Radio Broadcasting</strong>
       children:
@@ -168,7 +166,6 @@
             Discuss with your counselor alternative radio platforms such as
             internet streaming, satellite radio, and podcasts.
     - requirement: c
-      markdown: true
       text: |-
         <strong>Option C: Shortwave and Medium-Wave Listening</strong>
       children:
@@ -200,7 +197,6 @@
             Demonstrate listening to a radio broadcast using a smartphone/cell
             phone. Include international broadcasts in your demonstration.
     - requirement: d
-      markdown: true
       text: |-
         <strong>Option D: Amateur Radio Direction Finding</strong>
       children:

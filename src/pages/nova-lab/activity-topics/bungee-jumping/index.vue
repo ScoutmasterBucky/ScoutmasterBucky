@@ -39,7 +39,7 @@ import requirementsPart2 from '~/data/nova-lab/activity-topics/bungee-jumping-pa
 
     <p>
         Tape a weight(s) to the doll’s back so that it is heavy enough to
-        stretch the rubber band “bungee cord.” Tie one or two rubber bands (the
+        stretch the rubber band "bungee cord." Tie one or two rubber bands (the
         unstretched size should be about 4 inches) to the doll’s feet and drop
         it, headfirst, from various heights. Keep raising the jump height until
         the head no longer hits the floor. Once you reach this height, perform
@@ -59,10 +59,10 @@ import requirementsPart2 from '~/data/nova-lab/activity-topics/bungee-jumping-pa
 
     <p>
         Scatter plots use horizontal and vertical axes on a graph to plot ~/data
-        points and show how much one variable (or measurable “value”) is
+        points and show how much one variable (or measurable "value") is
         affected by another. Each variable can be represented on the scatter
         plot with a dot. Once the scatter plot has been filled in with a number
-        of dots, you should be able to see how the variables are “scattered” to
+        of dots, you should be able to see how the variables are "scattered" to
         show a trend. To learn more about scatter plots, use your favorite
         search engine on the Internet (with your parent’s or guardian’s
         permission), or ask your mentor.

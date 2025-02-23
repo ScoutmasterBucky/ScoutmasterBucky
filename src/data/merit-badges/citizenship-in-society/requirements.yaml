@@ -38,22 +38,22 @@
     Consider ethical decision-making.
   children:
     - requirement: a
-      markdown: true
       text: |-
         Think about a time you faced an ethical decision.
-
-        * Discuss the situation, what you did, and how it made you feel.
-        * Share if you would do anything differently in the future and if so,
-        what that would be.
+        <ul>
+        <li>Discuss the situation, what you did, and how it made you feel.</li>
+        <li>Share if you would do anything differently in the future and if so,
+        what that would be.</li>
+        </ul>
     - requirement: b
-      markdown: true
       text: |-
         List three examples of ethical decisions you might have to make in the
         future at school, at home, in the workplace, or in your community, and
         what you would do.
-
-        * Share how your actions represent alignment with the Scout Oath and
-        Scout Law.
+        <ul>
+        <li>Share how your actions represent alignment with the Scout Oath and
+        Scout Law.</li>
+        </ul>
     - requirement: c
       text: |-
         Explain to your counselor how you plan to use what you have learned to
@@ -210,13 +210,13 @@
         different identities to feel included and heard at your school,
         workplace, and/or social settings in your community.
     - requirement: b
-      markdown: true
       text: |-
         Explain how including diverse thoughts and opinions from others with
         different identities can:
-
-        * Make your interactions more positive.
-        * Help everyone benefit by considering different opinions.
+        <ul>
+        <li>Make your interactions more positive.</li>
+        <li>Help everyone benefit by considering different opinions.</li>
+        </ul>
     - requirement: c
       text: |-
         Give three examples of how limiting diverse input can be harmful.

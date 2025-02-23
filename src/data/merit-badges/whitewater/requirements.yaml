@@ -51,7 +51,6 @@
         Explain when, why, and how you should scout a river while ashore, while
         on the river, and when you should portage your boat.
 - requirement: 3
-  markdown: true
   text: |-
     Before doing requirements 4 through 12, earn the <a
     href="/merit-badges/canoeing/">Canoeing</a> merit badge if you will be
@@ -60,14 +59,12 @@
     do ONE of the following:
   children:
     - requirement: a
-      markdown: true
       text: |-
         If you will be using a canoe to earn this merit badge, demonstrate
         strokes and maneuvers from the <a
         href="/merit-badges/canoeing/">Canoeing</a> merit badge to the
         satisfaction of your counselor.
     - requirement: b
-      markdown: true
       text: |-
         If you will be using a kayak to earn this merit badge, demonstrate
         strokes and maneuvers from the <a
@@ -78,7 +75,6 @@
     Do ONE of the following:
   children:
     - requirement: a
-      markdown: true
       text: |-
         <b>Option A: Tandem Canoest.</b> (perform the following on calm water):
       children:
@@ -94,7 +90,6 @@
           text: |-
             Demonstrate a high brace, low brace, and righting pry.
     - requirement: b
-      markdown: true
       text: |-
         <b>Option B: Solo Canoest.</b> (perform the following on calm water):
       children:
@@ -107,7 +102,6 @@
           text: |-
             Demonstrate a high brace, low brace, and righting pry.
     - requirement: c
-      markdown: true
       text: |-
         <b>Option C: Solo Kayaker.</b> (perform the following on calm water):
       children:

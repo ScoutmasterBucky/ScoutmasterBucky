@@ -61,9 +61,8 @@
     Manual), do ONE of the following options:
   children:
     - requirement: A
-      markdown: true
       text: |-
-        <strong>Option A: Rifle Shooting (Modern Cartridge Type) </strong>
+        <strong>Option A: Rifle Shooting (Modern Cartridge Type)</strong>
       children:
         - requirement: a
           text: |-
@@ -118,9 +117,8 @@
             following minimum score: A-32 targets: 9; A-17 or TQ-1 targets: 7;
             A-36 targets: 5.
     - requirement: B
-      markdown: true
       text: |-
-        <strong>Option B: Air Rifle Shooting (BB or Pellet) </strong>
+        <strong>Option B: Air Rifle Shooting (BB or Pellet)</strong>
       children:
         - requirement: a
           text: |-
@@ -172,9 +170,8 @@
             TQ-5 targets: 8; Pellet rifle at 25 feet using TQ-5 targets: 8;
             Pellet rifle at 33 feet (or 10 meters) using AR-1 targets: 6.
     - requirement: C
-      markdown: true
       text: |-
-        <strong>Option C: Muzzleloading Rifle Shooting </strong>
+        <strong>Option C: Muzzleloading Rifle Shooting</strong>
       children:
         - requirement: a
           text: |-

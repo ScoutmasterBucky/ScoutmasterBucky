@@ -15,11 +15,6 @@ const parentCount = parents ?? 0;
                 <div class="text v-gap" v-html="requirement.text"></div>
             </div>
             <div
-                v-if="requirement.callout"
-                class="callout v-gap"
-                v-html="requirement.text"
-            ></div>
-            <div
                 v-if="requirement.detail"
                 class="detail v-gap"
                 v-html="requirement.text"
@@ -54,12 +49,6 @@ const parentCount = parents ?? 0;
 }
 
 .requirement .text {
-    width: 100%;
-}
-
-.callout {
-    text-align: center;
-    font-size: inherit;
     width: 100%;
 }
 

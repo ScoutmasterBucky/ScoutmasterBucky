@@ -65,7 +65,6 @@
     Do ONE of the following:
   children:
     - requirement: a
-      markdown: true
       text: |-
         In a fixed-seat rowboat, come alongside a pier and help a passenger
         into the boat. Pull away from the pier, change positions with your
@@ -124,7 +123,6 @@
       text: |-
         The differences between fixed-seat and sliding-seat rowing
     - requirement: f
-      markdown: true
       text: |-
         The different meanings of the term <em>sculling</em> in fixed- and
         sliding-seat rowing

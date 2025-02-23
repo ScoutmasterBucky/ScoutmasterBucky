@@ -36,7 +36,6 @@
       text: |-
         Point out and name 10 symbols on a topographic map.
     - requirement: c
-      markdown: true
       text: |-
         Explain the meaning of declination. Tell why you must consider
         <em>declination</em> when using map and compass together.
@@ -74,12 +73,11 @@
     Do the following:
   children:
     - requirement: a
-      markdown: true
       text: |-
         Take part in three orienteering events. One of these must be a
-        cross-country course.`*`
-
-        `*` Note to the Counselor: While orienteering is primarily an individual
+        cross-country course.<tt>*</tt><br />
+        <br />
+        <tt>*</tt> Note to the Counselor: While orienteering is primarily an individual
         sport, BSA Youth Protection procedures call for using the buddy system.
         Requirement 7a can be completed by pairs or groups of Scouts.
     - requirement: b

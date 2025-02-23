@@ -1,5 +1,5 @@
 <page>
-title: "Movie “Science”: Misconceptions, Misunderstandings, and Mistakes"
+title: "Movie "Science": Misconceptions, Misunderstandings, and Mistakes"
 layout: nova
 </page>
 
@@ -10,7 +10,7 @@ import requirementsPart1 from '~/data/nova-lab/activity-topics/movie-science-par
 <template>
     <ActivityTopicPreamble />
 
-    <h2>Movie “Science”: Misconceptions, Misunderstandings, and Mistakes</h2>
+    <h2>Movie "Science": Misconceptions, Misunderstandings, and Mistakes</h2>
 
     <p>
         This activity can be done individually or in a group. There are many

@@ -62,9 +62,8 @@
     Manual), do ONE of the following options:
   children:
     - requirement: A
-      markdown: true
       text: |-
-        <strong>Option A: Shotgun Shooting (Modern Shotshell Type) </strong>
+        <strong>Option A: Shotgun Shooting (Modern Shotshell Type)</strong>
       children:
         - requirement: a
           text: |-
@@ -107,41 +106,40 @@
             Shoot a moving target with a shotgun using the four fundamentals of
             firing a shot --position, mount, vision, and movement.
         - requirement: k
-          markdown: true
           text: |-
             Shooting score required: Hit at least 12 out of 25 targets (48
             percent) in two 25-target groups. The two groups need not be shot
             in consecutive order. A minimum of 50 shots must be fired. Shooting
             skill rules:
-
-            * Targets may be thrown by a hand trap, manual mechanical trap, or
+            <ul>
+            <li>Targets may be thrown by a hand trap, manual mechanical trap, or
             on any trap or skeet field. If using a hand trap or manual
             mechanical trap, the trap operator should be at least 5 feet to the
             right and 3 feet to the rear of the shooter. If throwing
             left-handed with a hand trap, the trap operator should be at least
-            5 feet to the left and 3 feet to the rear of the shooter.
-            * All targets should be thrown at a reasonable speed and in the
-            same direction.
-            * Targets should be generally thrown so as to climb in the air
-            after leaving the trap.
-            * Scores may be fired at any time, either in formal competition or
+            5 feet to the left and 3 feet to the rear of the shooter.</li>
+            <li>All targets should be thrown at a reasonable speed and in the
+            same direction.</li>
+            <li>Targets should be generally thrown so as to climb in the air
+            after leaving the trap.</li>
+            <li>Scores may be fired at any time, either in formal competition or
             in practice, but only under approved supervision and at an approved
             range as noted in the Scouting America National Range and Target
-            Activities Manual.
-            * Modern, age-appropriate, target shotgun models, 12-, 16- or
-            20-gauge, may be used.
-            * Only commercially manufactured ammunition may be used. Reloads
-            may not be used in Scouting America range and target activities.
-            * Shooters must shoot in rounds of 25. Rounds need not be shot
+            Activities Manual.</li>
+            <li>Modern, age-appropriate, target shotgun models, 12-, 16- or
+            20-gauge, may be used.</li>
+            <li>Only commercially manufactured ammunition may be used. Reloads
+            may not be used in Scouting America range and target activities.</li>
+            <li>Shooters must shoot in rounds of 25. Rounds need not be shot
             continuously or on the same day. The term "round" refers to a
-            single series of 25 shots.
-            * If using a trap field, shoot station 3 with traps set to throw
-            straightaway targets.
-            * If using a skeet field, shoot station 7 low house.
+            single series of 25 shots.</li>
+            <li>If using a trap field, shoot station 3 with traps set to throw
+            straightaway targets.</li>
+            <li>If using a skeet field, shoot station 7 low house.</li>
+            </ul>
     - requirement: B
-      markdown: true
       text: |-
-        <strong>Option B: Muzzleloading Shotgun Shooting </strong>
+        <strong>Option B: Muzzleloading Shotgun Shooting</strong>
       children:
         - requirement: a
           text: |-
@@ -198,33 +196,33 @@
             fundamentals of firing a shot -- position, mount, vision, and
             movement.
         - requirement: n
-          markdown: true
           text: |-
             Shooting score required: Hit at least 5 out of 15 targets in each
             of two 15-target groups. The two groups need not be shot in
             consecutive order. A minimum of 30 shots must be fired. Shooting
             skill rules:
-
-            * Targets may be thrown by a hand trap, manual mechanical trap, or
+            <ul>
+            <li>Targets may be thrown by a hand trap, manual mechanical trap, or
             on any trap or skeet field. If using a hand trap or manual
             mechanical trap, the trap operator should be at least 5 feet to the
             right and 3 feet to the rear of the shooter. If throwing
             left-handed with a hand trap, the trap operator should be at least
-            5 feet to the left and 3 feet to the rear of the shooter.
-            * All targets should be thrown at a reasonable speed and in the
-            same direction.
-            * Targets should be generally thrown so as to climb in the air
-            after leaving the trap.
-            * Scores may be fired at any time, either in formal competition or
+            5 feet to the left and 3 feet to the rear of the shooter.</li>
+            <li>All targets should be thrown at a reasonable speed and in the
+            same direction.</li>
+            <li>Targets should be generally thrown so as to climb in the air
+            after leaving the trap.</li>
+            <li>Scores may be fired at any time, either in formal competition or
             in practice, but only under approved supervision and at an approved
             range as noted in the Scouting America National Range and Target
-            Activities Manual.
-            * A 10 gauge or smaller muzzleloading rifle in appropriate size for
+            Activities Manual.</li>
+            <li>A 10 gauge or smaller muzzleloading rifle in appropriate size for
             the participant may be used. Matchlock, wheellock, or flintlock
-            firearms are not approved.
-            * Standard clay targets customarily used for trap and skeet are to
-            be used.
-            * On a standard trap field, the shooter should be positioned 8
-            yards behind the trap house.
-            * The trap should be set to throw only straightaway targets.
-            * If using a skeet field, shoot station 7 low house.
+            firearms are not approved.</li>
+            <li>Standard clay targets customarily used for trap and skeet are to
+            be used.</li>
+            <li>On a standard trap field, the shooter should be positioned 8
+            yards behind the trap house.</li>
+            <li>The trap should be set to throw only straightaway targets.</li>
+            <li>If using a skeet field, shoot station 7 low house.</li>
+            </ul>

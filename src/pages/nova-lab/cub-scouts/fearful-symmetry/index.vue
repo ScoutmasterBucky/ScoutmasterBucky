@@ -24,7 +24,7 @@ import requirements from '~/data/nova-lab/cub-scouts/fearful-symmetry.yaml';
             other (reflectional symmetry). Perhaps if you turned the image a
             little, you would get the same pattern (rotational symmetry).
             Perhaps there is a repeated pattern along a line, so that if you
-            moved one “space” down, the pattern would repeat (translational
+            moved one "space" down, the pattern would repeat (translational
             symmetry).
         </p>
 

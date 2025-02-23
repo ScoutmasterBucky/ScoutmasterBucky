@@ -19,7 +19,6 @@
     following options.
   children:
     - detail: true
-      markdown: true
       text: |-
         <strong>Option A: Ice Skating</strong>
     - requirement: a
@@ -89,7 +88,6 @@
           text: |-
             Perform a hockey stop.
     - detail: true
-      markdown: true
       text: |-
         <strong>Option B: Roller Skating</strong>
     - requirement: a
@@ -171,7 +169,6 @@
             return to your starting position, OR push a hockey ball with a
             stick around the entire rink in both directions.
     - detail: true
-      markdown: true
       text: |-
         <strong>Option C: In-Line Skating</strong>
     - requirement: a
@@ -246,7 +243,6 @@
             Describe two ways to get on and off a curb, and demonstrate at
             least one of these methods.
     - detail: true
-      markdown: true
       text: |-
         <strong>Option D: Skateboarding</strong>
     - requirement: a

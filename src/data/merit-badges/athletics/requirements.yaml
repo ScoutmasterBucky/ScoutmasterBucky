@@ -1,6 +1,6 @@
 # 2a has "(a) a. Before" - removed one of them
 # 5, option 7, b - mentions a diagram but didn't include one. Kept one from previous requirements.
-- callout: true
+- detail: true
   text: |-
     If meeting any of the requirements for this merit badge is against the
     Scout's religious convictions, the requirement does not have to be done if
@@ -146,7 +146,7 @@
     - requirement: b
       text: |-
         Baseball throw for distance, five throws (total distance)
-    - callout: true
+    - detail: true
       text: |-
         <strong>Option 7: Basketball Shooting</strong>
     - requirement: a
@@ -183,7 +183,7 @@
         - requirement: 8
           text: |-
             Anywhere along the three-point line
-    - callout: true
+    - detail: true
       text: |-
         <strong>Option 8: Football Kick OR Soccer Kick</strong>
     - requirement: a
@@ -193,7 +193,7 @@
       text: |-
         Football kick or soccer kick for distance, five kicks (total
         distance)
-    - callout: true
+    - detail: true
       text: |-
         <strong>Option 9: Weight Training</strong>
     - requirement: a

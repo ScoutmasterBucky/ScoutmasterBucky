@@ -59,6 +59,6 @@ import requirementsPart2 from '~/data/nova-lab/activity-topics/communication-tec
     <p>
         For information about Mad Libs, go to
         <a href="http://www.madlibs.com/">http://www.madlibs.com/</a>. Click on
-        the “Mad Libs Online Widget” to try it out.
+        the "Mad Libs Online Widget" to try it out.
     </p>
 </template>

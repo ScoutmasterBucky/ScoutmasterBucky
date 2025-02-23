@@ -50,6 +50,6 @@ import requirementsPart2 from '~/data/nova-lab/activity-topics/diet-coke-and-men
     <p>
         Using your favorite search engine online (with your parent’s or
         guardian’s permission), enter search terms EepyBird, Mythbusters, and
-        “Diet Coke and Mentos.”
+        "Diet Coke and Mentos."
     </p>
 </template>
