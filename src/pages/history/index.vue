@@ -27,7 +27,7 @@ import meritBadges from '~/data/historical-merit-badges.json';
         Baden-Powell; the founder of the worldwide Scouting movement, included a
         description of the four components of the Scouting program. The second
         of those components was, "Handicrafts or hobbies which may help a boy to
-        make his way in life, for which we give ‘Proficiency’ badges."
+        make his way in life, for which we give 'Proficiency' badges."
     </p>
 
     <ScaledContent align="center"
@@ -41,7 +41,7 @@ import meritBadges from '~/data/historical-merit-badges.json';
         Boyce and others. The original edition of The Official Handbook for Boys
         was published in 1911 to standardize the program. In addressing merit
         badges, known at that time as Badges of Merit, the manual stated, "These
-        badges are intended to stimulate the boy’s interest in the life about
+        badges are intended to stimulate the boy's interest in the life about
         him and are given for general knowledge". That purpose has changed
         little since those early days. Recent editions of the Boy Scout Handbook
         stated, "A merit badge is an invitation to explore an exciting

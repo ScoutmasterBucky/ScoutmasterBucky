@@ -9,7 +9,7 @@ echo "--- Finding problems where an extra space is added when word wrapping"
 grep -e '[.?]  ' -r src/data --include \*.yaml
 
 echo "--- Finding UTF-8 characters that do not belong"
-grep -e '[—“”]' -r src --exclude \*.orig --exclude \*.pdf --exclude \*.txt
+grep -e '[—“”‘’]' -r src --exclude \*.orig --exclude \*.pdf --exclude \*.txt
 
 echo "--- Building"
 npm run build

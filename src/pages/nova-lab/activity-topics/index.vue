@@ -20,7 +20,7 @@ layout: nova
         No matter what STEM activity you choose, you will need to create a
         report. Reports are a regular part of the work of professionals in STEM
         fields, so this will be good preparation for future career demands.
-        Notice it doesn’t say write a report. You are not restricted to just
+        Notice it doesn't say write a report. You are not restricted to just
         writing a report, although you may choose to do so if you like. Any
         report will probably involve some writing, but the report itself may be
         created and presented in any number of ways. Use your imagination!
@@ -42,7 +42,7 @@ layout: nova
         <li>Video production</li>
         <li>Multifaceted format</li>
         <li>
-            Any format of your own design, with your mentor’s advance approval
+            Any format of your own design, with your mentor's advance approval
         </li>
     </ul>
 
@@ -116,7 +116,7 @@ layout: nova
         the communication that lets us talk to people around the world, to the
         special effects used in the movies, we depend on technology. Choose any
         one of the following projects and you will have fun while learning about
-        today’s technology.
+        today's technology.
     </p>
 
     <ul>
@@ -166,13 +166,13 @@ layout: nova
     <h3>Mathematics</h3>
 
     <p>
-        Have you ever watched bungee jumpers and wondered why they don’t hit the
+        Have you ever watched bungee jumpers and wondered why they don't hit the
         ground? You can make a model of your own and figure it out. Or, what
         about the Yellowstone geyser Old Faithful - how can you tell when it
         will erupt? What about voting - can you imagine how so many people in so
         many states can go in, cast a vote, and come out with a fair result?
         Mathematics is the key. Choose any one of these projects to learn how
-        it’s done.
+        it's done.
     </p>
 
     <ul>
@@ -184,7 +184,7 @@ layout: nova
         </li>
         <li>
             <a href="old-faithful/"
-                >Linking the Past to the Future: Predicting Old Faithful’s Next
+                >Linking the Past to the Future: Predicting Old Faithful's Next
                 Eruption</a
             >
             - analyze a gyser's eruptions to predict the future.

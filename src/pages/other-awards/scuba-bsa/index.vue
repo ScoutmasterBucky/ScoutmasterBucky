@@ -18,7 +18,7 @@ import requirements from '~/data/other-awards/scuba-bsa.yaml';
         policy found in the Guide to Safe Scouting. Instructors not familiar
         with the Scouting program should consult the BSA manual,
         <a href="../aquatics-guide.pdf"
-            >Aquatics Supervision: A Leader’s Guide to Youth Swimming and
+            >Aquatics Supervision: A Leader's Guide to Youth Swimming and
             Boating Activities, No. 34346</a
         >, which also contains the BSA scuba policy.
     </p>

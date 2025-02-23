@@ -20,7 +20,7 @@ import requirements from '~/data/nova-lab/supernova/dr-luis-walter-alvarez.yaml'
     <p>
         This Supernova award can be earned by Cub Scouts like you who want to
         soar in science. To earn the award, you must be a Wolf or Bear Cub Scout
-        who is active with a den. With your parent’s and unit leader’s help, you
+        who is active with a den. With your parent's and unit leader's help, you
         must select a council-approved mentor who is a registered Scouter. You
         may NOT choose your parent or your unit leader (unless the mentor is
         working with more than one youth).

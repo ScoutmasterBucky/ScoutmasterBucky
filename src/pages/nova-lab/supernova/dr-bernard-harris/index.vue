@@ -21,7 +21,7 @@ import requirements from '~/data/nova-lab/supernova/dr-bernard-harris.yaml';
         <a href="/scout-ranks/first-class/">First Class</a> or higher. As a
         prerequisite, you must first earn any three
         <a href="/nova-lab/scouts-bsa/">Nova awards for Scouts BSA</a>. With
-        your parent’s and unit leader’s help, you must select a council-approved
+        your parent's and unit leader's help, you must select a council-approved
         mentor who is a registered Scouter. You may NOT choose your parent or
         your unit leader (unless the mentor is working with more than one
         youth).

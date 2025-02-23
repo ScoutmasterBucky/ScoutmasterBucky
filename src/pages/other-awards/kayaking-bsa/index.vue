@@ -25,7 +25,7 @@ import requirements from '~/data/other-awards/kayaking-bsa.yaml';
         participants. Feathered blades are preferred, but blades at the same
         angle are allowed. Information and skills are discussed in
         <a href="../aquatics-guide.pdf"
-            >Aquatics Supervision: A Leader’s Guide to Youth Swimming and
+            >Aquatics Supervision: A Leader's Guide to Youth Swimming and
             Boating Activities, No. 34346</a
         >, and the Kayaking merit badge pamphlet. All counselors must be trained
         in Safety Afloat. Any person with current training as a BSA Aquatics

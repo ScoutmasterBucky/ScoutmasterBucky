@@ -38,9 +38,9 @@ import requirementsPart1 from '~/data/nova-lab/activity-topics/movie-science-par
     <h3>Resources</h3>
 
     <p>
-        Jeanne Cavelos. The Science of Star Wars: An Astrophysicist’s
+        Jeanne Cavelos. The Science of Star Wars: An Astrophysicist's
         Independent Examination of Space Travel, Aliens, Planets, Robots as
-        Portrayed in the Star Wars Films and Books. St. Martin’s Griffin, 2000.
+        Portrayed in the Star Wars Films and Books. St. Martin's Griffin, 2000.
     </p>
 
     <p>
@@ -52,7 +52,7 @@ import requirementsPart1 from '~/data/nova-lab/activity-topics/movie-science-par
     <p>Lawrence M. Krauss. The Physics of Star Trek. Basic Books, 2007.</p>
 
     <p>
-        Tom Rogers. Insultingly Stupid Movie Physics: Hollywood’s Best Mistakes,
+        Tom Rogers. Insultingly Stupid Movie Physics: Hollywood's Best Mistakes,
         Goofs and Flat-Out Destructions of the Basic Laws of the Universe.
         Sourcebooks Hysteria, 2007.
     </p>

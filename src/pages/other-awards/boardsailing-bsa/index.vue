@@ -45,7 +45,7 @@ import requirements from '~/data/other-awards/boardsailing-bsa.yaml';
         All requirements must be completed as stated. Basic skills and safety
         precautions are presented in the BSA publication:
         <a href="/other-awards/aquatics-guide.pdf"
-            >Aquatics Supervision: A Youth Leader’s Guide for Swimming and
+            >Aquatics Supervision: A Youth Leader's Guide for Swimming and
             Boating Activities, No. 34346</a
         >. Additional resources may be found online at
         <a href="https://www.uswindsurfing.org">www.uswindsurfing.org</a> and

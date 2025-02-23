@@ -8,5 +8,5 @@ fi
 
 for FILE in "$@"; do
     echo "$FILE"
-    sed -i -e 's/ *— */ - /g' -e 's/ +- +/ - /g' -e 's/[“”]/"/g' "$FILE"
+    sed -i -e 's/ *— */ - /g' -e 's/ +- +/ - /g' -e 's/[“”]/"/g' -e "s/[‘’]/'/g" "$FILE"
 done
