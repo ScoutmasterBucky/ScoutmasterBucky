@@ -15,7 +15,7 @@ import requirements from '~/data/scout-ranks/eagle-alternative-requirements.yaml
 
     <p>
         The Eagle Scout rank may be achieved by a Scouts BSA Scout or a
-        qualified<em>*</em> Venturer or Sea Scout who has a physical or mental
+        qualified<sup>*</sup> Venturer or Sea Scout who has a physical or mental
         disability by completing the
         <a href="https://filestore.scouting.org/filestore/pdf/512-730.pdf"
             >Application for Alternative Eagle Scout Rank Merit Badges, No.
@@ -53,7 +53,7 @@ import requirements from '~/data/scout-ranks/eagle-alternative-requirements.yaml
     </p>
 
     <p>
-        <em>*</em> In order to be an Eagle Scout candidate, a Venturer or Sea
+        <sup>*</sup> In order to be an Eagle Scout candidate, a Venturer or Sea
         Scout must have achieved First Class rank as a registered Scout or as a
         Lone Scout.
     </p>

@@ -38,6 +38,11 @@ body {
     height: 0.5em;
 }
 
+sup {
+    font-style: italic;
+    line-height: 1;
+}
+
 @media print {
     .unprintable {
         display: none !important;
