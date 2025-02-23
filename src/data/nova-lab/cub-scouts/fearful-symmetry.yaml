@@ -150,14 +150,14 @@
               children:
                   - detail: true
                     text: |-
-                        Here are some kolams (original artwork courtesy of Sunita Vatuk):<br />
-                        <br />
-                        <img src="/nova-lab/cub-scouts/fearful-symmetry-1.png" class="wide"><br />
-                        <br />
-                        <img src="/nova-lab/cub-scouts/fearful-symmetry-2.png" class="wide"><br />
-                        <br />
-                        <img src="/nova-lab/cub-scouts/fearful-symmetry-3.png" class="wide"><br />
-                        <br />
+                        Here are some kolams (original artwork courtesy of Sunita Vatuk):
+                        <div class="gap"></div>
+                        <img src="/nova-lab/cub-scouts/fearful-symmetry-1.png" class="wide">
+                        <div class="gap"></div>
+                        <img src="/nova-lab/cub-scouts/fearful-symmetry-2.png" class="wide">
+                        <div class="gap"></div>
+                        <img src="/nova-lab/cub-scouts/fearful-symmetry-3.png" class="wide">
+                        <div class="gap"></div>
                         <img src="/nova-lab/cub-scouts/fearful-symmetry-4.png" class="wide">
       - requirement: C
         text: |-
