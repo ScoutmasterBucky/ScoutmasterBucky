@@ -74,6 +74,12 @@ for (const novaName of info.novas) {
     align-items: center;
 }
 
+@media (max-width: 480px) {
+    .bucky-and-badge {
+        flex-direction: column;
+    }
+}
+
 .requirements-header {
     display: flex;
     justify-content: space-between;
