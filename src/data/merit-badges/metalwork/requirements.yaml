@@ -68,7 +68,6 @@
     options listed below.
   children:
     - requirement: a
-      markdown: true
       text: |-
         <strong>Option 1 - Sheet Metal Mechanic/Tinsmith</strong>
       children:
@@ -96,7 +95,6 @@
                 If you do not make your objects from zinc-plated sheet steel or
                 tin-plated sheet steel, preserve your work from oxidation.
     - requirement: b
-      markdown: true
       text: |-
         <strong>Option 2 - Silversmith</strong>
       children:
@@ -128,7 +126,6 @@
               text: |-
                 Clean and polish your objects.
     - requirement: c
-      markdown: true
       text: |-
         <strong>Option 3 - Founder</strong>
       children:
@@ -141,7 +138,6 @@
             Create a sketch of two objects to cast in metal. Include each
             component's dimensions on your sketch, which need not be to scale.
         - requirement: 3
-          markdown: true
           text: |-
             Make two molds, one using a pattern provided by your counselor and
             another one you have made yourself that has been approved by your
@@ -157,7 +153,6 @@
                 Using lead-free pewter, make a casting using the mold that you
                 have made.
     - requirement: d
-      markdown: true
       text: |-
         <strong>Option 4 - Blacksmith</strong>
       children:
@@ -177,7 +172,6 @@
               text: |-
                 Draw out by forging a taper.
             - requirement: b
-              markdown: true
               text: |-
                 Use the horn of the anvil by forging a
                 <strong>U</strong>-shaped bend.
@@ -185,7 +179,6 @@
               text: |-
                 Form a decorative twist in a piece of square steel.
             - requirement: d
-              markdown: true
               text: |-
                 Use the edge of the anvil to bend metal by forging an
                 <strong>L</strong>-shaped bend.

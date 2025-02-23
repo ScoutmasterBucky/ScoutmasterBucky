@@ -3,17 +3,13 @@
 cd "${0%/*}" || exit
 
 echo "--- Finding problems where hypenation has a space, such as \"hard- working\""
-grep -P '[a-zA-Z0-9]- (?!or( |$)|and( |$)|to( |$))' -r site --include \*.yaml
+grep -P '[a-zA-Z0-9]- (?!or( |$)|and( |$)|to( |$))' -r src/data --include \*.yaml
 
 echo "--- Finding problems where an extra space is added when word wrapping"
-grep -e '[.?]  ' -r site --include \*.yaml
+grep -e '[.?]  ' -r src/data --include \*.yaml
+
+echo "--- Finding UTF-8 characters that do not belong"
+grep -e '[—“”]' -r src --exclude \*.orig --exclude \*.pdf --exclude \*.txt
 
 echo "--- Building"
-npm run fastbuild
-
-echo "--- Finding bad markdown conversions (bold, emphasis)"
-grep -E '( \*[^ ]|\)\[|\\|\{\{)' -r build --include index.html
-
-echo "--- Finding bad markdown conversions (&lt;, &gt;)"
-grep -E '&lt;|&gt;' -r build/merit-badges --include index.html
-:
+npm run build

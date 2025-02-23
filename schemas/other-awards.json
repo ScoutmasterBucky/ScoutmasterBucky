@@ -6,28 +6,18 @@
             "bucky": {
                 "type": "string"
             },
-            "eagle": {
-                "type": "boolean"
-            },
             "image": {
                 "type": "string"
             },
             "name": {
                 "type": "string"
-            },
-            "novas": {
-                "type": "array",
-                "items": {
-                    "type": "string"
-                }
             }
         },
         "additionalProperties": false,
         "required": [
             "bucky",
             "image",
-            "name",
-            "novas"
+            "name"
         ]
     }
 }

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { parse } from 'papaparse';
+import Parse from 'papaparse';
 
 const emit = defineEmits(['fileRead', 'fileReadError']);
 
@@ -32,7 +32,7 @@ const readFile = (file: File) => {
             .replace(/$/, '\n')
             .replace(/\n(( *,)+\n)+/g, '\n')
             .replace(/\n+$/, '');
-        const parsed = parse(data, {
+        const parsed = Papa.parse(data, {
             dynamicTyping: true,
             header: true,
         });

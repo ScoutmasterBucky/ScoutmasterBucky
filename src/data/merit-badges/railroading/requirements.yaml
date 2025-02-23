@@ -127,10 +127,9 @@
     Do ONE of the following special-interest options:
   children:
     - requirement: a
-      markdown: true
       text: |-
-        <strong>Option A: Model Railroading</strong>
-
+        <strong>Option A: Model Railroading</strong><br />
+        <br />
         With your parent or guardian's and counselor's approval, do TWO of the
         following:
       children:
@@ -172,10 +171,9 @@
             railroad by using direct current, and powering and controlling a
             model railroad using digital command control.
     - requirement: b
-      markdown: true
       text: |-
-        <strong>Option B: Railfanning</strong>
-
+        <strong>Option B: Railfanning</strong><br />
+        <br />
         With your parent or guardian's and counselor's approval, do TWO of the
         following:
       children:

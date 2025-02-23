@@ -3,7 +3,16 @@
     "additionalProperties": {
         "type": "object",
         "properties": {
-            "category": {
+            "lastUpdate": {
+                "type": "string"
+            },
+            "name": {
+                "type": "string"
+            },
+            "summary": {
+                "type": "string"
+            },
+            "topic": {
                 "type": "string",
                 "enum": [
                     "science",
@@ -11,15 +20,9 @@
                     "engineering",
                     "math"
                 ]
-            },
-            "name": {
-                "type": "string"
-            },
-            "summary": {
-                "type": "string"
             }
         },
         "additionalProperties": false,
-        "required": ["name", "category", "summary"]
+        "required": ["lastUpdate", "name", "summary", "topic"]
     }
 }

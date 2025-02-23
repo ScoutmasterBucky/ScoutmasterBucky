@@ -61,9 +61,8 @@
     Do ONE of the following options:
   children:
     - detail: true
-      markdown: true
       text: |-
-        <strong>Option A: Downhill (Alpine) Skiing </strong>
+        <strong>Option A: Downhill (Alpine) Skiing</strong>
     - requirement: a
       text: |-
         Show how to wax and maintain your skis and use/maintain your release
@@ -105,9 +104,8 @@
         Name the major ski organizations in the United States and explain their
         functions.
     - detail: true
-      markdown: true
       text: |-
-        <strong>Option B: Cross-Country (Nordic) Skiing </strong>
+        <strong>Option B: Cross-Country (Nordic) Skiing</strong>
     - requirement: a
       text: |-
         Show your ability to select, use, and maintain equipment for
@@ -148,7 +146,6 @@
         conditions. Include traverses and kick turns going uphill and downhill,
         sidesteps, pole drag, and ski-pole 'glissade'.
     - detail: true
-      markdown: true
       text: |-
         <strong>Option C: Snowboarding</strong>
     - requirement: a
@@ -202,7 +199,6 @@
         Name the major snowboarding organizations in the United States and
         explain their functions.
     - detail: true
-      markdown: true
       text: |-
         <strong>Option D: Snowshoeing</strong>
     - requirement: a

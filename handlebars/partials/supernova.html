@@ -1,9 +1,0 @@
-<div class="Ta(c) P(5px)">
-<a href="{{@root.rootPath}}nova-lab/supernova/{{supernova}}/">
-<img src="{{@root.rootPath}}{{#with (lookup @root.supernovaAwards supernova)}}{{medal}}{{/with}}"><br />
-{{>supernova-name sa=true}}</a><br />
-{{#with (lookup @root.supernovaAwards supernova)}}
-{{#if caption}}{{caption}}<br />{{/if}}
-{{color}} Medal
-{{/with}}
-</div>

@@ -4,12 +4,12 @@
     "type": "module",
     "scripts": {
         "build": "iles build && npm run verify",
-        "now": "run build && npm run preview",
-        "preview": "iles preview --open --port 5050",
+        "now": "npm run build && npm run preview",
+        "preview": "iles preview --open --port 5050 --host",
         "reinstall": "rm -rf node_modules package-lock.json && npm install",
-        "start": "iles dev --open",
+        "start": "iles dev --open --host",
         "typecheck": "vue-tsc --noEmit",
-        "verify": "check-html-links dist/"
+        "verify": "node validate-data.mjs && check-html-links dist/"
     },
     "engines": {
         "node": ">= 20.0.0"
@@ -17,8 +17,11 @@
     "devDependencies": {
         "@modyfi/vite-plugin-yaml": "^1.1.0",
         "@sveltejs/vite-plugin-svelte": "^4.0.0",
+        "ajv": "^8.17.1",
         "check-html-links": "^0.2.4",
+        "debug": "^4.4.0",
         "iles": "^0.10.0-beta.1",
+        "js-yaml": "^4.1.0",
         "papaparse": "^5.5.2",
         "typescript": "^5.6",
         "vue-tsc": "^2.1"

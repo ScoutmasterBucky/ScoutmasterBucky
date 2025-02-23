@@ -1,6 +1,5 @@
 # 1 has "Do the following:" bolded. I've removed bold from those words.
 - requirement: 1
-  markdown: true
   text: |-
     <strong>Safety.</strong> Do the following:
   children:
@@ -16,14 +15,12 @@
         occur during programming activities, including repetitive stress
         injuries and eyestrain.
 - requirement: 2
-  markdown: true
   text: |-
     <strong>History.</strong> Discuss with your counselor the history of
     programming and the evolution of programming languages, including at least
     three milestones related to the advancement or development of programming
     over time.
 - requirement: 3
-  markdown: true
   text: |-
     <strong>General Knowledge.</strong> Do the following:
   children:
@@ -51,7 +48,6 @@
         Describe the differences between freeware, open source, and commercial
         software, and why it is important to respect the terms of use of each.
 - requirement: 5
-  markdown: true
   text: |-
     <strong>Project.</strong> With your counselor's guidance, select three
     different programming languages and development environments. For each
@@ -84,7 +80,6 @@
         In the third language and environment, write or modify a program, debug
         and demonstrate, and explain as above.
 - requirement: 6
-  markdown: true
   text: |-
     <strong>Careers.</strong> Find out about three career opportunities that
     require knowledge in programming. Pick one and find out the education,

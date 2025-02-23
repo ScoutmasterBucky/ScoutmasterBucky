@@ -16,7 +16,6 @@
     Do all the requirements in FIVE of the following fields:
   children:
     - requirement: a
-      markdown: true
       text: |-
         <b>Birds</b>
       children:
@@ -28,7 +27,6 @@
             Make and set out a birdhouse OR a feeding station OR a birdbath.
             List what birds used it during a period of one month.
     - requirement: b
-      markdown: true
       text: |-
         <b>Mammals</b>
       children:
@@ -39,7 +37,6 @@
           text: |-
             Make plaster casts of the tracks of a wild mammal.
     - requirement: c
-      markdown: true
       text: |-
         <b>Reptiles and Amphibians</b>
       children:
@@ -54,12 +51,10 @@
             Recognize one species of toad or frog by voice; OR identify one
             reptile or amphibian by eggs, den, burrow, or other signs.
     - requirement: d
-      markdown: true
       text: |-
         <b>Insects and Spiders</b>
       children:
         - requirement: 1
-          markdown: true
           text: |-
             Collect and identify either in the field or through photographs 10
             species of insects or spiders. Photos may be taken with your own
@@ -70,7 +65,6 @@
             nymphs; OR keep larvae until they form pupae or cocoons; OR keep a
             colony of ants or bees through one season.
     - requirement: e
-      markdown: true
       text: |-
         <b>Fish</b>
       children:
@@ -81,7 +75,6 @@
           text: |-
             Collect four kinds of animal food eaten by fish in the wild.
     - requirement: f
-      markdown: true
       text: |-
         <b>Mollusks and Crustaceans</b>
       children:
@@ -92,7 +85,6 @@
           text: |-
             Collect, mount, and label six shells.
     - requirement: g
-      markdown: true
       text: |-
         <b>Plants</b>
       children:
@@ -112,7 +104,6 @@
                 Photograph the seeds of six plants OR the leaves of 12 plants
                 and create a catalog of your photos.
     - requirement: h
-      markdown: true
       text: |-
         <b>Soils and Rocks</b>
       children:
@@ -167,17 +158,16 @@
         with your counselor and share what short-term and long-term goals you
         might have if you pursued this.
 - detail: true
-  markdown: true
   text: |-
     NOTE: In most cases all specimens should be returned to the wild at the
     location of original capture after the requirements have been met. Check
     with your merit badge counselor for those instances where the return of
-    these specimens would not be appropriate.
-
+    these specimens would not be appropriate.<br />
+    <br />
     Under the Endangered Species Act of 1973, some plants and animals are or
     may be protected by federal law. The same ones and/or others may be
-    protected by state law. Be sure that you do not collect protected species.
-
+    protected by state law. Be sure that you do not collect protected species.<br />
+    <br />
     Your state may require that you purchase and carry a license to collect
     certain species. Check with the wildlife and fish and game officials in
     your state regarding species regulations before you begin to collect.

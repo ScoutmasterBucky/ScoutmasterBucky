@@ -38,7 +38,6 @@
     yourself for 10-mile hikes, and describe how you will increase your fitness
     for longer hikes.
 - requirement: 4
-  markdown: true
   text: |-
     Take four 10-mile hikes and one 20-mile hike, each on a different day, and
     each of continuous miles. Prepare a written hike plan before each hike and
@@ -46,7 +45,7 @@
     hike. Include map routes, a clothing and equipment list, and a list of
     items for a trail lunch. You may stop for as many short rest periods as
     needed, as well as one meal, during each hike, but not for an extended
-    period such as overnight.`*`
+    period such as overnight.<tt>*</tt>
   children:
     - requirement: a
       text: |-
@@ -64,7 +63,6 @@
       text: |-
         20-mile hike
 - requirement: 5
-  markdown: true
   text: |-
     After each of the hikes (or during each hike if on one continuous "trek")
     in requirement 4, write a short report on your hike. For each hike, give
@@ -72,10 +70,9 @@
     interesting things you saw, and any challenges you had and how you overcame
     them. It may include something you learned about yourself, about the
     outdoors, or about others you were hiking with. Share this with your
-    counselor.`*`
+    counselor.<tt>*</tt>
 - detail: true
-  markdown: true
   text: |-
-    `*` The required hikes for this badge may be used in fulfilling hiking
+    <tt>*</tt> The required hikes for this badge may be used in fulfilling hiking
     requirements for rank advancement. However, these hikes cannot be used to
     fulfill requirements of other merit badges.

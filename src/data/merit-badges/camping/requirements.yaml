@@ -25,28 +25,24 @@
     what they mean. Write a personal and group plan for implementing these
     principles on your next outing.
 - requirement: 3
-  markdown: true
   text: |-
-    Make a written plan`*` for an overnight trek and show how to get to your
+    Make a written plan<tt>*</tt> for an overnight trek and show how to get to your
     camping spot by using a topographical map and one of the following:
   children:
     - requirement: a
       text: |-
         Compass
     - requirement: b
-      markdown: true
       text: |-
-        GPS receiver`**`
+        GPS receiver<tt>**</tt>
     - requirement: c
-      markdown: true
       text: |-
-        Smartphone with a GPS app`**`
+        Smartphone with a GPS app<tt>**</tt>
     - detail: true
-      markdown: true
       text: |-
-        `*` To complete this requirement, you may use the <a href="/documents/scout-planning-worksheet.pdf">Scout Planning Worksheet</a>
-
-        `**` If a GPS-equipped device is not available, explain how to use
+        <tt>*</tt> To complete this requirement, you may use the <a href="/documents/scout-planning-worksheet.pdf">Scout Planning Worksheet</a><br />
+        <br />
+        <tt>**</tt> If a GPS-equipped device is not available, explain how to use
         one to get to your camping spot.
 - requirement: 4
   text: |-
