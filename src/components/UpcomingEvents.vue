@@ -63,7 +63,7 @@ const filtered = (eventList || [])
             differentDays: areDaysDifferent(event),
         };
     })
-    .filter((event: any) => event.hideDate?.timestamp ?? 0 > Date.now());
+    .filter((event: any) => (event.hideDate?.timestamp ?? 0) > Date.now());
 </script>
 
 <template>
