@@ -1,3 +1,5 @@
+# Changed backhoe link from http://leo.koppel.ca/backhoe/levers.html to what appears to be the original sourced PDF.
+# Changed technologystudent to https
 - requirement: 1
   text: |-
     Choose A or B or C and complete ALL the requirements.
@@ -211,7 +213,7 @@
             shovels (class 3)</li>
             <li>Carpentry shop - hammers (class 3; the hammer’s claw is a class 1)</li>
             <li>Construction site - crowbar (class 1, pliers (class 1), backhoe
-            (class 1; see <a href="http://leo.koppel.ca/backhoe/levers.html">http://leo.koppel.ca/backhoe/levers.html</a>), shovel
+            (class 1; see <a href="/nova-lab/cub-scouts/swing-backhoe.pdf">this document</a>), shovel
             (class 3)</li>
             <li>Restaurant kitchen - can opener (class 1), spoons and forks (class
             3), bottle opener (class 2)</li>
@@ -237,4 +239,4 @@
   children:
     - detail: true
       text: |-
-        <b>Helpful Link:</b> Technologystudent.com (<a href="https://www.technologystudent.com/forcmom/lever1.htm">www.technologystudent.com/forcmom/lever1.htm</a>)
+        <b>Helpful Link:</b> Technologystudent.com (<a href="https://www.technologystudent.com/forcmom/lever1.htm">https://www.technologystudent.com/forcmom/lever1.htm</a>)

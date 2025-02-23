@@ -1,3 +1,7 @@
+# 1B1 - eliminated dead links and the link to a calculator. Left a locally-downloaded version of the worksheet.
+#  - https://www.iflyworld.com/plan-an-event/education/highschool/ redirects to https://www.iflyworld.com/plan-an-event/education/highschool/ and does not specify which worksheet to use, plus the high school worksheet is blurred out except for the first page.
+#  - https://www.grc.nasa.gov/www/k-12/airplane/termv.html redirects to https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/termvel/ and does not contain a worksheet.
+# 4c - shortened YouTube link
 - requirement: 1
   text: |-
     Choose A <em>or</em> B <em>or</em> C and complete ALL of the requirements.
@@ -103,10 +107,8 @@
       children:
         - requirement: 1
           text: |-
-            Download the worksheet at
-            <a href="https://www.iflyworld.com/plan-an-event/education/highschool/">https://www.iflyworld.com/plan-an-event/education/highschool/</a> or
-            use a <a href="/nova-lab/cub-scouts/up-and-away-worksheet.pdf">similar worksheet</a> such as the "Student
-            Terminal Velocity Worksheet" at <a href="https://www.grc.nasa.gov/www/k-12/airplane/termv.html">https://www.grc.nasa.gov/www/k-12/airplane/termv.html</a>. Calculate
+            Download the <a href="/nova-lab/cub-scouts/up-and-away-worksheet.pdf">worksheet</a> or use a similar worksheet. Calculate
+            Terminal Velocity Worksheet</a> from NASA. Calculate
             the terminal velocity of a 100-pound backpack on the planet earth.
         - requirement: 2
           text: |-
@@ -211,7 +213,7 @@
         be obtained by contacting a local university that offers a degree in
         aerospace engineering or similar field. Virtual tours could include,
         but are not limited to, NASA wind tunnel facility tours at
-        <a href="https://www.youtube.com/watch?v=bpRc9I8LMXo">https://www.youtube.com/watch?v=bpRc9I8LMXo</a>. Discuss with your
+        <a href="https://youtu.be/bpRc9I8LMXo">https://youtu.be/bpRc9I8LMXo</a>. Discuss with your
         counselor the science and engineering concepts associated with the
         facility, e.g., what are the parts of a wind tunnel, what a wind tunnel
         is used for, what are the advantages of testing with a wind tunnel, how

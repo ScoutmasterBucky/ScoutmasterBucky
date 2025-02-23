@@ -1,3 +1,14 @@
+# Updated caltech.edu to https
+# Changed www.ncsec.org/cadre2/team1_2/pm.htm to a PDF snapshot of the page
+# Changed http://www.qrg.northwestern.edu/projects/vss/docs/spaceenvironment/2-whats-escape-velocity.html to https://www.qrg.northwestern.edu/projects/vss/docs/space-environment/2-whats-escape-velocity.html (note the hyphen and https)
+# Changed http://er.jsc.nasa.gov/seh/feather.html to https://web.archive.org/web/20220629040757/https://er.jsc.nasa.gov/SEH/feather.html
+# Changed http://hypertextbook.com/facts/JianHuang.shtml to https://hypertextbook.com/facts/1998/JianHuang.shtml
+# Removed http://www.eumetsat.int/Home/Main/Satellites/SatelliteProgrammesOverview/SP_20100427133512861?l=en
+# Updated http://www.esa.int/esaSC/SEMO49YO4HD_index_0.html to https://www.esa.int/Science_Exploration/Space_Science/What_is_a_launch_window
+# Updated http://www.npr.org/templates/story/story.php?storyId=4749663 to https://www.npr.org/2005/07/25/4749663/launch-windows-how-nasa-decides-when-to-fly
+# Removed http://www.nasa.gov/audience/forstudents/brainbites/nonflash/bb_home_launchwindow.html because it references a video and that video wasn't archived.
+# Updated http://exploration.grc.nasa.gov/education/rocket/termvr.html to https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/termvel/
+# Updated www.heavens-above.com to https
 - requirement: 1
   text: |-
       Choose A <em>or</em> B <em>or</em> C and complete ALL the requirements.
@@ -110,7 +121,7 @@
                   Website: <a href="https://www.compadre.org/introphys/items/detail.cfm?ID=7823">https://www.compadre.org/introphys/items/detail.cfm?ID=7823</a>
                   <br />
                   Java Applets on Physics<br />
-                  Website: <a href="http://www.cco.caltech.edu/~phys1/java.html">http://www.cco.caltech.edu/~phys1/java.html</a>
+                  Website: <a href="https://www.cco.caltech.edu/~phys1/java.html">https://www.cco.caltech.edu/~phys1/java.html</a>
             - requirement: 3
               text: |-
                   Discuss with your counselor:
@@ -136,7 +147,7 @@
                               Projectile motion is the curved path taken by an
                               object that is fired, launched, or thrown.<br />
                               <br />
-                              See <a href="http://www.ncsec.org/cadre2/team1_2/pm.htm">www.ncsec.org/cadre2/team1_2/pm.htm</a>.
+                              See an archive of <a href="/nova-lab/scouts-bsa/shoot-projectile-motion.pdf">www.ncsec.org/cadre2/team1_2/pm.htm</a>.
                   - requirement: c
                     text: |-
                         The factors affecting the path of a projectile
@@ -234,7 +245,7 @@
                   Website: <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/vesc.html">http://hyperphysics.phy-astr.gsu.edu/hbase/vesc.html</a><br />
                   <br />
                   "Space Environment": Northwestern University<br />
-                  Website: <a href="http://www.qrg.northwestern.edu/projects/vss/docs/spaceenvironment/2-whats-escape-velocity.html">http://www.qrg.northwestern.edu/projects/vss/docs/spaceenvironment/2-whats-escape-velocity.html</a><br />
+                  Website: <a href="https://www.qrg.northwestern.edu/projects/vss/docs/space-environment/2-whats-escape-velocity.html">https://www.qrg.northwestern.edu/projects/vss/docs/space-environment/2-whats-escape-velocity.html</a><br />
                   <br />
                   Orbital velocity is achieved when an object’s horizontal
                   velocity balances the acceleration of gravity at that
@@ -263,7 +274,7 @@
                   Watch astronauts David Scott and Jim Irwin do Galileo’s
                   experiment on the moon.<br />
                   "NASA Lunar Feather Drop Home Page": NASA<br />
-                  Website: <a href="http://er.jsc.nasa.gov/seh/feather.html">http://er.jsc.nasa.gov/seh/feather.html</a>
+                  Archive: <a href="https://web.archive.org/web/20220629040757/https://er.jsc.nasa.gov/SEH/feather.html">https://web.archive.org/web/20220629040757/https://er.jsc.nasa.gov/SEH/feather.html</a>
             - requirement: 1
               text: |-
                   Why are satellites usually launched toward the east, and what
@@ -302,7 +313,7 @@
                         balled up and about 125 mph with arms and feet fully
                         extended to catch the wind." Source: "Speed of a
                         Skydiver (Terminal Velocity)," The Physics Factbook,
-                        website <a href="http://hypertextbook.com/facts/JianHuang.shtml">http://hypertextbook.com/facts/JianHuang.shtml</a>.
+                        website <a href="https://hypertextbook.com/facts/1998/JianHuang.shtml">https://hypertextbook.com/facts/1998/JianHuang.shtml</a>.
             - requirement: 2
               text: |-
                   How fast does a bullet, baseball, airplane, or rocket have to
@@ -320,20 +331,14 @@
                   "Orbital Mechanics": Rocket & Space Technology<br />
                   Website: <a href="http://www.braeunig.us/space/orbmech.htm">http://www.braeunig.us/space/orbmech.htm</a><br />
                   <br />
-                  "Launching Satellites": EUMETSAT<br />
-                  Website: <a href="http://www.eumetsat.int/Home/Main/Satellites/SatelliteProgrammesOverview/SP_20100427133512861?l=en">http://www.eumetsat.int/Home/Main/Satellites/SatelliteProgrammesOverview/SP_20100427133512861?l=en</a><br />
-                  <br />
                   "What is a ‘launch window’?": ESA<br />
-                  Website: <a href="http://www.esa.int/esaSC/SEMO49YO4HD_index_0.html">http://www.esa.int/esaSC/SEMO49YO4HD_index_0.html</a><br />
+                  Website: <a href="https://www.esa.int/Science_Exploration/Space_Science/What_is_a_launch_window">https://www.esa.int/Science_Exploration/Space_Science/What_is_a_launch_window</a><br />
                   <br />
                   "Launch Windows: How NASA Decides When to Fly": NPR<br />
-                  Website: <a href="http://www.npr.org/templates/story/story.php?storyId=4749663">http://www.npr.org/templates/story/story.php?storyId=4749663</a><br />
-                  <br />
-                  "What Is a Launch Window?": NASA<br />
-                  Website: <a href="http://www.nasa.gov/audience/forstudents/brainbites/nonflash/bb_home_launchwindow.html">http://www.nasa.gov/audience/forstudents/brainbites/nonflash/bb_home_launchwindow.html</a><br />
+                  Website: <a href="https://www.npr.org/2005/07/25/4749663/launch-windows-how-nasa-decides-when-to-fly">https://www.npr.org/2005/07/25/4749663/launch-windows-how-nasa-decides-when-to-fly</a>
                   <br />
                   "Terminal Velocity": NASA<br />
-                  Website: <a href="http://exploration.grc.nasa.gov/education/rocket/termvr.html">http://exploration.grc.nasa.gov/education/rocket/termvr.html</a>
+                  Website: <a href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/termvel/">https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/termvel/</a>
 - requirement: 4
   text: |-
       Choose A <em>or</em> B and complete ALL the requirements.
@@ -358,7 +363,7 @@
               text: |-
                   Find out what time a satellite will pass over your area. (A
                   good resource to find the times for satellite passes is the
-                  Heavens Above website at <a href="http://www.heavens-above.com">www.heavens-above.com</a>.)
+                  Heavens Above website at <a href="https://www.heavens-above.com/">https://www.heavens-above.com/</a>.)
             - requirement: 2
               text: |-
                   Watch the satellite using binoculars. Record the time of your

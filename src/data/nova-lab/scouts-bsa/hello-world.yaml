@@ -1,3 +1,9 @@
+# Shortened all youtube links
+# Updated http://guyhaas.com/bfoit/itp/Programming.html to
+# Changed explainthatstuff.com to https
+# Changed pearsonhighered.com to https
+# Updated https://code.org/educate/applab to https://code.org/tools/applab
+# Changed alice.org to https
 - requirement: 1
   text: |-
       Choose A or B or C and complete ALL the requirements.
@@ -56,10 +62,10 @@
                   What is Programming?<br />
                   <ul>
                   <li><a href="https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro">https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro</a></li>
-                  <li><a href="https://www.youtube.com/watch?v=THOEQ5soVpY">https://www.youtube.com/watch?v=THOEQ5soVpY</a></li>
-                  <li><a href="https://www.youtube.com/watch?v=Y4ZIA1A54ww">https://www.youtube.com/watch?v=Y4ZIA1A54ww</a></li>
-                  <li><a href="https://www.youtube.com/watch?v=N7ZmPYaXoic">https://www.youtube.com/watch?v=N7ZmPYaXoic</a></li>
-                  <li><a href="https://www.youtube.com/watch?v=9zOo4JkZgSI">https://www.youtube.com/watch?v=9zOo4JkZgSI</a></li>
+                  <li><a href="https://youtu.be/THOEQ5soVpY">https://youtu.be/THOEQ5soVpY</a></li>
+                  <li><a href="https://youtu.be/Y4ZIA1A54ww">https://youtu.be/Y4ZIA1A54ww</a></li>
+                  <li><a href="https://youtu.be/N7ZmPYaXoic">https://youtu.be/N7ZmPYaXoic</a></li>
+                  <li><a href="https://youtu.be/9zOo4JkZgSI">https://youtu.be/9zOo4JkZgSI</a></li>
                   </ul>
                   <b>Movies about Programming</b><br />
                   <ul>
@@ -68,14 +74,14 @@
                   <li>Halt and Catch Fire</li>
                   <li>Revolution OS</li>
                   <li>The Code</li>
-                  <li>Computer Programming in Five Minutes <a href="https://www.youtube.com/watch?v=UScm9avQM1Y">https://www.youtube.com/watch?v=UScm9avQM1Y</a></li>
+                  <li>Computer Programming in Five Minutes <a href="https://youtu.be/UScm9avQM1Y">https://youtu.be/UScm9avQM1Y</a></li>
                   </ul>
                   <b>Articles on Computer Programming</b><br />
                   <ul>
                   <li>What is Computer programming <a href="http://guyhaas.com/bfoit/itp/Programming.html">http://guyhaas.com/bfoit/itp/Programming.html</a></li>
                   <li>Computer Programming <a href="https://en.wikipedia.org/wiki/Computer_programming">https://en.wikipedia.org/wiki/Computer_programming</a></li>
-                  <li>Computers <a href="http://www.explainthatstuff.com/howcomputerswork.html">http://www.explainthatstuff.com/howcomputerswork.html</a></li>
-                  <li>Introduction to Computers and Programming <a href="http://www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf">www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf</a></li>
+                  <li>Computers <a href="https://www.explainthatstuff.com/howcomputerswork.html">https://www.explainthatstuff.com/howcomputerswork.html</a></li>
+                  <li>Introduction to Computers and Programming <a href="https://www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf">https://www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf</a></li>
                   </ul>
 - requirement: 2
   text: |-
@@ -228,7 +234,7 @@
             <br />
             App Lab is a great beginner programming environment where you make
             simple apps right in your browser -
-            <a href="https://code.org/educate/applab">https://code.org/educate/applab</a><br />
+            <a href="https://code.org/tools/applab">https://code.org/tools/applab</a><br />
             <br />
             Web Lab is a tool to help beginning programmers create their own
             webpages. -
@@ -247,7 +253,7 @@
             Alice Programming Environment is a 3D interactive programming
             language. Alice 2 is not object oriented. Alice 3 is object
             oriented. -
-            <a href="http://www.alice.org/">http://www.alice.org/</a><br />
+            <a href="https://www.alice.org/">https://www.alice.org/</a><br />
             <br />
             Blocky is a visual code editor that uses interlocking blocks to
             represent code -
