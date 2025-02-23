@@ -5,7 +5,7 @@ const { event } = defineProps<{
 </script>
 
 <template>
-    <div>
+    <div class="selectable">
         <div class="big centered bottom-line"><UpcomingEventIcon :event="event" />{{ event.host }}</div>
         <div class="big centered">{{ event.title }}</div>
         <div class="time-location">
@@ -43,6 +43,10 @@ const { event } = defineProps<{
 </template>
 
 <style scoped>
+.selectable {
+    user-select: text;
+}
+
 .centered {
     display: flex;
     justify-content: center;
