@@ -9,7 +9,8 @@
         "reinstall": "rm -rf node_modules package-lock.json && npm install",
         "start": "iles dev --open --host",
         "typecheck": "vue-tsc --noEmit",
-        "verify": "node validate-data.mjs && check-html-links dist/"
+        "verify": "node validate-data.mjs && check-html-links dist/",
+        "verify-external-links": "check-html-links dist/ --validate-externals"
     },
     "engines": {
         "node": ">= 20.0.0"

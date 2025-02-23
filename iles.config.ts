@@ -5,6 +5,9 @@ import { svelte } from '@sveltejs/vite-plugin-svelte';
 export default defineConfig({
     prettyUrls: false,
     siteUrl: 'https://scoutmasterbucky.com/',
+    ssg: {
+        sitemap: false,
+    },
     vite: {
         clearScreen: false,
         plugins: [
