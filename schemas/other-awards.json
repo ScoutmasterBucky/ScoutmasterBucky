@@ -1,0 +1,23 @@
+{
+    "type": "object",
+    "additionalProperties": {
+        "type": "object",
+        "properties": {
+            "bucky": {
+                "type": "string"
+            },
+            "image": {
+                "type": "string"
+            },
+            "name": {
+                "type": "string"
+            }
+        },
+        "additionalProperties": false,
+        "required": [
+            "bucky",
+            "image",
+            "name"
+        ]
+    }
+}

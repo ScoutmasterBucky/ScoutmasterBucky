@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+if [[ "$#" -eq 0 ]]; then
+    echo "Specify files to change."
+
+    exit 1
+fi
+
+for FILE in "$@"; do
+    echo "$FILE"
+    sed -i -e 's/ *— */ - /g' -e 's/ +- +/ - /g' -e 's/[“”]/"/g' -e "s/[‘’]/'/g" "$FILE"
+done

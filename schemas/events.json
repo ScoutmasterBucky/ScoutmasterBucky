@@ -1,0 +1,70 @@
+{
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "host": {
+                "type": "string"
+            },
+            "end": {
+                "type": "string"
+            },
+            "html": {
+                "type": "string"
+            },
+            "icon": {
+                "type": "string"
+            },
+            "location": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            },
+            "meritBadges": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            },
+            "online": {
+                "type": "boolean"
+            },
+            "registrationLink": {
+                "type": "string"
+            },
+            "start": {
+                "type": "string"
+            },
+            "title": {
+                "type": "string"
+            }
+        },
+        "additionalProperties": false,
+        "required": [
+            "host",
+            "icon",
+            "start",
+            "title"
+        ],
+        "oneOf": [
+            {
+                "required": [
+                    "location"
+                ]
+            },
+            {
+                "properties": {
+                    "online": {
+                        "enum": [
+                            true
+                        ]
+                    }
+                },
+                "required": [
+                    "online"
+                ]
+            }
+        ]
+    }
+}

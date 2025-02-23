@@ -3,65 +3,31 @@
     "additionalProperties": {
         "type": "object",
         "properties": {
-            "active": {
-                "type": "boolean"
-            },
-            "classPrep": {
-                "type": "boolean"
-            },
-            "name": {
+            "bucky": {
                 "type": "string"
             },
             "eagle": {
                 "type": "boolean"
             },
-            "bucky": {
-                "type": "string"
-            },
             "image": {
                 "type": "string"
             },
-            "resources": {
+            "name": {
+                "type": "string"
+            },
+            "novas": {
                 "type": "array",
                 "items": {
-                    "type": "object",
-                    "properties": {
-                        "description": {
-                            "type": "string"
-                        },
-                        "name": {
-                            "type": "string"
-                        },
-                        "shortName": {
-                            "type": "string"
-                        },
-                        "url": {
-                            "type": "string"
-                        }
-                    },
-                    "required": ["name", "shortName", "url"],
-                    "additionalProperties": false
+                    "type": "string"
                 }
             }
         },
         "additionalProperties": false,
-        "oneOf": [
-            {
-                "properties": {
-                    "active": {
-                        "enum": [false]
-                    }
-                },
-                "required": ["active", "name"]
-            },
-            {
-                "properties": {
-                    "active": {
-                        "enum": [true]
-                    }
-                },
-                "required": ["active", "name", "bucky", "image"]
-            }
+        "required": [
+            "bucky",
+            "image",
+            "name",
+            "novas"
         ]
     }
 }

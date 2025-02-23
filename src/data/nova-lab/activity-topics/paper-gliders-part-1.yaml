@@ -1,0 +1,39 @@
+- requirement: 1
+  text: |-
+      Research and discuss the following with your mentor:
+  children:
+      - requirement: A
+        text: |-
+            The fundamental parts of a glider
+      - requirement: B
+        text: |-
+            The basic elements of the physics of stable flight
+- requirement: 2
+  text: |-
+      Choose a glider design from a kit or plans. (You do not need to design
+      the glider yourself.) Then do the following:
+  children:
+      - requirement: A
+        text: |-
+            Identify one quantitative characteristic to test, such as flight
+            distance, flight time, average flight speed, and so on. Then
+            identify one qualitative characteristic to test, such as presence
+            of a stall, dive, flip, left turn, right turn, and so on.
+      - requirement: B
+        text: |-
+            Hypothesize how variations in one part of the glider, such as wing
+            size, fuselage length, center of gravity, flap size, and so on,
+            might influence these characteristics of the glider's performance.
+      - requirement: C
+        text: |-
+            Build four high-performance gliders, identical except for
+            variations in the relevant glider part.
+      - requirement: D
+        text: |-
+            Establish a consistent method to measure each characteristic during
+            a test flight. Then find a way to launch the gliders in a
+            consistent manner so that they are launched at the same speed every
+            time. You should perform test flights with each model five to six
+            times to account for variations in flight performance. Try to keep
+            the conditions of each test flight the same as for all the other
+            test flights. Keep records of the results for each test flight.

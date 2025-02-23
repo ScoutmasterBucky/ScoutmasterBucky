@@ -1,0 +1,206 @@
+# Updated https://www.afdc.energy.gov/afdc/vehicles/electric_benefits.html to https://afdc.energy.gov/fuels/electricity-benefits
+# Updated https://www.popularmechanics.com/cars/alternative-fuel to https://www.popularmechanics.com/cars/hybrid-electric/
+- requirement: 1
+  text: |-
+      Choose A or B or C and complete ALL the requirements.
+  children:
+      - requirement: A
+        text: |-
+            Watch about three hours total of technology-related shows or
+            documentaries that involve transportation or transportation
+            technology. Then do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least two questions or ideas from each
+                  show.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions or ideas with your counselor.
+            - detail: true
+              text: |-
+                  Some examples include - but are not limited to - shows found on
+                  PBS ("NOVA"), Discovery Channel, Science Channel, National
+                  Geographic Channel, and TED Talks (online videos). You may
+                  choose to watch a live performance or movie at or science
+                  museum instead of watching a media production. You may watch
+                  online productions with your counselor's approval and under
+                  your parent's or guardian's supervision.
+      - requirement: B
+        text: |-
+            Read (about three hours total) about transportation or
+            transportation technology. Then do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least two questions or ideas from each
+                  article.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions or ideas with your counselor.
+            - detail: true
+              text: |-
+                  Examples of magazines include - but are not limited to - Odyssey,
+                  Popular Mechanics, Popular Science, Science Illustrated,
+                  Discover, Air & Space, Aviation Week, Astronomy, Science
+                  News, Natural History, Robot, Servo, and Scientific American.
+      - requirement: C
+        text: |-
+            Do a combination of reading and watching (about three hours total).
+            Then do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least two questions or ideas from each
+                  article or show.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions or ideas with your counselor.
+- requirement: 2
+  text: |-
+      Choose ONE STEM field of interest from the following list. Complete ALL
+      the requirements for a STEM exploration in that field. See <a href="../../explorations/">STEM
+      Explorations</a> for the requirements. (If you have
+      already completed a Venturing STEM exploration in one of these fields,
+      please choose a different field for this award.)
+      <div class="gap"></div>
+      Automotive Maintenance, Aviation, Canoeing, Cycling, Drafting,
+      Electricity, Energy, Farm Mechanics, Kayaking, Motorboating, Nuclear
+      Science, Railroading, Rowing, Small-Boat Sailing, Space Exploration,
+      Truck Transportation
+- requirement: 3
+  text: |-
+      Do ALL the following.
+  children:
+      - requirement: A
+        text: |-
+            Using the requirements from the above list of STEM explorations:
+        children:
+            - requirement: 1
+              text: |-
+                  Tell your counselor the energy source(s) used in these STEM
+                  explorations.
+              children:
+                  - detail: true
+                    text: |-
+                        <ul>
+                        <li>Automotive Maintenance - Gasoline, diesel fuel, electric, blended gasoline, biodiesel, hybrid</li>
+                        <li>Aviation - Aviation fuel and kerosene</li>
+                        <li>Canoeing - Human power</li>
+                        <li>Cycling - Human power</li>
+                        <li>Drafting - Human power, electricity</li>
+                        <li>Electricity - Electromagnetism, chemical</li>
+                        <li>Energy - Biomass digesters, cogeneration, fossil fuel power, fuel cells, geothermal power, nuclear power, solar power, tidal energy, wave energy, ocean thermal energy, wind</li>
+                        <li>Farm Mechanics - Diesel fuel</li>
+                        <li>Kayaking - Human power</li>
+                        <li>Motorboating - Gasoline, diesel fuel, blended gasoline, biodiesel</li>
+                        <li>Nuclear Science - Nuclear energy</li>
+                        <li>Railroading - Diesel fuel</li>
+                        <li>Small-Boat Sailing - Wind</li>
+                        <li>Space Exploration - Most common solid: ammonium perchlorate mixed with powdered aluminum
+                            <ul>
+                            <li>Liquids for first-stage rockets - RP-1</li>
+                            <li>Liquids for second-stage rockets - Liquid hydrogen, liquid oxygen</li>
+                            </ul>
+                        </li>
+                        <li>Truck Transportation - Diesel fuel</li>
+                        </ul>
+            - requirement: 2
+              text: |-
+                  Discuss the pros and cons of each energy source with your counselor.
+              children:
+                  - detail: true
+                    text: |-
+                        Helpful Links
+                        <div class="gap"></div>
+                        The following links are places to start when researching the pros and cons of fuel types.
+                        <div class="gap"></div>
+                        "Diesel Reborn": Edmunds.com<br>
+                        Website: <a href="https://www.edmunds.com/fuel-economy/diesel-reborn.html">https://www.edmunds.com/fuel-economy/diesel-reborn.html</a>
+                        <div class="gap"></div>
+                        "Aviation Jet Fuel Information": CSGNetwork.com<br />
+                        Website: http://www.csgnetwork.com/jetfuel.html
+      - requirement: B
+        text: |-
+            Make a list of sources of energy that may be possible to use in
+            transportation. (See the list earlier in this section.)
+      - requirement: C
+        text: |-
+            With your counselor:
+        children:
+            - requirement: 1
+              text: |-
+                  Discuss alternative sources of energy.
+            - requirement: 2
+              text: |-
+                  Discuss the pros and cons of using alternative energy
+                  sources.
+            # Removed broken links
+            # Fixed link to correct section for Alternative Fuel: Popular Mechanics
+            - detail: true
+              text: |-
+                  Helpful Links
+                  <div class="gap"></div>
+                  The following links are places to start when researching alternative fuels. You can also search "Air Force alternative fuels" using your favorite search engine. Be sure you have your parent's or guardian's permission to use the Internet.
+                  <div class="gap"></div>
+                  "Alternative & Advanced Vehicles": U.S. Department of Energy<br />
+                  Website: <a href="https://afdc.energy.gov/fuels/electricity-benefits">https://afdc.energy.gov/fuels/electricity-benefits</a>
+                  <div class="gap"></div>
+                  Energy Sources and Uses: U.S. Department of Energy, Energy Information Administration:<br />
+                  <a href="https://www.eia.gov/">https://www.eia.gov/</a>
+                  <div class="gap"></div>
+                  "Alternative Fuels": U.S. Department of Energy<br />
+                  Website: <a href="https://www.fueleconomy.gov/feg/current.shtml">https://www.fueleconomy.gov/feg/current.shtml</a>
+                  <div class="gap"></div>
+                  "Alternative Fuel": Popular Mechanics<br />
+                  Website: <a href="https://www.popularmechanics.com/cars/hybrid-electric/">https://www.popularmechanics.com/cars/hybrid-electric/</a>
+                  <div class="gap"></div>
+                  "Nuclear Power: U.S. Department of Energy, Energy Information Administration:<br />
+                  <a href="https://www.eia.gov/energyexplained/nuclear/">https://www.eia.gov/energyexplained/nuclear/</a>
+- requirement: 4
+  text: |-
+      Design and build a working model vehicle (not from a kit).
+  children:
+      - requirement: A
+        text: |-
+            Make drawings and specifications of your model vehicle before you
+            begin to build.
+      - requirement: B
+        text: |-
+            Include one of the following energy sources to power your vehicle
+            (do not use gasoline or other combustible fuel source): solar
+            power, wind power, or battery power.
+      - requirement: C
+        text: |-
+            Test your model. Then answer the following questions:
+        children:
+            - requirement: 1
+              text: |-
+                  How well did it perform?
+            - requirement: 2
+              text: |-
+                  Did it move as well as you thought it would?
+            - requirement: 3
+              text: |-
+                  Did you encounter problems? How can these problems be
+                  corrected?
+      - requirement: D
+        text: |-
+            Discuss with your counselor:
+        children:
+            - requirement: 1
+              text: |-
+                  Any difficulties you encountered in designing and building
+                  your model
+            - requirement: 2
+              text: |-
+                  Why you chose a particular energy source
+            - requirement: 3
+              text: |-
+                  Whether your model met your specifications
+            - requirement: 4
+              text: |-
+                  How you would modify your design to make it better
+- requirement: 5
+  text: |-
+      Discuss with your counselor how technology affects your everyday life.

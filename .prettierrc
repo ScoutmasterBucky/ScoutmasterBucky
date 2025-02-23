@@ -2,7 +2,3 @@ tabWidth: 4
 arrowParens: "avoid"
 endOfLine: "lf"
 singleQuote: true
-overrides:
-    - files: "*.yaml"
-      options:
-          tabWidth: 2
