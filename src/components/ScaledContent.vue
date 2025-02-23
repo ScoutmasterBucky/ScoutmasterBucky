@@ -67,10 +67,6 @@ const alignClass = ['left', 'right', 'center'].includes(align)
         width: 50%;
     }
 
-    .none {
-        width: 50%;
-    }
-
     .right,
     .left {
         float: none;
