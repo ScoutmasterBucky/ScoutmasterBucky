@@ -11,15 +11,14 @@ import meritBadges from '~/data/merit-badges.json';
 
     <p>
         Find information and resources on each of the
-        {{ Object.keys(meritBadges).length }} Scouts BSA merit badges offered by the Boy
-        Scouts of America. Biannual updates are released during the first
+        {{ Object.keys(meritBadges).length }} Scouts BSA merit badges offered by Scouting America. Biannual updates are released during the first
         quarter and third quarter of the year.
     </p>
 
     <p>
         The links below direct to the specific merit badge and its requirements
         as well as links to resources like the Scoutmaster Bucky Merit Badge
-        Workbook and our Class Preparation Page.
+        Workbook and Class Preparation Pages.
     </p>
 
     <p>
