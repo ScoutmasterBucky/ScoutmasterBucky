@@ -106,20 +106,20 @@
                   from which the projectile can be launched.)
             - detail: true
               text: |-
-                  Helpful Links<br />
-                  <br />
+                  Helpful Links
+                  <div class="gap"></div>
                   Be sure you have your parent's or guardian's permission
                   before using the Internet. Some of these websites require the
                   use of Java runtime environments. If your computer does not
                   support this program, you may not be able to visit those
-                  sites.<br />
-                  <br />
+                  sites.
+                  <div class="gap"></div>
                   Projectile Motion Applets<br />
                   Website: <a href="http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/Projectile/projectile.html">http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/Projectile/projectile.html</a>
-                  <br />
+                  <div class="gap"></div>
                   Fowler's Physics Applets<br />
                   Website: <a href="https://www.compadre.org/introphys/items/detail.cfm?ID=7823">https://www.compadre.org/introphys/items/detail.cfm?ID=7823</a>
-                  <br />
+                  <div class="gap"></div>
                   Java Applets on Physics<br />
                   Website: <a href="https://www.cco.caltech.edu/~phys1/java.html">https://www.cco.caltech.edu/~phys1/java.html</a>
             - requirement: 3
@@ -145,8 +145,8 @@
                         - detail: true
                           text: |-
                               Projectile motion is the curved path taken by an
-                              object that is fired, launched, or thrown.<br />
-                              <br />
+                              object that is fired, launched, or thrown.
+                              <div class="gap"></div>
                               See an archive of <a href="/nova-lab/scouts-bsa/shoot-projectile-motion.pdf">www.ncsec.org/cadre2/team1_2/pm.htm</a>.
                   - requirement: c
                     text: |-
@@ -164,12 +164,12 @@
                               stays in motion unless acted upon by an outside
                               force. If gravity did not act on the projectile's
                               path, the object would continue to move in the
-                              direction in which it was launched.<br />
-                              <br />
+                              direction in which it was launched.
+                              <div class="gap"></div>
                               Once the object has been launched, the only force
                               acting upon it is the force of gravity, which
-                              accelerates the object toward Earth.<br />
-                              <br />
+                              accelerates the object toward Earth.
+                              <div class="gap"></div>
                               Projectile motion is caused by the force of
                               gravity giving vertical acceleration to an object
                               that has horizontal velocity. (When an object is
@@ -185,8 +185,8 @@
                               combination of constant horizontal velocity and
                               increasing downward velocity due to the
                               acceleration of gravity is what gives a
-                              projectile its curved path.<br />
-                              <br />
+                              projectile its curved path.
+                              <div class="gap"></div>
                               <img src="/nova-lab/scouts-bsa/shoot-projectile-path.png" class="wide" />
                   - requirement: d
                     text: |-
@@ -204,10 +204,10 @@
                               parallel to Earth. (Determining forward velocity
                               can be done by separating the velocity into
                               horizontal and vertical components - like on a
-                              triangle - using vector resolution.)<br />
-                              <br />
-                              Forward velocity has a constant speed.<br />
-                              <br />
+                              triangle - using vector resolution.)
+                              <div class="gap"></div>
+                              Forward velocity has a constant speed.
+                              <div class="gap"></div>
                               Acceleration due to gravity slows down things
                               that are moving upward and speeds up things that
                               are moving downward. At most locations on Earth,
@@ -237,24 +237,24 @@
                   25038.72 mph. Escape velocity is proportional to the square
                   root of the ratio between the mass of the larger body and the
                   distance of the smaller object from the center of the larger
-                  body.<br />
-                  <br />
-                  Helpful Links<br />
-                  <br />
+                  body.
+                  <div class="gap"></div>
+                  Helpful Links
+                  <div class="gap"></div>
                   "Escape Velocity": Georgia State University<br />
-                  Website: <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/vesc.html">http://hyperphysics.phy-astr.gsu.edu/hbase/vesc.html</a><br />
-                  <br />
+                  Website: <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/vesc.html">http://hyperphysics.phy-astr.gsu.edu/hbase/vesc.html</a>
+                  <div class="gap"></div>
                   "Space Environment": Northwestern University<br />
-                  Website: <a href="https://www.qrg.northwestern.edu/projects/vss/docs/space-environment/2-whats-escape-velocity.html">https://www.qrg.northwestern.edu/projects/vss/docs/space-environment/2-whats-escape-velocity.html</a><br />
-                  <br />
+                  Website: <a href="https://www.qrg.northwestern.edu/projects/vss/docs/space-environment/2-whats-escape-velocity.html">https://www.qrg.northwestern.edu/projects/vss/docs/space-environment/2-whats-escape-velocity.html</a>
+                  <div class="gap"></div>
                   Orbital velocity is achieved when an object's horizontal
                   velocity balances the acceleration of gravity at that
                   location in space. An object that has orbital velocity (is in
                   orbit) continues to fall toward Earth as it travels away from
                   Earth, giving the object a circular path around Earth. The
                   object continually falls around Earth due to the combination
-                  of horizontal velocity and acceleration due to gravity.<br />
-                  <br />
+                  of horizontal velocity and acceleration due to gravity.
+                  <div class="gap"></div>
                   Terminal velocity is the point at which the acceleration of
                   gravity on an object matches the air resistance of the
                   object. Terminal velocity is affected by the weight of the
@@ -265,12 +265,12 @@
                   resistance. Later divers streamline dive by holding their
                   arms and legs tightly to their bodies and dive headfirst
                   toward Earth in order to catch the earlier divers in the
-                  air.)<br />
-                  <br />
+                  air.)
+                  <div class="gap"></div>
                   Note: If it were not for air resistance, all objects,
                   regardless of mass, size, orany other factor, would fall at
-                  the SAME velocity.<br />
-                  <br />
+                  the SAME velocity.
+                  <div class="gap"></div>
                   Watch astronauts David Scott and Jim Irwin do Galileo's
                   experiment on the moon.<br />
                   "NASA Lunar Feather Drop Home Page": NASA<br />
@@ -287,8 +287,8 @@
                         velocity easier to obtain and requiring less fuel. Not
                         all spacecraft are launched toward the east; the launch
                         direction depends also on the final orbit and purpose
-                        of the satellite.<br />
-                        <br />
+                        of the satellite.
+                        <div class="gap"></div>
                         In order for a spacecraft to rendezvous with another
                         spacecraft or other object in space, the orbits of both
                         objects must be taken into consideration. A launch
@@ -307,8 +307,8 @@
                         of whatever fluid the object is traveling through).
                         When the acceleration of gravity is balanced by air
                         resistance, the object continues to fall, but it does
-                        not increase its velocity.<br />
-                        <br />
+                        not increase its velocity.
+                        <div class="gap"></div>
                         "A person has a terminal velocity of about 200 mph when
                         balled up and about 125 mph with arms and feet fully
                         extended to catch the wind." Source: "Speed of a
@@ -326,17 +326,17 @@
             #- Fixed citation for link ("NRP" to "NPR")
             - detail: true
               text: |-
-                  Helpful Links<br />
-                  <br />
+                  Helpful Links
+                  <div class="gap"></div>
                   "Orbital Mechanics": Rocket & Space Technology<br />
-                  Website: <a href="http://www.braeunig.us/space/orbmech.htm">http://www.braeunig.us/space/orbmech.htm</a><br />
-                  <br />
+                  Website: <a href="http://www.braeunig.us/space/orbmech.htm">http://www.braeunig.us/space/orbmech.htm</a>
+                  <div class="gap"></div>
                   "What is a 'launch window'?": ESA<br />
-                  Website: <a href="https://www.esa.int/Science_Exploration/Space_Science/What_is_a_launch_window">https://www.esa.int/Science_Exploration/Space_Science/What_is_a_launch_window</a><br />
-                  <br />
+                  Website: <a href="https://www.esa.int/Science_Exploration/Space_Science/What_is_a_launch_window">https://www.esa.int/Science_Exploration/Space_Science/What_is_a_launch_window</a>
+                  <div class="gap"></div>
                   "Launch Windows: How NASA Decides When to Fly": NPR<br />
                   Website: <a href="https://www.npr.org/2005/07/25/4749663/launch-windows-how-nasa-decides-when-to-fly">https://www.npr.org/2005/07/25/4749663/launch-windows-how-nasa-decides-when-to-fly</a>
-                  <br />
+                  <div class="gap"></div>
                   "Terminal Velocity": NASA<br />
                   Website: <a href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/termvel/">https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/termvel/</a>
 - requirement: 4

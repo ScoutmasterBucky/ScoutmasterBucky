@@ -57,8 +57,8 @@
                   supervision.
             - detail: true
               text: |-
-                  Suggested reading and watching material might include the following.<br />
-                  <br />
+                  Suggested reading and watching material might include the following.
+                  <div class="gap"></div>
                   What is Programming?<br />
                   <ul>
                   <li><a href="https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro">https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro</a></li>
@@ -118,13 +118,13 @@
             - detail: true
               text: |-
                   Integer – a variable that holds only whole numbers (e.g., 56,
-                  7, -4, 23)<br />
-                  <br />
-                  Boolean – a variable that can hold only TRUE or FALSE<br />
-                  <br />
+                  7, -4, 23)
+                  <div class="gap"></div>
+                  Boolean – a variable that can hold only TRUE or FALSE
+                  <div class="gap"></div>
                   Floating Point – a variable that can hold any real number
-                  (e.g., 71.045)<br />
-                  <br />
+                  (e.g., 71.045)
+                  <div class="gap"></div>
                   Character variable – a variable that can hold only an
                   alphanumeric character (e.g., "A", "G", "&")
       - requirement: C
@@ -227,50 +227,50 @@
   children:
       - detail: true
         text: |-
-            Requirements 4, 5 and 6:<br />
-            <br />
+            Requirements 4, 5 and 6:
+            <div class="gap"></div>
             Scratch Jr. is free app for tablets and phones. -
-            <a href="https://www.scratchjr.org/">https://www.scratchjr.org/</a><br />
-            <br />
+            <a href="https://www.scratchjr.org/">https://www.scratchjr.org/</a>
+            <div class="gap"></div>
             App Lab is a great beginner programming environment where you make
             simple apps right in your browser -
-            <a href="https://code.org/tools/applab">https://code.org/tools/applab</a><br />
-            <br />
+            <a href="https://code.org/tools/applab">https://code.org/tools/applab</a>
+            <div class="gap"></div>
             Web Lab is a tool to help beginning programmers create their own
             webpages. -
-            <a href="https://code.org/educate/weblab">https://code.org/educate/weblab</a><br />
-            <br />
+            <a href="https://code.org/educate/weblab">https://code.org/educate/weblab</a>
+            <div class="gap"></div>
             Game Lab is programming environment that introduces how to make
             simple animations, interactive art and games using block
             programming. -
-            <a href="https://code.org/educate/gamelab">https://code.org/educate/gamelab</a><br />
-            <br />
+            <a href="https://code.org/educate/gamelab">https://code.org/educate/gamelab</a>
+            <div class="gap"></div>
             Tynker.com has a drag and drop block programing environment that
             allows you to write games, controlling robots and drones and
             interface to Minecraft -
-            <a href="https://www.tynker.com/">https://www.tynker.com/</a><br />
-            <br />
+            <a href="https://www.tynker.com/">https://www.tynker.com/</a>
+            <div class="gap"></div>
             Alice Programming Environment is a 3D interactive programming
             language. Alice 2 is not object oriented. Alice 3 is object
             oriented. -
-            <a href="https://www.alice.org/">https://www.alice.org/</a><br />
-            <br />
+            <a href="https://www.alice.org/">https://www.alice.org/</a>
+            <div class="gap"></div>
             Blocky is a visual code editor that uses interlocking blocks to
             represent code -
-            <a href="https://developers.google.com/blockly/">https://developers.google.com/blockly/</a><br />
-            <br />
+            <a href="https://developers.google.com/blockly/">https://developers.google.com/blockly/</a>
+            <div class="gap"></div>
             Python is a clear and easy way to learn object-oriented programming -
-            <a href="https://www.python.org/">https://www.python.org/</a><br />
-            <br />
+            <a href="https://www.python.org/">https://www.python.org/</a>
+            <div class="gap"></div>
             Palindrome -
-            <a href="https://en.wikipedia.org/wiki/Palindrome">https://en.wikipedia.org/wiki/Palindrome</a><br />
-            <br />
+            <a href="https://en.wikipedia.org/wiki/Palindrome">https://en.wikipedia.org/wiki/Palindrome</a>
+            <div class="gap"></div>
             Factorials -
-            <a href="https://www.mathsisfun.com/numbers/factorial.html">https://www.mathsisfun.com/numbers/factorial.html</a><br />
-            <br />
+            <a href="https://www.mathsisfun.com/numbers/factorial.html">https://www.mathsisfun.com/numbers/factorial.html</a>
+            <div class="gap"></div>
             Guess the Number Program -
-            <a href="https://inventwithpython.com/chapter4.html">https://inventwithpython.com/chapter4.html</a><br />
-            <br />
+            <a href="https://inventwithpython.com/chapter4.html">https://inventwithpython.com/chapter4.html</a>
+            <div class="gap"></div>
             Basics of Sorting Algorithms -
             <a href="https://www.geeksforgeeks.org/sorting-algorithms/">https://www.geeksforgeeks.org/sorting-algorithms/</a>
       - requirement: A
