@@ -9,8 +9,8 @@ const badges = (event.meritBadges || []).sort();
 <template>
     <div>
         <a v-for="badge in badges" :href="`/merit-badges/${badge}/`">
-            <img :src="meritBadges[badge].image">
-            {{ meritBadges[badge].name }}
+            <img :src="meritBadges[badge]?.image">
+            {{ meritBadges[badge]?.name ?? badge }}
         </a>
     </div>
 </template>
