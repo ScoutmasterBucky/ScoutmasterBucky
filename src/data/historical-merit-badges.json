@@ -1,0 +1,890 @@
+{
+  "aerodynamics": {
+    "name": "Aerodynamics",
+    "active": false
+  },
+  "aeronautics": {
+    "name": "Aeronautics",
+    "active": false
+  },
+  "agribusiness": {
+    "name": "Agribusiness",
+    "active": false
+  },
+  "agriculture": {
+    "name": "Agriculture",
+    "active": false
+  },
+  "airplane-design": {
+    "name": "Airplane Design",
+    "active": false
+  },
+  "airplane-structure": {
+    "name": "Airplane Structure",
+    "active": false
+  },
+  "american-business": {
+    "name": "American Business",
+    "active": true
+  },
+  "american-cultures": {
+    "name": "American Cultures",
+    "active": true
+  },
+  "american-heritage": {
+    "name": "American Heritage",
+    "active": true
+  },
+  "american-labor": {
+    "name": "American Labor",
+    "active": true
+  },
+  "angling": {
+    "name": "Angling",
+    "active": false
+  },
+  "animal-industry": {
+    "name": "Animal Industry",
+    "active": false
+  },
+  "animal-science": {
+    "name": "Animal Science",
+    "active": true
+  },
+  "animation": {
+    "name": "Animation",
+    "active": true
+  },
+  "archaeology": {
+    "name": "Archaeology",
+    "active": true
+  },
+  "archery": {
+    "name": "Archery",
+    "active": true
+  },
+  "architecture": {
+    "name": "Architecture",
+    "active": true
+  },
+  "art": {
+    "name": "Art",
+    "active": true
+  },
+  "astronomy": {
+    "name": "Astronomy",
+    "active": true
+  },
+  "athletics": {
+    "name": "Athletics",
+    "active": true
+  },
+  "atomic-energy": {
+    "name": "Atomic Energy",
+    "active": false
+  },
+  "auto-mechanics": {
+    "name": "Auto Mechanics",
+    "active": false
+  },
+  "automobiling": {
+    "name": "Automobiling",
+    "active": false
+  },
+  "automotive-maintenance": {
+    "name": "Automotive Maintenance",
+    "active": true
+  },
+  "automotive-safety": {
+    "name": "Automotive Safety",
+    "active": false
+  },
+  "aviation": {
+    "name": "Aviation",
+    "active": true
+  },
+  "backpacking": {
+    "name": "Backpacking",
+    "active": true
+  },
+  "basketry": {
+    "name": "Basketry",
+    "active": true
+  },
+  "bee-farming": {
+    "name": "Bee Farming",
+    "active": false
+  },
+  "bee-keeping": {
+    "name": "Bee Keeping",
+    "active": false
+  },
+  "beef-production": {
+    "name": "Beef Production",
+    "active": false
+  },
+  "beekeeping": {
+    "name": "Beekeeping",
+    "active": false
+  },
+  "bird-study": {
+    "name": "Bird Study",
+    "active": true
+  },
+  "blacksmithing": {
+    "name": "Blacksmithing",
+    "active": false
+  },
+  "bookbinding": {
+    "name": "Bookbinding",
+    "active": false
+  },
+  "botany": {
+    "name": "Botany",
+    "active": false
+  },
+  "bugling": {
+    "name": "Bugling",
+    "active": true
+  },
+  "business": {
+    "name": "Business",
+    "active": false
+  },
+  "camping": {
+    "name": "Camping",
+    "active": true
+  },
+  "canoeing": {
+    "name": "Canoeing",
+    "active": true
+  },
+  "carpentry": {
+    "name": "Carpentry",
+    "active": false
+  },
+  "cement-work": {
+    "name": "Cement Work",
+    "active": false
+  },
+  "chemistry": {
+    "name": "Chemistry",
+    "active": true
+  },
+  "chess": {
+    "name": "Chess",
+    "active": true
+  },
+  "cinematography": {
+    "name": "Cinematography",
+    "active": false
+  },
+  "citizenship": {
+    "name": "Citizenship",
+    "active": false
+  },
+  "citizenship-in-society": {
+    "name": "Citizenship in Society",
+    "active": true
+  },
+  "citizenship-in-the-community": {
+    "name": "Citizenship in the Community",
+    "active": true
+  },
+  "citizenship-in-the-home": {
+    "name": "Citizenship in the Home",
+    "active": false
+  },
+  "citizenship-in-the-nation": {
+    "name": "Citizenship in the Nation",
+    "active": true
+  },
+  "citizenship-in-the-world": {
+    "name": "Citizenship in the World",
+    "active": true
+  },
+  "citrus-fruit-culture": {
+    "name": "Citrus Fruit Culture",
+    "active": false
+  },
+  "civics": {
+    "name": "Civics",
+    "active": false
+  },
+  "climbing": {
+    "name": "Climbing",
+    "active": true
+  },
+  "coin-collecting": {
+    "name": "Coin Collecting",
+    "active": true
+  },
+  "collections": {
+    "name": "Collections",
+    "active": true
+  },
+  "communication": {
+    "name": "Communication",
+    "active": true
+  },
+  "composite-materials": {
+    "name": "Composite Materials",
+    "active": true
+  },
+  "computers": {
+    "name": "Computers",
+    "active": false
+  },
+  "conservation": {
+    "name": "Conservation",
+    "active": false
+  },
+  "conservation-of-natural-resources": {
+    "name": "Conservation of Natural Resources",
+    "active": false
+  },
+  "consumer-buying": {
+    "name": "Consumer Buying",
+    "active": false
+  },
+  "cooking": {
+    "name": "Cooking",
+    "active": true
+  },
+  "corn-farming": {
+    "name": "Corn Farming",
+    "active": false
+  },
+  "cotton-farming": {
+    "name": "Cotton Farming",
+    "active": false
+  },
+  "craftsmanship": {
+    "name": "Craftsmanship",
+    "active": false
+  },
+  "crime-prevention": {
+    "name": "Crime Prevention",
+    "active": true
+  },
+  "cycling": {
+    "name": "Cycling",
+    "active": true
+  },
+  "dairying": {
+    "name": "Dairying",
+    "active": false
+  },
+  "dentistry": {
+    "name": "Dentistry",
+    "active": true
+  },
+  "digital-technology": {
+    "name": "Digital Technology",
+    "active": true
+  },
+  "disabilities-awareness": {
+    "name": "Disabilities Awareness",
+    "active": true
+  },
+  "dog-care": {
+    "name": "Dog Care",
+    "active": true
+  },
+  "drafting": {
+    "name": "Drafting",
+    "active": true
+  },
+  "dramatics": {
+    "name": "Dramatics",
+    "active": false
+  },
+  "electricity": {
+    "name": "Electricity",
+    "active": true
+  },
+  "electronics": {
+    "name": "Electronics",
+    "active": true
+  },
+  "emergency-preparedness": {
+    "name": "Emergency Preparedness",
+    "active": true
+  },
+  "energy": {
+    "name": "Energy",
+    "active": true
+  },
+  "engineering": {
+    "name": "Engineering",
+    "active": true
+  },
+  "entrepreneurship": {
+    "name": "Entrepreneurship",
+    "active": true
+  },
+  "environmental-science": {
+    "name": "Environmental Science",
+    "active": true
+  },
+  "exploration": {
+    "name": "Exploration",
+    "active": true
+  },
+  "family-life": {
+    "name": "Family Life",
+    "active": true
+  },
+  "farm-and-ranch-management": {
+    "name": "Farm and Ranch Management",
+    "active": false
+  },
+  "farm-arrangement": {
+    "name": "Farm Arrangement",
+    "active": false
+  },
+  "farm-home-and-its-planning": {
+    "name": "Farm Home and its Planning",
+    "active": false
+  },
+  "farm-layout-and-building-arrangement": {
+    "name": "Farm Layout and Building Arrangement",
+    "active": false
+  },
+  "farm-mechanics": {
+    "name": "Farm Mechanics",
+    "active": true
+  },
+  "farm-records": {
+    "name": "Farm Records",
+    "active": false
+  },
+  "farm-records-and-bookkeeping": {
+    "name": "Farm Records and Bookkeeping",
+    "active": false
+  },
+  "fingerprinting": {
+    "name": "Fingerprinting",
+    "active": true
+  },
+  "fire-safety": {
+    "name": "Fire Safety",
+    "active": true
+  },
+  "firemanship": {
+    "name": "Firemanship",
+    "active": false
+  },
+  "first-aid": {
+    "name": "First Aid",
+    "active": true
+  },
+  "first-aid-to-animals": {
+    "name": "First Aid to Animals",
+    "active": false
+  },
+  "fish-and-wildlife-management": {
+    "name": "Fish and Wildlife Management",
+    "active": true
+  },
+  "fishing": {
+    "name": "Fishing",
+    "active": true
+  },
+  "fly-fishing": {
+    "name": "Fly Fishing",
+    "active": true
+  },
+  "food-systems": {
+    "name": "Food Systems",
+    "active": false
+  },
+  "forage-crops": {
+    "name": "Forage Crops",
+    "active": false
+  },
+  "forestry": {
+    "name": "Forestry",
+    "active": true
+  },
+  "foundry-practice": {
+    "name": "Foundry Practice",
+    "active": false
+  },
+  "fruit-and-nut-growing": {
+    "name": "Fruit and Nut Growing",
+    "active": false
+  },
+  "fruit-culture": {
+    "name": "Fruit Culture",
+    "active": false
+  },
+  "game-design": {
+    "name": "Game Design",
+    "active": true
+  },
+  "gardening": {
+    "name": "Gardening",
+    "active": true
+  },
+  "genealogy": {
+    "name": "Genealogy",
+    "active": true
+  },
+  "general-science": {
+    "name": "General Science",
+    "active": false
+  },
+  "geocaching": {
+    "name": "Geocaching",
+    "active": true
+  },
+  "geology": {
+    "name": "Geology",
+    "active": true
+  },
+  "golf": {
+    "name": "Golf",
+    "active": true
+  },
+  "graphic-arts": {
+    "name": "Graphic Arts",
+    "active": true
+  },
+  "grasses-legumes-and-forage-crops": {
+    "name": "Grasses, Legumes, and Forage Crops",
+    "active": false
+  },
+  "handicapped-awareness": {
+    "name": "Handicapped Awareness",
+    "active": false
+  },
+  "handicraft": {
+    "name": "Handicraft",
+    "active": false
+  },
+  "health-care-professions": {
+    "name": "Health Care Professions",
+    "active": true
+  },
+  "hiking": {
+    "name": "Hiking",
+    "active": true
+  },
+  "hog-and-pork-production": {
+    "name": "Hog and Pork Production",
+    "active": false
+  },
+  "hog-production": {
+    "name": "Hog Production",
+    "active": false
+  },
+  "home-repairs": {
+    "name": "Home Repairs",
+    "active": true
+  },
+  "horsemanship": {
+    "name": "Horsemanship",
+    "active": true
+  },
+  "indian-lore": {
+    "name": "Indian Lore",
+    "active": true
+  },
+  "insect-life": {
+    "name": "Insect Life",
+    "active": false
+  },
+  "insect-study": {
+    "name": "Insect Study",
+    "active": true
+  },
+  "interpreting": {
+    "name": "Interpreting",
+    "active": false
+  },
+  "inventing": {
+    "name": "Inventing",
+    "active": true
+  },
+  "invention": {
+    "name": "Invention",
+    "active": false
+  },
+  "journalism": {
+    "name": "Journalism",
+    "active": true
+  },
+  "kayaking": {
+    "name": "Kayaking",
+    "active": true
+  },
+  "landscape-architecture": {
+    "name": "Landscape Architecture",
+    "active": true
+  },
+  "landscape-gardening": {
+    "name": "Landscape Gardening",
+    "active": false
+  },
+  "landscaping": {
+    "name": "Landscaping",
+    "active": false
+  },
+  "law": {
+    "name": "Law",
+    "active": true
+  },
+  "leathercraft": {
+    "name": "Leathercraft",
+    "active": false
+  },
+  "leatherwork": {
+    "name": "Leatherwork",
+    "active": true
+  },
+  "lifesaving": {
+    "name": "Lifesaving",
+    "active": true
+  },
+  "machinery": {
+    "name": "Machinery",
+    "active": false
+  },
+  "mammal-study": {
+    "name": "Mammal Study",
+    "active": true
+  },
+  "mammals": {
+    "name": "Mammals",
+    "active": false
+  },
+  "markmanship": {
+    "name": "Markmanship",
+    "active": false
+  },
+  "masonry": {
+    "name": "Masonry",
+    "active": false
+  },
+  "mechanical-drawing": {
+    "name": "Mechanical Drawing",
+    "active": false
+  },
+  "medicine": {
+    "name": "Medicine",
+    "active": false
+  },
+  "metallurgy": {
+    "name": "Metallurgy",
+    "active": false
+  },
+  "metals-engineering": {
+    "name": "Metals Engineering",
+    "active": false
+  },
+  "metalwork": {
+    "name": "Metalwork",
+    "active": true
+  },
+  "mining": {
+    "name": "Mining",
+    "active": false
+  },
+  "mining-in-society": {
+    "name": "Mining in Society",
+    "active": true
+  },
+  "model-design-and-building": {
+    "name": "Model Design and Building",
+    "active": true
+  },
+  "motorboating": {
+    "name": "Motorboating",
+    "active": true
+  },
+  "moviemaking": {
+    "name": "Moviemaking",
+    "active": true
+  },
+  "multisport": {
+    "name": "Multisport",
+    "active": true
+  },
+  "music": {
+    "name": "Music",
+    "active": true
+  },
+  "nature": {
+    "name": "Nature",
+    "active": true
+  },
+  "nuclear-science": {
+    "name": "Nuclear Science",
+    "active": true
+  },
+  "nut-culture": {
+    "name": "Nut Culture",
+    "active": false
+  },
+  "oceanography": {
+    "name": "Oceanography",
+    "active": true
+  },
+  "orienteering": {
+    "name": "Orienteering",
+    "active": true
+  },
+  "ornithology": {
+    "name": "Ornithology",
+    "active": false
+  },
+  "painting": {
+    "name": "Painting",
+    "active": true
+  },
+  "pathfinding": {
+    "name": "Pathfinding",
+    "active": false
+  },
+  "personal-finances": {
+    "name": "Personal Finances",
+    "active": false
+  },
+  "personal-fitness": {
+    "name": "Personal Fitness",
+    "active": true
+  },
+  "personal-health": {
+    "name": "Personal Health",
+    "active": false
+  },
+  "personal-management": {
+    "name": "Personal Management",
+    "active": true
+  },
+  "pets": {
+    "name": "Pets",
+    "active": true
+  },
+  "photography": {
+    "name": "Photography",
+    "active": true
+  },
+  "physical-development": {
+    "name": "Physical Development",
+    "active": false
+  },
+  "pigeon-raising": {
+    "name": "Pigeon Raising",
+    "active": false
+  },
+  "pioneering": {
+    "name": "Pioneering",
+    "active": true
+  },
+  "plant-science": {
+    "name": "Plant Science",
+    "active": true
+  },
+  "plumbing": {
+    "name": "Plumbing",
+    "active": true
+  },
+  "pottery": {
+    "name": "Pottery",
+    "active": true
+  },
+  "poultry-keeping": {
+    "name": "Poultry Keeping",
+    "active": false
+  },
+  "printing": {
+    "name": "Printing",
+    "active": false
+  },
+  "programming": {
+    "name": "Programming",
+    "active": true
+  },
+  "public-health": {
+    "name": "Public Health",
+    "active": true
+  },
+  "public-speaking": {
+    "name": "Public Speaking",
+    "active": true
+  },
+  "pulp-and-paper": {
+    "name": "Pulp and Paper",
+    "active": true
+  },
+  "rabbit-raising": {
+    "name": "Rabbit Raising",
+    "active": false
+  },
+  "radio": {
+    "name": "Radio",
+    "active": true
+  },
+  "railroading": {
+    "name": "Railroading",
+    "active": true
+  },
+  "reading": {
+    "name": "Reading",
+    "active": true
+  },
+  "reptile-and-amphibian-study": {
+    "name": "Reptile and Amphibian Study",
+    "active": true
+  },
+  "reptile-study": {
+    "name": "Reptile Study",
+    "active": false
+  },
+  "rifle-and-shotgun-shooting": {
+    "name": "Rifle and Shotgun Shooting",
+    "active": false
+  },
+  "rifle-shooting": {
+    "name": "Rifle Shooting",
+    "active": true
+  },
+  "robotics": {
+    "name": "Robotics",
+    "active": true
+  },
+  "rocks-and-minerals": {
+    "name": "Rocks and Minerals",
+    "active": false
+  },
+  "rowing": {
+    "name": "Rowing",
+    "active": true
+  },
+  "safety": {
+    "name": "Safety",
+    "active": true
+  },
+  "salesmanship": {
+    "name": "Salesmanship",
+    "active": true
+  },
+  "scholarship": {
+    "name": "Scholarship",
+    "active": true
+  },
+  "scouting-heritage": {
+    "name": "Scouting Heritage",
+    "active": true
+  },
+  "scuba-diving": {
+    "name": "Scuba Diving",
+    "active": true
+  },
+  "sculpture": {
+    "name": "Sculpture",
+    "active": true
+  },
+  "search-and-rescue": {
+    "name": "Search and Rescue",
+    "active": true
+  },
+  "shotgun-shooting": {
+    "name": "Shotgun Shooting",
+    "active": true
+  },
+  "signs-signals-and-codes": {
+    "name": "Signs, Signals, and Codes",
+    "active": true
+  },
+  "skating": {
+    "name": "Skating",
+    "active": true
+  },
+  "small-boat-sailing": {
+    "name": "Small-Boat Sailing",
+    "active": true
+  },
+  "snow-sports": {
+    "name": "Snow Sports",
+    "active": true
+  },
+  "soil-and-water-conservation": {
+    "name": "Soil and Water Conservation",
+    "active": true
+  },
+  "space-exploration": {
+    "name": "Space Exploration",
+    "active": true
+  },
+  "sports": {
+    "name": "Sports",
+    "active": true
+  },
+  "stamp-collecting": {
+    "name": "Stamp Collecting",
+    "active": true
+  },
+  "surveying": {
+    "name": "Surveying",
+    "active": true
+  },
+  "sustainability": {
+    "name": "Sustainability",
+    "active": true
+  },
+  "swimming": {
+    "name": "Swimming",
+    "active": true
+  },
+  "textile": {
+    "name": "Textile",
+    "active": true
+  },
+  "theater": {
+    "name": "Theater",
+    "active": true
+  },
+  "traffic-safety": {
+    "name": "Traffic Safety",
+    "active": true
+  },
+  "truck-transportation": {
+    "name": "Truck Transportation",
+    "active": true
+  },
+  "veterinary-medicine": {
+    "name": "Veterinary Medicine",
+    "active": true
+  },
+  "water-sports": {
+    "name": "Water Sports",
+    "active": true
+  },
+  "weather": {
+    "name": "Weather",
+    "active": true
+  },
+  "welding": {
+    "name": "Welding",
+    "active": true
+  },
+  "whitewater": {
+    "name": "Whitewater",
+    "active": true
+  },
+  "wilderness-survival": {
+    "name": "Wilderness Survival",
+    "active": true
+  },
+  "wood-carving": {
+    "name": "Wood Carving",
+    "active": true
+  },
+  "woodwork": {
+    "name": "Woodwork",
+    "active": true
+  }
+}

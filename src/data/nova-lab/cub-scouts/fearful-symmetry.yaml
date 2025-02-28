@@ -1,0 +1,241 @@
+- requirement: 1
+  text: |-
+      Choose A or B or C and complete ALL the requirements.
+  children:
+      - requirement: A
+        text: |-
+            Watch an episode or episodes (about one hour total) of a show that
+            involves symmetry, mirrors, or artistic patterns. Then do the
+            following:
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least two questions or ideas from what you
+                  watched.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions or ideas with your counselor.
+      - requirement: B
+        text: |-
+            Read (about one hour total) about anything that involves symmetry,
+            mirrors, or artistic patterns. Then do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least two questions or ideas from what you
+                  read.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions or ideas with your counselor.
+      - requirement: C
+        text: |-
+            Do a combination of reading and watching (about one hour total)
+            about anything that involves symmetry, mirrors, or artistic
+            patterns. Then do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least two questions or ideas from what you
+                  read and watched.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions or ideas with your counselor.
+- requirement: 2
+  text: |-
+      Complete ONE adventure from the following list, or complete option A or
+      B. (If you choose an adventure, choose one that you have not previously
+      earned.) Discuss with your counselor what kind of science, technology,
+      engineering, or math was used in the adventure.
+      <ul>
+      <li><b>Wolf Cub Scouts:</b> Air of the Wolf, Code of the Wolf
+          <ul>
+            <li><b>Air of the Wolf:</b> The symmetry of flying objects has a big
+            impact on how they fly: Does the paper airplane veer to the
+            left? Does it go up instead of down? These concerns also
+            apply to kites, sleds, and boats.</li>
+            <li><b>Code of the Wolf:</b> Many of the shapes we see in nature
+            exhibit symmetry of some kind (leaves, flowers, animals);
+            indeed, they often have more interesting symmetry than the
+            "pure" squares and circles we draw!  Predictions always
+            depend on symmetry. We assume the future will look something
+            like the past.</li>
+          </ul>
+      </li>
+      <li><b>Bear Cub Scouts:</b> Forensics, Marble Madness
+          <ul>
+            <li><b>Forensics:</b> The crystal structure of various substances
+            (salt, sugar, etc.) is an important way of distinguishing
+            them. Lack of symmetry between two shoe imprints from the
+            same pair is an important way of distinguishing an individual
+            pair worn by a particular person.</li>
+            <li><b>Marble Madness:</b> Notice the most important fact about
+            marbles: They roll because they have spherical symmetry, an
+            infinite number of symmetrical sides. You also likely created
+            some symmetries in your marble courses. What makes a marble
+            game "fair"?</li>
+      </li>
+      <li><b>Webelos Scouts:</b> Art Explosion, Build It
+          <ul>
+            <li><b>Art Explosion:</b> Notice all the symmetry you can - and also
+            where a symmetry you expect is lacking - in the art that you
+            see and make. Symmetry tells the viewer what to expect. Lack
+            of symmetry can be surprising.</li>
+            <li><b>Build It:</b> Look at the symmetry of what you made. Did you
+            plan for this?</li>
+          </ul>
+      </li>
+      </ul>
+      - detail: true
+        text: |-
+            <b>Option A:</b> Complete all of the following:
+      - requirement: a
+        text: |-
+          Explain the difference between the symmetry of the flower of a
+          geranium and the symmetry of the flower of herbaceous periwinkle.
+      - requirement: b
+        text: |-
+          Explain the difference in leaf arrangement (the pattern of where
+          leaves appear on the stem) between a maple tree and a sweetgum tree.
+      - requirement: c
+        text: |-
+          Find another pair of plants that you can distinguish based on some
+          difference in symmetry.
+      - detail: true
+        text: |-
+            <b>Option B:</b> Complete all of the following:
+      - requirement: a
+        text: |-
+          Using toothpicks and colored marshmallows, or other appropriate
+          materials, make a model of the crystal structure of olivine.
+      - requirement: b
+        text: |-
+          Using toothpicks and colored marshmallows, or other appropriate
+          materials, make a model of the crystal structure of halite.
+      - requirement: c
+        text: |-
+          Use your models to guess which of the two minerals is harder.
+- requirement: 3
+  text: |-
+      Choose TWO options from A or B or C or D or E , and complete ALL the
+      requirements for the options you choose.
+  children:
+      - requirement: A
+        text: |-
+            Make a paper lantern.
+        children:
+            - requirement: 1
+              text: |-
+                  Fold a large piece of paper in quarters lengthwise.
+            - requirement: 2
+              text: |-
+                  Cut decorative or symbolic shapes into the two folded edges.
+            - requirement: 3
+              text: |-
+                  Unfold, tape the two edges of the paper together, and smooth
+                  into a cylinder. Hang by a string.
+      - requirement: B
+        text: |-
+            Learn about the kolam artwork of southern India.
+        children:
+            - requirement: 1
+              text: |-
+                  Look at some pictures of kolams. Find as many similarities as
+                  possible within each kolam. Is there a repeated pattern? If
+                  you turn it a little, do you get the same picture? If you
+                  look at it in a mirror, do you get the same picture?
+            - requirement: 2
+              text: |-
+                  Use sand, chalk dust, flour, or some other material to make a
+                  kolam of your own.
+              children:
+                  - detail: true
+                    text: |-
+                        Here are some kolams (original artwork courtesy of Sunita Vatuk):
+                        <div class="gap"></div>
+                        <img src="/nova-lab/cub-scouts/fearful-symmetry-1.png" class="wide">
+                        <div class="gap"></div>
+                        <img src="/nova-lab/cub-scouts/fearful-symmetry-2.png" class="wide">
+                        <div class="gap"></div>
+                        <img src="/nova-lab/cub-scouts/fearful-symmetry-3.png" class="wide">
+                        <div class="gap"></div>
+                        <img src="/nova-lab/cub-scouts/fearful-symmetry-4.png" class="wide">
+      - requirement: C
+        text: |-
+            Learn about the litema wall decorations from Lesotho and South Africa.
+        children:
+            - detail: true
+              text: |-
+                  People in certain regions of Lesotho and South Africa
+                  decorate the outside walls of their houses by spreading a mud
+                  plaster on the wall and then using their fingers to engrave a
+                  pattern in the wet plaster. They first engrave a network of
+                  squares, and then engrave the same basic pattern (possibly
+                  rotated or reflected) in each square. Good examples are easy
+                  to find on the internet, but "African Painted Houses: Basotho
+                  Dwellings of Southern Africa" by Gary N. van Wyk (Abrams,
+                  1998) also has many beautiful examples.
+            - requirement: 1
+              text: |-
+                  Look at some pictures of litema. What does one basic tile
+                  look like? In how many ways can you see that tile arranged
+                  (turned a different direction, flipped backward, etc.)
+            - requirement: 2
+              text: |-
+                  Use clay, paper, or some other material to make a litema of
+                  your own.
+      - requirement: D
+        text: |-
+            Learn about the design of Navajo rugs.
+        children:
+            - detail: true
+              text: |-
+                  The Navajo people of the southwestern part of the United
+                  States have a long tradition of weaving rugs and blankets
+                  with various repeating designs. While many fine examples can
+                  be found on the internet, "Navajo Textiles: The William
+                  Randolph Hearst Collection" by Nancy J. Blomberg (University
+                  of Arizona Press, 1994) provides many examples.
+            - requirement: 1
+              text: |-
+                  Look at some pictures of Navajo rugs. Find as many
+                  similarities as possible within each rug. Is there a repeated
+                  pattern? Is there a mirror image? How many?
+            - requirement: 2
+              text: |-
+                  Using different colors of paper, or other materials, make
+                  your own Navajo-like rug.
+      - requirement: E
+        text: |-
+            Learn about Seminole or Miccosukee patchwork designs.
+        children:
+            - detail: true
+              text: |-
+                  In the early 20th century, the Seminole and Miccosukee people
+                  of Florida developed a style of clothing decorated by sewing
+                  together blocks of fabric with contrasting colors in an
+                  alternating design. This distinctive art form was, for a long
+                  time, an important source of income for the communities where
+                  it was made. There are many examples available on the
+                  internet. The book "Patchwork: Seminole and Miccosukee Art
+                  and Activities" by Dorothy Downs (Pineapple Press, 2005)
+                  contains examples and the story of the art form and is
+                  accessible to Cub Scout–age children.
+            - requirement: 1
+              text: |-
+                  Look at some pictures of Seminole or Miccosukee patchwork.
+                  Find as many similarities as possible within each piece. What
+                  does a basic block of each pattern look like? How many
+                  different basic blocks are used in the design?
+            - requirement: 2
+              text: |-
+                  Using different colors of paper, or other materials, make
+                  your own Seminole-like patchwork.
+- requirement: 4
+  text: |-
+      Visit a place where symmetry is important (such as an art exhibit,
+      building site, or printer) or visit with a person who works with symmetry
+      (such as an artist, interior designer, or landscape architect). Discuss
+      with your counselor the symmetry or ideas of balance involved.
+- requirement: 5
+  text: |-
+      Discuss with your counselor how symmetry impacts your everyday life.

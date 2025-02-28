@@ -1,0 +1,126 @@
+/* color palette */
+.theme-dnd {
+    --palette-black: #000;
+    --palette-gray: #1c2b2b;
+    --palette-white: #fff;
+    --palette-red: red;
+}
+
+/* semantic color variables for this project */
+.theme-dnd {
+    --banner-background: var(--palette-gray);
+    --banner-text-color: var(--palette-red);
+    --footer-text-color: var(--palette-red);
+    --link-color: var(--palette-red);
+    --heading-1-background: var(--palette-gray);
+    --heading-1-text-color: var(--palette-red);
+    --heading-1-border: none;
+    --heading-2-background: var(--palette-gray);
+    --heading-2-text-color: var(--palette-red);
+    --heading-2-border: none;
+    --heading-3-border: 2px solid var(--palette-gray);
+    --heading-3-text-color: var(--palette-red);
+    --page-margin-background: var(--palette-black);
+    --page-background: var(--palette-black);
+    --text-color: var(--palette-white);
+    --tile-border: 2px solid var(--palette-white);
+    --tile-hover-background: var(--palette-gray);
+}
+
+.theme-dnd {
+    color: var(--text-color);
+}
+
+@media print {
+    .theme-dnd {
+        color: initial;
+    }
+}
+
+h1 {
+    background: var(--heading-1-background);
+    color: var(--heading-1-text-color);
+    padding: 6px 10px;
+    text-transform: uppercase;
+    margin: 0.6em 0;
+    font-size: 2em;
+    clear: both;
+    border-radius: 0.2em;
+    border: var(--heading-1-border);
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 2em;
+    }
+}
+
+@media print {
+    h1 {
+        color: black;
+        border-color: black;
+        background-color: transparent;
+        background-image: none;
+    }
+}
+
+h2 {
+    margin-top: 0.9em;
+    margin-bottom: 0.5em;
+    background: var(--heading-2-background);
+    color: var(--heading-2-text-color);
+    padding: 6px 10px;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    clear: both;
+    font-weight: bold;
+    border-radius: 0.2em;
+    border: var(--heading-2-border);
+}
+
+@media (max-width: 480px) {
+    h2 {
+        font-size: 1.2em;
+    }
+}
+
+@media print {
+    h2 {
+        color: black;
+        border-color: black;
+        background-color: transparent;
+        background-image: none;
+    }
+}
+
+h3 {
+    color: var(--heading-3-text-color);
+    text-transform: uppercase;
+    display: flex;
+    font-size: 16px;
+    font-weight: bold;
+    justify-content: center;
+    margin: 1em auto;
+    padding: 1em 0;
+    border-top: var(--heading-3-border);
+    border-bottom: var(--heading-3-border);
+    width: 95%;
+    clear: both;
+}
+
+@media print {
+    h3 {
+        color: black;
+        border-color: black;
+    }
+}
+
+a {
+    color: var(--link-color);
+}
+
+@media print {
+    a {
+        color: initial;
+    }
+}

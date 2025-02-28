@@ -1,0 +1,136 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    position: relative;
+}
+
+p {
+    margin: revert;
+}
+
+@media (min-width: 768px) {
+    p {
+        text-align: justify;
+    }
+}
+
+body {
+    overflow-x: hidden;
+    line-height: 1.4;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.wide {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.gap {
+    height: 0.5em;
+}
+
+sup {
+    font-style: italic;
+    line-height: 1;
+}
+
+@media print {
+    .unprintable {
+        display: none !important;
+    }
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src:
+        local('Open Sans Italic'),
+        local('OpenSans-Italic'),
+        url(/fonts/opensans-italic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src:
+        local('Open Sans Bold Italic'),
+        local('OpenSans-BoldItalic'),
+        url(/fonts/opensans-bolditalic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src:
+        local('Open Sans Regular'),
+        local('OpenSans-Regular'),
+        url(/fonts/opensans-regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src:
+        local('Open Sans Bold'),
+        local('OpenSans-Bold'),
+        url(/fonts/opensans-bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Kalam';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src:
+        local('Kalam'),
+        local('Kalam-Regular'),
+        url(/fonts/kalam.ttf) format('truetype');
+}
+
+.kalam {
+    font-family: 'Kalam', sans-serif;
+}
+
+@font-face {
+    font-family: 'Offside';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src:
+        local('Offside'),
+        local('Offside-Regular'),
+        url(/fonts/offside.ttf) format('truetype');
+}
+
+.offside {
+    font-family: 'Offside', sans-serif;
+}
+
+@media (min-width: 768.0001px) and (max-width: 1024px) {
+    .columns {
+        column-count: 2;
+    }
+}
+
+@media (min-width: 1024.001px) {
+    .columns {
+        column-count: 3;
+    }
+}

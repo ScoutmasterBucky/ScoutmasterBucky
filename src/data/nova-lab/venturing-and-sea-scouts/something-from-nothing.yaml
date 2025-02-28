@@ -1,0 +1,281 @@
+- requirement: 1
+  text: |-
+      Choose A or B or C and complete ALL the requirements.
+  children:
+      - requirement: A
+        text: |-
+            Watch not less than three hours total of shows or documentaries
+            related to 3D printing, additive manufacturing, CAD modeling, and
+            other related fields. Then do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least five questions or ideas from the
+                  shows you watched.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions or ideas with your counselor
+                  that relate to 3D printing and other additive manufacturing
+                  processes.
+            # Fixed typo "Netflilx" to "Netflix"
+            - detail: true
+              text: |-
+                  Examples:
+                  <div class="gap"></div>
+                  Print the Legend (Netflix)
+                  <div class="gap"></div>
+                  3D Printing is Changing the World<br />
+                  <a href="https://youtu.be/GV8zPtqOyqg">https://youtu.be/GV8zPtqOyqg</a>
+                  <div class="gap"></div>
+                  What is additive manufacturing? GE Additive<br />
+                  <a href="https://youtu.be/EHvO-MlzAIM">https://youtu.be/EHvO-MlzAIM</a>
+                  <div class="gap"></div>
+                  An Introduction to Additive Manufacturing, Prof. John Hart, MIT<br />
+                  <a href="https://youtu.be/ICjQ0UzE2Ao">https://youtu.be/ICjQ0UzE2Ao</a>
+      - requirement: B
+        text: |-
+            Read not less than three hours total about anything related to 3D
+            printing, additive manufacturing, and CAD modeling.
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least five questions or ideas from the
+                  material you read.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions or ideas with your counselor
+                  that relate to 3D printing and other additive manufacturing
+                  processes.
+            - detail: true
+              text: |-
+                  Examples:
+                  <div class="gap"></div>
+                  Magazines:<br />
+                  All3DP <a href="https://all3dp.com/">https://all3dp.com/</a><br />
+                  3D Printing Magazine<br />
+                  MANUFACTUR3D<br />
+                  TCT<br />
+                  3D Metal Printing<br />
+                  MAKE<br />
+                  3D MAKE & PRINT
+      - requirement: C
+        text: |-
+            Do a combination of reading and watching not less than three hours.
+            Then do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least five questions or ideas from the
+                  material you read.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions or ideas that relate to 3D
+                  printing and other additive manufacturing processes with your
+                  counselor.
+- requirement: 2
+  text: |-
+      Choose ONE STEM field of interest from the following list. Complete ALL
+      the requirements for a <a href="../../explorations/">Venturing or Sea Scout STEM
+      exploration</a> in that field. (If you have already
+      completed a Venturing or Sea Scout STEM Exploration in one of these
+      fields, please choose a different field for this award.)
+      <div class="gap"></div>
+      Additive Manufacturing, CAD Modeling, Composite Materials, Inventing,
+      Modern Manufacturing, Polymers and Plastics, Sculpting, Wood Carving,
+      Woodworking
+- requirement: 3
+  text: |-
+      Choose three activities from the following list and complete all the
+      requirements.
+  children:
+      - requirement: A
+        text: |-
+            Design a Model
+        children:
+            - requirement: 1
+              text: |-
+                  Design a model of your choosing in a CAD program. Some common
+                  CAD programs with free student versions include Autodesk
+                  Inventor, Catia, CREO, Google SketchUp, Solid Works and
+                  Tinkercad.
+            - requirement: 2
+              text: |-
+                  With your counselor discuss what you designed and what its
+                  purpose was. Discuss what modifications you could make to the
+                  design to make it easier to 3D print.
+            # Moved these comments here to somewhat match the intent
+            - detail: true
+              text: |-
+                  To select an item to design, suggest the scout look around
+                  their house for common household objects that 3D printing can
+                  provide – a washer to repair a leaking faucet, a kitchen
+                  accessory, a desk storage container, an extra coat hanger,
+                  cell phone holder and sound amplifier, bag clips, etc. They
+                  could also look through a database of pre-designed objects
+                  ready for printing, such as <a href="https://www.thingiverse.com/">https://www.thingiverse.com/</a>,
+                  for ideas, but need to come up with an original design in
+                  order to meet this requirement.
+      - requirement: B
+        text: |-
+            Investigate Model Orientation
+        children:
+            - requirement: 1
+              text: |-
+                  Using either the model you made in part A or a different
+                  model, load it into the 3D printing software of your choice.
+                  Adjust the orientation of the print and note how the print
+                  time changes and how much support material is needed at each
+                  orientation.
+            - requirement: 2
+              text: |-
+                  Discuss with your counselor why the orientation changes the
+                  print time required, as well as the amount of support
+                  material required. Does the fastest print time require the
+                  most support material? What is the best orientation for your
+                  specific design? Why does the support material change with
+                  different orientations, which gives the most efficient
+                  results? Why does print time change with different
+                  orientations, which gives the fastest results? Why would you
+                  not use the orientation with the fastest print time or lowest
+                  material cost?
+            - requirement: 3
+              text: |-
+                  Print your model.
+      - requirement: C
+        text: |-
+            Investigate Model Settings
+        children:
+            - requirement: 1
+              text: |-
+                  Using either the model you made in part A or a different
+                  model, load it into the printing software of your choice.
+                  Adjust the model wall thickness, infill, and layer thickness,
+                  and note any changes in the amount of material used and build
+                  time.
+            - requirement: 2
+              text: |-
+                  Discuss with your Counselor how each setting affects the
+                  print times, what causes the least or most amount of print
+                  time. Is there a linear relationship between the settings and
+                  print time as the values are increased? Similarly, discuss
+                  how the model settings affect the amount of material. What
+                  combination of settings would you use for different projects?
+                  What other settings are there that were not investigated?
+            - requirement: 3
+              text: |-
+                  Print your model on any setting you wish.
+      - requirement: D
+        text: |-
+            Research different printing materials
+        children:
+            - requirement: 1
+              text: |-
+                  What different plastics are commonly used in 3D printers and
+                  what are their main differences? What sort of projects would
+                  each material be needed for? Which material is most common
+                  and how does the pricing vary between the materials?
+            - requirement: 2
+              text: |-
+                  Investigate different metals used in 3D printing and how the
+                  layers are deposited. What companies currently use metal 3D
+                  printing and in what sort of products is this process used?
+            - requirement: 3
+              text: |-
+                  Research other non-metal/non-plastic materials used in 3D
+                  printing. What are they used for and how widespread is their
+                  use? (Novelty or Professional)
+            - requirement: 4
+              text: |-
+                  Share your findings with your counselor.
+      - requirement: E
+        text: |-
+            Research different printing methods
+        children:
+            - requirement: 1
+              text: |-
+                  Identify 3 different methods of 3D printing (these do not all
+                  have to apply to plastics and desktop printers).
+            - requirement: 2
+              text: |-
+                  Determine what material is used for each printing method.
+                  Compare the methods against each other in terms of time to
+                  print, cost of print, pre-work, and post-work. What method
+                  is preferred for different printing jobs?
+            - requirement: 3
+              text: |-
+                  Share your findings with your counselor.
+      - requirement: F
+        text: |-
+            Examine the components of a 3D printer
+        children:
+            - requirement: 1
+              text: |-
+                  Identify 4 key parts of a 3D printer.
+            - requirement: 2
+              text: |-
+                  What do they do and how do they contribute to the function of
+                  the printer?
+            - requirement: 3
+              text: |-
+                  Report your findings to your counselor. Explain which
+                  component of a 3D printer you think is the most important.
+      - requirement: G
+        text: |-
+            Investigate different printers and compare them
+        children:
+            - requirement: 1
+              text: |-
+                  Research at least 3 different 3D printers. Take note on the
+                  different materials that each printer can use, as well as the
+                  different layer height, method of printing, and available
+                  resources. Some examples include:
+              children:
+                  - requirement: a
+                    text: |-
+                        Stratasys
+                  - requirement: b
+                    text: |-
+                        Ultimaker
+                  - requirement: c
+                    text: |-
+                        Makerbot
+                  - requirement: d
+                    text: |-
+                        FormLabs
+                  - requirement: e
+                    text: |-
+                        Lulzbot
+            - requirement: 2
+              text: |-
+                  Discuss with your counselor which printer you would purchase
+                  and why.
+- requirement: 4
+  text: |-
+      Choose ONE option and interview a person involved with the field. If
+      possible, visit them in that environment to see what they do. Prepare at
+      least five questions, and share what you learn with your counselor. If
+      you take a virtual tour, with your parent or guardian's permission you
+      can contact the organization with your questions. If that is not
+      possible, you can discuss them with your counselor. Some possible
+      destinations are listed below.
+  children:
+      - requirement: A
+        text: |-
+            Professional 3D Printing/Prototyping Lab
+      - requirement: B
+        text: |-
+            University/High School 3D Printing/Prototyping Lab
+      - requirement: C
+        text: |-
+            Lawrence Livermore National Laboratory 3D Printing Labs Virtual
+            Tour<br/>
+            <a href="https://youtu.be/3MlHoDHoKPc">https://youtu.be/3MlHoDHoKPc</a><br/>
+            <a href="https://3dprint.com/146386/llnl-virtual-tours-3d-print-labs/">https://3dprint.com/146386/llnl-virtual-tours-3d-print-labs/</a>
+      - requirement: D
+        text: |-
+            Interactive Tour of a formlab Printer<br />
+            <a href="https://formlabs.com/blog/interactive-tour-form-1-3d-printer/">https://formlabs.com/blog/interactive-tour-form-1-3d-printer/</a>
+- requirement: 5
+  text: |-
+      Discuss with your counselor how 3D printing affects your everyday life
+      and what you have learned by working on this NOVA.

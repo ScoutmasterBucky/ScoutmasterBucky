@@ -1,0 +1,62 @@
+{
+    "scout": {
+        "name": "Scout",
+        "rank": true,
+        "image": "/scout-ranks/scout.jpg",
+        "bucky": "/scout-ranks/scoutmaster-bucky-scout.jpg"
+    },
+    "tenderfoot": {
+        "name": "Tenderfoot",
+        "rank": true,
+        "image": "/scout-ranks/tenderfoot.jpg",
+        "bucky": "/scout-ranks/scoutmaster-bucky-tenderfoot.jpg"
+    },
+    "second-class": {
+        "name": "Second Class",
+        "rank": true,
+        "image": "/scout-ranks/second-class.jpg",
+        "bucky": "/scout-ranks/scoutmaster-bucky-second-class.jpg"
+    },
+    "first-class": {
+        "name": "First Class",
+        "rank": true,
+        "image": "/scout-ranks/first-class.jpg",
+        "bucky": "/scout-ranks/scoutmaster-bucky-first-class.jpg"
+    },
+    "star": {
+        "name": "Star",
+        "rank": true,
+        "image": "/scout-ranks/star.jpg",
+        "bucky": "/scout-ranks/scoutmaster-bucky-star.jpg"
+    },
+    "life": {
+        "name": "Life",
+        "rank": true,
+        "image": "/scout-ranks/life.jpg",
+        "bucky": "/scout-ranks/scoutmaster-bucky-life.jpg"
+    },
+    "eagle": {
+        "name": "Eagle",
+        "rank": true,
+        "image": "/scout-ranks/eagle.jpg",
+        "bucky": "/scout-ranks/scoutmaster-bucky-eagle.jpg"
+    },
+    "eagle-palms": {
+        "name": "Eagle Palms",
+        "rank": false,
+        "image": "/scout-ranks/palms.jpg",
+        "bucky": "/scout-ranks/scoutmaster-bucky-palms.jpg"
+    },
+    "alternative-requirements": {
+        "name": "Alternative Requirements",
+        "rank": false,
+        "image": "/scout-ranks/stscfc.jpg",
+        "bucky": "/scout-ranks/stscfc.jpg"
+    },
+    "eagle-alternative-requirements": {
+        "name": "Eagle Alternative Requirements",
+        "rank": false,
+        "image": "/scout-ranks/eagle.jpg",
+        "bucky": "/scout-ranks/eagle.jpg"
+    }
+}
