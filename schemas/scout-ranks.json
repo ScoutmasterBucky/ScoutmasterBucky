@@ -1,0 +1,27 @@
+{
+    "type": "object",
+    "additionalProperties": {
+        "type": "object",
+        "properties": {
+            "bucky": {
+                "type": "string"
+            },
+            "image": {
+                "type": "string"
+            },
+            "name": {
+                "type": "string"
+            },
+            "rank": {
+                "type": "boolean"
+            }
+        },
+        "additionalProperties": false,
+        "required": [
+            "bucky",
+            "image",
+            "name",
+            "rank"
+        ]
+    }
+}

@@ -1,0 +1,379 @@
+# Shortened all youtube links
+# Updated http://guyhaas.com/bfoit/itp/Programming.html to
+# Changed explainthatstuff.com to https
+# Changed pearsonhighered.com to https
+# Updated https://code.org/educate/applab to https://code.org/tools/applab
+# Changed alice.org to https
+- requirement: 1
+  text: |-
+      Choose A or B or C and complete ALL the requirements.
+  children:
+      - requirement: A
+        text: |-
+            Watch (not less than three hours total) computer-related shows or
+            documentaries that involve computers, coding, and/or
+            computer-related careers. Then do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least five questions or ideas from the
+                  shows you watched.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions or ideas with your counselor.
+      - requirement: B
+        text: |-
+            Read (not less than three hours total) about computers, coding, and
+            careers that involve computers. Then do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least five questions or ideas from the
+                  articles you read.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions or ideas with your counselor.
+      - requirement: C
+        text: |-
+            Do a combination of reading and watching (not less than three hours
+            total). Then do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Make a list of at least five questions or ideas from the
+                  articles you read or the shows you watched.
+            - requirement: 2
+              text: |-
+                  Discuss two of the questions or ideas with your counselor.
+            - detail: true
+              text: |-
+                  Some examples include - but are not limited to - shows found on
+                  PBS ("NOVA"), Discovery Channel, Science Channel, National
+                  Geographic Channel, TED Talks (online videos), and the
+                  History Channel. You may choose to watch a live performance
+                  or movie at a planetarium or science museum instead of
+                  watching a media production. You may watch online productions
+                  with your counselor's approval and under your parent's
+                  supervision.
+            - detail: true
+              text: |-
+                  Suggested reading and watching material might include the following.
+                  <div class="gap"></div>
+                  What is Programming?<br />
+                  <ul>
+                  <li><a href="https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro">https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro</a></li>
+                  <li><a href="https://youtu.be/THOEQ5soVpY">https://youtu.be/THOEQ5soVpY</a></li>
+                  <li><a href="https://youtu.be/Y4ZIA1A54ww">https://youtu.be/Y4ZIA1A54ww</a></li>
+                  <li><a href="https://youtu.be/N7ZmPYaXoic">https://youtu.be/N7ZmPYaXoic</a></li>
+                  <li><a href="https://youtu.be/9zOo4JkZgSI">https://youtu.be/9zOo4JkZgSI</a></li>
+                  </ul>
+                  <b>Movies about Programming</b><br />
+                  <ul>
+                  <li>Triumph of the Nerds</li>
+                  <li>Pirates of Silicon Valley</li>
+                  <li>Halt and Catch Fire</li>
+                  <li>Revolution OS</li>
+                  <li>The Code</li>
+                  <li>Computer Programming in Five Minutes <a href="https://youtu.be/UScm9avQM1Y">https://youtu.be/UScm9avQM1Y</a></li>
+                  </ul>
+                  <b>Articles on Computer Programming</b><br />
+                  <ul>
+                  <li>What is Computer programming <a href="http://guyhaas.com/bfoit/itp/Programming.html">http://guyhaas.com/bfoit/itp/Programming.html</a></li>
+                  <li>Computer Programming <a href="https://en.wikipedia.org/wiki/Computer_programming">https://en.wikipedia.org/wiki/Computer_programming</a></li>
+                  <li>Computers <a href="https://www.explainthatstuff.com/howcomputerswork.html">https://www.explainthatstuff.com/howcomputerswork.html</a></li>
+                  <li>Introduction to Computers and Programming <a href="https://www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf">https://www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf</a></li>
+                  </ul>
+- requirement: 2
+  text: |-
+      Complete ONE merit badge from the following list. (Choose one that you
+      have not already used for another Nova award.) Discuss with your
+      counselor how the merit badge you earned uses coding.
+      <ul>
+      <li><a href="/merit-badges/animation/">Animation</a></li>
+      <li><a href="/merit-badges/digital-technology/">Digital Technology</a></li>
+      <li><a href="/merit-badges/programming/">Programming</a></li>
+      <li><a href="/merit-badges/robotics/">Robotics</a></li>
+      </ul>
+- requirement: 3
+  text: |-
+      Explore different concepts in computer programming. Discuss these
+      programming concepts with your counselor:
+  children:
+      - detail: true
+        text: |-
+            Each of these concepts should be basic to computer programmers.
+      - requirement: A
+        text: |-
+            What is the difference between a local and global variable?
+        children:
+            - detail: true
+              text: |-
+                  Local variable is only defined and used within one routine. A
+                  global variable is defined for the entire program
+      - requirement: B
+        text: |-
+            What is integer, Boolean, floating point, and character data types
+            and what values can each of these data types hold?
+        children:
+            - detail: true
+              text: |-
+                  Integer – a variable that holds only whole numbers (e.g., 56,
+                  7, -4, 23)
+                  <div class="gap"></div>
+                  Boolean – a variable that can hold only TRUE or FALSE
+                  <div class="gap"></div>
+                  Floating Point – a variable that can hold any real number
+                  (e.g., 71.045)
+                  <div class="gap"></div>
+                  Character variable – a variable that can hold only an
+                  alphanumeric character (e.g., "A", "G", "&")
+      - requirement: C
+        text: |-
+            What is a scalar variable versus an array or list variable?
+        children:
+            - detail: true
+              text: |-
+                  A scalar variable can only hold one value. An array or list
+                  variable can hold multiple values and each value can be
+                  selected using an index. (e.g. 5, 4, 10, -3 can be held in an
+                  integer array of size 4 called X. X[3] can refer to the 3rd
+                  element of the array)
+      - requirement: D
+        text: |-
+            What are these types of control flow instructions, and how do they work?
+        children:
+            - requirement: 1
+              text: |-
+                  A While Loop
+              children:
+                  - detail: true
+                    text: |-
+                        A while loop continuously executes the code held in the
+                        loop while a condition that is checked at the beginning
+                        of the loop is TRUE and it exits the loop when the
+                        condition checked at the beginning of the loop becomes
+                        FALSE.
+            - requirement: 2
+              text: |-
+                  A Do-While Loop
+              children:
+                  - detail: true
+                    text: |-
+                        A Repeat loop continuously executes the code held in
+                        the loop while a condition checked at the end of the
+                        loop is TRUE and it exits the loop when the condition
+                        checked at the end of the loop becomes FALSE.
+            - requirement: 3
+              text: |-
+                  A For loop which performs a fixed number of iterations (i.e.,
+                  For Loop)
+              children:
+                  - detail: true
+                    text: |-
+                        A For Loop executes the code held in the loop a fixed
+                        number of times.
+            - requirement: 4
+              text: |-
+                  An If statement
+              children:
+                  - detail: true
+                    text: |-
+                        An If statement executes a given computer instruction
+                        or a block of instructions if a condition is TRUE. It
+                        can also execute a different instruction or block of
+                        instructions if the condition is FALSE.
+      - requirement: E
+        text: |-
+            What is a function and when is it used?
+        children:
+            - detail: true
+              text: |-
+                  A function is a block of instructions which computes a result
+                  and returns the result to the calling program. A program can
+                  branch to (or call) the function and then return back to
+                  where the function was called when the function completes. A
+                  function typically computes equations needed in multiple
+                  places in the program. (e.g., a function to calculate a
+                  polynomial given an input X value.)
+      - requirement: F
+        text: |-
+            What is a parameter to a function?
+        children:
+            - detail: true
+              text: |-
+                  A parameter is an input to a function used in the computation of the result.
+      - requirement: G
+        text: |-
+            What is a key/value pair in a database?
+        children:
+            - detail: true
+              text: |-
+                  A Key/Value pair in database programming is a set of two
+                  linked data elements which allow the programmer to use a
+                  first key data element to find a result value based on the
+                  key (e.g., FirstName -> Joan, LastName -> Smith)
+      - requirement: H
+        text: |-
+            What is a Universal Resource Locator (URL) and where is it used?
+        children:
+            - detail: true
+              text: |-
+                  A Universal Resource Locator (URL) is a set of characters
+                  which identify a resource such as a webpage or a file on the
+                  internet so a program or user may access the webpage or file.
+- requirement: 4
+  text: |-
+      In a programming language of your choosing, do the following:
+  children:
+      - detail: true
+        text: |-
+            Requirements 4, 5 and 6:
+            <div class="gap"></div>
+            Scratch Jr. is free app for tablets and phones. -
+            <a href="https://www.scratchjr.org/">https://www.scratchjr.org/</a>
+            <div class="gap"></div>
+            App Lab is a great beginner programming environment where you make
+            simple apps right in your browser -
+            <a href="https://code.org/tools/applab">https://code.org/tools/applab</a>
+            <div class="gap"></div>
+            Web Lab is a tool to help beginning programmers create their own
+            webpages. -
+            <a href="https://code.org/educate/weblab">https://code.org/educate/weblab</a>
+            <div class="gap"></div>
+            Game Lab is programming environment that introduces how to make
+            simple animations, interactive art and games using block
+            programming. -
+            <a href="https://code.org/educate/gamelab">https://code.org/educate/gamelab</a>
+            <div class="gap"></div>
+            Tynker.com has a drag and drop block programing environment that
+            allows you to write games, controlling robots and drones and
+            interface to Minecraft -
+            <a href="https://www.tynker.com/">https://www.tynker.com/</a>
+            <div class="gap"></div>
+            Alice Programming Environment is a 3D interactive programming
+            language. Alice 2 is not object oriented. Alice 3 is object
+            oriented. -
+            <a href="https://www.alice.org/">https://www.alice.org/</a>
+            <div class="gap"></div>
+            Blocky is a visual code editor that uses interlocking blocks to
+            represent code -
+            <a href="https://developers.google.com/blockly/">https://developers.google.com/blockly/</a>
+            <div class="gap"></div>
+            Python is a clear and easy way to learn object-oriented programming -
+            <a href="https://www.python.org/">https://www.python.org/</a>
+            <div class="gap"></div>
+            Palindrome -
+            <a href="https://en.wikipedia.org/wiki/Palindrome">https://en.wikipedia.org/wiki/Palindrome</a>
+            <div class="gap"></div>
+            Factorials -
+            <a href="https://www.mathsisfun.com/numbers/factorial.html">https://www.mathsisfun.com/numbers/factorial.html</a>
+            <div class="gap"></div>
+            Guess the Number Program -
+            <a href="https://inventwithpython.com/chapter4.html">https://inventwithpython.com/chapter4.html</a>
+            <div class="gap"></div>
+            Basics of Sorting Algorithms -
+            <a href="https://www.geeksforgeeks.org/sorting-algorithms/">https://www.geeksforgeeks.org/sorting-algorithms/</a>
+      - requirement: A
+        text: |-
+            Write a program that determines if an input string of characters is
+            a palindrome.
+      - requirement: B
+        text: |-
+            Write a program of your choice from the following list.
+        children:
+            - requirement: 1
+              text: |-
+                  A program that calculates the sum of a set of input numbers
+            - requirement: 2
+              text: |-
+                  A program to report the largest and the smallest numbers from
+                  a set of input numbers.
+            - requirement: 3
+              text: |-
+                  A program that calculates the average of a set of input
+                  numbers.
+            - requirement: 4
+              text: |-
+                  A program that calculates the factorial of an input number.
+            - requirement: 5
+              text: |-
+                  A program that calculates the sum of all numbers from a user
+                  input starting number to a user input ending number.
+            - detail: true
+              text: |-
+                  These programs can be coded in a programming language such as
+                  App Lab - <a href="https://code.org/educate/applab">https://code.org/educate/applab</a>
+# Fixed typo - programing -> programming
+- requirement: 5
+  text: |-
+      In a programming language that may be the same or different from the
+      programming language used above, write a program selected from the
+      following list. Work with your counselor to define the requirements –
+      input from a user or from a file? Output to the screen or to a file? You
+      may not use a GUI-based programming interface for this requirement, but a
+      language like Python, Small Basic or Lisps (a family of powerful,
+      syntax-light languages including Scheme or Common Lisp) would be
+      appropriate.
+  children:
+      - requirement: A
+        text: |-
+            A program that generates a random whole number between 1 and 10 and
+            then asks the user to guess the number. When the guess is not
+            correct, the program tells the user that the guess is too high or
+            too low and then asks the user to try again. The program completes
+            when the user correctly guesses the number.
+      - requirement: B
+        text: |-
+            A program that correctly sorts in ascending order, a sequence of at
+            least 15 input numbers.
+      - requirement: C
+        text: |-
+            A program that accepts input, performs a calculation on the input
+            and produces an output based on the input. It must use a function
+            with one or more parameters to perform the calculation.
+      - requirement: D
+        text: |-
+            A program that takes a set of at least 15 characters from a user
+            and then displays the string in reverse order.
+      - requirement: E
+        text: |-
+            A program that displays an interactive webpage that accepts user
+            input and modifies its display based on the input (See Web Lab -
+            <a href="https://code.org/educate/weblab">https://code.org/educate/weblab</a>
+            for example)
+      - requirement: F
+        text: |-
+            A computer game of your choosing which uses interactive characters,
+            requires skill, and reports a winner or a loser. (See Game Lab -
+            <a href="https://code.org/educate/gamelab">https://code.org/educate/gamelab</a>
+            for example)
+      - requirement: G
+        text: |-
+            Any other computer program agreed on by you and your counselor that
+            uses both variables and control flow instructions.
+- requirement: 6
+  text: |-
+      For the three programs you wrote for requirements 4 and 5, explain to
+      your counselor how each of your programs works and why you chose the
+      particular instructions and variables that you did.
+- requirement: 7
+  text: |-
+      Do ALL the following requirements.
+  children:
+      - requirement: A
+        text: |-
+            Visit a company/school/institution where computer programs are
+            being developed.
+      - requirement: B
+        text: |-
+            Talk to someone there about how they use coding in their work.
+            Write down at least five questions to ask the person you visit and
+            review the answers with your counselor
+      - requirement: C
+        text: |-
+            Discuss with your counselor how coding is being used at the
+            destination you visited.
+- requirement: 8
+  text: |-
+      Discuss with your counselor how coding affects your everyday life, and
+      what you have learned while working on this Nova.
