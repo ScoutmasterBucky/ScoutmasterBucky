@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "type": "module",
     "scripts": {
-        "build": "iles build && npm run verify",
+        "build": "iles build && node build-sitemap.mjs && npm run verify",
         "now": "npm run build && npm run preview",
         "preview": "iles preview --open --port 5050 --host",
         "reinstall": "rm -rf node_modules package-lock.json && npm install",
