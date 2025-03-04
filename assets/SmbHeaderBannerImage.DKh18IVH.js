@@ -1,0 +1,1 @@
+import{d as a,b as t,o as n,e as o}from"./vendor-vue.B9q9p2kv.js";const s={href:"/","aria-label":"Scoutmaster Bucky Main Page",class:"unprintable"},l=a({__name:"SmbHeaderBannerImage",setup(c){const e=`/images/header-month-${new Date().getMonth()+1}.jpg`;return(_,i)=>(n(),t("a",s,[o("img",{src:e,class:"wide",alt:"Scoutmaster Bucky Banner"})]))}});export{l as _};
