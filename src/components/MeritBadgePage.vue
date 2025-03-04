@@ -29,7 +29,7 @@ for (const novaName of info.novas) {
 <template>
     <h1>{{ info.name }}</h1>
 
-    <div class="bucky-and-badge unprintable">
+    <div class="center unprintable">
         <ScaledContent>
             <img :src="info.bucky" alt="Bucky" class="wide" />
         </ScaledContent>
@@ -68,18 +68,6 @@ for (const novaName of info.novas) {
 </template>
 
 <style scoped>
-.bucky-and-badge {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-}
-
-@media (max-width: 480px) {
-    .bucky-and-badge {
-        flex-direction: column;
-    }
-}
-
 .requirements-header {
     display: flex;
     justify-content: space-between;

@@ -6,10 +6,10 @@ const { event } = defineProps<{
 
 <template>
     <div class="selectable">
-        <div class="big centered bottom-line"><UpcomingEventIcon :event="event" />{{ event.host }}</div>
-        <div class="big centered">{{ event.title }}</div>
+        <div class="big center column bottom-line"><UpcomingEventIcon :event="event" />{{ event.host }}</div>
+        <div class="big center">{{ event.title }}</div>
         <div class="time-location">
-            <div class="time centered">
+            <div class="time center">
                 <div v-if="event.differentDays">
                     From: {{ event.startDate.local.MMM }}
                     {{ event.startDate.local.d }}<br />
@@ -45,14 +45,6 @@ const { event } = defineProps<{
 <style scoped>
 .selectable {
     user-select: text;
-}
-
-.centered {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    text-align: center;
 }
 
 .big {
