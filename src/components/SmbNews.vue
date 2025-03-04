@@ -7,7 +7,7 @@ const newsArray = Array.isArray(news) ? news : [];
     <h2>News</h2>
 
     <div class="news-wrapper">
-        <ScaledContent float="left">
+        <ScaledContent align="left">
             <img src="/images/bucky-with-newspaper.jpg" class="wide" />
         </ScaledContent>
 

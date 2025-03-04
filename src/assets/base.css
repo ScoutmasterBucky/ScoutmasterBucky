@@ -23,8 +23,19 @@ body {
 
 .center {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
+    text-align: center;
+}
+
+@media (max-width: 480px) {
+    .center {
+        flex-direction: column;
+    }
+}
+
+.column {
+    display: flex;
     flex-direction: column;
 }
 

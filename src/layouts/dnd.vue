@@ -28,20 +28,21 @@
     </Head>
 
     <div class="page-container theme-dnd">
-        <header class="center">
+        <header class="center column">
             <a href="/dnd/" class="center">
                 <img src="/dnd/bucky-guild.png" class="logo unprintable" />
             </a>
-            <div class="main-heading">
-                Dungeons &amp; Dragons
+            <div class="main-heading">Dungeons &amp; Dragons</div>
+            <div class="sub-heading">
+                Hosted by <a href="/">Scoutmaster Bucky</a>
             </div>
-            <div class="sub-heading">Hosted by <a href="/">Scoutmaster Bucky</a></div>
         </header>
         <main>
             <slot />
         </main>
         <footer class="center">
-            Dungeons &amp; Dragons is a registered trademark of Wizards of the Coast, LLC.
+            Dungeons &amp; Dragons is a registered trademark of Wizards of the
+            Coast, LLC.
         </footer>
     </div>
 </template>
