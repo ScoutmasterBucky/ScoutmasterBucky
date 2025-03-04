@@ -452,31 +452,31 @@ async function downloadSupernovaAwards(updated) {
         {
             key: "award-application",
             url: "https://www.scouting.org/stem-nova-awards/awards/cub-scout/",
-            dest: "public/nova-lab/award-application.pdf",
+            dest: "public/nova-lab/supernova/award-application.pdf",
             selector: '[data-id="d291cac"] a[href*=".pdf"]'
         },
         {
             key: "dr-albert-einstein-supernova-application",
             url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
-            dest: "public/nova-lab/dr-albert-einstein-supernova-application.pdf",
+            dest: "public/nova-lab/supernova/dr-albert-einstein-supernova-application.pdf",
             selector: '[data-id="b009a02"] a[href*="Supernova-Application"]'
         },
         {
             key: "dr-albert-einstein-supernova-flowchart",
             url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
-            dest: "public/nova-lab/dr-albert-einstein-supernova-flowchart.pdf",
+            dest: "public/nova-lab/supernova/dr-albert-einstein-supernova-flowchart.pdf",
             selector: '[data-id="b009a02"] a[href*="Process-Flow-Chart"]'
         },
         {
             key: "dr-albert-einstein-supernova-guide",
             url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
-            dest: "public/nova-lab/dr-albert-einstein-supernova-guide.pdf",
+            dest: "public/nova-lab/supernova/dr-albert-einstein-supernova-guide.pdf",
             selector: '[data-id="b009a02"] a[href*="Einstein-Guide"]'
         },
         {
             key: "exploration-requirements",
             url: "https://www.scouting.org/stem-nova-awards/awards/venturer/",
-            dest: "public/nova-lab/exploration-requirements.pdf",
+            dest: "src/data/nova-lab/exploration-requirements.pdf",
             selector: '[data-id="9096690"] a[href*=".pdf"]'
         }
     ]);
@@ -534,7 +534,7 @@ for (const target of args.TARGET) {
 }
 
 if (!errors) {
-    const updated = await readJson("updated.json");
+    const updated = await readJson("src/data/updated.json");
     await serialPromises(downloadables, (item) => {
         if (args.TARGET.includes(item.key) || args.TARGET.includes("all")) {
             if (!updated[item.key]) {
@@ -544,5 +544,5 @@ if (!errors) {
             return item.fn(updated[item.key], args);
         }
     });
-    await writeJson("updated.json", updated);
+    await writeJson("src/data/updated.json", updated);
 }

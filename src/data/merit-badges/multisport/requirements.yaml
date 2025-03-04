@@ -1,6 +1,6 @@
 # 3c grammatically should say "Identify the equipment required for each of the" instead of what it currently says.
 # 4b1 ends with "and ride ready" but could be improved with "and ride safely"
-# Note: 7d says "Aqua bike" in pamphlet
+# Note: 7d says "Aqua bike" in pamphlet but other places say "aquabike"
 # Note: pamphlets don't have periods after lists, like 3d and 7d.
 - requirement: 1
   text: |-
@@ -79,7 +79,7 @@
   children:
     - requirement: a
       text: |-
-        <b>Swimming</b>
+        <strong>Swimming</strong>
       children:
         - requirement: 1
           text: |-
@@ -92,11 +92,11 @@
         - requirement: 3
           text: |-
             Explain to your counselor the difference between a pool swim and an
-            open water swim, including at what temperature it is appropriate to
-            wear a wet suit.
+            open water swim, including at what water temperature it is
+            appropriate to wear a wet suit.
     - requirement: b
       text: |-
-        <b>Biking</b>
+        <strong>Biking</strong>
       children:
         - requirement: 1
           text: |-
@@ -113,7 +113,7 @@
             weather.
     - requirement: c
       text: |-
-        <b>Running</b>
+        <strong>Running</strong>
       children:
         - requirement: 1
           text: |-
@@ -175,6 +175,10 @@
     - requirement: d
       text: |-
         Aqua bike: swim (100 m) and bike (3 km)
+    - detail: true
+      text: |-
+        [When referring to race distances, "m" stands for meter (about 3.28
+        feet) and "km" or simply "k" stands for kilometer (about 0.62 mile).]
 - requirement: 8
   text: |-
     Do TWO of the following and discuss with your counselor:
