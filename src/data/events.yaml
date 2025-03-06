@@ -1,97 +1,48 @@
-- title: Scoutmaster Bucky Merit Badge Day
-  host: Scoutmaster Bucky
-  icon: /events/bucky-jan.png
-  start: '2025-01-18 8:00'
-  end: '2025-01-18 16:00'
-  location:
-      - Guardian Angels Catholic Church
-      - 8260 4th Street North
-      - Oakdale, Minnesota 55128
-  meritBadges:
-      - citizenship-in-the-world
-      - communication
-      - digital-technology
-      - dog-care
-      - electricity
-      - electronics
-      - genealogy
-      - inventing
-      - law
-      - nuclear-science
-      - personal-management
-      - pets
-      - programming
-      - reading
-  registrationLink: https://example.com/
-
-- title: Scoutmaster Bucky Merit Badge Day - Morning Classes
-  host: Scoutmaster Bucky
-  icon: /events/bucky-feb.png
-  start: '2025-02-15 8:00'
-  end: '2025-02-15 12:00'
-  registrationLink: https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-february-merit-badge-day-am-2025-02-15-am
-  location:
-      - Christ the King Lutheran Church
-      - 8600 Fremont Avenue South
-      - Bloomington, Minnesota 55420
-  meritBadges:
-      - american-business
-      - art
-      - communication
-      - game-design
-      - graphic-arts
-      - sustainability
-
-- title: Scoutmaster Bucky Merit Badge Day - Afternoon Classes
-  host: Scoutmaster Bucky
-  icon: /events/bucky-feb.png
-  start: '2025-02-15 12:30'
-  end: '2025-02-15 16:00'
-  registrationLink: https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-february-merit-badge-day-pm-2025-02-15-pm
-  location:
-      - Christ the King Lutheran Church
-      - 8600 Fremont Avenue South
-      - Bloomington, Minnesota 55420
-  meritBadges:
-      - chess
-      - communication
-      - pulp-and-paper
-      - sculpture
-      - sustainability
-
-- title: Archery and BB Gun Rangemaster
-  host: Ten Ring
-  icon: /events/ten-ring.png
-  start: '2025-02-22 8:00'
-  registrationLink: https://www.tenring.org/training.php
-  location:
-      - Beaverbrook Sportmen's Club
-      - 20500 Palisade St NE
-      - Cedar, MN 55330
-  html: |-
-      <p>Ten Ring is offering to train adults to handle an archery range or BB gun range.</p>
-
-- title: NRA Range Safety Officer
-  host: Ten Ring
-  icon: /events/ten-ring.png
-  start: '2025-02-22 8:00'
-  registrationLink: https://www.tenring.org/training.php
-  location:
-      - Beaverbrook Sportmen's Club
-      - 20500 Palisade St NE
-      - Cedar, MN 55330
-  html: |-
-      <p>Ten Ring is offering to train adults to complete the NRA Range Safety Officer course, which is one of the two positions required for Scouts to shoot firearms.</p>
-
-- title: ONLINE - Photography Merit Badge
-  host: Scoutmaster Bucky
-  icon: /merit-badges/photography/photography.png
-  start: 2025-02-14 18:00
-  end: 2025-02-14 21:30
-  online: true
-  meritBadges:
-      - photography
-  registrationLink: https://example.com/
+# Here are all of the properties that can be used to create an event.
+#
+# --- Required properties ---
+# title: The title of an event.
+# host: Who is putting on the event.
+# icon: Path to an image.
+# start: Central time, 'YYYY-MM-DD HH:MM' or 'YYYY-MM-DD'
+#
+# --- Optional properties ---
+# end: Central time, 'YYYY-MM-DD HH:MM' or 'YYYY-MM-DD'
+# location: List of strings for the address.
+# meritBadges: List of merit badge IDs.
+# online: "true" or "false".
+# registrationLink: URL for signing up.
+# html: Extra text. "Heredoc", which means using |- and indenting the following lines..
+#
+# Examples:
+#
+# - title: Fish In A Barrel
+#   host: Worst Scouter Ever
+#   icon: /events/shooting-fish-in-barrel.png
+#   start: '2020-04-01 08:30'
+#   end: '2020-04-01 13:30'
+#   location:
+#       - Lake Mariah
+#       - 1234 Fake Oak Way
+#       - Antibuckyville, MN, 55000
+#   meritBadges:
+#       - fishing
+#       - rifle-shooting
+#       - shotgun-shooting
+#   registrationLink: https://evil-site.com/
+#   html: |-
+#       <p>Stay away from this event, where they catch fish, then put them
+#       into a barrel, and then shoot the fish.</p>
+#
+# - title: ONLINE - Photography Merit Badge
+#   host: Scoutmaster Bucky
+#   icon: /merit-badges/photography/photography.png
+#   start: 2025-02-14 18:00
+#   end: 2025-02-14 21:30
+#   online: true
+#   meritBadges:
+#       - photography
+#   registrationLink: https://example.com/
 
 - title: Scoutmaster Bucky Merit Badge Day - DULUTH, MN
   host: Scoutmaster Bucky
@@ -121,7 +72,7 @@
 - title: Scoutmaster Bucky Adult Training - DULUTH, MN
   host: Scoutmaster Bucky
   icon: /events/bucky-mar.png
-  start: '2025-03-15 8:00'
+  start: '2025-03-15 08:00'
   end: '2025-03-15 16:00'
   registrationLink: https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-march-merit-badge-day-duluth-mn-2025-03-15
   location:
@@ -145,7 +96,7 @@
 - title: Coin Collecting Merit Badge
   host: Northwest Coin Club
   icon: /events/nwcc.png
-  start: '2025-03-22 8:30'
+  start: '2025-03-22 08:30'
   end: '2025-03-22 14:00'
   registrationLink: https://www.northwestcoinclub.com/scouts-merit-badges.html
   location:
@@ -158,13 +109,15 @@
 - title: Rifle Shooting Merit Badge
   host: Ten Ring
   icon: /events/ten-ring.png
-  start: '2025-05-03 8:00'
+  start: '2025-05-03 08:00'
   end: '2025-05-04 17:00'
   registrationLink: https://www.tenring.org/events.php
   location:
       - Beaverbrook Sportmen's Club
       - 20500 Palisade St NE
       - Cedar, MN 55330
+  meritBadges:
+      - rifle-shooting
   html: |-
       <p>Ten Ring is helping Scouts earn the Rifle Shooting merit badge. These classes are offered several times throughout the weekend.</p>
 

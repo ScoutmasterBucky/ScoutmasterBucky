@@ -2,7 +2,7 @@
     <div id="menu" class="unprintable">
         <a
             class="toggle"
-            @click.stop="document.getElementById('menu').classList.toggle('flyout')"
+            @click.stop.prevent="document.getElementById('menu').classList.toggle('flyout')"
             href="#"
         >
             <svg

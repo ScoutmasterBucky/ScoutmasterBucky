@@ -2,14 +2,31 @@
 const { event } = defineProps<{
     event: Object;
 }>();
+let month = event.startDate.local.MMM;
+let day = event.startDate.local.d;
+let multiple = false;
+
+if (event.endDate) {
+    if (event.endDate.local.MMM !== month) {
+        month += `/${event.endDate.local.MMM}`;
+        multiple = true;
+    }
+
+    if (event.endDate.local.d !== day || multiple) {
+        day += `-${event.endDate.local.d}`;
+        multiple = true;
+    }
+}
+
+const multipleClass = multiple ? 'multiple' : '';
 </script>
 
 <template>
     <div class="calendar">
-        <div class="calendar-month">
-            {{ event.startDate.local.MMM }}
+        <div class="center calendar-month">
+            {{ month }}
         </div>
-        <div class="calendar-day">{{ event.startDate.local.d }}</div>
+        <div :class="`center calendar-day ${multipleClass}`">{{ day }}</div>
     </div>
 </template>
 
@@ -20,14 +37,19 @@ const { event } = defineProps<{
 }
 
 .calendar-month {
-    text-align: center;
     font-size: 1.2em;
     background: var(--event-calendar-month-background);
+    padding: 0 0.2em;
 }
 
 .calendar-day {
-    text-align: center;
     font-size: 2em;
-    width: 1.7em;
+    min-width: 1.7em;
+    padding: 0 0.2em;
+    min-height: 45px;
+}
+
+.calendar-day.multiple {
+    font-size: 1.5em;
 }
 </style>
