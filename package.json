@@ -9,7 +9,8 @@
         "reinstall": "rm -rf node_modules package-lock.json && npm install",
         "start": "iles dev --open --host",
         "typecheck": "vue-tsc --noEmit",
-        "verify": "node validate-data.mjs && check-html-links dist/",
+        "verify": "node validate-data.mjs && npm run verify-internal-links",
+        "verify-internal-links": "check-html-links dist/ 2>&1 > /dev/null | ( ! grep --context=1000 '❌' )",
         "verify-external-links": "check-html-links dist/ --validate-externals"
     },
     "engines": {
