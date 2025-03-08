@@ -786,7 +786,13 @@
         "eagle": true,
         "image": "/merit-badges/swimming/swimming.png",
         "name": "Swimming",
-        "novas": ["up-and-away"]
+        "novas": ["up-and-away"],
+        "related": [
+            {
+                "name": "First Class",
+                "href": "/scout-ranks/first-class/"
+            }
+        ]
     },
     "textile": {
         "bucky": "/merit-badges/textile/textile-bucky.jpg",
