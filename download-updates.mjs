@@ -296,7 +296,7 @@ async function downloadOtherAwards(updated) {
         {
             key: "50-miler",
             url: "https://www.scouting.org/awards/awards-central/50-miler/",
-            dest: "src/data/other-awards/50-miler.pdf",
+            dest: "public/other-awards/50-miler.pdf",
             selector: "a[href*=pdf]"
         },
         {
