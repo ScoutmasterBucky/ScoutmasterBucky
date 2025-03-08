@@ -7,7 +7,7 @@ title: Scoutmaster Bucky
 
 <script setup lang="ts">
 import { DateTime } from 'luxon';
-const lastBuildTime = DateTime.now().setZone('America/Chicago').toFormat('LLL dd, yyyy, h:mm:ss a');
+const lastBuildTime = DateTime.now().setZone('America/Chicago').toFormat('LLL d, yyyy, h:mm:ss a');
 </script>
 
 <template>
@@ -51,7 +51,7 @@ const lastBuildTime = DateTime.now().setZone('America/Chicago').toFormat('LLL dd
 
     <p>Learn more about being <a href="counselors/">a counselor on the Bucky team</a>.</p>
 
-    <p>Last update: {{ lastBuildTime }} (Bucky Time is Central Time)</p>
+    <p>Last updated at {{ lastBuildTime }} (Bucky Time is Central Time).</p>
 </template>
 
 <style scoped>
