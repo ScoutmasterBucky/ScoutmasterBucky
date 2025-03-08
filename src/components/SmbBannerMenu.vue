@@ -28,6 +28,8 @@
 <style scoped>
 .banner-line {
     background: var(--banner-menu-background);
+    border-top: var(--banner-menu-border);
+    border-bottom: var(--banner-menu-border);
     display: flex;
     gap: 10px;
     justify-content: space-evenly;
