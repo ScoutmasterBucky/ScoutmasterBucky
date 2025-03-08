@@ -6,7 +6,7 @@ const { event } = defineProps<{
 
 <template>
     <div class="location">
-        <div v-if="event.online" class="online">
+        <div v-if="!event.location" class="online">
             <div class="online-title">ONLINE</div>
             <div v-if="event.startDate.hasTime" class="online-time">
                 {{ event.startDate.local.hmma }}
@@ -22,7 +22,7 @@ const { event } = defineProps<{
             </div>
             <div
                 v-if="
-                    !event.online &&
+                    event.location &&
                     !event.differentDays &&
                     event.startDate.hasTime
                 "

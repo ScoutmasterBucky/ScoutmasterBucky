@@ -27,9 +27,6 @@
                     "type": "string"
                 }
             },
-            "online": {
-                "type": "boolean"
-            },
             "registrationLink": {
                 "type": "string"
             },
@@ -46,25 +43,6 @@
             "icon",
             "start",
             "title"
-        ],
-        "oneOf": [
-            {
-                "required": [
-                    "location"
-                ]
-            },
-            {
-                "properties": {
-                    "online": {
-                        "enum": [
-                            true
-                        ]
-                    }
-                },
-                "required": [
-                    "online"
-                ]
-            }
         ]
     }
 }

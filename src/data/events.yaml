@@ -8,11 +8,10 @@
 #
 # --- Optional properties ---
 # end: Central time, 'YYYY-MM-DD HH:MM' or 'YYYY-MM-DD'
-# location: List of strings for the address.
+# location: List of strings for the address. If no location is present, the event is "online".
 # meritBadges: List of merit badge IDs.
-# online: "true" or "false".
 # registrationLink: URL for signing up.
-# html: Extra text. "Heredoc", which means using |- and indenting the following lines..
+# html: Extra text. "Heredoc", which means using |- and indenting the following lines.
 #
 # Examples:
 #
@@ -39,7 +38,6 @@
 #   icon: /merit-badges/photography/photography.png
 #   start: 2025-02-14 18:00
 #   end: 2025-02-14 21:30
-#   online: true
 #   meritBadges:
 #       - photography
 #   registrationLink: https://example.com/
