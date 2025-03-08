@@ -106,6 +106,51 @@
   meritBadges:
       - coin-collecting
 
+- title: Spring Merit Badge Rally
+  host: Rochester Community and Technical College
+  icon: /events/rctc.webp
+  start: '2025-03-22 07:00'
+  end: '2025-03-22 17:00'
+  registrationLink: https://scoutingevent.com/299-springmbr25
+  location:
+      - Heintz Center, RCTC
+      - 1926 College View Rd SE
+      - Rochester, Minnesota 55904
+  meritBadges:
+      - animation
+      - automotive-maintenance
+      - citizenship-in-the-world
+      - crime-prevention
+      - dentistry
+      - disabilities-awareness
+      - fingerprinting
+      - first-aid
+      - home-repairs
+      - landscape-architecture
+      - law
+      - personal-fitness
+      - plumbing
+      - photography
+      - radio
+      - welding
+  html: |-
+      <p>Also offered is Wildland Fire Management from Scouting America's Test Lab.</p>
+
+- title: Surveying Merit Badge Clinic
+  host: St. Cloud Technical and Community College
+  icon: /events/sctcc.png
+  start: '2025-04-22 16:00'
+  end: '2025-04-22 20:30'
+  registrationLink: https://scoutingevent.com/296-SurveyingMB2025
+  location:
+      - Room 1-372
+      - 1540 Northway Dr
+      - Saint Cloud, Minnesota 56303
+  meritBadges:
+      - surveying
+  html: |-
+      <p>For 8th grade students or older. Bring a notepad, pen, and calculator.</p>
+
 - title: Rifle Shooting Merit Badge
   host: Ten Ring
   icon: /events/ten-ring.png
@@ -123,7 +168,7 @@
 
 - title: District F Merit Badge Weekend
   host: District F
-  icon: /events/district-f.png
+  icon: /events/district-f.webp
   start: '2025-05-16'
   end: '2025-05-18'
   location:
@@ -158,7 +203,7 @@
 
 - title: Merit Badge Workshops
   host: North Star Museum
-  icon: /events/north-star-museum.jpg
+  icon: /events/north-star-museum.webp
   start: '2025-06-17'
   end: '2025-06-21'
   registrationLink: https://www.nssm.org/merit-badge-workshops.html
@@ -169,9 +214,33 @@
   html: |-
       <p>This is a placeholder. We don't have specific information yet.</p>
 
+- title: Climbing Instructor Training
+  host: St. Cloud State
+  icon: /events/scs.png
+  start: '2025-06-20'
+  end: '2025-06-22'
+  registrationLink: https://scoutingevent.com/296-Climbing2025
+  location:
+      - Quarry Park
+      - 1802 Co Rd 137
+      - Waite Park, Minnesota 56387
+
+- title: Climbing Merit Badge
+  host: St. Cloud State
+  icon: /events/scs.png
+  start: '2025-06-22 09:00'
+  end: '2025-06-22 17:00'
+  registrationLink: https://scoutingevent.com/296-Climbing2025
+  location:
+      - Quarry Park
+      - 1802 Co Rd 137
+      - Waite Park, Minnesota 56387
+  html: |-
+      <p>Instructor training is on Friday and Saturday. Merit badge is on Sunday.
+
 - title: Merit Badge Workshops
   host: North Star Museum
-  icon: /events/north-star-museum.jpg
+  icon: /events/north-star-museum.webp
   start: '2025-07-15'
   end: '2025-07-19'
   registrationLink: https://www.nssm.org/merit-badge-workshops.html
@@ -184,7 +253,7 @@
 
 - title: Merit Badge Workshops
   host: North Star Museum
-  icon: /events/north-star-museum.jpg
+  icon: /events/north-star-museum.webp
   start: '2025-08-12'
   end: '2025-08-15'
   registrationLink: https://www.nssm.org/merit-badge-workshops.html
@@ -197,7 +266,7 @@
 
 - title: District F Merit Badge Day
   host: District F
-  icon: /events/district-f.png
+  icon: /events/district-f.webp
   start: '2025-11-22 09:00'
   end: '2025-11-22 16:00'
   location:
