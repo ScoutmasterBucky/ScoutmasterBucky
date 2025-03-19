@@ -3,12 +3,12 @@ title: Snorkeling BSA
 </page>
 
 <script setup lang="ts">
-import requirements from '~/data/other-awards/snorkeling-bsa.yaml';
+import requirements from '~/data/other-awards/snorkeling.yaml';
 </script>
 
 <template>
     <ScaledContent align="center">
-        <OtherAwardBucky award="snorkeling-bsa" />
+        <OtherAwardBucky award="snorkeling" />
     </ScaledContent>
 
     <h3>Snorkeling BSA</h3>
@@ -99,11 +99,6 @@ import requirements from '~/data/other-awards/snorkeling-bsa.yaml';
         <a href="../aquatics-guide.pdf">Aquatics Supervision - Leader's Guide</a
         >. The award application is contained in the appendix.
     </p>
-
-    <div class="gallery">
-        <img src="/other-awards/snorkeling-bsa-card-front.jpg" />
-        <img src="/other-awards/snorkeling-bsa-card-back.jpg" />
-    </div>
 
     <h2>Snorkeling BSA Requirements</h2>
 

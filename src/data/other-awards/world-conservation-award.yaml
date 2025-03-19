@@ -1,0 +1,16 @@
+- requirements:
+  text: |-
+    Scouts BSA members can earn this award by earning the following merit badges:
+  children:
+    - requirement: 1
+      text: |-
+        Environmental Science OR Sustainability merit badge
+    - requirement: 2
+      text: |-
+        Soil and Water Conservation OR Fish and Wildlife Management merit badge
+    - requirement: 3
+      text: |-
+        Citizenship in the World merit badge
+  text: |-
+    AND participate in a conservation project as a part of an approved Scouting program totaling at least three hours that addressess a conservation need common to more than one country.
+
