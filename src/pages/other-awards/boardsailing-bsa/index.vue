@@ -8,7 +8,7 @@ import requirements from '~/data/other-awards/boardsailing-bsa.yaml';
 
 <template>
     <ScaledContent align="center">
-        <OtherAwardBucky award="boardsailing-bsa" />
+        <OtherAwardBucky award="boardsailing" />
     </ScaledContent>
 
     <h3>Boardsailing BSA</h3>
@@ -71,10 +71,6 @@ import requirements from '~/data/other-awards/boardsailing-bsa.yaml';
         <a href="../aquatics-guide.pdf">Aquatics Supervision - Leader's Guide</a
         >. The award application is contained in the appendix.
     </p>
-
-    <div class="gallery">
-        <img src="/other-awards/boardsailing-bsa-card-front.jpg" />
-    </div>
 
     <h2>Boardsailing BSA Requirements</h2>
 
