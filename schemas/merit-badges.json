@@ -20,6 +20,20 @@
                 "items": {
                     "type": "string"
                 }
+            },
+            "related": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "href": {
+                            "type": "string"
+                        }
+                    }
+                }
             }
         },
         "additionalProperties": false,

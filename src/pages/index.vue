@@ -7,7 +7,7 @@ title: Scoutmaster Bucky
 
 <script setup lang="ts">
 import { DateTime } from 'luxon';
-const lastBuildTime = DateTime.now().setZone('America/Chicago').toFormat('LLL dd, yyyy, h:mm:ss a');
+const lastBuildTime = DateTime.now().setZone('America/Chicago').toFormat('LLL d, yyyy, h:mm:ss a');
 </script>
 
 <template>
@@ -44,14 +44,14 @@ const lastBuildTime = DateTime.now().setZone('America/Chicago').toFormat('LLL dd
 
     <p>Due to the high demand, only one Eagle-required merit badge is allowed per Scout per opportunity.</p>
 
-    <p>Scoutmaster Bucky is Brian Reiners and is registered in Northern Star Scouting of the Boy Scouts of America.</p>
+    <p>Scoutmaster Bucky is Brian Reiners and is registered in Northern Star Scouting of Scouting America.</p>
 
     <p>Contact number: 612-483-0665<br />
     Email: <a href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry">ScoutmasterBucky@yahoo.com</a></p>
 
-    <p>Learn more about being <a href="counselors/">a counselor for Bucky</a>.</p>
+    <p>Learn more about being <a href="counselors/">a counselor on the Bucky team</a>.</p>
 
-    <p>Last update: {{ lastBuildTime }} (Bucky Time is Central Time)</p>
+    <p>Last updated at {{ lastBuildTime }} (Bucky Time is Central Time).</p>
 </template>
 
 <style scoped>

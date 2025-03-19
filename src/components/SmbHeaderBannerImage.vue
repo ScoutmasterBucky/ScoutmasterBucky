@@ -1,7 +1,8 @@
 <script setup lang="ts">
 const d = new Date();
 const month = d.getMonth() + 1;
-const src = `/images/header-month-${month}.jpg`;
+const pad = month < 10 ? '0' : '';
+const src = `/images/banner${pad}${month}.webp`;
 </script>
 
 <template>

@@ -20,7 +20,7 @@ const modal = ref(false);
             <UpcomingEventLocation :event="event" />
         </div>
 
-        <OnlineBanner v-if="event.online" />
+        <OnlineBanner v-if="!event.location" />
 
         <div class="title">{{ event.title }}</div>
     </div>

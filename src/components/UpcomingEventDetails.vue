@@ -34,7 +34,7 @@ const { event } = defineProps<{
                     {{ line }}
                 </div>
             </div>
-            <div v-if="event.online" class="online">Online</div>
+            <div v-if="!event.location" class="online">Online</div>
         </div>
         <UpcomingEventMeritBadges v-if="event.meritBadges" :event="event" />
         <div v-if="event.html" v-html="event.html"></div>
