@@ -13,6 +13,7 @@
 /* semantic color variables for this project */
 :root {
     --banner-menu-background: var(--palette-dark);
+    --banner-menu-border: 2px solid var(--palette-very-dark);
     --dnd-background: var(--palette-black);
     --event-online-banner-border: 0.8px solid var(--palette-black);
     --event-online-banner-background: var(--palette-attention);
@@ -27,6 +28,10 @@
     --flyout-menu-icon-color: var(--palette-light);
     --flyout-menu-text-color: var(--palette-white);
     --flyout-menu-border: 2px solid var(--palette-very-dark);
+    --footer-bar-color: var(--palette-white);
+    --footer-bar-border: 2px solid var(--palette-very-dark);
+    --footer-bar-background: var(--palette-dark);
+    --footer-saying-color: var(--palette-dark);
     --menu-button-border: 2px solid var(--palette-very-dark);
     --menu-button-background: var(--palette-light);
     --menu-button-background-hover: var(--palette-very-light);

@@ -17,11 +17,24 @@ const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
 
 const related = new Set();
 
+if (info.related) {
+    for (const item of info.related) {
+        related.add(item);
+    }
+}
+
+if (info.eagle) {
+    related.add({
+        name: 'Eagle Rank',
+        href: '/scout-ranks/eagle/',
+    });
+}
+
 for (const novaName of info.novas) {
     const nova = novaAwards['scouts-bsa'][novaName];
     related.add({
         name: `${nova.name} Nova Award`,
-        url: `/nova-lab/scouts-bsa/${novaName}/`,
+        href: `/nova-lab/scouts-bsa/${novaName}/`,
     });
 }
 </script>
@@ -50,7 +63,7 @@ for (const novaName of info.novas) {
 
     <ul v-if="related.size">
         <li v-for="item in related">
-            <a :href="item.url">{{ item.name }}</a>
+            <a :href="item.href">{{ item.name }}</a>
         </li>
     </ul>
 

@@ -3,14 +3,17 @@
     "version": "0.0.0",
     "type": "module",
     "scripts": {
-        "build": "iles build && node build-sitemap.mjs && npm run verify",
+        "build": "npm run verify-data && npm run build-dist && npm run build-sitemap && npm run verify-internal-links",
+        "build-dist": "iles build",
+        "build-sitemap": "node build-sitemap.mjs",
         "now": "npm run build && npm run preview",
         "preview": "iles preview --open --port 5050 --host",
         "reinstall": "rm -rf node_modules package-lock.json && npm install",
         "start": "iles dev --open --host",
         "typecheck": "vue-tsc --noEmit",
-        "verify": "node validate-data.mjs && check-html-links dist/",
-        "verify-external-links": "check-html-links dist/ --validate-externals"
+        "verify-data": "node validate-data.mjs",
+        "verify-external-links": "check-html-links dist/ --validate-externals",
+        "verify-internal-links": "check-html-links dist/ 2>&1 > /dev/null | ( ! grep --context=1000 '❌' )"
     },
     "engines": {
         "node": ">= 20.0.0"
