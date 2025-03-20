@@ -8,7 +8,7 @@ import requirements from '~/data/other-awards/keep-america-beautiful-hometown-us
 
 <template>
     <ScaledContent align="center">
-        <OtherAwardBucky award="keep-america-beautiful-hometown-usa-patch" />
+        <OtherAwardBucky award="keep-america-beautiful-hometown-usa" />
     </ScaledContent>
 
     <h3>Keep America Beautiful - Hometown U.S.A. Award</h3>
