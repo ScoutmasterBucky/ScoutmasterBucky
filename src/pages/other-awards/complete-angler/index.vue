@@ -8,7 +8,7 @@ import requirements from '~/data/other-awards/complete-angler.yaml';
 
 <template>
     <ScaledContent align="center">
-        <OtherAwardBucky award="complete-angler" />
+        <OtherAwardBucky award="complete-angler-patch" />
     </ScaledContent>
 
     <h3>Complete Angler</h3>
@@ -23,7 +23,7 @@ import requirements from '~/data/other-awards/complete-angler.yaml';
 
     <p><a href="/other-awards/complete-angler-recognition.pdf">Complete Angler Award Application</a></p>
 
-    <h2>COmplete Angler Requirements</h2>
+    <h2>Complete Angler Requirements</h2>
 
       <Requirements :requirements="requirements" />
 </template>
