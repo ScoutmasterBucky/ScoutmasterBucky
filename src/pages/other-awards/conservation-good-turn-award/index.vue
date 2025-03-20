@@ -27,5 +27,5 @@ import requirements from '~/data/other-awards/conservation-good-turn-award.yaml'
 
     <h2>Conservation Good Turn Award Requirements</h2>
 
-      <Requirements :requirements="requirements" />
+    <Requirements :requirements="requirements" />
 </template>
