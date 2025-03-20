@@ -22,7 +22,7 @@ import requirements from '~/data/other-awards/distinguished-conservation-service
     <p>The award, the most distinguished in Scouting for exceptional conservation service, will be awarded for clearly outstanding efforts in planning, leadership, execution of plans, involvement of others, and opportunities taken to help others learn about natural resource conservation and environmental improvement.</p>
 
 
-    <p>To assist the applicant with the documentation needed in completing the service projects, and the documentation of the completed projects, the <a href="https://www.scouting.org/wp-content/uploads/2020/11/BSA-Distinguished-Conservation-Service-Award-Workbook-430-815.pdf">Scouting America Distinguished Conservation Service Award Project Workbook has been developed and is required to be used by the applicant</p>
+    <p>To assist the applicant with the documentation needed in completing the service projects, and the documentation of the completed projects, the <a href="https://www.scouting.org/wp-content/uploads/2020/11/BSA-Distinguished-Conservation-Service-Award-Workbook-430-815.pdf">Scouting America Distinguished Conservation Service Award Project Workbook</a> has been developed and is required to be used by the applicant</p>
 
 
     <p>It is HIGHLY recommended to contact and work with a member of the Council Conservation Committee before beginning work on this award.</p>
@@ -31,7 +31,7 @@ import requirements from '~/data/other-awards/distinguished-conservation-service
     <p>The Scouting America Distinguished Conservation Service Award includes a certificate, medal, and embroidered square knot for award recipients.</p>
 
 
-    <h2>Distinguished Conservation ervice Award Requirements</h2>
+    <h2>Distinguished Conservation Service Award Requirements</h2>
 
     <Requirements :requirements="requirements" />
 </template>
