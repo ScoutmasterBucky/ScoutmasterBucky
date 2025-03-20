@@ -17,10 +17,6 @@ import requirements from '~/data/other-awards/totin-chip.yaml';
 
     <p>When earned, the Scout may receive the Totin Chip patch, the Totin Chip card, or both.</p>
 
-    <div class="gallery">
-        <img src="/other-awards/totin-chip-card-front.jpg">
-    </div>
-
     <h3>Totin' Chip Requirements</h3>
 
     <Requirements :requirements="requirements" />
