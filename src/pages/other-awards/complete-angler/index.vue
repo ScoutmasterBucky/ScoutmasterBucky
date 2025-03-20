@@ -8,7 +8,7 @@ import requirements from '~/data/other-awards/complete-angler.yaml';
 
 <template>
     <ScaledContent align="center">
-        <OtherAwardBucky award="complete-angler-patch" />
+        <OtherAwardBucky award="complete-angler" />
     </ScaledContent>
 
     <h3>Complete Angler</h3>

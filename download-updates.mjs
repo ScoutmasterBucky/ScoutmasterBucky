@@ -306,6 +306,12 @@ async function downloadOtherAwards(updated) {
             selector: "a[href*=pdf]"
         },
         {
+            key: "complete-angler",
+            url: "https://www.scouting.org/awards/awards-central/",
+            dest: "public/other-awards/complete-angler.pdf",
+            selector: "a[href*=Angler]"
+        },
+        {
             key: "totin-chip",
             url: "https://www.scouting.org/awards/awards-central/totin-chip/",
             dest: "src/data/other-awards/totin-chip.html.orig",
