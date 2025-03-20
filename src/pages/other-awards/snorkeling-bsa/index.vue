@@ -3,12 +3,12 @@ title: Snorkeling BSA
 </page>
 
 <script setup lang="ts">
-import requirements from '~/data/other-awards/snorkeling.yaml';
+import requirements from '~/data/other-awards/snorkeling-bsa.yaml';
 </script>
 
 <template>
     <ScaledContent align="center">
-        <OtherAwardBucky award="snorkeling" />
+        <OtherAwardBucky award="snorkeling-patch" />
     </ScaledContent>
 
     <h3>Snorkeling BSA</h3>
