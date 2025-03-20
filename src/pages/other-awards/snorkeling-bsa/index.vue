@@ -8,7 +8,7 @@ import requirements from '~/data/other-awards/snorkeling-bsa.yaml';
 
 <template>
     <ScaledContent align="center">
-        <OtherAwardBucky award="snorkeling-patch" />
+        <OtherAwardBucky award="snorkeling-bsa" />
     </ScaledContent>
 
     <h3>Snorkeling BSA</h3>
