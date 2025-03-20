@@ -1,0 +1,46 @@
+- requirement: A
+  text: |-
+      Earn three merit badges from the following list of 13:
+  children:
+      - requirement: 1
+        text: |-
+            Citizenship in the Community
+      - requirement: 2
+        text: |-
+            Communication
+      - requirement: 3
+        text: |-
+            Energy
+      - requirement: 4
+        text: |-
+            Environmental Science
+      - requirement: 5
+        text: |-
+            Fish and Wildlife Management
+      - requirement: 6
+        text: |-
+            Forestry
+      - requirement: 7
+        text: |-
+            Gardening
+      - requirement: 8
+        text: |-
+            Geocaching
+      - requirement: 9
+        text: |-
+            Landscape Architecture
+      - requirement: 10
+        text: |-
+            Photography
+      - requirement: 11
+        text: |-
+            Public Speaking
+      - requirement: 12
+        text: |-
+            Soil and Water Conservation
+      - requirement: 13
+        text: |-
+            Sustainability
+- requirement: B
+  text: |-
+      In addition to earning the merit badges, a Scout is required to perform a community service project. The project should involve a minimum of eight hours of time, two of which must involve management planning, with the other six consisting of carrying out the project. It should help keep America beautiful and benefit the community either physically or financially. One way to do this is to plan the community service project as part of a Keep America Beautiful program.
