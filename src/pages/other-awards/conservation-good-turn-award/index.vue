@@ -8,7 +8,7 @@ import requirements from '~/data/other-awards/conservation-good-turn-award.yaml'
 
 <template>
     <ScaledContent align="center">
-        <OtherAwardBucky award="conservation-good-turn-award" />
+        <OtherAwardBucky award="conservation-good-turn-award-patch" />
     </ScaledContent>
 
     <h3>Conservation Good Turn Award</h3>
@@ -21,14 +21,11 @@ import requirements from '~/data/other-awards/conservation-good-turn-award.yaml'
 
     <p>Conservation and environmental organizations typically have a backlog of needed projects that they have been unable to carry out for lack of funding or volunteers. The list of possible Good Turn projects is limited only by the needs of the conservation organization and the willingness of the Scouting unit. In every community, whether urban, suburban, or rural, worthwhile projects await all Scouting units.</p>
 
-
     <p>When project has been completed, submit the completed <a href="https://www.scouting.org/wp-content/uploads/2024/01/Conservation-Good-Trun-Award-Application-Fillable.pdf">Conservation Good Turn Award Application to your local council service center.</p>
-
 
     <p>Patches may purchased at the Scout Shop to provide to individuals who participated in the project work. This patch may be worn as a temporary patch on the right pocket of the Scout uniform or on the back of the sash.</p>
 
-
     <h2>Conservation Good Turn Award Requirements</h2>
 
-    <Requirements :requirements="requirements" />
+      <Requirements :requirements="requirements" />
 </template>
