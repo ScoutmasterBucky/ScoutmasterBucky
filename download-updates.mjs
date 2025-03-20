@@ -306,10 +306,22 @@ async function downloadOtherAwards(updated) {
             selector: "a[href*=pdf]"
         },
         {
+            key: "conservation-good-turn-award",
+            url: "https://www.scouting.org/outdoor-programs/conservation-and-environment/conservation-good-turn/",
+            dest: "src/data/other-awards/conservation-good-turn-award.html.orig",
+            selector: "[data-id=bf81f70]"
+        },
+        {
             key: "complete-angler",
             url: "https://www.scouting.org/awards/awards-central/",
             dest: "public/other-awards/complete-angler.pdf",
             selector: "a[href*=Angler]"
+        },
+        {
+            key: "keep-america-beautiful-hometown-usa",
+            url: "https://www.scouting.org/awards/awards-central/keep-america-beautiful-hometown-usa-award/",
+            dest: "src/data/other-awards/keep-america-beautiful-hometown-usa.html.orig",
+            selector: "[data-id=eb59c62]"
         },
         {
             key: "totin-chip",

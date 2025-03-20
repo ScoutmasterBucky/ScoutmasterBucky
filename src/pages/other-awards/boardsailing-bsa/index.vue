@@ -8,7 +8,7 @@ import requirements from '~/data/other-awards/boardsailing-bsa.yaml';
 
 <template>
     <ScaledContent align="center">
-        <OtherAwardBucky award="boardsailing" />
+        <OtherAwardBucky award="boardsailing-bsa" />
     </ScaledContent>
 
     <h3>Boardsailing BSA</h3>

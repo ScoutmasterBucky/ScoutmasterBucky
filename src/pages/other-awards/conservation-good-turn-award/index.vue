@@ -8,7 +8,7 @@ import requirements from '~/data/other-awards/conservation-good-turn-award.yaml'
 
 <template>
     <ScaledContent align="center">
-        <OtherAwardBucky award="conservation-good-turn-award-patch" />
+        <OtherAwardBucky award="conservation-good-turn-award" />
     </ScaledContent>
 
     <h3>Conservation Good Turn Award</h3>
