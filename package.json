@@ -8,6 +8,7 @@
         "build-sitemap": "node build-sitemap.mjs",
         "now": "npm run build && npm run preview",
         "preview": "iles preview --open --port 5050 --host",
+        "preview-windows": "npm ci && npm run start",
         "reinstall": "rm -rf node_modules package-lock.json && npm install",
         "start": "iles dev --open --host",
         "typecheck": "vue-tsc --noEmit",
