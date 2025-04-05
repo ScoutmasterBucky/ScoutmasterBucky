@@ -22,7 +22,7 @@ const lastBuildTime = DateTime.now().setZone('America/Chicago').toFormat('LLL d,
         </div>
 
         <!-- Spot here for a featured item to display on the right -->
-        <FeaturedItemYoutubeVideo code="JQIY2uHbqog" ratio="16 / 9" />
+        <FeaturedItemYoutubeVideo code="-_BdIfBZbHo" ratio="16 / 9" />
     </div>
 
     <SmbNews v-if="$frontmatter.news" :news="$frontmatter.news" />
