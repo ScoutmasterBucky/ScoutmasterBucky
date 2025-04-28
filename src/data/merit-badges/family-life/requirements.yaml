@@ -1,5 +1,4 @@
-# 5c is missing a period after the last list item. Did not add one.
-# Requirement 6b's has trailing periods after 3, 5 and not 1, 2, 4, 6. Did not fix.
+# Requirement 6b's has trailing periods after 3, 5, 7 and not 1, 2, 4, 6. Did not fix.
 - requirement: 1
   text: |-
     Prepare an outline on what a family is and discuss this with your
@@ -8,7 +7,7 @@
 - requirement: 2
   text: |-
     List several reasons why you are important to your family and discuss this
-    with your parents or guardians and with your counselor.
+    with your parent or guardian and with your counselor.
 - requirement: 3
   text: |-
     Prepare a list of your regular home duties or chores (at least five) and do
@@ -34,7 +33,7 @@
         How individual members of your family participated
     - requirement: c
       text: |-
-        The results of the project
+        The results of the project.
 - requirement: 6
   text: |-
     Do the following (discussion of each of these subjects may carry over to
@@ -46,7 +45,7 @@
     - requirement: b
       text: |-
         Prepare a meeting agenda that includes the following topics, review it
-        with your parents or guardians, and then carry out one or more family
+        with your parent or guardian, and then carry out one or more family
         meetings:
       children:
         - requirement: 1
@@ -69,14 +68,14 @@
             Personal and family finances
         - requirement: 5
           text: |-
-            A crisis situation within your family and who you can turn to for
+            A crisis situation within your family and whom you can turn to for
             support during these situations.
         - requirement: 6
           text: |-
             The effect of technology on your family
         - requirement: 7
           text: |-
-            Good etiquette and manners
+            Good etiquette and manners.
         - detail: true
           text: |-
             Discussion of each of these subjects may carry over to more

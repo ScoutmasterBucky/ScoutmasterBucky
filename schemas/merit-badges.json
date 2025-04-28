@@ -21,18 +21,16 @@
                     "type": "string"
                 }
             },
-            "related": {
+            "other-awards": {
                 "type": "array",
                 "items": {
-                    "type": "object",
-                    "properties": {
-                        "name": {
-                            "type": "string"
-                        },
-                        "href": {
-                            "type": "string"
-                        }
-                    }
+                    "type": "string"
+                }
+            },
+            "ranks": {
+                "type": "array",
+                "items": {
+                    "type": "string"
                 }
             }
         },
@@ -41,7 +39,9 @@
             "bucky",
             "image",
             "name",
-            "novas"
+            "novas",
+            "other-awards",
+            "ranks"
         ]
     }
 }

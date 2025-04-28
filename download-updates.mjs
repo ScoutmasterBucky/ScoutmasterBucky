@@ -8,7 +8,7 @@ import neodoc from "neodoc";
 import { parseHTML } from "linkedom";
 import path from "path";
 import * as prettier from "prettier";
-import { getDocument } from "pdfjs-dist";
+import { getDocument } from "pdfjs-dist/legacy/build/pdf.mjs";
 import { promises as fsPromises } from "fs";
 
 const downloadables = [

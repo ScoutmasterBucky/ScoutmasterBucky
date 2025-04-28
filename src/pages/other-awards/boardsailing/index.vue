@@ -1,20 +1,20 @@
 <page>
-title: Boardsailing BSA
+title: Boardsailing
 </page>
 
 <script setup lang="ts">
-import requirements from '~/data/other-awards/boardsailing-bsa.yaml';
+import requirements from '~/data/other-awards/boardsailing.yaml';
 </script>
 
 <template>
     <ScaledContent align="center">
-        <OtherAwardBucky award="boardsailing-bsa" />
+        <OtherAwardBucky award="boardsailing" />
     </ScaledContent>
 
-    <h3>Boardsailing BSA</h3>
+    <h3>Boardsailing</h3>
 
     <p>
-        Boardsailing BSA has been developed to introduce basic boardsailing
+        Boardsailing has been developed to introduce basic boardsailing
         skills, equipment, and safety precautions; to encourage the development
         of skills that promote fitness and safe aquatic recreation; and to lay a
         foundation for more advanced and demanding boardsailing activities. Any
@@ -43,7 +43,7 @@ import requirements from '~/data/other-awards/boardsailing-bsa.yaml';
 
     <p>
         All requirements must be completed as stated. Basic skills and safety
-        precautions are presented in the BSA publication:
+        precautions are presented in the Scouting America publication:
         <a href="/other-awards/aquatics-guide.pdf"
             >Aquatics Supervision: A Youth Leader's Guide for Swimming and
             Boating Activities, No. 34346</a
@@ -54,14 +54,14 @@ import requirements from '~/data/other-awards/boardsailing-bsa.yaml';
 
     <p>
         <i
-            >Swimsuit / swim trunks emblem - The Boardsailing BSA patch is NOT
+            >Swimsuit / swim trunks emblem - The Boardsailing patch is NOT
             worn on the uniform or the sash; it is worn on the left side of the
             swimsuit / swim trunks.</i
         >
     </p>
 
     <p>
-        Upon successful completion, participants earn the Boardsailing BSA patch
+        Upon successful completion, participants earn the Boardsailing patch
         along with their achievement card. Completion indicates the individual
         has experienced a valuable introduction to boardsailing.
     </p>
@@ -72,7 +72,7 @@ import requirements from '~/data/other-awards/boardsailing-bsa.yaml';
         >. The award application is contained in the appendix.
     </p>
 
-    <h2>Boardsailing BSA Requirements</h2>
+    <h2>Boardsailing Requirements</h2>
 
     <Requirements :requirements="requirements" />
 </template>

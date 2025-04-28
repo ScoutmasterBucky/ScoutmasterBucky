@@ -61,15 +61,24 @@
     <ul class="mb-requirement-children-list">
       <li class="mb-requirement-child mb-parent-11324 mb-requirement-id-11326">
         (a) Demonstrate how to check the following:
-        <ol class="li-d">
-          <li>Brake fluid</li>
-          <li>Engine oil</li>
-          <li>Coolant</li>
-          <li>Power steering fluid</li>
-          <li>Windshield washer fluid</li>
-          <li>Transmission fluid</li>
-          <li>
-            Battery fluid (if possible) and condition of the battery terminal.
+        <ol style="list-style-type: none; padding-left: 0">
+          <li style="margin-bottom: 5px; padding-left: 20px">
+            (1) Brake fluid
+          </li>
+          <li style="margin-bottom: 5px; padding-left: 20px">(2) Engine oil</li>
+          <li style="margin-bottom: 5px; padding-left: 20px">(3) Coolant</li>
+          <li style="margin-bottom: 5px; padding-left: 20px">
+            (4) Power steering fluid
+          </li>
+          <li style="margin-bottom: 5px; padding-left: 20px">
+            (5) Windshield washer fluid
+          </li>
+          <li style="margin-bottom: 5px; padding-left: 20px">
+            (6) Transmission fluid
+          </li>
+          <li style="margin-bottom: 5px; padding-left: 20px">
+            (7) Battery fluid (if possible) and condition of the battery
+            terminals
           </li>
         </ol>
       </li>

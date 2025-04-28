@@ -1,20 +1,20 @@
 <page>
-title: Snorkeling BSA
+title: Snorkeling
 </page>
 
 <script setup lang="ts">
-import requirements from '~/data/other-awards/snorkeling-bsa.yaml';
+import requirements from '~/data/other-awards/snorkeling.yaml';
 </script>
 
 <template>
     <ScaledContent align="center">
-        <OtherAwardBucky award="snorkeling-bsa" />
+        <OtherAwardBucky award="snorkeling" />
     </ScaledContent>
 
-    <h3>Snorkeling BSA</h3>
+    <h3>Snorkeling</h3>
 
     <p>
-        The Snorkeling BSA requirements introduce the special skills, equipment,
+        The Snorkeling requirements introduce the special skills, equipment,
         and safety precautions associated with snorkeling; encourage the
         development of aquatics skills that promote fitness and recreation; and
         provide a foundation for those who later will participate in more
@@ -30,16 +30,17 @@ import requirements from '~/data/other-awards/snorkeling-bsa.yaml';
 
     <p>
         All counselors must have current Safe Swim Defense training and council
-        approval. Anyone currently trained as a BSA Aquatics Instructor or
-        certified as a snorkeling instructor by a BSA recognized scuba training
-        agency may serve as a counselor for the Snorkeling BSA award. Councils
-        may also approve counselors who have been trained and are supervised by
-        those with the previously listed credentials.
+        approval. Anyone currently trained as a Scouting America Aquatics
+        Instructor or certified as a snorkeling instructor by a Scouting
+        America recognized scuba training agency may serve as a counselor for
+        the Snorkeling award. Councils may also approve counselors who have
+        been trained and are supervised by those with the previously listed
+        credentials.
     </p>
 
     <p>
         Instruction must be conducted in clear, confined water with a maximum
-        depth of 12 feet. A swimming pool is recommended. Snorkeling BSA is
+        depth of 12 feet. A swimming pool is recommended. Snorkeling is
         ideally suited to winter programs using indoor pools. Three 45-minute
         sessions are recommended for instruction, practice, and completion of
         requirements.
@@ -49,14 +50,14 @@ import requirements from '~/data/other-awards/snorkeling-bsa.yaml';
         All aspects of Safe Swim Defense apply during instruction, practice, and
         all other snorkeling activities. Snorkeling in open water requires each
         participant to first demonstrate knowledge and skills equivalent to the
-        Snorkeling BSA requirements.
+        Snorkeling requirements.
     </p>
 
     <p>
         <a href="../aquatics-guide.pdf"
             >Aquatics Supervision: A Leader's Guide to Youth Swimming and
             Boating Activities, No. 34346</a
-        >, provides reference material for Snorkeling BSA instruction. Scuba
+        >, provides reference material for Snorkeling instruction. Scuba
         training agencies, equipment manufacturers, and others occasionally
         publish references available online and through bookstores and dive
         shops. Although few dedicated snorkeling texts are available,
@@ -82,14 +83,14 @@ import requirements from '~/data/other-awards/snorkeling-bsa.yaml';
 
     <p>
         <i
-            >Swimsuit / swim trunks emblem - The Snorkeling BSA patch is NOT
+            >Swimsuit / swim trunks emblem - The Snorkeling patch is NOT
             worn on the uniform or the sash; it is worn on the left side of the
             swimsuit / swim trunks.</i
         >
     </p>
 
     <p>
-        Upon successful completion, participants earn the Snorkeling BSA patch
+        Upon successful completion, participants earn the Snorkeling patch
         along with their achievement card. Completion indicates the individual
         has experienced a valuable introduction to snorkeling.
     </p>
@@ -100,7 +101,7 @@ import requirements from '~/data/other-awards/snorkeling-bsa.yaml';
         >. The award application is contained in the appendix.
     </p>
 
-    <h2>Snorkeling BSA Requirements</h2>
+    <h2>Snorkeling Requirements</h2>
 
     <Requirements :requirements="requirements" />
 </template>

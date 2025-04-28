@@ -34,7 +34,7 @@
         Describe three or more different types of arrows.
     - requirement: c
       text: |-
-        Name the four principle materials for making arrow shafts.
+        Name the four principal materials for making arrow shafts.
     - requirement: d
       text: |-
         Do ONE of the following:
@@ -89,63 +89,61 @@
     trained by a NCS Range Activities Director or by a USA Archery Level 1
     Instructor), do ONE of the following Options:
   children:
-    - requirement: A
+    - detail: true
       text: |-
         <strong>Option A: Recurve Bow or Longbow</strong>
+    - requirement: a
+      text: |-
+        Name and point to the parts of the recurve or longbow you are
+        shooting.
+    - requirement: b
+      text: |-
+        Explain how to properly care for and store recurve bows and
+        longbows.
+    - requirement: c
+      text: |-
+        Demonstrate and explain USA Archery's eleven "Steps of Shooting"
+        for the bow you are shooting.
+    - requirement: d
+      text: |-
+        Demonstrate the proper way to string a recurve bow or longbow.
+    - requirement: e
+      text: |-
+        Using a bow square, locate and mark with dental floss, crimp-on, or
+        other method, the nocking point on the bowstring of the bow you are
+        using.
+    - requirement: f
+      text: |-
+        Do ONE of the following:
       children:
-        - requirement: a
+        - requirement: 1
           text: |-
-            Name and point to the parts of the recurve or longbow you are
-            shooting.
-        - requirement: b
-          text: |-
-            Explain how to properly care for and store recurve bows and
-            longbows.
-        - requirement: c
-          text: |-
-            Demonstrate and explain USA Archery's eleven "Steps of Shooting"
-            for the bow you are shooting.
-        - requirement: d
-          text: |-
-            Demonstrate the proper way to string a recurve bow or longbow.
-        - requirement: e
-          text: |-
-            Using a bow square, locate and mark with dental floss, crimp-on, or
-            other method, the nocking point on the bowstring of the bow you are
-            using.
-        - requirement: f
-          text: |-
-            Do ONE of the following:
+            Using a recurve bow or longbow and arrows with a finger
+            release, shoot a single round of one of the following:
           children:
-            - requirement: 1
+            - requirement: a
               text: |-
-                Using a recurve bow or longbow and arrows with a finger
-                release, shoot a single round of one of the following BSA, USA
-                Archery, or NFAA rounds:
-              children:
-                - requirement: a
-                  text: |-
-                    An NFAA field round of 14 targets and make a score of 60
-                    points
-                - requirement: b
-                  text: |-
-                    Scouting America field round of 14 targets and make a score
-                    of 80 points
-                - requirement: c
-                  text: |-
-                    A World Archery/USA Archery indoor round and make a score
-                    of 80 points (indoor rounds may be shot outdoors if this is
-                    more convenient)
-                - requirement: d
-                  text: |-
-                    An NFAA indoor round and make a score of 50 points (indoor
-                    rounds may be shot outdoors if this is more convenient).
-            - requirement: 2
+                An NFAA field round of 14 targets and make a score of 60
+                points
+            - requirement: b
               text: |-
-                Shooting 30 arrows in five-arrow ends at an 80-centimeter
-                (32-inch) five-color target at 10 yards and using the 10
-                scoring regions, make a score of 150.
-    - requirement: B
+                A Scouting America field round of 14 targets and make a score
+                of 80 points
+            - requirement: c
+              text: |-
+                A World Archery/USA Archery indoor round and make a score
+                of 80 points (indoor rounds may be shot outdoors if this is
+                more convenient)
+            - requirement: d
+              text: |-
+                An NFAA indoor round and make a score of 50 points (indoor
+                rounds may be shot outdoors if this is more convenient).
+        - requirement: 2
+          text: |-
+            Shooting 30 arrows in five-arrow ends at an 80-centimeter
+            (32-inch) five-color target at 10 yards and using the 10
+            scoring regions, make a score of 150.
+    - detail: true
       text: |-
         <strong>Option B: Compound Bow </strong>
     - requirement: a
@@ -173,23 +171,23 @@
         - requirement: 1
           text: |-
             Using a compound bow and arrows with a finger release, shoot a
-            single round of ONE of the following BSA, NAA,or NFAA rounds:
+            single round of ONE of the following:
           children:
             - requirement: a
               text: |-
                 An NFAA field round of 14 targets and make a score of 70 points
             - requirement: b
               text: |-
-                Scouting America field round of 14 targets and make a score of
+                A Scouting America field round of 14 targets and make a score of
                 90 points
             - requirement: c
               text: |-
-                World Archery/USA Archery indoor round and make a score of 90
+                A World Archery/USA Archery indoor round and make a score of 90
                 points (indoor rounds may be shot outdoors if this is more
                 convenient)
             - requirement: d
               text: |-
-                NFAA indoor round and make a score of 60 points (indoor rounds
+                An NFAA indoor round and make a score of 60 points (indoor rounds
                 may be shot outdoors if this is more convenient)
         - requirement: 2
           text: |-
