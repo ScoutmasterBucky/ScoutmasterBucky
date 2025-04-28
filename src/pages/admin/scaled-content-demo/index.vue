@@ -20,7 +20,7 @@ const lorem = [
     <h2>Center</h2>
 
     <ScaledContent align="center">
-        <OtherAwardBucky award="boardsailing-bsa" />
+        <OtherAwardBucky award="boardsailing" />
     </ScaledContent>
 
     <p v-for="content of lorem">{{ content }}</p>

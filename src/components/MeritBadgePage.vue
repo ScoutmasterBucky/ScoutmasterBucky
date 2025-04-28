@@ -6,6 +6,8 @@ const { badge, requirements, resources } = defineProps<{
 }>();
 import meritBadges from '~/data/merit-badges.json';
 import novaAwards from '~/data/nova-awards.json';
+import otherAwards from '~/data/other-awards.json';
+import scoutRanks from '~/data/scout-ranks.json';
 import updated from '~/data/updated.json';
 const info = meritBadges[badge];
 const updatedDate = new Date(updated['merit-badges'][badge]);
@@ -17,16 +19,11 @@ const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
 
 const related = new Set();
 
-if (info.related) {
-    for (const item of info.related) {
-        related.add(item);
-    }
-}
-
-if (info.eagle) {
+for (const rankName of info.ranks) {
+    const rank = scoutRanks[rankName];
     related.add({
-        name: 'Eagle Rank',
-        href: '/scout-ranks/eagle/',
+        name: `${rank.name} Rank`,
+        href: `/scout-ranks/${rankName}/`,
     });
 }
 
@@ -35,6 +32,14 @@ for (const novaName of info.novas) {
     related.add({
         name: `${nova.name} Nova Award`,
         href: `/nova-lab/scouts-bsa/${novaName}/`,
+    });
+}
+
+for (const otherAwardName of info['other-awards']) {
+    const otherAward = otherAwards[otherAwardName];
+    related.add({
+        name: otherAward.name,
+        href: `/other-awards/${otherAwardName}/`,
     });
 }
 </script>
