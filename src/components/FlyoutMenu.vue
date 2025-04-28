@@ -1,8 +1,14 @@
+<script setup lang="ts">
+const toggle = () => {
+    document.getElementById('menu').classList.toggle('flyout');
+};
+</script>
+
 <template>
     <div id="menu" class="unprintable">
         <a
             class="toggle"
-            @click.stop.prevent="document.getElementById('menu').classList.toggle('flyout')"
+            @click.stop.prevent="toggle()"
             href="#"
         >
             <svg
