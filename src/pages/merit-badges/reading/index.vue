@@ -2,6 +2,8 @@
 title: Reading Merit Badge
 badge: reading
 resources:
+    - name: Reading Merit Badge Pamphlet
+      url: /merit-badges/reading/reading-pamphlet.pdf
     - name: Reading Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/reading/reading-cpp.pdf

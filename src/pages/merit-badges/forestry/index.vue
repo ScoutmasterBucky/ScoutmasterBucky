@@ -2,6 +2,8 @@
 title: Forestry Merit Badge
 badge: forestry
 resources:
+    - name: Forestry Merit Badge Pamphlet
+      url: /merit-badges/forestry/forestry-pamphlet.pdf
     - name: Forestry Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/forestry/forestry-cpp.pdf

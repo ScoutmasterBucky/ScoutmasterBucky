@@ -2,6 +2,8 @@
 title: American Labor Merit Badge
 badge: american-labor
 resources:
+    - name: American Labor Merit Badge Pamphlet
+      url: /merit-badges/american-labor/american-labor-pamphlet.pdf
     - name: American Labor Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/american-labor/american-labor-cpp.pdf

@@ -2,6 +2,8 @@
 title: Gardening Merit Badge
 badge: gardening
 resources:
+    - name: Gardening Merit Badge Pamphlet
+      url: /merit-badges/gardening/gardening-pamphlet.pdf
     - name: Gardening Workbook
       shortName: Workbook
       url: /merit-badges/gardening/gardening-workbook.pdf

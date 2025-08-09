@@ -2,6 +2,8 @@
 title: Motorboating Merit Badge
 badge: motorboating
 resources:
+    - name: Motorboating Merit Badge Pamphlet
+      url: /merit-badges/motorboating/motorboating-pamphlet.pdf
     - name: Motorboating Workbook
       shortName: Workbook
       url: /merit-badges/motorboating/motorboating-workbook.pdf

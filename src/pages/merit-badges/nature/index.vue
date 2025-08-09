@@ -2,6 +2,8 @@
 title: Nature Merit Badge
 badge: nature
 resources:
+    - name: Nature Merit Badge Pamphlet
+      url: /merit-badges/nature/nature-pamphlet.pdf
     - name: Nature Workbook
       shortName: Workbook
       url: /merit-badges/nature/nature-workbook.pdf

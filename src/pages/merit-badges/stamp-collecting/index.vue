@@ -2,6 +2,8 @@
 title: Stamp Collecting Merit Badge
 badge: stamp-collecting
 resources:
+    - name: Stamp Collecting Merit Badge Pamphlet
+      url: /merit-badges/stamp-collecting/stamp-collecting-pamphlet.pdf
     - name: Stamp Collecting Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/stamp-collecting/stamp-collecting-cpp.pdf

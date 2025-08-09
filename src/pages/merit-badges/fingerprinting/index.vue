@@ -2,6 +2,8 @@
 title: Fingerprinting Merit Badge
 badge: fingerprinting
 resources:
+    - name: Fingerprinting Merit Badge Pamphlet
+      url: /merit-badges/fingerprinting/fingerprinting-pamphlet.pdf
     - name: Fingerprinting Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/fingerprinting/fingerprinting-cpp.pdf

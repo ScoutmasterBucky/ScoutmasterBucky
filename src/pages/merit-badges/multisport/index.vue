@@ -2,6 +2,8 @@
 title: Multisport Merit Badge
 badge: multisport
 resources:
+    - name: Multisport Merit Badge Pamphlet
+      url: /merit-badges/multisport/multisport-pamphlet.pdf
     - name: Scoutmaster Bucky's Merit Badge Advancement Quick Reference
       shortName: Advancement Quick Reference
       url: /documents/mbaqr.pdf

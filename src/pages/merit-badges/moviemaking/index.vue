@@ -2,6 +2,8 @@
 title: Moviemaking Merit Badge
 badge: moviemaking
 resources:
+    - name: Moviemaking Merit Badge Pamphlet
+      url: /merit-badges/moviemaking/moviemaking-pamphlet.pdf
     - name: Moviemaking Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/moviemaking/moviemaking-cpp.pdf

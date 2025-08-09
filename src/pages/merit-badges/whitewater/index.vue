@@ -2,6 +2,8 @@
 title: Whitewater Merit Badge
 badge: whitewater
 resources:
+    - name: Whitewater Merit Badge Pamphlet
+      url: /merit-badges/whitewater/whitewater-pamphlet.pdf
     - name: Whitewater Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/whitewater/whitewater-cpp.pdf

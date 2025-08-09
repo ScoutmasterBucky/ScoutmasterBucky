@@ -2,6 +2,8 @@
 title: Personal Fitness Merit Badge
 badge: personal-fitness
 resources:
+    - name: Personal Fitness Merit Badge Pamphlet
+      url: /merit-badges/personal-fitness/personal-fitness-pamphlet.pdf
     - name: Personal Fitness Workbook
       shortName: Workbook
       url: /merit-badges/personal-fitness/personal-fitness-workbook.pdf

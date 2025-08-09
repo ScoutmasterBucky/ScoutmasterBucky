@@ -2,6 +2,8 @@
 title: Pottery Merit Badge
 badge: pottery
 resources:
+    - name: Pottery Merit Badge Pamphlet
+      url: /merit-badges/pottery/pottery-pamphlet.pdf
     - name: Pottery Workbook
       shortName: Workbook
       url: /merit-badges/pottery/pottery-workbook.pdf

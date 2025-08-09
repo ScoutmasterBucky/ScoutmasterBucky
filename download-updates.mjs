@@ -178,6 +178,7 @@ async function saveHtml(url, destHtml, selector) {
     const content = result[0].innerHTML.replace(/\r\n?/g, "\n");
     const pretty = await prettier.format(content, { parser: "html" });
     await fsPromises.writeFile(destHtml, pretty);
+    return dom;
 }
 
 function resolveUrl(link, dom) {
@@ -194,12 +195,24 @@ async function downloadMeritBadges(updated, args) {
         }
 
         // Load the merit badge page
-        console.log(`[WEB] ${badgeName}: ${mbUrl}`);
+        console.log(`[Requirements] ${badgeName}: ${mbUrl}`);
         const dest = `src/data/merit-badges/${badgeName}/${badgeName}.html.orig`;
 
         // .mb-requirement-container works for most merit badges, but
         // "small-boat-sailing" is slightly different. Possibly others.
-        await saveHtml(mbUrl, dest, ':has(> .mb-requirement-container)');
+        const pageDom = await saveHtml(mbUrl, dest, ':has(> .mb-requirement-container)');
+
+        // Download the pamphlet
+        await domQuery(
+            pageDom,
+            '.mb-scoutshop-pamphlet a[href*=".pdf"]',
+            async (link, indexDom) => {
+                const pamphletUrl = resolveUrl(link, indexDom);
+                console.log(`[Pamphlet] ${badgeName}: ${pamphletUrl}`);
+                const pamphletDest = `public/merit-badges/${badgeName}/${badgeName}-pamphlet.pdf`;
+                await savePdfAndText(pamphletUrl, pamphletDest);
+            }
+        );
         updated[badgeName] = Date.now();
     }
 
@@ -317,6 +330,7 @@ async function downloadOtherAwards(updated) {
             dest: "public/other-awards/complete-angler.pdf",
             selector: "a[href*=Angler]"
         },
+        // 404 on 2025-08-08
         {
             key: "keep-america-beautiful-hometown-usa",
             url: "https://www.scouting.org/awards/awards-central/keep-america-beautiful-hometown-usa-award/",

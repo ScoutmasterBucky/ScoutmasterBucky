@@ -2,6 +2,8 @@
 title: Veterinary Medicine Merit Badge
 badge: veterinary-medicine
 resources:
+    - name: Veterinary Medicine Merit Badge Pamphlet
+      url: /merit-badges/veterinary-medicine/veterinary-medicine-pamphlet.pdf
     - name: Veterinary Medicine Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/veterinary-medicine/veterinary-medicine-cpp.pdf

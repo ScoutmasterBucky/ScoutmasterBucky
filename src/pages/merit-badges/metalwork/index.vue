@@ -2,6 +2,8 @@
 title: Metalwork Merit Badge
 badge: metalwork
 resources:
+    - name: Metalwork Merit Badge Pamphlet
+      url: /merit-badges/metalwork/metalwork-pamphlet.pdf
     - name: Metalwork Workbook
       shortName: Workbook
       url: /merit-badges/metalwork/metalwork-workbook.pdf

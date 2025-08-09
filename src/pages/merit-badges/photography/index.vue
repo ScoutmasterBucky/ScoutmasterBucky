@@ -2,6 +2,8 @@
 title: Photography Merit Badge
 badge: photography
 resources:
+    - name: Photography Merit Badge Pamphlet
+      url: /merit-badges/photography/photography-pamphlet.pdf
     - name: Photography Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/photography/photography-cpp.pdf

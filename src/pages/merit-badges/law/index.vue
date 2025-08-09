@@ -2,6 +2,8 @@
 title: Law Merit Badge
 badge: law
 resources:
+    - name: Law Merit Badge Pamphlet
+      url: /merit-badges/law/law-pamphlet.pdf
     - name: Law Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/law/law-cpp.pdf

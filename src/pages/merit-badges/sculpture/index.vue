@@ -2,6 +2,8 @@
 title: Sculpture Merit Badge
 badge: sculpture
 resources:
+    - name: Sculpture Merit Badge Pamphlet
+      url: /merit-badges/sculpture/sculpture-pamphlet.pdf
     - name: Sculpture Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/sculpture/sculpture-cpp.pdf

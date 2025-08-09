@@ -2,6 +2,8 @@
 title: Scholarship Merit Badge
 badge: scholarship
 resources:
+    - name: Scholarship Merit Badge Pamphlet
+      url: /merit-badges/scholarship/scholarship-pamphlet.pdf
     - name: Scholarship Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/scholarship/scholarship-cpp.pdf

@@ -2,6 +2,8 @@
 title: Mining in Society Merit Badge
 badge: mining-in-society
 resources:
+    - name: Mining in Society Merit Badge Pamphlet
+      url: /merit-badges/mining-in-society/mining-in-society-pamphlet.pdf
     - name: Mining in Society Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/mining-in-society/mining-in-society-cpp.pdf

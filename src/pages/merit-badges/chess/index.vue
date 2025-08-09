@@ -2,6 +2,8 @@
 title: Chess Merit Badge
 badge: chess
 resources:
+    - name: Chess Merit Badge Pamphlet
+      url: /merit-badges/chess/chess-pamphlet.pdf
     - name: Chess Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/chess/chess-cpp.pdf

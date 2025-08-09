@@ -2,6 +2,8 @@
 title: Robotics Merit Badge
 badge: robotics
 resources:
+    - name: Robotics Merit Badge Pamphlet
+      url: /merit-badges/robotics/robotics-pamphlet.pdf
     - name: Robotics Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/robotics/robotics-cpp.pdf

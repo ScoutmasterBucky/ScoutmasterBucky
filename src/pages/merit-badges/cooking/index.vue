@@ -2,6 +2,8 @@
 title: Cooking Merit Badge
 badge: cooking
 resources:
+    - name: Cooking Merit Badge Pamphlet
+      url: /merit-badges/cooking/cooking-pamphlet.pdf
     - name: Cooking Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/cooking/cooking-cpp.pdf

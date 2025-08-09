@@ -2,6 +2,8 @@
 title: Citizenship in the Community Merit Badge
 badge: citizenship-in-the-community
 resources:
+    - name: Citizenship in the Community Merit Badge Pamphlet
+      url: /merit-badges/citizenship-in-the-community/citizenship-in-the-community-pamphlet.pdf
     - name: Citizenship in the Community Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/citizenship-in-the-community/citizenship-in-the-community-cpp.pdf

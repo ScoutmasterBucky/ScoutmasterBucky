@@ -2,6 +2,8 @@
 title: Exploration Merit Badge
 badge: exploration
 resources:
+    - name: Exploration Merit Badge Pamphlet
+      url: /merit-badges/exploration/exploration-pamphlet.pdf
     - name: Exploration Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/exploration/exploration-cpp.pdf

@@ -2,6 +2,8 @@
 title: Athletics Merit Badge
 badge: athletics
 resources:
+    - name: Athletics Merit Badge Pamphlet
+      url: /merit-badges/athletics/athletics-pamphlet.pdf
     - name: Athletics Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/athletics/athletics-cpp.pdf

@@ -2,6 +2,8 @@
 title: Family Life Merit Badge
 badge: family-life
 resources:
+    - name: Family Life Merit Badge Pamphlet
+      url: /merit-badges/family-life/family-life-pamphlet.pdf
     - name: Family Life Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/family-life/family-life-cpp.pdf

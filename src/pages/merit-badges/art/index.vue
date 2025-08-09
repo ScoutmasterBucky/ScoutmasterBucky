@@ -2,6 +2,8 @@
 title: Art Merit Badge
 badge: art
 resources:
+    - name: Art Merit Badge Pamphlet
+      url: /merit-badges/art/art-pamphlet.pdf
     - name: Art Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/art/art-cpp.pdf

@@ -2,6 +2,8 @@
 title: Digital Technology Merit Badge
 badge: digital-technology
 resources:
+    - name: Digital Technology Merit Badge Pamphlet
+      url: /merit-badges/digital-technology/digital-technology-pamphlet.pdf
     - name: Digital Technology Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/digital-technology/digital-technology-cpp.pdf

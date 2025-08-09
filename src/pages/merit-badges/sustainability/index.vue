@@ -2,6 +2,8 @@
 title: Sustainability Merit Badge
 badge: sustainability
 resources:
+    - name: Sustainability Merit Badge Pamphlet
+      url: /merit-badges/sustainability/sustainability-pamphlet.pdf
     - name: Sustainability Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/sustainability/sustainability-cpp.pdf

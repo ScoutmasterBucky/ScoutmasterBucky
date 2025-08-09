@@ -2,6 +2,8 @@
 title: First Aid Merit Badge
 badge: first-aid
 resources:
+    - name: First Aid Merit Badge Pamphlet
+      url: /merit-badges/first-aid/first-aid-pamphlet.pdf
     - name: First Aid Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/first-aid/first-aid-cpp.pdf

@@ -2,6 +2,8 @@
 title: Archaeology Merit Badge
 badge: archaeology
 resources:
+    - name: Archaeology Merit Badge Pamphlet
+      url: /merit-badges/archaeology/archaeology-pamphlet.pdf
     - name: Archaeology Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/archaeology/archaeology-cpp.pdf

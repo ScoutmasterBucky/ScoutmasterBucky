@@ -2,6 +2,8 @@
 title: Bugling Merit Badge
 badge: bugling
 resources:
+    - name: Bugling Merit Badge Pamphlet
+      url: /merit-badges/bugling/bugling-pamphlet.pdf
     - name: Bugling Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/bugling/bugling-cpp.pdf

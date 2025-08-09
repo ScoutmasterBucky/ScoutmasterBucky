@@ -2,6 +2,8 @@
 title: Hiking Merit Badge
 badge: hiking
 resources:
+    - name: Hiking Merit Badge Pamphlet
+      url: /merit-badges/hiking/hiking-pamphlet.pdf
     - name: Hiking Workbook
       shortName: Workbook
       url: /merit-badges/hiking/hiking-workbook.pdf

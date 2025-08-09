@@ -2,6 +2,8 @@
 title: Pets Merit Badge
 badge: pets
 resources:
+    - name: Pets Merit Badge Pamphlet
+      url: /merit-badges/pets/pets-pamphlet.pdf
     - name: Pets Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/pets/pets-cpp.pdf

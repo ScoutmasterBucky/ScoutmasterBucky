@@ -2,6 +2,8 @@
 title: Citizenship in the Nation Merit Badge
 badge: citizenship-in-the-nation
 resources:
+    - name: Citizenship in the Nation Merit Badge Pamphlet
+      url: /merit-badges/citizenship-in-the-nation/citizenship-in-the-nation-pamphlet.pdf
     - name: Citizenship in the Nation Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/citizenship-in-the-nation/citizenship-in-the-nation-cpp.pdf

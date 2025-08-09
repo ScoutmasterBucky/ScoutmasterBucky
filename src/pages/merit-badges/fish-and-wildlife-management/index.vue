@@ -2,6 +2,8 @@
 title: Fish and Wildlife Management Merit Badge
 badge: fish-and-wildlife-management
 resources:
+    - name: Fish and Wildlife Management Merit Badge Pamphlet
+      url: /merit-badges/fish-and-wildlife-management/fish-and-wildlife-management-pamphlet.pdf
     - name: Fish and Wildlife Management Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/fish-and-wildlife-management/fish-and-wildlife-management-cpp.pdf

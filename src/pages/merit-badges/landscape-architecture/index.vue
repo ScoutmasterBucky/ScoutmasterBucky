@@ -2,6 +2,8 @@
 title: Landscape Architecture Merit Badge
 badge: landscape-architecture
 resources:
+    - name: Landscape Architecture Merit Badge Pamphlet
+      url: /merit-badges/landscape-architecture/landscape-architecture-pamphlet.pdf
     - name: Landscape Architecture Workbook
       shortName: Workbook
       url: /merit-badges/landscape-architecture/landscape-architecture-workbook.pdf

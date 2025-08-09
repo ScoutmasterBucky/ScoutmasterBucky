@@ -2,6 +2,8 @@
 title: Energy Merit Badge
 badge: energy
 resources:
+    - name: Energy Merit Badge Pamphlet
+      url: /merit-badges/energy/energy-pamphlet.pdf
     - name: Energy Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/energy/energy-cpp.pdf

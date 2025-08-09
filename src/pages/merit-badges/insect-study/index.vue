@@ -2,6 +2,8 @@
 title: Insect Study Merit Badge
 badge: insect-study
 resources:
+    - name: Insect Study Merit Badge Pamphlet
+      url: /merit-badges/insect-study/insect-study-pamphlet.pdf
     - name: Insect Study Workbook
       shortName: Workbook
       url: /merit-badges/insect-study/insect-study-workbook.pdf

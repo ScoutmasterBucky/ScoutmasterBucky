@@ -2,6 +2,8 @@
 title: Water Sports Merit Badge
 badge: water-sports
 resources:
+    - name: Water Sports Merit Badge Pamphlet
+      url: /merit-badges/water-sports/water-sports-pamphlet.pdf
     - name: Water Sports Workbook
       shortName: Workbook
       url: /merit-badges/water-sports/water-sports-workbook.pdf

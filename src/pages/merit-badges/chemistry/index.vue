@@ -2,6 +2,8 @@
 title: Chemistry Merit Badge
 badge: chemistry
 resources:
+    - name: Chemistry Merit Badge Pamphlet
+      url: /merit-badges/chemistry/chemistry-pamphlet.pdf
     - name: Chemistry Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/chemistry/chemistry-cpp.pdf

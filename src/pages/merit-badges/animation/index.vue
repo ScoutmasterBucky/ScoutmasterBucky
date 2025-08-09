@@ -2,6 +2,8 @@
 title: Animation Merit Badge
 badge: animation
 resources:
+    - name: Animation Merit Badge Pamphlet
+      url: /merit-badges/animation/animation-pamphlet.pdf
     - name: Animation Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/animation/animation-cpp.pdf

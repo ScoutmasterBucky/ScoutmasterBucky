@@ -2,6 +2,8 @@
 title: Entrepreneurship Merit Badge
 badge: entrepreneurship
 resources:
+    - name: Entrepreneurship Merit Badge Pamphlet
+      url: /merit-badges/entrepreneurship/entrepreneurship-pamphlet.pdf
     - name: Entrepreneurship Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/entrepreneurship/entrepreneurship-cpp.pdf

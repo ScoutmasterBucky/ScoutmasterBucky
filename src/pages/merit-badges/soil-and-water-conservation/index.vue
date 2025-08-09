@@ -2,6 +2,8 @@
 title: Soil and Water Conservation Merit Badge
 badge: soil-and-water-conservation
 resources:
+    - name: Soil and Water Conservation Merit Badge Pamphlet
+      url: /merit-badges/soil-and-water-conservation/soil-and-water-conservation-pamphlet.pdf
     - name: Soil and Water Conservation Workbook
       shortName: Workbook
       url: /merit-badges/soil-and-water-conservation/soil-and-water-conservation-workbook.pdf

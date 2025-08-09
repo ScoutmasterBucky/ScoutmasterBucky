@@ -2,6 +2,8 @@
 title: Mammal Study Merit Badge
 badge: mammal-study
 resources:
+    - name: Mammal Study Merit Badge Pamphlet
+      url: /merit-badges/mammal-study/mammal-study-pamphlet.pdf
     - name: Mammal Study Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/mammal-study/mammal-study-cpp.pdf

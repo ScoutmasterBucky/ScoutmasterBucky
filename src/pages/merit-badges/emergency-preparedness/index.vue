@@ -2,6 +2,8 @@
 title: Emergency Preparedness Merit Badge
 badge: emergency-preparedness
 resources:
+    - name: Emergency Preparedness Merit Badge Pamphlet
+      url: /merit-badges/emergency-preparedness/emergency-preparedness-pamphlet.pdf
     - name: Emergency Preparedness Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/emergency-preparedness/emergency-preparedness-cpp.pdf

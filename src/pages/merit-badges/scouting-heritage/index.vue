@@ -2,6 +2,8 @@
 title: Scouting Heritage Merit Badge
 badge: scouting-heritage
 resources:
+    - name: Scouting Heritage Merit Badge Pamphlet
+      url: /merit-badges/scouting-heritage/scouting-heritage-pamphlet.pdf
     - name: Scouting Heritage Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/scouting-heritage/scouting-heritage-cpp.pdf

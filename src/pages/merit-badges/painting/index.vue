@@ -2,6 +2,8 @@
 title: Painting Merit Badge
 badge: painting
 resources:
+    - name: Painting Merit Badge Pamphlet
+      url: /merit-badges/painting/painting-pamphlet.pdf
     - name: Painting Workbook
       shortName: Workbook
       url: /merit-badges/painting/painting-workbook.pdf

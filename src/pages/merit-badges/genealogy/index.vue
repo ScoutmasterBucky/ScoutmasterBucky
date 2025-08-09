@@ -2,6 +2,8 @@
 title: Genealogy Merit Badge
 badge: genealogy
 resources:
+    - name: Genealogy Merit Badge Pamphlet
+      url: /merit-badges/genealogy/genealogy-pamphlet.pdf
     - name: Genealogy Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/genealogy/genealogy-cpp.pdf

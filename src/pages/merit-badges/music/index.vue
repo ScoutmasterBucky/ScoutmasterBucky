@@ -2,6 +2,8 @@
 title: Music Merit Badge
 badge: music
 resources:
+    - name: Music Merit Badge Pamphlet
+      url: /merit-badges/music/music-pamphlet.pdf
     - name: Music Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/music/music-cpp.pdf

@@ -2,6 +2,8 @@
 title: Drafting Merit Badge
 badge: drafting
 resources:
+    - name: Drafting Merit Badge Pamphlet
+      url: /merit-badges/drafting/drafting-pamphlet.pdf
     - name: Drafting Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/drafting/drafting-cpp.pdf

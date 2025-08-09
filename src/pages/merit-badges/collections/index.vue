@@ -2,6 +2,8 @@
 title: Collections Merit Badge
 badge: collections
 resources:
+    - name: Collections Merit Badge Pamphlet
+      url: /merit-badges/collections/collections-pamphlet.pdf
     - name: Collections Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/collections/collections-cpp.pdf

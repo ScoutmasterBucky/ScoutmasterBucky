@@ -2,6 +2,8 @@
 title: Public Health Merit Badge
 badge: public-health
 resources:
+    - name: Public Health Merit Badge Pamphlet
+      url: /merit-badges/public-health/public-health-pamphlet.pdf
     - name: Public Health Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/public-health/public-health-cpp.pdf

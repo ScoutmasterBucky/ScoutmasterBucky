@@ -2,6 +2,8 @@
 title: Shotgun Shooting Merit Badge
 badge: shotgun-shooting
 resources:
+    - name: Shotgun Shooting Merit Badge Pamphlet
+      url: /merit-badges/shotgun-shooting/shotgun-shooting-pamphlet.pdf
     - name: Shotgun Shooting Workbook - Muzzleloading Option
       shortName: Workbook - Muzzleloading Option
       url: /merit-badges/shotgun-shooting/shotgun-shooting-workbook-muzzleloading.pdf

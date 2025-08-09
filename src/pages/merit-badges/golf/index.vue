@@ -2,6 +2,8 @@
 title: Golf Merit Badge
 badge: golf
 resources:
+    - name: Golf Merit Badge Pamphlet
+      url: /merit-badges/golf/golf-pamphlet.pdf
     - name: Golf Workbook
       shortName: Workbook
       url: /merit-badges/golf/golf-workbook.pdf

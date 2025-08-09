@@ -2,6 +2,8 @@
 title: Disabilities Awareness Merit Badge
 badge: disabilities-awareness
 resources:
+    - name: Disabilities Awareness Merit Badge Pamphlet
+      url: /merit-badges/disabilities-awareness/disabilities-awareness-pamphlet.pdf
     - name: Disabilities Awareness Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/disabilities-awareness/disabilities-awareness-cpp.pdf

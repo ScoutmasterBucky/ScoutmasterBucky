@@ -2,6 +2,8 @@
 title: Radio Merit Badge
 badge: radio
 resources:
+    - name: Radio Merit Badge Pamphlet
+      url: /merit-badges/radio/radio-pamphlet.pdf
     - name: Radio Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/radio/radio-cpp.pdf

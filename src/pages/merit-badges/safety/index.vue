@@ -2,6 +2,8 @@
 title: Safety Merit Badge
 badge: safety
 resources:
+    - name: Safety Merit Badge Pamphlet
+      url: /merit-badges/safety/safety-pamphlet.pdf
     - name: Safety Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/safety/safety-cpp.pdf

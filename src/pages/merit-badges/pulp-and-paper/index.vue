@@ -2,6 +2,8 @@
 title: Pulp and Paper Merit Badge
 badge: pulp-and-paper
 resources:
+    - name: Pulp and Paper Merit Badge Pamphlet
+      url: /merit-badges/pulp-and-paper/pulp-and-paper-pamphlet.pdf
     - name: Pulp and Paper Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/pulp-and-paper/pulp-and-paper-cpp.pdf

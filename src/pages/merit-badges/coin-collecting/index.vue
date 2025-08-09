@@ -2,6 +2,8 @@
 title: Coin Collecting Merit Badge
 badge: coin-collecting
 resources:
+    - name: Coin Collecting Merit Badge Pamphlet
+      url: /merit-badges/coin-collecting/coin-collecting-pamphlet.pdf
     - name: Coin Collecting Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/coin-collecting/coin-collecting-cpp.pdf

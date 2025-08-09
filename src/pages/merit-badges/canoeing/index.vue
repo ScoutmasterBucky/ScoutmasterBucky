@@ -2,6 +2,8 @@
 title: Canoeing Merit Badge
 badge: canoeing
 resources:
+    - name: Canoeing Merit Badge Pamphlet
+      url: /merit-badges/canoeing/canoeing-pamphlet.pdf
     - name: Canoeing Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/canoeing/canoeing-cpp.pdf

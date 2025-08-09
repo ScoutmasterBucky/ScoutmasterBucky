@@ -2,6 +2,8 @@
 title: Architecture Merit Badge
 badge: architecture
 resources:
+    - name: Architecture Merit Badge Pamphlet
+      url: /merit-badges/architecture/architecture-pamphlet.pdf
     - name: Architecture Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/architecture/architecture-cpp.pdf

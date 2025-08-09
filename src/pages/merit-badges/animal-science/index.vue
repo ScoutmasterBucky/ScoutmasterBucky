@@ -2,6 +2,8 @@
 title: Animal Science Merit Badge
 badge: animal-science
 resources:
+    - name: Animal Science Merit Badge Pamphlet
+      url: /merit-badges/animal-science/animal-science-pamphlet.pdf
     - name: Animal Science Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/animal-science/animal-science-cpp.pdf

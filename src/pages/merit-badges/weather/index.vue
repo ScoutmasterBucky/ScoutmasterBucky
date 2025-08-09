@@ -2,6 +2,8 @@
 title: Weather Merit Badge
 badge: weather
 resources:
+    - name: Weather Merit Badge Pamphlet
+      url: /merit-badges/weather/weather-pamphlet.pdf
     - name: Weather Class Perparation Page
       shortName: Class Preparation Page
       url: /merit-badges/weather/weather-cpp.pdf

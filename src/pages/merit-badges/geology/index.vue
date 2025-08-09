@@ -2,6 +2,8 @@
 title: Geology Merit Badge
 badge: geology
 resources:
+    - name: Geology Merit Badge Pamphlet
+      url: /merit-badges/geology/geology-pamphlet.pdf
     - name: Geology Workbook - Earth History Option
       shortName: Workbook - Earth History Option
       url: /merit-badges/geology/geology-workbook-earth-history.pdf

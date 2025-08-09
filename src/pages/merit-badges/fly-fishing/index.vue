@@ -2,6 +2,8 @@
 title: Fly Fishing Merit Badge
 badge: fly-fishing
 resources:
+    - name: Fly Fishing Merit Badge Pamphlet
+      url: /merit-badges/fly-fishing/fly-fishing-pamphlet.pdf
     - name: Fly Fishing Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/fly-fishing/fly-fishing-cpp.pdf

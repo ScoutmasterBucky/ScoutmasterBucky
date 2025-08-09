@@ -2,6 +2,8 @@
 title: Dog Care Merit Badge
 badge: dog-care
 resources:
+    - name: Dog Care Merit Badge Pamphlet
+      url: /merit-badges/dog-care/dog-care-pamphlet.pdf
     - name: Dog Care Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/dog-care/dog-care-cpp.pdf

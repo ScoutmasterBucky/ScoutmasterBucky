@@ -2,6 +2,8 @@
 title: Citizenship in the World Merit Badge
 badge: citizenship-in-the-world
 resources:
+    - name: Citizenship in the World Merit Badge Pamphlet
+      url: /merit-badges/citizenship-in-the-world/citizenship-in-the-world-pamphlet.pdf
     - name: Citizenship in the World Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/citizenship-in-the-world/citizenship-in-the-world-cpp.pdf

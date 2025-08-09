@@ -2,6 +2,8 @@
 title: Composite Materials Merit Badge
 badge: composite-materials
 resources:
+    - name: Composite Materials Merit Badge Pamphlet
+      url: /merit-badges/composite-materials/composite-materials-pamphlet.pdf
     - name: Composite Materials Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/composite-materials/composite-materials-cpp.pdf

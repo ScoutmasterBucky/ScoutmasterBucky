@@ -2,6 +2,8 @@
 title: Electronics Merit Badge
 badge: electronics
 resources:
+    - name: Electronics Merit Badge Pamphlet
+      url: /merit-badges/electronics/electronics-pamphlet.pdf
     - name: Electronics Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/electronics/electronics-cpp.pdf

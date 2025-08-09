@@ -2,6 +2,8 @@
 title: Cycling Merit Badge
 badge: cycling
 resources:
+    - name: Cycling Merit Badge Pamphlet
+      url: /merit-badges/cycling/cycling-pamphlet.pdf
     - name: Cycling Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/cycling/cycling-cpp.pdf

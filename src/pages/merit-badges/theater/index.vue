@@ -2,6 +2,8 @@
 title: Theater Merit Badge
 badge: theater
 resources:
+    - name: Theater Merit Badge Pamphlet
+      url: /merit-badges/theater/theater-pamphlet.pdf
     - name: Theater Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/theater/theater-cpp.pdf

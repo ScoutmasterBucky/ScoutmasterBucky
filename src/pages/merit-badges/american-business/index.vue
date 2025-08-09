@@ -2,6 +2,8 @@
 title: American Business Merit Badge
 badge: american-business
 resources:
+    - name: American Business Merit Badge Pamphlet
+      url: /merit-badges/american-business/american-business-pamphlet.pdf
     - name: American Business Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/american-business/american-business-cpp.pdf

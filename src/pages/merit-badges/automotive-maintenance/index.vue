@@ -2,6 +2,8 @@
 title: Automotive Maintenance Merit Badge
 badge: automotive-maintenance
 resources:
+    - name: Automotive Maintenance Merit Badge Pamphlet
+      url: /merit-badges/automotive-maintenance/automotive-maintenance-pamphlet.pdf
     - name: Automotive Maintenance Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/automotive-maintenance/automotive-maintenance-cpp.pdf

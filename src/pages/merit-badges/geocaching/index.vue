@@ -2,6 +2,8 @@
 title: Geocaching Merit Badge
 badge: geocaching
 resources:
+    - name: Geocaching Merit Badge Pamphlet
+      url: /merit-badges/geocaching/geocaching-pamphlet.pdf
     - name: Geocaching Workbook
       shortName: Workbook
       url: /merit-badges/geocaching/geocaching-workbook.pdf

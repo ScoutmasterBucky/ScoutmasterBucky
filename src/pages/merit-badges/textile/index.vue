@@ -2,6 +2,8 @@
 title: Textile Merit Badge
 badge: textile
 resources:
+    - name: Textile Merit Badge Pamphlet
+      url: /merit-badges/textile/textile-pamphlet.pdf
     - name: Textile Class Perparation Page
       shortName: Class Preparation Page
       url: /merit-badges/textile/textile-cpp.pdf

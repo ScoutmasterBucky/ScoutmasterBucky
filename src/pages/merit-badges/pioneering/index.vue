@@ -2,6 +2,8 @@
 title: Pioneering Merit Badge
 badge: pioneering
 resources:
+    - name: Pioneering Merit Badge Pamphlet
+      url: /merit-badges/pioneering/pioneering-pamphlet.pdf
     - name: Pioneering Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/pioneering/pioneering-cpp.pdf
