@@ -1,5 +1,14 @@
-# 5's footnote was dropped. Added a shortened version from a previous requirement and fixed the missing period at the end.
 # Altered footnote to add a space after *
+- detail: true
+  text: |-
+    <b>A Note About Unauthorized and Restricted Activities</b>
+    <div class="gap"></div>
+    The Scouting America's <i>Guide to Safe Scouting</i> states under
+    "Unauthorized and Restricted Activities" that flying in aircraft as part of
+    a search and rescue mission is an unauthorized activity for youth members.
+    For complete information, see <a
+    href="https://www.scouting.org/health-and-safety/" target="_blank">Scouting
+    America's Scouging Safely</a> web page.
 - requirement: 1
   text: |-
     Do the following:
@@ -80,10 +89,7 @@
     Working with your counselor, become familiar with the Incident Command
     System. You may use any combination of resource materials, such as printed
     or online. Discuss with your counselor how features of the ICS compare with
-    Scouting's patrol method.<sup>*</sup>
-    <div class="gap"></div>
-    <sup>*</sup> To complete requirement 5, you may need to go online (with your parent's
-    permission).
+    Scouting's patrol method.
 - requirement: 6
   text: |-
     Identify four types of search and rescue teams and discuss their use or
@@ -142,7 +148,7 @@
         between searching for a young child versus a teen).
     - requirement: d
       text: |-
-        After completing 8a-8c, discuss the hypothetical scenario with your
+        After completing 8(a)-8(c), discuss the hypothetical scenario with your
         counselor.
 - requirement: 9
   text: |-
@@ -166,13 +172,3 @@
     rescue. Pick one and find out the education, training, and experience
     required for this professional or volunteer position. Discuss this with
     your counselor, and explain why this position might interest you.
-- detail: true
-  text: |-
-    <strong>A Note About Unauthorized and Restricted Activities</strong>
-    <div class="gap"></div>
-    The Scouting America's <em>Guide to Safe Scouting</em> states under
-    "Unauthorized and Restricted Activities" that flying in aircraft as part of
-    a search and rescue mission is an unauthorized activity for youth members.
-    For complete information, see <a
-    href="https://www.scouting.org/health-and-safety/" target="_blank">Scouting
-    America's Scouting Safely</a> web page.

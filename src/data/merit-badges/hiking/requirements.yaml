@@ -1,4 +1,9 @@
-# Altered footnote to add a space after *
+# Requirement 4 has a * for a footnote but there is no footnote
+- detail: true
+  text: |-
+    <b>Note: The required hikes for this badge may be used in fulfilling hiking
+    requirements for rank advancement. However, these hikes cannot be used to
+    fulfill requirements of other merit badges.</b>
 - requirement: 1
   text: |-
     Do the following:
@@ -45,7 +50,7 @@
     hike. Include map routes, a clothing and equipment list, and a list of
     items for a trail lunch. You may stop for as many short rest periods as
     needed, as well as one meal, during each hike, but not for an extended
-    period such as overnight.<sup>*</sup>
+    period such as overnight.
   children:
     - requirement: a
       text: |-
@@ -70,9 +75,4 @@
     interesting things you saw, and any challenges you had and how you overcame
     them. It may include something you learned about yourself, about the
     outdoors, or about others you were hiking with. Share this with your
-    counselor.<sup>*</sup>
-- detail: true
-  text: |-
-    <sup>*</sup> The required hikes for this badge may be used in fulfilling hiking
-    requirements for rank advancement. However, these hikes cannot be used to
-    fulfill requirements of other merit badges.
+    counselor.

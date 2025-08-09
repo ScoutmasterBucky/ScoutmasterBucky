@@ -1,4 +1,8 @@
-# There is a footnote in the HTML that used to be for requirement 4. Currently 4 has the text included into the requirement, so the footnote was unnecessary and removed.
+- detail: true
+  text: |-
+    <b>Note: The activities used to fulfill the requirements for the Dog Care
+    merit badge may not be used to help fulfill the requirements for other
+    merit badges.</b>
 - requirement: 1
   text: |-
     Do the following:
@@ -40,9 +44,7 @@
     types of food used, amount fed, exercise periods, training schedule, a
     weekly body weight record, grooming and bathing schedules, veterinary care,
     if necessary, and costs. Also include a brief description of the type of
-    housing/shelter arrangements you have for your dog. (The activities used to
-    fulfill the requirements for the Dog Care merit badge may not be used to
-    help fulfill requirements for other merit badges.)
+    housing/shelter arrangements you have for your dog.
 - requirement: 5
   text: |-
     Explain the correct way to obedience train a dog and what equipment you

@@ -1,5 +1,4 @@
-# 3: the note was originally part of the same paragraph as the requirement - split
-# Altered footnote to add a space after *
+# 3: The alternative requirement has text that was doubled. Removed.
 - requirement: 1
   text: |-
     Tell the purpose of space exploration and include the following:
@@ -23,14 +22,17 @@
     four other space pioneers with your counselor.
 - requirement: 3
   text: |-
-    Build, launch, and recover a model rocket.<sup>*</sup> Make a second launch to
-    accomplish a specific objective. (Rocket must be built to meet the safety
-    code of the National Association of Rocketry. See the "Model Rocketry"
-    chapter of this pamphlet.) Identify and explain the following rocket parts:
+    Build, launch, and recover a model rocket. Make a second launch to
+    accomplish a specific objective. Identify and explain the following rocket
+    parts:
     <div class="gap"></div>
-    <sup>*</sup> If local laws prohibit launching model rockets, do the following
-    activity: Make a model of a NASA rocket. Explain the functions of the
-    parts. Give the history of the rocket.
+    <b>Safety note:</b> Rocket must be built to meet the safety
+    code of the National Association of Rocketry. See the "Model Rocketry"
+    chapter of this pamphlet.
+    <div class="gap"></div>
+    <b>Alternative requirement:</b> If local laws prohibit launching model
+    rockets, do the following activity: Make a model of a NASA rocket. Explain
+    the functions of the parts. Give the history of the rocket.
   children:
     - requirement: a
       text: |-
