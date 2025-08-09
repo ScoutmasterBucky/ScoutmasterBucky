@@ -1,6 +1,6 @@
 - requirement: 1
   text: |-
-      <b>Safety.</b> Do each of the following:
+      <b>Safety.</b> Do the following:
   children:
     - requirement: a
       text: |-
@@ -56,23 +56,23 @@
     - requirement: c
       text: |-
         Build a robot or robotic subsystem of your original design to
-        accomplish the task you chose for requirement 4a.
+        accomplish the task you chose for requirement 4(a).
     - requirement: d
       text: |-
         Discuss with your counselor the programming options available for your
-        robot. Then do ONE of the following options.
+        robot. Then do ONE of the following:
       children:
         - requirement: 1
           text: |-
-            <b>Option 1.</b> Program your robot to perform the task you chose
-            for your robot in 4a. Include a sample of your program's source
-            code in your robot engineering notebook.
+            Program your robot to perform the task you chose for your robot in
+            4a. Include a sample of your program's source code in your robot
+            engineering notebook.
         - requirement: 2
           text: |-
-            <b>Option 2.</b> Prepare a flowchart of the desired steps to
-            program your robot for accomplishing the task in 4a. Include
-            procedures that show activities based on sensor inputs. Place this
-            in your robot engineering notebook.
+            Prepare a flowchart of the desired steps to program your robot for
+            accomplishing the task in 4(a). Include procedures that show
+            activities based on sensor inputs. Place this in your robot
+            engineering notebook.
     - requirement: e
       text: |-
         Test your robot and record the results in your robot engineering

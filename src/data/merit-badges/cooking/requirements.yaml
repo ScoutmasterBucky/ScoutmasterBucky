@@ -1,6 +1,19 @@
 # The HTML for 2a shows manually entered list of items instead of broken out as usual.
-# The footnote applying to 4d was incoporated into the requirements, but still left behind at the bottom. Removed.
-# The other footnoote used `**`. Since that's now the only footnote, changed it to `*`.
+- detail: true
+  text: |-
+    <b>Note: The meals prepared for Cooking merit badge requirements 4, 5, and
+    6 will count only toward fulfilling those requirements and will not count
+    toward rank advancement or other merit badges. Meals prepared for rank
+    advancement or other merit badges may not count toward the Cooking merit
+    badge. You must not repeat any menus for meals actually prepared or cooked
+    in requirements 4, 5, and 6.</b>
+    <div class="gap"></div>
+    <b>Outdoor Cooking: Where local regulations do not allow you to build a
+    fire, the counselor may adjust the requirement to meet the law. The meals
+    in requirements 5 and 6 may be prepared for different trips and need not be
+    prepared consecutively. Scouts working on this badge in summer camp should
+    take into consideration foods that can be obtained at the camp
+    commissary.</b>
 - requirement: 1
   text: |-
     <strong>Health and safety.</strong> Do the following:
@@ -54,7 +67,7 @@
             Proteins
         - requirement: 5
           text: |-
-            Dairy
+            Dairy.
     - requirement: b
       text: |-
         Explain why you should limit your intake of oils and sugars.
@@ -99,14 +112,6 @@
       text: |-
         Explain and give examples of how taste, texture, and smell impact what
         we eat.
-- detail: true
-  text: |-
-    <b>Note:</b> The meals prepared for Cooking merit badge requirements 4, 5,
-    and 6 will count only toward fulfilling those requirements and will not
-    count toward rank advancement or other merit badges. Meals prepared for
-    rank advancement or other merit badges may not count toward the Cooking
-    merit badge. You must not repeat any menus for meals actually prepared or
-    cooked in requirements 4, 5, and 6.
 - requirement: 4
   text: |-
       <strong>Cooking at Home.</strong> Do the following:
@@ -228,7 +233,7 @@
         While on a trail hike or backpacking trip, prepare and serve two
         meals and a snack from the menu planned for this requirement. At least
         one of those meals must be cooked over a fire, or an approved trail
-        stove (with proper supervision).<sup>*</sup>
+        stove (with proper supervision).
     - requirement: e
       text: |-
         After each meal, have those you served evaluate the meal on

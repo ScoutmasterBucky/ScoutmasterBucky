@@ -105,7 +105,7 @@
   children:
     - requirement: a
       text: |-
-        <strong>Option A: Amateur Radio</strong>
+        <strong>Option A - Amateur Radio.</strong> Do the following:
       children:
         - requirement: 1
           text: |-
@@ -139,7 +139,7 @@
             contact, and record the signal report.)
     - requirement: b
       text: |-
-        <strong>Option B: Radio Broadcasting</strong>
+        <strong>Option B - Radio Broadcasting.</strong> Do the following:
       children:
         - requirement: 1
           text: |-
@@ -167,7 +167,8 @@
             internet streaming, satellite radio, and podcasts.
     - requirement: c
       text: |-
-        <strong>Option C: Shortwave and Medium-Wave Listening</strong>
+        <strong>Option C - Shortwave and Medium-Wave Listening.</strong> Do the
+        following:
       children:
         - requirement: 1
           text: |-
@@ -198,7 +199,8 @@
             phone. Include international broadcasts in your demonstration.
     - requirement: d
       text: |-
-        <strong>Option D: Amateur Radio Direction Finding</strong>
+        <strong>Option D - Amateur Radio Direction Finding.</strong> Do the
+        following:
       children:
         - requirement: 1
           text: |-

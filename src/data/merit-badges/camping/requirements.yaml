@@ -1,4 +1,3 @@
-# Moved footnotes to requirement 3, where they are referenced.
 - requirement: 1
   text: |-
     Do the following:
@@ -26,7 +25,7 @@
     principles on your next outing.
 - requirement: 3
   text: |-
-    Make a written plan<sup>*</sup> for an overnight trek and show how to get to your
+    Make a written plan for an overnight trek and show how to get to your
     camping spot by using a topographical map and one of the following:
   children:
     - requirement: a
@@ -34,16 +33,16 @@
         Compass
     - requirement: b
       text: |-
-        GPS receiver<sup>**</sup>
+        GPS receiver
     - requirement: c
       text: |-
-        Smartphone with a GPS app<sup>**</sup>
+        Smartphone with a GPS app
     - detail: true
       text: |-
-        <sup>*</sup> To complete this requirement, you may use the <a href="/documents/scout-planning-worksheet.pdf">Scout Planning Worksheet</a>
+        <b>Note:</b> To complete this requirement, you may use the <a href="/documents/scout-planning-worksheet.pdf">Scout Planning Worksheet</a>
         <div class="gap"></div>
-        <sup>**</sup> If a GPS-equipped device is not available, explain how to use
-        one to get to your camping spot.
+        If a GPS-equipped device is not available, explain how to use one to
+        get to your camping spot.
 - requirement: 4
   text: |-
     Do the following:

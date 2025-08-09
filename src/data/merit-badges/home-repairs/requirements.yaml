@@ -1,4 +1,7 @@
-# Requirements 4, 5 are missing a colon at the end - added
+- detail: true
+  text: |-
+    <b>Note: A parent, guardian or the counselor may supervise the Scout's work
+    on any Home Repairs requirements.</b>
 - requirement: 1
   text: |-
     Do the following:
@@ -112,9 +115,6 @@
   text: |-
     Under the supervision of your parent, guardian, or counselor, do THREE of
     the following:
-    <div class="gap"></div>
-    (Either a parent or the merit badge counselor may supervise the Scout's
-    work on any Home Repairs requirements.)
   children:
     - requirement: a
       text: |-

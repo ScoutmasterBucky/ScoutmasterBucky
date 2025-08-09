@@ -69,13 +69,12 @@
     - requirement: d
       text: |-
         Draw the game elements.
-- detail: true
-  text: |-
-    <strong >You must have your counselor's approval of your concept before you
-    begin creating the prototype.</strong
 - requirement: 6
   text: |-
     Do the following:
+    <div class="gap"></div>
+    <b>Note:</b> You must have your counselor's approval of your concept before
+    you begin creating the prototype.
   children:
     - requirement: a
       text: |-
