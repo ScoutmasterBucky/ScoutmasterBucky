@@ -2,6 +2,8 @@
 title: Fishing Merit Badge
 badge: fishing
 resources:
+    - name: Fishing Merit Badge Pamphlet
+      url: /merit-badges/fishing/fishing-pamphlet.pdf
     - name: Fishing Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/fishing/fishing-cpp.pdf

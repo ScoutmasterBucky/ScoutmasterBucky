@@ -2,6 +2,8 @@
 title: Journalism Merit Badge
 badge: journalism
 resources:
+    - name: Journalism Merit Badge Pamphlet
+      url: /merit-badges/journalism/journalism-pamphlet.pdf
     - name: Journalism Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/journalism/journalism-cpp.pdf

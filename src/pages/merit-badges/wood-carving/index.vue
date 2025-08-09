@@ -2,6 +2,8 @@
 title: Wood Carving Merit Badge
 badge: wood-carving
 resources:
+    - name: Wood Carving Merit Badge Pamphlet
+      url: /merit-badges/wood-carving/wood-carving-pamphlet.pdf
     - name: Wood Carving Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/wood-carving/wood-carving-cpp.pdf

@@ -2,6 +2,8 @@
 title: Railroading Merit Badge
 badge: railroading
 resources:
+    - name: Railroading Merit Badge Pamphlet
+      url: /merit-badges/railroading/railroading-pamphlet.pdf
     - name: Railroading Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/railroading/railroading-cpp.pdf

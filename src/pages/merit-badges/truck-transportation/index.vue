@@ -2,6 +2,8 @@
 title: Truck Transportation Merit Badge
 badge: truck-transportation
 resources:
+    - name: Truck Transportation Merit Badge Pamphlet
+      url: /merit-badges/truck-transportation/truck-transportation-pamphlet.pdf
     - name: Truck Transportation Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/truck-transportation/truck-transportation-cpp.pdf

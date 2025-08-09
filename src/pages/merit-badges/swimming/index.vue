@@ -2,6 +2,8 @@
 title: Swimming Merit Badge
 badge: swimming
 resources:
+    - name: Swimming Merit Badge Pamphlet
+      url: /merit-badges/swimming/swimming-pamphlet.pdf
     - name: Swimming Workbook
       shortName: Workbook
       url: /merit-badges/swimming/swimming-workbook.pdf

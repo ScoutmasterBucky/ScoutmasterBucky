@@ -2,6 +2,8 @@
 title: Plumbing Merit Badge
 badge: plumbing
 resources:
+    - name: Plumbing Merit Badge Pamphlet
+      url: /merit-badges/plumbing/plumbing-pamphlet.pdf
     - name: Plumbing Workbook
       shortName: Workbook
       url: /merit-badges/plumbing/plumbing-workbook.pdf

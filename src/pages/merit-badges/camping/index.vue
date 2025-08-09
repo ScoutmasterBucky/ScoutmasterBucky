@@ -2,6 +2,8 @@
 title: Camping Merit Badge
 badge: camping
 resources:
+    - name: Camping Merit Badge Pamphlet
+      url: /merit-badges/camping/camping-pamphlet.pdf
     - name: Camping Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/camping/camping-cpp.pdf

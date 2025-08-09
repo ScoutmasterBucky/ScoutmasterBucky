@@ -2,6 +2,8 @@
 title: Electricity Merit Badge
 badge: electricity
 resources:
+    - name: Electricity Merit Badge Pamphlet
+      url: /merit-badges/electricity/electricity-pamphlet.pdf
     - name: Electricity Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/electricity/electricity-cpp.pdf

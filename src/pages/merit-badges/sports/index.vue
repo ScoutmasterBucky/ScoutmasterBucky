@@ -2,6 +2,8 @@
 title: Sports Merit Badge
 badge: sports
 resources:
+    - name: Sports Merit Badge Pamphlet
+      url: /merit-badges/sports/sports-pamphlet.pdf
     - name: Sports Workbook
       shortName: Workbook
       url: /merit-badges/sports/sports-workbook.pdf

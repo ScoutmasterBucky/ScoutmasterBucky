@@ -2,6 +2,8 @@
 title: Environmental Science Merit Badge
 badge: environmental-science
 resources:
+    - name: Environmental Science Merit Badge Pamphlet
+      url: /merit-badges/environmental-science/environmental-science-pamphlet.pdf
     - name: Environmental Science Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/environmental-science/environmental-science-cpp.pdf

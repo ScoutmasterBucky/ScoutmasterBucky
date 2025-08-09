@@ -2,6 +2,8 @@
 title: Farm Mechanics Merit Badge
 badge: farm-mechanics
 resources:
+    - name: Farm Mechanics Merit Badge Pamphlet
+      url: /merit-badges/farm-mechanics/farm-mechanics-pamphlet.pdf
     - name: Farm Mechanics Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/farm-mechanics/farm-mechanics-cpp.pdf

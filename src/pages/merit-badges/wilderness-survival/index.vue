@@ -2,6 +2,8 @@
 title: Wilderness Survival Merit Badge
 badge: wilderness-survival
 resources:
+    - name: Wilderness Survival Merit Badge Pamphlet
+      url: /merit-badges/wilderness-survival/wilderness-survival-pamphlet.pdf
     - name: Wilderness Survival Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/wilderness-survival/wilderness-survival-cpp.pdf

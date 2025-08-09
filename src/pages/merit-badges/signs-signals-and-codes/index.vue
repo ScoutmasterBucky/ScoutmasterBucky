@@ -2,6 +2,8 @@
 title: Signs, Signals, and Codes Merit Badge
 badge: signs-signals-and-codes
 resources:
+    - name: Signs, Signals, and Codes Merit Badge Pamphlet
+      url: /merit-badges/signs-signals-and-codes/signs-signals-and-codes-pamphlet.pdf
     - name: Signs, Signals, and Codes Workbook
       shortName: Workbook
       url: /merit-badges/signs-signals-and-codes/signs-signals-and-codes-workbook.pdf

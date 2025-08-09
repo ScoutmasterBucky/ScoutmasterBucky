@@ -2,6 +2,8 @@
 title: American Cultures Merit Badge
 badge: american-cultures
 resources:
+    - name: American Cultures Merit Badge Pamphlet
+      url: /merit-badges/american-cultures/american-cultures-pamphlet.pdf
     - name: American Cultures Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/american-cultures/american-cultures-cpp.pdf

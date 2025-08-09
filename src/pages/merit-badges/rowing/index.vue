@@ -2,6 +2,8 @@
 title: Rowing Merit Badge
 badge: rowing
 resources:
+    - name: Rowing Merit Badge Pamphlet
+      url: /merit-badges/rowing/rowing-pamphlet.pdf
     - name: Rowing Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/rowing/rowing-cpp.pdf

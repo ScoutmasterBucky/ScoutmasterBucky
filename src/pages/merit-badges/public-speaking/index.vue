@@ -2,6 +2,8 @@
 title: Public Speaking Merit Badge
 badge: public-speaking
 resources:
+    - name: Public Speaking Merit Badge Pamphlet
+      url: /merit-badges/public-speaking/public-speaking-pamphlet.pdf
     - name: Public Speaking Workbook
       shortName: Workbook
       url: /merit-badges/public-speaking/public-speaking-workbook.pdf

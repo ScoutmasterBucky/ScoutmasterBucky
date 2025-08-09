@@ -2,6 +2,8 @@
 title: Model Design and Building Merit Badge
 badge: model-design-and-building
 resources:
+    - name: Model Design and Building Merit Badge Pamphlet
+      url: /merit-badges/model-design-and-building/model-design-and-building-pamphlet.pdf
     - name: Model Design and Building Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/model-design-and-building/model-design-and-building-cpp.pdf

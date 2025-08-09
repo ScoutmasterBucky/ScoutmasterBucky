@@ -2,6 +2,8 @@
 title: Kayaking Merit Badge
 badge: kayaking
 resources:
+    - name: Kayaking Merit Badge Pamphlet
+      url: /merit-badges/kayaking/kayaking-pamphlet.pdf
     - name: Kayaking Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/kayaking/kayaking-cpp.pdf

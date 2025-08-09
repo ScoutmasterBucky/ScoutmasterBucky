@@ -2,6 +2,8 @@
 title: Inventing Merit Badge
 badge: inventing
 resources:
+    - name: Inventing Merit Badge Pamphlet
+      url: /merit-badges/inventing/inventing-pamphlet.pdf
     - name: Inventing Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/inventing/inventing-cpp.pdf

@@ -2,6 +2,8 @@
 title: Communication Merit Badge
 badge: communication
 resources:
+    - name: Communication Merit Badge Pamphlet
+      url: /merit-badges/communication/communication-pamphlet.pdf
     - name: Communication Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/communication/communication-cpp.pdf

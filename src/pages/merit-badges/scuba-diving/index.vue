@@ -2,6 +2,8 @@
 title: Scuba Diving Merit Badge
 badge: scuba-diving
 resources:
+    - name: Scuba Diving Merit Badge Pamphlet
+      url: /merit-badges/scuba-diving/scuba-diving-pamphlet.pdf
     - name: Scuba Diving Workbook
       shortName: Workbook
       url: /merit-badges/scuba-diving/scuba-diving-workbook.pdf

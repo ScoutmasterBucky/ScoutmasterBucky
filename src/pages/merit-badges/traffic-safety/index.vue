@@ -2,6 +2,8 @@
 title: Traffic Safety Merit Badge
 badge: traffic-safety
 resources:
+    - name: Traffic Safety Merit Badge Pamphlet
+      url: /merit-badges/traffic-safety/traffic-safety-pamphlet.pdf
     - name: Traffic Safety Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/traffic-safety/traffic-safety-cpp.pdf

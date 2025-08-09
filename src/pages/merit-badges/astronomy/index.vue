@@ -2,6 +2,8 @@
 title: Astronomy Merit Badge
 badge: astronomy
 resources:
+    - name: Astronomy Merit Badge Pamphlet
+      url: /merit-badges/astronomy/astronomy-pamphlet.pdf
     - name: Astronomy Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/astronomy/astronomy-cpp.pdf

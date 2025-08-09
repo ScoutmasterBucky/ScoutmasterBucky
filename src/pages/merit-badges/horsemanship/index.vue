@@ -2,6 +2,8 @@
 title: Horsemanship Merit Badge
 badge: horsemanship
 resources:
+    - name: Horsemanship Merit Badge Pamphlet
+      url: /merit-badges/horsemanship/horsemanship-pamphlet.pdf
     - name: Horsemanship Workbook
       shortName: Workbook
       url: /merit-badges/horsemanship/horsemanship-workbook.pdf

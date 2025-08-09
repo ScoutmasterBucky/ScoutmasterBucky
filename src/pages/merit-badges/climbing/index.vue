@@ -2,6 +2,8 @@
 title: Climbing Merit Badge
 badge: climbing
 resources:
+    - name: Climbing Merit Badge Pamphlet
+      url: /merit-badges/climbing/climbing-pamphlet.pdf
     - name: Climbing Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/climbing/climbing-cpp.pdf

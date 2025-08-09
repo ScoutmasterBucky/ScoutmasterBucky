@@ -2,6 +2,8 @@
 title: Salesmanship Merit Badge
 badge: salesmanship
 resources:
+    - name: Salesmanship Merit Badge Pamphlet
+      url: /merit-badges/salesmanship/salesmanship-pamphlet.pdf
     - name: Salesmanship Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/salesmanship/salesmanship-cpp.pdf

@@ -2,6 +2,8 @@
 title: Health Care Professions Merit Badge
 badge: health-care-professions
 resources:
+    - name: Health Care Professions Merit Badge Pamphlet
+      url: /merit-badges/health-care-professions/health-care-professions-pamphlet.pdf
     - name: Health Care Professions Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/health-care-professions/health-care-professions-cpp.pdf

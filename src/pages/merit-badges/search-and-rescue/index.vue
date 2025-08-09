@@ -2,6 +2,8 @@
 title: Search and Rescue Merit Badge
 badge: search-and-rescue
 resources:
+    - name: Search and Rescue Merit Badge Pamphlet
+      url: /merit-badges/search-and-rescue/search-and-rescue-pamphlet.pdf
     - name: Search and Rescue Workbook
       shortName: Workbook
       url: /merit-badges/search-and-rescue/search-and-rescue-workbook.pdf

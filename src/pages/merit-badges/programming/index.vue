@@ -2,6 +2,8 @@
 title: Programming Merit Badge
 badge: programming
 resources:
+    - name: Programming Merit Badge Pamphlet
+      url: /merit-badges/programming/programming-pamphlet.pdf
     - name: Programming Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/programming/programming-cpp.pdf

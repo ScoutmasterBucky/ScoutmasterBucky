@@ -2,6 +2,8 @@
 title: Backpacking Merit Badge
 badge: backpacking
 resources:
+    - name: Backpacking Merit Badge Pamphlet
+      url: /merit-badges/backpacking/backpacking-pamphlet.pdf
     - name: Backpacking Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/backpacking/backpacking-cpp.pdf

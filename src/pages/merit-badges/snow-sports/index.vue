@@ -2,6 +2,8 @@
 title: Snow Sports Merit Badge
 badge: snow-sports
 resources:
+    - name: Snow Sports Merit Badge Pamphlet
+      url: /merit-badges/snow-sports/snow-sports-pamphlet.pdf
     - name: Snow Sports Workbook - Cross-Country (Nordic) Skiing Option
       shortName: Workbook - Cross-Country (Nordic) Skiing Option
       url: /merit-badges/snow-sports/snow-sports-workbook-cross-country-skiing.pdf

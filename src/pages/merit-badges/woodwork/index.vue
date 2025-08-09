@@ -2,6 +2,8 @@
 title: Woodwork Merit Badge
 badge: woodwork
 resources:
+    - name: Woodwork Merit Badge Pamphlet
+      url: /merit-badges/woodwork/woodwork-pamphlet.pdf
     - name: Woodwork Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/woodwork/woodwork-cpp.pdf

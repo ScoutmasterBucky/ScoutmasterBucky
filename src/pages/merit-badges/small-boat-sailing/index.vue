@@ -2,6 +2,8 @@
 title: Small-Boat Sailing Merit Badge
 badge: small-boat-sailing
 resources:
+    - name: Small-Boat Sailing Merit Badge Pamphlet
+      url: /merit-badges/small-boat-sailing/small-boat-sailing-pamphlet.pdf
     - name: Small-Boat Sailing Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/small-boat-sailing/small-boat-sailing-cpp.pdf

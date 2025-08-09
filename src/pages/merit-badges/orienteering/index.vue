@@ -2,6 +2,8 @@
 title: Orienteering Merit Badge
 badge: orienteering
 resources:
+    - name: Orienteering Merit Badge Pamphlet
+      url: /merit-badges/orienteering/orienteering-pamphlet.pdf
     - name: Orienteering Workbook
       shortName: Workbook
       url: /merit-badges/orienteering/orienteering-workbook.pdf

@@ -2,6 +2,8 @@
 title: Reptile and Amphibian Study Merit Badge
 badge: reptile-and-amphibian-study
 resources:
+    - name: Reptile and Amphibian Study Merit Badge Pamphlet
+      url: /merit-badges/reptile-and-amphibian-study/reptile-and-amphibian-study-pamphlet.pdf
     - name: Reptile and Amphibian Study Workbook
       shortName: Workbook
       url: /merit-badges/reptile-and-amphibian-study/reptile-and-amphibian-study-workbook.pdf

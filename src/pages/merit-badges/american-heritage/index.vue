@@ -2,6 +2,8 @@
 title: American Heritage Merit Badge
 badge: american-heritage
 resources:
+    - name: American Heritage Merit Badge Pamphlet
+      url: /merit-badges/american-heritage/american-heritage-pamphlet.pdf
     - name: American Heritage Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/american-heritage/american-heritage-cpp.pdf

@@ -2,6 +2,8 @@
 title: Crime Prevention Merit Badge
 badge: crime-prevention
 resources:
+    - name: Crime Prevention Merit Badge Pamphlet
+      url: /merit-badges/crime-prevention/crime-prevention-pamphlet.pdf
     - name: Crime Prevention Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/crime-prevention/crime-prevention-cpp.pdf

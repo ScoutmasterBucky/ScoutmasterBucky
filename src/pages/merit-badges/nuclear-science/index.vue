@@ -2,6 +2,8 @@
 title: Nuclear Science Merit Badge
 badge: nuclear-science
 resources:
+    - name: Nuclear Science Merit Badge Pamphlet
+      url: /merit-badges/nuclear-science/nuclear-science-pamphlet.pdf
     - name: Nuclear Science Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/nuclear-science/nuclear-science-cpp.pdf

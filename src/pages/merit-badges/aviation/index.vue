@@ -2,6 +2,8 @@
 title: Aviation Merit Badge
 badge: aviation
 resources:
+    - name: Aviation Merit Badge Pamphlet
+      url: /merit-badges/aviation/aviation-pamphlet.pdf
     - name: Aviation Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/aviation/aviation-cpp.pdf

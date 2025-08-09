@@ -2,6 +2,8 @@
 title: Indian Lore Merit Badge
 badge: indian-lore
 resources:
+    - name: Indian Lore Merit Badge Pamphlet
+      url: /merit-badges/indian-lore/indian-lore-pamphlet.pdf
     - name: Indian Lore Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/indian-lore/indian-lore-cpp.pdf

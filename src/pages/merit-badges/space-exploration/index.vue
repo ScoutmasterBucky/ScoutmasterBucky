@@ -2,6 +2,8 @@
 title: Space Exploration Merit Badge
 badge: space-exploration
 resources:
+    - name: Space Exploration Merit Badge Pamphlet
+      url: /merit-badges/space-exploration/space-exploration-pamphlet.pdf
     - name: Space Exploration Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/space-exploration/space-exploration-cpp.pdf

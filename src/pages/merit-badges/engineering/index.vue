@@ -2,6 +2,8 @@
 title: Engineering Merit Badge
 badge: engineering
 resources:
+    - name: Engineering Merit Badge Pamphlet
+      url: /merit-badges/engineering/engineering-pamphlet.pdf
     - name: Engineering Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/engineering/engineering-cpp.pdf

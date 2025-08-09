@@ -2,6 +2,8 @@
 title: Plant Science Merit Badge
 badge: plant-science
 resources:
+    - name: Plant Science Merit Badge Pamphlet
+      url: /merit-badges/plant-science/plant-science-pamphlet.pdf
     - name: Plant Science Workbook - Agronomy Option
       shortName: Workbook - Agronomy Option
       url: /merit-badges/plant-science/plant-science-workbook-agronomy.pdf

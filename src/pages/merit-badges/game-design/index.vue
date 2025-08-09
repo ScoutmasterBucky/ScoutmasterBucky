@@ -2,6 +2,8 @@
 title: Game Design Merit Badge
 badge: game-design
 resources:
+    - name: Game Design Merit Badge Pamphlet
+      url: /merit-badges/game-design/game-design-pamphlet.pdf
     - name: Game Design Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/game-design/game-design-cpp.pdf

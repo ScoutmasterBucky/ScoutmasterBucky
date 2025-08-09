@@ -2,6 +2,8 @@
 title: Personal Management Merit Badge
 badge: personal-management
 resources:
+    - name: Personal Management Merit Badge Pamphlet
+      url: /merit-badges/personal-management/personal-management-pamphlet.pdf
     - name: Personal Management Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/personal-management/personal-management-cpp.pdf

@@ -2,6 +2,8 @@
 title: Graphic Arts Merit Badge
 badge: graphic-arts
 resources:
+    - name: Graphic Arts Merit Badge Pamphlet
+      url: /merit-badges/graphic-arts/graphic-arts-pamphlet.pdf
     - name: Graphic Arts Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/graphic-arts/graphic-arts-cpp.pdf

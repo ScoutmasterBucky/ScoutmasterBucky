@@ -2,6 +2,8 @@
 title: Fire Safety Merit Badge
 badge: fire-safety
 resources:
+    - name: Fire Safety Merit Badge Pamphlet
+      url: /merit-badges/fire-safety/fire-safety-pamphlet.pdf
     - name: Fire Safety Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/fire-safety/fire-safety-cpp.pdf

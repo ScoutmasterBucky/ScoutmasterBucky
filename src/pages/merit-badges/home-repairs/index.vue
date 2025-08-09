@@ -2,6 +2,8 @@
 title: Home Repairs Merit Badge
 badge: home-repairs
 resources:
+    - name: Home Repairs Merit Badge Pamphlet
+      url: /merit-badges/home-repairs/home-repairs-pamphlet.pdf
     - name: Home Repairs Workbook
       shortName: Workbook
       url: /merit-badges/home-repairs/home-repairs-workbook.pdf

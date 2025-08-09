@@ -2,6 +2,8 @@
 title: Surveying Merit Badge
 badge: surveying
 resources:
+    - name: Surveying Merit Badge Pamphlet
+      url: /merit-badges/surveying/surveying-pamphlet.pdf
     - name: Surveying Workbook
       shortName: Workbook
       url: /merit-badges/surveying/surveying-workbook.pdf

@@ -2,6 +2,8 @@
 title: Rifle Shooting Merit Badge
 badge: rifle-shooting
 resources:
+    - name: Rifle Shooting Merit Badge Pamphlet
+      url: /merit-badges/rifle-shooting/rifle-shooting-pamphlet.pdf
     - name: Rifle Shooting Workbook - Air Rifle Shooting (BB or Pellet) Option
       shortName: Workbook - Air Rifle Shooting (BB or Pellet) Option
       url: /merit-badges/rifle-shooting/rifle-shooting-workbook-air-rifle-shooting.pdf

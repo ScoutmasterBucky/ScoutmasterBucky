@@ -2,6 +2,8 @@
 title: Oceanography Merit Badge
 badge: oceanography
 resources:
+    - name: Oceanography Merit Badge Pamphlet
+      url: /merit-badges/oceanography/oceanography-pamphlet.pdf
     - name: Oceanography Workbook
       shortName: Workbook
       url: /merit-badges/oceanography/oceanography-workbook.pdf

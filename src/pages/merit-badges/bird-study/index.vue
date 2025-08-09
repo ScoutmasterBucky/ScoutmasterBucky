@@ -2,6 +2,8 @@
 title: Bird Study Merit Badge
 badge: bird-study
 resources:
+    - name: Bird Study Merit Badge Pamphlet
+      url: /merit-badges/bird-study/bird-study-pamphlet.pdf
     - name: Bird Study Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/bird-study/bird-study-cpp.pdf

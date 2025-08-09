@@ -2,6 +2,8 @@
 title: Leatherwork Merit Badge
 badge: leatherwork
 resources:
+    - name: Leatherwork Merit Badge Pamphlet
+      url: /merit-badges/leatherwork/leatherwork-pamphlet.pdf
     - name: Leatherwork Workbook
       shortName: Workbook
       url: /merit-badges/leatherwork/leatherwork-workbook.pdf

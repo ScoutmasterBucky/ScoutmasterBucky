@@ -2,6 +2,8 @@
 title: Basketry Merit Badge
 badge: basketry
 resources:
+    - name: Basketry Merit Badge Pamphlet
+      url: /merit-badges/basketry/basketry-pamphlet.pdf
     - name: Basketry Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/basketry/basketry-cpp.pdf

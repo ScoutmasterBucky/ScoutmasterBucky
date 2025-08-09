@@ -2,6 +2,8 @@
 title: Dentistry Merit Badge
 badge: dentistry
 resources:
+    - name: Dentistry Merit Badge Pamphlet
+      url: /merit-badges/dentistry/dentistry-pamphlet.pdf
     - name: Dentistry Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/dentistry/dentistry-cpp.pdf

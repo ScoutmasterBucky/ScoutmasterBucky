@@ -2,6 +2,8 @@
 title: Welding Merit Badge
 badge: welding
 resources:
+    - name: Welding Merit Badge Pamphlet
+      url: /merit-badges/welding/welding-pamphlet.pdf
     - name: Welding Workbook
       shortName: Workbook
       url: /merit-badges/welding/welding-workbook.pdf

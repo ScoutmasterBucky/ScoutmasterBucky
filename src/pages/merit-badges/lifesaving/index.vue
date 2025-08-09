@@ -2,6 +2,8 @@
 title: Lifesaving Merit Badge
 badge: lifesaving
 resources:
+    - name: Lifesaving Merit Badge Pamphlet
+      url: /merit-badges/lifesaving/lifesaving-pamphlet.pdf
     - name: Lifesaving Workbook
       shortName: Workbook
       url: /merit-badges/lifesaving/lifesaving-workbook.pdf

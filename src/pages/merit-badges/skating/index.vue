@@ -2,6 +2,8 @@
 title: Skating Merit Badge
 badge: skating
 resources:
+    - name: Skating Merit Badge Pamphlet
+      url: /merit-badges/skating/skating-pamphlet.pdf
     - name: Skating Class Preparation Page - for all options
       shortName: Class Preparation Page
       url: /merit-badges/skating/skating-cpp.pdf

@@ -2,6 +2,8 @@
 title: Archery Merit Badge
 badge: archery
 resources:
+    - name: Archery Merit Badge Pamphlet
+      url: /merit-badges/archery/archery-pamphlet.pdf
     - name: Archery Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/archery/archery-cpp.pdf
