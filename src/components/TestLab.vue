@@ -25,5 +25,15 @@
             name="Life Skills"
             src="/images/test-lab-life-skills.webp"
         />
+        <TestLabTile
+            href="https://www.scouting.org/skills/merit-badges/test-lab/physics/"
+            name="Physics"
+            src="/images/test-lab-physics.webp"
+        />
+        <TestLabTile
+            href="https://www.scouting.org/skills/merit-badges/test-lab/sewing-needlework/"
+            name="Sewing &amp; Needlework"
+            src="/images/test-lab-sewing-needlework.webp"
+        />
     </TileWrapper>
 </template>
