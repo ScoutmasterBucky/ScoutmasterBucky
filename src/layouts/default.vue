@@ -37,7 +37,7 @@
         </main>
         <SmbFooter />
     </div>
-    <FlyoutMenu />
+    <FlyoutMenu client:load />
 </template>
 
 <style>
