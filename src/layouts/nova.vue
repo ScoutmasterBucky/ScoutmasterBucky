@@ -37,7 +37,7 @@
         </main>
         <NovaFooter />
     </div>
-    <FlyoutMenu />
+    <FlyoutMenu clien:load />
 </template>
 
 <style>
