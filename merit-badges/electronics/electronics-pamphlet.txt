@@ -1,0 +1,2948 @@
+ELECTRONICS
+STEM-Based
+
+
+ELECTRONICS
+SCOUTING AMERICA
+MERIT BADGE SERIES
+“Enhancing our youths’ competitive edge through merit badges”
+
+
+Requirements
+Scouts should go to www.scouting.org/merit-badges/Electronics or check Scoutbook
+for the latest requirements.
+Note to the Counselor
+For requirement 4, with the Scout’s parent or guardian’s
+approval and your acceptance, find an electronic kit in an
+area of interest to the Scout. It should be easy to order,
+build, and demonstrate.
+Look for kits that use high-quality, durable
+components that are safe for youth. Check for
+certifications or endorsements from educational
+organizations. The kit should have a mix of various
+types of components and should require the Scout to
+solder 15 or more connections in the kit assembly. One
+kit per youth. Before building the kit, the Scout will
+need to find or create the schematic of the project and
+explain the function of all of its parts. Then the Scout
+can build the components and demonstrate its operation.
+35887
+ISBN 978-0-8395-5003-7
+©2025 Scouting America
+2025 Printing
+
+
+ELECTRONICS 3
+
+
+
+
+
+ELECTRONICS 5
+Contents
+History and Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Tools for Electronics Work . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Basic Electronics Theory . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Schematic Diagrams . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Soldering. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Control Devices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+Digital Electronics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+Audio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+Electronic Test Equipment . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+Careers in Electronics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+Electronics Resources. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86
+
+
+Some people still collect old vacuum tubes and also antique
+radios, in which vacuum tubes were used.
+
+
+ELECTRONICS 7
+.History and Introduction
+History and Introduction
+Electronics is the science that controls the behavior of electrons
+so that some type of useful function is performed. (Electrons
+will be explained more fully later in this book.) Today,
+electronics is a fast-changing and exciting field.
+The rapid growth of electronics started in the early 20th
+century when vacuum tubes were introduced and used to
+manipulate electronic signals. This was something that could
+not be done with the telegraph and telephone circuits or the
+high-voltage transmitters of those days. Vacuum tubes allowed
+weak radio and powerful signals to be amplified, or to be
+made louder or stronger, and be sent on powerful waves.
+Electronics changed even more dramatically in 1948
+when the transistor, a small, low-powered, solid-state electronic
+device, was invented. Transistors are smaller than vacuum
+tubes, require less power to function, and are more reliable. The
+development of the integrated circuit, or IC, advanced
+this technology further. ICs can contain tens of thousands of
+tiny transistors built onto a small piece of conducting material.
+This allows for the construction and production of complex
+electronic circuits, which are more efficient than tubes in
+processing electronic signals. ICs are used in many products
+Vacuum tubes were an important breakthrough
+in electronics, but they had their limitations. For
+example, early computers using vacuum tubes
+were so large that one computer would fill an
+entire room. These computers had minimal pro-
+cessing power because, for one reason, the tubes
+needed a lot of power to function.
+
+
+8 ELECTRONICS
+History and Introduction.
+today, including computers, audio equipment, cell phones,
+appliances, and automobiles.
+How to Earn the Electronics Merit Badge
+The first step in earning your Electronics merit badge is to
+discuss the requirements with your merit badge counselor.
+To fulfill requirement 1, learn about the precautions you
+should take when using, building, altering, or repairing elec-
+tronic devices. Many electronic components (parts) could be
+Tips for Repairing
+Electronic Devices
+1. Be sure to turn off and unplug the
+power before operating on any electronic circuit.
+2. Always wear safety goggles when working with
+electronic devices, especially when soldering.
+3. Be careful about electrostatic discharge—that
+“zap” you feel after you run across a carpet in
+socks and then touch metal. This can be a big
+problem in your electronics work. It can actually
+set materials on fire and damage electronic
+components. Before handling components, touch
+a piece of metal to discharge any static electricity.
+4. Don’t force a component into anything you are
+working with, and don’t overtighten anything.
+5. Be careful when you are working with wires.
+Bending a wire too often or tightening one too
+tightly could cause it to break.
+6. When inserting plugs and sockets, ease them in
+and out. Never force them. Be aware that some
+components must be installed a certain way.
+7. Be careful when using tools such as pliers and
+cutters so that you don’t nick any wires or cut
+your fingers.
+8. When bending component leads, don’t bend
+them too closely to the body of the component
+because the component will be strained.
+
+
+ELECTRONICS 9
+.History and Introduction
+damaged if mishandled. Here are some basic safety precau-
+tions; there are more safety suggestions later in this pamphlet.
+As you read this pamphlet and work on the requirements, pay
+attention to safety and see whether you can add to this list.
+For requirement 2, study the chapter called “Schematic
+Diagrams.” You may choose a schematic diagram from this
+pamphlet, then copy it carefully with a pencil. Your drawing
+must show resistors, capacitors, and transistors or integrated
+circuits. Use the correct symbols for these components,
+label all parts, and be prepared to tell the purpose of each
+component. Show your drawing to your counselor and tell
+what you have learned.
+For requirement 3, learn how to solder and then practice
+soldering and desoldering wires. When you think you are
+ready, show your soldering skills to your counselor. Be pre-
+pared to discuss soldering precautions, printed circuit boards,
+and possible heat damage to components when using a
+soldering iron.
+Requirement 4 is demanding but fun because you will
+actually build a working electronics circuit. Choose your project
+carefully. Make sure that all the required parts are available
+at an electronics parts store, from a catalogue, or over the
+internet (only with your parent or guardian’s permission).
+Also consider what tools you will need. You can choose a
+project other than those in this pamphlet, but check with your
+counselor first to make sure that the project is suitable. After
+you are done with the project, show it to your counselor and
+explain how it works.
+For requirement 4 you will also learn the basic principles
+of digital techniques, how you can use electronics for control
+purposes, and about audio applications. Learn the binary sys-
+tem so that you know how to change decimal numbers into
+binary numbers and binary into decimal.
+For requirement 5, you will need to solve a simple prob-
+lem using Ohm’s law. You also should be able to discuss test
+equipment, the different types, and what they’re used for.
+For the final requirement, study three career opportunities
+in electronics that interest you. Discuss with your counselor
+the education and training needed for each.
+
+
+
+
+
+ELECTRONICS 11
+.Tools for Electronics Work
+Tools for
+Electronics Work
+The basic tools you will need for most of your electronics
+work are shown here. You can probably find some around
+your home and get others at an electronics parts store.
+Phillips screwdriver
+Nut driver
+Slotted (flat-bladed) screwdriver
+Some Basic Tools
+Cutting pliers, which cut either
+flush or diagonally, cut wires
+and trim soldered leads.
+Long-nosed pliers are used to
+bend leads on components and
+hold parts while you solder.
+Tweezers, straight or curved,
+are used for handling small
+components.
+
+
+12 ELECTRONICS
+Tools for Electronics Work.
+For most projects, you can use any small-diameter solid
+or stranded hookup wire. Some projects might also require
+very small wire. A magnifier or magnifying work lamp is
+recommended for examining the circuit board to check solder
+connections. Most electronics parts stores have a selection of
+perforated circuit boards made specially for wiring electronics
+projects. Many come with small clips for mounting parts. These
+boards are ideal for building simple circuits.
+You also will need an electric soldering iron, which you
+can buy at a hobby, electronics parts, or hardware store.
+The soldering iron in a beginner’s tool kit should be a 15- to
+40-watt iron with a fine chisel tip. Use 60/40 rosin-core solder
+(60 percent tin, 40 percent lead) that is marked for “electronic
+use.” Never use acid core solder. Most of the solder you will
+need will have a diameter of 0.03 inch.
+You also should have a solder wick
+for desoldering a connection if you
+make a mistake or want to
+remove a component.
+Electronic parts are called components, which
+comes from the word meaning to put together.
+An electronic circuit is composed of several
+interconnected components. The leads on a
+component are electrical conductors, such as
+wires, that connect to an electrical device.
+This multipur-
+pose electrical
+tool removes
+insulation from
+wires before
+soldering. You
+also can use a
+hobby knife for
+stripping wires
+and trimming.
+Basic soldering kit,
+perforated boards
+
+
+ELECTRONICS 13
+.Tools for Electronics Work
+Use a workbench for your project if you have one. If not,
+you can use a kitchen table, desk, or sturdy card table. You
+will need to have good light and ventilation and access to
+power outlets. You also will need a few small boxes, trays,
+or jars to hold parts.
+Buying Parts
+Most electronics parts stores will have the components you
+will need for your project. If you do a project from scratch,
+you will have to buy the parts separately. While you also can
+buy a complete project as a kit, many electronics kits found in
+retail stores are not soldering kits, and building a project from
+scratch is challenging and rewarding. Scratch projects can be
+inexpensive if you can scrounge for most of the parts.
+However, a kit has a number of advantages. All the neces-
+sary assembly instructions and parts are supplied, including
+wire and solder. Special parts, such
+as printed circuit boards, come with
+the kit. In addition, fewer tools
+are required because all necessary
+holes are prepunched. Since the kit
+has been carefully tested, you know
+that the finished product will work.
+A complete kit generally costs less
+than buying the parts separately.
+Investigate doing a project
+both ways before you
+invest your money.
+Get your
+counselor’s
+approval before
+you start
+your project.
+Kit project
+
+
+
+
+
+ELECTRONICS 15
+.Basic Electronics Theory
+Basic Electronics Theory
+Before you learn about electronic components, let’s look at the
+theory behind electronics. Controlling electrons is the science
+of electronics. So, our study of electronics theory begins with
+the electron.
+Atoms and Electrons
+To understand electrons, we must learn about the makeup
+of matter. All matter is composed of atoms, and an atom is
+composed of three elementary particles: electrons, protons, and
+neutrons. Negatively charged electrons revolve around the core
+(the nucleus) of the atom, which is composed of positively
+charged protons and neutral (not charged) neutrons.
+Generally, a negatively charged electron is matched by a
+positively charged proton. For example, copper has 29 electrons
+revolving around a nucleus containing 29 protons. A basic law
+of nature controls electrical charges. This law simply stated is
+that unlike charges attract and like charges repel. This means a
+negative charge is drawn to a positive charge but pushes away
+from another negative charge. This is called electrostatic force.
+Normally, the positively charged protons hold the nega-
+tively charged electrons in place. However, an electron some-
+times breaks away from an atom because of an outside force,
+such as heat, light, magnetic fields, or chemical reactions.
+Once freed, electrons can “float” among atoms. These free
+electrons are what is important in electronics. Devices such as
+resistors, capacitors, inductors, and transistors are used to con-
+trol the behavior of these free electrons.
+Electrons have a negative charge. So if an object loses
+electrons, it becomes positively charged. If an object
+gains electrons, it then has a negative charge. A unit of
+electrical charge is called a coulomb.
+
+
+16 ELECTRONICS
+Basic Electronics Theory.
+Conductors and Insulators
+Conductors act as a pathway for free electrons. Most metals are
+good conductors of electrons, so they can be used to “transport”
+electrons from one place to another. Insulators act as walls or
+barriers, preventing electrons from flowing where we do not
+want them to flow. Insulators, for example, are used on most
+electrical wires to protect us from electrical shock.
+Copper, silver, and gold are popular conductors because
+they have a large number of free electrons. As an example of
+how to make the electrons flow, picture a length of copper wire
+with one end connected to the positive terminal of a battery
+and the other end connected to the negative terminal. The
+positive terminal attracts the negatively charged free electrons
+of the wire (remember: unlike charges attract) while at the
+same time the negative terminal repels the electrons. The result
+is a flow of electrons through the wire from the negative to the
+positive terminal. This flow is called an electric current.
+An insulator works just the opposite. In some materials,
+such as plastics and glass, atoms hold their electrons tightly.
+These materials have very few free electrons. Therefore, if a
+length of insulator is connected to a battery the same way the
+copper wire was attached, no measurable current would flow.
+Current, Voltage, and Resistance
+Here are some basic definitions of terms used in electronics.
+• Current is the orderly movement of electrons through a
+conductor. Current is measured in amperes, or amps, or
+the rate at which electrons move past a given point. One
+ampere is the movement of about 6 billion billion electrons
+past that point in one second.
+• Voltage is an electrical pressure that can cause current to
+flow. Voltage forces current to flow through a wire in much
+the same way that water pressure forces water to flow
+through a pipe. This electrical pressure can be caused with
+magnetism, chemicals, friction, light, or heat. The unit of
+voltage is the volt.
+• The opposition to current flow is resistance. The resistance
+of a material is mainly determined by how many free
+electrons it has. If the material doesn’t have many, it will
+have little or no current flow. The unit of resistance is the
+
+
+ELECTRONICS 17
+.Basic Electronics Theory
+ohm. One ohm is the amount of resistance that will allow 1
+ampere of current to flow when the applied voltage is 1 volt.
+Frequency
+Frequency, or cycles per second, uses the term hertz as its unit
+of measure. The electricity from electrical utilities is 60 Hertz
+AC and the voltage changes in a sine wave pattern.
+Ohm’s Law
+Ohm’s law describes the basic relationships between current,
+voltage, and resistance. The formula for Ohm’s law is:
+Voltage (volts) = Current (amperes) × Resistance (ohms)
+To determine current, the formula would be:
+Current (amperes) = Voltage (volts) ÷ Resistance (ohms)
+If you know current and resistance, you can find out the
+voltage. For example, how much voltage is needed to force
+2 amperes of current to flow through 10 ohms of resistance?
+Ohm’s law tells us that we need to multiply our 2 amperes
+(current) by the 10 ohms (resistance) to arrive at the answer:
+20 volts.
+A standard flashlight battery can produce 1.5 volts.
+A car battery produces about 12 volts. A light bulb
+in your home operates on 115 volts, while an electric
+stove requires about 220 volts.
+Know Your Units of Measure
+• Electrical charge is measured in coulombs.
+• Current is measured in amperes, or amps.
+• Voltage is measured in volts.
+• Resistance is measured in ohms.
+• Electrical power is measured in watts.
+• Capacitance is measured in farads.
+• Frequency is measured in hertz.
+
+
+18 ELECTRONICS
+Basic Electronics Theory.
+If you know voltage and resistance, you can figure out
+current (Voltage ÷ Resistance). Therefore, how much current
+will flow in a circuit having 5 ohms of resistance when 15
+volts are applied?
+15 volts ÷ 5 ohms = 3 amperes
+With these formulas, you can solve simple problems involving
+current, voltage, and resistance.
+Power
+Another electrical quantity is power. Power is the rate at
+which work is done. The unit of electrical power is the watt
+and can be compared to the unit of mechanical power, called
+horsepower. One horsepower is equal to 746 watts. The
+formula for power is
+Power (watts) = Voltage (volts) × Current (amperes)
+When this formula is applied, you can determine the amount
+of power used by a circuit if you know the voltage and current.
+For example, how much power is used by a 120-volt toaster
+that draws 5 amperes?
+120 volts × 5 amperes = 600 watts
+The power used by the toaster is 600 watts. This power is
+used, or dissipated, in the form of heat to toast the bread.
+Current Delivery
+Electrical signals are classified as either direct current (DC)
+or alternating current (AC). Direct current signals are at a
+constant voltage or at a constant polarity where AC signals
+typically follow a sine wave or other pattern and alternate
+between positive and negative voltages. If the AC signal follows
+a specific pattern, the number of times the pattern repeats
+James Watt, a Scottish engineer and inventor in the
+18th and early 19th centuries, actually tested horses
+hauling coal to help him arrive at the determination
+that 1 horsepower is the amount of power required
+to lift 33,000 pounds 1 foot in 1 minute. The watt is
+named after him.
+
+
+ELECTRONICS 19
+.Basic Electronics Theory
+within one second is the signal’s frequency. The electricity from
+electrical utilities is 60 Hertz AC and the voltage changes in a
+sine wave pattern.
+Resistance and Resistors
+You have learned that when you apply a voltage to the ends
+of a conductor, it creates a current. Its strength depends on
+the applied voltage and the resistance of the conductor. The
+resistance of a conducting material depends on three factors:
+1. The kind of material
+2. The length of the material
+3. The diameter or thickness of the material
+Temperature also is a factor in resistance. In most materials, resis-
+tance is increased when the temperature rises and decreased if
+the temperature is colder. In most simple circuits, however, tem-
+perature is not critical and is often ignored. The kind of
+material is probably the most important factor in resistance.
+Copper, for example, is a good conductor, while iron of a similar
+size has a higher resistance. Carbon has even a higher resistance
+than iron.
+The longer the conductor, the higher the resistance will
+be. For instance, if the length of a copper wire is doubled, the
+resistance will be doubled. As an example, a 60-foot length of
+copper wire might have a resistance of 1 ohm. A same-sized
+copper wire that is 120 feet long would have a resistance of
+2 ohms.
+Size is important, too. A thick conductor will carry more
+current and offer less resistance than a thin one. Think again
+of water pipes. A large water pipe will allow more water to
+flow than a small one. When a current flows through a resistor,
+a component that limits or opposes the flow of a current, work
+is being done to move the electrons. This work produces heat
+and warms the resistor. Heat produced by an electric current is
+the basis for the operation of many electrical devices and
+appliances such as heaters, toasters, stoves, and soldering irons.
+In a lightbulb, an electrical current causes a wire filament
+to become so hot that it glows to produce light. Only a fraction
+of the power that comes from the filament produces light.
+The rest generates heat, which is why incandescent bulbs are
+so inefficient. A resistor is designed to have a specific value
+of resistance, and resistors are available in a wide range of
+values. Standard power sizes are 1/4 watt, 1/2 watt, 1 watt,
+
+
+20 ELECTRONICS
+Basic Electronics Theory.
+and 2 watts. These values indicate the maximum recommended
+power that the resistor can dissipate. The higher the power
+rating, the larger the resistor.
+Capacitors and Capacitance
+A capacitor is a device for storing electrons, or an electrical
+charge, that can be released at a later time. Imagine two sheets of
+aluminum foil (conducting plates) that are separated by a sheet
+of waxed paper (an insulator). If you connect a battery to the
+two aluminum sheets, electrons will flow from the sheet that is
+connected to the positive terminal of the battery. Simultaneously,
+the same number of electrons will flow from the negative termi-
+nal of the battery to the other aluminum sheet. The number of
+electrons that are transferred makes the voltage between the
+aluminum sheets exactly that of the connected battery. If the
+battery is removed, the aluminum sheets will remain in their
+charged state. If there is no leakage through the waxed paper,
+the sheets will remain charged indefinitely.
+Any two conducting plates separated by an insulator make
+up a capacitor. A capacitor can consist of many conducting
+plates with insulating separators. Alternate plates would be
+connected to form interleaved stacks.
+The higher the voltage, the greater will be the amount
+of charge that is transferred from one plate to the other. The
+ratio of charge to voltage is defined as the capacitance of the
+capacitor. Or you could also say that the “electrical size” of
+a capacitor is its capacitance, which is the amount of elec-
+tric charge it can hold. The unit of capacitance is the farad.
+However, this unit is too large for most practical capacitors,
+so capacitors are manufactured to measure millionths of a
+farad (microfarads) and trillionths of a farad (picofarads,
+which are micro-microfarads).
+The insulators that separate conducting plates in a capacitor
+can be made of several materials, including ceramic materials,
+mica, certain types of paper, air, and oxide (a compound con-
+taining oxygen). A popular capacitor has been the electrolytic
+capacitor. In this capacitor, the insulator is an extremely thin
+oxide layer. The leads of electrolytic capacitors are marked
+positive and negative. These indicate how the capacitor must
+be connected for proper operation.
+
+
+ELECTRONICS 21
+.Basic Electronics Theory
+Electron Tubes
+The electron tube made the science of electronics possible.
+Although it largely has been replaced by transistors, it still has
+special uses. Tubes for high power are still used today in lasers,
+radars, strobe lights, and special-use vacuum tubes. Many
+high-end stereo collectors still prefer the sound of a
+tube amplifier over that of a transistor amplifier.
+Semiconductors
+The word semiconductor is used to name a wide variety of
+electronic devices. Made of solid or liquid material, semi-
+conductors generally are able to conduct electricity more
+easily than an insulator, but not as easily as a metal.
+The semiconductor diode performs the same basic func-
+tion as the electron-tube diode. It allows current to flow in one
+direction, but not the other. This diode consists of two different
+types of silicon crystals. An impurity (some type of substance)
+can be added to one area of the silicon to control the silicon’s
+conductivity. The silicon is said to have been “doped” when
+it has been treated with atoms from an impurity. These atoms
+combine with the silicon atoms in such a way that electrons
+float around freely inside the silicon. This type of silicon is
+called N-type (or negative-type). The N-type silicon is the
+cathode of the diode.
+See the “Schematic
+Diagrams” chapter
+to help you
+understand the
+illustrations in
+this section.
+Semiconductor diode
+N-TYPE P-TYPE
+CATHODE
+N P
+CATHODE
+ANODE
+ANODE
+ELECTRONS FLOW. ELECTRONS CANNOT FLOW.
+
+
+22 ELECTRONICS
+Basic Electronics Theory.
+The other area of silicon also has an added impurity. But
+the atoms of this impurity combine with the silicon atoms
+in such a way that there is a shortage of one electron in the
+bonding. The absence of an electron is called a “hole,” and
+this hole can grab an electron from a neighboring atom. Thus,
+a hole can “float” from atom to atom the same way an electron
+might. The silicon with the holes is called P-type (positive).
+For current to flow through the diode, the negative ter-
+minal of the battery must connect to the N-type silicon (the
+cathode) and the positive terminal to the P-type silicon (the
+anode). The negative terminal repels the free electrons of the
+N-type material. The electrons are forced toward the junction
+where they fill the waiting holes. However, as the electrons
+leave the anode, new holes form. This results in a constant
+flow of current from cathode to anode.
+Current cannot flow in the opposite direction (see the
+illustration for the semiconductor diode). If the battery’s
+connection is turned around, it attracts the electrons and the
+holes away from the junction. Because there are no free
+electrons at the junction, no current can flow.
+The transistor is perhaps the most important invention
+in the history of electronics so far. A transistor uses the P-type
+and N-type silicon in much the same way as a diode. However,
+the transistor has three electrodes, called the emitter, the base,
+and the collector. The collector is connected to the positive
+terminal of the battery, and the emitter is connected to the
+negative terminal. Electrons will try to flow from the emitter
+to the collector. However, a thin layer (the base) separates
+these two elements. If the base is negative, it repels the free
+electrons in the emitter. In this case, no current can flow
+from the emitter to the collector.
+NPN transistor
+COLLECTOR
+BASE
+EMITTER
+COLLECTOR
+N
+N
+P
+BASE
+EMITTER
+ELECTRONS FLOW
+WHEN THE BASE IS
+POSITIVE.
+
+
+ELECTRONICS 23
+.Basic Electronics Theory
+If the base is positive, electrons can flow into the base
+from the emitter. Some of the electrons will flow into the
+positive base lead. But because the base is very thin, most
+of the electrons travel through the base to the collector. Thus,
+if the base is made more positive, more electrons will flow.
+Conversely, making the base less positive will reduce the
+current flow. You can see then that a small voltage on the
+base will control the amount of current through the transistor.
+For this reason, the transistor can be used as an amplifier in
+much the same way as a vacuum tube.
+Notice the symbol in the illustration used to represent
+the NPN transistor. Another type of transistor is called the
+PNP transistor. Its structure and schematic symbol are shown
+in the following illustration. This transistor requires opposite
+polarity voltages for proper operation.
+NPN and PNP transistors are called bipolar transistors, and
+they are the most popular types used.
+Field Effect Transistor
+The field effect transistor uses a single N-channel or P-channel
+with an insulated metal plate used to control current flow.
+Current enters the channel at the source lead and flows
+toward the drain lead at the other end of the channel. The
+voltage applied to the insulated plate, known as the gate,
+limits the current flow through the channel from source to
+drain. The most used FET is the metal-oxide semiconductor
+FET or MOSFET. An N-channel MOSFET will not conduct
+current if there is no voltage difference source to gate and
+PNP transistor
+COLLECTOR
+BASE
+EMITTER
+COLLECTOR
+BASE
+EMITTER
+ELECTRONS FLOW
+WHEN THE BASE IS
+NEGATIVE.
+P
+P
+N
+
+
+24 ELECTRONICS
+Basic Electronics Theory.
+allow current flow when a higher voltage is applied to the gate
+(voltage difference with respect to the source pin). A P-channel
+MOSFET will conduct current if there is no voltage difference
+source to gate and allow current flow when a lower voltage
+is applied to the gate (voltage difference with respect to the
+source pin).
+Complementary MOS or CMOS technologies use one
+P-channel MOSFET and one N-channel MOSFET connected
+such that the P-channel source pin connects to the circuit
+higher voltage (typically power supply) and connects the
+N-channel source to the lower voltage supply (typically 0-volt
+or ground). The drain of the two MOSFETs are connected and
+is the circuit output. The gates are tied together.
+When the gates are connected to a low voltage (ground),
+the source to gate voltage of the N-channel is 0 volts so the
+channel transistor is “off” while the gate to source voltage of
+the P-channel FET is the “hi” voltage, so that transistor is “on”
+meaning the output voltage is connected to the power sup-
+ply or high (for a low input). Conversely, if the two gates are
+tied to the higher voltage, the N-channel gate to source is now
+high, so it is “on” while the P-channel transistor gate to source
+is voltage is low, so it is “off.”
+Integrated Circuits
+An integrated circuit (IC) is a complete circuit in a single pack-
+age. Transistors, resistors, diodes, and capacitors can be formed
+in a single chip of silicon, a semiconductor. One chip can
+contain thousands or even millions of electronic components.
+Integrated circuits have revolutionized many
+fields, including communications, informa-
+tion handling, and computing. They have
+reduced the size of devices, while providing
+faster speeds and increased reliability.
+The individual components of ICs are
+extremely small and are assembled to a pat-
+tern that has been planned in advance. A
+chip might look flat, but it has several layers
+for circuits. Switches control the electrical cur-
+rent through the chip. The switches manipu-
+late the binary code (discussed below) with
+“on” and “off” switches. The binary code
+is at the core of how a computer operates.
+The integrated circuit, or IC, has led to
+smaller electronic devices that are faster
+and more reliable.
+
+
+ELECTRONICS 25
+.Basic Electronics Theory
+Chips come in many different sizes, with millions of transistors
+being able to fit on chips the size of a postage stamp.
+Two basic types of IC are called linear and digital. Linear
+circuits include amplifiers, oscillators, regulators, and other cir-
+cuits used in TV sets, audio amplifiers, radios, and hearing aids.
+Digital circuits include memories and arithmetic circuits and
+counters in watches, calculators, computers, and video games.
+Microprocessors
+The microprocessor is a type of ultra-large IC. By 1971,
+the technique of making ICs had progressed to the point
+where enough computing power could be put on a single
+IC to form a tiny, primitive computer, or calculator. The
+first microprocessor was born. Today, microprocessors can
+incorporate more than a billion transistors, plus components
+such as resistors, capacitors, diodes, and wires.
+The microprocessor accepts input data, modifies that
+data in some way, and produces an appropriate output. The
+earliest application of the microprocessor was the calculator.
+A calculator accepts numbers that the user enters on a key-
+board, performs a mathematical operation on those numbers
+that the user desires, and then sends the result to a display.
+Today’s microprocessors function as the central processing unit
+(CPU) of computers. They also are used in many electronics
+systems such as cameras, printers, planes, and automobiles.
+The microprocessor in an automobile, for instance, exam-
+ines inputs from several sensors, makes decisions based on
+those inputs, and adjusts such things as the mixture of air
+and fuel and the timing of ignition firing. The microproces-
+sor’s most important aspect is that it can be programmed to
+perform an almost limitless number of applications.
+Printed Circuit Boards
+A printed circuit board (PCB) consists of a sheet of
+some type of insulator, a composite material classified as
+FR-4 made of woven fiberglass cloth with an epoxy resin
+binder. The FR-4 material is an insulator with copper traces
+printed or etched onto the FR-4 surface. The copper traces are
+implementations of the wire lines of the schematic drawing.
+Parts of traces may need to be routed from one side (layer)
+to the other side (layer). To connect the traces, feed-through
+holes are added to the circuit board.
+A computer might
+contain more
+than 2 billion
+transistors!
+
+
+26 ELECTRONICS
+Basic Electronics Theory.
+Feed-through holes are drilled through the printed circuit
+board then filled with solder. The solder connects the copper
+of the top, bottom, and optional intermediate layers. Feed-
+through hole’s solder is done during the fabrication of the
+circuit board.
+Optionally, feed-through holes can be used to hold
+component leads. The feed through has a hole drilled
+through the solder for the component lead. The drilled
+hole is done during fabrication of the printed circuit
+board. The completed printed circuit board is now
+ready for insertion of the components drawn in the
+schematic.
+A feed-through hole used for a component lead
+must be larger to allow room for the component
+lead diameter plus some insertion clearance of the
+lead into the hole. If no component lead is being
+inserted in the hole, the diameter of the feed-
+through hole can be much smaller and require
+less printed circuit board space.
+Later, during the assembly process, a component lead is
+inserted into the hole and the hole and lead must be soldered
+together to make solid electrical contact.
+Several layers of traces, separated by FR-4 sheets may
+be sandwiched together for more complex electronic designs
+with feed-through holes connecting the traces as needed.
+Through-Hole Technology
+The technology used for placing component leads in holes
+drilled through the printed circuit board reached a practical
+limit when integrated circuits got over about 40 pins. A
+feed-through hole with space for the lead and the insertion
+tolerance meant that, based on PCB fabrication technologies
+at the time, integrated circuit leads needed to be about 0.100"
+apart. Various techniques were tried with larger IC packages
+including longer packages, the IC pins in a grid pattern and
+others. There was not a viable solution to reach what would
+eventually be today’s package pin counts.
+Surface-Mount Technology
+By removing the component pin from going through the feed-
+through hole, the feed-through could be much smaller and
+Surface-mount
+technology ball grid
+array (about 800 pins)
+
+
+ELECTRONICS 27
+.Basic Electronics Theory
+moved away from the component. The component pins could
+be replaced with a square pad on the component and the
+printed circuit board would have a matching pad on the “out-
+side” copper layer. Without the constraint of the feed-through
+hole with drilled lead space, component pins could be placed
+much closer together or more pins could be placed around
+the former through hole package sizes. This change led to the
+very high pin count packages required for today’s integrated
+circuits, such as the processor of your home computer.
+Intel cofounder Gordon Moore wrote in 1965 that the number of
+transistors in integrated circuits doubled approximately every two
+years. This observation, called Moore’s law, still holds true today.
+
+
+
+
+
+ELECTRONICS 29
+.Schematic Diagrams
+Schematic Diagrams
+The illustrations in the previous section didn’t show you a
+picture of a real diode or transistor. Instead, they showed
+you a kind of illustrated outline, called a schematic diagram.
+These diagrams are a simple way of showing how electronic
+components are connected. In a schematic, symbols stand for
+the different electronic components. The schematic diagram
+illustrated here is for a code-practice oscillator, used to
+practice Morse code. The corresponding pictorial representation
+shows how the components actually look. In the schematic,
+a different type of symbol represents each type of component:
+long and short lines represent the battery; a zigzag line stands
+for a resistor. In this section, you will learn these symbols so
+that you can understand schematic diagrams.
++ 9V KEY
+R1
+56K
+R2
+100K
+C1
+.05
+B
+Q1 T1 SPEAKER
+E
+C
+-
+BLACK
+-
+9-VOLT
+BATTERY
+R1
+R2 Q1
+C2
+T1BE
+RED
++
+SPEAKER
+KEY
+C1
+Bottom: Pictorial representation,
+code-practice oscillator
+Top: Schematic diagram,
+code-practice oscillator
+Notice that each
+component in
+the schematic
+diagram on
+this page has
+a reference
+designator such
+as 9V, Key, R1,
+R2, C1, Q1, T1.
+The designators
+also appear in the
+pictorial diagram
+to clearly show
+which component
+is which. These
+become more
+important in
+designs with many
+more components.
+
+
+30 ELECTRONICS
+Schematic Diagrams.
+To start, compare the schematic diagram with the pictorial
+and match each symbol in the schematic with its equivalent
+component in the pictorial. Also match each line in the sche-
+matic with the appropriate wire in the pictorial. Notice where
+two lines cross in the schematic. If the wires are to be connect-
+ed, a dot shows at the crossing on the schematic. If there is no
+dot, the two wires bypass each other and are not connected.
+When you draw your schematic for requirement 2, you
+will need a sharp pencil, paper, and a ruler or straight edge
+for drawing straight lines. A compass might be helpful for
+drawing circles. If you have a computer with a drawing pro-
+gram, you might use that to draw a schematic. There are also
+several freely available schematic capture tools.
+Component Types
+Before we look at the most common types of electronics
+components, as well as the schematic symbol and a pictorial
+of each one, let’s define and review some basic terms (also
+see the Basic Electronics Theory section):
+• Electricity is a property that electrons have that causes
+them to behave in certain predictable ways.
+• Electrical charge is a quantity of electricity.
+• The electron is a tiny particle that has a negative
+electrical charge.
+• Current is defined as the flow of electrons.
+• Voltage is the pressure that causes current to flow.
+• Resistance is the opposition to current flow.
+• Direct current (DC) is current that always flows in
+the same direction.
+• Alternating current (AC) is a current that reverses
+its direction of flow many times each second.
+• Frequency is the number of times that a repeats its pattern in
+one second.
+Passive Components
+Fixed Resistor: Each resistor has a specific amount of
+resistance. A resistor is like a nozzle on a water hose. For a
+given water pressure, the nozzle controls the amount of water
+that is allowed out of the hose. Similarly, for a given voltage, a
+resistor controls the flow of electrical current.
+To learn
+more, read
+the Electricity
+merit badge
+pamphlet.W W W.SCOUTSHOP.ORG
+The Supply Group is
+ready to be a partner
+on your tr ail to
+Eagle through high
+adventure. The
+adventure is your s,
+and we are ready
+with the gear you
+will need. You can
+depend on the latest
+in lightweight,
+dur able, qualit y
+gear that will
+meet and surpass
+your toughest
+requirements.
+to
+nture
+rn tier
+ea base
+ranch
+scout
+summit
+ELECTRICITY
+STEM-Based
+
+
+ELECTRONICS 31
+.Schematic Diagrams
+Most resistors are made of a carbon compound. Resistors
+used for high currents often are made from special wire that is
+wound on an insulating form. The type of compound or wire
+used determines how much electrical current can flow for a
+given voltage.
+The value of a resistor is given in ohms. The symbol for the
+ohm is the Greek capital letter omega (Ω). Thus, 1Ω designates
+the resistance of 1 ohm. A 1kΩ resistor has a resistance of
+1 kilohm, or 1,000 ohms. A 1MΩ resistor has a resistance of
+1 megohm, or 1 million ohms.
+The illustration below shows a variety of fixed resistors
+and a cross-section of a fixed resistor. The values of fixed resis-
+tors cannot be changed.
+Schematic symbol
+Fixed resistor packages
+Know Your Prefixes
+This table lists some prefixes used in the electronics industry. An example term is given
+for each prefix; each prefix may be used with many other units of measure. For example,
+microsecond, microvolt microamp, microohm, microhenry, and microfarad all use the
+micro prefix to denote one millionth of the corresponding unit.
+Prefix Abb. x10n Term Value
+peta P x1015 1 petabyte 1 quadrillion bytes
+tera T x1012 1 terabyte 1 trillion bytes
+giga G x109 1 gigawatt 1 billion watts
+mega M x106 1 megaohm 1 million ohms
+kilo K x103 1 kilovolt 1 thousand volts
+deci d x10-1 1 decibel 1 tenth bel
+milli m x10-3 1 milliamp 1 thousandth amp
+micro u x10-6 1 microsecond 1 millionth second
+nano n x10-9 1 nanohenry 1 billionth henry
+pico p x10-12 1 picofarad 1 trillionth farad
+
+
+32 ELECTRONICS
+Schematic Diagrams.
+Older types of fixed resistors have bands of color that
+allow you to determine their resistance value. (See “The Color
+Code of Resistors” section on page 40.) The cross-section of
+this fixed resistor shows the inside, which is made of carbon.
+Note the schematic symbol for a fixed resistor.
+Variable Resistor: The resistance of variable resistors can
+be adjusted. Rheostats are two-leaded devices that vary in
+resistance from 0 to the rated resistance value. Three leaded
+variable resistors, known as potentiometers (pots), have a fixed
+resistance between leads 1 and 3, and have a resistance on lead
+2 proportional to the amount of rotation on the adjustment
+arm. These variable resistors can be used in appliances that
+need their currents adjusted or when the resistance needs to be
+varied, such as with lights that can be dimmed.
+Capacitor: A capacitor is a storage element for electrical
+charge, similar to a bottle that stores a liquid. The basic unit
+of capacitance is the farad (F). Practical capacitors have
+capacitance values in microfarads (μF). The physical size of
+a capacitor depends on its voltage rating and its capacitance
+value. The higher the voltage rating and the larger the
+capacitance value, the larger the capacitor must be.
+Inductor: An inductor is a coil of wire usually wrapped
+around some type of metal or hollow core material and is used
+to smooth out variations in the current flow. When current is
+applied to the coil, a magnetic field is established around the
+Schematic symbols
+Variable resistor packages
+
+
+ELECTRONICS 33
+.Schematic Diagrams
+core. When the current flow stops, the magnetic field begins
+to collapse and in doing so induces current back into the wire
+until the field has collapsed. The magnetic field tends to col-
+lapse at a rate that maintains the original current in the wire.
+Single coil configurations are generally called a choke whereas
+two or more coils can be configured either as a choke to filter
+current changes or as a transformer for changing voltage and
+current values.
+Transformer: A transformer consists of two or more coils
+each with multiple turns of wire around the magnetic core.
+The primary coil is the coil where power is applied to the
+transformer and the other coils are referred to as secondary
+coil(s). The transformer uses the magnetic field established
+by current flow in the primary coil to induce a current in the
+Schematic symbol,
+fixed capacitor
+Schematic symbol,
+variable capacitor
+Capacitor packages
+Inductor packages
+Schematic symbols for inductors
+
+
+34 ELECTRONICS
+Schematic Diagrams.
+secondary coil(s). The ratio of turns from the primary to a
+secondary coil determines how much the incoming voltage is
+multiplied on the secondary side and how much the secondary
+current is divided by the primary current in the secondary.
+Because transformers operate on changing magnetic fields
+caused by changing current, transformers do not operate on
+direct current (DC) currents.
+Semiconductor Devices
+Semiconductor devices are typically made of silicon-based
+material. Diodes and transistors are two common semiconduc-
+tor component types. Semiconductors come in various package
+sizes based on the amount of power they must dissipate in
+rated operation.
+Diodes: Diodes operate as check valves, passing current in one
+direction but not the other. A diode’s most common applica-
+tion is in power supplies. It changes alternating current (AC)
+into direct current (DC).
+Diode packages Schematic
+symbol:
+Standard diode
+Schematic symbol:
+Light-emitting
+diode (LED)
+Transformer
+packages
+Schematic
+symbols for
+transformers
+
+
+ELECTRONICS 35
+.Schematic Diagrams
+Transistor packages Schematic symbols
+Transistors: Transistors are solid-state devices used for con-
+trolling current. A very small input current controls a much
+larger output current. For example, the small current from a
+microphone can control a much larger current that drives a
+loudspeaker. This is the idea behind the audio amplifiers used
+in public address systems.
+Integrated Circuits (ICs)
+Complex circuits are available in integrated circuit (IC) form
+at inexpensive prices. The IC, which typically consumes little
+power, is reliable, cheap, and small. Because devices using ICs
+can be improved and made cheaper, the IC has replaced tradi-
+tional components in many applications. As shown here, ICs
+come in several types of packages. The dual in-line package
+(DIP) is the most popular style for most hobby applications.
+Schematic symbols for ICs are typically very function-specific.
+Integrated circuit
+packages
+
+
+36 ELECTRONICS
+Schematic Diagrams.
+Electromechanical Components
+Microphone: A microphone changes sounds into electrical
+impulses. Either a thin, flexible disk (a diaphragm) or a crystal
+in the mike vibrates whenever sound strikes it. The vibrations
+are changed into small electrical signals. These signals typically
+need to be amplified before they are usable.
+Speaker: A speaker then converts the electrical impulses back
+into sounds. An electromagnet moves a speaker cone based
+on the incoming audio signal. The speaker cone moves the air
+around and it which causes the audio sound to spread across
+the space and recreating the original sound.
+Schematic
+symbol
+Schematic
+symbol
+Speakers
+
+
+ELECTRONICS 37
+.Schematic Diagrams
+Switches: are an important part of almost all electronic equip-
+ment. They come in a wide variety of shapes, sizes, and func-
+tions. Switches are categorized by the number of circuits they
+switch (single, double, triple, etc.) and then by the number of
+switch position contacts. A switch may have an output contact
+for each position of the switch. The switch will typically have
+a default position. A circuit that makes contact in that position
+is called a Normally Closed (NC) contact or in drawing below
+from terminal A to C. If the switch is moved out of default
+position, and makes contact with an electrical terminal, that
+position is called Normally Open (NO) and is shown as con-
+nections A to B in drawings below).
+The simplest is the single-pole, single-throw type. When
+closed, this switch completes a circuit, allowing an electric
+current to flow. When it is open, the circuit is broken, and the
+current does not flow. The on-off switches on most electronic
+devices are of this type (above left).
+A single-pole, double-throw switch has a contact arm that
+can be set in either of two positions. In the example shown
+here, terminal A can be connected to either terminal B or
+terminal C. The dashed line between the switches shows the
+mechanical connection (above center).
+A double-pole, double-throw switch can simultaneously
+switch two wires from one circuit to another. It can be thought
+of as two single-pole, double-throw switches that operate
+together (above right).
+A rotary or selector switch has one or more arms (poles)
+that can be set to various positions. A single pole 10-position
+switch is shown below. Notice that the terminal at the very
+bottom connects the signal to the rotatable arm.
+Switches come
+in many sizes
+and shapes, so
+only schematic
+symbols are
+shown here.
+DPDT toggle
+SPDT toggle
+SPST toggle
+normally open
+SPST toggle
+normally closed
+1A
+1C
+1B
+2C
+2B2A
+
+
+38 ELECTRONICS
+Schematic Diagrams.
+Relays: A relay is a magnetically operated switch. It has a
+wire coil wrapped around an iron core forming an electro-
+magnet. When current flows through the coil, a magnetic
+field develops. The magnetic field attracts a movable part
+called an armature, which moves all relay switch poles from
+normally Closed (magnet off) to Normally Open (magnet
+energized).
+A relatively small current can cause the switch contacts
+to close, but the contacts can handle a much heavier current.
+The relay allows a small current to switch higher current(s)
+on or off. By using several contact sets (single, double, triple
+or more poles and single or double throw). A multi-pole relay
+allows a single control (coil) current to control several different
+currents simultaneously.
+Chemical Components
+Batteries: Batteries are made from several types of materials
+for different uses. Alkaline, lithium, and mercury batteries are
+used when long life is desired. Nickel-cadmium batteries give
+shorter service but can be recharged. The nickel–metal hydride
+battery is replacing the nickel-cadmium battery because it
+doesn’t suffer the memory effect (that is, not allowing a par-
+tially charged battery to fully recharge before use). Lithium-Ion
+type batteries have replaced many of the older battery types.
+Zinc-carbon also is used in many inexpensive dry-cell batteries.
+Most electronic circuits and products operate at low sup-
+ply voltages and have low power requirements. These devices
+are often driven from small batteries or DC voltage sources.
+Depending on the type of product, a coin battery, one, two or
+four flashlight batteries are often adequate for relatively long
+service.
+Ordinary flashlight dry cells produce approximately 1.5
+volts. Four 1.5-volt cells connected in a series can provide 6
+volts. Single 9-volt batteries also are used.
+Schematic symbol
+Relay package
+Batteries come
+in many sizes
+and shapes, so
+only schematic
+symbols are
+shown here.
+
+
+ELECTRONICS 39
+.Schematic Diagrams
+The development of electronics has benefited our
+daily lives in many ways, including the protection
+of life and property. Today, electronics and electronic
+circuits play a vital role in the security field.
+Whether it’s a burglar alarm motion sensor, door
+contact, or the alarm panel and communication
+devices, closed circuit television (CCTV), or devices
+related to detecting smoke and fire, electronics is
+what makes it all happen.
+Photocells: A photoelectrical cell changes one or more of its
+characteristics when exposed to light. It is popularly called the
+electric eye, which controls operations such as traffic lights,
+door openers, and devices that activate lights at dusk and
+turn them off at dawn. One type of photoelectric cell is called
+a photoconductive cell. Another name for this type of cell is
+the light-dependent resistor (LDR). This special resistor has a
+small window so that light can strike the resistance material.
+Generally, such a cell has a high resistance when in darkness.
+Another type is called a photovoltaic cell. This is the familiar
+“solar cell” that is used to power electronic equipment on
+spacecraft. It produces a low voltage across its terminals when
+exposed to light, especially sunlight, thus converting light
+energy into electrical energy.
+Other Component Types: There are many other types of com-
+ponents used in electronics but these are the more common
+components that a hobbyist is likely to use.
+Schematic symbols
+Photoelectric cells
+
+
+40 ELECTRONICS
+Schematic Diagrams.
+The Color Code of Resistors
+The value of a resistor is speci-
+fied in ohms and is indicated by
+colored bands around one end
+of the resistor. The electronics
+industry devised this system
+because small printed numbers
+would be too hard to read or
+might be concealed by the posi-
+tion of the resistor.
+Most resistors have four
+bands, with the first three
+(counting from the end of the
+resistor) indicating the value
+in ohms. The fourth, which is either silver or gold, indicates
+the tolerance (discussed below). Colors used for the bands are
+used in place of numbers. To determine the resistance value in
+ohms, examine the color bands starting with the one closest
+to the end of the resistor.
+FIRST
+DIGIT
+SECOND DIGIT NUMBER OF ZEROES (EXCEPT
+WHEN SILVER OR GOLD)
+TOLERANCE
+Resistors are labeled with colored bands. The
+colors of the bands represent numbers that
+determine a resistor’s value. The fourth band
+represents the resistor’s tolerance.
+Color First Band Second Band Third Band*
+Black — 0 —
+Brown 1 1 0
+Red 2 2 00
+Orange 3 3 000
+Yellow 4 4 0,000
+Green 5 5 00,000
+Blue 6 6 000,000
+Violet 7 7 0,000,000
+Gray 8 8 00,000,000
+White 9 9 000,000,000
+*Add this many zeroes after the first two numbers.
+If you need help remembering the order of the colors in this chart, you
+can memorize this simple sentence, in which each word begins with the
+same letter as the color: “Better Be Right Or Your Great Big Venture
+Goes West.”
+
+
+ELECTRONICS 41
+.Schematic Diagrams
+Resistor
+Suppose a resistor has a brown, a black, and then a
+brown band. The code chart shown here tells you that brown
+represents the number 1. The second black band represents the
+number 0. The third band tells you how many zeroes to add to
+the first two numbers. In the example, the band is brown, so
+you add one zero. Therefore, the value of this resistor is 1-0-0,
+or 100 ohms.
+Now try the example for the resistor
+shown here, which has a red band first,
+then a yellow band, and then an orange
+band. The red band means that the first
+number is 2. The yellow band corresponds
+to the number 4. The orange band tells us
+to add three zeroes. Thus, the value is 2-4-
+000, which translates to 24,000 ohms, or 24
+kilohms (kΩ).
+Most surface mount components are
+too small for color bands, so the color bands
+are converted back to digits and printed
+onto the top of the resistor as 243 for 24,000
+ohms, or 24 kilohms (kΩ).
+Resistors in an old radio
+
+
+
+
+
+ELECTRONICS 43
+.Soldering
+Soldering
+Before you begin working with a circuit, read and study this
+chapter on soldering. Anyone working in electronics must
+know how to solder well, and safely. It takes practice, but
+once you learn, you will be able to properly assemble an
+electronics project.
+In all electronics work, the wiring connections must be
+absolutely secure. A loose connection in a radio, for example,
+could result in noise, scratching sounds, or no sounds at all.
+Poor connections in a TV could disrupt the sound and picture.
+And beyond just a radio and
+a TV in someone’s home, the
+safe operation of airplanes
+and the lives of astronauts
+in flight depend on secure
+electronics connections.
+Soldering is not just
+gluing metals together like
+you glue together pieces of
+wood. Done correctly,
+soldering unites the metals
+so that electrically they
+act as one piece of metal.
+You do this with a mixture
+of lead and tin solder and
+a soldering iron.
+Review the “Soldering Safety” tips on the next
+page before you begin your soldering work on
+requirement 3.
+
+
+44 ELECTRONICS
+Soldering.
+Soldering Safety Tips
+• Solder only under the constant
+supervision of a responsible and
+knowledgeable adult.
+• Make sure that the power is off on the project
+being soldered.
+• Certain kinds of solder release fumes that can
+be harmful to your eyes and lungs; therefore,
+always work with solder in a well-ventilated area.
+• Do not allow anyone to drink, eat, or smoke in
+the soldering area.
+• Wear safety goggles when soldering.
+• Before you start soldering, protect any flamma-
+ble material with a fireproof shield or wet rags,
+and have a fire extinguisher nearby.
+• Be careful not to let hot solder splash around
+because it will burn you almost instantly.
+• If possible, use a soldering iron stand or clamps
+when you are soldering, leaving one hand free
+to hold the solder.
+• Don’t overheat components, circuit boards, or
+plastic wires when soldering.
+• Oxidation (rust) develops more rapidly when a
+soldering iron is hot, so try to make sure the iron
+doesn’t stay hot for long periods of time.
+• Never touch the tip of a hot soldering iron; keep
+the iron in a holder when you aren’t using it.
+Don’t lay it down on your bench or work area.
+• Never leave a soldering iron on unattended.
+• When you are finished soldering and cleaning
+up, thoroughly wash your hands.
+Soldering
+surface mount
+components is
+not covered in
+this pamphlet.
+With parent
+or guardian’s
+permission,
+search online for
+“how to solder
+surface mount
+components” to
+learn how.
+
+
+ELECTRONICS 45
+.Soldering
+The Soldering Iron
+An inexpensive pencil-type soldering iron of no more than
+40-watt capacity (15 to 25 watts are also suitable) is the best for
+electronics work. The tip should be 1 to 2 millimeters (mm);
+the solder should be 1 mm. It is helpful to get an iron with
+interchangeable tips of different diameters or shapes to be used
+on different kinds of work. The iron should be well-balanced
+and have a handle that will remain cool while you work.
+Tinning your iron means coating the tip of the solder
+iron with a thin coat of solder. If your iron is new, read the
+instructions about preparing it for use. Most new irons are
+already tinned, so you might not have to tin it. If the tips are
+silvery, you can use them as they are.
+If instructions aren’t included with your iron and the tip
+is not silvery, first use a fine file to file the tip until it is shiny.
+Then heat the iron and coat the tip with rosin-core solder. Be
+sure to coat all sides of the tip.
+If you have an older iron that has been used and the point
+is already silvery, just wipe it clean with a cloth and you are
+ready for work. If it is dull or looks coppery, file and tin it.
+You also should have a heat-resistant bench-type iron
+holder so that the hot iron can safely be set down between
+uses. Look for one that has a holder for tip-cleaning sponges.
+How to Solder
+A well-soldered joint, one that will be reliable in use, will be
+nice and shiny looking. To achieve a well-soldered joint, make
+sure you do the following:
+1. Solder with a clean, well-tinned tip. Wipe the tip on
+a damp sponge before soldering and between soldering.
+2. Make sure all wires, parts, and the circuit board to be
+soldered are clean.
+3. Make a good mechanical joint before soldering.
+4. Allow the joint to get hot enough before applying solder,
+then apply an adequate amount of solder to the joint. Only
+heat the joint with the solder iron, not the solder itself.
+When you touch the solder to the joint, the solder will flow
+onto the joint
+5. Allow the solder to set before handling or moving
+soldered parts.
+
+
+46 ELECTRONICS
+Soldering.
+Remember that in preparing work for soldering, dirt is
+the enemy of soldering. A solder will not take if parts are dirty,
+so be sure to completely clean all wires and surfaces before
+applying solder. Use fine sandpaper or emery paper to clean flat
+surfaces or wire. If you do have dirty parts or a dirty surface,
+you might try to use too much heat to force a connection.
+When preparing wires, remove the insulation with wire
+strippers or a hobby knife. If using a knife, hold the knife at an
+angle as if you were sharpening a pencil. Do not cut straight
+into the insulation because you could nick the wire and weaken
+it. For enameled wire, use the back of the knife blade to scrape
+the wire until it is clean and bright.
+Next, tin the clean end of the wire. Hold the heated tip
+of the soldering iron against the undersurface of the wire, and
+place the end of the rosin-core solder against the upper surface.
+As the solder melts, it will flow on to the clean end of the
+wire. Hold the hot tip of the iron against the under surface of
+the tinned wire and remove the excess solder by letting it flow
+down the tip. When properly tinned, the exposed surface of
+the wire should be covered with a thin, even coating of solder.
+If you take the time and make the effort to solder a
+perfect joint, you might save a lot of time later in
+trying to troubleshoot problems with your circuit.
+Remember that no amount of cleaning will allow
+you to solder to aluminum. When making a con-
+nection to a sheet of aluminum, you must connect
+the wire by a solder lug or a screw.
+Before you begin, secure your work so that it won’t
+move during soldering. With circuit boards, you
+could use holding frames. Use a modeler’s small
+vice to hold other parts.
+
+
+ELECTRONICS 47
+.Soldering
+Unless you are creating a temporary joint, the
+next step is to make a good mechanical connection
+between the parts to be soldered. For instance, wrap
+the wire carefully and tightly around a soldering
+terminal or soldering lug. (Bend wire and make con-
+nections using long-nosed pliers.) When connecting
+two wires, make a tight splice before soldering. Once
+you have made a good mechanical contact, you are
+ready to solder.
+When you are working with an ordinary circuit
+board, you will bend the wires of a component through
+the board. For those parts, such as some resistors, that
+become hot when in operation, raise them slightly
+above the board to allow some air circulation.
+The next step is to apply the soldering iron and
+solder to the connection. The temperature of all the
+parts that are being soldered should be raised to about
+the same degree before applying the solder. If solder-
+ing a spliced wire, hold the iron below the splice and
+apply solder to the top of the splice. If the tip of the
+iron has a bit of melted solder on the side held against
+the splice, heat is transferred more readily to the splice,
+and the soldering can be done more easily. Don’t
+try to solder by applying solder to the joint and then
+pressing down on it with the iron.
+It usually takes two to three seconds to solder on
+a printed circuit board. Remember: Too much solder
+on a joint might cause short circuits with adjacent
+joints. However, if you don’t apply enough solder, you
+might not form a secure and fully working joint.
+When soldering the wires of a component, you
+might snip the extra wire leads off before soldering.
+However, with some components, such as semi-
+conductors, it might be best to snip the surplus
+wire after you have made the joint.
+Don’t disturb the soldered joint until the solder
+has set. This might take several seconds, depending
+on the amount of solder used to make the joint Then
+take a good look at the joint. It should have a shiny,
+smooth appearance. It should not be pitted or grainy.
+If it is, then reheat the joint, scrape off the solder,
+clean the connection, and start over.
+Heat the wire and
+the lug.
+Apply solder to
+both the tip and
+the connection.
+Attach the wire to a
+soldering terminal or
+soldering lug.
+
+
+48 ELECTRONICS
+Soldering.
+After the solder is well set, pull slightly on the wire to see
+whether it is a good, tight connection.
+How to Desolder
+In case you accidentally make a wrong connection or have to
+move a component that has been placed incorrectly, you should
+learn how to desolder connections. Take care when desoldering
+to avoid breaking or destroying good parts. The leads on
+components such as resistors or transistors and the lugs on
+other parts might sometimes break off when desoldering a good,
+tight joint. To avoid heat damage, use as much care in
+desoldering delicate parts as you do in soldering them.
+There are two ways to desolder. The first and usually
+easiest way is to use a metal wick or braid on a small dispenser
+reel to remove the melted solder. This braid is available at most
+electronics parts stores. Place the braid against the joint that you
+want to desolder. Use your heated soldering iron to gently press
+the braid against the joint. As the solder melts, it is pulled into
+the braid. Don’t let the joint cool while the
+braid is resting against the joint. By repeating
+this process, you can remove virtually all the
+solder from the joint. Then reheat the joint
+and lift off the component leads.
+The second method involves using a
+desoldering pump, or a vacuum device, to
+suck up the molten solder. Most electronics
+parts stores have these devices. Follow the
+manufacturer’s instructions for the pump you
+are using, but here are some general guide-
+lines. Use your soldering iron to heat the joint
+you want to desolder until the solder melts.
+Desoldering braid
+Let the connection harden
+before moving the wire. Check
+for a smooth, bright joint.
+Poor connections look crystalline and
+grainy, or the solder tends to blob.
+
+
+ELECTRONICS 49
+.Soldering
+Then push down on the top of the pump to remove the air
+inside. Next, quickly place the tip of the pump on the melted
+solder you want to remove and press the button on the side.
+This will cause the pump’s plunger to rise rapidly and create a
+vacuum inside. The rush of air at the tip of the pump will pull
+the melted solder in. Repeat until you have removed most of the
+molten solder. Then reheat the joint and gently pry off the wires.
+Experiment with and practice your soldering techniques to
+fulfill requirement 3 before you begin working on your circuit.
+Use pieces of wire or some old components and wire. Practice
+until you can solder joints that are smooth, shiny, and tight.
+Then practice desoldering some of the connections until you
+are satisfied that you can do them quickly and without
+breaking wires or lugs.
+It’s important to responsibly dispose of solder
+waste, which should be either recycled or treated
+as hazardous waste because it contains lead. It
+cannot be disposed of in your regular trash
+collection bin. As you desolder, collect the waste
+in a container clearly marked as solder waste—
+including the solder from your sponge or
+work towel. Throw your sponge or towel away.
+Contact local authorities for information about
+the proper disposal of solder waste in your area.
+Remember these things
+when desoldering:
+• Be sure there is a little melted
+solder on the tip of your iron so that
+the joint will heat quickly.
+• Work quickly and carefully to avoid damaging
+parts with heat. Use long-nosed pliers to hold
+the leads of components just as you did
+while soldering.
+• When loosening a wire head, be careful not to
+bend the lug or tie point to which it is attached.
+Desoldering
+pump
+
+
+50 ELECTRONICS
+Soldering.
+Soldering Printed Circuit Boards
+Most electronic devices use one or more
+printed circuit (PC) boards. A PC board is
+made of a nonconducting material, such as a
+thin sheet of fiberglass or phenolic resin
+(plastic) that has a pattern of foil conduc-
+tors “printed” on it and has predrilled holes
+designed to hold components. You insert
+component leads into the holes and solder
+the leads to the foil pattern. This method of
+assembly is widely used, and you probably
+will use it if you choose to work with an
+electronics kit.
+Printed circuit boards make assembly
+easier. First, insert component leads through
+the correct holes in the board. Mount the
+parts tightly against the circuit board unless
+otherwise directed. Insert a lead and then
+bend it slightly outward to hold the part in
+place. Then follow these steps.
+Step 1—Touch the tip of your soldering iron
+to both the component lead and the foil
+until they are uniformly hot enough to melt
+the solder.
+Step 2—Apply a small amount of solder to
+both the tip and the connection.
+Step 3—Remove the iron and let the solder
+set before moving the wire or the board. The
+finished connection, as you have learned,
+should be smooth and shiny.
+If you happen to get burned while soldering,
+• Quickly cool the burned area with cold running water, an ice pack,
+or something frozen (such as a bag of peas) until the pain is gone.
+• Apply a sterile dressing to help protect against infection.
+• Do not apply any ointments or lotions.
+• Seek medical advice from your doctor if the burn is severe.
+1
+2
+3
+
+
+ELECTRONICS 51
+.Soldering
+Step 4—Finally, clip off the excess
+wire length.
+Occasionally a solder “bridge” will form
+when solder connects between two adjacent
+foil conductors. You must remove such bridges
+or a short circuit will exist between the two
+conductors and the circuit won’t function
+properly. Remove the bridge by heating it
+with your soldering iron and quickly wiping
+away the melted solder with a soft cloth.
+Be sure to remove all solder “bridges,”
+which can cause short circuits.
+A hole on the board could get
+plugged by solder. Clear the hole by
+heating the solder while pushing a
+component lead through the hole
+from the other side of the board.
+Caring for Your Soldering Iron
+• Keep your soldering iron cleaned and well-tinned.
+• Keep a damp cloth or sponge on your workbench. Before soldering
+a connection, wipe the tip of the iron across the damp cloth or
+sponge and then touch some fresh solder to the tip.
+• The tip eventually will become worn or pitted. Repair minor wear
+by filing the tip back into shape. Be sure to tin the tip immediately
+after filing it. If the tip is badly worn or pitted, replace it.
+• Oxidation forms on the tip rapidly when the iron is hot, so don’t
+keep the iron heated for long periods when you aren’t using it.
+• Don’t try cooling the iron rapidly with ice or water. This could
+damage the heating element, and water might get into the barrel
+and cause rust.
+4
+
+
+
+
+
+ELECTRONICS 53
+.Control Devices
+Control Devices
+An important application of electronics is the control of certain
+operations with the use of control devices. For example, control
+devices can make lights go on at certain times or open doors
+automatically. To satisfy requirement 4, you will build a working
+electronic circuit. You may choose to build a control device.
+Building a Control Device From Scratch
+You can build a control project from a kit, but you may want
+to build a project from scratch. The one shown is easy to build
+and fun to use. It is a control circuit that uses light to control
+an audible alarm. This is a popular type of control circuit. It
+could be used to detect when the sun is shining so you
+can turn out your lights and save power.
+The circuit is constructed on the single piece
+of 3-by-4-inch perforated board. While the exact
+size is not critical, a board that is too big is
+better than one that is too small. The holes in
+the board need to be 1/10 inch apart. This is
+necessary so that the pins of the op amp will fit.
+Many types of boards are available. The
+board used (and shown in the photographs) for this
+project has foil patterns designed especially for integrated
+circuits, which makes the project easier. To use this type of
+board, insert components through the board from the top and
+solder to the foil patterns on the bottom of the board. You
+make connections from one component to the next by using
+short wires called jumpers.
+Allow several days to find and buy the necessary
+parts before you start building your circuit. See the
+resources section in the back of this pamphlet for
+information about suppliers.
+This control
+circuit uses
+light to control
+an alarm.
+
+
+54 ELECTRONICS
+Control Devices.
+Procedure
+To build this circuit, follow these steps.
+Step 1—Gather the parts. You may be able
+to buy parts at an electronics supply store,
+but more easily today you can purchase
+electronic components online (see the
+resources section at the back of this book).
+It’s a good idea to make sure you can find
+all the parts before you buy any of them.
+This circuit will work with a wide variety
+of parts.
+Step 2—Lay out the circuit board. Before
+you begin, decide where each component
+will go on the board. The illustration here
+shows a suggested layout. Lay the compo-
+nents on the board and trace the outline
+of each to make sure everything will
+fit properly.
+Step 3—Drill the holes. You must drill
+several holes (see the illustration for the
+pattern) in the circuit board before mount-
+ing any components. The four holes at the
+outer corners are for the four standoffs, or
+legs, that will hold the circuit board. It is
+recommended that you buy a board that
+has these four holes already drilled. This
+will leave you with only three holes to drill.
+The first is the small hole for the
+battery holder. Make this hole slightly larger
+than the screw that holds the battery holder
+to the board. Two larger holes are required
+for the potentiometer and the switch. In
+each case, make the hole slightly larger
+than the part that is to be inserted through
+it. Drill the holes carefully so you don’t
+damage the perforated board.
+Step 4—Mount the IC. Attach the 741 op
+amp first. It must be mounted so that its
+pins are attached to foil patterns that allow
+additional components to be attached.
+Insert the IC in the top of the board.
+Parts Needed
+■■ R1 100 kΩ
+potentiometer
+■■ R2 100 kΩ resistor
+■■ R3 10 kΩ resistor
+■■ R4 4.7 kΩ resistor
+Note: R2, R3, and R4 can be
+5 percent or 10 percent
+tolerance and either 1/2 or
+1/4 watt.
+■■ LDR Light-dependent
+resistor, cadmium-
+sulfide photocell
+■■ Q1 NPN transistor
+type 2N3053
+■■ IC1 741 operational
+amplifier (op amp)
+■■ PB Piezoelectric buzzer
+■■ S1 Single-pole,
+single-throw switch
+■■ Perforated board approx-
+imately 3 × 4 inches
+(described on page 53)
+■■ Four standoffs (legs)
+and screws
+■■ Battery holder for
+9-volt battery
+■■ 9-volt battery
+■■ Battery clip for
+9-volt battery
+■■ 4 feet of No. 24
+insulated wire
+
+
+ELECTRONICS 55
+.Control Devices
+Identify pin 1 of the 741 Op amp IC as
+illustrated on the top of the next page.
+Mark pin 1 on the board with a pencil
+so that it is easier to identify each of the
+pins as you solder components to them.
+Step 5—Mount the LDR. Insert the
+leads of the light-dependent resistor into
+the board at the location shown and
+solder the leads to the foil. Don’t worry
+about which lead is which. The LDR
+can be turned either way.
+Step 6—Mount R2, R3, and R4. Insert the
+leads of the resistors at the locations shown.
+Bend the leads over so that you can insert
+them through the board and solder them to the
+bottom side. Don’t worry about which lead is
+which. The resistors can be turned either way.
+Step 7—Mount the transistor.
+Insert the transistor (Q1) into the board, care-
+fully observing the emitter,
+base, and collector connec-
+tions. The drawing illustrating
+the 2N3053 transistor seen at
+the bottom of the page shows
+how to identify the three
+elements.
+Step 8—Mount the buzzer.
+Insert the buzzer (PB) through
+the board. Note that the minus
+(–) and plus (+) sides must
+be connected as shown in
+the schematic.
+Step 9—Mount the switch. First remove the retaining
+nut. Mount the switch by pushing it through from the
+bottom of the board. Attach it to the board with the
+retaining nut. Cut two lengths of wire, each about
+3 inches long. Remove 1/4 inch of the insulation from
+each end of the wire. Turn the board upside down and
+connect the center switch post to a foil pattern using a
+prepared wire and one of the side of the switch posts
+to another foil pattern using the other wire.
+Hole pattern
+2N3053 viewed
+from bottom
+COLLECTOR
+BASE
+EMITTER
+Schematic diagram, circuit board
+S1
+R2
+100K
+R1
+100K
+R4
+4.7K
+R3
+10K
+Q1
+IC1 741
+7
+6
+4
+2
+3
+PB +
+-
++
+-
++
+-
+9V
+LDR
+SWITCH LDR
+BATTERY
+BUZZERR1
+R2 R4
+R3
+Q1
+IC1
+Suggested layout
+
+
+56 ELECTRONICS
+Control Devices.
+Step 10—Mount the potentiometer. Remove the retain-
+ing nut. Mount the potentiometer (R1) by pushing it
+through from the bottom of the board. Attach it to the
+board with the retaining nut. Cut three lengths of wire,
+each about 3 inches long. Remove 1/4 inch of insulation
+from each end of the wire. Turn the board upside down
+and connect the potentiometer lugs to the foil patterns
+by using the three prepared wires as seen in the top
+view shown here.
+Step 11—Mount the battery holder.
+Step 12—Mount the battery clip. Strip 1/4 inch of insulation
+from the ends of the battery clip’s black and red leads.
+Solder the black and red leads to the board. Do not connect
+the battery yet.
+Step 13—Interconnect each of the components using small
+jumper wires, being sure each wire is electrically connected
+between the correct components. A good way to do this is to
+refer to the schematic and color each line on the schematic as
+you connect that jumper wire on the board. Cut each wire to
+the length needed and remove 1/4 inch of insulation from each
+end of the wire. Insert the jumper from the top of the board
+and solder to the foil on the bottom.
+Step 14—Check all wiring. Before you apply power, recheck
+all wiring as described in the soldering section. Make certain
+that all components are interconnected properly. Check the pins
+of the op amp to make certain that you have the pin numbers
+right. Also recheck the placement of the transistor (Q1).
+Step 15—Apply power. Attach the battery clip to the battery. If
+the buzzer sounds, flip the on-off switch to the opposite posi-
+tion. Place the battery in the holder.
+Step 16—Coarse-adjust R1. Flip the on-off switch to the “on”
+position. If the buzzer does not sound, adjust the potentiometer
+until you hear a sound from the buzzer. If you cannot make
+the buzzer sound by turning the potentiometer, flip the switch
+in the “off” position and adjust the potentiometer until the
+buzzer sounds. If the buzzer will not sound in either switch
+position, then immediately disconnect the battery and recheck
+all wiring. Correct the problem by rewiring as necessary.
+Repeat the process until you hear a tone from the buzzer.
+1 2 3 4
+741
+8 7 6 5
+Viewed from top
+
+
+ELECTRONICS 57
+.Control Devices
+Step 17—Fine-adjust R1. Once you get a sound from the
+buzzer, cover the LDR with a finger to block light from the
+device. With the LDR covered, back off the setting of the
+potentiometer just to the point where the buzzer no longer
+sounds. The buzzer should now sound when the LDR is
+uncovered but stop buzzing when the LDR is covered. The
+circuit is detecting the presence of light and responding by
+sounding the buzzer.
+Circuit Operation
+To understand how the circuit works, refer to the schematic
+diagram shown on the previous page. Start at the buzzer (PB)
+and work backward. The buzzer will sound when current
+flows through it. Transistor Q1 controls the current through the
+buzzer. When Q1 conducts, current flows through Q1 and the
+buzzer, creating the sound. In turn, the 741 op amp controls
+Q1. The 741 (IC1) is an integrated circuit that contains dozens
+of transistors connected as a very high-gain amplifier. This
+means that it can amplify extremely tiny differences in the
+voltages applied to the two input terminals (pins 2 and 3).
+The resistance of the light-dependent resistor (LDR)
+determines the voltage on pin 3 of the op amp. If no light
+strikes the LDR, the resistance across the LDR is high, which
+causes the voltage at pin 3 of the op amp to be low. When
+light hits the LDR, its resistance falls and the voltage on pin 3
+of the op amp increases.
+Before using the circuit, in steps 16 and 17, you adjusted
+the setting of R1. Moving the arm of R1 changes the voltage at
+pin 2 of the op amp. With the LDR shielded from light, you set
+R1 just below the point at which the buzzer is activated. When
+R1 is properly set, the voltage at pin 3 is slightly lower than
+the voltage at pin 2. The op amp amplifies this tiny difference
+in voltage and produces a very low voltage at its output. This
+low output voltage holds Q1 cut off so that no current can flow
+through the buzzer.
+When light hits the LDR, as was noted, its resistance
+drops. This increases the voltage at pin 3 of the op amp. The
+op amp amplifies this difference, producing a high voltage at
+its output. This turns Q1 on, forcing current through the
+buzzer and sounding the alarm.
+
+
+
+
+
+ELECTRONICS 59
+.Digital Electronics
+Digital Electronics
+Since the use of transistors began in 1948, the field of electronics
+has undergone a revolution that continues to allow for the
+introduction of a vast array of new devices. The development
+of digital electronic components has revolutionized fields such
+as computing, communications, and information handling.
+Such components have replaced many traditional circuits
+and components.
+Possibly the best example of this revolution is the personal
+computer and related products. Other examples are digital
+watches, digital thermometers, hand-held computers and games,
+complex calculators, electronic games, televisions, and digitally
+recorded music and videos.
+
+
+60 ELECTRONICS
+Digital Electronics.
+Binary Number System
+To understand digital electronics, you must first learn the
+binary number system, which is used in digital equipment.
+The decimal system of numbering uses 10 different digits:
+0, 1, 2, 3, 4, 5, 6, 7, 8, and 9. This number system is suitable
+for people but is too complex to be used by electronic circuits.
+Digital logic is a simple process that can make only two
+decisions: true or false. So the binary number system has
+only two digits: 0 and 1. Thus, “true” can be represented by 1
+and “false” by 0.
+With only two digits, how are numbers larger than 1
+represented? The answer is the same way numbers greater
+than 9 are represented in the decimal system. In the decimal
+system, the highest single-digit number is 9. We represent
+numbers greater than this by using two or more digits in combi-
+nation. That is, 10 is represented by using the
+digits 1 and 0 together.
+In the binary system, the highest single-
+digit number is 1. To represent numbers
+greater than this, we again use two or more
+digits in combination. The number 2 cannot
+be represented by the symbol “2” because this
+digit is not used in the binary system. Instead,
+the digits 1 and 0 must be used together, to
+form 10. Therefore, in the binary system, 10
+represents the number 2 and not the number
+“ten.” The number 3 is represented by the
+next larger two-digit number of 11.
+Now, how do we represent the number 4
+in binary? Since we no longer have two-digit
+possibilities, we must use a three-digit number.
+The lowest three-digit number is 100. In the
+decimal system, this means “one hundred.” In
+the binary system, 100 means “four.”
+Here is a chart showing decimal numbers
+up to 17 and how to represent them using the
+binary system.
+Study this table to help you understand
+the binary sequence. Then try to continue the
+list to 32 (decimal), or 100000 (binary).
+Decimal Binary
+0 0
+1 1
+2 10
+3 11
+4 100
+5 101
+6 110
+7 111
+8 1000
+9 1001
+10 1010
+11 1011
+12 1100
+13 1101
+14 1110
+15 1111
+16 10000
+17 10001
+
+
+ELECTRONICS 61
+.Digital Electronics
+Let’s convert the decimal number 8 to binary. You start by dividing
+8 by 2, and then keep dividing the answer you get by 2.
+8 divided by 2 = 4 with a remainder of 0
+4 divided by 2 = 2 with a remainder of 0
+2 divided by 2 = 1 with a remainder of 0
+1 divided by 2 = 0 with a remainder of 1
+We arrange the remainders like this: 1 0 0 0
+This gives the binary number for 8: 1000. Check the decimal/binary chart
+shown earlier to make sure you are correct.
+To practice again, convert 13 to a binary number.
+13 divided by 2 = 6 with a remainder of 1
+6 divided by 2 = 3 with a remainder of 0
+3 divided by 2 = 1 with a remainder of 1
+1 divided by 2 = 0 with a remainder of 1
+Arrange the remainders: 1 1 0 1
+Check the decimal/binary chart and you will see that 1101 is the binary
+equivalent of 13.
+Changing Decimal to Binary
+If you can divide by 2, you can convert decimal numbers to
+binary numbers. By repeatedly dividing a number, we can
+convert from decimal to binary. Remember that an even
+number divided by 2 will have a remainder of 0. An odd
+number divided by 2 will have a remainder of 1.
+
+
+62 ELECTRONICS
+Digital Electronics.
+Changing Binary to Decimal
+Changing numbers in the opposite direction is just as easy.
+Try some conversions on your own, checking the answers
+on the decimal/binary chart.
+Logic Circuits
+Digital electronic devices consist of circuits called logic gates. A
+logic gate is a collection of transistors and resistors connected
+to perform a desired operation. The three basic types of logic
+gates are the AND gate, the OR gate, and the inverter, or NOT.
+The AND Gate
+The simplest AND gate has two inputs and one output. This
+circuit examines the input voltage levels and produces an
+appropriate output voltage level. Digital systems use the binary
+number system. Therefore, only two voltage levels are used.
+One voltage level stands for the number 0, and the otherAND gates
+Let’s convert the binary number 1001 to its decimal equivalent. In a way,
+we will do the opposite of what we just did; that is, instead of dividing
+by 2, we’ll multiply by 2. First, write the binary number with the digits
+spread apart, like this:
+1 0 1 1
+Under the digit on the right, write the number 1. Multiply 1 by 2; the
+answer is 2. Write 2 under the next number. Multiply 2 by 2 (equals 4),
+and write 4 under the next number. Multiply 4 by 2 (equals 8) and write 8
+under the next number:
+1 0 1 1
+8 4 2 1
+Now, add together the bottom numbers that appear under a 1.
+In the example, 8, 2, and 1 are written under 1s, so 8 + 2 + 1 = 11. Check
+the decimal/binary chart and you will see that 11 is the decimal number
+for 1011.
+Here’s another example. Convert the binary number 10110 to a
+decimal number:
+1 0 1 1 0
+16 8 4 2 1
+Adding the numbers under 1s, you get 16 + 4 + 2 = 22.
+
+
+ELECTRONICS 63
+.Digital Electronics
+stands for the number 1. A common arrangement is to let 0
+volts represent the number 0 and to let +5 volts represent the
+number 1. An AND gate produces a 1 output only when all
+inputs are 1s. Or, it could be said that the output of an AND
+gate is true only if all inputs are true. So, for the arrangement
+explained above, the output of the AND gate is +5 volts (1)
+only when all inputs are +5 volts (1). If either input is 0 volts
+(0), the output will be 0 volts (0).
+This gate is called an AND gate because the output is 1
+only if input one and input two are both 1s. Some AND gates
+have more than two inputs. However, the operation performed
+is the same. For this reason, the AND gate can be thought of as
+an “all or nothing” decision circuit.
+The illustration shows the logic symbol used in schematic
+diagrams for the AND gate. The inputs are shown on the
+straight side, the output on the curved side.
+The OR Gate
+The OR gate, which has two or more inputs and a single output,
+also is a decision-making circuit. It produces a 1 (true) output
+when any one or all of its inputs are 1. That is, it produces a
+1 output when input one or input two or both inputs are 1s.
+The only time the OR gate produces a 0 (false) output is when
+all inputs are 0. Think of it as an “any or all” decision circuit
+because if any or all of its inputs are 1, the output is 1.
+Inverter
+The inverter has a single input and a single output terminal. If
+the input is 0, the output is 1. If the input is 1, the output is 0.
+That is, the inverter reverses, or inverts, the input.
+Other Gates
+Two other types of logic gates are used in digital electronics.
+One is the NAND gate. This circuit is composed of an AND
+gate and an inverter that are connected together. The output of
+the AND gate is applied to the input of the inverter as shown in
+the diagram above right. The NAND gate is shown as an AND
+gate with a bubble on the output to indicate that the result of
+the AND operation is inverted.
+The output of the OR gate is applied to the input of the
+inverter as shown in the diagram above right. The NOR gate is
+shown as an OR gate with a bubble on the output to indicate
+that the result of the OR operation is inverted.
+OR gates
+NAND gate
+Inverters
+NOR gate
+Logic gates
+generally are
+made in integrated
+circuit form.
+A single IC
+package may
+contain four
+NAND gates
+or six inverters.
+
+
+64 ELECTRONICS
+Digital Electronics.
+Digital Equipment
+Connected in various ways, the basic logic gates can perform
+many different operations. Circuits have been devised to
+count, add, subtract, remember numbers, and solve complex
+problems. Large numbers of these circuits can be connected
+to form an array of useful electronic equipment. Sometimes,
+microprocessors perform many of the switching and timing
+functions of individual logic elements. The processors are
+programmed with instructions to perform a given task or
+tasks. Let’s look at some popular digital devices.
+Computers
+A computer can rapidly solve a wide range of problems and
+provide many other important functions. Computers are
+complex enough to be used to control spacecraft and airliners
+in flight. They are used in industry for calculating payrolls, for
+keeping records, word processing, and for inventory control,
+among other things. Besides “crunching numbers” for those
+functions, computers also can store and process data that are
+not mathematical in character. Such nonmathematical functions
+include ticket control by airlines, library record-keeping, and
+even translating languages.
+In the 1950s, very few people had television sets. Now
+almost everyone does. The same thing has happened with the
+personal computer (PC) over the
+past 25 years or so. Once rare, now
+they are commonplace. Initially
+designed for individual use, PCs can
+be connected to form networks in a
+single office or all over the world.
+Laptop computer
+with cover removed
+
+
+ELECTRONICS 65
+.Digital Electronics
+Computers have essentially replaced the typewriter for writing
+and have many other uses, such as for sending faxes, commu-
+nicating through electronic mail (email), and drawing, as well
+as for entertainment.
+To use a computer, we must communicate with it. First,
+a programmer must write a program, or a set of instructions,
+that the computer’s processor can understand. The program is
+designed to perform a needed task. The computer follows the
+program’s instructions and performs the task. Most computer
+programs are extremely complex and are developed by several
+programmers at companies that specialize in developing these
+programs. Consumers usually buy these programs in the form
+of software. The computer and what it is connected with (such
+as printers) are the hardware.
+The user, or operator, communicates with the computer
+through input devices such as a keyboard, a mouse, and a
+monitor, which can resemble a small TV set. The user enters
+information directly into the machine through the keyboard
+or a touch screen and interacts with application programs that
+usually have been stored on the PC’s storage device, such as a
+hard disk (commonly called a hard drive). This is an inflexible
+platter or platters that are coated with material that allows the
+magnetic recording of data.
+
+
+66 ELECTRONICS
+Digital Electronics.
+Electronic Calculators
+A calculator uses the same type of arithmetic
+circuits as a PC uses, but the method of entering
+data and displaying the answer is more simplified.
+The operations of early calculators were generally
+limited to a few mathematical functions, but newer
+ones can perform many complex functions.
+Digital Clocks and Watches
+Digital clocks and watches are replacing their
+mechanical counterparts. In digital devices,
+an extremely accurate oscillator produces
+thousands of pulses each second. Electronic
+circuits count these pulses and convert them
+to a display of the time in hours, minutes,
+and seconds. Smart watches with extremely
+powerful microcontrollers and various types of
+communications can do this function and many more.
+Test Equipment and Other Devices
+Digital techniques offer several advantages in
+electronic test equipment (see the chapter “Electronic
+Test Equipment” on page 75). Digital voltmeters
+generally are more accurate and easier to read
+than the meter-movement type of instrument.
+Other test instruments include the frequency counter,
+oscilloscope, multimeter, cable checker, and clamp meter.
+Several other types of digital equipment are becoming
+increasingly popular, especially in the fields of entertainment
+and communications. Digital techniques now allow for better
+TV reception, and digital techniques are used in electronic
+musical instruments, audio and video recording, transmitters,
+appliances, video games, and mobile phones.
+
+
+ELECTRONICS 67
+.Digital Electronics
+
+
+
+
+
+ELECTRONICS 69
+.Audio
+Audio
+The field of audio deals with frequencies that are within the
+range of human hearing. Devices such as compact disc (CD)
+players, DVD (digital versatile disc) players, MP3 (high-quality
+sound files compressed into digital format) players, cassette
+recorders, stereos, receivers, public address systems, and
+electronic musical instruments are among audio equipment.
+What Is Audio?
+When we strike middle C key on a piano, the sound we hear is
+caused by a vibrating wire. The wire vibrates about 260 times
+each second. This causes the molecules in the air to vibrate at
+the same rate, producing a mild shock wave that travels in all
+directions. When the wave reaches us, our eardrums vibrate at
+the same frequency. As a result, we hear a pleasing tone of the
+same frequency produced by the piano.
+Middle C frequency is about 260 cycles per second, or 260
+hertz (Hz). The piano’s lowest note is about 27 Hz; the highest
+is higher than 4,000 Hz. Most people easily hear both extremes.
+A person with good ears can hear frequencies between 15 and
+
+
+70 ELECTRONICS
+Audio.
+20,000 Hz. These extremes are considered the limits of the audio-
+frequency range. Audio equipment is used to produce, record,
+amplify, or reproduce frequencies in this range.
+Most audio equipment falls in one of these categories:
+• “Hi-fi stereo” field. A good CD player will faithfully
+reproduce any sound within the audio range. That is, it
+might have a frequency response from 15 to 20,000 Hz.
+Newer technology includes DVD-audio and SACD (super
+audio CD). DVD-audio has a frequency response up to
+96,000 Hz, and SACD reaches 100,000 Hz.
+• The spoken word. Public address systems and intercoms
+are in this category. The human voice covers a narrow
+frequency range (about 100 to 3,000 Hz), so the frequency
+response of such systems need not cover the entire
+audio range.
+• Musical instruments. Electronic keyboards, synthesizers,
+and electric guitars are examples. These instruments
+produce a wide range of frequencies and can create
+many special effects.
+Audio Project
+Low-cost electronics kits are available that will satisfy require-
+ment 4. However, you can build a simple audio device from
+scratch fairly easily, such as the electronic siren shown here.
+It produces a sound similar to a police siren. The frequency
+of the wail slowly increases as you hold down a push button,
+and when you release the button, the frequency of the wail
+slowly decreases.
+Electronic siren
+
+
+ELECTRONICS 71
+.Audio
+Circuit Operation and Construction
+The schematic diagram shown here is for the electronic siren.
+When S1 is closed, capacitor C1 begins to charge. As it does,
+it makes the base of Q1 more and more positive. This slowly
+turns on Q1. Current
+through Q1 turns Q2 on;
+Q1 and Q2 form a direct-
+coupled amplifier.
+Part of the output
+from Q2 is applied to
+the input of Q1 through
+capacitor C2. This
+provides the regenerative
+(restoring) feedback
+that causes the circuit
+to oscillate (fluctuate).
+When switch S1 is
+opened, C1 discharges
+Parts Needed
+■■ Capacitor C1 50 microfarads, 12 volts, electrolytic
+■■ Capacitor C2 0.018 microfarad, 25 volts or greater
+■■ Transistor Q1 NPN, SK-3020 or equivalent
+■■ Transistor Q2 PNP, SK-3009 or equivalent
+■■ Resistor R1 27 kΩ, 1/2 watt, 10%
+■■ Resistor R2 68 kΩ, 1/2 watt, 10%
+■■ Resistor R3 56 kΩ, 1/2 watt, 10%
+■■ Resistor R4 470 ohms, 1/2 watt, 10%
+■■ Switch S1 Single-pole, push-button
+■■ Switch S2 Single-pole, single-throw
+■■ Speaker 3.2 to 8.0 ohms
+■■ 9-volt battery
+■■ Battery clip
+■■ Perforated board
+■■ Terminal posts (optional)
+BOTTOM
+VIEW S1
+S2
+9V
+R1
+27K
+R2
+68K
+B
+B
+E
+E
+C
+C
+Q1
+Q1
+B
+B
+E
+E
+C
+C
+Q2
+Q2
+C1
+50μF
+12V
+R3
+56K
+R4
+470
+C2
+.018μF
+Schematic diagram, electronic siren
+
+
+72 ELECTRONICS
+Audio.
+through R2 and the base of Q1. You can change the “wailing
+rate” of the siren by changing the values of R1 and C1. An
+increase in the value of R1 or C1 lengthens the time period
+during which the frequency of oscillation increases.
+Battery drain with switch S1 open is only about 400 micro-
+amperes. Therefore, power switch S2 is not necessary. But such
+a switch will add to battery life.
+You can get good results by building the circuit on a
+perforated board. All components except the speaker mount
+on top of the board. The illustration here shows all wiring
+connections as viewed from the bottom of the board. You
+can place the completed unit in a plastic box, or simply
+support the board on standoffs (legs) as shown.
+Wiring connections, bottom view
+C2
+S2
+R1 R2 R3 R4
+C1
+S1
+Q1
+ON-OFF SWITCH
+9-VOLT
+BATTERY
+SPEAKER
+B
+B
+E
+E
+C
+C
+Q1
+Q2
+Q2
+
+
+ELECTRONICS 73
+.Audio
+
+
+
+
+
+ELECTRONICS 75
+.Electronic Test Equipment
+Electronic Test
+Equipment
+Test equipment includes the instruments that are used to
+diagnose the operation of electronic circuits. The most popular
+types of test equipment are meters, oscilloscopes, and signal
+generators. You should use such equipment with someone who
+has experience using electronic test equipment.
+Meters
+Meter movement. In electronics, meters are used to measure
+current, voltage, and resistance. Both analog and digital meters
+are popular, although digital meters continue to replace most
+analog meters. Digital meters are considered easier to use and
+to read.
+You have learned how basic digital technology works.
+How does an analog meter work? The heart of the analog
+meter is the meter movement. The meter movement consists
+of a coil of fine wire wound on a tight aluminum frame. The
+frame is suspended and free to rotate. The coil has leads
+attached so that current can be forced through it. The coil is
+suspended in the field of a permanent magnet. When current
+flows through the coil, a magnetic field develops around it. This
+field interacts with the field of the permanent magnet. The
+interaction of the two fields causes the coil assembly to rotate.
+In electronics, analog means a device or signal
+that is continuously varying in strength or quantity,
+such as a sound wave, rather than being based on
+separate units, such as used in the binary system
+of 0 and 1.
+
+
+76 ELECTRONICS
+.Electronic Test Equipment.
+The coil has a pointer attached to it, and as the coil rotates,
+it moves the pointer in front of a scale. The more current that
+flows through the coil, the farther the coil will rotate. This
+forces the pointer to move farther up the scale.
+Ammeter. The ammeter is designed to measure current. The
+meter movement alone can be used as an ammeter. Normally,
+though, a range switch is added so that the meter can measure
+a wide range of current. The schematic for the ammeter shows
+a shunt. A shunt is a small value resistor that acts as a bypass.
+It detours some of the current around the meter movement.
+We can change the range of the ammeter by using a different
+value shunt across the meter movement.
+An ammeter is delicate and easily damaged. It must be
+connected to the circuit so that the current to be measured
+flows through the meter. For this reason, the circuit being
+tested must be broken to insert the ammeter.
+SCALE
+POINTER
+LEFT RETAINING PIN
+PERMANENT MAGNET
+SPIRAL SPRING
+SOFT-IRON CORE
+RIGHT RETAINING PIN
+ZERO-ADJUST SCREW
+COUNTERWEIGHTS
+MOVING COIL
+FULL-SCALE
+DEFLECTION
+Analog meter movement
+
+
+ELECTRONICS 77
+..Electronic Test Equipment
+Voltmeter. The voltmeter is designed to measure voltage and
+uses the same type of meter movement as an ammeter. The
+voltmeter is connected across the voltage to be measured. To
+measure voltage between two points, touch the negative lead
+to the more negative point and the positive lead to the more
+positive point. The circuit under test need not be broken or
+interfered with in any way.
+A low voltage can be applied directly to the meter move-
+ment. A higher voltage, however, might cause a high enough
+current to burn out the delicate coil. For this reason, a large-
+value resistor is connected in series with the meter movement.
+This resistor limits the amount of current flowing through the
+coil. Also, the meter should be set at the proper range. For
+instance, you shouldn’t try to measure 100 volts with the meter
+set to the 1-volt range. Use the meter set on the high range if
+you are unsure of the voltage being measured.
+The range of the voltmeter is changed by switching differ-
+ent values of resistors in series with the meter movement. On a
+given range, the voltage across the connected leads determines
+the current that flows through the meter. The meter scale can
+be marked off in volts.
+When using a
+voltmeter, hold the
+meter leads only
+by the insulated
+portions to
+avoid getting an
+electrical shock.
+Schematic of an ammeter
+– +
+1mA
+METER MOVEMENT
+SHUNT
+Schematic of an ammeter
+
+
+78 ELECTRONICS
+.Electronic Test Equipment.
+Ohmmeter. The ohmmeter measures resistance. It consists
+of a meter movement and a battery connected together. The
+ohmmeter should not be connected to a circuit that has power
+applied because the meter could be easily burned out if it is
+connected across a voltage.
+The resistance to be measured is connected across
+the ohmmeter leads. The battery forces current through the
+resistance and through the meter movement. The amount of
+current depends on the resistance value under test. The range
+of the ohmmeter can be adjusted. For example, if the range
+is R × 1, then a reading of 9 would measure 9 ohms. But if
+the range is set at R × 1,000, then a 9 reading would mean
+9,000 ohms (or 9 kΩ).
+Multimeter. The three types of meters we have just looked
+at use the same type of meter movement. For this reason, the
+ammeter, voltmeter, and ohmmeter can be combined in a
+single instrument called a multimeter, which displays the
+values of voltage, current, and resistance. A switch changes
+the meter movement from one function to the other. The
+multimeter is the most common piece of test equipment
+used in electronics work.
+Schematic of an ohmmeter
+μA
+METER MOVEMENT
+SERIES RESISTANCE
+TEST PROBES
+UNKNOWN RESISTANCE
+BATTERY
+R1
+R2
+(RX)
+–
++
+Schematic of an ohmmeter
+
+
+ELECTRONICS 79
+..Electronic Test Equipment
+These days, digital multimeters are the most popular.
+Schematic of a multimeter
+CURRENT
+VOLTS
+OHMS
+FUNCTION
+SWITCH
+RANGE
+SWITCH
+R1
+50μA
+2000Ω
+100mA8 7
+R4
+S2
+4
+5
+L0 Ω 1.5V R7 22K
+R8R9
+HI Ω
+B2
+B1
+270K
+6K
+18K
+1.8M
+R5
+R6
+198K
+10mA
+6
+S1
+1V
+1
+10V
+2 100V
+3
+1mA
+R2 10Ω
+1Ω
+R3 105Ω
+TEST PROBES
+
+
+80 ELECTRONICS
+.Electronic Test Equipment.
+Oscilloscopes and Signal Generators
+An oscilloscope looks something like a small TV, but the screen,
+or cathode-ray tube (CRT), shows voltage wave shapes. This
+lets you know how the voltage in a circuit changes over time.
+Oscilloscope
+
+
+ELECTRONICS 81
+..Electronic Test Equipment
+Signal generator
+Many different types of signal generators are used in elec-
+tronics. The most common are used to align communications
+equipment and diagnose problems. These signal generators
+act as tiny replicas of transmitting stations. They allow service
+technicians to inject the proper type of signal at various points
+throughout the circuit. For this reason, the signal generator is a
+valuable troubleshooting aid. Many of today’s signal generators
+can be hooked up to a PC, and the diagnosis can be seen on
+the computer monitor.
+
+
+
+
+
+ELECTRONICS 83
+.Careers in Electronics
+Careers in Electronics
+The electronics industry has several general areas with many
+types of careers available in each area. These areas include
+manufacturing, merchandising, operating, servicing or
+maintaining, and engineering electronic parts and equipment.
+Training requirements vary
+in each area. Some positions
+require a college degree, while
+a degree from a vocational
+school is adequate for other
+careers. Some companies
+allow on-the-job training,
+but almost all require at least
+a high school diploma.
+In electronics manufacturing,
+most positions are in factories.
+Occupations include assemblers,
+that is, the people who help
+build electronic equipment. A
+high school education is needed
+as well as mechanical aptitude.
+Merchandising, or sales,
+is another field for those
+interested in electronics.
+Someone who has technical
+knowledge and enjoys talking
+with and meeting people could
+do well in electronics sales.
+Education can include a high
+school diploma or degrees
+from vocational schools
+and/or college.
+
+
+84 ELECTRONICS
+.Careers in Electronics.
+Many types of electronics equipment are so specialized
+that they require trained operators. An operator might work
+with computers and computer network systems, cameras,
+satellite tracking devices, ship radios, or medical machines. In
+some cases, the operators must maintain and repair their own
+equipment. Education in a vocational school, a degree from
+a college or university, or training in the military usually is
+needed for these positions.
+Because of the complexity of many electronic machines,
+service and maintenance people are always needed. Any
+electronic device can fail or malfunction from time to time, and
+people are needed to make quick and expert repairs.
+
+
+ELECTRONICS 85
+..Careers in Electronics
+Technicians can have a variety of positions. They might
+be required, among other things, to turn engineering ideas
+into hardware, to repair equipment, or to calibrate (adjust)
+test instruments. Most technicians have one or two years of
+technical training after high school. Some receive training in
+the military, and others go to a vocational school or junior
+college. Some receive on-the-job training or study at home by
+correspondence. Many occupations require continuous training
+so that technicians remain current with changing technology.
+Electronic engineers usually have a bachelor’s degree or
+higher in engineering. As with technicians, engineers must
+constantly update their education to keep abreast of new
+components and techniques. A highly trained electronics
+engineer might design electronic equipment or large
+electronic systems.
+
+
+86 ELECTRONICS
+Electronics Resources.
+Scouting Literature
+Computers, Electricity, Inventing, Radio,
+and Robotics merit badge pamphlets
+Books
+Bartholomew, Alan. Electric Mischief:
+Battery-Powered Gadgets Kids Can
+Build. Kids Can Press, 2002.
+Includes directions for an
+assortment of electronics.
+Bonnet, Bob, and Dan Keen. Science
+Fair Projects With Electricity &
+Electronics. Goodwill Publishing
+House, 2014. Includes nearly
+50 projects on electricity
+and electronics.
+Bridgman, Roger. Eyewitness:
+Electronics. DK Publishing, 2000.
+Traces the history, discoveries, and
+devices of this fast-moving science.
+Ceceri, Kathy. Robotics: Discover the
+Science and Technology of the Future
+with 20 Projects. Nomad Press, 2012.
+Chirico, JoAnn. Electronics. VGM
+Career Horizons, 1996. This book
+explores career possibilities in
+electronics and electricity.
+Engelbert, Phillis. Technology in Action:
+Science Applied to Everyday Life.
+Gale, 1998. A general look at tech-
+nology and technical applications of
+scientific knowledge, with a section
+on computers and electronics.
+Leon, George deLucenay. Electronics
+Projects for Young Scientists.
+Franklin Watts, 1991. Introduces
+the basic principles of electronics
+and includes project ideas such as
+a crystal radio, an intercom, and a
+pair of electronic dice.
+Maxfield, Clive “Max.” Bebop to the
+Boolean Boogie: An Unconventional
+Guide to Electronics, 3rd. ed.
+Newnes, 2009. This book covers the
+basics of electronics clearly, simply,
+and in an entertaining style.
+Predko, Myke. Digital Electronics
+Guidebook: With Projects! McGraw-
+Hill, 2002. Introduces the nuts and
+bolts of digital electronics.
+Electronics Resources
+With your parent or guardian’s
+permission, visit Scouting America’s
+official retail site, scoutshop.org,
+for a complete list of merit badge
+pamphlets and other helpful
+Scouting materials and supplies.
+
+
+ELECTRONICS 87
+.Digital Electronics
+Rowh, Mark. Opportunities in
+Electronics Careers. McGraw-Hill,
+2007. Check out the many electron-
+ics-related career opportunities fea-
+tured in this book.
+Slone, G. Randy. TAB Electronics Guide
+to Understanding Electricity and
+Electronics. 2nd ed. McGraw-Hill,
+2000. A learn-as-you-go guide for
+readers of any electronics skill level.
+Magazines
+Nuts & Volts
+430 Princeland Court
+Corona, CA 92879
+Telephone: 951-371-8497
+nutsvolts.com
+Popular Science
+popsci.com
+Organizations and Websites
+American Microsemiconductor Inc.
+americanmicrosemi.com/tutorials
+ePanorama.net
+epanorama.net
+HowStuffWorks
+electronics.howstuffworks.com
+101science.com
+101science.com/Radio.htm
+Electronics Parts and Suppliers
+In many places, Radio Shack stores
+can be the best source for electronics
+parts. However, most Radio Shacks
+have reduced their parts inventories,
+which means you might have to look
+elsewhere to find all the parts you
+need for a project (or check out their
+website, radioshack.com). Electronics
+parts and kits also can be ordered over
+the internet or via mail or toll-free tele-
+phone from various suppliers.
+Whenever you go online, be
+sure you have your parent or
+guardian’s permission first.
+All Electronics
+14928 Oxnard St.
+Van Nuys CA, 91411-2610
+Toll-free telephone: 818-904-0524
+allelectronics.com
+Allied Electronics & Automation
+7151 Jack Newell Blvd. S.
+Fort Worth, TX 76118
+Toll-free telephone: 866-433-5722
+alliedelec.com
+C&S Sales Inc.
+150 Carpenter Ave.
+Wheeling, IL 60090
+Toll-free telephone: 800-292-7711
+cs-sales.net
+Carl’s Electronics
+484 Lakepark Ave., Suite 59
+Oakland, CA 94610
+Toll-free telephone: 866-664-0627
+electronickits.com
+Digi-Key Corporation
+701 Brooks Ave. S.
+Thief River Falls, MN 56701
+Toll-free telephone: 800-344-4539
+digikey.com
+HobbyTron.com
+24700 Avenue Rockefeller
+Santa Clarita, CA 91355
+Telephone: 818-675-9000
+hobbytron.com
+
+
+88 ELECTRONICS
+Digital Electronics.
+Institute of Electrical and
+Electronics Engineers (IEEE)
+445 Hoes Lane
+Piscataway, NJ 08854-4141
+Telephone: 732-981-0060
+ieee.org
+Jameco Electronic
+1355 Shoreway Road
+Belmont, CA 94002
+Toll-free telephone: 800-831-4242
+jameco.com
+Mouser Electronics
+1000 N. Main St.
+Mansfield, TX 76063
+Toll-free telephone: 800-346-6873
+mouser.com
+Newark
+300 S. Riverside Plaza, Suite 2200
+Chicago, Il 60606
+Toll-free telephone: 800-463-9275
+newark.com
+SparkFun Electronics
+6333 Dry Creek Parkway
+Niwot, CO, 80503
+sparkfun.com
+Acknowledgments
+Scouting America thanks Norman
+McFadden for updating this version
+of the pamphlet. Thanks also to
+Mary Wiggins, director of educational
+initiatives for the Electronic Industries
+Foundation, for her assistance with this
+edition of the Electronics merit badge
+pamphlet. The EIF strives to create
+new ways to engage young people in
+the pursuit of science and technology,
+including electronics.
+Scouting America is grateful to
+the men and women serving on the
+National Merit Badge Subcommittee
+for the improvements made in updating
+this pamphlet.
+Photo and Illustration Credits
+University of Oklahoma, courtesy—
+page 89
+SPARK Museum of Electrical Invention,
+sparkmuseum.org, courtesy—page 6
+(all foreground)
+Ultimate Symbols Inc., ©1996–2000—
+page 49 (recycle symbol)
+Wikipedia.org, courtesy—page 41
+(resistors)
+All other photos and illustrations
+not mentioned above are the property
+of or are protected by Scouting
+America.
+John McDearmon—all illustrations
+on pages 21–25, 29, 31–41, 55–56,
+62–63, 71–72, and 76-79
