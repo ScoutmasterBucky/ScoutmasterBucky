@@ -1,182 +1,305 @@
 # Requirement 5b: "With permission and approval, " but doesn't state from whom you need this permission and approval.
 - detail: true
   text: |-
-    <b>Note: As you work on the Exploration merit badge, remember to always use
-    the buddy system. Whether you are out in the field or meeting with your
-    merit badge counselor, having a buddy will help ensure everyone's safety.
-    You and your buddy can watch out for each other wherever you may be or
-    whatever you may be doing.</b>
+      <b>Note: As you work on the Exploration merit badge, remember to always use
+      the buddy system. Whether you are out in the field or meeting with your
+      merit badge counselor, having a buddy will help ensure everyone's safety.
+      You and your buddy can watch out for each other wherever you may be or
+      whatever you may be doing.</b>
 - requirement: 1
   text: |-
-    <strong>General Knowledge.</strong> Do the following:
+      <strong>General Knowledge.</strong> Do the following:
   children:
-    - requirement: a
-      text: |-
-        Define exploration and explain how it differs from adventure travel,
-        trekking or hiking, tour-group trips, or recreational outdoor adventure
-        trips.
-    - requirement: b
-      text: |-
-        Explain how approaches to exploration may differ if it occurs in the
-        ocean, in space, in a jungle, or in a science lab in a city.
+      - requirement: a
+        text: |-
+            Define exploration and explain how it differs from adventure travel,
+            trekking or hiking, tour-group trips, or recreational outdoor adventure
+            trips.
+        resources:
+            - href: https://medium.com/@idee-explores/whats-the-difference-between-adventure-and-exploration-eb1a4628f925
+              text: What's the Difference Between Adventure and Exploration?
+              type: website
+      - requirement: b
+        text: |-
+            Explain how approaches to exploration may differ if it occurs in the
+            ocean, in space, in a jungle, or in a science lab in a city.
+        resources:
+            - href: https://www.youtube.com/watch?v=7u2QqMSjroQ
+              text: What Is Exploration
+              type: video
 - requirement: 2
   text: |-
-    <strong>History of Exploration.</strong> Discuss with your counselor the
-    history of exploration. Select a field of study with a history of
-    exploration to illustrate the importance of exploration in the development
-    of that field (for example, aerospace, oil industry, paleontology,
-    oceanography, etc.).
+      <strong>History of Exploration.</strong> Discuss with your counselor the
+      history of exploration. Select a field of study with a history of
+      exploration to illustrate the importance of exploration in the development
+      of that field (for example, aerospace, oil industry, paleontology,
+      oceanography, etc.).
+  resources:
+      - href: https://youtu.be/Bj3n1BIq_5I
+        text: 50 Years of Space Exploration
+        type: video
+      - href: https://youtu.be/-7xB6BT13nw
+        text: 'Into the Abyss: How Humans Became the Astronauts of the Deep Sea'
+        type: video
+      - href: https://www.youtube.com/watch?v=sGeXtUZQScc
+        text: The Age of Exploration
+        type: video
+      - href: https://youtu.be/1XpCnCVfuYk
+        text: How the Higgs Boson Was Discovered
+        type: video
 - requirement: 3
   text: |-
-    <strong>Importance of Exploration.</strong> Explain to your counselor why
-    it is important to explore. Discuss the following:
+      <strong>Importance of Exploration.</strong> Explain to your counselor why
+      it is important to explore. Discuss the following:
   children:
-    - requirement: a
-      text: |-
-        Why it is important for exploration to have a scientific basis
-    - requirement: b
-      text: |-
-        How explorers have aided in our understanding of our world
-    - requirement: c
-      text: |-
-        What you think it takes to be an explorer.
+      - requirement: a
+        text: |-
+            Why it is important for exploration to have a scientific basis
+        resources:
+            - href: https://www.youtube.com/watch?v=aoq6jNBtNtw
+              text: What It Takes to Be an Adventurer
+              type: video
+      - requirement: b
+        text: |-
+            How explorers have aided in our understanding of our world
+        resources:
+            - href: https://www.youtube.com/watch?v=6_SRZiU9EuI
+              text: Why We Explore
+              type: video
+      - requirement: c
+        text: |-
+            What you think it takes to be an explorer.
+        resources:
+            - href: https://youtu.be/1B9q2eS78Tw
+              text: Why Great Scientists Ask Great Questions? w/ Neil deGrasse Tyson
+              type: video
 - requirement: 4
   text: |-
-    <strong>Real-Life Exploration.</strong> Do ONE of the following:
+      <strong>Real-Life Exploration.</strong> Do ONE of the following:
   children:
-    - requirement: a
-      text: |-
-        Learn about a living explorer. Create a short report or presentation
-        (verbal, written, or multimedia slide presentation) on this
-        individual's objectives and the achievements of one of the explorer's
-        expeditions. Share what you have learned with your counselor and unit.
-    - requirement: b
-      text: |-
-        Learn about an actual scientific exploration expedition. Gather
-        information about the mission objectives and the expedition's most
-        interesting or important discoveries. Share what you have learned with
-        your counselor and unit. Tell how the information gained from this
-        expedition helped scientists answer important questions.
-    - requirement: c
-      text: |-
-        Learn about types of exploration that may take place in a laboratory or
-        scientific research facility (medicine, biology, chemistry, physics,
-        astronomy, etc.). Explain to your counselor how laboratory research and
-        exploration are similar to field research and exploration.
+      - requirement: a
+        text: |-
+            Learn about a living explorer. Create a short report or presentation
+            (verbal, written, or multimedia slide presentation) on this
+            individual's objectives and the achievements of one of the explorer's
+            expeditions. Share what you have learned with your counselor and unit.
+        resources:
+            - href: https://www.youtube.com/watch?v=I4ivrfIOKjw
+              text: 50 Years of Discovery | Jane Goodall and The Leakey Foundation
+              type: video
+            - href: https://youtu.be/ePOa2OpRQ2g
+              text: The World's Greatest Living Explorer | Ranulph Fiennes
+              type: video
+            - href: https://youtu.be/MkOV5Ex6puA
+              text: Levison Wood / Walking the Nile / Himalayas / Americas / Arabia Badlands &amp; Beyond
+              type: video
+            - href: https://youtu.be/ihmfkdEcDyk
+              text: Unsung Heroes of Everest | Nat Geo Live
+              type: video
+      - requirement: b
+        text: |-
+            Learn about an actual scientific exploration expedition. Gather
+            information about the mission objectives and the expedition's most
+            interesting or important discoveries. Share what you have learned with
+            your counselor and unit. Tell how the information gained from this
+            expedition helped scientists answer important questions.
+        resources:
+            - href: https://science.nasa.gov/mission/mars-2020-perseverance/
+              text: 'Mars 2020: Perseverance Rover'
+              type: website
+            - href: https://youtu.be/Tg27pdTvG4s
+              text: Expedition Amazon - Into the Waters | National Geographic
+              type: video
+      - requirement: c
+        text: |-
+            Learn about types of exploration that may take place in a laboratory or
+            scientific research facility (medicine, biology, chemistry, physics,
+            astronomy, etc.). Explain to your counselor how laboratory research and
+            exploration are similar to field research and exploration.
+        resources:
+            - href: https://www.youtube.com/watch?v=uRreC41dGz4
+              text: Research Scientist
+              type: video
+            - href: https://youtu.be/nrXhK3Gh5EE
+              text: Inside the World's Largest Science Experiment
+              type: video
+            - href: https://www.youtube.com/watch?v=biS7e79xZcs
+              text: Day in the Life of a Research Scientist
+              type: video
 - requirement: 5
   text: |-
-    <strong>Exploration in Lab and Field.</strong> Do ONE of the following, and
-    share what you learn with your counselor:
+      <strong>Exploration in Lab and Field.</strong> Do ONE of the following, and
+      share what you learn with your counselor:
   children:
-    - requirement: a
-      text: |-
-        With your parent or guardian's permission and counselor's approval,
-        visit either in person or via the internet an exploration sponsoring
-        organization (such as The Explorers Club, National Geographic Society,
-        Smithsonian Institution, Alpine Club, World Wildlife Fund, or similar
-        organization). Find out what type(s) of exploration the organization
-        supports.
-    - requirement: b
-      text: |-
-        With permission and approval, visit either in person or via the
-        internet a science lab, astronomical observatory, medical research
-        facility, or similar site. Learn what exploration is done in this
-        facility.
+      - requirement: a
+        text: |-
+            With your parent or guardian's permission and counselor's approval,
+            visit either in person or via the internet an exploration sponsoring
+            organization (such as The Explorers Club, National Geographic Society,
+            Smithsonian Institution, American Alpine Club, World Wildlife Fund, or similar
+            organization). Find out what type(s) of exploration the organization
+            supports.
+        resources:
+            - href: https://www.explorers.org/
+              text: The Explorers Club
+              type: website
+            - href: https://www.nationalgeographic.org/society/
+              text: National Geographic Society
+              type: website
+            - href: https://www.si.edu/
+              text: Smithsonian Institution
+              type: website
+            - href: https://www.worldwildlife.org/
+              text: World Wildlife Federation
+              type: website
+      - requirement: b
+        text: |-
+            With permission and approval, visit either in person or via the
+            internet a science lab, astronomical observatory, medical research
+            facility, or similar site. Learn what exploration is done in this
+            facility.
 - requirement: 6
   text: |-
-    <strong>Expedition Planning.</strong> Discuss with your counselor each of
-    the following steps for conducting a successful exploration activity.
-    Explain the need for each step.
+      <strong>Expedition Planning.</strong> Discuss with your counselor each of
+      the following steps for conducting a successful exploration activity.
+      Explain the need for each step.
   children:
-    - requirement: a
-      text: |-
-        Identify the objectives (establish goals).
-    - requirement: b
-      text: |-
-        Plan the mission. Create an expedition agenda or schedule. List
-        potential documents or permits needed.
-    - requirement: c
-      text: |-
-        Budget and plan for adequate financial resources. Estimate costs for
-        travel, equipment, accommodations, meals, permits or licenses, and
-        other expedition expenses.
-    - requirement: d
-      text: |-
-        Determine equipment and supplies required for personal and mission
-        needs for the length of the expedition.
-    - requirement: e
-      text: |-
-        Determine communication and transportation needs. Plan how to keep in
-        contact with your base or the outside world, and determine how you will
-        communicate with each other on-site.
-    - requirement: f
-      text: |-
-        Establish safety and first aid procedures (including planning for
-        medical evacuation). Identify the hazards that explorers could
-        encounter on the expedition, and establish procedures to prevent or
-        avoid those hazards.
-    - requirement: g
-      text: |-
-        Determine team selection. Identify who is essential for the expedition
-        to be successful and what skills are required by the expedition leader.
-    - requirement: h
-      text: |-
-        Establish detailed recordkeeping (documentation) procedures. Plan the
-        interpretation and sharing of information at the conclusion of the
-        expedition.
+      - requirement: a
+        text: |-
+            Identify the objectives (establish goals).
+        resources:
+            - href: https://www.youtube.com/watch?v=80_ltIRYjd0
+              text: EXPEDITIONS | How to get started!
+              type: video
+      - requirement: b
+        text: |-
+            Plan the mission. Create an expedition agenda or schedule. List
+            potential documents or permits needed.
+        resources:
+            - href: https://www.youtube.com/watch?v=qcLKcFrnzlk&t=8s
+              text: How to Plan an Expedition
+              type: video
+            - href: https://youtu.be/WahqTpIFAhs
+              text: 'Plan Your DREAM ADVENTURE: Expert Tips From a Pro Expedition Leader'
+              type: video
+            - href: https://youtu.be/79WYqkiExZU
+              text: How To Plan an Adventure | Plan a Camping Trip
+              type: video
+      - requirement: c
+        text: |-
+            Budget and plan for adequate financial resources. Estimate costs for
+            travel, equipment, accommodations, meals, permits or licenses, and
+            other expedition expenses.
+        resources:
+            - href: https://youtu.be/nup-uvbAfuU
+              text: How to Plan for Permits and Reservations
+              type: video
+      - requirement: d
+        text: |-
+            Determine equipment and supplies required for personal and mission
+            needs for the length of the expedition.
+      - requirement: e
+        text: |-
+            Determine communication and transportation needs. Plan how to keep in
+            contact with your base or the outside world, and determine how you will
+            communicate with each other on-site.
+      - requirement: f
+        text: |-
+            Establish safety and first aid procedures (including planning for
+            medical evacuation). Identify the hazards that explorers could
+            encounter on the expedition, and establish procedures to prevent or
+            avoid those hazards.
+        resources:
+            - href: https://www.youtube.com/watch?v=A-pbC5aDBY0
+              text: Wilderness Primary Care Kit Walkthrough | Essential Expedition Essentials Medical Kit Guide
+              type: video
+      - requirement: g
+        text: |-
+            Determine team selection. Identify who is essential for the expedition
+            to be successful and what skills are required by the expedition leader.
+        resources:
+            - href: https://youtu.be/pDJHtE3BB_c
+              text: Flight of the Osprey Media Team Selection
+              type: video
+      - requirement: h
+        text: |-
+            Establish detailed recordkeeping (documentation) procedures. Plan the
+            interpretation and sharing of information at the conclusion of the
+            expedition.
+        resources:
+            - href: https://matadornetwork.com/notebook/the-7-fundamentals-of-documenting-your-travels/
+              text: The 7 Fundamentals of Documenting Your Travels
+              type: website
 - requirement: 7
   text: |-
-    <strong>Prepare for an Expedition.</strong> With your parent or guardian's
-    permission and counselor's approval, prepare for an actual expedition to an
-    area you have not previously explored; the place may be nearby or far away.
-    Do the following:
+      <strong>Prepare for an Expedition.</strong> With your parent or guardian's
+      permission and counselor's approval, prepare for an actual expedition to an
+      area you have not previously explored; the place may be nearby or far away.
+      Do the following:
   children:
-    - requirement: a
-      text: |-
-         Make your preparations under the supervision of a trained expedition
-         leader, expedition planner, or other qualified adult experienced in
-         exploration (such as a school science teacher, museum representative,
-         or qualified instructor).
-    - requirement: b
-      text: |-
-        Use the steps listed in requirement 6 to guide your preparations. List
-        the items of equipment and supplies you will need. Discuss with your
-        counselor why you chose each item and how it will be of value on the
-        expedition. Determine who should go on the expedition.
-    - requirement: c
-      text: |-
-        Conduct a pre-expedition check, covering the steps in requirement 6,
-        and share the results with your counselor. With your counselor, walk
-        through the Scouting America SAFE Checklist for your expedition. Ensure
-        that all foreseeable hazards for your expedition are adequately
-        addressed.
+      - requirement: a
+        text: |-
+            Make your preparations under the supervision of a trained expedition
+            leader, expedition planner, or other qualified adult experienced in
+            exploration (such as a school science teacher, museum representative,
+            or qualified instructor).
+      - requirement: b
+        text: |-
+            Use the steps listed in requirement 6 to guide your preparations. List
+            the items of equipment and supplies you will need. Discuss with your
+            counselor why you chose each item and how it will be of value on the
+            expedition. Determine who should go on the expedition.
+      - requirement: c
+        text: |-
+            Conduct a pre-expedition check, covering the steps in requirement 6,
+            and share the results with your counselor. With your counselor, walk
+            through the Scouting America SAFE Checklist for your expedition. Ensure
+            that all foreseeable hazards for your expedition are adequately
+            addressed.
 - requirement: 8
   text: |-
-    <strong>Go on an Expedition.</strong> Complete the following:
+      <strong>Go on an Expedition.</strong> Complete the following:
   children:
-    - requirement: a
-      text: |-
-        With your parent or guardian's permission and under the supervision of
-        your counselor or a counselor-approved qualified person, use the
-        planning steps you learned in requirement 6 and the preparations you
-        completed in requirement 7 to personally undertake an actual expedition
-        to an area you have not previously explored.
-    - requirement: b
-      text: |-
-        Discuss with your counselor what is outdoor ethics and its role in
-        exploration and enjoying the outdoors responsibly.
-    - requirement: c
-      text: |-
-        After you return, compile a report on the results of your expedition
-        and how you accomplished your objective(s). Include a statement of the
-        objectives, note your findings and observations, include photos, note
-        any discoveries, report any problems or adverse events, and have a
-        conclusion (whether you reached your objective or not). The
-        post-expedition report must be at least one page and no more than
-        three; one page can be photos, graphs, or figures.
+      - requirement: a
+        text: |-
+            With your parent or guardian's permission and under the supervision of
+            your counselor or a counselor-approved qualified person, use the
+            planning steps you learned in requirement 6 and the preparations you
+            completed in requirement 7 to personally undertake an actual expedition
+            to an area you have not previously explored.
+      - requirement: b
+        text: |-
+            Discuss with your counselor what is outdoor ethics and its role in
+            exploration and enjoying the outdoors responsibly.
+        resources:
+            - href: https://www.youtube.com/watch?v=p_Hy1I7AG4c
+              text: Leave No Trace Basics
+              type: video
+            - href: https://www.youtube.com/watch?v=jXO1uY0MvmQ
+              text: Leave No Trace Outdoor Ethics
+              type: video
+      - requirement: c
+        text: |-
+            After you return, compile a report on the results of your expedition
+            and how you accomplished your objective(s). Include a statement of the
+            objectives, note your findings and observations, include photos, note
+            any discoveries, report any problems or adverse events, and have a
+            conclusion (whether you reached your objective or not). The
+            post-expedition report must be at least one page and no more than
+            three; one page can be photos, graphs, or figures.
 - requirement: 9
   text: |-
-    <strong>Career Opportunities.</strong> Identify three career opportunities
-    in exploration. Pick one and explain to your counselor how to prepare for
-    such a career. Discuss what education and training are required, and why
-    this profession might interest you.
+      <strong>Career Opportunities.</strong> Identify three career opportunities
+      in exploration. Pick one and explain to your counselor how to prepare for
+      such a career. Discuss what education and training are required, and why
+      this profession might interest you.
+  resources:
+      - href: https://oceanexplorer.noaa.gov/edu/oceanage/
+        text: Ocean Exploration Careers
+        type: website
+      - href: https://youtu.be/ljlpqd1Mjjs
+        text: 'Unlocking Space Careers: Beyond Astronauts and Rocket'
+        type: video
+      - href: https://youtu.be/vOhyZ8FYCmw
+        text: How I Became a Researcher
+        type: video

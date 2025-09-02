@@ -15,6 +15,32 @@
                 }
             ]
         },
+        "resources": {
+            "description": "One or more resources that relate to the requirement",
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "href": {
+                        "type": "string"
+                    },
+                    "text": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "type": "string",
+                        "enum": [
+                            "pdf",
+                            "video",
+                            "website"
+                        ]
+                    }
+                },
+                "additionalProperties": false,
+                "required": ["href", "text", "type"]
+            },
+            "minItems": 1
+        },
         "text": {
             "description": "HTML content",
             "type": "string"

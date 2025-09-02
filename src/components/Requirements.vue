@@ -12,7 +12,21 @@ const parentCount = parents ?? 0;
             <div v-for="n of parentCount" class="indent h-gap"></div>
             <div v-if="requirement.requirement" class="requirement">
                 <div class="number h-gap">{{ requirement.requirement }}.</div>
-                <div class="text v-gap" v-html="requirement.text"></div>
+                <div>
+                    <div class="text v-gap" v-html="requirement.text"></div>
+                    <div v-if="requirement.resources" class="resources v-gap">
+                        <div v-if="requirement.resources.length === 1">
+                            Resource:
+                        </div>
+                        <div v-else>Resources:</div>
+                        <ul>
+                            <li v-for="item of requirement.resources">
+                                <a :href="item.href" target="_blank" v-html="item.text"></a>
+                                ({{ item.type }})
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
             <div
                 v-if="requirement.detail"
@@ -62,5 +76,9 @@ const parentCount = parents ?? 0;
 
 .v-gap {
     padding-bottom: 8px;
+}
+
+.resources {
+    width: 100%;
 }
 </style>
