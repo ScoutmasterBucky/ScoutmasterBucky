@@ -1,318 +1,291 @@
 # Requirement 2 says "Do the following terms:" - changed to "Do the following:"
 - requirement: 1
   text: |-
-    Do the following:
+      Do the following:
   children:
-    - requirement: a
-      text: |-
-        Explain radiation and the difference between ionizing and nonionizing
-        radiation.
-        <div class="gap"></div>
-        Resources:
-        <ul>
-        <li><a href="https://youtu.be/FrVUJ2c_Rwc" target="_blank">Radiation
-        &amp; You (video)</a></li>
-        <li><a href="https://youtu.be/uJ3ea9fa6CA" target="_blank">IDTIMWYTIM:
-        Radiation (video)</a></li>
-        </ul>
-    - requirement: b
-      text: |-
-        Explain the ALARA principle and the measures required by law to
-        minimize these risks. Describe what safety requirements you will need
-        to consider while performing the requirements in this merit badge.
-        <div class="gap"></div>
-        Resources:
-        <ul>
-        <li><a href="https://www.cdc.gov/radiation-health/safety/alara.html"
-        target="_blank">The ALARA Principle (website)</a></li>
-        </ul>
-    - requirement: c
-      text: |-
-        Describe the radiation hazard symbol and explain where it should be
-        used.
-        <div class="gap"></div>
-        Resources:
-        <ul>
-        <li><a href="https://youtu.be/Nss1nl56fPo" target="_blank">Radiation
-        Hazard Symbol (video)</a></li>
-        <li><a
-        href="https://www.iaea.org/newscenter/news/how-are-universal-ionizing-radiation-symbols-used-around-the-world/"
-        target="_blank">How Are Universal Ionizing Radiation Symbols Used
-        Around the World? (website)</a></li>
-        </ul>
-    - requirement: d
-      text: |-
-        Explain how we are exposed to ionizing radiation from outside the earth
-        as well as on earth every day. List four examples of Naturally
-        Occurring Radioactive Materials, NORM, that are in your house or
-        grocery store and explain why they are radioactive.
-        <div class="gap"></div>
-        Resources:
-        <ul>
-        <li><a href="https://youtu.be/-9gD6FMivTQ" target="_blank">Five
-        Radioactive Products We Use Every Day (video)</a></li>
-        <li><a href="https://youtu.be/FZtR3UEEkXAYour Grocery Store is
-        Radioactive (and So Is Everything Else) (video)"
-        target="_blank"></a></li>
-        <li><a href="https://youtu.be/_bKbMARsE-4" target="_blank">The Mystery
-        of High-Energy Cosmic Rays (video)</a></li>
-        </ul>
-    - requirement: e
-      text: |-
-        Explain the difference between radiation exposure and contamination.
-        Describe the hazards of radiation to humans, the environment, and
-        wildlife. Calculate your approximate annual radiation dose and compare
-        it to a typical expected dose of someone who works in a nuclear power plant.
-        <div class="gap"></div>
-        Resources:
-        <ul>
-        <li><a href="https://youtu.be/Ry2YpGjnakg" target="_blank">What Do
-        Radiation Contamination and Exposure Mean? (video)</a></li>
-        <li><a href="https://youtu.be/EuKzI3g5ra4" target="_blank">Biological
-        Effects of Radiation (video)</a></li>
-        <li><a href="https://www.ans.org/nuclear/dosechart/"
-        target="_blank">Radiation Dose Calculator (website)</a></li>
-        </ul>
+      - requirement: a
+        text: |-
+            Explain radiation and the difference between ionizing and nonionizing
+            radiation.
+        resources:
+            - href: https://youtu.be/FrVUJ2c_Rwc
+              text: Radiation &amp; You
+              type: video
+            - href: https://youtu.be/uJ3ea9fa6CA
+              text: 'IDTIMWYTIM: Radiation'
+              type: video
+      - requirement: b
+        text: |-
+            Explain the ALARA principle and the measures required by law to
+            minimize these risks. Describe what safety requirements you will need
+            to consider while performing the requirements in this merit badge.
+        resources:
+            - href: https://www.cdc.gov/radiation-health/safety/alara.html
+              text: The ALARA Principle
+              type: website
+      - requirement: c
+        text: |-
+            Describe the radiation hazard symbol and explain where it should be
+            used.
+        resources:
+            - href: https://youtu.be/Nss1nl56fPo
+              text: Radiation Hazard Symbol
+              type: video
+            - href: https://www.iaea.org/newscenter/news/how-are-universal-ionizing-radiation-symbols-used-around-the-world/
+              text: How Are Universal Ionizing Radiation Symbols Used Around the World?
+              type: website
+      - requirement: d
+        text: |-
+            Explain how we are exposed to ionizing radiation from outside the earth
+            as well as on earth every day. List four examples of Naturally
+            Occurring Radioactive Materials, NORM, that are in your house or
+            grocery store and explain why they are radioactive.
+        resources:
+            - href: https://youtu.be/-9gD6FMivTQ
+              text: Five Radioactive Products We Use Every Day
+              type: video
+            - href: https://youtu.be/FZtR3UEEkXA
+              text: Your Grocery Store is Radioactive (and So Is Everything Else)
+              type: video
+            - href: https://youtu.be/_bKbMARsE-4
+              text: The Mystery of High-Energy Cosmic Rays
+              type: video
+      - requirement: e
+        text: |-
+            Explain the difference between radiation exposure and contamination.
+            Describe the hazards of radiation to humans, the environment, and
+            wildlife. Calculate your approximate annual radiation dose and compare
+            it to a typical expected dose of someone who works in a nuclear power plant.
+        resources:
+            - href: https://youtu.be/Ry2YpGjnakg
+              text: What Do Radiation Contamination and Exposure Mean?
+              type: video
+            - href: https://youtu.be/EuKzI3g5ra4
+              text: Biological Effects of Radiation
+              type: video
+            - href: https://www.ans.org/nuclear/dosechart/
+              text: Radiation Dose Calculator
+              type: website
 - requirement: 2
   text: |-
-    Do the following:
+      Do the following:
   children:
-    - requirement: a
-      text: |-
-        Explain the following terms: atom, nucleus, proton, neutron, electron,
-        quark, isotope; alpha particle, beta particle, gamma ray, X-ray;
-        ionization, radioactivity, radioisotope, stability.
-        <div class="gap"></div>
-        Resources:
-        <ul>
-        <li><a href="https://nplab.webspace.durham.ac.uk/glossary/"
-        target="_blank">Glossary of Nuclear Science Terms (website)</a></li>
-        <li><a href="https://youtu.be/faB9Gb7bl9I" target="_blank">What Are
-        Isotopes? (video)</a></li>
-        <li><a href="https://youtu.be/LraNu_78sCw" target="_blank">Quarks
-        Explained (video)</a></li>
-        </ul>
-    - requirement: b
-      text: |-
-        Choose an element from the periodic table. Construct 3-D models for the
-        atoms of three isotopes of this element, showing neutrons, protons, and
-        electrons. Write down the isotope notation for each model including the
-        atomic and mass numbers. In a separate model or diagram, explain or
-        show how quarks make up protons and neutrons.
-        <div class="gap"></div>
-        Resources:
-        <ul>
-        <li><a
-        href="https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Nuclear%20Science/Isotope%20Model%20Activity.pdf"
-        target="_blank">Make a Model of an Isotope (PDF)</a></li>
-        <li><a href="https://isotopes.ans.org/" target="_blank">Interactive
-        Isotopes (website)</a></li>
-        </ul>
+      - requirement: a
+        text: |-
+            Explain the following terms: atom, nucleus, proton, neutron, electron,
+            quark, isotope; alpha particle, beta particle, gamma ray, X-ray;
+            ionization, radioactivity, radioisotope, stability.
+        resources:
+            - href: https://nplab.webspace.durham.ac.uk/glossary/
+              text: Glossary of Nuclear Science Terms
+              type: website
+            - href: https://youtu.be/faB9Gb7bl9I
+              text: What Are Isotopes?
+              type: video
+            - href: https://youtu.be/LraNu_78sCw
+              text: Quarks Explained
+              type: video
+      - requirement: b
+        text: |-
+            Choose an element from the periodic table. Construct 3-D models for the
+            atoms of three isotopes of this element, showing neutrons, protons, and
+            electrons. Write down the isotope notation for each model including the
+            atomic and mass numbers. In a separate model or diagram, explain or
+            show how quarks make up protons and neutrons.
+        resources:
+            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Nuclear%20Science/Isotope%20Model%20Activity.pdf
+              text: Make a Model of an Isotope
+              type: pdf
+            - href: https://isotopes.ans.org/
+              text: Interactive Isotopes
+              type: website
 - requirement: 3
   text: |-
-    Do ONE of the following; then discuss modern particle physics with your
-    counselor:
+      Do ONE of the following; then discuss modern particle physics with your
+      counselor:
   children:
-    - requirement: a
-      text: |-
-        Visit an accelerator, research lab, or university where scientists
-        study the properties of the nucleus or nucleons.
-        <div class="gap"></div>
-        Resources:
-        <ul>
-        <li><a href="https://youtu.be/N3i6CgUHSoc" target="_blank">Lawrence
-        Berkeley National Laboratory Nuclear Science Division (video)</a></li>
-        <li><a href="https://youtu.be/nrXhK3Gh5EE" target="_blank">Inside the
-        World's Largest Science Experiment (video)</a></li>
-        </ul>
-    - requirement: b
-      text: |-
-        List three particle accelerators and describe several experiments that
-        each accelerator performs, including basic science and practical
-        applications.
-        <div class="gap"></div>
-        Resources:
-        <ul>
-        <li><a href="https://youtu.be/vIeRLeQq7V4" target="_blank">Particle
-        Accelerators: What Are They, How Do They Work, and Why Are They
-        Important To Us? (video)</a></li>
-        </ul>
+      - requirement: a
+        text: |-
+            Visit an accelerator, research lab, or university where scientists
+            study the properties of the nucleus or nucleons.
+        resources:
+            - href: https://youtu.be/N3i6CgUHSoc
+              text: Lawrence Berkeley National Laboratory Nuclear Science Division
+              type: video
+            - href: https://youtu.be/nrXhK3Gh5EE
+              text: Inside the World's Largest Science Experiment
+              type: video
+      - requirement: b
+        text: |-
+            List three particle accelerators and describe several experiments that
+            each accelerator performs, including basic science and practical
+            applications.
+        resources:
+            - href: https://youtu.be/vIeRLeQq7V4
+              text: 'Particle Accelerators: What Are They, How Do They Work, and Why Are They Important To Us?'
+              type: video
 - requirement: 4
   text: |-
-    Do TWO of the following; then discuss with your counselor:
-      <div class="gap"></div>
-      Resources:
-      <ul>
-      <li><a
-      href="https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull23-4/23405043136.pdf"
-      target="_blank">Detecting and Measuring Ionizing Radiation - A Short
-      History (PDF)</a></li>
-      </ul>
+      Do TWO of the following; then discuss with your counselor:
+  resources:
+      - href: https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull23-4/23405043136.pdf
+        text: Detecting and Measuring Ionizing Radiation - A Short History
+        type: pdf
   children:
-    - requirement: a
-      text: |-
-        Build an electroscope. Show how it works. Place a radiation source
-        inside and explain the effect it causes.
-        <div class="gap"></div>
-        Resources:
-        <ul>
-        <li><a href="https://youtu.be/fCpaNzpFhPo" target="_blank">DIY
-        Electroscope (video)</a></li>
-        </ul>
-    - requirement: b
-      text: |-
-        Make a cloud chamber. Show how it can be used to see the tracks caused
-        by radiation. Explain what is happening.
-        <div class="gap"></div>
-        Resources:
-        <ul>
-        <li><a href="https://youtu.be/pewTySxfTQk" target="_blank">How to Build a Cloud Chamber! (video)</a></li>
-        <li><a href="https://youtu.be/jh7SzrNWGhI" target="_blank">Working Cloud Chamber | Exploratorium (video)</a></li>
-        <li><a href="https://www.ans.org/file/17977/1/Visualizing%20Radiation%20Poster%202024.pdf" target="_blank">Visualize Radioactive Decay in a Cloud Chamber (PDF)</a></li>
-        </ul>
-    - requirement: c
-      text: |-
-        Perform an experiment demonstrating half-life. Discuss decay chains.
-        <div class="gap"></div>
-        Resources:
-        <ul>
-        <li><a href="https://youtu.be/fo1tgibNLss" target="_blank">How
-        Radioactive Decay Works | Decay Chains (video)</a></li>
-        <li><a href="https://youtu.be/mCSXJNVdK0Y" target="_blank">Skittles
-        Half Life Lab | Radioactive Isotope Decay | Half Life Graph
-        (video)</a></li>
-        </ul>
+      - requirement: a
+        text: |-
+            Build an electroscope. Show how it works. Place a radiation source
+            inside and explain the effect it causes.
+        resources:
+            - href: https://youtu.be/fCpaNzpFhPo
+              text: DIY Electroscope
+              type: video
+      - requirement: b
+        text: |-
+            Make a cloud chamber. Show how it can be used to see the tracks caused
+            by radiation. Explain what is happening.
+        resources:
+            - href: https://youtu.be/pewTySxfTQk
+              text: How to Build a Cloud Chamber!
+              type: video
+            - href: https://www.ans.org/file/17977/1/Visualizing%20Radiation%20Poster%202024.pdf
+              text: Visualize Radioactive Decay in a Cloud Chamber
+              type: pdf
+      - requirement: c
+        text: |-
+            Perform an experiment demonstrating half-life. Discuss decay chains.
+        resources:
+            - href: https://youtu.be/fo1tgibNLss
+              text: How Radioactive Decay Works | Decay Chains
+              type: video
+            - href: https://youtu.be/mCSXJNVdK0Y
+              text: Skittles Half Life Lab | Radioactive Isotope Decay | Half Life Graph
+              type: video
 - requirement: 5
   text: |-
-    Do ONE of the following; then discuss with your counselor the principles of
-    radiation safety:
+      Do ONE of the following; then discuss with your counselor the principles of
+      radiation safety:
   children:
-    - requirement: a
-      text: |-
-        Using a radiation survey meter and a radioactive source, show how the
-        counts per minute change as the source gets closer to or farther from
-        the radiation detector. Place three different materials between the
-        source and the detector, then explain any differences in the
-        measurements per minute. Explain how time, distance, and shielding can
-        reduce an individual's radiation dose.
-        <div class="gap"></div>
-        Resources:
-        <ul>
-        <li><a
-        href="https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Nuclear%20Science/shutterstock_1169023357.pdf"
-        target="_blank">How Materials Shield Radiation (PDF)</a></li>
-        <li><a href="https://youtu.be/bNSKIbRNy3c" target="_blank">Time,
-        Distance and Shielding (video)</a></li>
-        <li><a href="https://youtu.be/GdZD_hJBdOE" target="_blank">Measuring
-        Radiation (video)</a></li>
-        <li><a href="https://youtu.be/0-Yaeh3dOZk" target="_blank">Using a
-        Survey Meter: CPM vs Distance (video)</a></li>
-        </ul>
-    - requirement: b
-      text: |-
-        Describe how radon is detected in homes. Discuss the steps taken for
-        the long-term and short-term test methods, tell how to interpret the
-        results, and explain when each type of test should be used. Explain the
-        health concerns related to radon gas and tell what steps can be taken to
-        reduce radon in buildings.
-        <div class="gap"></div>
-        Resources:
-        <ul>
-        <li><a href="https://youtu.be/24aoot_CwoM" target="_blank">What is
-        Radon, Anyway? (video)</a></li>
-        <li><a href="https://youtu.be/SlRVdKdTBFE" target="_blank">How
-        Dangerous Is Radon to Your Health? (video)</a></li>
-        </ul>
-    - requirement: c
-      text: |-
-        Visit a place where X-rays are used. Draw a floor plan of this room.
-        Show where the unit, the unit operator, and the patient would be when
-        the X-ray unit is operated. Explain the precautions taken and the
-        importance of those precautions.
-        <div class="gap"></div>
-        Resources:
-        <ul>
-        <li><a href="https://youtu.be/-pwY3-7lJJg" target="_blank">X-Ray Room
-        Tour || Ask the Rad Tech (video)</a></li>
-        </ul>
+      - requirement: a
+        text: |-
+            Using a radiation survey meter and a radioactive source, show how the
+            counts per minute change as the source gets closer to or farther from
+            the radiation detector. Place three different materials between the
+            source and the detector, then explain any differences in the
+            measurements per minute. Explain how time, distance, and shielding can
+            reduce an individual's radiation dose.
+        resources:
+            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Nuclear%20Science/shutterstock_1169023357.pdf
+              text: How Materials Shield Radiation
+              type: pdf
+            - href: https://youtu.be/bNSKIbRNy3c
+              text: Time, Distance and Shielding
+              type: video
+            - href: https://youtu.be/GdZD_hJBdOE
+              text: Measuring Radiation
+              type: video
+            - href: https://youtu.be/0-Yaeh3dOZk
+              text: 'Using a Survey Meter: CPM vs Distance'
+              type: video
+      - requirement: b
+        text: |-
+            Describe how radon is detected in homes. Discuss the steps taken for
+            the long-term and short-term test methods, tell how to interpret the
+            results, and explain when each type of test should be used. Explain the
+            health concerns related to radon gas and tell what steps can be taken to
+            reduce radon in buildings.
+        resources:
+            - href: https://youtu.be/24aoot_CwoM
+              text: What is Radon, Anyway?
+              type: video
+            - href: https://youtu.be/SlRVdKdTBFE
+              text: How Dangerous Is Radon to Your Health?
+              type: video
+      - requirement: c
+        text: |-
+            Visit a place where X-rays are used. Draw a floor plan of this room.
+            Show where the unit, the unit operator, and the patient would be when
+            the X-ray unit is operated. Explain the precautions taken and the
+            importance of those precautions.
+        resources:
+            - href: https://youtu.be/-pwY3-7lJJg
+              text: X-Ray Room Tour || Ask the Rad Tech
+              type: video
 - requirement: 6
   text: |-
-    Do ONE of the following; then discuss with your counselor how nuclear
-    energy is used to produce electricity:
-    <div class="gap"></div>
-    Resources:
-    <ul>
-    <li><a href="https://www.ans.org/nuclear/energy/" target="_blank">Nuclear
-    Energy (website)</a></li>
-    </ul>
+      Do ONE of the following; then discuss with your counselor how nuclear
+      energy is used to produce electricity:
+  resources:
+      - href: https://www.ans.org/nuclear/energy/
+        text: Nuclear Energy
+        type: website
   children:
-    - requirement: a
-      text: |-
-        Make a drawing showing how nuclear fission happens. Observe a mousetrap
-        reactor (setup by an adult) and use it to explain how a chain reaction
-        could be started. Explain how a chain reaction could be stopped or
-        controlled in a nuclear reactor. Explain what is meant by a "critical
-        mass."
-        <div class="gap"></div>
-        Resources:
-        <ul>
-        <li><a href="https://youtu.be/O2pyRDQgVjk" target="_blank">What Really
-        Happened the First Time We Split a Heavy Atom in Half (video)</a></li>
-        <li><a href="https://youtu.be/czjAtx8GjjA" target="_blank">What is
-        Critical Mass | Nuclear Chain Reaction| Fission Chain Reaction|
-        Critical Mass Of Uranium (video)</a></li>
-        <li><a href="https://youtu.be/vjqIJW_Qr3c" target="_blank">Mousetrap
-        Fission (video)</a></li>
-        </ul>
-    - requirement: b
-      text: |-
-        Visit a local nuclear power plant or nuclear reactor either in person
-        or online (with your parent or guardian's permission). Learn how a
-        reactor works and how the plant generates electricity. Find out what
-        percentage of electricity in the United States is generated by nuclear
-        power plants, by coal, and by gas.
-        <div class="gap"></div>
-        Resources:
-        <ul>
-        <li><a href="https://youtu.be/6K5gy3RLcKc" target="_blank">What Is
-        Nuclear Energy? Shrink Down to an Atom and Find Out (video)</a></li>
-        <li><a href="https://www.eia.gov/consumption/Energy Consumption &amp;
-        Efficiency Data | Energy Information Agency (website)"
-        target="_blank"></a></li>
-        </ul>
+      - requirement: a
+        text: |-
+            Make a drawing showing how nuclear fission happens. Observe a mousetrap
+            reactor (setup by an adult) and use it to explain how a chain reaction
+            could be started. Explain how a chain reaction could be stopped or
+            controlled in a nuclear reactor. Explain what is meant by a "critical
+            mass."
+        resources:
+            - href: https://youtu.be/O2pyRDQgVjk
+              text: What Really Happened the First Time We Split a Heavy Atom in Half
+              type: video
+            - href: https://youtu.be/czjAtx8GjjA
+              text: What is Critical Mass | Nuclear Chain Reaction| Fission Chain Reaction| Critical Mass Of Uranium
+              type: video
+            - href: https://youtu.be/vjqIJW_Qr3c
+              text: Mousetrap Fission
+              type: video
+      - requirement: b
+        text: |-
+            Visit a local nuclear power plant or nuclear reactor either in person
+            or online (with your parent or guardian's permission). Learn how a
+            reactor works and how the plant generates electricity. Find out what
+            percentage of electricity in the United States is generated by nuclear
+            power plants, by coal, and by gas.
+        resources:
+            - href: https://youtu.be/6K5gy3RLcKc
+              text: What Is Nuclear Energy? Shrink Down to an Atom and Find Out
+              type: video
+            - href: https://www.eia.gov/consumption/
+              text: Energy Consumption &amp; Efficiency Data | Energy Information Agency
+              type: website
 - requirement: 7
   text: |-
-    Give an example of each of the following in relation to how energy from an
-    atom can be used: nuclear medicine, environmental applications, industrial
-    applications, space exploration, and radiation therapy. For each example,
-    explain the application and its significance to nuclear science.
-    <div class="gap"></div>
-    Resources:
-    <ul>
-    <li><a href="https://youtu.be/ePiNdzWjoWM" target="_blank">Radiation
-    Technologies in Daily Life (video)</a></li>
-    <li><a href="https://youtu.be/zEihqK-jhBM" target="_blank">Ways Nuclear
-    Science Helps Cancer Patients (video)</a></li>
-    <li><a href="https://youtu.be/Wya79Ly8ec4" target="_blank">Ways Nuclear
-    Techniques Combat Malnutrition (video)</a></li>
-    <li><a href="https://youtu.be/WYxo_iuzGYk" target="_blank">Ways Nuclear
-    Science Helps Ocean Health (video)</a></li>
-    </ul>
+      Give an example of each of the following in relation to how energy from an
+      atom can be used: nuclear medicine, environmental applications, industrial
+      applications, space exploration, and radiation therapy. For each example,
+      explain the application and its significance to nuclear science.
+  resources:
+      - href: https://youtu.be/ePiNdzWjoWM
+        text: Radiation Technologies in Daily Life
+        type: video
+      - href: https://youtu.be/zEihqK-jhBM
+        text: Ways Nuclear Science Helps Cancer Patients
+        type: video
+      - href: https://youtu.be/Wya79Ly8ec4
+        text: Ways Nuclear Techniques Combat Malnutrition
+        type: video
+      - href: https://youtu.be/WYxo_iuzGYk
+        text: Ways Nuclear Science Helps Ocean Health
+        type: video
 - requirement: 8
   text: |-
-    Find out about three career opportunities in nuclear science that interest
-    you. Pick one and find out the education, training, and experience required
-    for this profession and discuss this with your counselor. Tell why this
-    profession interests you.
-    <div class="gap"></div>
-    Resources:
-    <ul>
-    <li><a href="https://youtu.be/yedU3hs2cy8" target="_blank">What do Nuclear
-    Scientists Do? (video)</a></li>
-    <li><a href="https://youtu.be/T5ptjDBGcP0" target="_blank">Nuclear
-    Engineering (video)</a></li>
-    <li><a href="https://youtu.be/XcaChXkQmbM" target="_blank">Nuclear Medicine
-    (video)</a></li>
-    <li><a href="https://youtu.be/kU4Jzcj3bhM" target="_blank">Navy Nuclear
-    (video)</a></li>
-    </ul>
+      Find out about three career opportunities in nuclear science that interest
+      you. Pick one and find out the education, training, and experience required
+      for this profession and discuss this with your counselor. Tell why this
+      profession interests you.
+  resources:
+      - href: https://youtu.be/yedU3hs2cy8
+        text: What do Nuclear Scientists Do?
+        type: video
+      - href: https://youtu.be/T5ptjDBGcP0
+        text: Nuclear Engineering
+        type: video
+      - href: https://youtu.be/XcaChXkQmbM
+        text: Nuclear Medicine
+        type: video
+      - href: https://youtu.be/kU4Jzcj3bhM
+        text: Navy Nuclear
+        type: video

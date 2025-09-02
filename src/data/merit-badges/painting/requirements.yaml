@@ -1,49 +1,104 @@
 - requirement: 1
   text: |-
-    Explain the proper safety procedures to follow when preparing surfaces and
-    applying coatings.
+      Explain the proper safety procedures to follow when preparing surfaces and
+      applying coatings.
+  resources:
+      - href: https://www.youtube.com/watch?v=4vpr3e_erug
+        text: Interior Painting Safety
+        type: video
 - requirement: 2
   text: |-
-    Do the following:
+      Do the following:
   children:
-    - requirement: a
-      text: |-
-        Explain three ways that coatings can improve a surface.
-    - requirement: b
-      text: |-
-        Explain the differences between oil-based paints, acrylic-based paints,
-        and water-based paints.
-    - requirement: c
-      text: |-
-        Explain where you would apply enamel paint, flat paint, wood stain, and
-        varnish, and explain the importance of sheen.
-    - requirement: d
-      text: |-
-        Tell why each is best for these uses.
+      - requirement: a
+        text: |-
+            Explain three ways that coatings can improve a surface.
+        resources:
+            - href: https://www.youtube.com/watch?v=A-ERekKoohI
+              text: Epoxy Resin Coatings
+              type: video
+      - requirement: b
+        text: |-
+            Explain the differences between oil-based paints, acrylic-based paints,
+            and water-based paints.
+        resources:
+            - href: https://www.youtube.com/watch?v=jEyTpUfbrYA
+              text: Paints - Oil, Water, Enamel, Acrylic
+              type: video
+            - href: https://www.youtube.com/watch?v=T99OFHCLF4s
+              text: Water vs Oil Based Paints
+              type: video
+      - requirement: c
+        text: |-
+            Explain where you would apply enamel paint, flat paint, wood stain, and
+            varnish, and explain the importance of sheen.
+        resources:
+            - href: https://www.youtube.com/watch?v=DyKh80Yt9k0
+              text: Paint Sheen Differences Explained
+              type: video
+      - requirement: d
+        text: |-
+            Tell why each is best for these uses.
 - requirement: 3
   text: |-
-    Prepare and paint two different surfaces using patching materials or
-    caulking and the proper primers and topcoats. Suggested projects include an
-    interior or exterior wall, a door, a piece of furniture, a concrete wall or
-    floor, a porch rail, or a fence. Your counselor must preapprove the
-    projects.
+      Prepare and paint two different surfaces using patching materials or
+      caulking and the proper primers and topcoats. Suggested projects include an
+      interior or exterior wall, a door, a piece of furniture, a concrete wall or
+      floor, a porch rail, or a fence. Your counselor must preapprove the
+      projects.
+  resources:
+      - href: https://www.youtube.com/watch?v=CRXCB_3gLok
+        text: How to Paint a Room
+        type: video
 - requirement: 4
   text: |-
-    Prepare and paint an item using harmonizing colors that you have selected
-    using the color wheel in this pamphlet.
+      Prepare and paint an item using harmonizing colors that you have selected
+      using the color wheel in this pamphlet.
+  resources:
+      - href: https://www.youtube.com/watch?v=K75ynD7aAeg
+        text: Choosing a Color Palette for Your Home
+        type: video
 - requirement: 5
   text: |-
-    Show the right way to use, clean, maintain, and store painting equipment.
+      Show the right way to use, clean, maintain, and store painting equipment.
+  resources:
+      - href: https://www.youtube.com/watch?v=C_bY5_mOTcY
+        text: Good Paint Hygiene
+        type: video
+      - href: https://www.youtube.com/watch?v=u6_e5YXgviY
+        text: How To Clean and Store Paint Brushes
+        type: video
 - requirement: 6
   text: |-
-    Explain the importance of ladder safety, personal hygiene, and the use of
-    personal protective equipment when painting.
+      Explain the importance of ladder safety, personal hygiene, and the use of
+      personal protective equipment when painting.
+  resources:
+      - href: https://www.youtube.com/watch?v=b7ArZilnnTE
+        text: Ladder Safety
+        type: video
+      - href: https://www.youtube.com/watch?v=67G06bhuxPA
+        text: Personal Protective Equipment for Painting (PPE)
+        type: video
 - requirement: 7
   text: |-
-    Explain some of the environmental and health issues concerning removing
-    paint, applying paint, and discarding old paint.
+      Explain some of the environmental and health issues concerning removing
+      paint, applying paint, and discarding old paint.
+  resources:
+      - href: https://www.youtube.com/watch?v=7YKuwlGgWpc
+        text: How To Dispose of Old Paint
+        type: video
+      - href: https://www.youtube.com/watch?v=8lG6dAZE52k
+        text: Paint Removers
+        type: video
 - requirement: 8
   text: |-
-    Find out about career opportunities in the painting craft. Discuss the
-    training and experience required, and explain why this profession might
-    interest you.
+      Find out about career opportunities in the painting craft. Discuss the
+      training and experience required, and explain why this profession might
+      interest you.
+  resources:
+      - href: https://www.youtube.com/watch?v=5glRwgnb5gk
+        text: Painters Career Overview
+        type: video
+      - href: https://www.youtube.com/watch?v=mWjbRoAId_4
+        text: Scenic Painter
+        type: video

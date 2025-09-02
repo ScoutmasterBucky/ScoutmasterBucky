@@ -1,143 +1,296 @@
 - detail: true
   text: |-
-    <b>Note: The activities used to fulfill the requirements for the Dog Care
-    merit badge may not be used to help fulfill the requirements for other
-    merit badges.</b>
+      <b>Note: The activities used to fulfill the requirements for the Dog Care
+      merit badge may not be used to help fulfill the requirements for other
+      merit badges.</b>
 - requirement: 1
   text: |-
-    Do the following:
+      Do the following:
   children:
-    - requirement: a
-      text: |-
-        Briefly discuss the historical origin and domestication of the dog.
-    - requirement: b
-      text: |-
-        Describe some common characteristics of the dogs that make up each of
-        the seven major dog groups.
-    - requirement: c
-      text: |-
-        Tell some specific characteristics of seven breeds of dogs (one from
-        each major group), OR give a short history of one breed.
+      - requirement: a
+        text: |-
+            Briefly discuss the historical origin and domestication of the dog.
+        resources:
+            - href: https://www.youtube.com/watch?v=8_KWmzLObQ4
+              text: A Brief History of Dogs
+              type: video
+            - href: https://www.youtube.com/watch?v=4doKA0VpKgc
+              text: The Origin of Dogs
+              type: video
+      - requirement: b
+        text: |-
+            Describe some common characteristics of the dogs that make up each of
+            the seven major dog groups.
+        resources:
+            - href: https://www.youtube.com/watch?v=CITzpWbTSE8
+              text: Dog Breed Groups
+              type: video
+            - href: https://petcontrolhq.com/en-us/pages/different-dog-breed-types
+              text: 7 Different Groups of Basic Dog Breeds
+              type: website
+      - requirement: c
+        text: |-
+            Tell some specific characteristics of seven breeds of dogs (one from
+            each major group), OR give a short history of one breed.
+        resources:
+            - href: https://www.youtube.com/watch?v=RqIpI3QhEFs
+              text: 7 Groups of Dog Breeds!
+              type: video
 - requirement: 2
   text: |-
-    Point out on a dog or a sketch at least 10 body parts. Give the correct
-    name of each one.
+      Point out on a dog or a sketch at least 10 body parts. Give the correct
+      name of each one.
+  resources:
+      - href: https://youtu.be/ydzIvqvSKdk
+        text: Basic Dog Anatomy
+        type: video
 - requirement: 3
   text: |-
-    Do the following:
+      Do the following:
   children:
-    - requirement: a
-      text: |-
-        Explain the importance of house-training, obedience training, and
-        socialization training for your dog.
-    - requirement: b
-      text: |-
-        Explain what "responsible pet ownership" means.
-    - requirement: c
-      text: |-
-        Explain what issues (including temperament) must be considered when
-        deciding on what breed of dog to get as a family pet.
+      - requirement: a
+        text: |-
+            Explain the importance of house-training, obedience training, and
+            socialization training for your dog.
+        resources:
+            - href: https://www.youtube.com/watch?v=bwB7qNdifP4
+              text: How Important is Dog Training and Socialization
+              type: video
+      - requirement: b
+        text: |-
+            Explain what "responsible pet ownership" means.
+        resources:
+            - href: https://www.youtube.com/watch?v=R_0HgVBhwBM
+              text: Pet Protector - Responsible Pet Ownership
+              type: video
+      - requirement: c
+        text: |-
+            Explain what issues (including temperament) must be considered when
+            deciding on what breed of dog to get as a family pet.
+        resources:
+            - href: https://www.youtube.com/watch?v=l0JWJDFmacs
+              text: How To Pick the Right Dog for You!
+              type: video
+            - href: https://www.youtube.com/watch?v=_JRKX18rTbA
+              text: Top 10 Dogs for First Time Owners
+              type: video
 - requirement: 4
   text: |-
-    For two months, keep and care for your dog. Maintain a log of your
-    activities during this period that includes these items: feeding schedule,
-    types of food used, amount fed, exercise periods, training schedule, a
-    weekly body weight record, grooming and bathing schedules, veterinary care,
-    if necessary, and costs. Also include a brief description of the type of
-    housing/shelter arrangements you have for your dog.
+      For two months, keep and care for your dog. Maintain a log of your
+      activities during this period that includes these items: feeding schedule,
+      types of food used, amount fed, exercise periods, training schedule, a
+      weekly body weight record, grooming and bathing schedules, veterinary care,
+      if necessary, and costs. Also include a brief description of the type of
+      housing/shelter arrangements you have for your dog.
+  resources:
+      - href: https://youtu.be/rS4dprT0rg0
+        text: How To Keep Track of Pet Care
+        type: video
 - requirement: 5
   text: |-
-    Explain the correct way to obedience train a dog and what equipment you
-    would need. Show with your dog any three of these commands: "come," "sit,"
-    "down," "heel," "stay," "fetch," "get it," "drop it."
+      Explain the correct way to obedience train a dog and what equipment you
+      would need. Show with your dog any three of these commands: "come," "sit,"
+      "down," "heel," "stay," "fetch," "get it," "drop it."
+  resources:
+      - href: https://www.youtube.com/watch?v=eHbcb2EQC88
+        text: 10 Most Basic Commands Every Dog Owner Should Know
+        type: video
+      - href: https://www.youtube.com/watch?v=lUzcA9qa_P8
+        text: How To Teach Your Dog the Basics
+        type: video
 - requirement: 6
   text: |-
-    Do the following:
+      Do the following:
   children:
-    - requirement: a
-      text: |-
-        Discuss the proper vaccination schedule for a dog in your area from
-        puppyhood through adulthood.
-    - requirement: b
-      text: |-
-        Discuss the control methods for preventing fleas, ticks, heartworms,
-        and intestinal parasites (worms) for a dog in your area from puppyhood
-        through adulthood.
-    - requirement: c
-      text: |-
-        Explain the importance of dental care and tooth brushing to your pet's
-        health.
-    - requirement: d
-      text: |-
-        Discuss the benefits of grooming your dog's coat and nails on a regular
-        basis.
-    - requirement: e
-      text: |-
-        Discuss with your counselor any seasonal conditions (like hot summers,
-        cold winters, or extreme humidity) where you live that need to be
-        considered for your dog.
-    - requirement: f
-      text: |-
-        Discuss with your counselor the considerations and advantages of
-        spaying or neutering your dog.
+      - requirement: a
+        text: |-
+            Discuss the proper vaccination schedule for a dog in your area from
+            puppyhood through adulthood.
+        resources:
+            - href: https://www.youtube.com/watch?v=BnVVSciMymE
+              text: 'Puppy Vaccinations 101: What, When, and Why'
+              type: video
+      - requirement: b
+        text: |-
+            Discuss the control methods for preventing fleas, ticks, heartworms,
+            and intestinal parasites (worms) for a dog in your area from puppyhood
+            through adulthood.
+        resources:
+            - href: https://www.youtube.com/watch?v=NdykIsBmmao
+              text: How To Treat Fleas, Ticks &amp; Worms in Dogs
+              type: video
+      - requirement: c
+        text: |-
+            Explain the importance of dental care and tooth brushing to your pet's
+            health.
+        resources:
+            - href: https://www.youtube.com/watch?v=Qm92tNqrNAU
+              text: Dental Health Important for Your Pet Dogs
+              type: video
+      - requirement: d
+        text: |-
+            Discuss the benefits of grooming your dog's coat and nails on a regular
+            basis.
+        resources:
+            - href: https://www.youtube.com/watch?v=73abRtKHDfI
+              text: Everything You Need To Know About Dog Grooming
+              type: video
+      - requirement: e
+        text: |-
+            Discuss with your counselor any seasonal conditions (like hot summers,
+            cold winters, or extreme humidity) where you live that need to be
+            considered for your dog.
+        resources:
+            - href: https://www.youtube.com/shorts/JsnPl3mvgG4
+              text: Hot Weather Tips for Dogs!
+              type: video
+            - href: https://www.youtube.com/watch?v=P7nVESKP_sA
+              text: Winter Weather - Pet Safety Tips
+              type: video
+      - requirement: f
+        text: |-
+            Discuss with your counselor the considerations and advantages of
+            spaying or neutering your dog.
+        resources:
+            - href: https://www.youtube.com/watch?v=H9r9J3zlGZI
+              text: 'Spaying and Neutering Pets: Myths Debunked &amp; Health Benefits Explained'
+              type: video
+            - href: https://youtu.be/SaQRnYbco5M
+              text: To Neuter or Not?
+              type: video
 - requirement: 7
   text: |-
-    Do the following:
+      Do the following:
   children:
-    - requirement: a
-      text: |-
-        Explain precautions to take in handling a hurt dog.
-    - requirement: b
-      text: |-
-        Show how to put on an emergency muzzle.
-    - requirement: c
-      text: |-
-        Explain how to treat wounds. Explain first aid for a dog bite.
-    - requirement: d
-      text: |-
-        Show how to put on a simple dressing and bandage the foot, body, or
-        head of your dog.
-    - requirement: e
-      text: |-
-        Explain what to do if a dog is hit by a car.
-    - requirement: f
-      text: |-
-        List the things needed in every dog owner's first-aid kit.
-    - requirement: g
-      text: |-
-        Tell the dangers of home treatment of a serious ailment.
-    - requirement: h
-      text: |-
-        Briefly discuss the cause and method of spread, the signs and symptoms
-        and the methods of prevention of rabies, parvovirus, distemper, and
-        heartworms in dogs.
+      - requirement: a
+        text: |-
+            Explain precautions to take in handling a hurt dog.
+        resources:
+            - href: https://www.youtube.com/watch?v=7JP3IFdClU8
+              text: How To Be Safe When Handling a Sick or Injured Dog
+              type: video
+      - requirement: b
+        text: |-
+            Show how to put on an emergency muzzle.
+        resources:
+            - href: https://www.youtube.com/watch?v=E7_77X7hAqQ
+              text: How Do I Safely Muzzle a Pet in an Emergency?
+              type: video
+      - requirement: c
+        text: |-
+            Explain how to treat wounds. Explain first aid for a dog bite.
+        resources:
+            - href: https://www.youtube.com/watch?v=J5AeWWQ3eN0
+              text: First Aid for Dog Bites
+              type: video
+      - requirement: d
+        text: |-
+            Show how to put on a simple dressing and bandage the foot, body, or
+            head of your dog.
+        resources:
+            - href: https://www.youtube.com/watch?v=s7ZvhxUv8HU
+              text: "Pet First Aid: How To Bandage Your Pet's Paw in Case of Emergency"
+              type: video
+      - requirement: e
+        text: |-
+            Explain what to do if a dog is hit by a car.
+        resources:
+            - href: https://www.youtube.com/watch?v=Zidt9dhMEZ4
+              text: What To Do To Help a Dog Hit by a Car
+              type: video
+      - requirement: f
+        text: |-
+            List the things needed in every dog owner's first-aid kit.
+        resources:
+            - href: https://www.youtube.com/watch?v=Cz_ogJQhWmo
+              text: DIY Dog First Aid Kit - Basics and Beyond
+              type: video
+            - href: https://www.youtube.com/watch?v=7sszmRkdOyM
+              text: What To Put in a Dog First Aid Kit for Hiking
+              type: video
+      - requirement: g
+        text: |-
+            Tell the dangers of home treatment of a serious ailment.
+        resources:
+            - href: https://www.petmd.com/dog/care/8-risks-treating-your-pet-home
+              text: <8 Risks of Treating Your Pet
+              type: website
+            - href: https://www.thedrakecenter.com/services/blog/diagnosing-and-treating-your-own-pet-dangers-dr-google
+              text: Dangers of Dr. Google
+              type: website
+      - requirement: h
+        text: |-
+            Briefly discuss the cause and method of spread, the signs and symptoms
+            and the methods of prevention of rabies, parvovirus, distemper, and
+            heartworms in dogs.
+        resources:
+            - href: https://www.youtube.com/watch?v=_tMORbU5c3Y
+              text: Rabies Information
+              type: video
+            - href: https://www.youtube.com/watch?v=7pBKnJQlwSQ
+              text: Parvo Information
+              type: video
+            - href: https://www.avma.org/resources-tools/pet-owners/petcare/disease-risks-dogs-social-settings
+              text: Disease Risks for Dogs in Social Settings
+              type: website
 - requirement: 8
   text: |-
-    Visit a veterinary hospital or an animal shelter and give a report about
-    your visit to your counselor.
+      Visit a veterinary hospital or an animal shelter and give a report about
+      your visit to your counselor.
+  resources:
+      - href: https://www.youtube.com/watch?v=O_R3raXyB8s
+        text: Small Animal Hospital Virtual Tour
+        type: video
+      - href: https://www.youtube.com/watch?v=_CIC1OXl2u0
+        text: What is an Animal Shelter
+        type: video
 - requirement: 9
   text: |-
-    Know the laws and ordinances involving dogs that are in force in your
-    community.
+      Know the laws and ordinances involving dogs that are in force in your
+      community.
+  resources:
+      - href: https://www.youtube.com/watch?v=Hr7n_5GCiUk
+        text: Michigan's Animal Control Laws
+        type: video
 - requirement: 10
   text: |-
-    Do ONE of the following:
+      Do ONE of the following:
   children:
-    - requirement: a
-      text: |-
-        Identify three career opportunities that would use skills and knowledge
-        in working with dogs. Pick one and research the training, education,
-        certification requirements, experience, and expenses associated with
-        entering the field. Research the prospects for employment, starting
-        salary, advancement opportunities and career goals associated with this
-        career. Discuss what you learned with your counselor and whether you
-        might be interested in this career.
-    - requirement: b
-      text: |-
-        Identify how you might use the skills and knowledge in working with
-        dogs to pursue a personal hobby and/or healthy lifestyle. Research the
-        additional training required, expenses, and affiliation with
-        organizations that would help you maximize the enjoyment and benefit
-        you might gain from it. Discuss what you learned with your counselor
-        and share what short-term and long-term goals you might have if you
-        pursued this.
+      - requirement: a
+        text: |-
+            Identify three career opportunities that would use skills and knowledge
+            in working with dogs. Pick one and research the training, education,
+            certification requirements, experience, and expenses associated with
+            entering the field. Research the prospects for employment, starting
+            salary, advancement opportunities and career goals associated with this
+            career. Discuss what you learned with your counselor and whether you
+            might be interested in this career.
+        resources:
+            - href: https://www.youtube.com/watch?v=aDYaE4d_H94
+              text: What Is the Difference Between Dog Training Certification Programs? | Animal Care Jobs
+              type: video
+            - href: https://youtu.be/Nn3IE61JM00
+              text: Is Vet School Right for You?
+              type: video
+            - href: https://www.akc.org/public-education/resources/dog-related-career-skills/
+              text: Careers in Dogs - Skills Needed in Careers With Dogs
+              type: website
+            - href: https://www.youtube.com/watch?v=86eSPiTckRA
+              text: Becoming a Pet Groomer
+              type: video
+      - requirement: b
+        text: |-
+            Identify how you might use the skills and knowledge in working with
+            dogs to pursue a personal hobby and/or healthy lifestyle. Research the
+            additional training required, expenses, and affiliation with
+            organizations that would help you maximize the enjoyment and benefit
+            you might gain from it. Discuss what you learned with your counselor
+            and share what short-term and long-term goals you might have if you
+            pursued this.
+        resources:
+            - href: https://thenatureofhome.com/dog-friendly-hobbies/
+              text: 9 Dog-Friendly Hobbies To Strengthen Your Connection With Your Pup
+              type: website
+            - href: https://www.youtube.com/shorts/bRJr3fVXGnU
+              text: Dog Carving
+              type: video
