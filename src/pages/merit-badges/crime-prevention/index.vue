@@ -10,9 +10,6 @@ resources:
     - name: Crime Prevention Workbook
       shortName: Workbook
       url: /merit-badges/crime-prevention/crime-prevention-workbook.pdf
-    - name: Scoutmaster Bucky Crime Prevention Journal
-      shortName: Journal
-      url: /merit-badges/crime-prevention/scoutmaster-bucky-crime-prevention-journal.pdf
     - name: Scoutmaster Bucky's Merit Badge Advancement Quick Reference
       shortName: Advancement Quick Reference
       url: /documents/mbaqr.pdf

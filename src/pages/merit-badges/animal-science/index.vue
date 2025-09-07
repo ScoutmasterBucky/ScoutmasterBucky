@@ -27,7 +27,7 @@ resources:
       url: /merit-badges/animal-science/animal-science-workbook-horse.pdf
     - name: Animal Science Workbook - Sheep Option
       shortName: Workbook - Sheep Option
-      url: /merit-badges/animal-science/animal-science-workbook-sheep.pdf
+      url: /merit-badges/animal-science/animal-science-workbook-sheep-goat.pdf
     - name: Scoutmaster Bucky's Merit Badge Advancement Quick Reference
       shortName: Advancement Quick Reference
       url: /documents/mbaqr.pdf
