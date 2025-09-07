@@ -7,7 +7,7 @@ resources:
     - name: American Business Class Preparation Page
       shortName: Class Preparation Page
       url: /merit-badges/american-business/american-business-cpp.pdf
-    - name: American Business Workbook
+    - name: American Business Merit Badge Workbook
       shortName: Workbook
       url: /merit-badges/american-business/american-business-workbook.pdf
     - name: Scoutmaster Bucky's Merit Badge Advancement Quick Reference

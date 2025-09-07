@@ -7,7 +7,7 @@ resources:
     - name: Sports Workbook
       shortName: Workbook
       url: /merit-badges/sports/sports-workbook.pdf
-    - name: Scoutmaster Bucky's - Sports Merit Badge tracking Sheets (for requirement 4a)
+    - name: Scoutmaster Bucky's - Sports Merit Badge Tracking Sheets (for requirement 4a)
       shortName: Sports 4a Tracking Sheets
       url: /merit-badges/sports/scoutmaster-bucky-sports-merit-badge-tracking-sheets.pdf
     - name: Scoutmaster Bucky's Merit Badge Advancement Quick Reference
