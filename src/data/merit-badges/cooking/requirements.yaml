@@ -23,26 +23,58 @@
             Explain to your counselor the most likely hazards you may encounter
             while participating in cooking activities and what you should do to
             anticipate, help prevent, mitigate, and respond to these hazards.
+        resources:
+            - href: https://youtu.be/mJvu1d-Y10I
+              text: 6 Campfire Cooking Mistakes to Avoid *Do This Instead*
+              type: video
+            - href: https://youtu.be/qBdJOYEvA0A
+              text: 5 Mistakes EVERY New Camper Makes COOKING
+              type: video
       - requirement: b
         text: |-
             Show that you know first aid for and how to prevent injuries or
             illnesses that could occur while preparing meals and eating, including
             burns and scalds, cuts, choking, and allergic reactions.
+        resources:
+            - href: https://www.youtube.com/watch?v=tm0mRPy2VH4
+              text: Treating Burns and Cuts
+              type: video
+            - href: https://www.youtube.com/watch?v=veHAMX6vukY
+              text: Food Allergy with Anaphylaxis
+              type: video
+            - href: https://youtu.be/8R3RWC-xx1I
+              text: What to Do When an Adult is Choking (Responsive)
+              type: video
       - requirement: c
         text: |-
             Describe how meat, fish, chicken, eggs, dairy products, and fresh
             vegetables should be stored, transported, and properly prepared for
             cooking. Explain how to prevent cross-contamination.
+        resources:
+            - href: https://youtu.be/yiNTqUU-h6w
+              text: 'Basic Food Safety: Avoiding Cross Contamination'
+              type: video
       - requirement: d
         text: |-
             Discuss with your counselor food allergies, food intolerance, and
             food-related illnesses and diseases. Explain why someone who handles or
             prepares food needs to be aware of these concerns.
+        resources:
+            - href: https://youtu.be/ZCiPJoIajV4
+              text: Food Allergy Awareness
+              type: video
+            - href: https://youtu.be/8GxhiuN_bY0
+              text: What's a Food Allergy -- and What's Not?
+              type: video
       - requirement: e
         text: |-
             Discuss with your counselor why reading food labels is important.
             Explain how to identify common allergens such as peanuts, tree nuts,
             milk, eggs, wheat, soy, and shellfish.
+        resources:
+            - href: https://youtu.be/R-o-83k8dP0
+              text: 10 Rules for Reading a Food Label
+              type: video
 - requirement: 2
   text: |-
       <strong>Nutrition.</strong> Do the following:
@@ -52,6 +84,10 @@
             Using the MyPlate food guide or the current USDA nutrition model, give
             five examples for EACH of the following food groups, the recommended
             number of daily servings, and the recommended serving size:
+        resources:
+            - href: https://www.myplate.gov/eat-healthy/what-is-myplate
+              text: MyPlate Food Groups
+              type: website
         children:
             - requirement: 1
               text: |-
@@ -71,23 +107,39 @@
       - requirement: b
         text: |-
             Explain why you should limit your intake of oils and sugars.
+        resources:
+            - href: https://youtu.be/rvEVY6SCEUg
+              text: Tips for Limiting Sugar in Your Diet
+              type: video
       - requirement: c
         text: |-
             Track your daily level of activity and your daily caloric need based on
             your activity for five days. Then, based on the MyPlate food guide,
             discuss with your counselor an appropriate meal plan for yourself for
             one day.
+        resources:
+            - href: https://www.myplate.gov/myplate-plan
+              text: MyPlate Food Plan
+              type: website
       - requirement: d
         text: |-
             Discuss your current eating habits with your counselor and what you can
             do to eat healthier, based on the MyPlate food guide.
+        resources:
+            - href: https://www.myplate.gov/myplate-tip-sheets
+              text: Healthy Eating Tip Sheets
+              type: website
       - requirement: e
         text: |-
-            Discuss the following food label terms: calorie, fat, saturated fat,
-            trans fat, cholesterol, sodium, carbohydrate, dietary fiber, sugar,
-            protein. Explain how to calculate total carbohydrates and nutritional
-            values for two servings, based on the serving size specified on the
-            label.
+            Discuss the following food label terms: calorie, fat, saturated
+            fat, trans fat, cholesterol, sodium, carbohydrate, dietary fiber,
+            sugar, and protein. Explain how to calculate total carbohydrates
+            and nutritional values for two servings, based on the serving size
+            specified on the label.
+        resources:
+            - href: https://youtu.be/76g2wabvA-w
+              text: How to Read Food Labels
+              type: video
 - requirement: 3
   text: |-
       <strong>Cooking Basics.</strong> Do the following:
@@ -98,23 +150,55 @@
             equipment needed, how temperature control is maintained, and name at
             least one food that can be cooked using that method: baking, boiling,
             broiling, pan frying, simmering, microwaving, air frying, grilling,
-            foil cooking, Dutch oven.
+            foil cooking, and Dutch oven.
+        resources:
+            - href: https://youtu.be/GE7FJU_9JsA
+              text: Types of Cooking Techniques, Cooking Methods
+              type: video
+            - href: https://youtu.be/HoZElsSBEPk
+              text: 6 Tips to Master Foil Packet Cooking
+              type: video
+            - href: https://youtu.be/9uP1mauAtuI
+              text: Dutch Oven Basics for Beginners
+              type: video
       - requirement: b
         text: |-
             Discuss the benefits of using a camp stove on an outing vs. a charcoal
             or wood fire.
+        resources:
+            - href: https://hotashstove.com/blogs/news/camping-stoves-vs-campfires
+              text: Camp Stove vs Campfires
+              type: website
       - requirement: c
         text: |-
             Describe for your counselor how to manage your time when preparing a
             meal so components for each course are ready to serve at the correct
             time.
+        resources:
+            - href: https://youtu.be/ED4Cm-xz-_k
+              text: Timing Your Meals
+              type: video
       - requirement: d
         text: |-
             Explain and give examples of how taste, texture, and smell impact what
             we eat.
+        resources:
+            - href: https://youtu.be/3NFTa9kTVRU
+              text: How Your Sense of Smell Helps You Savor Flavor
+              type: video
 - requirement: 4
   text: |-
       <strong>Cooking at Home.</strong> Do the following:
+      <div class="gap"></div>
+      <b>Note:</b> The meals for requirement 4 may be prepared on different
+      days, and they need not be prepared consecutively. The requirement calls
+      for Scouts to plan, prepare, and serve one breakfast, one lunch, and one
+      dinner to at least one adult; those served need not be the same for all
+      meals.
+  resources:
+      - href: https://youtu.be/MZn2PMUWO-Y
+        text: The Five Tastes
+        type: video
   children:
       - requirement: a
         text: |-
@@ -125,27 +209,40 @@
             needs (such as food allergies) and how you keep your foods safe and
             free from cross-contamination. List the equipment and utensils needed
             to prepare and serve these meals.
+        resources:
+            - href: https://www.myplate.gov/myplate-kitchen
+              text: MyPlate Kitchen
+              type: website
       - requirement: b
         text: |-
             Find recipes for each meal. Create a shopping list for your meals
             showing the amount of food needed to prepare for the number of people
             you will serve. Determine the cost for each meal.
+        resources:
+            - href: https://www.myplate.gov/myplate-kitchen
+              text: MyPlate Kitchen
+              type: website
       - requirement: c
         text: |-
             Share and discuss your meal plan and shopping list with your counselor.
+        resources:
+            - href: https://www.myplate.gov/myplate-kitchen
+              text: MyPlate Kitchen
+              type: website
       - requirement: d
         text: |-
             Using at least five of the 10 cooking methods from requirement 3,
             prepare and serve yourself and at least one adult (parent, family
             member, guardian, or other responsible adult) one breakfast, one lunch,
-            one dinner, and one dessert from the meals you planned. The meals for
-            requirement 4 may be prepared on different days, and they need not be
-            prepared consecutively. Those served need not be the same for all
-            meals.
+            one dinner, and one dessert from the meals you planned.
       - requirement: e
         text: |-
             Time your cooking to have each meal ready to serve at the proper time.
             Have an adult verify the preparation of the meal to your counselor.
+        resources:
+            - href: https://youtu.be/ED4Cm-xz-_k
+              text: Timing Your Meals
+              type: video
       - requirement: f
         text: |-
             After each meal, ask a person you served to evaluate the meal on
@@ -168,12 +265,20 @@
             in mind any special needs (such as food allergies) and how you keep
             your foods safe and free from cross-contamination. List the equipment
             and utensils needed to prepare and serve these meals.
+        resources:
+            - href: https://www.myplate.gov/resources/tools
+              text: MyPlate Tools
+              type: website
       - requirement: b
         text: |-
             Find or create recipes for the four meals, the snack, and the dessert
             you have planned. Adjust menu items in the recipes for the number to be
             served. Create a shopping list and budget to determine the per-person
             cost.
+        resources:
+            - href: https://www.myplate.gov/resources/tools
+              text: MyPlate Tools
+              type: website
       - requirement: c
         text: |-
             Share and discuss your menu plans and shopping list with your
@@ -185,6 +290,19 @@
             stove OR backpacking stove. Use a skillet OR a Dutch oven over campfire
             coals for the third meal, and cook the fourth meal in a foil pack OR on
             a skewer. Serve all of these meals to your patrol or a group of youth.
+        resources:
+            - href: https://youtu.be/6il0aDjwSGI
+              text: How to Use a Propane Stove
+              type: video
+            - href: https://youtu.be/2XRqdVIqimY
+              text: How to Use a Liquid Fuel Stove
+              type: video
+            - href: https://youtu.be/HoZElsSBEPk
+              text: 6 Tips to Master Foil Packet Cooking
+              type: video
+            - href: https://youtu.be/9uP1mauAtuI
+              text: Dutch Oven Basics for Beginners
+              type: video
       - requirement: e
         text: |-
             In the outdoors, using your menu plans and recipes for this
@@ -202,10 +320,21 @@
             Lead the clean-up of equipment, utensils, and the cooking site
             thoroughly after each meal. Properly store or dispose unused
             ingredients, leftover food, dishwater and garbage.
+        resources:
+            - href: https://youtu.be/y093Rjgl7UE
+              text: Washing Dishes in Camp
+              type: video
       - requirement: h
         text: |-
             Discuss how you followed the Leave No Trace Seven Principles and the
             Outdoor Code when preparing your meals.
+        resources:
+            - href: https://lnt.org/why/7-principles/
+              text: 7 Principles of LNT
+              type: website
+            - href: https://www.scouting.org/outdoor-programs/outdoor-ethics/outdoor-code/
+              text: Outdoor Code
+              type: website
 - requirement: 6
   text: |-
       <strong>Trail and backpacking meals.</strong> Do the following:
@@ -218,6 +347,10 @@
             consider weight, not require refrigeration and are to be consumed by
             three to five people (including you). List the equipment and utensils
             needed to prepare and serve these meals.
+        resources:
+            - href: https://www.myplate.gov/myplate-kitchen
+              text: MyPlate Kitchen
+              type: website
       - requirement: b
         text: |-
             Create a shopping list for your meals, showing the amount of food
@@ -228,12 +361,20 @@
             Your plan must include how to repackage foods for your hike or
             backpacking trip to eliminate as much bulk, weight, and garbage as
             possible.
+        resources:
+            - href: https://youtu.be/r7hQE1zp0uk
+              text: Repackaging Food for Backpacking
+              type: video
       - requirement: d
         text: |-
             While on a trail hike or backpacking trip, prepare and serve two
             meals and a snack from the menu planned for this requirement. At least
             one of those meals must be cooked over a fire, or an approved trail
             stove (with proper supervision).
+        resources:
+            - href: https://youtu.be/2XRqdVIqimY
+              text: Lighting a Liquid Fuel Stove
+              type: video
       - requirement: e
         text: |-
             After each meal, have those you served evaluate the meal on
@@ -247,6 +388,10 @@
             supplies among the patrol in order to share the load. Discuss how to
             properly clean the cooking area and store your food to protect it from
             animals.
+        resources:
+            - href: https://youtu.be/NNcu_Ujoiv4
+              text: Cleaning Up &amp; Washing Dishes
+              type: video
 - requirement: 7
   text: |-
       <b>Careers and Hobbies.</b> Do ONE of the following:
@@ -260,6 +405,16 @@
             salary, advancement opportunities and career goals associated with this
             career. Discuss what you learned with your counselor and whether you
             might be interested in this career.
+        resources:
+            - href: https://www.escoffier.edu/blog/culinary-pastry-careers/13-great-careers-in-the-food-industry/
+              text: 13 Careers in the Food Industry
+              type: website
+            - href: https://youtu.be/yZ966pNSB0w
+              text: 'Exploring Culinary Career Paths: Popular Specializations and Opportunities'
+              type: video
+            - href: https://youtu.be/wIfmCuKRIk8
+              text: How to Become a Chocolatier
+              type: video
       - requirement: b
         text: |-
             Identify how you might use the skills and knowledge in cooking to
@@ -268,11 +423,10 @@
             would help you maximize the enjoyment and benefit you might gain from
             it. Discuss what you learned with your counselor and share what
             short-term and long-term goals you might have if you pursued this.
-- detail: true
-  text: |-
-      <sup>*</sup> Where local regulations do not allow you to build a fire, the
-      counselor may adjust the requirement to meet the law. The meals in
-      requirements 5 and 6 may be prepared for different trips and need not be
-      prepared consecutively. Scouts working on this badge in summer camp
-      should take into consideration foods that can be obtained at the camp
-      commissary.
+        resources:
+            - href: https://www.health.harvard.edu/blog/sharpen-cooking-skills-improve-diet-even-social-life-2017030311204
+              text: Sharpen Your Cooking Skills and Improve Your Diet (and Even Your Social Life)
+              type: website
+            - href: https://sometimes-homemade.com/cooking-hobbies/
+              text: '70 Cooking Hobbies: Discover Delicious Culinary Adventures'
+              type: website

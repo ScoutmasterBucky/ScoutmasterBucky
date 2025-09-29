@@ -6,7 +6,7 @@
 - requirement: 2
   text: |-
       Explain the following terms: native metal, malleable, metallurgy, alloy,
-      nonferrous, ferrous. Then do the following:
+      nonferrous, and ferrous. Then do the following:
   children:
       - requirement: a
         text: |-
@@ -68,7 +68,7 @@
   children:
       - requirement: a
         text: |-
-            <strong>Option 1 - Sheet Metal Mechanic/Tinsmith</strong>
+            <strong>Option 1-Sheet Metal Mechanic/Tinsmith</strong>
         children:
             - requirement: 1
               text: |-
@@ -95,7 +95,7 @@
                         tin-plated sheet steel, preserve your work from oxidation.
       - requirement: b
         text: |-
-            <strong>Option 2 - Silversmith</strong>
+            <strong>Option 2-Silversmith</strong>
         children:
             - requirement: 1
               text: |-
@@ -126,7 +126,7 @@
                         Clean and polish your objects.
       - requirement: c
         text: |-
-            <strong>Option 3 - Founder</strong>
+            <strong>Option 3-Founder</strong>
         children:
             - requirement: 1
               text: |-
@@ -153,7 +153,7 @@
                         have made.
       - requirement: d
         text: |-
-            <strong>Option 4 - Blacksmith</strong>
+            <strong>Option 4-Blacksmith</strong>
         children:
             - requirement: 1
               text: |-

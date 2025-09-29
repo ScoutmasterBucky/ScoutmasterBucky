@@ -1,4 +1,5 @@
 # Note: 1b, removed period in "what is. the legal blood"
+# Requirement 4b says "As a driver, describe the ..." implying that the Scout needs to be 15 or older in most states. It could be reworded to remove the ambiguity, such as "From a driver's perspective, describe the ..."
 - requirement: 1
   text: |-
       Do the following:
@@ -78,13 +79,13 @@
   children:
       - requirement: a
         text: |-
-            In a location away from traffic hazards, measure with a tape measure -
-            not in a car - and mark off with stakes the distance that a car will
-            travel during the time needed for decision and reaction, and the
-            braking distances necessary to stop a car traveling 30, 50, and 70
-            miles per hour on dry, level pavement. Discuss how environmental
-            factors such as bad weather and road conditions will affect the
-            distance.
+            In a location away from traffic hazards, measure with a tape
+            measure-not in a car-and mark off with stakes the distance that a
+            car will travel during the time needed for decision and reaction,
+            and the braking distances necessary to stop a car traveling 30, 50,
+            and 70 miles per hour on dry, level pavement. Discuss how
+            environmental factors such as bad weather and road conditions will
+            affect the distance.
       - requirement: b
         text: |-
             As a driver, describe the difference in nighttime visibility between a

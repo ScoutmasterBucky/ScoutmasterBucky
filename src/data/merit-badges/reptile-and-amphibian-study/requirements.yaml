@@ -1,7 +1,7 @@
 - detail: true
   text: |-
       <b>Note: Scouts must not use venomous reptiles in fulfilling requirement
-      8(a).  When you decide keeping your specimen is no longer possible or
+      8(a).  When you decide that keeping your specimen is no longer possible or
       desired, be sure to find another appropriate home for it or return it to
       the wild at the location of capture. Check with your counselor for those
       instances where the return of these specimens would not be appropriate.</b>
@@ -22,12 +22,23 @@
       markings, color patterns, or other characteristics that are important in
       the identification of each of the four species. Discuss the habits and
       habitats of all 10 species.
+  resources:
+      - href: https://www.inaturalist.org/places/united-states#taxon=26036
+        text: Reptiles of the United States
+        type: website
+      - href: https://www.inaturalist.org/places/united-states#taxon=20978
+        text: Amphibians of the United States
+        type: website
 - requirement: 2
   text: |-
       Discuss with your counselor the approximate number of species and general
       geographic distribution of reptiles and amphibians in the United States.
       Prepare a list of the most common species found in your local area or
       state.
+  resources:
+      - href: https://geonarrative.usgs.gov/amphibianreptileexplorer/
+        text: Find Amphibian and Reptile Species in Your Area
+        type: website
 - requirement: 3
   text: |-
       Describe the main differences between
@@ -35,15 +46,40 @@
       - requirement: a
         text: |-
             Amphibians and reptiles
+        resources:
+            - href: https://www.youtube.com/watch?v=6MsTbQi19SA
+              text: 'Reptiles vs Amphibians:'
+              type: video
+            - href: https://www.youtube.com/watch?v=j1vMyuYBqA4&t=54s
+              text: What's the Difference Between Reptiles and Amphibians?
+              type: video
       - requirement: b
         text: |-
             Alligators and crocodiles
+        resources:
+            - href: https://youtu.be/oins54YQGYI
+              text: Alligator or Crocodile - What's the Difference?
+              type: video
       - requirement: c
         text: |-
             Toads and frogs
+        resources:
+            - href: https://www.youtube.com/watch?v=O7QaL3xehRw
+              text: Differences Between Frogs &amp; Toads
+              type: video
+            - href: https://www.youtube.com/watch?v=mM59TQOPDYQ
+              text: What Is the Difference Between Frogs and Toads?
+              type: video
+            - href: https://www.youtube.com/watch?v=IF0EWfbevrM
+              text: "Frogs and Toads: What's the Difference?"
+              type: video
       - requirement: d
         text: |-
             Snakes and lizards.
+        resources:
+            - href: https://youtu.be/MMFcutNSKZk
+              text: How Are Snakes Different From Lizards?
+              type: video
 - requirement: 4
   text: |-
       Explain how reptiles and amphibians are an important component of the
@@ -52,18 +88,58 @@
       protected. List three species of reptiles and three species of amphibians
       found in your local area that are not protected. Discuss the food habits of
       all 10 species.
+  resources:
+      - href: https://www.online-field-guide.com/ecological-roles-of-reptiles-and-amphibians/
+        text: Ecological Roles of Reptiles and Amphibians
+        type: website with videos
+      - href: https://youtu.be/dQpHqkAvNnc
+        text: 'Dying for Protection: Amphibians and Reptiles'
+        type: video
+      - href: https://ecos.fws.gov/ecp0/reports/ad-hoc-species-report?kingdom=V&kingdom=I&status=E&status=T&status=EmE&status=EmT&status=EXPE&status=EXPN&status=SAE&status=SAT&mapstatus=3&fcrithab=on&fstatus=on&fspecrule=on&finvpop=on&fgroup=on&header=Listed+Animals
+        text: Search for Endangered Species in Your Area | U.S. Fish &amp; Wildlife Service
+        type: website
+      - href: https://www.youtube.com/watch?v=baY4dzLSWlY
+        text: Feeding Our Amphibians
+        type: video
 - requirement: 5
   text: |-
       Compare how reptiles reproduce to how amphibians reproduce.
+  resources:
+      - href: https://www.youtube.com/watch?v=GKM_mDDPJh0
+        text: Reptile vs Amphibian
+        type: video
+      - href: https://youtu.be/sZnvgGmvuVs
+        text: Lifecycle of an Amphibian (Frog)
+        type: video
+      - href: https://www.youtube.com/watch?v=ACEpFX2Dnmk
+        text: How Lizards Reproduce
+        type: video
+      - href: https://youtu.be/KFCfL99rHpw
+        text: What Are Oviparous and Viviparous Snakes?
+        type: video
 - requirement: 6
   text: |-
       From observation, describe how snakes move forward. Describe the functions
       of the muscles, ribs, and belly plates.
+  resources:
+      - href: https://www.youtube.com/watch?v=7-AKPFiIEEw
+        text: How Snakes Move! (They Don't Just Slither!)
+        type: video
+      - href: https://www.youtube.com/watch?v=aPV0HpPRH2A
+        text: How Do Snakes Move?
+        type: video
+      - href: https://www.youtube.com/watch?v=zFNnx4UgkNI
+        text: 'True Facts: How Snakes Move'
+        type: video
 - requirement: 7
   text: |-
       Describe in detail six venomous snakes and the one venomous lizard found in
       the United States. Describe their habits and geographic range. Tell what
       you should do in case of a bite by a venomous species.
+  resources:
+      - href: https://youtu.be/guMzO7vzMT0
+        text: The Most VENOMOUS Snakes in the US
+        type: video
 - requirement: 8
   text: |-
       Do ONE of the following:
@@ -82,12 +158,16 @@
             humidity maintenance and any veterinary care requirements. Unless you
             are the long-term owner, at the conclusion of this study, turn the
             animal(s) over to another responsible party approved by your counselor.
+        resources:
+            - href: https://fluent-time-management.com/pet-journaling-track-your-pets-needs-and-your-time-efficiently/
+              text: "Pet Journaling: Track Your Pet's Needs and Your Time Efficiently"
+              type: website
       - requirement: b
         text: |-
             (b) Choose a reptile or amphibian that you can observe or foster at a
             local zoo, aquarium, nature center, local rescue, or other such exhibit
             (such as your classroom or school). Study the specimen weekly for a
-            periods of three months. At each visit, sketch the specimen in its
+            period of three months. At each visit, sketch the specimen in its
             captive habitat and note any changes in its coloration, shedding of
             skins, and general habits and behavior. Discuss with your counselor how
             the animal you observed was cared for to include its housing and
@@ -95,7 +175,7 @@
             and any veterinary care requirements. Find out, either from information
             you locate on your own or by talking to the caretaker, what this species
             eats and what are its native habitat and home range, preferred climate,
-            average life expectancy, and natural predators. Also identify any
+            average life expectancy, and natural predators. Also, identify any
             human-caused threats to its population and any laws that protect the
             species and its habitat. After the observation period, share what you
             have learned with your counselor.
@@ -108,9 +188,20 @@
                   Identify at night three kinds of toads or frogs by their voices.
                   Imitate the song of each for your counselor. Stalk each with a
                   flashlight and discover how each sings and from where.
+              resources:
+                  - href: https://youtu.be/74-vaZv54s8
+                    text: 'Frog Sounds: Why They Make Them (Examples)'
+                    type: video
             - requirement: b
               text: |-
                   Identify by sight eight species of reptiles or amphibians.
+              resources:
+                  - href: https://www.inaturalist.org/places/united-states#taxon=26036
+                    text: Reptiles of the United States
+                    type: website
+                  - href: https://www.inaturalist.org/places/united-states#taxon=20978
+                    text: Amphibians of the United States
+                    type: website
             - requirement: c
               text: |-
                   Using visual aids, give a brief talk to a small group on three
@@ -120,3 +211,10 @@
       Tell five superstitions or false beliefs about reptiles and amphibians and
       give a correct explanation for each. Give seven examples of unusual
       behavior or other true facts about reptiles and amphibians.
+  resources:
+      - href: https://www.youtube.com/watch?v=Nz6VQSlr9mI
+        text: Debunking Common Reptile and Amphibian Myths &amp; Misconceptions
+        type: video
+      - href: https://www.youtube.com/watch?v=i7FR8h4Ky44
+        text: Busting 15 Crazy Reptile Myths in 15 Minutes
+        type: video

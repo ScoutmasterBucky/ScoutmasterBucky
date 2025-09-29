@@ -9,11 +9,19 @@
             mitigate and prevent, and respond to these hazards. Describe the
             appropriate safety gear and clothing that should be used when working
             with robotics.
+        resources:
+            - href: https://youtu.be/7v3cylLL9hw?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce
+              text: Hazards and Robot Safety
+              type: video
       - requirement: b
         text: |-
             Discuss first aid and prevention for the types of injuries that could
             occur while participating in robotics activities and competitions,
             including cuts, eye injuries, and burns (chemical or heat).
+        resources:
+            - href: https://www.youtube.com/watch?v=0jp5FgLmKtk&list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce&index=1
+              text: How to Treat Cuts and Scrapes
+              type: video
 - requirement: 2
   text: |-
       <b>Robotics Industry.</b> Discuss the following with your counselor:
@@ -21,15 +29,31 @@
       - requirement: a
         text: |-
             The kinds of things robots can do and how robots are best used today.
+        resources:
+            - href: https://youtu.be/fc_Cynqr6jM
+              text: TYPES OF ROBOTS | Robots Classification
+              type: video
       - requirement: b
         text: |-
             The similarities and differences between remote-control vehicles,
             telerobots, and autonomous robots.
+        resources:
+            - href: https://youtu.be/kdYJyGQwtL4
+              text: What's The Difference Between Autonomous Robots and Controlled Robots?
+              type: video
+            - href: https://milvus.io/ai-quick-reference/what-is-the-difference-between-autonomous-and-teleoperated-robots
+              text: What Is the Difference Between Autonomous and Teleoperated Robots?
+
+              type: video
       - requirement: c
         text: |-
             Three different methods robots can use to move themselves other than
             wheels or tracks. Describe when it would be appropriate to use each
             method.
+        resources:
+            - href: https://youtu.be/aVuNcVW-gzE
+              text: The No Wheel, Circular Gear, or Sprocket Robot Race
+              type: video
 - requirement: 3
   text: |-
       <b>General Knowledge.</b> Discuss with your counselor three of the five
@@ -38,9 +62,26 @@
       Discuss either the three fields as they relate to a single robot system OR
       talk about each field in general. Find pictures or at least one video to
       aid your discussion.
+  resources:
+      - href: https://youtu.be/exEBkd1Gn0I
+        text: 5 Sub-Disciplines of Robotics
+        type: video
 - requirement: 4
   text: |-
       <b>Design, Build, Program, Test.</b> Do the following:
+  resources:
+      - href: https://youtu.be/weBH_PL3_Bk
+        text: Hints On How to Get the Robotics Merit Badge
+        type: video
+      - href: https://youtu.be/6dYq9bBSaWc?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce
+        text: What Qualifies as a Robot for Robotics Merit Badge?
+        type: video
+      - href: https://youtu.be/T0JeYyU7R-c?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce
+        text: Methods Robots Use to Move
+        type: video
+      - href: https://youtu.be/55O-DGeoFic?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce
+        text: 'Robotics: Degrees of Freedom'
+        type: video
   children:
       - requirement: a
         text: |-
@@ -67,12 +108,23 @@
                   Program your robot to perform the task you chose for your robot in
                   4a. Include a sample of your program's source code in your robot
                   engineering notebook.
+              resources:
+                  - href: https://www.vexrobotics.com/vexcode/vr
+                    text: VEXcode VR
+                    type: website
             - requirement: 2
               text: |-
                   Prepare a flowchart of the desired steps to program your robot for
                   accomplishing the task in 4(a). Include procedures that show
                   activities based on sensor inputs. Place this in your robot
                   engineering notebook.
+              resources:
+                  - href: https://youtu.be/SWRDqTx8d4k
+                    text: General Guide to Creating Flowcharts
+                    type: video
+                  - href: https://youtu.be/c8asK8iCaRk
+                    text: Flowchart Tutorial for Beginners
+                    type: video
       - requirement: e
         text: |-
             Test your robot and record the results in your robot engineering
@@ -94,6 +146,13 @@
 - requirement: 6
   text: |-
       <b>Competitions.</b> Do ONE of the following.
+  resources:
+      - href: https://youtu.be/Jd29kzjclV0
+        text: About FIRST Robotics Competition (2021)
+        type: video
+      - href: https://youtu.be/Mi6E37oU8yc
+        text: About VEX Robotics
+        type: video
   children:
       - requirement: a
         text: |-
@@ -111,3 +170,10 @@
       find out the education, training, and experience required for this
       profession. Discuss this with your counselor, and explain why this
       profession might interest you.
+  resources:
+      - href: https://youtu.be/0dwkGhRPQW4
+        text: Learn about the careers of robotics technicians
+        type: video
+      - href: https://youtu.be/5YTYFrrSdV4?list=PLHGEvyG5wuthXQZzTc-mLwFrP5F6_1Lce
+        text: Careers in Robotics
+        type: video

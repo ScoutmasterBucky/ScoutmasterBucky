@@ -1,4 +1,3 @@
-# Requirement 4 has a * for a footnote but there is no footnote
 - detail: true
   text: |-
       <b>Note: The required hikes for this badge may be used in fulfilling hiking
@@ -13,12 +12,20 @@
             Explain to your counselor the most likely hazards you may encounter
             while hiking, and what you should do to anticipate, help prevent,
             mitigate and respond to these hazards.
+        resources:
+            - href: https://youtu.be/YGQG0C0HBGw
+              text: Surviving the Wild - Essential Hiking Safety Tips
+              type: video
       - requirement: b
         text: |-
             Show that you know first aid for injuries or illnesses that could occur
             while hiking, including hypothermia, frostbite, dehydration, heat
             exhaustion, heatstroke, sunburn, hyperventilation, altitude sickness,
             sprained ankle, blisters, insect stings, tick bites, snakebite.
+        resources:
+            - href: https://youtu.be/nxExCQiWa_U
+              text: Backpacking First Aid (What to Carry + Foot Care, Snakes, Poison Plants, Hypothermia, etc.)
+              type: video
 - requirement: 2
   text: |-
       Do the following:
@@ -33,15 +40,36 @@
         text: |-
             Read aloud or recite the Leave No Trace Seven Principles, and discuss
             why each is important while hiking.
+        resources:
+            - href: https://youtu.be/Rpq01rO9ZR0
+              text: Principles of LNT
+              type: video
+            - href: https://lnt.org/why/7-principles/
+              text: Principles of LNT
+              type: website
       - requirement: c
         text: |-
             Read aloud or recite the Outdoor Code, and give examples of how to
             follow it on a hike.
+        resources:
+            - href: https://youtu.be/65XLNt19C0k
+              text: Meaning of the Outdoor Code
+              type: video
+            - href: https://www.scouting.org/outdoor-programs/outdoor-ethics/outdoor-code/
+              text: The Outdoor Code
+              type: website
 - requirement: 3
   text: |-
       Explain how hiking is an aerobic activity. Develop a plan for conditioning
       yourself for 10-mile hikes, and describe how you will increase your fitness
       for longer hikes.
+  resources:
+      - href: https://youtu.be/XRaT-02V6_Q
+        text: Planning and Training for a Hike
+        type: video
+      - href: https://youtu.be/wrAzopMgriU
+        text: Training for Elevation Gain
+        type: video
 - requirement: 4
   text: |-
       Take four 10-mile hikes and one 20-mile hike, each on a different day, and
@@ -51,20 +79,24 @@
       items for a trail lunch. You may stop for as many short rest periods as
       needed, as well as one meal, during each hike, but not for an extended
       period such as overnight.
+  resources:
+      - href: https://www.hikingproject.com/
+        text: Maps and Ideas for Hikes
+        type: website
   children:
       - requirement: a
         text: |-
             10-mile hike #1
-      - requirement: a
+      - requirement: b
         text: |-
             10-mile hike #2
-      - requirement: a
+      - requirement: c
         text: |-
             10-mile hike #3
-      - requirement: a
+      - requirement: d
         text: |-
             10-mile hike #4
-      - requirement: a
+      - requirement: e
         text: |-
             20-mile hike
 - requirement: 5

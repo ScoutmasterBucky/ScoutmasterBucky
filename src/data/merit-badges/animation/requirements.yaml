@@ -5,9 +5,20 @@
       - requirement: a
         text: |-
             In your own words, describe to your counselor what animation is.
+        resources:
+            - href: https://youtu.be/frP_5YQ0GfY
+              text: What Is Animation?
+              type: video
       - requirement: b
         text: |-
             Discuss with your counselor a brief history of animation.
+        resources:
+            - href: https://youtu.be/5Y6eInX7H-s
+              text: A Brief History of Animation
+              type: video
+            - href: https://youtu.be/mQlAHrQ2-h8
+              text: "Discover Japan's First Anime: Hidden History!"
+              type: video
 - requirement: 2
   text: |-
       <b>Principles of Animation.</b> Choose five of the following 12 principles
@@ -16,6 +27,13 @@
       action and pose to pose, follow through and overlapping action, slow in and
       slow out, arcs, secondary action, timing, exaggeration, solid drawing,
       appeal.
+  resources:
+      - href: https://youtu.be/tYc1yUt0IeA
+        text: The 12 Principles of Animation Explained - The Most Important Rules for Animating
+        type: video
+      - href: https://youtu.be/uDqjIdI4bF4
+        text: 12 Principles of Animation
+        type: video
 - requirement: 3
   text: |-
       <b>Projects.</b> With your counselor's approval, choose two animation
@@ -24,6 +42,16 @@
       - requirement: a
         text: |-
             (a) Technique 1
+        resources:
+            - href: https://youtu.be/QPqap-onmv8
+              text: Pencil2D | Learn 2D Animation Tutorial Overview
+              type: video
+            - href: https://youtu.be/r9XieJu5s8Y
+              text: OpenToonz
+              type: video
+            - href: https://youtu.be/gPurQv4rC1E
+              text: StoryBoarder
+              type: video
         children:
             - requirement: 1
               text: |-
@@ -39,6 +67,16 @@
       - requirement: b
         text: |-
             (b) Technique 2
+        resources:
+            - href: https://youtu.be/Un-BdBSOGKY
+              text: How to Make a Flipbook
+              type: video
+            - href: https://youtu.be/4WLU50bsNOY
+              text: How to Make Flipbook Animation Machine at Home
+              type: video
+            - href: https://flipanim.com/
+              text: 'FlipAnim: How to Make Flipbook Animations Online'
+              type: website
         children:
             - requirement: 1
               text: |-
@@ -59,13 +97,37 @@
             Tour an animation studio or a business where animation is used, either
             in person, via video, or via the internet. Share what you have learned
             with your counselor.
+        resources:
+            - href: https://youtu.be/1KUAO2hfdBE
+              text: What It's Like Working at Disney Animation &amp; Studio Tour
+              type: video
+            - href: https://youtu.be/ru0tQRJ4qKs
+              text: CGI Dreamworks Animation Studio Pipeline
+              type: video
+            - href: https://youtu.be/C3IdS20YzHg
+              text: What It's Like to Work at Pixar Animation Studios
+              type: video
+            - href: https://youtu.be/3NaZsIdXtC4
+              text: "'Inside Out 2' Creatives Give Emily Uribe an Exclusive Pixar Studio Tour"
+              type: video
       - requirement: b
         text: |-
             Discuss with your counselor how animation might be used in the future
             to make your life more enjoyable and productive.
+        resources:
+            - href: https://motioncue.com/present-and-future-of-animation/
+              text: A Deep Dive Into the Present and Future of Animation
+              type: website with videos
+            - href: https://youtu.be/apFxEcMJ5Mg
+              text: 'AI Short Film: The Future of Animation in Cinematic Style'
+              type: video
 - requirement: 5
   text: |-
       <b>Careers.</b> Learn about three career opportunities in animation. Pick
       one and find out about the education, training, and experience required for
       this profession. Discuss your findings with your counselor. Explain why
       this profession might interest you.
+  resources:
+      - href: https://youtu.be/t8zUTh1wYM4?si=-IUsEDT5mck_ttAd
+        text: Animation as a Career Choice
+        type: video
