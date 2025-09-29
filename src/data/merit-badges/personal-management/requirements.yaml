@@ -1,5 +1,6 @@
 # Requirement 6 doesn't have a period, like "6."
 # 7b missing period at end. Added one.
+# Requirement 1c1 put the period within the parentheses, which seems wrong.
 - detail: true
   text: |-
       <b>Note: Always be sure to have proper permission before using the
@@ -37,7 +38,7 @@
             - requirement: 1
               text: |-
                   Determine the quality of the item or service (using consumer
-                  publications or rating systems).
+                  publications or rating systems.)
             - requirement: 2
               text: |-
                   Comparison shop for the item. Find out where you can buy the item
@@ -69,9 +70,10 @@
         text: |-
             Track and record your actual income, expenses, and savings for 13
             consecutive weeks (the same 13-week period for which you budgeted).
-            (You may use the forms provided in this pamphlet, devise your own, or
-            use a computer-generated version.) When complete, present the records
-            showing the results to your counselor.
+            (You may use the forms provided in the <em>Personal Management</em>
+            merit badge pamphlet, devise your own, or use a computer-generated
+            version.) When complete, present the records showing the results to
+            your counselor.
       - requirement: d
         text: |-
             Compare your budget with your actual income and expenses to understand

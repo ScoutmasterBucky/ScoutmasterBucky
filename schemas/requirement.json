@@ -31,8 +31,10 @@
                         "type": "string",
                         "enum": [
                             "pdf",
+                            "podcast",
                             "video",
-                            "website"
+                            "website",
+                            "website with videos"
                         ]
                     }
                 },

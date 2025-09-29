@@ -1,5 +1,6 @@
 # Altered footnote to add a space after *
 # 2025 changed 4a from "in a pet show" to "in some pet show" - pluralized shows
+# 4c simply says to train your pet and should be expanded, perhaps with "and show your counselor", otherwise Scouts are able to just claim they trained their pet without providing proof.
 - requirement: 1
   text: |-
       Present evidence that you have cared for a pet for four months. Get
@@ -7,11 +8,19 @@
       <div class="gap"></div>
       <b>Note:</b> Work done for other merit badges cannot be used for this
       requirement.
+  resources:
+      - href: https://www.youtube.com/watch?v=uh8tDZj9I_A
+        text: Create an Activity Log
+        type: video
 - requirement: 2
   text: |-
       Write in 200 words or more about the care, feeding, and housing of your
       pet. Tell some interesting facts about it. Tell why you have this kind of
       pet. Give local laws, if any, relating to the pet you keep.
+  resources:
+      - href: https://www.youtube.com/watch?v=Pi_slxuGJUg
+        text: 'Understanding Hamsters: Care, Feeding, Housing, and More'
+        type: video
 - requirement: 3
   text: |-
       Show that you have read a book or pamphlet, approved by your counselor,
@@ -24,6 +33,10 @@
       - requirement: a
         text: |-
             Show your pet in a pet show.
+        resources:
+            - href: https://www.youtube.com/watch?v=QABTG6FldFE
+              text: Cat Agility Course at Cat Fanciers Cat Show
+              type: video
       - requirement: b
         text: |-
             Start a friend raising a pet like yours. Help your friend get a good
@@ -31,3 +44,13 @@
       - requirement: c
         text: |-
             Train a pet in three or more tricks or special abilities.
+        resources:
+            - href: https://www.youtube.com/watch?v=IsJ0VdeOJcg%20
+              text: Easiest Way to Teach Your Dog to Roll Over
+              type: video
+            - href: https://www.youtube.com/watch?v=oX7vgQTK9fo
+              text: Train Your Cat to Do Fun Tricks
+              type: video
+            - href: https://www.youtube.com/watch?v=zrDskEObBs8
+              text: How I Trained My Cat to Fetch
+              type: video

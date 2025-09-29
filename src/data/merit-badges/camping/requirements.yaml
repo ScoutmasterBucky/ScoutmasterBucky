@@ -7,42 +7,92 @@
             Explain to your counselor the most likely hazards you may encounter
             while participating in camping activities and what you should do to
             anticipate, help prevent, mitigate, and respond to these hazards.
+        resources:
+            - href: https://youtu.be/JQEcfZ-jBv8
+              text: Camping Safety Tips
+              type: video
+            - href: https://youtu.be/SHZ-prhA7E0
+              text: What to Do in a Bear Encounter (and How to Avoid One)
+              type: video
       - requirement: b
         text: |-
             Discuss with your counselor why it is important to be aware of weather
             conditions before and during your camping activities. Tell how you can
             prepare should the weather turn bad during your campouts.
+        resources:
+            - href: https://youtu.be/HzktQBzrSQw
+              text: 5 Mistakes EVERY New Camper Makes in WET WEATHER
+              type: video
+            - href: https://youtu.be/Ftc3t93thDw
+              text: Cold Weather Camping Tips
+              type: video
       - requirement: c
         text: |-
             Show that you know first aid for and how to prevent injuries or
             illnesses that could occur while camping, including hypothermia,
             frostbite, heat reactions, dehydration, altitude sickness, insect
             stings, tick bites, snakebite, blisters, hyperventilation.
+        resources:
+            - href: https://youtu.be/nxExCQiWa_U
+              text: Backpacking First Aid (What to Carry + Foot Care, Snakes, Poison Plants, Hypothermia, etc)
+              type: video
+            - href: https://youtu.be/DFFzJIy-ak8
+              text: First Aid for Snakebites
+              type: video
+            - href: https://www.weather.gov/safety/heat-illness
+              text: Types of Heat Reactions
+              type: website
+            - href: https://www.webmd.com/allergies/ss/slideshow-bad-bugs
+              text: Bad Bugs and Their Bites
+              type: website
 - requirement: 2
   text: |-
       Learn the Leave No Trace Seven Principles and the Outdoor Code, and explain
       what they mean. Write a personal and group plan for implementing these
       principles on your next outing.
+  resources:
+      - href: https://youtu.be/Rpq01rO9ZR0
+        text: Principles of LNT
+        type: video
+      - href: https://www.scouting.org/outdoor-programs/outdoor-ethics/outdoor-code/
+        text: The Outdoor Code
+        type: website
+      - href: https://youtu.be/65XLNt19C0k
+        text: Meaning of the Outdoor Code
+        type: video
 - requirement: 3
   text: |-
       Make a written plan for an overnight trek and show how to get to your
       camping spot by using a topographical map and one of the following:
+  resources:
+      - href: https://www.youtube.com/watch?v=CoVcRxza8nI&t=45s
+        text: How to Read a Topographic Map
+        type: video
+      - href: https://filestore.scouting.org/filestore/boyscouts/pdf/512-505-2016-Scout-Planning-Worksheet.pdf
+        text: Scouting America Planning Worksheet
+        type: pdf
   children:
       - requirement: a
         text: |-
             Compass
+        resources:
+            - href: https://youtu.be/0cF0ovA3FtY
+              text: How to Use a Compass
+              type: video
       - requirement: b
         text: |-
             GPS receiver
+        resources:
+            - href: https://youtu.be/mK3pOU_x4jQ
+              text: Using a GPS with a Map and Compass
+              type: video
       - requirement: c
         text: |-
             Smartphone with a GPS app
-      - detail: true
-        text: |-
-            <b>Note:</b> To complete this requirement, you may use the <a href="/documents/scout-planning-worksheet.pdf">Scout Planning Worksheet</a>
-            <div class="gap"></div>
-            If a GPS-equipped device is not available, explain how to use one to
-            get to your camping spot.
+        resources:
+            - href: https://www.cleverhiker.com/backpacking/how-to-use-your-phone-as-a-gps-device-for-backpacking/
+              text: How to Use a Smartphone as a GPS
+              type: website
 - requirement: 4
   text: |-
       Do the following:
@@ -51,11 +101,19 @@
         text: |-
             Make a duty roster showing how your patrol is organized for an actual
             overnight campout. List assignments for each member.
+        resources:
+            - href: https://troopleader.scouting.org/wp-content/uploads/sites/5/2018/03/Fillable-Duty-Roster.pdf
+              text: Patrol Duty Roster
+              type: website
       - requirement: b
         text: |-
             Help a Scout patrol or a Webelos Scout unit in your area prepare for an
             actual campout, including creating the duty roster, menu planning,
             equipment needs, general planning, and setting up camp.
+        resources:
+            - href: https://troopleader.scouting.org/general-troop-information/camping-equipment/
+              text: Camping Trip Planning
+              type: website
 - requirement: 5
   text: |-
       Do the following:
@@ -64,18 +122,49 @@
         text: |-
             Prepare a list of clothing you would need for overnight campouts in
             both warm and cold weather. Explain the term "layering."
+        resources:
+            - href: https://scoutlife.org/outdoors/outdoorarticles/6981/checklist-for-a-basic-cold-weather-outing/
+              text: Cold Weather Gear
+              type: website
+            - href: https://scoutlife.org/outdoors/outdoorarticles/6992/checklist-for-a-basic-warm-weather-outing/
+              text: Warm Weather Gear
+              type: website
+            - href: https://youtu.be/W8AjrLz_I4o
+              text: Basics of Layering
+              type: video
       - requirement: b
         text: |-
             Discuss footwear for different kinds of weather and how the right
             footwear is important for protecting your feet.
+        resources:
+            - href: https://scoutsmarts.com/scouting-footwear/
+              text: Types of Footwear
+              type: website
       - requirement: c
         text: |-
             Explain the proper care and storage of camping equipment (clothing,
             footwear, bedding).
+        resources:
+            - href: https://www.rei.com/learn/expert-advice/end-of-summer-gear-care.html
+              text: How to Clean and Store Camping Gear
+              type: website
       - requirement: d
         text: |-
             List the outdoor essentials necessary for any campout, and explain why
             each item is needed.
+        resources:
+            - href: https://youtu.be/t_N1hZkB3HI
+              text: '10 Essentials: ScoutsBSA'
+              type: video
+            - href: https://scoutingmagazine.org/2013/02/the-10-essentials/
+              text: 10 Essentials for Scout Camping
+              type: website
+            - href: https://scoutlife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/
+              text: The 10 Scout Basic Outdoor Essentials
+              type: website
+            - href: https://scoutsmarts.com/scout-camping-packing-list/
+              text: "The Camping Packing List: A Scout's Trek Gear Checklist"
+              type: website
       - requirement: e
         text: |-
             Present yourself to your Scoutmaster with your pack for inspection. Be
@@ -89,23 +178,61 @@
             Describe the features of four types of tents, when and where they could
             be used, and how to care for tents. Working with another Scout, pitch a
             tent.
+        resources:
+            - href: https://youtu.be/VB7YN3s1oOg
+              text: Types of Tents
+              type: video
+            - href: https://blog.scoutingmagazine.org/2020/10/15/how-to-pick-your-perfect-tent/
+              text: Choosing a Tent
+              type: website
       - requirement: b
         text: |-
             Discuss the importance of camp sanitation and tell why water treatment
             is essential. Then demonstrate two ways to treat water.
+        resources:
+            - href: https://youtu.be/tD-Ya2SQk3k
+              text: Types of Water Purification
+              type: video
+            - href: https://youtu.be/4tNLdcjBlQc
+              text: How to Wash Dishes at Camp
+              type: video
       - requirement: c
         text: |-
             Describe the factors to be considered in deciding where to pitch your
             tent.
+        resources:
+            - href: https://youtu.be/dfpE0x6xTPU
+              text: How to Pick a Campsite
+              type: video
+            - href: https://youtu.be/WmtgLjC_9yw
+              text: How to Choose a GREAT Campsite *AVOID THESE MISTAKES*
+              type: video
       - requirement: d
         text: |-
             Tell the difference between internal- and external-frame packs.
             Discuss the advantages and disadvantages of each.
+        resources:
+            - href: https://youtu.be/LI1va-97f4w
+              text: How to Choose a Backpack
+              type: video
       - requirement: e
         text: |-
             Discuss the types of sleeping bags and what kind would be suitable for
             different conditions. Explain the proper care of your sleeping bag and
             how to keep it dry. Make a comfortable ground bed.
+        resources:
+            - href: https://youtu.be/yNaUoBUHKPg
+              text: Choosing a Sleeping Bag
+              type: video
+            - href: https://youtu.be/CbxAW45dUPY
+              text: Backpacking Bags
+              type: video
+            - href: https://youtu.be/9qOpq5FvKR4
+              text: Caring for a Sleeping Bag
+              type: video
+            - href: https://youtu.be/3F-7idvPsEU
+              text: Cleaning a Sleeping Bag
+              type: video
 - requirement: 7
   text: |-
       Prepare for an overnight campout with your patrol by doing the following:
@@ -119,6 +246,10 @@
             proper carrying. Show that your pack is right for quickly getting what
             is needed first, and that it has been assembled properly for comfort,
             weight, balance, size, and neatness.
+        resources:
+            - href: https://youtu.be/HB7ZOjnnFS8
+              text: How to Pack a Backpack for Easy Access and Comfort
+              type: video
 - requirement: 8
   text: |-
       Do the following:
@@ -130,9 +261,17 @@
             - requirement: 1
               text: |-
                   Using a propane or butane/propane stove
+              resources:
+                  - href: https://youtu.be/6il0aDjwSGI
+                    text: How to Use a Propane Stove
+                    type: video
             - requirement: 2
               text: |-
                   Using a liquid fuel stove
+              resources:
+                  - href: https://youtu.be/2XRqdVIqimY
+                    text: How to Use a Liquid Fuel Stove
+                    type: video
             - requirement: 3
               text: |-
                   Proper storage of extra fuel.
@@ -140,6 +279,10 @@
         text: |-
             Discuss the advantages and disadvantages of different types of
             lightweight cooking stoves.
+        resources:
+            - href: https://youtu.be/FCDURxu2L3Y
+              text: Canister vs Liquid Fuel Stoves
+              type: video
       - requirement: c
         text: |-
             Prepare a camp menu. Explain how the menu would differ from a menu for
@@ -147,12 +290,23 @@
             patrol. Plan two breakfasts, three lunches, and two suppers. Discuss
             how to protect your food against bad weather, animals, and
             contamination.
+        resources:
+            - href: https://youtu.be/7YAiuAuo49Y
+              text: 'Food Storage &amp; Protection: Techniques for Bears &amp; Mini-Bears'
+              type: video
+            - href: https://troop516.org/resources/3/PatrolMenuPlanner.pdf
+              text: Patrol Menu Planner
+              type: pdf
       - requirement: d
         text: |-
             While camping in the outdoors, cook at least one breakfast, one lunch,
             and one dinner for your patrol from the meals you have planned for
-            requirement 8c. At least one of those meals must be a trail meal
+            requirement 8(c). At least one of those meals must be a trail meal
             requiring the use of a lightweight stove.
+        resources:
+            - href: https://www.boyscouttrail.com/boy-scouts/boy-scout-recipes.asp
+              text: Camp Menu Ideas
+              type: website
 - requirement: 9
   text: |-
       Show experience in camping by doing the following:
@@ -177,27 +331,55 @@
             - requirement: 1
               text: |-
                   Hike up a mountain, gaining at least 1,000 vertical feet.
+              resources:
+                  - href: https://youtu.be/wrAzopMgriU
+                    text: Training for Elevation Gain
+                    type: video
             - requirement: 2
               text: |-
                   Backpack, snowshoe, or cross-country ski for at least 4 miles.
+              resources:
+                  - href: https://youtu.be/bIylS8VFGcg
+                    text: Learn to Snowshoe
+                    type: video
             - requirement: 3
               text: |-
                   Take a bike trip of at least 15 miles or at least four hours.
+              resources:
+                  - href: https://youtu.be/eC-XDuniSco
+                    text: What I Wish I Knew Before Bikepacking
+                    type: video
             - requirement: 4
               text: |-
                   Take a nonmotorized trip on the water of at least four hours or 5
                   miles.
+              resources:
+                  - href: https://youtu.be/F8vjVVCf9YI
+                    text: Canoeing With LNT
+                    type: video
             - requirement: 5
               text: |-
                   Plan and carry out an overnight snow camping experience.
+              resources:
+                  - href: https://youtu.be/ReanLLCCKIc
+                    text: Winter Camping Tips
+                    type: video
             - requirement: 6
               text: |-
                   Rappel down a rappel route of 30 feet or more.
+              resources:
+                  - href: https://youtu.be/7U6tdEevJgs
+                    text: How to Rapel
+                    type: video
       - requirement: c
         text: |-
             On any of these camping experiences, perform a conservation project
             approved by the landowner or land managing agency. This can be done
             alone or with others.
+        resources:
+            - href: https://www.scouting.org/wp-content/uploads/2019/01/Conservation-Project-Planning-Checklist.pdf
+              text: Project Planning Checklist
+              type: pdf
 - requirement: 10
   text: |-
       Discuss how the things you did to earn this badge have taught you about

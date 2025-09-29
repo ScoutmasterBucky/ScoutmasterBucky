@@ -1,54 +1,143 @@
+# Title for 3g's third resource should be plural - "... Commemorative Stamp" -> "... Commemorative Stamps"
+# Link for 5c's resource should not have a period at the end
 - requirement: 1
   text: |-
       Do the following:
+  resources:
+      - href: https://youtu.be/Bu6vw5qlO3M
+        text: Stamp Collecting
+        type: video
   children:
       - requirement: a
         text: |-
             Discuss how you can better understand people, places, institutions,
             history, and geography as a result of collecting stamps.
+        resources:
+            - href: https://youtu.be/mp07V-_-lc0
+              text: Stamp Collecting Is for Old People (Just Kidding)
+              type: video
+            - href: https://youtu.be/FRMsUTbLK4U
+              text: 'Stamps: A World of Fun'
+              type: video
       - requirement: b
         text: |-
             Briefly describe some aspects of the history, growth, and development
             of the United States postal system. Tell how it is different from
             postal systems in other countries.
+        resources:
+            - href: https://youtu.be/aZ9j5t25CaU
+              text: A Chaotic History of the US Postal Service | Illustrated U.S. History
+              type: video
+            - href: https://youtu.be/U8ioOqupzmo
+              text: History of US Mail - From the Beginning
+              type: video
 - requirement: 2
   text: |-
       Define topical stamp collecting. Name and describe three other types of
       stamp collections.
+  resources:
+      - href: https://stamps.org/learn/getting-started/what-to-collect
+        text: What to Collect?
+        type: website
+      - href: https://www.linns.com/content/collector-resources/collecting-basics/topical-stamp-collecting
+        text: Topical Stamp Collecting
+        type: website
 - requirement: 3
   text: |-
       Show at least ONE example of each of the following:
+  resources:
+      - href: https://youtu.be/Z4iqhT2yfN8
+        text: Beginner's Guide to Stamp Collecting - Key Terms
+        type: video
   children:
       - requirement: a
         text: |-
             Perforated and imperforate stamps
+        resources:
+            - href: https://youtu.be/H1xxRY_ysR8
+              text: American Perforate and Imperforate Stamps
+              type: video
+            - href: https://youtu.be/FFr1VyNHG6g
+              text: A Quick History of US Imperforate Stamps
+              type: video
       - requirement: b
         text: |-
             Mint and used stamps
+        resources:
+            - href: https://www.linns.com/news/postal-updates-page/stamp-collecting-basics/2014/jul/the-characteristics-of-used-stamps-can-affect-how-you-collect.html
+              text: The Characteristics of Used Stamps Can Affect How You Collect
+              type: website
       - requirement: c
         text: |-
-            Sheet-booklet and coil stamps
+            Sheet, booklet, and coil stamps
+        resources:
+            - href: https://youtu.be/W-ZrlWDJM_s
+              text: America's First Airmail Coil Stamp
+              type: video
       - requirement: d
         text: |-
             Numbers on plate block, booklet, coil, or marginal markings
+        resources:
+            - href: https://youtu.be/q16VF0GoEeM
+              text: First US Commemorative Stamp Booklet
+              type: video
       - requirement: e
         text: |-
             Overprint and surcharge
+        resources:
+            - href: https://youtube.com/shorts/_aGpp0N9XaM
+              text: Precancels, Overprints, and Occupations
+              type: video
+            - href: https://youtube.com/shorts/nKd9o-eGp20
+              text: Overprints on Stamps
+              type: video
       - requirement: f
         text: |-
             Metered mail
+        resources:
+            - href: https://youtu.be/epE2ugDNbGE
+              text: What is Metered Mail?
+              type: video
+            - href: https://www.meterstampsociety.com/basics/
+              text: Postage Meter Stamp Basics
+              type: website
       - requirement: g
         text: |-
             Definitive, commemorative, semipostal, and airmail stamps
+        resources:
+            - href: https://youtu.be/qVZm1aZlcHI
+              text: A Crash Course on U.S. Stamp Categories
+              type: video
+            - href: https://youtu.be/_4Gu-yHkFuw
+              text: A Quick History of US Definitive Stamps
+              type: video
+            - href: https://youtu.be/Djn6erAUtfM
+              text: A Quick History of US Commemorative Stamps
+              type: video
+            - href: https://youtu.be/yrc5yk1sbOU
+              text: A Quick History of US Airmail Stamps
+              type: video
       - requirement: h
         text: |-
             Cancellation and postmark
+        resources:
+            - href: https://youtu.be/9i06SxrZ0tQ
+              text: Postmarks and Cancels
+              type: video
       - requirement: i
         text: |-
             First day cover
+        resources:
+            - href: https://youtu.be/7IHlZxJouGc
+              text: Collecting Stamps On Cover
+              type: video
       - requirement: j
         text: |-
             Postal stationery (aerogramme, stamped envelope, and postal card).
+        resources:
+            - href: https://youtube.com/shorts/vdXeCjAFtng
+              text: 4 Helpful Stamp Collecting Tips for Beginners
+              type: video
 - requirement: 4
   text: |-
       Do the following:
@@ -58,49 +147,109 @@
             Demonstrate the use of ONE standard catalog for several different stamp
             issues. Explain why catalog value can vary from the corresponding
             purchase price.
+        resources:
+            - href: https://youtu.be/xlmqU1LOoAw
+              text: What is Grading In Stamp Collecting?
+              type: video
+            - href: https://youtu.be/fjnm2Val5UQ
+              text: 'Stamp Collecting Basics - The Scott Catalogue: More Than Just Stamp Values (Pt 1)'
+              type: video
+            - href: https://youtu.be/_-m6ctmETJ8
+              text: 'Stamp Collecting Basics - The Scott Catalogue: Reading Stamp Listings (Pt 2)'
+              type: video
+            - href: https://www.amosadvantage.com/stamp-guides/understanding-the-scott-catalogue-listings
+              text: Scott Stamp catalog
+              type: website
       - requirement: b
         text: |-
             Explain the meaning of the term <em>condition</em> as used to describe
             a stamp. Show examples that illustrate the different factors that
             affect a stamp's value.
+        resources:
+            - href: https://youtu.be/fjnm2Val5UQ
+              text: Stamp Collecting Basics - The Scott Catalogue
+              type: video
 - requirement: 5
   text: |-
       Demonstrate the use of at least THREE of the following stamp collector's
-      tool:
+      tools:
   children:
       - requirement: a
         text: |-
             Stamp tongs
+        resources:
+            - href: https://www.youtube.com/watch?v=d-Id1hb4F3I.
+              text: Stamp Collecting Tools Ep3 - Top 3 Everyday Use Tools for the Philatelist
+              type: video
+            - href: https://youtu.be/NWD7JyRKXj0
+              text: Stamp Collecting Tools - Talking Tongs - Best Practices &amp; Features of Tongs for Philatelic Use
+              type: video
       - requirement: b
         text: |-
-            Water and Tray
+            Water and tray
+        resources:
+            - href: https://youtu.be/xbdFwdo7gW8
+              text: How to Soak Postage Stamps off Paper
+              type: video
       - requirement: c
         text: |-
             Magnifiers
+        resources:
+            - href: https://www.youtube.com/watch?v=d-Id1hb4F3I
+              text: Stamp Collecting Tools Ep3 - Top 3 Everyday Use Tools for the Philatelist
+              type: video
       - requirement: d
         text: |-
             Hinges and stamp mounts
+        resources:
+            - href: https://youtu.be/_HT-sU7NHdI
+              text: How to Trim Self-Adhesive Stamps for Mounts
+              type: video
       - requirement: e
         text: |-
             Perforation gauge
+        resources:
+            - href: https://youtu.be/4hsQRQnEKqw
+              text: How to Use a Perforation Gauge
+              type: video
       - requirement: f
         text: |-
             Glassine envelopes and cover sleeves
+        resources:
+            - href: https://www.linns.com/insights/even-stamp-collectors-need-the-right-tools-.html
+              text: Even Stamp Collectors Need the Right Tools
+              type: video
       - requirement: g
         text: |-
             Watermark fluid.
+        resources:
+            - href: https://youtu.be/Ury0mawE7m4
+              text: How to Find Watermarks on Stamps
+              type: video
 - requirement: 6
   text: |-
       Do the following:
+  resources:
+      - href: https://www.youtube.com/watch?v=WvQGoi62i9U
+        text: How Do You Mount Your Stamps in an Album
+        type: video
   children:
       - requirement: a
         text: |-
             Show a stamp album and how to mount stamps with or without hinges.
             Show at least ONE page that displays several stamps.
+        resources:
+            - href: https://youtu.be/_HT-sU7NHdI
+              text: How to Trim Self-Adhesive Stamps for Mounts
+              type: video
       - requirement: b
         text: |-
             Discuss at least THREE ways you can help to preserve stamps, covers,
             and albums in first-class condition.
+        resources:
+            - href: https://youtu.be/i6sIwSc3jYs
+              text: 3 Attractive Ways to Store and Display Your Stamp Collection
+              type: video
 - requirement: 7
   text: |-
       Do TWO of the following:
@@ -108,31 +257,71 @@
       - requirement: a
         text: |-
             Design a stamp, cancellation, or cachet.
+        resources:
+            - href: https://youtu.be/sz84x5n22wY
+              text: Creativity in Cachets
+              type: video
+            - href: https://youtu.be/GW5b6RJpLCg
+              text: Pictorial Postmarks
+              type: video
+            - href: https://fws.gov/sites/default/files/documents/duck-stamp-what-makes-a-good-stamp-design.pdf
+              text: What Makes a Good Stamp Design
+              type: pdf
       - requirement: b
         text: |-
             Visit a post office, stamp club, or stamp show with an experienced
             collector. Explain what you saw and learned.
+        resources:
+            - href: https://youtu.be/5bImEro1G30
+              text: Visiting a Stamp Show
+              type: video
+            - href: https://youtu.be/Gtpcz8eCdSU
+              text: The Great American Stamp Show 2024 Wrap Up!
+              type: video
+            - href: https://youtu.be/867c5dwUzp0
+              text: The Great American Stamp Show 2025
+              type: video
       - requirement: c
         text: |-
             Write a review of an interesting article from a stamp newspaper,
-            magazine, book or website (with your parent or guardian's permission).
+            magazine, book, or website (with your parent or guardian's permission).
+        resources:
+            - href: https://www.linns.com/
+              text: Linn's Stamp News
+              type: website
       - requirement: d
         text: |-
             Research and report on a famous stamp-related personality or the
             history behind a particular stamp.
+        resources:
+            - href: https://youtu.be/v-9uGTbE49w
+              text: History through Cachets
+              type: video
       - requirement: e
         text: |-
-            Describe the steps taken to produce a stamp. include the methods of
+            Describe the steps taken to produce a stamp. Include the methods of
             printing, types of paper, perforation styles, and how they are gummed.
+        resources:
+            - href: https://youtu.be/G7iAscgzEp4
+              text: Stamp Production
+              type: video
       - requirement: f
         text: |-
             Prepare a two- to three-page display involving stamps. Using ingenuity,
             as well as clippings, drawings, etc., tell a story about the stamps ,
             and how they relate to history, geography, or a favorite topic of
             yours.
+        resources:
+            - href: https://www.linns.com/insights/have-lasting-fun--how-to-create-an-exhibit-and-enter-it-into-a-s.html
+              text: 'Have Lasting Fun: How to Create an Exhibit and Enter It Into a Show'
+              type: website
 - requirement: 8
   text: |-
       Mount and show, in a purchased or homemade album, ONE of the following:
+  resources:
+      - href: https://youtu.be/5N18BN6HZ4I
+        text: How to Make Your Own Stamp Album Pages!
+        type: video
   children:
       - requirement: a
         text: |-

@@ -15,10 +15,10 @@ const parentCount = parents ?? 0;
                 <div>
                     <div class="text v-gap" v-html="requirement.text"></div>
                     <div v-if="requirement.resources" class="resources v-gap">
-                        <div v-if="requirement.resources.length === 1">
+                        <div v-if="requirement.resources.length === 1" class="resource-heading">
                             Resource:
                         </div>
-                        <div v-else>Resources:</div>
+                        <div v-else class="resource-heading">Resources:</div>
                         <ul>
                             <li v-for="item of requirement.resources">
                                 <a :href="item.href" target="_blank" v-html="item.text"></a>
@@ -80,5 +80,9 @@ const parentCount = parents ?? 0;
 
 .resources {
     width: 100%;
+}
+
+.resource-heading {
+    font-style: italic;
 }
 </style>
