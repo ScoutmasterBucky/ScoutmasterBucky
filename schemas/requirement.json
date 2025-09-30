@@ -39,7 +39,7 @@
                     }
                 },
                 "additionalProperties": false,
-                "required": ["href", "text", "type"]
+                "required": ["text"]
             },
             "minItems": 1
         },

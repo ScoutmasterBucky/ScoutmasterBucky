@@ -15,14 +15,24 @@ const parentCount = parents ?? 0;
                 <div>
                     <div class="text v-gap" v-html="requirement.text"></div>
                     <div v-if="requirement.resources" class="resources v-gap">
-                        <div v-if="requirement.resources.length === 1" class="resource-heading">
+                        <div
+                            v-if="requirement.resources.length === 1"
+                            class="resource-heading"
+                        >
                             Resource:
                         </div>
                         <div v-else class="resource-heading">Resources:</div>
                         <ul>
                             <li v-for="item of requirement.resources">
-                                <a :href="item.href" target="_blank" v-html="item.text"></a>
-                                ({{ item.type }})
+                                <span v-if="item.href"
+                                    ><a
+                                        :href="item.href"
+                                        target="_blank"
+                                        v-html="item.text"
+                                    ></a>
+                                    ({{ item.type }})</span
+                                >
+                                <span v-else v-html="item.text"></span>
                             </li>
                         </ul>
                     </div>
