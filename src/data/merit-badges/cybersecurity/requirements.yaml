@@ -1,6 +1,6 @@
 # Resource URL for 3b was blank. Updated to https://www.youtube.com/watch?v=kPPFNrlN3zo
 # Requirement 5c8 had resources as text embedded in the requirement. Fixed.
-# Requirements 5, 6, 6c2 all have the "How to Avoid Strained Eyes" videos when not applicable. Removed.
+# Requirement 6a resource Khan Academy link was truncated. Kept original.
 - requirement: 1
   text: |-
       <b>Safety.</b> Do the following:
@@ -40,9 +40,6 @@
             - href: https://www.youtube.com/watch?v=FDpmRs0L_a8
               text: Doctors Share How to Prevent Smartphone Related Injuries Like "Text Neck" and "Smartphone Pinky"
               type: video
-            - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-              text: Protecting Your Digital Footprint - Keys to Cybersecurity
-              type: website
 - requirement: 2
   text: |-
       <b>Ethics.</b> Do the following:
@@ -92,9 +89,6 @@
             - href: https://www.futureoftech.org/cybersecurity/1-what-is-cybersecurity/#section-1
               text: "What Is Cybersecurity? Why Do We Need Cybersecurity?: CompTIA's Future of Tech"
               type: website
-            - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-              text: Protecting Your Digital Footprint - Keys to Cybersecurity
-              type: website
             - href: https://www.cyberdefensemagazine.com/cybersecurity-in-critical-infrastructure-protecting-power-grids-and-smart-grids/
               text: 'Cybersecurity in Critical Infrastructure: Protecting Power Grids and Smart Grids—Cyber Defense Magazine'
               type: website
@@ -142,23 +136,23 @@
             - href: https://www.youtube.com/watch?v=VJFaO2-zsCU
               text: Every Type of Computer Virus Explained in 8 Minutes
               type: video
-            - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-              text: Protecting Your Digital Footprint - Keys to Cybersecurity
-              type: website
+            - href: https://youtu.be/DF8Ka8Jh0BQ
+              text: 5 of the Worst Computer Viruses Ever
+              type: video
       - requirement: c
         text: |-
             Identify two risks of using public Wi-Fi and describe how to reduce
             or avoid those risks.
         resources:
-            - href: https://www.youtube.com/watch?v=bdVkkRmJEeM
+            - href: https://youtu.be/bdVkkRmJEeM
               text: Is Public Wi-Fi Safe?
               type: video
             - href: https://cyber.org/find-curricula/connected-devices-keys-cybersecurity
               text: Connected Devices - Keys to Cybersecurity
               type: website
-            - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-              text: Protecting Your Digital Footprint - Keys to Cybersecurity
-              type: website
+            - href: https://youtu.be/1OVTmrXGHyU
+              text: Hacker Demonstrates Security Risks Of Free Public Wi-Fi
+              type: video
       - requirement: d
         text: |-
             Describe what spoofing and phishing are, and how to recognize a
@@ -166,13 +160,13 @@
             you should take to protect yourself and others if you come across one.
         resources:
             - href: https://cyber.org/find-curricula/online-threats-and-vulnerabilities-keys-cybersecurity
-              text: Online Threats and Vulnerabilities&amp;emdash;Keys to Cybersecurity
+              text: Online Threats and Vulnerabilities - Keys to Cybersecurity
               type: website
-            - href: https://www.youtube.com/watch?v=YfiM8rXg3ug
+            - href: https://youtu.be/YfiM8rXg3ug
               text: 'How Not to Get Hacked: Phishing'
               type: video
-            - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-              text: Protecting Your Digital Footprint - Keys to Cybersecurity
+            - href: https://www.cisa.gov/secure-our-world/recognize-and-report-phishing
+              text: Recognize and Report Phishing | CISA
               type: website
       - requirement: e
         text: |-
@@ -186,13 +180,13 @@
                   available) and what the consequences are or might be to the victim.
               resources:
                   - href: https://savvycyberkids.org/tech-talk/featured-conversation-starters/
-                    text: Featured Conversation Starters
+                    text: Featured Conversation Starters - Savvy Cyber Kids
                     type: website
                   - href: https://krebsonsecurity.com/
-                    text: Krebs on Security&amp;emdash;In-Depth Security News and Investigation
+                    text: Krebs on Security - In-Depth Security News and Investigation
                     type: website
-                  - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-                    text: Protecting Your Digital Footprint - Keys to Cybersecurity
+                  - href: https://www.wired.com/category/security/
+                    text: 'Security News: Cybersecurity, Hacks, Privacy, National Security | WIRED'
                     type: website
                   - href: https://www.securityweek.com/
                     text: Cybersecurity News, Insights and Analysis | SecurityWeek
@@ -204,15 +198,13 @@
                   cybersecurity topics were depicted and how realistic you think it was.
               resources:
                   - text: |-
-                        Suggested Movies: WarGames (1983, PG), Tron (1982, PG), Code 2600 (2011
-                        Documentary, PG), Superman III (1983, PG), Scooby-Doo and the Cyber
-                        Chase (2001, Not Rated), Cyber War 2022 (2023 Documentary, G), Hackers
-                        (1995, PG-13), The Net (1995, PG-13), Sneakers (1992, PG-13), Mission:
-                        Impossible (1996, PG-13), Breach (2007, PG-13), Skyfall (2012, PG-13),
-                        The Imitation Game (2014, PG-13), Terms and Conditions May Apply (2013
-                        Documentary, Not Rated), Cyber War (2016 Documentary, Not Rated), Zero
-                        Days (2016 Documentary, PG-13), and The Social Dilemma (2020
-                        Documentary, PG-13).
+                        Suggested Movies: WarGames (1983, PG), Tron (1982, PG),
+                        Code 2600 (2011 Documentary, PG), Superman III (1983,
+                        PG), Scooby-Doo and the Cyber Chase (2001, Not Rated),
+                        Cyber War 2022 (2023 Documentary, G), Hackers (1995,
+                        PG-13), Terms and Conditions May Apply (2013
+                        Documentary, Not Rated), Cyber War (2016 Documentary,
+                        Not Rated), and Zero Days (2016 Documentary, PG-13).
                   - text: |-
                         Suggested Books: The Cuckoo's Egg by Cliff Stoll, Tom Clancy's Net Force
                         Explorers YA series, The Enigma Girls: How Ten Teenagers Broke Ciphers,
@@ -241,14 +233,14 @@
             network, such as access controls, antivirus software, firewall,
             intrusion detection/prevention systems, and Virtual Private Network.
         resources:
-            - href: https://www.youtube.com/watch?v=bPVaOlJ6ln0&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=32
-              text: 'Cybersecurity: Crash Course Computer Science #31'
+            - href: https://youtu.be/bPVaOlJ6ln0
+              text: 'Cybersecurity: Crash Course Computer Science #31 - YouTube'
               type: video
             - href: https://www.cisa.gov/news-events/news/understanding-firewalls-home-and-small-office-use
               text: Understanding Firewalls for Home and Small Office Use | CISA
               type: website
-            - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-              text: Protecting Your Digital Footprint - Keys to Cybersecurity
+            - href: https://www.futureoftech.org/cybersecurity/3-technologies-in-cybersecurity/
+              text: "Technologies in Cybersecurity: CompTIA's Future of Tech"
               type: website
       - requirement: b
         text: |-
@@ -293,7 +285,7 @@
                     text: 'How Not to Get Hacked: Passwords'
                     type: video
                   - href: https://cyber.org/find-curricula/defense-depth-keys-cybersecurity
-                    text: Defense in Depth—Keys to Cybersecurity | Cyber.org
+                    text: Defense in Depth — Keys to Cybersecurity | Cyber.org
                     type: website
                   - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
                     text: Protecting Your Digital Footprint - Keys to Cybersecurity
@@ -301,7 +293,7 @@
                   - href: https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:online-data-security/xcae6f4a7ff015e7d:user-authentication-methods/a/strong-passwords
                     text: Strong Passwords | Khan Academy
                     type: website
-                  - href: https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:online-data-security/xcae6f4a7ff015e7d:user-authentication-methods/a/strong-passwords
+                  - href: https://www.cisa.gov/secure-our-world/use-strong-passwords
                     text: Use Strong Passwords | CISA
                     type: website
             - requirement: 2
@@ -311,13 +303,16 @@
                   MFA function.
               resources:
                   - href: https://cyber.org/find-curricula/defense-depth-keys-cybersecurity
-                    text: Defense in Depth—Keys to Cybersecurity | Cyber.org
+                    text: Defense in Depth — Keys to Cybersecurity | Cyber.org
                     type: website
-                  - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-                    text: Protecting Your Digital Footprint - Keys to Cybersecurity
+                  - href: https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:online-data-security/xcae6f4a7ff015e7d:user-authentication-methods/a/multi-factor-authentication
+                    text: Multi-factor Authentication | Khan Academy
                     type: website
                   - href: https://www.cisa.gov/secure-our-world/turn-mfa
                     text: Turn On MFA | CISA
+                    type: website
+                  - href: https://www.cisa.gov/MFA
+                    text: More Than a Password | CISA
                     type: website
             - requirement: 3
               text: |-
@@ -335,22 +330,22 @@
                     text: Understanding Anti-Virus Software | CISA
                     type: website
                   - href: https://www.cisa.gov/resources-tools/training/ensure-your-os-antivirus-and-anti-malware-protections-are-active
-                    text: Ensure Your OS Antivirus and Anti-Malware Protections Are Active | CISA
+                    text: Ensure Your OS Antivirus and Anti-Malware Protections are Active | CISA
                     type: website
-                  - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-                    text: Protecting Your Digital Footprint - Keys to Cybersecurity
+                  - href: https://support.microsoft.com/en-us/topic/how-to-start-a-scan-for-viruses-or-malware-in-microsoft-defender-e98663f1-8827-4abe-b9ce-fb2664201f29#id0edh=windows
+                    text: How to Start a Scan for Viruses or Malware in Microsoft Defender - Microsoft Support
                     type: website
                   - href: https://www.solveyourtech.com/how-to-run-a-virus-scan-on-windows-11-a-step-by-step-guide/
                     text: 'How to Run a Virus Scan on Windows 11: A Step-by-Step Guide - Solve Your Tech'
                     type: website
                   - href: https://www.androidauthority.com/scan-android-viruses-3208378/
-                    text: How to Scan an Android Phone for Malware
+                    text: How to Scan an Android Phone for Malware - Android Authority
                     type: website
                   - href: https://www.malwarebytes.com/solutions/virus-scanner
                     text: MalwareBytes Free Virus Scanner
                     type: website
                   - href: https://www.trendmicro.com/en_us/forHome/products/housecall.html
-                    text: Free Online Virus Scan | Trend Micro HouseCall
+                    text: Free Online Virus Scan | Trend Micro HouseCall | Trend Micro (US)
                     type: website
             - requirement: 5
               text: |-
@@ -358,21 +353,21 @@
                   processes are running on your computer. Discuss with your counselor what
                   you see and what surprises you.
               resources:
-                  - href: https://www.youtube.com/watch?v=s76tertusoU
+                  - href: https://youtu.be/s76tertusoU
                     text: How to View All Running Processes in Windows 10 &amp; 11
                     type: video
-                  - href: https://www.youtube.com/watch?v=7pNwyPDHqmw
+                  - href: https://youtu.be/7pNwyPDHqmw
                     text: How to Tell What's Running in the Background on Your PC
                     type: video
-                  - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-                    text: Protecting Your Digital Footprint - Keys to Cybersecurity
+                  - href: https://support.apple.com/en-bw/guide/activity-monitor/actmntr1001/mac
+                    text: View Information About Mac Processes in Activity Monitor - Apple Support (Bw)
                     type: website
-                  - href: https://www.youtube.com/watch?v=Mg0vwI2ZmMA
+                  - href: https://youtu.be/Mg0vwI2ZmMA
                     text: Kill Apps and Processes on Chromebook Using the Task Manager
                     type: video
                   - href: https://helpdeskgeek.com/how-to-access-your-chromebooks-task-manager/
                     text: How to Access Your Chromebook's Task Manager
-                    type: website
+                    type: video
             - requirement: 6
               text: |-
                   Use a command line interface to view your computer's open network
@@ -384,8 +379,8 @@
                   - href: https://www.lifewire.com/using-netstat-command-on-mac-4176069
                     text: How to Use the Netstat Command on Mac
                     type: website
-                  - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-                    text: Protecting Your Digital Footprint - Keys to Cybersecurity
+                  - href: https://opensource.com/article/22/2/linux-network-security-netstat
+                    text: "View Your Linux Server's Network Connections With Netstat | Opensource.com"
                     type: website
             - requirement: 7
               text: |-
@@ -393,22 +388,22 @@
                   computer or the cloud.
               resources:
                   - text: |-
-                        iOS:
+                        Apple:
                   - href: https://support.apple.com/en-us/108366
                     text: How to Back Up With iCloud - Apple Support
                     type: website
-                  - href: https://support.apple.com/en-us/HT203977#:~:text=To%20let%20iCloud%20automatically%20back%20up%20your%20device,available%20space%20in%20iCloud%20for%20the%20backup%20
-                    text: How to Back Up Your iPhone, iPad, and iPod Touch - Apple Support
+                  - href: https://support.apple.com/en-us/118426
+                    text: How to Back up Your iPhone, iPad, and iPod Touch - Apple Support
                     type: website
-                  - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-                    text: Protecting Your Digital Footprint - Keys to Cybersecurity
+                  - href: https://support.apple.com/en-us/102651
+                    text: iCloud Data Security Overview - Apple Support
                     type: website
                   - text: |-
                         Android:
-                  - href: https://support.google.com/android/answer/2819582?hl=en#:~:text=1%20Open%20your%20phone%27s%20Settings%20app.%202%20Tap,more%20info%2C%20contact%20your%20device%20manufacturer.%20See%20More
+                  - href: https://support.google.com/android/answer/2819582
                     text: Back Up or Restore Data on Your Android Device - Android Help (google.com)
                     type: website
-                  - href: https://support.google.com/googleone/answer/9149304?hl=en&co=GENIE.Platform%3DAndroid
+                  - href: https://support.google.com/googleone/answer/9149304
                     text: Back Up Your Device - Android - Google One Help
                     type: website
             - requirement: 8
@@ -423,9 +418,9 @@
                   - href: https://www.cisa.gov/news-events/news/home-network-security
                     text: Home Network Security | CISA
                     type: website
-                  - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-                    text: Protecting Your Digital Footprint - Keys to Cybersecurity
-                    type: website
+                  - href: https://media.defense.gov/2023/Feb/22/2003165170/-1/-1/0/CSI_BEST_PRACTICES_FOR_SECURING_YOUR_HOME_NETWORK.PDF
+                    text: Protecting Your Home Network | NSA
+                    type: pdf
             - requirement: 9
               text: |-
                   Identify one or more other vulnerabilities on your home computer or
@@ -442,15 +437,18 @@
             encryption is used in cybersecurity. For each situation, describe what
             kind of encryption is used and why it is important.
         resources:
-            - href: https://www.youtube.com/watch?v=jhXCTbFnK8o&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=34
+            - href: https://youtu.be/jhXCTbFnK8o
               text: 'Cryptography: Crash Course Computer Science #33'
               type: video
-            - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-              text: Protecting Your Digital Footprint - Keys to Cybersecurity
-              type: website
+            - href: https://youtu.be/-yFZGF8FHSg
+              text: 'The Science of Codes: An Intro to Cryptography'
+              type: video
             - href: https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:online-data-security/xcae6f4a7ff015e7d:data-encryption-techniques/a/the-need-for-encryption
               text: The Need for Encryption | Khan Academy
               type: website
+            - href: https://youtu.be/ZghMPWGXexs
+              text: 'The Internet: Encryption &amp; Public Key (Code.org)'
+              type: video
       - requirement: b
         text: |-
             Show how you can know if your connection to a website is
@@ -478,8 +476,8 @@
                   - href: https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:online-data-security/xcae6f4a7ff015e7d:data-encryption-techniques/a/symmetric-encryption-techniques
                     text: Symmetric Encryption Techniques | Khan Academy
                     type: website
-                  - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-                    text: Protecting Your Digital Footprint - Keys to Cybersecurity
+                  - href: https://www.wikihow.com/Create-Substitution-Ciphers
+                    text: 'How to Create Substitution Ciphers: 9 Steps (With Pictures)'
                     type: website
             - requirement: 2
               text: |-
@@ -491,11 +489,14 @@
                   - href: https://www.pcmag.com/picks/best-secure-messaging-apps
                     text: The Best Private Messaging Apps for 2025 | PCMag
                     type: website
-                  - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-                    text: Protecting Your Digital Footprint - Keys to Cybersecurity
+                  - href: https://www.tomsguide.com/reference/best-encrypted-messaging-apps
+                    text: "The Best Encrypted Messaging Apps in 2025 | Tom's Guide"
                     type: website
                   - href: https://www.theverge.com/23186209/best-secure-messaging-apps-end-to-end-encryption-e2ee
                     text: The Seven Best Secure Messaging Apps With End-to-End Encryption | The Verge
+                    type: website
+                  - href: https://www.forbes.com/sites/zakdoffman/2025/03/31/nsa-warns-iphone-android-users-change-message-settings/
+                    text: NSA Warning-Change Your iPhone and Android Message Settings
                     type: website
             - requirement: 3
               text: |-
@@ -537,11 +538,11 @@
       - href: https://cyber.org/find-curricula/connected-devices-keys-cybersecurity
         text: Connected Devices - Keys to Cybersecurity | Cyber.org
         type: website
-      - href: https://www.youtube.com/watch?v=6mBO2vqLv38
-        text: Internet of Things | What Is IoT? | How IoT Works? | IoT Explained in 6 Minutes
+      - href: https://youtu.be/6mBO2vqLv38
+        text: Internet of Things | What is IoT ? | How IoT Works? | IoT Explained in 6 Minutes | Simplilearn
         type: video
-      - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-        text: Protecting Your Digital Footprint - Keys to Cybersecurity
+      - href: https://www.ibm.com/think/topics/internet-of-things
+        text: What is the Internet of Things (IoT)? | IBM
         type: website
 - requirement: 8
   text: |-
@@ -560,8 +561,8 @@
             - href: https://picoctf.org/
               text: picoCTF - CMU Cybersecurity Competition
               type: website
-            - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-              text: Protecting Your Digital Footprint - Keys to Cybersecurity
+            - href: https://www.uscyberpatriot.org/afa-cybercamps/overview
+              text: AFA CyberCamps
               type: website
             - href: https://www.rocketcenter.com/USCyberCamp
               text: U.S. Cyber Camp
@@ -581,11 +582,11 @@
             - href: https://cryptologicfoundation.org/students/games/cybersecurity-computer-gaming.html
               text: NCF Cybersecurity Computer Gaming Series
               type: website
-            - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-              text: Protecting Your Digital Footprint - Keys to Cybersecurity
+            - href: https://cias.utsa.edu/ctd/
+              text: Cyber Threat Defender · The UTSA CIAS
               type: website
             - href: https://cias.utsa.edu/k-12/cybersecurity-games/
-              text: K-12 Cybersecurity Games - the UTSA CIAS
+              text: K-12 Cybersecurity Games · The UTSA CIAS
               type: website
             - href: https://picoctf.org/
               text: picoCTF - CMU Cybersecurity Competition
@@ -610,24 +611,24 @@
             associated with this career. Discuss what you learned with your
             counselor and whether you might be interested in this career.
         resources:
-            - href: https://cyber.org/sites/default/files/2025-04/Square%20Versions%20Full%20Packet.pdf
+            - href: https://www.cybermission.tech/game
               text: Career Exploration Cards | Cyber.org
-              type: website
+              type: pdf
             - href: https://cyber.org/career-exploration/degrees-certifications
               text: Degrees &amp; Certifications | Cyber.org
               type: website
-            - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-              text: Protecting Your Digital Footprint - Keys to Cybersecurity
-              type: website
+            - href: https://youtu.be/f_69UzSfBsA
+              text: Information security and forensics analyst | What I do
+              type: video
             - href: https://www.futureoftech.org/cybersecurity/6-careers-in-cybersecurity/
               text: "Careers in Cybersecurity: CompTIA's Future of Tech"
               type: website
             - href: https://www.cybermission.tech/careers-and-training
               text: Military Cybersecurity Careers &amp; Training | Cybermission
               type: website
-            - href: https://youtu.be/pdtiNjQysC0
-              text: NCF Panel Discussion About Cybersecurity Careers | #CyberChats Podcast
-              type: video
+            - href: https://cryptologicfoundation.org/students/cyberchats/archive.html/article/2022/02/16/careers-in-cybersecurity-an-ncf-panel-discussion
+              text: NCF Panel Discussion about Cybersecurity Careers | #CyberChats Podcast
+              type: podcast
       - requirement: b
         text: |-
             Visit a business or organization that does work in cybersecurity.
