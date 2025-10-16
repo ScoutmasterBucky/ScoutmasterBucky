@@ -5,7 +5,6 @@ const { badge, requirements, resources } = defineProps<{
     resources: Object;
 }>();
 import meritBadges from '~/data/merit-badges.json';
-import novaAwards from '~/data/nova-awards.json';
 import otherAwards from '~/data/other-awards.json';
 import scoutRanks from '~/data/scout-ranks.json';
 import updated from '~/data/updated.json';
@@ -24,14 +23,6 @@ for (const rankName of info.ranks) {
     related.add({
         name: `${rank.name} Rank`,
         href: `/scout-ranks/${rankName}/`,
-    });
-}
-
-for (const novaName of info.novas) {
-    const nova = novaAwards['scouts-bsa'][novaName];
-    related.add({
-        name: `${nova.name} Nova Award`,
-        href: `/nova-lab/scouts-bsa/${novaName}/`,
     });
 }
 

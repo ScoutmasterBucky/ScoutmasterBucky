@@ -46,13 +46,6 @@ const toggle = () => {
                 src="/images/other-awards-icon.png"
             />
         </div>
-
-        <MenuButton
-            href="/nova-lab/"
-            title="Nova Lab"
-            src="/nova-lab/nova.svg"
-            subtitle="fun science awards"
-        />
     </div>
 </template>
 

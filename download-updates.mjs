@@ -18,11 +18,6 @@ const downloadables = [
         fn: downloadMeritBadges
     },
     {
-        key: "nova-awards",
-        desc: "Nova awards for all programs",
-        fn: downloadNovaAwards
-    },
-    {
         key: "other-awards",
         desc: "One-off awards",
         fn: downloadOtherAwards
@@ -32,11 +27,6 @@ const downloadables = [
         desc: "Scout ranks",
         fn: downloadScoutRanks
     },
-    {
-        key: "supernova-awards",
-        desc: "Supernova awards for all programs",
-        fn: downloadSupernovaAwards
-    }
 ];
 
 async function readJson(fn) {
@@ -78,7 +68,6 @@ function safeName(name) {
     return name
         .toLowerCase()
         .replace(/[!,]/g, " ") // "signs, signals, and codes"  "1-2-3 go!"
-        .replace(/[’.]/g, "") // "mendel’s minions" "the dr. louis w. alvarez supernova award"
         .replace(/&/g, " and ") // "fish & wildlife management"
         .replace(/^reptile and amphibian$/, "reptile-and-amphibian-study")
         .trim()
@@ -107,7 +96,7 @@ async function domQuery(dom, selector, callback) {
     return result;
 }
 
-function getPdfText(body) {
+async function getPdfText(body) {
     function tokensToText(textTokens) {
         return textTokens.items
             .map((token) => {
@@ -122,46 +111,81 @@ function getPdfText(body) {
             .join("");
     }
 
-    return getDocument({
-        data: new Uint8Array(body),
-        verbosity: 0
-    }).promise.then((pdf) => {
-        function getPage(page) {
-            if (page > pdf.numPages) {
-                return result;
-            }
-
-            return pdf
-                .getPage(page)
-                .then((pageData) => pageData.getTextContent())
-                .then((textTokens) => tokensToText(textTokens))
-                .then((text) => {
-                    result.push(text);
-
-                    return getPage(page + 1);
-                });
+    async function getPage(page) {
+        if (page > pdf.numPages) {
+            return result;
         }
 
-        const result = [];
+        const pageData = await pdf.getPage(page);
+        const textTokens = await pageData.getTextContent();
+        const text = tokensToText(textTokens);
+        result.push(text);
 
-        return getPage(1).then((textArray) => textArray.join("\n\n\n"));
-    });
+        return getPage(page + 1);
+    }
+
+    const pdf = await getDocument({
+        data: new Uint8Array(body),
+        verbosity: 0
+    }).promise;
+    const result = [];
+    const textArray = await getPage(1);
+    return textArray.join("\n\n\n");
 }
 
-function savePdfAndText(url, destPdf) {
-    return got(url, {
-        responseType: "buffer"
-    }).then((response) => {
-        return fsPromises
-            .writeFile(destPdf, response.body)
-            .then(() => getPdfText(response.body))
-            .then((text) => {
-                return fsPromises.writeFile(
-                    destPdf.replace(/\.pdf$/, ".txt"),
-                    text
-                );
-            });
+async function savePdfAndText(downloadUrlInfo, url, destPdf) {
+    async function writeToFile(response) {
+        await fsPromises.writeFile(destPdf, response.body);
+        const text = await getPdfText(response.body);
+        await fsPromises.writeFile(
+            destPdf.replace(/\.pdf$/, ".txt"),
+            text
+        );
+    }
+
+    // First, check if we already have the most recent version
+    const urlString = `${url}`;
+    let previousInfo = downloadUrlInfo.find((item) => item.url === urlString && item.destination === destPdf);
+
+    if (!previousInfo) {
+        // Not cached
+        const response = await got(url, {
+            responseType: "buffer",
+        });
+        downloadUrlInfo.push({
+            url: urlString,
+            destination: destPdf,
+            headers: response.headers,
+        });
+        writeToFile(response);
+
+        return;
+    }
+
+    const checkHeaders = {};
+
+    if (previousInfo.headers?.etag) {
+        checkHeaders["if-none-match"] = previousInfo.headers?.etag;
+    }
+
+    if (previousInfo.headers?.["last-modified"]) {
+        checkHeaders["if-modified-since"] =
+            previousInfo.headers?.["last-modified"];
+    }
+
+    const response = await got(url, {
+        headers: checkHeaders,
+        responseType: "buffer",
     });
+
+    if (response.statusCode === 304) {
+        // Cached and still valid
+        return;
+    }
+
+    // Updated
+    previousInfo.headers = response.headers;
+    writeToFile(response);
 }
 
 async function saveHtml(url, destHtml, selector) {
@@ -185,7 +209,7 @@ function resolveUrl(link, dom) {
     return new URL(link.getAttribute("href"), dom.requestUrl);
 }
 
-async function downloadMeritBadges(updated, args) {
+async function downloadMeritBadges(updated, downloadUrlInfo, args) {
     async function fetchMeritBadge(link, indexDom) {
         const mbUrl = resolveUrl(link, indexDom);
         const badgeName = safeName(link.innerText);
@@ -210,7 +234,7 @@ async function downloadMeritBadges(updated, args) {
                 const pamphletUrl = resolveUrl(link, indexDom);
                 console.log(`[Pamphlet] ${badgeName}: ${pamphletUrl}`);
                 const pamphletDest = `public/merit-badges/${badgeName}/${badgeName}-pamphlet.pdf`;
-                await savePdfAndText(pamphletUrl, pamphletDest);
+                await savePdfAndText(downloadUrlInfo, pamphletUrl, pamphletDest);
             }
         );
         updated[badgeName] = Date.now();
@@ -226,7 +250,7 @@ async function downloadMeritBadges(updated, args) {
         await serialPromises(files, async (file) => {
             const parts = file.split("/");
 
-            if (parts[2] === parts[3].replace(/\.(pdf|txt|html)$/, "")) {
+            if (`${parts[3]}.html.orig` === parts[4]) {
                 await fsPromises.unlink(file);
             }
         });
@@ -242,42 +266,7 @@ async function downloadMeritBadges(updated, args) {
     );
 }
 
-async function downloadNovaAwards(updated) {
-    async function fetchPdf(link, dom, fileBase) {
-        const url = resolveUrl(link, dom);
-        const name = safeName(link.innerText);
-        console.log(`${name}: ${url}`);
-        updated[name] = Date.now();
-        await savePdfAndText(url, `${fileBase}${name}.pdf`);
-    }
-
-    heading("Nova Awards");
-    subheading("Cub Scouts Nova Awards");
-    const cubDom = await getHtmlDom(
-        "https://www.scouting.org/stem-nova-awards/awards/cub-scout/"
-    );
-    await domQuery(cubDom, '[data-id="73543ea7"] a[href*=".pdf"]', (link) =>
-        fetchPdf(link, cubDom, "src/data/nova-lab/cub-scouts/")
-    );
-
-    subheading("Scouts BSA Nova Awards");
-    const scoutDom = await getHtmlDom(
-        "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/"
-    );
-    await domQuery(scoutDom, '[data-id="9786783"] a[href*="pdf"]', (link) =>
-        fetchPdf(link, scoutDom, "src/data/nova-lab/scouts-bsa/")
-    );
-
-    subheading("Venturing and Sea Scouts Nova Awards");
-    const ventureDom = await getHtmlDom(
-        "https://www.scouting.org/stem-nova-awards/awards/venturer/"
-    );
-    await domQuery(ventureDom, '[data-id="259c931"] a[href*="pdf"]', (link) =>
-        fetchPdf(link, ventureDom, "src/data/nova-lab/venturing-and-sea-scouts/")
-    );
-}
-
-async function downloadList(updated, updatedPrefix, list) {
+async function downloadList(updated, downloadUrlInfo, updatedPrefix, list) {
     await serialPromises(list, async (item) => {
         if (item.dest.match(".html.orig")) {
             console.log(`${item.key}: ${item.url}`);
@@ -299,13 +288,13 @@ async function downloadList(updated, updatedPrefix, list) {
         const url = resolveUrl(links[0], dom);
         console.log(`${item.key}: ${url}`);
         updated[item.key] = Date.now();
-        await savePdfAndText(url, item.dest);
+        await savePdfAndText(downloadUrlInfo, url, item.dest);
     });
 }
 
-async function downloadOtherAwards(updated) {
+async function downloadOtherAwards(updated, downloadUrlInfo) {
     heading("Other Awards");
-    await downloadList(updated, "other-awards", [
+    await downloadList(updated, downloadUrlInfo, "other-awards", [
         {
             key: "50-miler",
             url: "https://www.scouting.org/awards/awards-central/50-miler/",
@@ -330,13 +319,6 @@ async function downloadOtherAwards(updated) {
             dest: "public/other-awards/complete-angler.pdf",
             selector: "a[href*=Angler]"
         },
-        // 404 on 2025-08-08
-        {
-            key: "keep-america-beautiful-hometown-usa",
-            url: "https://www.scouting.org/awards/awards-central/keep-america-beautiful-hometown-usa-award/",
-            dest: "src/data/other-awards/keep-america-beautiful-hometown-usa.html.orig",
-            selector: "[data-id=eb59c62]"
-        },
         {
             key: "totin-chip",
             url: "https://www.scouting.org/awards/awards-central/totin-chip/",
@@ -346,11 +328,11 @@ async function downloadOtherAwards(updated) {
     ]);
 }
 
-async function downloadScoutRanks(updated) {
+async function downloadScoutRanks(updated, downloadUrlInfo) {
     const url =
         "https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/";
     heading("Scout Ranks");
-    await downloadList(updated, "scout-ranks", [
+    await downloadList(updated, downloadUrlInfo, "scout-ranks", [
         {
             key: "scout",
             url,
@@ -418,102 +400,6 @@ async function downloadScoutRanks(updated) {
     ]);
 }
 
-async function downloadSupernovaAwards(updated) {
-    async function downloadProgramAwards(program, url, selector, mapping) {
-        subheading(program);
-        const dom = await getHtmlDom(url);
-        await domQuery(dom, selector, async (link) => {
-            const nameBeforeMapping = safeName(link.innerText);
-            const name = mapping[nameBeforeMapping];
-            const pdfUrl = resolveUrl(link, dom);
-
-            if (!name) {
-                throw new Error(
-                    `Unable to map Supernova name: ${nameBeforeMapping}`
-                );
-            }
-
-            console.log(`${name}: ${pdfUrl}`);
-            updated[name] = Date.now();
-
-            await savePdfAndText(
-                pdfUrl,
-                `src/data/nova-lab/supernova/${name}.pdf`
-            );
-        });
-    }
-
-    heading("Supernova Awards");
-    await downloadProgramAwards(
-        "Cub Scouts",
-        "https://www.scouting.org/stem-nova-awards/awards/cub-scout/",
-        '[data-id="2b32d13"] a[href*=".pdf"]',
-        {
-            "the-dr-louis-w-alvarez-supernova-award": "dr-luis-walter-alvarez",
-            "the-dr-charles-townes-supernova-award": "dr-charles-h-townes"
-        }
-    );
-    await downloadProgramAwards(
-        "Scouts BSA",
-        "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
-        '[data-id="699347f"] a[href*=".pdf"]:not([href*="Supernova-Application"]):not([href*="flowchart"]):not([href*="Flow-Chart"])',
-        {
-            "dr-bernard-harris-requirements": "dr-bernard-harris",
-            "thomas-edison-requirements": "thomas-alva-edison",
-            "dr-albert-einstein-requirements": "dr-albert-einstein" // Same as Venturing
-        }
-    );
-    await downloadProgramAwards(
-        "Venturing and Sea Scouting",
-        "https://www.scouting.org/stem-nova-awards/awards/venturer/",
-        '[data-id="97f67b6"] a[href*=".pdf"]:not([href*="Supernova-Application"]):not([href*="flowchart"]):not([href*="Flow-Chart"])',
-        {
-            "dr-sally-ride-requirements": "dr-sally-ride",
-            "wright-brothers-requirements": "wright-brothers",
-            "dr-albert-einstein-requirements": "dr-albert-einstein" // Same as Scouts BSA
-        }
-    );
-    subheading("Additional Materials");
-    await downloadList(updated, "supernova", [
-        {
-            key: "activity-topics",
-            url: "https://www.scouting.org/stem-nova-awards/awards/venturer-supernova-topics/",
-            dest: "src/data/nova-lab/activity-topics/activity-topics.html.orig",
-            selector: '[data-id="74ca43fb"]'
-        },
-        {
-            key: "award-application",
-            url: "https://www.scouting.org/stem-nova-awards/awards/cub-scout/",
-            dest: "public/nova-lab/supernova/award-application.pdf",
-            selector: '[data-id="d291cac"] a[href*=".pdf"]'
-        },
-        {
-            key: "dr-albert-einstein-supernova-application",
-            url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
-            dest: "public/nova-lab/supernova/dr-albert-einstein-supernova-application.pdf",
-            selector: '[data-id="b009a02"] a[href*="Supernova-Application"]'
-        },
-        {
-            key: "dr-albert-einstein-supernova-flowchart",
-            url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
-            dest: "public/nova-lab/supernova/dr-albert-einstein-supernova-flowchart.pdf",
-            selector: '[data-id="b009a02"] a[href*="Process-Flow-Chart"]'
-        },
-        {
-            key: "dr-albert-einstein-supernova-guide",
-            url: "https://www.scouting.org/stem-nova-awards/awards/scouts-bsa/",
-            dest: "public/nova-lab/supernova/dr-albert-einstein-supernova-guide.pdf",
-            selector: '[data-id="b009a02"] a[href*="Einstein-Guide"]'
-        },
-        {
-            key: "exploration-requirements",
-            url: "https://www.scouting.org/stem-nova-awards/awards/venturer/",
-            dest: "src/data/nova-lab/exploration-requirements.pdf",
-            selector: '[data-id="9096690"] a[href*=".pdf"]'
-        }
-    ]);
-}
-
 function help() {
     let result = `Usage:
     download-updates [OPTIONS] TARGET...
@@ -567,14 +453,16 @@ for (const target of args.TARGET) {
 
 if (!errors) {
     const updated = await readJson("src/data/updated.json");
+    const downloadUrlInfo = await readJson("src/data/download-url-info.json");
     await serialPromises(downloadables, (item) => {
         if (args.TARGET.includes(item.key) || args.TARGET.includes("all")) {
             if (!updated[item.key]) {
                 updated[item.key] = {};
             }
 
-            return item.fn(updated[item.key], args);
+            return item.fn(updated[item.key], downloadUrlInfo, args);
         }
     });
     await writeJson("src/data/updated.json", updated);
+    await writeJson("src/data/download-url-info.json", downloadUrlInfo);
 }
