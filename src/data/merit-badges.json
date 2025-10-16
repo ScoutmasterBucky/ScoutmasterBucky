@@ -174,7 +174,6 @@
         "eagle": true,
         "image": "/merit-badges/citizenship-in-the-community/citizenship-in-the-community.png",
         "name": "Citizenship in the Community",
-        "other-awards": ["keep-america-beautiful-hometown-usa"],
         "ranks": ["eagle"]
     },
     "citizenship-in-the-nation": {
@@ -219,7 +218,6 @@
         "eagle": true,
         "image": "/merit-badges/communication/communication.png",
         "name": "Communication",
-        "other-awards": ["keep-america-beautiful-hometown-usa"],
         "ranks": ["eagle"]
     },
     "composite-materials": {
@@ -320,7 +318,7 @@
         "bucky": "/merit-badges/energy/energy-bucky.jpg",
         "image": "/merit-badges/energy/energy.png",
         "name": "Energy",
-        "other-awards": ["distinguished-conservation-service-award", "keep-america-beautiful-hometown-usa"],
+        "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
     "engineering": {
@@ -342,7 +340,7 @@
         "eagle": true,
         "image": "/merit-badges/environmental-science/environmental-science.png",
         "name": "Environmental Science",
-        "other-awards": ["distinguished-conservation-service-award", "keep-america-beautiful-hometown-usa", "world-conservation-award"],
+        "other-awards": ["distinguished-conservation-service-award", "world-conservation-award"],
         "ranks": ["eagle"]
     },
     "exploration": {
@@ -393,7 +391,7 @@
         "bucky": "/merit-badges/fish-and-wildlife-management/fish-and-wildlife-management-bucky.jpg",
         "image": "/merit-badges/fish-and-wildlife-management/fish-and-wildlife-management.png",
         "name": "Fish and Wildlife Management",
-        "other-awards": ["complete-angler", "distinguished-conservation-service-award", "keep-america-beautiful-hometown-usa", "world-conservation-award"],
+        "other-awards": ["complete-angler", "distinguished-conservation-service-award", "world-conservation-award"],
         "ranks": []
     },
     "fishing": {
@@ -414,7 +412,7 @@
         "bucky": "/merit-badges/forestry/forestry-bucky.jpg",
         "image": "/merit-badges/forestry/forestry.png",
         "name": "Forestry",
-        "other-awards": ["distinguished-conservation-service-award", "keep-america-beautiful-hometown-usa"],
+        "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
     "game-design": {
@@ -428,7 +426,7 @@
         "bucky": "/merit-badges/gardening/gardening-bucky.jpg",
         "image": "/merit-badges/gardening/gardening.png",
         "name": "Gardening",
-        "other-awards": ["distinguished-conservation-service-award", "keep-america-beautiful-hometown-usa"],
+        "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
     "genealogy": {
@@ -442,7 +440,7 @@
         "bucky": "/merit-badges/geocaching/geocaching-bucky.jpg",
         "image": "/merit-badges/geocaching/geocaching.png",
         "name": "Geocaching",
-        "other-awards": ["keep-america-beautiful-hometown-usa"],
+        "other-awards": [],
         "ranks": []
     },
     "geology": {
@@ -534,7 +532,7 @@
         "bucky": "/merit-badges/landscape-architecture/landscape-architecture-bucky.jpg",
         "image": "/merit-badges/landscape-architecture/landscape-architecture.png",
         "name": "Landscape Architecture",
-        "other-awards": ["distinguished-conservation-service-award", "keep-america-beautiful-hometown-usa"],
+        "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
     "law": {
@@ -676,7 +674,7 @@
         "bucky": "/merit-badges/photography/photography-bucky.jpg",
         "image": "/merit-badges/photography/photography.png",
         "name": "Photography",
-        "other-awards": ["keep-america-beautiful-hometown-usa"],
+        "other-awards": [],
         "ranks": []
     },
     "pioneering": {
@@ -725,7 +723,7 @@
         "bucky": "/merit-badges/public-speaking/public-speaking-bucky.jpg",
         "image": "/merit-badges/public-speaking/public-speaking.png",
         "name": "Public Speaking",
-        "other-awards": ["keep-america-beautiful-hometown-usa"],
+        "other-awards": [],
         "ranks": []
     },
     "pulp-and-paper": {
@@ -872,7 +870,7 @@
         "bucky": "/merit-badges/soil-and-water-conservation/soil-and-water-conservation-bucky.jpg",
         "image": "/merit-badges/soil-and-water-conservation/soil-and-water-conservation.png",
         "name": "Soil and Water Conservation",
-        "other-awards": ["conservation-good-turn-award", "distinguished-conservation-service-award", "keep-america-beautiful-hometown-usa", "world-conservation-award"],
+        "other-awards": ["conservation-good-turn-award", "distinguished-conservation-service-award", "world-conservation-award"],
         "ranks": []
     },
     "space-exploration": {
@@ -908,7 +906,7 @@
         "eagle": true,
         "image": "/merit-badges/sustainability/sustainability.png",
         "name": "Sustainability",
-        "other-awards": ["distinguished-conservation-service-award", "keep-america-beautiful-hometown-usa", "world-conservation-award"],
+        "other-awards": ["distinguished-conservation-service-award", "world-conservation-award"],
         "ranks": ["eagle"]
     },
     "swimming": {
