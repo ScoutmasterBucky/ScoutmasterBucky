@@ -39,14 +39,20 @@ const lorem = [
     <h2>None, one item</h2>
 
     <ScaledContent>
-        <img src="/nova-lab/cub-scouts-nova-patch.webp" class="wide" />
+        <img
+            src="/merit-badges/artificial-intelligence/artificial-intelligence.png"
+            class="wide"
+        />
     </ScaledContent>
 
     <p>{{ lorem[0] }}</p>
 
     <div class="center">
         <ScaledContent>
-            <img src="/nova-lab/cub-scouts-nova-patch.webp" class="wide" />
+            <img
+                src="/merit-badges/artificial-intelligence/artificial-intelligence.png"
+                class="wide"
+            />
         </ScaledContent>
     </div>
 

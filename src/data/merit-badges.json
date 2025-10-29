@@ -3,7 +3,6 @@
         "bucky": "/merit-badges/american-business/american-business-bucky.jpg",
         "image": "/merit-badges/american-business/american-business.png",
         "name": "American Business",
-        "novas": ["designed-to-crunch", "next-big-thing"],
         "other-awards": [],
         "ranks": []
     },
@@ -11,7 +10,6 @@
         "bucky": "/merit-badges/american-cultures/american-cultures-bucky.jpg",
         "image": "/merit-badges/american-cultures/american-cultures.png",
         "name": "American Cultures",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -19,7 +17,6 @@
         "bucky": "/merit-badges/american-heritage/american-heritage-bucky.jpg",
         "image": "/merit-badges/american-heritage/american-heritage.png",
         "name": "American Heritage",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -27,7 +24,6 @@
         "bucky": "/merit-badges/american-labor/american-labor-bucky.jpg",
         "image": "/merit-badges/american-labor/american-labor.png",
         "name": "American Labor",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -35,7 +31,6 @@
         "bucky": "/merit-badges/animal-science/animal-science-bucky.jpg",
         "image": "/merit-badges/animal-science/animal-science.png",
         "name": "Animal Science",
-        "novas": ["let-it-grow", "mendels-minions"],
         "other-awards": [],
         "ranks": []
     },
@@ -43,7 +38,6 @@
         "bucky": "/merit-badges/animation/animation-bucky.gif",
         "image": "/merit-badges/animation/animation.png",
         "name": "Animation",
-        "novas": ["designed-to-crunch", "hello-world"],
         "other-awards": [],
         "ranks": []
     },
@@ -51,7 +45,6 @@
         "bucky": "/merit-badges/archaeology/archaeology-bucky.jpg",
         "image": "/merit-badges/archaeology/archaeology.png",
         "name": "Archaeology",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -59,7 +52,6 @@
         "bucky": "/merit-badges/archery/archery-bucky.jpg",
         "image": "/merit-badges/archery/archery.png",
         "name": "Archery",
-        "novas": ["shoot", "up-and-away", "whoosh"],
         "other-awards": [],
         "ranks": []
     },
@@ -67,7 +59,6 @@
         "bucky": "/merit-badges/architecture/architecture-bucky.jpg",
         "image": "/merit-badges/architecture/architecture.png",
         "name": "Architecture",
-        "novas": ["next-big-thing"],
         "other-awards": [],
         "ranks": []
     },
@@ -75,7 +66,13 @@
         "bucky": "/merit-badges/art/art-bucky.jpg",
         "image": "/merit-badges/art/art.png",
         "name": "Art",
-        "novas": [],
+        "other-awards": [],
+        "ranks": []
+    },
+    "artificial-intelligence": {
+        "bucky": "/merit-badges/artificial-intelligence/artificial-intelligence-bucky.jpg",
+        "image": "/merit-badges/artificial-intelligence/artificial-intelligence.png",
+        "name": "Artificial Intelligence",
         "other-awards": [],
         "ranks": []
     },
@@ -83,7 +80,6 @@
         "bucky": "/merit-badges/astronomy/astronomy-bucky.jpg",
         "image": "/merit-badges/astronomy/astronomy.png",
         "name": "Astronomy",
-        "novas": ["shoot"],
         "other-awards": [],
         "ranks": []
     },
@@ -91,7 +87,6 @@
         "bucky": "/merit-badges/athletics/athletics-bucky.jpg",
         "image": "/merit-badges/athletics/athletics.png",
         "name": "Athletics",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -99,7 +94,6 @@
         "bucky": "/merit-badges/automotive-maintenance/automotive-maintenance-bucky.jpg",
         "image": "/merit-badges/automotive-maintenance/automotive-maintenance.png",
         "name": "Automotive Maintenance",
-        "novas": ["start-your-engines"],
         "other-awards": [],
         "ranks": []
     },
@@ -107,7 +101,6 @@
         "bucky": "/merit-badges/aviation/aviation-bucky.jpg",
         "image": "/merit-badges/aviation/aviation.png",
         "name": "Aviation",
-        "novas": ["shoot", "start-your-engines", "up-and-away", "whoosh"],
         "other-awards": [],
         "ranks": []
     },
@@ -115,7 +108,6 @@
         "bucky": "/merit-badges/backpacking/backpacking-bucky.jpg",
         "image": "/merit-badges/backpacking/backpacking.png",
         "name": "Backpacking",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -123,7 +115,6 @@
         "bucky": "/merit-badges/basketry/basketry-bucky.jpg",
         "image": "/merit-badges/basketry/basketry.png",
         "name": "Basketry",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -131,7 +122,6 @@
         "bucky": "/merit-badges/bird-study/bird-study-bucky.jpg",
         "image": "/merit-badges/bird-study/bird-study.png",
         "name": "Bird Study",
-        "novas": ["mendels-minions"],
         "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
@@ -139,7 +129,6 @@
         "bucky": "/merit-badges/bugling/bugling-bucky.jpg",
         "image": "/merit-badges/bugling/bugling.png",
         "name": "Bugling",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -148,7 +137,6 @@
         "eagle": true,
         "image": "/merit-badges/camping/camping.png",
         "name": "Camping",
-        "novas": [],
         "other-awards": [],
         "ranks": ["eagle"]
     },
@@ -156,7 +144,6 @@
         "bucky": "/merit-badges/canoeing/canoeing-bucky.jpg",
         "image": "/merit-badges/canoeing/canoeing.png",
         "name": "Canoeing",
-        "novas": ["start-your-engines", "up-and-away"],
         "other-awards": ["50-miler"],
         "ranks": []
     },
@@ -164,7 +151,6 @@
         "bucky": "/merit-badges/chemistry/chemistry-bucky.jpg",
         "image": "/merit-badges/chemistry/chemistry.png",
         "name": "Chemistry",
-        "novas": ["splash", "up-and-away"],
         "other-awards": [],
         "ranks": []
     },
@@ -172,7 +158,6 @@
         "bucky": "/merit-badges/chess/chess-bucky.jpg",
         "image": "/merit-badges/chess/chess.png",
         "name": "Chess",
-        "novas": ["designed-to-crunch"],
         "other-awards": [],
         "ranks": []
     },
@@ -181,7 +166,6 @@
         "eagle": true,
         "image": "/merit-badges/citizenship-in-society/citizenship-in-society.png",
         "name": "Citizenship in Society",
-        "novas": [],
         "other-awards": [],
         "ranks": ["eagle"]
     },
@@ -190,8 +174,7 @@
         "eagle": true,
         "image": "/merit-badges/citizenship-in-the-community/citizenship-in-the-community.png",
         "name": "Citizenship in the Community",
-        "novas": [],
-        "other-awards": ["keep-america-beautiful-hometown-usa"],
+        "other-awards": [],
         "ranks": ["eagle"]
     },
     "citizenship-in-the-nation": {
@@ -199,7 +182,6 @@
         "eagle": true,
         "image": "/merit-badges/citizenship-in-the-nation/citizenship-in-the-nation.png",
         "name": "Citizenship in the Nation",
-        "novas": [],
         "other-awards": [],
         "ranks": ["eagle"]
     },
@@ -208,7 +190,6 @@
         "eagle": true,
         "image": "/merit-badges/citizenship-in-the-world/citizenship-in-the-world.png",
         "name": "Citizenship in the World",
-        "novas": [],
         "other-awards": ["world-conservation-award"],
         "ranks": ["eagle"]
     },
@@ -216,7 +197,6 @@
         "bucky": "/merit-badges/climbing/climbing-bucky.jpg",
         "image": "/merit-badges/climbing/climbing.png",
         "name": "Climbing",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -224,7 +204,6 @@
         "bucky": "/merit-badges/coin-collecting/coin-collecting-bucky.jpg",
         "image": "/merit-badges/coin-collecting/coin-collecting.png",
         "name": "Coin Collecting",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -232,7 +211,6 @@
         "bucky": "/merit-badges/collections/collections-bucky.jpg",
         "image": "/merit-badges/collections/collections.png",
         "name": "Collections",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -241,15 +219,13 @@
         "eagle": true,
         "image": "/merit-badges/communication/communication.png",
         "name": "Communication",
-        "novas": [],
-        "other-awards": ["keep-america-beautiful-hometown-usa"],
+        "other-awards": [],
         "ranks": ["eagle"]
     },
     "composite-materials": {
         "bucky": "/merit-badges/composite-materials/composite-materials-bucky.jpg",
         "image": "/merit-badges/composite-materials/composite-materials.png",
         "name": "Composite Materials",
-        "novas": ["next-big-thing", "whoosh"],
         "other-awards": [],
         "ranks": []
     },
@@ -258,7 +234,6 @@
         "eagle": true,
         "image": "/merit-badges/cooking/cooking.png",
         "name": "Cooking",
-        "novas": ["let-it-grow"],
         "other-awards": [],
         "ranks": ["eagle"]
     },
@@ -266,7 +241,13 @@
         "bucky": "/merit-badges/crime-prevention/crime-prevention-bucky.jpg",
         "image": "/merit-badges/crime-prevention/crime-prevention.png",
         "name": "Crime Prevention",
-        "novas": [],
+        "other-awards": [],
+        "ranks": []
+    },
+    "cybersecurity": {
+        "bucky": "/merit-badges/cybersecurity/cybersecurity-bucky.jpg",
+        "image": "/merit-badges/cybersecurity/cybersecurity.png",
+        "name": "Cybersecurity",
         "other-awards": [],
         "ranks": []
     },
@@ -275,7 +256,6 @@
         "eagle": true,
         "image": "/merit-badges/cycling/cycling.png",
         "name": "Cycling",
-        "novas": ["start-your-engines"],
         "other-awards": ["50-miler"],
         "ranks": ["eagle"]
     },
@@ -283,7 +263,6 @@
         "bucky": "/merit-badges/dentistry/dentistry-bucky.jpg",
         "image": "/merit-badges/dentistry/dentistry.png",
         "name": "Dentistry",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -291,12 +270,6 @@
         "bucky": "/merit-badges/digital-technology/digital-technology-bucky.jpg",
         "image": "/merit-badges/digital-technology/digital-technology.png",
         "name": "Digital Technology",
-        "novas": [
-            "designed-to-crunch",
-            "hello-world",
-            "next-big-thing",
-            "shoot"
-        ],
         "other-awards": [],
         "ranks": []
     },
@@ -304,7 +277,6 @@
         "bucky": "/merit-badges/disabilities-awareness/disabilities-awareness-bucky.jpg",
         "image": "/merit-badges/disabilities-awareness/disabilities-awareness.png",
         "name": "Disabilities Awareness",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -312,7 +284,6 @@
         "bucky": "/merit-badges/dog-care/dog-care-bucky.jpg",
         "image": "/merit-badges/dog-care/dog-care.png",
         "name": "Dog Care",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -320,12 +291,6 @@
         "bucky": "/merit-badges/drafting/drafting-bucky.jpg",
         "image": "/merit-badges/drafting/drafting.png",
         "name": "Drafting",
-        "novas": [
-            "designed-to-crunch",
-            "next-big-thing",
-            "start-your-engines",
-            "whoosh"
-        ],
         "other-awards": [],
         "ranks": []
     },
@@ -333,7 +298,6 @@
         "bucky": "/merit-badges/electricity/electricity-bucky.jpg",
         "image": "/merit-badges/electricity/electricity.png",
         "name": "Electricity",
-        "novas": ["start-your-engines"],
         "other-awards": [],
         "ranks": []
     },
@@ -341,7 +305,6 @@
         "bucky": "/merit-badges/electronics/electronics-bucky.jpg",
         "image": "/merit-badges/electronics/electronics.png",
         "name": "Electronics",
-        "novas": ["next-big-thing", "whoosh"],
         "other-awards": [],
         "ranks": []
     },
@@ -350,7 +313,6 @@
         "eagle": true,
         "image": "/merit-badges/emergency-preparedness/emergency-preparedness.png",
         "name": "Emergency Preparedness",
-        "novas": [],
         "other-awards": [],
         "ranks": ["eagle"]
     },
@@ -358,15 +320,13 @@
         "bucky": "/merit-badges/energy/energy-bucky.jpg",
         "image": "/merit-badges/energy/energy.png",
         "name": "Energy",
-        "novas": ["splash", "start-your-engines"],
-        "other-awards": ["distinguished-conservation-service-award", "keep-america-beautiful-hometown-usa"],
+        "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
     "engineering": {
         "bucky": "/merit-badges/engineering/engineering-bucky.jpg",
         "image": "/merit-badges/engineering/engineering.png",
         "name": "Engineering",
-        "novas": ["next-big-thing", "splash", "whoosh"],
         "other-awards": [],
         "ranks": []
     },
@@ -374,7 +334,6 @@
         "bucky": "/merit-badges/entrepreneurship/entrepreneurship-bucky.jpg",
         "image": "/merit-badges/entrepreneurship/entrepreneurship.png",
         "name": "Entrepreneurship",
-        "novas": ["designed-to-crunch"],
         "other-awards": [],
         "ranks": []
     },
@@ -383,15 +342,13 @@
         "eagle": true,
         "image": "/merit-badges/environmental-science/environmental-science.png",
         "name": "Environmental Science",
-        "novas": ["splash"],
-        "other-awards": ["distinguished-conservation-service-award", "keep-america-beautiful-hometown-usa", "world-conservation-award"],
+        "other-awards": ["distinguished-conservation-service-award", "world-conservation-award"],
         "ranks": ["eagle"]
     },
     "exploration": {
         "bucky": "/merit-badges/exploration/exploration-bucky.jpg",
         "image": "/merit-badges/exploration/exploration.png",
         "name": "Exploration",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -400,7 +357,6 @@
         "eagle": true,
         "image": "/merit-badges/family-life/family-life.png",
         "name": "Family Life",
-        "novas": [],
         "other-awards": [],
         "ranks": ["eagle"]
     },
@@ -408,7 +364,6 @@
         "bucky": "/merit-badges/farm-mechanics/farm-mechanics-bucky.jpg",
         "image": "/merit-badges/farm-mechanics/farm-mechanics.png",
         "name": "Farm Mechanics",
-        "novas": ["let-it-grow", "start-your-engines"],
         "other-awards": [],
         "ranks": []
     },
@@ -416,7 +371,6 @@
         "bucky": "/merit-badges/fingerprinting/fingerprinting-bucky.jpg",
         "image": "/merit-badges/fingerprinting/fingerprinting.png",
         "name": "Fingerprinting",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -424,7 +378,6 @@
         "bucky": "/merit-badges/fire-safety/fire-safety-bucky.jpg",
         "image": "/merit-badges/fire-safety/fire-safety.png",
         "name": "Fire Safety",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -433,7 +386,6 @@
         "eagle": true,
         "image": "/merit-badges/first-aid/first-aid.png",
         "name": "First Aid",
-        "novas": [],
         "other-awards": [],
         "ranks": ["eagle"]
     },
@@ -441,15 +393,13 @@
         "bucky": "/merit-badges/fish-and-wildlife-management/fish-and-wildlife-management-bucky.jpg",
         "image": "/merit-badges/fish-and-wildlife-management/fish-and-wildlife-management.png",
         "name": "Fish and Wildlife Management",
-        "novas": ["let-it-grow", "splash"],
-        "other-awards": ["complete-angler", "distinguished-conservation-service-award", "keep-america-beautiful-hometown-usa", "world-conservation-award"],
+        "other-awards": ["complete-angler", "distinguished-conservation-service-award", "world-conservation-award"],
         "ranks": []
     },
     "fishing": {
         "bucky": "/merit-badges/fishing/fishing-bucky.jpg",
         "image": "/merit-badges/fishing/fishing.png",
         "name": "Fishing",
-        "novas": ["let-it-grow", "splash"],
         "other-awards": ["complete-angler", "distinguished-conservation-service-award"],
         "ranks": []
     },
@@ -457,7 +407,6 @@
         "bucky": "/merit-badges/fly-fishing/fly-fishing-bucky.jpg",
         "image": "/merit-badges/fly-fishing/fly-fishing.png",
         "name": "Fly Fishing",
-        "novas": ["splash"],
         "other-awards": ["complete-angler", "distinguished-conservation-service-award"],
         "ranks": []
     },
@@ -465,15 +414,13 @@
         "bucky": "/merit-badges/forestry/forestry-bucky.jpg",
         "image": "/merit-badges/forestry/forestry.png",
         "name": "Forestry",
-        "novas": ["let-it-grow", "mendels-minions", "splash"],
-        "other-awards": ["distinguished-conservation-service-award", "keep-america-beautiful-hometown-usa"],
+        "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
     "game-design": {
         "bucky": "/merit-badges/game-design/game-design-bucky.jpg",
         "image": "/merit-badges/game-design/game-design.png",
         "name": "Game Design",
-        "novas": ["shoot"],
         "other-awards": [],
         "ranks": []
     },
@@ -481,15 +428,13 @@
         "bucky": "/merit-badges/gardening/gardening-bucky.jpg",
         "image": "/merit-badges/gardening/gardening.png",
         "name": "Gardening",
-        "novas": ["let-it-grow", "mendels-minions"],
-        "other-awards": ["distinguished-conservation-service-award", "keep-america-beautiful-hometown-usa"],
+        "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
     "genealogy": {
         "bucky": "/merit-badges/genealogy/genealogy-bucky.jpg",
         "image": "/merit-badges/genealogy/genealogy.png",
         "name": "Genealogy",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -497,15 +442,13 @@
         "bucky": "/merit-badges/geocaching/geocaching-bucky.jpg",
         "image": "/merit-badges/geocaching/geocaching.png",
         "name": "Geocaching",
-        "novas": [],
-        "other-awards": ["keep-america-beautiful-hometown-usa"],
+        "other-awards": [],
         "ranks": []
     },
     "geology": {
         "bucky": "/merit-badges/geology/geology-bucky.jpg",
         "image": "/merit-badges/geology/geology.png",
         "name": "Geology",
-        "novas": ["splash"],
         "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
@@ -513,7 +456,6 @@
         "bucky": "/merit-badges/golf/golf-bucky.jpg",
         "image": "/merit-badges/golf/golf.png",
         "name": "Golf",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -521,7 +463,6 @@
         "bucky": "/merit-badges/graphic-arts/graphic-arts-bucky.jpg",
         "image": "/merit-badges/graphic-arts/graphic-arts.png",
         "name": "Graphic Arts",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -529,7 +470,6 @@
         "bucky": "/merit-badges/health-care-professions/health-care-professions-bucky.jpg",
         "image": "/merit-badges/health-care-professions/health-care-professions.png",
         "name": "Health Care Professions",
-        "novas": ["mendels-minions"],
         "other-awards": [],
         "ranks": []
     },
@@ -538,7 +478,6 @@
         "eagle": true,
         "image": "/merit-badges/hiking/hiking.png",
         "name": "Hiking",
-        "novas": [],
         "other-awards": ["50-miler"],
         "ranks": ["eagle"]
     },
@@ -546,7 +485,6 @@
         "bucky": "/merit-badges/home-repairs/home-repairs-bucky.jpg",
         "image": "/merit-badges/home-repairs/home-repairs.png",
         "name": "Home Repairs",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -554,7 +492,6 @@
         "bucky": "/merit-badges/horsemanship/horsemanship-bucky.jpg",
         "image": "/merit-badges/horsemanship/horsemanship.png",
         "name": "Horsemanship",
-        "novas": [],
         "other-awards": ["50-miler"],
         "ranks": []
     },
@@ -562,7 +499,6 @@
         "bucky": "/merit-badges/indian-lore/indian-lore-bucky.jpg",
         "image": "/merit-badges/indian-lore/indian-lore.png",
         "name": "Indian Lore",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -570,7 +506,6 @@
         "bucky": "/merit-badges/insect-study/insect-study-bucky.jpg",
         "image": "/merit-badges/insect-study/insect-study.png",
         "name": "Insect Study",
-        "novas": ["let-it-grow", "mendels-minions"],
         "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
@@ -578,7 +513,6 @@
         "bucky": "/merit-badges/inventing/inventing-bucky.jpg",
         "image": "/merit-badges/inventing/inventing.png",
         "name": "Inventing",
-        "novas": ["next-big-thing", "whoosh"],
         "other-awards": [],
         "ranks": []
     },
@@ -586,7 +520,6 @@
         "bucky": "/merit-badges/journalism/journalism-bucky.jpg",
         "image": "/merit-badges/journalism/journalism.png",
         "name": "Journalism",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -594,7 +527,6 @@
         "bucky": "/merit-badges/kayaking/kayaking-bucky.jpg",
         "image": "/merit-badges/kayaking/kayaking.png",
         "name": "Kayaking",
-        "novas": ["start-your-engines", "up-and-away"],
         "other-awards": ["kayaking"],
         "ranks": []
     },
@@ -602,15 +534,13 @@
         "bucky": "/merit-badges/landscape-architecture/landscape-architecture-bucky.jpg",
         "image": "/merit-badges/landscape-architecture/landscape-architecture.png",
         "name": "Landscape Architecture",
-        "novas": [],
-        "other-awards": ["distinguished-conservation-service-award", "keep-america-beautiful-hometown-usa"],
+        "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
     "law": {
         "bucky": "/merit-badges/law/law-bucky.jpg",
         "image": "/merit-badges/law/law.png",
         "name": "Law",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -618,7 +548,6 @@
         "bucky": "/merit-badges/leatherwork/leatherwork-bucky.jpg",
         "image": "/merit-badges/leatherwork/leatherwork.png",
         "name": "Leatherwork",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -626,7 +555,6 @@
         "bucky": "/merit-badges/lifesaving/lifesaving-bucky.jpg",
         "image": "/merit-badges/lifesaving/lifesaving.png",
         "name": "Lifesaving",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -634,7 +562,6 @@
         "bucky": "/merit-badges/mammal-study/mammal-study-bucky.jpg",
         "image": "/merit-badges/mammal-study/mammal-study.png",
         "name": "Mammal Study",
-        "novas": ["let-it-grow", "mendels-minions"],
         "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
@@ -642,7 +569,6 @@
         "bucky": "/merit-badges/metalwork/metalwork-bucky.jpg",
         "image": "/merit-badges/metalwork/metalwork.png",
         "name": "Metalwork",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -650,7 +576,6 @@
         "bucky": "/merit-badges/mining-in-society/mining-in-society-bucky.jpg",
         "image": "/merit-badges/mining-in-society/mining-in-society.png",
         "name": "Mining in Society",
-        "novas": ["whoosh"],
         "other-awards": [],
         "ranks": []
     },
@@ -658,7 +583,6 @@
         "bucky": "/merit-badges/model-design-and-building/model-design-and-building-bucky.jpg",
         "image": "/merit-badges/model-design-and-building/model-design-and-building.png",
         "name": "Model Design and Building",
-        "novas": ["next-big-thing", "whoosh"],
         "other-awards": [],
         "ranks": []
     },
@@ -666,7 +590,6 @@
         "bucky": "/merit-badges/motorboating/motorboating-bucky.jpg",
         "image": "/merit-badges/motorboating/motorboating.png",
         "name": "Motorboating",
-        "novas": ["start-your-engines"],
         "other-awards": [],
         "ranks": []
     },
@@ -674,7 +597,6 @@
         "bucky": "/merit-badges/moviemaking/moviemaking-bucky.jpg",
         "image": "/merit-badges/moviemaking/moviemaking.png",
         "name": "Moviemaking",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -682,7 +604,6 @@
         "bucky": "/merit-badges/multisport/multisport-bucky.png",
         "image": "/merit-badges/multisport/multisport.png",
         "name": "Multisport",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -690,7 +611,6 @@
         "bucky": "/merit-badges/music/music-bucky.jpg",
         "image": "/merit-badges/music/music.png",
         "name": "Music",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -698,7 +618,6 @@
         "bucky": "/merit-badges/nature/nature-bucky.jpg",
         "image": "/merit-badges/nature/nature.png",
         "name": "Nature",
-        "novas": ["let-it-grow", "mendels-minions", "splash"],
         "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
@@ -706,7 +625,6 @@
         "bucky": "/merit-badges/nuclear-science/nuclear-science-bucky.jpg",
         "image": "/merit-badges/nuclear-science/nuclear-science.png",
         "name": "Nuclear Science",
-        "novas": ["start-your-engines"],
         "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
@@ -714,7 +632,6 @@
         "bucky": "/merit-badges/oceanography/oceanography-bucky.jpg",
         "image": "/merit-badges/oceanography/oceanography.png",
         "name": "Oceanography",
-        "novas": ["splash", "up-and-away"],
         "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
@@ -722,7 +639,6 @@
         "bucky": "/merit-badges/orienteering/orienteering-bucky.jpg",
         "image": "/merit-badges/orienteering/orienteering.png",
         "name": "Orienteering",
-        "novas": ["designed-to-crunch"],
         "other-awards": [],
         "ranks": []
     },
@@ -730,7 +646,6 @@
         "bucky": "/merit-badges/painting/painting-bucky.jpg",
         "image": "/merit-badges/painting/painting.png",
         "name": "Painting",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -739,7 +654,6 @@
         "eagle": true,
         "image": "/merit-badges/personal-fitness/personal-fitness.png",
         "name": "Personal Fitness",
-        "novas": [],
         "other-awards": [],
         "ranks": ["eagle"]
     },
@@ -748,7 +662,6 @@
         "eagle": true,
         "image": "/merit-badges/personal-management/personal-management.png",
         "name": "Personal Management",
-        "novas": ["designed-to-crunch"],
         "other-awards": [],
         "ranks": ["eagle"]
     },
@@ -756,7 +669,6 @@
         "bucky": "/merit-badges/pets/pets-bucky.jpg",
         "image": "/merit-badges/pets/pets.png",
         "name": "Pets",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -764,15 +676,13 @@
         "bucky": "/merit-badges/photography/photography-bucky.jpg",
         "image": "/merit-badges/photography/photography.png",
         "name": "Photography",
-        "novas": [],
-        "other-awards": ["keep-america-beautiful-hometown-usa"],
+        "other-awards": [],
         "ranks": []
     },
     "pioneering": {
         "bucky": "/merit-badges/pioneering/pioneering-bucky.jpg",
         "image": "/merit-badges/pioneering/pioneering.png",
         "name": "Pioneering",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -780,7 +690,6 @@
         "bucky": "/merit-badges/plant-science/plant-science-bucky.jpg",
         "image": "/merit-badges/plant-science/plant-science.png",
         "name": "Plant Science",
-        "novas": ["let-it-grow"],
         "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
@@ -788,7 +697,6 @@
         "bucky": "/merit-badges/plumbing/plumbing-bucky.jpg",
         "image": "/merit-badges/plumbing/plumbing.png",
         "name": "Plumbing",
-        "novas": ["up-and-away"],
         "other-awards": [],
         "ranks": []
     },
@@ -796,7 +704,6 @@
         "bucky": "/merit-badges/pottery/pottery-bucky.jpg",
         "image": "/merit-badges/pottery/pottery.png",
         "name": "Pottery",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -804,7 +711,6 @@
         "bucky": "/merit-badges/programming/programming-bucky.jpg",
         "image": "/merit-badges/programming/programming.png",
         "name": "Programming",
-        "novas": ["hello-world"],
         "other-awards": [],
         "ranks": []
     },
@@ -812,7 +718,6 @@
         "bucky": "/merit-badges/public-health/public-health-bucky.jpg",
         "image": "/merit-badges/public-health/public-health.png",
         "name": "Public Health",
-        "novas": ["mendels-minions", "splash"],
         "other-awards": [],
         "ranks": []
     },
@@ -820,15 +725,13 @@
         "bucky": "/merit-badges/public-speaking/public-speaking-bucky.jpg",
         "image": "/merit-badges/public-speaking/public-speaking.png",
         "name": "Public Speaking",
-        "novas": [],
-        "other-awards": ["keep-america-beautiful-hometown-usa"],
+        "other-awards": [],
         "ranks": []
     },
     "pulp-and-paper": {
         "bucky": "/merit-badges/pulp-and-paper/pulp-and-paper-bucky.jpg",
         "image": "/merit-badges/pulp-and-paper/pulp-and-paper.png",
         "name": "Pulp and Paper",
-        "novas": [],
         "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
@@ -836,7 +739,6 @@
         "bucky": "/merit-badges/radio/radio-bucky.jpg",
         "image": "/merit-badges/radio/radio.png",
         "name": "Radio",
-        "novas": ["designed-to-crunch"],
         "other-awards": [],
         "ranks": []
     },
@@ -844,7 +746,6 @@
         "bucky": "/merit-badges/railroading/railroading-bucky.jpg",
         "image": "/merit-badges/railroading/railroading.png",
         "name": "Railroading",
-        "novas": ["start-your-engines", "whoosh"],
         "other-awards": [],
         "ranks": []
     },
@@ -852,7 +753,6 @@
         "bucky": "/merit-badges/reading/reading-bucky.jpg",
         "image": "/merit-badges/reading/reading.png",
         "name": "Reading",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -860,7 +760,6 @@
         "bucky": "/merit-badges/reptile-and-amphibian-study/reptile-and-amphibian-study-bucky.jpg",
         "image": "/merit-badges/reptile-and-amphibian-study/reptile-and-amphibian-study.png",
         "name": "Reptile and Amphibian Study",
-        "novas": ["mendels-minions"],
         "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
@@ -868,7 +767,6 @@
         "bucky": "/merit-badges/rifle-shooting/rifle-shooting-bucky.jpg",
         "image": "/merit-badges/rifle-shooting/rifle-shooting.png",
         "name": "Rifle Shooting",
-        "novas": ["shoot", "up-and-away", "whoosh"],
         "other-awards": [],
         "ranks": []
     },
@@ -876,7 +774,6 @@
         "bucky": "/merit-badges/robotics/robotics-bucky.jpg",
         "image": "/merit-badges/robotics/robotics.png",
         "name": "Robotics",
-        "novas": ["hello-world", "shoot", "whoosh"],
         "other-awards": [],
         "ranks": []
     },
@@ -884,7 +781,6 @@
         "bucky": "/merit-badges/rowing/rowing-bucky.jpg",
         "image": "/merit-badges/rowing/rowing.png",
         "name": "Rowing",
-        "novas": ["up-and-away"],
         "other-awards": [],
         "ranks": []
     },
@@ -892,7 +788,6 @@
         "bucky": "/merit-badges/safety/safety-bucky.jpg",
         "image": "/merit-badges/safety/safety.png",
         "name": "Safety",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -900,7 +795,6 @@
         "bucky": "/merit-badges/salesmanship/salesmanship-bucky.jpg",
         "image": "/merit-badges/salesmanship/salesmanship.png",
         "name": "Salesmanship",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -908,7 +802,6 @@
         "bucky": "/merit-badges/scholarship/scholarship-bucky.jpg",
         "image": "/merit-badges/scholarship/scholarship.png",
         "name": "Scholarship",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -916,7 +809,6 @@
         "bucky": "/merit-badges/scouting-heritage/scouting-heritage-bucky.jpg",
         "image": "/merit-badges/scouting-heritage/scouting-heritage.png",
         "name": "Scouting Heritage",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -924,7 +816,6 @@
         "bucky": "/merit-badges/scuba-diving/scuba-diving-bucky.jpg",
         "image": "/merit-badges/scuba-diving/scuba-diving.png",
         "name": "Scuba Diving",
-        "novas": ["up-and-away"],
         "other-awards": ["scuba"],
         "ranks": []
     },
@@ -932,7 +823,6 @@
         "bucky": "/merit-badges/sculpture/sculpture-bucky.jpg",
         "image": "/merit-badges/sculpture/sculpture.png",
         "name": "Sculpture",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -940,7 +830,6 @@
         "bucky": "/merit-badges/search-and-rescue/search-and-rescue-bucky.jpg",
         "image": "/merit-badges/search-and-rescue/search-and-rescue.png",
         "name": "Search and Rescue",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -948,7 +837,6 @@
         "bucky": "/merit-badges/shotgun-shooting/shotgun-shooting-bucky.jpg",
         "image": "/merit-badges/shotgun-shooting/shotgun-shooting.png",
         "name": "Shotgun Shooting",
-        "novas": ["shoot", "up-and-away", "whoosh"],
         "other-awards": [],
         "ranks": []
     },
@@ -956,7 +844,6 @@
         "bucky": "/merit-badges/signs-signals-and-codes/signs-signals-and-codes-bucky.jpg",
         "image": "/merit-badges/signs-signals-and-codes/signs-signals-and-codes.png",
         "name": "Signs, Signals, and Codes",
-        "novas": ["designed-to-crunch"],
         "other-awards": [],
         "ranks": []
     },
@@ -964,7 +851,6 @@
         "bucky": "/merit-badges/skating/skating-bucky.jpg",
         "image": "/merit-badges/skating/skating.png",
         "name": "Skating",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -972,7 +858,6 @@
         "bucky": "/merit-badges/small-boat-sailing/small-boat-sailing-bucky.jpg",
         "image": "/merit-badges/small-boat-sailing/small-boat-sailing.png",
         "name": "Small-Boat Sailing",
-        "novas": ["start-your-engines"],
         "other-awards": ["50-miler"],
         "ranks": []
     },
@@ -980,7 +865,6 @@
         "bucky": "/merit-badges/snow-sports/snow-sports-bucky.jpg",
         "image": "/merit-badges/snow-sports/snow-sports.png",
         "name": "Snow Sports",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -988,15 +872,13 @@
         "bucky": "/merit-badges/soil-and-water-conservation/soil-and-water-conservation-bucky.jpg",
         "image": "/merit-badges/soil-and-water-conservation/soil-and-water-conservation.png",
         "name": "Soil and Water Conservation",
-        "novas": ["let-it-grow", "splash"],
-        "other-awards": ["conservation-good-turn-award", "distinguished-conservation-service-award", "keep-america-beautiful-hometown-usa", "world-conservation-award"],
+        "other-awards": ["conservation-good-turn-award", "distinguished-conservation-service-award", "world-conservation-award"],
         "ranks": []
     },
     "space-exploration": {
         "bucky": "/merit-badges/space-exploration/space-exploration-bucky.jpg",
         "image": "/merit-badges/space-exploration/space-exploration.png",
         "name": "Space Exploration",
-        "novas": ["shoot", "start-your-engines", "up-and-away"],
         "other-awards": [],
         "ranks": []
     },
@@ -1004,7 +886,6 @@
         "bucky": "/merit-badges/sports/sports-bucky.jpg",
         "image": "/merit-badges/sports/sports.png",
         "name": "Sports",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -1012,7 +893,6 @@
         "bucky": "/merit-badges/stamp-collecting/stamp-collecting-bucky.jpg",
         "image": "/merit-badges/stamp-collecting/stamp-collecting.png",
         "name": "Stamp Collecting",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -1020,7 +900,6 @@
         "bucky": "/merit-badges/surveying/surveying-bucky.jpg",
         "image": "/merit-badges/surveying/surveying.png",
         "name": "Surveying",
-        "novas": ["designed-to-crunch"],
         "other-awards": [],
         "ranks": []
     },
@@ -1029,8 +908,7 @@
         "eagle": true,
         "image": "/merit-badges/sustainability/sustainability.png",
         "name": "Sustainability",
-        "novas": ["splash"],
-        "other-awards": ["distinguished-conservation-service-award", "keep-america-beautiful-hometown-usa", "world-conservation-award"],
+        "other-awards": ["distinguished-conservation-service-award", "world-conservation-award"],
         "ranks": ["eagle"]
     },
     "swimming": {
@@ -1038,7 +916,6 @@
         "eagle": true,
         "image": "/merit-badges/swimming/swimming.png",
         "name": "Swimming",
-        "novas": ["up-and-away"],
         "other-awards": ["mile-swim"],
         "ranks": ["first-class", "eagle"]
     },
@@ -1046,7 +923,6 @@
         "bucky": "/merit-badges/textile/textile-bucky.jpg",
         "image": "/merit-badges/textile/textile.png",
         "name": "Textile",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -1054,7 +930,6 @@
         "bucky": "/merit-badges/theater/theater-bucky.jpg",
         "image": "/merit-badges/theater/theater.png",
         "name": "Theater",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -1062,7 +937,6 @@
         "bucky": "/merit-badges/traffic-safety/traffic-safety-bucky.jpg",
         "image": "/merit-badges/traffic-safety/traffic-safety.png",
         "name": "Traffic Safety",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -1070,7 +944,6 @@
         "bucky": "/merit-badges/truck-transportation/truck-transportation-bucky.jpg",
         "image": "/merit-badges/truck-transportation/truck-transportation.png",
         "name": "Truck Transportation",
-        "novas": ["start-your-engines"],
         "other-awards": [],
         "ranks": []
     },
@@ -1078,7 +951,6 @@
         "bucky": "/merit-badges/veterinary-medicine/veterinary-medicine-bucky.jpg",
         "image": "/merit-badges/veterinary-medicine/veterinary-medicine.png",
         "name": "Veterinary Medicine",
-        "novas": ["mendels-minions"],
         "other-awards": [],
         "ranks": []
     },
@@ -1086,7 +958,6 @@
         "bucky": "/merit-badges/water-sports/water-sports-bucky.jpg",
         "image": "/merit-badges/water-sports/water-sports.png",
         "name": "Water Sports",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -1094,7 +965,6 @@
         "bucky": "/merit-badges/weather/weather-bucky.jpg",
         "image": "/merit-badges/weather/weather.png",
         "name": "Weather",
-        "novas": ["designed-to-crunch", "shoot", "splash"],
         "other-awards": ["distinguished-conservation-service-award"],
         "ranks": []
     },
@@ -1102,7 +972,6 @@
         "bucky": "/merit-badges/welding/welding-bucky.jpg",
         "image": "/merit-badges/welding/welding.png",
         "name": "Welding",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -1110,7 +979,6 @@
         "bucky": "/merit-badges/whitewater/whitewater-bucky.jpg",
         "image": "/merit-badges/whitewater/whitewater.png",
         "name": "Whitewater",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -1118,7 +986,6 @@
         "bucky": "/merit-badges/wilderness-survival/wilderness-survival-bucky.jpg",
         "image": "/merit-badges/wilderness-survival/wilderness-survival.png",
         "name": "Wilderness Survival",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     },
@@ -1126,7 +993,6 @@
         "bucky": "/merit-badges/wood-carving/wood-carving-bucky.jpg",
         "image": "/merit-badges/wood-carving/wood-carving.png",
         "name": "Wood Carving",
-        "novas": [],
         "other-awards": ["totin-chip"],
         "ranks": []
     },
@@ -1134,7 +1000,6 @@
         "bucky": "/merit-badges/woodwork/woodwork-bucky.jpg",
         "image": "/merit-badges/woodwork/woodwork.png",
         "name": "Woodwork",
-        "novas": [],
         "other-awards": [],
         "ranks": []
     }

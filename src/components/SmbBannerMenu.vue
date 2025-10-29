@@ -15,12 +15,6 @@
             title="Other Awards"
             src="/images/other-awards-icon.png"
         />
-        <MenuButton
-            href="/nova-lab/"
-            title="Nova Lab"
-            src="/nova-lab/nova.svg"
-            subtitle="fun science awards"
-        />
     </div>
     <div class="banner-line-divider unprintable"></div>
 </template>

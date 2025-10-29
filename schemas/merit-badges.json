@@ -15,12 +15,6 @@
             "name": {
                 "type": "string"
             },
-            "novas": {
-                "type": "array",
-                "items": {
-                    "type": "string"
-                }
-            },
             "other-awards": {
                 "type": "array",
                 "items": {
@@ -39,7 +33,6 @@
             "bucky",
             "image",
             "name",
-            "novas",
             "other-awards",
             "ranks"
         ]

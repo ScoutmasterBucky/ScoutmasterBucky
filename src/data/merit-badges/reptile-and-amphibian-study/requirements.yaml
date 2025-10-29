@@ -164,7 +164,7 @@
               type: website
       - requirement: b
         text: |-
-            (b) Choose a reptile or amphibian that you can observe or foster at a
+            Choose a reptile or amphibian that you can observe or foster at a
             local zoo, aquarium, nature center, local rescue, or other such exhibit
             (such as your classroom or school). Study the specimen weekly for a
             period of three months. At each visit, sketch the specimen in its
@@ -179,33 +179,33 @@
             human-caused threats to its population and any laws that protect the
             species and its habitat. After the observation period, share what you
             have learned with your counselor.
-      - requirement: 9
+- requirement: 9
+  text: |-
+      Do TWO of the following:
+  children:
+      - requirement: a
         text: |-
-            Do TWO of the following:
-        children:
-            - requirement: a
-              text: |-
-                  Identify at night three kinds of toads or frogs by their voices.
-                  Imitate the song of each for your counselor. Stalk each with a
-                  flashlight and discover how each sings and from where.
-              resources:
-                  - href: https://youtu.be/74-vaZv54s8
-                    text: 'Frog Sounds: Why They Make Them (Examples)'
-                    type: video
-            - requirement: b
-              text: |-
-                  Identify by sight eight species of reptiles or amphibians.
-              resources:
-                  - href: https://www.inaturalist.org/places/united-states#taxon=26036
-                    text: Reptiles of the United States
-                    type: website
-                  - href: https://www.inaturalist.org/places/united-states#taxon=20978
-                    text: Amphibians of the United States
-                    type: website
-            - requirement: c
-              text: |-
-                  Using visual aids, give a brief talk to a small group on three
-                  different reptiles and amphibians.
+            Identify at night three kinds of toads or frogs by their voices.
+            Imitate the song of each for your counselor. Stalk each with a
+            flashlight and discover how each sings and from where.
+        resources:
+            - href: https://youtu.be/74-vaZv54s8
+              text: 'Frog Sounds: Why They Make Them (Examples)'
+              type: video
+      - requirement: b
+        text: |-
+            Identify by sight eight species of reptiles or amphibians.
+        resources:
+            - href: https://www.inaturalist.org/places/united-states#taxon=26036
+              text: Reptiles of the United States
+              type: website
+            - href: https://www.inaturalist.org/places/united-states#taxon=20978
+              text: Amphibians of the United States
+              type: website
+      - requirement: c
+        text: |-
+            Using visual aids, give a brief talk to a small group on three
+            different reptiles and amphibians.
 - requirement: 10
   text: |-
       Tell five superstitions or false beliefs about reptiles and amphibians and
