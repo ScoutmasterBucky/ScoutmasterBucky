@@ -8,6 +8,9 @@ resources:
     - name: Scoutmaster Bucky's Acknowledgement Form
       shortName: Acknowledgement Form
       url: /documents/mbaf.pdf
+    - name: Scouting America's Counselor Guidelines
+      shortName: Counselor Guidelines
+      url: artificial-intelligence-counselor-guidelines.pdf
 </page>
 
 <script setup lang="ts">

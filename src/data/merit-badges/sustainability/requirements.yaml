@@ -1,3 +1,4 @@
+# Resource for requirement 8b has a "%20" at the end, which shouldn't be there
 - requirement: 1
   text: |-
       Describe the meaning of sustainability in your own words. Explain the
@@ -366,9 +367,6 @@
             Leave No Trace Seven Principles and the Outdoor Code in your daily
             life helps promote sustainability.
         resources:
-            - href: https://www.youtube.com/watch?v=m6ENx2yMynE
-              text: Outdoor Code
-              type: video
             - href: https://www.youtube.com/watch?v=kc59VSGN-dg
               text: 'Camping Tricks: The Scout Turn Around Rule LNT'
               type: video

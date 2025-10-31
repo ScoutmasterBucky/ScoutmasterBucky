@@ -14,6 +14,9 @@ resources:
     - name: Scoutmaster Bucky's Acknowledgement Form
       shortName: Acknowledgement Form
       url: /documents/mbaf.pdf
+    - name: Scouting America's Counselor Guide
+      shortName: Counselor Guide
+      url: citizenship-in-society-counselor-guide.pdf
 </page>
 
 <script setup lang="ts">

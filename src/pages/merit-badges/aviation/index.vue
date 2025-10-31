@@ -16,6 +16,15 @@ resources:
     - name: Scoutmaster Bucky's Acknowledgement Form
       shortName: Acknowledgement Form
       url: /documents/mbaf.pdf
+    - name: Scouting America's Aviation Camp Director Guide
+      shortName: Camp Director Guide
+      url: aviation-camp-director-guide.pdf
+    - name: Scouting America's Counselor Presentation
+      shortName: Counselor Presentation
+      url: aviation-counselor-presentation.pptx
+    - name: Scouting America's Event Coordinator Guide
+      shortName: Event Coordinator Guide
+      url: aviation-event-coordinator-guide.pdf
 </page>
 
 <script setup lang="ts">

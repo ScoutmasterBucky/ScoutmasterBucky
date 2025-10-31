@@ -1,7 +1,7 @@
 # 5, option 7, b - mentions a diagram but didn't include one. Kept one from previous requirements.
 - detail: true
   text: |-
-      <b>Note: If meeting any of the requirements for this merit badge is against
+      <b>NOTE: If meeting any of the requirements for this merit badge is against
       the Scout's religious convictions, the requirement does not have to be done
       if the Scout's parent or guardian and the proper religious advisors state
       in writing that to do so would be against religious convictions.  The
@@ -16,12 +16,26 @@
             Explain to your counselor the most likely hazards you may encounter
             during athletics activities, and what you should do to anticipate, help
             prevent, mitigate, and respond to these hazards.
+        resources:
+            - href: https://youtu.be/yC3blqv3kp4
+              text: Preventing Injuries in Youth Athletes
+              type: video
       - requirement: b
         text: |-
             Show that you know first aid for injuries or illnesses that could
             occur while participating in athletics events, including sprains,
             strains, contusions, abrasions, blisters, dehydration, heat reactions,
             and concussions.
+        resources:
+            - href: https://youtu.be/TZqDBgiEfL8
+              text: Using the Rice Method for Injuries - Rest, Ice, Compress, Elevate
+              type: video
+            - href: https://youtu.be/oGvyiWfXB7c
+              text: First Aid Treatment for Wounds
+              type: video
+            - href: https://youtu.be/OcGeUdfL-s4
+              text: Top 10 Most Common Sports Injuries (and How to Prevent Them!)
+              type: video
 - requirement: 2
   text: |-
       Do the following:
@@ -31,6 +45,10 @@
             Before completing requirements 3 and 5, have your health-care
             practitioner give you a physical examination, using the Scout Annual
             Health and Medical Record form.
+        resources:
+            - href: https://www.scouting.org/health-and-safety/ahmr/
+              text: Annual Physical Exam
+              type: website
       - requirement: b
         text: |-
             Explain the importance of a physical exam.
@@ -40,31 +58,62 @@
             during training—and how the use of tobacco products, alcohol, and other
             harmful substances can negatively affect your health and your
             performance in athletic activities.
+        resources:
+            - href: https://youtu.be/dISDEsTr1Rc
+              text: Nutrition Tips for High School Athletes
+              type: video
+            - href: https://youtu.be/_NUo_52vkkg
+              text: Refusing Use of Harmful Substances
+              type: video
       - requirement: d
         text: |-
             Explain the importance of maintaining a healthy diet.
+        resources:
+            - href: https://www.myplate.gov/eat-healthy/what-is-myplate
+              text: What is MyPlate?
+              type: website
 - requirement: 3
   text: |-
       Select an athletic activity that interests you, then do the following:
+  resources:
+      - href: https://www.bbc.com/news/uk-28062001
+        text: Which Sport Are You Made for? Take Our 60-Second Test
+        type: website
   children:
       - requirement: a
         text: |-
             With guidance from your counselor, establish a personal training
             program suited to the activity you have chosen. Follow this training
             program for three months.
+        resources:
+            - href: https://youtu.be/oRQEgV0wNtQ
+              text: Keys to Sport-Specific Training
+              type: video
       - requirement: b
         text: |-
             Create a chart to monitor your progress during this time.
+        resources:
+            - href: https://isport360.com/7-powerful-journaling-ideas-for-youth-sports-athletes/%20
+              text: 7 Powerful Journaling Ideas for Youth Sports Athletes
+              type: website
       - requirement: c
         text: |-
             Explain to your counselor the equipment necessary to participate in
             this activity and the appropriate clothing for the time of year.
+        resources:
+            - href: https://www.spookynooksports.com/blog/manheim/equipment-needed-to-play-sports%20
+              text: Equipment Needed to Play Various Sports
+              type: website
       - requirement: d
         text: |-
             At the end of three months, review the chart you created for
             requirement 3(b), and discuss with your counselor what progress you have
             made during training. Tell how your development has affected you
             mentally and physically.
+        resources:
+            - href: https://youtu.be/EHZvmAaXwfk
+              text: How Do You Measure Progress?
+              type: video
 - requirement: 4
   text: |-
       Do the following:
@@ -73,17 +122,39 @@
         text: |-
             Give the rules for two athletic activities, one of which is the
             activity you chose for requirement 3.
+        resources:
+            - href: https://www.rulesofsport.com/%20
+              text: Rules of Sports
+              type: website
       - requirement: b
         text: |-
             Discuss the importance of warming up and cooling down.
+        resources:
+            - href: https://youtu.be/XeEIoGMldyc
+              text: Stretching and Warming Up
+              type: video
       - requirement: c
         text: |-
             Explain to your counselor what an amateur athlete is and the
             differences between an amateur and a professional athlete.
+        resources:
+            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Athletics/amateur_vs_professional.pdf
+              text: What Is an Amateur
+              type: pdf
       - requirement: d
         text: |-
             Discuss the traits and importance of good sportsmanship. Tell what role
             sportsmanship plays in both individual and group athletic activities.
+        resources:
+            - href: https://youtu.be/KoDu2FpU57c
+              text: What is Good Sportsmanship?
+              type: video
+            - href: https://youtu.be/rNcfqOqDbsU
+              text: Olympians' Display of Sportsmanship Fosters Positive Attitudes
+              type: video
+            - href: https://youtu.be/BvheyBiD6Qs
+              text: What Does Sportsmanship Mean to You
+              type: video
 - requirement: 5
   text: |-
       Complete the activities in FOUR of the following options and show
@@ -92,6 +163,10 @@
       - detail: true
         text: |-
             <strong>Option 1: Sprinting</strong>
+        resources:
+            - href: https://youtu.be/2twa8CAFPls
+              text: How to Sprint
+              type: video
       - requirement: a
         text: |-
             100-meter dash
@@ -101,6 +176,10 @@
       - detail: true
         text: |-
             <strong>Option 2: Long-Distance Running</strong>
+        resources:
+            - href: https://youtu.be/ZKCwpW-l_wU
+              text: Improving Your Running Form
+              type: video
       - requirement: a
         text: |-
             3k run
@@ -113,30 +192,64 @@
       - requirement: a
         text: |-
             Running long jump OR running high jump (best of three tries)
+        resources:
+            - href: https://youtu.be/PeC29LbR94U
+              text: Running Long Jump
+              type: video
+            - href: https://youtu.be/NLufVXI7HOQ
+              text: Running High Jump
+              type: video
       - requirement: b
         text: |-
             Standing long jump OR standing high jump (best of three tries)
+        resources:
+            - href: https://youtu.be/dVgtvAXeBQw
+              text: Standing Long Jump
+              type: video
+            - href: https://youtu.be/Q6mxzUBF1_Q
+              text: Standing High Jump
+              type: video
       - detail: true
         text: |-
             <strong>Option 4: Swimming</strong>
       - requirement: a
         text: |-
             100-meter swim
+        resources:
+            - href: https://youtu.be/G-Gy76-tGLE
+              text: How to Swim Laps
+              type: video
       - requirement: b
         text: |-
             200-meter swim
+        resources:
+            - href: https://youtu.be/libZMpLYfEM
+              text: Best Way to Swim a 200m
+              type: video
       - detail: true
         text: |-
             <strong>Option 5: Pull-Ups AND Push-Ups</strong>
       - requirement: a
         text: |-
             Pull-ups in two minutes
+        resources:
+            - href: https://youtu.be/eSPO3E7Qoy4
+              text: How to Do a Pull-Up
+              type: video
       - requirement: b
         text: |-
             Push-ups in two minutes
+        resources:
+            - href: https://youtu.be/x-bWOeFFQvk
+              text: How to Do a Push-Up
+              type: video
       - detail: true
         text: |-
             <strong>Option 6: Baseball Throw</strong>
+        resources:
+            - href: https://youtu.be/UHRU973uu2c
+              text: How to Throw a Baseball
+              type: video
       - requirement: a
         text: |-
             Baseball throw for accuracy, 10 throws at a target (distance to be
@@ -148,6 +261,16 @@
       - detail: true
         text: |-
             <strong>Option 7: Basketball Shooting</strong>
+        resources:
+            - href: https://youtu.be/iW2VFzBiaQo
+              text: How to Shoot a Free Throw
+              type: video
+            - href: https://youtu.be/q4IqeXob_qg
+              text: How to Shoot a Layup
+              type: video
+            - href: https://youtu.be/UcnB9e5O5NY
+              text: How to Shoot a Basketball
+              type: video
       - requirement: a
         text: |-
             Basketball shot for accuracy, 10 free-throw shots
@@ -188,19 +311,35 @@
       - requirement: a
         text: |-
             Goals from the 10-yard line, eight kicks
+        resources:
+            - href: https://youtu.be/ROZXyk98Oto
+              text: Shooting a Soccer Free Kick
+              type: video
       - requirement: b
         text: |-
             Football kick or soccer kick for distance, five kicks (total
             distance)
+        resources:
+            - href: https://youtu.be/vJ3BHM9U-S0
+              text: Kick a Football Field Goal
+              type: video
       - detail: true
         text: |-
             <strong>Option 9: Weight Training</strong>
       - requirement: a
         text: |-
             Chest/bench press, two sets of 15 repetitions each
+        resources:
+            - href: https://youtu.be/bt-yRU4HEZ4
+              text: How to Bench Press
+              type: video
       - requirement: b
         text: |-
             Leg curls, two sets of 15 repetitions each
+        resources:
+            - href: https://youtu.be/UAod62tMmhk
+              text: How to Do Leg Curls
+              type: video
 - requirement: 6
   text: |-
       Do the following:
@@ -211,9 +350,20 @@
             10 activities, at least five of which must come from the groups
             mentioned in requirement 5. Outline the duties of each official needed
             and list the equipment the meet will require.
+        resources:
+            - href: https://youtu.be/IKYtSzrvCjA
+              text: Planning a Field Day
+              type: video
       - requirement: b
         text: |-
             With your parent or guardian's and counselor's approval, serve as an
             official or volunteer at a sports meet to observe officials in action.
             Tell your counselor about your responsibilities at the meet and discuss
             what you learned.
+        resources:
+            - href: https://youtu.be/ZVFce0ZtaSk
+              text: How to Serve as a Swim Meet Timer
+              type: video
+            - href: https://youtu.be/BGW1IZPLuGk
+              text: Rules of a Swim Meet
+              type: video

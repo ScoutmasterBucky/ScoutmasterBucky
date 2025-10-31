@@ -3,7 +3,7 @@
 # HTML is different than the rest. It's one column, not two.
 - detail: true
   text: |-
-      <b>Note: You will need access to a car or truck and its owner's manual to
+      <b>NOTE: You will need access to a car or truck and its owner's manual to
       meet some requirements for this merit badge. If you do not have your own
       vehicle, you should work with your counselor or other trusted adult to
       obtain access to a vehicle and the owner's manual for that vehicle.</b>
@@ -16,43 +16,101 @@
             Explain to your counselor the hazards you are most likely to encounter
             during automotive maintenance activities, and what you should do to
             anticipate, help prevent, mitigate, or lessen these hazards.
+        resources:
+            - href: https://youtu.be/g52rQbJd43w
+              text: Automotive Repair Safety Observations
+              type: video
       - requirement: b
         text: |-
             Discuss with your counselor the safety equipment, tools, and clothing
             used while checking or repairing a motor vehicle. Use this equipment,
             tools, and/or clothing (when needed or called for) in meeting the
             requirements for this merit badge.
+        resources:
+            - href: https://youtu.be/lT_42grmnUk
+              text: Garage and Shop Safety Basics
+              type: video
       - requirement: c
         text: |-
             Explain the different types of motors you may encounter.
+        resources:
+            - href: https://youtu.be/rlK7JIAz9WY
+              text: Difference Between Diesel and Gas Engines
+              type: video
+            - href: https://youtu.be/Bu3p2uf74r8
+              text: Different Types of Motors in Electric Vehicles
+              type: video
+            - href: https://youtu.be/H1DvkVKegJY
+              text: Different Types of Hybrid Engines
+              type: video
+            - href: https://youtu.be/wWOVzSmc72E
+              text: How Do Hydrogen Cars Work
+              type: video
       - requirement: d
         text: |-
             Explain the safety considerations when performing maintenance on a
             vehicle equipped with a high-voltage electrical system.
+        resources:
+            - href: https://youtu.be/t_jDdsC5UBc
+              text: Working on High Voltage Vehicles
+              type: video
       - requirement: e
         text: |-
             Review the maintenance chart in the vehicle owner's manual. Explain the
             requirements and time limits.
+        resources:
+            - href: https://youtu.be/vPHd0EHVU1U
+              text: Should I Follow the Manufacturer's Maintenance Schedule
+              type: video
       - requirement: f
         text: |-
             Explain the purpose, importance, and limitations of safety belts and
             passive restraints.
+        resources:
+            - href: https://youtu.be/uRaU1HMJyCo
+              text: Seatbelt | How Does it Work?
+              type: video
+            - href: https://www.nhtsa.gov/vehicle-safety/seat-belts
+              text: Seatbelts
+              type: website
+            - href: https://www.nhtsa.gov/vehicle-safety/air-bags
+              text: On Air Bags
+              type: website
       - requirement: g
         text: |-
             Find out the requirements for your state's emissions and safety
             inspections (as applicable), including how often a vehicle needs to be
             inspected.
+        resources:
+            - href: https://youtu.be/Ek-WN2dgjLQ
+              text: Tips on How to Pass State Inspection
+              type: video
       - requirement: h
         text: |-
             Explain the importance of registering a vehicle and find out the annual
             registration fee for renewing your family car's registration.
+        resources:
+            - href: https://youtu.be/QBC9o1imZO8
+              text: Vehicle Registration Near Me
+              type: video
 - requirement: 2
   text: |-
       <strong>General Maintenance.</strong> Do the following:
+  resources:
+      - href: https://youtu.be/RaxZUGP1Zr0
+        text: Your Car's Fluids
+        type: video
   children:
       - requirement: a
         text: |-
             Demonstrate how to check the following:
+        resources:
+            - href: https://youtu.be/-dWtk08fMfw
+              text: How to Care for Your Automotive Battery
+              type: video
+            - href: https://youtu.be/ytg2TCC6IKw
+              text: How to Check &amp; Properly Fill Water Levels in a Car Batter
+              type: video
         children:
             - requirement: 1
               text: |-
@@ -80,17 +138,42 @@
         text: |-
             Locate the fuse boxes; determine the type and size of fuses.
             Demonstrate the proper replacement of burned-out fuses.
+        resources:
+            - href: https://youtu.be/PF5G4llnvQs
+              text: How to Check Car Fuses
+              type: video
       - requirement: c
         text: |-
             Demonstrate how to check the condition and tension of belts and hoses.
+        resources:
+            - href: https://youtu.be/XlUK0XDpCSY
+              text: How to Inspect Belts
+              type: video
+            - href: https://youtu.be/Clv2ZlS3hB0?feature=shared
+              text: How to Check Serpentine Belt
+              type: video
+            - href: https://youtu.be/apoc2ZUU51k?feature=shared
+              text: How to Inspect Hoses
+              type: video
       - requirement: d
         text: |-
             Check the vehicle for proper operation of its lights, including the
             interior overhead lights, instrument lights, warning lights, and
             exterior bulbs.
+        resources:
+            - href: https://youtu.be/WLDE5-QVEi8
+              text: How to Check Car Lights
+              type: video
+            - href: https://youtu.be/k3ckC8FCwsU
+              text: Basics of Automotive Lighting Systems
+              type: video
       - requirement: e
         text: |-
             Locate and check the air filter(s).
+        resources:
+            - href: https://youtu.be/noid4J2TbpU
+              text: Check and Change Air Filter
+              type: video
 - requirement: 3
   text: |-
       <strong>Dashboard/Driver Information Center.</strong> Do the following:
@@ -100,11 +183,19 @@
             Explain the function of the fuel gauge, speedometer, tachometer, oil
             pressure, and engine temperature gauge. Point each one out on the
             instrument cluster.
+        resources:
+            - href: https://youtu.be/EDZbQdvM-dI?feature=shared
+              text: Understanding the Car Gauges
+              type: video
       - requirement: b
         text: |-
             Explain the symbols that light up on the dashboard and the difference
             between the yellow and red symbols. Explain each of the indicators on
             the dashboard, using the owner's manual if necessary.
+        resources:
+            - href: https://youtu.be/DswOF-reMRo
+              text: Dashboard Warning Lights Explained
+              type: video
       - requirement: c
         text: |-
             Explain the messages and alerts that may be displayed on the
@@ -118,21 +209,44 @@
         text: |-
             Explain the difference between tire manufacturer's and vehicle
             manufacturer's specifications and show where to find them.
+        resources:
+            - href: https://youtu.be/bW5XKi8RvR0
+              text: How to Read aTire
+              type: video
       - requirement: b
         text: |-
             Demonstrate how to check tire pressure and properly inflate a tire.
             Check the spare tire and make sure it is ready for use.
+        resources:
+            - href: https://youtu.be/0Q-Eb7aUyt4
+              text: How to Properly Check and Fill Tires
+              type: video
       - requirement: c
         text: |-
             Explain why wheel alignment is important to the life of a tire.
             Explain caster, camber, and toe-in adjustments on wheel alignment.
+        resources:
+            - href: https://youtu.be/Zs2-mdUFnrs
+              text: Understanding Wheel Alignment Process (video)
+              type: video
       - requirement: d
         text: |-
             Explain the purpose of the lateral-wear bar indicator.
+        resources:
+            - href: https://youtu.be/juwEdAk8fQU
+              text: What is a TIre Wear Indicator Bar?
+              type: video
+            - href: https://youtu.be/eX1yNinA14k
+              text: Knowing When to Replace Your Tires
+              type: video
       - requirement: e
         text: |-
             Explain how to dispose of old tires in accordance with local laws and
             regulations.
+        resources:
+            - href: https://youtu.be/eYbHXvVlPo4
+              text: 'Tires: How Do I Get Rid Of Them?'
+              type: video
 - requirement: 5
   text: |-
       <strong>Engine.</strong> Do the following:
@@ -142,14 +256,35 @@
             Explain how an internal combustion engine operates. Tell the
             differences between gasoline and diesel engines. Explain how a
             gasoline-electric hybrid vehicle is powered.
+        resources:
+            - href: https://youtu.be/gqK3dCpwzxE
+              text: 'Engines 101: Basics of How Engines Work'
+              type: video
+            - href: https://youtu.be/PFKppLZNVuU
+              text: 'Engines 101: How Does a Diesel Engine Work'
+              type: video
+            - href: https://youtu.be/hRYWqdiUlbA
+              text: How Hybrid Cars Work
+              type: video
       - requirement: b
         text: |-
             Discuss the purpose of engine oil. Explain the API service code, the
             SAE number, and the viscosity rating.
+        resources:
+            - href: https://youtu.be/zOm_qlge9sE
+              text: API Motor Oil Ratings Explained
+              type: video
+            - href: https://youtu.be/I09djHVZbaw
+              text: What Do SAE Grades Mean
+              type: video
       - requirement: c
         text: |-
             Explain where to find the recommended oil type and the amount of oil to
             be used in the vehicle engine.
+        resources:
+            - href: https://youtu.be/UdzbRMy0sYU
+              text: Choosing the Correct Engine Oil
+              type: video
 - requirement: 6
   text: |-
       <strong>Cooling System.</strong> Do the following:
@@ -158,10 +293,18 @@
         text: |-
             Explain the need for coolant in the cooling system, and the importance
             of selecting the correct coolant type for a given vehicle.
+        resources:
+            - href: https://youtu.be/E6UieoMzvxM
+              text: Role of Antifreeze/Coolant
+              type: video
       - requirement: b
         text: |-
             Explain how to flush and change the engine coolant in the vehicle, and
             how to properly dispose of the used coolant.
+        resources:
+            - href: https://youtu.be/XdyZDw7jOP0
+              text: Flushing and Filling Your Coolant System
+              type: video
 - requirement: 7
   text: |-
       <strong>Fuel System.</strong> Do the following:
@@ -170,10 +313,21 @@
         text: |-
             Explain how the air and fuel systems work together and why it is
             necessary to have an air filter and fuel filter.
+        resources:
+            - href: https://www.youtube.com/shorts/3RRpjRclwwY
+              text: How Air Filter Works
+              type: video
+            - href: https://youtu.be/sZLtnnAgs60
+              text: Animation Fuel Filter
+              type: video
       - requirement: b
         text: |-
             Explain how a how a fuel injection system works and how an onboard
             computer works with the fuel injection system.
+        resources:
+            - href: https://youtu.be/DI4Oci7U2lA
+              text: How a Car Fuel Injection System Works Explained Step-by-Step!
+              type: video
 - requirement: 8
   text: |-
       <strong>Ignition and Electrical Systems.</strong> Do the following:
@@ -182,34 +336,73 @@
         text: |-
             Diagram and explain the parts of one of the following electrical
             systems:
+        resources:
+            - href: https://youtu.be/XO-3nCYHeFQ
+              text: Car Electrical System Explained
+              type: video
         children:
             - requirement: 1
               text: |-
                   Starting/charging system
+              resources:
+                  - href: https://youtu.be/IixqxkWpT5M
+                    text: Automotive Starting and Charging System
+                    type: video
             - requirement: 2
               text: |-
                   Hybrid or electric vehicle inverter
+              resources:
+                  - href: https://youtu.be/wbfOoQgg7Tk
+                    text: The Role of Inverters for EV Propulsion Systems
+                    type: video
             - requirement: 3
               text: |-
                   Lighting system.
+              resources:
+                  - href: https://youtu.be/ST5nz8M9Lcg
+                    text: Automotive Lighting Circuits
+                    type: video
       - requirement: b
         text: |-
             Explain the engine's firing order.
+        resources:
+            - href: https://youtu.be/ss0GMKBYCks
+              text: Explain Engine Firing Order | Automobile Engineering
+              type: video
       - requirement: c
         text: |-
             Explain the purpose of the spark gap.
+        resources:
+            - href: https://youtu.be/iGiTXYWmSQs
+              text: What You Need to Know About Spark Plugs
+              type: video
       - requirement: d
         text: |-
             Demonstrate how to safely connect jumper cables to your car battery.
+        resources:
+            - href: https://youtu.be/iI1o2hNy2hE
+              text: How to Properly Jump Start a Car
+              type: video
+            - href: https://scoutlife.org/features/150888/how-to-jump-start-a-dead-battery/
+              text: How to Jump Start a Dead Battery
+              type: website
       - requirement: e
         text: |-
             Discuss with your counselor what factors can affect range on an
             electrified vehicle. Explain the procedure for recharging an electric
             or plug-in hybrid vehicle.
+        resources:
+            - href: https://youtu.be/FlaskUlzdmU
+              text: Factors Affecting Range
+              type: video
       - requirement: f
         text: |-
             Explain what other vehicle systems are dependent on a reliable
             electrical system.
+        resources:
+            - href: https://youtu.be/17DdpIJ6IsI
+              text: Fundamentals of Automotive Electrical Systems
+              type: video
 - requirement: 9
   text: |-
       <strong>Drive Train.</strong> Do the following:
@@ -217,20 +410,40 @@
       - requirement: a
         text: |-
             Diagram the drive train and explain the different parts.
+        resources:
+            - href: https://youtu.be/-cTJqNWwmf0
+              text: Ultimate Drive Train Guide
+              type: video
       - requirement: b
         text: |-
             Explain the difference between automatic and standard transmissions.
+        resources:
+            - href: https://youtu.be/qAdJu3cwVME
+              text: Manual vs Automatic
+              type: video
       - requirement: c
         text: |-
             Explain the types of automatic transmission fluid.
+        resources:
+            - href: https://youtu.be/0jnewEGKAp0
+              text: The Complexities of Today's Automatic Transmission Fluid
+              type: video
       - requirement: d
         text: |-
             Explain the types of lubricants used in a standard transmission, and in
             the differential and transfer case.
+        resources:
+            - href: https://youtu.be/3le9ZT5HUlk
+              text: Which Fluids to Use
+              type: video
       - requirement: e
         text: |-
             Explain the difference between front-wheel, rear-wheel, and four-wheel
             drive.
+        resources:
+            - href: https://youtu.be/-cTJqNWwmf0
+              text: Ultimate Drive Train Guide
+              type: video
 - requirement: 10
   text: |-
       <strong>Brake System.</strong> Do the following:
@@ -239,13 +452,25 @@
         text: |-
             Explain the brake system (including antilock systems) and how it
             operates.
+        resources:
+            - href: https://youtu.be/98DXe3uKwfc
+              text: Understanding ABS
+              type: video
       - requirement: b
         text: |-
             Explain the differences between disc and drum systems.
+        resources:
+            - href: https://youtu.be/RAQcvP07RHE
+              text: Drum vs Disc Brakes - What Are the Differences? (Which Is the Better Choice?)
+              type: video
       - requirement: c
         text: |-
             Demonstrate how to check the condition of a vehicle's brake system.
             After checking, make recommendations for repairs (if necessary).
+        resources:
+            - href: https://youtu.be/WzXjTrMu3lg
+              text: How to Check Pads and Rotor
+              type: video
 - requirement: 11
   text: |-
       Do TWO of the following:
@@ -262,6 +487,10 @@
             Maintenance</em> merit badge pamphlet. Use this information to
             determine the operating cost per mile for each vehicle, and discuss
             what you learn with your counselor.
+        resources:
+            - href: https://youtu.be/DW6CbYMz2uM
+              text: How to Negotiate and Buy a Used Car
+              type: video
       - requirement: b
         text: |-
             Choose a car cleaner and wax product for a vehicle you want to clean.
@@ -269,17 +498,39 @@
             the vehicle, both inside and out, and wax the exterior. Use a vinyl and
             rubber protectant (on vinyl tops, rubber door seals, sidewalls, etc.)
             and explain the importance of this protectant.
+        resources:
+            - href: https://youtu.be/9vYTXat5jZc?feature=shared
+              text: How to Wax Your Car
+              type: video
       - requirement: c
         text: |-
             Locate the manufacturer's jack. Use the jack to demonstrate how to
             engage the jack correctly on the vehicle, then change a tire correctly.
+        resources:
+            - href: https://youtu.be/owHHcbrytvU
+              text: How to Change a Flat Tire
+              type: video
       - requirement: d
         text: |-
             Perform an oil filter and oil change on a vehicle. Explain how to
             properly dispose of the used oil and filter.
+        resources:
+            - href: https://www.edmunds.com/how-to/how-to-change-your-oil-the-real-down-and-dirty.html
+              text: How to Change Your Oil
+              type: website
 - requirement: 12
   text: |-
       Find out about three career opportunities in the automotive industry. Pick
       one and find out the education, training, and experience required for this
       profession. Discuss this with your counselor, and explain why this
       profession might interest you.
+  resources:
+      - href: https://www.wyotech.edu/automotive/jobs-in-the-automotive-industry/
+        text: 10 Exciting &amp; Rewarding Jobs in the Automotive Industry
+        type: website
+      - href: https://youtu.be/BgN-1cQzbRM
+        text: 'Automotive Jobs: The Highest Paying Ones'
+        type: video
+      - href: https://youtu.be/XUmrIRsa3AE
+        text: Best Careers in the Automotive Industry
+        type: video

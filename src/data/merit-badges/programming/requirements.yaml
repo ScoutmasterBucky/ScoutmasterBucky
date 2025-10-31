@@ -1,4 +1,6 @@
 # 1 has "Do the following:" bolded. I've removed bold from those words.
+# 4a's and 4b's resources have the same link but different labels.
+# There are several Word docs that are linked as PDF. Their descriptions were updated to say docx.
 - requirement: 1
   text: |-
       <strong>Safety.</strong> Do the following:
@@ -9,17 +11,44 @@
             href="https://www.scouting.org/training/youth-protection/scouts-bsa/"
             >Personal Safety Awareness "Digital Safety" video</a> (with your
             parent or guardian's permission.)
+        resources:
+            - href: https://scoutingwire.org/social-media-guidelines/
+              text: Scouting America Social Media Guidelines
+              type: website
       - requirement: b
         text: |-
             Discuss first aid and prevention for the types of injuries that could
             occur during programming activities, including repetitive stress
             injuries and eyestrain.
+        resources:
+            - href: https://www.youtube.com/shorts/1yp0jOyARCk
+              text: Treating Repetitive Stress
+              type: video
+            - href: https://www.youtube.com/watch?v=j3ff4aeItl0
+              text: Treating Eye Strain
+              type: video
+            - href: https://www.uab.edu/news/health-medicine/new-uab-eye-care-clinic-helps-improve-vision-in-the-workplace
+              text: 5 Tips to Reduce Eye Strain
+              type: website
 - requirement: 2
   text: |-
       <strong>History.</strong> Discuss with your counselor the history of
       programming and the evolution of programming languages, including at least
       three milestones related to the advancement or development of programming
       over time.
+  resources:
+      - href: https://youtu.be/K5yv7dY17EA
+        text: 5 Minute Video of Programming Language History
+        type: video
+      - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req2-History.docx
+        text: Example With Code Examples and Pictures
+        type: docx
+      - href: https://www.computer.org/publications/tech-news/insider-membership-news/timeline-of-programming-languages
+        text: Text Descriptions of Historical Progression of Programming Languages
+        type: website
+      - href: https://www.computerhistory.org/timeline/software-languages/
+        text: Computer History Museum Timeline With Pictures
+        type: website
 - requirement: 3
   text: |-
       <strong>General Knowledge.</strong> Do the following:
@@ -29,6 +58,10 @@
             Create a list of five popular programming languages in use today and
             describe which industry or industries they are primarily used in and
             why.
+        resources:
+            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req3-General.docx
+              text: Eight Popular Programming Languages, Their Industries and Coding Examples
+              type: docx
       - requirement: b
         text: |-
             Describe three different programmed devices you rely on every day.
@@ -40,13 +73,28 @@
         text: |-
             Explain the four types of intellectual property used to protect
             computer programs.
+        resources:
+            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req4-IP.docx
+              text: Four Different Types of Intellectual Property
+              type: docx
       - requirement: b
         text: |-
             Describe the difference between licensing and owning software.
+        resources:
+            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req4-IP.docx
+              text: The Difference Between Licensing and Owning Software
+              type: docx
       - requirement: c
         text: |-
             Describe the differences between freeware, open source, and commercial
             software, and why it is important to respect the terms of use of each.
+        resources:
+            - href: https://www.youtube.com/watch?v=SdW5pnha9kg
+              text: Open Source VS Commercial Software
+              type: video
+            - href: https://www.geeksforgeeks.org/software-engineering/difference-between-free-software-and-open-source-software/
+              text: Free VS Open Source Software
+              type: website
 - requirement: 5
   text: |-
       <strong>Project.</strong> With your counselor's guidance, select three
@@ -66,13 +114,31 @@
         text: |-
             In the second language and environment, write or modify a program,
             debug and demonstrate, and explain as above.
+        resources:
+            - href: https://www.youtube.com/watch?v=s07aEbPwThM
+              text: Programming Merit Badge Welcome! From AutomationDirect
+              type: video
       - requirement: c
         text: |-
             In the third language and environment, write or modify a program, debug
             and demonstrate, and explain as above.
+        resources:
+            - href: https://www.codedex.io/
+              text: Codedex / Start Your Coding Adventure
+              type: website
 - requirement: 6
   text: |-
       <strong>Careers.</strong> Find out about three career opportunities that
       require knowledge in programming. Pick one and find out the education,
       training, and experience required. Discuss this with your counselor and
       explain why this career might be of interest to you.
+  resources:
+      - href: https://youtu.be/2VpDcjFshJI
+        text: Variety of jobs for Computer Scientists
+        type: video
+      - href: https://www.rasmussen.edu/degrees/technology/blog/programming-careers-for-coding-connoisseurs/
+        text: 9 Computer Coding Careers
+        type: website
+      - href: https://www.wgu.edu/career-guide/information-technology/computer-programmer-career.html
+        text: Education Required to Become a Computer Programmer
+        type: website

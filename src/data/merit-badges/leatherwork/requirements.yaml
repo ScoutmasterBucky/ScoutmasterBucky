@@ -1,18 +1,36 @@
 - requirement: 1
   text: |-
       Do the following:
+  resources:
+      - href: https://youtu.be/p5wSqJO-bIc
+        text: Be Prepared
+        type: video
   children:
       - requirement: a
         text: |-
             Explain to your counselor the hazards you are most likely to encounter
             while using leatherwork tools and materials, and what you should do to
             anticipate, help prevent, mitigate, or lessen these hazards.
+        resources:
+            - href: https://youtu.be/eDDvWMyOPO8
+              text: Safety in Leatherwork | Dangers and Health and Safety Tips
+              type: video
       - requirement: b
         text: |-
             Show that you know first aid for injuries or illnesses that could occur
             while working with leather, including minor cuts and scratches,
             puncture wounds, ingested poisoning, and reactions from exposure to
             chemicals such as dyes, cements, and finishes used in leatherworking.
+        resources:
+            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Leatherwork/Leatherwork_First%20Aid.pdf
+              text: First Aid
+              type: pdf
+            - href: https://www.aad.org/public/everyday-care/injured-skin/burns/treat-minor-cuts
+              text: First Aid for Minor Cuts
+              type: website
+            - href: https://www.mayoclinic.org/first-aid/first-aid-puncture-wounds/basics/art-20056665
+              text: First Aid for Puncture Wounds
+              type: website
 - requirement: 2
   text: |-
       Explain the following:
@@ -20,15 +38,37 @@
       - requirement: a
         text: |-
             Where leather comes from
+        resources:
+            - href: https://youtu.be/oNTWz7bwolc
+              text: How is Leather Made?
+              type: video
       - requirement: b
         text: |-
             Kinds of hides that are used to make leather
+        resources:
+            - href: https://youtu.be/UifaYowyj44
+              text: Picking the Best Part of the Leather Hide
+              type: video
+            - href: https://leatherado.com/pages/useful-leather-craft-charts
+              text: Useful Leather Crafting Charts
+              type: website
       - requirement: c
         text: |-
             Five types of leather
+        resources:
+            - href: https://youtu.be/fCrCwKpBXe4
+              text: Leather Is Made From Which Animal
+              type: video
       - requirement: d
         text: |-
             Best uses for each type of leather.
+        resources:
+            - href: https://youtu.be/NNppGlzskQU
+              text: What Leather Should I Use for Tooling?
+              type: video
+            - href: https://youtu.be/i9chSW724QI
+              text: Choosing the Correct Leather for your Project
+              type: video
 - requirement: 3
   text: |-
       Make one or more articles of leather that use at least five of the
@@ -37,30 +77,93 @@
       - requirement: a
         text: |-
             Pattern layout and transfer
+        resources:
+            - href: https://youtu.be/zkA_TImwL7k
+              text: Transferring Patterns
+              type: video
+            - href: https://youtu.be/dIZWhRV43WE
+              text: '"Tap offs" or Mirrored Image Transfers'
+              type: video
       - requirement: b
         text: |-
             Cutting leather
+        resources:
+            - href: https://youtu.be/KwamMpHW9Ls
+              text: Best Practices for Cutting Leather
+              type: video
       - requirement: c
         text: |-
             Punching holes
+        resources:
+            - href: https://youtu.be/lu14WIqvxHw
+              text: How to Use a Rotary Hole Punch
+              type: video
+            - href: https://youtu.be/ei1wqcTX3BQ
+              text: How to Punch Holes
+              type: video
       - requirement: d
         text: |-
             Carving or stamping surface designs
+        resources:
+            - href: https://youtu.be/mhYUU3soIac
+              text: Basic Leather Carving
+              type: video
+            - href: https://youtu.be/J-ngZ2h4GPA
+              text: How to Stamp Leather
+              type: video
       - requirement: e
         text: |-
             Applying dye or stain and finish to the project
+        resources:
+            - href: https://youtu.be/DJ8s7wH-YCg
+              text: Basics of Hand Dyeing Leather
+              type: video
       - requirement: f
         text: |-
             Assembly by lacing or stitching
+        resources:
+            - href: https://youtu.be/GYnXLSGakYA
+              text: How to Punch Holes (for Sewing) in Leather
+              type: video
+            - href: https://youtu.be/CepMYy3yra8
+              text: How to Choose the Right Thread and Needle Size for Hand-Sewing in Leather
+              type: video
+            - href: https://youtu.be/Hd103-7adK8
+              text: The Most Common Stitches in Hand-Stitching for Leatherwork
+              type: video
+            - href: https://youtu.be/Eew734WXXzs
+              text: How to Start and End Hand-Swing Lines in Leather
+              type: video
       - requirement: g
         text: |-
             Setting snaps and rivets
+        resources:
+            - href: https://youtu.be/egQHoUw58r4
+              text: How to Set Snaps
+              type: video
+            - href: https://youtube.com/shorts/Bb387hzctjA
+              text: How to Remove a Snap
+              type: video
+            - href: https://youtu.be/l0VJgjHJN1c
+              text: How to Set Rivets
+              type: video
       - requirement: h
         text: |-
             Dressing edges.
+        resources:
+            - href: https://youtu.be/kb8yyG3TO70
+              text: Edge Finishing Techniques
+              type: video
 - requirement: 4
   text: |-
       Braid or plait an article out of leather, vinyl lace, or paracord.
+  resources:
+      - href: https://youtu.be/TtncZNCWpQE
+        text: Four Strand Round Braid
+        type: video
+      - href: https://youtu.be/qjqXAV9lyns
+        text: 'Plaiting: How to Braid Any Number of Cords'
+        type: video
 - requirement: 5
   text: |-
       Do ONE of the following:
@@ -69,18 +172,43 @@
         text: |-
             Learn about the commercial tanning process. Report about it to your
             counselor.
+        resources:
+            - href: https://youtu.be/6Cn7QqdFIxc
+              text: How is Leather Made?
+              type: video
       - requirement: b
         text: |-
             Tan the skin of a small animal. Describe the safety precautions you
             will take and the tanning method that you used.
+        resources:
+            - href: https://youtu.be/RJNyABFzWPw
+              text: How to Tan Animal Hides (Never Destroy Animals for This Purpose)
+              type: video
       - requirement: c
         text: |-
             Recondition or show that you can take proper care of your shoes, a
             baseball glove, a saddle, furniture, or other articles of leather.
             Discuss with your counselor the advantages or disadvantages of leather
             vs. synthetic materials.
+        resources:
+            - href: https://youtu.be/MSaNoMNrZxU
+              text: How to Clean &amp; Shine Leather Shoes!
+              type: video
+            - href: https://youtu.be/sNXcHCHK-wI
+              text: How to Care for Your Baseball Glove
+              type: video
+            - href: https://youtu.be/g_oDJhwVKFI
+              text: How to Clean a Western Saddle
+              type: video
+            - href: https://youtu.be/2NUr6y3R7Mg
+              text: How to Remove Mold and Mildew on Leather
+              type: video
       - requirement: d
         text: |-
             Visit a leather-related business. This could be a leathercraft supply
             company, a tannery, a leather goods or shoe factory, or a saddle shop.
             Report on your visit to your counselor.
+        resources:
+            - href: https://youtu.be/ljq0x4as32U
+              text: A Random Walk Through Horween Leather
+              type: video

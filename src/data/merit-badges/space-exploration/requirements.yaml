@@ -6,20 +6,51 @@
       - requirement: a
         text: |-
             Historical reasons
+        resources:
+            - href: https://youtu.be/TL__l9gC1Ss
+              text: The History of Space Exploration
+              type: video
+            - href: https://youtu.be/3JuKR7jf46o
+              text: 'The History of Space Exploration: A Timeline'
+              type: video
+            - href: https://education.nationalgeographic.org/resource/history-space-exploration/
+              text: The History of the Space Race
+              type: website
       - requirement: b
         text: |-
             Immediate goals in terms of specific knowledge
       - requirement: c
         text: |-
             Benefits related to Earth resources, technology, and new products
+        resources:
+            - href: https://youtube.com/shorts/i3D4pCq_lyg
+              text: How Space Benefits Earth
+              type: video
+            - href: https://youtube.com/shorts/jPuqA136SfA
+              text: Space Exploration, Is It Really Worth It? Yes.
+              type: video
+            - href: https://youtube.com/shorts/_2uSv1C-FDw
+              text: 10 Surprising Ways Space Exploration Benefits Life on Earth
+              type: video
       - requirement: d
         text: |-
             International relations and cooperation.
+        resources:
+            - href: https://youtu.be/TS27Br2-XgY
+              text: What Role Does International Cooperation Play in Space Exploration?
+              type: video
 - requirement: 2
   text: |-
       Design a collector's card, with a picture on the front and information on
       the back, about your favorite space pioneer. Share your card and discuss
       four other space pioneers with your counselor.
+  resources:
+      - href: https://youtu.be/PkCCLH_f1us
+        text: Here's How I Make Custom Trading Cards
+        type: video
+      - href: https://youtu.be/vYbeo4iS1Pc
+        text: How to Make Trading Cards By Hand
+        type: video
 - requirement: 3
   text: |-
       Build, launch, and recover a model rocket. Make a second launch to
@@ -35,6 +66,13 @@
       the functions of the parts. Give the history of the rocket.
       <div class="gap"></div>
       Identify and explain the following rocket parts:
+  resources:
+      - href: https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/bgmr.html
+        text: NASA "Rocket Parts" - Beginner's Guide
+        type: website
+      - href: https://www.nar.org/content.aspx?page_id=22&club_id=114127&module_id=669619
+        text: National Association of Rocketry Educational Video Series on Model Rocketry
+        type: website
   children:
       - requirement: a
         text: |-
@@ -66,16 +104,41 @@
 - requirement: 4
   text: |-
       Discuss and demonstrate each of the following:
+  resources:
+      - href: https://science.nasa.gov/learn/basics-of-space-flight/
+        text: NASA "Basics of Space Flight"
+        type: website
   children:
       - requirement: a
         text: |-
             The law of action-reaction
+        resources:
+            - href: https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/
+              text: Newton's Law of Motion
+              type: website
       - requirement: b
         text: |-
             How rocket engines work
+        resources:
+            - href: https://science.howstuffworks.com/rocket.htm
+              text: How Rocket Engines Work
+              type: website
+            - href: https://youtu.be/gz8L1i0ODeA
+              text: Rocket Engines Explained
+              type: website
+            - href: https://plus.nasa.gov/video/how-do-we-launch-things-into-space/
+              text: How Do We Launch Things Into Space
+              type: website
       - requirement: c
         text: |-
             How satellites stay in orbit
+        resources:
+            - href: https://youtu.be/IC1JQu9xGHQ
+              text: How Do Satellites Get &amp; Stay in Orbit?
+              type: video
+            - href: https://youtu.be/5PCY0rTllPg
+              text: How Satellites Orbit
+              type: video
       - requirement: d
         text: |-
             How satellite pictures of Earth and pictures of other planets are made
@@ -90,6 +153,19 @@
             historic crewed mission. Tell about each mission's major discoveries,
             its importance, and what was learned from it about the planets, moons,
             or regions of space explored.
+        resources:
+            - href: https://youtu.be/uJpJ79AxrzI
+              text: Voyager
+              type: video
+            - href: https://youtu.be/jUW_1XlrWmg
+              text: Putting Man on The Moon in 11 Years | The Apollo Program
+              type: video
+            - href: https://youtu.be/1gmvUPTdoP4
+              text: NASA SpaceX Crew Dragon Launch
+              type: video
+            - href: https://www.youtube.com/watch?v=0-oQRSViZQE
+              text: Mars Perseverance Rover
+              type: video
       - requirement: b
         text: |-
             Using articles from the internet, photographs and text, create a blog,
@@ -111,30 +187,83 @@
         text: |-
             Space shuttle or any other crewed orbital vehicle, whether
             government-owned (U.S. or foreign) or commercial
+        resources:
+            - href: https://youtu.be/9zu6gReRV98
+              text: First Space Shuttle
+              type: video
+            - href: https://www.youtube.com/watch?v=w4FCkbPykdQ
+              text: How the Space Shuttle Worked
+              type: video
+            - href: https://youtu.be/1gmvUPTdoP4
+              text: NASA SpaceX Crew Dragon Launch
+              type: video
+            - href: https://youtu.be/_v7YgDum2Sg
+              text: Soyuz
+              type: video
       - requirement: b
         text: |-
             International Space Station.
+        resources:
+            - href: https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-international-space-station-grades-5-8/
+              text: What is the International Space Station?
+              type: website
+            - href: https://www.nasa.gov/spot-the-station/
+              text: How to Spot the International Space Station (ISS)
+              type: website
 - requirement: 7
   text: |-
       Design an inhabited base located within our solar system, such as Titan,
       asteroids, or other locations that humans might want to explore in person.
       Make drawings or a model of your base. In your design, consider and plan
       for the following:
+  resources:
+      - href: https://youtu.be/ATgwz_hS3Qg
+        text: How NASA Will Build a City on the Moon
+        type: video
   children:
       - requirement: a
         text: |-
             Source of energy
+        resources:
+            - href: https://www.nasa.gov/wp-content/uploads/2023/05/you-cant-take-it-all-with-you-grades-6-12-students-tagged.pdf
+              text: You Can't Take It All With You
+              type: pdf
       - requirement: b
         text: |-
             How it will be constructed
+        resources:
+            - href: https://youtu.be/ajP0AlYxhug
+              text: How NASA Plans to Build the First Moon Base
+              type: video
       - requirement: c
         text: |-
             Life-support system
+        resources:
+            - href: https://youtu.be/2tr6rJrv8hs
+              text: Robots Building a Mars Base
+              type: video
       - requirement: d
         text: |-
             Purpose and function
+        resources:
+            - href: https://youtu.be/ZbOg_cC1_Eo
+              text: How Robots Will Build on Mars
+              type: video
 - requirement: 8
   text: |-
       Discuss with your counselor two possible careers in space exploration that
       interest you. Find out the qualifications, education, and preparation
       required and discuss the major responsibilities of those positions.
+  resources:
+      - href: https://www.nasa.gov/humans-in-space/astronauts/astronaut-requirements/
+        text: Astronaut Requirements
+        type: website
+      - href: https://www.youtube.com/watch?v=uTreDAUe7w4
+        text: So You Want to Be an Aerospace Engineer
+        type: video
+      - href: https://www.youtube.com/watch?v=2Y2fNtYnsFQ
+        text: Should I become an Aerospace Engineer?
+        type: video
+      - href: https://astrobiology.nasa.gov/resources/graphic-histories/
+        text: Becoming an Astrobiologist
+        type: website
