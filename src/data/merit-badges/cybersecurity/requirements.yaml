@@ -34,12 +34,15 @@
             safe while using a mobile device (for example while walking or
             biking).
         resources:
-            - href: https://www.youtube.com/watch?v=Vgrqa189Jy0
+            - href: https://youtu.be/Vgrqa189Jy0
               text: How to Avoid Strained Eyes From Staring at Digital Screens
               type: video
-            - href: https://www.youtube.com/watch?v=FDpmRs0L_a8
-              text: Doctors Share How to Prevent Smartphone Related Injuries Like "Text Neck" and "Smartphone Pinky"
+            - href: https://youtu.be/FDpmRs0L_a8
+              text: Doctors Share How to Prevent Smartphone Related Injuries Like "Text Neck" and "Smartphone Pinky."
               type: video
+            - href: https://www.kidsplus.com/parent-resources/doctors-notes/computer-ergonomics/
+              text: Computer Ergonomics
+              type: website
 - requirement: 2
   text: |-
       <b>Ethics.</b> Do the following:
@@ -83,14 +86,17 @@
             Describe three types of computer systems that need protecting and
             explain why.
         resources:
-            - href: https://www.youtube.com/watch?v=n_kKEimNhgY
+            - href: https://youtu.be/n_kKEimNhgY
               text: Cybersecurity Explained | Future of Tech
               type: video
             - href: https://www.futureoftech.org/cybersecurity/1-what-is-cybersecurity/#section-1
-              text: "What Is Cybersecurity? Why Do We Need Cybersecurity?: CompTIA's Future of Tech"
+              text: What Is Cybersecurity? Why Do We Need Cybersecurity?
+              type: website
+            - href: https://www.futureoftech.org/cybersecurity/5-impact-of-cybersecurity/
+              text: The Impact of Cybersecurity
               type: website
             - href: https://www.cyberdefensemagazine.com/cybersecurity-in-critical-infrastructure-protecting-power-grids-and-smart-grids/
-              text: 'Cybersecurity in Critical Infrastructure: Protecting Power Grids and Smart Grids—Cyber Defense Magazine'
+              text: 'Cybersecurity in Critical Infrastructure: Protecting Power Grids and Smart Grids'
               type: website
       - requirement: b
         text: |-
@@ -118,7 +124,7 @@
             - href: https://www.youtube.com/watch?v=AuYNXgO_f3Y
               text: 'The Internet: Cybersecurity &amp; Crime'
               type: video
-            - href: https://www.youtube.com/watch?v=_GzE99AmAQU&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=33
+            - href: https://www.youtube.com/watch?v=_GzE99AmAQU
               text: 'Hackers &amp; Cyber Attacks: Crash Course Computer Science #32'
               type: video
             - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
@@ -165,8 +171,8 @@
             - href: https://youtu.be/YfiM8rXg3ug
               text: 'How Not to Get Hacked: Phishing'
               type: video
-            - href: https://www.cisa.gov/secure-our-world/recognize-and-report-phishing
-              text: Recognize and Report Phishing | CISA
+            - href: https://beinternetawesome.withgoogle.com/
+              text: Be Internet Alert
               type: website
       - requirement: e
         text: |-
@@ -234,7 +240,7 @@
             intrusion detection/prevention systems, and Virtual Private Network.
         resources:
             - href: https://youtu.be/bPVaOlJ6ln0
-              text: 'Cybersecurity: Crash Course Computer Science #31 - YouTube'
+              text: 'Cybersecurity: Crash Course Computer Science #31'
               type: video
             - href: https://www.cisa.gov/news-events/news/understanding-firewalls-home-and-small-office-use
               text: Understanding Firewalls for Home and Small Office Use | CISA
@@ -252,11 +258,11 @@
                   updates on your computer, why they are needed, and what kinds of
                   problems they can prevent.
               resources:
-                  - href: https://www.youtube.com/watch?v=goMnkhKBOHY
-                    text: 'How Not to Get Hacked: Install Updates (Code.org)'
+                  - href: https://youtu.be/goMnkhKBOHY
+                    text: 'How Not To Get Hacked: Install Updates (Code.org)'
                     type: video
-                  - href: https://www.cisa.gov/secure-our-world/update-software
-                    text: Update Software | CISA
+                  - href: https://www.safesearchkids.com/how-important-are-software-updates-for-device-safety-and-your-protection/
+                    text: How Important Are Software Updates
                     type: website
             - requirement: 2
               text: |-
@@ -281,20 +287,17 @@
                   Describe what makes a good password and why. Set or change an
                   account password to one that is "strong."
               resources:
-                  - href: https://www.youtube.com/watch?v=qLMIK5YVgfA
+                  - href: https://youtu.be/qLMIK5YVgfA
                     text: 'How Not to Get Hacked: Passwords'
                     type: video
                   - href: https://cyber.org/find-curricula/defense-depth-keys-cybersecurity
-                    text: Defense in Depth—Keys to Cybersecurity | Cyber.org
+                    text: Defense in Depth — Keys to Cybersecurity | Cyber.org
                     type: website
-                  - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-                    text: Protecting Your Digital Footprint - Keys to Cybersecurity
+                  - href: https://www.khanacademy.org/college-careers-more/internet-safety/xef9bb6e081c9f4ff:online-data-security/xef9bb6e081c9f4ff:pii-personally-identifiable-information/v/why-creating-a-strong-password-really-matters
+                    text: Why Creating a Strong password Really Matters | Khan Academy
                     type: website
-                  - href: https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:online-data-security/xcae6f4a7ff015e7d:user-authentication-methods/a/strong-passwords
-                    text: Strong Passwords | Khan Academy
-                    type: website
-                  - href: https://www.cisa.gov/secure-our-world/use-strong-passwords
-                    text: Use Strong Passwords | CISA
+                  - href: https://beinternetawesome.withgoogle.com/en_us
+                    text: Secure Your Secrets
                     type: website
             - requirement: 2
               text: |-
@@ -308,11 +311,8 @@
                   - href: https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:online-data-security/xcae6f4a7ff015e7d:user-authentication-methods/a/multi-factor-authentication
                     text: Multi-factor Authentication | Khan Academy
                     type: website
-                  - href: https://www.cisa.gov/secure-our-world/turn-mfa
-                    text: Turn On MFA | CISA
-                    type: website
-                  - href: https://www.cisa.gov/MFA
-                    text: More Than a Password | CISA
+                  - href: https://kids.kiddle.co/Multi-factor_authentication
+                    text: Multi-factor Authentication Facts
                     type: website
             - requirement: 3
               text: |-
@@ -360,7 +360,7 @@
                     text: How to Tell What's Running in the Background on Your PC
                     type: video
                   - href: https://support.apple.com/en-bw/guide/activity-monitor/actmntr1001/mac
-                    text: View Information About Mac Processes in Activity Monitor - Apple Support (Bw)
+                    text: View Information About Mac Processes in Activity Monitor - Apple Support
                     type: website
                   - href: https://youtu.be/Mg0vwI2ZmMA
                     text: Kill Apps and Processes on Chromebook Using the Task Manager
@@ -412,8 +412,8 @@
                   and make a checklist of FIVE things you and your family can do to stay
                   secure.
               resources:
-                  - href: https://www.cisa.gov/secure-our-world
-                    text: Secure Our World | CISA
+                  - href: https://consumer.ftc.gov/articles/how-secure-your-home-wi-fi-network
+                    text: How to Secure My Home
                     type: website
                   - href: https://www.cisa.gov/news-events/news/home-network-security
                     text: Home Network Security | CISA
@@ -506,14 +506,14 @@
                   compare the new checksum to the original as a demonstration of file
                   integrity checking.
               resources:
-                  - href: https://www.youtube.com/watch?v=b4b8ktEV4Bg
+                  - href: https://youtu.be/b4b8ktEV4Bg
                     text: Hashing Algorithms and Security - Computerphile
                     type: video
                   - href: https://www.tools4noobs.com/online_tools/hash/
-                    text: Online Hash Calculator
+                    text: Online Hash Calculator - Online Tools
                     type: website
-                  - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
-                    text: Protecting Your Digital Footprint - Keys to Cybersecurity
+                  - href: https://youtu.be/YM2CE6zKvoo
+                    text: How to Quickly Verify MD5, SHA1, and SHA2 (256, 384, 512) Checksum in Windows Using Command Prompt
                     type: website
             - requirement: 4
               text: |-
@@ -611,14 +611,14 @@
             associated with this career. Discuss what you learned with your
             counselor and whether you might be interested in this career.
         resources:
-            - href: https://www.cybermission.tech/game
+            - href: https://cyber.org/sites/default/files/2025-04/
               text: Career Exploration Cards | Cyber.org
               type: pdf
             - href: https://cyber.org/career-exploration/degrees-certifications
               text: Degrees &amp; Certifications | Cyber.org
               type: website
             - href: https://youtu.be/f_69UzSfBsA
-              text: Information security and forensics analyst | What I do
+              text: Information Security and Forensics Analyst | What I Do
               type: video
             - href: https://www.futureoftech.org/cybersecurity/6-careers-in-cybersecurity/
               text: "Careers in Cybersecurity: CompTIA's Future of Tech"

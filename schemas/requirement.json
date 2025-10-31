@@ -16,32 +16,7 @@
             ]
         },
         "resources": {
-            "description": "One or more resources that relate to the requirement",
-            "type": "array",
-            "items": {
-                "type": "object",
-                "properties": {
-                    "href": {
-                        "type": "string"
-                    },
-                    "text": {
-                        "type": "string"
-                    },
-                    "type": {
-                        "type": "string",
-                        "enum": [
-                            "pdf",
-                            "podcast",
-                            "video",
-                            "website",
-                            "website with videos"
-                        ]
-                    }
-                },
-                "additionalProperties": false,
-                "required": ["text"]
-            },
-            "minItems": 1
+            "$ref": "./resource-list.json"
         },
         "text": {
             "description": "HTML content",

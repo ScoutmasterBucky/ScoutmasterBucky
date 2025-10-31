@@ -13,6 +13,11 @@ import { promises as fsPromises } from "fs";
 
 const downloadables = [
     {
+        key: 'counselor-info',
+        desc: 'Counselor information pages for merit badges',
+        fn: downloadCounselorInformation
+    },
+    {
         key: "merit-badges",
         desc: "Scouts BSA merit badges",
         fn: downloadMeritBadges
@@ -74,10 +79,21 @@ function safeName(name) {
         .replace(/ +/g, "-");
 }
 
+// Mitigate multiple HTML fetches for the same page
+let lastUrl = '';
+let lastRequestUrl = '';
+let lastBody = '';
+
 async function getHtmlDom(url) {
-    const response = await got(url);
-    const dom = parseHTML(response.body);
-    dom.requestUrl = response.request.requestUrl;
+    if (lastUrl !== url) {
+        lastUrl = url;
+        const response = await got(url);
+        lastRequestUrl = response.request.requestUrl;
+        lastBody = response.body;
+    }
+
+    const dom = parseHTML(lastBody);
+    dom.requestUrl = lastRequestUrl;
 
     return dom;
 }
@@ -133,17 +149,24 @@ async function getPdfText(body) {
     return textArray.join("\n\n\n");
 }
 
-async function savePdfAndText(downloadUrlInfo, url, destPdf) {
+async function saveBinaryFile(downloadUrlInfo, url, destPdf) {
     async function writeToFile(response) {
         await fsPromises.writeFile(destPdf, response.body);
-        const text = await getPdfText(response.body);
-        await fsPromises.writeFile(
-            destPdf.replace(/\.pdf$/, ".txt"),
-            text
-        );
+
+        if (destPdf.match(/\.pdf$/)) {
+            // Also convert PDF to text for easier detection of what changed
+            const text = await getPdfText(response.body);
+            await fsPromises.writeFile(
+                destPdf.replace(/\.pdf$/, ".txt"),
+                text
+            );
+        }
     }
 
     // First, check if we already have the most recent version
+    // Careful with the comparison because one URL can be used for multiple
+    // destinations - e.g. the Music and Bugling merit badge pamphlet is
+    // combined.
     const urlString = `${url}`;
     let previousInfo = downloadUrlInfo.find((item) => item.url === urlString && item.destination === destPdf);
 
@@ -209,6 +232,56 @@ function resolveUrl(link, dom) {
     return new URL(link.getAttribute("href"), dom.requestUrl);
 }
 
+async function downloadCounselorInformation(updated, downloadUrlInfo) {
+    heading("Counselor Information");
+    const indexUrl = 'https://www.scouting.org/skills/merit-badges/counselor-information/';
+    await saveHtml(indexUrl, 'src/data/counselor-information.html.orig', '[data-id="7627899f"]');
+    await downloadList(updated, downloadUrlInfo, "counselor-information", [
+        {
+            key: 'artificial-intelligence-counselor-guidelines',
+            url: indexUrl,
+            dest: 'public/merit-badges/artificial-intelligence/artificial-intelligence-counselor-guidelines.pdf',
+            selector: '[data-id="2c8922a"] a',
+        },
+        {
+            key: 'aviation-camp-director-guide',
+            url: indexUrl,
+            dest: 'public/merit-badges/aviation/aviation-camp-director-guide.pdf',
+            selector: '[data-id="f7e0df5"] a',
+        },
+        {
+            key: 'aviation-counselor-presentation',
+            url: indexUrl,
+            dest: 'public/merit-badges/aviation/aviation-counselor-presentation.pptx',
+            selector: '[data-id="1e9d65b"] a',
+        },
+        {
+            key: 'aviation-event-coordinator-guide',
+            url: indexUrl,
+            dest: 'public/merit-badges/aviation/aviation-event-coordinator-guide.pdf',
+            selector: '[data-id="dc54b09"] a',
+        },
+        {
+            key: "citizenship-in-society-counselor-guide",
+            url: indexUrl,
+            dest: "public/merit-badges/citizenship-in-society/citizenship-in-society-counselor-guide.pdf",
+            selector: '[data-id="09c2081"] a',
+        },
+        {
+            key: 'environmental-science-counselor-guidelines',
+            url: indexUrl,
+            dest: 'public/merit-badges/environmental-science/environmental-science-counselor-guidelines.pdf',
+            selector: '[data-id="cffd4cf"] a',
+        },
+        {
+            key: 'environmental-science-resources',
+            url: indexUrl,
+            dest: 'public/merit-badges/environmental-science/environmental-science-resources.pdf',
+            selector: '[data-id="d6e33b5"] a',
+        },
+    ]);
+}
+
 async function downloadMeritBadges(updated, downloadUrlInfo, args) {
     async function fetchMeritBadge(link, indexDom) {
         const mbUrl = resolveUrl(link, indexDom);
@@ -234,7 +307,7 @@ async function downloadMeritBadges(updated, downloadUrlInfo, args) {
                 const pamphletUrl = resolveUrl(link, indexDom);
                 console.log(`[Pamphlet] ${badgeName}: ${pamphletUrl}`);
                 const pamphletDest = `public/merit-badges/${badgeName}/${badgeName}-pamphlet.pdf`;
-                await savePdfAndText(downloadUrlInfo, pamphletUrl, pamphletDest);
+                await saveBinaryFile(downloadUrlInfo, pamphletUrl, pamphletDest);
             }
         );
         updated[badgeName] = Date.now();
@@ -257,7 +330,7 @@ async function downloadMeritBadges(updated, downloadUrlInfo, args) {
     }
 
     subheading(`Fetching merit badge index`);
-    let indexUrl = "https://www.scouting.org/skills/merit-badges/all/";
+    const indexUrl = "https://www.scouting.org/skills/merit-badges/all/";
     const indexDom = await getHtmlDom(indexUrl);
     await domQuery(
         indexDom,
@@ -280,6 +353,7 @@ async function downloadList(updated, downloadUrlInfo, updatedPrefix, list) {
         const links = await domQuery(dom, item.selector);
 
         if (links.length !== 1) {
+            console.log(links.map((link) => link.outerHTML));
             throw new Error(
                 `Expected 1 link and found ${links.length}: ${item.url} ${item.selector}`
             );
@@ -288,7 +362,7 @@ async function downloadList(updated, downloadUrlInfo, updatedPrefix, list) {
         const url = resolveUrl(links[0], dom);
         console.log(`${item.key}: ${url}`);
         updated[item.key] = Date.now();
-        await savePdfAndText(downloadUrlInfo, url, item.dest);
+        await saveBinaryFile(downloadUrlInfo, url, item.dest);
     });
 }
 
@@ -311,7 +385,7 @@ async function downloadOtherAwards(updated, downloadUrlInfo) {
             key: "conservation-good-turn-award",
             url: "https://www.scouting.org/outdoor-programs/conservation-and-environment/conservation-good-turn/",
             dest: "src/data/other-awards/conservation-good-turn-award.html.orig",
-            selector: "[data-id=bf81f70]"
+            selector: '[data-id="bf81f70"]'
         },
         {
             key: "complete-angler",
@@ -323,7 +397,7 @@ async function downloadOtherAwards(updated, downloadUrlInfo) {
             key: "totin-chip",
             url: "https://www.scouting.org/awards/awards-central/totin-chip/",
             dest: "src/data/other-awards/totin-chip.html.orig",
-            selector: "[data-id=7627899f]"
+            selector: '[data-id="7627899f"]'
         }
     ]);
 }

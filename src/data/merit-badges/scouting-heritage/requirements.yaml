@@ -1,3 +1,4 @@
+# requirement 3's first two resources are the same URL
 - requirement: 1
   text: |-
       Discuss with your counselor the life and times of Lord Baden-Powell of
@@ -6,7 +7,7 @@
       introduced in the United States, and the origins of Boy Scouting and Cub
       Scouting under Baden-Powell.
   resources:
-      - href: https://www.youtube.com/watch?v=tn9S4qB-fdw&list=PLeqxtqwBBzS-Z290oRp20bqnDqXZkSb3j&index=1
+      - href: https://www.youtube.com/watch?v=tn9S4qB-fdw
         text: Baden Powell - Father of Scouting, Origins of Scouting
         type: video
 - requirement: 2
@@ -22,14 +23,14 @@
               text: |-
                   Daniel Carter Beard
               resources:
-                  - href: https://www.youtube.com/watch?v=GIaIyxfuLCQ&list=PLeqxtqwBBzS-Z290oRp20bqnDqXZkSb3j&index=2
+                  - href: https://www.youtube.com/watch?v=GIaIyxfuLCQ
                     text: Daniel Carter Beard - BSA Founder
                     type: video
             - requirement: 2
               text: |-
                   William D. Boyce
               resources:
-                  - href: https://www.youtube.com/watch?v=Ulhu9fefMo4&list=PLeqxtqwBBzS-Z290oRp20bqnDqXZkSb3j&index=3
+                  - href: https://www.youtube.com/watch?v=Ulhu9fefMo4
                     text: William D. Boyce - BSA Founder
                     type: video
             - requirement: 3
@@ -107,20 +108,20 @@
       time and been adapted to fit different age groups and interests (Cub
       Scouting, Scouts BSA, Exploring, Venturing).
   resources:
-      - href: https://www.youtube.com/watch?v=p8DUnLSK3Zo
+      - href: https://youtu.be/p8DUnLSK3Zo
         text: Legacy Video Scouting History Timeline
         type: video
-      - href: https://www.youtube.com/watch?v=p8DUnLSK3Zo
+      - href: https://youtu.be/p8DUnLSK3Zo
         text: Artifact of the Week - Development of Cub Scouting
         type: video
-      - href: https://www.youtube.com/watch?v=FxKOogN-oiU
+      - href: https://youtu.be/FxKOogN-oiU
         text: Artifact of the Week - Sea Scouts
         type: video
-      - href: https://www.youtube.com/watch?v=uL87DDrVEbQ
-        text: History of Venturing
-        type: website
       - href: https://www.scouting.org/commissioners/exploring-a-bit-of-a-background/
         text: History of Exploring
+        type: website
+      - href: https://blog.scoutingmagazine.org/2018/02/09/20-facts-about-venturing-on-the-programs-20th-birthday/
+        text: 20 Facts About Venturing
         type: website
 - requirement: 4
   text: |-
@@ -146,7 +147,7 @@
             this facility. Give a short report on what you think the role of this
             museum is in the Scouting program.
         resources:
-            - href: https://www.youtube.com/watch?v=QU8IcMvygmc&list=PLeqxtqwBBzS_SXfxztRYSvmUzirJSZ1SU&index=8
+            - href: https://www.youtube.com/watch?v=QU8IcMvygmc
               text: National Scouting Museum at Summit Bechtel Reserve Virtual Tour
               type: video
             - href: https://www.philmontscoutranch.org/museums/national-scouting-museum-virtual-tour/

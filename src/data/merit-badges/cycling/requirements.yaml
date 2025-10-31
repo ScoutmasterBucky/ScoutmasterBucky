@@ -3,6 +3,10 @@
 - requirement: 1
   text: |-
       Do the following:
+  resources:
+      - href: https://vimeo.com/1125028263
+        text: Hazards, Prevention, and First Aid | Produced by Scouting America
+        type: video
   children:
       - requirement: a
         text: |-
@@ -33,7 +37,7 @@
             cycling, including a properly sized and fitted helmet. Know the
             Scouting America Bike Safety Guidelines.
         resources:
-            - href: https://www.youtube.com/watch?v=2TYe3APtKtc&list=PLHGEvyG5wuthKCwDfpQIZfTfan4mI6XTe&index=5%20
+            - href: https://www.youtube.com/watch?v=2TYe3APtKtc
               text: 'Bike Tips: Gear to Make Your Ride More Comfortable'
               type: video
             - href: https://www.youtube.com/watch?v=T3u51W0LN2U%20
@@ -47,7 +51,10 @@
       position, changing lanes, making left and right turns, and riding through
       intersections.
   resources:
-      - href: https://www.youtube.com/watch?v=-Jp0SSAeCiY
+      - href: https://vimeo.com/1125028107
+        text: Bicycle Laws and Safe Road Riding | Produced by Scouting America
+        type: video
+      - href: https://youtu.be/-Jp0SSAeCiY
         text: Rules of the Road
         type: video
 - requirement: 3
@@ -64,11 +71,8 @@
       Using a bicycle safety checklist, clean and adjust a bicycle and present it
       to your counselor for inspection. Do the following:
   resources:
-      - href: https://www.youtube.com/watch?v=LUbjot5NhU0&list=PLHGEvyG5wuthKCwDfpQIZfTfan4mI6XTe&index=4
-        text: 'Bike Tips: Cleaning Your Bike'
-        type: video
-      - href: https://www.youtube.com/watch?v=EHLq5Em-EPI&list=PLHGEvyG5wuthKCwDfpQIZfTfan4mI6XTe&index=3
-        text: 'Bike Tips: Preflight Checklist for a Safe Ride'
+      - href: https://vimeo.com/1125028194
+        text: Checklist, Maintenance, and Inspection | Produced by Scouting America
         type: video
   children:
       - requirement: a
@@ -83,7 +87,7 @@
         text: |-
             Show how to adjust the saddle and handlebars for a proper fit.
         resources:
-            - href: https://www.youtube.com/watch?v=dsM9brngVmc&list=PLHGEvyG5wuthKCwDfpQIZfTfan4mI6XTe&index=6%20
+            - href: https://www.youtube.com/watch?v=dsM9brngVmc
               text: 'Bike Tips: Finding and Fitting the Right Bike'
               type: video
             - href: https://www.youtube.com/watch?v=jh5Zv6Dcn6k%20
@@ -93,7 +97,7 @@
         text: |-
             Show how to adjust brakes and gear shifting (derailleurs).
         resources:
-            - href: https://www.youtube.com/watch?v=7kc-CHtlQyM&list=PLHGEvyG5wuthKCwDfpQIZfTfan4mI6XTe&index=7%20
+            - href: https://www.youtube.com/watch?v=7kc-CHtlQyM
               text: 'Bike Tips: Proper Shifting Technique'
               type: video
       - requirement: d
@@ -104,8 +108,11 @@
             Show how to repair a flat by removing the tire, replacing or patching
             the tube, and remounting the tire.
         resources:
-            - href: https://www.youtube.com/watch?v=G1Vm7KXSzSg%20
-              text: How to Change a Bicycle Tire
+            - href: https://vimeo.com/1125028160
+              text: Changing a Tire with Disc Brakes | Produced by Scouting America
+              type: video
+            - href: https://vimeo.com/1125028134
+              text: Changing a Tire with Caliper Brakes | Produced by Scouting America
               type: video
       - requirement: f
         text: |-
@@ -121,13 +128,13 @@
       stops), riding in a straight line, turning, shifting gears, scanning, and
       signaling.
   resources:
+      - href: https://vimeo.com/1125028294
+        text: Mastering Handling Basic Bicycle Handling Skills | Produced by Scouting America
+        type: video
       - href: https://www.youtube.com/watch?v=XMj_95C5ihk&t=21s
         text: Bicycle Safer Journey
         type: video
-      - href: https://www.youtube.com/watch?v=2hr0KQxPlDg&list=PLHGEvyG5wuthKCwDfpQIZfTfan4mI6XTe&index=2
-        text: 'Bike Tips: Braking Properly'
-        type: video
-      - href: https://www.youtube.com/watch?v=nf5WQXFvrkk
+      - href: https://youtu.be/nf5WQXFvrkk
         text: Bike Riding Safety
         type: video
 - requirement: 6
@@ -143,6 +150,10 @@
       - requirement: A
         text: |-
             <b>Option A—Road Biking.</b> Do the following:
+        resources:
+            - href: https://vimeo.com/1125028086
+              text: Advanced Techniques for Urban Riding | Produced by Scouting America
+              type: video
         children:
             - requirement: a
               text: |-
@@ -258,7 +269,7 @@
                     text: |-
                         Show shifting skills as applicable to climbs and obstacles.
                     resources:
-                        - href: https://www.youtube.com/watch?v=7kc-CHtlQyM&list=PLHGEvyG5wuthKCwDfpQIZfTfan4mI6XTe&index=7%20
+                        - href: https://www.youtube.com/watch?v=7kc-CHtlQyM
                           text: 'Bike Tips: Proper Shifting Technique'
                           type: video
                   - requirement: 3
