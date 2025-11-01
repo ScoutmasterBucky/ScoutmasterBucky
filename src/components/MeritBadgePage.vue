@@ -33,6 +33,24 @@ for (const otherAwardName of info['other-awards']) {
         href: `/other-awards/${otherAwardName}/`,
     });
 }
+
+function checkRequirementsForResources(reqs) {
+    for (const req of reqs) {
+        if (req.resources && req.resources.length > 0) {
+            return true;
+        }
+
+        if (req.children) {
+            if (checkRequirementsForResources(req.children)) {
+                return true;
+            }
+        }
+    }
+
+    return false;
+}
+
+let hasResources = checkRequirementsForResources(requirements);
 </script>
 
 <template>
@@ -73,6 +91,7 @@ for (const otherAwardName of info['other-awards']) {
         </div>
     </h2>
 
+    <ResourcesToggle v-if="hasResources" class="gap-bottom" />
     <Requirements :requirements="requirements" />
 </template>
 
@@ -101,5 +120,9 @@ for (const otherAwardName of info['other-awards']) {
     .updated-break {
         display: none;
     }
+}
+
+.gap-bottom {
+    margin-bottom: 0.5em;
 }
 </style>

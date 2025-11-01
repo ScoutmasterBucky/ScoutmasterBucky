@@ -12,56 +12,14 @@ const parentCount = parents ?? 0;
             <div v-for="n of parentCount" class="indent h-gap"></div>
             <div v-if="requirement.requirement" class="requirement">
                 <div class="number h-gap">{{ requirement.requirement }}.</div>
-                <div>
+                <div class="full-width">
                     <div class="text v-gap" v-html="requirement.text"></div>
-                    <div v-if="requirement.resources" class="resources v-gap">
-                        <div
-                            v-if="requirement.resources.length === 1"
-                            class="resource-heading"
-                        >
-                            Resource:
-                        </div>
-                        <div v-else class="resource-heading">Resources:</div>
-                        <ul>
-                            <li v-for="item of requirement.resources">
-                                <span v-if="item.href"
-                                    ><a
-                                        :href="item.href"
-                                        target="_blank"
-                                        v-html="item.text"
-                                    ></a>
-                                    ({{ item.type }})</span
-                                >
-                                <span v-else v-html="item.text"></span>
-                            </li>
-                        </ul>
-                    </div>
+                    <Resources v-if="requirement.resources" :items="requirement.resources" />
                 </div>
             </div>
             <div v-if="requirement.detail">
                 <div class="detail v-gap" v-html="requirement.text"></div>
-                <div v-if="requirement.resources" class="resources v-gap">
-                    <div
-                        v-if="requirement.resources.length === 1"
-                        class="resource-heading"
-                    >
-                        Resource:
-                    </div>
-                    <div v-else class="resource-heading">Resources:</div>
-                    <ul>
-                        <li v-for="item of requirement.resources">
-                            <span v-if="item.href"
-                                ><a
-                                    :href="item.href"
-                                    target="_blank"
-                                    v-html="item.text"
-                                ></a>
-                                ({{ item.type }})</span
-                            >
-                            <span v-else v-html="item.text"></span>
-                        </li>
-                    </ul>
-                </div>
+                <Resources v-if="requirement.resources" :items="requirement.resources" />
             </div>
         </div>
         <Requirements
@@ -92,7 +50,7 @@ const parentCount = parents ?? 0;
     text-align: end;
 }
 
-.requirement .text {
+.text {
     width: 100%;
 }
 
@@ -108,11 +66,7 @@ const parentCount = parents ?? 0;
     padding-bottom: 8px;
 }
 
-.resources {
+.full-width {
     width: 100%;
-}
-
-.resource-heading {
-    font-style: italic;
 }
 </style>
