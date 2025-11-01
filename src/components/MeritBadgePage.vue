@@ -91,7 +91,7 @@ let hasResources = checkRequirementsForResources(requirements);
         </div>
     </h2>
 
-    <ResourcesToggle v-if="hasResources" class="gap-bottom" />
+    <ResourcesToggle v-if="hasResources" class="gap-bottom" client:load />
     <Requirements :requirements="requirements" />
 </template>
 
