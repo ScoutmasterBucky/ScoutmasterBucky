@@ -11,6 +11,9 @@ resources:
     - name: Scouting America's Counselor Guidelines
       shortName: Counselor Guidelines
       url: artificial-intelligence-counselor-guidelines.pdf
+    - name: Scouting America's Digital Resources
+      shortName: Digital Resources
+      url: artificial-intelligence-digital-resources.pdf
 </page>
 
 <script setup lang="ts">
