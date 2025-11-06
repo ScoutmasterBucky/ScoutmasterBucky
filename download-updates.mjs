@@ -238,6 +238,12 @@ async function downloadCounselorInformation(updated, downloadUrlInfo) {
     await saveHtml(indexUrl, 'src/data/counselor-information.html.orig', '[data-id="7627899f"]');
     await downloadList(updated, downloadUrlInfo, "counselor-information", [
         {
+            key: 'artificial-intelligence-digital-resources',
+            url: indexUrl,
+            dest: 'public/merit-badges/artificial-intelligence/artificial-intelligence-digital-resources.pdf',
+            selector: '[data-id="3ae2e3b"] a',
+        },
+        {
             key: 'artificial-intelligence-counselor-guidelines',
             url: indexUrl,
             dest: 'public/merit-badges/artificial-intelligence/artificial-intelligence-counselor-guidelines.pdf',
