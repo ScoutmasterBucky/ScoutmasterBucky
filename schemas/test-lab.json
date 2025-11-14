@@ -6,9 +6,6 @@
             "expires": {
                 "type": "string"
             },
-            "href": {
-                "type": "string"
-            },
             "image": {
                 "type": "string"
             },
@@ -22,7 +19,6 @@
         "additionalProperties": false,
         "required": [
             "expires",
-            "href",
             "image",
             "name",
             "survey"
