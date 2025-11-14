@@ -1,0 +1,315 @@
+- requirement: 1
+  text: |-
+      Explain the history of wildland fire, its suppression, prevention and
+      management in America.
+  resources:
+      - href: https://www.youtube.com/watch?v=ZnabcDAQ1DU
+        text: 'YouTube: A History of Wildfire Prevention'
+        type: video
+      - href: https://www.nifc.gov/fire-information/fire-prevention-education-mitigation/wildfire-education
+        text: Wildfire Education | National Interagency Fire Center
+        type: website
+- requirement: 2
+  text: |-
+      Explain the harm caused by wildfire in the United States. Discuss the
+      negative impacts that wildfire can have on the following resources.
+  resources:
+      - href: https://www.youtube.com/watch?v=HeOl2N6iLy0
+        text: 'YouTube: A Better Way to Think About Wildland Fires'
+        type: video
+      - href: https://www.youtube.com/watch?v=8mQllQnJrhg
+        text: 'YouTube: How Are Wildfires Making Us Sick'
+        type: video
+      - href: https://www.youtube.com/watch?v=RV_OZ430GAs
+        text: 'YouTube: How Wildfires Affect Water Supply'
+        type: video
+  children:
+      - requirement: A
+        text: |-
+            Commercial forest products
+      - requirement: B
+        text: |-
+            Fish and Wildlife habitat
+      - requirement: C
+        text: |-
+            Soil and water
+      - requirement: D
+        text: |-
+            Recreation and public use
+      - requirement: E
+        text: |-
+            Homes, communities and human resources
+      - requirement: F
+        text: |-
+            Air quality and public health
+- requirement: 3
+  text: |-
+      Define prescribed fire. Explain how it is used to accomplish the following:
+  resources:
+      - href: https://www.youtube.com/watch?v=vFPIoH4ML2U
+        text: 'YouTube: Misconceptions and Benefits of Fire'
+        type: video
+      - href: https://www.youtube.com/watch?v=Q8mD-4rexo0
+        text: 'YouTube: Wildlife That Depends on Fire to Survive'
+        type: video
+      - href: https://www.youtube.com/watch?v=iKRYDp6VpyA
+        text: 'YouTube: How does Fire Affect Wildlife?'
+        type: video
+      - href: https://www.youtube.com/watch?v=E542gY7uR0s
+        text: 'YouTube: Good Fire: Prescribed Burning'
+        type: video
+  children:
+      - requirement: A
+        text: |-
+            Fuel reduction
+      - requirement: B
+        text: |-
+            Fish and wildlife habitat enhancement
+      - requirement: C
+        text: |-
+            Ecosystem restoration
+      - requirement: D
+        text: |-
+            Forest regeneration
+      - requirement: E
+        text: |-
+            Insect and disease control
+- requirement: 4
+  text: |-
+      Explain defensible space and define the term wildland-urban interface.
+      Discuss how homes and communities in the wildland-urban interface can be
+      protected from wildfire.&#160;</strong
+  resources:
+      - href: https://www.youtube.com/watch?v=isf6COwOXPw
+        text: 'YouTube: Separating Your Home From Wildfire – The Zones of Defensible Space'
+        type: video
+- requirement: 5
+  text: |-
+      Explain the main causes of wildfire in America. Explain how you can
+      prevent wildfires in your community or on an outing with your unit.
+  resources:
+      - href: https://www.youtube.com/watch?v=uslLV343id4
+        text: 'YouTube: Decades 2:20 Wildfire Prevention'
+        type: video
+      - href: https://www.youtube.com/watch?v=tUTyDGlJt00
+        text: 'YouTube: Wildfire Prevention with Smokey Bear'
+        type: video
+      - href: https://www.bing.com/videos/riverview/relatedvideo?q=how%20does%20lightning%20cause%20wildfires&mid=2B1F243DD98A1EFB30922B1F243DD98A1EFB3092&ajaxhist=0
+        text: 'Bing Videos: What Causes Wildfires? BBC Earth Explore'
+        type: video
+      - href: https://www.nifc.gov/fire-information/statistics/lightning-caused
+        text: Lightning-caused wildfires | National Interagency Fire Center
+        type: website
+      - href: https://www.doi.gov/blog/10-tips-prevent-wildfires
+        text: 10 Tips to Prevent Wildfires | U.S. Department of the Interior
+        type: website
+- requirement: 6
+  text: |-
+      Describe the Fire Triangle.&#160; Explain how wildfires can be suppressed
+      by removing each element of the fire triangle.
+  resources:
+      - href: https://www.youtube.com/watch?v=8WPk15XqN2E
+        text: 'YouTube: Fire Triangle Explained – How Oxygen, Heat, and Fuel Interact with Wildfire'
+        type: video
+- requirement: 7
+  text: |-
+      Explain how the fire environment affects wildland fire behavior. Give
+      examples of the influences of weather, topography and fuel. Draw a
+      diagram to illustrate the parts of a wildfire.
+  resources:
+      - href: https://www.youtube.com/watch?v=b1KvTswZYNA
+        text: 'YouTube: How to Describe the Behavior and Parts of a Wildfire'
+        type: video
+- requirement: 8
+  text: |-
+      Explain the following wildland fire suppression tactics and under which
+      conditions they would be used to achieve objectives. Use your own
+      diagrams if necessary.
+  resources:
+      - href: https://www.youtube.com/watch?v=9EzcA3KvEsY
+        text: 'YouTube: How We Fight Wildfires'
+        type: video
+      - href: https://www.facebook.com/watch/?v=378311047476699
+        text: 'Facebook: The Difference Between a Direct and Indirect Attack – US Forest Service'
+        type: video
+      - href: https://www.youtube.com/watch?v=W8GHIZAaUaQ
+        text: 'YouTube: Evolution of Fire Management and the Role of Knowledge'
+        type: video
+      - href: https://www.youtube.com/watch?v=DNFv_cr8r7I
+        text: 'YouTube: Mop Up Operations on the Mosquito Fire'
+        type: video
+  children:
+      - requirement: A
+        text: |-
+            Direct attack
+      - requirement: B
+        text: |-
+            Indirect attack
+      - requirement: C
+        text: |-
+            Parallel attack
+      - requirement: D
+        text: |-
+            Minimum Impact Suppression Tactics
+      - requirement: E
+        text: |-
+            Mop-Up
+      - requirement: F
+        text: |-
+            Use of machinery and aircraft
+      - requirement: G
+        text: |-
+            Fire management for resource benefit objectives
+      - requirement: H
+        text: |-
+            Repair and Restoration
+- requirement: 9
+  text: |-
+      Describe 10 tools, equipment or apparatus that are unique to wildland
+      fire suppression and explain how these items are used.
+  resources:
+      - href: https://www.youtube.com/watch?v=SHXLUEfHlxw
+        text: 'YouTube: West Metro Fire Rescue: Wildland Firefighting Tools'
+        type: video
+      - href: https://www.nps.gov/articles/wildland-fire-engines.htm
+        text: Wildland Fire Engines
+        type: website
+      - href: https://www.nifc.gov/resources/aircraft
+        text: Aircraft | National Interagency Fire Center
+        type: website
+      - href: https://www.nifc.gov/resources/equipment/dozers
+        text: Dozers
+        type: website
+      - href: https://www.nifc.gov/resources/equipment
+        text: Firefighting Equipment
+        type: website
+- requirement: 10
+  text: |-
+      Describe the personal protective equipment used by wildland firefighters.
+      Explain why personal protective equipment and proper training is
+      necessary.
+  resources:
+      - href: https://www.youtube.com/watch?v=a0NtIJMDUD4
+        text: 'YouTube: Dressed for Fire'
+        type: video
+- requirement: 11
+  text: |-
+      Describe the following and explain why each is an important consideration
+      for maintaining personal safety and situational awareness during wildland
+      fire suppression activities.
+  resources:
+      - href: https://www.youtube.com/watch?v=9WhKKSGl9K0
+        text: 'YouTube: WFSTAR: Standard Firefighting Orders'
+        type: video
+      - href: https://www.bing.com/videos/riverview/relatedvideo?&q=wildfire+watch+out+situations&&mid=DFFACB213049C3BDCB8BDFFACB213049C3BDCB8B&&FORM=VRDGAR
+        text: 'Bing Videos: WFSTAR: Watch Out Situations'
+        type: video
+      - href: https://www.youtube.com/watch?v=pQACcXe_2Gg
+        text: 'YouTube WFSTAR: Is Your LCES Adequate'
+        type: video
+  children:
+      - requirement: A
+        text: |-
+            10 Standard Firefighting Orders
+      - requirement: B
+        text: |-
+            18 Watch Out Situations
+      - requirement: C
+        text: |-
+            Lookouts, Communication, Escape Routes and Safety Zones (LCES)
+- requirement: 12
+  text: |-
+      List the major government agencies involved with fire suppression in the
+      United States, and the role that these agencies play in fire suppression.
+  resources:
+      - href: https://www.nwcg.gov/about-us
+        text: About Us | NWCG (click on Member Agencies Tab)
+        type: website
+- requirement: 13
+  text: |-
+      Draw a diagram of the Incident Command System. Explain the functions of
+      the positions that make up the Command and General Staff.
+  resources:
+      - href: https://training.fema.gov/emiweb/is/icsresource/assets/ics%20organizational%20structure%20and%20elements.pdf
+        text: ICS Organizational Structure and Elements
+        type: pdf
+- requirement: 14
+  text: |-
+      Learn about three career opportunities in wildland fire.  Select one and
+      research the education, training, and experience required for this
+      position. Discuss this position with your counselor, and explain why a
+      career in wildland fire might interest you.
+  resources:
+      - href: https://www.youtube.com/watch?v=55iglSp3ki0
+        text: 'YouTube: Wildland Firefighting &amp; Wildland Fire Ecology Jobs Explained for Beginners'
+        type: video
+      - href: https://www.youtube.com/watch?v=ZxkeYnEBZzg
+        text: 'YouTube: Wildland Fire Recruiting Video'
+        type: video
+- requirement: 15
+  text: |-
+      Do one of the following:
+  children:
+      - requirement: A
+        text: |-
+            Develop a fire readiness plan for a wildland area with which you
+            are familiar. The plan should include a map showing available
+            resources, water supplies, natural and manmade barriers, and
+            access. The plan should discuss fuel loads, available fire
+            apparatus, structure protection needs, values at risk, medical and
+            evacuation considerations and potential fire suppression tactics.
+      - requirement: B
+        text: |-
+            Visit with a state or federal forestry official or your local fire
+            warden. Discuss the causes of and types of wildland fire that occur
+            in your area. Discuss the prime fire season(s) in your area.
+            Identify the agency responsible for wildland fire suppression in
+            your area.  Write a brief report about what you learned during your
+            visit.
+      - requirement: C
+        text: |-
+            Conduct a fire wise assessment of a home or a building in the
+            wildland-urban interface, which could include a Scout camp building
+            or facility. Identify potential risks and fire hazards. With your
+            counselor’s approval, complete a project to reduce the wildfire
+            risk and increase the preparedness of the building. Write a brief
+            report about what you did and learned from the assessment and
+            project.
+        resources:
+            - href: https://www.nfpa.org/education-and-research/wildfire/firewise-usa
+              text: NFPA – Firewise USA®
+              type: website
+      - requirement: D
+        text: |-
+            Participate in a fire prevention campaign with your local fire
+            department or forestry agency. Write a brief report about what you
+            did and what you learned from it.
+- requirement: 16
+  text: |-
+      Research an historic catastrophic wildland fire incident that has
+      occurred in the United States. Write a report of no less than 500 words
+      describing the incident, the conditions that led to the incident, how the
+      incident was managed, and how the incident could have been prevented.
+      Explain what lessons were learned and how this incident affected future
+      fire suppression policy or suppression tactics. There are many historic
+      fires that can be researched online, here are four examples.
+
+      <div class="gap"></div>
+
+      <div><a href="https://www.youtube.com/watch?v=LatzdMh49ps">YouTube: The
+      Tillamook Burn forest fire of August, 1933</a></div>
+
+      <div><a href="https://www.youtube.com/watch?v=CAgP9fo3f7s">YouTube: The
+      Story Behind the Yellowstone Fires of 1988 | Retro Report | The New York
+      Times</a></div>
+
+      <div><a
+      href="https://www.bing.com/videos/riverview/relatedvideo?q=lessons+from+Mann+Gulch+fire+&&view=riverview&mmscn=mtsc&mid=421072089F1B4119A030421072089F1B4119A030&&aps=196&FORM=VMSOVR">Bing
+      Videos: The Smoke Jumper Tragedy of Mann Gulch</a></div>
+
+      <div><a
+      href="https://www.bing.com/videos/riverview/relatedvideo?&q=lessons+from+storm+King+fire&&mid=A9C2B89584AB469FC7F6A9C2B89584AB469FC7F6&&FORM=VRDGAR">Bing
+      Videos: Storm King Mountain Tragedy</a></div>
+- requirement: 17
+  text: |-
+      Complete the survey below to complete the test lab requirements

@@ -36,6 +36,11 @@ const toggle = () => {
                 src="/images/merit-badges-icon.png"
             />
             <MenuButton
+                href="/test-lab/"
+                title="Test Lab"
+                src="/images/test-lab-icon.webp"
+            />
+            <MenuButton
                 href="/scout-ranks/"
                 title="Scout Ranks"
                 src="/images/ranks-icon.png"

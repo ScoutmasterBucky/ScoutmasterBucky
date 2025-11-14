@@ -1,0 +1,397 @@
+- requirement: 1
+  text: |-
+      <strong>Safety.</strong> Before conducting any experiments, explain to
+      your counselor the safety precautions and personal protective equipment
+      necessary for working with physics-related equipment.
+  resources:
+      - href: https://youtu.be/u7epizT6jFg
+        text: Safely Using Materials &amp; Equipment in Physics Experiments
+        type: video
+- requirement: 2
+  text: |-
+      <strong>What is Physics?</strong> Define physics in your own words and
+      discuss with your counselor various areas of physics.
+  resources:
+      - href: https://youtu.be/yWMKYID5fr8
+        text: What is Physics?
+        type: video
+      - href: https://www.aps.org/careers/advice/why-study-physics
+        text: Why study physics?
+        type: website
+      - href: https://youtu.be/ZihywtixUYo
+        text: The Map of Physics
+        type: video
+- requirement: 3
+  text: |-
+      <strong>Fundamentals of Physics.</strong> Explain these key physics
+      concepts: force, motion, energy, and waves. Provide real-world examples
+      demonstrating each principle.
+  resources:
+      - href: https://youtu.be/TTHazQeM8v8
+        text: All physics explained in 15 minutes (worth remembering)
+        type: video
+- requirement: 4
+  text: |-
+      <strong>Hands-On Experimentation.</strong> Conduct THREE physics
+      experiments, selecting from the following options. Each experiment must
+      include: a hypothesis, materials used, safety precautions, observations,
+      and conclusions based on results. Explain how each experiment
+      demonstrates key physics principles. For each experiment, be sure to try
+      variations/variables to test your hypothesis.
+  children:
+      - requirement: A
+        text: |-
+            <strong>Option A: Newton’s Laws in Action: Balloon-Powered
+            Car.</strong> Make and test a balloon-powered car to show how force
+            and motion interact.
+        resources:
+            - href: https://youtu.be/SaKkjiIVccc
+              text: Science Max | How to Make a Balloon Powered Car | Science Experiments
+              type: video
+      - requirement: B
+        text: |-
+            <strong>Option B: Momentum: Stacked Ball Drop.</strong> Drop
+            different-sized stacked balls to show momentum.
+        resources:
+            - href: https://youtu.be/2UHS883_P60
+              text: Stacked Ball Drop
+              type: video
+            - href: https://youtu.be/yhTz_6NFmV0
+              text: Tennis ball + Basketball momentum // Homemade Science with Bruce Yeany
+              type: video
+      - requirement: C
+        text: |-
+            <strong>Option C: Centrifugal Force.</strong> Make spinning toys to
+            demonstrate centrifugal force.
+        resources:
+            - href: https://youtu.be/GDN38voYPNc
+              text: Centrifugal spinning toys //. Homemade science
+              type: video
+      - requirement: D
+        text: |-
+            <strong>Option D: Centripetal Force.</strong> Swing a water bucket
+            or tray filled with water glasses to demonstrate centripetal force.
+        resources:
+            - href: https://youtu.be/MTKUEMI2Rgo
+              text: Centripetal swinging tray, improving an old demonstration
+              type: video
+      - requirement: E
+        text: |-
+            <strong>Option E: Balance.</strong> Explore center of gravity,
+            inertia, and harmonic motion using a Tweety Bopper.
+        resources:
+            - href: https://youtu.be/h_gGHAsG6Pg
+              text: Balancing toy physics….Tweety Boppers, Inertia, Center of gravity, Harmonic motion
+              type: video
+      - requirement: F
+        text: |-
+            <strong>Option F: Visualize Sound.</strong> Visualize Chladni
+            patterns using a tonoscope.
+        resources:
+            - href: https://youtu.be/P5WAlKx8QJE
+              text: 'Making your own Tonoscope: Visualising Vibrations at Home'
+              type: video
+            - href: https://youtu.be/eskZ3OORfYM
+              text: Sound Visualizer &amp; Chladni Patterns Formed on a Plastic Bucket // Homemade Science with Bruce Yeany
+              type: video
+      - requirement: G
+        text: |-
+            <strong>Option G: Cartesian Diver.</strong> Demonstrate buoyancy
+            and the ideal gas law with Cartesian divers.
+        resources:
+            - href: https://youtu.be/xRhRvI5gDjQ
+              text: Physics of toys-Big Cartesian divers-part 2 // Homemade Science with Bruce Yeany
+              type: video
+      - requirement: H
+        text: |-
+            <strong>Option H: Air Pressure: Bernoulli’s principle and the
+            Coandă Effect.</strong> Balance different objects in a stream of
+            air.
+        resources:
+            - href: https://youtu.be/kR2Oi3XCX18
+              text: How to float a ping pong ball on air – The Coandă Effect
+              type: video
+            - href: https://youtu.be/tFjOUaB6uvE
+              text: Ball in a funnel experiment..Bernoulli’s principle and the Coanda effect
+              type: video
+      - requirement: I
+        text: |-
+            <strong>Option I: Electromagnet.</strong> Make an electromagnet and
+            explore how to increase its strength.
+        resources:
+            - href: https://youtu.be/xVKIiCYTsmQ
+              text: 'The Sci Guys: Science at Home – SE2 – EP8: Homemade Electromagnet'
+              type: video
+- requirement: 5
+  text: |-
+      <strong>Physics All Around You.</strong> Discuss with your
+      counselor:
+  children:
+      - requirement: a
+        text: |-
+            <strong> Physics in Everyday Life.</strong> Describe FIVE ways
+            physics is applied in daily life, such as in transportation,
+            sports, or household appliances.
+        resources:
+            - href: https://youtu.be/XHouBbIlz6I
+              text: 'The Role of Physics in Everyday Life: Shocking Truths Revealed!'
+              type: video
+      - requirement: b
+        text: |-
+            <strong>Physics in Space Exploration.</strong> Describe how physics
+            is used in space travel, satellite technology, or planetary
+            exploration.
+        resources:
+            - href: https://youtu.be/mMyZGv_bwTg
+              text: The Rocket-Less Future of Space Travel | What the Physics?! | NOVA | PBS
+              type: video
+            - href: https://youtu.be/YSh_S2bHrHE
+              text: Why Don’t Satellites Fall Out of the Sky?
+              type: video
+            - href: https://youtube.com/shorts/WQyNQNhAfyg
+              text: Future of Space Travel by Dr Michio Kaku #spaceexploration – YouTube
+              type: video
+      - requirement: c
+        text: |-
+            <strong>Physics in the Environment.</strong> Explain how physics
+            contributes to renewable energy, climate science, or environmental
+            conservation.
+        resources:
+            - href: https://youtu.be/MhEGS1zsApo
+              text: 'Renewable Energy Resources: Part 1 | GCSE Physics | Doodle Science'
+              type: video
+            - href: https://youtu.be/9W6S3FA-C6U
+              text: 'Renewable Energy Resources: Part 2 | GCSE Physics | Doodle Science'
+              type: video
+            - href: https://youtu.be/lrPS2HiYVp8
+              text: How does the climate system work?
+              type: video
+      - requirement: d
+        text: |-
+            <strong>Physics in Scouting.</strong> Explain how physics is found
+            in Scouting, such as knot tying, fire building, cooking, or
+            pioneering.
+        resources:
+            - href: https://youtu.be/WXVItJnZiWc
+              text: Why Knots? Knot Theory in Three Minutes
+              type: video
+            - href: https://youtu.be/tMDKeBaLWDw
+              text: What Is Fire?
+              type: video
+            - href: https://youtu.be/ji2UdtHQlzk
+              text: Have you ever wondered why smoke follows you around a camp fire? #camping #physics #fire
+              type: video
+            - href: https://youtu.be/9RepBTXCiqQ
+              text: The Physics of Cooking
+              type: video
+            - href: https://scoutsvictoria.com.au/media/6052/program-da-vinci-bridges.pdf
+              text: STEM Program Da Vinci Bridges
+              type: pdf
+- requirement: 6
+  text: |-
+      <strong>The Future of Physics.</strong> Physicists try to explain the
+      universe and apply these concepts to novel technologies. Discuss one
+      option with your counselor:
+  children:
+      - requirement: A
+        text: |-
+            <strong>Option A: Unsolved Mysteries of Physics.</strong> Discuss
+            the following with your counselor:
+        children:
+            - requirement: a
+              text: |-
+                  <strong>Dark Matter &amp; Dark Energy.</strong> Scientists
+                  know it exists—but what is it?
+              resources:
+                  - href: https://youtu.be/x344JiX8BCE
+                    text: Dark Matter vs. Dark Energy | How the Universe Works | Science Channel
+                    type: video
+            - requirement: b
+              text: |-
+                  <strong>Black Holes &amp; Wormholes.</strong> Can we harness
+                  their energy or travel through them?
+              resources:
+                  - href: https://youtu.be/PtA7O3AOCPU
+                    text: Neil deGrasse Tyson Explains Wormholes and Black holes
+                    type: video
+      - requirement: B
+        text: |-
+            <strong>Option B: Quantum Mechanics &amp; Computing.</strong>
+            Discuss the following with your counselor:
+        children:
+            - requirement: a
+              text: |-
+                  <strong>Quantum Computers.</strong> How can super fast
+                  computers be made of atoms instead of microchips?
+              resources:
+                  - href: https://youtu.be/B3U1NDUiwSA
+                    text: 'Quantum Computers Explained: How Quantum Computing Works'
+                    type: video
+                  - href: https://youtu.be/qQviI1d_hFA
+                    text: 'Michio Kaku: Quantum computing is the next revolution'
+                    type: video
+            - requirement: b
+              text: |-
+                  <strong> Quantum Entanglement.</strong> Can we communicate
+                  instantly across space?
+              resources:
+                  - href: https://youtu.be/fkAAbXPEAtU
+                    text: 'Quantum Entanglement: Explained in REALLY SIMPLE Words'
+                    type: video
+      - requirement: C
+        text: |-
+            <strong>Option C: Space Exploration &amp; Astrophysics.</strong>
+            Discuss the following with your counselor:
+        children:
+            - requirement: a
+              text: |-
+                  <strong>Colonizing Mars.</strong> How can physics help humans
+                  live on other planets?
+              resources:
+                  - href: https://youtu.be/DMMPYkRrd4o
+                    text: Could we actually live on Mars? – Mari Foroutan
+                    type: video
+            - requirement: b
+              text: |-
+                  <strong>Interstellar Travel.</strong> Can we reach other
+                  stars with warp drives or solar sails?
+              resources:
+                  - href: https://youtu.be/oIuvIDhcs8E
+                    text: Spaceships pushed by LIGHT – the future of space travel?
+                    type: video
+                  - href: https://youtu.be/wC38DvKPJtk
+                    text: 'Warp Drive Progress: NASA Moves Us Toward Faster-Than-Light Travel'
+                    type: video
+      - requirement: D
+        text: |-
+            <strong>Option D: Advanced Theories &amp; Future
+            Discoveries.</strong> Discuss the following with your counselor:
+        children:
+            - requirement: a
+              text: |-
+                  <strong>Time Travel.</strong> Is it possible under extreme
+                  conditions?
+              resources:
+                  - href: https://youtu.be/G4kWQk94TeI
+                    text: 'Time Travel: Is It Possible? | Space’s Deepest Secrets | Science Channel'
+                    type: video
+            - requirement: b
+              text: |-
+                  <strong>Artificial Gravity.</strong> Can we create Earth-like
+                  gravity in space stations?
+              resources:
+                  - href: https://youtu.be/im-JM0f_J7s
+                    text: Can We Create Artificial Gravity?
+                    type: video
+- requirement: 7
+  text: |-
+      <strong>Engineering and Physics Challenge.</strong> Solve a simple
+      engineering problem using physics-based reasoning. Define the problem,
+      allowable materials, and safety constraints. You may enlist friends or
+      family in completing your challenge. All plans must be approved in
+      advance by your counselor. Do ONE of the following options:
+  children:
+      - requirement: A
+        text: |-
+            <strong>Option A: Fastest Pinewood Derby Car.</strong> Build
+            pinewood derby cars using physics principles to get the fastest
+            time on the track.
+        resources:
+            - href: https://scoutlife.org/hobbies-projects/projects/138909/use-science-to-make-a-fast-pinewood-derby-car/
+              text: Use Science to Build the Fastest Pinewood Derby Car
+              type: website
+            - href: https://youtu.be/a5A6SCE0eVw?si=elXC1X3pI1ImMPIC
+              text: The Science of Making the Fastest Pinewood Derby
+              type: video
+      - requirement: B
+        text: |-
+            <strong>Option B: Rube Goldberg Machine.</strong> Build a machine
+            using household materials to perform a simple task. You can use
+            examples of tasks from the annual Rube Goldberg competition, or you
+            can create your own task:
+        resources:
+            - href: https://s3.amazonaws.com/www.rubegoldberg.org/documents/49239.jpg
+              text: https://s3.amazonaws.com/www.rubegoldberg.org/documents/49239.jpg
+              type: image
+            - href: https://www.scouting.org/wp-content/uploads/2025/08/gettyimage.jpg
+              text: https://www.scouting.org/wp-content/uploads/2025/08/gettyimage.jpg
+              type: image
+            - href: https://youtu.be/40AO2RdEixs
+              text: 'Rube Goldberg: The father of inventions'
+              type: video
+            - href: https://www.rubegoldberg.org/
+              text: https://www.rubegoldberg.org/
+              type: website
+            - href: https://youtu.be/CBLZUGgvqiE
+              text: How To Make Any Rube Goldberg Machine Using These 6 Simples Machines? Zach Contraptions
+              type: video
+            - href: https://youtu.be/HjWEgbslJ0M
+              text: Revealing My 5 Step Formula to Build A Rube Goldberg Machine Quickly
+              type: video
+      - requirement: C
+        text: |-
+            <strong>Option C: Egg Drop Challenge.</strong> Explore the physics
+            of energy and momentum by building a structure using household
+            materials to prevent an egg from breaking when dropped from a
+            significant height. The location of the egg drop must be approved
+            by your counselor.
+        resources:
+            - href: https://youtu.be/tQssL9MbHF0
+              text: Egg drop activity////Homemade Science with Bruce Yeany
+              type: video
+      - requirement: D
+        text: |-
+            <strong>Option D: Water Bottle Rockets.</strong> Explore propulsion
+            and Newton’s Third Law. The challenge is to land an air pressured
+            rocket, using water as a propellant, exactly at a specific distance
+            (for example, 70 m) from launch point, three times, with extra
+            points for flight duration.
+        resources:
+            - href: https://youtu.be/ii6D1R6lXVA
+              text: 'The Sci Guys: Science at Home – SE1 – EP18: Water Bottle Rockets'
+              type: video
+            - href: https://youtu.be/35lWVD5TtH0
+              text: Newton’s Laws of Motion | Water Bottle Rockets
+              type: video
+      - requirement: E
+        text: |-
+            <strong>Option E: Design your Own Physics Challenge.</strong>
+            Create a physics challenge with your counselor’s approval.
+- requirement: 8
+  text: |-
+      <strong>Careers.</strong> Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            Explore careers related to this badge. Research one career to learn
+            about the training and education needed, costs, job prospects,
+            salary, job duties, and career advancement. Your research methods
+            may include — with your parent or guardian’s permission — an
+            internet or library search, an interview with a professional in the
+            field, or a visit to a location where people in this career work.
+            Discuss with your counselor both your findings and what about this
+            profession might make it an interesting career.
+        resources:
+            - href: https://www.aps.org/careers/options
+              text: Career Options for Physicists
+              type: website
+            - href: https://youtu.be/G60ujS-w3Ek
+              text: 10 Best Entry Level Jobs for Physics Majors
+              type: video
+      - requirement: b
+        text: |-
+            Explore how you could use knowledge and skills from this badge to
+            pursue a hobby or healthy lifestyle. Research any training needed,
+            expenses, and organizations that promote or support it. Discuss
+            with your counselor what short-term and long-term goals you might
+            have if you pursued this.
+        resources:
+            - href: https://www.iloveit.net/passion/physics-as-a-passion-and-hobby/
+              text: Physics as a Passion
+              type: website
+            - href: https://hobbyknowhow.com/hobbies-related-to-science/
+              text: 9 Hobbies Related to Science
+              type: website
+- requirement: 9
+  text: |-
+      Complete the survey below to complete the test lab requirements

@@ -21,15 +21,6 @@ import meritBadges from '~/data/merit-badges.json';
         Workbook and Class Preparation Pages.
     </p>
 
-    <p>
-        All requirements are current as listed on
-        <a
-            href="https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/merit-badges/"
-            >Scouting America's List</a
-        >
-        unless otherwise noted.
-    </p>
-
     <h2>Merit Badge Index</h2>
 
     <MeritBadgeList>

@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "type": "module",
     "scripts": {
-        "build": "npm run verify-data && npm run build-dist && npm run build-sitemap && npm run verify-internal-links",
+        "build": "npm run test && npm run build-dist && npm run build-sitemap && npm run verify-internal-links",
         "build-dist": "iles build",
         "build-sitemap": "node build-sitemap.mjs",
         "now": "npm run build && npm run preview",
@@ -11,6 +11,7 @@
         "preview-windows": "npm ci && npm run start",
         "reinstall": "rm -rf node_modules package-lock.json && npm install",
         "start": "iles dev --open --host",
+        "test": "npm run verify-data",
         "typecheck": "vue-tsc --noEmit",
         "verify-data": "node validate-data.mjs",
         "verify-external-links": "check-html-links dist/ --validate-externals",

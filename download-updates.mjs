@@ -32,6 +32,11 @@ const downloadables = [
         desc: "Scout ranks",
         fn: downloadScoutRanks
     },
+    {
+        key: "test-lab",
+        desc: "Test Lab",
+        fn: downloadTestLab
+    },
 ];
 
 async function readJson(fn) {
@@ -478,6 +483,37 @@ async function downloadScoutRanks(updated, downloadUrlInfo) {
                 'a[href*=".pdf"]:contains("Eagle Scout Rank Alternative Requirements")'
         }
     ]);
+}
+
+async function downloadTestLab(updated, downloadUrlInfo, args) {
+    async function fetchTestLab(link, indexDom) {
+        const url = resolveUrl(link, indexDom);
+        const name = safeName(link.innerText);
+        console.log(`[Requirements] ${name}: ${url}`);
+        const dest = `src/data/test-lab/${name}/${name}.html.orig`;
+        const pageDom = await saveHtml(url, dest, '.e-con-inner');
+        updated[name] = Date.now();
+    }
+
+    heading("Test Lab");
+
+    subheading(`Fetching index`);
+    const indexUrl = "https://www.scouting.org/skills/merit-badges/test-lab/";
+    await downloadList(updated, downloadUrlInfo, "test-lab", [
+        {
+            key: "test-lab",
+            url: indexUrl,
+            dest: "src/data/test-lab/test-lab.html.orig",
+            selector: '[data-id="3b0c127"]'
+        },
+    ]);
+
+    const indexDom = await getHtmlDom(indexUrl);
+    await domQuery(
+        indexDom,
+        '[data-id="8f1ed05"] a',
+        fetchTestLab
+    );
 }
 
 function help() {

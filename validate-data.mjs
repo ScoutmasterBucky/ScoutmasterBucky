@@ -79,6 +79,7 @@ const mappings = {
     'src/data/scout-ranks.json': 'scout-ranks.json',
     'src/data/scout-ranks/**/*.yaml': 'requirement-list.json',
     'src/data/supernova-awards.json': 'supernova-awards.json',
+    'src/data/test-lab.json': 'test-lab.json',
 };
 
 for (const [filename, schema] of Object.entries(mappings)) {
