@@ -1,12 +1,13 @@
 <script setup lang="ts">
-defineProps<{ href: String; name: String; src: String }>();
+defineProps<{ id: String }>();
+import testLab from '~/data/test-lab.json';
 </script>
 
 <template>
     <Tile>
-        <a :href="href" target="_blank">
-            <img :src="src" :alt="name" />
-            <div>{{ name }}</div>
+        <a :href="'/test-lab/' + id + '/'">
+            <img :src="testLab[id].image" :alt="testLab[id].name" />
+            <div>{{ testLab[id].name }}</div>
         </a>
     </Tile>
 </template>

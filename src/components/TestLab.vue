@@ -1,3 +1,7 @@
+<script setup lang="ts">
+import testLab from '~/data/test-lab.json';
+</script>
+
 <template>
     <h2>Scouts BSA Test Lab</h2>
     <p>
@@ -10,30 +14,6 @@
         >.
     </p>
     <TileWrapper>
-        <TestLabTile
-            href="https://www.scouting.org/skills/merit-badges/test-lab/auctioneering/"
-            name="Auctioneering"
-            src="/images/test-lab-auctioneering.webp"
-        />
-        <TestLabTile
-            href="https://www.scouting.org/skills/merit-badges/test-lab/wildland-fire-management/"
-            name="Wildland Fire Management"
-            src="/images/test-lab-wildland-fire-management.webp"
-        />
-        <TestLabTile
-            href="https://www.scouting.org/skills/merit-badges/test-lab/life-skills/"
-            name="Life Skills"
-            src="/images/test-lab-life-skills.webp"
-        />
-        <TestLabTile
-            href="https://www.scouting.org/skills/merit-badges/test-lab/physics/"
-            name="Physics"
-            src="/images/test-lab-physics.webp"
-        />
-        <TestLabTile
-            href="https://www.scouting.org/skills/merit-badges/test-lab/sewing-needlework/"
-            name="Sewing &amp; Needlework"
-            src="/images/test-lab-sewing-needlework.webp"
-        />
+        <TestLabTile v-for="(detail, id) in testLab" :id="id" />
     </TileWrapper>
 </template>
