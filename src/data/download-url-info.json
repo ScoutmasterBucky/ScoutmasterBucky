@@ -1050,20 +1050,19 @@
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
-            "age": "129592",
             "alt-svc": "h3=\":443\"; ma=86400",
             "cache-control": "public, max-age=31536000",
             "cf-cache-status": "HIT",
-            "cf-ray": "98f7dfecce44a1fd-MSP",
+            "cf-ray": "9a0912647fcba25a-YUL",
             "connection": "keep-alive",
-            "content-length": "4573520",
+            "content-length": "3064045",
             "content-type": "application/pdf",
-            "date": "Thu, 16 Oct 2025 13:24:07 GMT",
-            "etag": "\"683deca5-45c950\"",
-            "last-modified": "Mon, 02 Jun 2025 18:25:41 GMT",
+            "date": "Tue, 18 Nov 2025 17:08:47 GMT",
+            "etag": "\"691c4a3e-2ec0ed\"",
+            "last-modified": "Tue, 18 Nov 2025 10:28:14 GMT",
             "server": "cloudflare",
             "set-cookie": [
-                "__cf_bm=zfrI4PMhHOal0QlmsT5bqmrWEQzacnwOf2WrZy945_o-1760621047-1.0.1.1-ddKKgMRBaqDvzRdAtEaOyI2U8w0aGpWPsbVmegEt7uHFCWCi0lZnxNWeKz1z5uEczUdO49v_VKIb1i2l64vc1zk5TzQFmjDBr_3rIpyCfMo; path=/; expires=Thu, 16-Oct-25 13:54:07 GMT; domain=.filestore.scouting.org; HttpOnly; Secure; SameSite=None"
+                "__cf_bm=ElWTfc_.RWqpQshJLxVrmaurjGBkSgTf7UIi4Gjhq4s-1763485727-1.0.1.1-Jkj9PC_LKlwQoct3rAd8c1PWmKk30c1HYMDnZ74D1jAV8VTJ4OM0XLgVWA0i2f4N9kkdVTNEUevUMxS5Z8ghjH6sAj3Zu93ozKBdZ79.ElM; path=/; expires=Tue, 18-Nov-25 17:38:47 GMT; domain=.filestore.scouting.org; HttpOnly; Secure; SameSite=None"
             ],
             "vary": "Accept-Encoding"
         },
