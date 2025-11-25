@@ -1,0 +1,31 @@
+---
+import DefaultLayout from '~/layouts/default-layout.astro';
+import Requirements from '~/components/requirements.astro';
+import ScaledContent from '~/components/scaled-content.astro';
+import ScoutRankBucky from '~/components/scout-rank-bucky.astro';
+import type { MarkdownLayoutProps } from 'astro';
+import scoutRanks from '~/data/other-awards/index.yaml';
+
+type Props = MarkdownLayoutProps<{
+    rank: string;
+}>;
+
+const rank = Astro.props.rank;
+const rankInfo = scoutRanks[rank];
+---
+
+<DefaultLayout title={awardInfo.title}>
+    <ScaledContent align="center">
+        <ScoutRankBucky rank={rank} />
+    </ScaledContent>
+
+    <h3>{awardInfo.name}</h3>
+
+    <slot />
+
+    <h2>Requirements</h2>
+
+    <Requirements
+        requirements="~/data/scout-ranks/{rank}.yaml"
+    />
+</DefaultLayout>

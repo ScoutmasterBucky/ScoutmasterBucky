@@ -1,0 +1,6 @@
+---
+badge: golf
+layout: ../../../layouts/historical-merit-badge.astro
+---
+
+Extra information goes here.

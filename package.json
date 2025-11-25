@@ -1,13 +1,13 @@
 {
-    "name": "iles-app",
-    "version": "0.0.0",
+    "name": "ScoutmasterBucky",
+    "private": true,
     "type": "module",
     "scripts": {
         "build": "npm run test && npm run build-dist && npm run build-sitemap && npm run verify-internal-links",
-        "build-dist": "iles build",
+        "build-dist": "astro build",
         "build-sitemap": "node build-sitemap.mjs",
         "now": "npm run build && npm run preview",
-        "preview": "iles preview --open --port 5050 --host",
+        "preview": "astro preview",
         "preview-windows": "npm ci && npm run start",
         "reinstall": "rm -rf node_modules package-lock.json && npm install",
         "start": "iles dev --open --host",
@@ -21,22 +21,23 @@
         "node": ">= 20.0.0"
     },
     "devDependencies": {
-        "@modyfi/vite-plugin-yaml": "^1.1.1",
+        "@rollup/plugin-yaml": "^4.1.2",
+        "@types/papaparse": "^5.5.0",
         "ajv": "^8.17.1",
+        "astro": "^5.16.0",
         "check-html-links": "^0.2.4",
         "debug": "^4.4.3",
+        "fudgel": "^2.4.0",
         "glob": "^13.0.0",
         "got": "^14.6.5",
-        "iles": "^0.10.0-beta.1",
-        "js-yaml": "^4.1.1",
         "json-stable-stringify": "^1.3.0",
         "linkedom": "^0.18.12",
         "neodoc": "^2.0.2",
         "papaparse": "^5.5.3",
         "pdfjs-dist": "^5.4.394",
         "prettier": "^3.6.2",
-        "typescript": "^5.9",
-        "vue-tsc": "^3.1"
+        "prettier-plugin-astro": "^0.14.1",
+        "typescript": "^5.9"
     },
     "dependencies": {
         "luxon": "^3.7.2"

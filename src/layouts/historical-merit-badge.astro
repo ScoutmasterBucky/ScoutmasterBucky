@@ -1,0 +1,17 @@
+---
+import type { MarkdownLayoutProps } from 'astro';
+import meritBadges from '~/data/historical-merit-badges.yaml';
+import DefaultLayout from './default-layout.astro';
+
+type Props = MarkdownLayoutProps<{
+    badge: string;
+}>;
+
+const { badge } = Astro.props;
+const info = meritBadges[badge];
+---
+<DefaultLayout title="{ info.name } Merit Badge History">
+    <h1>{{ info.name }} Merit Badge History</h1>
+
+    <slot />
+</DefaultLayout>

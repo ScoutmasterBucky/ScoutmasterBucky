@@ -1,0 +1,31 @@
+---
+import DefaultLayout from '~/layouts/default-layout.astro';
+import OtherAwardBucky from '~/components/other-award-bucky.astro';
+import Requirements from '~/components/requirements.astro';
+import ScaledContent from '~/components/scaled-content.astro';
+import type { MarkdownLayoutProps } from 'astro';
+import otherAwards from '~/data/other-awards/index.yaml';
+
+type Props = MarkdownLayoutProps<{
+    award: string;
+}>;
+
+const award = Astro.props.award;
+const awardInfo = otherAwards[award];
+---
+
+<DefaultLayout title={awardInfo.name}>
+    <ScaledContent align="center">
+        <OtherAwardBucky award={award} />
+    </ScaledContent>
+
+    <h3>{awardInfo.name}</h3>
+
+    <slot />
+
+    <h2>Requirements</h2>
+
+    <Requirements
+        requirements="~/data/other-awards/{award}/requirements.yaml"
+    />
+</DefaultLayout>
