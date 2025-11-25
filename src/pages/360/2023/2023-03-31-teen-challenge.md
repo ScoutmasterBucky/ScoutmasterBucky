@@ -1,0 +1,36 @@
+---
+hidden: false
+eventDate: '2023-03-31'
+title: Adult and Teen Challenge
+presenter: Daron Meyer
+# Logo is optional. If no logo, delete the line or comment it out.
+logo: 2023/graphics/atc-logo.png
+# Ribbon is optional. If no ribbon, delete the line or comment it out.
+ribbon: 2023/graphics/mnatc-logo.png
+summary: Minnesota Adult and Teen Challenge
+shirtImage: graphics/day-02-t.png
+# shirtLink: https://...
+videoLink: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/775463404295131
+layout: ../../../layouts/default-markdown-layout.astro
+---
+***Our mission is to assist men, women and teens in gaining freedom from chemical addictions and other life-controlling problems by addressing their physical, emotional and spiritual needs*** **- Minnesota Adult and Teen Challenge**
+
+
+<div class="center">
+<img src="/360/2023/graphics/mnatc-pic-01.png" class="wide" />
+</div>
+
+
+Adult and Teen Challenge provides Christian faith-based, residential care to young people and adults who struggle with addiction and life-controlling problems. It is ATC's goal to provide a start for men and women and empower them to become mentally sound, emotionally balanced, socially adjusted, physically well, and spiritually alive. The program provides an opportunity from the damaging atmosphere of the past and permits time for individuals to make quality decisions for a hopeful future.
+
+Addiction does not just affect the addict; it is also damaging to family members, people who care about you and people you work with. There are problems besides drugs and alcohol that have the potential to do as much damage as substance abuse. In fact, substance abuse is often symptomatic of much deeper life-controlling problems, such as lifestyle addictions. Lifestyle addictions cover a wide array of issues that affect many people such as poor self-image, violence and anger issues, eating disorders, and sexual addiction. People struggling with these issues can also benefit from an addiction recovery program.
+
+Through effective discipleship, mentoring, and life-skills training, Adult and Teen Challenge and its affiliates have seen positive outcomes and radical life-transformation throughout its sixty-year history. Unlike a conventional rehab, this recovery program encompasses every aspect of life, guiding people to become mentally sound, emotionally balanced, socially adjusted, and physically well.  It offers nonmedical recovery methods such as moral guidance, counseling, and biblical principles to life-controlling problems. The programs are typically 12-18 months and consist of individual and group biblical studies, work projects, education (for adolescents), recreation and more.
+
+A recent study conducted by the Center for Compassion at Evangel University confirms that an astonishing 78% of graduates from Adult & Teen Challenge addiction recovery centers remain sober and substance free post-graduation! Furthermore, the study showed those same graduates indicated holistic improvement across multiple health indicators, from sobriety to relational and spiritual dimensions, following their recovery through Adult and Teen Challenge centers.
+
+The program relies on community support, and while demand has gone up, donations have drastically decreased. If you're interested in supporting Minnesota Adult & Teen Challenge, you can make a donation on their website or better yet help fill the need for mentors, which are always needed.
+
+Learn more about Minnesota Adult & Teen Challenge's services <a href="https://www.mntc.org/">here</a>.
+
+Today's T-Shirt specially made by Daron Meyer

@@ -1,0 +1,13 @@
+---
+import DefaultLayout from './default-layout.astro';
+import type { MarkdownLayoutProps } from 'astro';
+
+type Props = MarkdownLayoutProps<{
+    title: string;
+}>;
+
+const { title } = Astro.props;
+---
+<DefaultLayout title="{ title }">
+    <slot />
+</DefaultLayout>
