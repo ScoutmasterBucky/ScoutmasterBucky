@@ -11,7 +11,7 @@ const { badge } = Astro.props;
 const info = meritBadges[badge];
 ---
 <DefaultLayout title="{ info.name } Merit Badge History">
-    <h1>{{ info.name }} Merit Badge History</h1>
+    <h1>{ info.name } Merit Badge History</h1>
 
     <slot />
 </DefaultLayout>
