@@ -1,0 +1,65 @@
+---
+interface Props {
+    items: object;
+}
+
+const { items } = Astro.props;
+---
+
+<div class="resource-toggle hidden">
+    <div class="resources v-gap">
+        <div class="resource-heading">
+            {items.length === 1 ? 'Resource:' : 'Resources:'}
+        </div>
+        <ul>
+            {
+                items.map(item => (
+                    <li>
+                        {item.href && (
+                            <span>
+                                <a
+                                    href={item.href}
+                                    target="_blank"
+                                    set:html={item.text}
+                                />
+                                ({item.type})
+                            </span>
+                        )}
+                        {!item.href && <span set:html={item.text} />}
+                    </li>
+                ))
+            }
+        </ul>
+    </div>
+</div>
+
+<style>
+    .v-gap {
+        padding-bottom: 8px;
+    }
+
+    .resources {
+        width: 100%;
+        background-color: #dfe2de;
+    }
+
+    @media print {
+        .resources {
+            background-color: transparent;
+        }
+    }
+
+    .resource-heading {
+        font-style: italic;
+    }
+
+    .resource-toggle {
+        overflow: hidden;
+        interpolate-size: allow-keywords;
+        transition: height 0.3s ease;
+    }
+
+    .hidden {
+        height: 0;
+    }
+</style>

@@ -1,10 +1,10 @@
 ---
-import FlyoutMenu from '../components/flyout-menu.astro';
+import '../assets/base.css';
+import '../assets/theme-smb.css';
+import '~/web-components/flyout-menu';
+import '~/web-components/smb-header-banner';
 import SmbBannerMenu from '../components/smb-banner-menu.astro';
 import SmbFooter from '../components/smb-footer.astro';
-import SmbHeaderBannerImage from '../components/smb-header-banner-image.astro';
-import '../assets/theme-smb.css';
-import '../assets/base.css';
 
 interface Props {
     title: string;
@@ -60,7 +60,7 @@ const { title } = Astro.props;
     <body>
         <div class="page-container theme-smb">
             <header>
-                <SmbHeaderBannerImage client:load />
+                <smb-header-banner></smb-header-banner>
                 <SmbBannerMenu />
             </header>
             <main>

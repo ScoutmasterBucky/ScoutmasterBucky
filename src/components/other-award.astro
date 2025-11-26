@@ -1,0 +1,31 @@
+---
+import otherAwards from '~/data/other-awards.json';
+
+interface Props {
+    award: string;
+}
+
+const { award } = Astro.props as Props;
+---
+
+<ScaledContent>
+    <a href="/other-awards/{award}/`"
+        ><img src={otherAwards[award].image} class="wide" /></a
+    >
+    <div class="name">
+        <a href="/other-awards/{award}/">{otherAwards[award].name}</a>
+    </div>
+</ScaledContent>
+
+<style>
+    .name {
+        font-size: 1.2em;
+        text-align: center;
+    }
+
+    @media (max-width: 480px) {
+        .name {
+            font-size: 1em;
+        }
+    }
+</style>

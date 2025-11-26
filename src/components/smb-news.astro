@@ -1,0 +1,44 @@
+---
+import ScaledContent from './scaled-content.astro';
+
+interface Props {
+    news: object;
+}
+
+const { news } = Astro.props;
+const newsArray = Array.isArray(news) ? news : [];
+---
+
+<h2>News</h2>
+
+<div class="news-wrapper">
+    <ScaledContent align="left">
+        <img src="/images/bucky-with-newspaper.jpg" class="wide" />
+    </ScaledContent>
+
+    {
+        items.map(item => (
+            <div class="news-item">
+                <div class="news-new">NEW!</div>
+                <div>{item}</div>
+            </div>
+        ))
+    }
+</div>
+
+<style>
+    .news-wrapper {
+        padding: 1em;
+    }
+
+    .news-item {
+        display: flex;
+    }
+
+    .news-new {
+        display: flex;
+        color: var(--index-news-text-color);
+        font-weight: bold;
+        padding-right: 8px;
+    }
+</style>

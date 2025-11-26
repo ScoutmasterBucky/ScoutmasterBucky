@@ -1,0 +1,99 @@
+---
+import RequirementItem from './requirement-item.astro';
+import RequirementResources from './requirement-resources.astro';
+
+interface Props {
+    parentCount: number;
+    requirements: object;
+}
+
+const { parentCount, requirements } = Astro.props;
+const parents = new Array(parentCount || 0);
+---
+
+{
+    requirements.map(requirement => (
+        <>
+            <div class="line">
+                {parents.map(() => (
+                    <div class="indent h-gap" />
+                ))}
+                {requirement.requirement && (
+                    <div class="requirement">
+                        <div class="number h-gap">
+                            {requirement.requirement}.
+                        </div>
+                        <div class="full-width">
+                            <div
+                                class="text v-gap"
+                                set:html={requirement.text}
+                            />
+                            {requirement.resources && (
+                                <RequirementResources
+                                    items={requirement.resources}
+                                />
+                            )}
+                        </div>
+                    </div>
+                )}
+                {requirement.detail && (
+                    <div>
+                        <div class="detail v-gap" set:html={requirement.text} />
+                        {requirement.resources && (
+                            <RequirementResources
+                                items={requirement.resources}
+                            />
+                        )}
+                    </div>
+                )}
+            </div>
+            {requirement['children'] && (
+                <Astro.self
+                    parent-count={parentCount + 1}
+                    requirements={requirement.children}
+                />
+            )}
+        </>
+    ))
+}
+
+<style>
+    .line {
+        display: flex;
+    }
+
+    .indent {
+        flex-shrink: 0;
+    }
+
+    .requirement {
+        display: flex;
+        width: 100%;
+    }
+
+    .requirement .number {
+        padding-right: 0.4em;
+        flex-shrink: 0;
+        text-align: end;
+    }
+
+    .text {
+        width: 100%;
+    }
+
+    .detail {
+        width: 100%;
+    }
+
+    .h-gap {
+        width: 26px;
+    }
+
+    .v-gap {
+        padding-bottom: 8px;
+    }
+
+    .full-width {
+        width: 100%;
+    }
+</style>

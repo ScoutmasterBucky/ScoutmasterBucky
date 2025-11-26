@@ -1,0 +1,39 @@
+---
+import Tile from './Tile.astro';
+import testLabs from '~/data/test-labs.yaml';
+
+interface Props {
+    testLab: string;
+}
+
+const { testLab } = Astro.props;
+---
+
+<Tile>
+    <a href="/test-lab/{testLab}/">
+        <img src={testLabs[testLab].image} alt={testLabs[testLab].name} />
+        <div>{testLabs[testLab].name}</div>
+    </a>
+</Tile>
+
+<style>
+    a {
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        padding: 0.5em;
+        text-decoration: none;
+        color: inherit;
+    }
+
+    img {
+        height: 55px;
+        width: auto;
+    }
+
+    div {
+        font-weight: bold;
+        color: var(--smb-text-color);
+    }
+</style>
