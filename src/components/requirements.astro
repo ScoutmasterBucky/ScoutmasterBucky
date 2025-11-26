@@ -1,0 +1,13 @@
+---
+import RequirementItem from './requirement-item.astro';
+
+interface Props {
+    parents?: Number;
+    requirements: Object;
+}
+
+const { requirements } = Astro.props;
+const yaml = import.meta.glob(requirements, { eager: true })[0];
+---
+
+<RequirementItem parent-count=0 requirements={yaml} />

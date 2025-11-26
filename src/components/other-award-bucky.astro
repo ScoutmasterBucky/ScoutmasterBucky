@@ -1,0 +1,20 @@
+---
+import otherAwards from '~/data/other-awards.json';
+
+interface Props {
+    award: string;
+}
+
+const { award } = Astro.props as Props;
+---
+
+<div>
+    <img src={otherAwards[award].bucky} class="wide" />
+</div>
+
+<style>
+    div {
+        display: flex;
+        justify-content: center;
+    }
+</style>

@@ -1,8 +1,6 @@
 ---
 import type { MarkdownLayoutProps } from 'astro';
-import meritBadges from '~/data/merit-badges.yaml';
-import otherAwards from '~/data/other-awards.yaml';
-import scoutRanks from '~/data/scout-ranks.yaml';
+import testLabs from '~/data/test-labs.yaml';
 import updated from '~/data/updated.json';
 import DefaultLayout from './default-layout.astro';
 import ResourcesToggle from '~/components/ResourcesToggle.astro';
@@ -10,15 +8,14 @@ import Requirements from '~/components/Requirements.astro';
 import ScaledContent from '~/components/ScaledContent.astro';
 
 type Props = MarkdownLayoutProps<{
-    badge: string;
+    testLab: string;
 }>;
 
-const { badge } = Astro.props;
-const requirements = import.meta.glob(`~/data/merit-badges/${badge}/requirements.yaml`, { eager: true })[0];
-const resources = import.meta.glob(`~/data/merit-badges/${badge}/resources.yaml`, { eager: true })[0];
+const { testLab } = Astro.props;
+const requirements = import.meta.glob(`~/data/test-lab/${testLab}/requirements.yaml`, { eager: true })[0];
 
-const info = meritBadges[badge];
-const updatedDate = new Date(updated['merit-badges'][badge]);
+const info = testLabs[testLab];
+const updatedDate = new Date(updated['test-lab'][badge]);
 const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
     year: 'numeric',
     month: 'long',
@@ -26,22 +23,6 @@ const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
 });
 
 const related = new Set();
-
-for (const rankName of info.ranks) {
-    const rank = scoutRanks[rankName];
-    related.add({
-        name: `${rank.name} Rank`,
-        href: `/scout-ranks/${rankName}/`,
-    });
-}
-
-for (const otherAwardName of info['other-awards']) {
-    const otherAward = otherAwards[otherAwardName];
-    related.add({
-        name: otherAward.name,
-        href: `/other-awards/${otherAwardName}/`,
-    });
-}
 
 function checkRequirementsForResources(reqs) {
     for (const req of reqs) {
@@ -91,38 +72,37 @@ let hasResources = checkRequirementsForResources(requirements);
 .gap-bottom {
     margin-bottom: 0.5em;
 }
+
+.survey {
+    background-color: var(--palette-dark);
+    border: 4px solid var(--palette-dark);
+    color: white;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin: 1em;
+    padding: 0.5em 1em;
+    border-radius: 2em;
+    text-decoration: none;
+}
 </style>
 <DefaultLayout title="{ info.name } Merit Badge">
     <h1>{ info.name }</h1>
 
     <div class="center unprintable">
         <ScaledContent>
-            <img src={info.bucky} alt="Bucky" class="wide" />
-        </ScaledContent>
-        <ScaledContent>
-            <img src={info.image} alt="Merit Badge" class="wide" />
+            <img src={info.image} alt="Test Lab Badge" class="wide" />
         </ScaledContent>
     </div>
 
-    <h3>Resources</h3>
-
-    <ul>
-        {resources.map((resource) => (
-            <li>
-                <a href={resource.url}>{resource.name}</a>
-            </li>
-        ))}
-    </ul>
-
-    {related.size && (
-        <h3>Related</h3>
+    {resources && (
+        <h3>Resources</h3>
 
         <ul>
-            {related.map((item) => (
+            (resources.map((resource) => (
                 <li>
-                    <a href={item.href}>{item.name}</a>
+                    <a href={resource.url}>{resource.name}</a>
                 </li>
-            ))}
+            )))
         </ul>
     )}
 
@@ -136,6 +116,17 @@ let hasResources = checkRequirementsForResources(requirements);
         </div>
     </h2>
 
-    {hasResources && <ResourcesToggle class="gap-bottom" client:load />}
-    <Requirements requirements="~/data/merit-badges/{badge}/requirements.yaml" />
+    <p>This Test Lab offering is valid until { info.expires }.</p>
+
+    {hasResources && (
+        <ResourcesToggle class="gap-bottom" client:load />
+    )}
+
+    <Requirements requirements="~/data/test-lab/{testLab}/requirements.yaml" />
+
+    <div class="center">
+        <a href={info.survey} target="_blank" rel="noopener" class="survey">
+            Go To Survey
+        </a>
+    </div>
 </DefaultLayout>

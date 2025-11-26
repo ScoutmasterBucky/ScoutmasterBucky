@@ -1,0 +1,75 @@
+---
+import MeritBadgeImage from '~/components/merit-badge-image.astro';
+import meritBadges from '~/data/merit-badges.json';
+
+interface Props {
+    badge: string;
+    badge2?: string;
+}
+
+const { badge, badge2 } = Astro.props;
+---
+</script>
+
+{badge2 && (
+    <div class="scaled">
+        <MeritBadgeImage badge={badge} badge2={badge2} />
+        <div class="name">
+            <a href="/merit-badges/{badge}/">{
+                meritBadges[badge].name
+            }</a>
+            and
+            <a href="/merit-badges/{badge2}/">{
+                meritBadges[badge2].name
+            }</a>
+        </div>
+    </div>
+)}
+{!badge2 && (
+    <div class="scaled">
+        <MeritBadgeImage badge={badge} />
+        <div class="name">
+            <a href="/merit-badges/{badge}/">{
+                meritBadges[badge].name
+            }</a>
+        </div>
+    </div>
+)}
+
+<style>
+a {
+    text-decoration: none;
+}
+
+.name {
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.scaled {
+    width: 20%;
+    padding: 0.5em;
+}
+
+@media (min-width: 768.0001px) and (max-width: 1024px) {
+    .scaled {
+        width: 25%;
+    }
+}
+
+@media (min-width: 480.0001px) and (max-width: 768px) {
+    .scaled {
+        width: 33%;
+    }
+}
+
+@media (max-width: 480px) {
+    .name {
+        font-size: 1em;
+    }
+
+    .scaled {
+        width: 50%;
+    }
+}
+</style>
