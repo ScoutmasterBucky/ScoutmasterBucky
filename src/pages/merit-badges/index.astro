@@ -1,0 +1,33 @@
+---
+import DefaultLayout from '~/layouts/default-layout.astro';
+import ScaledContent from '~/components/scaled-content.astro';
+import TileWrapper from '~/components/tile-wrapper.astro';
+import Tile from '~/components/tile.astro';
+import meritBadges from '~/data/merit-badges.yaml';
+---
+
+<DefaultLayout title="Merit Badge Index">
+    <h1>List of Merit Badges</h1>
+
+    <p>
+        Find information and resources on each of the
+        {Object.keys(meritBadges).length} Scouts BSA merit badges offered by Scouting
+        America.
+    </p>
+
+    <p>
+        The links below direct to the specific merit badge and its requirements
+        as well as links to resources like the Scoutmaster Bucky Merit Badge
+        Workbook and Class Preparation Pages.
+    </p>
+
+    <h2>Merit Badge Index</h2>
+
+    <MeritBadgeList>
+        {
+            Object.keys(meritBadges).map(meritBadge => (
+                <MeritBadge badge={meritBadge} />
+            ))
+        }
+    </MeritBadgeList>
+</DefaultLayout>
