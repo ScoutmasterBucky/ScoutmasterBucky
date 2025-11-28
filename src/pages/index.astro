@@ -6,7 +6,7 @@ import SmbNews from '~/components/smb-news.astro';
 import TestLabTiles from '~/components/test-lab-tiles.astro';
 import { DateTime } from 'luxon';
 
-news: [
+const news = [
     // "The Duluth event is now LIVE!",
     // "Merit badges have been updated to 2025 requirements.",
 ];
@@ -38,9 +38,13 @@ const lastBuildTime = DateTime.now()
         <FeaturedItemYoutubeVideo code="xXceZhkrtP8" ratio="16 / 9" />
     </div>
 
-    <SmbNews v-if="$frontmatter.news" :news="$frontmatter.news" />
+    {news && news.length > 0 && (
+        <SmbNews news={news} />
+    )}
 
-    <upcoming-events></upcoming-events>
+    <MeritBadgeList>
+        <upcoming-events></upcoming-events>
+    </MeritBadgeList>
 
     <TestLabTiles />
 
@@ -96,7 +100,7 @@ const lastBuildTime = DateTime.now()
         >.
     </p>
 
-    <p>Last updated at {{ lastBuildTime }} (Bucky Time is Central Time).</p>
+    <p>Last updated at { lastBuildTime } (Bucky Time is Central Time).</p>
 
     <style>
         .text-centered {
@@ -139,3 +143,6 @@ const lastBuildTime = DateTime.now()
         }
     </style>
 </DefaultLayout>
+<script>
+    import '~/assets/upcoming-events.js';
+</script>

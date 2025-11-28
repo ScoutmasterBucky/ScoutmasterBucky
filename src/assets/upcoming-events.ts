@@ -1,3 +1,4 @@
+import './upcoming-event';
 import eventList from '~/data/events.yaml';
 import { DateTime } from 'luxon';
 import { component, html } from 'fudgel';

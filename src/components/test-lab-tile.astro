@@ -11,7 +11,7 @@ const testLabInfo = (await getEntry('testLabs', testLab))?.data;
 ---
 
 <Tile>
-    <a href="/test-labs/{testLab}/">
+    <a href={`/test-labs/${testLab}/`}>
         <img src={testLabInfo.image} alt={testLabInfo.name} />
         <div>{testLabInfo.name}</div>
     </a>

@@ -82,10 +82,10 @@ const meritBadges = await getCollection('historicalMeritBadges');
 
     <TileWrapper>
         {
-            meritBadges.map((badge, badgeName) => (
+            meritBadges.map((badge) => (
                 <Tile>
-                    <a href="/history/{badgeName}/">
-                        <div class="{badge.active && 'active'} label">
+                    <a href={`/history/${badge.id}/`}>
+                        <div class={`${badge.data.active && 'active'} label`}>
                             {badge.data.name}
                         </div>
                     </a>

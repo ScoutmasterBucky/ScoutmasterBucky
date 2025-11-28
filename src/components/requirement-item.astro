@@ -7,8 +7,11 @@ interface Props {
     requirements: object;
 }
 
-const { parentCount, requirements } = Astro.props;
-const parents = new Array(parentCount || 0);
+const { 'parent-count': parentCount, requirements } = Astro.props;
+const parents = [];
+while (parents.length < (parentCount || 0)) {
+    parents.push(null);
+}
 ---
 
 {

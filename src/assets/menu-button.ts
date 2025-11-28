@@ -1,8 +1,7 @@
 import { component, css, html } from 'fudgel';
-import './menu-button';
 
 component(
-    'flyout-menu',
+    'menu-button',
     {
         attr: ['href', 'src', 'subtitle', 'title'],
         style: css`

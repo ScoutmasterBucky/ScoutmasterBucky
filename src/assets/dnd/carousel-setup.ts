@@ -1,4 +1,4 @@
-import '~/assets/dnd/wc-carousel-lite.min.js';
+import './wc-carousel-lite.min';
 
 interface PlayerInfo {
     name: string;
@@ -163,7 +163,7 @@ carousel.setAttribute('interval', '6000');
 (carousel as any).autoplay = true;
 carousel.innerHTML = bestRanked
     .map(player => {
-        return `<div class="item center" style="width: 300px">
+        return `<div class="item center" style="width: 300px; flex-direction: column">
 <img src="${player.src}" width="200" />
 <div class="kalam" style="font-size: 0.8em">${player.name}</div>
 <div style="font-size: 0.6em">${player.class}</div>

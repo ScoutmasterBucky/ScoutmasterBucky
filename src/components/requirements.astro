@@ -11,4 +11,4 @@ const { entry, type } = Astro.props;
 const requirements = (await getEntry(type, entry))?.data;
 ---
 
-<RequirementItem parent-count=0 requirements={requirements} />
+<RequirementItem parent-count={0} requirements={requirements} />

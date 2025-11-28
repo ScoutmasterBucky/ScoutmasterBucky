@@ -60,7 +60,7 @@ component('show-modal', {
     <div class="modal-wrapper-outer" @keypress.esc="close()" @click="close()">
         <div class="modal-wrapper-inner">
             <div class="modal-content" @click.stop="">
-                <slot />
+                <slot></slot>
             </div>
             <div class="modal-close" @click="close()">
                ✕

@@ -11,11 +11,11 @@ const rankInfo = (await getEntry('scoutRanks', rank))?.data;
 ---
 
 <ScaledContent>
-    <a href="/scout-ranks/{rank}/"
+    <a href={`/scout-ranks/${rank}/`}
         ><img src={rankInfo.image} class="wide" /></a
     >
     <div class="name">
-        <a href="/scout-ranks/{rank}/">{rankInfo.name}</a>
+        <a href={`/scout-ranks/${rank}/`}>{rankInfo.name}</a>
     </div>
 </ScaledContent>
 

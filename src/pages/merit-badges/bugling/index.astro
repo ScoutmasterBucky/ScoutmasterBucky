@@ -21,20 +21,18 @@ const calls = [
 ---
 
 <MeritBadge badge="bugling">
-    <p slot="additionalResources">
-        <h3>Bugle Calls</h3>
+    <h3>Bugle Calls</h3>
 
-        <div class="wrapper">
-            {calls.map((call) => (
-                <div class="item">
-                    <a href={call.score} alt="Score" target="_blank">
-                        <img src={call.score} alt="Score" class="wide" />
-                    </a>
-                    <audio src={call.audio} controls></audio>
-                </div>
-            ))}
-        </div>
-    </p>
+    <div class="wrapper">
+        {calls.map((call) => (
+            <div class="item">
+                <a href={call.score} alt="Score" target="_blank">
+                    <img src={call.score} alt="Score" class="wide" />
+                </a>
+                <audio src={call.audio} controls></audio>
+            </div>
+        ))}
+    </div>
 </MeritBadge>
 
 <style>

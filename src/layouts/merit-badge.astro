@@ -99,6 +99,8 @@ let hasResources = checkRequirementsForResources(requirements);
         </ScaledContent>
     </div>
 
+    <slot />
+
     <h3>Resources</h3>
 
     <ul>
@@ -109,7 +111,7 @@ let hasResources = checkRequirementsForResources(requirements);
         ))}
     </ul>
 
-    {related.length && (
+    {related.length > 0 && (
         <h3>Related</h3>
 
         <ul>
@@ -120,8 +122,6 @@ let hasResources = checkRequirementsForResources(requirements);
             ))}
         </ul>
     )}
-
-    <slot name="additionalResources" />
 
     <h2 class="requirements-header">
         <div>{ info.name } Requirements</div>
@@ -134,3 +134,6 @@ let hasResources = checkRequirementsForResources(requirements);
     {hasResources && <resources-toggle class="gap-bottom"></resources-toggle>}
     <Requirements type="meritBadgeRequirements" entry={badge} />
 </DefaultLayout>
+<script>
+import '~/assets/resources-toggle';
+</script>
