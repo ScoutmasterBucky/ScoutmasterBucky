@@ -1,29 +1,12 @@
-<page>
-title: Artificial Intelligence Merit Badge
-badge: artificial-intelligence
-resources:
-    - name: Scoutmaster Bucky's Merit Badge Advancement Quick Reference
-      shortName: Advancement Quick Reference
-      url: /documents/mbaqr.pdf
-    - name: Scoutmaster Bucky's Acknowledgement Form
-      shortName: Acknowledgement Form
-      url: /documents/mbaf.pdf
-    - name: Scouting America's Counselor Guidelines
-      shortName: Counselor Guidelines
-      url: artificial-intelligence-counselor-guidelines.pdf
-    - name: Scouting America's Digital Resources
-      shortName: Digital Resources
-      url: artificial-intelligence-digital-resources.pdf
-</page>
-
-<script setup lang="ts">
-import requirements from '~/data/merit-badges/artificial-intelligence/requirements.yaml'
-</script>
-
-<template>
-    <MeritBadgePage
-        :badge="$frontmatter.badge"
-        :requirements="requirements"
-        :resources="$frontmatter.resources"
-    />
-</template>
+- name: Scoutmaster Bucky's Merit Badge Advancement Quick Reference
+  shortName: Advancement Quick Reference
+  url: /documents/mbaqr.pdf
+- name: Scoutmaster Bucky's Acknowledgement Form
+  shortName: Acknowledgement Form
+  url: /documents/mbaf.pdf
+- name: Scouting America's Counselor Guidelines
+  shortName: Counselor Guidelines
+  url: artificial-intelligence-counselor-guidelines.pdf
+- name: Scouting America's Digital Resources
+  shortName: Digital Resources
+  url: artificial-intelligence-digital-resources.pdf

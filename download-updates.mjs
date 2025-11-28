@@ -33,7 +33,7 @@ const downloadables = [
         fn: downloadScoutRanks
     },
     {
-        key: "test-lab",
+        key: "test-labs",
         desc: "Test Lab",
         fn: downloadTestLab
     },
@@ -383,7 +383,7 @@ async function downloadOtherAwards(updated, downloadUrlInfo) {
         {
             key: "50-miler",
             url: "https://www.scouting.org/awards/awards-central/50-miler/",
-            dest: "public/other-awards/50-miler.pdf",
+            dest: "public/other-awards/50-miler/50-miler.pdf",
             selector: "a[href*=pdf]"
         },
         {
@@ -395,19 +395,19 @@ async function downloadOtherAwards(updated, downloadUrlInfo) {
         {
             key: "conservation-good-turn-award",
             url: "https://www.scouting.org/outdoor-programs/conservation-and-environment/conservation-good-turn/",
-            dest: "src/data/other-awards/conservation-good-turn-award.html.orig",
+            dest: "src/data/other-awards/conservation-good-turn-award/conservation-good-turn-award.html.orig",
             selector: '[data-id="bf81f70"]'
         },
         {
             key: "complete-angler",
             url: "https://www.scouting.org/awards/awards-central/",
-            dest: "public/other-awards/complete-angler.pdf",
+            dest: "public/other-awards/complete-angler/complete-angler.pdf",
             selector: "a[href*=Angler]"
         },
         {
             key: "totin-chip",
             url: "https://www.scouting.org/awards/awards-central/totin-chip/",
-            dest: "src/data/other-awards/totin-chip.html.orig",
+            dest: "src/data/other-awards/totin-chip/totin-chip.html.orig",
             selector: '[data-id="7627899f"]'
         }
     ]);
@@ -421,64 +421,64 @@ async function downloadScoutRanks(updated, downloadUrlInfo) {
         {
             key: "scout",
             url,
-            dest: "src/data/scout-ranks/scout.pdf",
+            dest: "src/data/scout-ranks/scout/scout.pdf",
             selector: 'a[href*=".pdf"]:contains("Scout Rank Requirements")'
         },
         {
             key: "tenderfoot",
             url,
-            dest: "src/data/scout-ranks/tenderfoot.pdf",
+            dest: "src/data/scout-ranks/tenderfoot/tenderfoot.pdf",
             selector: 'a[href*=".pdf"]:contains("Tenderfoot Rank Requirements")'
         },
         {
             key: "second-class",
             url,
-            dest: "src/data/scout-ranks/second-class.pdf",
+            dest: "src/data/scout-ranks/second-class/second-class.pdf",
             selector:
                 'a[href*=".pdf"]:contains("Second Class Rank Requirements")'
         },
         {
             key: "first-class",
             url,
-            dest: "src/data/scout-ranks/first-class.pdf",
+            dest: "src/data/scout-ranks/first-class/first-class.pdf",
             selector:
                 'a[href*=".pdf"]:contains("First Class Rank Requirements")'
         },
         {
             key: "star",
             url,
-            dest: "src/data/scout-ranks/star.pdf",
+            dest: "src/data/scout-ranks/star/star.pdf",
             selector: 'a[href*=".pdf"]:contains("Star Rank Requirements")'
         },
         {
             key: "life",
             url,
-            dest: "src/data/scout-ranks/life.pdf",
+            dest: "src/data/scout-ranks/life/life.pdf",
             selector: 'a[href*=".pdf"]:contains("Life Rank Requirements")'
         },
         {
             key: "eagle",
             url,
-            dest: "src/data/scout-ranks/eagle.pdf",
+            dest: "src/data/scout-ranks/eagle/eagle.pdf",
             selector: 'a[href*=".pdf"]:contains("Eagle Rank Requirements")'
         },
         {
             key: "eagle-palms",
             url,
-            dest: "src/data/scout-ranks/eagle-palms.pdf",
+            dest: "src/data/scout-ranks/eagle-palms/eagle-palms.pdf",
             selector: 'a[href*=".pdf"]:contains("Eagle Palms")'
         },
         {
             key: "alternative-requirements",
             url,
-            dest: "src/data/scout-ranks/alternative-requirements.pdf",
+            dest: "src/data/scout-ranks/alternative-requirements/alternative-requirements.pdf",
             selector:
                 'a[href*=".pdf"]:contains("Ranks Alternative Requirements")'
         },
         {
             key: "eagle-alternative-requirements",
             url,
-            dest: "src/data/scout-ranks/eagle-alternative-requirements.pdf",
+            dest: "src/data/scout-ranks/eagle-alternative-requirements/eagle-alternative-requirements.pdf",
             selector:
                 'a[href*=".pdf"]:contains("Eagle Scout Rank Alternative Requirements")'
         }
@@ -490,7 +490,7 @@ async function downloadTestLab(updated, downloadUrlInfo, args) {
         const url = resolveUrl(link, indexDom);
         const name = safeName(link.innerText);
         console.log(`[Requirements] ${name}: ${url}`);
-        const dest = `src/data/test-lab/${name}/${name}.html.orig`;
+        const dest = `src/data/test-labs/${name}/${name}.html.orig`;
         const pageDom = await saveHtml(url, dest, '.e-con-inner');
         updated[name] = Date.now();
     }
@@ -499,11 +499,11 @@ async function downloadTestLab(updated, downloadUrlInfo, args) {
 
     subheading(`Fetching index`);
     const indexUrl = "https://www.scouting.org/skills/merit-badges/test-lab/";
-    await downloadList(updated, downloadUrlInfo, "test-lab", [
+    await downloadList(updated, downloadUrlInfo, "test-labs", [
         {
-            key: "test-lab",
+            key: "test-labs",
             url: indexUrl,
-            dest: "src/data/test-lab/test-lab.html.orig",
+            dest: "src/data/test-labs/test-lab.html.orig",
             selector: '[data-id="3b0c127"]'
         },
     ]);
