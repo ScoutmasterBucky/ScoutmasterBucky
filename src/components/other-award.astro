@@ -1,19 +1,20 @@
 ---
-import otherAwards from '~/data/other-awards.json';
+import { getEntry } from 'astro:content';
 
 interface Props {
     award: string;
 }
 
 const { award } = Astro.props as Props;
+const awardInfo = await getEntry('otherAwards', award);
 ---
 
 <ScaledContent>
     <a href="/other-awards/{award}/`"
-        ><img src={otherAwards[award].image} class="wide" /></a
+        ><img src={awardInfo.image} class="wide" /></a
     >
     <div class="name">
-        <a href="/other-awards/{award}/">{otherAwards[award].name}</a>
+        <a href="/other-awards/{award}/">{awardInfo.name}</a>
     </div>
 </ScaledContent>
 

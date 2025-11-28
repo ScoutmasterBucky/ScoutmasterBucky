@@ -1,15 +1,16 @@
 ---
-import scoutRanks from '~/data/scout-ranks.json';
+import { getEntry } from 'astro:content';
 
 interface Props {
     rank: string;
 }
 
 const { rank } = Astro.props;
+const rankInfo = await getEntry('scoutRanks', rank);
 ---
 
 <div>
-    <img src={scoutRanks[rank].bucky} class="wide" />
+    <img src={rankInfo.bucky} class="wide" />
 </div>
 
 <style>

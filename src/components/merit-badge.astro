@@ -1,6 +1,6 @@
 ---
 import MeritBadgeImage from '~/components/merit-badge-image.astro';
-import meritBadges from '~/data/merit-badges.json';
+import { getCollection } from 'astro:content';
 
 interface Props {
     badge: string;
@@ -8,6 +8,7 @@ interface Props {
 }
 
 const { badge, badge2 } = Astro.props;
+const meritBadges = await getCollection('meritBadges');
 ---
 </script>
 

@@ -1,7 +1,9 @@
 ---
 import TileWrapper from './tile-wrapper.astro';
 import TestLabTile from './test-lab-tile.astro';
-import testLabs from '~/data/test-labs.yaml';
+import { getCollection } from 'astro:content';
+
+const testLabs = await getCollection('testLabs');
 ---
 
 <h2>Scouts BSA Test Lab</h2>

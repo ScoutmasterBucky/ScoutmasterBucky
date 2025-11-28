@@ -1,8 +1,10 @@
 ---
-import testLab from '~/data/test-labs.yaml';
 import DefaultLayout from '~/layouts/default-layout.astro';
 import TileWrapper from '~/components/tile-wrapper.astro';
 import TestLabTile from '~/components/test-lab-tile.astro';
+import { getCollection } from 'astro:content';
+
+const testLabs = await getCollection('testLabs');
 ---
 
 <DefaultLayout title="Scouting America's Test Lab">

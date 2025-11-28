@@ -3,7 +3,9 @@ import DefaultLayout from '~/layouts/default-layout.astro';
 import ScaledContent from '~/components/scaled-content.astro';
 import TileWrapper from '~/components/tile-wrapper.astro';
 import Tile from '~/components/tile.astro';
-import meritBadges from '~/data/merit-badges.yaml';
+import { getCollection } from 'astro:content';
+
+const meritBadges = await getCollection('meritBadges');
 ---
 
 <DefaultLayout title="Merit Badge Index">

@@ -1,24 +1,20 @@
 ---
 import type { MarkdownLayoutProps } from 'astro';
-import meritBadges from '~/data/merit-badges.yaml';
-import otherAwards from '~/data/other-awards.yaml';
-import scoutRanks from '~/data/scout-ranks.yaml';
-import updated from '~/data/updated.json';
+import { getEntry } from 'astro:content';
 import DefaultLayout from './default-layout.astro';
-import ResourcesToggle from '~/components/ResourcesToggle.astro';
-import Requirements from '~/components/Requirements.astro';
-import ScaledContent from '~/components/ScaledContent.astro';
+import Requirements from '~/components/requirements.astro';
+import ScaledContent from '~/components/scaled-content.astro';
 
 type Props = MarkdownLayoutProps<{
     badge: string;
 }>;
 
 const { badge } = Astro.props;
-const requirements = import.meta.glob(`~/data/merit-badges/${badge}/requirements.yaml`, { eager: true })[0];
-const resources = import.meta.glob(`~/data/merit-badges/${badge}/resources.yaml`, { eager: true })[0];
-
-const info = meritBadges[badge];
-const updatedDate = new Date(updated['merit-badges'][badge]);
+const requirements = await getEntry('meritBadgeRequirements', badge);
+const resources = await getEntry('meritBadgeResources', badge);
+const info = await getEntry('meritBadges', badge);
+const updatedDateList = await getEntry('updated', 'merit-badges');
+const updatedDate = new Date(updatedDateList[badge]);
 const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
     year: 'numeric',
     month: 'long',
@@ -136,6 +132,6 @@ let hasResources = checkRequirementsForResources(requirements);
         </div>
     </h2>
 
-    {hasResources && <ResourcesToggle class="gap-bottom" client:load />}
-    <Requirements requirements="~/data/merit-badges/{badge}/requirements.yaml" />
+    {hasResources && <resources-toggle class="gap-bottom"></resources-toggle>}
+    <Requirements type="meritBadgeRequirements" entry={badge} />
 </DefaultLayout>
