@@ -14,6 +14,7 @@ component(
             .wrapper {
                 padding: 0.5em;
                 overflow: hidden;
+                height: 100%;
             }
 
             .top-bar {

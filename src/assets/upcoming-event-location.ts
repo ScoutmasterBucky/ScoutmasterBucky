@@ -83,7 +83,7 @@ component('upcoming-event-location', {
             </div>
             <div *if="event.location" class="in-person">
                 <div class="location-address">
-                    <img src="~/assets/map-pin.svg" />
+                    <img src="/images/map-pin.svg" />
                     <div>In-Person</div>
                 </div>
                 <div
