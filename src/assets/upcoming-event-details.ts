@@ -109,8 +109,5 @@ component(
                 ></upcoming-event-registration>
             </div>
         `,
-    },
-    class {
-        event: any;
     }
 );

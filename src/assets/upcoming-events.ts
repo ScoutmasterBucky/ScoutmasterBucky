@@ -1,16 +1,58 @@
 import './upcoming-event';
 import eventList from '~/data/events.yaml';
 import { DateTime } from 'luxon';
-import { component, html } from 'fudgel';
+import { component, css, html } from 'fudgel';
 
 component(
     'upcoming-events',
     {
+        // NOTE: styles are copied from Astro components tile and tile-wrapper
+        style: css`
+            .tile-wrapper {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+                align-content: stretch;
+                text-align: initial;
+            }
+
+            .size {
+                width: 33%;
+                padding: 0.5em;
+            }
+
+            @media (min-width: 480.0001px) and (max-width: 768px) {
+                .size {
+                    width: 50%;
+                }
+            }
+
+            @media (max-width: 480px) {
+                .size {
+                    width: 100%;
+                }
+            }
+
+            .box {
+                border: var(--tile-border);
+                border-radius: 1em;
+                transition: all 0.2s;
+                user-select: none;
+                height: 100%;
+            }
+
+            .box:hover {
+                background: var(--tile-hover-background);
+            }
+        `,
         template: html`
-            <upcoming-event
-                *for="event of filtered"
-                .event="event"
-            ></upcoming-event>
+            <div class="tile-wrapper">
+                <div *for="event of filtered" class="size">
+                    <div class="box">
+                        <upcoming-event .event="event"></upcoming-event>
+                    </div>
+                </div>
+            </div>
         `,
     },
     class {
