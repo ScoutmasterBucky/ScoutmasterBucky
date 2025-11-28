@@ -1,6 +1,6 @@
 [
     {
-        "destination": "public/other-awards/50-miler.pdf",
+        "destination": "public/other-awards/50-miler/50-miler.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -46,7 +46,7 @@
         "url": "https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/Aquatics_34346.pdf"
     },
     {
-        "destination": "public/other-awards/complete-angler.pdf",
+        "destination": "public/other-awards/complete-angler/complete-angler.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -70,7 +70,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2021/08/Complete_Angler_Recognition-2021.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/scout.pdf",
+        "destination": "src/data/scout-ranks/scout/scout.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -95,7 +95,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2024/01/2024-Scout-Rank-Requirements.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/tenderfoot.pdf",
+        "destination": "src/data/scout-ranks/tenderfoot/tenderfoot.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -119,7 +119,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2024/01/2024-Tenderfoot-Rank-Requirements.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/second-class.pdf",
+        "destination": "src/data/scout-ranks/second-class/second-class.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -143,7 +143,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2022/09/2022-Second-Class-rank.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/first-class.pdf",
+        "destination": "src/data/scout-ranks/first-class/first-class.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -167,7 +167,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2022/09/2022-First-Class-rank.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/star.pdf",
+        "destination": "src/data/scout-ranks/star/star.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -191,7 +191,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2024/01/2024-Star-Rank-requirements.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/life.pdf",
+        "destination": "src/data/scout-ranks/life/life.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -215,7 +215,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2022/09/2022-Life-rank.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/eagle.pdf",
+        "destination": "src/data/scout-ranks/eagle/eagle.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -239,7 +239,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2024/11/eagle-rank-requirements.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/eagle-palms.pdf",
+        "destination": "src/data/scout-ranks/eagle-palms/eagle-palms.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -263,7 +263,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2024/01/2024-Eagle-Palms-requirements.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/alternative-requirements.pdf",
+        "destination": "src/data/scout-ranks/alternative-requirements/alternative-requirements.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -287,7 +287,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2020/12/3321621-05-Alternate-Requirements-1.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/eagle-alternative-requirements.pdf",
+        "destination": "src/data/scout-ranks/eagle-alternative-requirements/eagle-alternative-requirements.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",

@@ -9,7 +9,7 @@ Chartered unit participation is most desirable; however, provisional Scouting un
 
 _The 50-Miler award is available as a decal or in either a cloth or leather patch. It is NOT worn on the uniform or sash, but may be attached to equipment, jackets, backpacks, patch vests, or blankets._
 
-[50-Miler Program and Award Application](/other-awards/50-miler.pdf)
+[50-Miler Program and Award Application](50-miler.pdf)
 
 ## Award Rules
 

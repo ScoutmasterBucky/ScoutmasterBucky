@@ -1,0 +1,157 @@
+import { defineCollection, z } from 'astro:content';
+import { glob, file } from 'astro/loaders';
+import yaml from "js-yaml";
+
+const ResourceSchema = z.strictObject({
+    href: z.string().url().optional(),
+    text: z.string(),
+    type: z.enum(['docx', 'image', 'pdf', 'podcast', 'video', 'website', 'website with videos']).optional(),
+});
+
+const DetailSchema = z.strictObject({
+    detail: z.boolean(),
+    text: z.string(),
+    get resources() {
+        return z.array(ResourceSchema).optional();
+    }
+});
+
+const RequirementSchema: any = z.strictObject({
+    requirement: z.union([z.string(), z.number()]),
+    resources: z.array(ResourceSchema).optional(),
+    text: z.string(),
+    get children() {
+        return z.array(RequirementListItemSchema).optional();
+    },
+});
+
+const RequirementListItemSchema = z.union([
+    DetailSchema,
+    RequirementSchema
+]);
+
+const events = defineCollection({
+    loader: file("./src/data/events.yaml", {
+        parser: (text) => {
+            const array = yaml.load(text, { filename: "events.yaml" }) as any[];
+            let n = 1;
+
+            for (const event of array) {
+                event.id = `${n++}-${event.title.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`;
+            }
+
+            return array;
+        },
+    }),
+    schema: z.strictObject({
+        end: z.string().regex(/^\d{4}-\d{1,2}-\d{1,2}( \d{1,2}:\d{1,2})?$/).optional(),
+        host: z.string(),
+        html: z.string().optional(),
+        icon: z.string(),
+        id: z.string(), // automatically generated
+        location: z.array(z.string()).optional(),
+        meritBadges: z.array(z.string()).optional(),
+        registrationLink: z.string().url().optional(),
+        start: z.string().regex(/^\d{4}-\d{1,2}-\d{1,2}( \d{1,2}:\d{1,2})?$/),
+        title: z.string(),
+    }),
+});
+
+const historicalMeritBadges = defineCollection({
+    loader: file("./src/data/historical-merit-badges.yaml"),
+    schema: z.strictObject({
+        name: z.string(),
+        active: z.boolean(),
+    }),
+});
+
+const meritBadgeRequirements = defineCollection({
+    loader: glob({ pattern: "**/requirements.yaml", base: "./src/data/merit-badges" }),
+    schema: z.array(RequirementListItemSchema),
+});
+
+const meritBadgeResources = defineCollection({
+    loader: glob({ pattern: "**/resources.yaml", base: "./src/data/merit-badges" }),
+    schema: z.array(z.strictObject({
+        description: z.string().optional(),
+        name: z.string(),
+        shortName: z.string().optional(),
+        url: z.string(),
+    })),
+});
+
+const meritBadges = defineCollection({
+    loader: file("./src/data/merit-badges.yaml"),
+    schema: z.strictObject({
+        bucky: z.string(),
+        eagle: z.boolean().optional(),
+        image: z.string(),
+        name: z.string(),
+        otherAwards: z.array(z.string()),
+        ranks: z.array(z.string()),
+    }),
+});
+
+const otherAwardRequirements = defineCollection({
+    loader: glob({ pattern: "**/requirements.yaml", base: "./src/data/other-awards" }),
+    schema: z.array(RequirementListItemSchema),
+});
+
+const otherAwards = defineCollection({
+    loader: file("./src/data/other-awards.yaml"),
+    schema: z.strictObject({
+        bucky: z.string(),
+        image: z.string(),
+        name: z.string(),
+    }),
+});
+
+const scoutRankRequirements = defineCollection({
+    loader: glob({ pattern: "**/requirements.yaml", base: "./src/data/scout-ranks" }),
+    schema: z.array(RequirementListItemSchema),
+});
+
+const scoutRanks = defineCollection({
+    loader: file("./src/data/scout-ranks.yaml"),
+    schema: z.strictObject({
+        bucky: z.string(),
+        image: z.string(),
+        name: z.string(),
+        rank: z.boolean(),
+    }),
+});
+
+const testLabRequirements = defineCollection({
+    loader: glob({ pattern: "**/requirements.yaml", base: "./src/data/test-labs" }),
+    schema: z.array(RequirementListItemSchema),
+});
+
+const testLabs = defineCollection({
+    loader: file("./src/data/test-labs.yaml"),
+    schema: z.strictObject({
+        expires: z.string(),
+        image: z.string(),
+        name: z.string(),
+        survey: z.string().url(),
+    }),
+});
+
+const updated = defineCollection({
+    loader: file("./src/data/updated.json"),
+    schema: z.record(z.string(), z.number()),
+});
+
+export const collections = {
+    events,
+    historicalMeritBadges,
+    meritBadgeRequirements,
+    meritBadgeResources,
+    meritBadges,
+    otherAwardRequirements,
+    otherAwards,
+    scoutRankRequirements,
+    scoutRanks,
+    testLabRequirements,
+    testLabs,
+    updated,
+};

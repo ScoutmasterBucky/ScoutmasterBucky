@@ -3,7 +3,7 @@
     "private": true,
     "type": "module",
     "scripts": {
-        "build": "npm run test && npm run build-dist && npm run build-sitemap && npm run verify-internal-links",
+        "build": "npm run build-dist && npm run build-sitemap && npm run verify-internal-links",
         "build-dist": "astro build",
         "build-sitemap": "node build-sitemap.mjs",
         "now": "npm run build && npm run preview",
@@ -11,7 +11,6 @@
         "preview-windows": "npm ci && npm run start",
         "reinstall": "rm -rf node_modules package-lock.json && npm install",
         "start": "iles dev --open --host",
-        "test": "npm run verify-data",
         "typecheck": "vue-tsc --noEmit",
         "verify-data": "node validate-data.mjs",
         "verify-external-links": "check-html-links dist/ --validate-externals",
@@ -21,7 +20,7 @@
         "node": ">= 20.0.0"
     },
     "devDependencies": {
-        "@rollup/plugin-yaml": "^4.1.2",
+        "@types/js-yaml": "^4.0.9",
         "@types/luxon": "^3.7.1",
         "@types/papaparse": "^5.5.0",
         "ajv": "^8.17.1",
@@ -31,6 +30,7 @@
         "fudgel": "^2.4.0",
         "glob": "^13.0.0",
         "got": "^14.6.5",
+        "js-yaml": "^4.1.1",
         "json-stable-stringify": "^1.3.0",
         "linkedom": "^0.18.12",
         "neodoc": "^2.0.2",
