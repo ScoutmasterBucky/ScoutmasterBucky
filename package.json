@@ -7,10 +7,9 @@
         "build-dist": "astro build",
         "build-sitemap": "node build-sitemap.mjs",
         "now": "npm run build && npm run preview",
-        "preview": "astro preview",
-        "preview-windows": "npm ci && npm run start",
         "reinstall": "rm -rf node_modules package-lock.json && npm install",
-        "start": "iles dev --open --host",
+        "start": "astro dev --open --host",
+        "start-windows": "npm ci && npm run start",
         "typecheck": "vue-tsc --noEmit",
         "verify-data": "node validate-data.mjs",
         "verify-external-links": "check-html-links dist/ --validate-externals",
@@ -20,6 +19,7 @@
         "node": ">= 20.0.0"
     },
     "devDependencies": {
+        "@literals/rollup-plugin-html-css-minifier": "^3.0.1",
         "@rollup/plugin-yaml": "^4.1.2",
         "@types/js-yaml": "^4.0.9",
         "@types/luxon": "^3.7.1",

@@ -1,4 +1,5 @@
 import { component, css, html } from 'fudgel';
+import meritBadges from '~/data/merit-badges.yaml';
 
 component(
     'upcoming-event-merit-badges',
@@ -26,7 +27,7 @@ component(
         template: html`
             <div>
                 <a *for="badge of badges" href="/merit-badges/{{badge}}/">
-                    <img .src="meritBadges[badge]?.image" />
+                    <img src="{{meritBadges[badge]?.image}}" />
                     {{ meritBadges[badge]?.name ?? badge }}
                 </a>
             </div>
@@ -35,6 +36,7 @@ component(
     class {
         badges: string[] = [];
         event: any;
+        meritBadges = meritBadges;
         onChange(propName: string) {
             if (propName === 'event') {
                 this.badges = (this.event.meritBadges || []).sort(

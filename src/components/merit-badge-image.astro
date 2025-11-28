@@ -8,7 +8,9 @@ interface Props {
 
 const { badge, badge2 } = Astro.props;
 const badgeInfo = (await getEntry('meritBadges', badge))?.data;
-const badge2Info = badge2 ? (await getEntry('meritBadges', badge2))?.data : null;
+const badge2Info = badge2
+    ? (await getEntry('meritBadges', badge2))?.data
+    : null;
 ---
 
 {
@@ -19,7 +21,7 @@ const badge2Info = badge2 ? (await getEntry('meritBadges', badge2))?.data : null
             xmlns:xlink="http://www.w3.org/1999/xlink"
             viewBox="0 0 200 200"
         >
-            <a href="/merit-badges/{badge}/">
+            <a href={`/merit-badges/${badge}/`}>
                 <image
                     xlink:href={badgeInfo.image}
                     x="0"
@@ -28,7 +30,7 @@ const badge2Info = badge2 ? (await getEntry('meritBadges', badge2))?.data : null
                     height="150"
                 />
             </a>
-            <a href="/merit-badges/{badge2}/">
+            <a href={`/merit-badges/${badge2}/`}>
                 <image
                     xlink:href={badge2Info.image}
                     x="50"
@@ -42,7 +44,7 @@ const badge2Info = badge2 ? (await getEntry('meritBadges', badge2))?.data : null
 }
 {
     !badge2Info && (
-        <a href="/merit-badges/{badge}/">
+        <a href={`/merit-badges/${badge}/`}>
             <img src={badgeInfo.image} width="200" height="200" />
         </a>
     )

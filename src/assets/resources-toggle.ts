@@ -50,7 +50,7 @@ component(
         `,
         template: html`
             <div class="centered-line">
-                <label class="toggle-switch" @change.stop.prevent="update">
+                <label class="toggle-switch" @change.stop.prevent="update()">
                     <input type="checkbox" class="toggle-input" #ref="toggle" />
                     <span class="slider round"></span>
                 </label>

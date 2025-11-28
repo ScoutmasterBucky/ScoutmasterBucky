@@ -29,7 +29,7 @@ const meritBadges = await getCollection('meritBadges');
 
     <MeritBadgeList>
         {
-            Object.values(meritBadges).map(meritBadge => (
+            meritBadges.map((meritBadge) => (
                 <MeritBadge badge={meritBadge.id} />
             ))
         }

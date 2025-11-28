@@ -7,7 +7,7 @@ interface Props {
     badge2?: string;
 }
 
-const { badge, badge2 } = Astro.props;
+const { badge, badge2 } = Astro.props.frontmatter || Astro.props;
 const badgeInfo = (await getEntry('meritBadges', badge))?.data;
 const badge2Info = badge2 ? (await getEntry('meritBadges', badge2))?.data : null;
 ---
@@ -17,21 +17,21 @@ const badge2Info = badge2 ? (await getEntry('meritBadges', badge2))?.data : null
     <div class="scaled">
         <MeritBadgeImage badge={badge} badge2={badge2} />
         <div class="name">
-            <a href="/merit-badges/{badge}/">{
+            <a href={`/merit-badges/${badge}/`}>{
                 badgeInfo.name
             }</a>
             and
-            <a href="/merit-badges/{badge2}/">{
+            <a href={`/merit-badges/${badge2}/`}>{
                 badge2Info.name
             }</a>
         </div>
     </div>
 )}
-{badge2Info && (
+{!badge2Info && (
     <div class="scaled">
         <MeritBadgeImage badge={badge} />
         <div class="name">
-            <a href="/merit-badges/{badge}/">{
+            <a href={`/merit-badges/${badge}/`}>{
                 badgeInfo.name
             }</a>
         </div>
