@@ -4,14 +4,14 @@ import OtherAwardBucky from '~/components/other-award-bucky.astro';
 import Requirements from '~/components/requirements.astro';
 import ScaledContent from '~/components/scaled-content.astro';
 import type { MarkdownLayoutProps } from 'astro';
-import otherAwards from '~/data/other-awards/index.yaml';
+import { getEntry } from 'astro:content';
 
 type Props = MarkdownLayoutProps<{
     award: string;
 }>;
 
 const award = Astro.props.award;
-const awardInfo = otherAwards[award];
+const awardInfo = await getEntry('otherAwards', award);
 ---
 
 <DefaultLayout title={awardInfo.name}>
@@ -25,7 +25,5 @@ const awardInfo = otherAwards[award];
 
     <h2>Requirements</h2>
 
-    <Requirements
-        requirements="~/data/other-awards/{award}/requirements.yaml"
-    />
+    <Requirements type="otherAwardRequirements" entry={award} />
 </DefaultLayout>

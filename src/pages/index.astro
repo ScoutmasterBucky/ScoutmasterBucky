@@ -41,7 +41,7 @@ const lastBuildTime = DateTime.now()
 
     <SmbNews v-if="$frontmatter.news" :news="$frontmatter.news" />
 
-    <UpcomingEvents client:load />
+    <upcoming-events></upcoming-events>
 
     <TestLabTiles />
 

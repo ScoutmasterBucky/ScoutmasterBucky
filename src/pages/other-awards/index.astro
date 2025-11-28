@@ -2,8 +2,9 @@
 import DefaultLayout from '~/layouts/default-layout.astro';
 import MeritBadgeList from '~/components/merit-badge-list.astro';
 import OtherAward from '~/components/other-award.astro';
-import otherAwards from '~/data/other-awards.json';
+import { getCollection } from 'astro:content';
 
+const otherAwards = await getCollection('otherAwards');
 const awardIds = Object.keys(otherAwards).sort((a, b) => {
     const nameA = otherAwards[a].name;
     const nameB = otherAwards[b].name;

@@ -1,21 +1,20 @@
 ---
 import type { MarkdownLayoutProps } from 'astro';
-import testLabs from '~/data/test-labs.yaml';
-import updated from '~/data/updated.json';
 import DefaultLayout from './default-layout.astro';
-import ResourcesToggle from '~/components/ResourcesToggle.astro';
-import Requirements from '~/components/Requirements.astro';
-import ScaledContent from '~/components/ScaledContent.astro';
+import ResourcesToggle from '~/components/resources-toggle.astro';
+import Requirements from '~/components/requirements.astro';
+import ScaledContent from '~/components/scaled-content.astro';
+import { getEntry } from 'astro:content';
 
 type Props = MarkdownLayoutProps<{
     testLab: string;
 }>;
 
 const { testLab } = Astro.props;
-const requirements = import.meta.glob(`~/data/test-lab/${testLab}/requirements.yaml`, { eager: true })[0];
-
-const info = testLabs[testLab];
-const updatedDate = new Date(updated['test-lab'][badge]);
+const requirements = await getEntry('testLabRequirements', testLab);
+const info = await getEntry('testLabs', testLab);
+const updatedDates = await getEntry('updated', 'test-labs');
+const updatedDate = new Date(updatedDates[badge]);
 const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
     year: 'numeric',
     month: 'long',
@@ -119,10 +118,10 @@ let hasResources = checkRequirementsForResources(requirements);
     <p>This Test Lab offering is valid until { info.expires }.</p>
 
     {hasResources && (
-        <ResourcesToggle class="gap-bottom" client:load />
+        <resources-toggle class="gap-bottom"></resources-toggle>
     )}
 
-    <Requirements requirements="~/data/test-lab/{testLab}/requirements.yaml" />
+    <Requirements type="testLabRequirements" entry={testLab} />
 
     <div class="center">
         <a href={info.survey} target="_blank" rel="noopener" class="survey">

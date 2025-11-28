@@ -4,14 +4,14 @@ import Requirements from '~/components/requirements.astro';
 import ScaledContent from '~/components/scaled-content.astro';
 import ScoutRankBucky from '~/components/scout-rank-bucky.astro';
 import type { MarkdownLayoutProps } from 'astro';
-import scoutRanks from '~/data/other-awards/index.yaml';
+import { getEntry } from 'astro:content';
 
 type Props = MarkdownLayoutProps<{
     rank: string;
 }>;
 
 const rank = Astro.props.rank;
-const rankInfo = scoutRanks[rank];
+const rankInfo = await getEntry('scoutRanks', rank);
 ---
 
 <DefaultLayout title={awardInfo.title}>
@@ -25,7 +25,5 @@ const rankInfo = scoutRanks[rank];
 
     <h2>Requirements</h2>
 
-    <Requirements
-        requirements="~/data/scout-ranks/{rank}.yaml"
-    />
+    <Requirements type="scoutRankRequirements" entry={rank} />
 </DefaultLayout>

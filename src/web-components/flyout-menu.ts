@@ -95,7 +95,7 @@ component(
                         src="/images/merit-badges-icon.png"
                     ></menu-button>
                     <menu-button
-                        href="/test-lab/"
+                        href="/test-labs/"
                         title="Test Lab"
                         src="/images/test-lab-icon.webp"
                     ></menu-button>

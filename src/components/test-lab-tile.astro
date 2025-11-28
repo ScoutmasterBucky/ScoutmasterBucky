@@ -1,18 +1,19 @@
 ---
-import Tile from './Tile.astro';
-import testLabs from '~/data/test-labs.yaml';
+import Tile from './tile.astro';
+import { getEntry } from 'astro:content';
 
 interface Props {
     testLab: string;
 }
 
 const { testLab } = Astro.props;
+const testLabInfo = await getEntry('testLabs', testLab);
 ---
 
 <Tile>
-    <a href="/test-lab/{testLab}/">
-        <img src={testLabs[testLab].image} alt={testLabs[testLab].name} />
-        <div>{testLabs[testLab].name}</div>
+    <a href="/test-labs/{testLab}/">
+        <img src={testLabsInfo.image} alt={testLabsInfo.name} />
+        <div>{testLabsInfo.name}</div>
     </a>
 </Tile>
 

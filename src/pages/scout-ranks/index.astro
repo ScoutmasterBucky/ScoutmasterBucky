@@ -3,7 +3,7 @@ import DefaultLayout from '~/layouts/default-layout.astro';
 import ScaledContent from '~/components/scaled-content.astro';
 import MeritBadgeList from '~/components/merit-badge-list.astro';
 import ScoutRank from '~/components/scout-rank.astro';
-import updated from '~/data/updated.json';
+import { getEntry } from 'astro:content';
 
 const itemsInOrder = [
     'scout',
@@ -15,7 +15,8 @@ const itemsInOrder = [
     'eagle',
 ];
 const additionalPages = ['eagle-palms', 'alternate-requirements'];
-const updatedDate = new Date(updated['scout-ranks'].scout);
+const updatedDates = await getEntry('updated', 'scout-ranks');
+const updatedDate = new Date(updatedDates.scout);
 const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
     year: 'numeric',
     month: 'long',
