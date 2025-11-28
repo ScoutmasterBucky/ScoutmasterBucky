@@ -1,6 +1,6 @@
 ---
 award: totin-chip
-layout: ../../../layouts/other-award.astro
+layout: ~/layouts/other-award.astro
 ---
 
 The Totin' Chip is awarded to Scouts that learn and demonstrate the proper

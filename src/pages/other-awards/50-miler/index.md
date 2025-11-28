@@ -1,6 +1,6 @@
 ---
 award: 50-miler
-layout: ../../../layouts/other-award.astro
+layout: ~/layouts/other-award.astro
 ---
 
 The primary objective of this program is to stimulate Scouts BSA, Sea Scout, and Venturer interest in the ideals of the movement and to promote activity that will result in personal fitness, self-reliance, know-ledge of wood lore, water trek, and/or outdoor experience.

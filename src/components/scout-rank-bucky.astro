@@ -6,7 +6,7 @@ interface Props {
 }
 
 const { rank } = Astro.props;
-const rankInfo = await getEntry('scoutRanks', rank);
+const rankInfo = (await getEntry('scoutRanks', rank))?.data;
 ---
 
 <div>

@@ -17,5 +17,5 @@ const testLabs = await getCollection('testLabs');
     >.
 </p>
 <TileWrapper>
-    {Object.keys(testLabs).map(testLab => <TestLabTile testLab={testLab} />)}
+    {testLabs.map((testLab) => <TestLabTile test-lab={testLab.id} />)}
 </TileWrapper>

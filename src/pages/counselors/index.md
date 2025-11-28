@@ -1,6 +1,6 @@
 ---
 title: Counselors at Bucky Events
-layout: ../../layouts/default-markdown-layout.astro
+layout: ~/layouts/default-layout.astro
 ---
 
 Everyone involved in this program is a volunteer. The cost associated with the classes primarily go towards renting the facility. Other costs are also covered, such as covering the materials in class, various expenses related to running this program, and sometimes even a lunch for the counselors. This program would not exist without the countless hours that people are giving up every month in order to assist youth.

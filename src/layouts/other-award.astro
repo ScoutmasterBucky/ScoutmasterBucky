@@ -3,15 +3,14 @@ import DefaultLayout from '~/layouts/default-layout.astro';
 import OtherAwardBucky from '~/components/other-award-bucky.astro';
 import Requirements from '~/components/requirements.astro';
 import ScaledContent from '~/components/scaled-content.astro';
-import type { MarkdownLayoutProps } from 'astro';
 import { getEntry } from 'astro:content';
 
-type Props = MarkdownLayoutProps<{
+interface Props {
     award: string;
-}>;
+}
 
-const award = Astro.props.award;
-const awardInfo = await getEntry('otherAwards', award);
+const { award } = Astro.props.frontmatter || Astro.props;
+const awardInfo = (await getEntry('otherAwards', award))?.data;
 ---
 
 <DefaultLayout title={awardInfo.name}>

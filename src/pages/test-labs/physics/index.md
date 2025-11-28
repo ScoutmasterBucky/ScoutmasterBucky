@@ -1,6 +1,6 @@
 ---
 testLab: physics
-layout: ../../../layouts/test-lab.astro
+layout: ~/layouts/test-lab.astro
 ---
 
 Physics is the science of how things move, interact, and exist—from the tiniest

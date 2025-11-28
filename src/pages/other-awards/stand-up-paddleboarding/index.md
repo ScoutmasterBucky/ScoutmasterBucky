@@ -1,6 +1,6 @@
 ---
 award: stand-up-paddleboarding
-layout: ../../../layouts/other-award.astro
+layout: ~/layouts/other-award.astro
 ---
 
 Any youth or adult who is registered with a troop, crew, or ship and completes

@@ -1,4 +1,4 @@
 ---
-layout: ../../../layouts/merit-badge.astro
+layout: ~/layouts/merit-badge.astro
 badge: soil-and-water-conservation
 ---

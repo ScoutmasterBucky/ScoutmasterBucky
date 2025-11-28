@@ -6,7 +6,7 @@ interface Props {
 }
 
 const { award } = Astro.props as Props;
-const awardInfo = getEntry('otherAwards', award);
+const awardInfo = ((await getEntry('otherAwards', award)))?.data;
 ---
 
 <div>

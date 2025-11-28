@@ -5,7 +5,7 @@ interface Props {
     news: object;
 }
 
-const { news } = Astro.props;
+const { news } = Astro.props.fontmatter || Astro.props;
 const newsArray = Array.isArray(news) ? news : [];
 ---
 
@@ -17,7 +17,7 @@ const newsArray = Array.isArray(news) ? news : [];
     </ScaledContent>
 
     {
-        items.map(item => (
+        newsArray.map(item => (
             <div class="news-item">
                 <div class="news-new">NEW!</div>
                 <div>{item}</div>

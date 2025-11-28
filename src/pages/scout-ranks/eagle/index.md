@@ -1,6 +1,6 @@
 ---
 rank: eagle
-layout: ../../../layouts/scout-rank.astro
+layout: ~/layouts/scout-rank.astro
 ---
 
 A Venturer or Sea Scout must have achieved First Class rank as a Scouts BSA

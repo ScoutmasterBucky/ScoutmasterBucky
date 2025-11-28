@@ -1,6 +1,6 @@
 ---
 award: scuba
-layout: ../../../layouts/other-award.astro
+layout: ~/layouts/other-award.astro
 ---
 
 All aspects of the Scuba BSA program must conform with the Scouting America

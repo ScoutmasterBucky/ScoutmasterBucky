@@ -1,6 +1,6 @@
 ---
 title: About Scoutmaster Bucky and His Team
-layout: ../../../layouts/default-markdown-layout.astro
+layout: ~/layouts/default-layout.astro
 ---
 
 ## About The Scoutmaster Bucky Program

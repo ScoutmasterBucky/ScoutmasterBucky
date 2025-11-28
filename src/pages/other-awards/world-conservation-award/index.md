@@ -1,6 +1,6 @@
 ---
 award: world-conservation-award
-layout: ../../../layouts/other-award.astro
+layout: ~/layouts/other-award.astro
 ---
 
 The World Conservation Award provides an opportunity for individual Wolf

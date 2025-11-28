@@ -20,6 +20,7 @@
         "node": ">= 20.0.0"
     },
     "devDependencies": {
+        "@rollup/plugin-yaml": "^4.1.2",
         "@types/js-yaml": "^4.0.9",
         "@types/luxon": "^3.7.1",
         "@types/papaparse": "^5.5.0",
@@ -27,7 +28,7 @@
         "astro": "^5.16.0",
         "check-html-links": "^0.2.4",
         "debug": "^4.4.3",
-        "fudgel": "^2.4.0",
+        "fudgel": "^2.5.0",
         "glob": "^13.0.0",
         "got": "^14.6.5",
         "js-yaml": "^4.1.1",

@@ -1,5 +1,9 @@
 ---
 import DefaultLayout from '~/layouts/default-layout.astro';
+import MeritBadgeList from '~/components/merit-badge-list.astro';
+import ScaledContent from '~/components/scaled-content.astro';
+import TileWrapper from '~/components/tile-wrapper.astro';
+import Tile from '~/components/tile.astro';
 const postsUnfiltered = await import.meta.glob('~/pages/360/2023/*.md', { eager: true });
 const posts = Object.values(postsUnfiltered).filter((post) => !post.frontmatter.hidden);
 ---

@@ -1,5 +1,7 @@
 ---
 import DefaultLayout from '~/layouts/default-layout.astro';
+import MeritBadgeList from '~/components/merit-badge-list.astro';
+import MeritBadge from '~/components/merit-badge.astro';
 import ScaledContent from '~/components/scaled-content.astro';
 import TileWrapper from '~/components/tile-wrapper.astro';
 import Tile from '~/components/tile.astro';
@@ -27,8 +29,8 @@ const meritBadges = await getCollection('meritBadges');
 
     <MeritBadgeList>
         {
-            Object.keys(meritBadges).map(meritBadge => (
-                <MeritBadge badge={meritBadge} />
+            Object.values(meritBadges).map(meritBadge => (
+                <MeritBadge badge={meritBadge.id} />
             ))
         }
     </MeritBadgeList>

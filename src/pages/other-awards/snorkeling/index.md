@@ -1,6 +1,6 @@
 ---
 award: snorkeling
-layout: ../../../layouts/other-award.astro
+layout: ~/layouts/other-award.astro
 ---
 
 The Snorkeling BSA requirements introduce the special skills, equipment, and

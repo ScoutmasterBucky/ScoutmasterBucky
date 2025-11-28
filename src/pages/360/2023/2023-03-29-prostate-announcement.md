@@ -10,7 +10,7 @@ presenter: Brian Reiners
 # This is relative to the index file, not this file.
 ribbon: ribbon/ar-light-blue.png
 summary: I have Stage 4 Prostate Cancer
-layout: ../../../layouts/default-markdown-layout.astro
+layout: ~/layouts/default-layout.astro
 ---
 
 Today marks the day I announce on social media that I have been diagnosed with Stage 4 Prostate Cancer.  While my diagnosis came just after Thanksgiving 2022, today I start the second part of my treatment.  I have been doing Hormone Therapy for 6 weeks now and continue to work with my oncologist to refine and administer the best approach possible.

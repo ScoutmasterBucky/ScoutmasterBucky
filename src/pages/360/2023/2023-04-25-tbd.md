@@ -11,7 +11,7 @@ summary: TBD
 shirtImage: graphics/day-12-t.png
 # shirtLink: https://cassivalen.com/donate-life-merchandise-2023-ndlm-next-level-shirt?product=unisex-standard-t-shirt&variant_key=royal-s&color=royal&size=s&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fKv6yv6YDoWAenkOM5BDrk4WevIpxHkvRwaKk5moZuOvlnSplqgJ_oaAg9QEALw_wcB
 # videoLink:
-layout: ../../../layouts/default-markdown-layout.astro
+layout: ~/layouts/default-layout.astro
 ---
 
 Add Text Here

@@ -11,7 +11,7 @@ summary: Happy Easter - Chillin' with my Peeps
 shirtImage: graphics/day-11-t.png
 shirtLink: https://www.etsy.com/listing/1425963780/chillin-with-my-peeps-shirt-easter-shirt?transaction_id=3491308960
 videoLink: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/558035722975690
-layout: ../../../layouts/default-markdown-layout.astro
+layout: ~/layouts/default-layout.astro
 ---
 
 Happy Easter to all my Peeps

@@ -1,6 +1,6 @@
 ---
 testLab: life-skills
-layout: ../../../layouts/test-lab.astro
+layout: ~/layouts/test-lab.astro
 ---
 
 The Life Skills Badge helps Scouts develop a variety of practical skills that

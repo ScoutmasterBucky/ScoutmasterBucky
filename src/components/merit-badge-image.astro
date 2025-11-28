@@ -1,5 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
+import { getEntry } from 'astro:content';
 
 interface Props {
     badge: string;
@@ -7,11 +7,12 @@ interface Props {
 }
 
 const { badge, badge2 } = Astro.props;
-const meritBadges = await getCollection('meritBadges');
+const badgeInfo = (await getEntry('meritBadges', badge))?.data;
+const badge2Info = badge2 ? (await getEntry('meritBadges', badge2))?.data : null;
 ---
 
 {
-    badge2 && (
+    badge2Info && (
         <svg
             version="1.1"
             xmlns="http://www.w3.org/2000/svg"
@@ -20,7 +21,7 @@ const meritBadges = await getCollection('meritBadges');
         >
             <a href="/merit-badges/{badge}/">
                 <image
-                    xlink:href={meritBadges[badge].image}
+                    xlink:href={badgeInfo.image}
                     x="0"
                     y="0"
                     width="150"
@@ -29,7 +30,7 @@ const meritBadges = await getCollection('meritBadges');
             </a>
             <a href="/merit-badges/{badge2}/">
                 <image
-                    xlink:href={meritBadges[badge2].image}
+                    xlink:href={badge2Info.image}
                     x="50"
                     y="50"
                     width="150"
@@ -40,9 +41,9 @@ const meritBadges = await getCollection('meritBadges');
     )
 }
 {
-    !badge2 && (
+    !badge2Info && (
         <a href="/merit-badges/{badge}/">
-            <img src={meritBadges[badge].image} width="200" height="200" />
+            <img src={badgeInfo.image} width="200" height="200" />
         </a>
     )
 }

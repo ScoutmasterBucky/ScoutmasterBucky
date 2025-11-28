@@ -1,6 +1,6 @@
 ---
 rank: tenderfoot
-layout: ../../../layouts/scout-rank.astro
+layout: ~/layouts/scout-rank.astro
 ---
 
 All requirements for the Tenderfoot rank must be completed as a member of a

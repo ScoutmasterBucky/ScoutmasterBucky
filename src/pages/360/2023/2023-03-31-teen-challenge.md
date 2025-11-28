@@ -11,7 +11,7 @@ summary: Minnesota Adult and Teen Challenge
 shirtImage: graphics/day-02-t.png
 # shirtLink: https://...
 videoLink: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/775463404295131
-layout: ../../../layouts/default-markdown-layout.astro
+layout: ~/layouts/default-layout.astro
 ---
 ***Our mission is to assist men, women and teens in gaining freedom from chemical addictions and other life-controlling problems by addressing their physical, emotional and spiritual needs*** **- Minnesota Adult and Teen Challenge**
 

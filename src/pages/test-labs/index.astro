@@ -80,6 +80,6 @@ const testLabs = await getCollection('testLabs');
     <h2>Test Lab Offerings</h2>
 
     <TileWrapper>
-        {testLabs.map((detail, id) => <TestLabTile test-lab={id} />)}
+        {testLabs.map((testLab) => <TestLabTile test-lab={testLab.id} />)}
     </TileWrapper>
 </DefaultLayout>

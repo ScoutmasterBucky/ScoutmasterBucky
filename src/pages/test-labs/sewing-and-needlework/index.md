@@ -1,6 +1,6 @@
 ---
 testLab: sewing-and-needlework
-layout: ../../../layouts/test-lab.astro
+layout: ~/layouts/test-lab.astro
 ---
 
 Sewing is using a needle and thread to make stitches and combine textiles by

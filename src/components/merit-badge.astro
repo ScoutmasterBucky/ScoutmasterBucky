@@ -1,6 +1,6 @@
 ---
 import MeritBadgeImage from '~/components/merit-badge-image.astro';
-import { getCollection } from 'astro:content';
+import { getEntry } from 'astro:content';
 
 interface Props {
     badge: string;
@@ -8,30 +8,31 @@ interface Props {
 }
 
 const { badge, badge2 } = Astro.props;
-const meritBadges = await getCollection('meritBadges');
+const badgeInfo = (await getEntry('meritBadges', badge))?.data;
+const badge2Info = badge2 ? (await getEntry('meritBadges', badge2))?.data : null;
 ---
 </script>
 
-{badge2 && (
+{badge2Info && (
     <div class="scaled">
         <MeritBadgeImage badge={badge} badge2={badge2} />
         <div class="name">
             <a href="/merit-badges/{badge}/">{
-                meritBadges[badge].name
+                badgeInfo.name
             }</a>
             and
             <a href="/merit-badges/{badge2}/">{
-                meritBadges[badge2].name
+                badge2Info.name
             }</a>
         </div>
     </div>
 )}
-{!badge2 && (
+{badge2Info && (
     <div class="scaled">
         <MeritBadgeImage badge={badge} />
         <div class="name">
             <a href="/merit-badges/{badge}/">{
-                meritBadges[badge].name
+                badgeInfo.name
             }</a>
         </div>
     </div>
