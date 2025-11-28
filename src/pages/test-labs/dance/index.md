@@ -1,6 +1,6 @@
 ---
 testLab: dance
-layout: ../../../layouts/test-lab.astro
+layout: ~/layouts/test-lab.astro
 ---
 
 Dancing is a fun and exciting way to express yourself, stay active, and connect

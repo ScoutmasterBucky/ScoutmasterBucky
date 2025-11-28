@@ -1,6 +1,6 @@
 ---
 rank: alternative-requirements
-layout: ../../../layouts/scout-rank.astro
+layout: ~/layouts/scout-rank.astro
 ---
 
 **These alternative requirements are for Scout, Tenderfoot, Second Class, and

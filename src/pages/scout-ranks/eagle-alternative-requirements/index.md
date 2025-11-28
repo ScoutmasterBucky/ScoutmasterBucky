@@ -1,6 +1,6 @@
 ---
 rank: eagle-alternative-requirements
-layout: ../../../layouts/scout-rank.astro
+layout: ~/layouts/scout-rank.astro
 ---
 
 The Eagle Scout rank may be achieved by a Scouts BSA Scout or a

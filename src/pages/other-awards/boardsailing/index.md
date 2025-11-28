@@ -1,6 +1,6 @@
 ---
 award: boardsailing
-layout: ../../../layouts/other-award.astro
+layout: ~/layouts/other-award.astro
 ---
 
 Boardsailing BSA has been developed to introduce basic boardsailing

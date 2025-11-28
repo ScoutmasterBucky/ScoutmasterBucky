@@ -1,6 +1,6 @@
 ---
 award: distinguished-conservation-service-award
-layout: ../../../layouts/other-award.astro
+layout: ~/layouts/other-award.astro
 ---
 
 Conservation and Scouting America have been partners for a long time. Camping,

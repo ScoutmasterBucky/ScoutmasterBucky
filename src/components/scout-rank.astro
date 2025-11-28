@@ -1,12 +1,13 @@
 ---
 import { getEntry } from 'astro:content';
+import ScaledContent from './scaled-content.astro';
 
 interface Props {
     rank: string;
 }
 
 const { rank } = Astro.props;
-const rankInfo = await getEntry('scout-ranks', rank);
+const rankInfo = (await getEntry('scoutRanks', rank))?.data;
 ---
 
 <ScaledContent>

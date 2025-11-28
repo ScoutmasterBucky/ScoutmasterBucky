@@ -8,7 +8,7 @@ presenter: Brian and Cheryl Reiners
 # Ribbon is optional. If no ribbon, delete the line or comment it out.
 ribbon: 2023/graphics/time-for-change.png
 summary: one door closes another door opens
-layout: ../../../layouts/default-markdown-layout.astro
+layout: ~/layouts/default-layout.astro
 ---
 
 ***"We have complete control over our own attitude. We are the ones who decide how we feel, how we look at things, how we react."*** *- Catherine Pulsifer*

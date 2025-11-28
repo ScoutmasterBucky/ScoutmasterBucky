@@ -1,19 +1,18 @@
 ---
-import type { MarkdownLayoutProps } from 'astro';
 import { getEntry } from 'astro:content';
 import DefaultLayout from './default-layout.astro';
 import Requirements from '~/components/requirements.astro';
 import ScaledContent from '~/components/scaled-content.astro';
 
-type Props = MarkdownLayoutProps<{
+interface Props {
     badge: string;
-}>;
+}
 
-const { badge } = Astro.props;
-const requirements = await getEntry('meritBadgeRequirements', badge);
-const resources = await getEntry('meritBadgeResources', badge);
-const info = await getEntry('meritBadges', badge);
-const updatedDateList = await getEntry('updated', 'merit-badges');
+const { badge } = Astro.props.frontmatter || Astro.props;
+const requirements = (await getEntry('meritBadgeRequirements', badge))?.data;
+const resources = (await getEntry('meritBadgeResources', badge))?.data;
+const info = (await getEntry('meritBadges', badge))?.data;
+const updatedDateList = (await getEntry('updated', 'merit-badges'))?.data;
 const updatedDate = new Date(updatedDateList[badge]);
 const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
     year: 'numeric',
@@ -21,21 +20,21 @@ const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
     day: 'numeric',
 });
 
-const related = new Set();
+const related = [];
 
 for (const rankName of info.ranks) {
-    const rank = scoutRanks[rankName];
-    related.add({
+    const rank = (await getEntry('scoutRanks', rankName))?.data;
+    related.push({
         name: `${rank.name} Rank`,
         href: `/scout-ranks/${rankName}/`,
     });
 }
 
-for (const otherAwardName of info['other-awards']) {
-    const otherAward = otherAwards[otherAwardName];
-    related.add({
+for (const otherAwardId of info['otherAwards']) {
+const otherAward = (await getEntry('otherAwards', otherAwardId))?.data;
+    related.push({
         name: otherAward.name,
-        href: `/other-awards/${otherAwardName}/`,
+        href: `/other-awards/${otherAwardId}/`,
     });
 }
 
@@ -110,7 +109,7 @@ let hasResources = checkRequirementsForResources(requirements);
         ))}
     </ul>
 
-    {related.size && (
+    {related.length && (
         <h3>Related</h3>
 
         <ul>

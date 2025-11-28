@@ -1,6 +1,6 @@
 ---
 testLab: wildland-fire-management
-layout: ../../../layouts/test-lab.astro
+layout: ~/layouts/test-lab.astro
 ---
 
 Every year, millions of acres, throughout the United States are lost to

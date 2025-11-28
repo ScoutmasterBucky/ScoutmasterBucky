@@ -1,6 +1,6 @@
 ---
 rank: eagle-palms
-layout: ../../../layouts/scout-rank.astro
+layout: ~/layouts/scout-rank.astro
 ---
 
 Palms are **NOT** considered ranks but rather an award.

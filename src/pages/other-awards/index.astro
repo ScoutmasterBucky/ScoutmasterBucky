@@ -5,11 +5,12 @@ import OtherAward from '~/components/other-award.astro';
 import { getCollection } from 'astro:content';
 
 const otherAwards = await getCollection('otherAwards');
-const awardIds = Object.keys(otherAwards).sort((a, b) => {
-    const nameA = otherAwards[a].name;
-    const nameB = otherAwards[b].name;
+otherAwards.sort((a, b) => {
+    const nameA = a.data.name;
+    const nameB = b.data.name;
     return nameA.localeCompare(nameB);
 });
+const awardIds = otherAwards.map((award) => award.id)
 ---
 
 <DefaultLayout title="Other Scout Awards">

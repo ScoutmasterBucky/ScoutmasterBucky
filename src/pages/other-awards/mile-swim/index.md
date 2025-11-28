@@ -1,6 +1,6 @@
 ---
 award: mile-swim
-layout: ../../../layouts/other-award.astro
+layout: ~/layouts/other-award.astro
 ---
 
 Regular exercise is an important contributor to a long and healthy life. For

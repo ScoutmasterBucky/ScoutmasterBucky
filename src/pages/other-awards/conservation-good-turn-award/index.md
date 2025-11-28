@@ -1,6 +1,6 @@
 ---
 award: conservation-good-turn-award
-layout: ../../../layouts/other-award.astro
+layout: ~/layouts/other-award.astro
 ---
 
 Since 1910, conservation has been an integral part of the program of Scouting

@@ -1,6 +1,6 @@
 ---
 testLab: auctioneering
-layout: ../../../layouts/test-lab.astro
+layout: ~/layouts/test-lab.astro
 ---
 
 The Auctioneering Badge is a dynamic blend of public speaking and salesmanship

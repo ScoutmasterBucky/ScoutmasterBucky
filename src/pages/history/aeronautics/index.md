@@ -1,6 +1,6 @@
 ---
 badge: aeronautics
-layout: ../../../layouts/historical-merit-badge.astro
+layout: ~/layouts/historical-merit-badge.astro
 ---
 
 Extra information goes here.

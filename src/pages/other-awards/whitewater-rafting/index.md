@@ -1,6 +1,6 @@
 ---
 award: whitewater-rafting
-layout: ../../../layouts/other-award.astro
+layout: ~/layouts/other-award.astro
 ---
 
 This award is available to Scouting America members, Venturers, Sea Scouts, and

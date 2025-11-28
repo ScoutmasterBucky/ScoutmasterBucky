@@ -11,7 +11,7 @@ summary: ...in sickness and in health...
 shirtImage: graphics/day-22a-t.png
 shirtLink: https://allstarshirt.com/products/multiple-sclerosis-awareness-ms-survivor-wife-warrior-t-shirt-women-t-shirt-zrv?variant_id=6567762
 videoLink: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/115486954833132
-layout: ../../../layouts/default-markdown-layout.astro
+layout: ~/layouts/default-layout.astro
 ---
 
 ***"I take you to be my spouse, to have and to hold from this day forward, for better, for worse, for richer, for poorer, in sickness and in health, to love and to cherish, till death do us part"***

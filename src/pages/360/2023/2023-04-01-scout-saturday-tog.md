@@ -11,7 +11,7 @@ summary: Scouting for Youth with Special Needs and Disabilities
 shirtImage: graphics/day-03-t.png
 shirtLink: https://www.etsy.com/listing/1432769905/classic-victory-torch-unisex-softstyle-t?variation0=3314934107&variation1=3314934099
 videoLink: https://www.facebook.com/100025357920920/videos/605015074977626
-layout: ../../../layouts/default-markdown-layout.astro
+layout: ~/layouts/default-layout.astro
 ---
 
 ***SCOUT SATURDAY*** - Highlighting Scouting each Saturday of the **<span style="color: red">&lt;3</span>60 Awareness Project**.

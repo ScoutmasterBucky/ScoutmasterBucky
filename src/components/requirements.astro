@@ -8,7 +8,7 @@ interface Props {
 }
 
 const { entry, type } = Astro.props;
-const requirements = await getEntry(type, entry);
+const requirements = (await getEntry(type, entry))?.data;
 ---
 
-<RequirementItem parent-count=0 requirements={yaml} />
+<RequirementItem parent-count=0 requirements={requirements} />

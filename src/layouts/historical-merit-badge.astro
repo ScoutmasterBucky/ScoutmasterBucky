@@ -3,12 +3,12 @@ import type { MarkdownLayoutProps } from 'astro';
 import DefaultLayout from './default-layout.astro';
 import { getEntry } from 'astro:content';
 
-type Props = MarkdownLayoutProps<{
+interface Props {
     badge: string;
-}>;
+}
 
-const { badge } = Astro.props;
-const info = await getEntry('meritBadges', badge);
+const { badge } = Astro.props.frontmatter || Astro.props
+const info = (await getEntry('historicalMeritBadges', badge))?.data;
 ---
 <DefaultLayout title="{ info.name } Merit Badge History">
     <h1>{ info.name } Merit Badge History</h1>

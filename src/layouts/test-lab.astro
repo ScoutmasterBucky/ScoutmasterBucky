@@ -1,20 +1,18 @@
 ---
-import type { MarkdownLayoutProps } from 'astro';
 import DefaultLayout from './default-layout.astro';
-import ResourcesToggle from '~/components/resources-toggle.astro';
 import Requirements from '~/components/requirements.astro';
 import ScaledContent from '~/components/scaled-content.astro';
 import { getEntry } from 'astro:content';
 
-type Props = MarkdownLayoutProps<{
+interface Props {
     testLab: string;
-}>;
+}
 
-const { testLab } = Astro.props;
-const requirements = await getEntry('testLabRequirements', testLab);
-const info = await getEntry('testLabs', testLab);
-const updatedDates = await getEntry('updated', 'test-labs');
-const updatedDate = new Date(updatedDates[badge]);
+const { testLab } = Astro.props.frontmatter || Astro.props;
+const requirements = (await getEntry('testLabRequirements', testLab))?.data;
+const info = (await getEntry('testLabs', testLab))?.data;
+const updatedDates = (await getEntry('updated', 'test-labs'))?.data;
+const updatedDate = new Date(updatedDates[testLab]);
 const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
     year: 'numeric',
     month: 'long',
@@ -84,7 +82,7 @@ let hasResources = checkRequirementsForResources(requirements);
     text-decoration: none;
 }
 </style>
-<DefaultLayout title="{ info.name } Merit Badge">
+<DefaultLayout title="{ info.name } Test Lab Badge">
     <h1>{ info.name }</h1>
 
     <div class="center unprintable">
@@ -92,20 +90,6 @@ let hasResources = checkRequirementsForResources(requirements);
             <img src={info.image} alt="Test Lab Badge" class="wide" />
         </ScaledContent>
     </div>
-
-    {resources && (
-        <h3>Resources</h3>
-
-        <ul>
-            (resources.map((resource) => (
-                <li>
-                    <a href={resource.url}>{resource.name}</a>
-                </li>
-            )))
-        </ul>
-    )}
-
-    <slot name="additionalResources" />
 
     <h2 class="requirements-header">
         <div>{ info.name } Requirements</div>

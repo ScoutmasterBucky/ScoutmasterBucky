@@ -1,11 +1,11 @@
 ---
 import DefaultLayout from '~/layouts/default-layout.astro';
-import ScaledContent from '~/components/scaled-content.astro';
 import MeritBadgeList from '~/components/merit-badge-list.astro';
+import ScaledContent from '~/components/scaled-content.astro';
 import ScoutRank from '~/components/scout-rank.astro';
 import { getEntry } from 'astro:content';
 
-const itemsInOrder = [
+const ranksInOrder = [
     'scout',
     'tenderfoot',
     'second-class',
@@ -14,8 +14,8 @@ const itemsInOrder = [
     'life',
     'eagle',
 ];
-const additionalPages = ['eagle-palms', 'alternate-requirements'];
-const updatedDates = await getEntry('updated', 'scout-ranks');
+const additionalPages = ['eagle-palms', 'alternative-requirements'];
+const updatedDates = (await getEntry('updated', 'scout-ranks'))?.data;
 const updatedDate = new Date(updatedDates.scout);
 const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
     year: 'numeric',

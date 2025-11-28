@@ -11,7 +11,7 @@ summary: True friends are always there
 shirtImage: graphics/day-20-t.png
 shirtLink: https://www.amazon.com/dp/B096B97ZWW?psc=1&ref=ppx_yo2ov_dt_b_product_details&customId=B07537PKB3
 videoLink: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/234668625809555
-layout: ../../../layouts/default-markdown-layout.astro
+layout: ~/layouts/default-layout.astro
 ---
 
 Ben didn't come with any topic specifically in mind, but our frienship was at the core of all that we enjoyed and discussed during his time with me today.  He sums things up really nice near the end of the video, we can go for years without seeing each other, but it takes mere second and we pick things up as if we hadn't missed a day away from each other.

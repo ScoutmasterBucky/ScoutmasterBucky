@@ -3,23 +3,22 @@ import DefaultLayout from '~/layouts/default-layout.astro';
 import Requirements from '~/components/requirements.astro';
 import ScaledContent from '~/components/scaled-content.astro';
 import ScoutRankBucky from '~/components/scout-rank-bucky.astro';
-import type { MarkdownLayoutProps } from 'astro';
 import { getEntry } from 'astro:content';
 
-type Props = MarkdownLayoutProps<{
+interface Props {
     rank: string;
-}>;
+}
 
-const rank = Astro.props.rank;
-const rankInfo = await getEntry('scoutRanks', rank);
+const { rank } = Astro.props.frontmatter || Astro.props;
+const rankInfo = (await getEntry('scoutRanks', rank))?.data;
 ---
 
-<DefaultLayout title={awardInfo.title}>
+<DefaultLayout title={rankInfo.title}>
     <ScaledContent align="center">
         <ScoutRankBucky rank={rank} />
     </ScaledContent>
 
-    <h3>{awardInfo.name}</h3>
+    <h3>{rankInfo.name}</h3>
 
     <slot />
 

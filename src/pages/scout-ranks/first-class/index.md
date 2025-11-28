@@ -1,6 +1,6 @@
 ---
 rank: first-class
-layout: ../../../layouts/scout-rank.astro
+layout: ~/layouts/scout-rank.astro
 ---
 
 All requirements for the First Class rank must be completed as a member of a

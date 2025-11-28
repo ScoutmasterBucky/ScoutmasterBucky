@@ -1,6 +1,6 @@
 ---
 award: complete-angler
-layout: ../../../layouts/other-award.astro
+layout: ~/layouts/other-award.astro
 ---
 The Scouting America Complete Angler Award honors Scouts who earn all three fishing-related merit badges: [Fishing](/merit-badges/fishing/), [Fly-Fishing](/merit-badges/fly-fishing/), and [Fish & Wildlife Management](/merit-badges/fish-and-wildlife-management/).
 

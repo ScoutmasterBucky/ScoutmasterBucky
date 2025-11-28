@@ -86,7 +86,7 @@ const meritBadges = await getCollection('historicalMeritBadges');
                 <Tile>
                     <a href="/history/{badgeName}/">
                         <div class="{badge.active && 'active'} label">
-                            {badge.name}
+                            {badge.data.name}
                         </div>
                     </a>
                 </Tile>

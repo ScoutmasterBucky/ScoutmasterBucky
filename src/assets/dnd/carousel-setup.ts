@@ -1,4 +1,4 @@
-import './wc-carousel-lite.min.js';
+import '~/assets/dnd/wc-carousel-lite.min.js';
 
 interface PlayerInfo {
     name: string;

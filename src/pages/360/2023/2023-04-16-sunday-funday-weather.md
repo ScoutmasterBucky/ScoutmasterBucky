@@ -10,7 +10,7 @@ summary: WTF - What's the Forecast?
 shirtImage: graphics/day-18-t.png
 shirtLink: https://www.amazon.com/Whats-Forecast-Shirt-Meterologist-Weather/dp/B07PDN5PVS?customId=B07536XX75&customizationToken=MC_Assembly_1%23B07536XX75&th=1
 videoLink: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/896172038353677
-layout: ../../../layouts/default-markdown-layout.astro
+layout: ~/layouts/default-layout.astro
 ---
 
 Over the past week we have experienced the near extremes of all four seasons here in Minnesota. With temperatures ranging from below freezing to the scorching 90's, the weather has been crazy.
