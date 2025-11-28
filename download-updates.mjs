@@ -11,6 +11,8 @@ import * as prettier from "prettier";
 import { getDocument } from "pdfjs-dist/legacy/build/pdf.mjs";
 import { promises as fsPromises } from "fs";
 
+let errorsDetected = false;
+
 const downloadables = [
     {
         key: 'counselor-info',
@@ -177,17 +179,23 @@ async function saveBinaryFile(downloadUrlInfo, url, destPdf) {
 
     if (!previousInfo) {
         // Not cached
-        const response = await got(url, {
-            responseType: "buffer",
-        });
-        downloadUrlInfo.push({
-            url: urlString,
-            destination: destPdf,
-            headers: response.headers,
-        });
-        writeToFile(response);
+        try {
+            const response = await got(url, {
+                responseType: "buffer",
+            });
+            downloadUrlInfo.push({
+                url: urlString,
+                destination: destPdf,
+                headers: response.headers,
+            });
+            writeToFile(response);
 
-        return;
+            return;
+        } catch (err) {
+            errorsDetected = true;
+            console.error(chalk.red(`Error downloading ${url}: ${err.message}`));
+            return;
+        }
     }
 
     const checkHeaders = {};
@@ -201,19 +209,24 @@ async function saveBinaryFile(downloadUrlInfo, url, destPdf) {
             previousInfo.headers?.["last-modified"];
     }
 
-    const response = await got(url, {
-        headers: checkHeaders,
-        responseType: "buffer",
-    });
+    try {
+        const response = await got(url, {
+            headers: checkHeaders,
+            responseType: "buffer",
+        });
 
-    if (response.statusCode === 304) {
-        // Cached and still valid
-        return;
+        if (response.statusCode === 304) {
+            // Cached and still valid
+            return;
+        }
+
+        // Updated
+        previousInfo.headers = response.headers;
+        writeToFile(response);
+    } catch (err) {
+        errorsDetected = true;
+        console.error(chalk.red(`Error downloading ${url}: ${err.message}`));
     }
-
-    // Updated
-    previousInfo.headers = response.headers;
-    writeToFile(response);
 }
 
 async function saveHtml(url, destHtml, selector) {
@@ -581,4 +594,9 @@ if (!errors) {
     });
     await writeJson("src/data/updated.json", updated);
     await writeJson("src/data/download-url-info.json", downloadUrlInfo);
+}
+
+if (errorsDetected) {
+    console.error(chalk.red("Errors were detected during processing."));
+    process.exit(1);
 }
