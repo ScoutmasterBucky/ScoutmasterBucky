@@ -4,6 +4,7 @@ import MeritBadgeList from '~/components/merit-badge-list.astro';
 import ScaledContent from '~/components/scaled-content.astro';
 import ScoutRank from '~/components/scout-rank.astro';
 import { getEntry } from 'astro:content';
+import { updatedDateToString } from '~/utils/updated-date';
 
 const ranksInOrder = [
     'scout',
@@ -16,12 +17,7 @@ const ranksInOrder = [
 ];
 const additionalPages = ['eagle-palms', 'alternative-requirements'];
 const updatedDates = (await getEntry('updated', 'scout-ranks'))?.data;
-const updatedDate = new Date(updatedDates.scout);
-const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric',
-});
+const updatedDateStr = updatedDateToString(updatedDates.scout);
 ---
 
 <DefaultLayout title="Scout Ranks">
