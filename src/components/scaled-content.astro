@@ -10,7 +10,7 @@ const alignClass = ['left', 'right', 'center'].includes(align)
 ---
 
 {align === 'none' && (
-<div class="scaled"><slot /></div>
+    <div class="scaled"><slot /></div>
 )}
 {align !== 'none' && (
     <div class={align}>

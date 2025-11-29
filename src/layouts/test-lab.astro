@@ -10,6 +10,7 @@ interface Props {
 
 const { testLab } = Astro.props.frontmatter || Astro.props;
 const requirements = (await getEntry('testLabRequirements', testLab))?.data;
+const resources = (await getEntry('testLabResources', testLab))?.data;
 const info = (await getEntry('testLabs', testLab))?.data;
 const updatedDates = (await getEntry('updated', 'test-labs'))?.data;
 const updatedDate = new Date(updatedDates[testLab]);
@@ -82,7 +83,7 @@ let hasResources = checkRequirementsForResources(requirements);
     text-decoration: none;
 }
 </style>
-<DefaultLayout title="{ info.name } Test Lab Badge">
+<DefaultLayout title={`${ info.name } Test Lab Badge`}>
     <h1>{ info.name }</h1>
 
     <div class="center unprintable">
@@ -90,6 +91,16 @@ let hasResources = checkRequirementsForResources(requirements);
             <img src={info.image} alt="Test Lab Badge" class="wide" />
         </ScaledContent>
     </div>
+
+    <h3>Resources</h3>
+
+    <ul>
+        {resources.map((resource) => (
+            <li>
+                <a href={resource.url}>{resource.name}</a>
+            </li>
+        ))}
+    </ul>
 
     <h2 class="requirements-header">
         <div>{ info.name } Requirements</div>
