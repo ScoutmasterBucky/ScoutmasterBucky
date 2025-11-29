@@ -42,45 +42,6 @@
 #       - photography
 #   registrationLink: https://example.com/
 
-- title: Coin Collecting Merit Badge
-  host: Northwest Coin Club
-  icon: /events/nwcc.png
-  start: '2025-10-11 08:30'
-  end: '2025-10-11 14:00'
-  registrationLink: https://www.northwestcoinclub.com/scouts-merit-badges.html
-  location:
-      - Heritage Center
-      - 6155 Earle Brown Drive
-      - Brooklyn Center, MN 55430
-  meritBadges:
-      - coin-collecting
-
-- title: Scoutmaster Bucky November Merit Badge Day - BLOOMINGTON, MN
-  host: Scoutmaster Bucky
-  icon: /events/bucky-nov.png
-  start: '2025-11-08 8:00'
-  end: '2025-11-08 16:00'
-  registrationLink: https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-november-merit-badge-day-2025-11-08
-  location:
-      - Christ the King Lutheran Church
-      - 8600 Fremont Avenue South
-      - Bloomington, Minnesota 55420
-  html: |-
-      <p>Registration is now OPEN!</p>
-
-- title: District F Merit Badge Day
-  host: District F
-  icon: /events/district-f.webp
-  start: '2025-11-22 08:00'
-  end: '2025-11-22 16:00'
-  location:
-      - Faith Lutheran Church
-      - 886 North Shore Drive
-      - Forest Lake, MN 55025
-  html: |-
-      <p>District F is offering 19 different merit badges. Your Scout's $20 registration also includes an event mug, lunch, and (of course) a patch to remember the day.</p>
-      <p>For more information, see <a href="https://tinyurl.com/fmbd25pdf">the flyer</a>, or go directly to the <a href="https://tinyurl.com/fmbd25reg">registration page</a>.
-
 - title: Scoutmaster Bucky December Merit Badge Day - PRIOR LAKE, MN
   host: Scoutmaster Bucky
   icon: /events/bucky-dec.png
@@ -91,6 +52,23 @@
       - Shepherd of the Lake Lutheran Church
       - 3611 North Berens Road NW
       - Prior Lake, Minnesota 55379
+  meritBadges:
+      - animation
+      - aviation
+      - citizenship-in-the-community
+      - collections
+      - communication
+      - cooking
+      - cybersecurity
+      - disabilities-awareness
+      - first-aid
+      - genealogy
+      - inventing
+      - moviemaking
+      - reading
+      - scholarship
+      - scouting-heritage
+      - soil-and-water-conservation
   html: |-
       <p>Registration is now OPEN!</p>
 
