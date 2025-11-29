@@ -10,7 +10,7 @@ const { code, ratio } = Astro.props;
 <div class="wrapper">
     <iframe
         src={`https://www.youtube.com/embed/${code}?modestbranding=1&rel=0`}
-        style="aspect-ratio: {ratio}"
+        style={`aspect-ratio: ${ratio}`}
         class="wide"
         frameborder="0"
         allowfullscreen></iframe>

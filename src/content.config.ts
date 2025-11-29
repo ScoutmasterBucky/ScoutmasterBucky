@@ -158,6 +158,22 @@ const testLabRequirements = defineCollection({
     schema: z.array(RequirementListItemSchema),
 });
 
+const testLabResources = defineCollection({
+    loader: glob({
+        pattern: '**/resources.yaml',
+        base: './src/data/test-labs',
+        generateId: data => data.entry.split('/')[0],
+    }),
+    schema: z.array(
+        z.strictObject({
+            description: z.string().optional(),
+            name: z.string(),
+            shortName: z.string().optional(),
+            url: z.string(),
+        })
+    ),
+});
+
 const testLabs = defineCollection({
     loader: file('./src/data/test-labs.yaml'),
     schema: z.strictObject({
@@ -184,6 +200,7 @@ export const collections = {
     scoutRankRequirements,
     scoutRanks,
     testLabRequirements,
+    testLabResources,
     testLabs,
     updated,
 };
