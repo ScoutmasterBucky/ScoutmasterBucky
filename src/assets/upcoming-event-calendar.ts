@@ -49,7 +49,7 @@ component(
             let multiple = false;
 
             if (event.endDate) {
-                if (event.endDate.local.MMM !== this.month) {
+                if (event.endDate.local.MMM !== month) {
                     this.month += `/${event.endDate.local.MMM}`;
                     multiple = true;
                 }
