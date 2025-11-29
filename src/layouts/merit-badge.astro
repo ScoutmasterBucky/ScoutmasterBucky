@@ -1,5 +1,6 @@
 ---
 import { getEntry } from 'astro:content';
+import { updatedDateToString } from '~/utils/updated-date';
 import DefaultLayout from './default-layout.astro';
 import Requirements from '~/components/requirements.astro';
 import ScaledContent from '~/components/scaled-content.astro';
@@ -12,14 +13,8 @@ const { badge } = Astro.props.frontmatter || Astro.props;
 const requirements = (await getEntry('meritBadgeRequirements', badge))?.data;
 const resources = (await getEntry('meritBadgeResources', badge))?.data;
 const info = (await getEntry('meritBadges', badge))?.data;
-const updatedDateList = (await getEntry('updated', 'merit-badges'))?.data;
-const updatedDate = new Date(updatedDateList[badge]);
-const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric',
-});
-
+const updatedDates = (await getEntry('updated', 'merit-badges'))?.data;
+const updatedDateStr = updatedDateToString(updatedDates[badge]);
 const related = [];
 
 for (const rankName of info.ranks) {

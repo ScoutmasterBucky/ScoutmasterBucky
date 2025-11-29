@@ -3,6 +3,7 @@ import DefaultLayout from './default-layout.astro';
 import Requirements from '~/components/requirements.astro';
 import ScaledContent from '~/components/scaled-content.astro';
 import { getEntry } from 'astro:content';
+import { updatedDateToString } from '~/utils/updated-date';
 
 interface Props {
     testLab: string;
@@ -13,12 +14,7 @@ const requirements = (await getEntry('testLabRequirements', testLab))?.data;
 const resources = (await getEntry('testLabResources', testLab))?.data;
 const info = (await getEntry('testLabs', testLab))?.data;
 const updatedDates = (await getEntry('updated', 'test-labs'))?.data;
-const updatedDate = new Date(updatedDates[testLab]);
-const updatedDateStr = updatedDate.toLocaleDateString('en-US', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric',
-});
+const updatedDateStr = updatedDateToString(updatedDates[testLab]);
 
 const related = new Set();
 
