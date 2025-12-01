@@ -10,7 +10,6 @@
         "reinstall": "rm -rf node_modules package-lock.json && npm install",
         "start": "astro dev --open --host",
         "start-windows": "npm ci && npm run start",
-        "typecheck": "vue-tsc --noEmit",
         "verify-data": "node validate-data.mjs",
         "verify-external-links": "check-html-links dist/ --validate-externals",
         "verify-internal-links": "check-html-links dist/ 2>&1 > /dev/null | ( ! grep --context=1000 '❌' )"
@@ -27,7 +26,6 @@
         "ajv": "^8.17.1",
         "astro": "^5.16.0",
         "check-html-links": "^0.2.4",
-        "debug": "^4.4.3",
         "fudgel": "^2.5.0",
         "glob": "^13.0.0",
         "got": "^14.6.5",
