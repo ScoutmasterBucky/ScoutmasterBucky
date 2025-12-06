@@ -1,4 +1,5 @@
 # Requirement 1 removed "and" but it is not a list with a colon. Added "and".
+# Resource for 3b crew positions fixed.
 - requirement: 1
   text: |-
       Discuss the prevention of and treatment for the health concerns that could
@@ -52,7 +53,7 @@
         text: |-
             Describe how a trek crew should be organized.
         resources:
-            - href: https://www.philmontscoutranch.org/treks/trek-resources/crew-positions/
+            - href: https://www.philmontscoutranch.org/resources/crew-positions-dynamics-leadership/
               text: Crew Positions
               type: website
       - requirement: c

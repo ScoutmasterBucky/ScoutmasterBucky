@@ -1,0 +1,24 @@
+{
+    "destination": "download/camping-pamphlet.pdf",
+    "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "129575",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=31536000",
+        "cf-cache-status": "HIT",
+        "cf-ray": "98f7dea68e3b7816-MSP",
+        "connection": "keep-alive",
+        "content-length": "3785150",
+        "content-type": "application/pdf",
+        "date": "Thu, 16 Oct 2025 13:23:15 GMT",
+        "etag": "\"683dec96-39c1be\"",
+        "last-modified": "Mon, 02 Jun 2025 18:25:26 GMT",
+        "server": "cloudflare",
+        "set-cookie": [
+            "__cf_bm=6QzmpSxsQ_hgwDke4XognSwAxCmXh.P8d..pqJXU45c-1760620995-1.0.1.1-DmOzDrWnUKVw6E2fwOi.mvdLI8E6MKujwHdaPIgp9JtosE41MYVqxn2nAVVgW98zMOanZazOMqSyWQlrMAOaVubIyYqwIxmDDeyMjOswRCw; path=/; expires=Thu, 16-Oct-25 13:53:15 GMT; domain=.filestore.scouting.org; HttpOnly; Secure; SameSite=None"
+        ],
+        "vary": "Accept-Encoding"
+    },
+    "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Camping.pdf"
+}

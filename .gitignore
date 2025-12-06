@@ -28,3 +28,6 @@ dist/
 .astro/
 .env
 .env.production
+download/*
+!download/*.txt
+!download/*.json

@@ -9,7 +9,6 @@ logo: 2023/graphics/aynil-logo.png
 ribbon: ribbon/bandc.png
 summary: ...in sickness and in health...
 shirtImage: graphics/day-22a-t.png
-shirtLink: https://allstarshirt.com/products/multiple-sclerosis-awareness-ms-survivor-wife-warrior-t-shirt-women-t-shirt-zrv?variant_id=6567762
 videoLink: https://www.facebook.com/brianscoutmasterbucky.reiners/videos/115486954833132
 layout: ~/layouts/default-layout.astro
 ---
@@ -35,6 +34,3 @@ So in summary, today's topic is love...unconditional love.  Make a point to tell
 <ScaledContent align="center">
 <img src="/360/2023/graphics/day-22b-t.png" class="Maw(100%)" />
 </ScaledContent>
-
-Today's T-Shirt that Cheryl wore available <a href="https://allstarshirt.com/products/prostate-cancer-awareness-spouse-husband-wife-support-t-shirt-women-t-shirt-unv">here</a>.
-

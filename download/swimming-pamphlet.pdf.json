@@ -1,0 +1,24 @@
+{
+    "destination": "download/swimming-pamphlet.pdf",
+    "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "129616",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=31536000",
+        "cf-cache-status": "HIT",
+        "cf-ray": "98f7e6ff7a87a1e2-MSP",
+        "connection": "keep-alive",
+        "content-length": "9686433",
+        "content-type": "application/pdf",
+        "date": "Thu, 16 Oct 2025 13:28:57 GMT",
+        "etag": "\"683dee50-93cda1\"",
+        "last-modified": "Mon, 02 Jun 2025 18:32:48 GMT",
+        "server": "cloudflare",
+        "set-cookie": [
+            "__cf_bm=.jQ_1Ayi6d3yyA7yycjY77hs.2phFe3xr8cTjm6cWdo-1760621337-1.0.1.1-Bv3WUzc_Ad_V9jGzTqGlhIg23MUxxa41DEWZdGjRsUOBMMwK6ktaW7K3LooPLGf60bx2Ur6XWqK.Ip0wHTuEllP4tA2DHUq0KrRoSTM15uk; path=/; expires=Thu, 16-Oct-25 13:58:57 GMT; domain=.filestore.scouting.org; HttpOnly; Secure; SameSite=None"
+        ],
+        "vary": "Accept-Encoding"
+    },
+    "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf"
+}

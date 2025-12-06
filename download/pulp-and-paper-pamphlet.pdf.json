@@ -1,0 +1,23 @@
+{
+    "destination": "download/pulp-and-paper-pamphlet.pdf",
+    "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=31536000",
+        "cf-cache-status": "HIT",
+        "cf-ray": "98f7e50fb917ad23-MSP",
+        "connection": "keep-alive",
+        "content-length": "5787442",
+        "content-type": "application/pdf",
+        "date": "Thu, 16 Oct 2025 13:27:38 GMT",
+        "etag": "\"68661ce7-584f32\"",
+        "last-modified": "Thu, 03 Jul 2025 06:02:15 GMT",
+        "server": "cloudflare",
+        "set-cookie": [
+            "__cf_bm=80gK9xHVeQ96ItHB4RxOp_S8B095yRF0lbGKuTF8hE8-1760621258-1.0.1.1-j8eERCtk2zyAzJ4DiY_Wg0rGktV.K2M8gV2wP3_ygVFcqfCsA.K7VtukyR.h02mvqYOY5_CVjmLvUm_d5tWZ8eAZEhVfW3_btAu6S1_6MRA; path=/; expires=Thu, 16-Oct-25 13:57:38 GMT; domain=.filestore.scouting.org; HttpOnly; Secure; SameSite=None"
+        ],
+        "vary": "Accept-Encoding"
+    },
+    "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pulp-Paper.pdf"
+}

@@ -1,0 +1,23 @@
+{
+    "destination": "download/50-miler.pdf",
+    "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=31536000",
+        "cf-cache-status": "HIT",
+        "cf-ray": "98f7d1a8ae96a1e2-MSP",
+        "connection": "keep-alive",
+        "content-length": "634466",
+        "content-type": "application/pdf",
+        "date": "Thu, 16 Oct 2025 13:14:23 GMT",
+        "etag": "\"5f0bcbd6-9ae62\"",
+        "last-modified": "Mon, 13 Jul 2020 02:49:58 GMT",
+        "server": "cloudflare",
+        "set-cookie": [
+            "__cf_bm=QuI6.AmfrbWkNrO85omKRjuMOawRqMVoeZf0buSp1uQ-1760620463-1.0.1.1-IYej6lLzd7kp50z4tI7Z18aB4eEBDGvmxJeMXo5F6VPus0oxOG3SVotIvAiH5Cjau4lC3ytQhLmrTSVJFvUuC6itUjBwzYy6inH7JHwMAhw; path=/; expires=Thu, 16-Oct-25 13:44:23 GMT; domain=.filestore.scouting.org; HttpOnly; Secure; SameSite=None"
+        ],
+        "vary": "Accept-Encoding"
+    },
+    "url": "https://filestore.scouting.org/filestore/pdf/430-067_WB.pdf"
+}

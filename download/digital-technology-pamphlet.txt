@@ -1,0 +1,2663 @@
+DIGITAL
+TECHNOLOGY
+STEM-Based
+
+
+DIGITAL
+TECHNOLOGY
+BOY SCOUTS OF AMERICA
+MERIT BADGE SERIES
+“Enhancing our youths’ competitive edge through merit badges”
+
+
+35733
+ISBN 978-0-8395-0000-0
+©2024 Boy Scouts of America
+2024 Printing
+Note to the Counselor
+The Digital Technology merit badge was designed to show
+the close relationship between humans and the technical
+world surrounding us. The fleur-de-lis in the center represents
+the Scout who, acting as the “brain” of a typical computing
+device, interfaces with the digital technology world through
+the means that those electronic devices can “under-
+stand”—electrons, bits of data, and specialized path-
+ways for information. As we increasingly use digital
+technology in our everyday world, this relationship
+extends from the Scout to the digital devices.
+Eventually, the machine becomes an extension of
+the Scout’s will, carrying out what the Scout directs it
+to do. The challenge for the Scout and for every user of
+digital technology is to understand this boundary and rela-
+tionship, to not lose one’s own identity in the machine. We
+humans must remember that machines are simply an extension
+of—not a replacement for—the human mind.
+The American Standard Code for Information Interchange,
+or ASCII, is used to transmit information between computers.
+To manage the alphabet, this binary system uses numbers 0 to
+9 and special characters for 256 possible combinations with an
+eight-digit binary number. Those numbers would be 00000000,
+00000001, 00000010, 00000011, 00000100, up to 11111111. In deci-
+mal it would be 0, 1, 2, 3, 4, and so on, up to 255. That’s 256
+combinations, including zero.
+Where does that number come from? Computers at the
+most fundamental level handle circuits that are like “on” and
+“off” switches. In the decimal system, we typically use 10 sym-
+bols—numerals 0 to 9—and every digit uses a factor of 10. The
+binary system uses only two symbols—0 and 1—and a factor of
+2. In the digital technology industry, these conditions are typi-
+cally referred to as a binary number system with 1 for “on” and
+FPO
+
+
+DIGITAL TECHNOLOGY 3
+0 for “off.” In decimal, the number 12 would be written as
+12 = (1 X 10) + (2 X 1). In binary, it would be written as
+1100 = (1 X 8) + (1 X 4) + (0 X 2) + (0 X 1).
+This chart includes a “translation” of zero through 9, the
+entire alphabet (capital and lowercase letters), and a few other
+characters. See “Understanding Data and Files” for more infor-
+mation on ASCII translation.
+The original design for the Digital Technology merit badge contained a
+special ASCII encoding for “BSA.” However, due to constraints in the
+badge making process, this idea was abandoned. As a fun aside for
+Scouts, see if they can figure out the message. For the letters “B,” “S,”
+“A” in ASCII, here is the standard assignment:
+B = 01000010 S = 01010011 A = 01000001
+Starting from the tab in the top row to
+the far left, notice a trace that stops at a circle,
+which represents a zero. Going clockwise, the
+next trace twists and radiates outward. The
+next two end at circles. Then going down the
+right side of the yellow tabs, combinations
+of 1s and 0s are found. Eventually, if you go
+around the entire badge, you get the 1s and
+0s to spell out “BSA” in ASCII format.
+
+
+4 DIGITAL TECHNOLOGY
+Requirements
+Scouts should go to www.scouting.org/merit-badges/Digital-Technology or check
+Scoutbook for the latest requirements.
+
+
+DIGITAL TECHNOLOGY 5
+
+
+6 DIGITAL TECHNOLOGY
+
+
+DIGITAL TECHNOLOGY 7
+
+
+
+
+
+Contents
+Digital Technology All Around Us . . . . . . . . . . . . . . . . . . . . 11
+History of Digital Devices . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Performance of Digital Devices . . . . . . . . . . . . . . . . . . . . . . 31
+Understanding Data and Files . . . . . . . . . . . . . . . . . . . . . . . 37
+Computer Software . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+The Internet and the World Wide Web . . . . . . . . . . . . . . . . . 55
+Digital Technology at Work . . . . . . . . . . . . . . . . . . . . . . . . . 69
+Recycling E-Waste . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+Intellectual Property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+Glossary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+Digital Technology Resources . . . . . . . . . . . . . . . . . . . . . . . . 91
+
+
+
+
+
+DIGITAL TECHNOLOGY 11
+.Digital Technology All Around Us
+Digital Technology All
+Around Us
+Simply put, a computer chip is a machine that can perform
+simple commands: adding numbers, comparing values, moving
+data from one place to another, all at remarkable speeds. By
+performing many simple calculations exceedingly fast, comput-
+ers can operate robots that build cars, send pictures and words
+to a video monitor or printer, run fast-paced video games, and
+send email messages around the world.
+Digital technology devices use computer chips to perform
+specific functions. The range of devices that use computer
+chips is ever-growing. The remote control for your TV, the TV
+itself, mobile phones, game machines, tablet computers, digital
+cameras, and industrial robots all depend on digital signals
+from computer chips.
+These devices do not think on their own. Software
+engineers write instructions for computers called programs.
+Software programs accomplish complex tasks by performing
+the computer’s simple yes-or-no logic more than a billion times
+per second. Even though some digital devices seem to have
+intelligence, they are actually following the exact instructions
+they were given, extremely quickly.
+Just how quickly does a computer chip work? Using
+a watch or clock to time yourself, count (by ones)
+as fast as you can in 10 seconds. How high did you
+get? 50? 70? 100? An average computer chip can
+count (by ones) to over 20 billion (20,000,000,000)
+in this same time. It is this mind-boggling speed of
+computer chips that has been harnessed in digital
+devices to do the incredible things they do.
+
+
+12 DIGITAL TECHNOLOGY
+Digital Technology All Around Us .
+Besides counting,
+digital devices can process
+information—troop rosters,
+for example, or the amount
+of water your family used
+at home last month, or the
+measurement of a car’s
+speed. Many digital devic-
+es can also store informa-
+tion to be retrieved later.
+Digital Technology
+Is Everywhere
+Computer chips are found
+in almost all modern machines and electronic gadgets. Often
+you can’t see the tiny computer processors built into the device
+and powered by a sometimes equally small battery. But these
+processors make possible digital technology devices like smart-
+phones, garage door openers, DVD players, house thermostats,
+cameras, wristwatches, fuel-efficient vehicles, MP3 players,
+GPS units, and even recordable greeting cards.
+Each global positioning system (GPS) satellite—an orbiting digital device in space—
+sends a constant stream of location data. This is interpreted by a handheld digital
+device (or smartphone) that converts the signals into an exact location on a map,
+which can tell hikers or drivers where they are.
+
+
+DIGITAL TECHNOLOGY 13
+.Digital Technology All Around Us
+Video games also use lots of computing power. These
+games once required a big desktop computer. But with
+the increased power and lower cost of computer chips,
+they now perform with ever-better quality on ever-smaller
+portable devices.
+Digital devices don’t just make our lives easier, safer,
+and more comfortable. They have become essential to busi-
+ness, industry, science, medicine, and communication: practi-
+cally every part of society. For instance, stores can track prod-
+uct inventories with barcode scanners and
+keep just the right amount of products on
+their shelves. When you buy a shirt at a
+store, the computer at the register sub-
+tracts one shirt from the inventory list
+so the manager knows exactly when
+it’s time to order more shirts. This saves money because it
+helps the store keep the right quantity of products on hand.
+The worldwide network of computers known as the
+internet has revolutionized communication. Now, instead of
+waiting days or even weeks to receive a letter through the
+postal mail, people can use computers to send emails that zip
+around the world in seconds. Also, text messages and photos
+can be sent and received directly from a person’s digital
+device. Vast databases of information are available through
+web browsers, mostly for free, allowing students and scientists
+to research from any location that has an internet connection.
+People can shop online for vast arrays of items.
+Computers continue to be used in many more
+ways. A traveler’s passport—the little booklet that
+identifies a person entering or leaving a country—
+now has an embedded computer chip. On the high-
+way, a computerized tag attached to a car allows
+the driver to pay the toll while driving through a
+tollbooth without slowing down, and the car owner
+gets billed automatically.
+
+
+14 DIGITAL TECHNOLOGY
+Digital Technology All Around Us .
+In industry, digital devices have streamlined every step
+of the production process through computer-aided drafting,
+design, engineering, and manufacturing. Advanced software
+programs allow products to be conceived, designed, and tested
+virtually—that is, before they have taken physical form. In this
+way, a car designer can make a three-dimensional model of
+the car parts, “fit” them together, and test how well they work,
+all without tightening one bolt. When it’s time to manufacture
+the product, digital devices control the
+machines that fabricate and assemble
+the parts.
+Using digital technology, phone
+companies keep track of millions of
+customers. They send each a detailed
+bill every month showing precisely
+which phone numbers were called,
+how many minutes customers
+talked on the phone, how much
+texting they did, and how much
+each transaction cost.
+The team that developed this pamphlet used online
+meeting tools, enabling people from all over the
+country to collaborate on the project.
+
+
+DIGITAL TECHNOLOGY 15
+.Digital Technology All Around Us
+Digital technology is also common
+in the entertainment industry. One person
+using a synthesizer can make music that
+sounds like a whole orchestra playing.
+Animation workstations help artists create
+special effects in movies, such as making
+superheroes appear to jump from building
+to building. The video game industry is
+almost as big as the movie industry and it
+uses digital technology to produce these
+same special effects.
+Digital technology has also changed
+photography. Not long ago, most cameras
+used rolls of light-sensitive film to capture pictures. If a picture
+was blurry or if someone blinked, you would not know until
+the photo was developed. Now with smartphones and digital
+cameras, you can take lots of pictures, delete the ones you
+don’t like, and print only the good ones. Digital technology also
+makes it possible to alter a digital photo and add special effects.
+With digital technology being used all around us, it’s good to be aware
+that anything you say and do could turn up in unexpected places—
+even posted online by complete strangers.
+
+
+Hollerith’s electric tabulator 1880s
+Analog computer 1927
+ENIAC 1946
+EDVAC 1951
+Babbage’s computer 1830s
+Boolean logic 1850s
+Slide rule 1617
+Mechanical calculator 1642
+Automatic loom (punch cards) 1804
+Abacus 1100 B.C.
+Transistor 1947
+UNIVAC 1951
+Integrated circuit late 1950s
+Microprocessor 1971
+Altair 8800 1975
+Apple II® 1977
+IBM PC 1981
+Macintosh® 1984
+Charles Babbage
+Hollerith’s electric
+tabulator
+
+
+DIGITAL TECHNOLOGY 17
+.History of Digital Devices
+History of Digital
+Devices
+The modern computer reflects the ingenuity of many inven-
+tors, mathematicians, and philosophers working over a period
+of centuries, often improving on the work of others who came
+before them.
+Today, we use handheld electronic calculators at home,
+school, and work. But another calculating aid, the abacus, has
+been around since about 1100 b.c. and is still used in some
+parts of the world. An abacus consists of a wooden frame with
+beads that slide along rods. By assigning
+a value to the beads and sliding them up
+and down the rods, users can add, sub-
+tract, multiply, and divide.
+Early Math Aids
+In 1617, Scottish mathematician John
+Napier invented an aid to calculation—
+the concept of logarithms, which sim-
+plify the task of multiplying and dividing
+into a form of addition and subtraction.
+He inscribed his logarithms on a set
+of calculating rods he called “Napier’s
+bones.” Soon after, English clergyman
+William Oughtred invented a device
+based on Napier’s logarithms: the slide
+rule. It remained in use for the next 350
+years, until the electronic calculator was
+invented. Like the earlier inventions,
+however, the slide rule was only an aid
+to calculation, not a true calculator.
+William Oughtred
+
+
+18 DIGITAL TECHNOLOGY
+History of Digital Devices .
+First Calculator
+The first practical mechanical calculator was
+invented by a French mathematician. In 1642, while
+still a teenager, Blaise Pascal invented an adding
+machine called the Pascaline, which worked with
+wheels and gears. His father, a tax collector, used the
+Pascaline to add up how much money people owed
+the government—something modern computers still
+do today. In 1670, a German named Gottfried von
+Leibniz improved on Pascal’s invention, developing
+a calculator that not only could add and subtract, but
+also could multiply and divide.
+The First Computer
+In 1804, a French weaver named Joseph-Marie Jacquard
+invented an automatic loom, or weaving machine, controlled
+by sets of instructions coded into punched cards. Different
+cards held instructions for different patterns to be woven into
+fabrics. The idea of using coded instructions readable by a
+machine became the basis of computer programs, years later.
+In the 1830s, English mathematician Charles Babbage
+designed plans for the analytical engine. His machine, intended
+to automatically produce mathematical tables for navigation at
+sea, consisted of four main parts, all found on today’s computers:
+• An input device to read instructions from punched cards
+• A memory to store the instructions and results
+• A processor, which Babbage called a mill
+• An output device to print the tables of numbers
+Augusta Ada King, who wrote a program for the
+analytical engine, is considered to be the world’s first
+computer programmer.
+Blaise Pascal
+
+
+DIGITAL TECHNOLOGY 19
+.History of Digital Devices
+Babbage’s analytical engine could be programmed
+to perform different tasks. That feature also made it like
+a modern computer—although the analytical engine was
+completely mechanical and powered by steam, not electricity.
+Unfortunately, Babbage was never able to complete the
+machine or test it. A model of his earlier design, the difference
+engine, was finally built at London’s Science Museum for
+display in 1991. It had 4,000 parts and weighed three tons.
+Boolean Logic
+In the 1840s and 1850s, English mathematician and
+philosopher George Boole developed a kind of logic
+that allows thoughts to be expressed in mathlike terms.
+The basic forms of Boolean logic (also called Boolean
+algebra) are the AND, OR, and NOT operations.
+• An AND operation is one in which two or more
+conditions must be true to achieve a result. For
+example, before you can safely cross a street
+intersection, the walk sign must be lit AND cross
+traffic must be stopped.
+• In an OR operation, the result will happen if either
+condition is met: If it is cold outside OR if it
+is raining, you will put on a jacket before
+leaving home.
+• With a NOT operation, a result happens
+when a particular condition is not met: You
+will go to school today if today does NOT
+fall on the weekend.
+Years after Boole died, computer design-
+ers arranged electric switches to perform
+these operations in what became known
+as logic circuits, allowing digital computers
+to mimic human thought processes. Later
+still, Boolean logic would be used in internet
+search engines and in specialized computer
+languages used to manage data in databases.
+George Boole
+For more about
+computer
+programs, see
+the Programming
+merit badge
+pamphlet.
+
+
+20 DIGITAL TECHNOLOGY
+History of Digital Devices .
+In 1906, American inventor Lee de Forest dis-
+covered that placing three electrodes inside the bulb
+created an amplifier. Besides making radio and televi-
+sion possible, this vacuum tube could also serve as an
+extremely fast on-and-off switch. This discovery would
+prove crucial in the development of digital computers.
+Special-Purpose Calculators
+Every 10 years, the U.S. government conducts a cen-
+sus, or study, to collect information about everyone
+who lives in the country. By 1880, the population was
+so large—over 49 million—that the task took seven
+years to complete.
+To speed things up for the 1890 census, the
+government turned to American inventor Herman
+Hollerith. His electric tabulating machine automati-
+cally recorded punched cards prepared for every
+individual. The cards held information that could be
+presented in different ways—for example, to find out
+how many married people lived in Tennessee, or how
+many owned farms smaller than 3 acres. This machine
+was the beginning of automated data processing.
+Soon, other companies were formed to build special-
+purpose calculating machines to help businesses.
+Eventually, universities joined in, finding scientific
+and military uses for the technology. These machines
+were one of a kind, and each had its peculiarities.
+Edison’s Vacuum Tube
+In 1883, a few years after Thomas Edison invented the electric light-
+bulb, he noticed something peculiar about how electricity flowed
+inside it. To protect the brightly glowing filament, air had been
+removed from the bulb, creating a vacuum tube. Surprisingly, if he
+placed a metal plate inside the bulb, electricity would flow across the
+vacuum from the filament to the plate. Edison patented the discovery
+of how electrons flowed across a vacuum, now known as the Edison
+Effect, though he made little use of it.
+Herman Hollerith, the father of automated data process-
+ing, formed a company that would later become the giant
+IBM corporation.
+Thomas Edison
+
+
+DIGITAL TECHNOLOGY 21
+.History of Digital Devices
+At Harvard University, professor Howard Aiken worked on the
+Mark I computer using electromagnetic relays as switches. At
+the University of Pennsylvania, John William Mauchly and
+J. Presper Eckert Jr. designed the EDVAC and the ENIAC,
+using vacuum tubes as switches, which worked a thousand
+times faster than the relays in the Mark I.
+Hollerith punched card
+Massachusetts Institute of Technology engineer Vannevar Bush
+invented the differential analyzer, an electromechanical analog
+computer, in 1927.
+Grace Hopper coined the term “bug” for a
+computer fault. The original bug was a moth that
+created a hardware problem in the Mark I. Hopper
+was the first person to “debug” a computer.
+
+
+22 DIGITAL TECHNOLOGY
+History of Digital Devices .
+The military used these first-generation digital computers
+to calculate weapon trajectories and help build atomic bombs.
+Each of these computers weighed tons, filled an entire room,
+and consumed enough electricity to light up a small town.
+They also required thousands of vacuum tubes, which tended
+to overheat and burn out, needing to be replaced often.
+The “Universal” Computer
+The first commercially built computer was Mauchly’s and
+Eckert’s UNIVAC. It was designed to be a general-purpose, or
+“universal,” computer that would serve scientists, business
+people, and engineers alike.
+The UNIVAC was a stored-program computer, meaning the
+program didn’t have to be fed into the computer as it was run-
+ning. Another innovation in the UNIVAC was its ability to take
+input from data on magnetic tape, rather than from punched
+cards. This ability made it faster and easier to operate.
+The U.S. military used first-generation digital computers like
+this ENIAC to calculate trajectories of artillery shells and to help
+build weapons.
+Customers for the new computer—which cost
+about $1 million in the early 1950s—included the
+U.S. Census Bureau, the Air Force, and
+insurance companies.
+
+
+DIGITAL TECHNOLOGY 23
+.History of Digital Devices
+The Transistor—A Major Breakthrough
+In 1947, engineers John Bardeen, Walter Brattain, and
+William Shockley at Bell Laboratories ushered in the second
+generation of computers by inventing the transistor. Like a vac-
+uum tube, the transistor had three terminals. It could function
+as an amplifier and a switch, but it was much smaller, used
+far less power, and performed thousands of times faster. Early
+transistors were also used in consumer products, most notably
+the portable transistor radio.
+The Integrated Circuit—An Even
+Bigger Breakthrough
+A major limitation of transistors was that they had to be con-
+nected to other electronic components
+(resistors, capacitors, and diodes) to form
+circuits. An early computer could have
+tens of thousands of transistors and other
+components that required tens of thou-
+sands of hand-soldered connections.
+This problem was solved in
+the late 1950s when Jack Kilby of
+Texas Instruments, and a few months
+later, Robert Noyce of Fairchild
+Semiconductor, thought of the integrated
+circuit. The concept was simple: Instead
+of connecting components after they
+were made, manufacture them all on
+the same chip of silicon, with built-in
+connections. The integrated circuit, also
+called the microchip, revolutionized
+computing. It also made possible such
+products as the handheld calculator and
+the digital wristwatch.
+The Apollo space program of the 1960s,
+with a mission to put an American on
+the moon by the end of the decade, was
+an early user of integrated circuits.
+Silicon, the most
+widely used
+semiconductor
+material, is used
+to make silicon
+chips.
+Integrated circuits were also used in so-called
+minicomputers, which, though smaller than the big
+mainframes of the day, still cost tens of thousands
+of dollars each.
+
+
+24 DIGITAL TECHNOLOGY
+History of Digital Devices .
+The Microprocessor
+In 1971, engineers at Intel Corporation, founded by Noyce,
+advanced the integrated circuit to a new level: They designed
+the first microprocessor, putting all the circuits needed for a
+computer’s central processing unit (its “brain,” which could
+run coded instructions) onto a single chip. This invention
+made the personal computer possible.
+Personal Computers
+The Altair 8800 was an early model
+personal computer sold in 1975 as a
+mail-order kit for hobbyists to build
+themselves. That year, boyhood
+chums Bill Gates and Paul Allen,
+along with Monte Davidoff, wrote a
+programming language called BASIC
+that would run on the Altair. For a
+fee, they licensed the program to the
+computer maker and formed their
+own company, Microsoft®.
+Meanwhile, two other young
+friends, Steve Wozniak and Steve
+Jobs, were busy working on the Apple II, a personal computer
+released in 1977 by their new company, Apple®. Unlike most
+early computers, the Apple II® had color graphics. This asset
+made it good for games, and it became extremely popular with
+home users.
+Altair 8800
+The year before the release of their Apple II®
+computer, Wozniak and Jobs had worked together
+making a video game for Atari, a company
+founded by Nolan Bushnell. Atari had already
+become successful by selling a console that played
+one video game—called “Pong”—in arcade and
+home versions. Pong was the beginning of the
+multibillion-dollar video game industry.
+
+
+DIGITAL TECHNOLOGY 25
+.History of Digital Devices
+In 1979, Daniel Bricklin and Robert Frankston created a soft-
+ware program for the Apple II called VisiCalc, short for “visible
+calculator.” The program automatically calculated rows and
+columns of numbers arranged in a form known as a spread-
+sheet. This program, which was not available for mainframe
+computers, helped start a trend of companies installing per-
+sonal computers in the workplace.
+Two years later, IBM introduced its PC (or personal com-
+puter) based on the Intel 8088 microprocessor. The PC ran its
+own version of VisiCalc as well as other software programs,
+including a word processor. IBM contracted with Microsoft to
+supply a form of BASIC for the new computer, as well as an
+operating system, the program that gets the computer up and
+running, and then interacts with application programs.
+The original IBM PC cost $3,000 when it debuted in
+1981—around $7,500 in 2012, adjusted for inflation.
+Today’s desktop computers, thousands of times
+more powerful, can be purchased for only a few
+hundred dollars.
+Microsoft later created a similar
+operating system, MS-DOS, for use on
+computers made by many different com-
+panies. The IBM PC and other computers
+using the MS-DOS platform dominated
+the business and home computer mar-
+kets, helping make Microsoft one of the
+world’s largest corporations.
+Apple’s Macintosh® computer also
+had great influence on the industry.
+Introduced in 1984, the Mac’s operating
+system featured several innovations that
+made computers easier to use, many of
+which had been developed years earlier
+by researchers working for Xerox. These
+innovations included a handheld pointing
+device, or mouse; the use of little pic-
+tures called icons to represent programs
+and files on the computer screen; and a
+system of pull-down menus and movable
+screen displays called windows.
+Apple II®
+
+
+26 DIGITAL TECHNOLOGY
+History of Digital Devices .
+Despite the Macintosh innovations, the PC grew ever more
+popular, in part because IBM allowed other companies to sell
+less expensive “clones” of its PC design, while Apple did not.
+By 1990, Microsoft managed to incorporate many user-friendly
+advantages of the Macintosh into the latest version of its oper-
+ating system, called Windows®.
+Computers continue to drop in price and grow in power,
+much as they have throughout their history. In 1971, a micro-
+processor held 2,250 transistors; by 1993, it was 3.1 million. In
+early 2008, Intel® announced the creation of the first micropro-
+cessor to hold two billion transistors. Experts say this exponen-
+tial growth in computing power cannot continue indefinitely.
+Computers in Your Hand
+Rapid increases in computing power have allowed computers
+to get ever smaller and faster. The early years of the 21st
+century saw an explosion in handheld computing devices—
+not only calculators, but also GPS units, which people now
+commonly use to find their way while driving; and personal
+digital assistants (PDAs), small computers that could fit in
+a pocket and be used as portable media players, electronic
+address books, mobile phones, and web browsers.
+Likewise, enhanced cell phones, called “smart-
+phones,” do many tasks beyond making phone calls. This
+includes taking pictures, doing calculations, browsing the
+internet, texting, using apps, playing games, utilizing social
+media, and storing information.
+
+
+DIGITAL TECHNOLOGY 27
+.History of Digital Devices
+Another category of handheld computer is the personal
+translator. These small, inexpensive devices act like a “speak-
+ing dictionary,” so you can hear how to pronounce words and
+phrases in various languages and see how they are spelled on
+a display screen.
+In recent years, tablet computers have become popular
+handheld devices. Tablets are generally larger than a smart-
+phone. A tablet’s touchscreen allows the user to operate the
+device with finger or stylus
+gestures. Some models have
+detachable physical keyboards,
+but a tablet computer is gener-
+ally self-contained like a smart-
+phone, with an on-screen
+“virtual” keyboard for typing
+and on-screen icons for
+accessing the many software
+applications that run on
+these versatile devices.
+New software programs are continually introduced
+to take advantage of the increased power and to
+expand the ways in which we use computers.
+A Quick Response (QR) code is a two-dimensional
+bar code that is widely used to cause a webpage to
+download to the user’s smartphone when scanned
+with a mobile tagging application (app).
+
+
+28 DIGITAL TECHNOLOGY
+History of Digital Devices .
+The Web Is Born
+The 1990s brought another significant
+revolution: the rapid expansion of
+the internet and the World Wide
+Web, linking computers around the
+globe and changing the way people
+communicate and do business.
+Today, many activities we used
+to do in person can be done by
+connecting our digital devices to
+distant computers called servers or
+via Wi-Fi (a wireless network access
+point). By connecting to a server at
+a bank, for example, we can transfer
+money from one account to another
+or pay bills; by connecting to the
+server at a library, we can renew a book we checked out;
+by connecting to a server at an online store, we can order
+all manner of products and even rent movies. Students now
+check assignments due and turn in homework online through
+a website kept by their schools or teachers. There are online
+colleges that grant degrees for work done through the internet.
+See “The Internet and the World Wide Web”
+later in this pamphlet for more about
+online communications.
+
+
+DIGITAL TECHNOLOGY 29
+.History of Digital Devices
+Cloud Computing
+What do you get when you combine advances in software with
+advances in internet connectivity? One result is cloud computing. The
+term refers to the “cloud” of powerful computers (servers) scattered
+throughout the internet. Increasingly, these servers provide “tempo-
+rary” software that exists on a distant “cloud” and is loaded into a
+computer’s web browser only temporarily, while being used.
+You can visit a site, upload photographs, and edit them (say, mak-
+ing them sharper or more colorful) without actually downloading any
+software. An auxiliary program that temporarily loads into the web
+browser makes this possible.
+
+
+
+
+
+DIGITAL TECHNOLOGY 31
+.Performance of Digital Devices
+Performance of
+Digital Devices
+Every digital device—from large multiuser computing systems
+to a handheld mobile device—has a central processor and
+memory. These fundamental building blocks determine the
+system performance and ultimately what kind of experience
+awaits the device’s user.
+Central Processor
+The “brain” of a digital device is the central processing unit
+(CPU). This part has four main functions: It fetches instruc-
+tions from memory, decodes those instructions, executes the
+instructions, and places the result back in memory. All of these
+functions are typically contained in a single chip mounted on a
+circuit board. The CPU has many different circuits all working
+together to process and move the data around.
+
+
+32 DIGITAL TECHNOLOGY
+Performance of Digital Devices.
+Some CPUs contain multiples of these processors in a sin-
+gle part. A “quad-core” CPU has four CPUs on a single device.
+If a program is written to take advantage of the four proces-
+sors, they can share the workload and complete tasks sooner.
+In 1971, Intel’s first processor had 2,300 transistors
+in it. Today’s processors have more than 1 billion
+(that’s 1,000,000,000!). The transistor has gotten
+ever smaller over the years, and processors are
+doing more in less space, allowing huge computing
+power to be put into small devices like smartphones
+and tablets.
+The speed of early processors was measured in kilohertz
+(kHz): 1,000 cycles per second. Today’s processors are mea-
+sured in gigahertz (GHz) in billions of cycles per second. To
+get an idea of how much faster today’s processors are, think of
+sprinting coast-to-coast across America in no more time than it
+would take you to walk across your bedroom.
+Between 1993 and 1999, processor speeds increased
+tenfold. Since then, processor speeds have not
+even doubled. The reason for the declining rate of
+increase lies in the physical limitation of the silicon
+being used to make semiconductors.
+
+
+DIGITAL TECHNOLOGY 33
+.Performance of Digital Devices
+Most digital devices have
+coprocessors to help the CPU
+with specialized functions such
+as graphics and sound capabili-
+ties. This further improves the
+system performance. Collectively,
+the various components that per-
+form critical functions are known
+as the chipset.
+Memory
+The CPU and memory work
+closely together. Everything the
+CPU does comes from memory
+and ends up in memory. The two main types of memory are
+ROM (read-only memory) and RAM (random-access memory).
+ROM is permanent memory that remains in place even when
+the device is turned off. Information stored in ROM is “main-
+tained” in BIOS (Basic Input–Output System), a small program
+that starts—or boots—the digital device, checks its compo-
+nents, and launches the operating system.
+RAM is temporary memory. When you launch an applica-
+tion program, it is loaded into RAM. Information that you put
+into the device during a particular work session is stored in
+RAM. RAM remembers this information only while the com-
+puter is turned on. If you turn off the computer, everything in
+RAM is lost.
+
+
+34 DIGITAL TECHNOLOGY
+Flash memory is a type of memory that retains
+data after the device is turned off but can be used like
+RAM. Flash memory chips are found in digital cam-
+eras, handheld computers, cell phones, USB drives, and
+other devices.
+The speed of a digital device depends largely on
+how fast the CPU can store information into memory
+and retrieve information from it. In the 1960s, memory
+could be accessed only once every 10,000 nanosec-
+onds (that’s every 0.00001 seconds). Today, memory can be
+accessed every 60 nanoseconds (or once every 0.00000006
+seconds), which means memory speed has improved more
+than 10,000 percent.
+Flash card
+Storing Files in a Flash
+The portable USB flash drive (or thumb drive) is a
+handy little pocket device that allows you to easily
+transport files and take files anywhere you go.
+Just plug it into your computer’s USB port and
+it will pop up on the screen as a portable or
+removable device.
+
+
+DIGITAL TECHNOLOGY 35
+.Performance of Digital Devices
+Digital Device Performance
+Simply having a fast processor does not guarantee a fast
+device. The memory needs to be fast enough to keep up with
+the processor, and they must be connected to each other in
+a way that ensures data flows freely between them. Think
+of driving a high-performance racing car through a crowded
+city. That super-fast car is slowed by stoplights, pedestrians,
+and other traffic. Similarly with processors and memory, if the
+processor can’t access the memory because other devices like
+graphics cards also try to use the same “highway” called the
+data bus, then having a fast processor is of little advantage.
+Devices can be rated by the speed of this highway.
+Some devices use multiple buses to improve the
+flow of data between the processor and memory to
+improve system performance.
+
+
+
+
+
+DIGITAL TECHNOLOGY 37
+.Understanding Data and Files
+Understanding Data
+and Files
+Data and information are two terms commonly used to mean
+the same thing. However, each term has its own definition.
+“Data” refers to symbols—letters, numbers, and other char-
+acters—that may or may not have meaning. “Information”
+is data placed into a context that gives them meaning. For
+instance, a data set may include 89, 93, 85, 90, and 96. Alone,
+these numbers are data with little meaning. But if it is revealed
+that these numbers were the high temperatures of several con-
+secutive days or a student’s test scores in a course, then the
+data become information. Digital devices store data and can
+help organize data into context to make
+usable information.
+Almost all data is stored in the form
+of files. The many different types of files
+include number, text, picture, sound,
+and video files. The type, or format,
+of the file is identified by the suffix, or
+extension—usually several letters long—
+that follows a dot after the file name. For
+example, in the file name badger patrol.
+txt, the “.txt” indicates a text file.
+Software programs are set up to
+properly interpret specific types of files.
+Most programs can use multiple file for-
+mats. However, the types of files a pro-
+gram can interpret are typically limited
+to the program’s function; for instance,
+audio players can process only sound
+files and not spreadsheet files.
+Information
+89
+93 85 90
+96
+Test scores for
+John Doe Data
+Data
+Data
+Data
+Data
+
+
+38 DIGITAL TECHNOLOGY
+Understanding Data and Files .
+What Extension, Please?
+When creating a file name, using the correct
+extension is important, particularly if the file will
+be emailed to another computer or viewed on a
+webpage. If the servers that display webpages or
+help send email can’t read those extensions, they
+can’t tell the receiving device what sort of file it
+is receiving, and the recipient won’t be able to
+process the file.
+There are thousands of different types of files
+and file extensions. Some can be read only by
+a specific brand of device or software program.
+However, many popular file formats can now be
+read on any operating system as long as the digital
+device is running the required software.
+On many devices and in operating systems,
+these extensions are not displayed as commonly
+as they once were. In many cases, file types are
+distinguishable by the different icons.
+
+
+DIGITAL TECHNOLOGY 39
+.Understanding Data and Files
+Extension File Type
+Text files
+.txt ASCII text
+.doc or .docx Microsoft Word® (word processing)
+Document Files
+.pdf Portable document format for files compatible with the Adobe
+Acrobat® Reader; can include text and images
+Image files
+.jpg Popular for saving photographs; adjustable compression ratio to
+achieve exact desired file size
+.gif Nonphotographic images such as icons, buttons, drawings,
+and figures
+.png Image format with better color reproduction than .gif
+.bmp Short for bitmap, a standard Windows® graphics format
+.tif Offers a lossless way to compress graphics; produces much larger
+file than .jpg
+Presentation files
+.ppt or .pptx Microsoft PowerPoint®, a slide-based presentation program
+Spreadsheet files
+.xls or .xlsx Microsoft Excel®, a spreadsheet program
+Sound files
+.mp3 High compression of sound data with only a slight loss in quality
+.aiff, .au Macintosh®-platform sound file
+.wav Windows®-platform sound file
+.aac, .wma High compression; even better quality than .mp3 file
+Video files
+.avi Windows® video file
+.mov, .mpg,
+.mpeg Movie file in Mac® or Windows® platform
+Web files
+.htm, .html Hypertext markup language
+.asp, .aspx Active server page (.aspx is used for dynamic pages)
+.php Dynamic webpages
+.css Cascading style sheet
+
+
+40 DIGITAL TECHNOLOGY
+Understanding Data and Files .
+Storing Data
+Let’s look at some main types of data and how they are stored
+on digital devices.
+Numbers
+Think of a digital device as a collection of billions of circuits,
+each with just two positions, off and on. These two positions are
+represented by the numerals 0 and 1, which make up the binary
+number system. All data is stored on a digital device as groups
+of 0s and 1s. Each individual numeral is called a bit, short for
+binary digit. Bits are arranged in sets of eight bits, which is
+called a byte. The byte is a fundamental unit of data storage.
+For more
+about machine
+languages, see
+the Programming
+merit badge
+pamphlet.
+Bit
+Nibble =
+4 bits
+Byte = 8 bits
+Kilobyte = 1,024 bytes
+Megabyte = 1,024 kilobytes
+Gigabyte = 1,024 megabytes
+Terabyte = 1,024 gigabytes
+This binary code translates to “Boy Scouts of America.”
+
+
+DIGITAL TECHNOLOGY 41
+.Understanding Data and Files
+Binary numbers do not look much like the decimal
+numbers we are used to seeing. For example, writ-
+ten as a binary number, the decimal numeral 101 is
+01100101. Binary numbers make up machine code,
+the low-level language that digital devices translate
+all data into before performing operations on it.
+
+
+Understanding Data and Files .
+Text
+Text is stored using a special code corresponding to the num-
+bers between 0 and 255. The code is called ASCII (American
+Standard Code for Information Interchange). Similar to the way
+it stores decimal numbers, the device represents each text char-
+acter as a single byte of information. For example, the letter A
+is assigned the number 65 in ASCII code, which is 01000001 in
+binary form. ASCII text is stored without any formatting, such
+as indentations or boldface.
+Pictures
+Pictures are stored as a series of small dots called pixels. A mon-
+itor might display, for example, 1,024 x 768 pixels; each hori-
+zontal row contains 1,024 pixels, and there are 768 rows stacked
+vertically. In a black-and-white monitor, each pixel requires only
+one bit of information, telling it to display either 1 (black) or
+0 (white). A grayscale monitor designates up to 256 different
+shades of gray between black and white for each pixel.
+A device screen that is in color displays pixels with three
+color components—red, green, and blue. Different colors, dis-
+played in various shades and strengths, produce the desired final
+color. Eight bits of information per pixel will produce 256 differ-
+ent colors on the screen; 16 bits will produce 32,767 colors; and
+24 bits will produce 16.7 million colors—the maximum number
+the human eye can see, sometimes called true color.
+An ASCII text file is often referred to as a plain text
+file and can be read by almost any word-processing
+program. Depending on the program, you can add
+formatting and save the text in another format.
+
+
+DIGITAL TECHNOLOGY 43
+.Understanding Data and Files
+When digital cameras take pic-
+tures, the resolution, or number of
+pixels, is important for the quality
+of the picture. Each pixel is a dot
+that has information about the
+picture in that location.
+A television (old analog or
+today’s digital) also has pixels.
+For example, a high definition
+television labeled 1080i indicates
+that the picture is 1920 pixels wide
+by 1080 pixels tall. That means
+each picture has about 2.1 million
+pixels. This is also known as 2.1
+mega-pixels.
+Figure 1 is a “high” resolution
+picture of 1.4 mega-pixels. Figure
+2 is a “low” resolution picture of
+only 30 thousand pixels. Because
+Figure 2 has much less informa-
+tion about the image, it looks less
+crisp and clear.
+In Figure 3, we magnify a
+small section from the left-hand
+side of Figure 1. Some detail is
+still there, but individual pixels
+are starting to be noticed. This is
+sometimes called pixelation. In
+Figure 4, we magnify Figure 2.
+The individual pixels are clearly
+seen. Depending on the photog-
+rapher, a high or low resolution
+picture would be important.
+Figure 1, pixels, hi-res
+Figure 2, pixels, lo-res
+Figure 3, pixels, detail from Figure 1
+Figure 4, pixels, detail from Figure 2
+
+
+44 DIGITAL TECHNOLOGY
+Understanding Data and Files .
+Sound
+Sound is made up of vibrations that travel through the air by
+passing from one molecule to the next. These vibrations are
+called waves. If you could see them, they would look like the
+waves at the beach. The height, or amplitude, of the wave
+determines the volume or loudness. How close together the
+waves are determines the frequency, or pitch—whether it’s a
+bird’s whistle or a boom of a bass drum and how that sounds
+to your ear.
+A digital device “hears” through a microphone or media
+player, via an analog signal consisting of these sound waves.
+Compression
+Picture and image files are stored in many different
+formats. Some formats use specialized mathemati-
+cal formulas to compress the picture. The file takes
+up less disk space and is easier to email or display
+on the web, but some of the original data is lost,
+causing the expanded picture to be more blurry
+than the original. This is called lossy compression.
+Another type of compression, called lossless, can
+temporarily shrink a file by removing parts that are
+repeated and then, later, restore the file to its full
+size. Lossless compression is often used with text
+files and database files. Lossless compression is
+also used when you want to retain the original
+picture size and quality.
+
+
+.Understanding Data and Files
+The device’s audio circuitry feeds this signal through an ana-
+log-to-digital converter chip that converts the signal into bits
+that the computer can read and save as a digital file: basically
+a long list of 1’s and 0’s. When you replay the file, the data is
+sent back through a digital-to-analog chip, which rebuilds the
+shape of the wave and sends that information to the speakers,
+which vibrate the air, re-creating the original sound wave that
+you can hear.
+Video
+Faster microprocessors have made it possible for devices to
+display video. Digital video is projected much like traditional
+film in that digitally encoded pictures are flashed up on the
+screen in rapid succession to give the appearance of movement.
+However, storing all the digital pictures needed to make up one
+digital video requires enormous amounts of storage space. To
+reduce the amount of storage needed, video files use a type of
+digital compression where the first picture is stored in the video
+file and then only the changes to that picture are stored as the
+second picture. The third picture is made up of only the changes
+made by the combination of the first and second picture. Each
+succeeding picture is made up of the changes made from the
+previous composite image. This process continues for the entire
+movie. By using the image displayed on the screen and only
+storing the changes to the current display, the video file is able
+to eliminate lots of redundant information and compress the
+video to a manageable size.
+
+
+46 DIGITAL TECHNOLOGY
+Java is one of the most popular programming languages in the world because it
+is free and runs on many different platforms, a quality referred to as “Write Once,
+Run Anywhere.” Java is easy to learn if you are already familiar with another
+text-based language.
+
+
+DIGITAL TECHNOLOGY 47
+.Computer Software
+Computer Software
+Software, a set of instructions organized into a program, is
+what makes hardware work. The central processing unit (CPU)
+uses this list of instructions to move and manipulate data in
+the digital device.
+The three main categories of programs are operating
+systems, application programs, and programming languages.
+Operating systems control the basic operations of the com-
+puter and set up the environment for the applications to run.
+Application programs allow users to do specific tasks with
+their digital devices, such as write letters or touch up photo-
+graphs. Programming languages are used to write other pro-
+grams; for example, application programs.
+Operating Systems
+Operating system (OS) software is the foundation software on
+which all other programs run. This set of programs controls all
+of the digital device’s basic operations. This includes accept-
+ing input, displaying output on the monitor or graphic display,
+keeping track of files and directories on the hard drive or other
+internal storage, and controlling peripheral devices such as disk
+burners, printers, scanners, speakers, and the mouse.
+Because of the work done by the OS, programmers
+who create application software do not have to
+write code (instructions) into their applications to
+control these basic functions.
+Hardware is the physical, electronic, and electrical
+devices that make up a computing device, such as
+the CPU, disk drive, keyboard, and monitor.
+
+
+48 DIGITAL TECHNOLOGY
+Computer Software .
+Likewise, the OS adapts to upgrades to a computer’s
+hardware (for example, installing more RAM), automatically
+updating settings in the rest of the system. Another task of the
+OS is to serve as a kind of traffic cop, allocating processing
+power and memory space among the various programs that
+might be running at once while holding back some resources
+for use by the OS itself.
+Common operating systems are the Microsoft®
+Windows® series, the Macintosh® series, Android™
+OS, and the UNIX® family of operating systems,
+which includes freeware and inexpensive versions
+of what is known as Linux®.
+Applications
+As digital devices become more powerful, and as people think
+up new ways that computers can help us at school, work, and
+home, new application programs are continually being written.
+There is no limit to how many applications can exist. The fol-
+lowing are some of the most popular types of application pro-
+grams, but there are many others adapted to particular needs
+in science, business, industry, and personal use.
+Spreadsheet
+A spreadsheet performs arithmetic on numbers, which are
+arranged in rows and columns. The rows and columns inter-
+sect to form boxes, called cells. A formula is a function per-
+formed on numbers in particular cells—for example, adding
+the number in cell A1 to the number in cell A2, and having
+the sum appear in cell A3.
+The benefit of a spreadsheet is that if you change a num-
+ber in one cell, the program immediately recalculates the totals
+in the other cells that are affected by the change. This allows
+you to perform “what if?” operations. For example, you can
+figure out how many more Scouts could go to summer camp if
+the troop raised an additional $300 or $400 at car washes.
+Besides numbers, you can also type words in a spread-
+sheet, such as headings, names, and explanatory notes.
+Spreadsheets are useful for various types of reports, including
+fundraising reports, fitness logs, sports team records, travel
+budgets, currency conversions, and worksheets for car loans.PROGR AMMING
+STEM-BasedSTEM-Based
+For more
+about machine
+languages, see
+the Programming
+merit badge
+pamphlet.
+
+
+DIGITAL TECHNOLOGY 49
+.Computer Software
+Database Manager (DBM) Program
+Database manager (DBM) programs are used for organizing,
+storing, and keeping track of a set of information called a data-
+base. The data are organized in lines called records, with each
+record consisting of a number of fields. For each new record,
+the same set of fields is stored, with different contents in
+each field.
+A troop attendance database could be set up with a record
+for each Scout in the troop. Each record would consist of fields
+for the Scout’s name, patrol, rank, troop meeting attendance,
+campout attendance, and other events. An entry of “present”
+or “absent” could be made in the appropriate field of each
+Scout’s record after each activity. The Scoutmaster could easily
+see who attended a particular event. The DBM program could
+also calculate the percentage of participation for each activity.
+Word Processing Program
+Word-processing software programs are tools that make writ-
+ing—and formatting text—easier. Once words are typed into
+a document, they can easily be rearranged and corrected.
+Software may allow you to change the size and style (together,
+called the font) of the letters, as well as the color. You can eas-
+ily align paragraphs to the left, right, or center; add bullets or
+underlining; adjust the amount of indentation at the beginning
+of a paragraph; and alter the width of margins.
+Some programs let you add tables and graphics and will
+automatically number pages. You can check the spelling, make
+different versions of documents without completely retyping
+them, and print out your work.
+A DBM program
+can perform sort-
+ing and searches
+of the database
+information and
+produce neatly
+printed reports
+with graphs
+and charts.
+With the “mail merge” command,
+you can insert names and
+addresses from a database
+program into a form letter to
+send out personalized letters
+to a large group—to every
+Scout in your troop,
+for example.
+
+
+50 DIGITAL TECHNOLOGY
+Computer Software .
+Presentation Program
+A popular aid for public speaking, a presentation program
+lets you create screens or slides that list important points of
+your speech, as well as pictures, charts, graphs, and even
+sounds and animation. Slides you create can be projected
+onto a screen in front of your audience, and can be advanced
+from one slide to the next while you speak. Also, the text and
+graphics portion of your presentation can be printed and dis-
+tributed as handouts for your audience.
+Desktop Publishing and Graphic Design Software
+Desktop publishing programs allow you to design (or lay out)
+a page with various elements, including words, pictures, and
+drawings. The programs have special tools for formatting text,
+such as setting a headline in big, bold type; sizing images to
+fit the layout; and adding color backgrounds, shading, boxes,
+lines, and other design elements. Using a desktop publishing
+program, you can design a newsletter, a poster, or even a book.
+Graphics and design programs allow you to cre-
+ate and edit pictures or drawings. Paint or draw
+programs let you create images in two dimensions.
+Other programs allow you to draw in two or three
+dimensions and create sophisticated models.
+
+
+DIGITAL TECHNOLOGY 51
+.Computer Software
+Computer-Aided Drafting
+(CAD) Programs
+Three-dimensional CAD programs
+can be used to create wireframes,
+or outlines of objects, and solid
+models, which can show texture,
+light, and shadows. Automotive
+engineers use CAD programs to
+design automobiles, down to each
+individual part. Other engineers
+use CAD software to design circuit
+boards, bridges, or buildings.
+CAD software is also used by
+architects to design rooms or entire
+buildings. A designer usually starts
+drawing the walls of the structure
+by dragging the cursor across the
+screen with the mouse, and the
+program automatically adds dimensions. You can place furniture
+in a room—using pull-down menus for couches, tables, etc.—
+and input exact measurements to match your own furniture.
+Photo and Video Programs
+Using photo-editing software, you can
+enhance digital pictures by cropping,
+sharpening, adjusting brightness and
+contrast, deepening color saturation,
+correcting color hues, and otherwise
+improving your pictures. You can then
+print the touched-up photos and save them
+as digital files.
+Photo files can be saved at various
+resolution and compression levels,
+depending on how you will use an image.
+For printing, you want as high a resolution
+and as low a compression as possible,
+resulting in a large file size and sharp
+prints. For sending a photograph via email
+or displaying a photo on a website, you
+want low resolution and high compression,
+which produces a small file size that will
+quickly download to a viewer’s computer.
+CAD architecture software allows the user to
+create a floor plan like this that can be printed
+and shared.
+
+
+52 DIGITAL TECHNOLOGY
+Computer Software .
+Video editing programs turn a computer into a digital
+movie studio, allowing you to edit and enhance video footage
+taken from a digital device. The basic functions of these editing
+programs include cutting and rearranging video sections; add-
+ing transition effects such as fades and wipes between scenes;
+and adding titles and text, background music, and narration.
+Most digital cameras come bundled with image editors.
+Photo album programs help you organize your pic-
+ture collection electronically on a hard drive or com-
+pact disc (CD or DVD). This software may also let
+you create slideshows of your pictures that can be
+stored on a CD or DVD for playback on a computer
+or TV.
+
+
+DIGITAL TECHNOLOGY 53
+.Computer Software
+Webpage Editors
+Webpage editors are programs that help you create websites
+without having to write HTML, the best-known markup lan-
+guage used on the World Wide Web. Typically, these programs
+help you design your page—positioning text and graphics—by
+selecting commands from toolbars and icons. The editing pro-
+gram automatically creates the underlying code needed. Most
+webpage editors also allow you to add advanced features such
+as animation and scrolling text. The programs offer some help in
+publishing the webpages you have created onto the internet.
+Financial Programs
+Financial programs help users keep track of money. In their
+simplest form, they are like a checkbook that does all the addi-
+tion and subtraction for you. Financial software has additional
+features that allow you to generate reports, helping you track
+how you spend your money by categorizing expenses (enter-
+tainment, phone, school, and so on). A program can also help
+you create a budget so that you won’t overspend in particu-
+lar categories. This kind of software can be linked to bank
+accounts over the internet so a check register can be automati-
+cally updated, and funds can be transferred between checking
+and savings accounts.
+Media Players
+Media players help organize music. You can use these pro-
+grams to convert music from audio compact discs into files
+that can be stored digitally. You can also add songs that you
+have purchased. These programs let you create playlists of
+your favorite songs, “burn” songs onto CDs, and download
+your music files into portable music players.
+See “The Internet
+and the World
+Wide Web” later
+in this pamphlet.
+It is important to remember that
+copyrighted song files cannot
+legally be shared over the
+internet. See “Intellectual
+Property” later in this pamphlet.
+
+
+
+
+
+DIGITAL TECHNOLOGY 55
+.The Internet and the World Wide Web
+The Internet and the
+World Wide Web
+Two or more computers working together can do far more
+than a single computer. When computers are linked, their con-
+nection is called a network. It might be a local area network
+(LAN) contained within a single building; or a wide area net-
+work (WAN) covering a large region of the country.
+These small and midsized networks, in turn, are linked
+to form a much larger system that spans Earth. That system is
+called the internet. The internet, simply stated, is a network of
+networks. When connected to the internet, any digital device
+can communicate with any other digital device around the
+globe that is also connected to the internet.
+The amazing thing about the internet is that it does not
+rely on any one central computer
+to operate, nor even a central
+network. No one organiza-
+tion controls it. Instead, the
+internet operates across
+numerous high-speed
+networks maintained by
+various internet service
+providers (ISPs) and pri-
+vate networks operated by
+different companies.
+
+
+56 DIGITAL TECHNOLOGY
+The Internet and the World Wide Web.
+Origins of the Internet
+The internet’s origin can be traced to ARPANET, a small net-
+work launched in 1969 by the U.S. Department of Defense.
+ARPANET linked computers at various universities around
+the country. In 1974, researchers Robert Kahn and Vinton
+Cerf developed a way to join ARPANET with other similar
+networks. The networks were joined in 1983, and the internet
+was born.
+At first, all networks were connected to the internet
+through a “backbone” network. ARPANET was the first back-
+bone. Then came a high-speed network of supercomputers
+organized by the National Science Foundation. That backbone,
+in turn, was replaced by private high-speed networks.
+For years, only universities, military agencies, and defense
+contractors used the internet. But as private companies were
+allowed to join the internet, and as local area networks started
+getting connected, it became possible for people everywhere to
+use the internet, as well.
+The supercomputer is the fastest type of computer made. This is Titan, one of the
+world’s largest supercomputers.
+
+
+DIGITAL TECHNOLOGY 57
+.The Internet and the World Wide Web
+World Wide Web
+As the internet grew, a better way was needed to access and
+display the vast stores of information it held. That better
+way was the World Wide Web, developed in 1990 by Tim
+Berners-Lee, a British physicist and software consultant at
+CERN, the European particle physics laboratory. The web—
+consisting of documents called webpages—would eventually
+bring graphics, pictures, sound, animation, and video to the
+internet. However, its true brilliance was in the simple system
+of organization it provided.
+One of Berners-Lee’s two main innovations was the uni-
+form resource locator (URL), a form of address that can be
+used on any webpage or other file on the internet. His other
+important invention was hypertext markup language (HTML),
+a form of computer language for creating webpages that link
+to other webpages through clickable hypertext. A word in
+hypertext can be linked by way of a hidden URL to any other
+page, or part of a page, or file. Simply by clicking your cursor
+on the linked word, you can jump to some other location on
+the internet, even if it is stored on a computer far from the
+page where you started.
+Billions of
+webpages are
+indexed on the
+World Wide
+Web—and an
+endless number of
+pages is possible.
+The Incredible Optical Fiber
+Optic and photonic devices help make today’s internet work. Lasers,
+fiber optics, photonic switches, and photonic displays allow digital
+devices anywhere in the world to connect to each other, exchange
+information, and visually display that information. All information,
+like movies, phone calls, and emails, are converted into binary data,
+or ones and zeros, similar to the dots and dashes of Morse code on a
+telegraph line.
+
+
+58 DIGITAL TECHNOLOGY
+The Internet and the World Wide Web.
+Today, those ones and zeros of information known
+as “bits” are generated as pulses of light by turning
+a laser on and off. A small number of the bits are
+grouped together in what is called a packet with its
+own address or header, just like an old-fashioned
+letter, so they can get to the right place. These pack-
+ets of light pulse and then travel along a strand of
+glass called an optical fiber.
+An optical fiber is about the same size (approxi-
+mately 100 micrometers, or millionths of a meter)
+as a hair on your head. It can transmit as much
+information as more than 30 feet (10 meters) in
+diameter of copper telephone cables. A single fiber
+can carry more than 1 million phone calls at the
+same time.
+There are optical switches on the internet that
+get those packets from your computer to your
+friend’s computer, if it is an email, or from a special
+computer called a server, if it is a movie, video,
+website, etc. Near the end of the journey, the light
+pulses are converted back to electrical ones and
+zeros. Those electrical “bits” drive special photonic
+display devices (LEDs or LCDs) so you can see
+the information.
+In summary, the vast amount of information on
+the internet is available at your fingertips because
+optical fibers carry millions of times more bits of
+data over thousands of times greater distances than
+the copper cables they replaced. The only thing
+preventing you from getting even more information
+faster is the copper wire connecting you to the pho-
+tonic internet.
+
+
+DIGITAL TECHNOLOGY 59
+.The Internet and the World Wide Web
+Web Browsers and Helper Software
+To view webpages, you need a software program called a web
+browser. As webpages add video, sound, and animation, addi-
+tional software is needed to enable the browsers to use these
+multimedia elements. A helper software program “inserted”
+into a browser is referred to as a plug-in. When videos are
+uploaded to a popular website (YouTube, for example), the
+video files—no matter what format they were created with—
+are converted into Flash files, which are compressed (made
+smaller) for easy loading onto a webpage.
+Another kind of helper software used in web browsers is
+called a cookie. A cookie is a small data file transferred to your
+computer from a website. The cookie, which can contain infor-
+mation about you, such as your user name, language prefer-
+ences, or shopping preferences, stays on your computer and is
+loaded into your web browser the next time you visit the site.
+Cookies are retrieved from your computer each time you visit a
+website to allow your visits to have consistency.
+Third-party cookies are another type of cookie that can be
+placed on your computer. Typically these cookies are placed
+on a computer to track internet usage to be used in advertising
+and statistical analysis. All browsers allow you to manage and
+remove cookies that are stored on your computer.
+Widely used
+plug-ins include
+Adobe® Flash®
+and Adobe®
+Acrobat®, which
+allow webpages
+to display videos
+and PDF files.
+Most browser
+creators allow
+users to view and
+manage plug-ins
+or add-ins through
+the browser’s
+Tools menu.
+
+
+60 DIGITAL TECHNOLOGY
+The Internet and the World Wide Web.
+Protocols and Domains
+Every device connected to the internet can be identified by its
+unique internet protocol (IP) address. Every computer connect-
+ed to the internet has an IP address, either a permanent one
+or a different one that is assigned to the computer each time
+it connects. A typical IP address looks like this: 23.67.61.152.
+This is the same as typing www.scouting.org into a web
+browser. Finding devices by their IP addresses was difficult, so
+in 1983, the University of Wisconsin created the domain name
+system (DNS), which allows people to find a computer on the
+internet by a unique name connected to the IP address. (These
+names form part of the website’s URL.)
+Domain names, such as “www.scouting.org,” always have
+two or more parts separated by dots. The part of the name
+farthest to the right is the top-level domain—.com, .net, .org,
+.gov, .edu. The part to the left of the top-level domain (“scout-
+ing” in this example) is the host name. The top-level domain
+alone can tell you something about the website.
+• .com, .net, and .org—for general use
+• .gov—reserved for governmental agencies
+• .edu—for educational institutions, such as schools
+and colleges
+Once a particular domain name, such as www.scouting.
+org, has been registered, no one else can use it. A nonprofit
+group called ICANN (Internet Corporation for Assigned Names
+and Numbers) maintains the internet domain name system.
+ICANN regulates the buying and selling of domain names,
+which is handled by various private companies.
+Different countries have their own top-level domains.
+For example, .uk stands for United Kingdom, .au for
+Australia, .jp for Japan, .ru for Russia, and .ca for
+Canada. Websites with those letters at the end are likely
+to be based in those countries.
+
+
+DIGITAL TECHNOLOGY 61
+.The Internet and the World Wide Web
+Internet Security
+When most users type in a web address, they usually start
+with the “www” part of the URL. But in front of that is an
+important part which tells the browser how to communicate
+the information: http (plain text) or https (encrypted). HTTP,
+which stands for hypertext transfer protocol, is a set of stan-
+dards governing the exchange of data as text. This is the most
+common type of request sent through the internet.
+HTTPS, which stands for hyper-
+text transfer protocol secure, adds an
+additional layer to HTTP by encrypt-
+ing the information with Secure
+Sockets Layers (SSL) and adding
+more security around a web request
+using security certificates. You will
+typically see https used whenever
+you are asked to log in to a website
+or send personal information.
+Before sending personal infor-
+mation to a website that is requesting
+it, you should check that the site has appropriate security and
+a valid security certificate. web browsers (Internet Explorer,
+Firefox, and others) know how to trust HTTPS websites and
+typically represent secure websites with a lock icon in the URL
+address bar. You can click on the lock to see information on
+the website and security information. Check
+that the name on the certificate matches the
+website you are visiting and that it is still
+valid. When in doubt, stop and do not use
+the website.
+
+
+Instant Messaging, Texting, and
+Video Chatting
+Digital technology has made possible new forms of communi-
+cation. You know that email allows you to send a written mes-
+sage to any other email user in the world who has an email
+account that is connected to the internet. Another form of digi-
+tal communication is instant messaging (IM), by which people
+can communicate in real time, using digital devices. IM also
+lets users see whether a particular person is online and con-
+nected to make an instant-messaging exchange possible.
+Another kind of instant messaging is text messaging,
+usually done through a cell phone, which contains com-
+puter chips. Texting is good for quick communication at
+times when phone calls might be disruptive or impractical,
+or when a person isn’t available to take your call. Text
+messages can also be sent to order products or services,
+but you must be careful not to receive unwanted charges
+on your cell-phone bill this way.
+Video chatting allows you and a friend to talk to and
+see each other, turning your digital device into a sort of video
+telephone. You can use your computer or other device with
+a camera attached to stream the video and audio back and
+forth. Another way to do this is through your cell phone or
+mobile device using specialized streaming software.
+Search Engines
+The internet contains billions of pages of content. To find the
+information you need among all these pages, you use a search
+engine. Search engines use programs called crawlers to explore
+the web and build indexes of webpages.
+To use a search engine, you simply type in your search
+term (“court of
+honor,” for example),
+wait a moment, and
+then see a list of
+webpages pop up that
+contain the term you
+submitted. You can
+click on any of the
+listed pages that you
+want to view.
+
+
+DIGITAL TECHNOLOGY 63
+.The Internet and the World Wide Web
+Tips for Online Safety
+On the internet, you can have fun, play games, and take care
+of business. You can find help with your hobbies and interests,
+learn all sorts of things, click your way to a wide world of
+instant information, and even read books. Along with the con-
+venience of the internet, however, comes some risk.
+Stay Safe Online
+Learn about internet safety by viewing the Digital
+Safety video that is required for Scout rank. Together
+with NetSmartz.org, the BSA created this video to help
+educate Scouts about being safer online, cyberbullying,
+and internet scams, and to promote community
+awareness of internet safety issues. Before reviewing
+this video, Scouts should complete the exercises in
+the “How to Protect Your Children from Child Abuse: A
+Parent’s Guide” pamphlet with their parent or guardian.
+This pamphlet can be found in the front of the Scouts
+BSA Handbook. Find the video at www.scouting.org/
+training/youth-protection/scouts-bsa
+A computer can catch a malware infection from an
+email message, websites, downloaded programs, or
+infected disks.
+
+
+64 DIGITAL TECHNOLOGY
+The Internet and the World Wide Web.
+Protect Yourself
+When you are online, be careful to guard your
+privacy and protect yourself from potentially harm-
+ful situations. The following tips will help you stay
+safe. Your parent, merit badge counselor, or Scout
+leader may talk with you about other rules for inter-
+net safety. This information is covered in the Cyber
+Chip. To review, here are a few tips for keeping
+yourself safe and being a good online Scout.
+1. Follow your family’s rules for going online.
+Respect any limits on how long and how often
+you are allowed to be online and what sites you
+can visit. Do not visit areas that are off-limits. Just
+as there are places you don’t go to in real life,
+there are places to avoid on the internet.
+2. Protect your privacy. Never exchange emails or
+give out personal information such as your phone
+number, your address, your last name, where
+you go to school, or where your parents work,
+without first asking your parent’s permission. Do
+not send anyone your picture or any photographs
+unless you have your parent’s permission.
+
+
+DIGITAL TECHNOLOGY 65
+.The Internet and the World Wide Web
+3. Do not open emails or files you receive from
+people you don’t know or trust. If you get some-
+thing suspicious, trash it just as you would any
+other junk mail. It may contain a virus that can
+harm your computer just by opening the email.
+4. If you receive or discover information that
+makes you uncomfortable, leave it and tell your
+parent. Never respond to any message that is
+disturbing or hurtful.
+5. Never agree to get together with someone you
+“meet” online. Tell your parents if someone you
+don’t know tries to arrange a meeting with you.
+6. Never share your internet passwords with anyone
+(even if they sound “official”) other than your
+parents or other responsible adults in your family.
+7. Don’t believe everything you see or read online.
+Along with some great information, the internet
+has lots of junk. Learn to separate the useful
+from the worthless. Talk with your parents or
+merit badge counselor about ways to tell
+the difference.
+
+
+66 DIGITAL TECHNOLOGY
+The Internet and the World Wide Web.
+Protect Your Computer and Other Digital Devices
+Besides taking precautions to protect your personal safety
+online, you should protect your computer and other digital
+devices from a number of online dangers, including malware
+and theft of files. This applies not only to your home
+computer but also to any device that can be connected
+to the internet such as cell phones and internet-connected
+video game consoles.
+Malware is a term covering several types of harmful files,
+including viruses (software codes designed to harm your com-
+puter in some way, such as by destroying files or causing your
+computer to malfunction); worms (files that infect your com-
+puter and send out copies of themselves from your computer
+over the network); and trojan horses (programs that appear
+to do something useful but actually are harmful). Another
+form of malware is spyware. Such programs, often attached
+to some useful software, “spy” on you, tracking your move-
+ments on the web. Spyware can also install secret programs
+on your computer.
+
+
+DIGITAL TECHNOLOGY 67
+.The Internet and the World Wide Web
+Keep Your Digital Devices Healthy
+The following tips will help you keep your computer and other digital
+tools safe. Your parent, counselor, or librarian may talk with you about
+other rules for avoiding viruses.
+1. Look carefully at the return address of all email messages you
+receive, especially those that arrive with attachments. Download
+a file only from someone you trust; even then, be suspicious.
+Sometimes a virus can be sent from a friend’s computer without the
+person’s knowledge if the computer is infected. Be particularly wary
+of a file attachment with a name ending with “.exe,” which indicates
+an “executable” program file that may harm your system.
+2. Install antivirus software on your computer and keep it updated. The
+software can be set to automatically look for viruses on your hard
+drive, to scan disks and files that you put into your computer, and to
+scan email attachments that you receive.
+3. Do not open email that appears to be spam, or junk mail, which may
+only be trying to sell you something but could also introduce a virus
+into your computer or other device.
+4. Back up your important files regularly onto optical storage media
+(CDs, DVDs), flash drives, or extra hard drives. (There are also
+online backup services available for a yearly fee.) It is prudent to
+make your backup redundant; that is, back up to more than one type
+of media. Be sure to scan your backup media for malware, too.
+5. Buy software only from trusted sources. Unauthorized copies of
+software programs often contain viruses and should be avoided.
+6. For added protection, use a firewall, which can consist of software,
+hardware, or both, to keep intruders from looking at and possibly
+stealing private information stored on your hard drive, such as pass-
+words or credit card numbers. Using a firewall is particularly wise if
+you have a broadband connection to the internet. The latest versions
+of Windows® and Macintosh® operating systems have built-in fire-
+walls that you can activate to protect your computer online.
+7. Keep your digital device software up-to-date. Software creators often
+release updates as they fix issues with their software that can lead
+to security problems. You can help protect your devices by keep-
+ing up to date with these releases. Never update your computer or
+other device without your parent’s permission.
+
+
+
+
+
+DIGITAL TECHNOLOGY 69
+.Digital Technology at Work
+Digital Technology
+at Work
+Today, digital-technology skills are useful in almost every pro-
+fession. As technology has become cheaper and more power-
+ful, it has spread into practically all aspects of business includ-
+ing agriculture, medicine, landscape design, and aerospace.
+Almost all industries use digital technology for at least one part
+of their operations. Employees use computers to perform vari-
+ous tasks. Companies use websites and social media to com-
+municate with customers. Technology has become an integral
+piece of business.
+Basic application programs—word processing, spread-
+sheets, etc.—are used throughout the economy. But beyond
+that, each industry uses specialized software, and often spe-
+cialized technology, tailored for the specific needs of the trade.
+• Graphic designers and special-effects creators use computers
+to produce special film sequences for movies and
+television commercials.
+• Air-traffic controllers who guide commercial airplanes use
+sophisticated systems to help them do their jobs.
+• Music publishers record and edit
+music digitally.
+• Newspaper and magazine publishers use computers to edit
+and design print products and online publications.
+• Professional translators use digital devices to automatically
+translate writing from one language into another.
+• Doctors store and retrieve digital medical records of their
+patients and access medical information that can help diag-
+nose and treat illness.
+• Hospitals use software-controlled robots for surgery and
+digital techniques for medical images.
+Computer-driven
+robots are used
+in manufacturing,
+where they
+provide precise
+control of
+sophisticated
+equipment.
+
+
+70 DIGITAL TECHNOLOGY
+Digital Technology at Work.
+• Architects use software, such as CAD, to help them
+design buildings.
+• Retail workers such as cashiers and stockers use digital
+devices to track the store’s inventory both into the store and
+then out through the registers.
+The list of career uses for digital technology can be end-
+less. When exploring any career field that interests you, look at
+how that field uses digital technology to enhance and simplify
+the work.
+Video Games: More Than Just Fun
+The video game business, which today employs thousands of
+people, did not exist before digital technology was invented.
+In only a few decades, the business has grown from a small
+niche market to a major industry. In 2012, more than 214 mil-
+lion video games were sold in the United States, or more than
+two games for every household in America. Globally, the video
+game industry sells more than 500 million games annually.
+In the early days of video games, in the late 1970s and
+early 1980s, many games were developed by one or two peo-
+ple working alone on their computers. Graphics were simple.
+Game play was crude and unsophisticated. Today, however,
+video games are often large-scale productions involving entire
+teams of individuals working on different parts of the game.
+
+
+DIGITAL TECHNOLOGY 71
+.Digital Technology at Work
+Positions in the video game industry
+include lead programmers, special-effects
+programmers, audio programmers, sound
+engineers, composers, art directors, game
+designers, level designers, screenwrit-
+ers, project managers, and game testers.
+Developing a game can take months or years
+of work and cost millions of dollars, but the
+profits of a successful game can be huge.
+Recently, sales of video games reached
+over $10 billion per year in the United States
+alone. If games played on social media and
+mobile apps are added, this figure rises to
+$15.9 billion. Electronic games are played
+in 65 percent of American households.
+Responding to the demand, more than 200 colleges, universi-
+ties, and design schools now offer courses or degree programs
+in game development and digital media.
+Preparing for Your Visit
+As you prepare to visit a business or an industrial facility that
+uses digital technology, consider a grocery store, school, manu-
+facturing facility, office, or even your local library. Here are
+some things to investigate on your visit.
+1. What types of digital technology are used—scanners, print-
+ers, smartphones, tablets, price-check stations, and so on.
+2. What types of software programs are most useful to the
+organization—inventory, office applications, or mobile
+apps, etc.
+3. Whether any specialized software had to be written to meet
+the organization’s particular needs.
+4. What kind of digital technology skills the organization
+seeks in newly hired employees.
+5. How the internet has changed the way the organization
+operates. Ask whether the organization has a website and
+how many employees it takes to maintain the site. Ask if
+the organization participates in social media and whether it
+maintains a blog.
+
+
+
+
+
+DIGITAL TECHNOLOGY 73
+.Recycling E-Waste
+Recycling E-Waste
+New and exciting digital technology emerges every day to cap-
+ture our imaginations and improve our lives. Digital technology
+is changing so rapidly that yesterday’s wonder gizmo is today’s
+outdated trash, filling landfills with e-waste. Most discarded
+digital technology is loaded with toxic chemicals like lead,
+bromine, cadmium, chlorine, and mercury.
+According to the Environmental Protection Agency,
+Americans throw away 125 million phones each year, creating
+65,000 tons of waste. When digital technology is dumped in
+landfills, dangerous chemicals can leak into groundwater. When
+incinerated, the toxic chemicals contaminate the air. More than
+half the states have banned electronics from landfills.
+Manufacturers recognize the environmental issues and are
+shifting to manufacturing processes that minimize the use of
+hazardous chemicals, including:
+• Reducing or eliminating lead solder
+• Using less hazardous resins in plastics
+• Using mercury-free flat-panel liquid crystal displays (LCD)
+and arsenic-free glass
+• Using bromine-free and chlorine-free printed circuit
+board laminates
+• Moving to less toxic and reactive phosphorous-based flame-
+retardant chemicals
+Because many recyclers are not equipped to responsibly
+recycle electronics, it is important to help ensure proper dispos-
+al of e-waste and use a certified recycler. Certified electronics
+recyclers meet high standards for data privacy, environmental
+responsibility, and employee health.
+You can learn
+about certified
+recyclers by
+visiting the
+Environmental
+Protection
+Agency’s website;
+see the resources
+section.
+
+
+74 DIGITAL TECHNOLOGY
+Recycling E-Waste .
+Batteries
+Batteries are a special concern since every
+mobile device uses some kind of battery.
+While today’s household batteries—the
+common AA, AAA, C, and D cell alkaline
+batteries—are not thought to pose a sig-
+nificant hazard because they contain
+much less mercury than they used
+to, it is still best to recycle them
+and not discard them in the trash.
+Batteries are not biodegradable, and
+some of their properties can contaminate groundwater.
+Rechargeable batteries are a significant problem, because
+they are used in almost every mobile device in the market.
+These contain toxic metals and can be hazardous in landfills
+and incinerator emissions.
+When recycling batteries, it is important to cover
+the contacts with electrical tape to prevent a short,
+which could start a fire.
+The battery industry sponsors the Rechargeable Battery
+Recycling Corporation (RBRC), which is dedicated to the
+collection and disposal of rechargeable batteries. Many home
+improvement stores participate in this program. You can
+probably find a participating store in your community.
+WHAT HAPPENS TO MY DATA?
+A proper recycling center will remove all data
+before reusing your old digital technology. But
+why depend on others to do it? Always follow the
+manufacturer’s guidelines to remove personal data
+from your device so thieves can’t use your data. Not
+deleting your data is like throwing important papers
+in the trash without first shredding them. Note that
+simply reformatting or resetting your old device
+may leave your data subject to recovery. Be sure to
+use an application which “sanitizes”
+data completely.
+For more infor-
+mation about
+recycling
+batteries, see
+the resources
+section.
+
+
+DIGITAL TECHNOLOGY 75
+.Recycling E-Waste
+How Can I Help?
+Do your part to reduce e-waste by follow-
+ing the four R’s of digital-device disposal:
+Reuse. The best form of recycling is
+to donate your old digital technology to a
+good cause. A quick internet search will
+identify charities that will take and refur-
+bish your old technology for people who
+can’t afford brand-new products, or for
+residents of third-world countries where
+digital technology is not readily available.
+Recycle. According to the EPA, for every million cell
+phones we recycle, 35,000 pounds of copper, 772 pounds of
+silver, 75 pounds of gold, and 33 pounds of palladium can be
+recovered. Many companies will responsibly recycle digital
+e-waste for you; make sure you use a certified recycler.
+Refurbish. Several companies buy old digital technology,
+refurbish it, and then resell it. This is another form of recycling
+that helps everyone involved. Many refurbishers will buy old
+technology even if it doesn’t work properly and use certain
+parts to fix other devices. See the resources section at the end
+of this pamphlet for more information.
+Reduce. The best way to reduce the amount of e-waste
+is to simply use less stuff. Do you really need three or four
+devices that play music, or could you get by with one or two?
+Do you really need the latest cell phone, or could you wait a
+year or two?
+How Scouts Can Be Involved
+Why not start your own recycling
+effort in your community? Think
+about how you can educate your
+community about e-waste and set
+up drop boxes for digital technol-
+ogy that you could then send
+to recycling and reuse centers.
+You might even sell the devices
+you collect to a refurbishing com-
+pany and use the proceeds for
+your troop.
+
+
+
+
+
+DIGITAL TECHNOLOGY 77
+.Intellectual Property
+Intellectual Property
+Ideas are referred to as intellectual property. Intellectual prop-
+erty laws are set up to protect unique and original ideas by
+establishing and defining the rights of those who create, own,
+and use them. The laws seek to balance the benefits of copy-
+ing, sharing, and spreading ideas while making it worthwhile
+for people to produce new ideas.
+Digital technology has made it much easier for people to
+copy, share, and spread ideas, whether or not they own the
+ideas. Technology allows people to mash up songs and videos,
+manipulate images, and duplicate and use apps on different
+devices. Creatively, this enables people with artistic skills to
+put new spins on existing ideas. When it comes to innovation,
+people can spend more time adjusting, enhancing, and tweak-
+ing ideas without the need to start from scratch.
+There is a downside to copying, sharing, and spreading
+ideas—especially the ideas of others. Allowing people who cre-
+ate ideas to enjoy the recognition and to profit from their hard
+work is important in motivating people to produce new ideas
+and materials.
+In the United States, everyone is entitled to intellectual
+property rights. For example, a record company has the right
+to protect and profit from a song that it produces and releases,
+just as an individual has the right to protect and profit from
+a song that he or she writes and performs. A record company
+may have the right to use a portion of another company’s or
+artist’s song in one of their songs, just as an individual may
+also use a portion of another person’s or company’s song. It all
+depends on the intellectual property laws and how they apply.
+Laws help protect intellectual property. Every Scout
+needs to make sure to respect those laws and the
+intellectual property created by others.
+
+
+78 DIGITAL TECHNOLOGY
+Intellectual Property .
+Intellectual Property Protections
+Intellectual property, or IP, refers to creations that cannot be
+touched or held, such as ideas, plans, and designs. The major
+types of intellectual property protection include copyright, pat-
+ents, trade secrets, and trademarks. Each type protects different
+aspects of ideas and has its own rules. The information below
+provides an overview.
+Copyright
+Copyright law protects the creative, original expression of an
+idea, not the idea itself. Examples of copyrighted works include
+books, magazine articles, movies, music, plays, sculptures,
+paintings, software, and photos. Under copyright law, protected
+items are called “works of authorship,” and their creators are
+called “authors.” Copyright law
+gives the copyright owner a set of
+exclusive rights to:
+• Reproduce the work.
+• Make “derivative works” of
+the original work.
+• Distribute copies of the work.
+• Publicly perform the work.
+• Publicly display a work.
+• Perform an audio
+recording via a digital
+audio transmission.
+A Scout Is Trustworthy
+Scouting promotes hard work, creativity, and
+innovation, and acting in an honest and respectful
+fashion. Scouts should strive to create new ideas
+and use existing ideas in a manner that respects
+the hard work and the desires of the creators and
+owners of those ideas.
+
+
+DIGITAL TECHNOLOGY 79
+.Intellectual Property
+Keep in mind that copyright protects a set of
+legal rights; it does not cover ownership of copies
+of the works themselves. Just because a reader
+owns a single copy of a book or movie on DVD
+does not mean the reader can legally make cop-
+ies of those works. However, although the copy-
+right owner has the right to publish, reproduce,
+and distribute a work, people are entitled to
+resell items they have legally purchased. For instance, a person
+can sell his or her books.
+A “derivative work” is a work based on another work. If
+someone translates an English-language book into French, the
+French version is a derivative work. Also, if a producer creates
+a movie based on a book, the movie is a derivative work of
+the book.
+Copying another person’s ideas may or may not
+infringe upon or violate the person’s intellectual
+property rights. Under certain circumstances and
+limitations, the legal doctrine known as “fair use”
+enables people to use a limited portion of copy-
+righted works without obtaining permission.
+The length of copyright protection can vary. Typically it is
+the lifespan of the author plus 70 years, but under certain con-
+ditions it can be longer. The Library of Congress has tools that
+can help determine whether copyright protection on a work is
+still in force.
+Works no longer protected by copyright are in the public
+domain. Anyone can use such works without obtaining permis-
+sion or approval from the rights holder. For instance, Sir Arthur
+Conan Doyle’s novels about Sherlock Holmes have entered into
+the public domain, allowing people to make new movies and
+television shows featuring Holmes or a Holmes-like character.
+These new creations have their own copyright protections.
+
+
+80 DIGITAL TECHNOLOGY
+Intellectual Property .
+One major restriction imposed by copyright law is that
+you cannot make illegal copies of protected works. Trading in
+illegal copies of copyrighted works is called piracy.
+Unfortunately, digital technology makes it easy to produce
+exact digital copies of certain kinds of intellectual property,
+including copyrighted software programs, games, music, photo-
+graphs, books or articles, and movies. Worsening the problem
+is the illegal sharing of these pirated copies over the internet
+through the use of file-sharing networks. These networks make
+piracy easy and seemingly secret.
+Not all copying is illegal. When you buy recorded music,
+you usually are allowed to copy it for your personal use.
+However, it is illegal to give copies of music or software to
+your friends. If you do, you are committing a crime. If you
+download pirated files into your computer, you also run the
+risk of downloading a virus that can harm your computer and
+data files.
+Look at the copyright notice on page 2 of
+this merit badge pamphlet. The information
+follows the copyright symbol: © (a circled
+capital C). What does the information tell
+you? Also look at the acknowledgments in
+the back of the pamphlet. What images in
+this publication are copyrighted? All merit
+badge pamphlets comply with intellectual
+property laws.
+Copying songs and books like this merit badge
+pamphlet is like stealing anything else, and it is
+wrong. You would not shoplift a CD at the music
+store or sneak in at a concert to listen for free.
+Similarly, you should not make copies of songs,
+books, and other copyrighted materials for friends.
+
+
+DIGITAL TECHNOLOGY 81
+.Intellectual Property
+Patent
+A patent, issued by the U.S. government, grants certain exclu-
+sive rights in an invention for a limited term, typically 14 to 20
+years. Patent law gives the inventor the right to exclude others
+from making, using, offering for sale, or selling the invention
+throughout the United States or importing the invention into
+the United States. In exchange for these exclusive rights, the
+inventor must publicly disclose the invention. After the patent
+expires, anyone is free to use the invention.
+In the United States, an inventor must file a patent appli-
+cation with the U.S. Patent and Trademark Office. The govern-
+ment will grant a patent only after an examiner has looked at
+the application and is satisfied that it meets the requirements.
+For more about patents and the rights of inventors, see the
+Inventing merit badge pamphlet.
+Trade Secrets
+Unlike copyright and patent law, trade secrets are covered by
+state law. In most states, the four requirements for trade secret
+protection are:
+• The confidential information provides a competitive edge for
+a business.
+• The information has value.
+• The information is not generally known.
+• The information’s owner protects it through
+reasonable measures to maintain its secrecy.
+As long as the business ensures that the
+information continues to meet these require-
+ments, the business can maintain trade secret
+protection indefinitely. Unlike patents, no
+registration with a government agency is
+necessary to obtain or maintain trade
+secret protection.
+Foreign governments also issue patents that
+provide protection within their countries.
+
+
+82 DIGITAL TECHNOLOGY
+Intellectual Property .
+Trademarks
+A trademark (identified with a ™ or ®) is any word, name,
+logo, symbol, or device, or a combination of them, used to
+identify and distinguish the goods or products of a business.
+Some famous trademarks are Coca-Cola®, McDonald’s®, and
+Apple®. You are also likely familiar with the trademarked logos
+of well-known companies, such as the golden arches of the
+McDonald’s® restaurant chain. Unlike copyrights and patents,
+trademark rights continue indefinitely as long as the owner
+continues to use the mark.
+In the United States, it is possible to obtain limited pro-
+tection of a mark without registration. As soon as a business
+starts using the mark, the business obtains some protection of
+the mark as an unregistered trademark. Registration of a mark
+with the U.S. Patent and Trademark Office gives the mark’s
+owner additional benefits. Businesses can also obtain trade-
+mark registrations from foreign governments.
+The trademark symbol ™ may be used with any
+mark. But the registered trademark symbol ® may
+only be used by the owner of a mark following reg-
+istration with the U.S. Patent and Trademark Office.
+
+
+DIGITAL TECHNOLOGY 83
+.Intellectual Property
+Piracy
+The unauthorized use of
+another person’s intellectual
+property is called piracy. As an
+example, software piracy is a
+costly, worldwide problem.
+According to the Business
+Software Alliance’s 2011 Global
+Software Piracy Study: “[T]he
+global piracy rate hovered at 42
+percent in 2011 while a steadily
+expanding marketplace in the
+developing world drove the commercial value of software theft
+to $63.4 billion.” It is not a victimless crime.
+The Federal Bureau of
+Investigation is charged
+by the U.S. government
+to investigate piracy
+and intellectual property
+theft. This includes ideas,
+inventions, and creative
+expressions, such as trade
+secrets, music, movies,
+and software. The FBI’s
+Anti-Piracy Warning Seal is used to help “detect and
+deter criminal violations of U.S. intellectual property
+laws by educating the public about the existence of
+these laws and the authority of the FBI to enforce
+them.” You have probably seen this seal alongside the
+following text:
+The unauthorized reproduction or distribution of
+a copyrighted work is illegal. Criminal copyright
+infringement, including infringement without
+monetary gain, is investigated by the FBI and is
+punishable by fines and federal imprisonment.
+
+
+
+
+
+DIGITAL TECHNOLOGY 85
+Glossary
+analog. Describes a device or information that is continually
+variable, like a clock or a sound wave. The opposite of digital.
+binary. A numbering system that uses only two digits. In digi-
+tal technology, the two digits are 1 and 0, which represent
+turning an electronic circuit on and off.
+bitmap. A grid on a computer screen made up of individual
+dots or pixels. The file name extension is “.bmp” and is a stan-
+dard image format for personal computers.
+browser. A program that lets users find
+and explore information on the World
+Wide Web, including text, graphics, sound,
+and video.
+cloud computing. Applications and data
+storage, management, and processing
+offered over the internet, on shared
+computing resources rather than individual
+personal devices.
+compression. Shrinking a file. Compression
+can be lossless (preserving all the data in a
+file) or lossy, (some data is deleted).
+cookie. A small file downloaded from a
+website to your computer to store informa-
+tion about your activity at the site, such as
+what items you placed in your “shopping
+cart” at a store website.
+digitize. To change something such as a
+picture or a sound into a form that a com-
+puter can understand.
+
+
+86 DIGITAL TECHNOLOGY
+Glossary .
+download. Transferring information “down” from someone
+else’s computer to one’s own computer, by way of a local area
+network connection or the internet.
+driver. A small computer program that allows the computer to
+communicate with a peripheral device, such as a printer
+or scanner.
+field. Part of a database in which a specific type of information
+is stored, such as telephone numbers.
+firewall. Software or hardware that protects a com-
+puter or a private network of computers from other
+computers on the internet.
+freeware. Software that is not copyrighted and can be
+used and copied by anyone. Also known as public-
+domain software.
+hard drive. A rigid disk consisting of several platters
+that store information in magnetic form, usually
+installed inside a computer.
+HTML (hypertext markup language). The basic language
+for displaying text and pictures on websites and linking
+webpages together.
+integrated circuit. A group of related circuits all manu-
+factured together on a single chip.
+local area network. A computer network
+within a single office, building, or other site.
+lossless/lossy. Compression can be lossless
+(preserving all the data in a file) or lossy, in
+which some data is deleted.
+machine code. A programming language made up
+of sets of binary codes that a computer uses to pass instruc-
+tions back and forth among its parts. Sometimes called low-
+level code.
+malware. Damaging or “malicious” software intended to dis-
+rupt a network or a single computer. Types of malware include
+viruses, worms, and trojan horses.
+memory. Where a computer stores information, for example,
+in RAM or ROM, or on compact discs or hard drives.
+microchip. Integrated circuit.
+Integrated circuit
+
+
+DIGITAL TECHNOLOGY 87
+microprocessor. The “brain” of a microcom-
+puter, or personal computer.
+motherboard. The main circuit board of a com-
+puter, which contains the central processing unit.
+network. A group of connected computers.
+operating system. Software that allows the computer to
+perform basic functions.
+output device. Any device such as a monitor, printer, or
+sound card that allows information to be sent out from
+a computer.
+pixel. Short for picture element. A single dot on a
+computer screen.
+port. A place on a computer where accessories and
+peripherals can be plugged in and connected.
+protocol. The rules computers use to commu-
+nicate with each other.
+RAM (random-access memory). Temporary memory
+that the computer uses to store programs and information
+until the computer is turned off.
+read. To retrieve information or a program from storage and
+put it into the computer’s internal memory. The opposite
+of write.
+resolution. Describes how much detail is used to print an
+image (in dots per inch, or DPI) or display it on a computer
+monitor (in number of pixels wide by number of pixels high).
+ROM (read-only memory). Permanent, unchangeable memory
+used to store basic instructions the computer needs in order
+to operate.
+router. A device or software that
+serves as a bridge between two or
+more networks. A router determines
+the best route for sending a packet
+of data to its destination.
+Microprocessor
+Ports
+Router
+
+
+88 DIGITAL TECHNOLOGY
+Glossary .
+security certificate. A digital
+certificate that authenticates
+business websites and secures
+email messages, allowing users
+to verify the identity of
+the company or person
+with whom they are
+doing business.
+server. A computer on a
+network that manages
+shared resources, such as
+files or webpages.
+shareware. Software that a user pays for after trying it and
+deciding to use it.
+sound digitizer. A circuit that converts sound into digital form.
+trojan horse. A virus or harmful computer program disguised
+to look like a useful program, such as a screensaver.
+uniform resource locator (URL). A location or address identi-
+fying where documents can be found on the internet; also
+known as a web address.
+upload. To transfer information from one’s own computer
+“up” to someone else’s computer via a local area network or
+the internet.
+USB (universal serial bus) port. The device used to
+connect all such peripheral devices.
+Wi-Fi (wireless fidelity). A
+method of connecting comput-
+ers on a network with radio
+signals rather than wires.
+
+
+DIGITAL TECHNOLOGY 89
+.Glossary
+
+
+
+
+
+DIGITAL TECHNOLOGY 91
+.Digital Technology Resources
+Digital Technology Resources
+Scouting Literature
+Drafting, Electricity, Electronics,
+Engineering, Game Design, Graphic
+Arts, Inventing, Photography,
+Programming, and Robotics merit
+badge pamphlets
+With your parent’s permission, visit
+the Boy Scouts of America’s official
+retail website, www.scoutshop.org,
+for a complete listing of all merit
+badge pamphlets and other helpful
+Scouting materials and supplies.
+Organizations and Websites
+American Society for
+Engineering Education
+www.asee.org
+Computer and Information
+Technology Occupations
+Occupational Outlook Handbook:
+www.bls.gov/ooh/computer-and-
+information-technology/home.htm
+Computer History Museum
+www.computerhistory.org
+Entertainment Software Association
+www.theesa.com
+Environmental Protection Agency
+www.epa.gov
+IEEE (Institute of Electrical
+and Electronics Engineers)
+www.ieee.org
+IEEE Computer Society
+www.computer.org
+International Game Developers
+Association
+www.igda.org
+International Intellectual
+Property Alliance
+www.iipa.org
+Library of Congress
+www.loc.gov
+Recording Industry Association
+of America
+www.riaa.com
+U.S. Patent and Trademark Office
+www.uspto.gov
+World Wide Web Consortium
+www.w3.org
+
+
+92 DIGITAL TECHNOLOGY
+Digital Technology Resources.
+E-Waste Resources
+Call2Recycle
+www.call2recycle.org
+Earth911
+earth911.com
+Terracycle
+www.terracycle.com/en-US
+Acknowledgments
+The Boy Scouts of America grate-
+fully acknowledges the team that
+helped update this edition of Digital
+Technology, which replaces the
+Computers merit badge pamphlet:
+Celeste Rance—Digital
+Technology merit badge lead;
+coauthor, Programming merit badge
+pamphlet; software development
+manager, Pearson
+Rick Folea—Eagle Scout;
+Programming merit badge lead;
+coauthor, Robotics merit badge
+pamphlet; AutomationDirect.com
+Laszlo Hideg—Ph.D., P.E.—
+Transmission Algorithms and Control,
+GM Powertrain; coauthor, Robotics and
+Programming merit badge pamphlets;
+FIRST® Robotics competition judge
+and volunteer
+Steve Petersen—Eagle Scout;
+BSA Cyber Chip codeveloper; web
+development professional
+Robert J. Caruso, CISSP—
+Information security architect, Battelle
+Memorial Institute; inventor and
+software product developer; U.S.
+CyberPatriot mentor and lifelong
+Scouter; coauthor, Programming merit
+badge pamphlet; BSA Cyber
+Chip codeveloper
+Steve Wincor—Chief systems
+architect, Lockheed Martin; BSA
+Nova Awards mentor; coauthor,
+Programming merit badge pamphlet;
+BSA Cyber Chip codeveloper
+Dr. Philip Stahl, Ph.D.—Eagle
+Scout; senior optical physicist, NASA;
+2014 president, SPIE (Society of Photo-
+Optical Instrumentation Engineers)
+Thanks also to Eagle Scout
+Christopher Hideg for his assistance
+with sidebars for this merit
+badge pamphlet.
+We appreciate Scott Stuckey for
+writing the previous edition of the
+Computers merit badge pamphlet,
+upon some of which this new pam-
+phlet is based. Mr. Stuckey is a former
+editor of Scout Life magazine.
+The BSA is grateful to the
+Components, Packaging, and
+Manufacturing Technology Society
+of the Institute of Electrical and
+Electronics Engineers, in particular
+longtime national Scout jamboree staff
+member Ralph W. Russell II, IEEE
+Precollege Education Coordinating
+Committee, for their assistance with
+previous editions of the Computers
+merit badge pamphlet that formed the
+basis for much of this revised edition.
+
+
+DIGITAL TECHNOLOGY 93
+.Digital Technology Resources
+Photo and Illustration Credits
+American Museum of Radio,
+courtesy—page 16 (transistor)
+Apple Computer Inc., courtesy—page
+16 (Macintosh®)
+Federal Bureau of Investigation,
+courtesy—page 83 (FBI logo)
+Christopher Folea, courtesy—cover
+(e-recycling logo)
+Rick Folea, courtesy—page 75 (Scout)
+Christopher Hideg, courtesy—
+page 43 (all)
+Library of Congress, Prints and
+Photographs Division, courtesy—
+pages 16 (Babbage) and
+20 (Edison)
+MIT Museum, courtesy—
+page 21 (Bush)
+NASA, courtesy—page 23
+Oak Ridge Leadership Computing
+Facility at the Oak Ridge National
+Laboratory, courtesy—page 56
+University of Pennsylvania, courtesy—
+page 22
+Wikipedia.org—pages 17, 18 (Pascal,
+King), 19, 20 (Hollerith), and 24
+Wikipedia.org/Asim18—page 25
+Wikipedia.org/Gwern—page 21
+(punched card)
+Wikipedia.org/Adam Schuster—page
+16 (Hollerith’s electric tabulator)
+All other photos and illustrations not
+mentioned above are the prop-
+erty of or are protected by the Boy
+Scouts of America.
+Brian Payne—page 12 (youth)
+
+
+Notes
+
+
+Notes
+
+
+Get ahead in Scouting with Scout Life magazine. It’s loaded with the
+latest news on merit badges and other advancement tools. Plus, it’s got
+outdoor adventure, games and comics, leadership tips, life skills, stories
+about other Scouts and more. It’s just what you need to succeed.
+Subscribe today at go.scoutlife.org/subscribe
+Use promo code SLMBP15 to get a special
+print + digital bundle offer priced just for Scouts.

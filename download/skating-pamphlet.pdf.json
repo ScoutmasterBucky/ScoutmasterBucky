@@ -1,0 +1,23 @@
+{
+    "destination": "download/skating-pamphlet.pdf",
+    "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=31536000",
+        "cf-cache-status": "HIT",
+        "cf-ray": "98f7e66abeeba1e2-MSP",
+        "connection": "keep-alive",
+        "content-length": "5761865",
+        "content-type": "application/pdf",
+        "date": "Thu, 16 Oct 2025 13:28:33 GMT",
+        "etag": "\"683dee6c-57eb49\"",
+        "last-modified": "Mon, 02 Jun 2025 18:33:16 GMT",
+        "server": "cloudflare",
+        "set-cookie": [
+            "__cf_bm=Z9KOwEwxfrayDrdKK9ImrUufbCGOxGmd_PTuMOglfYs-1760621313-1.0.1.1-vZrumh4zqqagBinz8T8FEQoExG1xR8jIrkxGr1DGsbw7ZHA6GdIjBu_42VJbcSuNvzWGwCHGBmeeNMGr_F.rFrHI6JV4K_MX2iIGhw5yJL0; path=/; expires=Thu, 16-Oct-25 13:58:33 GMT; domain=.filestore.scouting.org; HttpOnly; Secure; SameSite=None"
+        ],
+        "vary": "Accept-Encoding"
+    },
+    "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Skating.pdf"
+}

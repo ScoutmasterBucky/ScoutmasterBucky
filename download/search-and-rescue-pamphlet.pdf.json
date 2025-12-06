@@ -1,0 +1,23 @@
+{
+    "destination": "download/search-and-rescue-pamphlet.pdf",
+    "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=31536000",
+        "cf-cache-status": "HIT",
+        "cf-ray": "98f7e6065e62ad23-MSP",
+        "connection": "keep-alive",
+        "content-length": "3552692",
+        "content-type": "application/pdf",
+        "date": "Thu, 16 Oct 2025 13:28:17 GMT",
+        "etag": "\"683dee61-3635b4\"",
+        "last-modified": "Mon, 02 Jun 2025 18:33:05 GMT",
+        "server": "cloudflare",
+        "set-cookie": [
+            "__cf_bm=4VejkE.hkLRDeRqq_fADCGsoMdvOuwsqzZY8C_lHens-1760621297-1.0.1.1-HjsoX1YHXpdXvQubip1CQQ_CXVqpH5tbDVxwlfCFK2CNk8iztdVYuMrpa1oxEv6c3MGz8QJhJf0PTKSNSw_LMdUJENeHY7wlyWXU6EeSxOM; path=/; expires=Thu, 16-Oct-25 13:58:17 GMT; domain=.filestore.scouting.org; HttpOnly; Secure; SameSite=None"
+        ],
+        "vary": "Accept-Encoding"
+    },
+    "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Search%20and%20Rescue.pdf"
+}

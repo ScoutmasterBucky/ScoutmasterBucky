@@ -1,4 +1,5 @@
 # 5, option 7, b - mentions a diagram but didn't include one. Kept one from previous requirements.
+# Several resource links used "%20" at the end of the URL - removed the encoded space.
 - detail: true
   text: |-
       <b>NOTE: If meeting any of the requirements for this merit badge is against
@@ -93,7 +94,7 @@
         text: |-
             Create a chart to monitor your progress during this time.
         resources:
-            - href: https://isport360.com/7-powerful-journaling-ideas-for-youth-sports-athletes/%20
+            - href: https://isport360.com/7-powerful-journaling-ideas-for-youth-sports-athletes/
               text: 7 Powerful Journaling Ideas for Youth Sports Athletes
               type: website
       - requirement: c
@@ -101,7 +102,7 @@
             Explain to your counselor the equipment necessary to participate in
             this activity and the appropriate clothing for the time of year.
         resources:
-            - href: https://www.spookynooksports.com/blog/manheim/equipment-needed-to-play-sports%20
+            - href: https://www.spookynooksports.com/blog/manheim/equipment-needed-to-play-sports
               text: Equipment Needed to Play Various Sports
               type: website
       - requirement: d
@@ -123,7 +124,7 @@
             Give the rules for two athletic activities, one of which is the
             activity you chose for requirement 3.
         resources:
-            - href: https://www.rulesofsport.com/%20
+            - href: https://www.rulesofsport.com/
               text: Rules of Sports
               type: website
       - requirement: b

@@ -1,0 +1,24 @@
+{
+    "destination": "download/plumbing-pamphlet.pdf",
+    "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "129612",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=31536000",
+        "cf-cache-status": "HIT",
+        "cf-ray": "98f7e4a8fd5dad23-MSP",
+        "connection": "keep-alive",
+        "content-length": "2418224",
+        "content-type": "application/pdf",
+        "date": "Thu, 16 Oct 2025 13:27:21 GMT",
+        "etag": "\"683ded8f-24e630\"",
+        "last-modified": "Mon, 02 Jun 2025 18:29:35 GMT",
+        "server": "cloudflare",
+        "set-cookie": [
+            "__cf_bm=g_YsDoRQM97EXOPkHoA1HQXCQEAswHJ6RHL42plQeoc-1760621241-1.0.1.1-uHcE2VCDOEgGJEnvwP8Qq5wovg_nfh004tmUPYBfCjA3u8fIlUeJ9fIeiDfAPuKyHHoDOLf6I5afOFiPogBTg85XUuHZn0Yh_7zpYemnEsg; path=/; expires=Thu, 16-Oct-25 13:57:21 GMT; domain=.filestore.scouting.org; HttpOnly; Secure; SameSite=None"
+        ],
+        "vary": "Accept-Encoding"
+    },
+    "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Plumbing.pdf"
+}

@@ -156,15 +156,19 @@ async function getPdfText(body) {
     return textArray.join("\n\n\n");
 }
 
-async function saveBinaryFile(downloadUrlInfo, url, destPdf) {
+async function saveBinaryFile(url, destPath) {
     async function writeToFile(response) {
-        await fsPromises.writeFile(destPdf, response.body);
+        await fsPromises.writeFile(destPath, response.body);
+        await fsPromises.writeFile(
+            `${destPath}.json`,
+            JSON.stringify({ headers: response.headers }, null, 4)
+        );
 
-        if (destPdf.match(/\.pdf$/)) {
+        if (destPath.match(/\.pdf$/)) {
             // Also convert PDF to text for easier detection of what changed
             const text = await getPdfText(response.body);
             await fsPromises.writeFile(
-                destPdf.replace(/\.pdf$/, ".txt"),
+                destPath.replace(/\.pdf$/, ".txt"),
                 text
             );
         }
@@ -175,7 +179,11 @@ async function saveBinaryFile(downloadUrlInfo, url, destPdf) {
     // destinations - e.g. the Music and Bugling merit badge pamphlet is
     // combined.
     const urlString = `${url}`;
-    let previousInfo = downloadUrlInfo.find((item) => item.url === urlString && item.destination === destPdf);
+    let previousInfo = null;
+
+    try {
+        previousInfo = await readJson(`${destPath}.json`);
+    } catch (_ignore) {}
 
     if (!previousInfo) {
         // Not cached
@@ -185,10 +193,10 @@ async function saveBinaryFile(downloadUrlInfo, url, destPdf) {
             });
             downloadUrlInfo.push({
                 url: urlString,
-                destination: destPdf,
+                destination: destPath,
                 headers: response.headers,
             });
-            writeToFile(response);
+            await writeToFile(response);
 
             return;
         } catch (err) {
@@ -222,7 +230,7 @@ async function saveBinaryFile(downloadUrlInfo, url, destPdf) {
 
         // Updated
         previousInfo.headers = response.headers;
-        writeToFile(response);
+        await writeToFile(response);
     } catch (err) {
         errorsDetected = true;
         console.error(chalk.red(`Error downloading ${url}: ${err.message}`));
@@ -250,63 +258,63 @@ function resolveUrl(link, dom) {
     return new URL(link.getAttribute("href"), dom.requestUrl);
 }
 
-async function downloadCounselorInformation(updated, downloadUrlInfo) {
+async function downloadCounselorInformation(updated) {
     heading("Counselor Information");
     const indexUrl = 'https://www.scouting.org/skills/merit-badges/counselor-information/';
     await saveHtml(indexUrl, 'src/data/counselor-information.html.orig', '[data-id="7627899f"]');
-    await downloadList(updated, downloadUrlInfo, "counselor-information", [
+    await downloadList(updated, "counselor-information", [
         {
             key: 'artificial-intelligence-digital-resources',
             url: indexUrl,
-            dest: 'public/merit-badges/artificial-intelligence/artificial-intelligence-digital-resources.pdf',
+            dest: 'download/artificial-intelligence-digital-resources.pdf',
             selector: '[data-id="3ae2e3b"] a',
         },
         {
             key: 'artificial-intelligence-counselor-guidelines',
             url: indexUrl,
-            dest: 'public/merit-badges/artificial-intelligence/artificial-intelligence-counselor-guidelines.pdf',
+            dest: 'download/artificial-intelligence-counselor-guidelines.pdf',
             selector: '[data-id="2c8922a"] a',
         },
         {
             key: 'aviation-camp-director-guide',
             url: indexUrl,
-            dest: 'public/merit-badges/aviation/aviation-camp-director-guide.pdf',
+            dest: 'download/aviation-camp-director-guide.pdf',
             selector: '[data-id="f7e0df5"] a',
         },
         {
             key: 'aviation-counselor-presentation',
             url: indexUrl,
-            dest: 'public/merit-badges/aviation/aviation-counselor-presentation.pptx',
+            dest: 'download/aviation-counselor-presentation.pptx',
             selector: '[data-id="1e9d65b"] a',
         },
         {
             key: 'aviation-event-coordinator-guide',
             url: indexUrl,
-            dest: 'public/merit-badges/aviation/aviation-event-coordinator-guide.pdf',
+            dest: 'download/aviation-event-coordinator-guide.pdf',
             selector: '[data-id="dc54b09"] a',
         },
         {
             key: "citizenship-in-society-counselor-guide",
             url: indexUrl,
-            dest: "public/merit-badges/citizenship-in-society/citizenship-in-society-counselor-guide.pdf",
+            dest: "download/citizenship-in-society-counselor-guide.pdf",
             selector: '[data-id="09c2081"] a',
         },
         {
             key: 'environmental-science-counselor-guidelines',
             url: indexUrl,
-            dest: 'public/merit-badges/environmental-science/environmental-science-counselor-guidelines.pdf',
+            dest: 'download/environmental-science-counselor-guidelines.pdf',
             selector: '[data-id="cffd4cf"] a',
         },
         {
             key: 'environmental-science-resources',
             url: indexUrl,
-            dest: 'public/merit-badges/environmental-science/environmental-science-resources.pdf',
+            dest: 'download/environmental-science-resources.pdf',
             selector: '[data-id="d6e33b5"] a',
         },
     ]);
 }
 
-async function downloadMeritBadges(updated, downloadUrlInfo, args) {
+async function downloadMeritBadges(updated, args) {
     async function fetchMeritBadge(link, indexDom) {
         const mbUrl = resolveUrl(link, indexDom);
         const badgeName = safeName(link.innerText);
@@ -330,8 +338,8 @@ async function downloadMeritBadges(updated, downloadUrlInfo, args) {
             async (link, indexDom) => {
                 const pamphletUrl = resolveUrl(link, indexDom);
                 console.log(`[Pamphlet] ${badgeName}: ${pamphletUrl}`);
-                const pamphletDest = `public/merit-badges/${badgeName}/${badgeName}-pamphlet.pdf`;
-                await saveBinaryFile(downloadUrlInfo, pamphletUrl, pamphletDest);
+                const pamphletDest = `download/${badgeName}-pamphlet.pdf`;
+                await saveBinaryFile(pamphletUrl, pamphletDest);
             }
         );
         updated[badgeName] = Date.now();
@@ -363,7 +371,7 @@ async function downloadMeritBadges(updated, downloadUrlInfo, args) {
     );
 }
 
-async function downloadList(updated, downloadUrlInfo, updatedPrefix, list) {
+async function downloadList(updated, updatedPrefix, list) {
     await serialPromises(list, async (item) => {
         if (item.dest.match(".html.orig")) {
             console.log(`${item.key}: ${item.url}`);
@@ -386,23 +394,23 @@ async function downloadList(updated, downloadUrlInfo, updatedPrefix, list) {
         const url = resolveUrl(links[0], dom);
         console.log(`${item.key}: ${url}`);
         updated[item.key] = Date.now();
-        await saveBinaryFile(downloadUrlInfo, url, item.dest);
+        await saveBinaryFile(url, item.dest);
     });
 }
 
-async function downloadOtherAwards(updated, downloadUrlInfo) {
+async function downloadOtherAwards(updated) {
     heading("Other Awards");
-    await downloadList(updated, downloadUrlInfo, "other-awards", [
+    await downloadList(updated, "other-awards", [
         {
             key: "50-miler",
             url: "https://www.scouting.org/awards/awards-central/50-miler/",
-            dest: "public/other-awards/50-miler/50-miler.pdf",
+            dest: "download/50-miler.pdf",
             selector: "a[href*=pdf]"
         },
         {
             key: "aquatics-guide",
             url: "https://www.scouting.org/awards/awards-central/boardsailing/",
-            dest: "public/other-awards/aquatics-guide.pdf",
+            dest: "download/aquatics-guide.pdf",
             selector: "a[href*=pdf]"
         },
         {
@@ -414,7 +422,7 @@ async function downloadOtherAwards(updated, downloadUrlInfo) {
         {
             key: "complete-angler",
             url: "https://www.scouting.org/awards/awards-central/",
-            dest: "public/other-awards/complete-angler/complete-angler.pdf",
+            dest: "download/complete-angler.pdf",
             selector: "a[href*=Angler]"
         },
         {
@@ -426,79 +434,79 @@ async function downloadOtherAwards(updated, downloadUrlInfo) {
     ]);
 }
 
-async function downloadScoutRanks(updated, downloadUrlInfo) {
+async function downloadScoutRanks(updated) {
     const url =
         "https://www.scouting.org/programs/scouts-bsa/advancement-and-awards/";
     heading("Scout Ranks");
-    await downloadList(updated, downloadUrlInfo, "scout-ranks", [
+    await downloadList(updated, "scout-ranks", [
         {
             key: "scout",
             url,
-            dest: "src/data/scout-ranks/scout/scout.pdf",
+            dest: "download/scout.pdf",
             selector: 'a[href*=".pdf"]:contains("Scout Rank Requirements")'
         },
         {
             key: "tenderfoot",
             url,
-            dest: "src/data/scout-ranks/tenderfoot/tenderfoot.pdf",
+            dest: "download/tenderfoot.pdf",
             selector: 'a[href*=".pdf"]:contains("Tenderfoot Rank Requirements")'
         },
         {
             key: "second-class",
             url,
-            dest: "src/data/scout-ranks/second-class/second-class.pdf",
+            dest: "download/second-class.pdf",
             selector:
                 'a[href*=".pdf"]:contains("Second Class Rank Requirements")'
         },
         {
             key: "first-class",
             url,
-            dest: "src/data/scout-ranks/first-class/first-class.pdf",
+            dest: "download/first-class.pdf",
             selector:
                 'a[href*=".pdf"]:contains("First Class Rank Requirements")'
         },
         {
             key: "star",
             url,
-            dest: "src/data/scout-ranks/star/star.pdf",
+            dest: "download/star.pdf",
             selector: 'a[href*=".pdf"]:contains("Star Rank Requirements")'
         },
         {
             key: "life",
             url,
-            dest: "src/data/scout-ranks/life/life.pdf",
+            dest: "download/life.pdf",
             selector: 'a[href*=".pdf"]:contains("Life Rank Requirements")'
         },
         {
             key: "eagle",
             url,
-            dest: "src/data/scout-ranks/eagle/eagle.pdf",
+            dest: "download/eagle.pdf",
             selector: 'a[href*=".pdf"]:contains("Eagle Rank Requirements")'
         },
         {
             key: "eagle-palms",
             url,
-            dest: "src/data/scout-ranks/eagle-palms/eagle-palms.pdf",
+            dest: "download/eagle-palms.pdf",
             selector: 'a[href*=".pdf"]:contains("Eagle Palms")'
         },
         {
             key: "alternative-requirements",
             url,
-            dest: "src/data/scout-ranks/alternative-requirements/alternative-requirements.pdf",
+            dest: "download/alternative-requirements.pdf",
             selector:
                 'a[href*=".pdf"]:contains("Ranks Alternative Requirements")'
         },
         {
             key: "eagle-alternative-requirements",
             url,
-            dest: "src/data/scout-ranks/eagle-alternative-requirements/eagle-alternative-requirements.pdf",
+            dest: "download/eagle-alternative-requirements.pdf",
             selector:
                 'a[href*=".pdf"]:contains("Eagle Scout Rank Alternative Requirements")'
         }
     ]);
 }
 
-async function downloadTestLab(updated, downloadUrlInfo, args) {
+async function downloadTestLab(updated, args) {
     async function fetchTestLab(link, indexDom) {
         const url = resolveUrl(link, indexDom);
         const name = safeName(link.innerText);
@@ -512,7 +520,7 @@ async function downloadTestLab(updated, downloadUrlInfo, args) {
 
     subheading(`Fetching index`);
     const indexUrl = "https://www.scouting.org/skills/merit-badges/test-lab/";
-    await downloadList(updated, downloadUrlInfo, "test-labs", [
+    await downloadList(updated, "test-labs", [
         {
             key: "test-labs",
             url: indexUrl,
@@ -582,18 +590,16 @@ for (const target of args.TARGET) {
 
 if (!errors) {
     const updated = await readJson("src/data/updated.json");
-    const downloadUrlInfo = await readJson("src/data/download-url-info.json");
     await serialPromises(downloadables, (item) => {
         if (args.TARGET.includes(item.key) || args.TARGET.includes("all")) {
             if (!updated[item.key]) {
                 updated[item.key] = {};
             }
 
-            return item.fn(updated[item.key], downloadUrlInfo, args);
+            return item.fn(updated[item.key], args);
         }
     });
     await writeJson("src/data/updated.json", updated);
-    await writeJson("src/data/download-url-info.json", downloadUrlInfo);
 }
 
 if (errorsDetected) {

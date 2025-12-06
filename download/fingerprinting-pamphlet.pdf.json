@@ -1,0 +1,24 @@
+{
+    "destination": "download/fingerprinting-pamphlet.pdf",
+    "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "129608",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=31536000",
+        "cf-cache-status": "HIT",
+        "cf-ray": "98f7e124dbcea22d-MSP",
+        "connection": "keep-alive",
+        "content-length": "4025102",
+        "content-type": "application/pdf",
+        "date": "Thu, 16 Oct 2025 13:24:57 GMT",
+        "etag": "\"683decb4-3d6b0e\"",
+        "last-modified": "Mon, 02 Jun 2025 18:25:56 GMT",
+        "server": "cloudflare",
+        "set-cookie": [
+            "__cf_bm=ru9CrY7lr.3k5lBs7FDLk7Z3RastYQhZk_3zuWcf6Cw-1760621097-1.0.1.1-6G.jM.aPerf2R13.f7r46Be4uLk1_c9xuSOXGT66RO1Uo7iG5yL15.rFLpCcB3Si9SNx6.kQdFUdjshYFR3pbywGOwlfcShFzkgJcoV6Fm4; path=/; expires=Thu, 16-Oct-25 13:54:57 GMT; domain=.filestore.scouting.org; HttpOnly; Secure; SameSite=None"
+        ],
+        "vary": "Accept-Encoding"
+    },
+    "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Fingerprinting.pdf"
+}

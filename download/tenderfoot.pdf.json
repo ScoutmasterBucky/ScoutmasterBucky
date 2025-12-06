@@ -1,0 +1,24 @@
+{
+    "destination": "download/tenderfoot.pdf",
+    "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=31536000",
+        "cf-cache-status": "HIT",
+        "cf-ray": "98f7d8ae88f47816-MSP",
+        "connection": "keep-alive",
+        "content-length": "76748",
+        "content-type": "application/pdf",
+        "date": "Thu, 16 Oct 2025 13:19:11 GMT",
+        "etag": "\"65c5c407-12bcc\"",
+        "last-modified": "Fri, 09 Feb 2024 06:19:51 GMT",
+        "server": "cloudflare",
+        "set-cookie": [
+            "__cf_bm=QqKuItOp8KLzTxNQFqeRtKmr3thlRFK2AGvEhXmB7Ww-1760620751-1.0.1.1-.5t1.5bv7pIkQsI_s9LJnEtu1Ue4eOgdq.liB1DrF8FnwZ5nvNRQO_WDaQ2i31Qtj4vaheCI2R7SpAZCz_xJy.vcLl8VQSqjS2WsY8uzXBo; path=/; expires=Thu, 16-Oct-25 13:49:11 GMT; domain=.www.scouting.org; HttpOnly; Secure; SameSite=None"
+        ],
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "vary": "Accept-Encoding"
+    },
+    "url": "https://www.scouting.org/wp-content/uploads/2024/01/2024-Tenderfoot-Rank-Requirements.pdf"
+}

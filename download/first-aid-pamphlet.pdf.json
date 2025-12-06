@@ -1,0 +1,23 @@
+{
+    "destination": "download/first-aid-pamphlet.pdf",
+    "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=31536000",
+        "cf-cache-status": "HIT",
+        "cf-ray": "98f7e131a860a22d-MSP",
+        "connection": "keep-alive",
+        "content-length": "6761628",
+        "content-type": "application/pdf",
+        "date": "Thu, 16 Oct 2025 13:24:59 GMT",
+        "etag": "\"683decb5-672c9c\"",
+        "last-modified": "Mon, 02 Jun 2025 18:25:57 GMT",
+        "server": "cloudflare",
+        "set-cookie": [
+            "__cf_bm=o11Tg4XAUJARHdLce_h6D6NbySwbLsL3rbEG8X5zNcE-1760621099-1.0.1.1-ragA8ItUb4GbEYROhqyt_p4qJubIv_igZdKFLH6hCfmt3nqSWPn6wSqgadZzxWxqa0hC09vmhX3ZpDRknxqrYOBkriCOoM4dgCyApmZBQxM; path=/; expires=Thu, 16-Oct-25 13:54:59 GMT; domain=.filestore.scouting.org; HttpOnly; Secure; SameSite=None"
+        ],
+        "vary": "Accept-Encoding"
+    },
+    "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/First%20Aid.pdf"
+}

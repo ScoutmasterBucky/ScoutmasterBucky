@@ -1,0 +1,24 @@
+{
+    "destination": "download/weather-pamphlet.pdf",
+    "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "129641",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=31536000",
+        "cf-cache-status": "HIT",
+        "cf-ray": "98f7e816ca775116-MSP",
+        "connection": "keep-alive",
+        "content-length": "4528584",
+        "content-type": "application/pdf",
+        "date": "Thu, 16 Oct 2025 13:29:42 GMT",
+        "etag": "\"683dee67-4519c8\"",
+        "last-modified": "Mon, 02 Jun 2025 18:33:11 GMT",
+        "server": "cloudflare",
+        "set-cookie": [
+            "__cf_bm=UkfLUu2lpmJrJpVoWqCnljXru9mvtQlXgOYEMaxDxB4-1760621382-1.0.1.1-My1ttxN_MRy4BrJNdDXFKzTAclzrZPVLuC0eYLNO7Istx1XzsBn2icPYPAOiNM2n6Zi4dXk_UmwSYO6NS.sQX2LfukSyLI73bAFd4iSmD14; path=/; expires=Thu, 16-Oct-25 13:59:42 GMT; domain=.filestore.scouting.org; HttpOnly; Secure; SameSite=None"
+        ],
+        "vary": "Accept-Encoding"
+    },
+    "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Weather.pdf"
+}

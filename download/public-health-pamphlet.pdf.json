@@ -1,0 +1,24 @@
+{
+    "destination": "download/public-health-pamphlet.pdf",
+    "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "age": "129612",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=31536000",
+        "cf-cache-status": "HIT",
+        "cf-ray": "98f7e4eb5817ad23-MSP",
+        "connection": "keep-alive",
+        "content-length": "5608459",
+        "content-type": "application/pdf",
+        "date": "Thu, 16 Oct 2025 13:27:32 GMT",
+        "etag": "\"683ded8e-55940b\"",
+        "last-modified": "Mon, 02 Jun 2025 18:29:34 GMT",
+        "server": "cloudflare",
+        "set-cookie": [
+            "__cf_bm=Ft1kU0AFXsQDusuGknOq.TAEz1_vstPS7Q3Mupmn7js-1760621252-1.0.1.1-rrOJg7voRNUHAFWpw2E5Y7MEeUYqIIDZ4fgMsHgDBomnqAyzL8uwiy2MfckAbBi_UAW1JHTObmXgrSt8mS2yCjIY6OjFerImqqinrcqstI0; path=/; expires=Thu, 16-Oct-25 13:57:32 GMT; domain=.filestore.scouting.org; HttpOnly; Secure; SameSite=None"
+        ],
+        "vary": "Accept-Encoding"
+    },
+    "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Public%20Health.pdf"
+}

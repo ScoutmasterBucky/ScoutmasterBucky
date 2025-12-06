@@ -1,0 +1,23 @@
+{
+    "destination": "download/law-pamphlet.pdf",
+    "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "*",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "cache-control": "public, max-age=31536000",
+        "cf-cache-status": "HIT",
+        "cf-ray": "98f7e3229982ad23-MSP",
+        "connection": "keep-alive",
+        "content-length": "2352146",
+        "content-type": "application/pdf",
+        "date": "Thu, 16 Oct 2025 13:26:19 GMT",
+        "etag": "\"683ded89-23e412\"",
+        "last-modified": "Mon, 02 Jun 2025 18:29:29 GMT",
+        "server": "cloudflare",
+        "set-cookie": [
+            "__cf_bm=8CGcS.NATOcltb8_RGaokuEsyBHY3CmUopbxOCx4oms-1760621179-1.0.1.1-BJXHVjp9RKptU19MGfpnFM9NKwcPFI9ib4bE8vu3EMc7z7hEn4v2hOC23upkgYK7jOAJsMRZH6RT07ENBkTb4N4qQr.zc4ZektVcNHKMu7A; path=/; expires=Thu, 16-Oct-25 13:56:19 GMT; domain=.filestore.scouting.org; HttpOnly; Secure; SameSite=None"
+        ],
+        "vary": "Accept-Encoding"
+    },
+    "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Law.pdf"
+}
