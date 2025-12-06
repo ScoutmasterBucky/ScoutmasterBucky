@@ -7,8 +7,8 @@ All aspects of the Scuba BSA program must conform with the Scouting America
 scuba policy found in the Guide to Safe Scouting. Instructors not familiar with
 the Scouting program should consult the Scouting America manual, [Aquatics
 Supervision: A Leader's Guide to Youth Swimming and Boating Activities, No.
-34346](/other-awards/aquatics-guide.pdf), which also contains the Scouting
-America scuba policy.
+34346](https://filestore.scoutmasterbucky.com/other-awards/aquatics-guide.pdf),
+which also contains the Scouting America scuba policy.
 
 Counselors for Scuba BSA must hold current scuba instructor certification from
 PADI, NAUI, SSI, or RSTC member organizations.  Instruction must comply with
@@ -67,5 +67,6 @@ their achievement card. Completion indicates the individual has experienced a
 valuable introduction to scuba.
 
 For more information and the award application, read [Aquatics Supervision -
-Leader's Guide](/other-awards/aquatics-guide.pdf). The award application is
-contained in the appendix.
+Leader's
+Guide](https://filestore.scoutmasterbucky.com/other-awards/aquatics-guide.pdf).
+The award application is contained in the appendix.

@@ -1,6 +1,6 @@
 [
     {
-        "destination": "public/other-awards/50-miler/50-miler.pdf",
+        "destination": "filestore/other-awards/50-miler/50-miler.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -23,7 +23,7 @@
         "url": "https://filestore.scouting.org/filestore/pdf/430-067_WB.pdf"
     },
     {
-        "destination": "public/other-awards/aquatics-guide.pdf",
+        "destination": "filestore/other-awards/aquatics-guide.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -46,7 +46,7 @@
         "url": "https://filestore.scouting.org/filestore/Outdoor%20Program/Aquatics/pdf/Aquatics_34346.pdf"
     },
     {
-        "destination": "public/other-awards/complete-angler/complete-angler.pdf",
+        "destination": "filestore/other-awards/complete-angler/complete-angler.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -70,7 +70,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2021/08/Complete_Angler_Recognition-2021.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/scout/scout.pdf",
+        "destination": "filestore/scout-ranks/scout/scout.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -95,7 +95,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2024/01/2024-Scout-Rank-Requirements.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/tenderfoot/tenderfoot.pdf",
+        "destination": "filestore/scout-ranks/tenderfoot/tenderfoot.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -119,7 +119,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2024/01/2024-Tenderfoot-Rank-Requirements.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/second-class/second-class.pdf",
+        "destination": "filestore/scout-ranks/second-class/second-class.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -143,7 +143,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2022/09/2022-Second-Class-rank.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/first-class/first-class.pdf",
+        "destination": "filestore/scout-ranks/first-class/first-class.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -167,7 +167,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2022/09/2022-First-Class-rank.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/star/star.pdf",
+        "destination": "filestore/scout-ranks/star/star.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -191,7 +191,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2024/01/2024-Star-Rank-requirements.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/life/life.pdf",
+        "destination": "filestore/scout-ranks/life/life.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -215,7 +215,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2022/09/2022-Life-rank.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/eagle/eagle.pdf",
+        "destination": "filestore/scout-ranks/eagle/eagle.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -239,7 +239,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2024/11/eagle-rank-requirements.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/eagle-palms/eagle-palms.pdf",
+        "destination": "filestore/scout-ranks/eagle-palms/eagle-palms.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -263,7 +263,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2024/01/2024-Eagle-Palms-requirements.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/alternative-requirements/alternative-requirements.pdf",
+        "destination": "filestore/scout-ranks/alternative-requirements/alternative-requirements.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -287,7 +287,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2020/12/3321621-05-Alternate-Requirements-1.pdf"
     },
     {
-        "destination": "src/data/scout-ranks/eagle-alternative-requirements/eagle-alternative-requirements.pdf",
+        "destination": "filestore/scout-ranks/eagle-alternative-requirements/eagle-alternative-requirements.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -311,7 +311,7 @@
         "url": "https://www.scouting.org/wp-content/uploads/2020/12/3321621-09-Eagle-Alternate-Requirements.pdf"
     },
     {
-        "destination": "public/merit-badges/american-business/american-business-pamphlet.pdf",
+        "destination": "filestore/merit-badges/american-business/american-business-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -335,7 +335,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Business.pdf"
     },
     {
-        "destination": "public/merit-badges/american-cultures/american-cultures-pamphlet.pdf",
+        "destination": "filestore/merit-badges/american-cultures/american-cultures-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -359,7 +359,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Cultures.pdf"
     },
     {
-        "destination": "public/merit-badges/american-heritage/american-heritage-pamphlet.pdf",
+        "destination": "filestore/merit-badges/american-heritage/american-heritage-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -383,7 +383,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Heritage.pdf"
     },
     {
-        "destination": "public/merit-badges/american-labor/american-labor-pamphlet.pdf",
+        "destination": "filestore/merit-badges/american-labor/american-labor-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -407,7 +407,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/American%20Labor.pdf"
     },
     {
-        "destination": "public/merit-badges/animal-science/animal-science-pamphlet.pdf",
+        "destination": "filestore/merit-badges/animal-science/animal-science-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -431,7 +431,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Animal%20Science.pdf"
     },
     {
-        "destination": "public/merit-badges/animation/animation-pamphlet.pdf",
+        "destination": "filestore/merit-badges/animation/animation-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -455,7 +455,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Animation.pdf"
     },
     {
-        "destination": "public/merit-badges/archaeology/archaeology-pamphlet.pdf",
+        "destination": "filestore/merit-badges/archaeology/archaeology-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -479,7 +479,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Archaeology.pdf"
     },
     {
-        "destination": "public/merit-badges/archery/archery-pamphlet.pdf",
+        "destination": "filestore/merit-badges/archery/archery-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -503,7 +503,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Archery.pdf"
     },
     {
-        "destination": "public/merit-badges/architecture/architecture-pamphlet.pdf",
+        "destination": "filestore/merit-badges/architecture/architecture-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -526,7 +526,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Architecture_Landscape.pdf"
     },
     {
-        "destination": "public/merit-badges/art/art-pamphlet.pdf",
+        "destination": "filestore/merit-badges/art/art-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -549,7 +549,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Art.pdf"
     },
     {
-        "destination": "public/merit-badges/astronomy/astronomy-pamphlet.pdf",
+        "destination": "filestore/merit-badges/astronomy/astronomy-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -573,7 +573,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Astronomy.pdf"
     },
     {
-        "destination": "public/merit-badges/athletics/athletics-pamphlet.pdf",
+        "destination": "filestore/merit-badges/athletics/athletics-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -597,7 +597,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Athletics.pdf"
     },
     {
-        "destination": "public/merit-badges/automotive-maintenance/automotive-maintenance-pamphlet.pdf",
+        "destination": "filestore/merit-badges/automotive-maintenance/automotive-maintenance-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -620,7 +620,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Automotive%20Maintenance.pdf"
     },
     {
-        "destination": "public/merit-badges/aviation/aviation-pamphlet.pdf",
+        "destination": "filestore/merit-badges/aviation/aviation-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -643,7 +643,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Aviation.pdf"
     },
     {
-        "destination": "public/merit-badges/backpacking/backpacking-pamphlet.pdf",
+        "destination": "filestore/merit-badges/backpacking/backpacking-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -667,7 +667,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Backpacking.pdf"
     },
     {
-        "destination": "public/merit-badges/basketry/basketry-pamphlet.pdf",
+        "destination": "filestore/merit-badges/basketry/basketry-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -690,7 +690,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Basketry.pdf"
     },
     {
-        "destination": "public/merit-badges/bird-study/bird-study-pamphlet.pdf",
+        "destination": "filestore/merit-badges/bird-study/bird-study-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -714,7 +714,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Bird%20Study.pdf"
     },
     {
-        "destination": "public/merit-badges/bugling/bugling-pamphlet.pdf",
+        "destination": "filestore/merit-badges/bugling/bugling-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -738,7 +738,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Music%20Bugling.pdf"
     },
     {
-        "destination": "public/merit-badges/camping/camping-pamphlet.pdf",
+        "destination": "filestore/merit-badges/camping/camping-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -762,7 +762,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Camping.pdf"
     },
     {
-        "destination": "public/merit-badges/canoeing/canoeing-pamphlet.pdf",
+        "destination": "filestore/merit-badges/canoeing/canoeing-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -786,7 +786,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Canoeing.pdf"
     },
     {
-        "destination": "public/merit-badges/chemistry/chemistry-pamphlet.pdf",
+        "destination": "filestore/merit-badges/chemistry/chemistry-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -809,7 +809,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Chemistry.pdf"
     },
     {
-        "destination": "public/merit-badges/chess/chess-pamphlet.pdf",
+        "destination": "filestore/merit-badges/chess/chess-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -832,7 +832,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Chess.pdf"
     },
     {
-        "destination": "public/merit-badges/citizenship-in-the-community/citizenship-in-the-community-pamphlet.pdf",
+        "destination": "filestore/merit-badges/citizenship-in-the-community/citizenship-in-the-community-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -856,7 +856,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20Community.pdf"
     },
     {
-        "destination": "public/merit-badges/citizenship-in-the-nation/citizenship-in-the-nation-pamphlet.pdf",
+        "destination": "filestore/merit-badges/citizenship-in-the-nation/citizenship-in-the-nation-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -880,7 +880,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20Nation.pdf"
     },
     {
-        "destination": "public/merit-badges/citizenship-in-the-world/citizenship-in-the-world-pamphlet.pdf",
+        "destination": "filestore/merit-badges/citizenship-in-the-world/citizenship-in-the-world-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -904,7 +904,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Citizenship%20in%20the%20World.pdf"
     },
     {
-        "destination": "public/merit-badges/climbing/climbing-pamphlet.pdf",
+        "destination": "filestore/merit-badges/climbing/climbing-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -928,7 +928,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Climbing.pdf"
     },
     {
-        "destination": "public/merit-badges/coin-collecting/coin-collecting-pamphlet.pdf",
+        "destination": "filestore/merit-badges/coin-collecting/coin-collecting-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -952,7 +952,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Coin%20Collecting.pdf"
     },
     {
-        "destination": "public/merit-badges/collections/collections-pamphlet.pdf",
+        "destination": "filestore/merit-badges/collections/collections-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -975,7 +975,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Collections.pdf"
     },
     {
-        "destination": "public/merit-badges/communication/communication-pamphlet.pdf",
+        "destination": "filestore/merit-badges/communication/communication-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -998,7 +998,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Communication.pdf"
     },
     {
-        "destination": "public/merit-badges/composite-materials/composite-materials-pamphlet.pdf",
+        "destination": "filestore/merit-badges/composite-materials/composite-materials-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1022,7 +1022,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Composite%20Materials.pdf"
     },
     {
-        "destination": "public/merit-badges/cooking/cooking-pamphlet.pdf",
+        "destination": "filestore/merit-badges/cooking/cooking-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1046,7 +1046,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Cooking.pdf"
     },
     {
-        "destination": "public/merit-badges/crime-prevention/crime-prevention-pamphlet.pdf",
+        "destination": "filestore/merit-badges/crime-prevention/crime-prevention-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1069,7 +1069,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Crime%20Prevention.pdf"
     },
     {
-        "destination": "public/merit-badges/cycling/cycling-pamphlet.pdf",
+        "destination": "filestore/merit-badges/cycling/cycling-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1093,7 +1093,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Cycling.pdf"
     },
     {
-        "destination": "public/merit-badges/dentistry/dentistry-pamphlet.pdf",
+        "destination": "filestore/merit-badges/dentistry/dentistry-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1116,7 +1116,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Dentistry.pdf"
     },
     {
-        "destination": "public/merit-badges/digital-technology/digital-technology-pamphlet.pdf",
+        "destination": "filestore/merit-badges/digital-technology/digital-technology-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1139,7 +1139,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Digital%20Technology.pdf"
     },
     {
-        "destination": "public/merit-badges/disabilities-awareness/disabilities-awareness-pamphlet.pdf",
+        "destination": "filestore/merit-badges/disabilities-awareness/disabilities-awareness-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1163,7 +1163,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Disabilities%20Awareness.pdf"
     },
     {
-        "destination": "public/merit-badges/dog-care/dog-care-pamphlet.pdf",
+        "destination": "filestore/merit-badges/dog-care/dog-care-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1187,7 +1187,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Dog%20Care.pdf"
     },
     {
-        "destination": "public/merit-badges/drafting/drafting-pamphlet.pdf",
+        "destination": "filestore/merit-badges/drafting/drafting-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1211,7 +1211,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Drafting.pdf"
     },
     {
-        "destination": "public/merit-badges/electricity/electricity-pamphlet.pdf",
+        "destination": "filestore/merit-badges/electricity/electricity-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1235,7 +1235,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Electricity.pdf"
     },
     {
-        "destination": "public/merit-badges/electronics/electronics-pamphlet.pdf",
+        "destination": "filestore/merit-badges/electronics/electronics-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1258,7 +1258,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Electronics.pdf"
     },
     {
-        "destination": "public/merit-badges/emergency-preparedness/emergency-preparedness-pamphlet.pdf",
+        "destination": "filestore/merit-badges/emergency-preparedness/emergency-preparedness-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1281,7 +1281,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Emergency%20Preparedness.pdf"
     },
     {
-        "destination": "public/merit-badges/energy/energy-pamphlet.pdf",
+        "destination": "filestore/merit-badges/energy/energy-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1305,7 +1305,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Energy.pdf"
     },
     {
-        "destination": "public/merit-badges/engineering/engineering-pamphlet.pdf",
+        "destination": "filestore/merit-badges/engineering/engineering-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1329,7 +1329,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Engineering.pdf"
     },
     {
-        "destination": "public/merit-badges/entrepreneurship/entrepreneurship-pamphlet.pdf",
+        "destination": "filestore/merit-badges/entrepreneurship/entrepreneurship-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1353,7 +1353,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Entrepreneurship.pdf"
     },
     {
-        "destination": "public/merit-badges/environmental-science/environmental-science-pamphlet.pdf",
+        "destination": "filestore/merit-badges/environmental-science/environmental-science-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1376,7 +1376,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Environmental_Science.pdf"
     },
     {
-        "destination": "public/merit-badges/exploration/exploration-pamphlet.pdf",
+        "destination": "filestore/merit-badges/exploration/exploration-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1399,7 +1399,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Exploration.pdf"
     },
     {
-        "destination": "public/merit-badges/family-life/family-life-pamphlet.pdf",
+        "destination": "filestore/merit-badges/family-life/family-life-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1422,7 +1422,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Family%20Life.pdf"
     },
     {
-        "destination": "public/merit-badges/farm-mechanics/farm-mechanics-pamphlet.pdf",
+        "destination": "filestore/merit-badges/farm-mechanics/farm-mechanics-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1446,7 +1446,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Farm%20Mechanics.pdf"
     },
     {
-        "destination": "public/merit-badges/fingerprinting/fingerprinting-pamphlet.pdf",
+        "destination": "filestore/merit-badges/fingerprinting/fingerprinting-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1470,7 +1470,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Fingerprinting.pdf"
     },
     {
-        "destination": "public/merit-badges/fire-safety/fire-safety-pamphlet.pdf",
+        "destination": "filestore/merit-badges/fire-safety/fire-safety-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1494,7 +1494,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/FireSafety.pdf"
     },
     {
-        "destination": "public/merit-badges/first-aid/first-aid-pamphlet.pdf",
+        "destination": "filestore/merit-badges/first-aid/first-aid-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1517,7 +1517,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/First%20Aid.pdf"
     },
     {
-        "destination": "public/merit-badges/fish-and-wildlife-management/fish-and-wildlife-management-pamphlet.pdf",
+        "destination": "filestore/merit-badges/fish-and-wildlife-management/fish-and-wildlife-management-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1541,7 +1541,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Fish%20and%20Wildlife.pdf"
     },
     {
-        "destination": "public/merit-badges/fishing/fishing-pamphlet.pdf",
+        "destination": "filestore/merit-badges/fishing/fishing-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1564,7 +1564,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Fishing.pdf"
     },
     {
-        "destination": "public/merit-badges/fly-fishing/fly-fishing-pamphlet.pdf",
+        "destination": "filestore/merit-badges/fly-fishing/fly-fishing-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1587,7 +1587,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Fly-Fishing.pdf"
     },
     {
-        "destination": "public/merit-badges/forestry/forestry-pamphlet.pdf",
+        "destination": "filestore/merit-badges/forestry/forestry-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1610,7 +1610,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Forestry.pdf"
     },
     {
-        "destination": "public/merit-badges/game-design/game-design-pamphlet.pdf",
+        "destination": "filestore/merit-badges/game-design/game-design-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1634,7 +1634,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Game%20Design.pdf"
     },
     {
-        "destination": "public/merit-badges/gardening/gardening-pamphlet.pdf",
+        "destination": "filestore/merit-badges/gardening/gardening-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1658,7 +1658,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Gardening.pdf"
     },
     {
-        "destination": "public/merit-badges/genealogy/genealogy-pamphlet.pdf",
+        "destination": "filestore/merit-badges/genealogy/genealogy-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1681,7 +1681,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Genealogy.pdf"
     },
     {
-        "destination": "public/merit-badges/geocaching/geocaching-pamphlet.pdf",
+        "destination": "filestore/merit-badges/geocaching/geocaching-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1705,7 +1705,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Geocaching.pdf"
     },
     {
-        "destination": "public/merit-badges/geology/geology-pamphlet.pdf",
+        "destination": "filestore/merit-badges/geology/geology-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1729,7 +1729,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Geology.pdf"
     },
     {
-        "destination": "public/merit-badges/golf/golf-pamphlet.pdf",
+        "destination": "filestore/merit-badges/golf/golf-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1752,7 +1752,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Golf.pdf"
     },
     {
-        "destination": "public/merit-badges/graphic-arts/graphic-arts-pamphlet.pdf",
+        "destination": "filestore/merit-badges/graphic-arts/graphic-arts-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1776,7 +1776,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Graphic%20Arts.pdf"
     },
     {
-        "destination": "public/merit-badges/health-care-professions/health-care-professions-pamphlet.pdf",
+        "destination": "filestore/merit-badges/health-care-professions/health-care-professions-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1800,7 +1800,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Health%20Care%20Professions.pdf"
     },
     {
-        "destination": "public/merit-badges/hiking/hiking-pamphlet.pdf",
+        "destination": "filestore/merit-badges/hiking/hiking-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1823,7 +1823,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Hiking.pdf"
     },
     {
-        "destination": "public/merit-badges/home-repairs/home-repairs-pamphlet.pdf",
+        "destination": "filestore/merit-badges/home-repairs/home-repairs-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1846,7 +1846,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Home%20Repairs.pdf"
     },
     {
-        "destination": "public/merit-badges/horsemanship/horsemanship-pamphlet.pdf",
+        "destination": "filestore/merit-badges/horsemanship/horsemanship-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1869,7 +1869,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Horsemanship.pdf"
     },
     {
-        "destination": "public/merit-badges/indian-lore/indian-lore-pamphlet.pdf",
+        "destination": "filestore/merit-badges/indian-lore/indian-lore-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1893,7 +1893,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Indian_Lore.pdf"
     },
     {
-        "destination": "public/merit-badges/insect-study/insect-study-pamphlet.pdf",
+        "destination": "filestore/merit-badges/insect-study/insect-study-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1916,7 +1916,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Insect%20Study.pdf"
     },
     {
-        "destination": "public/merit-badges/inventing/inventing-pamphlet.pdf",
+        "destination": "filestore/merit-badges/inventing/inventing-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1940,7 +1940,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Inventing.pdf"
     },
     {
-        "destination": "public/merit-badges/journalism/journalism-pamphlet.pdf",
+        "destination": "filestore/merit-badges/journalism/journalism-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1964,7 +1964,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Journalism.pdf"
     },
     {
-        "destination": "public/merit-badges/kayaking/kayaking-pamphlet.pdf",
+        "destination": "filestore/merit-badges/kayaking/kayaking-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -1987,7 +1987,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Kayaking.pdf"
     },
     {
-        "destination": "public/merit-badges/landscape-architecture/landscape-architecture-pamphlet.pdf",
+        "destination": "filestore/merit-badges/landscape-architecture/landscape-architecture-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2011,7 +2011,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Architecture_Landscape.pdf"
     },
     {
-        "destination": "public/merit-badges/law/law-pamphlet.pdf",
+        "destination": "filestore/merit-badges/law/law-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2034,7 +2034,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Law.pdf"
     },
     {
-        "destination": "public/merit-badges/leatherwork/leatherwork-pamphlet.pdf",
+        "destination": "filestore/merit-badges/leatherwork/leatherwork-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2058,7 +2058,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Leatherwork.pdf"
     },
     {
-        "destination": "public/merit-badges/lifesaving/lifesaving-pamphlet.pdf",
+        "destination": "filestore/merit-badges/lifesaving/lifesaving-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2081,7 +2081,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Lifesaving.pdf"
     },
     {
-        "destination": "public/merit-badges/mammal-study/mammal-study-pamphlet.pdf",
+        "destination": "filestore/merit-badges/mammal-study/mammal-study-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2105,7 +2105,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Mammal%20Study.pdf"
     },
     {
-        "destination": "public/merit-badges/metalwork/metalwork-pamphlet.pdf",
+        "destination": "filestore/merit-badges/metalwork/metalwork-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2129,7 +2129,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Metalwork.pdf"
     },
     {
-        "destination": "public/merit-badges/mining-in-society/mining-in-society-pamphlet.pdf",
+        "destination": "filestore/merit-badges/mining-in-society/mining-in-society-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2153,7 +2153,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Mining%20in%20Society.pdf"
     },
     {
-        "destination": "public/merit-badges/model-design-and-building/model-design-and-building-pamphlet.pdf",
+        "destination": "filestore/merit-badges/model-design-and-building/model-design-and-building-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2176,7 +2176,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Model%20Design.pdf"
     },
     {
-        "destination": "public/merit-badges/motorboating/motorboating-pamphlet.pdf",
+        "destination": "filestore/merit-badges/motorboating/motorboating-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2200,7 +2200,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Motorboating.pdf"
     },
     {
-        "destination": "public/merit-badges/moviemaking/moviemaking-pamphlet.pdf",
+        "destination": "filestore/merit-badges/moviemaking/moviemaking-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2223,7 +2223,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Moviemaking.pdf"
     },
     {
-        "destination": "public/merit-badges/multisport/multisport-pamphlet.pdf",
+        "destination": "filestore/merit-badges/multisport/multisport-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2247,7 +2247,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Multisport.pdf"
     },
     {
-        "destination": "public/merit-badges/music/music-pamphlet.pdf",
+        "destination": "filestore/merit-badges/music/music-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2271,7 +2271,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Music%20Bugling.pdf"
     },
     {
-        "destination": "public/merit-badges/nature/nature-pamphlet.pdf",
+        "destination": "filestore/merit-badges/nature/nature-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2295,7 +2295,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Nature.pdf"
     },
     {
-        "destination": "public/merit-badges/nuclear-science/nuclear-science-pamphlet.pdf",
+        "destination": "filestore/merit-badges/nuclear-science/nuclear-science-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2318,7 +2318,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Nuclear%20Science.pdf"
     },
     {
-        "destination": "public/merit-badges/oceanography/oceanography-pamphlet.pdf",
+        "destination": "filestore/merit-badges/oceanography/oceanography-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2341,7 +2341,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Oceanography.pdf"
     },
     {
-        "destination": "public/merit-badges/orienteering/orienteering-pamphlet.pdf",
+        "destination": "filestore/merit-badges/orienteering/orienteering-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2365,7 +2365,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Orienteering.pdf"
     },
     {
-        "destination": "public/merit-badges/painting/painting-pamphlet.pdf",
+        "destination": "filestore/merit-badges/painting/painting-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2389,7 +2389,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Painting.pdf"
     },
     {
-        "destination": "public/merit-badges/personal-fitness/personal-fitness-pamphlet.pdf",
+        "destination": "filestore/merit-badges/personal-fitness/personal-fitness-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2412,7 +2412,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Personal%20Fitness.pdf"
     },
     {
-        "destination": "public/merit-badges/personal-management/personal-management-pamphlet.pdf",
+        "destination": "filestore/merit-badges/personal-management/personal-management-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2436,7 +2436,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Personal%20Management.pdf"
     },
     {
-        "destination": "public/merit-badges/pets/pets-pamphlet.pdf",
+        "destination": "filestore/merit-badges/pets/pets-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2460,7 +2460,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pets.pdf"
     },
     {
-        "destination": "public/merit-badges/photography/photography-pamphlet.pdf",
+        "destination": "filestore/merit-badges/photography/photography-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2484,7 +2484,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Photography.pdf"
     },
     {
-        "destination": "public/merit-badges/pioneering/pioneering-pamphlet.pdf",
+        "destination": "filestore/merit-badges/pioneering/pioneering-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2508,7 +2508,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pioneering.pdf"
     },
     {
-        "destination": "public/merit-badges/plant-science/plant-science-pamphlet.pdf",
+        "destination": "filestore/merit-badges/plant-science/plant-science-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2531,7 +2531,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Plant%20Science.pdf"
     },
     {
-        "destination": "public/merit-badges/plumbing/plumbing-pamphlet.pdf",
+        "destination": "filestore/merit-badges/plumbing/plumbing-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2555,7 +2555,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Plumbing.pdf"
     },
     {
-        "destination": "public/merit-badges/pottery/pottery-pamphlet.pdf",
+        "destination": "filestore/merit-badges/pottery/pottery-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2578,7 +2578,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pottery.pdf"
     },
     {
-        "destination": "public/merit-badges/programming/programming-pamphlet.pdf",
+        "destination": "filestore/merit-badges/programming/programming-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2601,7 +2601,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Programming.pdf"
     },
     {
-        "destination": "public/merit-badges/public-health/public-health-pamphlet.pdf",
+        "destination": "filestore/merit-badges/public-health/public-health-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2625,7 +2625,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Public%20Health.pdf"
     },
     {
-        "destination": "public/merit-badges/public-speaking/public-speaking-pamphlet.pdf",
+        "destination": "filestore/merit-badges/public-speaking/public-speaking-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2648,7 +2648,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Public%20Speaking.pdf"
     },
     {
-        "destination": "public/merit-badges/pulp-and-paper/pulp-and-paper-pamphlet.pdf",
+        "destination": "filestore/merit-badges/pulp-and-paper/pulp-and-paper-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2671,7 +2671,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Pulp-Paper.pdf"
     },
     {
-        "destination": "public/merit-badges/radio/radio-pamphlet.pdf",
+        "destination": "filestore/merit-badges/radio/radio-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2695,7 +2695,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Radio.pdf"
     },
     {
-        "destination": "public/merit-badges/railroading/railroading-pamphlet.pdf",
+        "destination": "filestore/merit-badges/railroading/railroading-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2718,7 +2718,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Railroading.pdf"
     },
     {
-        "destination": "public/merit-badges/reading/reading-pamphlet.pdf",
+        "destination": "filestore/merit-badges/reading/reading-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2741,7 +2741,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Reading.pdf"
     },
     {
-        "destination": "public/merit-badges/reptile-and-amphibian-study/reptile-and-amphibian-study-pamphlet.pdf",
+        "destination": "filestore/merit-badges/reptile-and-amphibian-study/reptile-and-amphibian-study-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2765,7 +2765,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Reptile%20Amphibian.pdf"
     },
     {
-        "destination": "public/merit-badges/rifle-shooting/rifle-shooting-pamphlet.pdf",
+        "destination": "filestore/merit-badges/rifle-shooting/rifle-shooting-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2789,7 +2789,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Rifle%20Shooting.pdf"
     },
     {
-        "destination": "public/merit-badges/robotics/robotics-pamphlet.pdf",
+        "destination": "filestore/merit-badges/robotics/robotics-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2812,7 +2812,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Robotics.pdf"
     },
     {
-        "destination": "public/merit-badges/rowing/rowing-pamphlet.pdf",
+        "destination": "filestore/merit-badges/rowing/rowing-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2836,7 +2836,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Rowing.pdf"
     },
     {
-        "destination": "public/merit-badges/safety/safety-pamphlet.pdf",
+        "destination": "filestore/merit-badges/safety/safety-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2859,7 +2859,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Safety.pdf"
     },
     {
-        "destination": "public/merit-badges/salesmanship/salesmanship-pamphlet.pdf",
+        "destination": "filestore/merit-badges/salesmanship/salesmanship-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2882,7 +2882,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Salesmanship.pdf"
     },
     {
-        "destination": "public/merit-badges/scholarship/scholarship-pamphlet.pdf",
+        "destination": "filestore/merit-badges/scholarship/scholarship-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2905,7 +2905,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Scholarship.pdf"
     },
     {
-        "destination": "public/merit-badges/scouting-heritage/scouting-heritage-pamphlet.pdf",
+        "destination": "filestore/merit-badges/scouting-heritage/scouting-heritage-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2928,7 +2928,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Scouting%20Heritage.pdf"
     },
     {
-        "destination": "public/merit-badges/scuba-diving/scuba-diving-pamphlet.pdf",
+        "destination": "filestore/merit-badges/scuba-diving/scuba-diving-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2952,7 +2952,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Scuba%20Diving.pdf"
     },
     {
-        "destination": "public/merit-badges/sculpture/sculpture-pamphlet.pdf",
+        "destination": "filestore/merit-badges/sculpture/sculpture-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2976,7 +2976,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Sculpture.pdf"
     },
     {
-        "destination": "public/merit-badges/search-and-rescue/search-and-rescue-pamphlet.pdf",
+        "destination": "filestore/merit-badges/search-and-rescue/search-and-rescue-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -2999,7 +2999,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Search%20and%20Rescue.pdf"
     },
     {
-        "destination": "public/merit-badges/shotgun-shooting/shotgun-shooting-pamphlet.pdf",
+        "destination": "filestore/merit-badges/shotgun-shooting/shotgun-shooting-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3023,7 +3023,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Shotgun%20Shooting.pdf"
     },
     {
-        "destination": "public/merit-badges/signs-signals-and-codes/signs-signals-and-codes-pamphlet.pdf",
+        "destination": "filestore/merit-badges/signs-signals-and-codes/signs-signals-and-codes-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3046,7 +3046,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Signs%20Signals%20Codes.pdf"
     },
     {
-        "destination": "public/merit-badges/skating/skating-pamphlet.pdf",
+        "destination": "filestore/merit-badges/skating/skating-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3069,7 +3069,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Skating.pdf"
     },
     {
-        "destination": "public/merit-badges/small-boat-sailing/small-boat-sailing-pamphlet.pdf",
+        "destination": "filestore/merit-badges/small-boat-sailing/small-boat-sailing-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3092,7 +3092,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Small%20Boat%20Sailing.pdf"
     },
     {
-        "destination": "public/merit-badges/snow-sports/snow-sports-pamphlet.pdf",
+        "destination": "filestore/merit-badges/snow-sports/snow-sports-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3115,7 +3115,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Snow%20Sports.pdf"
     },
     {
-        "destination": "public/merit-badges/soil-and-water-conservation/soil-and-water-conservation-pamphlet.pdf",
+        "destination": "filestore/merit-badges/soil-and-water-conservation/soil-and-water-conservation-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3138,7 +3138,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Soil%20and%20Water%20Conservation.pdf"
     },
     {
-        "destination": "public/merit-badges/space-exploration/space-exploration-pamphlet.pdf",
+        "destination": "filestore/merit-badges/space-exploration/space-exploration-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3161,7 +3161,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Space%20Exploration.pdf"
     },
     {
-        "destination": "public/merit-badges/sports/sports-pamphlet.pdf",
+        "destination": "filestore/merit-badges/sports/sports-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3185,7 +3185,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Sports.pdf"
     },
     {
-        "destination": "public/merit-badges/stamp-collecting/stamp-collecting-pamphlet.pdf",
+        "destination": "filestore/merit-badges/stamp-collecting/stamp-collecting-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3208,7 +3208,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Stamp%20Collecting.pdf"
     },
     {
-        "destination": "public/merit-badges/surveying/surveying-pamphlet.pdf",
+        "destination": "filestore/merit-badges/surveying/surveying-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3232,7 +3232,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Surveying.pdf"
     },
     {
-        "destination": "public/merit-badges/sustainability/sustainability-pamphlet.pdf",
+        "destination": "filestore/merit-badges/sustainability/sustainability-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3256,7 +3256,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Sustainability.pdf"
     },
     {
-        "destination": "public/merit-badges/swimming/swimming-pamphlet.pdf",
+        "destination": "filestore/merit-badges/swimming/swimming-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3280,7 +3280,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf"
     },
     {
-        "destination": "public/merit-badges/textile/textile-pamphlet.pdf",
+        "destination": "filestore/merit-badges/textile/textile-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3304,7 +3304,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Textile.pdf"
     },
     {
-        "destination": "public/merit-badges/theater/theater-pamphlet.pdf",
+        "destination": "filestore/merit-badges/theater/theater-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3328,7 +3328,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Theater.pdf"
     },
     {
-        "destination": "public/merit-badges/traffic-safety/traffic-safety-pamphlet.pdf",
+        "destination": "filestore/merit-badges/traffic-safety/traffic-safety-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3352,7 +3352,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Traffic%20Safety.pdf"
     },
     {
-        "destination": "public/merit-badges/truck-transportation/truck-transportation-pamphlet.pdf",
+        "destination": "filestore/merit-badges/truck-transportation/truck-transportation-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3376,7 +3376,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Truck%20Transportation.pdf"
     },
     {
-        "destination": "public/merit-badges/veterinary-medicine/veterinary-medicine-pamphlet.pdf",
+        "destination": "filestore/merit-badges/veterinary-medicine/veterinary-medicine-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3400,7 +3400,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Veterinary%20Medicine.pdf"
     },
     {
-        "destination": "public/merit-badges/water-sports/water-sports-pamphlet.pdf",
+        "destination": "filestore/merit-badges/water-sports/water-sports-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3423,7 +3423,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Water%20Sports.pdf"
     },
     {
-        "destination": "public/merit-badges/weather/weather-pamphlet.pdf",
+        "destination": "filestore/merit-badges/weather/weather-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3447,7 +3447,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Weather.pdf"
     },
     {
-        "destination": "public/merit-badges/welding/welding-pamphlet.pdf",
+        "destination": "filestore/merit-badges/welding/welding-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3471,7 +3471,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Welding.pdf"
     },
     {
-        "destination": "public/merit-badges/whitewater/whitewater-pamphlet.pdf",
+        "destination": "filestore/merit-badges/whitewater/whitewater-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3494,7 +3494,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Whitewater.pdf"
     },
     {
-        "destination": "public/merit-badges/wilderness-survival/wilderness-survival-pamphlet.pdf",
+        "destination": "filestore/merit-badges/wilderness-survival/wilderness-survival-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3518,7 +3518,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Wilderness%20Survival.pdf"
     },
     {
-        "destination": "public/merit-badges/wood-carving/wood-carving-pamphlet.pdf",
+        "destination": "filestore/merit-badges/wood-carving/wood-carving-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3542,7 +3542,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Wood%20Carving.pdf"
     },
     {
-        "destination": "public/merit-badges/woodwork/woodwork-pamphlet.pdf",
+        "destination": "filestore/merit-badges/woodwork/woodwork-pamphlet.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3566,7 +3566,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Woodwork.pdf"
     },
     {
-        "destination": "public/merit-badges/artificial-intelligence/artificial-intelligence-counselor-guidelines.pdf",
+        "destination": "filestore/merit-badges/artificial-intelligence/artificial-intelligence-counselor-guidelines.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3590,7 +3590,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Note-to-Counselor-Artificial-Intelligence-(AI)-Merit-Badge.pdf"
     },
     {
-        "destination": "public/merit-badges/aviation/aviation-camp-director-guide.pdf",
+        "destination": "filestore/merit-badges/aviation/aviation-camp-director-guide.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3614,7 +3614,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Aviation-Merit-Badge-Example-Program.pdf"
     },
     {
-        "destination": "public/merit-badges/aviation/aviation-counselor-presentation.pptx",
+        "destination": "filestore/merit-badges/aviation/aviation-counselor-presentation.pptx",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3638,7 +3638,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Aviation%20Merit%20Badge%20-%20Multimedia%20Counselor%20Presentation%20-%20v4%20-%20FINAL.pptx"
     },
     {
-        "destination": "public/merit-badges/aviation/aviation-event-coordinator-guide.pdf",
+        "destination": "filestore/merit-badges/aviation/aviation-event-coordinator-guide.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3662,7 +3662,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Aviation-Merit-Badge-Day-Event-Coordinator-Template.pdf"
     },
     {
-        "destination": "public/merit-badges/citizenship-in-society/citizenship-in-society-counselor-guide.pdf",
+        "destination": "filestore/merit-badges/citizenship-in-society/citizenship-in-society-counselor-guide.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3686,7 +3686,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Citizenship-in-Society-Merit-Badge-Counselor-Guide-2021.pdf"
     },
     {
-        "destination": "public/merit-badges/environmental-science/environmental-science-counselor-guidelines.pdf",
+        "destination": "filestore/merit-badges/environmental-science/environmental-science-counselor-guidelines.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3709,7 +3709,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Environmental_Science_2025_Note_to_Counselor.pdf"
     },
     {
-        "destination": "public/merit-badges/environmental-science/environmental-science-resources.pdf",
+        "destination": "filestore/merit-badges/environmental-science/environmental-science-resources.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",
@@ -3732,7 +3732,7 @@
         "url": "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Environmental_Science_2025_Resources.pdf"
     },
     {
-        "destination": "public/merit-badges/artificial-intelligence/artificial-intelligence-digital-resources.pdf",
+        "destination": "filestore/merit-badges/artificial-intelligence/artificial-intelligence-digital-resources.pdf",
         "headers": {
             "accept-ranges": "bytes",
             "access-control-allow-origin": "*",

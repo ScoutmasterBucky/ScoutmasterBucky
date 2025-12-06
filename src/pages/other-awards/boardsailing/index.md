@@ -28,8 +28,9 @@ ready assistance.
 All requirements must be completed as stated. Basic skills and safety
 precautions are presented in the Scouting America publication: [Aquatics
 Supervision: A Youth Leader's Guide for Swimming and Boating Activities, No.
-34346](/other-awards/aquatics-guide.pdf). Additional resources may be found
-online at [www.uswindsurfing.org](https://www.uswindsurfing.org) and
+34346](https://filestore.scoutmasterbucky.com/other-awards/aquatics-guide.pdf).
+Additional resources may be found online at
+[www.uswindsurfing.org](https://www.uswindsurfing.org) and
 [www.ussailing.org](https://www.ussailing.org).
 
 _Swimsuit / swim trunks emblem - The Boardsailing BSA patch is NOT worn on the
@@ -41,5 +42,6 @@ with their achievement card. Completion indicates the individual has
 experienced a valuable introduction to boardsailing.
 
 For more information and the award application, read [Aquatics Supervision -
-Leader's Guide](/other-awards/aquatics-guide.pdf). The award application is
-contained in the appendix.
+Leader's
+Guide](https://filestore.scoutmasterbucky.com/other-awards/aquatics-guide.pdf).
+The award application is contained in the appendix.

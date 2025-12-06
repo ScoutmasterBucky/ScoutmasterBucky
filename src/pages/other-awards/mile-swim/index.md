@@ -107,5 +107,6 @@ with their achievement card. Completion indicates the individual has
 experienced a valuable introduction to distance swimming.
 
 For more information and the award application, read [Aquatics Supervision -
-Leader's Guide](/other-awards/aquatics-guide.pdf). The award application is
-contained in the appendix.
+Leader's
+Guide](https://filestore.scoutmasterbucky.com/other-awards/aquatics-guide.pdf).
+The award application is contained in the appendix.

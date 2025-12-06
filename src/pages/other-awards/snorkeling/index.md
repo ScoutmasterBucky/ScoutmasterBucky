@@ -31,11 +31,13 @@ participant to first demonstrate knowledge and skills equivalent to the
 Snorkeling requirements.
 
 [Aquatics Supervision: A Leader's Guide to Youth Swimming and Boating
-Activities, No. 34346](/other-awards/aquatics-guide.pdf), provides reference
-material for Snorkeling BSA instruction. Scuba training agencies, equipment
-manufacturers, and others occasionally publish references available online and
-through bookstores and dive shops. Although few dedicated snorkeling texts are
-available, instruction manuals for scuba diving contain pertinent information.
+Activities, No.
+34346](https://filestore.scoutmasterbucky.com/other-awards/aquatics-guide.pdf),
+provides reference material for Snorkeling BSA instruction. Scuba training
+agencies, equipment manufacturers, and others occasionally publish references
+available online and through bookstores and dive shops. Although few dedicated
+snorkeling texts are available, instruction manuals for scuba diving contain
+pertinent information.
 
 All requirements must be completed as stated on the application form. The
 counselor may not omit, vary, or add requirements. The skill requirements are
@@ -59,5 +61,6 @@ with their achievement card. Completion indicates the individual has
 experienced a valuable introduction to snorkeling.
 
 For more information and the award application, read [Aquatics Supervision -
-Leader's Guide](/other-awards/aquatics-guide.pdf). The award application is
-contained in the appendix.
+Leader's
+Guide](https://filestore.scoutmasterbucky.com/other-awards/aquatics-guide.pdf).
+The award application is contained in the appendix.

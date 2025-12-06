@@ -10,4 +10,4 @@ After completing the Complete Angler recognition, these older Scouts can become 
 
 _The Complete Angler patch is available as a patch which may be worn as a temproary patch on the right pocket of any Scouting uniform._
 
-[Complete Angler Award Application](complete-angler.pdf)
+[Complete Angler Award Application](https://filestore.scoutmasterbucky.com/other-awards/complete-angler/complete-angler.pdf)
