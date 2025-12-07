@@ -13,7 +13,8 @@ const testLabInfo = (await getEntry('testLabs', testLab))?.data;
 <Tile>
     <a href={`/test-labs/${testLab}/`}>
         <img src={testLabInfo.image} alt={testLabInfo.name} />
-        <div>{testLabInfo.name}</div>
+        <div class="name">{testLabInfo.name}</div>
+        <div class="expires">Expires {testLabInfo.expires}</div>
     </a>
 </Tile>
 
@@ -33,8 +34,16 @@ const testLabInfo = (await getEntry('testLabs', testLab))?.data;
         width: auto;
     }
 
-    div {
+    .name {
         font-weight: bold;
         color: var(--smb-text-color);
+        font-size: 1.1em;
+        text-align: center;
+    }
+
+    .expires {
+        font-size: 0.8em;
+        font-style: italic;
+        text-align: center;
     }
 </style>

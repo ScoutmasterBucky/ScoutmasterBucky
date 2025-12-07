@@ -177,9 +177,11 @@ const testLabResources = defineCollection({
 const testLabs = defineCollection({
     loader: file('./src/data/test-labs.yaml'),
     schema: z.strictObject({
+        badge: z.string().optional(),
         expires: z.string(),
         image: z.string(),
         name: z.string(),
+        purchaseUrl: z.string().url().optional(),
         survey: z.string().url(),
     }),
 });
