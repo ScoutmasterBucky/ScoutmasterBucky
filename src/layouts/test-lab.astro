@@ -86,9 +86,33 @@ let hasResources = checkRequirementsForResources(requirements);
         <ScaledContent>
             <img src={info.image} alt="Test Lab Badge" class="wide" />
         </ScaledContent>
+        {info.purchaseUrl && (
+            <ScaledContent>
+                <a href={info.purchaseUrl} target="_blank" rel="noopener">
+                    <img src={info.badge} alt="Produced Patch" class="wide" />
+                    <div>
+                        Available Now!
+                    </div>
+                </a>
+            </ScaledContent>
+        )}
     </div>
 
     <slot />
+
+    {info.purchaseUrl && (
+        <h3>Test Lab Badge Patch</h3>
+
+        <p>For most achivements and events in Scouting, patches are created to commemorate the accomplishment. Looking back on the patches you have earned is a great way to remember your Scouting experiences. Also, patches are a major trading item among Scouts.</p>
+
+        <p>Scouting America does not create or sell patches for the Test Lab badges during their pilot phase. However, an unofficial patch has been created by Scoutmaster Bucky. This patch can only be worn on the back of the merit badge sash as the front is reserved for official merit badges.</p>
+
+        <p>
+            <a href={info.purchaseUrl} target="_blank" rel="noopener">
+                Purchase the Test Lab Badge Here!
+            </a>
+        </p>
+    )}
 
     <h3>Resources</h3>
 
