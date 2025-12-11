@@ -4,11 +4,7 @@ import DefaultLayout from '~/layouts/default-layout.astro';
 
 <script>
     window.dataLayer = window.dataLayer || [];
-    window.dataLayer.push({
-        event: '404_error',
-        pagePath: window.location.pathname + window.location.search,
-        referrer: document.referrer,
-    });
+    window.dataLayer.push({ event: '404_error' });
 </script>
 <DefaultLayout title="404 - Not Found">
     <offer-suggestions>
