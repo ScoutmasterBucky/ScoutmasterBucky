@@ -41,6 +41,7 @@
     },
     "dependencies": {
         "@johnwargo/link-checker": "^0.0.9",
+        "glob-to-regexp": "^0.4.1",
         "luxon": "^3.7.2"
     }
 }

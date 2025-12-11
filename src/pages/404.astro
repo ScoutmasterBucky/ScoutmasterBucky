@@ -1,0 +1,22 @@
+---
+import DefaultLayout from '~/layouts/default-layout.astro';
+---
+
+<DefaultLayout title="404 - Not Found">
+    <offer-suggestions>
+        <p>
+            Uh oh! The page you are looking for cannot be found. It may have
+            been removed, had its name changed, or is temporarily unavailable.
+        </p>
+        <p>
+            Additionally, your browser isn't leveraging the suggestions provider
+            that was coded specifically to help in this situation.
+        </p>
+        <p>
+            Try looking for your content by starting on <a href="/"
+                >the homepage</a
+            >.
+        </p>
+    </offer-suggestions>
+</DefaultLayout>
+<script src="~/assets/404-setup.ts"></script>
