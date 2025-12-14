@@ -91,7 +91,7 @@ component(
         `,
     },
     class {
-        suggestions: [];
+        suggestions = [];
 
         onInit() {
             const urlFull = window.location

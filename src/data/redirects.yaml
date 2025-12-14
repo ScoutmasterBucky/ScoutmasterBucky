@@ -1,84 +1,134 @@
+# Generated: American Business
 - match: /merit-badges/american-business/american-business-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/american-business/american-business-cpp.pdf
   date: 2025-12-11
-  title: American merit badge class preparation page
+  title: American Business merit badge class preparation page
 - match: /merit-badges/american-business/american-business-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/american-business/american-business-pamphlet.pdf
   date: 2025-12-11
-  title: American merit badge pamphlet
+  title: American Business merit badge pamphlet
 - match: /merit-badges/american-business/american-business-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/american-business/american-business-workbook.pdf
   date: 2025-12-11
-  title: American merit badge workbook
+  title: American Business merit badge workbook
+- match: /merit-badges/american-business/american-business-workbook-*
+  url: /merit-badges/american-business/
+  date: 2025-12-11
+  title: American Business merit badge workbook options
+- match: /merit-badges/american-business/workbook*
+  url: /merit-badges/american-business/
+  date: 2025-12-14
+  title: American Business merit badge resources, including workbooks
 - match: /merit-badges/american-business/*
   url: /merit-badges/american-business/
   date: 2025-12-11
-  title: American merit badge
+  title: American Business merit badge
+
+# Generated: American Cultures
 - match: /merit-badges/american-cultures/american-cultures-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/american-cultures/american-cultures-cpp.pdf
   date: 2025-12-11
-  title: American merit badge class preparation page
+  title: American Cultures merit badge class preparation page
 - match: /merit-badges/american-cultures/american-cultures-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/american-cultures/american-cultures-pamphlet.pdf
   date: 2025-12-11
-  title: American merit badge pamphlet
+  title: American Cultures merit badge pamphlet
 - match: /merit-badges/american-cultures/american-cultures-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/american-cultures/american-cultures-workbook.pdf
   date: 2025-12-11
-  title: American merit badge workbook
+  title: American Cultures merit badge workbook
+- match: /merit-badges/american-cultures/american-cultures-workbook-*
+  url: /merit-badges/american-cultures/
+  date: 2025-12-11
+  title: American Cultures merit badge workbook options
+- match: /merit-badges/american-cultures/workbook*
+  url: /merit-badges/american-cultures/
+  date: 2025-12-14
+  title: American Cultures merit badge resources, including workbooks
 - match: /merit-badges/american-cultures/*
   url: /merit-badges/american-cultures/
   date: 2025-12-11
-  title: American merit badge
+  title: American Cultures merit badge
+
+# Generated: American Heritage
 - match: /merit-badges/american-heritage/american-heritage-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/american-heritage/american-heritage-cpp.pdf
   date: 2025-12-11
-  title: American merit badge class preparation page
+  title: American Heritage merit badge class preparation page
 - match: /merit-badges/american-heritage/american-heritage-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/american-heritage/american-heritage-pamphlet.pdf
   date: 2025-12-11
-  title: American merit badge pamphlet
+  title: American Heritage merit badge pamphlet
 - match: /merit-badges/american-heritage/american-heritage-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/american-heritage/american-heritage-workbook.pdf
   date: 2025-12-11
-  title: American merit badge workbook
+  title: American Heritage merit badge workbook
+- match: /merit-badges/american-heritage/american-heritage-workbook-*
+  url: /merit-badges/american-heritage/
+  date: 2025-12-11
+  title: American Heritage merit badge workbook options
+- match: /merit-badges/american-heritage/workbook*
+  url: /merit-badges/american-heritage/
+  date: 2025-12-14
+  title: American Heritage merit badge resources, including workbooks
 - match: /merit-badges/american-heritage/*
   url: /merit-badges/american-heritage/
   date: 2025-12-11
-  title: American merit badge
+  title: American Heritage merit badge
+
+# Generated: American Labor
 - match: /merit-badges/american-labor/american-labor-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/american-labor/american-labor-cpp.pdf
   date: 2025-12-11
-  title: American merit badge class preparation page
+  title: American Labor merit badge class preparation page
 - match: /merit-badges/american-labor/american-labor-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/american-labor/american-labor-pamphlet.pdf
   date: 2025-12-11
-  title: American merit badge pamphlet
+  title: American Labor merit badge pamphlet
 - match: /merit-badges/american-labor/american-labor-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/american-labor/american-labor-workbook.pdf
   date: 2025-12-11
-  title: American merit badge workbook
+  title: American Labor merit badge workbook
+- match: /merit-badges/american-labor/american-labor-workbook-*
+  url: /merit-badges/american-labor/
+  date: 2025-12-11
+  title: American Labor merit badge workbook options
+- match: /merit-badges/american-labor/workbook*
+  url: /merit-badges/american-labor/
+  date: 2025-12-14
+  title: American Labor merit badge resources, including workbooks
 - match: /merit-badges/american-labor/*
   url: /merit-badges/american-labor/
   date: 2025-12-11
-  title: American merit badge
+  title: American Labor merit badge
+
+# Generated: Animal Science
 - match: /merit-badges/animal-science/animal-science-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/animal-science/animal-science-cpp.pdf
   date: 2025-12-11
-  title: Animal merit badge class preparation page
+  title: Animal Science merit badge class preparation page
 - match: /merit-badges/animal-science/animal-science-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/animal-science/animal-science-pamphlet.pdf
   date: 2025-12-11
-  title: Animal merit badge pamphlet
-- match: /merit-badges/animal-science/animal-science-workbook*
+  title: Animal Science merit badge pamphlet
+- match: /merit-badges/animal-science/animal-science-workbook.pdf
+  url: https://filestore.scoutmasterbucky.com/merit-badges/animal-science/animal-science-workbook.pdf
+  date: 2025-12-11
+  title: Animal Science merit badge workbook
+- match: /merit-badges/animal-science/animal-science-workbook-*
   url: /merit-badges/animal-science/
   date: 2025-12-11
-  title: Animal merit badge workbooks
-  description: Select the appropriate workbook from the list
+  title: Animal Science merit badge workbook options
+- match: /merit-badges/animal-science/workbook*
+  url: /merit-badges/animal-science/
+  date: 2025-12-14
+  title: Animal Science merit badge resources, including workbooks
 - match: /merit-badges/animal-science/*
   url: /merit-badges/animal-science/
   date: 2025-12-11
-  title: Animal merit badge
+  title: Animal Science merit badge
+
+# Generated: Animation
 - match: /merit-badges/animation/animation-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/animation/animation-cpp.pdf
   date: 2025-12-11
@@ -91,10 +141,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/animation/animation-workbook.pdf
   date: 2025-12-11
   title: Animation merit badge workbook
+- match: /merit-badges/animation/animation-workbook-*
+  url: /merit-badges/animation/
+  date: 2025-12-11
+  title: Animation merit badge workbook options
+- match: /merit-badges/animation/workbook*
+  url: /merit-badges/animation/
+  date: 2025-12-14
+  title: Animation merit badge resources, including workbooks
 - match: /merit-badges/animation/*
   url: /merit-badges/animation/
   date: 2025-12-11
   title: Animation merit badge
+
+# Generated: Archaeology
 - match: /merit-badges/archaeology/archaeology-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/archaeology/archaeology-cpp.pdf
   date: 2025-12-11
@@ -107,10 +167,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/archaeology/archaeology-workbook.pdf
   date: 2025-12-11
   title: Archaeology merit badge workbook
+- match: /merit-badges/archaeology/archaeology-workbook-*
+  url: /merit-badges/archaeology/
+  date: 2025-12-11
+  title: Archaeology merit badge workbook options
+- match: /merit-badges/archaeology/workbook*
+  url: /merit-badges/archaeology/
+  date: 2025-12-14
+  title: Archaeology merit badge resources, including workbooks
 - match: /merit-badges/archaeology/*
   url: /merit-badges/archaeology/
   date: 2025-12-11
   title: Archaeology merit badge
+
+# Generated: Archery
 - match: /merit-badges/archery/archery-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/archery/archery-cpp.pdf
   date: 2025-12-11
@@ -123,10 +193,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/archery/archery-workbook.pdf
   date: 2025-12-11
   title: Archery merit badge workbook
+- match: /merit-badges/archery/archery-workbook-*
+  url: /merit-badges/archery/
+  date: 2025-12-11
+  title: Archery merit badge workbook options
+- match: /merit-badges/archery/workbook*
+  url: /merit-badges/archery/
+  date: 2025-12-14
+  title: Archery merit badge resources, including workbooks
 - match: /merit-badges/archery/*
   url: /merit-badges/archery/
   date: 2025-12-11
   title: Archery merit badge
+
+# Generated: Architecture
 - match: /merit-badges/architecture/architecture-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/architecture/architecture-cpp.pdf
   date: 2025-12-11
@@ -139,10 +219,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/architecture/architecture-workbook.pdf
   date: 2025-12-11
   title: Architecture merit badge workbook
+- match: /merit-badges/architecture/architecture-workbook-*
+  url: /merit-badges/architecture/
+  date: 2025-12-11
+  title: Architecture merit badge workbook options
+- match: /merit-badges/architecture/workbook*
+  url: /merit-badges/architecture/
+  date: 2025-12-14
+  title: Architecture merit badge resources, including workbooks
 - match: /merit-badges/architecture/*
   url: /merit-badges/architecture/
   date: 2025-12-11
   title: Architecture merit badge
+
+# Generated: Art
 - match: /merit-badges/art/art-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/art/art-cpp.pdf
   date: 2025-12-11
@@ -155,34 +245,46 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/art/art-workbook.pdf
   date: 2025-12-11
   title: Art merit badge workbook
+- match: /merit-badges/art/art-workbook-*
+  url: /merit-badges/art/
+  date: 2025-12-11
+  title: Art merit badge workbook options
+- match: /merit-badges/art/workbook*
+  url: /merit-badges/art/
+  date: 2025-12-14
+  title: Art merit badge resources, including workbooks
 - match: /merit-badges/art/*
   url: /merit-badges/art/
   date: 2025-12-11
   title: Art merit badge
-- match: /merit-badges/artificial-intelligence/artificial-intelligence-counselor-guidelines.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/artificial-intelligence/artificial-intelligence-counselor-guidelines.pdf
-  date: 2025-12-11
-  title: Artificial merit badge counselor guidelines
-- match: /merit-badges/artificial-intelligence/artificial-intelligence-digital-resources.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/artificial-intelligence/artificial-intelligence-digital-resources.pdf
-  date: 2025-12-11
-  title: Artificial merit badge digital resources
+
+# Generated: Artificial Intelligence
 - match: /merit-badges/artificial-intelligence/artificial-intelligence-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/artificial-intelligence/artificial-intelligence-cpp.pdf
   date: 2025-12-11
-  title: Artificial merit badge class preparation page
+  title: Artificial Intelligence merit badge class preparation page
 - match: /merit-badges/artificial-intelligence/artificial-intelligence-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/artificial-intelligence/artificial-intelligence-pamphlet.pdf
   date: 2025-12-11
-  title: Artificial merit badge pamphlet
+  title: Artificial Intelligence merit badge pamphlet
 - match: /merit-badges/artificial-intelligence/artificial-intelligence-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/artificial-intelligence/artificial-intelligence-workbook.pdf
   date: 2025-12-11
-  title: Artificial merit badge workbook
+  title: Artificial Intelligence merit badge workbook
+- match: /merit-badges/artificial-intelligence/artificial-intelligence-workbook-*
+  url: /merit-badges/artificial-intelligence/
+  date: 2025-12-11
+  title: Artificial Intelligence merit badge workbook options
+- match: /merit-badges/artificial-intelligence/workbook*
+  url: /merit-badges/artificial-intelligence/
+  date: 2025-12-14
+  title: Artificial Intelligence merit badge resources, including workbooks
 - match: /merit-badges/artificial-intelligence/*
   url: /merit-badges/artificial-intelligence/
   date: 2025-12-11
-  title: Artificial merit badge
+  title: Artificial Intelligence merit badge
+
+# Generated: Astronomy
 - match: /merit-badges/astronomy/astronomy-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/astronomy/astronomy-cpp.pdf
   date: 2025-12-11
@@ -195,10 +297,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/astronomy/astronomy-workbook.pdf
   date: 2025-12-11
   title: Astronomy merit badge workbook
+- match: /merit-badges/astronomy/astronomy-workbook-*
+  url: /merit-badges/astronomy/
+  date: 2025-12-11
+  title: Astronomy merit badge workbook options
+- match: /merit-badges/astronomy/workbook*
+  url: /merit-badges/astronomy/
+  date: 2025-12-14
+  title: Astronomy merit badge resources, including workbooks
 - match: /merit-badges/astronomy/*
   url: /merit-badges/astronomy/
   date: 2025-12-11
   title: Astronomy merit badge
+
+# Generated: Athletics
 - match: /merit-badges/athletics/athletics-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/athletics/athletics-cpp.pdf
   date: 2025-12-11
@@ -211,38 +323,46 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/athletics/athletics-workbook.pdf
   date: 2025-12-11
   title: Athletics merit badge workbook
+- match: /merit-badges/athletics/athletics-workbook-*
+  url: /merit-badges/athletics/
+  date: 2025-12-11
+  title: Athletics merit badge workbook options
+- match: /merit-badges/athletics/workbook*
+  url: /merit-badges/athletics/
+  date: 2025-12-14
+  title: Athletics merit badge resources, including workbooks
 - match: /merit-badges/athletics/*
   url: /merit-badges/athletics/
   date: 2025-12-11
   title: Athletics merit badge
+
+# Generated: Automotive Maintenance
 - match: /merit-badges/automotive-maintenance/automotive-maintenance-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/automotive-maintenance/automotive-maintenance-cpp.pdf
   date: 2025-12-11
-  title: Automotive merit badge class preparation page
+  title: Automotive Maintenance merit badge class preparation page
 - match: /merit-badges/automotive-maintenance/automotive-maintenance-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/automotive-maintenance/automotive-maintenance-pamphlet.pdf
   date: 2025-12-11
-  title: Automotive merit badge pamphlet
+  title: Automotive Maintenance merit badge pamphlet
 - match: /merit-badges/automotive-maintenance/automotive-maintenance-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/automotive-maintenance/automotive-maintenance-workbook.pdf
   date: 2025-12-11
-  title: Automotive merit badge workbook
+  title: Automotive Maintenance merit badge workbook
+- match: /merit-badges/automotive-maintenance/automotive-maintenance-workbook-*
+  url: /merit-badges/automotive-maintenance/
+  date: 2025-12-11
+  title: Automotive Maintenance merit badge workbook options
+- match: /merit-badges/automotive-maintenance/workbook*
+  url: /merit-badges/automotive-maintenance/
+  date: 2025-12-14
+  title: Automotive Maintenance merit badge resources, including workbooks
 - match: /merit-badges/automotive-maintenance/*
   url: /merit-badges/automotive-maintenance/
   date: 2025-12-11
-  title: Automotive merit badge
-- match: /merit-badges/aviation/aviation-camp-director-guide.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/aviation/aviation-camp-director-guide.pdf
-  date: 2025-12-11
-  title: Aviation merit badge camp director guide
-- match: /merit-badges/aviation/aviation-counselor-presentation.pptx
-  url: https://filestore.scoutmasterbucky.com/merit-badges/aviation/aviation-counselor-presentation.pptx
-  date: 2025-12-11
-  title: Aviation merit badge counselor presentation
-- match: /merit-badges/aviation/aviation-event-coordinator-guide.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/aviation/aviation-event-coordinator-guide.pdf
-  date: 2025-12-11
-  title: Aviation merit badge class preparation page
+  title: Automotive Maintenance merit badge
+
+# Generated: Aviation
 - match: /merit-badges/aviation/aviation-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/aviation/aviation-cpp.pdf
   date: 2025-12-11
@@ -255,10 +375,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/aviation/aviation-workbook.pdf
   date: 2025-12-11
   title: Aviation merit badge workbook
+- match: /merit-badges/aviation/aviation-workbook-*
+  url: /merit-badges/aviation/
+  date: 2025-12-11
+  title: Aviation merit badge workbook options
+- match: /merit-badges/aviation/workbook*
+  url: /merit-badges/aviation/
+  date: 2025-12-14
+  title: Aviation merit badge resources, including workbooks
 - match: /merit-badges/aviation/*
   url: /merit-badges/aviation/
   date: 2025-12-11
   title: Aviation merit badge
+
+# Generated: Backpacking
 - match: /merit-badges/backpacking/backpacking-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/backpacking/backpacking-cpp.pdf
   date: 2025-12-11
@@ -271,10 +401,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/backpacking/backpacking-workbook.pdf
   date: 2025-12-11
   title: Backpacking merit badge workbook
+- match: /merit-badges/backpacking/backpacking-workbook-*
+  url: /merit-badges/backpacking/
+  date: 2025-12-11
+  title: Backpacking merit badge workbook options
+- match: /merit-badges/backpacking/workbook*
+  url: /merit-badges/backpacking/
+  date: 2025-12-14
+  title: Backpacking merit badge resources, including workbooks
 - match: /merit-badges/backpacking/*
   url: /merit-badges/backpacking/
   date: 2025-12-11
   title: Backpacking merit badge
+
+# Generated: Basketry
 - match: /merit-badges/basketry/basketry-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/basketry/basketry-cpp.pdf
   date: 2025-12-11
@@ -287,30 +427,46 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/basketry/basketry-workbook.pdf
   date: 2025-12-11
   title: Basketry merit badge workbook
+- match: /merit-badges/basketry/basketry-workbook-*
+  url: /merit-badges/basketry/
+  date: 2025-12-11
+  title: Basketry merit badge workbook options
+- match: /merit-badges/basketry/workbook*
+  url: /merit-badges/basketry/
+  date: 2025-12-14
+  title: Basketry merit badge resources, including workbooks
 - match: /merit-badges/basketry/*
   url: /merit-badges/basketry/
   date: 2025-12-11
   title: Basketry merit badge
-- match: /merit-badges/bird-study/scoutmaster-bucky-bird-study-field-notebook.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/bird-study/scoutmaster-bucky-bird-study-field-notebook.pdf
-  date: 2025-12-11
-  title: Scoutmaster Bucky Bird Study field notebook
+
+# Generated: Bird Study
 - match: /merit-badges/bird-study/bird-study-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/bird-study/bird-study-cpp.pdf
   date: 2025-12-11
-  title: Bird merit badge class preparation page
+  title: Bird Study merit badge class preparation page
 - match: /merit-badges/bird-study/bird-study-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/bird-study/bird-study-pamphlet.pdf
   date: 2025-12-11
-  title: Bird merit badge pamphlet
+  title: Bird Study merit badge pamphlet
 - match: /merit-badges/bird-study/bird-study-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/bird-study/bird-study-workbook.pdf
   date: 2025-12-11
-  title: Bird merit badge workbook
+  title: Bird Study merit badge workbook
+- match: /merit-badges/bird-study/bird-study-workbook-*
+  url: /merit-badges/bird-study/
+  date: 2025-12-11
+  title: Bird Study merit badge workbook options
+- match: /merit-badges/bird-study/workbook*
+  url: /merit-badges/bird-study/
+  date: 2025-12-14
+  title: Bird Study merit badge resources, including workbooks
 - match: /merit-badges/bird-study/*
   url: /merit-badges/bird-study/
   date: 2025-12-11
-  title: Bird merit badge
+  title: Bird Study merit badge
+
+# Generated: Bugling
 - match: /merit-badges/bugling/bugling-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/bugling/bugling-cpp.pdf
   date: 2025-12-11
@@ -323,10 +479,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/bugling/bugling-workbook.pdf
   date: 2025-12-11
   title: Bugling merit badge workbook
+- match: /merit-badges/bugling/bugling-workbook-*
+  url: /merit-badges/bugling/
+  date: 2025-12-11
+  title: Bugling merit badge workbook options
+- match: /merit-badges/bugling/workbook*
+  url: /merit-badges/bugling/
+  date: 2025-12-14
+  title: Bugling merit badge resources, including workbooks
 - match: /merit-badges/bugling/*
   url: /merit-badges/bugling/
   date: 2025-12-11
   title: Bugling merit badge
+
+# Generated: Camping
 - match: /merit-badges/camping/camping-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/camping/camping-cpp.pdf
   date: 2025-12-11
@@ -339,10 +505,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/camping/camping-workbook.pdf
   date: 2025-12-11
   title: Camping merit badge workbook
+- match: /merit-badges/camping/camping-workbook-*
+  url: /merit-badges/camping/
+  date: 2025-12-11
+  title: Camping merit badge workbook options
+- match: /merit-badges/camping/workbook*
+  url: /merit-badges/camping/
+  date: 2025-12-14
+  title: Camping merit badge resources, including workbooks
 - match: /merit-badges/camping/*
   url: /merit-badges/camping/
   date: 2025-12-11
   title: Camping merit badge
+
+# Generated: Canoeing
 - match: /merit-badges/canoeing/canoeing-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/canoeing/canoeing-cpp.pdf
   date: 2025-12-11
@@ -355,22 +531,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/canoeing/canoeing-workbook.pdf
   date: 2025-12-11
   title: Canoeing merit badge workbook
+- match: /merit-badges/canoeing/canoeing-workbook-*
+  url: /merit-badges/canoeing/
+  date: 2025-12-11
+  title: Canoeing merit badge workbook options
+- match: /merit-badges/canoeing/workbook*
+  url: /merit-badges/canoeing/
+  date: 2025-12-14
+  title: Canoeing merit badge resources, including workbooks
 - match: /merit-badges/canoeing/*
   url: /merit-badges/canoeing/
   date: 2025-12-11
   title: Canoeing merit badge
-- match: /merit-badges/chemistry/sds-isopropyl-alcohol.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/chemistry/sds-isopropyl-alcohol.pdf
-  date: 2025-12-11
-  title: SDS isopropyl alcohol safety data sheet
-- match: /merit-badges/chemistry/sds-sugar.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/chemistry/sds-sugar.pdf
-  date: 2025-12-11
-  title: SDS sugar safety data sheet
-- match: /merit-badges/chemistry/sds-waterproofing-spray.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/chemistry/sds-waterproofing-spray.pdf
-  date: 2025-12-11
-  title: SDS waterproofing spray safety data sheet
+
+# Generated: Chemistry
 - match: /merit-badges/chemistry/chemistry-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/chemistry/chemistry-cpp.pdf
   date: 2025-12-11
@@ -383,10 +557,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/chemistry/chemistry-workbook.pdf
   date: 2025-12-11
   title: Chemistry merit badge workbook
+- match: /merit-badges/chemistry/chemistry-workbook-*
+  url: /merit-badges/chemistry/
+  date: 2025-12-11
+  title: Chemistry merit badge workbook options
+- match: /merit-badges/chemistry/workbook*
+  url: /merit-badges/chemistry/
+  date: 2025-12-14
+  title: Chemistry merit badge resources, including workbooks
 - match: /merit-badges/chemistry/*
   url: /merit-badges/chemistry/
   date: 2025-12-11
   title: Chemistry merit badge
+
+# Generated: Chess
 - match: /merit-badges/chess/chess-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/chess/chess-cpp.pdf
   date: 2025-12-11
@@ -399,78 +583,124 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/chess/chess-workbook.pdf
   date: 2025-12-11
   title: Chess merit badge workbook
+- match: /merit-badges/chess/chess-workbook-*
+  url: /merit-badges/chess/
+  date: 2025-12-11
+  title: Chess merit badge workbook options
+- match: /merit-badges/chess/workbook*
+  url: /merit-badges/chess/
+  date: 2025-12-14
+  title: Chess merit badge resources, including workbooks
 - match: /merit-badges/chess/*
   url: /merit-badges/chess/
   date: 2025-12-11
   title: Chess merit badge
-- match: /merit-badges/citizenship-in-society/citizenship-in-society-counselor-guide.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/citizenship-in-society/citizenship-in-society-counselor-guide.pdf
-  date: 2025-12-11
-  title: Citizenship merit badge counselor guide
+
+# Generated: Citizenship in Society
 - match: /merit-badges/citizenship-in-society/citizenship-in-society-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/citizenship-in-society/citizenship-in-society-cpp.pdf
   date: 2025-12-11
-  title: Citizenship merit badge class preparation page
+  title: Citizenship in Society merit badge class preparation page
 - match: /merit-badges/citizenship-in-society/citizenship-in-society-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/citizenship-in-society/citizenship-in-society-pamphlet.pdf
   date: 2025-12-11
-  title: Citizenship merit badge pamphlet
+  title: Citizenship in Society merit badge pamphlet
 - match: /merit-badges/citizenship-in-society/citizenship-in-society-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/citizenship-in-society/citizenship-in-society-workbook.pdf
   date: 2025-12-11
-  title: Citizenship merit badge workbook
+  title: Citizenship in Society merit badge workbook
+- match: /merit-badges/citizenship-in-society/citizenship-in-society-workbook-*
+  url: /merit-badges/citizenship-in-society/
+  date: 2025-12-11
+  title: Citizenship in Society merit badge workbook options
+- match: /merit-badges/citizenship-in-society/workbook*
+  url: /merit-badges/citizenship-in-society/
+  date: 2025-12-14
+  title: Citizenship in Society merit badge resources, including workbooks
 - match: /merit-badges/citizenship-in-society/*
   url: /merit-badges/citizenship-in-society/
   date: 2025-12-11
-  title: Citizenship merit badge
+  title: Citizenship in Society merit badge
+
+# Generated: Citizenship in the Community
 - match: /merit-badges/citizenship-in-the-community/citizenship-in-the-community-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/citizenship-in-the-community/citizenship-in-the-community-cpp.pdf
   date: 2025-12-11
-  title: Citizenship merit badge class preparation page
+  title: Citizenship in the Community merit badge class preparation page
 - match: /merit-badges/citizenship-in-the-community/citizenship-in-the-community-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/citizenship-in-the-community/citizenship-in-the-community-pamphlet.pdf
   date: 2025-12-11
-  title: Citizenship merit badge pamphlet
+  title: Citizenship in the Community merit badge pamphlet
 - match: /merit-badges/citizenship-in-the-community/citizenship-in-the-community-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/citizenship-in-the-community/citizenship-in-the-community-workbook.pdf
   date: 2025-12-11
-  title: Citizenship merit badge workbook
+  title: Citizenship in the Community merit badge workbook
+- match: /merit-badges/citizenship-in-the-community/citizenship-in-the-community-workbook-*
+  url: /merit-badges/citizenship-in-the-community/
+  date: 2025-12-11
+  title: Citizenship in the Community merit badge workbook options
+- match: /merit-badges/citizenship-in-the-community/workbook*
+  url: /merit-badges/citizenship-in-the-community/
+  date: 2025-12-14
+  title: Citizenship in the Community merit badge resources, including workbooks
 - match: /merit-badges/citizenship-in-the-community/*
   url: /merit-badges/citizenship-in-the-community/
   date: 2025-12-11
-  title: Citizenship merit badge
+  title: Citizenship in the Community merit badge
+
+# Generated: Citizenship in the Nation
 - match: /merit-badges/citizenship-in-the-nation/citizenship-in-the-nation-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/citizenship-in-the-nation/citizenship-in-the-nation-cpp.pdf
   date: 2025-12-11
-  title: Citizenship merit badge class preparation page
+  title: Citizenship in the Nation merit badge class preparation page
 - match: /merit-badges/citizenship-in-the-nation/citizenship-in-the-nation-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/citizenship-in-the-nation/citizenship-in-the-nation-pamphlet.pdf
   date: 2025-12-11
-  title: Citizenship merit badge pamphlet
+  title: Citizenship in the Nation merit badge pamphlet
 - match: /merit-badges/citizenship-in-the-nation/citizenship-in-the-nation-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/citizenship-in-the-nation/citizenship-in-the-nation-workbook.pdf
   date: 2025-12-11
-  title: Citizenship merit badge workbook
+  title: Citizenship in the Nation merit badge workbook
+- match: /merit-badges/citizenship-in-the-nation/citizenship-in-the-nation-workbook-*
+  url: /merit-badges/citizenship-in-the-nation/
+  date: 2025-12-11
+  title: Citizenship in the Nation merit badge workbook options
+- match: /merit-badges/citizenship-in-the-nation/workbook*
+  url: /merit-badges/citizenship-in-the-nation/
+  date: 2025-12-14
+  title: Citizenship in the Nation merit badge resources, including workbooks
 - match: /merit-badges/citizenship-in-the-nation/*
   url: /merit-badges/citizenship-in-the-nation/
   date: 2025-12-11
-  title: Citizenship merit badge
+  title: Citizenship in the Nation merit badge
+
+# Generated: Citizenship in the World
 - match: /merit-badges/citizenship-in-the-world/citizenship-in-the-world-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/citizenship-in-the-world/citizenship-in-the-world-cpp.pdf
   date: 2025-12-11
-  title: Citizenship merit badge class preparation page
+  title: Citizenship in the World merit badge class preparation page
 - match: /merit-badges/citizenship-in-the-world/citizenship-in-the-world-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/citizenship-in-the-world/citizenship-in-the-world-pamphlet.pdf
   date: 2025-12-11
-  title: Citizenship merit badge pamphlet
+  title: Citizenship in the World merit badge pamphlet
 - match: /merit-badges/citizenship-in-the-world/citizenship-in-the-world-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/citizenship-in-the-world/citizenship-in-the-world-workbook.pdf
   date: 2025-12-11
-  title: Citizenship merit badge workbook
+  title: Citizenship in the World merit badge workbook
+- match: /merit-badges/citizenship-in-the-world/citizenship-in-the-world-workbook-*
+  url: /merit-badges/citizenship-in-the-world/
+  date: 2025-12-11
+  title: Citizenship in the World merit badge workbook options
+- match: /merit-badges/citizenship-in-the-world/workbook*
+  url: /merit-badges/citizenship-in-the-world/
+  date: 2025-12-14
+  title: Citizenship in the World merit badge resources, including workbooks
 - match: /merit-badges/citizenship-in-the-world/*
   url: /merit-badges/citizenship-in-the-world/
   date: 2025-12-11
-  title: Citizenship merit badge
+  title: Citizenship in the World merit badge
+
+# Generated: Climbing
 - match: /merit-badges/climbing/climbing-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/climbing/climbing-cpp.pdf
   date: 2025-12-11
@@ -483,26 +713,46 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/climbing/climbing-workbook.pdf
   date: 2025-12-11
   title: Climbing merit badge workbook
+- match: /merit-badges/climbing/climbing-workbook-*
+  url: /merit-badges/climbing/
+  date: 2025-12-11
+  title: Climbing merit badge workbook options
+- match: /merit-badges/climbing/workbook*
+  url: /merit-badges/climbing/
+  date: 2025-12-14
+  title: Climbing merit badge resources, including workbooks
 - match: /merit-badges/climbing/*
   url: /merit-badges/climbing/
   date: 2025-12-11
   title: Climbing merit badge
+
+# Generated: Coin Collecting
 - match: /merit-badges/coin-collecting/coin-collecting-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/coin-collecting/coin-collecting-cpp.pdf
   date: 2025-12-11
-  title: Coin merit badge class preparation page
+  title: Coin Collecting merit badge class preparation page
 - match: /merit-badges/coin-collecting/coin-collecting-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/coin-collecting/coin-collecting-pamphlet.pdf
   date: 2025-12-11
-  title: Coin merit badge pamphlet
+  title: Coin Collecting merit badge pamphlet
 - match: /merit-badges/coin-collecting/coin-collecting-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/coin-collecting/coin-collecting-workbook.pdf
   date: 2025-12-11
-  title: Coin merit badge workbook
+  title: Coin Collecting merit badge workbook
+- match: /merit-badges/coin-collecting/coin-collecting-workbook-*
+  url: /merit-badges/coin-collecting/
+  date: 2025-12-11
+  title: Coin Collecting merit badge workbook options
+- match: /merit-badges/coin-collecting/workbook*
+  url: /merit-badges/coin-collecting/
+  date: 2025-12-14
+  title: Coin Collecting merit badge resources, including workbooks
 - match: /merit-badges/coin-collecting/*
   url: /merit-badges/coin-collecting/
   date: 2025-12-11
-  title: Coin merit badge
+  title: Coin Collecting merit badge
+
+# Generated: Collections
 - match: /merit-badges/collections/collections-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/collections/collections-cpp.pdf
   date: 2025-12-11
@@ -515,10 +765,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/collections/collections-workbook.pdf
   date: 2025-12-11
   title: Collections merit badge workbook
+- match: /merit-badges/collections/collections-workbook-*
+  url: /merit-badges/collections/
+  date: 2025-12-11
+  title: Collections merit badge workbook options
+- match: /merit-badges/collections/workbook*
+  url: /merit-badges/collections/
+  date: 2025-12-14
+  title: Collections merit badge resources, including workbooks
 - match: /merit-badges/collections/*
   url: /merit-badges/collections/
   date: 2025-12-11
   title: Collections merit badge
+
+# Generated: Communication
 - match: /merit-badges/communication/communication-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/communication/communication-cpp.pdf
   date: 2025-12-11
@@ -531,26 +791,46 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/communication/communication-workbook.pdf
   date: 2025-12-11
   title: Communication merit badge workbook
+- match: /merit-badges/communication/communication-workbook-*
+  url: /merit-badges/communication/
+  date: 2025-12-11
+  title: Communication merit badge workbook options
+- match: /merit-badges/communication/workbook*
+  url: /merit-badges/communication/
+  date: 2025-12-14
+  title: Communication merit badge resources, including workbooks
 - match: /merit-badges/communication/*
   url: /merit-badges/communication/
   date: 2025-12-11
   title: Communication merit badge
+
+# Generated: Composite Materials
 - match: /merit-badges/composite-materials/composite-materials-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/composite-materials/composite-materials-cpp.pdf
   date: 2025-12-11
-  title: Composite merit badge class preparation page
+  title: Composite Materials merit badge class preparation page
 - match: /merit-badges/composite-materials/composite-materials-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/composite-materials/composite-materials-pamphlet.pdf
   date: 2025-12-11
-  title: Composite merit badge pamphlet
+  title: Composite Materials merit badge pamphlet
 - match: /merit-badges/composite-materials/composite-materials-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/composite-materials/composite-materials-workbook.pdf
   date: 2025-12-11
-  title: Composite merit badge workbook
+  title: Composite Materials merit badge workbook
+- match: /merit-badges/composite-materials/composite-materials-workbook-*
+  url: /merit-badges/composite-materials/
+  date: 2025-12-11
+  title: Composite Materials merit badge workbook options
+- match: /merit-badges/composite-materials/workbook*
+  url: /merit-badges/composite-materials/
+  date: 2025-12-14
+  title: Composite Materials merit badge resources, including workbooks
 - match: /merit-badges/composite-materials/*
   url: /merit-badges/composite-materials/
   date: 2025-12-11
-  title: Composite merit badge
+  title: Composite Materials merit badge
+
+# Generated: Cooking
 - match: /merit-badges/cooking/cooking-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/cooking/cooking-cpp.pdf
   date: 2025-12-11
@@ -563,26 +843,46 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/cooking/cooking-workbook.pdf
   date: 2025-12-11
   title: Cooking merit badge workbook
+- match: /merit-badges/cooking/cooking-workbook-*
+  url: /merit-badges/cooking/
+  date: 2025-12-11
+  title: Cooking merit badge workbook options
+- match: /merit-badges/cooking/workbook*
+  url: /merit-badges/cooking/
+  date: 2025-12-14
+  title: Cooking merit badge resources, including workbooks
 - match: /merit-badges/cooking/*
   url: /merit-badges/cooking/
   date: 2025-12-11
   title: Cooking merit badge
+
+# Generated: Crime Prevention
 - match: /merit-badges/crime-prevention/crime-prevention-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/crime-prevention/crime-prevention-cpp.pdf
   date: 2025-12-11
-  title: Crime merit badge class preparation page
+  title: Crime Prevention merit badge class preparation page
 - match: /merit-badges/crime-prevention/crime-prevention-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/crime-prevention/crime-prevention-pamphlet.pdf
   date: 2025-12-11
-  title: Crime merit badge pamphlet
+  title: Crime Prevention merit badge pamphlet
 - match: /merit-badges/crime-prevention/crime-prevention-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/crime-prevention/crime-prevention-workbook.pdf
   date: 2025-12-11
-  title: Crime merit badge workbook
+  title: Crime Prevention merit badge workbook
+- match: /merit-badges/crime-prevention/crime-prevention-workbook-*
+  url: /merit-badges/crime-prevention/
+  date: 2025-12-11
+  title: Crime Prevention merit badge workbook options
+- match: /merit-badges/crime-prevention/workbook*
+  url: /merit-badges/crime-prevention/
+  date: 2025-12-14
+  title: Crime Prevention merit badge resources, including workbooks
 - match: /merit-badges/crime-prevention/*
   url: /merit-badges/crime-prevention/
   date: 2025-12-11
-  title: Crime merit badge
+  title: Crime Prevention merit badge
+
+# Generated: Cybersecurity
 - match: /merit-badges/cybersecurity/cybersecurity-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/cybersecurity/cybersecurity-cpp.pdf
   date: 2025-12-11
@@ -595,10 +895,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/cybersecurity/cybersecurity-workbook.pdf
   date: 2025-12-11
   title: Cybersecurity merit badge workbook
+- match: /merit-badges/cybersecurity/cybersecurity-workbook-*
+  url: /merit-badges/cybersecurity/
+  date: 2025-12-11
+  title: Cybersecurity merit badge workbook options
+- match: /merit-badges/cybersecurity/workbook*
+  url: /merit-badges/cybersecurity/
+  date: 2025-12-14
+  title: Cybersecurity merit badge resources, including workbooks
 - match: /merit-badges/cybersecurity/*
   url: /merit-badges/cybersecurity/
   date: 2025-12-11
   title: Cybersecurity merit badge
+
+# Generated: Cycling
 - match: /merit-badges/cycling/cycling-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/cycling/cycling-cpp.pdf
   date: 2025-12-11
@@ -611,10 +921,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/cycling/cycling-workbook.pdf
   date: 2025-12-11
   title: Cycling merit badge workbook
+- match: /merit-badges/cycling/cycling-workbook-*
+  url: /merit-badges/cycling/
+  date: 2025-12-11
+  title: Cycling merit badge workbook options
+- match: /merit-badges/cycling/workbook*
+  url: /merit-badges/cycling/
+  date: 2025-12-14
+  title: Cycling merit badge resources, including workbooks
 - match: /merit-badges/cycling/*
   url: /merit-badges/cycling/
   date: 2025-12-11
   title: Cycling merit badge
+
+# Generated: Dentistry
 - match: /merit-badges/dentistry/dentistry-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/dentistry/dentistry-cpp.pdf
   date: 2025-12-11
@@ -627,58 +947,98 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/dentistry/dentistry-workbook.pdf
   date: 2025-12-11
   title: Dentistry merit badge workbook
+- match: /merit-badges/dentistry/dentistry-workbook-*
+  url: /merit-badges/dentistry/
+  date: 2025-12-11
+  title: Dentistry merit badge workbook options
+- match: /merit-badges/dentistry/workbook*
+  url: /merit-badges/dentistry/
+  date: 2025-12-14
+  title: Dentistry merit badge resources, including workbooks
 - match: /merit-badges/dentistry/*
   url: /merit-badges/dentistry/
   date: 2025-12-11
   title: Dentistry merit badge
+
+# Generated: Digital Technology
 - match: /merit-badges/digital-technology/digital-technology-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/digital-technology/digital-technology-cpp.pdf
   date: 2025-12-11
-  title: Digital merit badge class preparation page
+  title: Digital Technology merit badge class preparation page
 - match: /merit-badges/digital-technology/digital-technology-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/digital-technology/digital-technology-pamphlet.pdf
   date: 2025-12-11
-  title: Digital merit badge pamphlet
+  title: Digital Technology merit badge pamphlet
 - match: /merit-badges/digital-technology/digital-technology-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/digital-technology/digital-technology-workbook.pdf
   date: 2025-12-11
-  title: Digital merit badge workbook
+  title: Digital Technology merit badge workbook
+- match: /merit-badges/digital-technology/digital-technology-workbook-*
+  url: /merit-badges/digital-technology/
+  date: 2025-12-11
+  title: Digital Technology merit badge workbook options
+- match: /merit-badges/digital-technology/workbook*
+  url: /merit-badges/digital-technology/
+  date: 2025-12-14
+  title: Digital Technology merit badge resources, including workbooks
 - match: /merit-badges/digital-technology/*
   url: /merit-badges/digital-technology/
   date: 2025-12-11
-  title: Digital merit badge
+  title: Digital Technology merit badge
+
+# Generated: Disabilities Awareness
 - match: /merit-badges/disabilities-awareness/disabilities-awareness-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/disabilities-awareness/disabilities-awareness-cpp.pdf
   date: 2025-12-11
-  title: Disabilities merit badge class preparation page
+  title: Disabilities Awareness merit badge class preparation page
 - match: /merit-badges/disabilities-awareness/disabilities-awareness-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/disabilities-awareness/disabilities-awareness-pamphlet.pdf
   date: 2025-12-11
-  title: Disabilities merit badge pamphlet
+  title: Disabilities Awareness merit badge pamphlet
 - match: /merit-badges/disabilities-awareness/disabilities-awareness-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/disabilities-awareness/disabilities-awareness-workbook.pdf
   date: 2025-12-11
-  title: Disabilities merit badge workbook
+  title: Disabilities Awareness merit badge workbook
+- match: /merit-badges/disabilities-awareness/disabilities-awareness-workbook-*
+  url: /merit-badges/disabilities-awareness/
+  date: 2025-12-11
+  title: Disabilities Awareness merit badge workbook options
+- match: /merit-badges/disabilities-awareness/workbook*
+  url: /merit-badges/disabilities-awareness/
+  date: 2025-12-14
+  title: Disabilities Awareness merit badge resources, including workbooks
 - match: /merit-badges/disabilities-awareness/*
   url: /merit-badges/disabilities-awareness/
   date: 2025-12-11
-  title: Disabilities merit badge
+  title: Disabilities Awareness merit badge
+
+# Generated: Dog Care
 - match: /merit-badges/dog-care/dog-care-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/dog-care/dog-care-cpp.pdf
   date: 2025-12-11
-  title: Dog merit badge class preparation page
+  title: Dog Care merit badge class preparation page
 - match: /merit-badges/dog-care/dog-care-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/dog-care/dog-care-pamphlet.pdf
   date: 2025-12-11
-  title: Dog merit badge pamphlet
+  title: Dog Care merit badge pamphlet
 - match: /merit-badges/dog-care/dog-care-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/dog-care/dog-care-workbook.pdf
   date: 2025-12-11
-  title: Dog merit badge workbook
+  title: Dog Care merit badge workbook
+- match: /merit-badges/dog-care/dog-care-workbook-*
+  url: /merit-badges/dog-care/
+  date: 2025-12-11
+  title: Dog Care merit badge workbook options
+- match: /merit-badges/dog-care/workbook*
+  url: /merit-badges/dog-care/
+  date: 2025-12-14
+  title: Dog Care merit badge resources, including workbooks
 - match: /merit-badges/dog-care/*
   url: /merit-badges/dog-care/
   date: 2025-12-11
-  title: Dog merit badge
+  title: Dog Care merit badge
+
+# Generated: Drafting
 - match: /merit-badges/drafting/drafting-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/drafting/drafting-cpp.pdf
   date: 2025-12-11
@@ -691,10 +1051,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/drafting/drafting-workbook.pdf
   date: 2025-12-11
   title: Drafting merit badge workbook
+- match: /merit-badges/drafting/drafting-workbook-*
+  url: /merit-badges/drafting/
+  date: 2025-12-11
+  title: Drafting merit badge workbook options
+- match: /merit-badges/drafting/workbook*
+  url: /merit-badges/drafting/
+  date: 2025-12-14
+  title: Drafting merit badge resources, including workbooks
 - match: /merit-badges/drafting/*
   url: /merit-badges/drafting/
   date: 2025-12-11
   title: Drafting merit badge
+
+# Generated: Electricity
 - match: /merit-badges/electricity/electricity-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/electricity/electricity-cpp.pdf
   date: 2025-12-11
@@ -707,10 +1077,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/electricity/electricity-workbook.pdf
   date: 2025-12-11
   title: Electricity merit badge workbook
+- match: /merit-badges/electricity/electricity-workbook-*
+  url: /merit-badges/electricity/
+  date: 2025-12-11
+  title: Electricity merit badge workbook options
+- match: /merit-badges/electricity/workbook*
+  url: /merit-badges/electricity/
+  date: 2025-12-14
+  title: Electricity merit badge resources, including workbooks
 - match: /merit-badges/electricity/*
   url: /merit-badges/electricity/
   date: 2025-12-11
   title: Electricity merit badge
+
+# Generated: Electronics
 - match: /merit-badges/electronics/electronics-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/electronics/electronics-cpp.pdf
   date: 2025-12-11
@@ -723,26 +1103,46 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/electronics/electronics-workbook.pdf
   date: 2025-12-11
   title: Electronics merit badge workbook
+- match: /merit-badges/electronics/electronics-workbook-*
+  url: /merit-badges/electronics/
+  date: 2025-12-11
+  title: Electronics merit badge workbook options
+- match: /merit-badges/electronics/workbook*
+  url: /merit-badges/electronics/
+  date: 2025-12-14
+  title: Electronics merit badge resources, including workbooks
 - match: /merit-badges/electronics/*
   url: /merit-badges/electronics/
   date: 2025-12-11
   title: Electronics merit badge
+
+# Generated: Emergency Preparedness
 - match: /merit-badges/emergency-preparedness/emergency-preparedness-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/emergency-preparedness/emergency-preparedness-cpp.pdf
   date: 2025-12-11
-  title: Emergency merit badge class preparation page
+  title: Emergency Preparedness merit badge class preparation page
 - match: /merit-badges/emergency-preparedness/emergency-preparedness-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/emergency-preparedness/emergency-preparedness-pamphlet.pdf
   date: 2025-12-11
-  title: Emergency merit badge pamphlet
+  title: Emergency Preparedness merit badge pamphlet
 - match: /merit-badges/emergency-preparedness/emergency-preparedness-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/emergency-preparedness/emergency-preparedness-workbook.pdf
   date: 2025-12-11
-  title: Emergency merit badge workbook
+  title: Emergency Preparedness merit badge workbook
+- match: /merit-badges/emergency-preparedness/emergency-preparedness-workbook-*
+  url: /merit-badges/emergency-preparedness/
+  date: 2025-12-11
+  title: Emergency Preparedness merit badge workbook options
+- match: /merit-badges/emergency-preparedness/workbook*
+  url: /merit-badges/emergency-preparedness/
+  date: 2025-12-14
+  title: Emergency Preparedness merit badge resources, including workbooks
 - match: /merit-badges/emergency-preparedness/*
   url: /merit-badges/emergency-preparedness/
   date: 2025-12-11
-  title: Emergency merit badge
+  title: Emergency Preparedness merit badge
+
+# Generated: Energy
 - match: /merit-badges/energy/energy-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/energy/energy-cpp.pdf
   date: 2025-12-11
@@ -755,10 +1155,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/energy/energy-workbook.pdf
   date: 2025-12-11
   title: Energy merit badge workbook
+- match: /merit-badges/energy/energy-workbook-*
+  url: /merit-badges/energy/
+  date: 2025-12-11
+  title: Energy merit badge workbook options
+- match: /merit-badges/energy/workbook*
+  url: /merit-badges/energy/
+  date: 2025-12-14
+  title: Energy merit badge resources, including workbooks
 - match: /merit-badges/energy/*
   url: /merit-badges/energy/
   date: 2025-12-11
   title: Energy merit badge
+
+# Generated: Engineering
 - match: /merit-badges/engineering/engineering-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/engineering/engineering-cpp.pdf
   date: 2025-12-11
@@ -771,10 +1181,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/engineering/engineering-workbook.pdf
   date: 2025-12-11
   title: Engineering merit badge workbook
+- match: /merit-badges/engineering/engineering-workbook-*
+  url: /merit-badges/engineering/
+  date: 2025-12-11
+  title: Engineering merit badge workbook options
+- match: /merit-badges/engineering/workbook*
+  url: /merit-badges/engineering/
+  date: 2025-12-14
+  title: Engineering merit badge resources, including workbooks
 - match: /merit-badges/engineering/*
   url: /merit-badges/engineering/
   date: 2025-12-11
   title: Engineering merit badge
+
+# Generated: Entrepreneurship
 - match: /merit-badges/entrepreneurship/entrepreneurship-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/entrepreneurship/entrepreneurship-cpp.pdf
   date: 2025-12-11
@@ -787,34 +1207,46 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/entrepreneurship/entrepreneurship-workbook.pdf
   date: 2025-12-11
   title: Entrepreneurship merit badge workbook
+- match: /merit-badges/entrepreneurship/entrepreneurship-workbook-*
+  url: /merit-badges/entrepreneurship/
+  date: 2025-12-11
+  title: Entrepreneurship merit badge workbook options
+- match: /merit-badges/entrepreneurship/workbook*
+  url: /merit-badges/entrepreneurship/
+  date: 2025-12-14
+  title: Entrepreneurship merit badge resources, including workbooks
 - match: /merit-badges/entrepreneurship/*
   url: /merit-badges/entrepreneurship/
   date: 2025-12-11
   title: Entrepreneurship merit badge
-- match: /merit-badges/environmental-science/environmental-science-counselor-guidelines.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/environmental-science/environmental-science-counselor-guidelines.pdf
-  date: 2025-12-11
-  title: Environmental merit badge counselor guidelines
-- match: /merit-badges/environmental-science/environmental-science-resources.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/environmental-science/environmental-science-resources.pdf
-  date: 2025-12-11
-  title: Environmental merit badge resources
+
+# Generated: Environmental Science
 - match: /merit-badges/environmental-science/environmental-science-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/environmental-science/environmental-science-cpp.pdf
   date: 2025-12-11
-  title: Environmental merit badge class preparation page
+  title: Environmental Science merit badge class preparation page
 - match: /merit-badges/environmental-science/environmental-science-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/environmental-science/environmental-science-pamphlet.pdf
   date: 2025-12-11
-  title: Environmental merit badge pamphlet
+  title: Environmental Science merit badge pamphlet
 - match: /merit-badges/environmental-science/environmental-science-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/environmental-science/environmental-science-workbook.pdf
   date: 2025-12-11
-  title: Environmental merit badge workbook
+  title: Environmental Science merit badge workbook
+- match: /merit-badges/environmental-science/environmental-science-workbook-*
+  url: /merit-badges/environmental-science/
+  date: 2025-12-11
+  title: Environmental Science merit badge workbook options
+- match: /merit-badges/environmental-science/workbook*
+  url: /merit-badges/environmental-science/
+  date: 2025-12-14
+  title: Environmental Science merit badge resources, including workbooks
 - match: /merit-badges/environmental-science/*
   url: /merit-badges/environmental-science/
   date: 2025-12-11
-  title: Environmental merit badge
+  title: Environmental Science merit badge
+
+# Generated: Exploration
 - match: /merit-badges/exploration/exploration-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/exploration/exploration-cpp.pdf
   date: 2025-12-11
@@ -827,42 +1259,72 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/exploration/exploration-workbook.pdf
   date: 2025-12-11
   title: Exploration merit badge workbook
+- match: /merit-badges/exploration/exploration-workbook-*
+  url: /merit-badges/exploration/
+  date: 2025-12-11
+  title: Exploration merit badge workbook options
+- match: /merit-badges/exploration/workbook*
+  url: /merit-badges/exploration/
+  date: 2025-12-14
+  title: Exploration merit badge resources, including workbooks
 - match: /merit-badges/exploration/*
   url: /merit-badges/exploration/
   date: 2025-12-11
   title: Exploration merit badge
+
+# Generated: Family Life
 - match: /merit-badges/family-life/family-life-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/family-life/family-life-cpp.pdf
   date: 2025-12-11
-  title: Family merit badge class preparation page
+  title: Family Life merit badge class preparation page
 - match: /merit-badges/family-life/family-life-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/family-life/family-life-pamphlet.pdf
   date: 2025-12-11
-  title: Family merit badge pamphlet
+  title: Family Life merit badge pamphlet
 - match: /merit-badges/family-life/family-life-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/family-life/family-life-workbook.pdf
   date: 2025-12-11
-  title: Family merit badge workbook
+  title: Family Life merit badge workbook
+- match: /merit-badges/family-life/family-life-workbook-*
+  url: /merit-badges/family-life/
+  date: 2025-12-11
+  title: Family Life merit badge workbook options
+- match: /merit-badges/family-life/workbook*
+  url: /merit-badges/family-life/
+  date: 2025-12-14
+  title: Family Life merit badge resources, including workbooks
 - match: /merit-badges/family-life/*
   url: /merit-badges/family-life/
   date: 2025-12-11
-  title: Family merit badge
+  title: Family Life merit badge
+
+# Generated: Farm Mechanics
 - match: /merit-badges/farm-mechanics/farm-mechanics-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/farm-mechanics/farm-mechanics-cpp.pdf
   date: 2025-12-11
-  title: Farm merit badge class preparation page
+  title: Farm Mechanics merit badge class preparation page
 - match: /merit-badges/farm-mechanics/farm-mechanics-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/farm-mechanics/farm-mechanics-pamphlet.pdf
   date: 2025-12-11
-  title: Farm merit badge pamphlet
+  title: Farm Mechanics merit badge pamphlet
 - match: /merit-badges/farm-mechanics/farm-mechanics-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/farm-mechanics/farm-mechanics-workbook.pdf
   date: 2025-12-11
-  title: Farm merit badge workbook
+  title: Farm Mechanics merit badge workbook
+- match: /merit-badges/farm-mechanics/farm-mechanics-workbook-*
+  url: /merit-badges/farm-mechanics/
+  date: 2025-12-11
+  title: Farm Mechanics merit badge workbook options
+- match: /merit-badges/farm-mechanics/workbook*
+  url: /merit-badges/farm-mechanics/
+  date: 2025-12-14
+  title: Farm Mechanics merit badge resources, including workbooks
 - match: /merit-badges/farm-mechanics/*
   url: /merit-badges/farm-mechanics/
   date: 2025-12-11
-  title: Farm merit badge
+  title: Farm Mechanics merit badge
+
+# Generated: Fingerprinting
 - match: /merit-badges/fingerprinting/fingerprinting-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/fingerprinting/fingerprinting-cpp.pdf
   date: 2025-12-11
@@ -875,58 +1337,98 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/fingerprinting/fingerprinting-workbook.pdf
   date: 2025-12-11
   title: Fingerprinting merit badge workbook
+- match: /merit-badges/fingerprinting/fingerprinting-workbook-*
+  url: /merit-badges/fingerprinting/
+  date: 2025-12-11
+  title: Fingerprinting merit badge workbook options
+- match: /merit-badges/fingerprinting/workbook*
+  url: /merit-badges/fingerprinting/
+  date: 2025-12-14
+  title: Fingerprinting merit badge resources, including workbooks
 - match: /merit-badges/fingerprinting/*
   url: /merit-badges/fingerprinting/
   date: 2025-12-11
   title: Fingerprinting merit badge
+
+# Generated: Fire Safety
 - match: /merit-badges/fire-safety/fire-safety-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/fire-safety/fire-safety-cpp.pdf
   date: 2025-12-11
-  title: Fire merit badge class preparation page
+  title: Fire Safety merit badge class preparation page
 - match: /merit-badges/fire-safety/fire-safety-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/fire-safety/fire-safety-pamphlet.pdf
   date: 2025-12-11
-  title: Fire merit badge pamphlet
+  title: Fire Safety merit badge pamphlet
 - match: /merit-badges/fire-safety/fire-safety-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/fire-safety/fire-safety-workbook.pdf
   date: 2025-12-11
-  title: Fire merit badge workbook
+  title: Fire Safety merit badge workbook
+- match: /merit-badges/fire-safety/fire-safety-workbook-*
+  url: /merit-badges/fire-safety/
+  date: 2025-12-11
+  title: Fire Safety merit badge workbook options
+- match: /merit-badges/fire-safety/workbook*
+  url: /merit-badges/fire-safety/
+  date: 2025-12-14
+  title: Fire Safety merit badge resources, including workbooks
 - match: /merit-badges/fire-safety/*
   url: /merit-badges/fire-safety/
   date: 2025-12-11
-  title: Fire merit badge
+  title: Fire Safety merit badge
+
+# Generated: First Aid
 - match: /merit-badges/first-aid/first-aid-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/first-aid/first-aid-cpp.pdf
   date: 2025-12-11
-  title: First merit badge class preparation page
+  title: First Aid merit badge class preparation page
 - match: /merit-badges/first-aid/first-aid-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/first-aid/first-aid-pamphlet.pdf
   date: 2025-12-11
-  title: First merit badge pamphlet
+  title: First Aid merit badge pamphlet
 - match: /merit-badges/first-aid/first-aid-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/first-aid/first-aid-workbook.pdf
   date: 2025-12-11
-  title: First merit badge workbook
+  title: First Aid merit badge workbook
+- match: /merit-badges/first-aid/first-aid-workbook-*
+  url: /merit-badges/first-aid/
+  date: 2025-12-11
+  title: First Aid merit badge workbook options
+- match: /merit-badges/first-aid/workbook*
+  url: /merit-badges/first-aid/
+  date: 2025-12-14
+  title: First Aid merit badge resources, including workbooks
 - match: /merit-badges/first-aid/*
   url: /merit-badges/first-aid/
   date: 2025-12-11
-  title: First merit badge
+  title: First Aid merit badge
+
+# Generated: Fish and Wildlife Management
 - match: /merit-badges/fish-and-wildlife-management/fish-and-wildlife-management-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/fish-and-wildlife-management/fish-and-wildlife-management-cpp.pdf
   date: 2025-12-11
-  title: Fish merit badge class preparation page
+  title: Fish and Wildlife Management merit badge class preparation page
 - match: /merit-badges/fish-and-wildlife-management/fish-and-wildlife-management-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/fish-and-wildlife-management/fish-and-wildlife-management-pamphlet.pdf
   date: 2025-12-11
-  title: Fish merit badge pamphlet
+  title: Fish and Wildlife Management merit badge pamphlet
 - match: /merit-badges/fish-and-wildlife-management/fish-and-wildlife-management-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/fish-and-wildlife-management/fish-and-wildlife-management-workbook.pdf
   date: 2025-12-11
-  title: Fish merit badge workbook
+  title: Fish and Wildlife Management merit badge workbook
+- match: /merit-badges/fish-and-wildlife-management/fish-and-wildlife-management-workbook-*
+  url: /merit-badges/fish-and-wildlife-management/
+  date: 2025-12-11
+  title: Fish and Wildlife Management merit badge workbook options
+- match: /merit-badges/fish-and-wildlife-management/workbook*
+  url: /merit-badges/fish-and-wildlife-management/
+  date: 2025-12-14
+  title: Fish and Wildlife Management merit badge resources, including workbooks
 - match: /merit-badges/fish-and-wildlife-management/*
   url: /merit-badges/fish-and-wildlife-management/
   date: 2025-12-11
-  title: Fish merit badge
+  title: Fish and Wildlife Management merit badge
+
+# Generated: Fishing
 - match: /merit-badges/fishing/fishing-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/fishing/fishing-cpp.pdf
   date: 2025-12-11
@@ -939,30 +1441,46 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/fishing/fishing-workbook.pdf
   date: 2025-12-11
   title: Fishing merit badge workbook
+- match: /merit-badges/fishing/fishing-workbook-*
+  url: /merit-badges/fishing/
+  date: 2025-12-11
+  title: Fishing merit badge workbook options
+- match: /merit-badges/fishing/workbook*
+  url: /merit-badges/fishing/
+  date: 2025-12-14
+  title: Fishing merit badge resources, including workbooks
 - match: /merit-badges/fishing/*
   url: /merit-badges/fishing/
   date: 2025-12-11
   title: Fishing merit badge
+
+# Generated: Fly Fishing
 - match: /merit-badges/fly-fishing/fly-fishing-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/fly-fishing/fly-fishing-cpp.pdf
   date: 2025-12-11
-  title: Fly merit badge class preparation page
+  title: Fly Fishing merit badge class preparation page
 - match: /merit-badges/fly-fishing/fly-fishing-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/fly-fishing/fly-fishing-pamphlet.pdf
   date: 2025-12-11
-  title: Fly merit badge pamphlet
+  title: Fly Fishing merit badge pamphlet
 - match: /merit-badges/fly-fishing/fly-fishing-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/fly-fishing/fly-fishing-workbook.pdf
   date: 2025-12-11
-  title: Fly merit badge workbook
+  title: Fly Fishing merit badge workbook
+- match: /merit-badges/fly-fishing/fly-fishing-workbook-*
+  url: /merit-badges/fly-fishing/
+  date: 2025-12-11
+  title: Fly Fishing merit badge workbook options
+- match: /merit-badges/fly-fishing/workbook*
+  url: /merit-badges/fly-fishing/
+  date: 2025-12-14
+  title: Fly Fishing merit badge resources, including workbooks
 - match: /merit-badges/fly-fishing/*
   url: /merit-badges/fly-fishing/
   date: 2025-12-11
-  title: Fly merit badge
-- match: /merit-badges/forestry/scoutmaster-bucky-forestry-field-notebook.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/forestry/scoutmaster-bucky-forestry-field-notebook.pdf
-  date: 2025-12-11
-  title: Scoutmaster Bucky Forestry field notebook
+  title: Fly Fishing merit badge
+
+# Generated: Forestry
 - match: /merit-badges/forestry/forestry-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/forestry/forestry-cpp.pdf
   date: 2025-12-11
@@ -975,30 +1493,46 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/forestry/forestry-workbook.pdf
   date: 2025-12-11
   title: Forestry merit badge workbook
+- match: /merit-badges/forestry/forestry-workbook-*
+  url: /merit-badges/forestry/
+  date: 2025-12-11
+  title: Forestry merit badge workbook options
+- match: /merit-badges/forestry/workbook*
+  url: /merit-badges/forestry/
+  date: 2025-12-14
+  title: Forestry merit badge resources, including workbooks
 - match: /merit-badges/forestry/*
   url: /merit-badges/forestry/
   date: 2025-12-11
   title: Forestry merit badge
-- match: /merit-badges/game-design/scoutmaster-bucky-game-design-notebook.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/game-design/scoutmaster-bucky-game-design-notebook.pdf
-  date: 2025-12-11
-  title: Scoutmaster Bucky Game Design notebook
+
+# Generated: Game Design
 - match: /merit-badges/game-design/game-design-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/game-design/game-design-cpp.pdf
   date: 2025-12-11
-  title: Game merit badge class preparation page
+  title: Game Design merit badge class preparation page
 - match: /merit-badges/game-design/game-design-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/game-design/game-design-pamphlet.pdf
   date: 2025-12-11
-  title: Game merit badge pamphlet
+  title: Game Design merit badge pamphlet
 - match: /merit-badges/game-design/game-design-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/game-design/game-design-workbook.pdf
   date: 2025-12-11
-  title: Game merit badge workbook
+  title: Game Design merit badge workbook
+- match: /merit-badges/game-design/game-design-workbook-*
+  url: /merit-badges/game-design/
+  date: 2025-12-11
+  title: Game Design merit badge workbook options
+- match: /merit-badges/game-design/workbook*
+  url: /merit-badges/game-design/
+  date: 2025-12-14
+  title: Game Design merit badge resources, including workbooks
 - match: /merit-badges/game-design/*
   url: /merit-badges/game-design/
   date: 2025-12-11
-  title: Game merit badge
+  title: Game Design merit badge
+
+# Generated: Gardening
 - match: /merit-badges/gardening/gardening-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/gardening/gardening-cpp.pdf
   date: 2025-12-11
@@ -1011,10 +1545,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/gardening/gardening-workbook.pdf
   date: 2025-12-11
   title: Gardening merit badge workbook
+- match: /merit-badges/gardening/gardening-workbook-*
+  url: /merit-badges/gardening/
+  date: 2025-12-11
+  title: Gardening merit badge workbook options
+- match: /merit-badges/gardening/workbook*
+  url: /merit-badges/gardening/
+  date: 2025-12-14
+  title: Gardening merit badge resources, including workbooks
 - match: /merit-badges/gardening/*
   url: /merit-badges/gardening/
   date: 2025-12-11
   title: Gardening merit badge
+
+# Generated: Genealogy
 - match: /merit-badges/genealogy/genealogy-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/genealogy/genealogy-cpp.pdf
   date: 2025-12-11
@@ -1027,10 +1571,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/genealogy/genealogy-workbook.pdf
   date: 2025-12-11
   title: Genealogy merit badge workbook
+- match: /merit-badges/genealogy/genealogy-workbook-*
+  url: /merit-badges/genealogy/
+  date: 2025-12-11
+  title: Genealogy merit badge workbook options
+- match: /merit-badges/genealogy/workbook*
+  url: /merit-badges/genealogy/
+  date: 2025-12-14
+  title: Genealogy merit badge resources, including workbooks
 - match: /merit-badges/genealogy/*
   url: /merit-badges/genealogy/
   date: 2025-12-11
   title: Genealogy merit badge
+
+# Generated: Geocaching
 - match: /merit-badges/geocaching/geocaching-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/geocaching/geocaching-cpp.pdf
   date: 2025-12-11
@@ -1043,10 +1597,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/geocaching/geocaching-workbook.pdf
   date: 2025-12-11
   title: Geocaching merit badge workbook
+- match: /merit-badges/geocaching/geocaching-workbook-*
+  url: /merit-badges/geocaching/
+  date: 2025-12-11
+  title: Geocaching merit badge workbook options
+- match: /merit-badges/geocaching/workbook*
+  url: /merit-badges/geocaching/
+  date: 2025-12-14
+  title: Geocaching merit badge resources, including workbooks
 - match: /merit-badges/geocaching/*
   url: /merit-badges/geocaching/
   date: 2025-12-11
   title: Geocaching merit badge
+
+# Generated: Geology
 - match: /merit-badges/geology/geology-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/geology/geology-cpp.pdf
   date: 2025-12-11
@@ -1055,15 +1619,24 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/geology/geology-pamphlet.pdf
   date: 2025-12-11
   title: Geology merit badge pamphlet
-- match: /merit-badges/geology/geology-workbook*
+- match: /merit-badges/geology/geology-workbook.pdf
+  url: https://filestore.scoutmasterbucky.com/merit-badges/geology/geology-workbook.pdf
+  date: 2025-12-11
+  title: Geology merit badge workbook
+- match: /merit-badges/geology/geology-workbook-*
   url: /merit-badges/geology/
   date: 2025-12-11
-  title: Geology merit badge workbooks
-  description: Select the appropriate workbook from the list
+  title: Geology merit badge workbook options
+- match: /merit-badges/geology/workbook*
+  url: /merit-badges/geology/
+  date: 2025-12-14
+  title: Geology merit badge resources, including workbooks
 - match: /merit-badges/geology/*
   url: /merit-badges/geology/
   date: 2025-12-11
   title: Geology merit badge
+
+# Generated: Golf
 - match: /merit-badges/golf/golf-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/golf/golf-cpp.pdf
   date: 2025-12-11
@@ -1076,42 +1649,72 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/golf/golf-workbook.pdf
   date: 2025-12-11
   title: Golf merit badge workbook
+- match: /merit-badges/golf/golf-workbook-*
+  url: /merit-badges/golf/
+  date: 2025-12-11
+  title: Golf merit badge workbook options
+- match: /merit-badges/golf/workbook*
+  url: /merit-badges/golf/
+  date: 2025-12-14
+  title: Golf merit badge resources, including workbooks
 - match: /merit-badges/golf/*
   url: /merit-badges/golf/
   date: 2025-12-11
   title: Golf merit badge
+
+# Generated: Graphic Arts
 - match: /merit-badges/graphic-arts/graphic-arts-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/graphic-arts/graphic-arts-cpp.pdf
   date: 2025-12-11
-  title: Graphic merit badge class preparation page
+  title: Graphic Arts merit badge class preparation page
 - match: /merit-badges/graphic-arts/graphic-arts-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/graphic-arts/graphic-arts-pamphlet.pdf
   date: 2025-12-11
-  title: Graphic merit badge pamphlet
+  title: Graphic Arts merit badge pamphlet
 - match: /merit-badges/graphic-arts/graphic-arts-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/graphic-arts/graphic-arts-workbook.pdf
   date: 2025-12-11
-  title: Graphic merit badge workbook
+  title: Graphic Arts merit badge workbook
+- match: /merit-badges/graphic-arts/graphic-arts-workbook-*
+  url: /merit-badges/graphic-arts/
+  date: 2025-12-11
+  title: Graphic Arts merit badge workbook options
+- match: /merit-badges/graphic-arts/workbook*
+  url: /merit-badges/graphic-arts/
+  date: 2025-12-14
+  title: Graphic Arts merit badge resources, including workbooks
 - match: /merit-badges/graphic-arts/*
   url: /merit-badges/graphic-arts/
   date: 2025-12-11
-  title: Graphic merit badge
+  title: Graphic Arts merit badge
+
+# Generated: Health Care Professions
 - match: /merit-badges/health-care-professions/health-care-professions-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/health-care-professions/health-care-professions-cpp.pdf
   date: 2025-12-11
-  title: Health merit badge class preparation page
+  title: Health Care Professions merit badge class preparation page
 - match: /merit-badges/health-care-professions/health-care-professions-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/health-care-professions/health-care-professions-pamphlet.pdf
   date: 2025-12-11
-  title: Health merit badge pamphlet
+  title: Health Care Professions merit badge pamphlet
 - match: /merit-badges/health-care-professions/health-care-professions-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/health-care-professions/health-care-professions-workbook.pdf
   date: 2025-12-11
-  title: Health merit badge workbook
+  title: Health Care Professions merit badge workbook
+- match: /merit-badges/health-care-professions/health-care-professions-workbook-*
+  url: /merit-badges/health-care-professions/
+  date: 2025-12-11
+  title: Health Care Professions merit badge workbook options
+- match: /merit-badges/health-care-professions/workbook*
+  url: /merit-badges/health-care-professions/
+  date: 2025-12-14
+  title: Health Care Professions merit badge resources, including workbooks
 - match: /merit-badges/health-care-professions/*
   url: /merit-badges/health-care-professions/
   date: 2025-12-11
-  title: Health merit badge
+  title: Health Care Professions merit badge
+
+# Generated: Hiking
 - match: /merit-badges/hiking/hiking-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/hiking/hiking-cpp.pdf
   date: 2025-12-11
@@ -1124,26 +1727,46 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/hiking/hiking-workbook.pdf
   date: 2025-12-11
   title: Hiking merit badge workbook
+- match: /merit-badges/hiking/hiking-workbook-*
+  url: /merit-badges/hiking/
+  date: 2025-12-11
+  title: Hiking merit badge workbook options
+- match: /merit-badges/hiking/workbook*
+  url: /merit-badges/hiking/
+  date: 2025-12-14
+  title: Hiking merit badge resources, including workbooks
 - match: /merit-badges/hiking/*
   url: /merit-badges/hiking/
   date: 2025-12-11
   title: Hiking merit badge
+
+# Generated: Home Repairs
 - match: /merit-badges/home-repairs/home-repairs-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/home-repairs/home-repairs-cpp.pdf
   date: 2025-12-11
-  title: Home merit badge class preparation page
+  title: Home Repairs merit badge class preparation page
 - match: /merit-badges/home-repairs/home-repairs-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/home-repairs/home-repairs-pamphlet.pdf
   date: 2025-12-11
-  title: Home merit badge pamphlet
+  title: Home Repairs merit badge pamphlet
 - match: /merit-badges/home-repairs/home-repairs-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/home-repairs/home-repairs-workbook.pdf
   date: 2025-12-11
-  title: Home merit badge workbook
+  title: Home Repairs merit badge workbook
+- match: /merit-badges/home-repairs/home-repairs-workbook-*
+  url: /merit-badges/home-repairs/
+  date: 2025-12-11
+  title: Home Repairs merit badge workbook options
+- match: /merit-badges/home-repairs/workbook*
+  url: /merit-badges/home-repairs/
+  date: 2025-12-14
+  title: Home Repairs merit badge resources, including workbooks
 - match: /merit-badges/home-repairs/*
   url: /merit-badges/home-repairs/
   date: 2025-12-11
-  title: Home merit badge
+  title: Home Repairs merit badge
+
+# Generated: Horsemanship
 - match: /merit-badges/horsemanship/horsemanship-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/horsemanship/horsemanship-cpp.pdf
   date: 2025-12-11
@@ -1156,42 +1779,72 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/horsemanship/horsemanship-workbook.pdf
   date: 2025-12-11
   title: Horsemanship merit badge workbook
+- match: /merit-badges/horsemanship/horsemanship-workbook-*
+  url: /merit-badges/horsemanship/
+  date: 2025-12-11
+  title: Horsemanship merit badge workbook options
+- match: /merit-badges/horsemanship/workbook*
+  url: /merit-badges/horsemanship/
+  date: 2025-12-14
+  title: Horsemanship merit badge resources, including workbooks
 - match: /merit-badges/horsemanship/*
   url: /merit-badges/horsemanship/
   date: 2025-12-11
   title: Horsemanship merit badge
+
+# Generated: Indian Lore
 - match: /merit-badges/indian-lore/indian-lore-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/indian-lore/indian-lore-cpp.pdf
   date: 2025-12-11
-  title: Indian merit badge class preparation page
+  title: Indian Lore merit badge class preparation page
 - match: /merit-badges/indian-lore/indian-lore-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/indian-lore/indian-lore-pamphlet.pdf
   date: 2025-12-11
-  title: Indian merit badge pamphlet
+  title: Indian Lore merit badge pamphlet
 - match: /merit-badges/indian-lore/indian-lore-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/indian-lore/indian-lore-workbook.pdf
   date: 2025-12-11
-  title: Indian merit badge workbook
+  title: Indian Lore merit badge workbook
+- match: /merit-badges/indian-lore/indian-lore-workbook-*
+  url: /merit-badges/indian-lore/
+  date: 2025-12-11
+  title: Indian Lore merit badge workbook options
+- match: /merit-badges/indian-lore/workbook*
+  url: /merit-badges/indian-lore/
+  date: 2025-12-14
+  title: Indian Lore merit badge resources, including workbooks
 - match: /merit-badges/indian-lore/*
   url: /merit-badges/indian-lore/
   date: 2025-12-11
-  title: Indian merit badge
+  title: Indian Lore merit badge
+
+# Generated: Insect Study
 - match: /merit-badges/insect-study/insect-study-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/insect-study/insect-study-cpp.pdf
   date: 2025-12-11
-  title: Insect merit badge class preparation page
+  title: Insect Study merit badge class preparation page
 - match: /merit-badges/insect-study/insect-study-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/insect-study/insect-study-pamphlet.pdf
   date: 2025-12-11
-  title: Insect merit badge pamphlet
+  title: Insect Study merit badge pamphlet
 - match: /merit-badges/insect-study/insect-study-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/insect-study/insect-study-workbook.pdf
   date: 2025-12-11
-  title: Insect merit badge workbook
+  title: Insect Study merit badge workbook
+- match: /merit-badges/insect-study/insect-study-workbook-*
+  url: /merit-badges/insect-study/
+  date: 2025-12-11
+  title: Insect Study merit badge workbook options
+- match: /merit-badges/insect-study/workbook*
+  url: /merit-badges/insect-study/
+  date: 2025-12-14
+  title: Insect Study merit badge resources, including workbooks
 - match: /merit-badges/insect-study/*
   url: /merit-badges/insect-study/
   date: 2025-12-11
-  title: Insect merit badge
+  title: Insect Study merit badge
+
+# Generated: Inventing
 - match: /merit-badges/inventing/inventing-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/inventing/inventing-cpp.pdf
   date: 2025-12-11
@@ -1204,10 +1857,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/inventing/inventing-workbook.pdf
   date: 2025-12-11
   title: Inventing merit badge workbook
+- match: /merit-badges/inventing/inventing-workbook-*
+  url: /merit-badges/inventing/
+  date: 2025-12-11
+  title: Inventing merit badge workbook options
+- match: /merit-badges/inventing/workbook*
+  url: /merit-badges/inventing/
+  date: 2025-12-14
+  title: Inventing merit badge resources, including workbooks
 - match: /merit-badges/inventing/*
   url: /merit-badges/inventing/
   date: 2025-12-11
   title: Inventing merit badge
+
+# Generated: Journalism
 - match: /merit-badges/journalism/journalism-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/journalism/journalism-cpp.pdf
   date: 2025-12-11
@@ -1220,10 +1883,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/journalism/journalism-workbook.pdf
   date: 2025-12-11
   title: Journalism merit badge workbook
+- match: /merit-badges/journalism/journalism-workbook-*
+  url: /merit-badges/journalism/
+  date: 2025-12-11
+  title: Journalism merit badge workbook options
+- match: /merit-badges/journalism/workbook*
+  url: /merit-badges/journalism/
+  date: 2025-12-14
+  title: Journalism merit badge resources, including workbooks
 - match: /merit-badges/journalism/*
   url: /merit-badges/journalism/
   date: 2025-12-11
   title: Journalism merit badge
+
+# Generated: Kayaking
 - match: /merit-badges/kayaking/kayaking-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/kayaking/kayaking-cpp.pdf
   date: 2025-12-11
@@ -1236,26 +1909,46 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/kayaking/kayaking-workbook.pdf
   date: 2025-12-11
   title: Kayaking merit badge workbook
+- match: /merit-badges/kayaking/kayaking-workbook-*
+  url: /merit-badges/kayaking/
+  date: 2025-12-11
+  title: Kayaking merit badge workbook options
+- match: /merit-badges/kayaking/workbook*
+  url: /merit-badges/kayaking/
+  date: 2025-12-14
+  title: Kayaking merit badge resources, including workbooks
 - match: /merit-badges/kayaking/*
   url: /merit-badges/kayaking/
   date: 2025-12-11
   title: Kayaking merit badge
+
+# Generated: Landscape Architecture
 - match: /merit-badges/landscape-architecture/landscape-architecture-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/landscape-architecture/landscape-architecture-cpp.pdf
   date: 2025-12-11
-  title: Landscape merit badge class preparation page
+  title: Landscape Architecture merit badge class preparation page
 - match: /merit-badges/landscape-architecture/landscape-architecture-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/landscape-architecture/landscape-architecture-pamphlet.pdf
   date: 2025-12-11
-  title: Landscape merit badge pamphlet
+  title: Landscape Architecture merit badge pamphlet
 - match: /merit-badges/landscape-architecture/landscape-architecture-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/landscape-architecture/landscape-architecture-workbook.pdf
   date: 2025-12-11
-  title: Landscape merit badge workbook
+  title: Landscape Architecture merit badge workbook
+- match: /merit-badges/landscape-architecture/landscape-architecture-workbook-*
+  url: /merit-badges/landscape-architecture/
+  date: 2025-12-11
+  title: Landscape Architecture merit badge workbook options
+- match: /merit-badges/landscape-architecture/workbook*
+  url: /merit-badges/landscape-architecture/
+  date: 2025-12-14
+  title: Landscape Architecture merit badge resources, including workbooks
 - match: /merit-badges/landscape-architecture/*
   url: /merit-badges/landscape-architecture/
   date: 2025-12-11
-  title: Landscape merit badge
+  title: Landscape Architecture merit badge
+
+# Generated: Law
 - match: /merit-badges/law/law-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/law/law-cpp.pdf
   date: 2025-12-11
@@ -1268,10 +1961,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/law/law-workbook.pdf
   date: 2025-12-11
   title: Law merit badge workbook
+- match: /merit-badges/law/law-workbook-*
+  url: /merit-badges/law/
+  date: 2025-12-11
+  title: Law merit badge workbook options
+- match: /merit-badges/law/workbook*
+  url: /merit-badges/law/
+  date: 2025-12-14
+  title: Law merit badge resources, including workbooks
 - match: /merit-badges/law/*
   url: /merit-badges/law/
   date: 2025-12-11
   title: Law merit badge
+
+# Generated: Leatherwork
 - match: /merit-badges/leatherwork/leatherwork-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/leatherwork/leatherwork-cpp.pdf
   date: 2025-12-11
@@ -1284,10 +1987,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/leatherwork/leatherwork-workbook.pdf
   date: 2025-12-11
   title: Leatherwork merit badge workbook
+- match: /merit-badges/leatherwork/leatherwork-workbook-*
+  url: /merit-badges/leatherwork/
+  date: 2025-12-11
+  title: Leatherwork merit badge workbook options
+- match: /merit-badges/leatherwork/workbook*
+  url: /merit-badges/leatherwork/
+  date: 2025-12-14
+  title: Leatherwork merit badge resources, including workbooks
 - match: /merit-badges/leatherwork/*
   url: /merit-badges/leatherwork/
   date: 2025-12-11
   title: Leatherwork merit badge
+
+# Generated: Lifesaving
 - match: /merit-badges/lifesaving/lifesaving-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/lifesaving/lifesaving-cpp.pdf
   date: 2025-12-11
@@ -1300,26 +2013,46 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/lifesaving/lifesaving-workbook.pdf
   date: 2025-12-11
   title: Lifesaving merit badge workbook
+- match: /merit-badges/lifesaving/lifesaving-workbook-*
+  url: /merit-badges/lifesaving/
+  date: 2025-12-11
+  title: Lifesaving merit badge workbook options
+- match: /merit-badges/lifesaving/workbook*
+  url: /merit-badges/lifesaving/
+  date: 2025-12-14
+  title: Lifesaving merit badge resources, including workbooks
 - match: /merit-badges/lifesaving/*
   url: /merit-badges/lifesaving/
   date: 2025-12-11
   title: Lifesaving merit badge
+
+# Generated: Mammal Study
 - match: /merit-badges/mammal-study/mammal-study-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/mammal-study/mammal-study-cpp.pdf
   date: 2025-12-11
-  title: Mammal merit badge class preparation page
+  title: Mammal Study merit badge class preparation page
 - match: /merit-badges/mammal-study/mammal-study-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/mammal-study/mammal-study-pamphlet.pdf
   date: 2025-12-11
-  title: Mammal merit badge pamphlet
+  title: Mammal Study merit badge pamphlet
 - match: /merit-badges/mammal-study/mammal-study-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/mammal-study/mammal-study-workbook.pdf
   date: 2025-12-11
-  title: Mammal merit badge workbook
+  title: Mammal Study merit badge workbook
+- match: /merit-badges/mammal-study/mammal-study-workbook-*
+  url: /merit-badges/mammal-study/
+  date: 2025-12-11
+  title: Mammal Study merit badge workbook options
+- match: /merit-badges/mammal-study/workbook*
+  url: /merit-badges/mammal-study/
+  date: 2025-12-14
+  title: Mammal Study merit badge resources, including workbooks
 - match: /merit-badges/mammal-study/*
   url: /merit-badges/mammal-study/
   date: 2025-12-11
-  title: Mammal merit badge
+  title: Mammal Study merit badge
+
+# Generated: Metalwork
 - match: /merit-badges/metalwork/metalwork-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/metalwork/metalwork-cpp.pdf
   date: 2025-12-11
@@ -1332,42 +2065,72 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/metalwork/metalwork-workbook.pdf
   date: 2025-12-11
   title: Metalwork merit badge workbook
+- match: /merit-badges/metalwork/metalwork-workbook-*
+  url: /merit-badges/metalwork/
+  date: 2025-12-11
+  title: Metalwork merit badge workbook options
+- match: /merit-badges/metalwork/workbook*
+  url: /merit-badges/metalwork/
+  date: 2025-12-14
+  title: Metalwork merit badge resources, including workbooks
 - match: /merit-badges/metalwork/*
   url: /merit-badges/metalwork/
   date: 2025-12-11
   title: Metalwork merit badge
+
+# Generated: Mining in Society
 - match: /merit-badges/mining-in-society/mining-in-society-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/mining-in-society/mining-in-society-cpp.pdf
   date: 2025-12-11
-  title: Mining merit badge class preparation page
+  title: Mining in Society merit badge class preparation page
 - match: /merit-badges/mining-in-society/mining-in-society-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/mining-in-society/mining-in-society-pamphlet.pdf
   date: 2025-12-11
-  title: Mining merit badge pamphlet
+  title: Mining in Society merit badge pamphlet
 - match: /merit-badges/mining-in-society/mining-in-society-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/mining-in-society/mining-in-society-workbook.pdf
   date: 2025-12-11
-  title: Mining merit badge workbook
+  title: Mining in Society merit badge workbook
+- match: /merit-badges/mining-in-society/mining-in-society-workbook-*
+  url: /merit-badges/mining-in-society/
+  date: 2025-12-11
+  title: Mining in Society merit badge workbook options
+- match: /merit-badges/mining-in-society/workbook*
+  url: /merit-badges/mining-in-society/
+  date: 2025-12-14
+  title: Mining in Society merit badge resources, including workbooks
 - match: /merit-badges/mining-in-society/*
   url: /merit-badges/mining-in-society/
   date: 2025-12-11
-  title: Mining merit badge
+  title: Mining in Society merit badge
+
+# Generated: Model Design and Building
 - match: /merit-badges/model-design-and-building/model-design-and-building-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/model-design-and-building/model-design-and-building-cpp.pdf
   date: 2025-12-11
-  title: Model merit badge class preparation page
+  title: Model Design and Building merit badge class preparation page
 - match: /merit-badges/model-design-and-building/model-design-and-building-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/model-design-and-building/model-design-and-building-pamphlet.pdf
   date: 2025-12-11
-  title: Model merit badge pamphlet
+  title: Model Design and Building merit badge pamphlet
 - match: /merit-badges/model-design-and-building/model-design-and-building-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/model-design-and-building/model-design-and-building-workbook.pdf
   date: 2025-12-11
-  title: Model merit badge workbook
+  title: Model Design and Building merit badge workbook
+- match: /merit-badges/model-design-and-building/model-design-and-building-workbook-*
+  url: /merit-badges/model-design-and-building/
+  date: 2025-12-11
+  title: Model Design and Building merit badge workbook options
+- match: /merit-badges/model-design-and-building/workbook*
+  url: /merit-badges/model-design-and-building/
+  date: 2025-12-14
+  title: Model Design and Building merit badge resources, including workbooks
 - match: /merit-badges/model-design-and-building/*
   url: /merit-badges/model-design-and-building/
   date: 2025-12-11
-  title: Model merit badge
+  title: Model Design and Building merit badge
+
+# Generated: Motorboating
 - match: /merit-badges/motorboating/motorboating-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/motorboating/motorboating-cpp.pdf
   date: 2025-12-11
@@ -1380,10 +2143,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/motorboating/motorboating-workbook.pdf
   date: 2025-12-11
   title: Motorboating merit badge workbook
+- match: /merit-badges/motorboating/motorboating-workbook-*
+  url: /merit-badges/motorboating/
+  date: 2025-12-11
+  title: Motorboating merit badge workbook options
+- match: /merit-badges/motorboating/workbook*
+  url: /merit-badges/motorboating/
+  date: 2025-12-14
+  title: Motorboating merit badge resources, including workbooks
 - match: /merit-badges/motorboating/*
   url: /merit-badges/motorboating/
   date: 2025-12-11
   title: Motorboating merit badge
+
+# Generated: Moviemaking
 - match: /merit-badges/moviemaking/moviemaking-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/moviemaking/moviemaking-cpp.pdf
   date: 2025-12-11
@@ -1396,10 +2169,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/moviemaking/moviemaking-workbook.pdf
   date: 2025-12-11
   title: Moviemaking merit badge workbook
+- match: /merit-badges/moviemaking/moviemaking-workbook-*
+  url: /merit-badges/moviemaking/
+  date: 2025-12-11
+  title: Moviemaking merit badge workbook options
+- match: /merit-badges/moviemaking/workbook*
+  url: /merit-badges/moviemaking/
+  date: 2025-12-14
+  title: Moviemaking merit badge resources, including workbooks
 - match: /merit-badges/moviemaking/*
   url: /merit-badges/moviemaking/
   date: 2025-12-11
   title: Moviemaking merit badge
+
+# Generated: Multisport
 - match: /merit-badges/multisport/multisport-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/multisport/multisport-cpp.pdf
   date: 2025-12-11
@@ -1412,10 +2195,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/multisport/multisport-workbook.pdf
   date: 2025-12-11
   title: Multisport merit badge workbook
+- match: /merit-badges/multisport/multisport-workbook-*
+  url: /merit-badges/multisport/
+  date: 2025-12-11
+  title: Multisport merit badge workbook options
+- match: /merit-badges/multisport/workbook*
+  url: /merit-badges/multisport/
+  date: 2025-12-14
+  title: Multisport merit badge resources, including workbooks
 - match: /merit-badges/multisport/*
   url: /merit-badges/multisport/
   date: 2025-12-11
   title: Multisport merit badge
+
+# Generated: Music
 - match: /merit-badges/music/music-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/music/music-cpp.pdf
   date: 2025-12-11
@@ -1428,10 +2221,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/music/music-workbook.pdf
   date: 2025-12-11
   title: Music merit badge workbook
+- match: /merit-badges/music/music-workbook-*
+  url: /merit-badges/music/
+  date: 2025-12-11
+  title: Music merit badge workbook options
+- match: /merit-badges/music/workbook*
+  url: /merit-badges/music/
+  date: 2025-12-14
+  title: Music merit badge resources, including workbooks
 - match: /merit-badges/music/*
   url: /merit-badges/music/
   date: 2025-12-11
   title: Music merit badge
+
+# Generated: Nature
 - match: /merit-badges/nature/nature-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/nature/nature-cpp.pdf
   date: 2025-12-11
@@ -1444,26 +2247,46 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/nature/nature-workbook.pdf
   date: 2025-12-11
   title: Nature merit badge workbook
+- match: /merit-badges/nature/nature-workbook-*
+  url: /merit-badges/nature/
+  date: 2025-12-11
+  title: Nature merit badge workbook options
+- match: /merit-badges/nature/workbook*
+  url: /merit-badges/nature/
+  date: 2025-12-14
+  title: Nature merit badge resources, including workbooks
 - match: /merit-badges/nature/*
   url: /merit-badges/nature/
   date: 2025-12-11
   title: Nature merit badge
+
+# Generated: Nuclear Science
 - match: /merit-badges/nuclear-science/nuclear-science-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/nuclear-science/nuclear-science-cpp.pdf
   date: 2025-12-11
-  title: Nuclear merit badge class preparation page
+  title: Nuclear Science merit badge class preparation page
 - match: /merit-badges/nuclear-science/nuclear-science-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/nuclear-science/nuclear-science-pamphlet.pdf
   date: 2025-12-11
-  title: Nuclear merit badge pamphlet
+  title: Nuclear Science merit badge pamphlet
 - match: /merit-badges/nuclear-science/nuclear-science-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/nuclear-science/nuclear-science-workbook.pdf
   date: 2025-12-11
-  title: Nuclear merit badge workbook
+  title: Nuclear Science merit badge workbook
+- match: /merit-badges/nuclear-science/nuclear-science-workbook-*
+  url: /merit-badges/nuclear-science/
+  date: 2025-12-11
+  title: Nuclear Science merit badge workbook options
+- match: /merit-badges/nuclear-science/workbook*
+  url: /merit-badges/nuclear-science/
+  date: 2025-12-14
+  title: Nuclear Science merit badge resources, including workbooks
 - match: /merit-badges/nuclear-science/*
   url: /merit-badges/nuclear-science/
   date: 2025-12-11
-  title: Nuclear merit badge
+  title: Nuclear Science merit badge
+
+# Generated: Oceanography
 - match: /merit-badges/oceanography/oceanography-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/oceanography/oceanography-cpp.pdf
   date: 2025-12-11
@@ -1476,10 +2299,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/oceanography/oceanography-workbook.pdf
   date: 2025-12-11
   title: Oceanography merit badge workbook
+- match: /merit-badges/oceanography/oceanography-workbook-*
+  url: /merit-badges/oceanography/
+  date: 2025-12-11
+  title: Oceanography merit badge workbook options
+- match: /merit-badges/oceanography/workbook*
+  url: /merit-badges/oceanography/
+  date: 2025-12-14
+  title: Oceanography merit badge resources, including workbooks
 - match: /merit-badges/oceanography/*
   url: /merit-badges/oceanography/
   date: 2025-12-11
   title: Oceanography merit badge
+
+# Generated: Orienteering
 - match: /merit-badges/orienteering/orienteering-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/orienteering/orienteering-cpp.pdf
   date: 2025-12-11
@@ -1492,10 +2325,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/orienteering/orienteering-workbook.pdf
   date: 2025-12-11
   title: Orienteering merit badge workbook
+- match: /merit-badges/orienteering/orienteering-workbook-*
+  url: /merit-badges/orienteering/
+  date: 2025-12-11
+  title: Orienteering merit badge workbook options
+- match: /merit-badges/orienteering/workbook*
+  url: /merit-badges/orienteering/
+  date: 2025-12-14
+  title: Orienteering merit badge resources, including workbooks
 - match: /merit-badges/orienteering/*
   url: /merit-badges/orienteering/
   date: 2025-12-11
   title: Orienteering merit badge
+
+# Generated: Painting
 - match: /merit-badges/painting/painting-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/painting/painting-cpp.pdf
   date: 2025-12-11
@@ -1508,42 +2351,72 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/painting/painting-workbook.pdf
   date: 2025-12-11
   title: Painting merit badge workbook
+- match: /merit-badges/painting/painting-workbook-*
+  url: /merit-badges/painting/
+  date: 2025-12-11
+  title: Painting merit badge workbook options
+- match: /merit-badges/painting/workbook*
+  url: /merit-badges/painting/
+  date: 2025-12-14
+  title: Painting merit badge resources, including workbooks
 - match: /merit-badges/painting/*
   url: /merit-badges/painting/
   date: 2025-12-11
   title: Painting merit badge
+
+# Generated: Personal Fitness
 - match: /merit-badges/personal-fitness/personal-fitness-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/personal-fitness/personal-fitness-cpp.pdf
   date: 2025-12-11
-  title: Personal merit badge class preparation page
+  title: Personal Fitness merit badge class preparation page
 - match: /merit-badges/personal-fitness/personal-fitness-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/personal-fitness/personal-fitness-pamphlet.pdf
   date: 2025-12-11
-  title: Personal merit badge pamphlet
+  title: Personal Fitness merit badge pamphlet
 - match: /merit-badges/personal-fitness/personal-fitness-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/personal-fitness/personal-fitness-workbook.pdf
   date: 2025-12-11
-  title: Personal merit badge workbook
+  title: Personal Fitness merit badge workbook
+- match: /merit-badges/personal-fitness/personal-fitness-workbook-*
+  url: /merit-badges/personal-fitness/
+  date: 2025-12-11
+  title: Personal Fitness merit badge workbook options
+- match: /merit-badges/personal-fitness/workbook*
+  url: /merit-badges/personal-fitness/
+  date: 2025-12-14
+  title: Personal Fitness merit badge resources, including workbooks
 - match: /merit-badges/personal-fitness/*
   url: /merit-badges/personal-fitness/
   date: 2025-12-11
-  title: Personal merit badge
+  title: Personal Fitness merit badge
+
+# Generated: Personal Management
 - match: /merit-badges/personal-management/personal-management-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/personal-management/personal-management-cpp.pdf
   date: 2025-12-11
-  title: Personal merit badge class preparation page
+  title: Personal Management merit badge class preparation page
 - match: /merit-badges/personal-management/personal-management-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/personal-management/personal-management-pamphlet.pdf
   date: 2025-12-11
-  title: Personal merit badge pamphlet
+  title: Personal Management merit badge pamphlet
 - match: /merit-badges/personal-management/personal-management-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/personal-management/personal-management-workbook.pdf
   date: 2025-12-11
-  title: Personal merit badge workbook
+  title: Personal Management merit badge workbook
+- match: /merit-badges/personal-management/personal-management-workbook-*
+  url: /merit-badges/personal-management/
+  date: 2025-12-11
+  title: Personal Management merit badge workbook options
+- match: /merit-badges/personal-management/workbook*
+  url: /merit-badges/personal-management/
+  date: 2025-12-14
+  title: Personal Management merit badge resources, including workbooks
 - match: /merit-badges/personal-management/*
   url: /merit-badges/personal-management/
   date: 2025-12-11
-  title: Personal merit badge
+  title: Personal Management merit badge
+
+# Generated: Pets
 - match: /merit-badges/pets/pets-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/pets/pets-cpp.pdf
   date: 2025-12-11
@@ -1556,10 +2429,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/pets/pets-workbook.pdf
   date: 2025-12-11
   title: Pets merit badge workbook
+- match: /merit-badges/pets/pets-workbook-*
+  url: /merit-badges/pets/
+  date: 2025-12-11
+  title: Pets merit badge workbook options
+- match: /merit-badges/pets/workbook*
+  url: /merit-badges/pets/
+  date: 2025-12-14
+  title: Pets merit badge resources, including workbooks
 - match: /merit-badges/pets/*
   url: /merit-badges/pets/
   date: 2025-12-11
   title: Pets merit badge
+
+# Generated: Photography
 - match: /merit-badges/photography/photography-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/photography/photography-cpp.pdf
   date: 2025-12-11
@@ -1572,10 +2455,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/photography/photography-workbook.pdf
   date: 2025-12-11
   title: Photography merit badge workbook
+- match: /merit-badges/photography/photography-workbook-*
+  url: /merit-badges/photography/
+  date: 2025-12-11
+  title: Photography merit badge workbook options
+- match: /merit-badges/photography/workbook*
+  url: /merit-badges/photography/
+  date: 2025-12-14
+  title: Photography merit badge resources, including workbooks
 - match: /merit-badges/photography/*
   url: /merit-badges/photography/
   date: 2025-12-11
   title: Photography merit badge
+
+# Generated: Pioneering
 - match: /merit-badges/pioneering/pioneering-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/pioneering/pioneering-cpp.pdf
   date: 2025-12-11
@@ -1588,27 +2481,46 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/pioneering/pioneering-workbook.pdf
   date: 2025-12-11
   title: Pioneering merit badge workbook
+- match: /merit-badges/pioneering/pioneering-workbook-*
+  url: /merit-badges/pioneering/
+  date: 2025-12-11
+  title: Pioneering merit badge workbook options
+- match: /merit-badges/pioneering/workbook*
+  url: /merit-badges/pioneering/
+  date: 2025-12-14
+  title: Pioneering merit badge resources, including workbooks
 - match: /merit-badges/pioneering/*
   url: /merit-badges/pioneering/
   date: 2025-12-11
   title: Pioneering merit badge
+
+# Generated: Plant Science
 - match: /merit-badges/plant-science/plant-science-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/plant-science/plant-science-cpp.pdf
   date: 2025-12-11
-  title: Plant merit badge class preparation page
+  title: Plant Science merit badge class preparation page
 - match: /merit-badges/plant-science/plant-science-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/plant-science/plant-science-pamphlet.pdf
   date: 2025-12-11
-  title: Plant merit badge pamphlet
-- match: /merit-badges/plant-science/plant-science-workbook*
+  title: Plant Science merit badge pamphlet
+- match: /merit-badges/plant-science/plant-science-workbook.pdf
+  url: https://filestore.scoutmasterbucky.com/merit-badges/plant-science/plant-science-workbook.pdf
+  date: 2025-12-11
+  title: Plant Science merit badge workbook
+- match: /merit-badges/plant-science/plant-science-workbook-*
   url: /merit-badges/plant-science/
   date: 2025-12-11
-  title: Plant merit badge workbooks
-  description: Select the appropriate workbook from the list
+  title: Plant Science merit badge workbook options
+- match: /merit-badges/plant-science/workbook*
+  url: /merit-badges/plant-science/
+  date: 2025-12-14
+  title: Plant Science merit badge resources, including workbooks
 - match: /merit-badges/plant-science/*
   url: /merit-badges/plant-science/
   date: 2025-12-11
-  title: Plant merit badge
+  title: Plant Science merit badge
+
+# Generated: Plumbing
 - match: /merit-badges/plumbing/plumbing-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/plumbing/plumbing-cpp.pdf
   date: 2025-12-11
@@ -1621,10 +2533,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/plumbing/plumbing-workbook.pdf
   date: 2025-12-11
   title: Plumbing merit badge workbook
+- match: /merit-badges/plumbing/plumbing-workbook-*
+  url: /merit-badges/plumbing/
+  date: 2025-12-11
+  title: Plumbing merit badge workbook options
+- match: /merit-badges/plumbing/workbook*
+  url: /merit-badges/plumbing/
+  date: 2025-12-14
+  title: Plumbing merit badge resources, including workbooks
 - match: /merit-badges/plumbing/*
   url: /merit-badges/plumbing/
   date: 2025-12-11
   title: Plumbing merit badge
+
+# Generated: Pottery
 - match: /merit-badges/pottery/pottery-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/pottery/pottery-cpp.pdf
   date: 2025-12-11
@@ -1637,10 +2559,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/pottery/pottery-workbook.pdf
   date: 2025-12-11
   title: Pottery merit badge workbook
+- match: /merit-badges/pottery/pottery-workbook-*
+  url: /merit-badges/pottery/
+  date: 2025-12-11
+  title: Pottery merit badge workbook options
+- match: /merit-badges/pottery/workbook*
+  url: /merit-badges/pottery/
+  date: 2025-12-14
+  title: Pottery merit badge resources, including workbooks
 - match: /merit-badges/pottery/*
   url: /merit-badges/pottery/
   date: 2025-12-11
   title: Pottery merit badge
+
+# Generated: Programming
 - match: /merit-badges/programming/programming-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/programming/programming-cpp.pdf
   date: 2025-12-11
@@ -1653,58 +2585,98 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/programming/programming-workbook.pdf
   date: 2025-12-11
   title: Programming merit badge workbook
+- match: /merit-badges/programming/programming-workbook-*
+  url: /merit-badges/programming/
+  date: 2025-12-11
+  title: Programming merit badge workbook options
+- match: /merit-badges/programming/workbook*
+  url: /merit-badges/programming/
+  date: 2025-12-14
+  title: Programming merit badge resources, including workbooks
 - match: /merit-badges/programming/*
   url: /merit-badges/programming/
   date: 2025-12-11
   title: Programming merit badge
+
+# Generated: Public Health
 - match: /merit-badges/public-health/public-health-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/public-health/public-health-cpp.pdf
   date: 2025-12-11
-  title: Public merit badge class preparation page
+  title: Public Health merit badge class preparation page
 - match: /merit-badges/public-health/public-health-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/public-health/public-health-pamphlet.pdf
   date: 2025-12-11
-  title: Public merit badge pamphlet
+  title: Public Health merit badge pamphlet
 - match: /merit-badges/public-health/public-health-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/public-health/public-health-workbook.pdf
   date: 2025-12-11
-  title: Public merit badge workbook
+  title: Public Health merit badge workbook
+- match: /merit-badges/public-health/public-health-workbook-*
+  url: /merit-badges/public-health/
+  date: 2025-12-11
+  title: Public Health merit badge workbook options
+- match: /merit-badges/public-health/workbook*
+  url: /merit-badges/public-health/
+  date: 2025-12-14
+  title: Public Health merit badge resources, including workbooks
 - match: /merit-badges/public-health/*
   url: /merit-badges/public-health/
   date: 2025-12-11
-  title: Public merit badge
+  title: Public Health merit badge
+
+# Generated: Public Speaking
 - match: /merit-badges/public-speaking/public-speaking-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/public-speaking/public-speaking-cpp.pdf
   date: 2025-12-11
-  title: Public merit badge class preparation page
+  title: Public Speaking merit badge class preparation page
 - match: /merit-badges/public-speaking/public-speaking-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/public-speaking/public-speaking-pamphlet.pdf
   date: 2025-12-11
-  title: Public merit badge pamphlet
+  title: Public Speaking merit badge pamphlet
 - match: /merit-badges/public-speaking/public-speaking-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/public-speaking/public-speaking-workbook.pdf
   date: 2025-12-11
-  title: Public merit badge workbook
+  title: Public Speaking merit badge workbook
+- match: /merit-badges/public-speaking/public-speaking-workbook-*
+  url: /merit-badges/public-speaking/
+  date: 2025-12-11
+  title: Public Speaking merit badge workbook options
+- match: /merit-badges/public-speaking/workbook*
+  url: /merit-badges/public-speaking/
+  date: 2025-12-14
+  title: Public Speaking merit badge resources, including workbooks
 - match: /merit-badges/public-speaking/*
   url: /merit-badges/public-speaking/
   date: 2025-12-11
-  title: Public merit badge
+  title: Public Speaking merit badge
+
+# Generated: Pulp and Paper
 - match: /merit-badges/pulp-and-paper/pulp-and-paper-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/pulp-and-paper/pulp-and-paper-cpp.pdf
   date: 2025-12-11
-  title: Pulp merit badge class preparation page
+  title: Pulp and Paper merit badge class preparation page
 - match: /merit-badges/pulp-and-paper/pulp-and-paper-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/pulp-and-paper/pulp-and-paper-pamphlet.pdf
   date: 2025-12-11
-  title: Pulp merit badge pamphlet
+  title: Pulp and Paper merit badge pamphlet
 - match: /merit-badges/pulp-and-paper/pulp-and-paper-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/pulp-and-paper/pulp-and-paper-workbook.pdf
   date: 2025-12-11
-  title: Pulp merit badge workbook
+  title: Pulp and Paper merit badge workbook
+- match: /merit-badges/pulp-and-paper/pulp-and-paper-workbook-*
+  url: /merit-badges/pulp-and-paper/
+  date: 2025-12-11
+  title: Pulp and Paper merit badge workbook options
+- match: /merit-badges/pulp-and-paper/workbook*
+  url: /merit-badges/pulp-and-paper/
+  date: 2025-12-14
+  title: Pulp and Paper merit badge resources, including workbooks
 - match: /merit-badges/pulp-and-paper/*
   url: /merit-badges/pulp-and-paper/
   date: 2025-12-11
-  title: Pulp merit badge
+  title: Pulp and Paper merit badge
+
+# Generated: Radio
 - match: /merit-badges/radio/radio-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/radio/radio-cpp.pdf
   date: 2025-12-11
@@ -1713,15 +2685,24 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/radio/radio-pamphlet.pdf
   date: 2025-12-11
   title: Radio merit badge pamphlet
-- match: /merit-badges/radio/radio-workbook*
+- match: /merit-badges/radio/radio-workbook.pdf
+  url: https://filestore.scoutmasterbucky.com/merit-badges/radio/radio-workbook.pdf
+  date: 2025-12-11
+  title: Radio merit badge workbook
+- match: /merit-badges/radio/radio-workbook-*
   url: /merit-badges/radio/
   date: 2025-12-11
-  title: Radio merit badge workbooks
-  description: Select the appropriate workbook from the list
+  title: Radio merit badge workbook options
+- match: /merit-badges/radio/workbook*
+  url: /merit-badges/radio/
+  date: 2025-12-14
+  title: Radio merit badge resources, including workbooks
 - match: /merit-badges/radio/*
   url: /merit-badges/radio/
   date: 2025-12-11
   title: Radio merit badge
+
+# Generated: Railroading
 - match: /merit-badges/railroading/railroading-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/railroading/railroading-cpp.pdf
   date: 2025-12-11
@@ -1734,10 +2715,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/railroading/railroading-workbook.pdf
   date: 2025-12-11
   title: Railroading merit badge workbook
+- match: /merit-badges/railroading/railroading-workbook-*
+  url: /merit-badges/railroading/
+  date: 2025-12-11
+  title: Railroading merit badge workbook options
+- match: /merit-badges/railroading/workbook*
+  url: /merit-badges/railroading/
+  date: 2025-12-14
+  title: Railroading merit badge resources, including workbooks
 - match: /merit-badges/railroading/*
   url: /merit-badges/railroading/
   date: 2025-12-11
   title: Railroading merit badge
+
+# Generated: Reading
 - match: /merit-badges/reading/reading-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/reading/reading-cpp.pdf
   date: 2025-12-11
@@ -1750,46 +2741,72 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/reading/reading-workbook.pdf
   date: 2025-12-11
   title: Reading merit badge workbook
+- match: /merit-badges/reading/reading-workbook-*
+  url: /merit-badges/reading/
+  date: 2025-12-11
+  title: Reading merit badge workbook options
+- match: /merit-badges/reading/workbook*
+  url: /merit-badges/reading/
+  date: 2025-12-14
+  title: Reading merit badge resources, including workbooks
 - match: /merit-badges/reading/*
   url: /merit-badges/reading/
   date: 2025-12-11
   title: Reading merit badge
+
+# Generated: Reptile and Amphibian Study
 - match: /merit-badges/reptile-and-amphibian-study/reptile-and-amphibian-study-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/reptile-and-amphibian-study/reptile-and-amphibian-study-cpp.pdf
   date: 2025-12-11
-  title: Reptile merit badge class preparation page
+  title: Reptile and Amphibian Study merit badge class preparation page
 - match: /merit-badges/reptile-and-amphibian-study/reptile-and-amphibian-study-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/reptile-and-amphibian-study/reptile-and-amphibian-study-pamphlet.pdf
   date: 2025-12-11
-  title: Reptile merit badge pamphlet
+  title: Reptile and Amphibian Study merit badge pamphlet
 - match: /merit-badges/reptile-and-amphibian-study/reptile-and-amphibian-study-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/reptile-and-amphibian-study/reptile-and-amphibian-study-workbook.pdf
   date: 2025-12-11
-  title: Reptile merit badge workbook
+  title: Reptile and Amphibian Study merit badge workbook
+- match: /merit-badges/reptile-and-amphibian-study/reptile-and-amphibian-study-workbook-*
+  url: /merit-badges/reptile-and-amphibian-study/
+  date: 2025-12-11
+  title: Reptile and Amphibian Study merit badge workbook options
+- match: /merit-badges/reptile-and-amphibian-study/workbook*
+  url: /merit-badges/reptile-and-amphibian-study/
+  date: 2025-12-14
+  title: Reptile and Amphibian Study merit badge resources, including workbooks
 - match: /merit-badges/reptile-and-amphibian-study/*
   url: /merit-badges/reptile-and-amphibian-study/
   date: 2025-12-11
-  title: Reptile merit badge
+  title: Reptile and Amphibian Study merit badge
+
+# Generated: Rifle Shooting
 - match: /merit-badges/rifle-shooting/rifle-shooting-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/rifle-shooting/rifle-shooting-cpp.pdf
   date: 2025-12-11
-  title: Rifle merit badge class preparation page
+  title: Rifle Shooting merit badge class preparation page
 - match: /merit-badges/rifle-shooting/rifle-shooting-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/rifle-shooting/rifle-shooting-pamphlet.pdf
   date: 2025-12-11
-  title: Rifle merit badge pamphlet
+  title: Rifle Shooting merit badge pamphlet
 - match: /merit-badges/rifle-shooting/rifle-shooting-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/rifle-shooting/rifle-shooting-workbook.pdf
   date: 2025-12-11
-  title: Rifle merit badge workbook
+  title: Rifle Shooting merit badge workbook
+- match: /merit-badges/rifle-shooting/rifle-shooting-workbook-*
+  url: /merit-badges/rifle-shooting/
+  date: 2025-12-11
+  title: Rifle Shooting merit badge workbook options
+- match: /merit-badges/rifle-shooting/workbook*
+  url: /merit-badges/rifle-shooting/
+  date: 2025-12-14
+  title: Rifle Shooting merit badge resources, including workbooks
 - match: /merit-badges/rifle-shooting/*
   url: /merit-badges/rifle-shooting/
   date: 2025-12-11
-  title: Rifle merit badge
-- match: /merit-badges/robotics/scoutmaster-bucky-robot-engineering-notebook.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/robotics/scoutmaster-bucky-robot-engineering-notebook.pdf
-  date: 2025-12-11
-  title: Scoutmaster Bucky's robot engineering notebook
+  title: Rifle Shooting merit badge
+
+# Generated: Robotics
 - match: /merit-badges/robotics/robotics-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/robotics/robotics-cpp.pdf
   date: 2025-12-11
@@ -1802,10 +2819,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/robotics/robotics-workbook.pdf
   date: 2025-12-11
   title: Robotics merit badge workbook
+- match: /merit-badges/robotics/robotics-workbook-*
+  url: /merit-badges/robotics/
+  date: 2025-12-11
+  title: Robotics merit badge workbook options
+- match: /merit-badges/robotics/workbook*
+  url: /merit-badges/robotics/
+  date: 2025-12-14
+  title: Robotics merit badge resources, including workbooks
 - match: /merit-badges/robotics/*
   url: /merit-badges/robotics/
   date: 2025-12-11
   title: Robotics merit badge
+
+# Generated: Rowing
 - match: /merit-badges/rowing/rowing-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/rowing/rowing-cpp.pdf
   date: 2025-12-11
@@ -1818,10 +2845,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/rowing/rowing-workbook.pdf
   date: 2025-12-11
   title: Rowing merit badge workbook
+- match: /merit-badges/rowing/rowing-workbook-*
+  url: /merit-badges/rowing/
+  date: 2025-12-11
+  title: Rowing merit badge workbook options
+- match: /merit-badges/rowing/workbook*
+  url: /merit-badges/rowing/
+  date: 2025-12-14
+  title: Rowing merit badge resources, including workbooks
 - match: /merit-badges/rowing/*
   url: /merit-badges/rowing/
   date: 2025-12-11
   title: Rowing merit badge
+
+# Generated: Safety
 - match: /merit-badges/safety/safety-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/safety/safety-cpp.pdf
   date: 2025-12-11
@@ -1834,10 +2871,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/safety/safety-workbook.pdf
   date: 2025-12-11
   title: Safety merit badge workbook
+- match: /merit-badges/safety/safety-workbook-*
+  url: /merit-badges/safety/
+  date: 2025-12-11
+  title: Safety merit badge workbook options
+- match: /merit-badges/safety/workbook*
+  url: /merit-badges/safety/
+  date: 2025-12-14
+  title: Safety merit badge resources, including workbooks
 - match: /merit-badges/safety/*
   url: /merit-badges/safety/
   date: 2025-12-11
   title: Safety merit badge
+
+# Generated: Salesmanship
 - match: /merit-badges/salesmanship/salesmanship-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/salesmanship/salesmanship-cpp.pdf
   date: 2025-12-11
@@ -1850,10 +2897,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/salesmanship/salesmanship-workbook.pdf
   date: 2025-12-11
   title: Salesmanship merit badge workbook
+- match: /merit-badges/salesmanship/salesmanship-workbook-*
+  url: /merit-badges/salesmanship/
+  date: 2025-12-11
+  title: Salesmanship merit badge workbook options
+- match: /merit-badges/salesmanship/workbook*
+  url: /merit-badges/salesmanship/
+  date: 2025-12-14
+  title: Salesmanship merit badge resources, including workbooks
 - match: /merit-badges/salesmanship/*
   url: /merit-badges/salesmanship/
   date: 2025-12-11
   title: Salesmanship merit badge
+
+# Generated: Scholarship
 - match: /merit-badges/scholarship/scholarship-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/scholarship/scholarship-cpp.pdf
   date: 2025-12-11
@@ -1866,42 +2923,72 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/scholarship/scholarship-workbook.pdf
   date: 2025-12-11
   title: Scholarship merit badge workbook
+- match: /merit-badges/scholarship/scholarship-workbook-*
+  url: /merit-badges/scholarship/
+  date: 2025-12-11
+  title: Scholarship merit badge workbook options
+- match: /merit-badges/scholarship/workbook*
+  url: /merit-badges/scholarship/
+  date: 2025-12-14
+  title: Scholarship merit badge resources, including workbooks
 - match: /merit-badges/scholarship/*
   url: /merit-badges/scholarship/
   date: 2025-12-11
   title: Scholarship merit badge
+
+# Generated: Scouting Heritage
 - match: /merit-badges/scouting-heritage/scouting-heritage-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/scouting-heritage/scouting-heritage-cpp.pdf
   date: 2025-12-11
-  title: Scouting merit badge class preparation page
+  title: Scouting Heritage merit badge class preparation page
 - match: /merit-badges/scouting-heritage/scouting-heritage-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/scouting-heritage/scouting-heritage-pamphlet.pdf
   date: 2025-12-11
-  title: Scouting merit badge pamphlet
+  title: Scouting Heritage merit badge pamphlet
 - match: /merit-badges/scouting-heritage/scouting-heritage-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/scouting-heritage/scouting-heritage-workbook.pdf
   date: 2025-12-11
-  title: Scouting merit badge workbook
+  title: Scouting Heritage merit badge workbook
+- match: /merit-badges/scouting-heritage/scouting-heritage-workbook-*
+  url: /merit-badges/scouting-heritage/
+  date: 2025-12-11
+  title: Scouting Heritage merit badge workbook options
+- match: /merit-badges/scouting-heritage/workbook*
+  url: /merit-badges/scouting-heritage/
+  date: 2025-12-14
+  title: Scouting Heritage merit badge resources, including workbooks
 - match: /merit-badges/scouting-heritage/*
   url: /merit-badges/scouting-heritage/
   date: 2025-12-11
-  title: Scouting merit badge
+  title: Scouting Heritage merit badge
+
+# Generated: Scuba Diving
 - match: /merit-badges/scuba-diving/scuba-diving-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/scuba-diving/scuba-diving-cpp.pdf
   date: 2025-12-11
-  title: Scuba merit badge class preparation page
+  title: Scuba Diving merit badge class preparation page
 - match: /merit-badges/scuba-diving/scuba-diving-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/scuba-diving/scuba-diving-pamphlet.pdf
   date: 2025-12-11
-  title: Scuba merit badge pamphlet
+  title: Scuba Diving merit badge pamphlet
 - match: /merit-badges/scuba-diving/scuba-diving-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/scuba-diving/scuba-diving-workbook.pdf
   date: 2025-12-11
-  title: Scuba merit badge workbook
+  title: Scuba Diving merit badge workbook
+- match: /merit-badges/scuba-diving/scuba-diving-workbook-*
+  url: /merit-badges/scuba-diving/
+  date: 2025-12-11
+  title: Scuba Diving merit badge workbook options
+- match: /merit-badges/scuba-diving/workbook*
+  url: /merit-badges/scuba-diving/
+  date: 2025-12-14
+  title: Scuba Diving merit badge resources, including workbooks
 - match: /merit-badges/scuba-diving/*
   url: /merit-badges/scuba-diving/
   date: 2025-12-11
-  title: Scuba merit badge
+  title: Scuba Diving merit badge
+
+# Generated: Sculpture
 - match: /merit-badges/sculpture/sculpture-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/sculpture/sculpture-cpp.pdf
   date: 2025-12-11
@@ -1914,58 +3001,98 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/sculpture/sculpture-workbook.pdf
   date: 2025-12-11
   title: Sculpture merit badge workbook
+- match: /merit-badges/sculpture/sculpture-workbook-*
+  url: /merit-badges/sculpture/
+  date: 2025-12-11
+  title: Sculpture merit badge workbook options
+- match: /merit-badges/sculpture/workbook*
+  url: /merit-badges/sculpture/
+  date: 2025-12-14
+  title: Sculpture merit badge resources, including workbooks
 - match: /merit-badges/sculpture/*
   url: /merit-badges/sculpture/
   date: 2025-12-11
   title: Sculpture merit badge
+
+# Generated: Search and Rescue
 - match: /merit-badges/search-and-rescue/search-and-rescue-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/search-and-rescue/search-and-rescue-cpp.pdf
   date: 2025-12-11
-  title: Search merit badge class preparation page
+  title: Search and Rescue merit badge class preparation page
 - match: /merit-badges/search-and-rescue/search-and-rescue-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/search-and-rescue/search-and-rescue-pamphlet.pdf
   date: 2025-12-11
-  title: Search merit badge pamphlet
+  title: Search and Rescue merit badge pamphlet
 - match: /merit-badges/search-and-rescue/search-and-rescue-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/search-and-rescue/search-and-rescue-workbook.pdf
   date: 2025-12-11
-  title: Search merit badge workbook
+  title: Search and Rescue merit badge workbook
+- match: /merit-badges/search-and-rescue/search-and-rescue-workbook-*
+  url: /merit-badges/search-and-rescue/
+  date: 2025-12-11
+  title: Search and Rescue merit badge workbook options
+- match: /merit-badges/search-and-rescue/workbook*
+  url: /merit-badges/search-and-rescue/
+  date: 2025-12-14
+  title: Search and Rescue merit badge resources, including workbooks
 - match: /merit-badges/search-and-rescue/*
   url: /merit-badges/search-and-rescue/
   date: 2025-12-11
-  title: Search merit badge
+  title: Search and Rescue merit badge
+
+# Generated: Shotgun Shooting
 - match: /merit-badges/shotgun-shooting/shotgun-shooting-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/shotgun-shooting/shotgun-shooting-cpp.pdf
   date: 2025-12-11
-  title: Shotgun merit badge class preparation page
+  title: Shotgun Shooting merit badge class preparation page
 - match: /merit-badges/shotgun-shooting/shotgun-shooting-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/shotgun-shooting/shotgun-shooting-pamphlet.pdf
   date: 2025-12-11
-  title: Shotgun merit badge pamphlet
+  title: Shotgun Shooting merit badge pamphlet
 - match: /merit-badges/shotgun-shooting/shotgun-shooting-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/shotgun-shooting/shotgun-shooting-workbook.pdf
   date: 2025-12-11
-  title: Shotgun merit badge workbook
+  title: Shotgun Shooting merit badge workbook
+- match: /merit-badges/shotgun-shooting/shotgun-shooting-workbook-*
+  url: /merit-badges/shotgun-shooting/
+  date: 2025-12-11
+  title: Shotgun Shooting merit badge workbook options
+- match: /merit-badges/shotgun-shooting/workbook*
+  url: /merit-badges/shotgun-shooting/
+  date: 2025-12-14
+  title: Shotgun Shooting merit badge resources, including workbooks
 - match: /merit-badges/shotgun-shooting/*
   url: /merit-badges/shotgun-shooting/
   date: 2025-12-11
-  title: Shotgun merit badge
+  title: Shotgun Shooting merit badge
+
+# Generated: Signs, Signals, and Codes
 - match: /merit-badges/signs-signals-and-codes/signs-signals-and-codes-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/signs-signals-and-codes/signs-signals-and-codes-cpp.pdf
   date: 2025-12-11
-  title: Signs, merit badge class preparation page
+  title: Signs, Signals, and Codes merit badge class preparation page
 - match: /merit-badges/signs-signals-and-codes/signs-signals-and-codes-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/signs-signals-and-codes/signs-signals-and-codes-pamphlet.pdf
   date: 2025-12-11
-  title: Signs, merit badge pamphlet
+  title: Signs, Signals, and Codes merit badge pamphlet
 - match: /merit-badges/signs-signals-and-codes/signs-signals-and-codes-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/signs-signals-and-codes/signs-signals-and-codes-workbook.pdf
   date: 2025-12-11
-  title: Signs, merit badge workbook
+  title: Signs, Signals, and Codes merit badge workbook
+- match: /merit-badges/signs-signals-and-codes/signs-signals-and-codes-workbook-*
+  url: /merit-badges/signs-signals-and-codes/
+  date: 2025-12-11
+  title: Signs, Signals, and Codes merit badge workbook options
+- match: /merit-badges/signs-signals-and-codes/workbook*
+  url: /merit-badges/signs-signals-and-codes/
+  date: 2025-12-14
+  title: Signs, Signals, and Codes merit badge resources, including workbooks
 - match: /merit-badges/signs-signals-and-codes/*
   url: /merit-badges/signs-signals-and-codes/
   date: 2025-12-11
-  title: Signs, merit badge
+  title: Signs, Signals, and Codes merit badge
+
+# Generated: Skating
 - match: /merit-badges/skating/skating-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/skating/skating-cpp.pdf
   date: 2025-12-11
@@ -1974,83 +3101,128 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/skating/skating-pamphlet.pdf
   date: 2025-12-11
   title: Skating merit badge pamphlet
-- match: /merit-badges/skating/skating-workbook*
+- match: /merit-badges/skating/skating-workbook.pdf
+  url: https://filestore.scoutmasterbucky.com/merit-badges/skating/skating-workbook.pdf
+  date: 2025-12-11
+  title: Skating merit badge workbook
+- match: /merit-badges/skating/skating-workbook-*
   url: /merit-badges/skating/
   date: 2025-12-11
-  title: Skating merit badge workbooks
-  description: Select the appropriate workbook from the list
+  title: Skating merit badge workbook options
+- match: /merit-badges/skating/workbook*
+  url: /merit-badges/skating/
+  date: 2025-12-14
+  title: Skating merit badge resources, including workbooks
 - match: /merit-badges/skating/*
   url: /merit-badges/skating/
   date: 2025-12-11
   title: Skating merit badge
+
+# Generated: Small-Boat Sailing
 - match: /merit-badges/small-boat-sailing/small-boat-sailing-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/small-boat-sailing/small-boat-sailing-cpp.pdf
   date: 2025-12-11
-  title: Small-Boat merit badge class preparation page
+  title: Small-Boat Sailing merit badge class preparation page
 - match: /merit-badges/small-boat-sailing/small-boat-sailing-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/small-boat-sailing/small-boat-sailing-pamphlet.pdf
   date: 2025-12-11
-  title: Small-Boat merit badge pamphlet
+  title: Small-Boat Sailing merit badge pamphlet
 - match: /merit-badges/small-boat-sailing/small-boat-sailing-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/small-boat-sailing/small-boat-sailing-workbook.pdf
   date: 2025-12-11
-  title: Small-Boat merit badge workbook
+  title: Small-Boat Sailing merit badge workbook
+- match: /merit-badges/small-boat-sailing/small-boat-sailing-workbook-*
+  url: /merit-badges/small-boat-sailing/
+  date: 2025-12-11
+  title: Small-Boat Sailing merit badge workbook options
+- match: /merit-badges/small-boat-sailing/workbook*
+  url: /merit-badges/small-boat-sailing/
+  date: 2025-12-14
+  title: Small-Boat Sailing merit badge resources, including workbooks
 - match: /merit-badges/small-boat-sailing/*
   url: /merit-badges/small-boat-sailing/
   date: 2025-12-11
-  title: Small-Boat merit badge
+  title: Small-Boat Sailing merit badge
+
+# Generated: Snow Sports
 - match: /merit-badges/snow-sports/snow-sports-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/snow-sports/snow-sports-cpp.pdf
   date: 2025-12-11
-  title: Snow merit badge class preparation page
+  title: Snow Sports merit badge class preparation page
 - match: /merit-badges/snow-sports/snow-sports-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/snow-sports/snow-sports-pamphlet.pdf
   date: 2025-12-11
-  title: Snow merit badge pamphlet
+  title: Snow Sports merit badge pamphlet
 - match: /merit-badges/snow-sports/snow-sports-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/snow-sports/snow-sports-workbook.pdf
   date: 2025-12-11
-  title: Snow merit badge workbook
+  title: Snow Sports merit badge workbook
+- match: /merit-badges/snow-sports/snow-sports-workbook-*
+  url: /merit-badges/snow-sports/
+  date: 2025-12-11
+  title: Snow Sports merit badge workbook options
+- match: /merit-badges/snow-sports/workbook*
+  url: /merit-badges/snow-sports/
+  date: 2025-12-14
+  title: Snow Sports merit badge resources, including workbooks
 - match: /merit-badges/snow-sports/*
   url: /merit-badges/snow-sports/
   date: 2025-12-11
-  title: Snow merit badge
+  title: Snow Sports merit badge
+
+# Generated: Soil and Water Conservation
 - match: /merit-badges/soil-and-water-conservation/soil-and-water-conservation-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/soil-and-water-conservation/soil-and-water-conservation-cpp.pdf
   date: 2025-12-11
-  title: Soil merit badge class preparation page
+  title: Soil and Water Conservation merit badge class preparation page
 - match: /merit-badges/soil-and-water-conservation/soil-and-water-conservation-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/soil-and-water-conservation/soil-and-water-conservation-pamphlet.pdf
   date: 2025-12-11
-  title: Soil merit badge pamphlet
+  title: Soil and Water Conservation merit badge pamphlet
 - match: /merit-badges/soil-and-water-conservation/soil-and-water-conservation-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/soil-and-water-conservation/soil-and-water-conservation-workbook.pdf
   date: 2025-12-11
-  title: Soil merit badge workbook
+  title: Soil and Water Conservation merit badge workbook
+- match: /merit-badges/soil-and-water-conservation/soil-and-water-conservation-workbook-*
+  url: /merit-badges/soil-and-water-conservation/
+  date: 2025-12-11
+  title: Soil and Water Conservation merit badge workbook options
+- match: /merit-badges/soil-and-water-conservation/workbook*
+  url: /merit-badges/soil-and-water-conservation/
+  date: 2025-12-14
+  title: Soil and Water Conservation merit badge resources, including workbooks
 - match: /merit-badges/soil-and-water-conservation/*
   url: /merit-badges/soil-and-water-conservation/
   date: 2025-12-11
-  title: Soil merit badge
+  title: Soil and Water Conservation merit badge
+
+# Generated: Space Exploration
 - match: /merit-badges/space-exploration/space-exploration-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/space-exploration/space-exploration-cpp.pdf
   date: 2025-12-11
-  title: Space merit badge class preparation page
+  title: Space Exploration merit badge class preparation page
 - match: /merit-badges/space-exploration/space-exploration-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/space-exploration/space-exploration-pamphlet.pdf
   date: 2025-12-11
-  title: Space merit badge pamphlet
+  title: Space Exploration merit badge pamphlet
 - match: /merit-badges/space-exploration/space-exploration-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/space-exploration/space-exploration-workbook.pdf
   date: 2025-12-11
-  title: Space merit badge workbook
+  title: Space Exploration merit badge workbook
+- match: /merit-badges/space-exploration/space-exploration-workbook-*
+  url: /merit-badges/space-exploration/
+  date: 2025-12-11
+  title: Space Exploration merit badge workbook options
+- match: /merit-badges/space-exploration/workbook*
+  url: /merit-badges/space-exploration/
+  date: 2025-12-14
+  title: Space Exploration merit badge resources, including workbooks
 - match: /merit-badges/space-exploration/*
   url: /merit-badges/space-exploration/
   date: 2025-12-11
-  title: Space merit badge
-- match: /merit-badges/sports/scoutmaster-bucky-sports-merit-badge-tracking-sheets.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/sports/scoutmaster-bucky-sports-merit-badge-tracking-sheets.pdf
-  date: 2025-12-11
-  title: Scoutmaster Bucky's Sports merit badge tracking sheets
+  title: Space Exploration merit badge
+
+# Generated: Sports
 - match: /merit-badges/sports/sports-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/sports/sports-cpp.pdf
   date: 2025-12-11
@@ -2063,30 +3235,46 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/sports/sports-workbook.pdf
   date: 2025-12-11
   title: Sports merit badge workbook
+- match: /merit-badges/sports/sports-workbook-*
+  url: /merit-badges/sports/
+  date: 2025-12-11
+  title: Sports merit badge workbook options
+- match: /merit-badges/sports/workbook*
+  url: /merit-badges/sports/
+  date: 2025-12-14
+  title: Sports merit badge resources, including workbooks
 - match: /merit-badges/sports/*
   url: /merit-badges/sports/
   date: 2025-12-11
   title: Sports merit badge
-- match: /merit-badges/stamp-collecting/mystic-stamp-company-historic-postage-stamps.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/stamp-collecting/mystic-stamp-company-historic-postage-stamps.pdf
-  date: 2025-12-11
-  title: Stamp merit badge class preparation page
+
+# Generated: Stamp Collecting
 - match: /merit-badges/stamp-collecting/stamp-collecting-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/stamp-collecting/stamp-collecting-cpp.pdf
   date: 2025-12-11
-  title: Stamp merit badge class preparation page
+  title: Stamp Collecting merit badge class preparation page
 - match: /merit-badges/stamp-collecting/stamp-collecting-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/stamp-collecting/stamp-collecting-pamphlet.pdf
   date: 2025-12-11
-  title: Stamp merit badge pamphlet
+  title: Stamp Collecting merit badge pamphlet
 - match: /merit-badges/stamp-collecting/stamp-collecting-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/stamp-collecting/stamp-collecting-workbook.pdf
   date: 2025-12-11
-  title: Stamp merit badge workbook
+  title: Stamp Collecting merit badge workbook
+- match: /merit-badges/stamp-collecting/stamp-collecting-workbook-*
+  url: /merit-badges/stamp-collecting/
+  date: 2025-12-11
+  title: Stamp Collecting merit badge workbook options
+- match: /merit-badges/stamp-collecting/workbook*
+  url: /merit-badges/stamp-collecting/
+  date: 2025-12-14
+  title: Stamp Collecting merit badge resources, including workbooks
 - match: /merit-badges/stamp-collecting/*
   url: /merit-badges/stamp-collecting/
   date: 2025-12-11
-  title: Stamp merit badge
+  title: Stamp Collecting merit badge
+
+# Generated: Surveying
 - match: /merit-badges/surveying/surveying-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/surveying/surveying-cpp.pdf
   date: 2025-12-11
@@ -2099,10 +3287,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/surveying/surveying-workbook.pdf
   date: 2025-12-11
   title: Surveying merit badge workbook
+- match: /merit-badges/surveying/surveying-workbook-*
+  url: /merit-badges/surveying/
+  date: 2025-12-11
+  title: Surveying merit badge workbook options
+- match: /merit-badges/surveying/workbook*
+  url: /merit-badges/surveying/
+  date: 2025-12-14
+  title: Surveying merit badge resources, including workbooks
 - match: /merit-badges/surveying/*
   url: /merit-badges/surveying/
   date: 2025-12-11
   title: Surveying merit badge
+
+# Generated: Sustainability
 - match: /merit-badges/sustainability/sustainability-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/sustainability/sustainability-cpp.pdf
   date: 2025-12-11
@@ -2115,10 +3313,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/sustainability/sustainability-workbook.pdf
   date: 2025-12-11
   title: Sustainability merit badge workbook
+- match: /merit-badges/sustainability/sustainability-workbook-*
+  url: /merit-badges/sustainability/
+  date: 2025-12-11
+  title: Sustainability merit badge workbook options
+- match: /merit-badges/sustainability/workbook*
+  url: /merit-badges/sustainability/
+  date: 2025-12-14
+  title: Sustainability merit badge resources, including workbooks
 - match: /merit-badges/sustainability/*
   url: /merit-badges/sustainability/
   date: 2025-12-11
   title: Sustainability merit badge
+
+# Generated: Swimming
 - match: /merit-badges/swimming/swimming-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/swimming/swimming-cpp.pdf
   date: 2025-12-11
@@ -2131,10 +3339,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/swimming/swimming-workbook.pdf
   date: 2025-12-11
   title: Swimming merit badge workbook
+- match: /merit-badges/swimming/swimming-workbook-*
+  url: /merit-badges/swimming/
+  date: 2025-12-11
+  title: Swimming merit badge workbook options
+- match: /merit-badges/swimming/workbook*
+  url: /merit-badges/swimming/
+  date: 2025-12-14
+  title: Swimming merit badge resources, including workbooks
 - match: /merit-badges/swimming/*
   url: /merit-badges/swimming/
   date: 2025-12-11
   title: Swimming merit badge
+
+# Generated: Textile
 - match: /merit-badges/textile/textile-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/textile/textile-cpp.pdf
   date: 2025-12-11
@@ -2147,10 +3365,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/textile/textile-workbook.pdf
   date: 2025-12-11
   title: Textile merit badge workbook
+- match: /merit-badges/textile/textile-workbook-*
+  url: /merit-badges/textile/
+  date: 2025-12-11
+  title: Textile merit badge workbook options
+- match: /merit-badges/textile/workbook*
+  url: /merit-badges/textile/
+  date: 2025-12-14
+  title: Textile merit badge resources, including workbooks
 - match: /merit-badges/textile/*
   url: /merit-badges/textile/
   date: 2025-12-11
   title: Textile merit badge
+
+# Generated: Theater
 - match: /merit-badges/theater/theater-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/theater/theater-cpp.pdf
   date: 2025-12-11
@@ -2163,74 +3391,124 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/theater/theater-workbook.pdf
   date: 2025-12-11
   title: Theater merit badge workbook
+- match: /merit-badges/theater/theater-workbook-*
+  url: /merit-badges/theater/
+  date: 2025-12-11
+  title: Theater merit badge workbook options
+- match: /merit-badges/theater/workbook*
+  url: /merit-badges/theater/
+  date: 2025-12-14
+  title: Theater merit badge resources, including workbooks
 - match: /merit-badges/theater/*
   url: /merit-badges/theater/
   date: 2025-12-11
   title: Theater merit badge
+
+# Generated: Traffic Safety
 - match: /merit-badges/traffic-safety/traffic-safety-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/traffic-safety/traffic-safety-cpp.pdf
   date: 2025-12-11
-  title: Traffic merit badge class preparation page
+  title: Traffic Safety merit badge class preparation page
 - match: /merit-badges/traffic-safety/traffic-safety-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/traffic-safety/traffic-safety-pamphlet.pdf
   date: 2025-12-11
-  title: Traffic merit badge pamphlet
+  title: Traffic Safety merit badge pamphlet
 - match: /merit-badges/traffic-safety/traffic-safety-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/traffic-safety/traffic-safety-workbook.pdf
   date: 2025-12-11
-  title: Traffic merit badge workbook
+  title: Traffic Safety merit badge workbook
+- match: /merit-badges/traffic-safety/traffic-safety-workbook-*
+  url: /merit-badges/traffic-safety/
+  date: 2025-12-11
+  title: Traffic Safety merit badge workbook options
+- match: /merit-badges/traffic-safety/workbook*
+  url: /merit-badges/traffic-safety/
+  date: 2025-12-14
+  title: Traffic Safety merit badge resources, including workbooks
 - match: /merit-badges/traffic-safety/*
   url: /merit-badges/traffic-safety/
   date: 2025-12-11
-  title: Traffic merit badge
+  title: Traffic Safety merit badge
+
+# Generated: Truck Transportation
 - match: /merit-badges/truck-transportation/truck-transportation-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/truck-transportation/truck-transportation-cpp.pdf
   date: 2025-12-11
-  title: Truck merit badge class preparation page
+  title: Truck Transportation merit badge class preparation page
 - match: /merit-badges/truck-transportation/truck-transportation-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/truck-transportation/truck-transportation-pamphlet.pdf
   date: 2025-12-11
-  title: Truck merit badge pamphlet
+  title: Truck Transportation merit badge pamphlet
 - match: /merit-badges/truck-transportation/truck-transportation-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/truck-transportation/truck-transportation-workbook.pdf
   date: 2025-12-11
-  title: Truck merit badge workbook
+  title: Truck Transportation merit badge workbook
+- match: /merit-badges/truck-transportation/truck-transportation-workbook-*
+  url: /merit-badges/truck-transportation/
+  date: 2025-12-11
+  title: Truck Transportation merit badge workbook options
+- match: /merit-badges/truck-transportation/workbook*
+  url: /merit-badges/truck-transportation/
+  date: 2025-12-14
+  title: Truck Transportation merit badge resources, including workbooks
 - match: /merit-badges/truck-transportation/*
   url: /merit-badges/truck-transportation/
   date: 2025-12-11
-  title: Truck merit badge
+  title: Truck Transportation merit badge
+
+# Generated: Veterinary Medicine
 - match: /merit-badges/veterinary-medicine/veterinary-medicine-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/veterinary-medicine/veterinary-medicine-cpp.pdf
   date: 2025-12-11
-  title: Veterinary merit badge class preparation page
+  title: Veterinary Medicine merit badge class preparation page
 - match: /merit-badges/veterinary-medicine/veterinary-medicine-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/veterinary-medicine/veterinary-medicine-pamphlet.pdf
   date: 2025-12-11
-  title: Veterinary merit badge pamphlet
+  title: Veterinary Medicine merit badge pamphlet
 - match: /merit-badges/veterinary-medicine/veterinary-medicine-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/veterinary-medicine/veterinary-medicine-workbook.pdf
   date: 2025-12-11
-  title: Veterinary merit badge workbook
+  title: Veterinary Medicine merit badge workbook
+- match: /merit-badges/veterinary-medicine/veterinary-medicine-workbook-*
+  url: /merit-badges/veterinary-medicine/
+  date: 2025-12-11
+  title: Veterinary Medicine merit badge workbook options
+- match: /merit-badges/veterinary-medicine/workbook*
+  url: /merit-badges/veterinary-medicine/
+  date: 2025-12-14
+  title: Veterinary Medicine merit badge resources, including workbooks
 - match: /merit-badges/veterinary-medicine/*
   url: /merit-badges/veterinary-medicine/
   date: 2025-12-11
-  title: Veterinary merit badge
+  title: Veterinary Medicine merit badge
+
+# Generated: Water Sports
 - match: /merit-badges/water-sports/water-sports-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/water-sports/water-sports-cpp.pdf
   date: 2025-12-11
-  title: Water merit badge class preparation page
+  title: Water Sports merit badge class preparation page
 - match: /merit-badges/water-sports/water-sports-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/water-sports/water-sports-pamphlet.pdf
   date: 2025-12-11
-  title: Water merit badge pamphlet
+  title: Water Sports merit badge pamphlet
 - match: /merit-badges/water-sports/water-sports-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/water-sports/water-sports-workbook.pdf
   date: 2025-12-11
-  title: Water merit badge workbook
+  title: Water Sports merit badge workbook
+- match: /merit-badges/water-sports/water-sports-workbook-*
+  url: /merit-badges/water-sports/
+  date: 2025-12-11
+  title: Water Sports merit badge workbook options
+- match: /merit-badges/water-sports/workbook*
+  url: /merit-badges/water-sports/
+  date: 2025-12-14
+  title: Water Sports merit badge resources, including workbooks
 - match: /merit-badges/water-sports/*
   url: /merit-badges/water-sports/
   date: 2025-12-11
-  title: Water merit badge
+  title: Water Sports merit badge
+
+# Generated: Weather
 - match: /merit-badges/weather/weather-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/weather/weather-cpp.pdf
   date: 2025-12-11
@@ -2243,14 +3521,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/weather/weather-workbook.pdf
   date: 2025-12-11
   title: Weather merit badge workbook
+- match: /merit-badges/weather/weather-workbook-*
+  url: /merit-badges/weather/
+  date: 2025-12-11
+  title: Weather merit badge workbook options
+- match: /merit-badges/weather/workbook*
+  url: /merit-badges/weather/
+  date: 2025-12-14
+  title: Weather merit badge resources, including workbooks
 - match: /merit-badges/weather/*
   url: /merit-badges/weather/
   date: 2025-12-11
   title: Weather merit badge
-- match: /merit-badges/welding/sds-welding.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/welding/sds-welding.pdf
-  date: 2025-12-11
-  title: SDS Welding safety data sheet
+
+# Generated: Welding
 - match: /merit-badges/welding/welding-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/welding/welding-cpp.pdf
   date: 2025-12-11
@@ -2263,10 +3547,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/welding/welding-workbook.pdf
   date: 2025-12-11
   title: Welding merit badge workbook
+- match: /merit-badges/welding/welding-workbook-*
+  url: /merit-badges/welding/
+  date: 2025-12-11
+  title: Welding merit badge workbook options
+- match: /merit-badges/welding/workbook*
+  url: /merit-badges/welding/
+  date: 2025-12-14
+  title: Welding merit badge resources, including workbooks
 - match: /merit-badges/welding/*
   url: /merit-badges/welding/
   date: 2025-12-11
   title: Welding merit badge
+
+# Generated: Whitewater
 - match: /merit-badges/whitewater/whitewater-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/whitewater/whitewater-cpp.pdf
   date: 2025-12-11
@@ -2279,42 +3573,72 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/whitewater/whitewater-workbook.pdf
   date: 2025-12-11
   title: Whitewater merit badge workbook
+- match: /merit-badges/whitewater/whitewater-workbook-*
+  url: /merit-badges/whitewater/
+  date: 2025-12-11
+  title: Whitewater merit badge workbook options
+- match: /merit-badges/whitewater/workbook*
+  url: /merit-badges/whitewater/
+  date: 2025-12-14
+  title: Whitewater merit badge resources, including workbooks
 - match: /merit-badges/whitewater/*
   url: /merit-badges/whitewater/
   date: 2025-12-11
   title: Whitewater merit badge
+
+# Generated: Wilderness Survival
 - match: /merit-badges/wilderness-survival/wilderness-survival-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/wilderness-survival/wilderness-survival-cpp.pdf
   date: 2025-12-11
-  title: Wilderness merit badge class preparation page
+  title: Wilderness Survival merit badge class preparation page
 - match: /merit-badges/wilderness-survival/wilderness-survival-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/wilderness-survival/wilderness-survival-pamphlet.pdf
   date: 2025-12-11
-  title: Wilderness merit badge pamphlet
+  title: Wilderness Survival merit badge pamphlet
 - match: /merit-badges/wilderness-survival/wilderness-survival-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/wilderness-survival/wilderness-survival-workbook.pdf
   date: 2025-12-11
-  title: Wilderness merit badge workbook
+  title: Wilderness Survival merit badge workbook
+- match: /merit-badges/wilderness-survival/wilderness-survival-workbook-*
+  url: /merit-badges/wilderness-survival/
+  date: 2025-12-11
+  title: Wilderness Survival merit badge workbook options
+- match: /merit-badges/wilderness-survival/workbook*
+  url: /merit-badges/wilderness-survival/
+  date: 2025-12-14
+  title: Wilderness Survival merit badge resources, including workbooks
 - match: /merit-badges/wilderness-survival/*
   url: /merit-badges/wilderness-survival/
   date: 2025-12-11
-  title: Wilderness merit badge
+  title: Wilderness Survival merit badge
+
+# Generated: Wood Carving
 - match: /merit-badges/wood-carving/wood-carving-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/wood-carving/wood-carving-cpp.pdf
   date: 2025-12-11
-  title: Wood merit badge class preparation page
+  title: Wood Carving merit badge class preparation page
 - match: /merit-badges/wood-carving/wood-carving-pamphlet.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/wood-carving/wood-carving-pamphlet.pdf
   date: 2025-12-11
-  title: Wood merit badge pamphlet
+  title: Wood Carving merit badge pamphlet
 - match: /merit-badges/wood-carving/wood-carving-workbook.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/wood-carving/wood-carving-workbook.pdf
   date: 2025-12-11
-  title: Wood merit badge workbook
+  title: Wood Carving merit badge workbook
+- match: /merit-badges/wood-carving/wood-carving-workbook-*
+  url: /merit-badges/wood-carving/
+  date: 2025-12-11
+  title: Wood Carving merit badge workbook options
+- match: /merit-badges/wood-carving/workbook*
+  url: /merit-badges/wood-carving/
+  date: 2025-12-14
+  title: Wood Carving merit badge resources, including workbooks
 - match: /merit-badges/wood-carving/*
   url: /merit-badges/wood-carving/
   date: 2025-12-11
-  title: Wood merit badge
+  title: Wood Carving merit badge
+
+# Generated: Woodwork
 - match: /merit-badges/woodwork/woodwork-cpp.pdf
   url: https://filestore.scoutmasterbucky.com/merit-badges/woodwork/woodwork-cpp.pdf
   date: 2025-12-11
@@ -2327,10 +3651,20 @@
   url: https://filestore.scoutmasterbucky.com/merit-badges/woodwork/woodwork-workbook.pdf
   date: 2025-12-11
   title: Woodwork merit badge workbook
+- match: /merit-badges/woodwork/woodwork-workbook-*
+  url: /merit-badges/woodwork/
+  date: 2025-12-11
+  title: Woodwork merit badge workbook options
+- match: /merit-badges/woodwork/workbook*
+  url: /merit-badges/woodwork/
+  date: 2025-12-14
+  title: Woodwork merit badge resources, including workbooks
 - match: /merit-badges/woodwork/*
   url: /merit-badges/woodwork/
   date: 2025-12-11
   title: Woodwork merit badge
+
+# Documents
 - match: /documents/mbaf.pdf
   url: https://filestore.scoutmasterbucky.com/documents/mbaf.pdf
   date: 2025-12-11
