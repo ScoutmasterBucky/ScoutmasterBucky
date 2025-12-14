@@ -87,21 +87,6 @@
   html: |-
       <p>Ten Ring and Rapids Archery Club are helping Scouts earn the Archery merit badge. Upon registration, Ten Ring will provide a workbook that must be completed before class. Also, bring your signed blue card. They are asking for a voluntary donation of $5 per Scout to cover materials and a food item to be donated to a local food shelf.</p>
 
-- title: Archery Merit Badge
-  host: Ten Ring
-  icon: /events/ten-ring.png
-  start: '2026-01-18 08:00'
-  end: '2026-01-18 12:00'
-  registrationLink: https://www.tenring.org/events.php
-  location:
-      - Rapids Archery Club
-      - 1255 133rd Ave NW
-      - Andover, MN 55304
-  meritBadges:
-      - archery
-  html: |-
-      <p>Ten Ring and Rapids Archery Club are helping Scouts earn the Archery merit badge. Upon registration, Ten Ring will provide a workbook that must be completed before class. Also, bring your signed blue card. They are asking for a voluntary donation of $5 per Scout to cover materials and a food item to be donated to a local food shelf.</p>
-
 - title: Scoutmaster Bucky January Merit Badge Day - OAKDALE, MN
   host: Scoutmaster Bucky
   icon: /events/bucky-jan.png
@@ -129,6 +114,21 @@
       - textile
   html: |-
       <p>Registration is now OPEN!</p>
+
+- title: Archery Merit Badge
+  host: Ten Ring
+  icon: /events/ten-ring.png
+  start: '2026-01-18 08:00'
+  end: '2026-01-18 12:00'
+  registrationLink: https://www.tenring.org/events.php
+  location:
+      - Rapids Archery Club
+      - 1255 133rd Ave NW
+      - Andover, MN 55304
+  meritBadges:
+      - archery
+  html: |-
+      <p>Ten Ring and Rapids Archery Club are helping Scouts earn the Archery merit badge. Upon registration, Ten Ring will provide a workbook that must be completed before class. Also, bring your signed blue card. They are asking for a voluntary donation of $5 per Scout to cover materials and a food item to be donated to a local food shelf.</p>
 
 - title: Scoutmaster Bucky February Merit Badge Day - BLOOMINGTON, MN
   host: Scoutmaster Bucky
