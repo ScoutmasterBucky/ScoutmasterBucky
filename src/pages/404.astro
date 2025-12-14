@@ -2,7 +2,22 @@
 import DefaultLayout from '~/layouts/default-layout.astro';
 ---
 
-<script src="https://filestore.scoutmasterbucky.com/404.js" async></script>
+<script>
+    fetch('https://filestore.scoutmasterbucky.com/api/', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+            type: '404',
+            data: {
+                location: window.location.href,
+                referrer: document.referrer,
+                userAgent: navigator.userAgent,
+            },
+        }),
+    });
+</script>
 <DefaultLayout title="404 - Not Found">
     <offer-suggestions>
         <p>
