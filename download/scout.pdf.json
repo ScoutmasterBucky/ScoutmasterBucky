@@ -1,25 +1,22 @@
 {
-    "destination": "download/scout.pdf",
     "headers": {
-        "accept-ranges": "bytes",
-        "access-control-allow-origin": "*",
-        "age": "3750",
-        "alt-svc": "h3=\":443\"; ma=86400",
-        "cache-control": "public, max-age=31536000",
-        "cf-cache-status": "HIT",
-        "cf-ray": "98f7d8acd9e87816-MSP",
-        "connection": "keep-alive",
-        "content-length": "56901",
+        "date": "Tue, 16 Dec 2025 17:42:57 GMT",
         "content-type": "application/pdf",
-        "date": "Thu, 16 Oct 2025 13:19:10 GMT",
-        "etag": "\"65c5c406-de45\"",
-        "last-modified": "Fri, 09 Feb 2024 06:19:50 GMT",
-        "server": "cloudflare",
-        "set-cookie": [
-            "__cf_bm=g.oIjVKhuJsgCtgpZrrLNT_mR1HgP1V59DiFqap1xkU-1760620750-1.0.1.1-1Y9b.DRayZJ4NjPllX8YhXpOO0j0IYCRPjdjNoS1J2Qzoxf0nIvpBenjQaXNSaGP_SLt_uiH02scly4mDKV02qAN4n1DR6ZQ.fy0G_1KN.k; path=/; expires=Thu, 16-Oct-25 13:49:10 GMT; domain=.www.scouting.org; HttpOnly; Secure; SameSite=None"
-        ],
+        "content-length": "75569",
+        "connection": "keep-alive",
+        "cf-ray": "9aeffaf30e96a2d2-YUL",
+        "last-modified": "Fri, 12 Dec 2025 09:10:53 GMT",
+        "etag": "\"693bdc1d-12731\"",
+        "cache-control": "public, max-age=31536000",
+        "vary": "Accept-Encoding",
+        "access-control-allow-origin": "*",
         "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
-        "vary": "Accept-Encoding"
-    },
-    "url": "https://www.scouting.org/wp-content/uploads/2024/01/2024-Scout-Rank-Requirements.pdf"
+        "cf-cache-status": "HIT",
+        "accept-ranges": "bytes",
+        "set-cookie": [
+            "__cf_bm=boZg33GSJMPbJljimtZ86CNnzOyWLWKv3tKe7X53Ad8-1765906977-1.0.1.1-ZRXyIDEPFP8b05Cz9y33aXclYUo3RcFQ5vd7U.mrqi8V1iaLeHLzx8039MZS97jlmWLtXebSgy3rlqgqCaxUhJdUaAUPpZ2OuZe3GePODx8; path=/; expires=Tue, 16-Dec-25 18:12:57 GMT; domain=.www.scouting.org; HttpOnly; Secure; SameSite=None"
+        ],
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400"
+    }
 }
