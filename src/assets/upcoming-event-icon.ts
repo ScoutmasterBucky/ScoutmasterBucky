@@ -6,11 +6,12 @@ component('upcoming-event-icon', {
         .icon {
             width: 76.5px;
             height: 76.5px;
+            background-position: center;
+            background-size: contain;
+            background-repeat: no-repeat;
         }
     `,
     template: html`
-        <div class="icon">
-            <img *if="event.icon" .src="event.icon" class="wide" />
-        </div>
+        <div class="icon" style="background-image: url({{event.icon}})"></div>
     `,
 });
