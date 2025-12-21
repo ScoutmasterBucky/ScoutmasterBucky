@@ -1,24 +1,22 @@
 {
-    "destination": "download/second-class.pdf",
     "headers": {
-        "accept-ranges": "bytes",
-        "access-control-allow-origin": "*",
-        "alt-svc": "h3=\":443\"; ma=86400",
-        "cache-control": "public, max-age=31536000",
-        "cf-cache-status": "HIT",
-        "cf-ray": "98f7d8b078a37816-MSP",
-        "connection": "keep-alive",
-        "content-length": "102680",
+        "date": "Tue, 16 Dec 2025 17:42:58 GMT",
         "content-type": "application/pdf",
-        "date": "Thu, 16 Oct 2025 13:19:11 GMT",
-        "etag": "\"65c5c40f-19118\"",
-        "last-modified": "Fri, 09 Feb 2024 06:19:59 GMT",
-        "server": "cloudflare",
-        "set-cookie": [
-            "__cf_bm=.FccmhIuI8FMymm_6bvZ3eWgqrrTXhZKi5jqkN7tlpE-1760620751-1.0.1.1-rtdOziXdyHRPbQ.16opalBPKdyiseojNkSke7hRJl5FErS0ko1bxBUlKIPMVoYSIv6gHb64tV76gGh7hwwuEElqNJVGgo.Pg0up_GorLc5Y; path=/; expires=Thu, 16-Oct-25 13:49:11 GMT; domain=.www.scouting.org; HttpOnly; Secure; SameSite=None"
-        ],
+        "content-length": "88016",
+        "connection": "keep-alive",
+        "cf-ray": "9aeffaf68b83a2d2-YUL",
+        "last-modified": "Fri, 12 Dec 2025 09:12:02 GMT",
+        "etag": "\"693bdc62-157d0\"",
+        "cache-control": "public, max-age=31536000",
+        "vary": "Accept-Encoding",
+        "access-control-allow-origin": "*",
         "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
-        "vary": "Accept-Encoding"
-    },
-    "url": "https://www.scouting.org/wp-content/uploads/2022/09/2022-Second-Class-rank.pdf"
+        "cf-cache-status": "HIT",
+        "accept-ranges": "bytes",
+        "set-cookie": [
+            "__cf_bm=R8eKJWXZBAggMZt.xWsaCbJCTLuTNUN2IVZX3hrS7l0-1765906978-1.0.1.1-QOqgUtpFdG.RY0WaS7jo59hpRadNQqakmc85fHiKwJUHAL9RLfejLNeiyX8DYlVJPoA.BMiB8bms3WIMq9BcQzSM8OG6wqcGtjdBtbj6H2M; path=/; expires=Tue, 16-Dec-25 18:12:58 GMT; domain=.www.scouting.org; HttpOnly; Secure; SameSite=None"
+        ],
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400"
+    }
 }

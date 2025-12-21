@@ -1,24 +1,22 @@
 {
-    "destination": "download/star.pdf",
     "headers": {
-        "accept-ranges": "bytes",
-        "access-control-allow-origin": "*",
-        "alt-svc": "h3=\":443\"; ma=86400",
-        "cache-control": "public, max-age=31536000",
-        "cf-cache-status": "HIT",
-        "cf-ray": "98f7d8b53b737816-MSP",
-        "connection": "keep-alive",
-        "content-length": "84735",
+        "date": "Tue, 16 Dec 2025 17:42:59 GMT",
         "content-type": "application/pdf",
-        "date": "Thu, 16 Oct 2025 13:19:12 GMT",
-        "etag": "\"65c5c406-14aff\"",
-        "last-modified": "Fri, 09 Feb 2024 06:19:50 GMT",
-        "server": "cloudflare",
-        "set-cookie": [
-            "__cf_bm=DtulZDpGfz_i7nFVES.tPcnLqNB0MxBUl6EKWA6YTCo-1760620752-1.0.1.1-DcUQaV4BNqNKYOUEc_umJioPZSqnU8BYjBPV8M.kKI6WhEbTxtylmR.G7UgaPuVupdYA6vQWtFgVm2rU8o8l8QpfTkW1OMXm9XoYxpl7okw; path=/; expires=Thu, 16-Oct-25 13:49:12 GMT; domain=.www.scouting.org; HttpOnly; Secure; SameSite=None"
-        ],
+        "content-length": "80741",
+        "connection": "keep-alive",
+        "cf-ray": "9aeffafb7c05a2d2-YUL",
+        "last-modified": "Fri, 12 Dec 2025 09:13:02 GMT",
+        "etag": "\"693bdc9e-13b65\"",
+        "cache-control": "public, max-age=31536000",
+        "vary": "Accept-Encoding",
+        "access-control-allow-origin": "*",
         "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
-        "vary": "Accept-Encoding"
-    },
-    "url": "https://www.scouting.org/wp-content/uploads/2024/01/2024-Star-Rank-requirements.pdf"
+        "cf-cache-status": "HIT",
+        "accept-ranges": "bytes",
+        "set-cookie": [
+            "__cf_bm=QaGYR01pNaGboFfqTwx_8GUF3.yJtooKgL2lm6HtguM-1765906979-1.0.1.1-4CymX611pJ46YgfuQvMbaR7aGUufn28p32UuW6mjR0lBH7GB84tMfGhV8xIlNkjAoha8tTgya7qgNAZKogseS5Chw_.4hBBxRqIu7AOLCb4; path=/; expires=Tue, 16-Dec-25 18:12:59 GMT; domain=.www.scouting.org; HttpOnly; Secure; SameSite=None"
+        ],
+        "server": "cloudflare",
+        "alt-svc": "h3=\":443\"; ma=86400"
+    }
 }

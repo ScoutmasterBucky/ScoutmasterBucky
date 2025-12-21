@@ -1,17 +1,20 @@
 - requirement: 1
   text: |-
       Be active in your troop for at least four months as a First Class Scout.
+      (See page 24.)
 - requirement: 2
   text: |-
       As a First Class Scout, demonstrate Scout spirit by living the Scout Oath
       and Scout Law. Tell how you have done your duty to God and how you have
-      lived the Scout Oath and Scout Law in your everyday life.
+      lived the Scout Oath and Scout Law in your everyday life. (See pages
+      11–16 and 23.)
 - requirement: 3
   text: |-
       Earn six merit badges, including any four from the required list for <a
       href="../eagle/">Eagle</a>. You may choose any of the 18 merit badges on
       the required list for Eagle to fulfill this requirement. See <a
-      href="../eagle/">Eagle rank</a> requirement 3 for this list.
+      href="../eagle/">Eagle rank</a> requirement 3 for this list. (See pages
+      28 and 416–420.)
 - requirement: 4
   text: |-
       While a First Class Scout, participate in six hours of service through
@@ -20,7 +23,8 @@
   text: |-
       While a First Class Scout, serve actively in your troop for four months
       in one or more of the following positions of responsibility (or carry out
-      a Scoutmaster-approved leadership project to help the troop):
+      a Scoutmaster-approved leadership project to help the troop): (See pages
+      422-425.)
       <div class="gap"></div>
       <b>Scout troop.</b> Patrol leader, assistant senior patrol leader, senior
       patrol leader, troop guide, Order of the Arrow troop representative, den
@@ -28,38 +32,39 @@
       assistant Scoutmaster, chaplain aide, instructor, webmaster, or outdoor
       ethics guide.<sup>*</sup>
       <div class="gap"></div>
-      <b>Venturing crew.</b> President, vice president, secretary, treasurer,
-      den chief, historian, guide, quartermaster, chaplain aide, or outdoor
-      ethics guide.
-      <div class="gap"></div>
-      <b>Sea Scout ship.</b> Boatswain, boatswain's mate, yeoman, purser,
-      storekeeper, crew leader, media specialist, specialist, den chief or
-      chaplain aide.
-      <div class="gap"></div>
-      <b>Lone Scout.</b> Leadership responsibility in your school, religious
-      organization, club, or elsewhere in your community.
+      <b>Venturing crew/Sea Scout ship.</b> President, vice president, secretary, treasurer,
+      den chief, quartermaster, historian, guide, boatswain, boatswain's mate, yeoman, purser, storekeeper, chaplain aide, outdoor
+      ethics guide, crew leader, media specialist, specialist or webmaster.
       <div class="gap"></div>
       <sup>*</sup> Assistant patrol leader is not an approved position of
       responsibility for the Star rank.
 - requirement: 6
   text: |-
-      With your parent or guardian, complete the exercises in the pamphlet How
-      to Protect Your Children From Child Abuse: A Parent's Guide and view the
-      Personal Safety Awareness videos (with your parent or guardian's
-      permission).
-      <div class="gap"></div>
-      <sup>*</sup> If your family does not have internet access at home AND you
-      do not have ready internet access at school or another public place or
-      via a mobile device, the Personal Safety Awareness videos portion of this
-      requirement may be waived by your Scoutmaster in consultation with your
-      parent or guardian.
+      Do the following.
+  children:
+      - requirement: a
+        text: |-
+          With your parent or guardian, complete the exercises in the pamphlet
+          How to Protect Your Children from Child Abuse: A Parent's Guide.
+      - requirement: b
+        text: |-
+          With your parent or guardian’s permission,+} view the Personal Safety
+          Awareness videos. (See the pamphlet inserted inside the front
+          cover.)<sup>*</sup>
+          <div class="gap"></div>
+          <sup>*</sup> If your family does not have internet access at home AND
+          you do not have ready internet access at school or another public
+          place or via a mobile device, the Personal Safety Awareness videos
+          portion of this requirement may be waived by your Scoutmaster in
+          consultation with your parent or guardian.
 - requirement: 7
   text: |-
-      While a First Class Scout, participate in a Scoutmaster conference.
+      While a First Class Scout, participate in a Scoutmaster conference. (See
+      page 418.)
 - requirement: 8
   text: |-
       Successfully complete your board of review for the Star
-      rank.<sup>*</sup>
+      rank.<sup>*</sup> (See page 414.)
       <div class="gap"></div>
       <sup>*</sup> If the board of review does not approve the Scout's
       advancement, the decision may be appealed in accordance with <a
