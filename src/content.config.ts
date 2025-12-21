@@ -62,6 +62,8 @@ const events = defineCollection({
         id: z.string(), // automatically generated
         location: z.array(z.string()).optional(),
         meritBadges: z.array(z.string()).optional(),
+        noticeHtml: z.string().optional(),
+        noticeTile: z.string().optional(),
         registrationLink: z.string().url().optional(),
         start: z.string().regex(/^\d{4}-\d{1,2}-\d{1,2}( \d{1,2}:\d{1,2})?$/),
         testLabs: z.array(z.string()).optional(),

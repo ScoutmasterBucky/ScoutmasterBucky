@@ -2,6 +2,10 @@ import { component, css, html } from 'fudgel';
 
 component('upcoming-event-online-banner', {
     style: css`
+        :host {
+            position: static;
+        }
+
         .online-banner {
             background: var(--event-online-banner-background);
             border: var(--event-online-banner-border);

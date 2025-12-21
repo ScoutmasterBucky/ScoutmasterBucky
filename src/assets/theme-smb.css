@@ -8,6 +8,7 @@
     --palette-severe: red;
     --palette-attention: #cc9900;
     --palette-white: #fff;
+    --palette-soft-background: #a8e2ff;
 }
 
 /* semantic color variables for this project */
@@ -17,6 +18,8 @@
     --dnd-background: var(--palette-black);
     --event-online-banner-border: 0.8px solid var(--palette-black);
     --event-online-banner-background: var(--palette-attention);
+    --event-notice-background: var(--palette-soft-background);
+    --event-notice-border: 1px solid black;
     --event-calendar-border: 3px solid var(--palette-light);
     --event-calendar-month-background: var(--palette-light);
     --event-details-border: 3px solid var(--palette-dark);

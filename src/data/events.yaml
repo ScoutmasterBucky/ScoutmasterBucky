@@ -34,6 +34,10 @@
 #   html: |-
 #       <p>Stay away from this event, where they catch fish, then put them
 #       into a barrel, and then shoot the fish.</p>
+#   noticeTile: |-
+#       Short title for a notice banner
+#   noticeHtml: |-
+#       Lots and lots of description. Supports HTML.
 #
 # - title: ONLINE - Photography Merit Badge
 #   host: Scoutmaster Bucky
@@ -237,6 +241,10 @@
       - textile
   html: |-
       <p>Registration is now OPEN!</p>
+  noticeTile: |-
+      Giving to North Star Museum
+  noticeHtml: |-
+      Join Scoutmaster Bucky in supporting our Day of Giving! Every Scout that contributes $10 to the North Star Museum will receive a limited edition Scoutmaster Bucky pin, which is different for each event. Let's make a difference together and suport the Museum of Scouting!
 
 - title: Nature and Veterinary Medicine Merit Badge Days
   host: Sustainable Safari
@@ -322,6 +330,10 @@
       - woodwork
   html: |-
       <p>Registration open 01-02-2026 at 12:05 am CST.</p>
+  # bannerTile: |-
+  #     Giving to Book Drive
+  # bannerHtml: |-
+  #     <p>Join Scoutmaster Bucky in supporting our Day of Giving! Every Scout that contributes $10 to the book drive will receive a limited edition Scoutmaster Bucky pin, which is different for each event. Reading makes a huge impact in the development and education of today's youth.</p>
 
 - title: Scoutmaster Bucky Merit Badge Day - DULUTH, MN
   host: Scoutmaster Bucky
@@ -358,6 +370,10 @@
       - Richfield, Minnesota 55423
   html: |-
       <p>Merit badge offerings will be announced soon. Save the date.</p>
+  # bannerTile: |-
+  #     Giving to Book Drive
+  # bannerHtml: |-
+  #     <p>Join Scoutmaster Bucky in supporting our Day of Giving! Every Scout that contributes $10 to the book drive will receive a limited edition Scoutmaster Bucky pin, which is different for each event. Reading makes a huge impact in the development and education of today's youth.</p>
 
 - title: Rifle Shooting Merit Badge
   host: Ten Ring

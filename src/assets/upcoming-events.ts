@@ -39,6 +39,7 @@ component(
                 transition: all 0.2s;
                 user-select: none;
                 height: 100%;
+                overflow: hidden;
             }
 
             .box:hover {

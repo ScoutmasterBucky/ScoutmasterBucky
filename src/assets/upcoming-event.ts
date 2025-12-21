@@ -11,10 +11,18 @@ component(
     {
         prop: ['event'],
         style: css`
-            .wrapper {
-                padding: 0.5em;
-                overflow: hidden;
+            :host {
+                position: relative;
+                display: flex;
+                flex-direction: column;
                 height: 100%;
+            }
+
+            .wrapper {
+                flex-grow: 1;
+                flex-shrink: 0;
+                overflow: hidden;
+                padding: 0.5em;
             }
 
             .top-bar {
@@ -23,26 +31,24 @@ component(
                 align-items: flex-start;
             }
 
-            .online-banner {
-                position: absolute;
-                top: -25px;
-                left: -35px;
-                transform-origin: bottom right;
-                width: 140px;
-                overflow: hidden;
-                text-align: center;
-                transform: rotate(-35deg);
-                font-weight: bold;
-                font-size: 0.8em;
-                padding-top: 0.2em;
-                background: var(--event-online-banner-background);
-                border: var(--event-online-banner-border);
-            }
-
             .title {
                 text-align: center;
                 font-size: 1.4em;
                 padding-top: 10px;
+            }
+
+            upcoming-event-online-banner {
+                flex-shrink: 0;
+            }
+
+            .notice {
+                background-color: var(--event-notice-background);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+                border-top: var(--event-notice-border);
+                flex-shrink: 0;
             }
         `,
         template: html`
@@ -62,11 +68,16 @@ component(
                     ></upcoming-event-location>
                 </div>
 
-                <upcoming-event-online-banner
-                    *if="!event.location"
-                ></upcoming-event-online-banner>
-
                 <div class="title">{{ event.title }}</div>
+            </div>
+
+            <upcoming-event-online-banner
+                *if="!event.location"
+                @click="showModal()"
+            ></upcoming-event-online-banner>
+
+            <div @click="showModal()" *if="event.noticeTile" class="notice">
+                {{ event.noticeTile }}
             </div>
 
             <show-modal *if="modal" @close="hideModal()">

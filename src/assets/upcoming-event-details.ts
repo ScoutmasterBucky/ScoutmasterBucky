@@ -65,6 +65,19 @@ component(
             .bottom-line {
                 border-bottom: var(--event-details-border);
             }
+
+            .notice {
+                background-color: var(--event-notice-background);
+                width: 75%;
+                max-width: 75%;
+                border: var(--event-notice-border);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+                margin: 0.5em auto;
+                padding: 0.5em;
+            }
         `,
         template: html`
             <div class="selectable">
@@ -108,6 +121,7 @@ component(
                     .event="event"
                 ></upcoming-event-test-labs>
                 <div *if="event.html" .inner-h-t-m-l="event.html"></div>
+                <div *if="event.noticeHtml" class="notice" .inner-h-t-m-l="event.noticeHtml"></div>
                 <upcoming-event-registration
                     *if="event.registrationLink"
                     .event="event"
