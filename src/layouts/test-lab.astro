@@ -86,10 +86,10 @@ let hasResources = checkRequirementsForResources(requirements);
         <ScaledContent>
             <img src={info.image} alt="Test Lab Badge" class="wide" />
         </ScaledContent>
-        {info.purchaseUrl && (
+        {info.purchaseUrl && info.patch && (
             <ScaledContent>
                 <a href={info.purchaseUrl} target="_blank" rel="noopener">
-                    <img src={info.badge} alt="Produced Patch" class="wide" />
+                    <img src={info.patch} alt="Produced Patch" class="wide" />
                     <div>
                         Available Now!
                     </div>
@@ -114,15 +114,17 @@ let hasResources = checkRequirementsForResources(requirements);
         </p>
     )}
 
-    <h3>Resources</h3>
+    {resources && (
+        <h3>Resources</h3>
 
-    <ul>
-        {resources.map((resource) => (
-            <li>
-                <a href={resource.url} target="_blank">{resource.name}</a>
-            </li>
-        ))}
-    </ul>
+        <ul>
+            {resources.map((resource) => (
+                <li>
+                    <a href={resource.url} target="_blank">{resource.name}</a>
+                </li>
+            ))}
+        </ul>
+    )}
 
     <h2 class="requirements-header">
         <div>{ info.name } Requirements</div>
@@ -140,11 +142,13 @@ let hasResources = checkRequirementsForResources(requirements);
 
     <Requirements type="testLabRequirements" entry={testLab} />
 
-    <div class="center">
-        <a href={info.survey} target="_blank" rel="noopener" class="survey">
-            Go To Survey
-        </a>
-    </div>
+    {info.survey && (
+        <div class="center">
+            <a href={info.survey} target="_blank" rel="noopener" class="survey">
+                Go To Survey
+            </a>
+        </div>
+    )}
 </DefaultLayout>
 <script>
 import '~/assets/resources-toggle';

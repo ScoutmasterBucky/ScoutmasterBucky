@@ -7,6 +7,7 @@ const ResourceSchema = z.strictObject({
     text: z.string(),
     type: z
         .enum([
+            'document',
             'docx',
             'image',
             'pdf',
@@ -177,12 +178,12 @@ const testLabResources = defineCollection({
 const testLabs = defineCollection({
     loader: file('./src/data/test-labs.yaml'),
     schema: z.strictObject({
-        badge: z.string().optional(),
         expires: z.string(),
         image: z.string(),
         name: z.string(),
+        patch: z.string().optional(),
         purchaseUrl: z.string().url().optional(),
-        survey: z.string().url(),
+        survey: z.string().url().optional(),
     }),
 });
 

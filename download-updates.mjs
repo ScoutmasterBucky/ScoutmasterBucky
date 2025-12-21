@@ -243,6 +243,7 @@ async function saveHtml(url, destHtml, selector) {
     const result = await domQuery(dom, selector || "html");
 
     if (result.length !== 1) {
+        console.log(dom.window.document.documentElement.outerHTML);
         throw new Error(
             `Expected exactly one result instead of ${result.length} for selector: ${selector}`
         );
