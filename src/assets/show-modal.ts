@@ -26,6 +26,7 @@ component(
                 align-items: center;
                 max-width: min(100%, 1024px);
                 max-height: 100%;
+                position: absolute;
             }
 
             .modal-content {
