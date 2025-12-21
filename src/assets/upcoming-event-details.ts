@@ -1,6 +1,7 @@
 import './upcoming-event-icon';
 import './upcoming-event-merit-badges';
 import './upcoming-event-registration';
+import './upcoming-event-test-labs';
 import { component, css, html } from 'fudgel';
 
 component(
@@ -102,6 +103,10 @@ component(
                     *if="event.meritBadges"
                     .event="event"
                 ></upcoming-event-merit-badges>
+                <upcoming-event-test-labs
+                    *if="event.testLabs"
+                    .event="event"
+                ></upcoming-event-test-labs>
                 <div *if="event.html" .inner-h-t-m-l="event.html"></div>
                 <upcoming-event-registration
                     *if="event.registrationLink"

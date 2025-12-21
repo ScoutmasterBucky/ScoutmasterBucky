@@ -86,21 +86,98 @@
   meritBadges:
       - mammal-study
 
-      #- title: Scoutmaster Bucky LIFE SKILLS Test Lab Day - RICHFIELD, MN
-#  host: Scoutmaster Bucky
-#  icon: /test-labs/life-skills.webp
-#  start: '2025-12-29 8:30'
-#  end: '2025-12-29 15:30'
-#  registrationLink: https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-life-skills-test-lab-day-2025-12-29
-#  location:
-#      - St Richard's Catholic Church
-#      - 7540 Penn Avenue South
-#      - Richfield, Minnesota 55419
-#  meritBadges:
-#      - life-skills
-#  html: |-
-#      <p>Registration is now OPEN!</p>
+- title: Citizenship in Society
+  host: North Star Museum
+  icon: /events/north-star-museum.webp
+  start: '2025-12-26 08:30'
+  end: '2025-12-26 12:00'
+  registrationLink: https://nssm.regfox.com/december-2025-merit-badge-workshops
+  location:
+      - North Star Museum
+      - 2640 E. Seventh Ave
+      - North St. Paul, MN 55109
+  meritBadges:
+      - citizenship-in-society
 
+- title: Citizenship in the Nation
+  host: North Star Museum
+  icon: /events/north-star-museum.webp
+  start: '2025-12-26 13:00'
+  end: '2025-12-26 16:00'
+  registrationLink: https://nssm.regfox.com/december-2025-merit-badge-workshops
+  location:
+      - North Star Museum
+      - 2640 E. Seventh Ave
+      - North St. Paul, MN 55109
+  meritBadges:
+      - citizenship-in-the-nation
+
+- title: Scouting Heritage
+  host: North Star Museum
+  icon: /events/north-star-museum.webp
+  start: '2025-12-27 13:00'
+  end: '2025-12-27 16:00'
+  registrationLink: https://nssm.regfox.com/december-2025-merit-badge-workshops
+  location:
+      - North Star Museum
+      - 2640 E. Seventh Ave
+      - North St. Paul, MN 55109
+  meritBadges:
+      - scouting-heritage
+
+- title: Scoutmaster Bucky LIFE SKILLS Test Lab Day - RICHFIELD, MN
+  host: Scoutmaster Bucky
+  icon: /test-labs/life-skills/life-skills.webp
+  start: '2025-12-29 8:30'
+  end: '2025-12-29 15:30'
+  registrationLink: https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-life-skills-test-lab-day-2025-12-29
+  location:
+      - St Richard's Catholic Church
+      - 7540 Penn Avenue South
+      - Richfield, Minnesota 55419
+  testLabs:
+      - life-skills
+  html: |-
+      <p>Registration is now OPEN!</p>
+
+- title: Citizenship in the Community
+  host: North Star Museum
+  icon: /events/north-star-museum.webp
+  start: '2026-01-02 08:30'
+  end: '2026-01-02 12:00'
+  registrationLink: https://nssm.regfox.com/december-2025-merit-badge-workshops
+  location:
+      - North Star Museum
+      - 2640 E. Seventh Ave
+      - North St. Paul, MN 55109
+  meritBadges:
+      - citizenship-in-the-community
+
+- title: Citizenship in the World
+  host: North Star Museum
+  icon: /events/north-star-museum.webp
+  start: '2026-01-03 08:30'
+  end: '2026-01-03 12:00'
+  registrationLink: https://nssm.regfox.com/december-2025-merit-badge-workshops
+  location:
+      - North Star Museum
+      - 2640 E. Seventh Ave
+      - North St. Paul, MN 55109
+  meritBadges:
+      - citizenship-in-the-world
+
+- title: Communication
+  host: North Star Museum
+  icon: /events/north-star-museum.webp
+  start: '2026-01-03 13:00'
+  end: '2026-01-03 16:00'
+  registrationLink: https://nssm.regfox.com/december-2025-merit-badge-workshops
+  location:
+      - North Star Museum
+      - 2640 E. Seventh Ave
+      - North St. Paul, MN 55109
+  meritBadges:
+      - communication
 
 - title: Reptile and Amphibian Study Merit Badge Days
   host: Sustainable Safari
