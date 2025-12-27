@@ -47,9 +47,15 @@ component(
             .toggle-switch:has(.toggle-input:checked) {
                 background-color: green;
             }
+
+            @media print {
+                .no-print {
+                    display: none;
+                }
+            }
         `,
         template: html`
-            <div class="centered-line">
+            <div class="centered-line no-print">
                 <label class="toggle-switch" @change.stop.prevent="update()">
                     <input type="checkbox" class="toggle-input" #ref="toggle" />
                     <span class="slider round"></span>
