@@ -513,7 +513,7 @@ async function downloadTestLab(updated, args) {
         const name = safeName(link.innerText);
         console.log(`[Requirements] ${name}: ${url}`);
         const dest = `src/data/test-labs/${name}/${name}.html.orig`;
-        const pageDom = await saveHtml(url, dest, '.e-con-inner');
+        const pageDom = await saveHtml(url, dest, '#page .e-con-inner');
         updated[name] = Date.now();
     }
 
