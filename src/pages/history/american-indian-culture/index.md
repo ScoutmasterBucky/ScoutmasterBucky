@@ -1,8 +1,6 @@
 ---
-badge: indian-lore
+badge: american-indian-culture
 layout: ~/layouts/historical-merit-badge.astro
 ---
 
 Extra information goes here.
-
-Renamed in as of January 1st, 2026 to "American Indian Culture".

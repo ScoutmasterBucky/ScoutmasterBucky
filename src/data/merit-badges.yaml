@@ -16,6 +16,12 @@ american-heritage:
     name: American Heritage
     otherAwards: []
     ranks: []
+american-indian-culture:
+    bucky: /merit-badges/american-indian-culture/american-indian-culture-bucky.jpg
+    image: /merit-badges/american-indian-culture/american-indian-culture.png
+    name: American Indian Culture
+    otherAwards: []
+    ranks: []
 american-labor:
     bucky: /merit-badges/american-labor/american-labor-bucky.jpg
     image: /merit-badges/american-labor/american-labor.png
@@ -458,12 +464,6 @@ horsemanship:
     name: Horsemanship
     otherAwards:
         - 50-miler
-    ranks: []
-indian-lore:
-    bucky: /merit-badges/indian-lore/indian-lore-bucky.jpg
-    image: /merit-badges/indian-lore/indian-lore.png
-    name: Indian Lore
-    otherAwards: []
     ranks: []
 insect-study:
     bucky: /merit-badges/insect-study/insect-study-bucky.jpg

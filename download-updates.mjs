@@ -318,7 +318,15 @@ async function downloadCounselorInformation(updated) {
 async function downloadMeritBadges(updated, args) {
     async function fetchMeritBadge(link, indexDom) {
         const mbUrl = resolveUrl(link, indexDom);
-        const badgeName = safeName(link.innerText);
+        let badgeName = safeName(link.innerText);
+
+        // 2026-01-02 - The old Indian Lore link still exists. It redirects to
+        // the new American Indian Culture merit badge. Just need to tweak the
+        // name here to match what's expected until upstream is updated.
+        // When that happens, change "badgeName" back to a constant
+        if (badgeName === 'indian-lore') {
+            badgeName = 'american-indian-culture';
+        }
 
         if (args["--filter"] && !badgeName.match(new RegExp(args["--filter"]))) {
             return;

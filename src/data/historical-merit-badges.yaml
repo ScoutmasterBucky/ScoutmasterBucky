@@ -25,6 +25,9 @@ american-cultures:
 american-heritage:
     name: American Heritage
     active: true
+american-indian-culture:
+    name: American Indian Culture
+    active: true
 american-labor:
     name: American Labor
     active: true
@@ -366,7 +369,7 @@ horsemanship:
     active: true
 indian-lore:
     name: Indian Lore
-    active: true
+    active: false
 insect-life:
     name: Insect Life
     active: false
