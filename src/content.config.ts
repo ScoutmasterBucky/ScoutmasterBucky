@@ -17,6 +17,7 @@ const ResourceSchema: z.ZodSchema<Resource> = z.strictObject({
             'docx',
             'image',
             'pdf',
+            'playlist',
             'podcast',
             'video',
             'website',

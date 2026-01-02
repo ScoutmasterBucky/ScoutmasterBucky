@@ -5,14 +5,27 @@
 - requirement: 2
   text: |-
       Explain the following terms: salinity, temperature, and density. Describe
-      how these important properties of seawater are measured by oceanographer.
-      Discuss the circulation and currents of the ocean. Describe the effects of
-      the oceans on weather and climate.
+      how these important properties of seawater are measured by an
+      oceanographer. Discuss the circulation and currents of the ocean. Describe
+      the effects of the oceans on weather and climate.
 - requirement: 3
   text: |-
-      Describe the characteristics of ocean waves. Point out the differences
-      among the storm surge, tsunami, tidal wave, and tidal bore. Explain the
-      difference between sea, swell, and surf. Explain how breakers are formed.
+      Describe the characteristics of ocean waves and do the following:
+  children:
+      - requirement: a
+        text: |-
+            Point out the differences among the storm surge, tsunami, tidal
+            wave, and tidal bore.
+      - requirement: b
+        text: |-
+            Explain the difference between sea, swell, and surf.
+      - requirement: c
+        text: |-
+            Explain how breakers are formed.
+      - requirement: d
+        text: |-
+            Explain what a rip current is, how to avoid them, and what to do if
+            you are caught in one.
 - requirement: 4
   text: |-
       Draw a cross-section of underwater topography. Show what is meant by:
@@ -26,11 +39,6 @@
       - requirement: c
         text: |-
             Abyssal plain.
-      - detail: true
-        text: |-
-            Name and put on your drawing the following: seamount, guyot, rift valley,
-            canyon, trench, and oceanic ridge. Compare the depths in the oceans with
-            the heights of mountains on land.
 - requirement: 5
   text: |-
       List the main salts, gases, and nutrients in seawater. Describe some
@@ -105,8 +113,8 @@
                   Oceanographic institute, marine laboratory, or marine aquarium.
       - requirement: c
         text: |-
-            Explain to your troop in a five-minute prepared speech "Why
-            Oceanography Is Important" or describe "Career Opportunities in
+            Explain to your troop, in a five-minute prepared speech "Why
+            Oceanography Is Important," or describe "Career Opportunities in
             Oceanography." (Before making your speech, show your speech outline to
             your counselor for approval.)
 - requirement: 9
