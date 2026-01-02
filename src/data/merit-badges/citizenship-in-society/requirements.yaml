@@ -2,12 +2,10 @@
 # Omitted the "additional educational resources" section since that's for merit badge counselors.
 # 2b is missing a trailing period. Added one.
 # 6a missing trailing period. Added one.
-# 6b has "of the following Options:" - switched to lowercase
-# 6c should say (c) and does not. Same for 11c, 11d.
 # 7a missing trailing period. Added one.
 - text: |-
-      <b>Note: "Discussion" requirements will be either with a counselor and another
-      individual (in accordance with Youth Protection Guidelines <a
+      <b>NOTE: "Discussion" requirements will be either with a counselor and another
+      individual (in accordance with Safeguarding Youth Guidelines <a
       href="https://www.scouting.org/health-and-safety/gss/gss01/"
       target="_blank">https://www.scouting.org/health-and-safety/gss/gss01/</a>),
       or with your counselor and a small group (of Scouts), depending upon your
@@ -69,19 +67,19 @@
   children:
       - requirement: a
         text: |-
-            Scenario 1: While at camp, a youth accidentally spills food on another
+            <b>Scenario 1:</b> While at camp, a youth accidentally spills food on another
             camper. The camper who gets spilled on gets angry and says something
             that is offensive to people with disabilities; their friends laugh.
             What could/should you do?
       - requirement: b
         text: |-
-            Scenario 2: Your friend confides in you that some students in school
+            <b>Scenario 2:</b> Your friend confides in you that some students in school
             are making insulting comments about one of their identities, and that
             those same students created a fake social media account to impersonate
             your friend online and post messages. What could/should you do?
       - requirement: c
         text: |-
-            Scenario 3: A new student in your class was born in another country (or
+            <b>Scenario 3:</b> A new student in your class was born in another country (or
             has a parent who was born in another country). Your friends make rude
             comments to the student about their speech or clothes and tell the
             student to "go back home where you came from." What could/should you
@@ -111,35 +109,37 @@
   children:
       - requirement: a
         text: |-
-            Share with each other what makes the different aspect of your identity
+            Share with each other what makes the different aspects of your identity
             meaningful/special to you.
       - requirement: b
         text: |-
             Share with each other ONE of the following options:
         children:
             - text: |-
-                  <b>Option 1:</b> A time you felt excluded from a group.
-              children:
-                  - text: |-
-                        * What was the situation?
-                        * How did it make you feel?
-                        * What did you do?
-                        * Did anyone stand up for you?
-                        * What did you learn?
-                        * Would you do anything differently today?
+                  <b>Option 1—</b>A time you felt excluded from a group:
+                  <div class="gap"></div>
+                  <ul>
+                  <li>What was the situation?</li>
+                  <li>How did it make you feel?</li>
+                  <li>What did you do?</li>
+                  <li>Did anyone stand up for you?</li>
+                  <li>What did you learn?</li>
+                  <li>Would you do anything differently today?</li>
+                  </ul>
             - text: |-
-                  <b>Option 2:</b> This imaginary situation: You're attending a new
-                      school and don't know anyone there yet. You notice they dress
-                      very differently than you do. At lunchtime, you decide you'll
-                      try to sit with a group to get to know other students. People
-                      at two tables tell you there is someone sitting at the
-                      currently empty seat at their table, so you end up eating by
-                      yourself.
-              children:
-                  - text: |-
-                        * How would that make you feel?
-                        * What could the students have done?
-                        * If that happened at your school, what would you do?
+                  <b>Option 2—</b>This imaginary situation: You're attending a new
+                  school and don't know anyone there yet. You notice they dress
+                  very differently than you do. At lunchtime, you decide you'll
+                  try to sit with a group to get to know other students. People
+                  at two tables tell you there is someone sitting at the
+                  currently empty seat at their table, so you end up eating by
+                  yourself. Discuss:
+                  <div class="gap"></div>
+                  <ul>
+                  <li>How would that make you feel?</li>
+                  <li>What could the students have done?</li>
+                  <li>If that happened at your school, what would you do?</li>
+                  </ul>
       - requirement: c
         text: |-
             Discuss with your counselor what you learned from the discussion with
@@ -170,7 +170,7 @@
   text: |-
       Document and discuss with your counselor three or more areas in your life
       outside of Scouting where you feel you can actively provide stronger
-      leadership in.
+      leadership in:
   children:
       - requirement: a
         text: |-

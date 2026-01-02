@@ -1,5 +1,5 @@
-# Requirements 1c and 3 are relatively the same and should be combined.
 # 6A & 6B looks like it should say "A." or "B." but is missing the dot for the requirement number.
+# 6b is missing the period after Biking in the title. Added it for consistency.
 - requirement: 1
   text: |-
       Do the following:
@@ -31,18 +31,6 @@
             - href: https://www.youtube.com/watch?v=oPCWzECMD_4%20
               text: First Aid Guide for Mountain Bikers
               type: video
-      - requirement: c
-        text: |-
-            Explain the importance of wearing the right clothing and gear while
-            cycling, including a properly sized and fitted helmet. Know the
-            Scouting America Bike Safety Guidelines.
-        resources:
-            - href: https://www.youtube.com/watch?v=2TYe3APtKtc
-              text: 'Bike Tips: Gear to Make Your Ride More Comfortable'
-              type: video
-            - href: https://www.youtube.com/watch?v=T3u51W0LN2U%20
-              text: How to Wear a Helmet
-              type: video
 - requirement: 2
   text: |-
       Describe your state and local laws concerning bicycles. Discuss what is the
@@ -59,9 +47,9 @@
         type: video
 - requirement: 3
   text: |-
-      Explain the importance of wearing a properly sized and fitted helmet while
-      cycling and of wearing the right clothing for the weather. Know the
-      Scouting America Bike Safety Guidelines.
+      Explain the importance of wearing the right clothing and gear while
+      cycling, including a properly sized and fitted helmet. Know the
+      <i>Scouting America Bike Safety Guidelines</i>.
   resources:
       - href: https://www.youtube.com/watch?v=hLlXswx0VvQ
         text: Fitting a Bike Helmet
@@ -71,6 +59,12 @@
       Using a bicycle safety checklist, clean and adjust a bicycle and present it
       to your counselor for inspection. Do the following:
   resources:
+      - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Cycling/Bicycle%20Safety%20Checklist.pdf
+        text: Bicycle Safety Checklist
+        type: pdf
+      - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Cycling/Bicycle%20Safety%20Checklist%20%28fillable%29.pdf
+        text: Bicycle Safety Checklist (fillable)
+        type: pdf
       - href: https://vimeo.com/1125028194
         text: Checklist, Maintenance, and Inspection | Produced by Scouting America
         type: video
@@ -148,18 +142,18 @@
         type: pdf
   children:
       - text: |-
-            <b>Option A—Road Biking.</b> Do the following:
+            <b>Option A—Road Biking.</b> Do ALL of the following:
         resources:
             - href: https://vimeo.com/1125028086
               text: Advanced Techniques for Urban Riding | Produced by Scouting America
               type: video
         children:
-            - requirement: a
+            - requirement: 1
               text: |-
                   Take a road safety test with your counselor and demonstrate the
                   following:
               children:
-                  - requirement: 1
+                  - requirement: a
                     text: |-
                         On an urban street with light traffic, properly execute a left
                         turn from the center of the street; also demonstrate an
@@ -172,14 +166,14 @@
                         - href: https://static.nhtsa.gov/nhtsa/downloads/NTI/Responsible_Walk-Bike_Activities/ComboLessons/L3Handouts/8009_HandSignals_122811_v1a.pdf
                           text: Bike Hand Signals
                           type: pdf
-                  - requirement: 2
+                  - requirement: b
                     text: |-
                         Properly execute a right turn.
                     resources:
                         - href: https://www.youtube.com/watch?v=v_hRsNHlq8M
                           text: Bike Safety | Hand Signals
                           type: video
-                  - requirement: 3
+                  - requirement: c
                     text: |-
                         Demonstrate appropriate actions at a right-turn-only lane when
                         you are continuing straight.
@@ -187,7 +181,7 @@
                         - href: https://www.youtube.com/watch?v=v_hRsNHlq8M
                           text: Bike Safety | Hand Signals
                           type: video
-                  - requirement: 4
+                  - requirement: d
                     text: |-
                         Show proper curbside and road-edge riding. Show how to ride
                         safely along a row of parked cars.
@@ -195,14 +189,14 @@
                         - href: https://www.youtube.com/watch?v=v_hRsNHlq8M
                           text: Bike Safety | Hand Signals
                           type: video
-                  - requirement: 5
+                  - requirement: e
                     text: |-
                         Cross railroad tracks properly.
                     resources:
                         - href: https://www.youtube.com/watch?v=62jc3-6Jgdw%20
                           text: How to Cross Railroad Tracks
                           type: video
-            - requirement: b
+            - requirement: 2
               text: |-
                   Avoiding main highways, take two rides of 10 miles each, two rides
                   of 15 miles each, and two rides of 25 miles each. You must make a
@@ -215,12 +209,12 @@
                   - href: https://www.mapmyride.com/
                     text: MapMyRide
                     type: website
-            - requirement: c
+            - requirement: 3
               text: |-
                   After completing requirement b for the road biking option, do ONE
                   of the following:
               children:
-                  - requirement: 1
+                  - requirement: a
                     text: |-
                         Lay out on a road map a 50-mile trip. Stay away from main
                         highways. Using your map, make this ride in eight hours or
@@ -229,7 +223,7 @@
                         - href: https://www.mapmyride.com/
                           text: MapMyRide
                           type: website
-                  - requirement: 2
+                  - requirement: b
                     text: |-
                         Participate in an organized bike tour of at least 50 miles.
                         Make this ride in eight hours or less. Afterward, use the
@@ -239,7 +233,7 @@
                           text: Cue Sheets
                           type: website
       - text: |-
-            <b>Option B—Trail or Mixed Surface Biking.</b> Do the following:
+            <b>Option B—Trail or Mixed Surface Biking.</b> Do ALL of the following:
             <div class="gap"></div>
             <b>Note:</b> These requirements may be completed using a mountain bike
             or other properly equipped, manually-powered cycle such as a gravel
@@ -247,12 +241,12 @@
             or adaptive cycle. If a tandem bike is used, the Scout must actively
             power the cycle in concert with the other rider.
         children:
-            - requirement: a
+            - requirement: 1
               text: |-
                   Demonstrate the following mountain bike handling skills to your
                   counselor:
               children:
-                  - requirement: 1
+                  - requirement: a
                     text: |-
                         Neutral position, ready position, bike body separation (side to
                         side, and forward and back), and body positioning for cornering
@@ -263,40 +257,44 @@
                         - href: https://www.youtube.com/watch?v=Ammz64zxnhg%20
                           text: 'Advanced MTB Cornering Techniques: Body Position &amp; Technical Terrain'
                           type: video
-                  - requirement: 2
+                  - requirement: b
                     text: |-
                         Show shifting skills as applicable to climbs and obstacles.
                     resources:
-                        - href: https://www.youtube.com/watch?v=7kc-CHtlQyM
-                          text: 'Bike Tips: Proper Shifting Technique'
+                        - href: https://youtu.be/IxxoU-s-Lws
+                          text: Shifting Skills for Mountain Biking
                           type: video
-                  - requirement: 3
+                  - requirement: c
                     text: |-
-                        Show proper technique for riding up (seated, crouched, and
-                        standing) and down hills.
+                        Show proper technique for riding up and down hills, including when
+                        you would ride seated, crouched, or standing.
                     resources:
                         - href: https://youtu.be/aDwqM_ZVSUg
                           text: Make Climbing Easier With Proper Body Position
                           type: video
-                        - href: https://www.youtube.com/watch?v=Rd-wFxmXmsM%20
+                        - href: https://youtu.be/Rd-wFxmXmsM
                           text: Steep &amp; Technical Climbs Made Easy With Proper Gearing &amp; Choice of Line
                           type: video
-                        - href: https://www.youtube.com/watch?v=4knf7exmrAQ%20
+                        - href: https://youtu.be/4knf7exmrAQ
                           text: How to Climb Any Hill on Your Mountain Bike
                           type: video
-                        - href: https://www.youtube.com/watch?v=k6ewOO9rXXY%20
+                        - href: https://youtu.be/k6ewOO9rXXY
                           text: Don't Make These Common Climbing Mistakes
                           type: video
-            - requirement: b
+            - requirement: 2
               text: |-
                   Take a trail safety test with your counselor and demonstrate the
                   following:
               children:
-                  - requirement: 1
+                  - requirement: a
                     text: |-
                         Show proper trail etiquette to hikers and other cyclists,
                         including when to yield the right-of-way.
-                  - requirement: 2
+                    resources:
+                        - href: https://youtu.be/gwYBL2zPYXQ
+                          text: Bike Trail Etiquette
+                          type: video
+                  - requirement: b
                     text: |-
                         Demonstrate how to correctly cross an obstacle by either going
                         over the obstacle on your bike or dismounting your bike and
@@ -305,14 +303,20 @@
                         - href: https://www.youtube.com/watch?v=Hp_jDNN6XfQ
                           text: How to Jump a Log on a Mountain Bike
                           type: video
-                  - requirement: 3
+                  - requirement: c
                     text: |-
                         Cross rocks, gravel, and roots properly
                     resources:
-                        - href: https://www.youtube.com/watch?v=Hp_jDNN6XfQ
-                          text: How to Jump a Log on a Mountain Bike
+                        - href: https://youtu.be/arh94o3Qm4Y
+                          text: How to Navigate Rock Gardens
                           type: video
-            - requirement: c
+                        - href: https://youtu.be/0CQesh_kN6k
+                          text: How to Ride Roots
+                          type: video
+                        - href: https://youtu.be/tpLCJLLPTEU
+                          text: How to Ride Loose Gravel
+                          type: video
+            - requirement: 3
               text: |-
                   Describe the rules of trail riding, including how to know when a
                   trail is unsuitable for riding.
@@ -326,7 +330,7 @@
                   - href: https://treadlightly.org/learn/recreation-tips/sharing-our-trails/%20
                     text: Tread Lightly
                     type: website
-            - requirement: d
+            - requirement: 4
               text: |-
                   On mountain biking or multi-use trails approved by your counselor,
                   take two rides of 2 miles each, two rides of 5 miles each, and two
@@ -336,7 +340,7 @@
                   - href: https://www.mapmyride.com/
                     text: MapMyRide
                     type: website
-            - requirement: e
+            - requirement: 5
               text: |-
                   After fulfilling the previous requirement, lay out on a trail map a
                   22-mile trip. You may include multiple trail systems, if needed.

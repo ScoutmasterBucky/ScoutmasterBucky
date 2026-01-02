@@ -142,17 +142,39 @@
             your counselor.
 - requirement: 6
   text: |-
-      Find out about three career opportunities in composite materials. Pick one
-      and find out the education, training, and experience required for this
-      profession. Discuss this with your counselor, and explain why this
-      profession might interest you.
-  resources:
-      - href: https://youtu.be/DtosXFgP7C4
-        text: Materials Engineer - Careers in Science and Engineering
-        type: video
-      - href: https://youtu.be/c0EXAuWkMqA
-        text: Materials Science - a Building Block for the Future of Aerospace Technologies
-        type: video
-      - href: https://youtu.be/j_xotv7npsQ
-        text: 'My Job in F1: Rachel, Materials Science Engineer'
-        type: video
+      Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            Explore careers related to the Composite Materials merit badge.
+            Research one career to learn about the training and education needed,
+            costs, job prospects, salary, job duties, and career advancement. Your
+            research methods may include—with your parent or guardian's
+            permission—an internet or library search, an interview with a
+            professional in the field, or a visit to a location where people in this
+            career work. Discuss with your counselor both your findings and what
+            about this profession might make it an interesting career.
+        resources:
+            - href: https://youtu.be/DtosXFgP7C4
+              text: Materials Engineer - Careers in Science and Engineering
+              type: video
+            - href: https://youtu.be/c0EXAuWkMqA
+              text: Materials Science - a Building Block for the Future of Aerospace Technologies
+              type: video
+            - href: https://youtu.be/j_xotv7npsQ
+              text: 'My Job in F1: Rachel, Materials Science Engineer'
+              type: video
+      - requirement: b
+        text: |-
+            Explore how you could use knowledge and skills from the
+            <i>Composite Materials</i> merit badge to pursue a hobby or interest.
+            Research any training needed, expenses, and organizations that promote
+            or support it. Discuss with your counselor what short-term and long-term
+            goals you might have if you pursued this.
+        resources:
+            - href: https://youtu.be/rYYuDt8Z2cY
+              text: Surfboard Shaping and Glassing
+              type: video
+            - href: https://youtu.be/s2aS1G6yp-4
+              text: Making a Skateboard
+              type: video

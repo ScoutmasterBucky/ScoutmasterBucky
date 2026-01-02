@@ -1,25 +1,34 @@
 # 3 has the * for a footnote but is missing it. Copied from previous version.
 - requirement: 1
   text: |-
-      Discuss with your counselor the history of the game of chess. Explain why
-      it is considered a game of planning and strategy.
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Discuss with your counselor the history of the game of chess.
+      - requirement: b
+        text: |-
+            Research a famous chess player and what accomplishments made him or
+            her famous. Discuss with your counselor.
 - requirement: 2
   text: |-
       Discuss with your counselor the following:
   children:
       - requirement: a
         text: |-
+            Why chess is considered a game of planning and strategy.
+      - requirement: b
+        text: |-
             The benefits of playing chess, including developing critical thinking
             skills, concentration skills, and decision-making skills, and how these
-            skills can help you in other areas of your life
-      - requirement: b
+            skills can help you in other areas of your life.
+      - requirement: c
         text: |-
             Sportsmanship and chess etiquette.
 - requirement: 3
   text: |-
       Demonstrate to your counselor that you know each of the following. Then,
-      using the EDGE method to teach someone (preferably another Scout)
-      who does not know how to play chess:
+      using Scouting EDGE to teach someone who does not know how to play chess:
   children:
       - requirement: a
         text: |-
@@ -29,7 +38,12 @@
             How to set up a chessboard
       - requirement: c
         text: |-
-            How each chess piece moves, including castling and en passant captures.
+            How each chess piece moves and captures, including: four roles of
+            castling, en passant captures, pawn promotion, check, ways to get
+            out of check, and checkmate.
+      - requirement: d
+        text: |-
+            The five ways a game can end in a draw.
 - requirement: 4
   text: |-
       Do the following:
@@ -43,16 +57,13 @@
             endgame.
       - requirement: c
         text: |-
-            Explain four opening principles.
+            Explain four opening principles. Demonstrate for your counselor the
+            first five moves of the following openings: Ruy Lopez, French Defense,
+            Queen's Gambit Declined, Sicilian Defense.
       - requirement: d
         text: |-
-            Explain the four rules for castling.
-      - requirement: e
-        text: |-
-            On a chessboard, demonstrate a "scholar's mate" and a "fool's mate."
-      - requirement: f
-        text: |-
-            Demonstrate on a chessboard four ways a chess game can end in a draw.
+            On a chessboard, demonstrate Scholar's Mate, Fool's Mate, Légal
+            Mate, Fried Liver Attack, and Noah's Ark Trap.
 - requirement: 5
   text: |-
       Do the following:
@@ -60,35 +71,68 @@
       - requirement: a
         text: |-
             Explain four of the following elements of chess strategy: exploiting
-            weaknesses, force, king safety, pawn structure, space, tempo, time.
+            weaknesses, force, king safety, pawn structure, space, tempo, and clock
+            management.
       - requirement: b
         text: |-
             Explain any five of these chess tactics: clearance sacrifice, decoy,
-            discovered attack, double attack, fork, interposing, overloading,
-            overprotecting, pin, remove the defender, skewer, zwischenzug.
+            discovered attack, double check, double attack, fork, interposing,
+            overloading, overprotecting, pin, skewer, remove the defender,
+            zwischenzug, and zugzwang.
       - requirement: c
         text: |-
-            Set up a chessboard with the white king on <em>e1</em>, the white
-            rooks on <em>a1</em> and <em>h1</em>, and the black king on <em>e5</em>.
-            With White to move first, demonstrate how to force checkmate on the
-            black king.
+            Set up a chessboard as follows and with White to move first,
+            demonstrate how to force checkmate on the Black king:
+        children:
+            - requirement: 1
+              text: |-
+                  White on <i>e1</i>, the White rooks on <i>a1</i> and <i>h1</i>, and
+                  the Black king on <i>e5</i>.
+            - requirement: 2
+              text: |-
+                  White King on <i>e1</i>, White queen on <i>d1</i>, Black king on
+                  <i>e5</i>.
+            - requirement: 3
+              text: |-
+                  White king on <i>e1</i>, White rook on <i>a1</i>, Black king on
+                  <i>e5</i>.
       - requirement: d
         text: |-
-            Set up and solve five direct-mate problems provided by your counselor.
+            With White king on <i>d4</i>, White pawn on <i>e3</i>, and Black
+            king on <i>e6</i>:
+        children:
+            - requirement: 1
+              text: |-
+                  With White to move, demonstrate how White can force Black to allow
+                  his pawn to reach the last rank and be promoted to a queen.
+            - requirement: 2
+              text: |-
+                  With Black to move, demonstrate how Black can force a draw.
+      - requirement: e
+        text: |-
+            Set up and solve five direct-mate problems provided by your
+            counselor.
 - requirement: 6
+  text: |-
+      Explain to your counselor how chess tournaments are run, including the
+      Swiss system tournament format, the round robin tournament format,
+      pairings for each round, time controls, touch move, scoring, and chess
+      ratings.
+- requirement: 7
   text: |-
       Do ONE of the following:
   children:
       - requirement: a
         text: |-
             Play at least three games of chess with other Scouts and/or your
-            counselor. Replay the games from your score sheets and discuss with
-            your counselor how you might have played each game differently.
+            counselor. Replay the games from your score sheets and discuss with your
+            counselor how you might have played each game differently.
       - requirement: b
         text: |-
-            Play in a scholastic (youth) chess tournament and use your score sheets
-            from that tournament to replay your games with your counselor. Discuss
-            with your counselor how you might have played each game differently.
+            Play in a scholastic (youth) chess tournament and use your score
+            sheets from that tournament to replay your games with your counselor.
+            Discuss with your counselor how you might have played each game
+            differently.
       - requirement: c
         text: |-
             Organize and run a chess tournament with at least four players, plus
