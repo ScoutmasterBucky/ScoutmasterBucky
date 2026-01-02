@@ -1,5 +1,4 @@
 # 2b uses a double hyphen and the rest use single. Adjusted to be single.
-# Requirement 7 doesn't have a period, like "7."
 - requirement: 1
   text: |-
       Safety. Do the following:
@@ -105,7 +104,7 @@
             Show another way you could improve your picture for impact.
 - requirement: 7
   text: |-
-      Using images other than those created for requirements 4, 5, or 6, produce
+      Using images other than those created for requirements 4, 5, and 6, produce
       a visual story to document an event to photograph OR choose a topic that
       interests you to photograph. Do the following:
   children:

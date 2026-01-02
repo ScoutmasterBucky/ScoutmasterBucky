@@ -1,176 +1,362 @@
-# 5d missing trailing period - added one
-# Requirement 6 doesn't have a period, like "6."
-- detail: true
-  text: |-
-      <b>Note: If meeting any of the requirements for this merit badge is against
-      the Scout's religious convictions, the requirement does not have to be done
-      if the Scout's parent or guardian and the proper religious advisors state
-      in writing that to do so would be against religious convictions.  The
-      Scout's parent or guardian must also accept full responsibility for
-      anything that might happen because of this exemption.</b>
+# Requirement 6 is missing the period after "6"
+# Resource for 3e has "%20" at the end of a URL, breaking it (fixed)
 - requirement: 1
   text: |-
-      Do the following:
+      <b>Defining Personal Fitness. </b>Explain to your counselor what personal
+      fitness means to you, including:
   children:
       - requirement: a
         text: |-
-            Before completing requirements 2 through 9, have your health-care
-            practitioner give you a physical examination, using the Scout Health
-            and Medical Record. Explain the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Why physical exams are important
-            - requirement: 2
-              text: |-
-                  Why preventive habits (such as exercising regularly) are important
-                  in maintaining good health, and how the use of tobacco products,
-                  alcohol, and other harmful substances can negatively affect your
-                  personal fitness
-            - requirement: 3
-              text: |-
-                  Diseases that can be prevented and how
-            - requirement: 4
-              text: |-
-                  The seven warning signs of cancer
-            - requirement: 5
-              text: |-
-                  The youth risk factors that affect cardiovascular health in
-                  adulthood.
+            Describe a person who is physically fit.
+        resources:
+            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Personal%20Fitness/physically_fit_people.pdf
+              text: Being Physically Fit
+              type: pdf
       - requirement: b
         text: |-
-            Have a dental examination. Get a statement saying that your teeth have
-            been checked and cared for. Tell how to care for your teeth.
+            Describe a person who is mentally, emotionally and socially fit.
+        resources:
+            - href: https://www.pbs.org/video/wellness-mind-frame-7um7lc/%20
+              text: Being Mentally, Emotionally, and Socially Fit
+              type: video
+      - requirement: c
+        text: |-
+            Describe a person who is spiritually fit.
+        resources:
+            - href: https://youtu.be/8gZ_JbDgERs
+              text: Being Spiritually Fit
+              type: video
+      - requirement: d
+        text: |-
+            Explain why it is important to be fit in all of these ways.
+        resources:
+            - href: https://kcts9.pbslearningmedia.org/resource/wellness-video/mind-frame/?student=true&focus=true
+              text: Being Fit Overall
+              type: video
+      - requirement: e
+        text: |-
+            Discuss how each aspect of personal fitness relates to the Scout
+            Oath and Scout Law.
+        resources:
+            - href: https://youtu.be/1_aUAbUs2Ts
+              text: The Scout Oath
+              type: video
 - requirement: 2
   text: |-
-      Explain to your counselor verbally or in writing what personal fitness
-      means to you, including
+      <b>Monitoring Your Health.</b> Do the following:
   children:
       - requirement: a
         text: |-
-            Reasons for being mentally, physically, socially, and spiritually fit
+            Discuss with your counselor the importance of having a physical
+            examination each year. Discuss why overall health, immunizations,
+            medications, allergies, and medical history are covered during an
+            examination. Tell your counselor when you last underwent a physical
+            examination.
+        resources:
+            - href: https://www.scouting.org/health-and-safety/ahmr/
+              text: Annual Physical Exam
+              type: website
       - requirement: b
         text: |-
-            Reasons for being fit in all components
-      - requirement: c
-        text: |-
-            What it means to be physically healthy
-      - requirement: d
-        text: |-
-            What it means to be socially healthy.
+            Explain why it is important to have a routine dental examination.
+            Explain what preventive or corrective treatments your dentist can
+            provide, and why daily oral care is an important part of staying well.
+            Tell your counselor when you last underwent a dental examination.
+        resources:
+            - href: https://youtu.be/7_MioRw-5QU
+              text: Dental Health
+              type: video
+            - href: https://youtu.be/4kXrUXDZKuM
+              text: Here's What Happens if You Stopped Brushing Your Teeth
+              type: video
 - requirement: 3
   text: |-
-      With your counselor, answer and discuss the following questions:
+      <b>Your Fitness Knowledge and Habits. </b>Do the following with your
+      counselor:
   children:
       - requirement: a
         text: |-
-            Are you living in such a way that your risk of preventable diseases is
-            minimized?
+            Explain the physical exercise you regularly do, whether your routine
+            includes all four components of physical fitness (cardiorespiratory
+            fitness, muscular strength and endurance, flexibility, and body
+            composition), and how your current practices increase or decrease your
+            likelihood of developing cardiovascular disease or other conditions in
+            adulthood.
+        resources:
+            - href: https://youtu.be/dwMMn2FdBFQ
+              text: Benefits of Exercise
+              type: video
       - requirement: b
         text: |-
-            Are you immunized and vaccinated according to the advice of your
-            health care provider and the direction of your parent(s)/guardian(s)?
+            Discuss what harmful substances you consciously avoid, and how these
+            actions affect your risk factors now and in the future.
+        resources:
+            - href: https://youtu.be/6fmhLcYSn-Y
+              text: Substance Use and Abuse
+              type: video
       - requirement: c
         text: |-
-            Are you free from habits relating to poor nutrition and the use of
-            alcohol, tobacco, drugs, and other practices that could be harmful to
-            your health?
+            Explain what common diseases can be prevented or mitigated by
+            vaccinations, and whether you are immunized according to the advice of
+            your healthcare provider and the direction of your parent or guardian.
+        resources:
+            - href: https://youtu.be/rb7TVW77ZCs
+              text: How Do Vaccines Work?
+              type: video
       - requirement: d
         text: |-
-            What are the advantages to getting a full night's sleep?
+            Discuss how good nutrition is related to the other components of
+            personal fitness, and if you follow a nutritious, balanced diet.
+        resources:
+            - href: https://youtu.be/xyQY8a-ng6g
+              text: How the Food You Eat Affects Your Brain
+              type: video
       - requirement: e
         text: |-
-            Define a nutritious, balanced diet and why it is important.
+            Discuss what a healthy weight is for you, and what you do to
+            maintain a healthy weight.
+        resources:
+            - href: https://www.cdc.gov/bmi/child-teen-calculator/index.html
+              text: Body Mass Index (BMI) Calculator
+              type: website
+            - href: https://youtu.be/Yk3UkkJk474
+              text: Your Body Composition
+              type: video
       - requirement: f
         text: |-
-            Do you participate in a regular exercise program or recreational
-            activities?
+            Explain why getting adequate sleep is important, and whether you get
+            enough hours of sleep each night.
+        resources:
+            - href: https://youtu.be/qWb5ggc_-rs
+              text: Tips for Getting Enough Sleep
+              type: video
       - requirement: g
         text: |-
-            What are you doing to demonstrate your duty to God?
-      - requirement: h
-        text: |-
-            Do you spend quality time with your family and friends in social and
-            recreational activities?
-      - requirement: i
-        text: |-
-            Do you support family activities and efforts to maintain a good home
-            life?
+            Discuss whether you spend quality time with your family and friends
+            in social and recreational activities, and how you contribute to
+            creating and maintaining a good home life.
+        resources:
+            - href: https://youtu.be/d4_rFMo7lCo target=
+              text: Spending Time With Family
+              type: video
 - requirement: 4
   text: |-
-      Explain the following about physical fitness:
+      <b>Measures of Physical Fitness.</b> Determine with your counselor the
+      assessments of physical fitness and nutrition you will do before, during,
+      and after completing the 12-week program in requirement 7.
+  resources:
+      - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Personal%20Fitness/1-Mile%20Walk-Run%20-%20Compare%20Results.pdf
+        text: Measures of Physical Fitness (fillable)
+        type: pdf
   children:
       - requirement: a
         text: |-
-            The areas of physical fitness
+            Include a measure of cardiorespiratory (aerobic) fitness: Record the
+            time required to complete a mile walk or run as fast as you can. If you
+            are unable to walk or run as a result of a disability that is permanent
+            or is expected to last for longer than two years, work with your
+            counselor to define a test with a similar degree of aerobic challenge.
+        resources:
+            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Personal%20Fitness/1-Mile%20Walk-Run%20-%20Compare%20Results.pdf
+              text: 1-Mile Walk/Run - Compare Results
+              type: pdf
       - requirement: b
         text: |-
-            Your weakest and strongest area of physical fitness
+            Include two measures of muscular strength and endurance: Record
+            either the number of sit-ups done in 60 seconds OR how long a plank was
+            held; AND, record the number of either push-ups OR pull-ups done in 60
+            seconds. If you are unable to complete one of these exercises safely and
+            correctly, work with your counselor to replace it with a different
+            exercise that measures strength and endurance.
+        resources:
+            - href: https://youtu.be/pCX65Mtc_Kk
+              text: Sit-Up
+              type: video
+            - href: https://youtu.be/yeKv5oX_6GY
+              text: Plank
+              type: video
+            - href: https://youtu.be/mohJShUxbdI
+              text: Pull-Up
+              type: video
+            - href: https://youtu.be/YopP5mCAMSI
+              text: Push-Up
+              type: video
+            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Personal%20Fitness/Muscular%20Strength%20-%20Compare%20Results.pdf
+              text: Muscular Strength - Compare Results
+              type: pdf
       - requirement: c
         text: |-
-            The need to have a balance in the four areas of physical fitness
-      - requirement: d
-        text: |-
-            How a program like the President's Council on Sports, Fitness &amp;
-            Nutrition can lead to lifelong healthful habits
-      - requirement: e
-        text: |-
-            How the areas of personal fitness relate to the Scout Law and Scout
-            Oath.
+            Include at least one measure of flexibility, such as a back-saver
+            sit-and-reach test or a back scratch test.
+        resources:
+            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Personal%20Fitness/Flexiblity%20-%20Compare%20Results.pdf
+              text: Flexibility - Compare Results
+              type: pdf
+            - href: https://youtu.be/EKiTmkgEFH4
+              text: Back Scratch Test
+              type: video
+            - href: https://youtu.be/T2LzgbHXbUI
+              text: Back-Saver Sit-and-Reach Test
+              type: video
 - requirement: 5
   text: |-
-      Explain the following about nutrition:
+      <b>Pre-Assessment of Physical Fitness.</b> Before beginning the 12-week
+      program in requirement 7, do the following:
   children:
       - requirement: a
         text: |-
-            The importance of good nutrition
+            Complete each of the assessments you defined in requirement 4, and
+            record your results.
       - requirement: b
         text: |-
-            What good nutrition means to you
+            Identify your weakest and strongest area of physical fitness, and
+            choose an area to target for improvement.
       - requirement: c
         text: |-
-            How good nutrition is related to the other components of personal
-            fitness
+            Keep a log of what you eat and drink for a period of three days.
+        resources:
+            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Personal%20Fitness/3-Day%20Food%20and%20Drink%20Log%20%28fillable%29.pdf
+              text: 3-Day Food and Drink Log (fillable)
+              type: pdf
       - requirement: d
         text: |-
-            How to maintain a healthy weight.
+            Based on your diet log, identify at least two improvement goals
+            related to diet and nutrition.
+        resources:
+            - href: https://youtu.be/L7QOUiQCb5E
+              text: Food Groups and MyPlate
+              type: video
 - requirement: 6
   text: |-
-      Before doing requirements 7 and 8:
+      <b>Plan the Program.</b> Outline with your counselor a comprehensive
+      12-week physical fitness and nutrition program that you will complete
+      based on your improvement goals and ability. The program must incorporate
+      the following:
+  resources:
+      - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Personal%20Fitness/physical_fitness_12week_program%20%28fillable%29.pdf
+        text: 12-Week Physical Fitness Program (fillable)
+        type: pdf
+      - href: https://youtu.be/WpIFlh5whcs
+        text: Sample Full Workout—Warm-Up, Cardiorespiratory, Strength, Flexibility, and Cool-Down
+        type: video
+      - href: https://youtu.be/jYfda_ccTjc
+        text: Sample Short Workout—Core Strength
+        type: video
+      - href: https://youtu.be/bhsu24pEgVY
+        text: Sample Short Workout—Variety
+        type: video
   children:
       - requirement: a
         text: |-
-            Complete the aerobic fitness, flexibility and muscular strength tests
-            as described in the <em>Personal Fitness</em> merit badge pamphlet.
-            Record your results and identify those areas where you feel you
-            need to improve.
+            Warm-up: low-intensity movement or gentle muscle stretching before
+            each more rigorous workout
       - requirement: b
         text: |-
-            Keep track of what you eat and drink for three days. Identify three
-            healthy eating goals you want to work on.
+            Cardiorespiratory (aerobic) element: an activity that raises your
+            heart and respiratory rate for 15 to 30 minutes at least three times per
+            week
+      - requirement: c
+        text: |-
+            Muscular strength and endurance element: repetitive exercises that
+            target different muscles - upper body, core, and/or legs - based on your
+            improvement goals and potential
+        resources:
+            - href: https://youtu.be/K6Gc6GKCmNo
+              text: Deadlift
+              type: video
+            - href: https://youtu.be/C20B47rZRIY
+              text: Lunge
+              type: video
+            - href: https://youtu.be/9CGOO9ueQ8g
+              text: Row
+              type: video
+            - href: https://youtu.be/Pfov7H8vyi0
+              text: Squat
+              type: video
+            - href: https://youtu.be/ounpwfpOTSM
+              text: Muscular Strength
+              type: video
+            - href: https://youtu.be/BeNv9nkhTg4
+              text: Farmer's Carry
+              type: video
+      - requirement: d
+        text: |-
+            Flexibility element: movements that arch/lower/stretch/relax your
+            back, rotate your trunk, or stretch your hamstrings
+        resources:
+            - href: https://youtu.be/0L3W0pcHU50
+              text: Flexibility Exercises
+              type: video
+      - requirement: e
+        text: |-
+            Cool-down: low-intensity movement or gentle stretching to prevent
+            muscle cramps and enhance the benefits of exercise
+      - requirement: f
+        text: |-
+            A plan for achieving your two improvement goals related to diet and
+            nutrition.
+        resources:
+            - href: https://www.myplate.gov/form/myplate-quiz#question_1%20
+              text: The MyPlate Quiz
+              type: website
 - requirement: 7
   text: |-
-      Outline a comprehensive 12-week physical fitness program using the results
-      of your fitness tests. Be sure your program incorporates the endurance,
-      intensity, and warm-up guidelines discussed in the <em>Personal
-      Fitness</em> merit badge pamphlet.  Before beginning your exercises, have
-      the program approved by your counselor and parent or guardian.
+      <b>Complete the Program.</b> Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Complete and keep a log, over 12 consecutive weeks, of the physical
+            fitness and nutrition program you have outlined. (If your program is
+            interrupted by illness or unavoidable conflicts for less than two weeks,
+            you may resume where you left off, adding the missed days or weeks at
+            the end).
+        resources:
+            - href: https://youtube.com/playlist?list=PLhh_lxc4bmz8TPeX-dOu-I2K3O2x3_weX&si=4issEYVe10iMDjtZ
+              text: Home Exercise Hacks
+              type: playlist
+            - href: https://youtu.be/IAmnLlwNloU
+              text: How to Make Your Own Exercise Equipment
+              type: video
+      - requirement: b
+        text: |-
+            During week 4 and week 8 of your program, repeat the assessments you
+            did in requirement 5(a) before you began. Repeat the same tests for a
+            final assessment within two weeks after completing the 12-week program.
+            Show improvement over your pre-assessment results.
+      - requirement: c
+        text: |-
+            For three days during week 8, and again during week 12, keep a log
+            of what you eat and drink. Show improvement toward the diet and
+            nutrition goals you set in requirement 5(d).
+      - requirement: d
+        text: |-
+            Discuss your results, improvements, insights, and experiences with
+            your counselor after completing the program and assessments.
 - requirement: 8
   text: |-
-      Complete the physical fitness program you outlined in requirement 7. Keep a
-      log of your fitness program activity (how long you exercised; how far you
-      ran, swam, or biked; how many exercise repetitions you completed; your
-      exercise heart rate; etc.). Keep a log of your weekly healthy eating goals.
-      Repeat the aerobic fitness, muscular strength, and flexibility tests every
-      four weeks and record your results. After the 12th week, repeat all of the
-      required activities in each of the three test categories, record your
-      results, and show improvement in each one. Discuss how well you met your
-      healthy eating goals over these 12 weeks. Discuss the meaning and benefit
-      of your experience, and describe your long-term plans regarding your
-      personal fitness.
-- requirement: 9
-  text: |-
-      Find out about three career opportunities in personal fitness. Pick one and
-      find out the education, training, and experience required for this
-      profession. Discuss what you learned with your counselor, and explain why
-      this profession might interest you.
+      <b>Future Career or Lifestyle.</b> Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            Explore three careers related to personal fitness. Research one
+            career area by interviewing an expert in the field, visiting a site, or
+            using other resources. Learn about training, education, expenses, job
+            outlook, salary, and advancement. Discuss your findings and career
+            interest with your counselor.
+        resources:
+            - href: https://youtu.be/9a9XU7D0DIo
+              text: Careers Related to Personal Fitness
+              type: video
+      - requirement: b
+        text: |-
+            Explore how an area of personal fitness could contribute to a hobby
+            or healthy lifestyle. Research education, costs, and organizations
+            related to this activity. Discuss your findings and goals with your
+            counselor.
+        resources:
+            - href: https://youtu.be/d6x-A0CmI-I
+              text: Seated Wheelchair Workout
+              type: video
+            - href: https://youtu.be/hHiSWTU9xNk
+              text: Seated Cardio Workout
+              type: video
