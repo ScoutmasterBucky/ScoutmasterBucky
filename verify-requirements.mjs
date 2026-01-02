@@ -23,6 +23,12 @@ function verifyRequirements(requirements, file) {
                     errors = true;
                     return;
                 }
+            } else if (req.requirement !== 1 && req.requirement !== 'a' && req.requirement !== 'A') {
+                console.error(`First requirement is not 1 or 'a' in file: ${file}`);
+                console.error(`  Found requirement: ${req.requirement}`);
+                console.error(``);
+                errors = true;
+                return;
             }
 
             last = req.requirement;

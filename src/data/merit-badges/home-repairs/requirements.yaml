@@ -29,7 +29,7 @@
               type: video
 - requirement: 2
   text: |-
-      Under the supervision of your parent, guardian, or counselor, do FOUR of
+      Under the supervision of your parent, guardian, or counselor, do THREE of
       the following:
   children:
       - requirement: a
@@ -56,34 +56,28 @@
               type: video
       - requirement: d
         text: |-
-            Waterproof a basement.
-      - requirement: e
-        text: |-
             Repair a break in a concrete or asphalt surface.
         resources:
             - href: https://youtu.be/aI3ayjrVJl0
               text: How to Fill Asphalt Gaps and Cracks
               type: video
-            - href: https://www.youtube.com/watch?v=xk2lT9D_0wY
+            - href: https://www.youtu.be/xk2lT9D_0wY
               text: Repairing a Neglected Driveway Crack
               type: video
-      - requirement: f
+      - requirement: e
         text: |-
-            Repair the screen in a window or door.
+            Repair or replace the screen in a window or door.
         resources:
-            - href: https://www.youtube.com/watch?v=t7emMleueHg
+            - href: https://www.youtu.be/t7emMleueHg
               text: How to Repair a Window Screen
               type: video
-      - requirement: g
+      - requirement: f
         text: |-
             Replace a pane of glass.
         resources:
             - href: https://www.youtube.com/watch?v=Dc67opK57sk
               text: How to Replace a Broken Window Pane
               type: video
-      - requirement: h
-        text: |-
-            Solder a broken wire or metal object.
 - requirement: 3
   text: |-
       Under the supervision of your parent, guardian, or counselor, do THREE of
@@ -192,8 +186,19 @@
               type: video
 - requirement: 5
   text: |-
-      Under the supervision of your parent, guardian, or counselor, do TWO of the
-      following:
+      Under the supervision of your parent, guardian, or counselor, locate and
+      know how to turn off the main water source, including well pumps, and do
+      TWO of the following:
+  resources:
+      - href: https://youtu.be/aDkaq8RKFAc
+        text: Two Methods to Turn Off Your Homes Water Supply
+        type: video
+      - href: https://youtu.be/QKUWWgr2kcQ
+        text: Main Water Shutoff Valve for Private Pumps and Wells
+        type: video
+      - href: https://youtu.be/4RhYOAygA7I
+        text: How to Shut Off the Water Main to Your Home
+        type: video
   children:
       - requirement: a
         text: |-
@@ -264,10 +269,19 @@
               type: video
       - requirement: d
         text: |-
-            Replace window blind cords.
+            Repair a hole in drywall.
+        resources:
+            - href: https://youtu.be/PLGmTzEGSIY
+              text: How to Patch a Drywall Hole
+              type: video
       - requirement: e
         text: |-
-            Repair or replace a window sash cord.
+            Secure a picture, plant hanger, or other object approved by your
+            parent or guardian to drywall using anchors
+        resources:
+            - href: https://youtu.be/WL7ha82XrxI
+              text: How to Use Drywall Anchors for Hanging Pictures and More
+              type: video
       - requirement: f
         text: |-
             Reinforce a picture frame.
@@ -287,4 +301,43 @@
               type: video
             - href: https://www.youtube.com/watch?v=M2vtfNxHVv0
               text: The Best Trick for Fixing Broken Ceramics
+              type: video
+      - requirement: h
+        text: |-
+            Fix a drawer slide or fix/replace cabinet pulls.
+        resources:
+            - href: https://youtu.be/52B3gGZ_AtE
+              text: How to Repair and Replace Broken Plastic Drawer Guides
+              type: video
+            - href: https://youtu.be/7Mp60UHj0Yw
+              text: How to Repair a Drawer Slide
+              type: video
+- requirement: 7
+  text: |-
+      Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            Explore careers related to this merit badge. Research one career to
+            learn about the training and education needed, costs, job prospects,
+            salary, job duties, and career advancement. Your research methods may
+            include—with your parent or guardian's permission—an internet or library
+            search, an interview with a professional in the field, or a visit to a
+            location where people in this career work. Discuss with your counselor
+            both your findings and what about this profession might make it an
+            interesting career.
+        resources:
+            - href: https://youtu.be/I_mhZjRcH5s
+              text: Maintenaince and Repair Workers Careers
+              type: video
+      - requirement: b
+        text: |-
+            Explore how you could use knowledge and skills from this merit badge
+            to pursue a hobby or healthy lifestyle. Research any training needed,
+            expenses, and organizations that promote or support it. Discuss with
+            your counselor what short-term and long-term goals you might have if you
+            pursued this.
+        resources:
+            - href: https://www.youtube.com/shorts/Nj_S3xl2GYg
+              text: Mastering DIY Home Repairs
               type: video
