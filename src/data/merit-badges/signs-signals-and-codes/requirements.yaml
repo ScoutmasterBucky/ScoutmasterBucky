@@ -26,18 +26,28 @@
             message of six to 10 words using ASL.
 - requirement: 4
   text: |-
-      Give your counselor a brief explanation about semaphore, why it is used,
-      how it is used, and where it is used. Explain the difference between
-      semaphore flags and nautical flags. Then do the following:
+      Do the following:
   children:
       - requirement: a
         text: |-
-            Spell your first name using semaphore. Send or receive a message of six
-            to 10 words using semaphore.
+            Give your counselor a brief explanation about semaphore, why it is
+            used, how it is used, and where it is used.
       - requirement: b
         text: |-
-            Using illustrations or photographs, identify 10 examples of nautical
-            flags and discuss their importance.
+            Explain to your counselor the difference between
+            semaphore flags and nautical flags.
+      - requirement: c
+        text: |-
+            After 4(a) and 4(b) have been completed, do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Spell your first name using semaphore. Send or receive a message of six
+                  to 10 words using semaphore.
+            - requirement: 2
+              text: |-
+                  Using illustrations or photographs, identify 10 examples of nautical
+                  flags and discuss their importance.
 - requirement: 5
   text: |-
       Explain the braille reading technique and how it helps individuals with
@@ -64,8 +74,8 @@
       - requirement: b
         text: |-
             Demonstrate to your counselor six different silent Scout signals. Use
-            these Scout signals to direct the movements and actions to direct the
-            movements and actions of your patrol or troop.
+            these Scout signals to direct the movements and actions of your
+            patrol or troop.
 - requirement: 7
   text: |-
       On a Scout outing, lay out a trail for your patrol or troop to follow.

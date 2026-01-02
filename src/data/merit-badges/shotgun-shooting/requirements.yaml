@@ -1,3 +1,6 @@
+# Option B has requirements a-d and 5-13 - changed so they are all numbers
+# Option B13 is missing the text for the shooting a moving target - left it in from previous version
+# Option B requirement 13 has the shooting score rules, but then there's "n" with the same info - removed "n"
 - requirement: 1
   text: |-
       Do the following:
@@ -58,174 +61,204 @@
       Working under the supervision of a certified National Rifle Association
       (NRA) Shotgun instructor and a certified range safety officer, at a
       nationally authorized camp property or at a commercial firearm range (as
-      defined in the Scouting America National Range and Target Activities
-      Manual), do ONE of the following options:
+      defined in the <i>Scouting America National Range and Target Activities
+      Manual</i>), do ONE of the following options:
   children:
-      - detail: true
+      - requirement: a
         text: |-
             <strong>Option A—Shotgun Shooting (Modern Shotshell Type).</strong>
-            Do the following:
-      - requirement: a
-        text: |-
-            Identify and explain the principal parts of a shotgun, action
-            types, and how they function.
+            Do ALL of the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Identify and explain the principal parts of a shotgun, action
+                  types, and how they function.
+            - requirement: 2
+              text: |-
+                  Identify and demonstrate the rules for safely storing and handling
+                  a shotgun.
+            - requirement: 3
+              text: |-
+                  Identify the parts of a shotgun shell and their functions.
+            - requirement: 4
+              text: |-
+                  Identify the various gauges of shotguns. Explain which you would
+                  choose for a particular use and why.
+            - requirement: 5
+              text: |-
+                  Identify the causes of a shotgun's failure to fire, and explain
+                  what a misfire, hangfire, and squib fire are. Explain and
+                  demonstrate proper preventive measures, and the procedures to
+                  follow in response to each.
+            - requirement: 6
+              text: |-
+                  Demonstrate the knowledge, skills, and attitude necessary to safely
+                  shoot a shotgun on a range, including understanding and following
+                  range procedures and commands.
+            - requirement: 7
+              text: |-
+                  Explain the basic safety rules for cleaning a shotgun, and identify
+                  the materials needed.
+            - requirement: 8
+              text: |-
+                  Demonstrate how to clean a shotgun properly and safely.
+            - requirement: 9
+              text: |-
+                  Discuss what points you would consider in selecting a shotgun.
+            - requirement: 10
+              text: |-
+                  Shoot a moving target with a shotgun using the four fundamentals of
+                  firing a shot—position, mount, vision, and movement.
+                  <div class="gap"></div>
+                  Shooting score required: Hit at least 12 out of 25 targets (48
+                  percent) in two 25-target groups. The two groups need not be shot
+                  in consecutive order. A minimum of 50 shots must be fired.
+                  <div class="gap"></div>
+                  Shooting skill rules:
+                  <ul>
+                    <li>
+                      Targets may be thrown by a hand trap, manual mechanical trap, or on
+                      any trap or skeet field. If using a hand trap or manual mechanical
+                      trap, the trap operator should be at least 5 feet to the right and 3
+                      feet to the rear of the shooter. If throwing left-handed with a hand
+                      trap, the trap operator should be at least 5 feet to the left and 3
+                      feet to the rear of the shooter.
+                    </li>
+                    <li>
+                      All targets should be thrown at a reasonable speed and in the same
+                      direction.
+                    </li>
+                    <li>
+                      Targets should be generally thrown so as to climb in the air after
+                      leaving the trap.
+                    </li>
+                    <li>
+                      Scores may be fired at any time, either in formal competition or in
+                      practice, but only under approved supervision and at an approved
+                      range as noted in the
+                      <i>Scouting America National Range and Target Activities Manual</i>.
+                    </li>
+                    <li>
+                      Modern, age-appropriate, target shotgun models, 12-, 16- or
+                      20-gauge, may be used.
+                    </li>
+                    <li>
+                      Only commercially manufactured ammunition may be used. Reloads may
+                      not be used in Scouting America range and target activities.
+                    </li>
+                    <li>
+                      Shooters must shoot in rounds of 25. Rounds need not be shot
+                      continuously or on the same day. The term "round" refers to a single
+                      series of 25 shots.
+                    </li>
+                    <li>
+                      If using a trap field, shoot station 3 with traps set to throw
+                      straightaway targets.
+                    </li>
+                    <li>If using a skeet field, shoot station 7 low house.</li>
+                  </ul>
       - requirement: b
         text: |-
-            Identify and demonstrate the rules for safely storing and handling
-            a shotgun.
-      - requirement: c
-        text: |-
-            Identify the parts of a shotgun shell and their functions.
-      - requirement: d
-        text: |-
-            Identify the various gauges of shotguns. Explain which you would
-            choose for a particular use and why.
-      - requirement: e
-        text: |-
-            Identify the causes of a shotgun's failure to fire, and explain
-            what a misfire, hangfire, and squib fire are. Explain and
-            demonstrate proper preventive measures, and the procedures to
-            follow in response to each.
-      - requirement: f
-        text: |-
-            Demonstrate the knowledge, skills, and attitude necessary to safely
-            shoot a shotgun on a range, including understanding and following
-            range procedures and commands.
-      - requirement: g
-        text: |-
-            Explain the basic safety rules for cleaning a shotgun, and identify
-            the materials needed.
-      - requirement: h
-        text: |-
-            Demonstrate how to clean a shotgun properly and safely.
-      - requirement: i
-        text: |-
-            Discuss what points you would consider in selecting a shotgun.
-      - requirement: j
-        text: |-
-            Shoot a moving target while following the rules and achieving the
-            required score listed in (k) with a shotgun using the four
-            fundamentals of firing a shot—position, mount, vision, and
-            movement.
-      - requirement: k
-        text: |-
-            Shooting score required: Hit at least 12 out of 25 targets (48
-            percent) in two 25-target groups. The two groups need not be shot
-            in consecutive order. A minimum of 50 shots must be fired. Shooting
-            skill rules:
-            <ul>
-            <li>Targets may be thrown by a hand trap, manual mechanical trap, or
-            on any trap or skeet field. If using a hand trap or manual
-            mechanical trap, the trap operator should be at least 5 feet to the
-            right and 3 feet to the rear of the shooter. If throwing
-            left-handed with a hand trap, the trap operator should be at least
-            5 feet to the left and 3 feet to the rear of the shooter.</li>
-            <li>All targets should be thrown at a reasonable speed and in the
-            same direction.</li>
-            <li>Targets should be generally thrown so as to climb in the air
-            after leaving the trap.</li>
-            <li>Scores may be fired at any time, either in formal competition or
-            in practice, but only under approved supervision and at an approved
-            range as noted in the Scouting America National Range and Target
-            Activities Manual.</li>
-            <li>Modern, age-appropriate, target shotgun models, 12-, 16- or
-            20-gauge, may be used.</li>
-            <li>Only commercially manufactured ammunition may be used. Reloads
-            may not be used in Scouting America range and target activities.</li>
-            <li>Shooters must shoot in rounds of 25. Rounds need not be shot
-            continuously or on the same day. The term "round" refers to a
-            single series of 25 shots.</li>
-            <li>If using a trap field, shoot station 3 with traps set to throw
-            straightaway targets.</li>
-            <li>If using a skeet field, shoot station 7 low house.</li>
-            </ul>
-      - detail: true
-        text: |-
-            <strong>Option B—Muzzleloading Shotgun Shooting.</strong> Do the
+            <strong>Option B—Muzzleloading Shotgun Shooting.</strong> Do ALL of the
             following:
-      - requirement: a
-        text: |-
-            Discuss with your counselor a brief history of the development of
-            the muzzleloading shotgun.
-      - requirement: b
-        text: |-
-            Identify principal parts of muzzleloading shotguns and discuss how
-            they function.
-      - requirement: c
-        text: |-
-            Identify and demonstrate the rules for safely storing and handling
-            a muzzleloading shotgun.
-      - requirement: d
-        text: |-
-            Identify the various grades of black powder and explain their
-            proper and safe use.
-      - requirement: e
-        text: |-
-            Discuss proper safety procedures pertaining to black powder storage.
-      - requirement: f
-        text: |-
-            Discuss proper components of a load.
-      - requirement: g
-        text: |-
-            Identify proper procedures and accessories used for safely loading
-            a muzzleloading shotgun.
-      - requirement: h
-        text: |-
-            Identify the causes of a muzzleloading shotgun's failure to fire,
-            and explain what a misfire, hangfire, and squib fire are. Explain
-            and demonstrate proper preventive measures, and the procedures to
-            follow in response to each.
-      - requirement: i
-        text: |-
-            Demonstrate the knowledge, skills, and attitude necessary to safely
-            shoot a muzzleloading shotgun on a range, including understanding
-            and following range procedures and commands.
-      - requirement: j
-        text: |-
-            Explain the basic safety rules for cleaning a muzzleloading
-            shotgun, and identify the materials needed.
-      - requirement: k
-        text: |-
-            Demonstrate how to clean a muzzleloading shotgun properly and
-            safely.
-      - requirement: l
-        text: |-
-            Discuss what points you would consider in selecting a muzzleloading
-            shotgun.
-      - requirement: m
-        text: |-
-            Shoot a moving target while following the rules and achieving the
-            required score listed in (n) with a muzzleloading shotgun using the
-            four fundamentals of firing a shot—position, mount, vision, and
-            movement.
-      - requirement: n
-        text: |-
-            Shooting score required: Hit at least 5 out of 15 targets in each
-            of two 15-target groups. The two groups need not be shot in
-            consecutive order. A minimum of 30 shots must be fired. Shooting
-            skill rules:
-            <ul>
-            <li>Targets may be thrown by a hand trap, manual mechanical trap, or
-            on any trap or skeet field. If using a hand trap or manual
-            mechanical trap, the trap operator should be at least 5 feet to the
-            right and 3 feet to the rear of the shooter. If throwing
-            left-handed with a hand trap, the trap operator should be at least
-            5 feet to the left and 3 feet to the rear of the shooter.</li>
-            <li>All targets should be thrown at a reasonable speed and in the
-            same direction.</li>
-            <li>Targets should be generally thrown so as to climb in the air
-            after leaving the trap.</li>
-            <li>Scores may be fired at any time, either in formal competition or
-            in practice, but only under approved supervision and at an approved
-            range as noted in the Scouting America National Range and Target
-            Activities Manual.</li>
-            <li>A 10 gauge or smaller muzzleloading rifle in appropriate size for
-            the participant may be used. Matchlock, wheellock, or flintlock
-            firearms are not approved.</li>
-            <li>Standard clay targets customarily used for trap and skeet are to
-            be used.</li>
-            <li>On a standard trap field, the shooter should be positioned 8
-            yards behind the trap house.</li>
-            <li>The trap should be set to throw only straightaway targets.</li>
-            <li>If using a skeet field, shoot station 7 low house.</li>
-            </ul>
+        children:
+            - requirement: 1
+              text: |-
+                  Discuss with your counselor a brief history of the development of
+                  the muzzleloading shotgun.
+            - requirement: 2
+              text: |-
+                  Identify principal parts of muzzleloading shotguns and discuss how
+                  they function.
+            - requirement: 3
+              text: |-
+                  Identify and demonstrate the rules for safely storing and handling
+                  a muzzleloading shotgun.
+            - requirement: 4
+              text: |-
+                  Identify the various grades of black powder and explain their
+                  proper and safe use.
+            - requirement: 5
+              text: |-
+                  Discuss proper safety procedures pertaining to black powder storage.
+            - requirement: 6
+              text: |-
+                  Discuss proper components of a load.
+            - requirement: 7
+              text: |-
+                  Identify proper procedures and accessories used for safely loading
+                  a muzzleloading shotgun.
+            - requirement: 8
+              text: |-
+                  Identify the causes of a muzzleloading shotgun's failure to fire,
+                  and explain what a misfire, hangfire, and squib fire are. Explain
+                  and demonstrate proper preventive measures, and the procedures to
+                  follow in response to each.
+            - requirement: 9
+              text: |-
+                  Demonstrate the knowledge, skills, and attitude necessary to safely
+                  shoot a muzzleloading shotgun on a range, including understanding
+                  and following range procedures and commands.
+            - requirement: 10
+              text: |-
+                  Explain the basic safety rules for cleaning a muzzleloading
+                  shotgun, and identify the materials needed.
+            - requirement: 11
+              text: |-
+                  Demonstrate how to clean a muzzleloading shotgun properly and
+                  safely.
+            - requirement: 12
+              text: |-
+                  Discuss what points you would consider in selecting a muzzleloading
+                  shotgun.
+            - requirement: 13
+              text: |-
+                  Shoot a moving target while following the rules and achieving the
+                  required score listed in (n) with a muzzleloading shotgun using the
+                  four fundamentals of firing a shot—position, mount, vision, and
+                  movement.
+                  <div class="gap"></div>
+                  Shooting score required: Hit at least 5 out of 15 targets in each
+                  of two 15-target groups. The two groups need not be shot in consecutive
+                  order. A minimum of 30 shots must be fired.
+                  <div class="gap"></div>
+                  Shooting skill rules:
+                  <ul>
+                    <li>
+                      Targets may be thrown by a hand trap, manual mechanical trap, or on
+                      any trap or skeet field. If using a hand trap or manual mechanical
+                      trap, the trap operator should be at least 5 feet to the right and 3
+                      feet to the rear of the shooter. If throwing left-handed with a hand
+                      trap, the trap operator should be at least 5 feet to the left and 3
+                      feet to the rear of the shooter.
+                    </li>
+                    <li>
+                      All targets should be thrown at a reasonable speed and in the same
+                      direction.
+                    </li>
+                    <li>
+                      Targets should be generally thrown so as to climb in the air after
+                      leaving the trap.
+                    </li>
+                    <li>
+                      Scores may be fired at any time, either in formal competition or in
+                      practice, but only under approved supervision and at an approved
+                      range as noted in the
+                      <i>Scouting America National Range and Target Activities Manual.</i>
+                    </li>
+                    <li>
+                      A 10 gauge or smaller muzzleloading rifle in appropriate size for
+                      the participant may be used. Matchlock, wheellock, or flintlock
+                      firearms are not approved.
+                    </li>
+                    <li>
+                      Standard clay targets customarily used for trap and skeet are to be
+                      used.
+                    </li>
+                    <li>
+                      On a standard trap field, the shooter should be positioned 8 yards
+                      behind the trap house.
+                    </li>
+                    <li>The trap should be set to throw only straightaway targets.</li>
+                    <li>If using a skeet field, shoot station 7 low house.</li>
+                  </ul>

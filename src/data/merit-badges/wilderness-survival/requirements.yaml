@@ -1,88 +1,361 @@
-# 7c - removed space after dangling hyphen
+# 3's header has a colon. Others all use periods.
 - requirement: 1
   text: |-
-      Do the following:
+      <b>Hazards and First Aid.</b> Do the following:
   children:
       - requirement: a
         text: |-
-            Explain to your counselor the hazards you are most likely to encounter
-            while participating in wilderness survival activities, and what you
-            should do to anticipate, help prevent, mitigate, or lessen these
-            hazards.
+            Show or explain first aid for, and prevention of, injuries and
+            conditions that could occur in backcountry settings, including:
+        children:
+            - requirement: 1
+              text: |-
+                  Dehydration
+              resources:
+                  - href: https://youtu.be/X-N7fALUncM
+                    text: 'Dehydration: Hiking in the Desert'
+                    type: video
+                  - href: https://www.cedars-sinai.org/health-library/diseases-and-conditions/d/dehydration.html
+                    text: Symptoms, and Treatment of Dehydration
+                    type: website
+            - requirement: 2
+              text: |-
+                  Heatstroke
+              resources:
+                  - href: https://youtu.be/PpHM4DfPZQU
+                    text: Diagnosis and Treatment of Heat Stroke
+                    type: video
+            - requirement: 3
+              text: |-
+                  Hypothermia
+              resources:
+                  - href: https://youtu.be/aDAqWLpHXXU
+                    text: Recognize the "Umbles" and Avoid Hypothermia
+                    type: video
+                  - href: https://youtu.be/my6JB41apTw
+                    text: Hypothermia
+                    type: video
+                  - href: https://health.mo.gov/living/healthcondiseases/hypothermia/index.php
+                    text: Frostbite and Hypothermia
+                    type: website
+            - requirement: 4
+              text: |-
+                  Shock
+              resources:
+                  - href: https://youtu.be/BLfFYFr7sWY
+                    text: Shock
+                    type: video
+                  - href: https://youtu.be/V4R9GSah93g
+                    text: Shock and Bleeding
+                    type: video
+            - requirement: 5
+              text: |-
+                  Blisters
+              resources:
+                  - href: https://www.aad.org/public/everyday-care/injured-skin/burns/prevent-treat-blisters
+                    text: How to Prevent and Treat Blisters
+                    type: website
+            - requirement: 6
+              text: |-
+                  Eye injuries
+              resources:
+                  - href: https://youtu.be/uJFZPFsHcCE
+                    text: 5 Ways To Safely Remove Something Stuck In Your Eye
+                    type: video
+            - requirement: 7
+              text: |-
+                  Ankle and knee sprains
+              resources:
+                  - href: https://my.clevelandclinic.org/health/diseases/knee-sprain
+                    text: Knee Sprains
+                    type: website
+            - requirement: 8
+              text: |-
+                  Bug bites of chiggers, ticks, mosquitoes, and biting gnats
+              resources:
+                  - href: https://youtu.be/d6hneOG2RLA
+                    text: Chiggers 101
+                    type: video
+                  - href: https://www.aad.org/public/everyday-care/injured-skin/bites/remove-a-tick
+                    text: Preventng and Treating Tick Bites
+                    type: website
+                  - href: https://www.aad.org/public/everyday-care/injured-skin/bites/prevent-treat-bug-bites
+                    text: Preventing and Treating Mosquito Bites
+                    type: website
+                  - href: https://youtu.be/QazaIwbtZHs
+                    text: Biting Gnats
+                    type: video
+            - requirement: 9
+              text: |-
+                  Bee stings
+              resources:
+                  - href: https://www.youtube.com/watch?v=01Po5RTNfhs
+                    text: How to Treat a Bee Sting
+                    type: video
+            - requirement: 10
+              text: |-
+                  Bites of spiders
+              resources:
+                  - href: https://youtu.be/fiV2bYzWH-o
+                    text: Black Widow and Brown Recluse Spider Bites
+                    type: video
+                  - href: https://www.youtube.com/watch?v=cfh7XOc_hgc
+                    text: Black Widow vs. Brown Recluse Spider Bites
+                    type: video
+            - requirement: 11
+              text: |-
+                  Sting of a scorpion
+              resources:
+                  - href: https://www.mayoclinic.org/diseases-conditions/scorpion-stings/symptoms-causes/syc-20353859
+                    text: Scoprion Stings—Symptoms and Causes
+                    type: website
+            - requirement: 12
+              text: |-
+                  Bite of a wild mammal
+              resources:
+                  - href: https://youtu.be/RSJzuk226RI
+                    text: Treatment of Animal and Human Bites
+                    type: video
+            - requirement: 13
+              text: |-
+                  Bite of a venomous snake.
+              resources:
+                  - href: https://www.redcross.org/take-a-class/resources/learn-first-aid/venomous-snake-bites
+                    text: Venomous Snake Bites
+                    type: website
       - requirement: b
         text: |-
-            Show that you know first aid for and how to prevent injuries or
-            illnesses likely to occur in backcountry settings, including
-            hypothermia, heat reactions, frostbite, dehydration, blisters, insect
-            stings, tick bites, and snakebites.
-- requirement: 2
-  text: |-
-      From memory list the seven priorities for survival in a backcountry or
-      wilderness location. Explain the importance of each one with your
-      counselor.
-- requirement: 3
-  text: |-
-      Describe ways to avoid panic and maintain a high level of morale when lost,
-      and explain why this is important.
-- requirement: 4
-  text: |-
-      Describe the steps you would take to survive in the following exposure conditions:
-  children:
-      - requirement: a
-        text: |-
-            Cold and snowy
-      - requirement: b
-        text: |-
-            Wet
+            Explain how the Scout Essentials address hazards of survival
+            situations and are basic to a survival kit.
+        resources:
+            - href: https://scoutlife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/
+              text: Scout Essentials
+              type: website
+            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Wilderness%20Survival/Checklist%20for%20a%20Wilderness%20Survival%20Kit.pdf
+              text: Checklist for a Wilderness Survival Kit
+              type: pdf
       - requirement: c
         text: |-
-            Hot and dry
-      - requirement: d
-        text: |-
-            Windy
-      - requirement: e
-        text: |-
-            At or on the water.
+            Explain how a trip plan could help prevent a wilderness survival
+            situation.
+        resources:
+            - href: https://youtu.be/79WYqkiExZU
+              text: How to Plan an Adventure | Plan a Camping Trip
+              type: video
+            - href: https://www.boatsmartexam.com/knowledge-base/article/using-a-trip-plan/
+              text: Importance of a Float Plan
+              type: website
+- requirement: 2
+  text: |-
+      <b>Priorities for Survival.</b> Explain the importance of each of the
+      seven priorities of survival in a wilderness location.
+  resources:
+      - href: https://youtu.be/eckfD4gfgj0
+        text: Seven Priorities of Survival
+        type: video
+- requirement: 3
+  text: |-
+      <b>Avoiding Panic:</b> Describe ways to avoid panic and to maintain a high
+      level of morale when lost, and explain why this is important.
+  resources:
+      - href: https://youtu.be/_mt0BtDDImU
+        text: Lost? Stop Panic &amp; Think Clearly.
+        type: video
+      - href: https://youtu.be/UC6HUrneIWI
+        text: Box Breathing | The Breathing Exercise Used By Navy SEALs
+        type: video
+- requirement: 4
+  text: |-
+      <b>First Aid Kits.</b> Put together a personal first aid kit and a
+      personal survival kit. Show how items in the kits are used.
+  resources:
+      - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resurces/Wilderness%20Survival/Personal%20Family%20Troop%20First%20Aid%20Kit%20Checklist.pdf
+        text: Personal Family Troop First Aid Kit Checklist
+        type: pdf
+      - href: https://scoutlife.org/video-audio/4937/first-aid-kit-buying-guide/
+        text: First Aid Kit Checklists
+        type: website
+      - href: https://troopleader.scouting.org/program-features/wilderness-survival/information/
+        text: Scout Essentials for Wilderness Survival
+        type: website
+      - href: https://assets.kalkomey.com/hunter/pdfs/maine-survival-kit.pdf
+        text: Survival Kit List
+        type: pdf
 - requirement: 5
   text: |-
-      Put together a personal survival kit and be able to explain how each item
-      in it could be useful.
-- requirement: 6
-  text: |-
-      Using three different methods (other than matches), build and light three
-      fires.
-- requirement: 7
-  text: |-
-      Do the following:
+      <b>Shelter.</b> Do the following:
   children:
       - requirement: a
         text: |-
-            Show five different ways to attract attention when lost.
+            Describe the steps you would take to survive in the following
+            exposure conditions:
+        children:
+            - requirement: 1
+              text: |-
+                  Cold and snowy
+              resources:
+                  - href: https://youtu.be/EsoobhiExJY
+                    text: Cold Weather Survival Skills
+                    type: video
+                  - href: https://www.wildwoodsurvival.com/survival/winter/index.html
+                    text: Winter Survival Skills
+                    type: website
+            - requirement: 2
+              text: |-
+                  Wet
+              resources:
+                  - href: https://youtu.be/MmHkiHeoI3U
+                    text: Building Fire in the Rain
+                    type: video
+                  - href: https://youtu.be/t9NLAIxlWgE
+                    text: Staying Warm and Dry in Wind and Rain
+                    type: video
+                  - href: https://www.youtube.com/watch?v=jzTHvpgHqCo
+                    text: Camping in the Rain
+                    type: video
+            - requirement: 3
+              text: |-
+                  Hot and dry
+              resources:
+                  - href: https://www.youtube.com/watch?v=lIHczx_QlH8
+                    text: 10 Desert Survival Tips
+                    type: video
+            - requirement: 4
+              text: |-
+                  Windy
+              resources:
+                  - href: https://youtu.be/f4VC0fNMaQc
+                    text: Danger of Wind Chill
+                    type: video
+                  - href: https://youtu.be/Syqj_hZLMlA
+                    text: 'Wind Chill Safety: 5 Tips to Prevent Frostbite'
+                    type: video
+            - requirement: 5
+              text: |-
+                  At or on the water.
+              resources:
+                  - href: https://www.boat-ed.com/indiana/studyGuide/Ending-Up-in-the-Water-Unexpectedly/10101602_35417/
+                    text: What to do if Your Boat Capsizes
+                    type: website
+      - requirement: b
+        text: |-
+            Show that you know the proper clothing to wear while in the outdoors
+            during extremely hot and cold weather and during wet conditions.
+        resources:
+            - href: https://scoutlife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/
+              text: Packing Lists for Hot and Cold Weather Camping
+              type: website
+      - requirement: c
+        text: |-
+            Explain how to protect yourself from bears and raccoons.
+        resources:
+            - href: https://youtu.be/SHZ-prhA7E0
+              text: Preventing and Managing Bear Encounters
+              type: video
+            - href: https://youtu.be/SO1Ax9sBU6I
+              text: Keeping Raccoons Away from your Campsite
+              type: video
+      - requirement: d
+        text: |-
+            Describe how to build or find survival shelters in a forest or in
+            snow.
+        resources:
+            - href: https://youtu.be/mQL4luClk_I
+              text: Tree Well Shelter
+              type: video
+            - href: https://www.youtube.com/shorts/x6M8HHRWRTk
+              text: A Quick Shelter under a Tree
+              type: video
+      - requirement: e
+        text: |-
+            Improvise a natural shelter. For the purpose of this demonstration,
+            use techniques that have little negative impact on the environment.
+            Spend a night in your shelter.
+        resources:
+            - href: https://youtu.be/wTQqrECMkPE
+              text: How to Build a Survival Shelter
+              type: video
+- requirement: 6
+  text: |-
+      <b>Fire Building.</b> Using three different methods (other than matches),
+      build and light three fires.
+  resources:
+      - href: https://youtu.be/bPMKS0qzzSQ
+        text: 4 Emergency Fire Starters
+        type: video
+- requirement: 7
+  text: |-
+      <b>Signaling.</b> Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain and show how lost or stranded Scouts could send signals to
+            attract the attention of ground, airborne, or water search teams.
+        resources:
+            - href: https://youtu.be/X8j5NC7Bqq4
+              text: How to Signal for Ground Rescue
+              type: video
+            - href: http://www.cap-es.net/zips/gnd2airsignals.PDF
+              text: Surface to Air Visual and Body Signals
+              type: pdf
+            - href: https://youtu.be/0Y4pG_mN7Ek
+              text: Distress Signals for Water Emergencies
+              type: video
       - requirement: b
         text: |-
             Demonstrate how to use a signal mirror.
+        resources:
+            - href: https://www.youtube.com/shorts/kYN46GuZmpE
+              text: How to Use a Signal Mirror
+              type: video
       - requirement: c
         text: |-
             Describe from memory five ground-to-air signals and tell what they
             mean.
 - requirement: 8
   text: |-
-      Improvise a natural shelter. For the purpose of this demonstration, use
-      techniques that have little negative impact on the environment. Spend a
-      night in your shelter.
+      <b>Water.</b> Demonstrate three ways to treat water found in the outdoors
+      to prepare it for drinking.
+  resources:
+      - href: https://youtu.be/tD-Ya2SQk3k
+        text: Purifying Water
+        type: video
+      - href: https://scoutlife.org/outdoors/scout-essentials/183133/how-to-safely-melt-snow-to-use-as-drinking-water-on-a-camping-trip/
+        text: Melting Snow for Water
+        type: website
 - requirement: 9
   text: |-
-      Explain how to protect yourself from insects, reptiles, bears, and other
-      animals of the local region.
+      <b>Food.</b> Explain why it usually is not wise to eat wild plants or
+      wildlife in a wilderness survival situation.
 - requirement: 10
   text: |-
-      Demonstrate three ways to treat water found in the outdoors to prepare it
-      for drinking.
-- requirement: 11
-  text: |-
-      Show that you know the proper clothing to wear while in the outdoors during
-      extremely hot and cold weather and during wet conditions.
-- requirement: 12
-  text: |-
-      Explain why it usually is not wise to eat edible wild plants or wildlife in
-      a wilderness survival situation.
+      <b>Careers.</b> Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            Explore careers related to this merit badge. Research one career to
+            learn about the training and education needed, costs, job prospects,
+            salary, job duties, and career advancement. With permission of your
+            parent or guardian, your research methods may include an internet or
+            library search, an interview with a professional in the field, or a
+            visit to a location where people in this career work. Discuss with your
+            counselor both your findings and what about this profession might make
+            it an interesting career.
+        resources:
+            - href: https://wildlandtrekking.com/blog/wilderness-jobs-and-how-to-get-them/
+              text: Wilderness Jobs
+              type: website
+            - href: https://www.youtube.com/shorts/dgSaYZ8xhRw
+              text: Unusual Careers in the Wilderness
+              type: video
+      - requirement: b
+        text: |-
+            Explore how you could use knowledge and skills from the Wilderness
+            Survival merit badge to pursue a hobby or to serve as volunteer.
+            Research any training needed, expenses, and organizations that promote
+            or support it. Discuss with your counselor what short-term and long-term
+            goals you might have if you pursue this.
+        resources:
+            - href: https://scoutingmagazine.org/2016/08/shed-pounds-pack-using-ultralight-backpacking-strategies/
+              text: Ultralight Backpacking
+              type: website

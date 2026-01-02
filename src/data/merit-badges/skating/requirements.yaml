@@ -1,3 +1,5 @@
+# 2b2 functions is redundant: "Discuss the parts and functions of a roller skate and their functions."
+# 2d2 is lacking a trailing period - added one
 - requirement: 1
   text: |-
       Do the following:
@@ -18,318 +20,247 @@
       Working under the supervision of an experienced adult, do ONE of the
       following options.
   children:
-      - detail: true
-        text: |-
-            <strong>Option A—Ice Skating</strong>
       - requirement: a
         text: |-
-            Do the following:
+            <strong>Option A—Ice Skating.</strong> Do ALL of the following:
         children:
             - requirement: 1
               text: |-
-                  Give general safety and courtesy rules for ice skating. Discuss
-                  preparations that must be taken when skating outdoors on natural
-                  ice. Explain how to make an ice rescue.
+                  Explain the general safety and courtesy guidelines for ice skating.
             - requirement: 2
+              text: |-
+                  Discuss preparations that must be taken when skating outdoors
+                  on natural ice. Explain how to make an ice rescue.
+            - requirement: 3
               text: |-
                   Discuss the parts and functions of the different types of ice
                   skates.
-            - requirement: 3
-              text: |-
-                  Describe the proper way to carry ice skates.
             - requirement: 4
+              text: |-
+                  Describe the proper way to carry ice skates at the rink and for
+                  travel.
+            - requirement: 5
               text: |-
                   Describe how to store ice skates for long periods of time, such as
                   seasonal storage.
-      - requirement: b
-        text: |-
-            Do the following:
-        children:
-            - requirement: 1
+            - requirement: 6
               text: |-
                   Skate forward at least 40 feet and come to a complete stop. Use
                   either a two-foot snowplow stop or a one-foot snowplow stop.
-            - requirement: 2
+            - requirement: 7
               text: |-
                   After skating forward, glide forward on two feet, then on one foot,
                   first right and then left.
-            - requirement: 3
+            - requirement: 8
               text: |-
                   Starting from a T position, stroke forward around the test area,
                   avoiding the use of toe picks if wearing figure skates.
-      - requirement: c
-        text: |-
-            Do the following:
-        children:
-            - requirement: 1
+            - requirement: 9
               text: |-
                   Glide backward on two feet for at least two times the skater's
                   height.
-            - requirement: 2
+            - requirement: 10
               text: |-
                   Skate backward for at least 20 feet on two skates.
-            - requirement: 3
+            - requirement: 11
               text: |-
                   After gaining forward speed, glide forward on two feet, making a
                   turn of 180 degrees around a cone, first to the right and then to
                   the left.
-      - requirement: d
-        text: |-
-            Do the following:
-        children:
-            - requirement: 1
+            - requirement: 12
               text: |-
                   Perform forward crossovers in a figure-eight pattern.
-            - requirement: 2
+            - requirement: 13
               text: |-
                   Explain to your counselor the safety considerations for
                   participating in an ice-skating race.
-            - requirement: 3
+            - requirement: 14
               text: |-
                   Perform a hockey stop.
-      - detail: true
-        text: |-
-            <strong>Option B—Roller Skating</strong>
-      - requirement: a
-        text: |-
-            Do the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Give general safety and etiquette rules for roller skating.
-            - requirement: 2
-              text: |-
-                  Discuss the parts and functions of the roller skate.
-            - requirement: 3
-              text: |-
-                  Describe five essential steps to good skate care.
       - requirement: b
         text: |-
-            Do the following:
+            <strong>Option B—Roller Skating.</strong> Do ALL of the following:
         children:
             - requirement: 1
+              text: |-
+                  Explain the general safety rules and etiquette guidelines for roller
+                  skating.
+            - requirement: 2
+              text: |-
+                  Discuss the parts and functions of a roller skate and their functions.
+            - requirement: 3
+              text: |-
+                  Describe five essential steps to good roller skate care.
+            - requirement: 4
               text: |-
                   Skate forward with smooth, linked strokes on two feet for at least
                   100 feet in both directions around the rink and demonstrate proper
                   techniques for stopping.
-            - requirement: 2
+            - requirement: 5
               text: |-
                   Skate forward and glide at least 15 feet on one skate, then on the
                   other skate.
-      - requirement: c
-        text: |-
-            Do the following:
-        children:
-            - requirement: 1
+            - requirement: 6
               text: |-
-                  Perform the forward crossover.
-            - requirement: 2
+                  Perform a forward crossover.
+            - requirement: 7
               text: |-
                   Skate backward for at least 40 feet on two skates, then for at
                   least 15 feet on one skate.
-            - requirement: 3
+            - requirement: 8
               text: |-
                   Skate forward in a slalom pattern for at least 40 feet on two
                   skates, then for at least 20 feet on one skate.
-            - requirement: 4
+            - requirement: 9
               text: |-
                   Skate backward in a slalom pattern for at least 15 feet on two
                   skates.
-      - requirement: d
-        text: |-
-            Do the following:
-        children:
-            - requirement: 1
+            - requirement: 10
               text: |-
-                  Shuttle skate once around the rink, bending twice along the way
+                  Shuttle skate once around the rink, bending twice along the way,
                   without stopping.
-            - requirement: 2
+            - requirement: 11
               text: |-
                   Perform a series of two consecutive spins on skates, OR hop, skip,
                   and jump on skates for at least 10 feet.
-      - requirement: e
-        text: |-
-            Do the following:
-        children:
-            - requirement: 1
+            - requirement: 12
               text: |-
-                  Race on a speed track, demonstrating proper technique in starting,
-                  cornering, passing, and pacing.
-            - requirement: 2
+                  Perform a stepover.
+            - requirement: 13
               text: |-
-                  Perform the limbo under a pole placed at least chest-high, OR
-                  shoot-the-duck under a waist-high pole and rise while still on one
-                  foot.
-            - requirement: 3
-              text: |-
-                  Perform the stepover.
-            - requirement: 4
-              text: |-
-                  While skating, dribble a basketball the length of the floor, then
-                  return to your starting position, OR push a hockey ball with a
-                  stick around the entire rink in both directions.
-      - detail: true
-        text: |-
-            <strong>Option C—In-Line Skating</strong>
-      - requirement: a
-        text: |-
-            Do the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Give general and in-line skating safety rules and etiquette.
-            - requirement: 2
-              text: |-
-                  Describe the parts and functions of the in-line skate.
-            - requirement: 3
-              text: |-
-                  Describe the required and recommended safety equipment.
-            - requirement: 4
-              text: |-
-                  Describe four essential steps to good skate care.
-      - requirement: b
-        text: |-
-            Do the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Skate forward with smooth, linked strokes on two feet for at least
-                  100 feet.
-            - requirement: 2
-              text: |-
-                  Skate forward and glide at least 15 feet on one skate, then on the
-                  other skate.
-            - requirement: 3
-              text: |-
-                  Stop on command on flat pavement using the heel brake.
+                  While skating, dribble a basketball at least 40 feet, then back to
+                  your starting position, OR push a hockey ball with a
+                  stick at least 40 feed, then back to your starting position.
       - requirement: c
         text: |-
-            Do the following:
+            <strong>Option C—In-Line Skating.</strong> Do ALL of the following:
         children:
             - requirement: 1
               text: |-
-                  Perform the forward crossover.
+                  Explain the general safety rules and courtesy guidelines for in-line
+                  skating.
             - requirement: 2
               text: |-
-                  Perform a series of forward, linked swizzles for at least 40 feet.
+                  Describe the parts of an in-line skate and their functions.
             - requirement: 3
               text: |-
-                  Skate backward for at least 40 feet in a series of linked, backward
-                  swizzles.
-            - requirement: 4
-              text: |-
-                  From a strong pace, perform a lunge turn around an object
-                  predetermined by your counselor.
-            - requirement: 5
-              text: |-
-                  Perform a mohawk.
-      - requirement: d
-        text: |-
-            Do the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Perform a series of at least four one-footed downhill slaloms on
-                  pavement with a gentle slope.
-            - requirement: 2
-              text: |-
-                  Describe how to pass a pedestrian or another skater from behind.
-            - requirement: 3
-              text: |-
-                  Describe at least three ways to avoid an unforeseen obstacle while
+                  Describe the required and recommended safety equipment for in-line
                   skating.
             - requirement: 4
               text: |-
-                  Describe two ways to get on and off a curb, and demonstrate at
-                  least one of these methods.
-      - detail: true
-        text: |-
-            <strong>Option D—Skateboarding</strong>
-      - requirement: a
-        text: |-
-            Explain the following to your counselor:
-        children:
-            - requirement: 1
-              text: |-
-                  History and evolution of skateboarding
-            - requirement: 2
-              text: |-
-                  Benefits of skateboarding (physical fitness, balance, coordination,
-                  perseverance, and creativity)
-            - requirement: 3
-              text: |-
-                  Purpose of skateboarding safety and protective gear (helmets, knee
-                  pads, elbow pads, wrist guards).
-      - requirement: b
-        text: |-
-            Explain the following to your counselor:
-        children:
-            - requirement: 1
-              text: |-
-                  Rules and regulations of skateparks
-            - requirement: 2
-              text: |-
-                  Understanding skatepark zones (street, bowl, and ramp)
-            - requirement: 3
-              text: |-
-                  Right-of-way and respect for others
-            - requirement: 4
-              text: |-
-                  Communication signals and warnings.
-      - requirement: c
-        text: |-
-            Do the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Explain skateboard anatomy (deck, trucks, wheels, bearings)
-            - requirement: 2
-              text: |-
-                  Build a board by assembling all pieces (deck, wheels, trucks,
-                  bearing, and grip tape) in the proper order
-            - requirement: 3
-              text: |-
-                  Explain skateboard maintenance (cleaning, tightening bolts, and
-                  replacing parts)
-      - requirement: d
-        text: |-
-            Demonstrate the following skateboarding skills:
-        children:
-            - requirement: 1
-              text: |-
-                  Stance and foot placement (regular and goofy)
-            - requirement: 2
-              text: |-
-                  Pushing and balance
-            - requirement: 3
-              text: |-
-                  Turning and carving
-            - requirement: 4
-              text: |-
-                  Braking and stopping techniques
+                  Explain four essential steps to good in-line skate care.
             - requirement: 5
               text: |-
-                  Ollies (basic and variations).
-      - requirement: e
-        text: |-
-            Demonstrate a total of three skateboarding tricks from the following
-            types:
-        children:
-            - requirement: 1
-              text: |-
-                  Flatland tricks
-            - requirement: 2
-              text: |-
-                  Flip and shove-it tricks
-            - requirement: 3
-              text: |-
-                  Grind and slide tricks
-            - requirement: 4
-              text: |-
-                  Air, grab, bowl and ramp tricks
-            - requirement: 5
-              text: |-
-                  Footplant tricks
+                  Skate forward with smooth, linked strokes on two feet for at least
+                  100 feet.
             - requirement: 6
               text: |-
-                  Balance tricks.
+                  Skate forward and glide at least 15 feet on one skate, then on the
+                  other skate.
+            - requirement: 7
+              text: |-
+                  Stop on command on flat pavement using the heel brake.
+            - requirement: 8
+              text: |-
+                  Perform a forward crossover.
+            - requirement: 9
+              text: |-
+                  Perform a series of forward, linked swizzles for at least 40 feet.
+            - requirement: 10
+              text: |-
+                  Skate backward for at least 40 feet in a series of linked, backward
+                  swizzles.
+            - requirement: 11
+              text: |-
+                  From a strong pace, perform a lunge turn around an object
+                  predetermined by your counselor.
+            - requirement: 12
+              text: |-
+                  Perform a mohawk.
+            - requirement: 13
+              text: |-
+                  Perform a series of at least four one-footed downhill slaloms on
+                  pavement with a gentle slope.
+            - requirement: 14
+              text: |-
+                  Describe how to pass a pedestrian or another skater from behind.
+            - requirement: 15
+              text: |-
+                  Describe at least three ways to avoid an unforeseen obstacle while
+                  skating.
+            - requirement: 16
+              text: |-
+                  Describe two ways to get on and off a curb, and demonstrate at
+                  least one of these methods.
+      - requirement: d
+        text: |-
+            <strong>Option D—Skateboarding.</strong> Do ALL of the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Explain the history and evolution of skateboarding.
+            - requirement: 2
+              text: |-
+                  Describe the benefits of skateboarding (physical fitness, balance,
+                  coordination, perseverance, and creativity).
+            - requirement: 3
+              text: |-
+                  Explain the safety rules and courtesy guidelines for skateboarding,
+                  including right-of-way and communication signals and warnings.
+            - requirement: 4
+              text: |-
+                  Explain the protective gear needed to skate safely, including
+                  helmet, knee pads, elbow pads, and wrist gaurds, and show how to wear
+                  them correctly.
+            - requirement: 5
+              text: |-
+                  Describe the two main styles of skateboarding (street and vert), and
+                  describe common skatepark features (ramps, manual pad, rails, spine,
+                  etc.).
+            - requirement: 6
+              text: |-
+                  Explain skateboard anatomy (deck, trucks, wheels, hardware, etc.).
+            - requirement: 7
+              text: |-
+                  Build a board by assembling all pieces (deck, wheels, trucks,
+                  hardware, and grip tape) in the proper order.
+            - requirement: 8
+              text: |-
+                  Explain skateboard maintenance (cleaning, adjusting bolts, and
+                  replacing parts).
+            - requirement: 9
+              text: |-
+                  Explain the difference between regular and goofy stance, and
+                  demonstrate your preferred stance.
+            - requirement: 10
+              text: |-
+                  Demonstrate how to push, cruise, and carve on flat ground.
+            - requirement: 11
+              text: |-
+                  Show at least two braking and stopping techniques.
+            - requirement: 12
+              text: |-
+                  Do a basic ollie and at least one variation.
+            - requirement: 13
+              text: |-
+                  Show how to drop-in from coping.
+            - requirement: 14
+              text: |-
+                  Demonstrate a total of THREE skateboarding tricks from
+                  the following types:
+              children:
+                  - requirement: a
+                    text: |-
+                        Flat ground tricks
+                  - requirement: b
+                    text: |-
+                        Flip and shove-it tricks
+                  - requirement: c
+                    text: |-
+                        Grind and slide tricks
+                  - requirement: d
+                    text: |-
+                        Air and grab tricks
+                  - requirement: e
+                    text: |-
+                        Footplant tricks.

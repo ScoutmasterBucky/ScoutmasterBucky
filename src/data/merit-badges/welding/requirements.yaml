@@ -1,3 +1,4 @@
+# Resources for 6c and 6d are the same.
 - requirement: 1
   text: |-
       Do the following:
@@ -7,6 +8,10 @@
             Explain to your counselor the hazards you are most likely to encounter
             while welding, and what you should do to anticipate, help prevent,
             mitigate, or lessen these hazards.
+        resources:
+            - href: https://youtu.be/-oq3mS7EBX8
+              text: 'Keep Yourself Safe: 6 Welding Safety Hazards &amp; How To Avoid Them'
+              type: video
       - requirement: b
         text: |-
             Show that you know first aid for, and the prevention of, injuries or
@@ -14,6 +19,10 @@
             eye injuries, burns, fume inhalation, dizziness, skin irritation, and
             exposure to hazardous chemicals, including filler metals and welding
             gases.
+        resources:
+            - href: https://weldingheadquarters.com/how-to-treat-welding-burns/
+              text: How to Treat Welding Burns
+              type: website
 - requirement: 2
   text: |-
       Do the following:
@@ -22,25 +31,48 @@
         text: |-
             With your counselor, discuss general safety precautions and Safety Data
             Sheets related to welding. Explain the importance of the SDS.
+        resources:
+            - href: https://youtu.be/_yWF-w3CwmU
+              text: Safety Data Sheets Training Video
+              type: video
       - requirement: b
         text: |-
             Describe the appropriate safety gear and clothing that must be worn
             when welding. Then, present yourself properly dressed for welding—in
             protective equipment, clothing, and footwear.
+        resources:
+            - href: https://youtu.be/YsAmLFF03jI
+              text: Welding Safety PPE Guide | Must-Have Essentials for Safe Welding Practices
+              type: video
       - requirement: c
         text: |-
             Explain and demonstrate the proper care and storage of welding
             equipment, tools, and protective clothing and footwear.
+        resources:
+            - href: https://youtu.be/roCt2U2ccaI
+              text: A DIY Guide to Maintaining and Storing your Welding Equipment
+              type: video
+            - href: https://youtu.be/HrjpCHfbYJE
+              text: Safely Use and Care of PPE | ACSA Training | CSTS Clip
+              type: video
 - requirement: 3
   text: |-
       Explain the terms welding, electrode, slag, and oxidation. Describe the welding
       process, how heat is generated, what kind of filler metal is added (if
       any), and what protects the molten metal from the atmosphere.
+  resources:
+      - href: https://www.millerwelds.com/resources/article-library/understanding-common-welding-terms-a-guide-for-beginners
+        text: Understanding Common Welding Terms—A Guide for Beginners
+        type: website
 - requirement: 4
   text: |-
       Name the different mechanical and thermal cutting methods. Choose one
       method and describe how to use the process. Discuss one advantage and one
       limitation of this process.
+  resources:
+      - href: https://youtu.be/7rCVyRpkyuo
+        text: How to Cut Steel 5 Different Ways
+        type: video
 - requirement: 5
   text: |-
       Do the following:
@@ -50,6 +82,10 @@
             Select two welding processes, and make a list of the different
             components of the equipment required for each process. Discuss one
             advantage and one limitation for each process.
+        resources:
+            - href: https://youtu.be/y-OKi8oSNQ4
+              text: '4 Types of Welding Explained: MIG vs TIG vs Stick vs Flux Core'
+              type: video
       - requirement: b
         text: |-
             Choose one welding process. Set up the process you have chosen,
@@ -66,24 +102,48 @@
             Using a metal scribe or soapstone, sketch your initial onto a metal
             plate, and weld a bead on the plate following the pattern of your
             initial.
+        resources:
+            - href: https://youtu.be/UBbdcviujmM
+              text: Welding letters and numbers for a casting form
+              type: video
       - requirement: b
         text: |-
             Cover a small plate (approximately 3" x 3" x 1/4") with weld beads side
             by side.
+        resources:
+            - href: https://youtu.be/g7qgPldYDuY
+              text: The First Lesson of Welding | Learning to Run Beads
+              type: video
       - requirement: c
         text: |-
             Tack two plates together in a square groove butt joint.
+        resources:
+            - href: https://youtu.be/3-ebx3hWu0Q
+              text: How to Weld a Butt Joint
+              type: video
       - requirement: d
         text: |-
             Weld the two plates together from 6(c) on both sides.
+        resources:
+            - href: https://youtu.be/3-ebx3hWu0Q
+              text: How to Weld a Butt Joint
+              type: video
       - requirement: e
         text: |-
             Tack two plates together in a T joint, have your counselor inspect it,
             then weld a T joint with fillet weld on both sides.
+        resources:
+            - href: https://youtu.be/zFIdiTJxii4
+              text: Helpful Tips for Tacking and MIG Welding Fillet Joints
+              type: video
       - requirement: f
         text: |-
             Tack two plates together in a lap joint, have your counselor inspect
             it, then weld a lap joint with fillet weld on both sides.
+        resources:
+            - href: https://youtu.be/0AxiCSe-dCQ
+              text: 'TIG Welding Basics: Lap Joints'
+              type: video
 - requirement: 7
   text: |-
       Do the following:
@@ -94,7 +154,15 @@
             Pick one and find out the education, training, and experience required
             for this profession. Discuss this with your counselor, and explain why
             the profession might interest you.
+        resources:
+            - href: https://youtu.be/tVOvC_e9spA
+              text: Should You Become a Welder?—Everything You Need to Know About The Welding Profession
+              type: video
       - requirement: b
         text: |-
             Discuss the role of the American Welding Society in the welding
             profession.
+        resources:
+            - href: https://youtu.be/tZaEMO4bPHg
+              text: What Does the American Welding Society Do For Welders?
+              type: video

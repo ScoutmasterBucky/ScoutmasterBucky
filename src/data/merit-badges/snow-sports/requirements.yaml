@@ -1,4 +1,5 @@
-# 7f: Had "terrain,show" - added space
+# 7a7: Had "terrain,show" - added space
+# 7b says "DO ALL" - corrected to "Do ALL"
 # Option D, item (i) is missing a period at the end - added one.
 - requirement: 1
   text: |-
@@ -34,24 +35,24 @@
   text: |-
       Discuss the importance of strength, endurance, and flexibility in snow
       sports. Demonstrate exercises and activities you can do to get fit for the
-      Option you choose in requirement 7.
+      option you choose in requirement 7.
 - requirement: 5
   text: |-
-      Present yourself properly clothed and equipped for the Option you choose in
+      Present yourself properly clothed and equipped for the option you choose in
       requirement 7. Discuss how the clothing you have chosen will help keep you
       warm and protected.
 - requirement: 6
   text: |-
-      Do the following:
+      Do ALL of the following:
   children:
       - requirement: a
         text: |-
-            Tell the meaning of the Your Responsibility Code for skiers,
-            snowboarders, and snowshoers. Explain why each rider must follow this
-            code.
+            Explain the elements of the <i>Your Responsibility Code</i> that is
+            in effect at the location whehre you will ski, snowboard, or snowshoe.
+            Explain why each person must follow this code.
       - requirement: b
         text: |-
-            Explain the Smart Style safety program. Tell why it is important and
+            Explain the <i>SMART Style</i> safety program. Tell why it is important and
             how it applies to participants at snow sport venues like terrain parks
             and pipes.
       - requirement: c
@@ -62,178 +63,209 @@
   text: |-
       Do ONE of the following options:
   children:
-      - detail: true
+      - requirement: A
         text: |-
-            <strong>Option A—Downhill (Alpine) Skiing</strong>
-      - requirement: a
-        text: |-
-            Show how to wax and maintain your skis and use/maintain your release
-            bindings. Explain the international DIN standard and what it means to
-            skiers.
-      - requirement: b
-        text: |-
-            Explain the American Teaching System and a basic snowskiing
-            progression.
-      - requirement: c
-        text: |-
-            Discuss the five types of Alpine skis. Demonstrate two ways to carry
-            skis and poles safely and easily.
-      - requirement: d
-        text: |-
-            Demonstrate how to ride one kind of lift and explain how to ride two
-            others.
-      - requirement: e
-        text: |-
-            On a gentle slope, demonstrate some of the beginning maneuvers learned
-            in skiing. Include the straight run, gliding wedge, wedge stop,
-            sidestep, and herringbone maneuvers.
-      - requirement: f
-        text: |-
-            On slightly steeper terrain, show linked wedge turns.
-      - requirement: g
-        text: |-
-            On a moderate slope, demonstrate five to 10 christies.
-      - requirement: h
-        text: |-
-            Make a controlled run down an intermediate slope.
-      - requirement: i
-        text: |-
-            Demonstrate the ability to ski in varied conditions, including changes
-            in pitch, snow conditions, and moguls. Maintain your balance and
-            ability to turn.
-      - requirement: j
-        text: |-
-            Name the major ski organizations in the United States and explain their
-            functions.
-      - detail: true
-        text: |-
-            <strong>Option B—Cross-Country (Nordic) Skiing</strong>
-      - requirement: a
-        text: |-
-            Show your ability to select, use, and maintain equipment for
-            cross-country skiing in safety and comfort.
-      - requirement: b
-        text: |-
-            Discuss classic, skating, touring, and telemark skis.
-      - requirement: c
-        text: |-
-            Discuss the basic principles of waxing for cross-country ski touring.
-      - requirement: d
-        text: |-
-            Discuss the differences between cross-country, backcountry/ski touring,
-            ski mountaineering, and downhill/telemark skiing.
-      - requirement: e
-        text: |-
-            List the items you would take on a one-day ski tour.
-      - requirement: f
-        text: |-
-            Demonstrate the proper use of a topographic map and compass.
-      - requirement: g
-        text: |-
-            On a gentle, packed slope, show some basic ways to control speed and
-            direction. Include the straight run, traverse, side slip, step turn,
-            wedge stop, and wedge turn maneuvers.
-      - requirement: h
-        text: |-
-            On a cross-country trail, demonstrate effective propulsion by showing
-            proper weight transfer form ski to ski, pole timing, rhythm, flow, and
-            glide.
-      - requirement: i
-        text: |-
-            Demonstrate your ability, on a tour, to cope with an average variety of
-            snow conditions.
-      - requirement: j
-        text: |-
-            Demonstrate several methods of dealing with steep hills or difficult
-            conditions. Include traverses and kick turns going uphill and downhill,
-            sidesteps, pole drag, and ski-pole "glissade."
-      - detail: true
-        text: |-
-            <strong>Option C—Snowboarding</strong>
-      - requirement: a
-        text: |-
-            Discuss forward-fall injuries.
-      - requirement: b
-        text: |-
-            Show your ability to select the correct equipment for snowboarding and
-            to use it for safety and comfort.
-      - requirement: c
-        text: |-
-            Show how to use and maintain your own bindings, and explain the use of
-            the different binding methods. Explain the need for leashes.
-      - requirement: d
-        text: |-
-            Discuss the four types of snowboards. Demonstrate how to carry a
-            snowboard easily and safely.
-      - requirement: e
-        text: |-
-            Demonstrate how to ride one kind of lift and explain how to ride two
-            others.
-      - requirement: f
-        text: |-
-            Demonstrate the basic principles of waxing a snowboard.
-      - requirement: g
-        text: |-
-            Do the following:
+            <strong>Option A—Downhill (Alpine) Skiing.</strong> Do ALL of the following:
+            <div class="gap"></div>
+            <b>Note:</b> Generally, a gentle slope will be a
+            trail designated by a green circle, a slightly steeper slope will be a
+            green circle or blue square trail, and an intermediate slope will be a
+            blue square trail. However, your counselor should determine what type of
+            hill is most suited to your skill level and allows you to demonstrate
+            each of the required skills.
         children:
             - requirement: 1
               text: |-
-                  On a gentle slope, demonstrate beginning snowboarding maneuvers.
-                  Show basic ways to control speed and direction. Include the
-                  sideslipping maneuver.
+                  Show how to wax and maintain your skis and use/maintain your release
+                  bindings. Explain the international DIN standard and what it means to
+                  skiers.
             - requirement: 2
               text: |-
-                  On slightly steeper terrain, show traversing.
-      - requirement: h
-        text: |-
-            On a moderate slope, demonstrate an ollie, a nose-end grab, and a
-            wheelie.
-      - requirement: i
-        text: |-
-            Make a controlled run down an intermediate slope.
-      - requirement: j
-        text: |-
-            Demonstrate your ability to ride in varied conditions, including
-            changes in pitch, snow conditions, and moguls. Maintain your balance
-            and ability to turn.
-      - requirement: k
-        text: |-
-            Name the major snowboarding organizations in the United States and
-            explain their functions.
-      - detail: true
-        text: |-
-            <strong>Option D—Snowshoeing</strong>
-      - requirement: a
-        text: |-
-            Name the parts of a snowshoe.
+                  Explain the American Teaching System and a basic snowskiing
+                  progression.
+            - requirement: 3
+              text: |-
+                  Discuss the different types of Alpine skis. Demonstrate two ways to carry
+                  skis and poles safely and easily.
+            - requirement: 4
+              text: |-
+                  Demonstrate how to ride one kind of lift and explain how to ride two
+                  others.
+            - requirement: 5
+              text: |-
+                  On a gentle slope, demonstrate some of the beginning maneuvers learned
+                  in skiing. Include the straight run, gliding wedge, wedge stop,
+                  sidestep, and herringbone maneuvers.
+            - requirement: 6
+              text: |-
+                  On slightly steeper terrain, show linked wedge turns.
+            - requirement: 7
+              text: |-
+                  On a moderate slope, demonstrate five to 10 christies.
+            - requirement: 8
+              text: |-
+                  Make a controlled run down an intermediate slope.
+            - requirement: 9
+              text: |-
+                  Demonstrate the ability to ski in varied conditions, including
+                  changes in pitch and snow conditions. Maintain your balance and ability
+                  to turn.
+            - requirement: 10
+              text: |-
+                  Name the major ski organizations in the United States and explain their
+                  functions.
       - requirement: b
         text: |-
-            Explain how to choose the correct size of snowshoe.
+            <strong>Option B—Cross-Country (Nordic) Skiing.</strong> Do ALL of the
+            following:
+        children:
+            - requirement: 1
+              text: |-
+                  Show your ability to select, use, and maintain equipment for
+                  cross-country skiing in safety and comfort.
+            - requirement: 2
+              text: |-
+                  Explain the reasons for common rules, including no walking on ski
+                  trails, one-way ski direction, no pets, and no skiing on snowmobile
+                  trails.
+            - requirement: 3
+              text: |-
+                  Discuss classic, skating, touring, and telemark skis.
+            - requirement: 4
+              text: |-
+                  Discuss the basic principles of waxing for cross-country ski touring.
+            - requirement: 5
+              text: |-
+                  Discuss the differences between cross-country, backcountry/ski touring,
+                  ski mountaineering, and downhill/telemark skiing.
+            - requirement: 6
+              text: |-
+                  List the items you would take on a one-day ski tour.
+            - requirement: 7
+              text: |-
+                  Demonstrate the proper use of a topographic map and compass.
+            - requirement: 8
+              text: |-
+                  On a gentle, packed slope, show some basic ways to control speed and
+                  direction. Include the straight run, traverse, side slip, step turn,
+                  wedge stop, and wedge turn maneuvers.
+            - requirement: 9
+              text: |-
+                  On a cross-country trail, demonstrate effective propulsion by showing
+                  proper weight transfer form ski to ski, pole timing, rhythm, flow, and
+                  glide.
+            - requirement: 10
+              text: |-
+                  Demonstrate your ability, on a 4-mile tour, to cope with an average
+                  variety of snow conditions.
+                  <div class="gap"></div>
+                  <b>Note:</b> Adaptive skiers may
+                  complete a 1-mile tour with prior approval from their counselor.
+            - requirement: 11
+              text: |-
+                  Demonstrate several methods of dealing with steep hills or difficult
+                  conditions. Include traverses and kick turns going uphill and downhill,
+                  sidesteps, pole drag, and ski-pole "glissade."
       - requirement: c
         text: |-
-            Describe the different types of snowshoes and their specialized uses.
-            Discuss factors to consider when choosing a snowshoe.
+            <strong>Option C—Snowboarding.</strong> Do ALL of the following:
+            <div class="gap"></div>
+            <b>Note:</b> Generally, a gentle slope will be a trail
+            designated by a green circle, a slightly steeper slope will be a green
+            circle or blue square trail, and an intermediate slope will be a blue
+            square trail. However, your counselor should determine what type of hill
+            is most suited to your skill level and allows you to demonstrate the
+            required skills.
+        children:
+            - requirement: 1
+              text: |-
+                  Discuss forward-fall injuries.
+            - requirement: 2
+              text: |-
+                  Show your ability to select the correct equipment for snowboarding and
+                  to use it for safety and comfort.
+            - requirement: 3
+              text: |-
+                  Show how to use and maintain your own bindings, and explain the use of
+                  the different binding methods. Explain the need for leashes.
+            - requirement: 4
+              text: |-
+                  Discuss the four types of snowboards. Demonstrate how to carry a
+                  snowboard easily and safely.
+            - requirement: 5
+              text: |-
+                  Demonstrate how to ride one kind of lift and explain how to ride two
+                  others.
+            - requirement: 6
+              text: |-
+                  Demonstrate the basic principles of waxing a snowboard.
+            - requirement: 7
+              text: |-
+                  Do the following:
+              children:
+                  - requirement: a
+                    text: |-
+                        On a gentle slope, demonstrate beginning snowboarding maneuvers.
+                        Show basic ways to control speed and direction. Include the
+                        sideslipping maneuver.
+                  - requirement: b
+                    text: |-
+                        On slightly steeper terrain, show traversing.
+            - requirement: 8
+              text: |-
+                  On a moderate slope, demonstrate an ollie, a nose-end grab, and a
+                  wheelie.
+            - requirement: 9
+              text: |-
+                  Make a controlled run down an intermediate slope.
+            - requirement: 10
+              text: |-
+                  Demonstrate your ability to ride in varied conditions, including
+                  changes in pitch, snow conditions, and moguls. Maintain your balance
+                  and ability to turn.
+            - requirement: 11
+              text: |-
+                  Name the major snowboarding organizations in the United States and
+                  explain their functions.
       - requirement: d
         text: |-
-            Explain how to properly care for and maintain snowshoes.
-      - requirement: e
-        text: |-
-            List the items you would take on a one-day snowshoe hike.
-      - requirement: f
-        text: |-
-            Describe areas that are best for snowshoeing. Discuss some advantages
-            and dangers of backcountry snowshoeing.
-      - requirement: g
-        text: |-
-            Discuss the benefits of snowshoeing.
-      - requirement: h
-        text: |-
-            Demonstrate the most efficient ways to break trail, climb uphill,
-            travel downhill and traverse a slope.
-      - requirement: i
-        text: |-
-            Demonstrate your ability, on a 2-mile snowshoe hike, to cope with an
-            average variety of snow conditions.
-      - requirement: j
-        text: |-
-            Demonstrate the proper use of a topographic map and compass.
+            <strong>Option D—Snowshoeing.</strong> Do ALL of the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Name the parts of a snowshoe.
+            - requirement: 2
+              text: |-
+                  Explain how to choose the correct size of snowshoe.
+            - requirement: 3
+              text: |-
+                  Describe the different types of snowshoes and their specialized uses.
+                  Discuss factors to consider when choosing a snowshoe.
+            - requirement: 4
+              text: |-
+                  Explain how to properly care for and maintain snowshoes.
+            - requirement: 5
+              text: |-
+                  List the items you would take on a one-day snowshoe hike.
+            - requirement: 6
+              text: |-
+                  Describe areas that are best for snowshoeing. Discuss some advantages
+                  and dangers of backcountry snowshoeing.
+            - requirement: 7
+              text: |-
+                  Discuss the benefits of snowshoeing.
+            - requirement: 8
+              text: |-
+                  Demonstrate the most efficient ways to break trail, climb uphill,
+                  travel downhill and traverse a slope.
+            - requirement: 9
+              text: |-
+                  Demonstrate your ability, on a 2-mile snowshoe hike, to cope with an
+                  average variety of snow conditions.
+                  <div class="gap"></div>
+                  <b>Note:</b> Adaptive
+                  snowshoers may complete a 1-mile hike with prior approval from their
+                  counselor.
+            - requirement: 10
+              text: |-
+                  Demonstrate the proper use of a topographic map and compass.
