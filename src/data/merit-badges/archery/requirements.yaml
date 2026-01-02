@@ -1,3 +1,4 @@
+# 2B had the period removed from the title - added it back in
 # 5A and 5B use "A.)" and "B.)" which isn't needed for our format.
 - requirement: 1
   text: |-
@@ -63,7 +64,7 @@
       - requirement: b
         text: |-
             Explain the following terms: draw length, draw weight, mechanical
-            release, barebow.
+            release, and barebow.
 - requirement: 4
   text: |-
       Explain the following:
@@ -87,109 +88,112 @@
       or a certified long-term camp staff member (i.e., a National Camping School
       [NCS] Range Activities Director; or a Rangemaster over age 18 who is
       trained by a NCS Range Activities Director or by a USA Archery Level 1
-      Instructor), do ONE of the following Options:
+      Instructor), do ONE of the following options:
+      <div class="gap"></div>
+      <b>Note:</b> When using a Genesis bow, apply the requirements in Option A.
   children:
       - text: |-
-            <strong>Option A—Recurve Bow or Longbow.</strong> Do the following:
+            <strong>Option A—Recurve Bow or Longbow.</strong> Do ALL of the
+            following:
         children:
-            - requirement: a
+            - requirement: 1
               text: |-
                   Name and point to the parts of the recurve or longbow you are
                   shooting.
-            - requirement: b
+            - requirement: 2
               text: |-
                   Explain how to properly care for and store recurve bows and
                   longbows.
-            - requirement: c
+            - requirement: 3
               text: |-
-                  Demonstrate and explain USA Archery's eleven "Steps of Shooting"
+                  Demonstrate and explain USA Archery's 11 Steps of Shooting
                   for the bow you are shooting.
-            - requirement: d
+            - requirement: 4
               text: |-
                   Demonstrate the proper way to string a recurve bow or longbow.
-            - requirement: e
+            - requirement: 5
               text: |-
                   Using a bow square, locate and mark with dental floss, crimp-on, or
                   other method, the nocking point on the bowstring of the bow you are
                   using.
-            - requirement: f
+            - requirement: 6
               text: |-
                   Do ONE of the following:
               children:
-                  - requirement: 1
+                  - requirement: a
                     text: |-
                         Using a recurve bow or longbow and arrows with a finger
                         release, shoot a single round of ONE of the following:
                     children:
-                        - requirement: a
+                        - requirement: 1
                           text: |-
                               An NFAA field round of 14 targets and make a score of 60
                               points
-                        - requirement: b
+                        - requirement: 2
                           text: |-
                               A Scouting America field round of 14 targets and make a score
                               of 80 points
-                        - requirement: c
+                        - requirement: 3
                           text: |-
                               A World Archery/USA Archery indoor round and make a score
                               of 80 points (indoor rounds may be shot outdoors if this is
                               more convenient)
-                        - requirement: d
+                        - requirement: 4
                           text: |-
                               An NFAA indoor round and make a score of 50 points (indoor
                               rounds may be shot outdoors if this is more convenient).
-                  - requirement: 2
+                  - requirement: b
                     text: |-
                         Shooting 30 arrows in five-arrow ends at an 80-centimeter
                         (32-inch) five-color target at 10 yards and using the 10
                         scoring regions, make a score of 150 points.
       - text: |-
-            <strong>Option B—Compound Bow.</strong> Do the following:
+            <strong>Option B—Compound Bow.</strong> Do ALL of the following:
         children:
-            - requirement: a
+            - requirement: 1
               text: |-
                   Name and point to the parts of the compound bow you are shooting.
-            - requirement: b
+            - requirement: 2
               text: |-
                   Explain how to properly care for and store compound bows.
-            - requirement: c
+            - requirement: 3
               text: |-
-                  Demonstrate and explain USA Archery's eleven "Steps of Shooting" for
+                  Demonstrate and explain USA Archery's 11 Steps of Shooting for
                   the bow you are shooting.
-            - requirement: d
+            - requirement: 4
               text: |-
                   Explain why it is necessary to have the string or cable on a compound
                   bow replaced at an archery shop.
-            - requirement: e
+            - requirement: 5
               text: |-
                   Locate and mark with dental floss, crimp-on, or other method, the
                   nocking point on the bowstring of the bow you are using.
-            - requirement: f
+            - requirement: 6
               text: |-
                   Do ONE of the following:
               children:
-                  - requirement: 1
+                  - requirement: a
                     text: |-
                         Using a compound bow and arrows with a finger release, shoot a
                         single round of ONE of the following:
                     children:
-                        - requirement: a
+                        - requirement: 1
                           text: |-
                               An NFAA field round of 14 targets and make a score of 70 points
-                        - requirement: b
+                        - requirement: 2
                           text: |-
                               A Scouting America field round of 14 targets and make a score of
                               90 points
-                        - requirement: c
+                        - requirement: 3
                           text: |-
                               A World Archery/USA Archery indoor round and make a score of 90
                               points (indoor rounds may be shot outdoors if this is more
                               convenient)
-                        - requirement: d
+                        - requirement: 4
                           text: |-
                               An NFAA indoor round and make a score of 60 points (indoor rounds
                               may be shot outdoors if this is more convenient)
-                  - requirement: 2
+                  - requirement: b
                     text: |-
                         Shooting at an 80-centimeter (32-inch) five-color target using the
                         10 scoring regions, make a minimum score of 160 points. Accomplish this in

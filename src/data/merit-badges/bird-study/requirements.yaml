@@ -1,3 +1,4 @@
+# Resource for 4, Merlin Bird ID, is an app. Not a website, not a video.
 - requirement: 1
   text: |-
       Explain the need for bird study and why birds are useful indicators of the
@@ -74,14 +75,15 @@
   text: |-
       Demonstrate that you know how to use a bird field guide. Show your
       counselor that you are able to understand a range map by locating in the
-      book and pointing out:
+      book and pointing out the wintering range, the breeding range, and/or the
+      year-round range of one species of each of the following types of birds:
   resources:
-      - href: https://www.youtube.com/watch?v=dAkcHqfkWfg
+      - href: https://youtu.be/dAkcHqfkWfg
         text: How to Use a Field Guide
         type: video
       - href: https://merlin.allaboutbirds.org/
         text: Merlin Bird ID
-        type: website
+        type: app
   children:
       - requirement: a
         text: |-
@@ -259,8 +261,9 @@
                   recorded during your visit, and your role in the program.
 - requirement: 9
   text: |-
-      Do ONE of the following. For the option you choose, describe what birds you
-      hope to attract, and why.
+      Do ONE of the following. For the item you choose, describe what birds you
+      hope to attract, and why. Describe the necessary maintenance required with
+      the item that you choose.
   children:
       - requirement: a
         text: |-
@@ -308,6 +311,15 @@
             - href: https://www.youtube.com/watch?v=j0werPvrrPI
               text: Build a Bird House for Under $5 in Under 5 Minutes
               type: video
+      - requirement: e
+        text: |-
+            Describe the elements of a backyard bird habitat for a given area
+            and draw a plan for one, including lists of birds you hope to attract,
+            appropriate plantings for food, cover, and nesting.
+        resources:
+            - href: https://youtu.be/wHyIzulXYlA
+              text: How to Create a Backyard Bird Habitat | Tractor Supply Co.
+              type: video
 - requirement: 10
   text: |-
       Do the following:
@@ -329,6 +341,16 @@
             - href: https://www.youtube.com/watch?v=0FgTOe3bxY8
               text: Most Endangered Species &amp; Threatened Species
               type: video
+      - requirement: c
+        text: |-
+            Explain how we can address birds that are in decline before they get
+            to an endangered or threatened list. List how we can protect habitat.
+            Identify threats that migratory birds face and how to protect food
+            supply for birds.
+        resources:
+            - href: https://youtu.be/DiSb2RZCTOk
+              text: Why Are Migratory Birds In Trouble? (And How Can I Help?)
+              type: video
 - requirement: 11
   text: |-
       Identify a non-native bird (introduced to North America from a foreign
@@ -343,17 +365,50 @@
         type: video
 - requirement: 12
   text: |-
-      Identify three career opportunities connected to the study of birds. Pick
-      one and find out the education, training, and experience required for this
-      profession. Discuss with your counselor if this profession might interest
-      you.
+      Discuss the importance of the Leave No Trace Seven Principles and the
+      Outdoor Code as they relate to bird study. Explain how you have followed
+      the Leave No Trace Seven Principles and the Outdoor Code while in natural
+      areas during field observation, specimen collection, and
+      identification.
   resources:
-      - href: https://www.youtube.com/watch?v=yFErFjzQ-RU
-        text: 'Careers With Birds: Interview With Kim Bostwick'
+      - href: https://vimeo.com/1115216743/63b20c0b33
+        text: Leave No Trace Basics
         type: video
-      - href: https://www.youtube.com/watch?v=nClZ64FaSIQ
-        text: Ornithologist (Bird Scientist) | Career Exploration
+      - href: https://www.youtube.com/watch?v=jXO1uY0MvmQ
+        text: Leave No Trace Outdoor Ethics
         type: video
-      - href: https://www.youtube.com/watch?v=AK2Onqx-ctM&t=60s
-        text: 10+ Wildlife Biology Careers You Should Know About (&amp; Salaries)
-        type: video
+- requirement: 13
+  text: |-
+      Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            Identify three career opportunities that would use skills and
+            knowledge in Bird Study. Pick one and research the training, education,
+            certification requirements, experience, and expenses associated with
+            entering the field. Research the prospects for employment, starting
+            salary, advancement opportunities and career goals associated with this
+            career. Discuss what you learned with your counselor and whether you
+            might be interested in this career.
+        resources:
+            - href: https://www.youtube.com/watch?v=yFErFjzQ-RU
+              text: 'Careers With Birds: Interview With Kim Bostwick'
+              type: video
+            - href: https://www.youtube.com/watch?v=nClZ64FaSIQ
+              text: Ornithologist (Bird Scientist) | Career Exploration
+              type: video
+      - requirement: b
+        text: |-
+            Identify how you might use the skills and knowledge in Bird Study to
+            pursue a personal hobby. Research the additional training required,
+            expenses, and affiliation with organizations that would help you
+            maximize the enjoyment and benefit you might gain from it. Discuss what
+            you learned with your counselor and share what short-term and long-term
+            goals you might have if you pursued this.
+        resources:
+            - href: https://youtu.be/jVK994DbKNs
+              text: 5 Reasons Why Birding is an Awesome Hobby!
+              type: video
+            - href: https://youtu.be/PAD9t4gtNvM
+              text: 'Birding: a Hobby for Everyone'
+              type: video

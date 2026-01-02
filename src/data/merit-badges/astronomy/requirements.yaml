@@ -364,7 +364,9 @@
         text: |-
             Visit a planetarium or astronomical observatory. Submit a written
             report, a scrapbook, OR a video presentation afterward to your
-            counselor that includes the following information:
+            counselor that includes the following information: activities occurring
+            there, exhibits and displays you saw, telescopes and other instruments
+            being used, and celestial objects you observed.
         resources:
             - href: https://spacetourismguide.com/best-observatories-united-states/
               text: The 10 Best Observatories in the U.S. to Visit This Year
@@ -372,19 +374,6 @@
             - href: https://www.go-astronomy.com/planetariums.htm
               text: U.S. Planetariums
               type: website
-        children:
-            - requirement: 1
-              text: |-
-                  Activities occurring there
-            - requirement: 2
-              text: |-
-                  Exhibits and displays you saw
-            - requirement: 3
-              text: |-
-                  Telescopes and other instruments being used
-            - requirement: 4
-              text: |-
-                  Celestial objects you observed
       - requirement: b
         text: |-
             Plan and participate in an observation session that includes using

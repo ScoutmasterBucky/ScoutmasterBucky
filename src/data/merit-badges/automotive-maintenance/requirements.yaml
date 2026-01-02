@@ -31,7 +31,7 @@
               type: video
       - requirement: c
         text: |-
-            Explain the different types of motors you may encounter.
+            Explain the different ways motor vehicles are powered.
         resources:
             - href: https://youtu.be/rlK7JIAz9WY
               text: Difference Between Diesel and Gas Engines
@@ -104,11 +104,8 @@
         text: |-
             Demonstrate how to check the following:
         resources:
-            - href: https://youtu.be/-dWtk08fMfw
-              text: How to Care for Your Automotive Battery
-              type: video
-            - href: https://youtu.be/ytg2TCC6IKw
-              text: How to Check &amp; Properly Fill Water Levels in a Car Batter
+            - href: https://youtu.be/RaxZUGP1Zr0
+              text: Your Car's Fluids
               type: video
         children:
             - requirement: 1
@@ -133,6 +130,13 @@
               text: |-
                   Battery fluid (if possible) and condition of the battery
                   terminals.
+              resources:
+                  - href: https://youtu.be/-dWtk08fMfw
+                    text: How to Care for Your Automotive Battery
+                    type: video
+                  - href: https://youtu.be/ytg2TCC6IKw
+                    text: How to Check &amp; Properly Fill Water Levels in a Car Battery
+                    type: video
       - requirement: b
         text: |-
             Locate the fuse boxes; determine the type and size of fuses.
@@ -457,7 +461,7 @@
               type: video
       - requirement: b
         text: |-
-            Explain the differences between disc and drum systems.
+            Explain the differences between disc and drum brake systems.
         resources:
             - href: https://youtu.be/RAQcvP07RHE
               text: Drum vs Disc Brakes - What Are the Differences? (Which Is the Better Choice?)

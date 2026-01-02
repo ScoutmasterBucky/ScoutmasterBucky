@@ -13,6 +13,7 @@ const ResourceSchema: z.ZodSchema<Resource> = z.strictObject({
     text: z.string(),
     type: z
         .enum([
+            'app',
             'document',
             'docx',
             'image',
