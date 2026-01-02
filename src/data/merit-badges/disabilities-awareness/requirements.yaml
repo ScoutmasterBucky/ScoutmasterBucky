@@ -53,26 +53,26 @@
       Do ONE of the following options:
   children:
       - text: |-
-            <strong>Option A</strong>. Visit TWO of the following locations and
+            <strong>Option A—Access.</strong>. Visit TWO of the following locations and
             take notes about the accessibility to people with disabilities. In your
             notes, give examples of five things that could be done to improve upon
             the site and five things about the site that make it friendly to people
             with disabilities. Discuss your observations with your counselor.
         children:
-          - requirement: a
-            text: |-
-                Your school
-          - requirement: b
-            text: |-
-                Your place of worship
-          - requirement: c
-            text: |-
-                A Scouting event or campsite
-          - requirement: d
-            text: |-
-                A public exhibit or attraction (such as a theater, museum, or park).
+            - requirement: 1
+              text: |-
+                  Your school
+            - requirement: 2
+              text: |-
+                  Your place of worship
+            - requirement: 3
+              text: |-
+                  A Scouting event or campsite
+            - requirement: 4
+              text: |-
+                  A public exhibit or attraction (such as a theater, museum, or park).
       - text: |-
-            <strong>Option B</strong>. Visit TWO of the following locations and
+            <strong>Option B—Accommodation.</strong>. Visit TWO of the following locations and
             take notes while observing features and methods that are used to
             accommodate people with invisible disabilities. While there, ask staff
             members to explain any accommodation features that may not be obvious.
@@ -80,18 +80,18 @@
             have invisible disabilities. Discuss your observations with your
             counselor.
         children:
-          - requirement: a
-            text: |-
-                Your school
-          - requirement: b
-            text: |-
-                Your place of worship
-          - requirement: c
-            text: |-
-                A Scouting event or campsite
-          - requirement: d
-            text: |-
-                A public exhibit or attraction (such as a theater, museum, or park).
+            - requirement: 1
+              text: |-
+                  Your school
+            - requirement: 2
+              text: |-
+                  Your place of worship
+            - requirement: 3
+              text: |-
+                  A Scouting event or campsite
+            - requirement: 4
+              text: |-
+                  A public exhibit or attraction (such as a theater, museum, or park).
 - requirement: 5
   text: |-
       Explain what advocacy is. Do ONE of the following:

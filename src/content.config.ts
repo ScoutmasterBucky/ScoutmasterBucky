@@ -21,6 +21,7 @@ const ResourceSchema: z.ZodSchema<Resource> = z.strictObject({
             'podcast',
             'video',
             'website',
+            'website with video',
             'website with videos',
         ])
         .optional(),

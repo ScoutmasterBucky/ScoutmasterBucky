@@ -1,18 +1,31 @@
+# 7b resource says "URL with video" - changed to the more standard "website with video"
 - requirement: 1
   text: |-
       Format TWO sheets of drawing paper with proper borders and title blocks -
       one for your manual project (see requirement 2) and one for your lettering
       project (see requirement 5).
+  resources:
+      - href: https://youtu.be/OOMLwD0ogrk
+        text: Technical Drawing - Border and Title Block
+        type: video
   children:
       - requirement: a
         text: |-
             Make a rough sketch for each of your project drawings to determine
             the correct size of paper to format.
+        resources:
+            - href: https://youtu.be/mMBQU2YqKg0
+              text: How to Calculate Scale, Papers Size and Maximum Drawing Size
+              type: video
       - requirement: b
         text: |-
             Using either single-stroke vertical or slant Gothic lettering, fill in
             all important information in the title block sections of the formatted
             paper.
+        resources:
+            - href: https://youtu.be/S5xqPw-v3GI
+              text: Border, Title Block and Lettering
+              type: video
 - requirement: 2
   text: |-
       Using the formatted sheet of paper you prepared for your manual project,
@@ -30,6 +43,10 @@
             sectional drawings, notes, and considerations necessary for
             construction. Properly print a bill of materials for at least three of
             the raw materials or components in the project.
+        resources:
+            - href: https://youtu.be/7IuSTwAB2QQ
+              text: How to Sketch a Floor Plan | COMPLETE Beginner's Guide!! Step by Step
+              type: video
       - requirement: b
         text: |-
             <strong>Mechanical:</strong> Make a scale drawing of some mechanical
@@ -39,12 +56,20 @@
             any important sectional drawings, notes, and manufacturing
             considerations. Properly print a bill of materials for at least three
             of the raw materials or components in the assembly.
+        resources:
+            - href: https://youtu.be/h_u0BHKJ0yk
+              text: 'Isometric Drawing Made Easy: How to Draw Isometric Views with Orthographic Projections'
+              type: video
       - requirement: c
         text: |-
             <strong>Electrical:</strong> Draw a simple schematic of a radio or
             electronic circuit. Properly print a bill of materials including all of
             the major electrical components used in the circuit. Use standard
             drawing symbols to represent the electronic components.
+        resources:
+            - href: https://youtu.be/q3wa6ZPVWd8
+              text: How to Draw an Electrical Circuit in AutoCAD
+              type: video
 - requirement: 3
   text: |-
       Produce a computer-aided design (CAD) drawing as it would be used in
@@ -60,6 +85,10 @@
             communicate the actual size of features. Include any important
             sectional drawings, notes, and considerations necessary for
             construction.
+        resources:
+            - href: https://youtu.be/yOGzf_Myxmc
+              text: AutoCAD 2D Basics - Tutorial to Draw a Simple Floor Plan (Fast and Effective!)
+              type: video
       - requirement: b
         text: |-
             <strong>Mechanical:</strong> Make a scale drawing of some mechanical
@@ -67,12 +96,20 @@
             orthographic or isometric style. Use an engineer's scale and show
             dimensions to communicate the actual size of features. Include any
             important sectional drawings, notes, and manufacturing considerations.
+        resources:
+            - href: https://youtu.be/Nn-JuuWsW0s
+              text: Technical Drawing Tutorial - Prepare a Perfect Mechanical Drawing for Machinists
+              type: video
       - requirement: c
         text: |-
             <strong>Electrical:</strong> Draw a simple schematic of a radio or
             electronic circuit. Properly print a bill of materials including all of
             the major electrical components used in the circuit. Use standard
             drawing symbols for the electronic components.
+        resources:
+            - href: https://youtu.be/q3wa6ZPVWd8
+              text: How to Draw an Electrical Circuit in AutoCAD
+              type: video
 - requirement: 4
   text: |-
       Do the following:
@@ -87,6 +124,10 @@
         text: |-
             Make the correction from the redline, identify it on the drawings with
             a revision marker, and add a revision block.
+        resources:
+            - href: https://youtu.be/1XQ2fdCbx9g
+              text: AutoCAD II 25-19 Revision History Blocks
+              type: video
 - requirement: 5
   text: |-
       Discuss with your counselor how fulfilling requirements 2, 3 and 4 differed
@@ -111,6 +152,10 @@
             Visit a facility or industry workplace where drafting is part of the
             business. Ask to see an example of the work that is done there, the
             different drafting facilities, and the tools used.
+        resources:
+            - href: https://youtu.be/_39brJN-POU
+              text: Benefits of AutoCAD to Manufacturing Design Workflow
+              type: video
         children:
             - requirement: 1
               text: |-
@@ -134,6 +179,16 @@
             Using resources you find on your own such as at the library and on the
             internet (with your parent or guardian's permission), learn more about
             the drafting trade and discuss the following with your counselor.
+        resources:
+            - href: https://profiletree.com/evolution-of-technical-drawings
+              text: 'Tracing the Evolution of Technical Drawings: From Da Vinci to CAD'
+              type: website with video
+            - href: https://youtu.be/_ULPY3B2BoQ
+              text: The Evolution of Drafting
+              type: video
+            - href: https://youtu.be/mcwIMsh_g3o
+              text: A Walk Through the History of CAD
+              type: video
         children:
             - requirement: 1
               text: |-
@@ -161,3 +216,10 @@
       opportunities and career goals associated with this career. Discuss what
       you learned with your counselor and whether you might be interested in this
       career.
+  resources:
+      - href: https://youtu.be/w9K7P383cXs
+        text: Drafter | Careers That Work
+        type: video
+      - href: https://www.indeed.com/career-advice/finding-a-job/different-types-of-drafting-jobs
+        text: 23 Different Types of Drafting Jobs (Plus Salary Information)
+        type: website
