@@ -76,7 +76,7 @@
   text: |-
       Do ONE of the following:
   children:
-      - requirement: a
+      - detail: true
         text: |-
             <b>Option A—Tandem Canoest.</b> Do ALL of the following strokes and
             techniques on calm water:
@@ -92,7 +92,7 @@
             - requirement: 3
               text: |-
                   Demonstrate a high brace, low brace, and righting pry.
-      - requirement: b
+      - detail: true
         text: |-
             <b>Option B—Solo Canoest.</b> Do ALL of the following strokes and
             techniques on calm water:
@@ -105,7 +105,7 @@
             - requirement: 2
               text: |-
                   Demonstrate a high brace, low brace, and righting pry.
-      - requirement: c
+      - detail: true
         text: |-
             <b>Option C—Solo Kayaker.</b> Do ALL of the following strokes and
             techniques on calm water:

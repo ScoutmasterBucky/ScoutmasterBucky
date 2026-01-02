@@ -20,7 +20,7 @@
       Working under the supervision of an experienced adult, do ONE of the
       following options.
   children:
-      - requirement: a
+      - detail: true
         text: |-
             <strong>Option A—Ice Skating.</strong> Do ALL of the following:
         children:
@@ -77,7 +77,7 @@
             - requirement: 14
               text: |-
                   Perform a hockey stop.
-      - requirement: b
+      - detail: true
         text: |-
             <strong>Option B—Roller Skating.</strong> Do ALL of the following:
         children:
@@ -131,7 +131,7 @@
                   While skating, dribble a basketball at least 40 feet, then back to
                   your starting position, OR push a hockey ball with a
                   stick at least 40 feed, then back to your starting position.
-      - requirement: c
+      - detail: true
         text: |-
             <strong>Option C—In-Line Skating.</strong> Do ALL of the following:
         children:
@@ -192,7 +192,7 @@
               text: |-
                   Describe two ways to get on and off a curb, and demonstrate at
                   least one of these methods.
-      - requirement: d
+      - detail: true
         text: |-
             <strong>Option D—Skateboarding.</strong> Do ALL of the following:
         children:

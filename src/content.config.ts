@@ -2,7 +2,13 @@ import { defineCollection, z } from 'astro:content';
 import { glob, file } from 'astro/loaders';
 import yaml from 'js-yaml';
 
-const ResourceSchema = z.strictObject({
+interface Resource {
+    href?: string;
+    text: string;
+    type?: string;
+}
+
+const ResourceSchema: z.ZodSchema<Resource> = z.strictObject({
     href: z.string().url().optional(),
     text: z.string(),
     type: z
@@ -19,22 +25,35 @@ const ResourceSchema = z.strictObject({
         .optional(),
 });
 
-const DetailSchema = z.strictObject({
+interface Detail {
+    children?: RequirementListItem[];
+    detail: boolean;
+    resources?: Resource[];
+    text: string;
+}
+
+const DetailSchema: z.ZodSchema<Detail> = z.strictObject({
+    children: z.lazy(() => z.array(RequirementListItemSchema).optional()),
     detail: z.boolean(),
+    resources: z.lazy(() => z.array(ResourceSchema).optional()),
     text: z.string(),
-    get resources() {
-        return z.array(ResourceSchema).optional();
-    },
 });
 
-const RequirementSchema: any = z.strictObject({
+interface Requirement {
+    children?: RequirementListItem[];
+    requirement: string | number;
+    resources?: Resource[];
+    text: string;
+}
+
+const RequirementSchema: z.ZodSchema<Requirement> = z.strictObject({
+    children: z.lazy(() => z.array(RequirementListItemSchema).optional()),
     requirement: z.union([z.string(), z.number()]),
     resources: z.array(ResourceSchema).optional(),
     text: z.string(),
-    get children() {
-        return z.array(RequirementListItemSchema).optional();
-    },
 });
+
+type RequirementListItem = Detail | Requirement;
 
 const RequirementListItemSchema = z.union([DetailSchema, RequirementSchema]);
 

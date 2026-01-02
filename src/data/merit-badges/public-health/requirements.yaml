@@ -1,15 +1,29 @@
-# Requirement 7 is split weird in the HTML
+# 7a omits ":" at the end - added it
+# 7a1 omits the Oxford comma
+# 7b should omit the word "either"
 - requirement: 1
   text: |-
-      Explain what public health is. Explain how Escherichia coli (E. coli),
-      tetanus, AIDS, encephalitis, salmonellosis, Lyme disease, and coronavirus
-      (COVID-19) are contracted. Then, pick any four of the following diseases
-      and explain how each one is contracted and possibly prevented: gonorrhea,
-      West Nile virus, botulism, influenza, syphilis, hepatitis, emphysema,
-      meningitis, herpes, lead poisoning. For all 10 diseases, explain the type
-      or form of the disease (viral, bacterial, environmental, toxin), any
-      possible vectors for transmission, ways to help prevent exposure or the
-      spread of infection, and available treatments.
+      Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain what public health is.
+      - requirement: b
+        text: |-
+            Explain how Escherichia coli (E. coli), tetanus, AIDS, encephalitis,
+            salmonellosis, Lyme disease, and coronavirus (COVID-19) are contracted.
+      - requirement: c
+        text: |-
+            Choose any four of the following diseases and explain how each one
+            is contracted and possibly prevented: gonorrhea, West Nile virus,
+            botulism, influenza, syphilis, hepatitis, emphysema, meningitis, herpes,
+            or lead poisoning.
+      - requirement: d
+        text: |-
+            For all 10 diseases from 1(c), explain the type or form of the
+            disease (viral, bacterial, environmental, toxin), any possible vectors
+            for transmission, ways to help prevent exposure or the spread of
+            infection, and available treatments.
 - requirement: 2
   text: |-
       Do the following:
@@ -97,36 +111,40 @@
             drugs.
 - requirement: 7
   text: |-
-      With your parent or guardian's and counselor's approval, do ONE of the
-      following:
+      With your parent or guardian's and counselor's approval, do the following:
   children:
       - requirement: a
         text: |-
-            Visit your city, county, or state public health agency.
+            Do ONE of the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Visit your city, county, state or federal public health agency.
+            - requirement: 2
+              text: |-
+                  Familiarize yourself with your city, county, state, or a federal health
+                  agency's website.
       - requirement: b
         text: |-
-            Familiarize yourself with your city, county, state, or a federal health
-            agency's website.
-      - detail: true
-        text: |-
-            After completing either 7(a) or 7(b), do the following:
-      - requirement: i
-        text: |-
-            Compare the four leading causes of mortality (death) in your community
-            for any of the past five years with the four leading causes of disease
-            in your community. Explain how the public health agency you visited is
-            trying to reduce the mortality and morbidity rates of these leading
-            causes of illness and death.
-      - requirement: ii
-        text: |-
-            Explain the role of your health agency as it relates to the outbreak of
-            diseases.
-      - requirement: iii
-        text: |-
-            Discuss the kinds of public assistance the agency is able to provide in
-            case of disasters such as floods, storms, tornadoes, earthquakes, and
-            other acts of destruction. Your discussion can include the cleanup
-            necessary after the disaster.
+            After completing either 7(a), do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Compare the four leading causes of mortality (death) in your community
+                  for any of the past five years with the four leading causes of disease
+                  in your community. Explain how the public health agency you visited is
+                  trying to reduce the mortality and morbidity rates of these leading
+                  causes of illness and death.
+            - requirement: 2
+              text: |-
+                  Explain the role of your health agency as it relates to the outbreak of
+                  diseases.
+            - requirement: 3
+              text: |-
+                  Discuss the kinds of public assistance the agency is able to provide in
+                  case of disasters such as floods, storms, tornadoes, earthquakes, and
+                  other acts of destruction. Your discussion can include the cleanup
+                  necessary after the disaster.
 - requirement: 8
   text: |-
       Pick a profession in the public health sector that interests you. Find out

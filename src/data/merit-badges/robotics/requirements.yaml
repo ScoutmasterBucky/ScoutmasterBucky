@@ -1,3 +1,4 @@
+# Requirement 7 now omits "Careers." heading. Added it back in
 - requirement: 1
   text: |-
       <b>Safety.</b> Do the following:
@@ -163,14 +164,29 @@
             the participants, and how many teams are involved.
 - requirement: 7
   text: |-
-      <b>Careers.</b> Name three career opportunities in robotics. Pick one and
-      find out the education, training, and experience required for this
-      profession. Discuss this with your counselor, and explain why this
-      profession might interest you.
-  resources:
-      - href: https://youtu.be/0dwkGhRPQW4
-        text: Learn about the careers of robotics technicians
-        type: video
-      - href: https://youtu.be/5YTYFrrSdV4
-        text: Careers in Robotics
-        type: video
+      <b>Careers.</b> Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            Identify three career opportunities that would use skills and
+            knowledge in Robotics. Pick one and research the training, education,
+            certification requirements, experience, and expenses associated with
+            entering the field. Research the prospects for employment, starting
+            salary, advancement opportunities and career goals associated with this
+            career. Discuss what you learned with your counselor and whether you
+            might be interested in this career.
+        resources:
+            - href: https://youtu.be/0dwkGhRPQW4
+              text: Learn about the careers of robotics technicians
+              type: video
+            - href: https://youtu.be/5YTYFrrSdV4
+              text: Careers in Robotics
+              type: video
+      - requirement: b
+        text: |-
+            Identify how you might use the skills and knowledge in Robotics to
+            pursue a personal hobby. Research the additional training required,
+            expenses, and affiliation with organizations that would help you
+            maximize the enjoyment and benefit you might gain from it. Discuss what
+            you learned with your counselor and share what short-term and long-term
+            goals you might have if you pursued this.

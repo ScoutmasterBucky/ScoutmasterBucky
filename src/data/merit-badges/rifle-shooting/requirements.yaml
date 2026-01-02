@@ -57,56 +57,56 @@
       Working under the supervision of a certified National Rifle Association
       (NRA) Rifle instructor and a certified range safety officer, at a
       nationally authorized camp property or at a commercial firearm range (as
-      defined in the Scouting America National Range and Target Activities
-      Manual), do ONE of the following options:
+      defined in the <i>Scouting America National Range and Target Activities
+      Manual</i>), do ONE of the following options:
   children:
-      - requirement: A
+      - detail: true
         text: |-
             <strong>Option A—Rifle Shooting (Modern Cartridge Type).</strong>
-            Do the following:
+            Do ALL of the following:
         children:
-            - requirement: a
+            - requirement: 1
               text: |-
                   Identify the three main parts of a rifle, and tell how they
-            - requirement: b
+            - requirement: 2
               text: |-
                   Identify and demonstrate the rules for safely storing and handling
                   a rifle.
-            - requirement: c
+            - requirement: 3
               text: |-
                   Identify the two types of cartridges, their parts, and how they
                   function.
-            - requirement: d
+            - requirement: 4
               text: |-
                   Explain to your counselor what a misfire, hangfire, and squib fire
                   are, and explain the procedures to follow in response to each.
-            - requirement: e
+            - requirement: 5
               text: |-
                   Explain and demonstrate the five fundamentals of shooting a rifle:
                   aiming, breath control, hold control, trigger control, and
                   follow-through.
-            - requirement: f
+            - requirement: 6
               text: |-
                   Demonstrate the knowledge, skills, and attitude necessary to safely
                   shoot a rifle on a range, including understanding and following
                   range procedures and commands.
-            - requirement: g
+            - requirement: 7
               text: |-
                   Explain the basic safety rules for cleaning a rifle, and identify
                   the materials needed.
-            - requirement: h
+            - requirement: 8
               text: |-
                   Demonstrate how to clean a rifle properly and safely.
-            - requirement: i
+            - requirement: 9
               text: |-
                   Discuss what points you would consider in selecting a rifle.
-            - requirement: j
+            - requirement: 10
               text: |-
                   Using a bolt-action .22 caliber rimfire rifle, and shooting from a
                   benchrest or supported prone position at 50 feet, fire five groups
                   (three shots per group) that can be touched by a quarter. Using
                   these targets, explain how to adjust sights to zero a rifle.
-            - requirement: k
+            - requirement: 11
               text: |-
                   Adjust sights to center the group on the target and fire five
                   groups (five shots per group). In the event that your instructor
@@ -117,49 +117,52 @@
                   According to the target used, each shot in the group must meet the
                   following minimum score: A-32 targets: 9; A-17 or TQ-1 targets: 7;
                   A-36 targets: 5.
-      - requirement: B
+                  <div class="gap"></div>
+                  <b>Note:</b>
+                  Other suitable NRA targets may be used based on availability.
+      - detail: true
         text: |-
             <strong>Option B—Air Rifle Shooting (BB or Pellet).</strong>
-            Do the following:
+            Do ALL of the following:
         children:
-            - requirement: a
+            - requirement: 1
               text: |-
                   Identify the three main parts of an air rifle, and explain how they
                   function.
-            - requirement: b
+            - requirement: 2
               text: |-
                   Identify and demonstrate the rules for safely storing and handling
                   an air rifle.
-            - requirement: c
+            - requirement: 3
               text: |-
                   Identify the two most common types of air rifle ammunition.
-            - requirement: d
+            - requirement: 4
               text: |-
                   Explain and demonstrate the five fundamentals of shooting an air
                   rifle: aiming, breath control, hold control, trigger control, and
                   follow-through.
-            - requirement: e
+            - requirement: 5
               text: |-
                   Demonstrate the knowledge, skills, and attitude necessary to safely
                   shoot on a range, including understanding and following range
                   procedures and commands.
-            - requirement: f
+            - requirement: 6
               text: |-
                   Explain the basic safety rules for cleaning an air rifle, and
                   identify the materials needed.
-            - requirement: g
+            - requirement: 7
               text: |-
                   Demonstrate how to clean an air rifle properly and safely.
-            - requirement: h
+            - requirement: 8
               text: |-
                   Discuss what points you would consider in selecting an air rifle.
-            - requirement: i
+            - requirement: 9
               text: |-
                   Using a BB gun or pellet rifle and shooting from a benchrest or
                   supported prone position at 15 feet for BB guns or 33 feet for
                   pellet rifles, fire five groups (three shots per group) that can be
                   touched by a quarter.
-            - requirement: j
+            - requirement: 10
               text: |-
                   Adjust sights to center the group on the target and fire five
                   groups (five shots per group). In the event that your instructor
@@ -171,66 +174,69 @@
                   following minimum score: BB rifle at 15 feet (or 5 meters) using
                   TQ-5 targets: 8; Pellet rifle at 25 feet using TQ-5 targets: 8;
                   Pellet rifle at 33 feet (or 10 meters) using AR-1 targets: 6.
-      - requirement: C
+                  <div class="gap"></div>
+                  <b>Note:</b> Other suitable NRA targes may be
+                  used based on availability.
+      - detail: true
         text: |-
             <strong>Option C—Muzzleloading Rifle Shooting.</strong>
-            Do the following:
+            Do ALL of the following:
         children:
-            - requirement: a
+            - requirement: 1
               text: |-
                   Discuss with your counselor a brief history of the development of
                   muzzleloading rifles.
-            - requirement: b
+            - requirement: 2
               text: |-
                   Identify principal parts of muzzleloading rifles and discuss how
                   they function.
-            - requirement: c
+            - requirement: 3
               text: |-
                   Identify and demonstrate the rules for safely storing and handling
                   a muzzleloading rifle.
-            - requirement: d
+            - requirement: 4
               text: |-
                   Identify the various grades of black powder and explain their
                   proper and safe use.
-            - requirement: e
+            - requirement: 5
               text: |-
                   Discuss proper safety procedures pertaining to black powder storage.
-            - requirement: f
+            - requirement: 6
               text: |-
                   Discuss proper components of a load.
-            - requirement: g
+            - requirement: 7
               text: |-
                   Identify proper procedures and accessories used for safely loading
                   a muzzleloading rifle.
-            - requirement: h
+            - requirement: 8
               text: |-
                   Identify the causes of a muzzleloading rifle's failure to fire, and
                   explain what a misfire, hangfire, and squib fire are. Explain and
                   demonstrate proper preventive measures, and the procedures to
                   follow in response to each.
-            - requirement: i
+            - requirement: 9
               text: |-
                   Demonstrate the knowledge, skills, and attitude necessary to safely
                   shoot a muzzleloading rifle on a range, including understanding and
                   following range procedures and commands.
-            - requirement: j
+            - requirement: 10
               text: |-
                   Explain the basic safety rules for cleaning a muzzleloading rifle,
                   and identify the materials needed.
-            - requirement: k
+            - requirement: 11
               text: |-
                   Demonstrate how to clean a muzzleloading rifle properly and safely.
-            - requirement: l
+            - requirement: 12
               text: |-
                   Discuss what points you would consider in selecting a muzzleloading
                   rifle.
-            - requirement: m
+            - requirement: 13
               text: |-
                   Using a muzzleloading rifle of .45 or .50 caliber and shooting from
                   a benchrest or supported prone position, fire three groups (three
                   shots per group) at 50 feet that can be covered by the base of a
                   standard-size soft drink can.
-            - requirement: n
+            - requirement: 14
               text: |-
                   Adjust the sights to center the group on the target and fire three
                   groups (five shots per group). In the event that your instructor
@@ -242,6 +248,9 @@
                   used, each shot in the group must meet the following minimum score:
                   at 25 yards using NRA A-23 or NMLRA 50-yard targets: 7; at 50 yards
                   using NRA A-25 or NMLRA 100-yard targets: 7.
+                  <div class="gap"></div>
+                  <b>Note:</b> Other suitable NRA targets may be used based on
+                  availability.
 - requirement: 3
   text: |-
       Identify how you could apply the skills and knowledge of safe and

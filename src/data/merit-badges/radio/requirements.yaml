@@ -1,28 +1,62 @@
 - requirement: 1
   text: |-
-      Explain what radio is. Then discuss the following:
+      <b>Radio Safety.</b> Explain the safety precautions for working with radio
+      gear, including:
   children:
       - requirement: a
         text: |-
-            The differences between broadcast radio and hobby radio
+            Grounding for direct and alternating current circuits, power
+            outlets, antennas, and lightning.
       - requirement: b
         text: |-
-            The differences between broadcasting and two-way communications
+            Preventing and treating electrical burns
       - requirement: c
         text: |-
-            Radio station call signs and how they are used in broadcast radio and
-            amateur radio
-      - requirement: d
-        text: |-
-            The phonetic alphabet and how it is used to communicate clearly.
+            Preventing lithium-ion battery fires in cell phones and other
+            devices.
 - requirement: 2
   text: |-
-      Do the following:
+      <b>Radio Fundamentals.</b> Do the following:
   children:
       - requirement: a
         text: |-
-            Sketch a diagram showing how radio waves travel locally and around the
-            world.
+            Do the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Draw a chart of the electromagnetic spectrum covering 300 kilohertz
+                  (kHz) to 3,000 Megahertz (MHz).
+            - requirement: 2
+              text: |-
+                  Label the MF, HF, VHF, UHF, and microwave portions of the spectrum
+                  on your diagram.
+            - requirement: 3
+              text: |-
+                  Locate on your chart at least eight radio services, such as AM and
+                  FM commercial broadcast, citizens band (CB), television, amateur radio
+                  (at least four amateur radio bands), public service (police and fire),
+                  cellular, Wi-Fi, and Bluetooth.
+      - requirement: b
+        text: |-
+            Discuss the following topics with your counselor:
+        children:
+            - requirement: 1
+              text: |-
+                  The definition of radio
+            - requirement: 2
+              text: |-
+                  The differences between broadcast radio and two-way radio
+            - requirement: 3
+              text: |-
+                  The differences between commercial broadcast radio and hobby radio.
+- requirement: 3
+  text: |-
+      <b>How Radio Waves Travel.</b> Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Sketch a diagram showing how different radio wavelengths can travel
+            locally or around the world.
       - requirement: b
         text: |-
             Explain how the radio stations WWV and WWVH can be used to help
@@ -31,34 +65,31 @@
       - requirement: c
         text: |-
             Explain the difference between a distant (DX) and a local station.
-      - requirement: d
-        text: |-
-            Discuss what the Federal Communications Commission (FCC) does and how
-            it is different from the International Telecommunication Union.
-- requirement: 3
+- requirement: 4
   text: |-
-      Do the following:
+      <b>Information by Radio.</b> Discuss the following with your counselor:
   children:
       - requirement: a
         text: |-
-            Draw a chart of the electromagnetic spectrum covering 300 kilohertz
-            (kHz) to 3,000 Megahertz (MHz).
+            How radio waves carry information using continuous wave (CW) Morse
+            Code transmission, amplitude modulation (AM), frequency modulation (FM),
+            single sideband (SSB) transmission, and frequency hopping.
       - requirement: b
         text: |-
-            Label the MF, HF, VHF, UHF, and microwave portions of the spectrum on
-            your diagram.
+            How digitized radio standards including Bluetooth, Wi-Fi, and 5G can
+            offer more reliable data transmission and reception than analog
+            standards.
       - requirement: c
         text: |-
-            Locate on your chart at least eight radio services, such as AM and FM
-            commercial broadcast, citizens band (CB), television, amateur radio (at
-            least four amateur radio bands), and public service (police and fire).
-- requirement: 4
-  text: |-
-      Explain how radio waves carry information. Include in your explanation:
-      transceiver, transmitter, receiver, amplifier, and antenna.
+            How the effective range varies for different methods of information
+            encoding.
+      - requirement: d
+        text: |-
+            How the maximum data rate from a Wi-Fi radio system compares to a
+            hard-wired or fiber-optic system.
 - requirement: 5
   text: |-
-      Do the following:
+      <b>Radio Hardware and Services.</b> Do the following:
   children:
       - requirement: a
         text: |-
@@ -66,92 +97,105 @@
             diagram.
       - requirement: b
         text: |-
-            Draw a block diagram for a radio station that includes a transceiver,
-            amplifier, microphone, antenna, and feed line.
+            Draw a block diagram for a radio station that shows a microphone,
+            speaker, transceiver, transmitter, receiver, amplifier, feedline, and
+            antenna and discuss the function of these components.
       - requirement: c
         text: |-
-            Discuss how information is sent when using amplitude modulation (AM),
-            frequency modulation (FM), continuous wave (CW) Morse Code
-            transmission, single sideband (SSB) transmission, and digital
-            transmission.
+            List consumer devices and services that use analog or digital radio
+            communications.
       - requirement: d
         text: |-
             Explain how NOAA Weather Radio (NWR) can alert you to danger.
       - requirement: e
         text: |-
-            Explain how cellular telephones work. Identify their benefits and
-            limitations in an emergency.
+            Explain how RFID works and what are some of its uses in everyday
+            life.
 - requirement: 6
   text: |-
-      Explain the safety precautions for working with radio gear, including the
-      concept of grounding for direct current circuits, power outlets, and
-      antenna systems.
-- requirement: 7
-  text: |-
-      Visit a radio installation (an amateur radio station, broadcast station, or
-      public service communications center, for example) approved in advance by
-      your counselor. Discuss what types of equipment you saw in use, how it was
-      used, what types of licenses are required to operate and maintain the
-      equipment, and the purpose of the station.
-- requirement: 8
-  text: |-
-      Find out about three career opportunities in radio. Pick one and find out
-      the education, training, and experience required for this profession.
-      Discuss this with your counselor, and explain why this profession might
-      interest you.
-- requirement: 9
-  text: |-
-      Do ONE of the following options:
+      <b>Radio Regulation.</b> Discuss the following with your counselor:
   children:
       - requirement: a
         text: |-
-            <strong>Option A—Amateur Radio.</strong> Do the following:
+            What the Federal Communications Commission (FCC) does and how it is
+            different from the International Telecommunication Union (ITU).
+      - requirement: b
+        text: |-
+            How radio station call signs are used in broadcast radio and amateur
+            radio.
+      - requirement: c
+        text: |-
+            How the phonetic alphabet is used to communicate clearly.
+- requirement: 7
+  text: |-
+      <b>Cell Phones</b> Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain how cellular systems differ from broadcast and hobby radio.
+      - requirement: b
+        text: |-
+            Explain what Airplane Mode is and why it is important.
+      - requirement: c
+        text: |-
+            Explain how cell phones keep the correct time and show locations and
+            elevations.
+      - requirement: d
+        text: |-
+            Explain the benefits and limitations of cell phones in emergencies.
+      - requirement: e
+        text: |-
+            Explain wireless charging for cell phones and other devices.
+- requirement: 8
+  text: |-
+      <b>Amateur and Professional Radio.</b> Do ONE of the following options:
+  children:
+      - detail: true
+        text: |-
+            <b>Option A—Amateur Radio.</b> Do ALL of the following:
         children:
             - requirement: 1
               text: |-
                   Tell why the FCC has an amateur radio service. Describe activities
-                  that amateur radio operators can do on the air, once they have
-                  earned an amateur radio license.
+                  that amateur radio operators can do on the air, once they have earned an
+                  amateur radio license.
             - requirement: 2
               text: |-
-                  Explain differences between the Technician, General, and Extra
-                  Class license requirements and privileges. Explain who administers
-                  amateur radio exams.
+                  Explain differences between the Technician, General, and Extra Class
+                  license requirements and privileges. Explain who administers amateur
+                  radio exams.
             - requirement: 3
               text: |-
                   Explain at least five Q signals or amateur radio terms.
             - requirement: 4
               text: |-
-                  Explain how you would make an emergency call on voice or Morse
-                  code.
+                  Explain how you would make an emergency call on voice or Morse code.
             - requirement: 5
               text: |-
                   Explain the differences between handheld, mobile, and base station
-                  transceivers and their uses. Explain the use of amateur radio
-                  repeaters.
+                  transceivers and their uses. Explain the use of amateur radio repeaters.
             - requirement: 6
               text: |-
                   Using proper call signs, Q signals, and abbreviations, carry on a
-                  10-minute real or simulated amateur radio contact using voice,
-                  Morse code, or digital mode. (Licensed amateur radio operators may
-                  substitute five QSL cards as evidence of contacts with five amateur
-                  radio operators. Properly log the real or simulated ham radio
-                  contact, and record the signal report.)
-      - requirement: b
+                  10-minute real or simulated amateur radio contact using voice, Morse
+                  code, or digital mode. Properly log the real or simulated amateur radio
+                  contact, and record the signal report. <br /><b>Note: </b>Licensed
+                  amateur radio operators may substitute five QSL cards as evidence of
+                  contacts with five amateur radio operators.
+      - detail: true
         text: |-
-            <strong>Option B—Radio Broadcasting.</strong> Do the following:
+            <b>Option B—Radio Broadcasting.</b> Do ALL of the following:
         children:
             - requirement: 1
               text: |-
-                  Discuss with your counselor FCC broadcast regulations. Include
-                  power levels, frequencies, and the regulations for low-power
-                  stations.
+                  Discuss with your counselor FCC broadcast regulations. Include power
+                  levels, frequencies, and the regulations for low-power stations.
             - requirement: 2
               text: |-
                   Prepare a program schedule for radio station "KBSA" of exactly
-                  one-half hour, including music, news, commercials, and proper
-                  station identification. Record your program on audiotape or in a
-                  digital audio format, using proper techniques.
+                  one-half hour, including music, news, commercials, and proper station
+                  identification. Record your program on audiotape or in a digital audio
+                  format, using proper techniques.
             - requirement: 3
               text: |-
                   Listen to and properly log 15 broadcast stations. Determine the
@@ -159,47 +203,44 @@
             - requirement: 4
               text: |-
                   Explain to your counselor at least eight terms used in commercial
-                  broadcasting, such as segue, cut, fade, continuity, remote,
-                  Emergency Alert System, network, cue, dead air, PSA, and playlist.
+                  broadcasting, such as segue, cut, fade, continuity, remote, Emergency
+                  Alert System, network, cue, dead air, PSA, and playlist.
             - requirement: 5
               text: |-
                   Discuss with your counselor alternative radio platforms such as
                   internet streaming, satellite radio, and podcasts.
-      - requirement: c
+      - detail: true
         text: |-
-            <strong>Option C—Shortwave and Medium-Wave Listening.</strong> Do the
+            <b>Option C—Shortwave and Medium-Wave Listening.</b> Do ALL of the
             following:
         children:
             - requirement: 1
               text: |-
                   Listen across several shortwave bands for four one-hour periods-at
-                  least one period during daylight hours and at least one period at
-                  night. Log the stations properly and locate them geographically on
-                  a map, globe, or web-based mapping service.
+                  least one period during daylight hours and at least one period at night.
+                  Log the stations properly and locate them geographically on a map,
+                  globe, or web-based mapping service.
             - requirement: 2
               text: |-
-                  Listen to several medium-wave stations for two one-hour periods,
-                  one period during daylight hours and one period at night. Log the
-                  stations properly and locate them on a map, globe, or web-based
-                  mapping service.
+                  Listen to several medium-wave stations for two one-hour periods, one
+                  period during daylight hours and one period at night. Log the stations
+                  properly and locate them on a map, globe, or web-based mapping service.
             - requirement: 3
               text: |-
                   Compare your daytime and nighttime logs; note the frequencies on
-                  which your selected stations were loudest during each session.
-                  Explain differences in the signal strength from one period to the
-                  next.
+                  which your selected stations were loudest during each session. Explain
+                  differences in the signal strength from one period to the next.
             - requirement: 4
               text: |-
-                  Compare your medium-wave broadcast station logs and explain why
-                  some distant stations are heard at your location only during the
-                  night.
+                  Compare your medium-wave broadcast station logs and explain why some
+                  distant stations are heard at your location only during the night.
             - requirement: 5
               text: |-
                   Demonstrate listening to a radio broadcast using a smartphone/cell
                   phone. Include international broadcasts in your demonstration.
-      - requirement: d
+      - detail: true
         text: |-
-            <strong>Option D—Amateur Radio Direction Finding.</strong> Do the
+            <b>Option D—Amateur Radio Direction Finding.</b> Do ALL of the
             following:
         children:
             - requirement: 1
@@ -212,8 +253,8 @@
                   hunting.
             - requirement: 3
               text: |-
-                  Build a simple directional antenna for either of the two
-                  frequencies used in ARDF.
+                  Build a simple directional antenna for either of the two frequencies
+                  used in ARDF.
             - requirement: 4
               text: |-
                   Participate in a simple fox hunt using your antenna along with a
@@ -221,3 +262,68 @@
             - requirement: 5
               text: |-
                   Show, on a map, how you located the "fox" using your receiver.
+      - detail: true
+        text: |-
+            <b
+              >Option E—Family Radio Service (FRS) &amp; General Mobile Radio
+              Service (GMRS) Walkie Talkies. </b
+            >Do ALL of the following:
+        children:
+            - requirement: 1
+              text: |-
+                  Explain what the Family Radio Service (FRS) and General Mobile Radio
+                  Service (GMRS) are and how they are different from each other, from
+                  other commercial two-way radios, and from Citizens Band (CB) &amp;
+                  Amateur Radio (HAM).
+            - requirement: 2
+              text: |-
+                  Explain each of the following for using a FRS radio or GMRS walkie
+                  talkie:
+              children:
+                  - requirement: a
+                    text: |-
+                        Is any type of license needed to use these radios? If so: what kind?
+                  - requirement: b
+                    text: |-
+                        What radio frequencies are used and how is information encoded?
+                  - requirement: c
+                    text: |-
+                        How much power can be used when transmitting?
+                  - requirement: d
+                    text: |-
+                        What type of antenna can be used?
+                  - requirement: e
+                    text: |-
+                        What is the effective range and what limits it?
+                  - requirement: f
+                    text: |-
+                        What are common everyday uses for these radios?
+                  - requirement: g
+                    text: |-
+                        How can these radios be useful in an emergency?
+            - requirement: 3
+              text: |-
+                  Use the FRS radios or GMRS walkie talkies with family, friends, or
+                  Scouts on a hike, at an event, or in a team game. Discuss what you
+                  learned with your counselor.
+- requirement: 9
+  text: |-
+      <b>Careers.</b> Do ONE of the following.
+  children:
+      - requirement: a
+        text: |-
+            Explore careers related to radio. Research one career to learn about
+            the training and education needed, costs, job prospects, salary, job
+            duties, and advancement. With permission of your parent or guardian,
+            your research methods may include an internet or library search, an
+            interview with a professional in the field, or a visit to a location
+            where people in this career work or train. Discuss your findings and
+            career interest with your counselor.
+      - requirement: b
+        text: |-
+            Explore how you could use radio knowledge and skills to develop a
+            hobby or to serve as a volunteer. If possible, with permission of your
+            parent or guardian, interview a radio hobbyist or volunteer. Research
+            training and licensing needed, expenses, and organizations that promote
+            or support your objectives. Discuss with your counselor what short-term
+            and long-term goals you might have if you pursue this.

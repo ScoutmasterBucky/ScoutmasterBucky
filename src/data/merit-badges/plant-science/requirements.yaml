@@ -1,4 +1,6 @@
 # Resource for 2 title is incomplete, omitting everything after the colon in "Photosynthesis and Cellular Respiration: Crash Course Botany #5"
+# Various numbering of options is weird. Typically it says "a" or "1" but you'll see "5(a)" as the numbering style sometimes here.
+# Requirement 9 is missing a period after "9"
 - requirement: 1
   text: |-
       Make a drawing and identify five or more parts of a flowering plant. Tell
@@ -87,236 +89,264 @@
         type: video
 - requirement: 7
   text: |-
-      Name and tell about careers in agronomy, horticulture, and botany. Write a
-      paragraph about a career in one of these fields that interests you.
-  resources:
-      - href: https://youtu.be/sbyuwd1nDVo
-        text: A Day in the LIFE of an AGRONOMIST
-        type: video
-      - href: https://youtu.be/d1HGz04SA9U
-        text: '10 Botany Jobs: Environmental Conservation Botany Jobs and Environmental Internships'
-        type: video
-      - href: https://youtu.be/d1HGz04SA9U
-        text: What's the Difference Between Horticulture and Agronomy
-        type: video
+      Do ONE of the following:
+  children:
+      - requirement: a
+        text: |-
+            Explore careers related to this merit badge. Research one career to
+            learn about the training and education needed, costs, job prospects,
+            salary, job duties, and career advancement. Your research methods may
+            include—with your parent or guardian's permission—an internet or library
+            search, an interview with a professional in the field, or a visit to a
+            location where people in this career work. Discuss with your counselor
+            both your findings and what about this profession might make it an
+            interesting career.
+        resources:
+            - href: https://youtu.be/sbyuwd1nDVo
+              text: A Day in the LIFE of an AGRONOMIST
+              type: video
+            - href: https://youtu.be/d1HGz04SA9U
+              text: '10 Botany Jobs: Environmental Conservation Botany Jobs and Environmental Internships'
+              type: video
+            - href: https://youtu.be/d1HGz04SA9U
+              text: What's the Difference Between Horticulture and Agronomy
+              type: video
+      - requirement: b
+        text: |-
+            Explore how you could use knowledge and skills from this merit badge
+            to pursue a hobby or healthy lifestyle. Research any training needed,
+            expenses, and organizations that promote or support it. Discuss with
+            your counselor what short-term and long-term goals you might have if you
+            pursued this.
+        resources:
+            - href: https://youtu.be/ZuQ6SvmYjtw
+              text: Fairy Gardens
+              type: video
+            - href: https://youtu.be/ztx0fMF2rAA
+              text: Bonzai Tree Hobby
+              type: video
+            - href: https://youtu.be/DUM3o2b7NUA
+              text: Common Reasons for Keeping Honey Bees
+              type: video
 - requirement: 8
   text: |-
       Choose ONE of the following options and complete each requirement:
   children:
       - detail: true
         text: |-
-            <strong>Option 1—Agronomy</strong>
-      - requirement: A
-        text: |-
-            Describe how to prepare a seedbed.
-        resources:
-            - href: https://youtu.be/YYbzM7halC0
-              text: How To Prepare Your Seedbed For Spring Planting
-              type: video
-            - href: https://www.growveg.com/guides/plan-your-best-garden-ever-testing-soil-and-seeds/
-              text: 'Plan Your Best Garden Ever: Testing Soil and Seeds'
-              type: website
-      - requirement: B
-        text: |-
-            Make and use a seed germination tester to test 50 seeds of four of the
-            following plants: corn, cotton, alfalfa, soybeans, clover, wheat, rice,
-            rye, barley. Determine the percentage of live seeds.
-        resources:
-            - href: https://youtu.be/MOphmTH-WIA
-              text: How to Do Seed Germination Test
-              type: video
-      - requirement: C
-        text: |-
-            Explain one important insect pest and one important disease that damage
-            each of the following: corn, small grains, and cotton. Collect and name
-            five weeds that compete with crops in your locality. Tell how to
-            control these weeds without harming people, wildlife, or useful
-            insects.
-        resources:
-            - href: https://youtu.be/lpIsRU63qIE
-              text: Different Types of Diseases in Corn
-              type: video
-            - href: https://youtu.be/Yt_Z3SJmw3c
-              text: Major Pest of Cotton
-              type: video
-      - requirement: D
-        text: |-
-            On a map of the United States, identify the chief regions where corn,
-            cotton, forage crops, small grain crops, and oil crops grow. Tell how
-            the climate and location of these regions make them leaders in the
-            production of these crops.
-        resources:
-            - href: https://youtu.be/AHx27-1Qjxw
-              text: Major Crops of United States
-              type: video
-            - href: https://youtu.be/ulHKu0l0xds
-              text: Major Agricultural Crops in United States
-              type: video
-            - href: https://www.nass.usda.gov/Charts_and_Maps/Field_Crops/index.php
-              text: USDA - National Agricultural Statistics Service - Charts and Maps - Field Crops
-              type: website
-      - requirement: E
-        text: |-
-            Complete ONE of the following alternatives:
+            <strong>Option A—Agronomy.</strong> Do ALL of the following:
         children:
             - requirement: 1
               text: |-
-                  Corn
-              children:
-                  - requirement: a
-                    text: |-
-                        Grow a plot of corn and have your plot inspected by your
-                        counselor. Record seed variety or experimental code number.
-                    resources:
-                        - href: https://youtu.be/R9pxFgJwxFE
-                          text: The Incredible Logistics Behind Corn Farming
-                          type: video
-                  - requirement: b
-                    text: |-
-                        Tell about modern methods of commercial corn farming and the
-                        contributions that corn makes to today's food and fuel supply.
-                  - requirement: c
-                    text: |-
-                        Tell about an insect that can damage corn, and explain how it
-                        affects corn production and how it is controlled.
-                    resources:
-                        - href: https://youtu.be/lpIsRU63qIE
-                          text: Different Types of Diseases in Corn
-                          type: video
+                  Describe how to prepare a seedbed.
+              resources:
+                  - href: https://youtu.be/YYbzM7halC0
+                    text: How To Prepare Your Seedbed For Spring Planting
+                    type: video
+                  - href: https://www.growveg.com/guides/plan-your-best-garden-ever-testing-soil-and-seeds/
+                    text: 'Plan Your Best Garden Ever: Testing Soil and Seeds'
+                    type: website
             - requirement: 2
               text: |-
-                  Cotton
-              children:
-                  - requirement: a
-                    text: |-
-                        Grow a plot of cotton and have your plot inspected by your
-                        counselor.
-                  - requirement: b
-                    text: |-
-                        Tell about modern methods of commercial cotton farming, and
-                        about the uses of cotton fiber and seed and the economic value
-                        of this crop.
-                    resources:
-                        - href: https://youtu.be/ODLRz9H_FLU
-                          text: How American Farmers Produce 14.68 Million Bales Of Cotton - American Farming
-                          type: video
-                  - requirement: c
-                    text: |-
-                        Tell about an insect that can damage cotton, and explain how it
-                        affects cotton production and how it is controlled.
-                    resources:
-                        - href: https://youtu.be/Yt_Z3SJmw3c
-                          text: Major Pest of Cotton
-                          type: video
-                        - href: https://youtu.be/B0ApDCtkdQk
-                          text: 'Insect Lockdown Pest Profiles: The Cotton Fleahopper'
-                          type: video
+                  Make and use a seed germination tester to test 50 seeds of four of the
+                  following plants: corn, cotton, alfalfa, soybeans, clover, wheat, rice,
+                  rye, or barley. Determine the percentage of live seeds.
+              resources:
+                  - href: https://youtu.be/MOphmTH-WIA
+                    text: How to Do Seed Germination Test
+                    type: video
             - requirement: 3
               text: |-
-                  Forage Crops
-              children:
-                  - requirement: a
-                    text: |-
-                        Collect, count, and label samples of each for display:
-                        perennial grasses, annual grasses, legumes, and broadleaf
-                        weeds. Indicate how each grass and legume is used. Keep a log
-                        of the site where you found each sample and share it with your
-                        counselor.
-                  - requirement: b
-                    text: |-
-                        Explain how legumes can be used to enrich the soil and how they
-                        may deplete it under certain conditions. Explain how livestock
-                        may enrich or deplete the soil.
-                    resources:
-                        - href: https://youtu.be/fUJXV-lHDKk
-                          text: Importance of Legumes
-                          type: video
-                        - href: https://youtu.be/0yRYdvEzXag
-                          text: 'The Science of Soil Health: Understanding the Value of Legumes and Nitrogen-Fixing Microbes'
-                          type: video
-                  - requirement: c
-                    text: |-
-                        Name five poisonous plants that are dangerous to livestock, and
-                        tell the different ways of using forage crops as feed for
-                        livestock.
-                    resources:
-                        - href: https://youtu.be/vwrNGUx0TJ4
-                          text: Local Veterinarian Explains What Plants Are Toxic to Large Animals
-                          type: video
+                  Explain one important insect pest and one important disease that damage
+                  each of the following: corn, small grains, and cotton. Collect and name
+                  five weeds that compete with crops in your locality. Tell how to
+                  control these weeds without harming people, wildlife, or useful
+                  insects.
+              resources:
+                  - href: https://youtu.be/lpIsRU63qIE
+                    text: Different Types of Diseases in Corn
+                    type: video
+                  - href: https://youtu.be/Yt_Z3SJmw3c
+                    text: Major Pest of Cotton
+                    type: video
             - requirement: 4
               text: |-
-                  Small Grains
-              children:
-                  - requirement: a
-                    text: |-
-                        Give production figures for small grain crops listed in the
-                        U.S. Statistical Report or Agricultural Statistics Handbook
-                        for the latest year available.
-                    resources:
-                        - href: https://www.nass.usda.gov/Charts_and_Maps/Field_Crops/index.php
-                          text: USDA - National Agricultural Statistics Service - Charts and Maps - Field Crops
-                          type: website
-                  - requirement: b
-                    text: |-
-                        Help in harvesting a crop of grain. Tell how to reduce
-                        harvesting losses and about modern methods of growing one small
-                        grain crop.
-                    resources:
-                        - href: https://youtu.be/RYn_yUUpwSQ
-                          text: Growing and Harvesting Wheat on a Small Scale
-                          type: video
-                        - href: https://youtu.be/PEgONTJko6s
-                          text: Reducing Soybean Harvest Losses | Michigan Soybean | Harvest Demonstration Video
-                          type: video
-                  - requirement: c
-                    text: |-
-                        Visit a grain elevator, flour mill, cereal plant, feed or seed
-                        company. Talk with the operator. Take notes, and describe the
-                        processes used and tell your patrol, troop, or class about your
-                        visit.
-                    resources:
-                        - href: https://youtu.be/PYP6AnNQjNo
-                          text: 'The Journey: Wheat into Flour'
-                          type: video
-                        - href: https://youtu.be/ywBV6M7VOFU
-                          text: Everything About Grain Bins (Farmers are Geniuses)
-                          type: video
-                        - href: https://youtu.be/zFzQE7kKAck
-                          text: How Does a Seed Company Work?
-                          type: video
+                  On a map of the United States, identify the chief regions where corn,
+                  cotton, forage crops, small grain crops, and oil crops grow. Tell how
+                  the climate and location of these regions make them leaders in the
+                  production of these crops.
+              resources:
+                  - href: https://youtu.be/AHx27-1Qjxw
+                    text: Major Crops of United States
+                    type: video
+                  - href: https://youtu.be/ulHKu0l0xds
+                    text: Major Agricultural Crops in United States
+                    type: video
+                  - href: https://www.nass.usda.gov/Charts_and_Maps/Field_Crops/index.php
+                    text: USDA - National Agricultural Statistics Service - Charts and Maps - Field Crops
+                    type: website
             - requirement: 5
               text: |-
-                  Oil Crops
+                  Do ALL of the requirements in ONE of the following alternatives:
               children:
                   - requirement: a
                     text: |-
-                        Grow a plot of soybeans and have your plot inspected by your
-                        counselor.
-                    resources:
-                        - href: https://youtu.be/1olmtb3MpME
-                          text: How to Produce Millions Of Tons Of Soybeans | Modern Agricultural Technology | Soy milk Processing
-                          type: video
+                        <b>Corn</b>
+                    children:
+                        - requirement: 1
+                          text: |-
+                              Grow a plot of corn and have your plot inspected by your
+                              counselor. Record seed variety or experimental code number.
+                          resources:
+                              - href: https://youtu.be/R9pxFgJwxFE
+                                text: The Incredible Logistics Behind Corn Farming
+                                type: video
+                        - requirement: 2
+                          text: |-
+                              Tell about modern methods of commercial corn farming and the
+                              contributions that corn makes to today's food and fuel supply.
+                        - requirement: 3
+                          text: |-
+                              Tell about an insect that can damage corn, and explain how it
+                              affects corn production and how it is controlled.
+                          resources:
+                              - href: https://youtu.be/lpIsRU63qIE
+                                text: Different Types of Diseases in Corn
+                                type: video
                   - requirement: b
                     text: |-
-                        Tell about modern methods of growing soybeans on a commercial
-                        scale, and discuss the contributions soybeans make to our food
-                        supply.
-                    resources:
-                        - href: https://www.ers.usda.gov/topics/crops/soybeans-and-oil-crops/oil-crops-sector-at-a-glance
-                          text: Soybeans and Oil Crops - Oil Crops Sector at a Glance | Economic Research Service
-                          type: website
+                        <b>Cotton</b>
+                    children:
+                        - requirement: 1
+                          text: |-
+                              Grow a plot of cotton and have your plot inspected by your
+                              counselor.
+                        - requirement: 2
+                          text: |-
+                              Tell about modern methods of commercial cotton farming, and
+                              about the uses of cotton fiber and seed and the economic value
+                              of this crop.
+                          resources:
+                              - href: https://youtu.be/ODLRz9H_FLU
+                                text: How American Farmers Produce 14.68 Million Bales Of Cotton - American Farming
+                                type: video
+                        - requirement: 3
+                          text: |-
+                              Tell about an insect that can damage cotton, and explain how it
+                              affects cotton production and how it is controlled.
+                          resources:
+                              - href: https://youtu.be/Yt_Z3SJmw3c
+                                text: Major Pest of Cotton
+                                type: video
+                              - href: https://youtu.be/B0ApDCtkdQk
+                                text: 'Insect Lockdown Pest Profiles: The Cotton Fleahopper'
+                                type: video
                   - requirement: c
                     text: |-
-                        Explain why a hard frost can be dangerous to soybeans just
-                        after emergence.
-                    resources:
-                        - href: https://youtu.be/x86tt8PPwiA
-                          text: 'Soybean School: Assessing the Impact of Frost'
-                          type: video
+                        <b>Forage Crops</b>
+                    children:
+                        - requirement: 1
+                          text: |-
+                              Collect, count, and label samples of each for display:
+                              perennial grasses, annual grasses, legumes, and broadleaf
+                              weeds. Indicate how each grass and legume is used. Keep a log
+                              of the site where you found each sample and share it with your
+                              counselor.
+                        - requirement: 2
+                          text: |-
+                              Explain how legumes can be used to enrich the soil and how they
+                              may deplete it under certain conditions. Explain how livestock
+                              may enrich or deplete the soil.
+                          resources:
+                              - href: https://youtu.be/fUJXV-lHDKk
+                                text: Importance of Legumes
+                                type: video
+                              - href: https://youtu.be/0yRYdvEzXag
+                                text: 'The Science of Soil Health: Understanding the Value of Legumes and Nitrogen-Fixing Microbes'
+                                type: video
+                        - requirement: 3
+                          text: |-
+                              Name five poisonous plants that are dangerous to livestock, and
+                              tell the different ways of using forage crops as feed for
+                              livestock.
+                          resources:
+                              - href: https://youtu.be/vwrNGUx0TJ4
+                                text: Local Veterinarian Explains What Plants Are Toxic to Large Animals
+                                type: video
+                  - requirement: d
+                    text: |-
+                        <b>Small Grains</b>
+                    children:
+                        - requirement: 1
+                          text: |-
+                              Give production figures for small grain crops listed in the
+                              U.S. Statistical Report or Agricultural Statistics Handbook
+                              for the latest year available.
+                          resources:
+                              - href: https://www.nass.usda.gov/Charts_and_Maps/Field_Crops/index.php
+                                text: USDA - National Agricultural Statistics Service - Charts and Maps - Field Crops
+                                type: website
+                        - requirement: 2
+                          text: |-
+                              Help in harvesting a crop of grain. Tell how to reduce
+                              harvesting losses and about modern methods of growing one small
+                              grain crop.
+                          resources:
+                              - href: https://youtu.be/RYn_yUUpwSQ
+                                text: Growing and Harvesting Wheat on a Small Scale
+                                type: video
+                              - href: https://youtu.be/PEgONTJko6s
+                                text: Reducing Soybean Harvest Losses | Michigan Soybean | Harvest Demonstration Video
+                                type: video
+                        - requirement: 3
+                          text: |-
+                              Visit a grain elevator, flour mill, cereal plant, feed or seed
+                              company. Talk with the operator. Take notes, and describe the
+                              processes used and tell your patrol, troop, or class about your
+                              visit.
+                          resources:
+                              - href: https://youtu.be/PYP6AnNQjNo
+                                text: 'The Journey: Wheat into Flour'
+                                type: video
+                              - href: https://youtu.be/ywBV6M7VOFU
+                                text: Everything About Grain Bins (Farmers are Geniuses)
+                                type: video
+                              - href: https://youtu.be/zFzQE7kKAck
+                                text: How Does a Seed Company Work?
+                                type: video
+                  - requirement: e
+                    text: |-
+                        <b>Oil Crops</b>
+                    children:
+                        - requirement: 1
+                          text: |-
+                              Grow a plot of soybeans and have your plot inspected by your
+                              counselor.
+                          resources:
+                              - href: https://youtu.be/1olmtb3MpME
+                                text: How to Produce Millions Of Tons Of Soybeans | Modern Agricultural Technology | Soy milk Processing
+                                type: video
+                        - requirement: 2
+                          text: |-
+                              Tell about modern methods of growing soybeans on a commercial
+                              scale, and discuss the contributions soybeans make to our food
+                              supply.
+                          resources:
+                              - href: https://www.ers.usda.gov/topics/crops/soybeans-and-oil-crops/oil-crops-sector-at-a-glance
+                                text: Soybeans and Oil Crops - Oil Crops Sector at a Glance | Economic Research Service
+                                type: website
+                        - requirement: 3
+                          text: |-
+                              Explain why a hard frost can be dangerous to soybeans just
+                              after emergence.
+                          resources:
+                              - href: https://youtu.be/x86tt8PPwiA
+                                text: 'Soybean School: Assessing the Impact of Frost'
+                                type: video
       - detail: true
         text: |-
-            <strong>Option 2—Horticulture</strong>
-      - requirement: A
+            <strong>Option B—Horticulture.</strong> Do ALL of the following:
+      - requirement: 1
         text: |-
             Visit one of the following places and tell what you learned about
             horticulture there: public garden, arboretum, retail nursery, wholesale
@@ -325,7 +355,7 @@
             - href: https://youtu.be/8M5Pb6XWMcE
               text: Horticulture Center Tour
               type: video
-      - requirement: B
+      - requirement: 2
         text: |-
             Explain the following terms: hardiness zone, shade tolerance, pH,
             moisture requirement, native habitat, texture, cultivar, ultimate size,
@@ -343,11 +373,11 @@
             - href: https://planthardiness.ars.usda.gov/
               text: USDA Plant Hardiness Zone Map
               type: website
-      - requirement: C
+      - requirement: 3
         text: |-
             Do ONE of the following:
         children:
-            - requirement: 1
+            - requirement: a
               text: |-
                   Explain the difference between vegetative and sexual propagation
                   methods, and tell some horticultural advantages of each. Grow a
@@ -362,7 +392,7 @@
                   - href: https://youtu.be/qH1tJcoTxJM
                     text: Propagation Techniques for Prolific Plants - Growing Spaces Greenhouses
                     type: video
-            - requirement: 2
+            - requirement: b
               text: |-
                   Transplant 12 seedlings or rooted cuttings to larger containers and
                   grow them for at least one month.
@@ -370,7 +400,7 @@
                   - href: https://youtu.be/60jGd-9RP3E
                     text: How to Transplant Seedlings to Bigger Pots
                     type: video
-            - requirement: 3
+            - requirement: c
               text: |-
                   Demonstrate good pruning techniques and tell why pruning is
                   important.
@@ -378,7 +408,7 @@
                   - href: https://youtu.be/nuF411tf1x0
                     text: Everything You Need to Know to Start Pruning | Gardening 101
                     type: video
-            - requirement: 4
+            - requirement: d
               text: |-
                   After obtaining permission, plant a tree or shrub properly in an
                   appropriate site.
@@ -386,11 +416,11 @@
                   - href: https://youtu.be/z30jQa8-Lvg
                     text: How to Properly Plant a Tree
                     type: video
-      - requirement: D
+      - requirement: 4
         text: |-
             Do the following:
         children:
-            - requirement: 1
+            - requirement: a
               text: |-
                   Explain the importance of good landscape design and selection of
                   plants that are suitable for particular sites and conditions.
@@ -398,14 +428,14 @@
                   - href: https://youtu.be/fpI_A_F7U50
                     text: How to Pick the Right Plants for Stunning Landscaping - A Botanical Bliss Guide
                     type: video
-            - requirement: 2
+            - requirement: b
               text: |-
                   Tell why it is important to know how big a plant will grow.
               resources:
                   - href: https://www.wilsonbrosgardens.com/how-to-know-how-tall-a-plant-will-grow-when-mature.html
                     text: How to Know the Height, Width &amp; Size a Plant or Tree Will Grow to at Maturity
                     type: website
-            - requirement: 3
+            - requirement: c
               text: |-
                   Tell why slower-growing landscape plants are sometimes a better
                   choice than faster-growing varieties.
@@ -413,20 +443,20 @@
                   - href: https://livetoplant.com/choosing-slow-growing-plants-for-improved-longevity/
                     text: Choosing Slow-Growing Plants for Greater Longevity
                     type: website
-      - requirement: E
+      - requirement: 5
         text: |-
-            Do ONE of the following alternatives:
+            Do ALL of the requirements in ONE of the following alternatives:
         children:
-            - requirement: 1
+            - requirement: a
               text: |-
-                  Bedding Plants
+                  <b>Bedding Plants</b>
               children:
-                  - requirement: a
+                  - requirement: 1
                     text: |-
                         Grow bedding plants appropriate for your area in pots or flats
                         from seed or cuttings in a manufactured soil mix. Explain why
                         you chose the mix and tell what is in it.
-                  - requirement: b
+                  - requirement: 2
                     text: |-
                         Transplant plants to a bed in the landscape and maintain the
                         bed until the end of the growing season. Record your
@@ -435,7 +465,7 @@
                         - href: https://youtu.be/vd3w_hmtm9A
                           text: 'Transplanting Ferns &amp; Other Plants: A Guide to Success'
                           type: video
-                  - requirement: c
+                  - requirement: 3
                     text: |-
                         Demonstrate mulching, fertilizing, watering, weeding, and
                         deadheading, and tell how each practice helps your plants.
@@ -443,7 +473,7 @@
                         - href: https://youtu.be/mgviGaoWO1w
                           text: The Big Five - Weeding, Pruning, Fertilizing, Mulching, Watering
                           type: video
-                  - requirement: d
+                  - requirement: 4
                     text: |-
                         Tell some differences between gardening with annuals and
                         perennials.
@@ -454,16 +484,16 @@
                         - href: https://youtu.be/nbJJMwsp0TM
                           text: Annuals or Perennials? Which Is Best, and How Do I Choose?
                           type: video
-            - requirement: 2
+            - requirement: b
               text: |-
-                  Fruit, Berry, and Nut Crops
+                  <b>Fruit, Berry, and Nut Crops</b>
               children:
-                  - requirement: a
+                  - requirement: 1
                     text: |-
                         Plant five fruit or nut trees, grapevines, or berry plants that
                         are suited to your area. Take full care of fruit or nut trees,
                         grapevines, or berry plants through one season.
-                  - requirement: b
+                  - requirement: 2
                     text: |-
                         Prune a tree, vine, or shrub properly. Explain why pruning is
                         necessary.
@@ -471,7 +501,7 @@
                         - href: https://youtu.be/nZ4Fn1_rVRo
                           text: Why You Should Prune Your Shrubs and Trees
                           type: video
-                  - requirement: c
+                  - requirement: 3
                     text: |-
                         Demonstrate one type of graft and tell why this method is
                         useful.
@@ -479,7 +509,7 @@
                         - href: https://youtu.be/NN1Y_giTMeE
                           text: How Plant Grafting Actually Works and Why It's So Cool
                           type: video
-                  - requirement: d
+                  - requirement: 4
                     text: |-
                         Describe how one fruit, nut, or berry crop is processed for
                         use.
@@ -490,16 +520,16 @@
                         - href: https://youtu.be/QfyUcGuc8ww
                           text: How Are Raisins Made - Sun-Dried or Machine-Made?
                           type: video
-            - requirement: 3
+            - requirement: c
               text: |-
-                  Woody Ornamentals
+                  <b>Woody Ornamentals</b>
               children:
-                  - requirement: a
+                  - requirement: 1
                     text: |-
                         Plant five or more trees or shrubs in a landscape setting. Take
                         full care of the trees or shrubs you have planted for one
                         growing season.
-                  - requirement: b
+                  - requirement: 2
                     text: |-
                         Prune a tree or shrub properly. Explain why pruning is necessary.
                     resources:
@@ -512,7 +542,7 @@
                         - href: https://youtu.be/IQhmIK-0HOc
                           text: "Ask an Arborist: The ABC's of Pruning"
                           type: video
-                  - requirement: c
+                  - requirement: 3
                     text: |-
                         List 10 trees (in addition to those listed in general
                         requirement 6 above) and tell your counselor how each is used
@@ -521,13 +551,13 @@
                         - href: https://youtu.be/pTcQTifb6lI
                           text: 10 Most Popular Ornamental Trees for Your Garden
                           type: video
-                  - requirement: d
+                  - requirement: 4
                     text: |-
                         Describe the size, texture, color, flowers, leaves, fruit,
                         hardiness, cultural requirements, and any special
                         characteristics that make each type of tree or shrub attractive
                         or interesting.
-                  - requirement: e
+                  - requirement: 5
                     text: |-
                         Tell five ways trees help improve the quality of our environment.
                     resources:
@@ -537,11 +567,11 @@
                         - href: https://www.nature.org/en-us/what-we-do/our-priorities/build-healthy-cities/cities-stories/benefits-of-trees-forests/
                           text: 6 Ways Trees Benefit All of Us
                           type: website
-            - requirement: 4
+            - requirement: d
               text: |-
-                  Home Gardening
+                  <b>Home Gardening</b>
               children:
-                  - requirement: a
+                  - requirement: 1
                     text: |-
                         Design and plant a garden or landscape that is at least 10 by
                         10 feet.
@@ -552,7 +582,7 @@
                         - href: https://www.audubon.org/news/10-plants-bird-friendly-yard
                           text: 10 Plants for a Bird-Friendly Yard | Audubon
                           type: website
-                  - requirement: b
+                  - requirement: 2
                     text: |-
                         Plant 10 or more different types of plants in your garden. Tell
                         why you selected particular varieties of vegetables and
@@ -561,7 +591,7 @@
                         - href: https://home.howstuffworks.com/caring-for-a-vegetable-garden.htm
                           text: Caring for a Vegetable Garden | HowStuffWorks
                           type: website
-                  - requirement: c
+                  - requirement: 3
                     text: |-
                         Demonstrate soil preparation, staking, watering, weeding,
                         mulching, composting, fertilizing, pest management, and
@@ -576,7 +606,7 @@
                         - href: https://youtu.be/1LZzgi1k9aA
                           text: Composting For Beginners
                           type: video
-                  - requirement: d
+                  - requirement: 4
                     text: |-
                         Tell four types of things you could provide to make your home
                         landscape or park a better place for birds and wildlife. List
@@ -591,225 +621,240 @@
                           type: website
       - detail: true
         text: |-
-            <strong>Option 3—Field Botany</strong>
-      - requirement: A
-        text: |-
-            Visit a park, forest, Scout camp, or other natural area near your home.
-            While you are there:
+            <strong>Option C—Field Botany.</strong> Do ALL of the following:
         children:
             - requirement: 1
               text: |-
-                  Determine which species of plants are the largest and which are the
-                  most abundant. Note whether they cast shade on other plants.
+                  Visit a park, forest, Scout camp, or other natural area near your home.
+                  While you are there:
+              children:
+                  - requirement: a
+                    text: |-
+                        Determine which species of plants are the largest and which are the
+                        most abundant. Note whether they cast shade on other plants.
+                  - requirement: b
+                    text: |-
+                        Using information from maps, textbooks, or the internet, describe
+                        the environmental factors that may influence the presence of plants
+                        on your site, including latitude, climate, air and soil
+                        temperature, soil type and pH, geology, hydrology, and topography.
+                    resources:
+                        - href: https://extension.oregonstate.edu/gardening/techniques/environmental-factors-affecting-plant-growth
+                          text: Environmental Factors Affecting Plant Growth
+                          type: website
+                  - requirement: c
+                    text: |-
+                        Record any differences in the types of plants you see at the edge
+                        of a forest, near water, in burned areas, or near a road or
+                        railroad.
             - requirement: 2
               text: |-
-                  Using information from maps, textbooks, or the internet, describe
-                  the environmental factors that may influence the presence of plants
-                  on your site, including latitude, climate, air and soil
-                  temperature, soil type and pH, geology, hydrology, and topography.
+                  Select a study site that is at least 100 by 100 feet. Make a list of 10
+                  woody plants (trees and shrubs) and 10 non-woody plants in the study
+                  site. Find out which of these are native plants and which are exotic
+                  (or nonnative).
               resources:
-                  - href: https://extension.oregonstate.edu/gardening/techniques/environmental-factors-affecting-plant-growth
-                    text: Environmental Factors Affecting Plant Growth
+                  - href: https://youtu.be/Af80dnhp2QY
+                    text: Native Plants vs Exotic Plants | Which Are More Beneficial to the Ecosystem
+                    type: video
+            - requirement: 3
+              text: |-
+                  Tell how an identification key works and use a simple key to identify
+                  10 kinds of plants (in addition to those in general requirement 5
+                  above). Tell the difference between common and scientific names and
+                  tell why scientific names are important.
+              resources:
+                  - href: https://youtu.be/WVaxMwcPVEY
+                    text: Scientific vs Common Names
+                    type: video
+                  - href: https://youtu.be/AAx3ZsNfoIM
+                    text: How to Key Out a Plant
+                    type: video
+            - requirement: 4
+              text: |-
+                  After gaining permission, collect, identify, press, mount, and label 10
+                  different plants that are common in your area. Tell why voucher
+                  specimens are important for documentation of a field botanist's
+                  discoveries.
+              resources:
+                  - href: https://youtu.be/zEevM61u4Ew
+                    text: Pressing Plants for Herbarium Study
+                    type: video
+            - requirement: 5
+              text: |-
+                  Obtain a list of rare plants of your state. Tell what is being done to
+                  protect rare plants and natural areas in your state. Write a paragraph
+                  about one of the rare plants in your state.
+              resources:
+                  - href: https://www.fs.usda.gov/wildflowers/Rare_Plants/profiles/index.php
+                    text: Rare Plant Profiles
                     type: website
-            - requirement: 3
+                  - href: https://saveplants.org/rare-plants-near-me/
+                    text: Find Rare Plants Near You
+                    type: website
+            - requirement: 6
               text: |-
-                  Record any differences in the types of plants you see at the edge
-                  of a forest, near water, in burned areas, or near a road or
-                  railroad.
-      - requirement: B
-        text: |-
-            Select a study site that is at least 100 by 100 feet. Make a list of 10
-            woody plants (trees and shrubs) and 10 non-woody plants in the study
-            site. Find out which of these are native plants and which are exotic
-            (or nonnative).
-        resources:
-            - href: https://youtu.be/Af80dnhp2QY
-              text: Native Plants vs Exotic Plants | Which Are More Beneficial to the Ecosystem
-              type: video
-      - requirement: C
-        text: |-
-            Tell how an identification key works and use a simple key to identify
-            10 kinds of plants (in addition to those in general requirement 5
-            above). Tell the difference between common and scientific names and
-            tell why scientific names are important.
-        resources:
-            - href: https://youtu.be/WVaxMwcPVEY
-              text: Scientific vs Common Names
-              type: video
-            - href: https://youtu.be/AAx3ZsNfoIM
-              text: How to Key Out a Plant
-              type: video
-      - requirement: D
-        text: |-
-            After gaining permission, collect, identify, press, mount, and label 10
-            different plants that are common in your area. Tell why voucher
-            specimens are important for documentation of a field botanist's
-            discoveries.
-        resources:
-            - href: https://youtu.be/zEevM61u4Ew
-              text: Pressing Plants for Herbarium Study
-              type: video
-      - requirement: E
-        text: |-
-            Obtain a list of rare plants of your state. Tell what is being done to
-            protect rare plants and natural areas in your state. Write a paragraph
-            about one of the rare plants in your state.
-        resources:
-            - href: https://www.fs.usda.gov/wildflowers/Rare_Plants/profiles/index.php
-              text: Rare Plant Profiles
-              type: website
-            - href: https://saveplants.org/rare-plants-near-me/
-              text: Find Rare Plants Near You
-              type: website
-      - requirement: F
-        text: |-
-            Do ONE of the following alternatives:
-        children:
-            - requirement: 1
-              text: |-
-                  Tree Inventory
+                  Do ALL of the requirements in ONE of the following alternatives:
               children:
                   - requirement: a
                     text: |-
-                        Identify the trees of your neighborhood, a park, a section of
-                        your town, or a Scout camp.
-                    resources:
-                        - href: https://youtu.be/X2TDSiaqfbQ
-                          text: How to Use Twigs to Identify Trees
-                          type: video
-                  - requirement: b
-                    text: |-
-                        Collect, press, and label leaves, flowers, or fruits to
-                        document your inventory.
-                  - requirement: c
-                    text: |-
-                        List the types of trees by scientific name and give common
-                        names. Note the number and size (diameter at 4 feet above
-                        ground) of trees observed and determine the largest of each
-                        species in your study area.
-                  - requirement: d
-                    text: |-
-                        Show two or more people how to use a leaf or twig key to
-                        identify at least five species of trees or shrubs.
-            - requirement: 2
-              text: |-
-                  Transect Study
-              children:
-                  - requirement: a
-                    text: |-
-                        Visit two sites, at least one of which is different from the
-                        one you visited for Field Botany requirement 1.
-                  - requirement: b
-                    text: |-
-                        Use the transect method to study the two different kinds of
-                        plant communities. The transects should be at least 500 feet
-                        long.
-                    resources:
-                        - href: https://youtu.be/hbhR8hgFqG0
-                          text: Weekly Science Challenge #5: Create a Transect
-                          type: video
-                  - requirement: c
-                    text: |-
-                        At each site, record observations about the soil and other
-                        influencing factors AND do the following. Then make a graph or
-                        chart to show the results of your studies.
+                        <b>Tree Inventory</b>
                     children:
                         - requirement: 1
                           text: |-
-                              Identify each tree within 10 feet of the transect line.
-                        - requirement: 2
-                          text: |-
-                              Measure the diameter of each tree at 4 feet above the
-                              ground, and map and list each tree.
-            - requirement: 3
-              text: |-
-                  Nested Plot
-              children:
-                  - requirement: a
-                    text: |-
-                        Visit two sites, at least one of which is different from the
-                        one you visited for Field Botany requirement 1.
-                  - requirement: b
-                    text: |-
-                        Mark off nested plots and inventory two different kinds of
-                        plant communities.
-                  - requirement: c
-                    text: |-
-                        At each site, record observations about the soil and other
-                        influencing factors AND do the following. Then make a graph or
-                        chart to show the results of your studies.
-                    children:
-                        - requirement: 1
-                          text: |-
-                              Identify, measure, and map each tree in a 100-by-100-foot
-                              plot. (Measure the diameter of each tree larger than 3
-                              inches in diameter at 4 feet above the ground.)
-                        - requirement: 2
-                          text: |-
-                              Identify and count all trees and shrubs in a 10-by-10-foot
-                              plot within each of the larger areas.
+                              Identify the trees of your neighborhood, a park, a section of
+                              your town, or a Scout camp.
                           resources:
-                              - href: https://youtu.be/7M4PUM_eIIQ
-                                text: Tree Identification | Ask the Arborist
+                              - href: https://youtu.be/X2TDSiaqfbQ
+                                text: How to Use Twigs to Identify Trees
+                                type: video
+                        - requirement: 2
+                          text: |-
+                              Collect, press, and label leaves, flowers, or fruits to
+                              document your inventory.
+                        - requirement: 3
+                          text: |-
+                              List the types of trees by scientific name and give common
+                              names. Note the number and size (diameter at 4 feet above
+                              ground) of trees observed and determine the largest of each
+                              species in your study area.
+                        - requirement: 4
+                          text: |-
+                              Show two or more people how to use a leaf or twig key to
+                              identify at least five species of trees or shrubs.
+                  - requirement: b
+                    text: |-
+                        <b>Transect Study</b>
+                    children:
+                        - requirement: 1
+                          text: |-
+                              Visit two sites, at least one of which is different from the
+                              one you visited for Field Botany requirement 1.
+                        - requirement: 2
+                          text: |-
+                              Use the transect method to study the two different kinds of
+                              plant communities. The transects should be at least 500 feet
+                              long.
+                          resources:
+                              - href: https://youtu.be/hbhR8hgFqG0
+                                text: Weekly Science Challenge #5: Create a Transect
                                 type: video
                         - requirement: 3
                           text: |-
-                              Identify and count all broad-leaved plants (trees, shrubs,
-                              vines, and herbaceous plants) all plants (wildflowers,
-                              ferns, grasses, mosses, etc.) of a 4-by-4-foot plot within
-                              the 10-by-10-foot plot.
-            - requirement: 4
-              text: |-
-                  Herbarium Visit
-              children:
-                  - requirement: a
-                    text: |-
-                        Write ahead and arrange to visit an herbarium at a university,
-                        park, or botanical garden; OR, visit an herbarium website
-                        (with your parent or guardian's permission).
-                    resources:
-                        - href: https://youtu.be/wQkEYZAlnGw
-                          text: What Is a Herbarium? The Scientific and Historical Treasures of the Cambridge University Herbarium
-                          type: video
-                  - requirement: b
-                    text: |-
-                        Tell how the specimens are arranged and how they are used by
-                        researchers. If possible, observe voucher specimens of a plant
-                        that is rare in your state.
+                              At each site, record observations about the soil and other
+                              influencing factors AND do the following. Then make a graph or
+                              chart to show the results of your studies.
+                          children:
+                              - requirement: a
+                                text: |-
+                                    Identify each tree within 10 feet of the transect line.
+                              - requirement: b
+                                text: |-
+                                    Measure the diameter of each tree at 4 feet above the
+                                    ground, and map and list each tree.
                   - requirement: c
                     text: |-
-                        Tell how a voucher specimen is mounted and prepared for
-                        permanent storage. Tell how specimens should be handled so that
-                        they will not be damaged.
-                    resources:
-                        - href: https://youtu.be/zEevM61u4Ew
-                          text: Pressing Plants for Herbarium Study
-                          type: video
+                        <b>Nested Plot</b>
+                    children:
+                        - requirement: 1
+                          text: |-
+                              Visit two sites, at least one of which is different from the
+                              one you visited for Field Botany requirement 1.
+                        - requirement: 2
+                          text: |-
+                              Mark off nested plots and inventory two different kinds of
+                              plant communities.
+                        - requirement: 3
+                          text: |-
+                              At each site, record observations about the soil and other
+                              influencing factors AND do the following. Then make a graph or
+                              chart to show the results of your studies.
+                          children:
+                              - requirement: a
+                                text: |-
+                                    Identify, measure, and map each tree in a 100-by-100-foot
+                                    plot. (Measure the diameter of each tree larger than 3
+                                    inches in diameter at 4 feet above the ground.)
+                              - requirement: b
+                                text: |-
+                                    Identify and count all trees and shrubs in a 10-by-10-foot
+                                    plot within each of the larger areas.
+                                resources:
+                                    - href: https://youtu.be/7M4PUM_eIIQ
+                                      text: Tree Identification | Ask the Arborist
+                                      type: video
+                              - requirement: c
+                                text: |-
+                                    Identify and count all broad-leaved plants (trees, shrubs,
+                                    vines, and herbaceous plants) all plants (wildflowers,
+                                    ferns, grasses, mosses, etc.) of a 4-by-4-foot plot within
+                                    the 10-by-10-foot plot.
                   - requirement: d
                     text: |-
-                        Tell about the tools and references used by botanists in an
-                        herbarium.
-                    resources:
-                        - href: https://youtu.be/fpfmfTZV4G4
-                          text: How Herbarium Specimens Are Prepared at the Cambridge University Herbarium
-                          type: video
-            - requirement: 5
-              text: |-
-                  Plant Conservation Organization Visit
-              children:
-                  - requirement: a
+                        <b>Herbarium Visit</b>
+                    children:
+                        - requirement: 1
+                          text: |-
+                              Write ahead and arrange to visit an herbarium at a university,
+                              park, or botanical garden; OR, visit an herbarium website
+                              (with your parent or guardian's permission).
+                          resources:
+                              - href: https://youtu.be/wQkEYZAlnGw
+                                text: What Is a Herbarium? The Scientific and Historical Treasures of the Cambridge University Herbarium
+                                type: video
+                        - requirement: 2
+                          text: |-
+                              Tell how the specimens are arranged and how they are used by
+                              researchers. If possible, observe voucher specimens of a plant
+                              that is rare in your state.
+                        - requirement: 3
+                          text: |-
+                              Tell how a voucher specimen is mounted and prepared for
+                              permanent storage. Tell how specimens should be handled so that
+                              they will not be damaged.
+                          resources:
+                              - href: https://youtu.be/zEevM61u4Ew
+                                text: Pressing Plants for Herbarium Study
+                                type: video
+                        - requirement: 4
+                          text: |-
+                              Tell about the tools and references used by botanists in an
+                              herbarium.
+                          resources:
+                              - href: https://youtu.be/fpfmfTZV4G4
+                                text: How Herbarium Specimens Are Prepared at the Cambridge University Herbarium
+                                type: video
+                  - requirement: e
                     text: |-
-                        Write ahead and arrange to visit a private conservation
-                        organization or government agency that is concerned with
-                        protecting rare plants and natural areas.
-                  - requirement: b
-                    text: |-
-                        Tell about the activities of the organization in studying and
-                        protecting rare plants and natural areas.
-                  - requirement: c
-                    text: |-
-                        If possible, visit a nature preserve managed by the
-                        organization. Tell about land management activities such as
-                        controlled burning, or measures to eradicate invasive
-                        (nonnative) plants or other threats to the plants that are
-                        native to the area.
+                        <b>Plant Conservation Organization Visit</b>
+                    children:
+                        - requirement: 1
+                          text: |-
+                              Write ahead and arrange to visit a private conservation
+                              organization or government agency that is concerned with
+                              protecting rare plants and natural areas.
+                        - requirement: 2
+                          text: |-
+                              Tell about the activities of the organization in studying and
+                              protecting rare plants and natural areas.
+                        - requirement: 3
+                          text: |-
+                              If possible, visit a nature preserve managed by the
+                              organization. Tell about land management activities such as
+                              controlled burning, or measures to eradicate invasive
+                              (nonnative) plants or other threats to the plants that are
+                              native to the area.
+- requirement: 9
+  text: |-
+      Discuss the importance of the Leave No Trace Seven Principles and the
+      Outdoor Code as they relate to plant science. Explain how you have
+      followed the Leave No Trace Seven Principles and the Outdoor Code while in
+      natural areas during field observation, specimen collection, and
+      identification.
+  resources:
+      - href: https://vimeo.com/1115216743/63b20c0b33
+        text: Leave No Trace Basics
+        type: video
+      - href: https://www.youtube.com/watch?v=jXO1uY0MvmQ
+        text: Leave No Trace Outdoor Ethics
+        type: video

@@ -147,7 +147,7 @@
         text: Barriers to Abuse
         type: pdf
   children:
-      - requirement: A
+      - detail: true
         text: |-
             <b>Option A—Road Biking.</b> Do the following:
         resources:
@@ -239,7 +239,7 @@
                         - href: https://lifeisabeautifuldetail.com/blog/cue-sheets
                           text: Cue Sheets
                           type: website
-      - requirement: B
+      - detail: true
         text: |-
             <b>Option B—Trail or Mixed Surface Biking.</b> Do the following:
             <div class="gap"></div>

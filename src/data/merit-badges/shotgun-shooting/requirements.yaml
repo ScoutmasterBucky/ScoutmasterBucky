@@ -64,7 +64,7 @@
       defined in the <i>Scouting America National Range and Target Activities
       Manual</i>), do ONE of the following options:
   children:
-      - requirement: a
+      - detail: true
         text: |-
             <strong>Option A—Shotgun Shooting (Modern Shotshell Type).</strong>
             Do ALL of the following:
@@ -157,7 +157,7 @@
                     </li>
                     <li>If using a skeet field, shoot station 7 low house.</li>
                   </ul>
-      - requirement: b
+      - detail: true
         text: |-
             <strong>Option B—Muzzleloading Shotgun Shooting.</strong> Do ALL of the
             following:
