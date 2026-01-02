@@ -4,203 +4,209 @@
       injuries or illnesses that could occur while golfing, including lightning,
       heat reactions, sunburn, dehydration, blisters, animal or bug bites, poison
       ivy exposure, sprains, and strains.
+  resources:
+      - href: https://youtu.be/26c7909-iKg
+        text: First Aid on the Golf Course
+        type: video
 - requirement: 2
   text: |-
       Complete ONE of the following options:
   children:
       - text: |-
-            <strong>Option 1—Traditional Golf </strong>
-      - requirement: A
-        text: |-
-            Study the USGA "Rules of Golf" now in use.
+            <strong>Option A—Traditional Golf.</strong> Do ALL of the following:
         children:
             - requirement: 1
               text: |-
-                  Tell about the three categories of golf etiquette.
+                  Study the USGA <i>Rules of Golf</i> now in use.
+              children:
+                  - requirement: a
+                    text: |-
+                        Tell about the three categories of golf etiquette.
+                  - requirement: b
+                    text: |-
+                        Demonstrate that you understand the definitions of golf terms.
+                  - requirement: c
+                    text: |-
+                        Show that you understand the <i>Rules of Amateur Status.</i>
             - requirement: 2
               text: |-
-                  Demonstrate that you understand the definitions of golf terms.
+                  Tell about your understanding of the World Handicap System.
             - requirement: 3
               text: |-
-                  Show that you understand the "Rules of Amateur Status."
-      - requirement: B
-        text: |-
-            Tell about your understanding of the World Handicap System.
-      - requirement: C
-        text: |-
-            Do the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Tell about the early history of golf.
-            - requirement: 2
-              text: |-
-                  Describe golf's early years in the United States.
-            - requirement: 3
-              text: |-
-                  Tell about the accomplishments of a top golfer of your choice.
-      - requirement: D
-        text: |-
-            Do the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Tell how golf can contribute to a healthy lifestyle, mentally and
-                  physically.
-            - requirement: 2
-              text: |-
-                  Tell how a golf exercise plan can help you play better. Show two
-                  exercises that would help improve your game.
-      - requirement: E
-        text: |-
-            Show the following:
-        children:
-            - requirement: 1
-              text: |-
-                  The proper grip, stance, posture, and key fundamentals of a good
-                  swing
-            - requirement: 2
-              text: |-
-                  Driver played from a tee
-            - requirement: 3
-              text: |-
-                  The fairway wood shot
+                  Do the following:
+              children:
+                  - requirement: a
+                    text: |-
+                        Tell about the early history of golf.
+                  - requirement: b
+                    text: |-
+                        Describe golf's early years in the United States.
+                  - requirement: c
+                    text: |-
+                        Tell about the accomplishments of a top golfer of your choice.
             - requirement: 4
               text: |-
-                  The long iron shot
+                  Do the following:
+              children:
+                  - requirement: a
+                    text: |-
+                        Tell how golf can contribute to a healthy lifestyle, mentally and
+                        physically.
+                  - requirement: b
+                    text: |-
+                        Tell how a golf exercise plan can help you play better. Show two
+                        exercises that would help improve your game.
             - requirement: 5
               text: |-
-                  The short iron shot
+                  Show the following:
+              children:
+                  - requirement: a
+                    text: |-
+                        The proper grip, stance, posture, and key fundamentals of a good
+                        swing
+                  - requirement: b
+                    text: |-
+                        Driver played from a tee
+                  - requirement: c
+                    text: |-
+                        The fairway wood shot
+                  - requirement: d
+                    text: |-
+                        The long iron shot
+                  - requirement: e
+                    text: |-
+                        The short iron shot
+                  - requirement: f
+                    text: |-
+                        The approach, chip-and-run, and pitch shots
+                  - requirement: g
+                    text: |-
+                        A recovery shot from a bunker or heavy rough
+                  - requirement: h
+                    text: |-
+                        A sound putting stroke.
             - requirement: 6
               text: |-
-                  The approach, chip-and-run, and pitch shots
+                  Play a minimum of two nine-hole rounds or one 18-hole round of golf
+                  with another golfer about your age and with your counselor, or an adult
+                  approved by your counselor. Do the following:
+              children:
+                  - requirement: a
+                    text: |-
+                        Follow the <i>Rules of Golf.</i>
+                  - requirement: b
+                    text: |-
+                        Practice good golf etiquette.
+                  - requirement: c
+                    text: |-
+                        Show respect to fellow golfers, committee, sponsor, and gallery.
             - requirement: 7
               text: |-
-                  A recovery shot from a bunker or heavy rough
-            - requirement: 8
-              text: |-
-                  A sound putting stroke.
-      - requirement: F
-        text: |-
-            Play a minimum of two nine-hole rounds or one 18-hole round of golf
-            with another golfer about your age and with your counselor, or an adult
-            approved by your counselor. Do the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Follow the "Rules of Golf."
-            - requirement: 2
-              text: |-
-                  Practice good golf etiquette.
-            - requirement: 3
-              text: |-
-                  Show respect to fellow golfers, committee, sponsor, and gallery.
-      - requirement: G
-        text: |-
-            Find out about three careers related to traditional golf. Pick one and
-            identify the education, training, and experience required for this
-            profession. Discuss this with your counselor, and explain why this
-            interests you.
+                  Find out about three careers related to traditional golf. Pick one and
+                  identify the education, training, and experience required for this
+                  profession. Discuss this with your counselor, and explain why this
+                  interests you.
       - text: |-
-            <strong>Option 2—Disc Golf</strong>
-      - requirement: A
-        text: |-
-            Study the "PDGA Official Rules of Disc Golf" now in use.
+            <strong>Option B—Disc Golf.</strong> Do ALL of the following:
         children:
             - requirement: 1
               text: |-
-                  Tell about the six areas of Courtesy (812).
+                  Study the <i>PDGA Official Rules of Disc Golf</i> now in use.
+              children:
+                  - requirement: a
+                    text: |-
+                        Tell about the six areas of Courtesy (812).
+                  - requirement: b
+                    text: |-
+                        Describe the seven areas of Scoring (808).
             - requirement: 2
               text: |-
-                  Describe the seven areas of Scoring (808).
-      - requirement: B
-        text: |-
-            Tell about your understanding of the "PDGA Disc Golfer's Code."
-      - requirement: C
-        text: |-
-            Do the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Tell about the history of disc golf and why it is an inclusive game.
-            - requirement: 2
-              text: |-
-                  Discuss with your counselor the contributions Ed Headrick made to
-                  the sport of disc golf.
+                  Tell about your understanding of the <i>PDGA Disc Golfer's Code.</i>
             - requirement: 3
               text: |-
-                  Describe the evolution of disc design.
+                  Do the following:
+              children:
+                  - requirement: a
+                    text: |-
+                        Tell about the history of disc golf and why it is an inclusive game.
+                  - requirement: b
+                    text: |-
+                        Discuss with your counselor the contributions Ed Headrick made to
+                        the sport of disc golf.
+                  - requirement: c
+                    text: |-
+                        Describe the evolution of disc design.
+                  - requirement: d
+                    text: |-
+                        Tell about the accomplishments of a top disc golfer of your choice.
             - requirement: 4
               text: |-
-                  Tell about the accomplishments of a top disc golfer of your choice.
-      - requirement: D
-        text: |-
-            Do the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Tell how disc golf can contribute to a healthy lifestyle, mentally
-                  and physically.
-            - requirement: 2
-              text: |-
-                  Tell how a disc golf exercise plan can help you play better. Show
-                  two exercises that would help improve your game.
-      - requirement: E
-        text: |-
-            Show the following:
-        children:
-            - requirement: 1
-              text: |-
-                  A good throwing grip
-            - requirement: 2
-              text: |-
-                  A good runup (X-step) when throwing a disc
-            - requirement: 3
-              text: |-
-                  Backhand shot
-            - requirement: 4
-              text: |-
-                  Forehand shot
+                  Do the following:
+              children:
+                  - requirement: a
+                    text: |-
+                        Tell how disc golf can contribute to a healthy lifestyle, mentally
+                        and physically.
+                  - requirement: b
+                    text: |-
+                        Tell how a disc golf exercise plan can help you play better. Show
+                        two exercises that would help improve your game.
             - requirement: 5
               text: |-
-                  Overhand shot
+                  Show the following:
+              children:
+                  - requirement: a
+                    text: |-
+                        A good throwing grip
+                  - requirement: b
+                    text: |-
+                        A good runup (X-step) when throwing a disc
+                  - requirement: c
+                    text: |-
+                        Backhand shot
+                  - requirement: d
+                    text: |-
+                        Forehand shot
+                  - requirement: e
+                    text: |-
+                        Overhand shot
+                  - requirement: f
+                    text: |-
+                        Rolling shot
+                  - requirement: g
+                    text: |-
+                        A good (in-line) putting stance
+                  - requirement: h
+                    text: |-
+                        A good straddle putting stance
+                  - requirement: i
+                    text: |-
+                        A good putting grip
+                  - requirement: j
+                    text: |-
+                        A good putting motion & follow through
+                  - requirement: k
+                    text: |-
+                        The proper use of a mini-marking disc
             - requirement: 6
               text: |-
-                  Rolling shot
+                  Play a minimum of 18-holes of disc golf with another disc golfer about
+                  your age and with your counselor, or an adult approved by your counselor.
+                  Do the following:
+              children:
+                  - requirement: a
+                    text: |-
+                        Follow the <i>PDGA Official Rules of Disc Golf.</i>
+                  - requirement: b
+                    text: |-
+                        Practice good disc golf etiquette.
+                  - requirement: c
+                    text: |-
+                        Show respect to fellow disc golfers and other people in the park
+                        along with any wildlife, trees, and plants on the property.
             - requirement: 7
               text: |-
-                  A good (in-line) putting stance
-            - requirement: 8
-              text: |-
-                  A good straddle putting stance
-            - requirement: 9
-              text: |-
-                  A good putting grip
-            - requirement: 10
-              text: |-
-                  A good putting motion & follow through
-            - requirement: 11
-              text: |-
-                  The proper use of a mini-marking disc
-      - requirement: F
-        text: |-
-            Play a minimum of 18-holes of disc golf with another disc golfer about
-            your age and with your counselor, or an adult approved by your counselor.
-            Do the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Follow the "PDGA Official Rules of Disc Golf."
-            - requirement: 2
-              text: |-
-                  Practice good disc golf etiquette.
-            - requirement: 3
-              text: |-
-                  Show respect to fellow disc golfers and other people in the park
-                  along with any wildlife, trees, and plants on the property.
-      - requirement: G
-        text: |-
-            Find out about three careers related to disc golf. Pick one and
-            identify the education, training, and experience required for this
-            profession. Discuss this with your counselor, and explain why this
-            interests you.
+                  Find out about three careers related to disc golf. Pick one and
+                  identify the education, training, and experience required for this
+                  profession. Discuss this with your counselor, and explain why this
+                  interests you.

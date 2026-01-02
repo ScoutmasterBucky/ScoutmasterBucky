@@ -1,4 +1,4 @@
-#!/usr/bin/env/node
+#!/usr/bin/env node
 import { glob, readFile } from 'node:fs/promises';
 import { load } from 'js-yaml';
 
