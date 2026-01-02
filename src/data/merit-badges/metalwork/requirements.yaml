@@ -66,9 +66,9 @@
       After completing the first four requirements, complete ONE of the
       following options.
   children:
-      - requirement: a
-        text: |-
-            <strong>Option 1—Sheet Metal Mechanic/Tinsmith</strong>
+      - text: |-
+            <strong>Option A—Sheet Metal Mechanic/Tinsmith.</strong> Do ALL of the
+            following:
         children:
             - requirement: 1
               text: |-
@@ -93,9 +93,8 @@
                     text: |-
                         If you do not make your objects from zinc-plated sheet steel or
                         tin-plated sheet steel, preserve your work from oxidation.
-      - requirement: b
-        text: |-
-            <strong>Option 2—Silversmith</strong>
+      - text: |-
+            <strong>Option B—Silversmith.</strong> Do ALL of the following:
         children:
             - requirement: 1
               text: |-
@@ -124,9 +123,8 @@
                   - requirement: c
                     text: |-
                         Clean and polish your objects.
-      - requirement: c
-        text: |-
-            <strong>Option 3—Founder</strong>
+      - text: |-
+            <strong>Option C—Founder.</strong> Do ALL of the following:
         children:
             - requirement: 1
               text: |-
@@ -140,8 +138,9 @@
               text: |-
                   Make two molds, one using a pattern provided by your counselor and
                   another one you have made yourself that has been approved by your
-                  counselor. Position the pouring gate and vents yourself. <em>Do
-                  not use copyrighted materials as patterns</em>.
+                  counselor. Position the pouring gate and vents yourself.
+                  <div class="gap"></div>
+                  <b>Note:</b> Do not use copyrighted materials as patterns.
               children:
                   - requirement: a
                     text: |-
@@ -151,9 +150,8 @@
                     text: |-
                         Using lead-free pewter, make a casting using the mold that you
                         have made.
-      - requirement: d
-        text: |-
-            <strong>Option 4—Blacksmith</strong>
+      - text: |-
+            <strong>Option D—Blacksmith.</strong> Do ALL of the following:
         children:
             - requirement: 1
               text: |-

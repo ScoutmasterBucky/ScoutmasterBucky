@@ -132,8 +132,7 @@
   text: |-
       Choose ONE of the following options and complete each requirement:
   children:
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option A—Agronomy.</strong> Do ALL of the following:
         children:
             - requirement: 1
@@ -343,8 +342,7 @@
                               - href: https://youtu.be/x86tt8PPwiA
                                 text: 'Soybean School: Assessing the Impact of Frost'
                                 type: video
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option B—Horticulture.</strong> Do ALL of the following:
       - requirement: 1
         text: |-
@@ -619,8 +617,7 @@
                         - href: https://www.usbg.gov/native-plant-recommendations
                           text: Native Plant Recommendations | United States Botanic Garden
                           type: website
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option C—Field Botany.</strong> Do ALL of the following:
         children:
             - requirement: 1

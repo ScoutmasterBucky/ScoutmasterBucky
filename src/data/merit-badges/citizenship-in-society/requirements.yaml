@@ -5,8 +5,7 @@
 # 6b has "of the following Options:" - switched to lowercase
 # 6c should say (c) and does not. Same for 11c, 11d.
 # 7a missing trailing period. Added one.
-- detail: true
-  text: |-
+- text: |-
       <b>Note: "Discussion" requirements will be either with a counselor and another
       individual (in accordance with Youth Protection Guidelines <a
       href="https://www.scouting.org/health-and-safety/gss/gss01/"
@@ -118,21 +117,18 @@
         text: |-
             Share with each other ONE of the following options:
         children:
-            - requirement: i
-              text: |-
-                  <b>Option 1: </b>A time you felt excluded from a group.
+            - text: |-
+                  <b>Option 1:</b> A time you felt excluded from a group.
               children:
-                  - detail: true
-                    text: |-
+                  - text: |-
                         * What was the situation?
                         * How did it make you feel?
                         * What did you do?
                         * Did anyone stand up for you?
                         * What did you learn?
                         * Would you do anything differently today?
-            - requirement: ii
-              text: |-
-                  <b>Option 2: </b>This imaginary situation: You're attending a new
+            - text: |-
+                  <b>Option 2:</b> This imaginary situation: You're attending a new
                       school and don't know anyone there yet. You notice they dress
                       very differently than you do. At lunchtime, you decide you'll
                       try to sit with a group to get to know other students. People
@@ -140,8 +136,7 @@
                       currently empty seat at their table, so you end up eating by
                       yourself.
               children:
-                  - detail: true
-                    text: |-
+                  - text: |-
                         * How would that make you feel?
                         * What could the students have done?
                         * If that happened at your school, what would you do?

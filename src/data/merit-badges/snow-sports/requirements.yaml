@@ -63,8 +63,7 @@
   text: |-
       Do ONE of the following options:
   children:
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option A—Downhill (Alpine) Skiing.</strong> Do ALL of the following:
             <div class="gap"></div>
             <b>Note:</b> Generally, a gentle slope will be a
@@ -114,8 +113,7 @@
               text: |-
                   Name the major ski organizations in the United States and explain their
                   functions.
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option B—Cross-Country (Nordic) Skiing.</strong> Do ALL of the
             following:
         children:
@@ -166,8 +164,7 @@
                   Demonstrate several methods of dealing with steep hills or difficult
                   conditions. Include traverses and kick turns going uphill and downhill,
                   sidesteps, pole drag, and ski-pole "glissade."
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option C—Snowboarding.</strong> Do ALL of the following:
             <div class="gap"></div>
             <b>Note:</b> Generally, a gentle slope will be a trail
@@ -227,8 +224,7 @@
               text: |-
                   Name the major snowboarding organizations in the United States and
                   explain their functions.
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option D—Snowshoeing.</strong> Do ALL of the following:
         children:
             - requirement: 1

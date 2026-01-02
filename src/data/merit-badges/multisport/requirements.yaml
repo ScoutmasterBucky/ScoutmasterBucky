@@ -1,6 +1,7 @@
-# 3c grammatically should say "Identify the equipment required for each of the" instead of what it currently says.
-# 4b1 ends with "and ride ready" but could be improved with "and ride safely"
-# Note: pamphlets don't have periods after lists, like 3d and 7d.
+# 4* biking sections ends with "and ride ready" but could be improved with "and ride safely"
+# 4c1b and 4d1b uses "guidelines" while 4a1b uses "program." Consider making them consistent.
+# 4c1c is misplaced after 4c2c
+# 4 is very redundant. Consider consolidating, eg "Biking (for triathlon, duathlon, aquabike):"
 - requirement: 1
   text: |-
       Do the following:
@@ -22,9 +23,10 @@
   children:
       - requirement: a
         text: |-
-            Explain the importance of a physical exam and have your health care
-            practitioner give you a physical examination using the Scouting America
-            Annual Health and Medical Record.
+            Discuss the importance of having a physical examination each year.
+            Discuss why overall health, immunizations, medications, allergies, and
+            medical history are covered during an examination. Tell your counselor
+            when you last underwent a physical examination.
       - requirement: b
         text: |-
             Explain the importance of maintaining good health habits, especially
@@ -56,76 +58,177 @@
       - requirement: d
         text: |-
             Based on your interests, experience, and discussion with your
-            counselor, select ONE of the following multisport formats to
-            concentrate on for the remaining requirements:
-        children:
-            - requirement: 1
-              text: |-
-                  Triathlon: swimming, biking, and running
-            - requirement: 2
-              text: |-
-                  Duathlon: running and biking
-            - requirement: 3
-              text: |-
-                  Aquathlon: swimming and running
-            - requirement: 4
-              text: |-
-                  Aquabike: swimming and biking
+            counselor, select ONE of the following multisport formats to concentrate
+            on for the remaining requirements: triathlon (swimming, biking, and
+            running), duathlon (biking and running), aquathlon (swimming and
+            running), or aquabike (swimming and biking).
 - requirement: 4
   text: |-
-      Complete ALL of the activities that apply to the multisport format you
-      selected in requirement 3(d) (Triathlon, Duathlon, Aquathlon, or Aquabike):
+      Complete ALL of the following for the multisport format you
+      selected in requirement 3(d):
   children:
-      - requirement: a
-        text: |-
-            <strong>Swimming</strong>
+      - text: |-
+            <strong>Option A—Triathlon.</strong>
         children:
             - requirement: 1
               text: |-
-                  Before doing requirements 5 through 8, earn the Swimming merit
-                  badge.
+                  <b>Swimming</b>
+              children:
+                  - requirement: a
+                    text: |-
+                        Before doing requirements 5 through 8, earn the Swimming merit
+                        badge.
+                  - requirement: b
+                    text: |-
+                        Explain the components of the Scouting America Safe Swim Defense
+                        program and how you will ensure they are in place when you swim.
+                  - requirement: c
+                    text: |-
+                        Explain to your counselor the difference between a pool swim and an
+                        open water swim, including at what water temperature it is
+                        appropriate to wear a wet suit.
             - requirement: 2
               text: |-
-                  Explain the components of the Scouting America Safe Swim Defense
-                  program and how you will ensure they are in place when you swim.
+                  <b>Biking</b>
+              children:
+                  - requirement: 1
+                    text: |-
+                        Explain to your counselor how to ride predictably, be conspicuous,
+                        think ahead, and ride ready.
+                  - requirement: 2
+                    text: |-
+                        Discuss what should be checked regularly to make sure the bicycle
+                        is safe to ride.
+                  - requirement: 3
+                    text: |-
+                        Explain the importance of wearing a properly sized and fitted
+                        helmet while cycling and of wearing the right clothing for the
+                        weather.
             - requirement: 3
               text: |-
-                  Explain to your counselor the difference between a pool swim and an
-                  open water swim, including at what water temperature it is
-                  appropriate to wear a wet suit.
-      - requirement: b
-        text: |-
-            <strong>Biking</strong>
+                  <strong>Running</strong>
+              children:
+                  - requirement: 1
+                    text: |-
+                        Demonstrate a proper run warmup and cool-down. Explain to your
+                        counselor the importance of maintaining healthy habits, including
+                        hydration, nutrition, injury prevention, and rest.
+                  - requirement: 2
+                    text: |-
+                        Learn and state the basic rules of the road for runners.
+                  - requirement: 3
+                    text: |-
+                        Demonstrate important running drills, including high knees, butt
+                        kicks, lunges, inchworms, and soldier kicks.
+      - text: |-
+            <strong>Option B—Duathlon.</strong>
         children:
             - requirement: 1
               text: |-
-                  Explain to your counselor how to ride predictably, be conspicuous,
-                  think ahead, and ride ready.
+                  <b>Biking</b>
+              children:
+                  - requirement: 1
+                    text: |-
+                        Explain to your counselor how to ride predictably, be conspicuous,
+                        think ahead, and ride ready.
+                  - requirement: 2
+                    text: |-
+                        Discuss what should be checked regularly to make sure the bicycle
+                        is safe to ride.
+                  - requirement: 3
+                    text: |-
+                        Explain the importance of wearing a properly sized and fitted
+                        helmet while cycling and of wearing the right clothing for the
+                        weather.
             - requirement: 2
               text: |-
-                  Discuss what should be checked regularly to make sure the bicycle
-                  is safe to ride.
-            - requirement: 3
-              text: |-
-                  Explain the importance of wearing a properly sized and fitted
-                  helmet while cycling and of wearing the right clothing for the
-                  weather.
-      - requirement: c
-        text: |-
-            <strong>Running</strong>
+                  <strong>Running</strong>
+              children:
+                  - requirement: 1
+                    text: |-
+                        Demonstrate a proper run warmup and cool-down. Explain to your
+                        counselor the importance of maintaining healthy habits, including
+                        hydration, nutrition, injury prevention, and rest.
+                  - requirement: 2
+                    text: |-
+                        Learn and state the basic rules of the road for runners.
+                  - requirement: 3
+                    text: |-
+                        Demonstrate important running drills, including high knees, butt
+                        kicks, lunges, inchworms, and soldier kicks.
+      - text: |-
+            <strong>Option C—Aquathlon.</strong>
         children:
             - requirement: 1
               text: |-
-                  Demonstrate a proper run warmup and cool-down. Explain to your
-                  counselor the importance of maintaining healthy habits, including
-                  hydration, nutrition, injury prevention, and rest.
-            - requirement: 2
-              text: |-
-                  Learn and state the basic rules of the road for runners.
+                  <b>Swimming</b>
+              children:
+                  - requirement: a
+                    text: |-
+                        Before doing requirements 5 through 8, earn the Swimming merit
+                        badge.
+                  - requirement: b
+                    text: |-
+                        Explain the components of the Scouting America Safe Swim Defense
+                        guidelines and how you will ensure they are in place when you swim.
+                  - requirement: 3
+                    text: |-
+                        Explain to your counselor the difference between a pool swim and an
+                        open water swim, including at what water temperature it is
+                        appropriate to wear a wet suit.
             - requirement: 3
               text: |-
-                  Demonstrate important running drills, including high knees, butt
-                  kicks, lunges, inchworms, and soldier kicks.
+                  <strong>Running</strong>
+              children:
+                  - requirement: 1
+                    text: |-
+                        Demonstrate a proper run warmup and cool-down. Explain to your
+                        counselor the importance of maintaining healthy habits, including
+                        hydration, nutrition, injury prevention, and rest.
+                  - requirement: 2
+                    text: |-
+                        Learn and state the basic rules of the road for runners.
+                  - requirement: 3
+                    text: |-
+                        Demonstrate important running drills, including high knees, butt
+                        kicks, lunges, inchworms, and soldier kicks.
+      - text: |-
+            <strong>Option D—Aquabike.</strong>
+        children:
+            - requirement: 1
+              text: |-
+                  <b>Swimming</b>
+              children:
+                  - requirement: a
+                    text: |-
+                        Before doing requirements 5 through 8, earn the Swimming merit
+                        badge.
+                  - requirement: b
+                    text: |-
+                        Explain the components of the Scouting America Safe Swim Defense
+                        guidelines and how you will ensure they are in place when you swim.
+                  - requirement: 3
+                    text: |-
+                        Explain to your counselor the difference between a pool swim and an
+                        open water swim, including at what water temperature it is
+                        appropriate to wear a wet suit.
+            - requirement: 2
+              text: |-
+                  <b>Biking</b>
+              children:
+                  - requirement: 1
+                    text: |-
+                        Explain to your counselor how to ride predictably, be conspicuous,
+                        think ahead, and ride ready.
+                  - requirement: 2
+                    text: |-
+                        Discuss what should be checked regularly to make sure the bicycle
+                        is safe to ride.
+                  - requirement: 3
+                    text: |-
+                        Explain the importance of wearing a properly sized and fitted
+                        helmet while cycling and of wearing the right clothing for the
+                        weather.
 - requirement: 5
   text: |-
       Do the following:
@@ -157,28 +260,23 @@
       mounting and dismounting your bike or adjusting your gear.
 - requirement: 7
   text: |-
-      After completing requirements 1-6, complete all of the activities (on the
-      same day and consecutively) for the multisport focus area that you selected
-      in requirement 3(d), including demonstrating a smooth and safe transition
-      between each:
+      After completing requirements 1-6, do ONE of the following (complete all
+      of the activities on the same day and consecutively) for the multisport
+      focus area you selected in requirement 3(d), including demonstrating a
+      smooth and safe transition between each:
   children:
       - requirement: a
         text: |-
-            Triathlon: swim (100 m), bike (3 km), and run (1 km)
+            Triathlon (swim 100 m, bike 3 km, and run 1 km)
       - requirement: b
         text: |-
-            Duathlon: run (1.5 km), bike (3 km), and run (.75 km)
+            Duathlon (run 1.5 km, bike 3 km, and run .75 km)
       - requirement: c
         text: |-
-            Aquathlon: swim (100 m) and run (1 km)
+            Aquathlon (swim 100 m and run 1 km)
       - requirement: d
         text: |-
-            Aquabike: swim (100 m) and bike (3 km)
-      - detail: true
-        text: |-
-            <b>Note:</b> When referring to race distances, "m" stands for meter
-            (about 3.28 feet) and "km" or simply "k" stands for kilometer (about
-            0.62 mile).
+            Aquabike (swim 100 m and bike 3 km)
 - requirement: 8
   text: |-
       Do TWO of the following and discuss with your counselor:

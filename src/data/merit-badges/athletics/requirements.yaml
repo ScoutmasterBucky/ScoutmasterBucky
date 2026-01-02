@@ -1,7 +1,6 @@
 # 5, option 7, b - mentions a diagram but didn't include one. Kept one from previous requirements.
 # Several resource links used "%20" at the end of the URL - removed the encoded space.
-- detail: true
-  text: |-
+- text: |-
       <b>NOTE: If meeting any of the requirements for this merit badge is against
       the Scout's religious convictions, the requirement does not have to be done
       if the Scout's parent or guardian and the proper religious advisors state
@@ -161,8 +160,7 @@
       Complete the activities in FOUR of the following options and show
       improvement over a three-month period:
   children:
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option 1: Sprinting</strong>
         resources:
             - href: https://youtu.be/2twa8CAFPls
@@ -174,8 +172,7 @@
       - requirement: b
         text: |-
             200-meter dash
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option 2: Long-Distance Running</strong>
         resources:
             - href: https://youtu.be/ZKCwpW-l_wU
@@ -187,8 +184,7 @@
       - requirement: b
         text: |-
             5k run
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option 3: Long Jump OR High Jump</strong>
       - requirement: a
         text: |-
@@ -210,8 +206,7 @@
             - href: https://youtu.be/Q6mxzUBF1_Q
               text: Standing High Jump
               type: video
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option 4: Swimming</strong>
       - requirement: a
         text: |-
@@ -227,8 +222,7 @@
             - href: https://youtu.be/libZMpLYfEM
               text: Best Way to Swim a 200m
               type: video
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option 5: Pull-Ups AND Push-Ups</strong>
       - requirement: a
         text: |-
@@ -244,8 +238,7 @@
             - href: https://youtu.be/x-bWOeFFQvk
               text: How to Do a Push-Up
               type: video
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option 6: Baseball Throw</strong>
         resources:
             - href: https://youtu.be/UHRU973uu2c
@@ -259,8 +252,7 @@
       - requirement: b
         text: |-
             Baseball throw for distance, five throws (total distance)
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option 7: Basketball Shooting</strong>
         resources:
             - href: https://youtu.be/iW2VFzBiaQo
@@ -306,8 +298,7 @@
             - requirement: 8
               text: |-
                   Anywhere along the three-point line
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option 8: Football Kick OR Soccer Kick</strong>
       - requirement: a
         text: |-
@@ -324,8 +315,7 @@
             - href: https://youtu.be/vJ3BHM9U-S0
               text: Kick a Football Field Goal
               type: video
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option 9: Weight Training</strong>
       - requirement: a
         text: |-

@@ -39,7 +39,7 @@ while (parents.length < (parentCount || 0)) {
                         </div>
                     </div>
                 )}
-                {requirement.detail && (
+                {!requirement.requirement && (
                     <div>
                         <div class="detail v-gap" set:html={requirement.text} />
                         {requirement.resources && (

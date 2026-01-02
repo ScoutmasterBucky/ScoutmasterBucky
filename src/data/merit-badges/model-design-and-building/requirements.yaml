@@ -1,95 +1,167 @@
-# 2025 version of requirement 1 changed "vises" to "vices" - changed back to correct term
-# 4(c) has '3 /4"' changed to '3⁄4"'
-# 4(e) changed '1 ⁄2"' to '1⁄2"'
+# 4b has `1 1/2"=1'0"` - changed to `1 1⁄2" = 1'0"` for consistency
+# 4c has `3 /4" =1'0"` - changed to `3/4" = 1'0"` for consistency
+# 4d is missing the newline after "Mechanical Model." - added it for consistency
+# 4e has `1 /2" = 1'0"` - changed to `1⁄2" = 1'0"` for consistency
 - requirement: 1
   text: |-
-      Study and understand the requirements for personal safety when using
-      modelmaker hand tools such as knives, handsaws, vises, files, hammers,
-      screwdrivers, hand drills and drill bits, pliers, portable power tools, and
-      when to use proper protective equipment such as goggles when grinding or
-      drilling. Know what precautions to take when using flammable or hazardous
-      products such as glue, epoxy, paint, and thinners. Discuss these with your
-      counselor before you begin your modelmaking project and tell why they are
-      important.
+      <b>Safety.</b> Discuss all safety procedures with your counselor before
+      beginning your modelmaking project, and explain why each is important—both
+      in traditional and computer-assisted design and construction:
+  children:
+      - requirement: a
+        text: |-
+            Explain the requirements for personal safety when using modelmaking
+            hand tools, and when to use proper protective equipment.
+      - requirement: b
+        text: |-
+            Explain digital safety best practices when using computer design
+            software, and digital fabrication tools.
+      - requirement: c
+        text: |-
+            Explain what precautions to take when using flammable or hazardous
+            materials.
 - requirement: 2
   text: |-
-      Explain the uses for each of the following types of models: architectural,
-      structural, process, mechanical, and industrial. Do research into the
-      different types of materials that could be used in making these models.
+      <b>Types of Models and Materials.</b> Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Explain the uses for each of the following types of models:
+            architectural, structural, process, mechanical, and industrial.
+      - requirement: b
+        text: |-
+            Explain to your counselor how either traditional and/or computer
+            design tools can be used to create plans, simulate function, visualize
+            models, and assist in constructing or fabricating parts.
+      - requirement: c
+        text: |-
+            Describe to your counselor traditional and modern materials and
+            fabrication methods that can be used for making these models. Include
+            physical and digital materials and methods.
 - requirement: 3
   text: |-
-      With your counselor's advice, select a subject from requirement 4 for your
-      model project. Kits may not be used. Prepare the necessary plans to the
-      proper scale. This model should be your own original work. Tell your
-      counselor why you selected this project.
-- requirement: 4
-  text: |-
-      Do ONE of the following:
+      <b>Planning Your Project.</b> With your counselor's advice, select a
+      subject from requirement 4 for your model project. (You must not use a
+      pre-made kit; your project must be your original design.)
+      <div class="gap"></div>
+      Do the following:
   children:
       - requirement: a
         text: |-
-            Make an architectural model. Build a model of a house to a scale of
-            1⁄4" = 1'0" (1:48 metric). Discuss with your counselor the materials
-            you intend to use, the amount of detail required, outside treatment
-            (finish, shrubbery, walks, etc.), and color selections. After
-            completing the model, present it to your counselor for approval.
+            Prepare the necessary plans to the proper scale.
       - requirement: b
         text: |-
-            Build a structural model. Construct a model showing corner construction
-            of a wood-frame building to a scale of 1 1⁄2" = 1'0" (1:8 scale). All
-            structures shown must be to scale. Cardboard or flat sheet wood stock
-            may be used for sheeting or flooring on the model. Review with your
-            counselor the problems you encountered in gathering the materials and
-            supporting the structure. Be able to name the parts of the floor and
-            wall frames, such as intermediate girder, joist, bridging, subfloor,
-            sill, sole plate, stud, and rafter.
+            Make a list of materials.
       - requirement: c
         text: |-
-            Make a process model. Build a model showing the plumbing system in
-            your house. Show hot and cold-water supply, all waste returns, and
-            venting to a scale of 3⁄4" = 1'0" (1:16 metric). Talk to your counselor
-            about how to begin this model, and present the scale and the materials
-            you will use. After completion, present the model to your counselor, and
-            be prepared to discuss any problems you had building this model.
+            Create a list of the required tools.
       - requirement: d
         text: |-
-            Complete a mechanical model. Build a model of a mechanical device that
-            uses at least two of the six simple machines. After completing the
-            model, present it to your counselor. Be prepared to discuss materials
-            used, the machine's function, and any particular difficulty you might
-            have encountered.
+            This model should be your own original work. Tell why you selected
+            this subject.
       - requirement: e
         text: |-
-            Make an industrial model. Build a model of an actual passenger-carrying
-            vehicle to a scale of 1" = 1'0" or 1⁄2" = 1'0" (1:12 or 1:24 metric).
-            Take the dimensions of the vehicle and record the important dimensions.
-            Draw the top, front, rear, and sides of the vehicle to scale. From your
-            plans, build a model of the vehicle and finish it in a craftsman like
-            manner. Discuss with your counselor the most difficult part of
-            completing the model.
-- requirement: 5
+            Discuss with your counselor if you plan to integrate computer design
+            tools to complete your project.
+- requirement: 4
   text: |-
-      Build a special-effects model of a fantasy spacecraft or a hand-held prop
-      that might appear in a Hollywood science-fiction movie. Determine an
-      appropriate scale for your design. Include a cockpit or control area,
-      living space, storage unit, engineering spaces, and propulsion systems. As
-      you plan and build your model, do the following:
+      <b>Build Your Model.</b> Do ONE of the following using physical and/or
+      computer design methods. Before beginning any model, discuss your approach
+      with your counselor, including the possible use of computer design
+      software such as CAD or 3D modeling tools. Present your plans and
+      completed model to your counselor.
   children:
       - requirement: a
         text: |-
-            Study existing designs of vehicles and hand-held devices.
+            <b>Architectural Model.</b>
+            <div class="gap"></div>
+            Design and build a model of a house to a scale of 1⁄4" = 1'0" (1:48
+            scale). Begin by creating floor plans and elevations. Include windows,
+            doors, and structural elements. Discuss with your counselor the
+            materials you intend to use, the amount of detail required, outside
+            treatment (finish, shrubbery, walks, etc.), and color selections. You
+            may choose to 3D print elements or use laser-cut parts based on using
+            computer design. Present both your design and final model to your
+            counselor for evaluation.
       - requirement: b
         text: |-
-            Arrange and assemble the parts.
+            <b>Structural Model.</b>
+            <div class="gap"></div>
+            Construct a scale model showing corner construction of a wood-frame
+            building to a scale of 1 1⁄2" = 1'0" (1:8 scale). Begin with a structural
+            layout showing the parts of the floor and wall frames, such as
+            intermediate girder, joist, bridging, subfloor, sill, sole plate, stud,
+            and rafter. Use your plans to assist in building a physical model with
+            cardboard, foam board, or wood. Review with your counselor the parts of
+            the structure and discuss challenges in both your design and build
+            process, gathering the materials and supporting the structure.
       - requirement: c
         text: |-
-            Sketch your completed model.
+            <b>Process Model. </b>
+            <div class="gap"></div>
+            Design and build a model showing the plumbing system of your house to a
+            scale of 3⁄4" = 1'0" (1:16 scale) or an agreed upon scale. Show hot and
+            cold-water supply, all waste returns, and venting. After creating your
+            plan, talk to your counselor about how to begin this model, and present
+            the scale and the materials you will use. Build the model using
+            appropriate materials such as tubing, straws, or printed parts. After
+            completion, present your model to your counselor, and be prepared to
+            discuss any problems you had building this model.
       - requirement: d
         text: |-
-            Discuss your design, scale, and materials choices with your counselor.
-            Describe how you engineered your model and discuss any difficulties you
-            encountered and what you learned.
+            <b>Mechanical Model.</b>
+            <div class="gap"></div>
+            Build a model of a mechanical device that incorporates at least two of
+            the six simple machines. You can use digital tools to design and
+            simulate the device before constructing it. Once your design is approved
+            by your counselor, build a working physical model using materials such
+            as wood, plastic, or 3D printed parts. Present your models to your
+            counselor and be prepared to discuss materials used, the machine's
+            function, and challenges you encountered during the construction
+            process.
+      - requirement: e
+        text: |-
+            <b>Industrial Model.</b>
+            <div class="gap"></div>
+            Build a model of an actual passenger-carrying vehicle to a scale of 1" =
+            1'0" or 1⁄2" = 1'0" (1:12 or 1:24 scale). Begin by measuring a real
+            vehicle and modeling it from multiple views (top, front, rear, sides).
+            You can draw it or use computer design software. From your plans, build
+            a physical model or use digital rendering or 3D printing to produce the
+            final version. Discuss with your counselor which parts were most
+            challenging.
+- requirement: 5
+  text: |-
+      <b>Special-Effects Fantasy Model.</b> Design and build a fantasy
+      spacecraft model suitable for a science-fiction film, using traditional
+      modeling and/or computer design techniques. Determine an appropriate scale
+      for your design—one that makes practical sense. Do the following:
+  children:
+      - requirement: a
+        text: |-
+            Research real-world aircraft, submarines, and naval ships for design
+            inspiration.
+      - requirement: b
+        text: |-
+            Design individual components (such as the cockpit, living areas,
+            engines, and storage).
+      - requirement: c
+        text: |-
+            Produce a final sketch or a rendered image of the complete model
+            from multiple angles.
+      - requirement: d
+        text: |-
+            Discuss your design process and scale choices with your counselor.
+            Describe the materials (physical and/or digital) you used, how you
+            engineered your model and discuss any difficulties you encountered and
+            what you learned.
 - requirement: 6
   text: |-
-      List at least six occupations in which modelmaking is used and discuss with
-      your counselor some career opportunities in this field.
+      <b>Careers.</b> Explore careers related to this merit badge. Research one
+      career to learn about the training and education needed, costs, job
+      prospects, salary, job duties, and career advancement. Your research
+      methods may include—with your parent or guardian's permission—an internet
+      or library search, an interview with a professional in the field, or a
+      visit to a location where people in this career work. Discuss with your
+      counselor both your findings and what about this profession might make it
+      an interesting career.

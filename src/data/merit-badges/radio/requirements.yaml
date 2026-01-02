@@ -150,8 +150,7 @@
   text: |-
       <b>Amateur and Professional Radio.</b> Do ONE of the following options:
   children:
-      - detail: true
-        text: |-
+      - text: |-
             <b>Option A—Amateur Radio.</b> Do ALL of the following:
         children:
             - requirement: 1
@@ -182,8 +181,7 @@
                   contact, and record the signal report. <br /><b>Note: </b>Licensed
                   amateur radio operators may substitute five QSL cards as evidence of
                   contacts with five amateur radio operators.
-      - detail: true
-        text: |-
+      - text: |-
             <b>Option B—Radio Broadcasting.</b> Do ALL of the following:
         children:
             - requirement: 1
@@ -209,8 +207,7 @@
               text: |-
                   Discuss with your counselor alternative radio platforms such as
                   internet streaming, satellite radio, and podcasts.
-      - detail: true
-        text: |-
+      - text: |-
             <b>Option C—Shortwave and Medium-Wave Listening.</b> Do ALL of the
             following:
         children:
@@ -238,8 +235,7 @@
               text: |-
                   Demonstrate listening to a radio broadcast using a smartphone/cell
                   phone. Include international broadcasts in your demonstration.
-      - detail: true
-        text: |-
+      - text: |-
             <b>Option D—Amateur Radio Direction Finding.</b> Do ALL of the
             following:
         children:
@@ -262,8 +258,7 @@
             - requirement: 5
               text: |-
                   Show, on a map, how you located the "fox" using your receiver.
-      - detail: true
-        text: |-
+      - text: |-
             <b
               >Option E—Family Radio Service (FRS) &amp; General Mobile Radio
               Service (GMRS) Walkie Talkies. </b

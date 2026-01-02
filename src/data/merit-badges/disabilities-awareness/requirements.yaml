@@ -52,8 +52,7 @@
   text: |-
       Do ONE of the following options:
   children:
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option A</strong>. Visit TWO of the following locations and
             take notes about the accessibility to people with disabilities. In your
             notes, give examples of five things that could be done to improve upon
@@ -71,8 +70,7 @@
       - requirement: d
         text: |-
             A public exhibit or attraction (such as a theater, museum, or park).
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option B</strong>. Visit TWO of the following locations and
             take notes while observing features and methods that are used to
             accommodate people with invisible disabilities. While there, ask staff

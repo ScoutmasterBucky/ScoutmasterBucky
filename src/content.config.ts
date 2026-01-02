@@ -26,37 +26,19 @@ const ResourceSchema: z.ZodSchema<Resource> = z.strictObject({
         .optional(),
 });
 
-interface Detail {
-    children?: RequirementListItem[];
-    detail: boolean;
-    resources?: Resource[];
-    text: string;
-}
-
-const DetailSchema: z.ZodSchema<Detail> = z.strictObject({
-    children: z.lazy(() => z.array(RequirementListItemSchema).optional()),
-    detail: z.boolean(),
-    resources: z.lazy(() => z.array(ResourceSchema).optional()),
-    text: z.string(),
-});
-
 interface Requirement {
-    children?: RequirementListItem[];
-    requirement: string | number;
+    children?: Requirement[];
+    requirement?: string | number;
     resources?: Resource[];
     text: string;
 }
 
 const RequirementSchema: z.ZodSchema<Requirement> = z.strictObject({
-    children: z.lazy(() => z.array(RequirementListItemSchema).optional()),
-    requirement: z.union([z.string(), z.number()]),
+    children: z.lazy(() => z.array(RequirementSchema).optional()),
+    requirement: z.union([z.string(), z.number()]).optional(),
     resources: z.array(ResourceSchema).optional(),
     text: z.string(),
 });
-
-type RequirementListItem = Detail | Requirement;
-
-const RequirementListItemSchema = z.union([DetailSchema, RequirementSchema]);
 
 const events = defineCollection({
     loader: file('./src/data/events.yaml', {
@@ -105,7 +87,7 @@ const meritBadgeRequirements = defineCollection({
         base: './src/data/merit-badges',
         generateId: data => data.entry.split('/')[0],
     }),
-    schema: z.array(RequirementListItemSchema),
+    schema: z.array(RequirementSchema),
 });
 
 const meritBadgeResources = defineCollection({
@@ -142,7 +124,7 @@ const otherAwardRequirements = defineCollection({
         base: './src/data/other-awards',
         generateId: data => data.entry.split('/')[0],
     }),
-    schema: z.array(RequirementListItemSchema),
+    schema: z.array(RequirementSchema),
 });
 
 const otherAwards = defineCollection({
@@ -160,7 +142,7 @@ const scoutRankRequirements = defineCollection({
         base: './src/data/scout-ranks',
         generateId: data => data.entry.split('/')[0],
     }),
-    schema: z.array(RequirementListItemSchema),
+    schema: z.array(RequirementSchema),
 });
 
 const scoutRanks = defineCollection({
@@ -179,7 +161,7 @@ const testLabRequirements = defineCollection({
         base: './src/data/test-labs',
         generateId: data => data.entry.split('/')[0],
     }),
-    schema: z.array(RequirementListItemSchema),
+    schema: z.array(RequirementSchema),
 });
 
 const testLabResources = defineCollection({

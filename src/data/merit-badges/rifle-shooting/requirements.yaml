@@ -60,8 +60,7 @@
       defined in the <i>Scouting America National Range and Target Activities
       Manual</i>), do ONE of the following options:
   children:
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option A—Rifle Shooting (Modern Cartridge Type).</strong>
             Do ALL of the following:
         children:
@@ -120,8 +119,7 @@
                   <div class="gap"></div>
                   <b>Note:</b>
                   Other suitable NRA targets may be used based on availability.
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option B—Air Rifle Shooting (BB or Pellet).</strong>
             Do ALL of the following:
         children:
@@ -177,8 +175,7 @@
                   <div class="gap"></div>
                   <b>Note:</b> Other suitable NRA targes may be
                   used based on availability.
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option C—Muzzleloading Rifle Shooting.</strong>
             Do ALL of the following:
         children:

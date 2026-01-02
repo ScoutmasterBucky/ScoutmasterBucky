@@ -89,8 +89,7 @@
       trained by a NCS Range Activities Director or by a USA Archery Level 1
       Instructor), do ONE of the following Options:
   children:
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option A—Recurve Bow or Longbow.</strong> Do the following:
       - requirement: a
         text: |-
@@ -143,8 +142,7 @@
                   Shooting 30 arrows in five-arrow ends at an 80-centimeter
                   (32-inch) five-color target at 10 yards and using the 10
                   scoring regions, make a score of 150 points.
-      - detail: true
-        text: |-
+      - text: |-
             <strong>Option B—Compound Bow.</strong> Do the following:
       - requirement: a
         text: |-
@@ -195,8 +193,7 @@
                   10 scoring regions, make a minimum score of 160 points. Accomplish this in
                   the following manner:
               children:
-                  - detail: true
-                    text: |-
+                  - text: |-
                         Shoot 15 arrows in five-arrow ends, at a distance of 10
                         yards<br /> AND<br /> Shoot 15 arrows in five-arrow ends, at a
                         distance of 15 yards.
