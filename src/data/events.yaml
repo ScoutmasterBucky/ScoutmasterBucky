@@ -287,6 +287,19 @@
   meritBadges:
       - environmental-science
 
+- title: First Aid Merit Badge Day
+  host: Scoutmaster Bucky
+  icon: /events/fa.png
+  start: '2026-01-24 9:00'
+  end: '2026-01-24 16:00'
+  registrationLink: https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-first-aid-merit-badge-2026-01-24
+  location:
+      - St Richards Catholic Church
+      - 7540 Penn Avenue South
+      - Richfield, Minnesota 55423
+  meritBadges:
+      - first-aid
+
 - title: Sustainability Merit Badge Days
   host: Sustainable Safari
   icon: /events/sustainable-safari.png
@@ -343,6 +356,26 @@
       - Duluth, Minnesota 55807
   html: |-
       <p>This is a placeholder. The merit badges haven't been decided yet.</p>
+
+- title: Wilderness and Remote First Aid - DULUTH, MN
+  host: Scoutmaster Bucky
+  icon: /events/mnwrfa.png
+  start: '2026-03-14 08:00'
+  end: '2026-03-15 18:00'
+  location:
+      - Elim Lutheran Church
+      - 6101 Cody Street
+      - Duluth, Minnesota 55807
+  registrationLink: https://mnwildernessfirstaid.com/product/wilderness-combo-package-mar26/
+  html: |-
+      <p>An 18-hour Red Cross training for a 2 year certification in
+      Adult CPR, AED, and Wilderness & Remote First Aid.</p>
+      <p>This combination course offers all training to prepare you for
+      wilderness adventure in a two-day format of official Red Cross training</p>
+#   noticeTile: |-
+#       Short title for a notice banner
+#   noticeHtml: |-
+#       Lots and lots of description. Supports HTML.
 
 - title: Mystery Merit Badge? - DULUTH, MN
   host: Scoutmaster Bucky
