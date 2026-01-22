@@ -80,7 +80,11 @@ component(
                 {{ event.noticeTile }}
             </div>
 
-            <show-modal *if="modal" @close="hideModal()">
+            <show-modal
+                *if="modal"
+                @close="hideModal()"
+                @keydown.outside.prevent.escape="hideModal()"
+            >
                 <upcoming-event-details .event="event"></upcoming-event-details>
             </show-modal>
         `,
