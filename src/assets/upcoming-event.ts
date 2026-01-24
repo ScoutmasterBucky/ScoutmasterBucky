@@ -4,18 +4,33 @@ import './upcoming-event-details';
 import './upcoming-event-icon';
 import './upcoming-event-location';
 import './upcoming-event-online-banner';
+import { DateTime } from 'luxon';
 import { component, css, html } from 'fudgel';
+import { stringToDate } from '../utils/string-to-date';
 
 component(
     'upcoming-event',
     {
-        prop: ['event'],
+        attr: ['event'],
         style: css`
             :host {
                 position: relative;
                 display: flex;
                 flex-direction: column;
                 height: 100%;
+                width: 33%;
+            }
+
+            @media (min-width: 480.0001px) and (max-width: 768px) {
+                :host {
+                    width: 50%;
+                }
+            }
+
+            @media (max-width: 480px) {
+                :host {
+                    width: 100%;
+                }
             }
 
             .wrapper {
@@ -50,47 +65,75 @@ component(
                 border-top: var(--event-notice-border);
                 flex-shrink: 0;
             }
+
+            .box {
+                margin: 0.5em;
+                border: var(--tile-border);
+                border-radius: 1em;
+                transition: all 0.2s;
+                user-select: none;
+                height: 100%;
+                overflow: hidden;
+            }
+
+            .box:hover {
+                background: var(--tile-hover-background);
+            }
         `,
         template: html`
-            <div class="wrapper" @click="showModal()">
-                <div class="top-bar">
-                    <!-- Icon -->
-                    <upcoming-event-icon .event="event"></upcoming-event-icon>
+            <div *if="eventObj" class="box">
+                <div class="wrapper" @click="showModal()">
+                    <div class="top-bar">
+                        <!-- Icon -->
+                        <upcoming-event-icon
+                            .event="eventObj"
+                        ></upcoming-event-icon>
 
-                    <!-- Calendar -->
-                    <upcoming-event-calendar
-                        .event="event"
-                    ></upcoming-event-calendar>
+                        <!-- Calendar -->
+                        <upcoming-event-calendar
+                            .event="eventObj"
+                        ></upcoming-event-calendar>
 
-                    <!-- Location -->
-                    <upcoming-event-location
-                        .event="event"
-                    ></upcoming-event-location>
+                        <!-- Location -->
+                        <upcoming-event-location
+                            .event="eventObj"
+                        ></upcoming-event-location>
+                    </div>
+
+                    <div class="title">{{ eventObj?.title }}</div>
                 </div>
 
-                <div class="title">{{ event.title }}</div>
+                <upcoming-event-online-banner
+                    *if="!eventObj?.location"
+                    @click="showModal()"
+                ></upcoming-event-online-banner>
+
+                <div @click="showModal()" *if="eventObj?.noticeTile" class="notice">
+                    {{ eventObj?.noticeTile }}
+                </div>
+
+                <show-modal
+                    *if="modal"
+                    @close="hideModal()"
+                    @keydown.outside.prevent.escape="hideModal()"
+                >
+                    <upcoming-event-details
+                        .event="eventObj"
+                    ></upcoming-event-details>
+                </show-modal>
             </div>
-
-            <upcoming-event-online-banner
-                *if="!event.location"
-                @click="showModal()"
-            ></upcoming-event-online-banner>
-
-            <div @click="showModal()" *if="event.noticeTile" class="notice">
-                {{ event.noticeTile }}
-            </div>
-
-            <show-modal
-                *if="modal"
-                @close="hideModal()"
-                @keydown.outside.prevent.escape="hideModal()"
-            >
-                <upcoming-event-details .event="event"></upcoming-event-details>
-            </show-modal>
         `,
     },
     class {
+        event: string = '';
+        eventObj: any = null;
         modal = false;
+
+        onChange(propName: string) {
+            if (propName === 'event' && this.event) {
+                this.handleEventUpdate(this.event);
+            }
+        }
 
         hideModal() {
             this.modal = false;
@@ -98,6 +141,75 @@ component(
 
         showModal() {
             this.modal = true;
+        }
+
+        private areDaysDifferent(event: any) {
+            if (!event.end) {
+                return false;
+            }
+
+            return event.start.split(' ')[0] !== event.end.split(' ')[0];
+        }
+
+        private formatDateLocal(date: Date, format: string) {
+            return DateTime.fromJSDate(date).toFormat(format);
+        }
+
+        private handleEventUpdate(eventJson: string) {
+            let eventObj = null;
+
+            try {
+                eventObj = JSON.parse(eventJson);
+            } catch (e) {
+                console.error('Error parsing event JSON:', e);
+                this.eventObj = null;
+                return;
+            }
+
+            const endDate = this.toDate(eventObj.end);
+
+            if (!endDate || endDate.date.getTime() < Date.now()) {
+                this.eventObj = null;
+                return;
+            }
+
+            const startDate = this.toDate(eventObj.start);
+            const d = new Date();
+            const offset1 =
+                DateTime.fromJSDate(d).setZone(
+                    'America/Chicago'
+                ).offset;
+            const offset2 = DateTime.fromJSDate(d).offset;
+
+            this.eventObj = {
+                ...eventObj,
+                isCentral: offset1 === offset2,
+                startDate,
+                endDate,
+                hideDate: endDate || startDate,
+                differentDays: this.areDaysDifferent(eventObj),
+            };
+        }
+
+        private toDate(dateString: string | undefined) {
+            const { date, hasTime, success } = stringToDate(dateString);
+
+            if (!success) {
+                return;
+            }
+
+            const timestamp = date.getTime();
+
+            return {
+                date,
+                hasTime,
+                local: {
+                    MMM: this.formatDateLocal(date, 'MMM'),
+                    d: this.formatDateLocal(date, 'd'),
+                    hmma: this.formatDateLocal(date, 'h:mm a'),
+                },
+                timestamp,
+            };
         }
     }
 );

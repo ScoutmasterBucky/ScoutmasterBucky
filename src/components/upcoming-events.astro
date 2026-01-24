@@ -1,0 +1,26 @@
+---
+import TileWrapper from '~/components/tile-wrapper.astro';
+import { getCollection } from 'astro:content';
+import { stringToDate } from '~/utils/string-to-date.js';
+
+// Further filtering of the event list is done client-side so that old events
+// are not displayed and site rebuilds aren't required every day.
+const events = (await getCollection('events'))
+    .filter(e => stringToDate(e.data.end).date.getTime() >= Date.now())
+    .sort((a, b) => {
+        const startTimeDifference =
+            stringToDate(a.data.start).date.getTime() -
+            stringToDate(b.data.start).date.getTime();
+        const titleDifference = a.data.title.localeCompare(b.data.title);
+
+        return startTimeDifference || titleDifference;
+    });
+---
+
+<TileWrapper>
+    {events.map(event => <upcoming-event event={JSON.stringify(event.data)} />)}
+</TileWrapper>
+
+<script>
+    import '~/assets/upcoming-event.js';
+</script>

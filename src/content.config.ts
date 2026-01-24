@@ -1,5 +1,5 @@
 import { defineCollection, z } from 'astro:content';
-import { glob, file } from 'astro/loaders';
+import { glob as globLoader, file as fileLoader } from 'astro/loaders';
 import yaml from 'js-yaml';
 
 interface Resource {
@@ -43,17 +43,9 @@ const RequirementSchema: z.ZodSchema<Requirement> = z.strictObject({
 });
 
 const events = defineCollection({
-    loader: file('./src/data/events.yaml', {
-        parser: text => {
-            const array = yaml.load(text, { filename: 'events.yaml' }) as any[];
-            let n = 1;
-
-            for (const event of array) {
-                event.id = `${n++}-${event.title.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`;
-            }
-
-            return array;
-        },
+    loader: globLoader({
+        pattern: '**/*.yaml',
+        base: './src/data/events',
     }),
     schema: z.strictObject({
         end: z
@@ -63,7 +55,6 @@ const events = defineCollection({
         host: z.string(),
         html: z.string().optional(),
         icon: z.string(),
-        id: z.string(), // automatically generated
         location: z.array(z.string()).optional(),
         meritBadges: z.array(z.string()).optional(),
         noticeHtml: z.string().optional(),
@@ -76,7 +67,7 @@ const events = defineCollection({
 });
 
 const historicalMeritBadges = defineCollection({
-    loader: file('./src/data/historical-merit-badges.yaml'),
+    loader: fileLoader('./src/data/historical-merit-badges.yaml'),
     schema: z.strictObject({
         name: z.string(),
         active: z.boolean(),
@@ -84,7 +75,7 @@ const historicalMeritBadges = defineCollection({
 });
 
 const meritBadgeRequirements = defineCollection({
-    loader: glob({
+    loader: globLoader({
         pattern: '**/requirements.yaml',
         base: './src/data/merit-badges',
         generateId: data => data.entry.split('/')[0],
@@ -93,7 +84,7 @@ const meritBadgeRequirements = defineCollection({
 });
 
 const meritBadgeResources = defineCollection({
-    loader: glob({
+    loader: globLoader({
         pattern: '**/resources.yaml',
         base: './src/data/merit-badges',
         generateId: data => data.entry.split('/')[0],
@@ -109,7 +100,7 @@ const meritBadgeResources = defineCollection({
 });
 
 const meritBadges = defineCollection({
-    loader: file('./src/data/merit-badges.yaml'),
+    loader: fileLoader('./src/data/merit-badges.yaml'),
     schema: z.strictObject({
         bucky: z.string(),
         eagle: z.boolean().optional(),
@@ -121,7 +112,7 @@ const meritBadges = defineCollection({
 });
 
 const otherAwardRequirements = defineCollection({
-    loader: glob({
+    loader: globLoader({
         pattern: '**/requirements.yaml',
         base: './src/data/other-awards',
         generateId: data => data.entry.split('/')[0],
@@ -130,7 +121,7 @@ const otherAwardRequirements = defineCollection({
 });
 
 const otherAwards = defineCollection({
-    loader: file('./src/data/other-awards.yaml'),
+    loader: fileLoader('./src/data/other-awards.yaml'),
     schema: z.strictObject({
         bucky: z.string(),
         image: z.string(),
@@ -139,7 +130,7 @@ const otherAwards = defineCollection({
 });
 
 const scoutRankRequirements = defineCollection({
-    loader: glob({
+    loader: globLoader({
         pattern: '**/requirements.yaml',
         base: './src/data/scout-ranks',
         generateId: data => data.entry.split('/')[0],
@@ -148,7 +139,7 @@ const scoutRankRequirements = defineCollection({
 });
 
 const scoutRanks = defineCollection({
-    loader: file('./src/data/scout-ranks.yaml'),
+    loader: fileLoader('./src/data/scout-ranks.yaml'),
     schema: z.strictObject({
         bucky: z.string(),
         image: z.string(),
@@ -158,7 +149,7 @@ const scoutRanks = defineCollection({
 });
 
 const testLabRequirements = defineCollection({
-    loader: glob({
+    loader: globLoader({
         pattern: '**/requirements.yaml',
         base: './src/data/test-labs',
         generateId: data => data.entry.split('/')[0],
@@ -167,7 +158,7 @@ const testLabRequirements = defineCollection({
 });
 
 const testLabResources = defineCollection({
-    loader: glob({
+    loader: globLoader({
         pattern: '**/resources.yaml',
         base: './src/data/test-labs',
         generateId: data => data.entry.split('/')[0],
@@ -183,7 +174,7 @@ const testLabResources = defineCollection({
 });
 
 const testLabs = defineCollection({
-    loader: file('./src/data/test-labs.yaml'),
+    loader: fileLoader('./src/data/test-labs.yaml'),
     schema: z.strictObject({
         expires: z.string(),
         image: z.string(),
@@ -195,7 +186,7 @@ const testLabs = defineCollection({
 });
 
 const updated = defineCollection({
-    loader: file('./src/data/updated.json'),
+    loader: fileLoader('./src/data/updated.json'),
     schema: z.record(z.string(), z.number()),
 });
 

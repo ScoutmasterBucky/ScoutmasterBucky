@@ -4,6 +4,7 @@ import FeaturedItemYoutubeVideo from '~/components/featured-item-youtube-video.a
 import ScaledContent from '~/components/scaled-content.astro';
 import SmbNews from '~/components/smb-news.astro';
 import TestLabTiles from '~/components/test-lab-tiles.astro';
+import UpcomingEvents from '~/components/upcoming-events.astro';
 import { DateTime } from 'luxon';
 
 const news = [
@@ -38,11 +39,9 @@ const lastBuildTime = DateTime.now()
         <FeaturedItemYoutubeVideo code="m293S1Ga1D8" ratio="16 / 9" />
     </div>
 
-    {news && news.length > 0 && (
-        <SmbNews news={news} />
-    )}
+    {news && news.length > 0 && <SmbNews news={news} />}
 
-    <upcoming-events></upcoming-events>
+    <UpcomingEvents />
 
     <TestLabTiles />
 
@@ -89,7 +88,8 @@ const lastBuildTime = DateTime.now()
         Contact number: 612-483-0665<br />
         Email: <a
             href="mailto:ScoutmasterBucky@yahoo.com?subject=Home Page Inquiry"
-            >ScoutmasterBucky@yahoo.com</a>
+            >ScoutmasterBucky@yahoo.com</a
+        >
     </p>
 
     <p>
@@ -98,7 +98,7 @@ const lastBuildTime = DateTime.now()
         >.
     </p>
 
-    <p>Last updated { lastBuildTime } (Bucky Time is Central Time).</p>
+    <p>Last updated {lastBuildTime} (Bucky Time is Central Time).</p>
 
     <style>
         .text-centered {
@@ -141,6 +141,3 @@ const lastBuildTime = DateTime.now()
         }
     </style>
 </DefaultLayout>
-<script>
-    import '~/assets/upcoming-events.js';
-</script>
