@@ -1,8 +1,16 @@
 <div class="elementor-widget-container">
   <p>
-    <img
+    <noscript
+      ><img
+        decoding="async"
+        src="https://filestore.scouting.org/filestore/jpg/totin.jpg"
+        alt="Totin' Chip"
+        align="right" /></noscript
+    ><img
+      class="lazyload"
       decoding="async"
-      src="https://filestore.scouting.org/filestore/jpg/totin.jpg"
+      src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E"
+      data-src="https://filestore.scouting.org/filestore/jpg/totin.jpg"
       alt="Totin' Chip"
       align="right"
     />
