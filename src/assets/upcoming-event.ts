@@ -5,7 +5,8 @@ import './upcoming-event-icon';
 import './upcoming-event-location';
 import './upcoming-event-online-banner';
 import { DateTime } from 'luxon';
-import { component, css, html } from 'fudgel';
+import type { Controller } from 'fudgel';
+import { component, css, html, metadata } from 'fudgel';
 import { stringToDate } from '../utils/string-to-date';
 
 component(
@@ -19,6 +20,10 @@ component(
                 flex-direction: column;
                 height: 100%;
                 width: 33%;
+            }
+
+            :host.invisible {
+                display: none;
             }
 
             @media (min-width: 480.0001px) and (max-width: 768px) {
@@ -169,6 +174,7 @@ component(
             const endDate = this.toDate(eventObj.end);
 
             if (!endDate || endDate.date.getTime() < Date.now()) {
+                (this as Controller)[metadata]!.host.classList.add('invisible');
                 this.eventObj = null;
                 return;
             }
@@ -180,7 +186,7 @@ component(
                     'America/Chicago'
                 ).offset;
             const offset2 = DateTime.fromJSDate(d).offset;
-
+            (this as Controller)[metadata]!.host.classList.remove('invisible');
             this.eventObj = {
                 ...eventObj,
                 isCentral: offset1 === offset2,
