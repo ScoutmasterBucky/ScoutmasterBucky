@@ -2,6 +2,8 @@
 
 The events are stored as one event per file. Each event is in YAML format and can span multiple days.
 
+The filename is technically ignored. It's there for our convenience. I've put the events into folders by year, then named the events `YYYY-MM-DD-sponsor-name-event-name.md`.
+
 
 ## Required Properties
 
