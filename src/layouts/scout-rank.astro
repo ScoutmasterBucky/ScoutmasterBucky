@@ -13,7 +13,7 @@ const { rank } = Astro.props.frontmatter || Astro.props;
 const rankInfo = (await getEntry('scoutRanks', rank))?.data;
 ---
 
-<DefaultLayout title={rankInfo.title}>
+<DefaultLayout title={rankInfo.name}>
     <ScaledContent align="center">
         <ScoutRankBucky rank={rank} />
     </ScaledContent>
