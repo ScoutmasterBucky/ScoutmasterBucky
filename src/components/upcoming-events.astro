@@ -6,7 +6,7 @@ import { stringToDate } from '~/utils/string-to-date.js';
 // Further filtering of the event list is done client-side so that old events
 // are not displayed and site rebuilds aren't required every day.
 const events = (await getCollection('events'))
-    .filter(e => stringToDate(e.data.end).date.getTime() >= Date.now())
+.filter(e => stringToDate(e.data.end).date.getTime() >= Date.now() - 1000000000)
     .sort((a, b) => {
         const startTimeDifference =
             stringToDate(a.data.start).date.getTime() -
