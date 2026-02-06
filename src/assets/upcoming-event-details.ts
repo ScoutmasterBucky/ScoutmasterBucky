@@ -1,9 +1,12 @@
-import('./upcoming-event-icon');
-import('./upcoming-event-merit-badges');
-import('./upcoming-event-registration');
-import('./upcoming-event-test-labs');
-import('fudgel').then(({ component, css, html }) => {
-    component('upcoming-event-details', {
+import './upcoming-event-icon';
+import './upcoming-event-merit-badges';
+import './upcoming-event-registration';
+import './upcoming-event-test-labs';
+import { component, css, html } from 'fudgel';
+
+component(
+    'upcoming-event-details',
+    {
         prop: ['event'],
         style: css`
             .selectable {
@@ -79,8 +82,7 @@ import('fudgel').then(({ component, css, html }) => {
         template: html`
             <div class="selectable">
                 <div class="big center column bottom-line">
-                    <upcoming-event-icon .event="event"></upcoming-event-icon>
-                    {{ event.host }}
+                    <upcoming-event-icon .event="event"></upcoming-event-icon> {{ event.host }}
                 </div>
                 <div class="big center">{{ event.title }}</div>
                 <div class="time-location">
@@ -119,16 +121,12 @@ import('fudgel').then(({ component, css, html }) => {
                     .event="event"
                 ></upcoming-event-test-labs>
                 <div *if="event.html" .inner-h-t-m-l="event.html"></div>
-                <div
-                    *if="event.noticeHtml"
-                    class="notice"
-                    .inner-h-t-m-l="event.noticeHtml"
-                ></div>
+                <div *if="event.noticeHtml" class="notice" .inner-h-t-m-l="event.noticeHtml"></div>
                 <upcoming-event-registration
                     *if="event.registrationLink"
                     .event="event"
                 ></upcoming-event-registration>
             </div>
         `,
-    });
-});
+    }
+);
