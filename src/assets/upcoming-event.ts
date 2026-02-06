@@ -6,7 +6,8 @@ import './upcoming-event-location';
 import './upcoming-event-online-banner';
 import { DateTime } from 'luxon';
 import type { Controller } from 'fudgel';
-import { component, css, html, metadata } from 'fudgel';
+//import { component, css, html, metadata } from 'fudgel';
+import { component, css, html, controllerToElement } from 'fudgel';
 import { stringToDate } from '../utils/string-to-date';
 
 component(
@@ -174,7 +175,8 @@ component(
             const endDate = this.toDate(eventObj.end);
 
             if (!endDate || endDate.date.getTime() < Date.now()) {
-                (this as Controller)[metadata]!.host.classList.add('invisible');
+                // (this as Controller)[metadata]!.host.classList.add('invisible');
+                controllerToElement(this)!.classList.add('invisible');
                 this.eventObj = null;
                 return;
             }
@@ -186,7 +188,8 @@ component(
                     'America/Chicago'
                 ).offset;
             const offset2 = DateTime.fromJSDate(d).offset;
-            (this as Controller)[metadata]!.host.classList.remove('invisible');
+            // (this as Controller)[metadata]!.host.classList.remove('invisible');
+            controllerToElement(this)!.classList.remove('invisible');
             this.eventObj = {
                 ...eventObj,
                 isCentral: offset1 === offset2,
