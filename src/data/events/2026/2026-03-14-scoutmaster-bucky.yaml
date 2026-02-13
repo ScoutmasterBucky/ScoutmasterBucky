@@ -3,13 +3,25 @@ host: Scoutmaster Bucky
 icon: /events/bucky-mar.png
 start: '2026-03-14 8:00'
 end: '2026-03-14 16:30'
+registrationLink: https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-march-merit-badge-day-2026-03-14
 location:
     - Elim Lutheran Church
     - 6101 Cody Street
     - Duluth, Minnesota 55807
+meritBadges:
+    - artificial-intelligence
+    - citizenship-in-the-nation
+    - collections
+    - cybersecurity
+    - disabilities-awareness
+    - first-aid
+    - mammal-study
+    - public-health
+    - soil-and-water-conservation
+    - textile
 html: |-
-    <p>Registration opens 02-08-2026 at 12:05 am CST. Happy Scout Sunday!</p>
-# bannerTile: |-
-#     Giving to Book Drive
-# bannerHtml: |-
-#     <p>Join Scoutmaster Bucky in supporting our Day of Giving! Every Scout that contributes $10 to the book drive will receive a limited edition Scoutmaster Bucky pin, which is different for each event. Reading makes a huge impact in the development and education of today's youth.</p>
+    <p>Registration is now open!</p>
+bannerTile: |-
+     Giving to St. Louis County Sheriff's Department
+ bannerHtml: |-
+     <p>Our March 2026 Year of Giving recipient will be the St. Louis County Sheriff's Department. To receive your limited edition March Scoutmaster Bucky pin, we are collecting NEW small stuffed animals, crayons with color puzzle books, hand warmers, and small toys. Alternatively, the March Month of Giving Pin is available for $10, with the full $10 donated directly to the organization.</p>
