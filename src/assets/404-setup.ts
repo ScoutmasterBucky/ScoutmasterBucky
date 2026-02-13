@@ -1,4 +1,4 @@
-import { component, css, html, rootElement } from 'fudgel';
+import { component, css, html } from 'fudgel';
 import redirects from '~/data/redirects.yaml';
 import globToRegExp from 'glob-to-regexp';
 
