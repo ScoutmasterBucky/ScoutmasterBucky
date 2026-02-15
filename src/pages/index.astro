@@ -12,6 +12,12 @@ const news = [
     // "Merit badges have been updated to 2025 requirements.",
 ];
 
+// Set this to the featured video code. If no featured video is desired, set to
+// null or an empty string.
+//     const featuredVideoCode = "Ka8V39lIGRs"; // Example code for a YouTube video
+//     const featuredVideoCode = null; // No featured video
+const featuredVideoCode = 'Ka8V39lIGRs';
+
 const lastBuildTime = DateTime.now()
     .setZone('America/Chicago')
     .toFormat('LLL d, yyyy, h:mm:ss a');
@@ -36,7 +42,14 @@ const lastBuildTime = DateTime.now()
         </div>
 
         <!-- Spot here for a featured item to display on the right -->
-        <FeaturedItemYoutubeVideo code="Ka8V39lIGRs" ratio="16 / 9" />
+        {
+            featuredVideoCode && (
+                <FeaturedItemYoutubeVideo
+                    code={featuredVideoCode}
+                    ratio="16 / 9"
+                />
+            )
+        }
     </div>
 
     {news && news.length > 0 && <SmbNews news={news} />}

@@ -108,6 +108,7 @@ const meritBadges = defineCollection({
         name: z.string(),
         otherAwards: z.array(z.string()),
         ranks: z.array(z.string()),
+        videoCode: z.string().optional(),
     }),
 });
 

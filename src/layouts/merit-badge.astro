@@ -26,7 +26,7 @@ for (const rankName of info.ranks) {
 }
 
 for (const otherAwardId of info['otherAwards']) {
-const otherAward = (await getEntry('otherAwards', otherAwardId))?.data;
+    const otherAward = (await getEntry('otherAwards', otherAwardId))?.data;
     related.push({
         name: otherAward.name,
         href: `/other-awards/${otherAwardId}/`,
@@ -51,39 +51,71 @@ function checkRequirementsForResources(reqs) {
 
 let hasResources = checkRequirementsForResources(requirements);
 ---
+
 <style>
-.requirements-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-@media (max-width: 768px) {
     .requirements-header {
-        align-items: flex-start;
-        flex-direction: column;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
     }
-}
 
-.updated {
-    font-size: 0.4em;
-    font-weight: normal;
-    text-transform: none;
-    font-style: italic;
-}
-
-@media (max-width: 480px) {
-    .updated-break {
-        display: none;
+    @media (max-width: 768px) {
+        .requirements-header {
+            align-items: flex-start;
+            flex-direction: column;
+        }
     }
-}
 
-.gap-bottom {
-    margin-bottom: 0.5em;
-}
+    .updated {
+        font-size: 0.4em;
+        font-weight: normal;
+        text-transform: none;
+        font-style: italic;
+    }
+
+    @media (max-width: 480px) {
+        .updated-break {
+            display: none;
+        }
+    }
+
+    .gap-bottom {
+        margin-bottom: 0.5em;
+    }
+
+    .resources-and-video {
+        display: flex;
+        justify-content: space-between;
+        gap: 1em;
+    }
+
+    .video-wrapper {
+        max-width: 25%;
+        margin: 0 auto;
+    }
+
+    @media (min-width: 768.0001px) and (max-width: 1024px) {
+        .resources-and-video {
+            flex-direction: column;
+        }
+
+        .video-wrapper {
+            max-width: 30%;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .resources-and-video {
+            flex-direction: column;
+        }
+
+        .video-wrapper {
+            max-width: 100%;
+        }
+    }
 </style>
 <DefaultLayout title={`${info.name} Merit Badge`}>
-    <h1>{ info.name }</h1>
+    <h1>{info.name}</h1>
 
     <div class="center unprintable">
         <ScaledContent>
@@ -98,37 +130,60 @@ let hasResources = checkRequirementsForResources(requirements);
 
     <h3>Resources</h3>
 
-    <ul>
-        {resources.map((resource) => (
-            <li>
-                <a href={resource.url} target="_blank">{resource.name}</a>
-            </li>
-        ))}
-    </ul>
-
-    {related.length > 0 && (
-        <h3>Related</h3>
-
+    <div class="resources-and-video">
         <ul>
-            {related.map((item) => (
-                <li>
-                    <a href={item.href}>{item.name}</a>
-                </li>
-            ))}
+            {
+                resources.map(resource => (
+                    <li>
+                        <a href={resource.url} target="_blank">
+                            {resource.name}
+                        </a>
+                    </li>
+                ))
+            }
         </ul>
-    )}
+        {
+            info.videoCode && (
+                <div class="video-wrapper">
+                    <iframe
+                        src={`https://www.youtube.com/embed/${info.videoCode}?modestbranding=1&rel=0`}
+                        style={`aspect-ratio: 16/9`}
+                        class="wide"
+                        frameborder="0"
+                        allowfullscreen
+                    />
+                </div>
+            )
+        }
+    </div>
+
+    {
+        related.length > 0 && (
+            <div>
+                <h3>Related</h3>
+
+                <ul>
+                    {related.map(item => (
+                        <li>
+                            <a href={item.href}>{item.name}</a>
+                        </li>
+                    ))}
+                </ul>
+            </div>
+        )
+    }
 
     <h2 class="requirements-header">
-        <div>{ info.name } Requirements</div>
+        <div>{info.name} Requirements</div>
         <div class="updated">
             Current Scouts BSA requirements<br class="updated-break" />
-            as of { updatedDateStr }
+            as of {updatedDateStr}
         </div>
     </h2>
 
-    {hasResources && <resources-toggle class="gap-bottom"></resources-toggle>}
+    {hasResources && <resources-toggle class="gap-bottom" />}
     <Requirements type="meritBadgeRequirements" entry={badge} />
 </DefaultLayout>
 <script>
-import '~/assets/resources-toggle';
+    import '~/assets/resources-toggle';
 </script>
