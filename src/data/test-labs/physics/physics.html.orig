@@ -16,7 +16,7 @@
         <a href="/skills/">Skills</a> &gt;
         <a href="/skills/merit-badges/">Merit Badges</a> &gt;
         <a href="/skills/merit-badges/test-lab/">Scouts BSA Test Lab</a
-        >&#160;&gt;&#160;
+        >&nbsp;&gt;&nbsp;
       </p>
     </div>
   </div>
@@ -57,11 +57,11 @@
                 viewBox="0 0 24 24"
               >
                 <g fill="none" fill-rule="evenodd">
-                  <path d="M0 0h24v24H0z" />
+                  <path d="M0 0h24v24H0z"></path>
                   <path
                     fill="gray"
                     d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20z"
-                  />
+                  ></path>
                 </g>
               </svg>
             </span>
@@ -172,12 +172,17 @@
               decoding="async"
               width="96"
               height="96"
-              src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2096%2096%22%3E%3C/svg%3E"
+              src="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png"
               data-src="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png"
-              class="lazyload attachment-large size-large wp-image-231895"
+              class="attachment-large size-large wp-image-231895 ls-is-cached lazyloaded"
               alt=""
               data-srcset="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png 96w, https://www.scouting.org/wp-content/uploads/2025/01/info@3x-74x74.png 74w"
               data-sizes="(max-width: 96px) 100vw, 96px"
+              sizes="(max-width: 96px) 100vw, 96px"
+              srcset="
+                https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png       96w,
+                https://www.scouting.org/wp-content/uploads/2025/01/info@3x-74x74.png 74w
+              "
             />
           </div>
         </div>
@@ -310,7 +315,7 @@
           right here.
         </p>
         <p>
-          So, welcome to the&#160;world of <strong>Physics</strong>—your gateway
+          So, welcome to the&nbsp;world of <strong>Physics</strong>—your gateway
           to understanding the incredible forces that shape our universe!
         </p>
       </div>
@@ -350,12 +355,20 @@
           decoding="async"
           width="1500"
           height="1409"
-          src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201500%201409%22%3E%3C/svg%3E"
+          src="https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807.jpg"
           data-src="https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807.jpg"
-          class="lazyload attachment-full size-full wp-image-247682"
+          class="attachment-full size-full wp-image-247682 lazyloading"
           alt=""
           data-srcset="https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807.jpg 1500w, https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807-300x282.jpg 300w, https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807-1024x962.jpg 1024w, https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807-768x721.jpg 768w, https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807-74x70.jpg 74w"
           data-sizes="(max-width: 1500px) 100vw, 1500px"
+          sizes="(max-width: 1500px) 100vw, 1500px"
+          srcset="
+            https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807.jpg          1500w,
+            https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807-300x282.jpg   300w,
+            https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807-1024x962.jpg 1024w,
+            https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807-768x721.jpg   768w,
+            https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807-74x70.jpg      74w
+          "
         />
       </div>
     </div>
@@ -392,7 +405,7 @@
         to your counselor the safety precautions and personal protective
         equipment necessary for working with physics-related equipment.
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul style="list-style-type: none">
         <li>
           <a
@@ -406,12 +419,12 @@
           >
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         <strong>2. What is Physics? </strong>Define physics in your own words
         and discuss with your counselor various areas of physics.
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul style="list-style-type: none">
         <li>
           <strong
@@ -444,13 +457,13 @@
           >
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         <strong>3. </strong><strong>Fundamentals of Physics. </strong>Explain
         these key physics concepts: force, motion, energy, and waves. Provide
         real-world examples demonstrating each principle.
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul style="list-style-type: none">
         <li>
           <a
@@ -463,22 +476,22 @@
           >
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         <strong>4. </strong><strong>Hands-On Experimentation. </strong>Conduct
-        THREE <strong>&#160;</strong>physics experiments, selecting from the
+        THREE <strong>&nbsp;</strong>physics experiments, selecting from the
         following options. Each experiment must include: a hypothesis, materials
         used, safety precautions, observations, and conclusions based on
         results. Explain how each experiment demonstrates key physics
         principles. For each experiment, be sure to try variations/variables to
         test your hypothesis.
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul style="list-style-type: none">
         <li>
           <strong
             >Option A: Newton’s Laws in Action: Balloon-Powered Car. </strong
-          >&#160;Make and test a balloon-powered car to show how force and
+          >&nbsp;Make and test a balloon-powered car to show how force and
           motion interact.
           <ul style="list-style-type: none">
             <li>
@@ -505,7 +518,7 @@
                   target="_blank"
                   rel="noopener"
                   >Stacked Ball Drop</a
-                >&#160;</strong
+                >&nbsp;</strong
               >
             </li>
             <li>
@@ -547,7 +560,7 @@
                 target="_blank"
                 rel="noopener"
                 ><strong
-                  >Centripetal swinging tray,&#160; improving an old
+                  >Centripetal swinging tray,&nbsp; improving an old
                   demonstration</strong
                 ></a
               >
@@ -564,7 +577,7 @@
                 target="_blank"
                 rel="noopener"
                 ><strong
-                  >Balancing toy physics….Tweety Boppers,&#160; Inertia, Center
+                  >Balancing toy physics….Tweety Boppers,&nbsp; Inertia, Center
                   of gravity, Harmonic motion</strong
                 ></a
               >
@@ -591,7 +604,7 @@
                 target="_blank"
                 rel="noopener"
                 ><strong
-                  >Sound Visualizer &amp; Chladni Patterns&#160; Formed on a
+                  >Sound Visualizer &amp; Chladni Patterns&nbsp; Formed on a
                   Plastic Bucket // Homemade Science with Bruce Yeany</strong
                 ></a
               >
@@ -619,7 +632,7 @@
           <strong
             >Option H: Air Pressure: Bernoulli’s principle and the Coandă
             Effect. </strong
-          >Balance different objects in a stream of air.&#160;
+          >Balance different objects in a stream of air.&nbsp;
           <ul style="list-style-type: none">
             <li>
               <strong
@@ -662,12 +675,12 @@
           </ul>
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
-        <strong>5. Physics All Around You. </strong>&#160;Discuss with your
+        <strong>5. Physics All Around You. </strong>&nbsp;Discuss with your
         counselor:
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul style="list-style-type: none">
         <li>
           (a)<strong> Physics in Everyday Life.</strong> Describe FIVE ways
@@ -824,13 +837,13 @@
           </ul>
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         <strong>6. </strong><strong>The Future of Physics. </strong>Physicists
         try to explain the universe and apply these concepts to novel
         technologies. Discuss one option with your counselor:
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul style="list-style-type: none">
         <li>
           <strong>Option A: Unsolved Mysteries of Physics. </strong>Discuss the
@@ -974,7 +987,7 @@
         </li>
         <li>
           <strong
-            >Option D:&#160; Advanced Theories &amp; Future Discoveries. </strong
+            >Option D:&nbsp; Advanced Theories &amp; Future Discoveries. </strong
           >Discuss the following with your counselor:
           <ul style="list-style-type: none">
             <li>
@@ -1011,17 +1024,17 @@
           </ul>
         </li>
       </ul>
-      <p>&#160;</p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
       <p>
-        <strong>7.&#160;</strong
+        <strong>7.&nbsp;</strong
         ><strong>Engineering and Physics Challenge.</strong> Solve a simple
         engineering problem using physics-based reasoning. Define the problem,
         allowable materials, and safety constraints. You may enlist friends or
         family in completing your challenge. All plans must be approved in
         advance by your counselor. Do ONE of the following options:
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul style="list-style-type: none">
         <li>
           <strong>Option A: Fastest Pinewood Derby Car. </strong>Build pinewood
@@ -1070,8 +1083,8 @@
         </li>
       </ul>
       <p>
-        &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;
-        &#160;<noscript
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        &nbsp;<noscript
           ><img
             loading="lazy"
             decoding="async"
@@ -1091,7 +1104,7 @@
           height="279"
         />
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul>
         <li style="list-style-type: none">
           <ul style="list-style-type: none">
@@ -1159,7 +1172,7 @@
                   >Egg drop activity////Homemade Science with Bruce
                   Yeany</strong
                 ></a
-              ><strong>&#160;</strong>
+              ><strong>&nbsp;</strong>
             </li>
           </ul>
         </li>
@@ -1169,7 +1182,7 @@
           <strong>Option D: Water Bottle Rockets. </strong>Explore propulsion
           and Newton’s Third Law. The challenge is to land an air pressured
           rocket, using water as a propellant, exactly at a specific distance
-          (for example, 70 m)&#160; from launch point, three times, with extra
+          (for example, 70 m)&nbsp; from launch point, three times, with extra
           points for flight duration.
         </li>
       </ul>
@@ -1206,9 +1219,9 @@
           physics challenge with your counselor’s approval.
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p><strong>8. Careers</strong> Do ONE of the following:</p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul style="list-style-type: none">
         <li>
           (a) Explore careers related to this badge. Research one career to
@@ -1226,7 +1239,7 @@
                 target="_blank"
                 rel="noopener"
                 ><strong>Career Options for Physicists</strong></a
-              ><strong>&#160;</strong>
+              ><strong>&nbsp;</strong>
             </li>
             <li>
               <strong
@@ -1351,10 +1364,10 @@
         <strong
           >You decide if this activity becomes an official Merit Badge of
           Scouting America.</strong
-        >&#160; By filling out the survey, you vote for or against this becoming
-        a Merit Badge.&#160; You can also suggest changes to make the merit
-        badge more engaging.&#160; The fate of this potential merit badge rests
-        in your hands.&#160; Come back and complete the survey after you finish
+        >&nbsp; By filling out the survey, you vote for or against this becoming
+        a Merit Badge.&nbsp; You can also suggest changes to make the merit
+        badge more engaging.&nbsp; The fate of this potential merit badge rests
+        in your hands.&nbsp; Come back and complete the survey after you finish
         the requirements to make your voice heard and to get your certificate of
         completion.
       </p>

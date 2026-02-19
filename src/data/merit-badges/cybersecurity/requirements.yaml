@@ -1,6 +1,7 @@
 # Resource URL for 3b was blank. Updated to https://www.youtube.com/watch?v=kPPFNrlN3zo
 # Requirement 5c8 had resources as text embedded in the requirement. Fixed.
 # Requirement 6a resource Khan Academy link was truncated. Kept original.
+# Requirement 9a first resource has wrong description
 - requirement: 1
   text: |-
       <b>Safety.</b> Do the following:
@@ -20,11 +21,8 @@
             Show how to set privacy settings to protect your personal information,
             including photos of yourself or your location.
         resources:
-            - href: https://cyber.org/find-curricula/protecting-your-digital-footprint-keys-cybersecurity
+            - href: https://cyber.org/find-curricula/key-5
               text: Protecting Your Digital Footprint - Keys to Cybersecurity
-              type: website
-            - href: https://www.futureoftech.org/big-data/5-privacy-security-liability/
-              text: "Big Data Privacy, Security, &amp; Liability Issues: CompTIA's Future of Tech"
               type: website
       - requirement: c
         text: |-
@@ -70,9 +68,6 @@
             judgement, and how the Scout Law and personal values should guide your
             actions.
         resources:
-            - href: https://www.futureoftech.org/cybersecurity/4-ethical-issues-in-cybersecurity/
-              text: "Ethical Issues in Cybersecurity: CompTIA's Future of Tech"
-              type: website
             - href: https://onlinelaw.csuohio.edu/understanding-cybersecurity-ethics-and-navigating-moral-complexities/
               text: 'Understanding Cybersecurity Ethics: Navigating Privacy and Security Challenges'
               type: website
@@ -89,14 +84,8 @@
             - href: https://youtu.be/n_kKEimNhgY
               text: Cybersecurity Explained | Future of Tech
               type: video
-            - href: https://www.futureoftech.org/cybersecurity/1-what-is-cybersecurity/#section-1
-              text: What Is Cybersecurity? Why Do We Need Cybersecurity?
-              type: website
-            - href: https://www.futureoftech.org/cybersecurity/5-impact-of-cybersecurity/
-              text: The Impact of Cybersecurity
-              type: website
             - href: https://www.cyberdefensemagazine.com/cybersecurity-in-critical-infrastructure-protecting-power-grids-and-smart-grids/
-              text: 'Cybersecurity in Critical Infrastructure: Protecting Power Grids and Smart Grids'
+              text: 'Cybersecurity in Critical Infrastructure: Protecting Power Grids and Smart Grids - Cyber Defense Magazine'
               type: website
       - requirement: b
         text: |-
@@ -239,14 +228,11 @@
             network, such as access controls, antivirus software, firewall,
             intrusion detection/prevention systems, and Virtual Private Network.
         resources:
-            - href: https://youtu.be/bPVaOlJ6ln0
-              text: 'Cybersecurity: Crash Course Computer Science #31'
+            - href: https://youtu.be/goMnkhKBOHY
+              text: 'How Not To Get Hacked: Install Updates (Code.org)'
               type: video
-            - href: https://www.cisa.gov/news-events/news/understanding-firewalls-home-and-small-office-use
-              text: Understanding Firewalls for Home and Small Office Use | CISA
-              type: website
-            - href: https://www.futureoftech.org/cybersecurity/3-technologies-in-cybersecurity/
-              text: "Technologies in Cybersecurity: CompTIA's Future of Tech"
+            - href: https://www.cisa.gov/secure-our-world/update-software
+              text: 'Update Software | CISA'
               type: website
       - requirement: b
         text: |-
@@ -579,14 +565,11 @@
             - href: https://www.cybermission.tech/game
               text: 'Cyber Challenge: Online Cybersecurity Game | Cybermission'
               type: website
-            - href: https://cryptologicfoundation.org/students/games/cybersecurity-computer-gaming.html
-              text: NCF Cybersecurity Computer Gaming Series
-              type: website
             - href: https://cias.utsa.edu/ctd/
-              text: Cyber Threat Defender · The UTSA CIAS
+              text: Cyber Threat Defender - The UTSA CIAS
               type: website
             - href: https://cias.utsa.edu/k-12/cybersecurity-games/
-              text: K-12 Cybersecurity Games · The UTSA CIAS
+              text: K-12 Cybersecurity Games - The UTSA CIAS
               type: website
             - href: https://picoctf.org/
               text: picoCTF - CMU Cybersecurity Competition
@@ -611,7 +594,7 @@
             associated with this career. Discuss what you learned with your
             counselor and whether you might be interested in this career.
         resources:
-            - href: https://cyber.org/sites/default/files/2025-04/
+            - href: https://www.cybermission.tech/game
               text: Career Exploration Cards | Cyber.org
               type: pdf
             - href: https://cyber.org/career-exploration/degrees-certifications
@@ -620,15 +603,6 @@
             - href: https://youtu.be/f_69UzSfBsA
               text: Information Security and Forensics Analyst | What I Do
               type: video
-            - href: https://www.futureoftech.org/cybersecurity/6-careers-in-cybersecurity/
-              text: "Careers in Cybersecurity: CompTIA's Future of Tech"
-              type: website
-            - href: https://www.cybermission.tech/careers-and-training
-              text: Military Cybersecurity Careers &amp; Training | Cybermission
-              type: website
-            - href: https://cryptologicfoundation.org/students/cyberchats/archive.html/article/2022/02/16/careers-in-cybersecurity-an-ncf-panel-discussion
-              text: NCF Panel Discussion about Cybersecurity Careers | #CyberChats Podcast
-              type: podcast
       - requirement: b
         text: |-
             Visit a business or organization that does work in cybersecurity.

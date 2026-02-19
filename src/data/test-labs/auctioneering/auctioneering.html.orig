@@ -16,7 +16,7 @@
         <a href="/skills/">Skills</a> &gt;
         <a href="/skills/merit-badges/">Merit Badges</a> &gt;
         <a href="/skills/merit-badges/test-lab/">Scouts BSA Test Lab</a
-        >&#160;&gt;&#160;
+        >&nbsp;&gt;&nbsp;
       </p>
     </div>
   </div>
@@ -57,11 +57,11 @@
                 viewBox="0 0 24 24"
               >
                 <g fill="none" fill-rule="evenodd">
-                  <path d="M0 0h24v24H0z" />
+                  <path d="M0 0h24v24H0z"></path>
                   <path
                     fill="gray"
                     d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20z"
-                  />
+                  ></path>
                 </g>
               </svg>
             </span>
@@ -175,12 +175,17 @@
               decoding="async"
               width="96"
               height="96"
-              src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2096%2096%22%3E%3C/svg%3E"
+              src="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png"
               data-src="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png"
-              class="lazyload attachment-large size-large wp-image-231895"
+              class="attachment-large size-large wp-image-231895 lazyloaded"
               alt=""
               data-srcset="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png 96w, https://www.scouting.org/wp-content/uploads/2025/01/info@3x-74x74.png 74w"
               data-sizes="(max-width: 96px) 100vw, 96px"
+              sizes="(max-width: 96px) 100vw, 96px"
+              srcset="
+                https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png       96w,
+                https://www.scouting.org/wp-content/uploads/2025/01/info@3x-74x74.png 74w
+              "
             />
           </div>
         </div>
@@ -341,12 +346,20 @@
           decoding="async"
           width="640"
           height="429"
-          src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20640%20429%22%3E%3C/svg%3E"
+          src="https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1024x686.jpg"
           data-src="https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1024x686.jpg"
-          class="lazyload attachment-large size-large wp-image-231948"
+          class="attachment-large size-large wp-image-231948 lazyloaded"
           alt=""
           data-srcset="https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1024x686.jpg 1024w, https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-300x201.jpg 300w, https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-768x515.jpg 768w, https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-74x50.jpg 74w, https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x.jpg 1482w"
           data-sizes="(max-width: 640px) 100vw, 640px"
+          sizes="(max-width: 640px) 100vw, 640px"
+          srcset="
+            https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1024x686.jpg 1024w,
+            https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-300x201.jpg   300w,
+            https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-768x515.jpg   768w,
+            https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-74x50.jpg      74w,
+            https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x.jpg          1482w
+          "
         />
       </div>
     </div>
@@ -475,7 +488,7 @@
           sales.</strong
         >
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         <strong
           ><a
@@ -522,7 +535,7 @@
           following:</strong
         >
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ol style="list-style-type: upper-alpha">
         <li>
           Shadow that auctioneer for a day and discuss with your counselor what
@@ -579,7 +592,7 @@
       <p>
         <strong>5. Discuss with your counselor:<br /></strong>
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ol style="list-style-type: upper-alpha">
         <li>Types of assets sold at auction</li>
         <li>Types of customers you would be selling these assets for</li>
@@ -723,7 +736,7 @@
           professional auctioneer, including<br
         /></strong>
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ol style="list-style-type: upper-alpha">
         <li>Auction Schools</li>
         <li>Licensing</li>
@@ -840,10 +853,10 @@
         <strong
           >You decide if this activity becomes an official Merit Badge of
           Scouting America.</strong
-        >&#160; By filling out the survey, you vote for or against this becoming
-        a Merit Badge.&#160; You can also suggest changes to make the merit
-        badge more engaging.&#160; The fate of this potential merit badge rests
-        in your hands.&#160; Come back and complete the survey after you finish
+        >&nbsp; By filling out the survey, you vote for or against this becoming
+        a Merit Badge.&nbsp; You can also suggest changes to make the merit
+        badge more engaging.&nbsp; The fate of this potential merit badge rests
+        in your hands.&nbsp; Come back and complete the survey after you finish
         the requirements to make your voice heard and to get your certificate of
         completion.
       </p>

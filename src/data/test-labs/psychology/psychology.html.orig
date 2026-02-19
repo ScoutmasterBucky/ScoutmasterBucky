@@ -16,7 +16,7 @@
         <a href="/skills/">Skills</a> &gt;
         <a href="/skills/merit-badges/">Merit Badges</a> &gt;
         <a href="/skills/merit-badges/test-lab/">Scouts BSA Test Lab</a
-        >&#160;&gt;&#160;
+        >&nbsp;&gt;&nbsp;
       </p>
     </div>
   </div>
@@ -57,11 +57,11 @@
                 viewBox="0 0 24 24"
               >
                 <g fill="none" fill-rule="evenodd">
-                  <path d="M0 0h24v24H0z" />
+                  <path d="M0 0h24v24H0z"></path>
                   <path
                     fill="gray"
                     d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20z"
-                  />
+                  ></path>
                 </g>
               </svg>
             </span>
@@ -174,12 +174,17 @@
               decoding="async"
               width="96"
               height="96"
-              src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2096%2096%22%3E%3C/svg%3E"
+              src="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png"
               data-src="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png"
-              class="lazyload attachment-large size-large wp-image-231895"
+              class="attachment-large size-large wp-image-231895 ls-is-cached lazyloaded"
               alt=""
               data-srcset="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png 96w, https://www.scouting.org/wp-content/uploads/2025/01/info@3x-74x74.png 74w"
               data-sizes="(max-width: 96px) 100vw, 96px"
+              sizes="(max-width: 96px) 100vw, 96px"
+              srcset="
+                https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png       96w,
+                https://www.scouting.org/wp-content/uploads/2025/01/info@3x-74x74.png 74w
+              "
             />
           </div>
         </div>
@@ -342,12 +347,21 @@
           decoding="async"
           width="640"
           height="427"
-          src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20640%20427%22%3E%3C/svg%3E"
+          src="https://www.scouting.org/wp-content/uploads/2025/12/GettyImages-1397657850-1024x683.jpg"
           data-src="https://www.scouting.org/wp-content/uploads/2025/12/GettyImages-1397657850-1024x683.jpg"
-          class="lazyload attachment-large size-large wp-image-256921"
+          class="attachment-large size-large wp-image-256921 lazyloaded"
           alt=""
           data-srcset="https://www.scouting.org/wp-content/uploads/2025/12/GettyImages-1397657850-1024x683.jpg 1024w, https://www.scouting.org/wp-content/uploads/2025/12/GettyImages-1397657850-300x200.jpg 300w, https://www.scouting.org/wp-content/uploads/2025/12/GettyImages-1397657850-768x512.jpg 768w, https://www.scouting.org/wp-content/uploads/2025/12/GettyImages-1397657850-1536x1024.jpg 1536w, https://www.scouting.org/wp-content/uploads/2025/12/GettyImages-1397657850-74x49.jpg 74w, https://www.scouting.org/wp-content/uploads/2025/12/GettyImages-1397657850.jpg 1752w"
           data-sizes="(max-width: 640px) 100vw, 640px"
+          sizes="(max-width: 640px) 100vw, 640px"
+          srcset="
+            https://www.scouting.org/wp-content/uploads/2025/12/GettyImages-1397657850-1024x683.jpg  1024w,
+            https://www.scouting.org/wp-content/uploads/2025/12/GettyImages-1397657850-300x200.jpg    300w,
+            https://www.scouting.org/wp-content/uploads/2025/12/GettyImages-1397657850-768x512.jpg    768w,
+            https://www.scouting.org/wp-content/uploads/2025/12/GettyImages-1397657850-1536x1024.jpg 1536w,
+            https://www.scouting.org/wp-content/uploads/2025/12/GettyImages-1397657850-74x49.jpg       74w,
+            https://www.scouting.org/wp-content/uploads/2025/12/GettyImages-1397657850.jpg           1752w
+          "
         />
       </div>
     </div>
@@ -382,12 +396,12 @@
       <p>
         <strong>1. Do the following:<br /></strong>
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         (a) Define psychology in your own words and explain its impact on daily
         life.
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul>
         <li>
           <strong
@@ -420,12 +434,12 @@
           >
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         (b) Identify two famous psychologists and describe their contributions
         to the field.
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul>
         <li>
           <strong
@@ -451,17 +465,17 @@
           /></strong>
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         <strong>2. Do the following:<br /></strong>
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         (a) Write a script for a short (1–2 minute) skit that demonstrates how a
         leader might apply the study of psychology to better lead a group. Share
         your script with your counselor.
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul>
         <li>
           <a href="https://www.youtube.com/watch?v=jfd_eWwNImA"
@@ -499,19 +513,19 @@
           >
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         (b) With the help of others, rehearse and perform your skit for your
         counselor (in-person or by recorded video). Explain to your counselor
         the plot and discuss the connections between psychology and leadership
         that are shown in your skit.<br /><br />
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         <strong>3. Do the following:<br /><br /></strong>
       </p>
       <p>(a) In your own words, define mental health.</p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul>
         <li>
           <strong
@@ -536,14 +550,14 @@
           /></strong>
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         (b) Discuss with your counselor the concepts of protective factors, risk
         factors, and resilience for the mental health of youth close to your age
         in your community. Share ideas about how your community could strengthen
         the resilience of young people.
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul>
         <li>
           <strong
@@ -593,7 +607,7 @@
           /></strong>
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         <strong>4. Do the following:<br /><br /></strong>
       </p>
@@ -604,13 +618,13 @@
         these things made you feel and draw your own emoji next to each entry to
         summarize your feelings from each experience.
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         (b) Review your two-week tracking log with your counselor and discuss
         the trends you notice about the activities you did and the emotions you
         felt.
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul>
         <li>
           <strong
@@ -621,14 +635,14 @@
           /></strong>
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p><strong>5. Do the following:</strong></p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         (a) In your own words, define empathy and give examples of how you might
         show empathy to others.
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul>
         <li>
           <strong
@@ -639,12 +653,12 @@
           >
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         (b) Discuss the importance of resilience and how Scouting experiences
         develop resilience.
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul>
         <li>
           <strong
@@ -671,7 +685,7 @@
           >
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         <strong
           >6. Describe how the Scout Oath and Law help create a community of
@@ -681,7 +695,7 @@
           words.</strong
         >
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul>
         <li>
           <a href="https://www.youtube.com/watch?v=ZuHZhi1B4T4"
@@ -726,7 +740,7 @@
           /></strong>
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         <strong
           >7. Identify three career opportunities that would use skills and
@@ -738,7 +752,7 @@
           counselor and whether you might be interested in this career.</strong
         >
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul>
         <li>
           <strong
@@ -771,7 +785,7 @@
           >
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         <strong
           >8. Complete the survey below to complete the test lab
@@ -845,10 +859,10 @@
         <strong
           >You decide if this activity becomes an official Merit Badge of
           Scouting America.</strong
-        >&#160; By filling out the survey, you vote for or against this becoming
-        a Merit Badge.&#160; You can also suggest changes to make the merit
-        badge more engaging.&#160; The fate of this potential merit badge rests
-        in your hands.&#160; Come back and complete the survey after you finish
+        >&nbsp; By filling out the survey, you vote for or against this becoming
+        a Merit Badge.&nbsp; You can also suggest changes to make the merit
+        badge more engaging.&nbsp; The fate of this potential merit badge rests
+        in your hands.&nbsp; Come back and complete the survey after you finish
         the requirements to make your voice heard and to get your certificate of
         completion.
       </p>

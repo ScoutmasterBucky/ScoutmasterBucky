@@ -16,7 +16,7 @@
         <a href="/skills/">Skills</a> &gt;
         <a href="/skills/merit-badges/">Merit Badges</a> &gt;
         <a href="/skills/merit-badges/test-lab/">Scouts BSA Test Lab</a
-        >&#160;&gt;&#160;
+        >&nbsp;&gt;&nbsp;
       </p>
     </div>
   </div>
@@ -57,11 +57,11 @@
                 viewBox="0 0 24 24"
               >
                 <g fill="none" fill-rule="evenodd">
-                  <path d="M0 0h24v24H0z" />
+                  <path d="M0 0h24v24H0z"></path>
                   <path
                     fill="gray"
                     d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20z"
-                  />
+                  ></path>
                 </g>
               </svg>
             </span>
@@ -175,12 +175,17 @@
               decoding="async"
               width="96"
               height="96"
-              src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2096%2096%22%3E%3C/svg%3E"
+              src="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png"
               data-src="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png"
-              class="lazyload attachment-large size-large wp-image-231895"
+              class="attachment-large size-large wp-image-231895 ls-is-cached lazyloaded"
               alt=""
               data-srcset="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png 96w, https://www.scouting.org/wp-content/uploads/2025/01/info@3x-74x74.png 74w"
               data-sizes="(max-width: 96px) 100vw, 96px"
+              sizes="(max-width: 96px) 100vw, 96px"
+              srcset="
+                https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png       96w,
+                https://www.scouting.org/wp-content/uploads/2025/01/info@3x-74x74.png 74w
+              "
             />
           </div>
         </div>
@@ -258,12 +263,18 @@
           decoding="async"
           width="490"
           height="424"
-          src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20490%20424%22%3E%3C/svg%3E"
+          src="https://www.scouting.org/wp-content/uploads/2025/08/Test-Lab-Life-Skills-1-002082725.png"
           data-src="https://www.scouting.org/wp-content/uploads/2025/08/Test-Lab-Life-Skills-1-002082725.png"
-          class="lazyload attachment-large size-large wp-image-233216"
+          class="attachment-large size-large wp-image-233216 lazyloaded"
           alt=""
           data-srcset="https://www.scouting.org/wp-content/uploads/2025/08/Test-Lab-Life-Skills-1-002082725.png 490w, https://www.scouting.org/wp-content/uploads/2025/08/Test-Lab-Life-Skills-1-002082725-300x260.png 300w, https://www.scouting.org/wp-content/uploads/2025/08/Test-Lab-Life-Skills-1-002082725-74x64.png 74w"
           data-sizes="(max-width: 490px) 100vw, 490px"
+          sizes="(max-width: 490px) 100vw, 490px"
+          srcset="
+            https://www.scouting.org/wp-content/uploads/2025/08/Test-Lab-Life-Skills-1-002082725.png         490w,
+            https://www.scouting.org/wp-content/uploads/2025/08/Test-Lab-Life-Skills-1-002082725-300x260.png 300w,
+            https://www.scouting.org/wp-content/uploads/2025/08/Test-Lab-Life-Skills-1-002082725-74x64.png    74w
+          "
         />
       </div>
     </div>
@@ -353,12 +364,20 @@
           decoding="async"
           width="640"
           height="429"
-          src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20640%20429%22%3E%3C/svg%3E"
+          src="https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1-1024x686.jpg"
           data-src="https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1-1024x686.jpg"
-          class="lazyload attachment-large size-large wp-image-232282"
+          class="attachment-large size-large wp-image-232282 lazyloading"
           alt=""
           data-srcset="https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1-1024x686.jpg 1024w, https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1-300x201.jpg 300w, https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1-768x515.jpg 768w, https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1-74x50.jpg 74w, https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1.jpg 1482w"
           data-sizes="(max-width: 640px) 100vw, 640px"
+          sizes="(max-width: 640px) 100vw, 640px"
+          srcset="
+            https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1-1024x686.jpg 1024w,
+            https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1-300x201.jpg   300w,
+            https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1-768x515.jpg   768w,
+            https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1-74x50.jpg      74w,
+            https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1.jpg          1482w
+          "
         />
       </div>
     </div>
@@ -391,7 +410,7 @@
   >
     <div class="elementor-widget-container">
       <p><strong>1. Health. Do the following:</strong></p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ol style="list-style-type: upper-alpha">
         <li>Describe the steps to make a doctor’s appointment.</li>
         <strong
@@ -403,8 +422,8 @@
           ></strong
         ><br /><br />
         <li>
-          Locate the hospital or urgent care center&#160;closest&#160;to your
-          home.&#160;&#160;
+          Locate the hospital or urgent care center&nbsp;closest&nbsp;to your
+          home.&nbsp;&nbsp;
         </li>
         <br />
         <li>
@@ -462,12 +481,18 @@
   >
     <div class="elementor-widget-container">
       <p><strong>2. Household. Do the following:</strong></p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ol style="list-style-type: upper-alpha">
-        <li>
-          Explain the steps required to do laundry. With your parent or
-          guardian’s permission, wash and dry one load of laundry.
+        <li style="list-style-type: none">
+          <ol style="list-style-type: upper-alpha">
+            <li>
+              Explain the steps required to do laundry. With your parent or
+              guardian’s permission, wash and dry one load of laundry.
+            </li>
+          </ol>
         </li>
+      </ol>
+      <p>
         <strong
           ><a
             href="https://tide.com/en-us/how-to-wash-clothes/how-to-do-laundry"
@@ -476,11 +501,19 @@
             >How to Do Laundry</a
           ></strong
         ><br /><br />
-        <li>
-          Explain the steps required to iron clothes. With your parent or
-          guardian’s permission, demonstrate how to iron two different articles
-          of clothing.
+      </p>
+      <ol style="list-style-type: upper-alpha">
+        <li style="list-style-type: none">
+          <ol style="list-style-type: upper-alpha">
+            <li>
+              Explain the steps required to iron clothes. With your parent or
+              guardian’s permission, demonstrate how to iron two different
+              articles of clothing.
+            </li>
+          </ol>
         </li>
+      </ol>
+      <p>
         <strong
           ><a
             href="https://321zips.com/blog/ironing-101-how-to-iron-clothes/"
@@ -489,10 +522,18 @@
             >Ironing 101: Everything You Need to Know About Ironing Clothes</a
           ></strong
         ><br /><br />
-        <li>
-          Demonstrate your knowledge of sewing by sewing a patch or button on a
-          shirt or pair of pants.
+      </p>
+      <ol style="list-style-type: upper-alpha">
+        <li style="list-style-type: none">
+          <ol style="list-style-type: upper-alpha">
+            <li>
+              Demonstrate your knowledge of sewing by sewing a patch or button
+              on a shirt or pair of pants.
+            </li>
+          </ol>
         </li>
+      </ol>
+      <p>
         <strong
           ><a
             href="https://www.youtube.com/watch?v=MmcEF2GR584"
@@ -500,8 +541,7 @@
             rel="noopener"
             >YouTube: How to Sew a Button by Hand</a
           ></strong
-        ><br /><br />
-        <strong
+        ><br /><br /><strong
           ><a
             href="https://www.youtube.com/watch?v=JI2YIwiEvTw"
             target="_blank"
@@ -509,11 +549,19 @@
             >YouTube: How to Sew On your Badges</a
           ></strong
         ><br /><br />
-        <li>
-          Explain the importance of maintaining a clean household. Describe why
-          it is important to control clutter. Demonstrate your knowledge by
-          cleaning your bedroom, bathroom, or kitchen.
+      </p>
+      <ol style="list-style-type: upper-alpha">
+        <li style="list-style-type: none">
+          <ol style="list-style-type: upper-alpha">
+            <li>
+              Explain the importance of maintaining a clean household. Describe
+              why it is important to control clutter. Demonstrate your knowledge
+              by cleaning your bedroom, bathroom, or kitchen.
+            </li>
+          </ol>
         </li>
+      </ol>
+      <p>
         <strong
           ><a
             href="https://bookstore.ksre.ksu.edu/download/essential-living-skills-essential-home-maintenance_S134C"
@@ -521,19 +569,26 @@
             rel="noopener"
             >Essential Home Maintenance</a
           ></strong
-        ><br /><br />
-        <strong
+        ><br /><br /><strong
           ><a
-            href="https://www.cleaninginstitute.org/home"
+            href="https://www.cleaninginstitute.org/"
             target="_blank"
             rel="noopener"
             >Cleaning at Home</a
           ></strong
         ><br /><br />
-        <li>
-          Demonstrate how to set a casual dining table and a formal dining
-          table.
+      </p>
+      <ol style="list-style-type: upper-alpha">
+        <li style="list-style-type: none">
+          <ol style="list-style-type: upper-alpha">
+            <li>
+              Demonstrate how to set a casual dining table and a formal dining
+              table.
+            </li>
+          </ol>
         </li>
+      </ol>
+      <p>
         <strong
           ><a
             href="https://www.realsimple.com/holidays-entertaining/entertaining/how-to-set-a-table"
@@ -541,8 +596,7 @@
             rel="noopener"
             >How to Set a Table: Basic, Casual, and Formal Table Settings</a
           ></strong
-        ><br /><br />
-        <strong
+        ><br /><br /><strong
           ><a
             href="https://www.marthastewart.com/276333/how-to-set-a-formal-dinner-table"
             target="_blank"
@@ -550,7 +604,7 @@
             >How to Set a Formal Dinner Table, According to Etiquette Experts</a
           ></strong
         >
-      </ol>
+      </p>
     </div>
   </div>
   <div
@@ -561,7 +615,7 @@
   >
     <div class="elementor-widget-container">
       <p><strong>3. Money. Do the following:</strong></p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ol style="list-style-type: upper-alpha">
         <li>
           Explain what is required to open a bank account and compare the
@@ -619,7 +673,7 @@
   >
     <div class="elementor-widget-container">
       <p><strong>4. Social. Do the following:</strong></p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ol style="list-style-type: upper-alpha">
         <li>
           Demonstrate how to properly introduce yourself in a social situation.
@@ -686,7 +740,7 @@
   >
     <div class="elementor-widget-container">
       <p><strong>5. Self-Care. Do the following:</strong></p>
-      <p><strong>&#160;</strong></p>
+      <p><strong>&nbsp;</strong></p>
       <ol style="list-style-type: upper-alpha">
         <li>Explain what self-respect means and how you can demonstrate it.</li>
         <strong
@@ -736,7 +790,7 @@
   >
     <div class="elementor-widget-container">
       <p><strong>6. Employment. Do THREE of the following:</strong></p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ol style="list-style-type: upper-alpha">
         <li>Create a resume and review it with your counselor.</li>
         <strong
@@ -782,7 +836,7 @@
         <li>
           Explain why it is essential to write professional emails. Write a
           professional email thanking someone for interviewing you for a
-          job.&#160; Share your email with your counselor.
+          job.&nbsp; Share your email with your counselor.
         </li>
         <strong
           ><a
@@ -816,7 +870,7 @@
   >
     <div class="elementor-widget-container">
       <p><strong>7. Transportation. Do TWO of the following:</strong></p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ol style="list-style-type: upper-alpha">
         <li>
           Explain what to do if you are involved in a car accident.<br /><br /><strong
@@ -947,10 +1001,10 @@
         <strong
           >You decide if this activity becomes an official Merit Badge of
           Scouting America.</strong
-        >&#160; By filling out the survey, you vote for or against this becoming
-        a Merit Badge.&#160; You can also suggest changes to make the merit
-        badge more engaging.&#160; The fate of this potential merit badge rests
-        in your hands.&#160; Come back and complete the survey after you finish
+        >&nbsp; By filling out the survey, you vote for or against this becoming
+        a Merit Badge.&nbsp; You can also suggest changes to make the merit
+        badge more engaging.&nbsp; The fate of this potential merit badge rests
+        in your hands.&nbsp; Come back and complete the survey after you finish
         the requirements to make your voice heard and to get your certificate of
         completion.
       </p>

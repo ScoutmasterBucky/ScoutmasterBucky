@@ -29,8 +29,8 @@
   children:
       - requirement: a
         text: |-
-            With your counselor, discuss general safety precautions and Safety Data
-            Sheets related to welding. Explain the importance of the SDS.
+            With your counselor, discuss general safety precautions and safety data
+            sheets (SDS) related to welding. Explain the importance of the SDS.
         resources:
             - href: https://youtu.be/_yWF-w3CwmU
               text: Safety Data Sheets Training Video
@@ -69,6 +69,10 @@
       Name the different mechanical and thermal cutting methods. Choose one
       method and describe how to use the process. Discuss one advantage and one
       limitation of this process.
+  resources:
+      - href: https://engineerfix.com/types-of-cutting-methods-mechanical-thermal-more/
+        text: 'Types of Cutting Methods: Mechanical, Thermal &amp; More'
+        type: website
 - requirement: 5
   text: |-
       Do the following:

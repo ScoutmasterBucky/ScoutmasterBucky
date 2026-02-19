@@ -1,4 +1,3 @@
-# 7d is missing a period at the end. Added one.
 - requirement: 1
   text: |-
       Do the following:
@@ -6,13 +5,28 @@
       - requirement: a
         text: |-
             Tell what soil is. Tell how it is formed.
+        resources:
+            - href: https://www.pbs.org/video/soil-video-short-zfxcrn/
+              text: The Dirt on Soil
+              type: video
+            - href: https://youtu.be/YZ_D1ANF-E0
+              text: Formation of Soil
+              type: video
       - requirement: b
         text: |-
             Describe three kinds of soil. Tell how they are different.
+        resources:
+            - href: https://youtu.be/G0JcVe_-yu0
+              text: Types of Soil
+              type: video
       - requirement: c
         text: |-
             Name the three main plant nutrients in fertile soil. Tell how they can
             be put back when used up.
+        resources:
+            - href: https://youtu.be/zgppw6fJOlw
+              text: The Three Most Important Nutrients for Plant Growth
+              type: video
 - requirement: 2
   text: |-
       Do the following:
@@ -20,15 +34,27 @@
       - requirement: a
         text: |-
             Define soil erosion.
+        resources:
+            - href: https://youtu.be/DRkw5kOZsc8
+              text: 'Soil Basics: Erosion'
+              type: video
       - requirement: b
         text: |-
             Tell why soil erosion is important and how it affects you.
+        resources:
+            - href: https://youtu.be/BuEdKEh2buI
+              text: Why Soil Conservation is Important to Human Agriculture?
+              type: video
       - requirement: c
         text: |-
             Name three kinds of soil erosion. Describe each.
       - requirement: d
         text: |-
             Take pictures of or draw two kinds of soil erosion.
+        resources:
+            - href: https://ardasclasses.com/blog/soil-erosion-causes-impacts-and-sustainable-solutions/
+              text: 'Soil Erosion: Causes, Impacts, and Sustainable Solutions'
+              type: website
 - requirement: 3
   text: |-
       Do the following:
@@ -42,6 +68,14 @@
       - requirement: c
         text: |-
             Take pictures of or draw three kinds of erosion-control practices.
+        resources:
+            - href: https://ardasclasses.com/blog/soil-erosion-causes-impacts-and-sustainable-solutions/
+              text: 'Soil Erosion: Causes, Impacts and Sustainable Solutions'
+              type: website
+  resources:
+      - href: https://youtu.be/YGu_09HH-Xo
+        text: What is Soil conservation
+        type: video
 - requirement: 4
   text: |-
       Do the following:
@@ -49,6 +83,16 @@
       - requirement: a
         text: |-
             Explain what a watershed is.
+        resources:
+            - href: https://youtu.be/gVdq4pWUiQM
+              text: What is a Water Shed
+              type: video
+            - href: https://youtu.be/ButQspZX2yA
+              text: Watersheds, Rivers and Floodplains
+              type: video
+            - href: https://youtu.be/kqwYulqfC9k
+              text: How (and Why) to Find Your Watershed
+              type: video
       - requirement: b
         text: |-
             Outline the smallest watershed that you can find on a contour map.
@@ -60,9 +104,17 @@
         text: |-
             Explain what a river basin is. Tell why all people living in a river
             basin should be concerned about land and water use in the basin.
+        resources:
+            - href: https://youtu.be/x7lBi6OaFMo
+              text: River Basins
+              type: video
       - requirement: e
         text: |-
             Explain what an aquifer is and why it can be important to communities.
+        resources:
+            - href: https://youtu.be/g7R0yLX0V9E
+              text: What is an Aquifer
+              type: video
 - requirement: 5
   text: |-
       Do the following:
@@ -70,22 +122,48 @@
       - requirement: a
         text: |-
             Make a drawing to show the hydrologic cycle.
+        resources:
+            - href: https://youtu.be/FzYjPpxP-Cw
+              text: The Water (Hydrologic) Cycle
+              type: video
       - requirement: b
         text: |-
             Demonstrate at least two of the following actions of water in relation
             to soil: percolation, capillary action, precipitation, evaporation,
             and transpiration.
+        resources:
+            - href: https://youtu.be/5waNTa2b-yg
+              text: Capillary Rise
+              type: video
+            - href: https://youtu.be/0Hcp2UGkbj4
+              text: Soil Capillary Action Demonstration
+              type: video
+            - href: https://youtu.be/CBmDlbFOZKU
+              text: Soil Percolation Experiment
+              type: video
       - requirement: c
         text: |-
             Explain how removal of vegetation will affect the way water runs off a
             watershed.
+        resources:
+            - href: https://youtu.be/wa9MTy_lSpY
+              text: How Vegetation Protects Soil
+              type: video
       - requirement: d
         text: |-
             Tell how uses of forest, range, and farmland affect usable water
             supply.
+        resources:
+            - href: https://youtu.be/PQf0gdomgGg
+              text: Rangeland Management and Water Supply
+              type: video
       - requirement: e
         text: |-
             Explain how industrial use affects water supply.
+        resources:
+            - href: https://youtu.be/xeTGV3e1QB8
+              text: Reimagining Industrial Water for Sustainable Impact
+              type: video
 - requirement: 6
   text: |-
       Do the following:
@@ -101,9 +179,20 @@
         text: |-
             Explain the terms: primary water treatment, secondary waste treatment,
             and biochemical oxygen demand.
+        resources:
+            - href: https://youtu.be/cUFKay8VPqo
+              text: How Does Wastewater Treatment Work?
+              type: video
       - requirement: d
         text: |-
             Make a drawing showing the principles of complete waste treatment.
+  resources:
+      - href: https://youtu.be/4Q8dL8RtQM0
+        text: Water Pollution and How We Can Reduce It
+        type: video
+      - href: https://www.youtube.com/shorts/mgtpMLsAds0
+        text: H2-Oh No! Water Pollution 101
+        type: video
 - requirement: 7
   text: |-
       Do TWO of the following:
@@ -117,30 +206,61 @@
             - requirement: 1
               text: |-
                   An agricultural experiment
+              resources:
+                  - href: https://encyclopediaofalabama.org/article/alabamas-old-rotation-experiment/
+                    text: Alabama's "Old Rotation" Experiment
+                    type: website
             - requirement: 2
               text: |-
                   A managed forest or woodlot, range, or pasture
+              resources:
+                  - href: https://youtu.be/1iTvc_8AFVc
+                    text: Visit to Managed International Paper Forest
+                    type: video
             - requirement: 3
               text: |-
                   A wildlife refuge or a fish or game management area
+              resources:
+                  - href: https://youtu.be/7CynjbXAT24
+                    text: Visit to Tennessee National Wildlfe Refuge
+                    type: video
             - requirement: 4
               text: |-
                   A conservation-managed farm or ranch
             - requirement: 5
               text: |-
                   A managed watershed
+              resources:
+                  - href: https://youtu.be/wniaQsuelWs
+                    text: Watershed Forestry (Massachusetts)
+                    type: video
             - requirement: 6
               text: |-
                   A waste-treatment plant
+              resources:
+                  - href: https://youtu.be/P4l-4ehUqhc
+                    text: How Chicago Cleans 1.4 Billion Gallons Of Wastewater Every Day
+                    type: video
             - requirement: 7
               text: |-
                   A public drinking water treatment plant
             - requirement: 8
               text: |-
                   An industry water use installation
+              resources:
+                  - href: https://youtu.be/qaeXBpag72Q
+                    text: Water Use in the Paper Industry
+                    type: video
+                  - href: https://youtu.be/ufJcrXrVaBI
+                    text: How Data Centers Optimize Energy and Water for Cooling Solutions
+                    type: video
             - requirement: 9
               text: |-
                   A desalinization plant.
+              resources:
+                  - href: https://youtu.be/e1pq3Ni7Fko
+                    text: Carlsbad Desalinization Plant Tour
+                    type: video
       - requirement: b
         text: |-
             Plant 100 trees, bushes, and/or vines for a good purpose.
@@ -155,6 +275,10 @@
             paper and a pen, trace over any of the soil maps, and outline an area with
             three or more different kinds of soil. List each kind of soil by full
             name and map symbol.
+        resources:
+            - href: https://youtu.be/lKFc_96UZ7Q
+              text: Web Soil Survey Tutorial
+              type: video
       - requirement: e
         text: |-
             Make a list of places in your neighborhood, camps, school ground, or

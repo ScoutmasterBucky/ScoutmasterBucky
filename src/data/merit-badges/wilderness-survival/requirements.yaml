@@ -1,4 +1,6 @@
 # 3's header has a colon. Others all use periods.
+# 7's second resource says website for something that's clearly a PDF
+# 7b has "ground-to- air" - I removed the extra space
 - requirement: 1
   text: |-
       <b>Hazards and First Aid.</b> Do the following:
@@ -118,18 +120,18 @@
                     type: video
             - requirement: 13
               text: |-
-                  Bite of a venomous snake.
+                  Bite of a venomous snake
               resources:
                   - href: https://www.redcross.org/take-a-class/resources/learn-first-aid/venomous-snake-bites
                     text: Venomous Snake Bites
                     type: website
       - requirement: b
         text: |-
-            Explain how the Scout Essentials address hazards of survival
+            Explain how the Scout Basic Essentials address hazards of survival
             situations and are basic to a survival kit.
         resources:
             - href: https://scoutlife.org/outdoors/outdoorarticles/6976/scout-outdoor-essentials-checklist/
-              text: Scout Essentials
+              text: The 10 Scout Basic Outdoor Essentials
               type: website
             - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Wilderness%20Survival/Checklist%20for%20a%20Wilderness%20Survival%20Kit.pdf
               text: Checklist for a Wilderness Survival Kit
@@ -176,7 +178,7 @@
         text: First Aid Kit Checklists
         type: website
       - href: https://troopleader.scouting.org/program-features/wilderness-survival/information/
-        text: Scout Essentials for Wilderness Survival
+        text: Scout Basic Essentials for Wilderness Survival
         type: website
       - href: https://assets.kalkomey.com/hunter/pdfs/maine-survival-kit.pdf
         text: Survival Kit List
@@ -232,7 +234,7 @@
                     type: video
             - requirement: 5
               text: |-
-                  At or on the water.
+                  At or on the water
               resources:
                   - href: https://www.boat-ed.com/indiana/studyGuide/Ending-Up-in-the-Water-Unexpectedly/10101602_35417/
                     text: What to do if Your Boat Capsizes

@@ -1,4 +1,13 @@
 # 6b missing trailing period - added it
+- text: |-
+      <b>NOTE: Prohibited Activities</b>
+      <div class="gap"></div>
+      <b>The Scouting America's <em>Guide to Safe Scouting</em> states under
+      "Prohibited Activities" that flying in aircraft as part of a search and
+      rescue mission is a prohibited activity for youth members. For complete
+      information, see Scouting America's <a
+      href="https://www.scouting.org/health-and-safety/gss/"
+      target="_blank"><i>Guide to Safe Scouting.</i></a></b>
 - requirement: 1
   text: |-
       <b>Hazards and First Aid.</b> Do the following:
@@ -47,11 +56,11 @@
                   Bite of a wild mammal
             - requirement: 13
               text: |-
-                  Bite of a venomous snake.
+                  Bite of a venomous snake
       - requirement: b
         text: |-
-            Explain how the Scout Essentials address hazards outdoors and help
-            lost Scouts stay safe before they are rescued.
+            Explain how the Scout Basic Essentials address hazards outdoors and
+            help lost Scouts stay safe before they are rescued.
       - requirement: c
         text: |-
             Discuss how the safety gear carried by SAR team members in their
@@ -185,7 +194,7 @@
                   Trail sweep search
             - requirement: 12
               text: |-
-                  Grid search.
+                  Grid search
 - requirement: 7
   text: |-
       <b>Plan and Complete a Search.</b> Do the following with a team of Scouts,
@@ -203,8 +212,8 @@
       - requirement: c
         text: |-
             Before the search begins, conduct a PAUSE briefing to review
-            hazards, safety concerns, personal and shared Scout Essentials, and
-            other gear.
+            hazards, safety concerns, personal and shared Scout Basic
+            Essentials, and other gear.
       - requirement: d
         text: |-
             Execute the search.

@@ -16,7 +16,7 @@
         <a href="/skills/">Skills</a> &gt;
         <a href="/skills/merit-badges/">Merit Badges</a> &gt;
         <a href="/skills/merit-badges/test-lab/">Scouts BSA Test Lab</a
-        >&#160;&gt;&#160;
+        >&nbsp;&gt;&nbsp;
       </p>
     </div>
   </div>
@@ -57,11 +57,11 @@
                 viewBox="0 0 24 24"
               >
                 <g fill="none" fill-rule="evenodd">
-                  <path d="M0 0h24v24H0z" />
+                  <path d="M0 0h24v24H0z"></path>
                   <path
                     fill="gray"
                     d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20z"
-                  />
+                  ></path>
                 </g>
               </svg>
             </span>
@@ -174,12 +174,17 @@
               decoding="async"
               width="96"
               height="96"
-              src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2096%2096%22%3E%3C/svg%3E"
+              src="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png"
               data-src="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png"
-              class="lazyload attachment-large size-large wp-image-231895"
+              class="attachment-large size-large wp-image-231895 ls-is-cached lazyloaded"
               alt=""
               data-srcset="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png 96w, https://www.scouting.org/wp-content/uploads/2025/01/info@3x-74x74.png 74w"
               data-sizes="(max-width: 96px) 100vw, 96px"
+              sizes="(max-width: 96px) 100vw, 96px"
+              srcset="
+                https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png       96w,
+                https://www.scouting.org/wp-content/uploads/2025/01/info@3x-74x74.png 74w
+              "
             />
           </div>
         </div>
@@ -336,12 +341,20 @@
           decoding="async"
           width="1460"
           height="973"
-          src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201460%20973%22%3E%3C/svg%3E"
+          src="https://www.scouting.org/wp-content/uploads/2025/08/Sewing-Needlework.jpg"
           data-src="https://www.scouting.org/wp-content/uploads/2025/08/Sewing-Needlework.jpg"
-          class="lazyload attachment-1536x1536 size-1536x1536 wp-image-247766"
+          class="attachment-1536x1536 size-1536x1536 wp-image-247766 lazyloaded"
           alt=""
           data-srcset="https://www.scouting.org/wp-content/uploads/2025/08/Sewing-Needlework.jpg 1460w, https://www.scouting.org/wp-content/uploads/2025/08/Sewing-Needlework-300x200.jpg 300w, https://www.scouting.org/wp-content/uploads/2025/08/Sewing-Needlework-1024x682.jpg 1024w, https://www.scouting.org/wp-content/uploads/2025/08/Sewing-Needlework-768x512.jpg 768w, https://www.scouting.org/wp-content/uploads/2025/08/Sewing-Needlework-74x49.jpg 74w"
           data-sizes="(max-width: 1460px) 100vw, 1460px"
+          sizes="(max-width: 1460px) 100vw, 1460px"
+          srcset="
+            https://www.scouting.org/wp-content/uploads/2025/08/Sewing-Needlework.jpg          1460w,
+            https://www.scouting.org/wp-content/uploads/2025/08/Sewing-Needlework-300x200.jpg   300w,
+            https://www.scouting.org/wp-content/uploads/2025/08/Sewing-Needlework-1024x682.jpg 1024w,
+            https://www.scouting.org/wp-content/uploads/2025/08/Sewing-Needlework-768x512.jpg   768w,
+            https://www.scouting.org/wp-content/uploads/2025/08/Sewing-Needlework-74x49.jpg      74w
+          "
         />
       </div>
     </div>
@@ -1702,10 +1715,10 @@
         <strong
           >You decide if this activity becomes an official Merit Badge of
           Scouting America.</strong
-        >&#160; By filling out the survey, you vote for or against this becoming
-        a Merit Badge.&#160; You can also suggest changes to make the merit
-        badge more engaging.&#160; The fate of this potential merit badge rests
-        in your hands.&#160; Come back and complete the survey after you finish
+        >&nbsp; By filling out the survey, you vote for or against this becoming
+        a Merit Badge.&nbsp; You can also suggest changes to make the merit
+        badge more engaging.&nbsp; The fate of this potential merit badge rests
+        in your hands.&nbsp; Come back and complete the survey after you finish
         the requirements to make your voice heard and to get your certificate of
         completion.
       </p>

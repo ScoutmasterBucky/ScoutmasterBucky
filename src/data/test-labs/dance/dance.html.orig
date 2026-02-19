@@ -16,7 +16,7 @@
         <a href="/skills/">Skills</a> &gt;
         <a href="/skills/merit-badges/">Merit Badges</a> &gt;
         <a href="/skills/merit-badges/test-lab/">Scouts BSA Test Lab</a
-        >&#160;&gt;&#160;
+        >&nbsp;&gt;&nbsp;
       </p>
     </div>
   </div>
@@ -57,11 +57,11 @@
                 viewBox="0 0 24 24"
               >
                 <g fill="none" fill-rule="evenodd">
-                  <path d="M0 0h24v24H0z" />
+                  <path d="M0 0h24v24H0z"></path>
                   <path
                     fill="gray"
                     d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20z"
-                  />
+                  ></path>
                 </g>
               </svg>
             </span>
@@ -172,12 +172,17 @@
               decoding="async"
               width="96"
               height="96"
-              src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2096%2096%22%3E%3C/svg%3E"
+              src="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png"
               data-src="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png"
-              class="lazyload attachment-large size-large wp-image-231895"
+              class="attachment-large size-large wp-image-231895 ls-is-cached lazyloaded"
               alt=""
               data-srcset="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png 96w, https://www.scouting.org/wp-content/uploads/2025/01/info@3x-74x74.png 74w"
               data-sizes="(max-width: 96px) 100vw, 96px"
+              sizes="(max-width: 96px) 100vw, 96px"
+              srcset="
+                https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png       96w,
+                https://www.scouting.org/wp-content/uploads/2025/01/info@3x-74x74.png 74w
+              "
             />
           </div>
         </div>
@@ -337,12 +342,19 @@
           decoding="async"
           width="1000"
           height="666"
-          src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201000%20666%22%3E%3C/svg%3E"
+          src="https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image.jpg"
           data-src="https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image.jpg"
-          class="lazyload attachment-full size-full wp-image-253779"
+          class="attachment-full size-full wp-image-253779 lazyloaded"
           alt=""
           data-srcset="https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image.jpg 1000w, https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image-300x200.jpg 300w, https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image-768x511.jpg 768w, https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image-74x49.jpg 74w"
           data-sizes="(max-width: 1000px) 100vw, 1000px"
+          sizes="(max-width: 1000px) 100vw, 1000px"
+          srcset="
+            https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image.jpg         1000w,
+            https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image-300x200.jpg  300w,
+            https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image-768x511.jpg  768w,
+            https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image-74x49.jpg     74w
+          "
         />
       </div>
     </div>
@@ -375,7 +387,7 @@
   >
     <div class="elementor-widget-container">
       <p><strong>1. Preventing Injury.</strong> Do the following:</p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul>
         <li>
           (a) Explain to your counselor how you can prevent injuries while
@@ -399,7 +411,7 @@
             rel="noopener"
             ><strong>Dance Warm-up guide</strong></a
           ><br /><a
-            href="https://boyscouts-my.sharepoint.com/:v:/g/personal/v-dehrlich_scouting_org/EULNkTzXWGVLon_nCX_z44cB3KKtQyiIqgevrUV3t25FcQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Vbl5tR"
+            href="https://boyscouts-my.sharepoint.com/:v:/g/personal/v-dehrlich_scouting_org/EULNkTzXWGVLon_nCX_z44cB3KKtQyiIqgevrUV3t25FcQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;e=Vbl5tR"
             target="_blank"
             rel="noopener"
             ><strong>Ballet Warm-Up</strong></a
@@ -439,12 +451,12 @@
       <ul>
         <li>
           <a
-            href="https://boyscouts-my.sharepoint.com/:v:/g/personal/v-dehrlich_scouting_org/EVukrJ6RjaRLvGqxTz2K09IB9lHn6voIT1H6SNip54gbYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1di6u7"
+            href="https://boyscouts-my.sharepoint.com/:v:/g/personal/v-dehrlich_scouting_org/EVukrJ6RjaRLvGqxTz2K09IB9lHn6voIT1H6SNip54gbYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;e=1di6u7"
             target="_blank"
             rel="noopener"
             ><strong>Dance Elements</strong></a
           >
-          &#160;
+          &nbsp;
         </li>
         <li>
           <a
@@ -457,14 +469,14 @@
           >
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         <strong>3. Styles of Dance.</strong> Name and briefly describe SIX types
         or styles of dancing from the following list, noting if this is a dance
         that may be performed alone, if the dance generally requires a partner
         or group, or if it could be either a solo or partner dance.
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul>
         <li>
           (a) Acrobatics/Acro Dance<br /><em>Resources:</em><br /><a
@@ -483,7 +495,7 @@
               >Aerial Dance</a
             ></strong
           >
-          &#160;<br /><br />
+          &nbsp;<br /><br />
         </li>
         <li>
           (c) Ballet<br /><em>Resources:</em><br /><strong
@@ -494,7 +506,7 @@
               >Ballet</a
             ></strong
           >
-          &#160;<br /><a
+          &nbsp;<br /><a
             href="https://www.masterclass.com/articles/ballet-dance-guide"
             target="_blank"
             rel="noopener"
@@ -510,7 +522,7 @@
               >Ballroom dances</a
             ></strong
           >
-          &#160;<br /><a
+          &nbsp;<br /><a
             href="https://www.masterclass.com/articles/ballroom-dance-guide"
             target="_blank"
             rel="noopener"
@@ -558,7 +570,7 @@
         </li>
         <li>
           (h) Country-Western<br /><em>Resources:</em><br /><a
-            href="https://www.youtube.com/watch?v=3MqEvgnsOHY&t=14s"
+            href="https://www.youtube.com/watch?v=3MqEvgnsOHY&amp;t=14s"
             target="_blank"
             rel="noopener"
             ><strong>Country-Western dance</strong></a
@@ -601,7 +613,7 @@
             target="_blank"
             rel="noopener"
             ><strong>Jazz</strong></a
-          ><em><br />&#160;</em>
+          ><em><br />&nbsp;</em>
         </li>
         <li>
           (l) Latin dances<br /><em>Resources:</em><br /><a
@@ -633,23 +645,23 @@
           ><br /><br />
         </li>
         <li>
-          (o) Tap dance<br /><em>Resources:</em><em>&#160;</em><br /><strong
+          (o) Tap dance<br /><em>Resources:</em><em>&nbsp;</em><br /><strong
             ><a
               href="https://www.masterclass.com/articles/tap-dance-guide"
               target="_blank"
               rel="noopener"
               >Tap dance</a
             ></strong
-          ><em>&#160;</em>
+          ><em>&nbsp;</em>
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p>
         <strong>4. Research.</strong> Research TWO of the types of dance you
         learned about in requirement 3 by doing the following for EACH type of
         dance you chose:
       </p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul>
         <li>
           (a) Give a brief history, including its origin, how it came to be in
@@ -687,9 +699,9 @@
           recorded performance may also be permitted.)
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p><strong>5. Learn and Perform a Dance.</strong> Do the following:</p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul>
         <li>
           (a) Learn a dance. Use at least THREE types of warm-ups prior to your
@@ -697,7 +709,7 @@
           may be solo, group, or partner dance and can use a memorized
           choreographed routine or an improvised dance. It should be a minimum
           of 2 minutes long or several shorter dances that add up to at least 2
-          minutes.&#160; The dance should demonstrate at least three different
+          minutes.&nbsp; The dance should demonstrate at least three different
           dance moves/steps and should contain music with Scout-appropriate
           lyrics, if applicable.
         </li>
@@ -712,21 +724,21 @@
         <li>
           <em>Resources:</em><br /><strong
             ><a
-              href="https://boyscouts-my.sharepoint.com/:v:/g/personal/v-dehrlich_scouting_org/EdcumSc3W1tFnVy7q4hFjsMBUonsmnBUihTd0MGf0sm_AQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HJLtXB"
+              href="https://boyscouts-my.sharepoint.com/:v:/g/personal/v-dehrlich_scouting_org/EdcumSc3W1tFnVy7q4hFjsMBUonsmnBUihTd0MGf0sm_AQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;e=HJLtXB"
               target="_blank"
               rel="noopener"
               >Improvisational Dance</a
             ></strong
           ><br /><strong
             ><a
-              href="https://boyscouts-my.sharepoint.com/:v:/g/personal/v-dehrlich_scouting_org/ETi9jrtBrblAvC7IybSocpYBnGrRYiFxhNdsCxi2XhVu1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=94OWep"
+              href="https://boyscouts-my.sharepoint.com/:v:/g/personal/v-dehrlich_scouting_org/ETi9jrtBrblAvC7IybSocpYBnGrRYiFxhNdsCxi2XhVu1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;e=94OWep"
               target="_blank"
               rel="noopener"
               >Arm and Leg Positions</a
             ></strong
           ><br /><strong
             ><a
-              href="https://boyscouts-my.sharepoint.com/:v:/g/personal/v-dehrlich_scouting_org/EWgGwMnp4NhNgob2Usubv2MB5uzCtq4SVMwGRkYIdiOntA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wCgmSv"
+              href="https://boyscouts-my.sharepoint.com/:v:/g/personal/v-dehrlich_scouting_org/EWgGwMnp4NhNgob2Usubv2MB5uzCtq4SVMwGRkYIdiOntA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;e=wCgmSv"
               target="_blank"
               rel="noopener"
               >Beginning and Ending</a
@@ -783,9 +795,9 @@
           >
         </li>
       </ul>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <p><strong>6. Careers. </strong>Do ONE of the following:</p>
-      <p>&#160;</p>
+      <p>&nbsp;</p>
       <ul>
         <li>
           (a) Explore careers related to Dance. Research one career to learn
@@ -914,10 +926,10 @@
         <strong
           >You decide if this activity becomes an official Merit Badge of
           Scouting America.</strong
-        >&#160; By filling out the survey, you vote for or against this becoming
-        a Merit Badge.&#160; You can also suggest changes to make the merit
-        badge more engaging.&#160; The fate of this potential merit badge rests
-        in your hands.&#160; Come back and complete the survey after you finish
+        >&nbsp; By filling out the survey, you vote for or against this becoming
+        a Merit Badge.&nbsp; You can also suggest changes to make the merit
+        badge more engaging.&nbsp; The fate of this potential merit badge rests
+        in your hands.&nbsp; Come back and complete the survey after you finish
         the requirements to make your voice heard and to get your certificate of
         completion.
       </p>
