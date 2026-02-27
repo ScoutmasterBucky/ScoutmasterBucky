@@ -2,6 +2,7 @@
 import { getEntry } from 'astro:content';
 import { updatedDateToString } from '~/utils/updated-date';
 import DefaultLayout from './default-layout.astro';
+import DiscontinuedMeritBadge from '~/components/discontinued-merit-badge.astro';
 import Requirements from '~/components/requirements.astro';
 import ScaledContent from '~/components/scaled-content.astro';
 
@@ -117,6 +118,12 @@ let hasResources = checkRequirementsForResources(requirements);
 <DefaultLayout title={`${info.name} Merit Badge`}>
     <h1>{info.name}</h1>
 
+    {
+        info.discontinuedDate && (
+            <DiscontinuedMeritBadge date={info.discontinuedDate} />
+        )
+    }
+
     <div class="center unprintable">
         <ScaledContent>
             <img src={info.bucky} alt="Bucky" class="wide" />
@@ -175,11 +182,18 @@ let hasResources = checkRequirementsForResources(requirements);
 
     <h2 class="requirements-header">
         <div>{info.name} Requirements</div>
+
         <div class="updated">
             Current Scouts BSA requirements<br class="updated-break" />
             as of {updatedDateStr}
         </div>
     </h2>
+
+    {
+        info.discontinuedDate && (
+            <DiscontinuedMeritBadge date={info.discontinuedDate} />
+        )
+    }
 
     {hasResources && <resources-toggle class="gap-bottom" />}
     <Requirements type="meritBadgeRequirements" entry={badge} />
