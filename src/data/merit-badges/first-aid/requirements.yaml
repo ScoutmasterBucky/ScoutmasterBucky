@@ -6,29 +6,87 @@
         text: |-
             Explain the steps necessary to assess and handle a first aid emergency,
             including a safety evaluation of the scene.
+        resources:
+            - href: https://www.redcross.org/take-a-class/resources/articles/the-three-cs-of-first-aid-check-call-care
+              text: "The 3 C's of First Aid: Check, Call, Care"
+              type: website
+            - href: https://youtu.be/nrNAhMg-uS4
+              text: Check for Scene Safety
+              type: video
       - requirement: b
         text: |-
             Tell how you would obtain emergency medical assistance from your home
             and from a remote location on a wilderness camping trip.
+        resources:
+            - href: https://youtu.be/spGJ9Ii5W3o
+              text: What to Say When You Call 911
+              type: video
+            - href: https://youtu.be/J3efgWPPp4k
+              text: What Happens When You Call 911
+              type: video
+            - href: https://www.medstarhealth.org/blog/preparing-for-medical-emergencies-at-home
+              text: Preparing for a Medical Emergency at Home
+              type: website
+            - href: https://ncoae.org/blog/when-to-call-or-not-call-for-help-during-a-wilderness-emergency/
+              text: Calling for Help for a Wilderness Emergency
+              type: website
       - requirement: c
         text: |-
             Demonstrate the precautions you must take to reduce the risk of
             transmitting an infection between you and the victim while administering
             first aid, including the safe disposal of used first aid supplies.
+        resources:
+            - href: https://youtu.be/rdKWvw8CZLg
+              text: Standard Precautions
+              type: video
+            - href: https://youtu.be/kesQF_G3pQ8
+              text: How to Remove Disposable Gloves
+              type: video
+            - href: https://youtu.be/tpovFysp4IE
+              text: Using Personal Protective Equipment in First Aid
+              type: video
       - requirement: d
         text: |-
             Demonstrate evaluation of and management of a patient's airway and
             breathing.
+        resources:
+            - href: https://youtu.be/7NNe_Qje3yg
+              text: Head Tilt, Chin Lift, Jaw Thrust
+              type: video
+            - href: https://youtu.be/hk1_Bcp3Gc0
+              text: Look, Listen, Feel
+              type: video
       - requirement: e
         text: |-
             Demonstrate a thorough examination of an accident victim.
+        resources:
+            - href: https://youtu.be/7xANZ0IjgEs
+              text: Head to Toe Exam
+              type: video
       - requirement: f
         text: |-
             Discuss why shock is an emergency.
+        resources:
+            - href: https://youtu.be/4-cPuXaZACg
+              text: Recognizing Shock
+              type: video
+            - href: https://youtu.be/He1RQ9STCHc
+              text: Shock From Bleeding
+              type: video
+            - href: https://youtu.be/V4R9GSah93g
+              text: Shock and Bleeding
+              type: video
       - requirement: g
         text: |-
             Define the term triage and describe examples of triage situations that
             you may encounter.
+        resources:
+            - href: https://youtu.be/_IdJD7UDN2w
+              text: Multiple Casualties in a Remote Location
+              type: video
+            - href: https://youtu.be/zeC2hFcziZI
+              text: Triage
+              type: video
 - requirement: 2
   text: |-
       <b>Preparing for First Aid Emergencies.</b> Do the following:
@@ -39,6 +97,10 @@
             the importance of the form including information on immunizations,
             allergies, medications, health history, and medical examinations to
             providing first aid at Scouting events.
+        resources:
+            - href: https://www.scouting.org/health-and-safety/safety-moments/annual-health-and-medical-record/
+              text: Scout Health Forms
+              type: website
       - requirement: b
         text: |-
             Using checklists provided in the <em>First Aid</em> merit badge
@@ -53,6 +115,9 @@
                   - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/First%20Aid/Personal%20Family%20Troop%20First%20Aid%20Kit%20Checklist.pdf
                     text: Personal, Family, and Troop First Aid Kit Checklist
                     type: pdf
+                  - href: https://scoutlife.org/video-audio/4937/first-aid-kit-buying-guide/
+                    text: First Aid KIt Checklists
+                    type: website
             - requirement: 2
               text: |-
                   With your counselor, inspect a unit, home, vehicle, or camp
@@ -65,55 +130,199 @@
       - requirement: a
         text: |-
             Closed wounds, such as a bruise (contusion) or a hematoma
+        resources:
+            - href: https://www.youtube.com/watch?v=DkOmr3BEkvE
+              text: 'Bruise: What to Do'
+              type: video
+            - href: https://www.mayoclinic.org/first-aid/first-aid-bruise/basics/art-20056663
+              text: First Aid for Bruises
+              type: website
+            - href: https://www.youtube.com/watch?v=Bc28m7Ryumg
+              text: First Aid for a Hematoma
+              type: video
+            - href: https://www.youtube.com/shorts/l-HUjlBMuNU
+              text: How Bruises Change Color
+              type: video
       - requirement: b
         text: |-
             Superficial, partial thickness, and full thickness thermal (heat) burns
             or scalds
+        resources:
+            - href: https://www.youtube.com/watch?v=_kkPXV3l4-M
+              text: Types of Burns
+              type: video
+            - href: https://www.youtube.com/watch?v=xTu2WdTJgPA
+              text: Thermal, Chemical and Electrical Burns
+              type: video
       - requirement: c
         text: |-
             Chemical burns
+        resources:
+            - href: https://my.clevelandclinic.org/health/diseases/22350-chemical-burns
+              text: Chemical Burns
+              type: website
       - requirement: d
         text: |-
             Electrical burns
+        resources:
+            - href: https://www.mayoclinic.org/first-aid/first-aid-electrical-burns/basics/art-20056687
+              text: Electrical Burns
+              type: website
       - requirement: e
         text: |-
             Sunburn
+        resources:
+            - href: https://youtu.be/DCNUwuNTtGg
+              text: Sunburn
+              type: video
+            - href: https://youtu.be/-KzTvagnpfU
+              text: Sunburn, Causes, Signs and Symptoms, Diagnosis and Treatment
+              type: video
       - requirement: f
         text: |-
             Snow blindness
+        resources:
+            - href: https://youtu.be/6MRQBMFlFTU
+              text: Snow Blindness
+              type: video
       - requirement: g
         text: |-
             Immersion foot, frostnip, frostbite, and ice burns
+        resources:
+            - href: https://youtu.be/b8Th0JIDBW4
+              text: Immersion (Trench) Foot
+              type: video
+            - href: https://my.clevelandclinic.org/health/diseases/24392-trench-foot
+              text: Immersion (Trench) Foot
+              type: website
+            - href: https://youtu.be/tPEj-0sKZyo
+              text: Frostbite
+              type: video
+            - href: https://www.mayoclinic.org/diseases-conditions/frostbite/symptoms-causes/syc-20372656
+              text: Frostbite
+              type: website
       - requirement: h
         text: |-
             Abrasions, such as chafing and rope burns
+        resources:
+            - href: https://hilltoppacks.com/pages/how-do-i-prevent-chafing-while-hiking
+              text: How To Prevent Chafing While Hiking
+              type: website
+            - href: https://www.healthline.com/health/rope-burn
+              text: Treatment of Rope Burns
+              type: website
       - requirement: i
         text: |-
             Blisters on the hands, feet, buttocks, and shoulders
+        resources:
+            - href: https://www.aad.org/public/everyday-care/injured-skin/burns/prevent-treat-blisters
+              text: How to Prevent and Treat Blisters
+              type: website
       - requirement: j
         text: |-
             Puncture wounds from splinters, rope splinters, nails, and fish hooks
+        resources:
+            - href: https://youtu.be/L6crQ3nMLkI
+              text: Splinters
+              type: video
+            - href: https://www.homedepot.com/c/ah/how-to-get-a-splinter-out/9ba683603be9fa5395fab9013594e8c7
+              text: Tips for Removing Splinters, Including Tape and White Glue
+              type: website
+            - href: https://www.urgentcareforfeet.com/infection-warning-key-signs-to-monitor-after-a-foot-puncture-injury/
+              text: Puncture Wounds on the Feet
+              type: website
+            - href: https://youtu.be/AmT3T_9Guq0
+              text: Removing a Fishhook
+              type: video
       - requirement: k
         text: |-
             Rash from poisonous plants
+        resources:
+            - href: https://www.youtube.com/watch?v=P6aBc4OAD0g
+              text: Poisonous Plants
+              type: video
+            - href: https://my.clevelandclinic.org/health/diseases/10655-poison-plants-poison-ivy--poison-oak--poison-sumac
+              text: Poisonous Plants
+              type: website
       - requirement: l
         text: |-
             Bug bites of chiggers, ticks, mosquitoes, and biting gnats
+        resources:
+            - href: https://youtu.be/tcbNBdPRxk8
+              text: First Aid for Chigger Bites
+              type: video
+            - href: https://www.aad.org/public/everyday-care/injured-skin/bites/remove-a-tick
+              text: Removing a Tick and Preventing Tick Bites
+              type: website
+            - href: https://www.aad.org/public/everyday-care/injured-skin/bites/prevent-treat-bug-bites
+              text: Preventing and Treating Mosquito Bites
+              type: website
+            - href: https://youtu.be/QazaIwbtZHs
+              text: Biting Gnats
+              type: video
       - requirement: m
         text: |-
             Bee stings
+        resources:
+            - href: https://www.youtube.com/watch?v=01Po5RTNfhs
+              text: How to Treat a Bee Sting
+              type: video
+            - href: https://youtu.be/H_wj50ox8OY
+              text: What if a Bee Stings You?
+              type: video
+            - href: https://www.youtube.com/shorts/I-LqoDOAX8M
+              text: Never Pinch a Bee Sting
+              type: video
       - requirement: n
         text: |-
             Bites of spiders
+        resources:
+            - href: https://www.youtube.com/watch?v=cfh7XOc_hgc
+              text: Black Widow vs Brown Recluse Spider Bites
+              type: video
+            - href: https://my.clevelandclinic.org/health/diseases/16639-spider-bites
+              text: Spider Bites
+              type: website
       - requirement: o
         text: |-
             Sting of a scorpion
+        resources:
+            - href: https://youtu.be/YFI2VMy6mT0
+              text: How Scorpion Stings Work
+              type: video
+            - href: https://www.mayoclinic.org/diseases-conditions/scorpion-stings/symptoms-causes/syc-20353859
+              text: Scorpion Stings
+              type: website
       - requirement: p
         text: |-
             Bite of a pet or wild mammal or human
+        resources:
+            - href: https://youtu.be/RSJzuk226RI
+              text: Treatment of Animal and Human Bites
+              type: video
       - requirement: q
         text: |-
             Bite of a venomous snake
+        resources:
+            - href: https://www.snakebitefoundation.org/blog/how-to-treat-snakebites-for-first-responders-in-the-united-states
+              text: First Aid for Snake Bites
+              type: website
+            - href: https://youtu.be/yyicCyoEpPM
+              text: First Aid for Snake Bites
+              type: video
+            - href: https://www.cdc.gov/niosh/outdoor-workers/about/venomous-snakes.html
+              text: Venomous Snakes
+              type: website
+  resources:
+      - href: https://youtu.be/OxPlCkTKhzY
+        text: The Science of Skin
+        type: video
+      - href: https://youtu.be/TLVwELDMDWs
+        text: How a Wound Heals Itself
+        type: video
+      - href: https://youtu.be/7qgyBZFaIds
+        text: How Wounds Heal
+        type: video
 - requirement: 4
   text: |-
       <b>Bleeding Wounds.</b> Describe the symptoms and signs of, show first aid
@@ -122,19 +331,38 @@
       - requirement: a
         text: |-
             A nosebleed.
+        resources:
+            - href: https://youtu.be/rF8aXjRFu_I
+              text: Nosebleed
+              type: video
       - requirement: b
         text: |-
             An open wound with mild or moderate bleeding, such as a scratch or a
             scrape (abrasions), or a shallow cut (laceration).
+        resources:
+            - href: https://youtu.be/7bTVimEqkKo
+              text: Care of Minor Wounds
+              type: video
       - requirement: c
         text: |-
             An open wound with severe bleeding such as a deep cut on an arm or leg.
+        resources:
+            - href: https://www.youtube.com/watch?v=YJB3fI3T1oo
+              text: Using Direct Pressure to Control Life-Threatening Bleeding
+              type: video
       - requirement: d
         text: |-
             Explain when it is appropriate and is not appropriate to use one or
             more tourniquets. List some of the benefits and dangers of using a
             tourniquet. Demonstrate the application of a tourniquet without
             tightening it.
+        resources:
+            - href: https://youtu.be/k98ilfQmUWw
+              text: How to Use a Tourniquet
+              type: video
+            - href: https://www.youtube.com/shorts/mZTgQikH1sQ
+              text: Tourniquet Mistakes
+              type: video
 - requirement: 5
   text: |-
       <b>Breathing Emergencies.</b> Describe the symptoms and signs of, show
@@ -144,19 +372,54 @@
       - requirement: a
         text: |-
             Choking
+        resources:
+            - href: https://youtu.be/8R3RWC-xx1I
+              text: Back Blows and Abdominal Thrusts for Choking
+              type: video
+            - href: https://youtu.be/9pTnepZd5as
+              text: First Aid for an Unresponsive Choking Adults
+              type: video
       - requirement: b
         text: |-
             Asthmatic attack
+        resources:
+            - href: https://youtu.be/batzSytA1Y0
+              text: What is Asthma?
+              type: video
+            - href: https://youtu.be/VyqzylUADp0
+              text: Using Albuterol for an Asthma Attack
+              type: video
+            - href: https://youtu.be/wcKgqYXF2gA
+              text: Pursed Lip Breathing for Asthma
+              type: video
       - requirement: c
         text: |-
             Anaphylaxis from an insect bite or sting or from food or product
             allergy
+        resources:
+            - href: https://youtu.be/veHAMX6vukY
+              text: Food Allergy with Anaphylaxis
+              type: video
+            - href: https://youtu.be/K7QyCMNDHAs
+              text: How to Inject an EpiPen
+              type: video
       - requirement: d
         text: |-
             Inhalation injuries
+        resources:
+            - href: https://youtu.be/YJVGTJPQMEw
+              text: Airway Burns
+              type: video
+            - href: https://youtu.be/PqiAtelp-Qc
+              text: Carbon Monoxide Poisoning
+              type: video
       - requirement: e
         text: |-
             Altitude sickness
+        resources:
+            - href: https://youtu.be/8D9dwH16GLw
+              text: High Altitude Illness Treatment and Prevention
+              type: video
 - requirement: 6
   text: |-
       <b>Loss of Consciousness.</b> Describe the symptoms and signs of, show
@@ -166,24 +429,58 @@
       - requirement: a
         text: |-
             Fainting
+        resources:
+            - href: https://youtu.be/7lTWGG2ZvK4
+              text: Fainting
+              type: video
       - requirement: b
         text: |-
             Hypoglycemia
+        resources:
+            - href: https://www.youtube.com/watch?v=ASqdE2sqHgM
+              text: Diabetic Emergencies
+              type: video
       - requirement: c
         text: |-
             Seizure
+        resources:
+            - href: https://www.youtube.com/watch?v=nnpttMlAG_w
+              text: First Aid for a Seizure
+              type: video
       - requirement: d
         text: |-
             Drug overdose and alcohol poisoning
+        resources:
+            - href: https://youtu.be/8eUUf5ssH_4
+              text: Naloxone Treatment of an Opioid Overdose
+              type: video
+            - href: https://youtu.be/UqY7DZ46prA
+              text: Alcohol Poisoning
+              type: video
       - requirement: e
         text: |-
             Underwater hypoxic blackout
+        resources:
+            - href: https://underwaterhypoxicblackout.org/
+              text: Underwater Blackout
+              type: website
       - requirement: f
         text: |-
             Cold water shock and drowning
+        resources:
+            - href: https://youtu.be/RypLau65Wa0
+              text: Understanding Cold Water Shock
+              type: video
+            - href: https://youtu.be/mnfhnyY-Udk
+              text: How to Perform CPR for a Drowning Victim
+              type: video
       - requirement: g
         text: |-
             Lightning strike and electric shock
+        resources:
+            - href: https://youtu.be/oFLAKfjEjcg
+              text: First Aid for Electrical Shocks and Lightning Strikes
+              type: video
 - requirement: 7
   text: |-
       <b>Heart Attack.</b> Do the following:
@@ -191,31 +488,62 @@
       - requirement: a
         text: |-
             Explain what a heart attack is.
+        resources:
+            - href: https://youtu.be/3_PYnWVoUzM
+              text: What Happens During a Heart Attack
+              type: video
+            - href: https://youtu.be/psx-QcxL1A8
+              text: Heart Attack vs. Cardiac Arrest
+              type: video
       - requirement: b
         text: |-
             Describe the symptoms and signs of a heart attack and first aid for
             this condition.
+        resources:
+            - href: https://youtu.be/jouwrfr7_S0
+              text: Symptoms &amp; Signs of a Heart Attack in Women &amp; Men
+              type: video
       - requirement: c
         text: |-
             Describe the conditions that must exist before performing CPR on a
             person.
+        resources:
+            - href: https://youtu.be/DByqyhLV1zg
+              text: Responding to Cardiac Arrest
+              type: video
       - requirement: d
         text: |-
             Demonstrate proper CPR technique using a training device approved by
             your counselor.
+        resources:
+            - href: https://youtu.be/A5PnI4I-vd8
+              text: Hands-Only CPR
+              type: video
       - requirement: e
         text: |-
             Explain the use of an automated external defibrillator (AED).
+        resources:
+            - href: https://youtu.be/in8j2Q2z3HE
+              text: Using an AED
+              type: video
       - requirement: f
         text: |-
             Demonstrate or simulate the proper use of an AED, using an AED training
             device if available.
+        resources:
+            - href: https://blog.scoutingmagazine.org/2024/06/13/does-your-scout-unit-have-an-aed/
+              text: AEDs in Scouting
+              type: website
       - requirement: g
         text: |-
             Identify the typical location(s) of one or more AED(s) at public
             facilities in your community, such as, your school, place of worship,
             unit meeting place, sports facilities, and/or camp or by using a smart
             phone app. Discuss the reasons for choosing locations like these.
+        resources:
+            - href: https://cpr.heart.org/en/-/media/CPR-Files/Training-Programs/AED-Implementation/2023-updates/KJ1683-AED-Guide.pdf
+              text: Where to Place AEDs
+              type: website
 - requirement: 8
   text: |-
       <b>Muscle and Bone Injuries.</b> Do the following:
@@ -225,14 +553,32 @@
             Explain the similarities and differences in a strain, a muscle tear, a
             tendon rupture, a sprain, a dislocation, a simple fracture, and a
             compound fracture.
+        resources:
+            - href: https://www.youtube.com/watch?v=qi0YYFt5RCY
+              text: 'Understanding Limb Injuries: Strains, Sprains, Dislocations, Fractures'
+              type: video
+            - href: https://www.youtube.com/watch?v=uyxcdJkFvrw
+              text: Muscle Strains and Tears
+              type: video
+            - href: https://www.youtube.com/watch?v=Xulug1uqisM
+              text: Dislocations and Types of Fractures
+              type: video
       - requirement: b
         text: |-
             Describe the symptoms and signs of and first aid for a muscle strain, a
             muscle tear, and a tendon rupture.
+        resources:
+            - href: https://www.youtube.com/watch?v=IM7BIO_kdk8
+              text: Muscle Strains and Tears
+              type: video
       - requirement: c
         text: |-
             Describe the symptoms and signs of, and potential complications of, a
             sprain, a fracture, and a dislocation.
+        resources:
+            - href: https://www.youtube.com/watch?v=sPzXAVNVJr0
+              text: Fractures and Dislocations
+              type: video
       - requirement: d
         text: |-
             Demonstrate bandages for these injuries:
@@ -240,12 +586,24 @@
             - requirement: 1
               text: |-
                   Arm slings for forearm or upper arm or collarbone fractures
+              resources:
+                  - href: https://youtu.be/ybpr7nCelK0
+                    text: Bandages for Sprained Ankle, Head, Upper Arm, Collarbone
+                    type: video
             - requirement: 2
               text: |-
                   Elastic wrap and cravat bandages for ankle sprain
+              resources:
+                  - href: https://youtu.be/KRyaemlcJAM
+                    text: Elastic Wrap for Ankle Sprain
+                    type: video
             - requirement: 3
               text: |-
                   Elastic wrap and cravat bandages for wrist sprain or hand injury.
+              resources:
+                  - href: https://youtu.be/tdRMJIu2E08
+                    text: Wrist Wrap
+                    type: video
       - requirement: e
         text: |-
             Demonstrate the proper procedures for handling and splinting of
@@ -254,15 +612,31 @@
             - requirement: 1
               text: |-
                   Finger and toe
+              resources:
+                  - href: https://youtu.be/P-D0njmVMVA
+                    text: Buddy Taping Toes
+                    type: video
             - requirement: 2
               text: |-
                   Forearm or wrist
+              resources:
+                  - href: https://youtu.be/jhXWT4UpC-8
+                    text: Splints for Arms and Legs
+                    type: video
             - requirement: 3
               text: |-
                   Upper leg
+              resources:
+                  - href: https://youtu.be/5KJIojnNAPU
+                    text: Upper Leg Splint
+                    type: video
             - requirement: 4
               text: |-
                   Lower leg or ankle
+              resources:
+                  - href: https://youtu.be/TacM-3A5Ozk
+                    text: Leg Splints
+                    type: video
 - requirement: 9
   text: |-
       <b>Head and Spine Injuries.</b> Do the following:
@@ -271,16 +645,38 @@
         text: |-
             Describe the symptoms and signs of, relationships between, possible
             complications of, and prevention of head, neck, and back injuries.
+        resources:
+            - href: https://youtu.be/x-YYjkokQ6U
+              text: Head, Neck, and Spine Injuries
+              type: video
+            - href: https://youtu.be/9hEjyLabTRE
+              text: Assessing a Head Injury
+              type: video
       - requirement: b
         text: |-
             Describe the symptoms and signs of and first aid for a concussion.
+        resources:
+            - href: https://youtu.be/xvjK-4NXRsM
+              text: What Is a Concussion?
+              type: video
+            - href: https://youtu.be/mlWaByoT24s
+              text: First Aid for Concussions
+              type: video
       - requirement: c
         text: |-
             Demonstrate first aid for an open head wound with a triangular or other
             bandage.
+        resources:
+            - href: https://youtu.be/FvAWy4mCm7U
+              text: Forehead Cravat Bandage
+              type: video
       - requirement: d
         text: |-
             Demonstrate first aid for someone with a suspected neck or back injury.
+        resources:
+            - href: https://youtu.be/D_ZKcO8Ww_c
+              text: Head, Neck, and Spine Injuries During Sports
+              type: video
 - requirement: 10
   text: |-
       <b>Moving a Patient.</b> Do the following:
@@ -289,22 +685,42 @@
         text: |-
             Describe the conditions under which an injured person should and should
             not be moved.
+        resources:
+            - href: https://www.firstaidbristol.co.uk/blog/2024/09/10/when-is-it-okay-to-move-a-casualty/
+              text: When to Move an Injured Person
+              type: website
       - requirement: b
         text: |-
             If a sick or an injured person must be moved, tell how you would decide
             the best method. Demonstrate these methods.
+        resources:
+            - href: https://www.cert-la.com/cert-training-education/lifts-carries/
+              text: Lifts and Carries
+              type: website
       - requirement: c
         text: |-
             By yourself and with a partner, demonstrate how to transport a person
             from a smoke-filled room.
+        resources:
+            - href: https://youtu.be/dC8dC8-ZAoU
+              text: Fire and EMS Training | Moving a Victim | Moving a Patient
+              type: video
       - requirement: d
         text: |-
             By yourself and with a partner, demonstrate how to transport a person
             with a sprained ankle for at least 25 yards.
+        resources:
+            - href: https://youtu.be/U0yDJ0udMkg
+              text: Human Crutch Techniques
+              type: video
       - requirement: e
         text: |-
             With helpers under your supervision, improvise a stretcher and move
             a presumably unconscious person for at least 25 yards.
+        resources:
+            - href: https://youtu.be/EYfgxODBlwY
+              text: Improvised Stretchers
+              type: video
 - requirement: 11
   text: |-
       <b>Heat- and Cold-Related Conditions.</b> Describe the symptoms and signs
@@ -314,21 +730,60 @@
       - requirement: a
         text: |-
             Dehydration and over-hydration
+        resources:
+            - href: https://youtu.be/KahsIEbFROI
+              text: What is Dehydration?
+              type: video
+            - href: https://youtu.be/sD6j5sNo5Zk
+              text: Overhydration
+              type: video
       - requirement: b
         text: |-
             Heat cramps and muscle pain after exertion
+        resources:
+            - href: https://youtu.be/KOQJB3jlln4
+              text: Heat Cramps, Heat Exhaustion, and Heat Stroke
+              type: video
+            - href: https://youtu.be/6nZOTJ_8guI
+              text: Muscle Damage from Over-exercising
+              type: video
       - requirement: c
         text: |-
             Heat exhaustion
+        resources:
+            - href: https://youtu.be/8gn3DEYOPuE
+              text: Heat Exhaustion vs Heat Stroke
+              type: video
       - requirement: d
         text: |-
             Heat stroke
+        resources:
+            - href: https://youtu.be/PpHM4DfPZQU
+              text: Diagnosis and Treatment of Heat Stroke
+              type: video
       - requirement: e
         text: |-
             Chest pains associated with cold exposure
+        resources:
+            - href: https://youtu.be/xP6Nya7nH_g
+              text: Heart Attacks from Shoveling Snow
+              type: video
       - requirement: f
         text: |-
             Hypothermia
+        resources:
+            - href: https://youtu.be/my6JB41apTw
+              text: Hypothermia
+              type: video
+            - href: https://www.scouting.org/health-and-safety/safety-moments/winter-activity/
+              text: C.O.L.D. Guidelines for Staying warm
+              type: website
+            - href: https://health.mo.gov/living/healthcondiseases/hypothermia/index.php
+              text: Frostbite and Hypothermia
+              type: website
+            - href: https://youtu.be/aDAqWLpHXXU
+              text: Recognize the "Umbles" and Avoid Hypothermia
+              type: video
 - requirement: 12
   text: |-
       <b>Mental Health Conditions.</b> Describe the following:
@@ -340,10 +795,36 @@
             audience, making a phone call to an adult, taking a swim test, missing
             home, lighting a match, trying out for a sports team, meeting someone
             for the first time, or other stressful circumstances.
+        resources:
+            - href: https://youtu.be/_H5QFfiU0s0
+              text: 3 Tools for Situational Anxiety
+              type: video
+            - href: https://youtu.be/BmX6GXDvlLM
+              text: Overcoming Social Anxiety
+              type: video
+            - href: https://www.youtube.com/watch?v=gTd6Lq1M9Tc
+              text: Power of Self-Confidence
+              type: video
+            - href: https://youtu.be/a_dVK2EEWKE
+              text: Getting Ready for Tryouts
+              type: video
       - requirement: b
         text: |-
             The actions that you and others should take to prepare for and manage
             these situations.
+        resources:
+            - href: https://youtu.be/h2zWopNUUJE
+              text: Techniques to Manage Stress
+              type: video
+            - href: https://youtu.be/UC6HUrneIWI
+              text: Box Breathing | The Breathing Exercise Used By Navy SEALs
+              type: video
+            - href: https://youtu.be/QcKbxaGpwf4
+              text: Tips for Overcoming Phone Anxiety
+              type: video
+            - href: https://youtu.be/wbroM1Di-bI
+              text: How To STOP Letting Social Anxiety Control You
+              type: video
       - requirement: c
         text: |-
             The indications that someone might be a danger to themselves or others.
@@ -359,24 +840,69 @@
       - requirement: a
         text: |-
             Object in the eye
+        resources:
+            - href: https://youtu.be/uJFZPFsHcCE
+              text: 5 Ways To Safely Remove Something Stuck In Your Eye
+              type: video
+            - href: https://youtu.be/46UgImUrAG0
+              text: Penetrating and Chemical Eye Injuries
+              type: video
       - requirement: b
         text: |-
             Broken, chipped, loosened, or knocked out tooth
+        resources:
+            - href: https://youtu.be/eJnKf1jM6xY
+              text: Dental Emergencies
+              type: video
+            - href: https://my.clevelandclinic.org/health/diseases/16916-dental-injuries
+              text: Dental Injuries
+              type: website
       - requirement: c
         text: |-
             Vomiting and diarrhea associated with food poisoning
+        resources:
+            - href: https://youtu.be/K5UxbbnSjxc
+              text: First Aid for Vomiting and Diarrhea
+              type: video
       - requirement: d
         text: |-
             Abdominal pain
+        resources:
+            - href: https://youtu.be/2RxEHcGpwnA
+              text: Causes of Abdominal Pain
+              type: website
+            - href: https://youtu.be/pFCfQwYWxcM
+              text: Appendicitis
+              type: video
+            - href: https://youtu.be/8CUEPNcGtWs
+              text: What Does Appendix Pain Feel Like?
+              type: video
       - requirement: e
         text: |-
             Stroke
+        resources:
+            - href: https://youtu.be/EsshJLm5CN8
+              text: Types of Strokes
+              type: video
+            - href: https://youtu.be/v0AqhXminV8
+              text: First Aid for Stroke
+              type: video
+            - href: https://youtu.be/mkpbbWZvYmw
+              text: FAST Symptoms and Signs of a Stroke
+              type: video
+            - href: https://youtu.be/-NJm4TJ2it0
+              text: What Causes Strokes?
+              type: video
 - requirement: 14
   text: |-
       With guidance from your counselor, develop a plan to teach a first-aid
       skill or topic using the EDGE method. Discuss your skill, topic, and plan
       with your counselor, and then teach your skill or topic to your family or
       to one or more Scouts.
+  resources:
+      - href: https://blog.scoutingmagazine.org/2017/05/05/living-on-the-edge-this-is-the-correct-way-to-teach-someone-a-skill/
+        text: 'The Teaching EDGE: The best way to teach someone a new skill'
+        type: website
 - requirement: 15
   text: |-
       Do ONE of the following:
@@ -388,12 +914,26 @@
             learn about how they serve their community and about their careers.
             Discuss with your counselor what you learned during your tour and
             interviews.
+        resources:
+            - href: https://youtu.be/p9s3agPQR4g
+              text: EMS Training Center Virtual Tour
+              type: video
       - requirement: b
         text: |-
             Interview an emergency medical services professional about their work.
             Learn about how they chose this career and about their duties. Discuss
             what you learned with your counselor and whether you might be
             interested in this career.
+        resources:
+            - href: https://www.youtube.com/watch?v=k0k6tWrISBM
+              text: A Day with a Paramedic
+              type: video
+            - href: https://youtu.be/s9U0nwy9te4
+              text: 'Female EMS Helicopter Pilot: A Day in a Life'
+              type: video
+            - href: https://www.youtube.com/watch?v=3GzBKoCK3Ik
+              text: An ER Nurse
+              type: video
       - requirement: c
         text: |-
             Identify three career opportunities that would use skills and knowledge
@@ -403,6 +943,10 @@
             employment, starting salary, advancement opportunities, and career
             goals associated with this career. Discuss what you learned with your
             counselor and whether you might be interested in this career.
+        resources:
+            - href: https://youtu.be/2MzVijGmUrk
+              text: 5 Careers that Require CPR &amp; First Aid Certification
+              type: video
       - requirement: d
         text: |-
             Identify how you might use the skills and knowledge in the field of
@@ -412,3 +956,7 @@
             enjoyment and benefit you might gain from it. Discuss what you learned
             with your counselor and share what short-term and long-term goals you
             might have if you pursued this.
+        resources:
+            - href: https://youtu.be/gEkzn15Jpzc
+              text: EMS and Fire Volunteers in Washington State
+              type: video

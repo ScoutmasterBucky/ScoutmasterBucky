@@ -1,12 +1,6 @@
 # 7b missing period at end. Added one.
 # Requirement 1c1 put the period within the parentheses, which seems wrong.
 # Requirement 2c has a period outside the parenthesis, which is wrong.
-- text: |-
-      <b>NOTE: Always be sure to have proper permission before using the
-      internet.  It is strongly advised that Scouts view the Personal Safety
-      Awareness videos before starting work. Find details at <a
-      href="http://www.scouting.org/training/youth-protection/scouts-bsa"
-      >www.scouting.org/training/youth-protection/scouts-bsa</a></b>
 - requirement: 1
   text: |-
       Do the following:
@@ -193,7 +187,7 @@
             report
       - requirement: e
         text: |-
-            Ways to reduce or eliminate debt
+            Ways to reduce or eliminate debt.
 - requirement: 8
   text: |-
       Demonstrate to your counselor your understanding of time management by
