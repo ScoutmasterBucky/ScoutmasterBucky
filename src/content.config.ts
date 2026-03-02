@@ -103,6 +103,7 @@ const meritBadges = defineCollection({
     loader: fileLoader('./src/data/merit-badges.yaml'),
     schema: z.strictObject({
         bucky: z.string(),
+        discontinuedDate: z.string().optional(),
         eagle: z.boolean().optional(),
         image: z.string(),
         name: z.string(),

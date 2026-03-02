@@ -1,3 +1,4 @@
+# 4d and 7f had the trailing periods removed. Since it is the last item in the list, it should still have a period.
 - requirement: 1
   text: |-
       <b>Safety and Hazards.</b> Do the following:
@@ -120,7 +121,7 @@
       - requirement: a
         text: |-
             How a person would safely exit from public buildings, a hotel, and a
-            stadium in an emergency.
+            stadium in an emergency
         resources:
             - href: https://youtu.be/KaDcgIx2PlY
               text: How to Survive a Stampede
@@ -130,7 +131,7 @@
               type: video
       - requirement: b
         text: |-
-            How and why Scouts would take shelter at camp.
+            How and why Scouts would take shelter at camp
         resources:
             - href: https://www.youtube.com/shorts/no3dR86WRss
               text: Camp Emergency Planning
@@ -140,14 +141,14 @@
               type: website
       - requirement: c
         text: |-
-            How should Scouts respond to an active shooter.
+            How should Scouts respond to an active shooter
         resources:
             - href: https://youtu.be/sshDd_AgRAA
               text: How to Respond to an Active Shooter
               type: video
       - requirement: d
         text: |-
-            The meaning of this saying: "If You See Something, Say Something.®"
+            The meaning of this saying: "If You See Something, Say Something®"
         resources:
             - href: https://youtu.be/Lgm5QWD1T3k
               text: If You See Something, Say Something®
@@ -196,7 +197,7 @@
   children:
       - requirement: a
         text: |-
-            How to avoid being the victim of online crimes.
+            How to avoid being the victim of online crimes
         resources:
             - href: https://consumer.ftc.gov/protect-your-personal-information-hackers-scammers#keep
               text: Protect Your Personal Information From Hackers and Scammers
@@ -206,7 +207,7 @@
               type: video
       - requirement: b
         text: |-
-            Common online financial scams.
+            Common online financial scams
         resources:
             - href: https://youtu.be/k8UVnkh8i0c
               text: Common Online Scams
@@ -216,28 +217,28 @@
               type: video
       - requirement: c
         text: |-
-            Effective online security.
+            Effective online security
         resources:
             - href: https://youtu.be/aO858HyFbKI
               text: Effective Online Security
               type: video
       - requirement: d
         text: |-
-            Identity theft and how to prevent it.
+            Identity theft and how to prevent it
         resources:
             - href: https://youtu.be/kDFeSUUwRnA
               text: Preventing Identity Theft
               type: video
       - requirement: e
         text: |-
-            How criminals use social media to target victims.
+            How criminals use social media to target victims
         resources:
             - href: https://youtu.be/5bdBvNCBeho
               text: How Criminals Use Social Media
               type: video
       - requirement: f
         text: |-
-            How bullying, texting, and sharing photos can become crimes.
+            How bullying, texting, and sharing photos can become crimes
 - requirement: 8
   text: |-
       <b>Travel Safety.</b> Explain guidelines for traveling safely:

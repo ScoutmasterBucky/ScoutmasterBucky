@@ -1,0 +1,33 @@
+---
+import { DateTime } from 'luxon';
+import { stringToDate } from '~/utils/string-to-date.js';
+
+interface date {
+    date: string;
+}
+
+const { date } = Astro.props;
+const dateObj = stringToDate(date);
+const dateTime = DateTime.fromJSDate(dateObj.date);
+const dateStr = dateTime.toFormat('MMMM d, yyyy');
+
+---
+
+<p class="notice">As of {dateStr}, Scouts are not allowed to start working on this merit badge. Scouts that already completed requirements of this merit badge may finish it until the end of the year.</p>
+
+<style>
+    .notice {
+        background-color: orange;
+        color: var(--color-on-warning);
+        padding: 1rem 1rem;
+        margin: 1rem 4rem;
+        border-radius: 0.5rem;
+        margin-bottom: 1rem;
+    }
+
+    @media (max-width: 480px) {
+        .notice {
+            margin: 1rem 0;
+        }
+    }
+</style>
