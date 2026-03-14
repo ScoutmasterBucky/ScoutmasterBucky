@@ -265,7 +265,7 @@
           height="424"
           src="https://www.scouting.org/wp-content/uploads/2025/08/Test-Lab-Life-Skills-1-002082725.png"
           data-src="https://www.scouting.org/wp-content/uploads/2025/08/Test-Lab-Life-Skills-1-002082725.png"
-          class="attachment-large size-large wp-image-233216 lazyloaded"
+          class="attachment-large size-large wp-image-233216 ls-is-cached lazyloaded"
           alt=""
           data-srcset="https://www.scouting.org/wp-content/uploads/2025/08/Test-Lab-Life-Skills-1-002082725.png 490w, https://www.scouting.org/wp-content/uploads/2025/08/Test-Lab-Life-Skills-1-002082725-300x260.png 300w, https://www.scouting.org/wp-content/uploads/2025/08/Test-Lab-Life-Skills-1-002082725-74x64.png 74w"
           data-sizes="(max-width: 490px) 100vw, 490px"
@@ -366,7 +366,7 @@
           height="429"
           src="https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1-1024x686.jpg"
           data-src="https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1-1024x686.jpg"
-          class="attachment-large size-large wp-image-232282 lazyloaded"
+          class="attachment-large size-large wp-image-232282 ls-is-cached lazyloaded"
           alt=""
           data-srcset="https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1-1024x686.jpg 1024w, https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1-300x201.jpg 300w, https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1-768x515.jpg 768w, https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1-74x50.jpg 74w, https://www.scouting.org/wp-content/uploads/2025/01/image-7@3x-1.jpg 1482w"
           data-sizes="(max-width: 640px) 100vw, 640px"
@@ -1417,6 +1417,64 @@
           <span class="elementor-heading-title elementor-size-default"
             ><a href="/skills/merit-badges/test-lab/competitive-gaming/"
               >Competitive Gaming</a
+            ></span
+          >
+        </div>
+      </div>
+    </div>
+    <div
+      data-particle_enable="false"
+      data-particle-mobile-disabled="false"
+      class="elementor-element elementor-element-d89cb84 e-con-full e-flex e-con e-child"
+      data-id="d89cb84"
+      data-element_type="container"
+    >
+      <div
+        class="elementor-element elementor-element-c84844b elementor-widget elementor-widget-image"
+        data-id="c84844b"
+        data-element_type="widget"
+        data-widget_type="image.default"
+      >
+        <div class="elementor-widget-container">
+          <noscript
+            ><img
+              loading="lazy"
+              decoding="async"
+              width="490"
+              height="424"
+              src="https://www.scouting.org/wp-content/uploads/2026/03/Test-Lab-Military-Service-NEW.png"
+              class="attachment-large size-large wp-image-267799"
+              alt=""
+              srcset="
+                https://www.scouting.org/wp-content/uploads/2026/03/Test-Lab-Military-Service-NEW.png         490w,
+                https://www.scouting.org/wp-content/uploads/2026/03/Test-Lab-Military-Service-NEW-300x260.png 300w,
+                https://www.scouting.org/wp-content/uploads/2026/03/Test-Lab-Military-Service-NEW-74x64.png    74w
+              "
+              sizes="(max-width: 490px) 100vw, 490px" /></noscript
+          ><img
+            loading="lazy"
+            decoding="async"
+            width="490"
+            height="424"
+            src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20490%20424%22%3E%3C/svg%3E"
+            data-src="https://www.scouting.org/wp-content/uploads/2026/03/Test-Lab-Military-Service-NEW.png"
+            class="lazyload attachment-large size-large wp-image-267799"
+            alt=""
+            data-srcset="https://www.scouting.org/wp-content/uploads/2026/03/Test-Lab-Military-Service-NEW.png 490w, https://www.scouting.org/wp-content/uploads/2026/03/Test-Lab-Military-Service-NEW-300x260.png 300w, https://www.scouting.org/wp-content/uploads/2026/03/Test-Lab-Military-Service-NEW-74x64.png 74w"
+            data-sizes="(max-width: 490px) 100vw, 490px"
+          />
+        </div>
+      </div>
+      <div
+        class="elementor-element elementor-element-bb49698 elementor-widget elementor-widget-heading"
+        data-id="bb49698"
+        data-element_type="widget"
+        data-widget_type="heading.default"
+      >
+        <div class="elementor-widget-container">
+          <span class="elementor-heading-title elementor-size-default"
+            ><a href="/skills/merit-badges/test-lab/military-service-veterans/"
+              >Military Service &amp; Veterans</a
             ></span
           >
         </div>

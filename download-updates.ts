@@ -601,18 +601,24 @@ async function downloadScoutRanks(updated: UpdatedSingle) {
             dest: 'download/life.pdf',
             selector: 'li:nth-child(9) a[href*="Life-Rank" i][href*=".pdf"]:nth-child(1)'
         },
-        {
-            key: 'eagle',
-            url,
-            dest: 'download/eagle.pdf',
-            selector: 'li:nth-child(10) a[href*="Eagle-Rank" i][href*=".pdf"]:nth-child(1)'
-        },
+        // {
+        //     key: 'eagle',
+        //     url,
+        //     dest: 'download/eagle.pdf',
+        //     selector: 'li:nth-child(10) a[href*="Eagle-Rank" i][href*=".pdf"]:nth-child(1)'
+        // },
         {
             key: 'eagle-palms',
             url,
             dest: 'download/eagle-palms.pdf',
-            selector: 'li:nth-child(12) a[href*="Eagle-Palm" i][href*=".pdf"]:nth-child(1)'
+            selector: 'li:nth-child(11) a[href*="Eagle-Palm" i][href*=".pdf"]:nth-child(1)'
         },
+        // {
+        //     key: 'eagle-palms',
+        //     url,
+        //     dest: 'download/eagle-palms.pdf',
+        //     selector: 'li:nth-child(12) a[href*="Eagle-Palm" i][href*=".pdf"]:nth-child(1)'
+        // },
         {
             key: 'alternative-requirements',
             url,
@@ -620,12 +626,19 @@ async function downloadScoutRanks(updated: UpdatedSingle) {
             selector:
                 'li:nth-child(7) a[href*="Alternate-Requirements" i][href*=".pdf"]:nth-child(1)'
         },
+        // {
+        //     key: 'eagle-alternative-requirements',
+        //     url,
+        //     dest: 'download/eagle-alternative-requirements.pdf',
+        //     selector:
+        //         'li:nth-child(11) a[href*="Eagle-Scout-Rank-Alternative-Requirements" i][href*=".pdf"]:nth-child(1)'
+        // },
         {
             key: 'eagle-alternative-requirements',
             url,
             dest: 'download/eagle-alternative-requirements.pdf',
             selector:
-                'li:nth-child(11) a[href*="Eagle-Scout-Rank-Alternative-Requirements" i][href*=".pdf"]:nth-child(1)'
+                'li:nth-child(10) a[href*="Eagle-Scout-Rank-Alternative-Requirements" i][href*=".pdf"]:nth-child(1)'
         },
     ]);
 }

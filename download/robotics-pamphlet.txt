@@ -1,9 +1,11 @@
 ROBOTICS
-STEM-Based
+
+
+
 
 
 ROBOTICS
-BOY SCOUTS OF AMERICA
+SCOUTING AMERICA
 MERIT BADGE SERIES
 “Enhancing our youths’ competitive edge through merit badges”
 
@@ -37,9 +39,8 @@ requirements, the Scout should be sure you will give
 credit for that work.
 35972
 ISBN 978-0-8395-5972-6
-©2024 Boy Scouts of America
-2024 Printing
-FPO
+©2026 Scouting America
+2026 Printing
 
 
 ROBOTICS 3
@@ -83,7 +84,7 @@ sub-system. You should help ensure that the Scout has sufficiently
 explored the field of robotics to understand what it is about, and
 to discover whether this may be a career field of interest.
 Requirement
-4b calls for the
+4(b) calls for the
 Scout’s robot
 design to have at
 least 2 degrees of
@@ -106,37 +107,27 @@ of freedom.
 
 
 ROBOTICS 5
+Contents
+What Is Robotics? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Major Fields of Robotics . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Building a Robot . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+The Chassis Subsystem . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+The Mechanical Subsystem . . . . . . . . . . . . . . . . . . . . . . . . . 41
+The Power Subsystem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+The Controls Subsystem . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+Robotics Competitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+Careers in Robotics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+Robotics Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
 Requirements
-Scouts should go to www.scouting.org/merit-badges/Robotics or check Scoutbook for the latest requirements.
+Scouts should go to scouting.org/merit-badges/robotics
+or check Scoutbook for the latest requirements.
+Scan this QR code for the latest Robotics requirements.
 
 
-6 ROBOTICS
+
 
 
 ROBOTICS 7
-
-
-
-
-
-ROBOTICS 9
-Contents
-What Is Robotics? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
-Major Fields of Robotics . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
-Building a Robot . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
-The Chassis Subsystem . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
-The Mechanical Subsystem . . . . . . . . . . . . . . . . . . . . . . . . . 45
-The Power Subsystem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
-The Controls Subsystem . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
-Robotics Competitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
-Careers in Robotics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
-Robotics Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
-
-
-
-
-
-ROBOTICS 11
 .What Is Robotics?
 What Is Robotics?
 From space probes to underwater exploration, from medicine to
@@ -183,7 +174,7 @@ ers today focus robot development on tasks
 that people dislike doing or find difficult.
 
 
-12 ROBOTICS
+8 ROBOTICS
 What Is Robotics?.
 The Four D’s of Robotics
 Robotics tasks generally fall into four categories that humans do
@@ -218,7 +209,7 @@ toys of the 1700s or Leonardo da Vinci’s 15th-century design
 for a mechanical knight are examples of early robots.
 
 
-ROBOTICS 13
+ROBOTICS 9
 .What Is Robotics?
 The abilities of
 early mechanical
@@ -252,7 +243,7 @@ Step in Innovative Motion), can walk on
 two feet.
 
 
-14 ROBOTICS
+10 ROBOTICS
 What Is Robotics?.
 Human and Robot Teams
 A major focus of AI is understanding the differences between
@@ -298,7 +289,7 @@ ing side by side
 with people.
 
 
-ROBOTICS 15
+ROBOTICS 11
 .What Is Robotics?
 Robots have explored the extreme depths of our oceans and
 the farthest reaches of our solar system. Jason Jr. is an underwater
@@ -335,7 +326,7 @@ growing slowly but surely.
 
 
 
-ROBOTICS 17
+ROBOTICS 13
 .Major Fields of Robotics
 Major Fields of Robotics
 Sophisticated robot design typically requires the talents and
@@ -371,7 +362,7 @@ software by
 SolidWorks.
 
 
-18 ROBOTICS
+14 ROBOTICS
 Major Fields of Robotics.
 Operator Interfaces
 Autonomous Interfaces
@@ -416,7 +407,7 @@ able interface for a robot.
 Robotic arm teach pendant
 
 
-ROBOTICS 19
+ROBOTICS 15
 .Major Fields of Robotics
 Teleoperator Interfaces
 A teleoperated robot (telerobot) is controlled by a human using
@@ -454,7 +445,7 @@ A telerobot may perform a task a few yards away and as far as
 miles away from its human operator.
 
 
-20 ROBOTICS
+16 ROBOTICS
 Major Fields of Robotics.
 Biofeedback or neurofeedback is another way to teleoper-
 ate a robot. This technology uses electroencephalogram (EEG)
@@ -501,7 +492,7 @@ of the human’s arm being pushed, the operator
 may feel a vibration.
 
 
-ROBOTICS 21
+ROBOTICS 17
 .Major Fields of Robotics
 Energy for robot
 movement can
@@ -546,7 +537,7 @@ in much the same way as linear actuators, except the push is cir-
 cular rather than straight.
 
 
-22 ROBOTICS
+18 ROBOTICS
 Major Fields of Robotics.
 Other Actuators. Other types of actuators include:
 • Muscle wire—a type of wire that contracts (shortens) when
@@ -582,7 +573,7 @@ of two-wheeled
 balancing.
 
 
-ROBOTICS 23
+ROBOTICS 19
 .Major Fields of Robotics
 Walking Robots. A robot that can walk on two legs (like the
 Honda ASIMO) is called a biped. Some robots have more than
@@ -628,7 +619,7 @@ carry supplies for U.S. military troops.
 Unmanned aerial vehicle
 
 
-24 ROBOTICS
+20 ROBOTICS
 Major Fields of Robotics.
 Manipulators and Effectors
 Besides moving from place to place, robots need to manipulate
@@ -663,7 +654,7 @@ to weld a metal seam and to paint the car. The only dif-
 ference is that each job uses a different end-effector.
 
 
-ROBOTICS 25
+ROBOTICS 21
 .Major Fields of Robotics
 Programming
 A robot generally has an onboard computer that controls it. This
@@ -723,7 +714,7 @@ this pamphlet.
 
 
 
-ROBOTICS 27
+ROBOTICS 23
 .Building a Robot
 Building a Robot
 For this merit badge you will design and build a robot or a func-
@@ -736,10 +727,10 @@ to build, the task you want your robot to complete, and the
 safety considerations of building your robot.
 Building larger robots requires the use of safety glasses,
 gloves, or other safety equipment depending on the complexity
-of your project. In addition, your merit badge counselor may
-suggest that a parent or adult or another Scout be present during
-the building of your robot. This is in the Scouting spirit of two-
-deep leadership and the buddy system—always a good practice.
+of your project. In addition, your counselor may suggest that a
+parent or trusted adult or another Scout be present during the
+building of your robot. This is in the Scouting spirit of two-deep
+leadership and the buddy system—always a good practice.
 The robot you build for this merit badge may be
 complicated. If so, you may be able to work on a
 team to complete the requirements. Discuss this
@@ -756,7 +747,7 @@ be concerned with electrical safety, materials safety,
 chemical safety, and power tool safety.
 
 
-28 ROBOTICS
+24 ROBOTICS
 Building a Robot.
 Robotics and First Aid Basics
 Discuss with your counselor all the potential hazards stemming
@@ -800,7 +791,7 @@ be sure the robot’s energy sources are disconnected:
 • Unplug the power cord.
 
 
-ROBOTICS 29
+ROBOTICS 25
 .Building a Robot
 Robot Design Kits
 You can complete the requirements for this merit badge using
@@ -835,7 +826,7 @@ Parallax
 Boe-Bot robot
 
 
-30 ROBOTICS
+26 ROBOTICS
 Building a Robot.
 Hybrids
 If you feel comfortable with electronics, you may try to add a controller to
@@ -858,7 +849,7 @@ creating smart vacuum cleaners, automated lawn mowers,
 and robot cars like this one.
 
 
-ROBOTICS 31
+ROBOTICS 27
 .Building a Robot
 When you start
 from nothing, you
@@ -910,7 +901,7 @@ subsystems that make up a robot are discussed
 individually, later in this pamphlet.)
 
 
-32 ROBOTICS
+28 ROBOTICS
 Building a Robot.
 Robot Tasks
 Robots can do many tasks. Those that qualify for this merit
@@ -951,7 +942,7 @@ deep in the “ocean,” for example, or build a robot that “plays” basketba
 and “shoots” hoops.
 
 
-ROBOTICS 33
+ROBOTICS 29
 .Building a Robot
 The Design Cycle
 The design cycle is the process that engineers use to create new
@@ -1015,7 +1006,7 @@ Inventing merit
 badge pamphlet.
 
 
-34 ROBOTICS
+30 ROBOTICS
 Building a Robot.
 Robot Engineering Notebook
 You will need to keep a robot engineering notebook, just like a
@@ -1038,7 +1029,7 @@ For your robot engineering notebook, collect pictures of robots
 with your counselor.
 
 
-ROBOTICS 35
+ROBOTICS 31
 .Building a Robot
 Feel free to add
 more to your
@@ -1087,7 +1078,7 @@ time and trouble of working on a faulty design.
 
 
 
-ROBOTICS 37
+ROBOTICS 33
 .The Chassis Subsystem
 The Chassis Subsystem
 Just as your body needs a skeleton, your robot needs a well-
@@ -1114,7 +1105,7 @@ robust design, vulnerability, and interaction with other
 system components.
 
 
-38 ROBOTICS
+34 ROBOTICS
 The Chassis Subsystem.
 Stability
 Center of Gravity. You can think of a robot’s center of gravity
@@ -1146,7 +1137,7 @@ WHEEL AND GROUND
 SUPPORT POLYGON
 
 
-ROBOTICS 39
+ROBOTICS 35
 .The Chassis Subsystem
 A robot will
 be most stable
@@ -1170,7 +1161,7 @@ STILL OVER
 SUPPORT POLYGON
 
 
-40 ROBOTICS
+36 ROBOTICS
 The Chassis Subsystem.
 Stability Example No. 1
 This robot was built with a heavy weight high above the
@@ -1204,7 +1195,7 @@ center of gravity moves so it is not over the support polygon,
 and the robot falls over.
 
 
-ROBOTICS 41
+ROBOTICS 37
 .The Chassis Subsystem
 The problem may be solved several ways: (1) move the grabber back so
 the center of gravity always stays over the support polygon; (2) extend the
@@ -1228,7 +1219,7 @@ CENTER OF GRAVITY REMAINS
 OVER SUPPORT POLYGON
 
 
-42 ROBOTICS
+38 ROBOTICS
 The Chassis Subsystem.
 Robust Design
 A robust design is one that does not break or fall apart easily.
@@ -1268,7 +1259,7 @@ SHORTENS
 LEVER ARM
 
 
-ROBOTICS 43
+ROBOTICS 39
 .The Chassis Subsystem
 Vulnerability
 Some parts of every robot are more fragile than others. If possible,
@@ -1286,8 +1277,8 @@ Safety With Power Tools
 Power tools can be dangerous and need to be handled
 with care. If building the chassis or other parts of your
 robot requires the use of power tools, talk with your
-counselor and parent about permission to use the tools
-and the safety procedures for each.
+counselor and parent or guardian about permission to
+use the tools and the safety procedures for each.
 • Always wear safety glasses when working with
 power tools, including handheld and table-mounted
 saws, drill presses, and sanders.
@@ -1330,7 +1321,7 @@ through the chassis. In many robot designs, the motion and chassis subsystems ar
 tightly integrated.
 
 
-ROBOTICS 45
+ROBOTICS 41
 .The Mechanical Subsystem
 The Mechanical
 Subsystem
@@ -1352,7 +1343,7 @@ Energy is anything that can do work. A simple formula
 can relate the two concepts: Force × Distance = Work
 
 
-46 ROBOTICS
+42 ROBOTICS
 The Mechanical Subsystem.
 Leverage
 Manipulating this formula is what the mechanical subsystem
@@ -1381,7 +1372,7 @@ CENTER OF MASS
 FULCRUM
 
 
-ROBOTICS 47
+ROBOTICS 43
 .The Mechanical Subsystem
 Power
 A robot’s motors and actuators can produce a maximum
@@ -1417,7 +1408,7 @@ from 3 to 2, the force must increase from 4 to 6. This holds true for
 any robot. To increase force, simply reduce the speed with gears.
 
 
-48 ROBOTICS
+44 ROBOTICS
 The Mechanical Subsystem.
 Gears
 Gears and levers can create more force
@@ -1462,7 +1453,7 @@ DRIVEN
 GEAR
 
 
-ROBOTICS 49
+ROBOTICS 45
 .The Mechanical Subsystem
 The 24-tooth gear in this string is
 called an idler gear. Idler gears do
@@ -1507,7 +1498,7 @@ DRIVEN
 GEAR
 
 
-50 ROBOTICS
+46 ROBOTICS
 The Mechanical Subsystem.
 In this example, a 40-tooth gear is the driving gear. It is
 connected to an 8-tooth driven gear. On the driven gear’s axle is
@@ -1530,7 +1521,7 @@ DRIVING GEAR
 DRIVEN GEAR DRIVING GEAR
 
 
-ROBOTICS 51
+ROBOTICS 47
 .The Mechanical Subsystem
 Chains and Sprockets
 Instead of directly meshing with each other, gears can be
@@ -1587,7 +1578,7 @@ DRIVING
 PULLEY
 
 
-52 ROBOTICS
+48 ROBOTICS
 The Mechanical Subsystem.
 Belts have the same issue with tension that chains do—the
 tension must be just right. Belts and pulleys can also be limiting,
@@ -1662,10 +1653,10 @@ SCREW
 ARM ROTATES TOO
 EASILY AROUND
 THIS PINCH POINT
-ROBOTICS 53
+ROBOTICS 49
 
 
-54 ROBOTICS
+50 ROBOTICS
 The Power Subsystem.
 Be careful of any
 energy source.
@@ -1701,7 +1692,7 @@ The power subsystem works with the other robot subsystems. It
 powers the motion subsystem and the controls subsystem.
 
 
-ROBOTICS 55
+ROBOTICS 51
 .The Power Subsystem
 Electricity can be either alternating current (AC) or direct
 current (DC). AC electricity in your home and in factories
@@ -1731,7 +1722,7 @@ weight to a robot.
 VEHICLE THRUSTERS
 
 
-56 ROBOTICS
+52 ROBOTICS
 The Power Subsystem.
 Robots often use rechargeable batteries. These come in all
 shapes and sizes and are used in many small electronic devices
@@ -1764,7 +1755,7 @@ it moving and keep its computer working. However, the
 solar panels add weight to the robot.
 
 
-ROBOTICS 57
+ROBOTICS 53
 .The Power Subsystem
 By the time you see smoke, the motor is likely to be
 destroyed beyond repair. When the insulation between
@@ -1829,7 +1820,7 @@ toxic chemicals
 and cause burns.
 
 
-58 ROBOTICS
+54 ROBOTICS
 The Power Subsystem.
 Soldering
 To permanently connect wires, you can solder them together or
@@ -1862,7 +1853,7 @@ That’s much hotter than boiling water (212 degrees F) and can
 easily burn you.
 
 
-ROBOTICS 59
+ROBOTICS 55
 .The Power Subsystem
 • If possible, use a soldering-iron stand or clamps when you are
 soldering, leaving one hand free to hold the solder.
@@ -1904,7 +1895,7 @@ robot needs to punch through something or shoot something out
 a tube. Recall that motors lose force as they gain speed.
 
 
-60 ROBOTICS
+56 ROBOTICS
 The Power Subsystem.
 Also, pneumatics and hydraulics are good for grabbing
 things and holding them in one place. Hydraulics are used on
@@ -1925,7 +1916,7 @@ it pushes the disk inside the cylinder to the other end,
 which pushes a rod that is connected to the disk.
 
 
-ROBOTICS 61
+ROBOTICS 57
 .The Power Subsystem
 Pistons
 A pneumatic cylinder has an air valve that allows air
@@ -1972,7 +1963,7 @@ MAIN POWER
 DISTRIBUTION BATTERY CONNECTOR
 
 
-ROBOTICS 63
+ROBOTICS 59
 .The Controls Subsystem
 The controller
 on a robot is
@@ -2011,7 +2002,7 @@ FROM PC TO
 DOWNLOAD
 
 
-64 ROBOTICS
+60 ROBOTICS
 The Controls Subsystem.
 Sensors
 Sensors interact with the environment in some way that causes
@@ -2052,7 +2043,7 @@ making an electrical connection and sending an electrical pulse—
 a signal—to the robot’s onboard controller.
 
 
-ROBOTICS 65
+ROBOTICS 61
 .The Controls Subsystem
 How It Works
 Here is an example of how
@@ -2093,7 +2084,7 @@ Robot with bumper
 switch installed
 
 
-66 ROBOTICS
+62 ROBOTICS
 The Controls Subsystem.
 Programming
 The operator or programmer writes the program in plain language,
@@ -2139,7 +2130,7 @@ quickly learn that the more precise you are with your instruc-
 tions, the more likely you will produce the desired result.
 
 
-ROBOTICS 67
+ROBOTICS 63
 .The Controls Subsystem
 Pseudo Code
 The thought process of programming a friend is similar
@@ -2181,7 +2172,7 @@ like NASA spacecraft. Mindstorms® is a first step to
 learning LabVIEW.
 
 
-68 ROBOTICS
+64 ROBOTICS
 The Controls Subsystem.
 Text-Based Programming
 Text-based programming takes skill to translate pseudo code into
@@ -2227,7 +2218,7 @@ smaller chunks that the robot can understand. This
 statement is not sufficient even for pseudo code.
 
 
-ROBOTICS 69
+ROBOTICS 65
 .The Controls Subsystem
 Warehouse Robot Pseudo Code
 Try writing pseudo code for a warehouse robot.
@@ -2267,7 +2258,7 @@ Lower manipulator;
 Return to point A.
 
 
-70 ROBOTICS
+66 ROBOTICS
 The Controls Subsystem.
 Troubleshooting
 Writing a good program with no errors the first time is nearly
@@ -2313,7 +2304,7 @@ expected to thoroughly understand how the program
 interacts with the sensors and actuators to make the
 system function. You can create a simple flowchart or
 pseudo code to demonstrate your knowledge.
-ROBOTICS 71
+ROBOTICS 67
 Third rule of programming: Comment your code as
 much as possible.
 
@@ -2321,14 +2312,15 @@ much as possible.
 
 
 
-ROBOTICS 73
+ROBOTICS 69
 .Robotics Competitions
 When using the
 internet, you
-should do so only
-with your parent’s
-permission and
-knowledge.
+should do so
+only with your
+parent or guard-
+ian’s permission
+and knowledge.
 Robotics Competitions
 Youth robotics competitions range from local competitions for
 30 students from a single town to major, organized tournaments
@@ -2351,21 +2343,21 @@ and Technology (BEST™), founded in
 1993, runs a school-based, sports-like
 robotics competition for middle and
 high school students. For information,
-search the internet (with your parent’s
-permission) for “BEST robotics.”
+search the internet (with your parent
+or guardian’s permission) for “BEST
+robotics.”
 Botball®. The Botball Educational Robotics
-Program is an elementary through high
-school competition that uses time-trial scoring.
-Tournaments are held throughout the United
-States. The robots are autonomous only, and the rules
-allow many types of robotics controllers and construction.
-The final rounds of each tournament feature a head-to-head
-autonomous challenge. Search the internet
-for “Botball.”
+Program is an elementary through high school
+competition that uses time-trial scoring.
+Tournaments are held throughout the United States.
+The robots are autonomous only, and the rules allow
+many types of robotics controllers and construction. The final
+rounds of each tournament feature a head-to-head autonomous
+challenge. Search the internet for “Botball.”
 FIRST® competition
 
 
-74 ROBOTICS
+70 ROBOTICS
 Robotics Competitions.
 FIRST®. For Inspiration and Recognition of Science and
 Technology (FIRST®) runs both autonomous time-trial and teleop-
@@ -2395,7 +2387,7 @@ internet for “Robofest” or “Lawrence Tech robotics.”
 MATE competition
 
 
-ROBOTICS 75
+ROBOTICS 71
 .Robotics Competitions
 TSA-VEX® Robotics. The TSA-VEX Robotics Competition is a
 head-to-head sports-like competition put on by the Technology
@@ -2433,7 +2425,7 @@ reliably to a table.
 VEX® Robotics competition
 
 
-76 ROBOTICS
+72 ROBOTICS
 Robotics Competitions.
 Resources for Kits and Competitions
 Hobbyist and student kits and competitions are a fast-changing
@@ -2442,9 +2434,9 @@ information, which may soon be obsolete, here are tips for
 finding information that should provide useful results even
 as website links and companies change.
 Use a Search Engine
-Use a search engine (with your parent’s permission) to find what you
-need. When looking for kits or competitions, search “robotics” or the
-name of a company, competition, or kit. For example, try searching for
+Use a search engine (with your parent or guardian’s permission) to find
+what you need. When looking for kits or competitions, search “robotics” or
+the name of a company, competition, or kit. For example, try searching for
 these terms:
 • Robotics kits (returns hundreds
 of thousands of entries)
@@ -2457,7 +2449,7 @@ of thousands of entries)
 Visitors at Roboworld
 
 
-ROBOTICS 77
+ROBOTICS 73
 .Robotics Competitions
 Use an Internet Gateway
 Use a portal to find information. You might begin your search at
@@ -2479,15 +2471,15 @@ Robotics Education and Competition Foundation (recf.org)
 connects students, mentors, and schools with engaging
 technology-based programs and competitions.
 In addition to your counselor, use traditional means. Go to a library or
-talk to your teachers, Scout leaders, parents, and fellow Scouts. Robots
-draw widespread interest—you will be surprised by how many people
-can help you.
+talk to your teachers, Scout leaders, parent or guardian, and fellow Scouts.
+Robots draw widespread interest—you will be surprised by how many
+people can help you.
 
 
 
 
 
-ROBOTICS 79
+ROBOTICS 75
 .Careers in Robotics
 Careers in Robotics
 From deep seas to deep space to your closet at home, robots
@@ -2531,7 +2523,7 @@ power generation,
 and many more.
 
 
-80 ROBOTICS
+76 ROBOTICS
 Careers in Robotics.
 Exploration
 Exploration is a prime field for robotics, to reduce the risk to
@@ -2563,7 +2555,7 @@ in movies and
 amusement parks.
 
 
-ROBOTICS 81
+ROBOTICS 77
 .Careers in Robotics
 Deep Sea. The National Oceanographic and Atmospheric Agency
 uses autonomous underwater vehicles, or AUV robots, to explore
@@ -2607,7 +2599,7 @@ send people to
 those places.
 
 
-82 ROBOTICS
+78 ROBOTICS
 Careers in Robotics.
 Medicine
 Medical robots are rapidly changing the field of medicine. More
@@ -2633,7 +2625,7 @@ streams to administer medicine, repair the body, or
 fight off infection.
 
 
-ROBOTICS 83
+ROBOTICS 79
 .Careers in Robotics
 Industry
 In industry, robots that work on assembly lines are built and
@@ -2683,7 +2675,7 @@ many other fields.
 
 
 
-ROBOTICS 85
+ROBOTICS 81
 .Robotics Resources
 Robotics Resources
 Scouting Literature
@@ -2738,16 +2730,16 @@ robotics/robotics-tutorial
 Also see the websites and sources
 described under “Robotics
 Competitions” (See “Resources for
-Kits and Competitions” on page 76).
-With your parent’s permission, visit
-the Boy Scouts of America’s official
-retail website, www.scoutshop.org,
-for a complete listing of all merit
-badge pamphlets and other helpful
+Kits and Competitions” on page 74).
+With your parent or guardian’s
+permission, visit Scouting America’s
+official retail site, scoutshop.org,
+for a complete list of merit badge
+pamphlets and other helpful
 Scouting materials and supplies.
 
 
-86 ROBOTICS
+82 ROBOTICS
 Robotics Resources.
 The next time you are online
 or at the bookstore, check out
@@ -2790,26 +2782,26 @@ Toll-free telephone: 888-860-9010
 www.tsaweb.org
 Get Interactive with
 Scout Life magazine
-Unlock the BSA’s interactive merit
-badge resource center! Enhance
-your merit badge learning
-experience by tapping into a
-mind-blowing explosion of videos,
+Unlock Scouting America’s
+interactive merit badge resource
+center! Enhance your merit badge
+learning experience by tapping
+into an explosion of videos,
 games, activities, photos, the latest
 resources, and much more. Visit
 scoutlife.org/merit-badges.
 Acknowledgments
-The Boy Scouts of America greatly
-appreciates members of the Robotics
-merit badge advisory group for their
-assistance with developing the merit
-badge and pamphlet. A number of
-them are active volunteers in the
-Scouting program and are robotics
-competition mentors and experts.
-Their input, expertise, time, and
-other resources have been invaluable.
-Members include the following:
+Scouting America greatly appreciates
+members of the Robotics merit badge
+advisory group for their assistance with
+developing the merit badge and
+pamphlet. A number of them are active
+volunteers in the Scouting program and
+are robotics competition mentors and
+experts. Their input, expertise, time,
+andother resources have been
+invaluable. Members include the
+following:
 Kenneth Berry, Ph.D.—group lead;
 Eagle Scout; assistant director,
 Science and Engineering Education
@@ -2829,7 +2821,7 @@ Northeast Georgia Council; visual
 effects artist, AutomationDirect.com
 
 
-ROBOTICS 87
+ROBOTICS 83
 .Robotics Resources
 Laszlo Hideg, Ph.D., P.E.—Electrical
 engineering components, electric
@@ -2855,9 +2847,9 @@ coordinated the development of the
 requirements and the pamphlet.
 We are grateful to Carnegie
 Mellon Robotics Academy (www.cs2n.
-org) and Robin Shoop, its director,
-for their generosity in including the
-BSA as part of the FIRE initiative
+org) and Robin Shoop, its director, for
+their generosity in including Scouting
+America as part of the FIRE initiative
 (Fostering Innovation through Robotics
 Exploration). This program helps foster
 student interest in robotics, computer
@@ -2872,107 +2864,262 @@ Education and Competition Foundation
 (RECF) for their assistance with provid-
 ing visuals for the pamphlet and their
 close guidance and support throughout
-this entire project. The BSA thanks Eagle
-Scout Christopher Hideg, an electrical
-engineering student at the University
-of Detroit–Mercy. He is also a FIRST
-Robotics mentor and past competitor.
+this entire project. Scouting America
+thanks Eagle Scout Christopher Hideg,
+an electrical engineering student at the
+University of Detroit–Mercy. He is also
+a FIRST Robotics mentor and past com-
+petitor.
 Photo and Illustration Credits
 ©2011 AAI Corporation, courtesy—
-page 81 (unmanned surface vehicle)
+page 77 (unmanned surface vehicle)
 ABB Asea Brown Boveri Ltd., courtesy; www.
 abb.com—cover (industrial robot at
 center right)
 Battery Powered Picklejar Heads, FTC Team
 4299, Lexington, Massachusetts, cour-
-tesy—page 76 (robot)
-Carnegie Mellon Univ., courtesy—page 30
-Carnegie Science Center, courtesy—pages 76
-(RoboWorld exhibit) and 86
-Dagu, courtesy—page 36 (chassis)
+tesy—page 72 (robot)
+Carnegie Mellon Univ., courtesy—page 26
+Carnegie Science Center, courtesy—pages 72
+(RoboWorld exhibit) and 82
+Dagu, courtesy—page 32 (chassis)
 Dassault Systèmes SolidWorks,
-courtesy—page 17
-©2011 FANUC Robotics America Inc., cour-
-tesy—page 66
-©2011 FIRST®, courtesy—page 73
+courtesy—page 13
+©2011 FANUC Robotics America Inc.,
+courtesy—page 62
+©2011 FIRST®, courtesy—page 69
 FIRST Robotics Team No. 33, the Killer Bees/
 Laszlo Hideg, Ph.D., P.E., courtesy—pages
-62, 63, and 64
+58, 59, and 60
 Rick Folea, courtesy—page 5
-Christopher Hideg, courtesy—pages 34 and 71
-Laszlo Hideg, Ph.D., P.E., courtesy—pages 27
-and 70
+Christopher Hideg, courtesy—pages 31 and 67
+Laszlo Hideg, Ph.D., P.E., courtesy—pages 23
+and 66
 ©2011 Hydroid Inc., courtesy. All rights
-reserved.—cover (REMUS 100); page 78
+reserved.—cover (REMUS 100); page 74
 (REMUS 100)
 ©Intuitive Surgical, courtesy—cover (da Vinci
-instrument arm); pages 11 (surgical instru-
-ment and pencil) and 82 (da Vinci
+instrument arm); pages 7 (surgical instru-
+ment and pencil) and 78 (da Vinci
 instrument arm, da Vinci surgical system)
 ©2011 iRobot Corporation, courtesy—cover
-(PackBot); pages 7 and 15 (Roomba)
+(PackBot); pages 7 and 14 (Roomba)
 LEGO, the LEGO logo, MINDSTORMS, and
 the MINDSTORMS logo are trademarks of
 the LEGO Group. ©2011 The LEGO Group.
 Colors and decorative designs may vary.—
-page 29 (Mindstorms robot)
+page 25 (Mindstorms robot)
 Marine Advanced Technology Education
-(MATE), courtesy—page 74
+(MATE), courtesy—page 70
 NASA, courtesy—cover (robot hands); pages
-15 (rover), 80, and 84
-NASA Human Spaceflight Collection, cour-
-tesy—page 78 (astronaut)
-NASA/Jet Propulsion Laboratory–Caltech,
-courtesy—page 22 (Curiosity)
+11 (rover), 76, and 80
 
 
 Robotics Resources.
+NASA Human Spaceflight Collection, cour-
+tesy—page 74 (astronaut)
+NASA/Jet Propulsion Laboratory–Caltech,
+courtesy—page 18 (Curiosity)
 NASA/Jet Propulsion Laboratory–Caltech/
-Cornell, courtesy—page 56
+Cornell, courtesy—page 52
 NASA Johnson Space Center/Joe Bibby, cour-
-tesy—page 19 (Robonaut)
+tesy—page 15 (Robonaut)
 National Oceanic and Atmospheric
 Administration, courtesy—
-page 81 (AUV)
+page 77 (AUV)
 ©2011 Parallax Inc., courtesy. Use of
 Boe-Bot and Boe-Bot Robot Kit photos
 is with permission of Parallax Inc. Boe-
 Bot is a registered trademark of Parallax
 Inc. (www.parallax.com/go/boebot)—
-page 29 (Boe-Bot robot)
-RoboCoaster Ltd., courtesy—page 21
-Segway Inc., courtesy—page 22 (Segway)
+page 25 (Boe-Bot robot)
+RoboCoaster Ltd., courtesy—page 17
+Segway Inc., courtesy—page 18 (Segway)
 ©2011 Tec Weld Automation Inc., courtesy—
-page 18 (manufacturing robot)
-U.S. Army/Daren Reehl, courtesy—page 20
+page 14 (manufacturing robot)
+U.S. Army/Daren Reehl, courtesy—page 16
 U.S. Marine Corps/Lance Cpl. M.L. Meier,
-courtesy—page 23 (BigDog)
-U.S. Navy, courtesy—cover and page 23
+courtesy—page 19 (BigDog)
+U.S. Navy, courtesy—cover and page 19
 (unmanned aerial vehicle)
-VEX Robotics—page 65 (both)
-Wikipedia.org, courtesy—page 13
-(ASIMO robot)
-Wikipedia.org/Humanrobo, courtesy—page
-77
+VEX Robotics—page 61 (both)
+Wikipedia.org, courtesy—page 9 (ASIMO)
+Wikipedia.org/Humanrobo, courtesy—page 73
 Wikipedia.org/Francesco Mondada and
-Michael Bonani, courtesy—page 60
+Michael Bonani, courtesy—page 56
 Wikipedia.org/Lance Cpl. Bobby J. Segovia,
-courtesy—page 19 (telerobot)
+courtesy—page 15 (telerobot)
 Wikipedia.org/Red Sunset, courtesy—page
-18 (teach pendant)
+14(teach pendant)
 Wikipedia.org/Mario Taddei, courtesy—page
-13 (mechanical knight)
+9 (mechanical knight)
 All other photos and illustrations not
-mentioned above are the property of or
-are protected by the Boy Scouts of
-America.
-John McDearmon—pages 46 (both),
-52, and 55
+mentioned are the property of or are
+protected by Scouting America.
+John McDearmon—pages 42, 48, and 51
 John McDearmon, Rick Folea, and VEX
-Robotics—all illustrations on pages 38–43;
-pages 48–51, 53, and 61
+Robotics—pages 34–39, 44–47, 49, and 57
 John McDearmon and Laszlo Hideg, Ph.D.,
-P.E.—page 69
+P.E.—page 65
 Subscribe today at go.scoutlife.org/subscribe
 Use promo code SLMBP15 to get a special
-print + digital bundle offer priced just for Scouts!
+offer priced just for Scouts!
+
+
+MERIT BADGE LIBRARY
+Though intended as an aid to youth in Scouts BSA and qualified Venturers and
+Sea Scouts in meeting merit badge requirements, Scouting America's merit badge
+pamphlets are of general interest and are made available by many schools and public
+libraries.
+Always check scouting.org for the latest merit badge requirements. If a Scout has
+already started working on a merit badge when new requirements for that merit badge
+are introduced, they may continue to use the same pamphlet to earn the badge and
+fulfill the requirements therein. In other words, the Scout need not start over again with
+the revised requirements.
+SCOUTING AMERICA
+To place an order,
+call 800-323-0736 or go to
+scoutshop.org
+American Business
+American Cultures
+American Heritage
+American Indian Culture
+American Labor
+Animal Science
+Animation
+Archaeology
+Archery
+Architecture
+Art
+Astronomy
+Athletics
+Automotive Maintenance
+Aviation
+Backpacking
+Basketry
+Bird Study
+Bugling
+Camping
+Canoeing
+Chemistry
+Chess
+Citizenship in the Community
+Citizenship in the Nation
+Citizenship in Society
+Citizenship in the World
+Climbing
+Coin Collecting
+Collections
+Communication
+Composite Materials
+Cooking
+Crime Prevention
+Cycling
+Dentistry
+Digital Technology
+Disabilities Awareness
+Dog Care
+Drafting
+Electricity
+Electronics
+Emergency Preparedness
+Energy
+Engineering
+Entrepreneurship
+Environmental Science
+Exploration
+Family Life
+Farm Mechanics
+Fingerprinting
+Fire Safety
+First Aid
+Fish & Wildlife Management
+Fishing
+Fly-Fishing
+Forestry
+Game Design
+Gardening
+Genealogy
+Geocaching
+Geology
+Golf
+Graphic Arts
+Health Care Professions
+Hiking
+Home Repairs
+Horsemanship
+Insect Study
+Inventing
+Journalism
+Kayaking
+Landscape Architecture
+Law
+Leatherwork
+Lifesaving
+Mammal Study
+Metalwork
+Mining in Society
+Model Design and Building
+Motorboating
+Moviemaking
+Multisport
+Music
+Nature
+Nuclear Science
+Oceanography
+Orienteering
+Painting
+Personal Fitness
+Personal Management
+Pets
+Photography
+Pioneering
+Plant Science
+Plumbing
+Pottery
+Programming
+Public Health
+Public Speaking
+Pulp & Paper
+Radio
+Railroading
+Reading
+Reptile & Amphibian Study
+Rifle Shooting
+Robotics
+Rowing
+Safety
+Salesmanship
+Scholarship
+Scouting Heritage
+Scuba Diving
+Sculpture
+Search & Rescue
+Shotgun Shooting
+Signs, Signals, Codes
+Skating
+Small-Boat Sailing
+Snow Sports
+Soil & Water Conservation
+Space Exploration
+Sports
+Stamp Collecting
+Surveying
+Sustainability
+Swimming
+Textile
+Theater
+Traffic Safety
+Truck Transportation
+Veterinary Medicine
+Water Sports
+Weather
+Welding
+Whitewater
+Wilderness Survival
+Wood Carving
+Woodwork
+
+
+SKU 661796
+35972 2026 Printing
