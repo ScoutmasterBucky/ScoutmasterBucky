@@ -3,13 +3,29 @@ host: Scoutmaster Bucky
 icon: /events/bucky-apr.png
 start: '2026-04-11 8:00'
 end: '2026-04-11 16:00'
+registrationLink: https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-april-merit-badge-day-2026-04-11
 location:
     - St Richards Catholic Church
     - 7540 Penn Avenue South
     - Richfield, Minnesota 55423
+meritBadges:
+    - american-cultures
+    - automotive-maintenance
+    - citizenship-in-the-world
+    - forestry
+    - geology
+    - health-care-professions
+    - moviemaking
+    - music
+    - personal-management
+    - photography
+    - radio
+    - reading
+    - safety
+    - scholarship
 html: |-
-    <p>Merit badge offerings will be announced soon. Save the date.</p>
-# noticeTile: |-
-#     Giving to Book Drive
-# noticeHtml: |-
-#     <p>Join Scoutmaster Bucky in supporting our Day of Giving! Every Scout that contributes $10 to the book drive will receive a limited edition Scoutmaster Bucky pin, which is different for each event. Reading makes a huge impact in the development and education of today's youth.</p>
+    <p>Registration is now open</p>
+noticeTile: |-
+     Giving to The Ronald McDonald House
+noticeHtml: |-
+     <p>Our April 2026 Year of Giving recipient will be the Upper Midwest Ronald McDonald House. To receive your limited edition March Scoutmaster Bucky pin, we are collecting numerous items including but not limited to Fruit cups, juice boxes, salad dressing, Pop Tarts, individual Cereal, 10" sturdy paper plates, and plastic utensils). Alternatively, the April Month of Giving Pin is available for $10, with the full $10 donated directly to the org</p>
