@@ -7,7 +7,7 @@
         "build-dist": "astro build",
         "build-sitemap": "node build-sitemap.mjs",
         "now": "npm run build && npm run preview",
-        "postinstall": "cp cloud-one/dist/core/element.js node_modules/cloud-one/dist/core/",
+        "postinstall": "cp cloud-one/dist/core/element.js node_modules/cloud-one/dist/core/ || :",
         "reinstall": "rm -rf node_modules package-lock.json && npm install",
         "start": "astro dev --open --host",
         "start-windows": "npm ci && npm run start",
