@@ -24,7 +24,7 @@ node_modules/
 .iles-ssg-temp/
 
 # Astro
-dist/
+/dist/
 .astro/
 .env
 .env.production
