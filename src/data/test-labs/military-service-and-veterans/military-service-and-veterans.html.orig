@@ -355,12 +355,19 @@
           decoding="async"
           width="640"
           height="426"
-          src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20640%20426%22%3E%3C/svg%3E"
+          src="https://www.scouting.org/wp-content/uploads/2026/03/GettyImages-1489055225.jpg"
           data-src="https://www.scouting.org/wp-content/uploads/2026/03/GettyImages-1489055225.jpg"
-          class="lazyload attachment-large size-large wp-image-267714"
+          class="attachment-large size-large wp-image-267714 lazyloading"
           alt=""
           data-srcset="https://www.scouting.org/wp-content/uploads/2026/03/GettyImages-1489055225.jpg 1000w, https://www.scouting.org/wp-content/uploads/2026/03/GettyImages-1489055225-300x200.jpg 300w, https://www.scouting.org/wp-content/uploads/2026/03/GettyImages-1489055225-768x511.jpg 768w, https://www.scouting.org/wp-content/uploads/2026/03/GettyImages-1489055225-74x49.jpg 74w"
           data-sizes="(max-width: 640px) 100vw, 640px"
+          sizes="(max-width: 640px) 100vw, 640px"
+          srcset="
+            https://www.scouting.org/wp-content/uploads/2026/03/GettyImages-1489055225.jpg         1000w,
+            https://www.scouting.org/wp-content/uploads/2026/03/GettyImages-1489055225-300x200.jpg  300w,
+            https://www.scouting.org/wp-content/uploads/2026/03/GettyImages-1489055225-768x511.jpg  768w,
+            https://www.scouting.org/wp-content/uploads/2026/03/GettyImages-1489055225-74x49.jpg     74w
+          "
         />
       </div>
     </div>
