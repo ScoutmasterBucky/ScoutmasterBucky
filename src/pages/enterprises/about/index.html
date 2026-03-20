@@ -1,0 +1,600 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!-- TODO: Set the document title to the name of your application -->
+        <title>Scoutmaster Bucky Enterprises</title>
+        <meta name="description" content="Scoutmaster Bucky Enterprises" />
+
+        <!-- TODO: Update og:title to match your application name -->
+
+        <meta property="og:type" content="website" />
+        <meta
+            property="og:image"
+            content="https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/48ddc115-1277-4884-81a8-b2ffb7b3d100?Expires=1774014648&amp;GoogleAccessId=go-api-on-aws%40gpt-engineer-390607.iam.gserviceaccount.com&amp;Signature=WydEpTn41z31vNcSWa1yJaBd2haWxTfCXgPbYgqzZ0FMRdRzr1yEGAr%2F8u%2F4nZm7OvKHoR%2Bp9y7ymLYQOD4qCSG%2Fi2r%2FnGyIiT2KpAw4wqorbUATeypAQdFDAjuYFGmsZhKkTxx0Tw4UjwmcmhmaEu54EoatioCxVJ9BoA%2FcHeuth%2BmXOheEGewIIrpwmie7siU%2F47%2B0HoGYivEMQtb%2BfxTX2P8CYYR9wj5KP9DQiaiAHRyKd1MDyvpxyTm8dcT7mL%2BDvAGOrCY98n0xwCq4JyN1UcpvPnGG%2F87ab1pVZ9KIzjmlfO3Yp62J%2Bs7nzNC3%2F%2FT6pv6urnoGHwMhwGTNwQ%3D%3D"
+        />
+
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+            name="twitter:image"
+            content="https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/48ddc115-1277-4884-81a8-b2ffb7b3d100?Expires=1774014648&amp;GoogleAccessId=go-api-on-aws%40gpt-engineer-390607.iam.gserviceaccount.com&amp;Signature=WydEpTn41z31vNcSWa1yJaBd2haWxTfCXgPbYgqzZ0FMRdRzr1yEGAr%2F8u%2F4nZm7OvKHoR%2Bp9y7ymLYQOD4qCSG%2Fi2r%2FnGyIiT2KpAw4wqorbUATeypAQdFDAjuYFGmsZhKkTxx0Tw4UjwmcmhmaEu54EoatioCxVJ9BoA%2FcHeuth%2BmXOheEGewIIrpwmie7siU%2F47%2B0HoGYivEMQtb%2BfxTX2P8CYYR9wj5KP9DQiaiAHRyKd1MDyvpxyTm8dcT7mL%2BDvAGOrCY98n0xwCq4JyN1UcpvPnGG%2F87ab1pVZ9KIzjmlfO3Yp62J%2Bs7nzNC3%2F%2FT6pv6urnoGHwMhwGTNwQ%3D%3D"
+        />
+        <meta property="og:title" content="Scoutmaster Bucky Enterprises" />
+        <meta name="twitter:title" content="Scoutmaster Bucky Enterprises" />
+        <meta
+            property="og:description"
+            content="Scoutmaster Bucky Enterprises"
+        />
+        <meta
+            name="twitter:description"
+            content="Scoutmaster Bucky Enterprises"
+        />
+        <link rel="stylesheet" crossorigin="" href="../styles.css" />
+    </head>
+    <body>
+        <div id="root">
+            <div class="min-h-screen flex flex-col">
+                <header
+                    class="bg-pine-dark text-primary-foreground"
+                    role="banner"
+                >
+                    <nav
+                        class="container-wide section-padding py-3 flex items-center justify-between"
+                        aria-label="Site navigation"
+                    >
+                        <a
+                            class="text-xl font-bold tracking-tight hover:text-amber-light transition-colors"
+                            href="../"
+                            >Scoutmaster Bucky</a
+                        >
+                        <ul class="hidden md:flex items-center gap-6 text-sm">
+                            <li>
+                                <a
+                                    class="transition-colors text-primary-foreground hover:text-amber-light"
+                                    href="../"
+                                    >Home</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    class="transition-colors text-amber-light font-semibold"
+                                    aria-current="page"
+                                    href="../about/"
+                                    >About Us</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    class="transition-colors text-primary-foreground hover:text-amber-light"
+                                    href="../community/"
+                                    >Community</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    class="transition-colors text-primary-foreground hover:text-amber-light"
+                                    href="../work-for-us/"
+                                    >Work For Us</a
+                                >
+                            </li>
+                        </ul>
+                        <details class="md:hidden relative">
+                            <summary
+                                class="list-none cursor-pointer p-2"
+                                aria-label="Open menu"
+                            >
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    width="24"
+                                    height="24"
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    stroke="currentColor"
+                                    stroke-width="2"
+                                    stroke-linecap="round"
+                                    stroke-linejoin="round"
+                                    aria-hidden="true"
+                                >
+                                    <line x1="3" y1="6" x2="21" y2="6"></line>
+                                    <line x1="3" y1="12" x2="21" y2="12"></line>
+                                    <line x1="3" y1="18" x2="21" y2="18"></line>
+                                </svg>
+                            </summary>
+                            <div
+                                class="absolute right-0 top-full mt-2 w-48 bg-card text-foreground border rounded-lg shadow-lg z-50"
+                            >
+                                <ul class="py-2">
+                                    <li>
+                                        <a
+                                            class="block px-4 py-2 hover:bg-secondary"
+                                            href="../"
+                                            >Home</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="block px-4 py-2 hover:bg-secondary font-semibold text-pine"
+                                            aria-current="page"
+                                            href="../about/"
+                                            >About Us</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="block px-4 py-2 hover:bg-secondary"
+                                            href="../community/"
+                                            >Community</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="block px-4 py-2 hover:bg-secondary"
+                                            href="../work-for-us/"
+                                            >Work For Us</a
+                                        >
+                                    </li>
+                                </ul>
+                            </div>
+                        </details>
+                    </nav>
+                </header>
+                <main id="main-content" class="flex-1">
+                    <section class="bg-pine-dark text-primary-foreground py-16">
+                        <div class="container-wide section-padding">
+                            <h1 class="heading-1 text-primary-foreground">
+                                About Us
+                            </h1>
+                            <p
+                                class="mt-4 text-primary-foreground/80 text-lg max-w-2xl"
+                            >
+                                Equip people for the outdoors while investing in
+                                the leaders of tomorrow.
+                            </p>
+                        </div>
+                    </section>
+                    <section class="bg-card py-16" aria-label="Company focus">
+                        <div class="container-wide section-padding">
+                            <div class="grid md:grid-cols-2 gap-10 items-start">
+                                <div>
+                                    <h2 class="heading-2 mb-4">
+                                        What We're About
+                                    </h2>
+                                    <p class="body-large mb-4">
+                                        Scoutmaster Bucky Enterprises is a
+                                        national outdoor retailer and excursion
+                                        outfitter headquartered in Richfield,
+                                        Minnesota. We sell camping gear,
+                                        mountain bikes, climbing equipment,
+                                        canoes, and everything else you need to
+                                        get outside. But gear is only part of
+                                        the story.
+                                    </p>
+                                    <p
+                                        class="text-muted-foreground leading-relaxed mb-4"
+                                    >
+                                        We also run climbing classes with indoor
+                                        and outdoor walls, rent equipment for
+                                        people who want to try before they buy,
+                                        and help plan high-adventure excursions
+                                        with maps, national park permits, and
+                                        online scheduling.
+                                    </p>
+                                    <p
+                                        class="text-muted-foreground leading-relaxed"
+                                    >
+                                        What sets us apart is our commitment to
+                                        youth development and community
+                                        investment. The profits from our retail
+                                        operations — combined with generous
+                                        donations from our members — fund
+                                        community outreach programs, summer
+                                        camps, and career pathways for young
+                                        people across the country.
+                                    </p>
+                                </div>
+                                <img
+                                    src="../store-interior.jpg"
+                                    alt="Inside a Scoutmaster Bucky store with customers browsing outdoor gear"
+                                    class="rounded-lg shadow-md w-full h-72 object-cover"
+                                />
+                            </div>
+                        </div>
+                    </section>
+                    <section
+                        class="bg-secondary py-16"
+                        aria-label="Company performance"
+                    >
+                        <div class="container-wide section-padding">
+                            <h2 class="heading-2 mb-8 text-center">
+                                Our National Footprint
+                            </h2>
+                            <div
+                                class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6 text-center"
+                            >
+                                <div class="card-surface p-6">
+                                    <p
+                                        class="text-3xl font-bold text-pine tabular-nums"
+                                    >
+                                        34
+                                    </p>
+                                    <p
+                                        class="text-sm text-muted-foreground mt-1"
+                                    >
+                                        States with Stores
+                                    </p>
+                                </div>
+                                <div class="card-surface p-6">
+                                    <p
+                                        class="text-3xl font-bold text-pine tabular-nums"
+                                    >
+                                        87
+                                    </p>
+                                    <p
+                                        class="text-sm text-muted-foreground mt-1"
+                                    >
+                                        Retail Locations
+                                    </p>
+                                </div>
+                                <div class="card-surface p-6">
+                                    <p
+                                        class="text-3xl font-bold text-pine tabular-nums"
+                                    >
+                                        $312M
+                                    </p>
+                                    <p
+                                        class="text-sm text-muted-foreground mt-1"
+                                    >
+                                        Annual Revenue
+                                    </p>
+                                </div>
+                                <div class="card-surface p-6">
+                                    <p
+                                        class="text-3xl font-bold text-pine tabular-nums"
+                                    >
+                                        18%
+                                    </p>
+                                    <p
+                                        class="text-sm text-muted-foreground mt-1"
+                                    >
+                                        Year-over-Year Growth
+                                    </p>
+                                </div>
+                            </div>
+                            <p class="mt-8 body-large mx-auto text-center">
+                                From a single store in Minnesota to a
+                                coast-to-coast presence, Scoutmaster Bucky has
+                                grown steadily by staying true to our values:
+                                put customers first, invest in communities, and
+                                develop the next generation of leaders.
+                            </p>
+                        </div>
+                    </section>
+                    <section class="bg-card py-16" aria-label="Core values">
+                        <div class="container-narrow section-padding">
+                            <h2 class="heading-2 mb-8">Our Core Values</h2>
+                            <dl class="space-y-6">
+                                <div class="flex gap-4 items-start">
+                                    <div
+                                        class="w-2 h-2 rounded-full bg-pine mt-2 shrink-0"
+                                        aria-hidden="true"
+                                    ></div>
+                                    <div>
+                                        <dt
+                                            class="font-semibold text-foreground"
+                                        >
+                                            Integrity First
+                                        </dt>
+                                        <dd class="text-muted-foreground mt-1">
+                                            We do the right thing — even when
+                                            nobody's watching. Honest pricing,
+                                            transparent practices, and
+                                            accountability at every level.
+                                        </dd>
+                                    </div>
+                                </div>
+                                <div class="flex gap-4 items-start">
+                                    <div
+                                        class="w-2 h-2 rounded-full bg-pine mt-2 shrink-0"
+                                        aria-hidden="true"
+                                    ></div>
+                                    <div>
+                                        <dt
+                                            class="font-semibold text-foreground"
+                                        >
+                                            Service Over Sales
+                                        </dt>
+                                        <dd class="text-muted-foreground mt-1">
+                                            We'd rather help a customer find
+                                            exactly what they need than push a
+                                            more expensive option. Trust earns
+                                            loyalty.
+                                        </dd>
+                                    </div>
+                                </div>
+                                <div class="flex gap-4 items-start">
+                                    <div
+                                        class="w-2 h-2 rounded-full bg-pine mt-2 shrink-0"
+                                        aria-hidden="true"
+                                    ></div>
+                                    <div>
+                                        <dt
+                                            class="font-semibold text-foreground"
+                                        >
+                                            Preparedness &amp; Responsibility
+                                        </dt>
+                                        <dd class="text-muted-foreground mt-1">
+                                            The outdoors demands respect. We
+                                            equip customers with the right
+                                            knowledge and gear so they're ready
+                                            for whatever comes next.
+                                        </dd>
+                                    </div>
+                                </div>
+                                <div class="flex gap-4 items-start">
+                                    <div
+                                        class="w-2 h-2 rounded-full bg-pine mt-2 shrink-0"
+                                        aria-hidden="true"
+                                    ></div>
+                                    <div>
+                                        <dt
+                                            class="font-semibold text-foreground"
+                                        >
+                                            Community Investment
+                                        </dt>
+                                        <dd class="text-muted-foreground mt-1">
+                                            Our profits fund outreach, camps,
+                                            and youth programs. We believe
+                                            businesses should give back to the
+                                            communities they serve.
+                                        </dd>
+                                    </div>
+                                </div>
+                                <div class="flex gap-4 items-start">
+                                    <div
+                                        class="w-2 h-2 rounded-full bg-pine mt-2 shrink-0"
+                                        aria-hidden="true"
+                                    ></div>
+                                    <div>
+                                        <dt
+                                            class="font-semibold text-foreground"
+                                        >
+                                            Growth Through Leadership
+                                        </dt>
+                                        <dd class="text-muted-foreground mt-1">
+                                            We develop leaders — starting with
+                                            the young people who work in our
+                                            stores and participate in our
+                                            programs.
+                                        </dd>
+                                    </div>
+                                </div>
+                            </dl>
+                        </div>
+                    </section>
+                    <section
+                        class="bg-stone-warm py-16"
+                        aria-label="Youth Leadership Pipeline"
+                    >
+                        <div class="container-wide section-padding">
+                            <div class="grid md:grid-cols-2 gap-10 items-start">
+                                <img
+                                    src="../hero-landscape.jpg"
+                                    alt="Outdoor landscape representing growth and exploration"
+                                    class="rounded-lg shadow-md w-full h-72 object-cover"
+                                />
+                                <div>
+                                    <h2 class="heading-2 mb-4">
+                                        Youth Leadership Pipeline
+                                    </h2>
+                                    <p class="body-large mb-4">
+                                        Our Youth Leadership Pipeline is a
+                                        structured program that gives young
+                                        people hands-on professional experience
+                                        while they're still in school. Many of
+                                        our store managers and regional
+                                        coordinators started as summer hires.
+                                    </p>
+                                    <p
+                                        class="text-muted-foreground leading-relaxed mb-4"
+                                    >
+                                        Pipeline participants gain real-world
+                                        skills in:
+                                    </p>
+                                    <ul
+                                        class="space-y-2 text-muted-foreground"
+                                        role="list"
+                                    >
+                                        <li class="flex items-start gap-2">
+                                            <span
+                                                class="text-pine font-bold"
+                                                aria-hidden="true"
+                                                >—</span
+                                            ><span
+                                                ><strong
+                                                    >Retail Operations:</strong
+                                                >
+                                                customer engagement,
+                                                merchandising, point-of-sale
+                                                systems</span
+                                            >
+                                        </li>
+                                        <li class="flex items-start gap-2">
+                                            <span
+                                                class="text-pine font-bold"
+                                                aria-hidden="true"
+                                                >—</span
+                                            ><span
+                                                ><strong
+                                                    >Community
+                                                    Engagement:</strong
+                                                >
+                                                event planning, volunteer
+                                                coordination, outreach
+                                                facilitation</span
+                                            >
+                                        </li>
+                                        <li class="flex items-start gap-2">
+                                            <span
+                                                class="text-pine font-bold"
+                                                aria-hidden="true"
+                                                >—</span
+                                            ><span
+                                                ><strong
+                                                    >Logistics &amp;
+                                                    Inventory:</strong
+                                                >
+                                                supply chain fundamentals, stock
+                                                management, data tracking</span
+                                            >
+                                        </li>
+                                        <li class="flex items-start gap-2">
+                                            <span
+                                                class="text-pine font-bold"
+                                                aria-hidden="true"
+                                                >—</span
+                                            ><span
+                                                ><strong
+                                                    >Customer Experience
+                                                    Analysis:</strong
+                                                >
+                                                feedback collection, service
+                                                improvement, satisfaction
+                                                metrics</span
+                                            >
+                                        </li>
+                                        <li class="flex items-start gap-2">
+                                            <span
+                                                class="text-pine font-bold"
+                                                aria-hidden="true"
+                                                >—</span
+                                            ><span
+                                                ><strong
+                                                    >Program Leadership:</strong
+                                                >
+                                                camp counseling, mentorship,
+                                                program design and
+                                                delivery</span
+                                            >
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="bg-card py-16" aria-label="Our people">
+                        <div
+                            class="container-narrow section-padding text-center"
+                        >
+                            <h2 class="heading-2 mb-4">
+                                Our People Are Our Strength
+                            </h2>
+                            <p class="body-large mx-auto mb-4">
+                                Much of our staff started as the very youth we
+                                serve. We hire interns, part-time students, and
+                                summer workers — then keep them as part of the
+                                Bucky Family with competitive pay, strong
+                                company values, and a genuine commitment to
+                                employee well-being.
+                            </p>
+                            <p class="text-muted-foreground max-w-2xl mx-auto">
+                                We don't just talk about developing leaders. We
+                                build careers, from first jobs to full-time
+                                management, right here at Scoutmaster Bucky
+                                Enterprises.
+                            </p>
+                        </div>
+                    </section>
+                </main>
+                <footer
+                    class="bg-pine-dark text-primary-foreground mt-16"
+                    role="contentinfo"
+                >
+                    <div class="container-wide section-padding py-12">
+                        <div
+                            class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
+                        >
+                            <div>
+                                <h2 class="text-lg font-bold mb-2">
+                                    Scoutmaster Bucky Enterprises
+                                </h2>
+                                <p class="text-sm opacity-80 italic mb-4">
+                                    Leadership Grows Here
+                                </p>
+                                <p class="text-sm opacity-70">
+                                    Headquarters: Richfield, MN<br />Stores in
+                                    34 states nationwide
+                                </p>
+                            </div>
+                            <div>
+                                <h3 class="font-semibold mb-3">Explore</h3>
+                                <ul class="space-y-2 text-sm opacity-80">
+                                    <li>
+                                        <a
+                                            class="hover:text-amber-light transition-colors"
+                                            href="../"
+                                            >Home</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="hover:text-amber-light transition-colors"
+                                            href="../about/"
+                                            >About Us</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="hover:text-amber-light transition-colors"
+                                            href="../community/"
+                                            >Community</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="hover:text-amber-light transition-colors"
+                                            href="../work-for-us/"
+                                            >Work For Us</a
+                                        >
+                                    </li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h3 class="font-semibold mb-3">What We Do</h3>
+                                <ul class="space-y-2 text-sm opacity-80">
+                                    <li>Outdoor Gear &amp; Apparel</li>
+                                    <li>Bike Sales &amp; Service</li>
+                                    <li>Equipment Rentals</li>
+                                    <li>Climbing Classes</li>
+                                    <li>Excursion Planning</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h3 class="font-semibold mb-3">Our Mission</h3>
+                                <p class="text-sm opacity-80">
+                                    Equip people for the outdoors while
+                                    investing in the leaders of tomorrow.
+                                </p>
+                                <h3 class="font-semibold mt-4 mb-2">
+                                    Core Values
+                                </h3>
+                                <ul class="text-sm opacity-80 space-y-1">
+                                    <li>Integrity First</li>
+                                    <li>Service Over Sales</li>
+                                    <li>Preparedness &amp; Responsibility</li>
+                                    <li>Community Investment</li>
+                                    <li>Growth Through Leadership</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div
+                            class="border-t border-pine-light mt-8 pt-6 text-sm opacity-60 text-center"
+                        >
+                            © Scoutmaster Bucky Enterprises. All rights
+                            reserved.
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </body>
+</html>

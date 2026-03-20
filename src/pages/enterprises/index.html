@@ -1,0 +1,565 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!-- TODO: Set the document title to the name of your application -->
+        <title>Scoutmaster Bucky Enterprises</title>
+        <meta name="description" content="Scoutmaster Bucky Enterprises" />
+
+        <!-- TODO: Update og:title to match your application name -->
+
+        <meta property="og:type" content="website" />
+        <meta
+            property="og:image"
+            content="https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/48ddc115-1277-4884-81a8-b2ffb7b3d100?Expires=1774014648&amp;GoogleAccessId=go-api-on-aws%40gpt-engineer-390607.iam.gserviceaccount.com&amp;Signature=WydEpTn41z31vNcSWa1yJaBd2haWxTfCXgPbYgqzZ0FMRdRzr1yEGAr%2F8u%2F4nZm7OvKHoR%2Bp9y7ymLYQOD4qCSG%2Fi2r%2FnGyIiT2KpAw4wqorbUATeypAQdFDAjuYFGmsZhKkTxx0Tw4UjwmcmhmaEu54EoatioCxVJ9BoA%2FcHeuth%2BmXOheEGewIIrpwmie7siU%2F47%2B0HoGYivEMQtb%2BfxTX2P8CYYR9wj5KP9DQiaiAHRyKd1MDyvpxyTm8dcT7mL%2BDvAGOrCY98n0xwCq4JyN1UcpvPnGG%2F87ab1pVZ9KIzjmlfO3Yp62J%2Bs7nzNC3%2F%2FT6pv6urnoGHwMhwGTNwQ%3D%3D"
+        />
+
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+            name="twitter:image"
+            content="https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/48ddc115-1277-4884-81a8-b2ffb7b3d100?Expires=1774014648&amp;GoogleAccessId=go-api-on-aws%40gpt-engineer-390607.iam.gserviceaccount.com&amp;Signature=WydEpTn41z31vNcSWa1yJaBd2haWxTfCXgPbYgqzZ0FMRdRzr1yEGAr%2F8u%2F4nZm7OvKHoR%2Bp9y7ymLYQOD4qCSG%2Fi2r%2FnGyIiT2KpAw4wqorbUATeypAQdFDAjuYFGmsZhKkTxx0Tw4UjwmcmhmaEu54EoatioCxVJ9BoA%2FcHeuth%2BmXOheEGewIIrpwmie7siU%2F47%2B0HoGYivEMQtb%2BfxTX2P8CYYR9wj5KP9DQiaiAHRyKd1MDyvpxyTm8dcT7mL%2BDvAGOrCY98n0xwCq4JyN1UcpvPnGG%2F87ab1pVZ9KIzjmlfO3Yp62J%2Bs7nzNC3%2F%2FT6pv6urnoGHwMhwGTNwQ%3D%3D"
+        />
+        <meta property="og:title" content="Scoutmaster Bucky Enterprises" />
+        <meta name="twitter:title" content="Scoutmaster Bucky Enterprises" />
+        <meta
+            property="og:description"
+            content="Scoutmaster Bucky Enterprises"
+        />
+        <meta
+            name="twitter:description"
+            content="Scoutmaster Bucky Enterprises"
+        />
+        <link rel="stylesheet" crossorigin="" href="styles.css" />
+    </head>
+    <body>
+        <div id="root">
+            <div class="min-h-screen flex flex-col">
+                <header class="relative">
+                    <div class="bg-pine-dark text-primary-foreground">
+                        <div
+                            class="container-wide section-padding py-2 flex justify-between items-center text-sm"
+                        >
+                            <span
+                                >Headquarters: Richfield, MN · 34 States
+                                Nationwide</span
+                            ><span class="hidden sm:inline font-medium italic"
+                                >Leadership Grows Here</span
+                            >
+                        </div>
+                    </div>
+                    <nav
+                        class="bg-card border-b-2 border-pine"
+                        aria-label="Main navigation"
+                    >
+                        <div
+                            class="container-wide section-padding py-4 flex items-center justify-between"
+                        >
+                            <a
+                                class="flex flex-col"
+                                aria-label="Scoutmaster Bucky Enterprises home"
+                                href="./"
+                                ><span
+                                    class="text-2xl sm:text-3xl font-bold text-pine-dark tracking-tight"
+                                    >Scoutmaster Bucky</span
+                                ><span
+                                    class="text-xs sm:text-sm text-muted-foreground tracking-widest uppercase"
+                                    >Enterprises</span
+                                ></a
+                            >
+                            <ul
+                                class="hidden md:flex items-center gap-8 text-sm font-medium"
+                            >
+                                <li>
+                                    <a
+                                        class="text-foreground hover:text-pine transition-colors"
+                                        href="about/"
+                                        >About Us</a
+                                    >
+                                </li>
+                                <li>
+                                    <a
+                                        class="text-foreground hover:text-pine transition-colors"
+                                        href="community/"
+                                        >Community</a
+                                    >
+                                </li>
+                                <li>
+                                    <a
+                                        class="text-foreground hover:text-pine transition-colors"
+                                        href="work-for-us/"
+                                        >Work For Us</a
+                                    >
+                                </li>
+                            </ul>
+                            <details class="md:hidden relative">
+                                <summary
+                                    class="list-none cursor-pointer p-2 text-foreground"
+                                    aria-label="Open menu"
+                                >
+                                    <svg
+                                        xmlns="http://www.w3.org/2000/svg"
+                                        width="24"
+                                        height="24"
+                                        viewBox="0 0 24 24"
+                                        fill="none"
+                                        stroke="currentColor"
+                                        stroke-width="2"
+                                        stroke-linecap="round"
+                                        stroke-linejoin="round"
+                                        aria-hidden="true"
+                                    >
+                                        <line
+                                            x1="3"
+                                            y1="6"
+                                            x2="21"
+                                            y2="6"
+                                        ></line>
+                                        <line
+                                            x1="3"
+                                            y1="12"
+                                            x2="21"
+                                            y2="12"
+                                        ></line>
+                                        <line
+                                            x1="3"
+                                            y1="18"
+                                            x2="21"
+                                            y2="18"
+                                        ></line>
+                                    </svg>
+                                </summary>
+                                <div
+                                    class="absolute right-0 top-full mt-2 w-48 bg-card border rounded-lg shadow-lg z-50"
+                                >
+                                    <ul class="py-2">
+                                        <li>
+                                            <a
+                                                class="block px-4 py-2 text-foreground hover:bg-secondary"
+                                                href="about/"
+                                                >About Us</a
+                                            >
+                                        </li>
+                                        <li>
+                                            <a
+                                                class="block px-4 py-2 text-foreground hover:bg-secondary"
+                                                href="community/"
+                                                >Community</a
+                                            >
+                                        </li>
+                                        <li>
+                                            <a
+                                                class="block px-4 py-2 text-foreground hover:bg-secondary"
+                                                href="work-for-us/"
+                                                >Work For Us</a
+                                            >
+                                        </li>
+                                    </ul>
+                                </div>
+                            </details>
+                        </div>
+                    </nav>
+                </header>
+                <main id="main-content">
+                    <section class="relative" aria-label="Welcome">
+                        <img
+                            src="hero-landscape.jpg"
+                            alt="Sunrise over a mountain lake with canoes and a campsite on the shore"
+                            class="w-full h-[400px] sm:h-[500px] lg:h-[560px] object-cover"
+                        />
+                        <div
+                            class="absolute inset-0 bg-pine-dark/60 flex items-center"
+                        >
+                            <div class="container-wide section-padding">
+                                <h1
+                                    class="text-3xl sm:text-4xl lg:text-5xl font-bold text-primary-foreground leading-tight max-w-2xl"
+                                    style="line-height: 1.1"
+                                >
+                                    Equip People for the Outdoors.<span
+                                        class="block mt-2 text-amber-light"
+                                        >Invest in Tomorrow's Leaders.</span
+                                    >
+                                </h1>
+                                <p
+                                    class="mt-4 text-primary-foreground/90 text-lg max-w-xl"
+                                >
+                                    Gear, guidance, and community — everything
+                                    you need to explore the wild and grow along
+                                    the way.
+                                </p>
+                                <div class="mt-6 flex flex-wrap gap-3">
+                                    <a
+                                        class="inline-block bg-amber text-foreground font-semibold px-6 py-3 rounded-lg hover:bg-amber-light transition-colors"
+                                        href="about/"
+                                        >Learn About Us</a
+                                    ><a
+                                        class="inline-block bg-primary-foreground/10 text-primary-foreground border border-primary-foreground/30 font-semibold px-6 py-3 rounded-lg hover:bg-primary-foreground/20 transition-colors"
+                                        href="community/"
+                                        >Our Community Programs</a
+                                    >
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section
+                        class="bg-amber/10 border-b border-amber/20"
+                        aria-label="New store announcement"
+                    >
+                        <div class="container-wide section-padding py-12">
+                            <div class="grid md:grid-cols-2 gap-8 items-center">
+                                <div>
+                                    <span
+                                        class="inline-block text-xs font-bold uppercase tracking-widest text-amber bg-amber/15 px-3 py-1 rounded mb-4"
+                                        >Now Open</span
+                                    >
+                                    <h2 class="heading-2 mb-4">
+                                        New Store in Virginia
+                                    </h2>
+                                    <p class="body-large">
+                                        We're thrilled to announce the grand
+                                        opening of our newest location in
+                                        Virginia. This marks our continued
+                                        expansion to bring outdoor adventure
+                                        closer to communities across the nation.
+                                        Stop by to explore our full range of
+                                        gear, meet our team, and discover local
+                                        trails and excursions.
+                                    </p>
+                                    <p class="mt-3 text-muted-foreground">
+                                        Visit us for grand opening specials,
+                                        gear demos, and a chance to sign up for
+                                        upcoming local excursions.
+                                    </p>
+                                </div>
+                                <img
+                                    src="new-store-virginia.jpg"
+                                    alt="New Scoutmaster Bucky store in Virginia with grand opening decorations and customers entering"
+                                    class="rounded-lg shadow-md w-full h-64 sm:h-72 object-cover"
+                                />
+                            </div>
+                        </div>
+                    </section>
+                    <section class="bg-card" aria-label="Featured deals">
+                        <div class="container-wide section-padding py-16">
+                            <h2 class="heading-2 mb-2">
+                                This Week's Featured Deals
+                            </h2>
+                            <p class="text-muted-foreground mb-8">
+                                Great gear at great prices — this week only.
+                            </p>
+                            <div
+                                class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6"
+                            >
+                                <article class="card-surface p-6">
+                                    <div
+                                        class="w-10 h-10 rounded-full bg-pine/10 flex items-center justify-center mb-4"
+                                        aria-hidden="true"
+                                    >
+                                        <svg
+                                            xmlns="http://www.w3.org/2000/svg"
+                                            width="20"
+                                            height="20"
+                                            viewBox="0 0 24 24"
+                                            fill="none"
+                                            stroke="hsl(152, 44%, 28%)"
+                                            stroke-width="2"
+                                            stroke-linecap="round"
+                                            stroke-linejoin="round"
+                                        >
+                                            <path
+                                                d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"
+                                            ></path>
+                                            <circle
+                                                cx="9"
+                                                cy="7"
+                                                r="4"
+                                            ></circle>
+                                            <path d="m22 8-6 6"></path>
+                                            <path d="m16 8 6 6"></path>
+                                        </svg>
+                                    </div>
+                                    <h3 class="heading-3 mb-2">
+                                        New Sleeping Bags
+                                    </h3>
+                                    <p class="text-muted-foreground">
+                                        Lightweight, three-season sleeping bags
+                                        rated to 20°F. Perfect for spring and
+                                        fall adventures. Multiple sizes and
+                                        colors available, from mummy-style to
+                                        rectangular designs.
+                                    </p>
+                                    <p class="mt-3 font-semibold text-pine">
+                                        Starting at $79.99
+                                    </p>
+                                </article>
+                                <article class="card-surface p-6">
+                                    <div
+                                        class="w-10 h-10 rounded-full bg-pine/10 flex items-center justify-center mb-4"
+                                        aria-hidden="true"
+                                    >
+                                        <svg
+                                            xmlns="http://www.w3.org/2000/svg"
+                                            width="20"
+                                            height="20"
+                                            viewBox="0 0 24 24"
+                                            fill="none"
+                                            stroke="hsl(152, 44%, 28%)"
+                                            stroke-width="2"
+                                            stroke-linecap="round"
+                                            stroke-linejoin="round"
+                                        >
+                                            <path
+                                                d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"
+                                            ></path>
+                                            <line
+                                                x1="4"
+                                                y1="22"
+                                                x2="4"
+                                                y2="15"
+                                            ></line>
+                                        </svg>
+                                    </div>
+                                    <h3 class="heading-3 mb-2">
+                                        Last Year's Trail Footwear
+                                    </h3>
+                                    <p class="text-muted-foreground">
+                                        High-performance hiking boots and trail
+                                        runners from last season at clearance
+                                        prices. Same quality, same durability —
+                                        just making room for new arrivals. Up to
+                                        40% off select styles.
+                                    </p>
+                                    <p class="mt-3 font-semibold text-pine">
+                                        Up to 40% Off
+                                    </p>
+                                </article>
+                                <article class="card-surface p-6">
+                                    <div
+                                        class="w-10 h-10 rounded-full bg-amber/15 flex items-center justify-center mb-4"
+                                        aria-hidden="true"
+                                    >
+                                        <svg
+                                            xmlns="http://www.w3.org/2000/svg"
+                                            width="20"
+                                            height="20"
+                                            viewBox="0 0 24 24"
+                                            fill="none"
+                                            stroke="hsl(38, 72%, 50%)"
+                                            stroke-width="2"
+                                            stroke-linecap="round"
+                                            stroke-linejoin="round"
+                                        >
+                                            <path
+                                                d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4Z"
+                                            ></path>
+                                            <path d="M3 6h18"></path>
+                                            <path
+                                                d="M16 10a4 4 0 0 1-8 0"
+                                            ></path>
+                                        </svg>
+                                    </div>
+                                    <h3 class="heading-3 mb-2">
+                                        The Bargain Bin
+                                    </h3>
+                                    <p class="text-muted-foreground">
+                                        Returned merchandise without defects —
+                                        inspected, verified, and priced to move.
+                                        You'll find tents, cookware, packs, and
+                                        more at steep discounts. Stock rotates
+                                        weekly, so check back often.
+                                    </p>
+                                    <p class="mt-3 font-semibold text-amber">
+                                        Deals from $9.99
+                                    </p>
+                                </article>
+                            </div>
+                        </div>
+                    </section>
+                    <section
+                        class="bg-pine-dark text-primary-foreground"
+                        aria-label="Youth hiring event"
+                    >
+                        <div class="container-wide section-padding py-16">
+                            <div class="grid md:grid-cols-2 gap-8 items-center">
+                                <img
+                                    src="store-interior.jpg"
+                                    alt="Inside a Scoutmaster Bucky store with staff helping customers find outdoor gear"
+                                    class="rounded-lg shadow-md w-full h-64 sm:h-72 object-cover order-2 md:order-1"
+                                />
+                                <div class="order-1 md:order-2">
+                                    <span
+                                        class="inline-block text-xs font-bold uppercase tracking-widest text-amber bg-amber/20 px-3 py-1 rounded mb-4"
+                                        >Upcoming Event</span
+                                    >
+                                    <h2
+                                        class="text-2xl sm:text-3xl font-bold mb-4"
+                                    >
+                                        Youth Hiring Event
+                                    </h2>
+                                    <p class="opacity-90 leading-relaxed mb-4">
+                                        We're hosting a hiring event focused on
+                                        youth applicants interested in summer
+                                        and part-time positions with Scoutmaster
+                                        Bucky Enterprises. Attendees will have
+                                        the opportunity to meet hiring managers,
+                                        participate in on-the-spot interview
+                                        sessions, and learn about career
+                                        pathways within our company.
+                                    </p>
+                                    <p class="opacity-90 leading-relaxed mb-6">
+                                        Whether you're looking for your first
+                                        job or want to build skills in retail,
+                                        outdoor recreation, logistics, or
+                                        community outreach — we want to meet
+                                        you. No experience necessary.
+                                    </p>
+                                    <a
+                                        class="inline-block bg-amber text-foreground font-semibold px-6 py-3 rounded-lg hover:bg-amber-light transition-colors"
+                                        href="work-for-us/"
+                                        >View Open Positions</a
+                                    >
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="bg-secondary" aria-label="Explore more">
+                        <div class="container-wide section-padding py-16">
+                            <h2 class="heading-2 text-center mb-8">
+                                Explore Scoutmaster Bucky
+                            </h2>
+                            <div
+                                class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4"
+                            >
+                                <a
+                                    class="card-surface p-6 block hover:border-pine transition-colors"
+                                    href="about/"
+                                    ><h3 class="font-semibold text-pine mb-1">
+                                        About Us
+                                    </h3>
+                                    <p class="text-sm text-muted-foreground">
+                                        Our story, growth, and what drives us.
+                                    </p></a
+                                ><a
+                                    class="card-surface p-6 block hover:border-pine transition-colors"
+                                    href="community/"
+                                    ><h3 class="font-semibold text-pine mb-1">
+                                        Community
+                                    </h3>
+                                    <p class="text-sm text-muted-foreground">
+                                        Outreach, summer camp, and membership.
+                                    </p></a
+                                ><a
+                                    class="card-surface p-6 block hover:border-pine transition-colors"
+                                    href="work-for-us/"
+                                    ><h3 class="font-semibold text-pine mb-1">
+                                        Work For Us
+                                    </h3>
+                                    <p class="text-sm text-muted-foreground">
+                                        Youth positions and career pathways.
+                                    </p></a
+                                ><a
+                                    class="card-surface p-6 block hover:border-pine transition-colors"
+                                    href="about/"
+                                    ><h3 class="font-semibold text-pine mb-1">
+                                        Our Mission
+                                    </h3>
+                                    <p class="text-sm text-muted-foreground">
+                                        Equip people. Invest in leaders.
+                                    </p></a
+                                >
+                            </div>
+                        </div>
+                    </section>
+                </main>
+                <footer
+                    class="bg-pine-dark text-primary-foreground mt-16"
+                    role="contentinfo"
+                >
+                    <div class="container-wide section-padding py-12">
+                        <div
+                            class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
+                        >
+                            <div>
+                                <h2 class="text-lg font-bold mb-2">
+                                    Scoutmaster Bucky Enterprises
+                                </h2>
+                                <p class="text-sm opacity-80 italic mb-4">
+                                    Leadership Grows Here
+                                </p>
+                                <p class="text-sm opacity-70">
+                                    Headquarters: Richfield, MN<br />Stores in
+                                    34 states nationwide
+                                </p>
+                            </div>
+                            <div>
+                                <h3 class="font-semibold mb-3">Explore</h3>
+                                <ul class="space-y-2 text-sm opacity-80">
+                                    <li>
+                                        <a
+                                            class="hover:text-amber-light transition-colors"
+                                            href="./"
+                                            >Home</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="hover:text-amber-light transition-colors"
+                                            href="about/"
+                                            >About Us</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="hover:text-amber-light transition-colors"
+                                            href="community/"
+                                            >Community</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="hover:text-amber-light transition-colors"
+                                            href="work-for-us/"
+                                            >Work For Us</a
+                                        >
+                                    </li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h3 class="font-semibold mb-3">What We Do</h3>
+                                <ul class="space-y-2 text-sm opacity-80">
+                                    <li>Outdoor Gear &amp; Apparel</li>
+                                    <li>Bike Sales &amp; Service</li>
+                                    <li>Equipment Rentals</li>
+                                    <li>Climbing Classes</li>
+                                    <li>Excursion Planning</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h3 class="font-semibold mb-3">Our Mission</h3>
+                                <p class="text-sm opacity-80">
+                                    Equip people for the outdoors while
+                                    investing in the leaders of tomorrow.
+                                </p>
+                                <h3 class="font-semibold mt-4 mb-2">
+                                    Core Values
+                                </h3>
+                                <ul class="text-sm opacity-80 space-y-1">
+                                    <li>Integrity First</li>
+                                    <li>Service Over Sales</li>
+                                    <li>Preparedness &amp; Responsibility</li>
+                                    <li>Community Investment</li>
+                                    <li>Growth Through Leadership</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div
+                            class="border-t border-pine-light mt-8 pt-6 text-sm opacity-60 text-center"
+                        >
+                            © Scoutmaster Bucky Enterprises. All rights
+                            reserved.
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </body>
+</html>

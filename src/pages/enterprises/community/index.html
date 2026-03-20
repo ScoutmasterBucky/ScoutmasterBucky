@@ -1,0 +1,531 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!-- TODO: Set the document title to the name of your application -->
+        <title>Scoutmaster Bucky Enterprises</title>
+        <meta name="description" content="Scoutmaster Bucky Enterprises" />
+
+        <!-- TODO: Update og:title to match your application name -->
+
+        <meta property="og:type" content="website" />
+        <meta
+            property="og:image"
+            content="https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/48ddc115-1277-4884-81a8-b2ffb7b3d100?Expires=1774014648&amp;GoogleAccessId=go-api-on-aws%40gpt-engineer-390607.iam.gserviceaccount.com&amp;Signature=WydEpTn41z31vNcSWa1yJaBd2haWxTfCXgPbYgqzZ0FMRdRzr1yEGAr%2F8u%2F4nZm7OvKHoR%2Bp9y7ymLYQOD4qCSG%2Fi2r%2FnGyIiT2KpAw4wqorbUATeypAQdFDAjuYFGmsZhKkTxx0Tw4UjwmcmhmaEu54EoatioCxVJ9BoA%2FcHeuth%2BmXOheEGewIIrpwmie7siU%2F47%2B0HoGYivEMQtb%2BfxTX2P8CYYR9wj5KP9DQiaiAHRyKd1MDyvpxyTm8dcT7mL%2BDvAGOrCY98n0xwCq4JyN1UcpvPnGG%2F87ab1pVZ9KIzjmlfO3Yp62J%2Bs7nzNC3%2F%2FT6pv6urnoGHwMhwGTNwQ%3D%3D"
+        />
+
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+            name="twitter:image"
+            content="https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/48ddc115-1277-4884-81a8-b2ffb7b3d100?Expires=1774014648&amp;GoogleAccessId=go-api-on-aws%40gpt-engineer-390607.iam.gserviceaccount.com&amp;Signature=WydEpTn41z31vNcSWa1yJaBd2haWxTfCXgPbYgqzZ0FMRdRzr1yEGAr%2F8u%2F4nZm7OvKHoR%2Bp9y7ymLYQOD4qCSG%2Fi2r%2FnGyIiT2KpAw4wqorbUATeypAQdFDAjuYFGmsZhKkTxx0Tw4UjwmcmhmaEu54EoatioCxVJ9BoA%2FcHeuth%2BmXOheEGewIIrpwmie7siU%2F47%2B0HoGYivEMQtb%2BfxTX2P8CYYR9wj5KP9DQiaiAHRyKd1MDyvpxyTm8dcT7mL%2BDvAGOrCY98n0xwCq4JyN1UcpvPnGG%2F87ab1pVZ9KIzjmlfO3Yp62J%2Bs7nzNC3%2F%2FT6pv6urnoGHwMhwGTNwQ%3D%3D"
+        />
+        <meta property="og:title" content="Scoutmaster Bucky Enterprises" />
+        <meta name="twitter:title" content="Scoutmaster Bucky Enterprises" />
+        <meta
+            property="og:description"
+            content="Scoutmaster Bucky Enterprises"
+        />
+        <meta
+            name="twitter:description"
+            content="Scoutmaster Bucky Enterprises"
+        />
+        <link rel="stylesheet" crossorigin="" href="../styles.css" />
+    </head>
+
+    <body>
+        <div id="root">
+            <div class="min-h-screen flex flex-col">
+                <header
+                    class="bg-pine-dark text-primary-foreground"
+                    role="banner"
+                >
+                    <nav
+                        class="container-wide section-padding py-3 flex items-center justify-between"
+                        aria-label="Site navigation"
+                    >
+                        <a
+                            class="text-xl font-bold tracking-tight hover:text-amber-light transition-colors"
+                            href="../"
+                            >Scoutmaster Bucky</a
+                        >
+                        <ul class="hidden md:flex items-center gap-6 text-sm">
+                            <li>
+                                <a
+                                    class="transition-colors text-primary-foreground hover:text-amber-light"
+                                    href="../"
+                                    >Home</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    class="transition-colors text-primary-foreground hover:text-amber-light"
+                                    href="../about/"
+                                    >About Us</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    class="transition-colors text-amber-light font-semibold"
+                                    aria-current="page"
+                                    href="../community/"
+                                    >Community</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    class="transition-colors text-primary-foreground hover:text-amber-light"
+                                    href="../work-for-us/"
+                                    >Work For Us</a
+                                >
+                            </li>
+                        </ul>
+                        <details class="md:hidden relative">
+                            <summary
+                                class="list-none cursor-pointer p-2"
+                                aria-label="Open menu"
+                            >
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    width="24"
+                                    height="24"
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    stroke="currentColor"
+                                    stroke-width="2"
+                                    stroke-linecap="round"
+                                    stroke-linejoin="round"
+                                    aria-hidden="true"
+                                >
+                                    <line x1="3" y1="6" x2="21" y2="6"></line>
+                                    <line x1="3" y1="12" x2="21" y2="12"></line>
+                                    <line x1="3" y1="18" x2="21" y2="18"></line>
+                                </svg>
+                            </summary>
+                            <div
+                                class="absolute right-0 top-full mt-2 w-48 bg-card text-foreground border rounded-lg shadow-lg z-50"
+                            >
+                                <ul class="py-2">
+                                    <li>
+                                        <a
+                                            class="block px-4 py-2 hover:bg-secondary"
+                                            href="../"
+                                            >Home</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="block px-4 py-2 hover:bg-secondary"
+                                            href="../about/"
+                                            >About Us</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="block px-4 py-2 hover:bg-secondary font-semibold text-pine"
+                                            aria-current="page"
+                                            href="../community/"
+                                            >Community</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="block px-4 py-2 hover:bg-secondary"
+                                            href="../work-for-us/"
+                                            >Work For Us</a
+                                        >
+                                    </li>
+                                </ul>
+                            </div>
+                        </details>
+                    </nav>
+                </header>
+                <main id="main-content" class="flex-1">
+                    <section class="bg-pine-dark text-primary-foreground py-16">
+                        <div class="container-wide section-padding">
+                            <h1 class="heading-1 text-primary-foreground">
+                                Community
+                            </h1>
+                            <p
+                                class="mt-4 text-primary-foreground/80 text-lg max-w-2xl"
+                            >
+                                Outreach, summer camps, and youth development —
+                                powered by our stores and our members.
+                            </p>
+                        </div>
+                    </section>
+                    <section
+                        class="bg-card py-16"
+                        aria-label="Outreach programs"
+                    >
+                        <div class="container-wide section-padding">
+                            <div
+                                class="grid md:grid-cols-2 gap-10 items-center"
+                            >
+                                <div>
+                                    <h2 class="heading-2 mb-4">
+                                        Community Outreach Programs
+                                    </h2>
+                                    <p class="body-large mb-4">
+                                        Our outreach programs are supervised day
+                                        programs designed to develop teamwork,
+                                        confidence, and environmental awareness
+                                        in young people. Modeled after many
+                                        Scouting America merit badge areas,
+                                        these programs introduce kids to the
+                                        outdoors in structured, supportive
+                                        settings.
+                                    </p>
+                                    <p
+                                        class="text-muted-foreground leading-relaxed mb-4"
+                                    >
+                                        Participants explore activities
+                                        including:
+                                    </p>
+                                    <ul
+                                        class="grid grid-cols-2 gap-2 text-muted-foreground"
+                                        role="list"
+                                    >
+                                        <li class="flex items-center gap-2">
+                                            <span
+                                                class="w-1.5 h-1.5 rounded-full bg-pine shrink-0"
+                                                aria-hidden="true"
+                                            ></span
+                                            >Nature Study
+                                        </li>
+                                        <li class="flex items-center gap-2">
+                                            <span
+                                                class="w-1.5 h-1.5 rounded-full bg-pine shrink-0"
+                                                aria-hidden="true"
+                                            ></span
+                                            >Insect Study
+                                        </li>
+                                        <li class="flex items-center gap-2">
+                                            <span
+                                                class="w-1.5 h-1.5 rounded-full bg-pine shrink-0"
+                                                aria-hidden="true"
+                                            ></span
+                                            >Hiking
+                                        </li>
+                                        <li class="flex items-center gap-2">
+                                            <span
+                                                class="w-1.5 h-1.5 rounded-full bg-pine shrink-0"
+                                                aria-hidden="true"
+                                            ></span
+                                            >Geocaching
+                                        </li>
+                                        <li class="flex items-center gap-2">
+                                            <span
+                                                class="w-1.5 h-1.5 rounded-full bg-pine shrink-0"
+                                                aria-hidden="true"
+                                            ></span
+                                            >Biking
+                                        </li>
+                                        <li class="flex items-center gap-2">
+                                            <span
+                                                class="w-1.5 h-1.5 rounded-full bg-pine shrink-0"
+                                                aria-hidden="true"
+                                            ></span
+                                            >Running
+                                        </li>
+                                        <li class="flex items-center gap-2">
+                                            <span
+                                                class="w-1.5 h-1.5 rounded-full bg-pine shrink-0"
+                                                aria-hidden="true"
+                                            ></span
+                                            >Swimming
+                                        </li>
+                                    </ul>
+                                    <p
+                                        class="text-muted-foreground leading-relaxed mt-4"
+                                    >
+                                        Each year, our stores collectively
+                                        contribute thousands of volunteer hours
+                                        to local communities — staff and
+                                        customers working together to make
+                                        outdoor experiences accessible to
+                                        everyone.
+                                    </p>
+                                </div>
+                                <img
+                                    src="../community-youth.jpg"
+                                    alt="Group of young people exploring nature together in a forest clearing"
+                                    class="rounded-lg shadow-md w-full h-72 object-cover"
+                                />
+                            </div>
+                        </div>
+                    </section>
+                    <section
+                        class="bg-secondary py-16"
+                        aria-label="Summer camp"
+                    >
+                        <div class="container-wide section-padding">
+                            <div
+                                class="grid md:grid-cols-2 gap-10 items-center"
+                            >
+                                <img
+                                    src="../summer-camp.jpg"
+                                    alt="Youth climbing an outdoor climbing wall at summer camp with tents in the background"
+                                    class="rounded-lg shadow-md w-full h-72 object-cover order-2 md:order-1"
+                                />
+                                <div class="order-1 md:order-2">
+                                    <h2 class="heading-2 mb-4">Summer Camp</h2>
+                                    <p class="body-large mb-4">
+                                        Our summer camp is a full-week immersive
+                                        experience for youth ages 11 to 16.
+                                        Campers participate in a structured
+                                        rotation of outdoor activities — from
+                                        rock climbing and canoeing to
+                                        orienteering and wilderness skills — all
+                                        guided by trained staff.
+                                    </p>
+                                    <p
+                                        class="text-muted-foreground leading-relaxed mb-4"
+                                    >
+                                        Camp isn't just for participants. We
+                                        also bring on youth counselors ages 15
+                                        to 18 who help run daily activities,
+                                        mentor younger campers, and gain
+                                        hands-on experience in a professional
+                                        setting. Many of our counselors go on to
+                                        join the Scoutmaster Bucky team in
+                                        retail or program roles.
+                                    </p>
+                                    <p
+                                        class="text-muted-foreground leading-relaxed"
+                                    >
+                                        Every camper leaves with new skills,
+                                        stronger confidence, and friendships
+                                        built around shared challenge. Every
+                                        counselor leaves with leadership
+                                        experience that shows up on college
+                                        applications and first résumés.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="bg-card py-16" aria-label="Membership">
+                        <div class="container-narrow section-padding">
+                            <h2 class="heading-2 mb-4 text-center">
+                                Membership That Makes a Difference
+                            </h2>
+                            <p class="body-large mx-auto text-center mb-8">
+                                Our membership program is different. It doesn't
+                                come with discounts — it comes with impact.
+                            </p>
+                            <div class="grid sm:grid-cols-2 gap-6">
+                                <div class="card-surface p-6">
+                                    <h3 class="heading-3 mb-3">
+                                        What Members Receive
+                                    </h3>
+                                    <ul
+                                        class="space-y-2 text-muted-foreground"
+                                        role="list"
+                                    >
+                                        <li class="flex items-start gap-2">
+                                            <span
+                                                class="text-pine font-bold"
+                                                aria-hidden="true"
+                                                >—</span
+                                            ><span
+                                                >Videos, photos, and write-ups
+                                                showing how membership fees are
+                                                helping kids across the
+                                                nation</span
+                                            >
+                                        </li>
+                                        <li class="flex items-start gap-2">
+                                            <span
+                                                class="text-pine font-bold"
+                                                aria-hidden="true"
+                                                >—</span
+                                            ><span
+                                                >Newsletters written by the
+                                                youth who participate in our
+                                                programs</span
+                                            >
+                                        </li>
+                                        <li class="flex items-start gap-2">
+                                            <span
+                                                class="text-pine font-bold"
+                                                aria-hidden="true"
+                                                >—</span
+                                            ><span
+                                                >Quarterly impact reports with
+                                                stories from camp, outreach
+                                                events, and leadership pipeline
+                                                milestones</span
+                                            >
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="card-surface p-6">
+                                    <h3 class="heading-3 mb-3">
+                                        Where the Money Goes
+                                    </h3>
+                                    <ul
+                                        class="space-y-2 text-muted-foreground"
+                                        role="list"
+                                    >
+                                        <li class="flex items-start gap-2">
+                                            <span
+                                                class="text-amber font-bold"
+                                                aria-hidden="true"
+                                                >—</span
+                                            ><span
+                                                >Funding outreach programs that
+                                                introduce kids to nature,
+                                                teamwork, and environmental
+                                                responsibility</span
+                                            >
+                                        </li>
+                                        <li class="flex items-start gap-2">
+                                            <span
+                                                class="text-amber font-bold"
+                                                aria-hidden="true"
+                                                >—</span
+                                            ><span
+                                                >Supporting summer camp
+                                                scholarships for families who
+                                                couldn't otherwise afford the
+                                                experience</span
+                                            >
+                                        </li>
+                                        <li class="flex items-start gap-2">
+                                            <span
+                                                class="text-amber font-bold"
+                                                aria-hidden="true"
+                                                >—</span
+                                            ><span
+                                                >Equipping youth counselors and
+                                                pipeline participants with
+                                                training, mentorship, and career
+                                                development</span
+                                            >
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <p class="text-muted-foreground text-center mt-8">
+                                When you become a member, you're not buying a
+                                discount card. You're investing in a young
+                                person's future.
+                            </p>
+                        </div>
+                    </section>
+                    <section
+                        class="bg-pine-dark text-primary-foreground py-12"
+                        aria-label="Volunteer impact"
+                    >
+                        <div
+                            class="container-narrow section-padding text-center"
+                        >
+                            <p class="text-3xl font-bold tabular-nums">
+                                12,400+
+                            </p>
+                            <p class="text-lg opacity-80 mt-1">
+                                Volunteer hours contributed to local communities
+                                this year
+                            </p>
+                            <p class="opacity-60 mt-4 text-sm max-w-lg mx-auto">
+                                Our staff, customers, and youth participants
+                                work side by side on trail cleanups, gear
+                                drives, community gardens, and mentorship
+                                programs in every state where we operate.
+                            </p>
+                        </div>
+                    </section>
+                </main>
+                <footer
+                    class="bg-pine-dark text-primary-foreground mt-16"
+                    role="contentinfo"
+                >
+                    <div class="container-wide section-padding py-12">
+                        <div
+                            class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
+                        >
+                            <div>
+                                <h2 class="text-lg font-bold mb-2">
+                                    Scoutmaster Bucky Enterprises
+                                </h2>
+                                <p class="text-sm opacity-80 italic mb-4">
+                                    Leadership Grows Here
+                                </p>
+                                <p class="text-sm opacity-70">
+                                    Headquarters: Richfield, MN<br />Stores in
+                                    34 states nationwide
+                                </p>
+                            </div>
+                            <div>
+                                <h3 class="font-semibold mb-3">Explore</h3>
+                                <ul class="space-y-2 text-sm opacity-80">
+                                    <li>
+                                        <a
+                                            class="hover:text-amber-light transition-colors"
+                                            href="../"
+                                            >Home</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="hover:text-amber-light transition-colors"
+                                            href="../about/"
+                                            >About Us</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="hover:text-amber-light transition-colors"
+                                            href="../community/"
+                                            >Community</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="hover:text-amber-light transition-colors"
+                                            href="../work-for-us/"
+                                            >Work For Us</a
+                                        >
+                                    </li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h3 class="font-semibold mb-3">What We Do</h3>
+                                <ul class="space-y-2 text-sm opacity-80">
+                                    <li>Outdoor Gear &amp; Apparel</li>
+                                    <li>Bike Sales &amp; Service</li>
+                                    <li>Equipment Rentals</li>
+                                    <li>Climbing Classes</li>
+                                    <li>Excursion Planning</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h3 class="font-semibold mb-3">Our Mission</h3>
+                                <p class="text-sm opacity-80">
+                                    Equip people for the outdoors while
+                                    investing in the leaders of tomorrow.
+                                </p>
+                                <h3 class="font-semibold mt-4 mb-2">
+                                    Core Values
+                                </h3>
+                                <ul class="text-sm opacity-80 space-y-1">
+                                    <li>Integrity First</li>
+                                    <li>Service Over Sales</li>
+                                    <li>Preparedness &amp; Responsibility</li>
+                                    <li>Community Investment</li>
+                                    <li>Growth Through Leadership</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div
+                            class="border-t border-pine-light mt-8 pt-6 text-sm opacity-60 text-center"
+                        >
+                            © Scoutmaster Bucky Enterprises. All rights
+                            reserved.
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </body>
+</html>
