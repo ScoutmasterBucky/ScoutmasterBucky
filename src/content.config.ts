@@ -52,6 +52,7 @@ const events = defineCollection({
             .string()
             .regex(/^\d{4}-\d{1,2}-\d{1,2}( \d{1,2}:\d{1,2})?$/)
             .optional(),
+        hidden: z.boolean().optional(),
         host: z.string(),
         html: z.string().optional(),
         icon: z.string(),
