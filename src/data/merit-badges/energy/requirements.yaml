@@ -1,3 +1,5 @@
+# 6a first resource is a PDF, not website
+# 8 second resource is a website, not a PDF
 - requirement: 1
   text: |-
       Do the following:
@@ -9,6 +11,13 @@
             energy. Discuss with your counselor what details in the article were
             interesting to you, the questions it raises, and what ideas it
             addresses that you do not understand.
+        resources:
+            - href: https://youtu.be/ytwIzy3XuGg
+              text: The Essentials of Energy
+              type: video
+            - href: https://youtu.be/CW0_S5YpYVo
+              text: "World's Most Asked Questions: What Is Energy?"
+              type: video
       - requirement: b
         text: |-
             After you have completed requirements 2 through 8, revisit your source
@@ -18,21 +27,67 @@
 - requirement: 2
   text: |-
       Show you understand energy forms and conversions by doing the following:
+  resources:
+      - href: https://youtu.be/mA7aYNCpHdg
+        text: Different Forms of Energy
+        type: video
+      - href: https://youtu.be/5UL_FX5wCH4
+        text: Energy Transformations
+        type: video
   children:
       - requirement: a
         text: |-
             Explain how THREE of the following devices use energy, and explain
             their energy conversions: toaster, greenhouse, lightbulb, bow drill,
             cell phone, nuclear reactor, sauna, or electric vehicles.
+        resources:
+            - href: https://youtu.be/s5gufMXDg9M
+              text: How Does a Toaster Work?
+              type: video
+            - href: https://youtu.be/KI-Wf2odCqM
+              text: How Do Greenhouses Work? Easy Explanation!
+              type: video
+            - href: https://youtu.be/oCEKMEeZXug
+              text: How Modern Light Bulbs Work
+              type: video
+            - href: https://youtu.be/ZEl-Y1NvBVI
+              text: 'Primitive Technology: Cord Drill and Pump Drill'
+              type: video
+            - href: https://youtu.be/AYgxeSvPXK4
+              text: How Wireless Charging REALLY Works! (The Hidden Physics)
+              type: video
+            - href: https://youtu.be/Ta3z3pGK0vU
+              text: What Is Nuclear Energy? | National Geographic
+              type: video
+            - href: https://youtu.be/734-EmRGYPI
+              text: 'ICE vs. Electric: The Future of Driving Compared'
+              type: video
       - requirement: b
         text: |-
             Construct a system that makes at least two energy conversions and
             explain this to your counselor.
+        resources:
+            - href: https://youtu.be/VQqpnAKf9cM
+              text: Solar Motor-Free Energy Motor
+              type: video
+            - href: https://youtu.be/DcZkmj1afZs
+              text: Solar Powered Toy Bell Ringer
+              type: video
+            - href: https://youtu.be/P6al80Gv4wg
+              text: How to Make a Simple Windmill for Free Energy - School Project | Functional
+              type: video
+            - href: https://youtu.be/-1xsyt4T6eU
+              text: How to Make a Free Energy Using Water Wheel - Science Project Without Electricity
+              type: video
 - requirement: 3
   text: |-
       Show you understand energy efficiency by explaining to your counselor a
       common example of a situation where energy moves through a system to
       produce a useful result. Do the following:
+  resources:
+      - href: https://youtu.be/gWil5xVfwqw
+        text: Energy Transfers in Appliances
+        type: video
   children:
       - requirement: a
         text: |-
@@ -53,6 +108,16 @@
       you and your family did to reduce energy use. Include the following in your
       report and, after the 14-day period, discuss what you have learned with
       your counselor.
+  resources:
+      - href: https://youtu.be/YolBP0-vkBU
+        text: 'Energy 101: Home Energy Assessment'
+        type: video
+      - href: https://www.energy.gov/energysaver/do-it-yourself-home-energy-assessments
+        text: Do-It-Yourself Home Energy Assessments
+        type: website
+      - href: https://www.seattle.gov/Documents/Departments/OSE/GreenHomeGuide-FYIenergyaudit.pdf
+        text: Do It Yourself Home Energy Audit Form
+        type: pdf
   children:
       - requirement: a
         text: |-
@@ -61,6 +126,10 @@
             and measured, and the current cost; OR record the transportation fuel
             used, miles driven, miles per gallon, and trips using your family car
             or another vehicle.
+        resources:
+            - href: https://www.eia.gov/energyexplained/use-of-energy/homes.php
+              text: Use of Energy Explained - Energy Use in Homes
+              type: website
       - requirement: b
         text: |-
             Describe ways you and your family can use energy resources more wisely.
@@ -69,12 +138,32 @@
             lights, driving, watching TV, using the computer). Explain what is
             meant by sustainable energy sources. Explain how you can change your
             energy use through reuse and recycling.
+        resources:
+            - href: https://www.youtube.com/watch?v=AKcfc2WXIWY
+              text: Save Energy
+              type: video
+            - href: https://carbon-calculator.climatehero.org/
+              text: Environmental Footprint Calculator
+              type: website
+            - href: https://youtu.be/J_iDcKDAwbA
+              text: Your Carbon Footprint
+              type: video
+            - href: https://youtu.be/1kUE0BZtTRc
+              text: Renewable Energy 101
+              type: video
+            - href: https://youtu.be/uCDOm4AcPQk
+              text: Reduce, Reuse, Recycle
+              type: video
 - requirement: 5
   text: |-
       In a notebook, identify and describe five examples of energy waste in your
       school or community. Suggest in each case possible ways to reduce this
       waste. Describe the idea of trade-offs in energy use. In your response, do
       the following:
+  resources:
+      - href: https://youtu.be/QsAgaD7IeuA
+        text: The Surprising Places We Waste Energy
+        type: video
   children:
       - requirement: a
         text: |-
@@ -85,6 +174,10 @@
             Explain what changes to routines, habits, or convenience are necessary
             to reduce energy waste. Tell why people might resist the changes you
             suggest.
+        resources:
+            - href: https://www.un.org/en/actnow/ten-actions
+              text: Actions for a Healthy Planet
+              type: website
 - requirement: 6
   text: |-
       Prepare pie charts showing the following information, and explain to your
@@ -96,53 +189,134 @@
         text: |-
             The energy resources that supply the United States with most of its
             energy
+        resources:
+            - href: https://www.eia.gov/totalenergy/data/monthly/pdf/flow/total_energy_spaghettichart_2024.pdf
+              text: U.S. Energy Consumption by Source and Sector, 2024
+              type: pdf
+            - href: https://youtu.be/OBuAzxp3EE0
+              text: Everything You Need to Know About the Energy Flowcharts
+              type: video
+            - href: https://www.eia.gov/totalenergy/data/monthly/
+              text: Monthly Energy Review
+              type: website
       - requirement: b
         text: |-
             The share of energy resources used by the United States that comes from
             other countries
+        resources:
+            - href: https://youtu.be/evIAnt5mNGI
+              text: Why Does the US Import Oil When They Export So Much?
+              type: video
+            - href: https://www.eia.gov/todayinenergy/detail.php?id=65664
+              text: US Energy Imports and Exports
+              type: website
       - requirement: c
         text: |-
             The proportion of energy resources used by homes, businesses, industry,
             and transportation
+        resources:
+            - href: https://www.eia.gov/energyexplained/use-of-energy/
+              text: Use of Energy Explained
+              type: website
+            - href: https://www.eia.gov/consumption/
+              text: Energy Consumption &amp; Efficiency Data | Energy Information Agency
+              type: website
       - requirement: d
         text: |-
             The fuels used to generate America's electricity
+        resources:
+            - href: https://www.eia.gov/totalenergy/data/browser/index.php?tbl=T01.03#/?f=A
+              text: 'Total Energy: Primary Energy Consumption by Source'
+              type: website
       - requirement: e
         text: |-
             The world's known and estimated primary energy resource reserves
+        resources:
+            - href: https://www.eia.gov/international/overview/world
+              text: International Data
+              type: website
 - requirement: 7
   text: |-
       Tell what is being done to make FIVE of the following energy systems
       produce more usable energy. In your explanation, describe the technology,
       cost, environmental impacts, and safety concerns.
+  resources:
+      - href: https://youtu.be/Z8JFCJP70rg
+        text: How Cheap Renewable Energy Is Finally Flattening Emissions
+        type: video
   children:
       - requirement: a
         text: |-
             Biomass digesters or waste-to-energy plants
+        resources:
+            - href: https://youtu.be/cxvl24c_oeQ
+              text: 'Flexible Clean Energy: Powering Tomorrow With Biomass'
+              type: video
       - requirement: b
         text: |-
             Cogeneration plants
+        resources:
+            - href: https://youtu.be/P-sMnC8CxI8
+              text: The Combined Cycle Gas Turbine - the World's Most Efficient Power Machine
+              type: video
       - requirement: c
         text: |-
             Fossil fuel power plants
+        resources:
+            - href: https://youtu.be/TGppuZZosxQ
+              text: 'From Coal to Clean Energy: A Utility-Scale Milestone in New Mexico'
+              type: video
+            - href: https://youtu.be/XSsiohv0DLc
+              text: How Forsite Development Transforms Retired Coal Sites Into Clean Solar Energy Hubs
+              type: video
       - requirement: d
         text: |-
             Fuel cells
+        resources:
+            - href: https://youtu.be/6tvvsCxBfeM
+              text: Fuel Cell Technology - the Future of Clean Energy
+              type: video
       - requirement: e
         text: |-
             Geothermal power plants
+        resources:
+            - href: https://youtu.be/eWkhpWRRpVo
+              text: The Secret Behind Iceland's Geothermal Energy
+              type: video
+            - href: https://youtu.be/rqkJiMDAIpA
+              text: Should We Build A Geothermal Power Plant In Yellowstone?
+              type: video
       - requirement: f
         text: |-
             Nuclear power plants
+        resources:
+            - href: https://youtu.be/jRYUjQw5fWE
+              text: The Path to a New Era for Nuclear Energy
+              type: video
+            - href: https://youtu.be/xKeCmpZ0-U4
+              text: How Close Are We to Nuclear Fusion?
+              type: video
       - requirement: g
         text: |-
             Solar power systems
+        resources:
+            - href: https://youtu.be/tQmFVcD-Mbo
+              text: 'Solar 3.0: This New Technology Could Change Everything'
+              type: video
       - requirement: h
         text: |-
             Tidal energy, wave energy, or ocean thermal energy conversion devices
+        resources:
+            - href: https://youtu.be/HsyIbzIiaBM
+              text: "OTEC: The Huge Ocean Energy Source You've Never Heard of"
+              type: video
       - requirement: i
         text: |-
             Wind turbines
+        resources:
+            - href: https://youtu.be/9tJjDQ-X2mo
+              text: 'Wind Power Advances: Cutting-Edge Technologies Shaping the Future'
+              type: video
 - requirement: 8
   text: |-
       Identify three career opportunities that would use skills and knowledge in
@@ -152,3 +326,10 @@
       opportunities, and career goals associated with this career. Discuss what
       you learned with your counselor and whether you might be interested in this
       career.
+  resources:
+      - href: https://youtu.be/jBZ3vurfhXM
+        text: Careers in Energy and Natural Resources
+        type: video
+      - href: https://www.energy.gov/ne/articles/7-nuclear-careers-dont-require-engineering-degree
+        text: 7 Nuclear Careers that Don't Require an Engineering Degree
+        type: website

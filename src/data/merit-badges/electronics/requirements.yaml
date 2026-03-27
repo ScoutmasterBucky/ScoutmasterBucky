@@ -2,6 +2,10 @@
   text: |-
       Describe the safety precautions you must exercise when using, building,
       altering, or repairing electronic devices.
+  resources:
+      - href: https://youtu.be/aaE0ePh7zSo
+        text: Computer Safety Procedures
+        type: video
 - requirement: 2
   text: |-
       Do the following:
@@ -11,9 +15,23 @@
             Draw a simple schematic diagram. It must show resistors, capacitors,
             and transistors or integrated circuits. Use the correct symbols. Label
             all parts.
+        resources:
+            - href: https://youtu.be/9cps7Q_IrX0
+              text: Schematics
+              type: video
+            - href: https://youtu.be/_HZ-EQ8Hc8E
+              text: How to Read a Schematic
+              type: video
       - requirement: b
         text: |-
             Tell the purpose of each part.
+        resources:
+            - href: https://youtu.be/N8_1wb0r0DQ
+              text: Electronic Components Guide
+              type: video
+            - href: https://www.tiktok.com/@jyhhsuelectronics/video/7457467056598977838
+              text: 10 Common Electronic Components
+              type: video
 - requirement: 3
   text: |-
       Do the following:
@@ -21,13 +39,28 @@
       - requirement: a
         text: |-
             Show the right way to solder and desolder.
+        resources:
+            - href: https://youtu.be/-qk-ulz05J8
+              text: Using Solder | Soldering Basics | Soldering for Beginners
+              type: video
+            - href: https://youtu.be/bG7yW9FigJA
+              text: How to Desolder
+              type: video
       - requirement: b
         text: |-
             Show how to avoid heat damage to electronic components.
+        resources:
+            - href: https://www.youtube.com/shorts/fYk07LcnkPA
+              text: Applying Heat to your Parts
+              type: video
       - requirement: c
         text: |-
             Tell about the function of a printed circuit board. Tell what
             precautions should be observed when soldering printed circuit boards.
+        resources:
+            - href: https://youtu.be/BJ3N8gURA1c
+              text: What Are Printed Circuit Boards (PCBs)?
+              type: video
 - requirement: 4
   text: |-
       Do the following:
@@ -39,9 +72,17 @@
             - requirement: 1
               text: |-
                   How to use electronics for a control purpose.
+              resources:
+                  - href: https://www.youtube.com/shorts/oxNmKS6etGM
+                    text: Inputs, Outputs and Controllers
+                    type: video
             - requirement: 2
               text: |-
                   Explain the basic principles of digital logic.
+              resources:
+                  - href: https://youtu.be/INEtYZqtjTo
+                    text: Understanding Logic Gates
+                    type: video
             - requirement: 3
               text: |-
                   How to use electronics for three different analog applications.
@@ -49,11 +90,22 @@
         text: |-
             Show how to change three decimal numbers into binary numbers and three
             binary numbers into decimal numbers.
+        resources:
+            - href: https://youtu.be/a2FpnU9Mm3E
+              text: How to Convert Binary to Decimal
+              type: video
+            - href: https://www.youtube.com/shorts/OYP0pa50a0Q
+              text: Convert Decimal to Binary
+              type: video
       - requirement: c
         text: |-
             Choose ONE of the following THREE projects. For your project, find or
             create a schematic diagram. To the best of your ability, explain to
             your counselor how the circuit you built operates.
+        resources:
+            - href: https://youtu.be/MxRGXIe1qPo
+              text: How to Read an Electronic Schematic
+              type: video
         children:
             - requirement: 1
               text: |-
@@ -72,18 +124,37 @@
         text: |-
             Show how to solve a simple problem involving current, voltage, and
             resistance using Ohm's law.
+        resources:
+            - href: https://youtu.be/KMaQYdTJul0
+              text: Ohm's Law Formula
+              type: video
+            - href: https://youtu.be/uZ-m91IEkjQ
+              text: What is OHM'S Law?
+              type: video
       - requirement: b
         text: |-
             Tell about the need for and the use of test equipment in electronics.
             Name three types of test equipment. Tell how they operate.
+        resources:
+            - href: https://youtu.be/ZuFlJ1IZyPs
+              text: Circuits &amp; Electronics - Electronics Lab Introduction
+              type: video
       - requirement: c
         text: |-
             Demonstrate to your counselor how to read the colored bands of a
             resistor to determine its resistance value.
+        resources:
+            - href: https://youtu.be/GLD7AgAYqwA
+              text: How to Read a Resistor
+              type: video
       - requirement: d
         text: |-
             Explain the differences between Through Hole and Surface Mount assembly
             technologies and give three advantages of each.
+        resources:
+            - href: https://youtu.be/RW9NO6H62oY
+              text: Through Hole vs Surface Mount Method?
+              type: video
 - requirement: 6
   text: |-
       Identify three career opportunities that would use skills and knowledge in
@@ -93,3 +164,7 @@
       opportunities and career goals associated with this career. Discuss what
       you learned with your counselor and whether you might be interested in this
       career.
+  resources:
+      - href: https://youtu.be/paEw8Y8WlNA
+        text: Careers in Electronics Engineering
+        type: video

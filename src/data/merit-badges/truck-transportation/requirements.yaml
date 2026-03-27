@@ -1,6 +1,10 @@
 - requirement: 1
   text: |-
       List the major truck lines serving your town.
+  resources:
+      - href: https://www.quicktransportsolutions.com/quickfreight/loadboard/carrier-searchby-citystate.php
+        text: Search Trucking Companies - Find Carriers By City And State
+        type: website
 - requirement: 2
   text: |-
       Do the following:
@@ -9,18 +13,40 @@
         text: |-
             Describe the role of truck transportation within commerce (the movement
             of goods, funds, and information).
+        resources:
+            - href: https://youtu.be/j4EfFO-MAoY
+              text: 10 Advantages of Road Transport
+              type: video
       - requirement: b
         text: |-
             Describe how trucks fit into a company's supply chain. This could be a
             manufacturer, importer, wholesaler, or retailer.
+        resources:
+            - href: https://youtu.be/kMm-13EdnqA
+              text: Transportation &amp; Logistics Industry Overview - Introduction
+              type: video
+            - href: https://youtu.be/6ScpuV1aStM
+              text: How Does Trucking Fit Into the Supply Chain?
+              type: video
+            - href: https://considerblog.com/transportation/the-vital-role-of-trucks-in-transporting-goods-a-comprehensive-overview.html
+              text: 'The Vital Role of Trucks in Transporting Goods: A Comprehensive Overview'
+              type: website
       - requirement: c
         text: |-
             On paper, map out how goods that are manufactured overseas are
             transported to a retailer in this country.
+        resources:
+            - href: https://youtu.be/fdg9nhmZuJw
+              text: 'Global Supply Chain Management Explained: Key Players, Risks &amp; Incoterms'
+              type: video
 - requirement: 3
   text: |-
       Describe the difference between the gasoline engine and the diesel engine
       that power trucks. List the advantages of each.
+  resources:
+      - href: https://youtu.be/3G9x6U3VkwQ
+        text: 'Diesel vs. Gasoline Engines: Key Differences Explained'
+        type: video
 - requirement: 4
   text: |-
       Visit a truck terminal and complete items 4(a) through 4(e). After your visit,
@@ -30,23 +56,58 @@
         text: |-
             Find out what kind of maintenance program the company follows to help
             keep its fleet, drivers, and the roadway safe.
+        resources:
+            - href: https://youtu.be/bQcm9irqKIk
+              text: How To Properly Maintain Fleets?
+              type: video
+            - href: https://youtu.be/7dXo-RlPc8A
+              text: How Trucking Companies Manage Fleet Maintenance Effectively | Part 1
+              type: video
+            - href: https://youtu.be/tGrxcFCukJs
+              text: How Trucking Companies Manage Fleet Maintenance Effectively | Part 2
+              type: video
       - requirement: b
         text: |-
             Find out how dispatchers maintain communication with drivers on the
             road.
+        resources:
+            - href: https://youtu.be/Pv9-ZKoWNww
+              text: Communication with Dispatch
+              type: video
       - requirement: c
         text: |-
             Talk with a professional truck driver about safety. Learn about the
             truck driver's rules of the road for safe driving. List five
             safe-driving rules every professional truck driver must follow.
+        resources:
+            - href: https://youtu.be/poVtx0v1TG4
+              text: Top 6 Safety Tips for Truck Drivers
+              type: video
+            - href: https://youtu.be/aQi1QlMQv4Q
+              text: Essential Safety Tips, Every Female Trucker Needs to Stay Safe
+              type: video
       - requirement: d
         text: |-
             Review the driver's log and find out what kind of information the log
             contains.
+        resources:
+            - href: https://www.safetyvideos.com/how-to-fill-out-a-logbook-for-cdl-drivers
+              text: How to Fill Out a Logbook for CDL Drivers
+              type: website
       - requirement: e
         text: |-
             Learn about important federal regulations that help ensure public
             safety.
+        resources:
+            - href: https://www.fmcsa.dot.gov/regulations
+              text: Federal Motor Carrier Safety Administration (FMCSA) - Regulations Overview
+              type: website
+            - href: https://youtube.com/shorts/aHI1-vEt2qE
+              text: Federal Safety Regulations Limit a Long-Haul Truck Driver's Time on the Road
+              type: video
+            - href: https://youtube.com/shorts/SpmOiaa64LQ
+              text: Federal Regulations Every Truck Driver Should Know!
+              type: video
 - requirement: 5
   text: |-
       Do the following:
@@ -58,13 +119,25 @@
       - requirement: b
         text: |-
             List five positions with trucking companies and describe each one.
+        resources:
+            - href: https://www.bestyetexpresstrucking.com/jobs-in-the-trucking-industry/?utm_source=chatgpt.com
+              text: 14 Jobs in the Trucking Industry Other Than Driving
+              type: website
 - requirement: 6
   text: |-
       Name five government agencies that work closely with the trucking industry.
       Describe their role.
+  resources:
+      - href: https://www.osha.gov/trucking-industry/other-federal-agencies
+        text: Trucking Industry
+        type: website
 - requirement: 7
   text: |-
       List five different kinds of trucks. Tell the service each provides.
+  resources:
+      - href: https://youtu.be/wMil4tzaOcU
+        text: Different Types of Trucks and Their Uses
+        type: video
 - requirement: 8
   text: |-
       Assume that you are going to ship by truck 500 pounds of goods (freight
@@ -74,20 +147,54 @@
       - requirement: a
         text: |-
             How to prepare the shipment
+        resources:
+            - href: https://youtu.be/xZqB2-jTows
+              text: How to Prepare Freight for Shipping to Avoid Damages
+              type: video
+            - href: https://youtu.be/UEaNCBHQVZc
+              text: 'How To Ship A Pallet: Preparing A Palletized LTL Freight Shipment Warehousing Tutorial'
+              type: video
+            - href: https://youtu.be/478XjiLWg80
+              text: How to Package Freight for Shipping
+              type: video
       - requirement: b
         text: |-
             How to compare at least three carriers for time in transit and
             rates
+        resources:
+            - href: https://youtu.be/CGhqH0849cs
+              text: 'Mastering Load Board Bookings: A Step-by-Step Guide to Efficient Load Booking'
+              type: video
+            - href: https://youtu.be/-yppE9CJ2Yk
+              text: Truck Dispatcher and Broker Call Simulation - Negotiation Scenario #1
+              type: video
       - requirement: c
         text: |-
             How to choose which carrier to use
       - requirement: d
         text: |-
             How to insure the shipment for damages
+        resources:
+            - href: https://www.flockfreight.com/blog/understanding-freight-shipping-insurance-a-comprehensive-guide
+              text: 'Understanding Freight Shipping Insurance: A Comprehensive Guide'
+              type: website
 - requirement: 9
   text: |-
       Explain the following terms: bill of lading, ETA, logbook, intermodal,
       containers, tariff, shippers, carrier, consignee, drayage, and cartage.
+  resources:
+      - href: https://youtu.be/0H0Q0VNLMu4
+        text: Decoding Freight Abbreviations, Acronyms and Initialisms
+        type: video
+      - href: https://youtu.be/cSp3ryfdyFM
+        text: What's That? Bill of Lading (BOL)
+        type: video
+      - href: https://youtu.be/GSWxDr6mt8c
+        text: What's That? Intermodal &amp; Multimodal
+        type: video
+      - href: https://youtu.be/UlstPHRwhA8
+        text: What's That? Container vs. Trailer
+        type: video
 - requirement: 10
   text: |-
       Explore careers related to this merit badge. Research one career to learn
@@ -97,3 +204,19 @@
       interview with a professional in the field, or a visit to a location where
       people in this career work. Discuss with your counselor both your findings
       and what about this profession might make it an interesting career.
+  resources:
+      - href: https://youtu.be/TJGXJwNyw8U
+        text: What Career Opportunities are in Trucking? A LOT!
+        type: video
+      - href: https://youtu.be/CiAbSIXwMSs
+        text: What Life Is Like for a Trucker on the Road | NewsNation
+        type: video
+      - href: https://youtu.be/hbJqSgcQWj8
+        text: How to Become a Truck Dispatcher in 5 Steps? - Beginner Training
+        type: video
+      - href: https://youtu.be/MbmX3ZAjHbw
+        text: Logistics Coordinator Job Description
+        type: video
+      - href: https://youtu.be/zVZ3RASiXoA
+        text: 5 Must Have Skills to earn $10,000 a month as a Truck Dispatcher
+        type: video

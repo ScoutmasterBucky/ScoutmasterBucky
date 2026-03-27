@@ -9,12 +9,20 @@
             Explain to your counselor the most likely hazards associated with
             skating and what you should do to anticipate, help prevent, mitigate,
             and respond to these hazards.
+        resources:
+            - href: https://www.scouting.org/health-and-safety/safety-moments/skateboard-safety/
+              text: Skateboard Safety
+              type: website
       - requirement: b
         text: |-
             Show that you know first aid for injuries or illnesses that could
             occur while skating, including hypothermia, frostbite, lacerations,
             abrasions, fractures, sprains and strains, concussions, blisters,
             heat-related reactions, and shock.
+        resources:
+            - href: https://www.icliniq.com/articles/first-aid-and-emergencies/skating-injuries
+              text: Skating Injuries - Types and Prevention
+              type: website
 - requirement: 2
   text: |-
       Working under the supervision of an experienced adult, do ONE of the
@@ -22,6 +30,13 @@
   children:
       - text: |-
             <strong>Option A—Ice Skating.</strong> Do ALL of the following:
+        resources:
+            - href: https://youtu.be/-53axkfHUHk
+              text: How to Play Figure Skating
+              type: video
+            - href: https://youtu.be/8uDfC7sZ7ag
+              text: How to Ice Skate
+              type: video
         children:
             - requirement: 1
               text: |-
@@ -30,10 +45,27 @@
               text: |-
                   Discuss preparations that must be taken when skating outdoors
                   on natural ice. Explain how to make an ice rescue.
+              resources:
+                  - href: https://youtu.be/KmYeulVH8IE
+                    text: How To Know if Ice Is Safe To Walk On
+                    type: video
+                  - href: https://dnr.wisconsin.gov/Education/OutdoorSkills/IceSafety
+                    text: Ice Safety
+                    type: website
+                  - href: https://youtu.be/BWLvW-d5jBY
+                    text: Test Ice Thickness
+                    type: video
+                  - href: https://youtu.be/yVXJQq41tTA
+                    text: How to Save Someone Who Falls Through Ice
+                    type: video
             - requirement: 3
               text: |-
                   Discuss the parts and functions of the different types of ice
                   skates.
+              resources:
+                  - href: https://youtu.be/H6hUVU57Wpk
+                    text: Figure Skates vs. Hockey Skates
+                    type: video
             - requirement: 4
               text: |-
                   Describe the proper way to carry ice skates at the rink and for
@@ -42,22 +74,45 @@
               text: |-
                   Describe how to store ice skates for long periods of time, such as
                   seasonal storage.
+              resources:
+                  - href: https://youtu.be/xCibThdzynI
+                    text: How Do I Store My Skates Correctly?
+                    type: video
+                  - href: https://www.skatepro.ca/en/a65.htm
+                    text: Care for Your Ice Skates
+                    type: website
             - requirement: 6
               text: |-
                   Skate forward at least 40 feet and come to a complete stop. Use
                   either a two-foot snowplow stop or a one-foot snowplow stop.
+              resources:
+                  - href: https://youtu.be/rhQY1_bTjVs
+                    text: Snowplow Stop
+                    type: video
             - requirement: 7
               text: |-
                   After skating forward, glide forward on two feet, then on one foot,
                   first right and then left.
+              resources:
+                  - href: https://youtu.be/-7QqRz2EZAM
+                    text: Forward Stroking
+                    type: video
             - requirement: 8
               text: |-
                   Starting from a T position, stroke forward around the test area,
                   avoiding the use of toe picks if wearing figure skates.
+              resources:
+                  - href: https://youtu.be/-7QqRz2EZAM&amp;t=516
+                    text: Forward From a T Position
+                    type: video
             - requirement: 9
               text: |-
                   Glide backward on two feet for at least two times the skater's
                   height.
+              resources:
+                  - href: https://youtu.be/dZsfWfYxqzw
+                    text: Skate Backward
+                    type: video
             - requirement: 10
               text: |-
                   Skate backward for at least 20 feet on two skates.
@@ -66,16 +121,35 @@
                   After gaining forward speed, glide forward on two feet, making a
                   turn of 180 degrees around a cone, first to the right and then to
                   the left.
+              resources:
+                  - href: https://youtu.be/Lm1PXq9iFog
+                    text: Turns Around a Cone
+                    type: video
             - requirement: 12
               text: |-
                   Perform forward crossovers in a figure-eight pattern.
+              resources:
+                  - href: https://youtu.be/krBVgF52z8M
+                    text: How To Do Back Crossovers in a Figure 8
+                    type: video
             - requirement: 13
               text: |-
                   Explain to your counselor the safety considerations for
                   participating in an ice-skating race.
+              resources:
+                  - href: https://healthcare.utah.edu/healthfeed/2022/02/how-speed-skaters-stay-safe-ice
+                    text: How Speed Skaters Stay Safe on the Ice
+                    type: website
+                  - href: https://kidshealth.org/en/parents/safety-ice-skating.html
+                    text: 'Safety Tips: Ice Skating'
+                    type: website
             - requirement: 14
               text: |-
                   Perform a hockey stop.
+              resources:
+                  - href: https://youtu.be/nIfU38nAYYk
+                    text: Perform a Hockey Stop
+                    type: video
       - text: |-
             <strong>Option B—Roller Skating.</strong> Do ALL of the following:
         children:
@@ -83,6 +157,10 @@
               text: |-
                   Explain the general safety rules and etiquette guidelines for roller
                   skating.
+              resources:
+                  - href: https://youtu.be/eXzKkXQCY_Q
+                    text: Getting Started with Roller Skating
+                    type: video
             - requirement: 2
               text: |-
                   Discuss the parts and functions of a roller skate and their functions.
@@ -94,6 +172,10 @@
                   Skate forward with smooth, linked strokes on two feet for at least
                   100 feet in both directions around the rink and demonstrate proper
                   techniques for stopping.
+              resources:
+                  - href: https://youtu.be/znYKw5GQZVA
+                    text: Skating Forward
+                    type: video
             - requirement: 5
               text: |-
                   Skate forward and glide at least 15 feet on one skate, then on the
@@ -101,10 +183,18 @@
             - requirement: 6
               text: |-
                   Perform a forward crossover.
+              resources:
+                  - href: https://youtu.be/VrgT9TPLANY
+                    text: Skating Crossovers
+                    type: video
             - requirement: 7
               text: |-
                   Skate backward for at least 40 feet on two skates, then for at
                   least 15 feet on one skate.
+              resources:
+                  - href: https://youtu.be/c7MLviMbw6A
+                    text: Roller Skating Backwards
+                    type: video
             - requirement: 8
               text: |-
                   Skate forward in a slalom pattern for at least 40 feet on two
@@ -121,6 +211,10 @@
               text: |-
                   Perform a series of two consecutive spins on skates, OR hop, skip,
                   and jump on skates for at least 10 feet.
+              resources:
+                  - href: https://youtu.be/d6Z91xZXNxE
+                    text: Roller Skating Two-Foot Spins
+                    type: video
             - requirement: 12
               text: |-
                   Perform a stepover.
@@ -139,45 +233,102 @@
             - requirement: 2
               text: |-
                   Describe the parts of an in-line skate and their functions.
+              resources:
+                  - href: https://youtu.be/dKYpuWcZ_Ak
+                    text: Types and Parts of Inline Skates
+                    type: video
             - requirement: 3
               text: |-
                   Describe the required and recommended safety equipment for in-line
                   skating.
+              resources:
+                  - href: https://youtu.be/z10SQgx_kRA
+                    text: Safety Gear for In-Line Skating
+                    type: video
+                  - href: https://youtu.be/GF4fs9-zMq8
+                    text: Putting on Your Protective Gear
+                    type: video
             - requirement: 4
               text: |-
                   Explain four essential steps to good in-line skate care.
+              resources:
+                  - href: https://youtu.be/67xp-AyQb3g
+                    text: Maintaining and Caring for Your In-Line Skates
+                    type: video
+                  - href: https://youtu.be/Jcery4HP7_s
+                    text: Cleaning Your In-Line Skates
+                    type: video
             - requirement: 5
               text: |-
                   Skate forward with smooth, linked strokes on two feet for at least
                   100 feet.
+              resources:
+                  - href: https://youtu.be/fg1eMFnl61U
+                    text: Skating Forward
+                    type: video
             - requirement: 6
               text: |-
                   Skate forward and glide at least 15 feet on one skate, then on the
                   other skate.
+              resources:
+                  - href: https://youtu.be/iwtS9vr4r-Y
+                    text: Gliding on One Skate
+                    type: video
             - requirement: 7
               text: |-
                   Stop on command on flat pavement using the heel brake.
+              resources:
+                  - href: https://youtu.be/phN9uBIXkAw
+                    text: Braking with In-Line Skates
+                    type: video
             - requirement: 8
               text: |-
                   Perform a forward crossover.
+              resources:
+                  - href: https://youtu.be/RMIRnNr-PeQ
+                    text: How to Turn on In-Line Skates
+                    type: video
+                  - href: https://youtu.be/2-ULGoMvk24
+                    text: 5 Steps to the Perfect Crossover
+                    type: video
             - requirement: 9
               text: |-
                   Perform a series of forward, linked swizzles for at least 40 feet.
+              resources:
+                  - href: https://youtu.be/TbNlbqClkGQ
+                    text: Forward Swizzles
+                    type: video
             - requirement: 10
               text: |-
                   Skate backward for at least 40 feet in a series of linked, backward
                   swizzles.
+              resources:
+                  - href: https://youtu.be/t3dO_3vh0Ig
+                    text: Backward Swizzles
+                    type: video
             - requirement: 11
               text: |-
                   From a strong pace, perform a lunge turn around an object
                   predetermined by your counselor.
+              resources:
+                  - href: https://youtu.be/__N7lV59GMI
+                    text: Maneuvering Around Objects
+                    type: video
             - requirement: 12
               text: |-
                   Perform a mohawk.
+              resources:
+                  - href: https://youtu.be/ytPUoplawVU
+                    text: Perform a Mohawk
+                    type: video
             - requirement: 13
               text: |-
                   Perform a series of at least four one-footed downhill slaloms on
                   pavement with a gentle slope.
+              resources:
+                  - href: https://youtu.be/mzA573nx7W8
+                    text: One-Footed Slalom
+                    type: video
             - requirement: 14
               text: |-
                   Describe how to pass a pedestrian or another skater from behind.
@@ -185,29 +336,75 @@
               text: |-
                   Describe at least three ways to avoid an unforeseen obstacle while
                   skating.
+              resources:
+                  - href: https://youtu.be/NP5w-A5aRSc
+                    text: In-Line Skating Safety
+                    type: video
             - requirement: 16
               text: |-
                   Describe two ways to get on and off a curb, and demonstrate at
                   least one of these methods.
+              resources:
+                  - href: https://youtu.be/3hq3sID5emE
+                    text: Maneuvering Curbs
+                    type: video
       - text: |-
             <strong>Option D—Skateboarding.</strong> Do ALL of the following:
+        resources:
+            - href: https://youtu.be/2MEZdB-qooU
+              text: Jamboree - The Park
+              type: video
         children:
             - requirement: 1
               text: |-
                   Explain the history and evolution of skateboarding.
+              resources:
+                  - href: https://youtu.be/m4AQtoDBC00
+                    text: How Has Skateboarding Changed Over the Years
+                    type: video
+                  - href: https://youtu.be/f9JWlMZa0GE
+                    text: The Wild History of Skateboarding
+                    type: video
+                  - href: https://youtu.be/w1mm3zDNyNI
+                    text: The Evolution of Skateboard Tricks!
+                    type: video
             - requirement: 2
               text: |-
                   Describe the benefits of skateboarding (physical fitness, balance,
                   coordination, perseverance, and creativity).
+              resources:
+                  - href: https://youtu.be/VAh62ff8rys
+                    text: Benefits of Skateboarding
+                    type: video
+                  - href: https://youtu.be/6bu_9sI7QTI
+                    text: Physics of Skateboarding
+                    type: video
             - requirement: 3
               text: |-
                   Explain the safety rules and courtesy guidelines for skateboarding,
                   including right-of-way and communication signals and warnings.
+              resources:
+                  - href: https://youtu.be/Yw9bBDZ2kUo
+                    text: Skate Park Safety Rules
+                    type: video
+                  - href: https://youtu.be/zTVb4bmoiw0
+                    text: How to Ride Skateparks for Beginners
+                    type: video
+                  - href: https://youtu.be/qrq6KlaIe8Y
+                    text: Skatepark Terrain
+                    type: video
+                  - href: https://player.vimeo.com/video/903371803
+                    text: How to Ride Safely on a Skateboard
+                    type: video
             - requirement: 4
               text: |-
                   Explain the protective gear needed to skate safely, including
                   helmet, knee pads, elbow pads, and wrist guards, and show how to wear
                   them correctly.
+              resources:
+                  - href: https://www.scouting.org/health-and-safety/safety-moments/skateboard-safety/
+                    text: Skateboarding Safety
+                    type: website
             - requirement: 5
               text: |-
                   Describe the two main styles of skateboarding (street and vert), and
@@ -216,27 +413,58 @@
             - requirement: 6
               text: |-
                   Explain skateboard anatomy (deck, trucks, wheels, hardware, etc.).
+              resources:
+                  - href: https://player.vimeo.com/video/901305105
+                    text: How to Select a Skateboard
+                    type: video
             - requirement: 7
               text: |-
                   Build a board by assembling all pieces (deck, wheels, trucks,
                   hardware, and grip tape) in the proper order.
+              resources:
+                  - href: https://youtu.be/A6E403WMOXk
+                    text: How to Assemble a Skateboard
+                    type: video
             - requirement: 8
               text: |-
                   Explain skateboard maintenance (cleaning, adjusting bolts, and
                   replacing parts).
+              resources:
+                  - href: https://www.skatexs.com/blogs/news/9432593-skateboard-maintenance-for-beginners
+                    text: How to Maintain Your Skateboard
+                    type: website
             - requirement: 9
               text: |-
                   Explain the difference between regular and goofy stance, and
                   demonstrate your preferred stance.
+              resources:
+                  - href: https://youtu.be/fdSzhc7HXJ0
+                    text: Goofy vs. Regular Stance
+                    type: video
             - requirement: 10
               text: |-
                   Demonstrate how to push, cruise, and carve on flat ground.
+              resources:
+                  - href: https://player.vimeo.com/video/901305608
+                    text: How to Push on a Skateboard
+                    type: video
+                  - href: https://player.vimeo.com/video/901305658
+                    text: How to Turn on a Skateboard
+                    type: video
             - requirement: 11
               text: |-
                   Show at least two braking and stopping techniques.
+              resources:
+                  - href: https://youtu.be/gLikGjxWCUQ
+                    text: How to Stop a Skateboard
+                    type: video
             - requirement: 12
               text: |-
                   Do a basic ollie and at least one variation.
+              resources:
+                  - href: https://player.vimeo.com/video/901305845
+                    text: How to Ollie on Skateboard
+                    type: video
             - requirement: 13
               text: |-
                   Show how to drop-in from coping.
@@ -248,15 +476,53 @@
                   - requirement: a
                     text: |-
                         Flat ground tricks
+                    resources:
+                        - href: https://youtu.be/-LwtQJFqNOA
+                          text: Flatland Tricks
+                          type: video
+                        - href: https://player.vimeo.com/video/901305720
+                          text: How to Manual on Skateboard
+                          type: video
+                        - href: https://player.vimeo.com/video/901305789
+                          text: How to Throwdown on Skateboard
+                          type: video
+                        - href: https://player.vimeo.com/video/901305968
+                          text: How to 180 on a Skateboard
+                          type: video
                   - requirement: b
                     text: |-
                         Flip and shove-it tricks
+                    resources:
+                        - href: https://youtu.be/MDkVYN6Rk_I
+                          text: Flip a Skateboard
+                          type: video
+                        - href: https://youtu.be/fBAW51ilpLw
+                          text: Shove-It
+                          type: video
                   - requirement: c
                     text: |-
                         Grind and slide tricks
+                    resources:
+                        - href: https://youtu.be/SKrntystOnE
+                          text: Grind Tricks
+                          type: video
+                        - href: https://youtu.be/IPDoNdZvGxk
+                          text: Doing a Slide
+                          type: video
                   - requirement: d
                     text: |-
                         Air and grab tricks
+                    resources:
+                        - href: https://youtu.be/4tz-HFSoEZY
+                          text: Frontside Air
+                          type: video
+                        - href: https://youtu.be/UEYsZH49H_o
+                          text: Grab Tricks
+                          type: video
                   - requirement: e
                     text: |-
                         Footplant tricks.
+                    resources:
+                        - href: https://youtu.be/wUZpFX0CS1g
+                          text: How to Boneless
+                          type: video

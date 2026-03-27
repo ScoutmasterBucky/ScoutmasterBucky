@@ -3,24 +3,60 @@
       Read the safety rules for metalwork. Discuss how to be safe while working
       with metal. Discuss with your counselor the additional safety rules that
       apply to the metalwork option you choose for requirement 5.
+  resources:
+      - href: https://youtu.be/OsPSSayWEOU
+        text: Metalwork Tools Workshop Safety Training
+        type: video
 - requirement: 2
   text: |-
       Explain the following terms: native metal, malleable, metallurgy, alloy,
       nonferrous, and ferrous. Then do the following:
+  resources:
+      - href: https://youtu.be/Q5t4D_4DwS0
+        text: 'Metallurgy: From Rocks to Alloys'
+        type: video
   children:
       - requirement: a
         text: |-
             Name two nonferrous alloys used by pre-Iron Age metalworkers. Name the
             metals that are combined to form these alloys.
+        resources:
+            - href: https://youtu.be/_5iNPCCeZb0
+              text: How Alloys Made the Bronze Age Possible. Forging a New Era
+              type: video
+            - href: https://youtu.be/sGb28SC4ZjY
+              text: 'From Gold and Silver to Electrum: The Truth About This Rare Alloy'
+              type: video
       - requirement: b
         text: |-
             Name three ferrous alloys used by modern metalworkers.
+        resources:
+            - href: https://youtu.be/s6dh0ml-KHY
+              text: What Are the Different Types of Steel?
+              type: video
       - requirement: c
         text: |-
             Describe how to work-harden a metal.
+        resources:
+            - href: https://youtu.be/iH7OJKreTx0
+              text: Work Hardening and Annealing
+              type: video
+            - href: https://youtu.be/xuL2yT-B2TM
+              text: Self Organising Steel Balls Explain Metal Heat Treatment
+              type: video
       - requirement: d
         text: |-
             Describe how to anneal a nonferrous and a ferrous metal.
+        resources:
+            - href: https://youtu.be/YLMq8lCml3c
+              text: Annealing Stainless Steel Spoons
+              type: video
+            - href: https://youtu.be/8Pb7KP1t4i8
+              text: Introduction to Annealing
+              type: video
+            - href: https://youtu.be/DPa4LmO7L1s
+              text: How to Anneal Silver, Copper and Other Nonferrous Metals
+              type: video
 - requirement: 3
   text: |-
       Do the following:
@@ -31,6 +67,10 @@
             Put a 45-degree bend in the metal, then heavily peen the area along the
             bend line to work-harden it. Note the amount of effort that is required
             to overcome the yield point in this unworked piece of metal.
+        resources:
+            - href: https://youtu.be/Bau_opy5du4
+              text: Work Hardening of Copper
+              type: video
       - requirement: b
         text: |-
             Soften the work-hardened piece from requirement 3(a) by annealing it, and
@@ -40,6 +80,10 @@
         text: |-
             Make a temper color index from a flat piece of steel. Using hand tools,
             make and temper a center punch of medium-carbon or high-carbon steel.
+        resources:
+            - href: https://youtu.be/loewH904oOk
+              text: How to Forge a Center Punch
+              type: video
 - requirement: 4
   text: |-
       Do ONE of the following:
@@ -53,6 +97,19 @@
             salary, advancement opportunities and career goals associated with this
             career. Discuss what you learned with your counselor and whether you
             might be interested in this career.
+        resources:
+            - href: https://youtu.be/t3cAgVHqHlw
+              text: Sheet Metal Workers Career Video
+              type: video
+            - href: https://youtu.be/WGaOFcQVLXo
+              text: What Kinds of Careers Are in Metalcasting?
+              type: video
+            - href: https://youtu.be/FJfR-oLE76k
+              text: 'Blacksmithing 101: What is Blacksmithing?'
+              type: video
+            - href: https://youtu.be/t9tQ1-wCUBw
+              text: Career Advice on Becoming a Silversmith
+              type: video
       - requirement: b
         text: |-
             Identify how you might use the skills and knowledge in metalworking to
@@ -61,6 +118,16 @@
             maximize the enjoyment and benefit you might gain from it. Discuss what
             you learned with your counselor and share what short-term and long-term
             goals you might have if you pursued this.
+        resources:
+            - href: https://youtu.be/SUqdthgh3Uw
+              text: Why Blacksmithing?
+              type: video
+            - href: https://youtu.be/6TshB-Zemno
+              text: The Lost Art of Tinsmithing
+              type: video
+            - href: https://youtube.com/shorts/nr8BpATBXKk
+              text: Working with Silver is Awesome
+              type: video
 - requirement: 5
   text: |-
       After completing the first four requirements, complete ONE of the
@@ -73,6 +140,10 @@
             - requirement: 1
               text: |-
                   Name and describe the use of the basic sheet metalworking tools.
+              resources:
+                  - href: https://youtu.be/I6Sliu42IJw
+                    text: 'Essential Metal Fabrication Tools for Beginners: Tips and How I Use Them!'
+                    type: video
             - requirement: 2
               text: |-
                   Create a sketch of two objects to make from sheet metal. Include
@@ -85,6 +156,10 @@
                   your counselor. Construct these objects using a metal that is
                   appropriate to the object's ultimate purpose, and using cutting,
                   bending, edging, and either soldering or brazing.
+              resources:
+                  - href: https://youtu.be/XtiYADl3PEo
+                    text: How To Make a Sheet Metal Box
+                    type: video
               children:
                   - requirement: a
                     text: |-
@@ -93,12 +168,20 @@
                     text: |-
                         If you do not make your objects from zinc-plated sheet steel or
                         tin-plated sheet steel, preserve your work from oxidation.
+                    resources:
+                        - href: https://youtu.be/_-Gfwzc5ASE
+                          text: How To Prevent Rust
+                          type: video
       - text: |-
             <strong>Option B—Silversmith.</strong> Do ALL of the following:
         children:
             - requirement: 1
               text: |-
                   Name and describe the use of a silversmith's basic tools.
+              resources:
+                  - href: https://youtu.be/vRd5YcRpyig
+                    text: Silversmithing Tools for Beginners | All You Need to get Started Making Jewelry!
+                    type: video
             - requirement: 2
               text: |-
                   Create a sketch of two objects to make from sheet silver. Include
@@ -111,18 +194,34 @@
                   your counselor. Both objects must include a soldered joint. If you
                   have prior silversmithing experience, you may substitute sterling
                   silver, nickel silver, or lead-free pewter.
+              resources:
+                  - href: https://youtu.be/Q_gejiVEClE
+                    text: The Basics of Soldering | Jewelry 101
+                    type: video
               children:
                   - requirement: a
                     text: |-
                         At least one object must include a sawed component you have
                         made yourself.
+                    resources:
+                        - href: https://youtu.be/KfA9HlzyAHU
+                          text: Step-by-Step Guide to Sawing for Handmade Jewelry
+                          type: video
                   - requirement: b
                     text: |-
                         At least one object must include a sunken part you have made
                         yourself.
+                    resources:
+                        - href: https://youtu.be/_kGPPtUYuI4
+                          text: Basic Sinking &amp; Planishing
+                          type: video
                   - requirement: c
                     text: |-
                         Clean and polish your objects.
+                    resources:
+                        - href: https://youtu.be/A-NTbRUhASQ
+                          text: How I Clean &amp; Polish Jewelry RIGHT After Casting | Step By Step
+                          type: video
       - text: |-
             <strong>Option C—Founder.</strong> Do ALL of the following:
         children:
@@ -130,6 +229,10 @@
               text: |-
                   Name and describe the use of the basic parts of a two-piece mold.
                   Name at least three different types of molds.
+              resources:
+                  - href: https://youtu.be/VveT7Ve7IeQ
+                    text: What Are the Common Types of Metal Casting Process in Engineering and Industry
+                    type: video
             - requirement: 2
               text: |-
                   Create a sketch of two objects to cast in metal. Include each
@@ -141,6 +244,10 @@
                   counselor. Position the pouring gate and vents yourself.
                   <div class="gap"></div>
                   <b>Note:</b> Do not use copyrighted materials as patterns.
+              resources:
+                  - href: https://youtu.be/XlRK_SMWX7Y
+                    text: Sand Casting Lesson for Beginners - Step-by-Step
+                    type: video
               children:
                   - requirement: a
                     text: |-
@@ -156,6 +263,10 @@
             - requirement: 1
               text: |-
                   Name and describe the use of a blacksmith's basic tools.
+              resources:
+                  - href: https://youtu.be/dw3rSK7L1Aw
+                    text: Basic Blacksmithing Tools
+                    type: video
             - requirement: 2
               text: |-
                   Make a sketch of two objects to hot-forge. Include each component's
@@ -168,17 +279,36 @@
                   - requirement: a
                     text: |-
                         Draw out by forging a taper.
+                    resources:
+                        - href: https://youtu.be/xUPM9emeOZU
+                          text: 'Blacksmith Basics: How to Draw Out a Taper'
+                          type: video
+                        - href: https://youtu.be/U363Q8UxrJA
+                          text: Tapering for Beginners
+                          type: video
                   - requirement: b
                     text: |-
                         Use the horn of the anvil by forging a
                         <strong>U</strong>-shaped bend.
+                    resources:
+                        - href: https://youtu.be/-ESejG0pcGs
+                          text: Blacksmithing For Beginners - Working On The Horn Of The Anvil
+                          type: video
                   - requirement: c
                     text: |-
                         Form a decorative twist in a piece of square steel.
+                    resources:
+                        - href: https://youtu.be/PINugkxOues
+                          text: Blacksmithing for Beginners - Twisting Bar Stock
+                          type: video
                   - requirement: d
                     text: |-
                         Use the edge of the anvil to bend metal by forging an
                         <strong>L</strong>-shaped bend.
+                    resources:
+                        - href: https://youtu.be/Rudy5ZNGp1A
+                          text: Fundamentals of Blacksmithing - Bending
+                          type: video
             - requirement: 4
               text: |-
                   Using low-carbon steel at least 1/4 inch thick, make the two
@@ -188,9 +318,21 @@
                   - requirement: a
                     text: |-
                         Include a decorative twist on one object.
+                    resources:
+                        - href: https://youtu.be/PINugkxOues
+                          text: Blacksmithing for Beginners - Twisting Bar Stock
+                          type: video
                   - requirement: b
                     text: |-
                         Include a hammer-riveted joint in one object.
+                    resources:
+                        - href: https://youtube.com/shorts/A73-0yq-XKQ
+                          text: Forging Red Hot Rivet on This Awesome Anvil
+                          type: video
                   - requirement: c
                     text: |-
                         Preserve your work from oxidation.
+                    resources:
+                        - href: https://youtu.be/xIvjVN7bk5w?si=QWPSQ_-ghLJ1hi45
+                          text: Preventing Rust The Old Fashioned Way And Protecting Some Gifts
+                          type: video

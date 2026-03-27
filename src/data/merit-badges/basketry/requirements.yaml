@@ -1,3 +1,4 @@
+# Third resource for 1a is a website, not PDF
 - requirement: 1
   text: |-
       Do the following:
@@ -7,11 +8,25 @@
             Explain to your counselor the hazards you are most likely to encounter
             while using basketry tools and materials, and what you should do to
             anticipate, help prevent, mitigate, and respond to these hazards.
+        resources:
+            - href: https://youtu.be/nhB-42oMZF8
+              text: Cutting Tool Safety
+              type: video
+            - href: https://youtu.be/jIllqEyw3rA
+              text: Hand Tool Safety
+              type: video
+            - href: https://sites.google.com/basketweavers.org/missouribasketweaversguild/weaving-tips/health-and-safety
+              text: Health and Safety Tips for Basket Weavers
+              type: website
       - requirement: b
         text: |-
             Discuss the prevention of and first-aid treatment for injuries,
             including cuts, scratches, and scrapes, that could occur while working
             with basketry tools and materials.
+        resources:
+            - href: https://youtu.be/L77rERL64zc
+              text: How to Treat Cuts &amp; Scrapes | First Aid Training
+              type: video
 - requirement: 2
   text: |-
       Do the following:
@@ -20,9 +35,26 @@
         text: |-
             Show your counselor that you are able to identify the following types
             of baskets: plaited, coiled, ribbed, and wicker.
+        resources:
+            - href: https://www.wicker-basket.co.uk/blogs/news/what-are-the-four-types-of-baskets/
+              text: What Are the Four Types of Baskets?
+              type: website
+            - href: https://youtu.be/Z5PttnxrB0I
+              text: Historical Types of Baskets
+              type: video
       - requirement: b
         text: |-
             Describe three different types of weaves to your counselor.
+        resources:
+            - href: https://youtu.be/knbR3kgGssE
+              text: How to Start a Coiled Basket
+              type: video
+            - href: https://youtu.be/Jb0tFaZytM8
+              text: Making a Ribbed Basket
+              type: video
+            - href: https://youtube.com/shorts/yqe6R4uWzQo
+              text: Weaving a Plaited Bsket
+              type: video
 - requirement: 3
   text: |-
       Plan and weave the following projects:
@@ -30,9 +62,33 @@
       - requirement: a
         text: |-
             Square basket
+        resources:
+            - href: https://youtu.be/2H0VJtOZ-Kk
+              text: Bamboo Basket Tokari Weaving
+              type: video
       - requirement: b
         text: |-
             Round basket
+        resources:
+            - href: https://youtu.be/gKYft82Yobk
+              text: How to Make a Rustic Round Basket out of Wild Vines
+              type: video
+            - href: https://youtu.be/jnK1kUcXqO0
+              text: Round Reed Basket
+              type: video
+            - href: https://youtu.be/e-ZFtsLuiMo
+              text: Cherokee Basket Weaving
+              type: video
       - requirement: c
         text: |-
             Campstool seat
+        resources:
+            - href: https://youtu.be/qdtWwXhm0H8
+              text: Weaving a Camp Stool
+              type: video
+            - href: https://youtu.be/k9jRWXz8HOs
+              text: Learn to Rope Your Chairs
+              type: video
+            - href: https://youtu.be/e_boV4f5tp4
+              text: How to Weave a Wooden Chair Step by Step
+              type: video
