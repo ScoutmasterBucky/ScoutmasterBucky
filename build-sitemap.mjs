@@ -15,7 +15,11 @@ for await (const file of glob('dist/**/*.html')) {
         continue;
     }
 
-    if (linkUrl === '404.html' || linkUrl === 'counselors/about-us/') {
+    if (
+        linkUrl === '404.html' ||
+        linkUrl === 'counselors/about-us/' ||
+        linkUrl.match(/enterprises/)
+    ) {
         continue;
     }
 
