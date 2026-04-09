@@ -447,7 +447,7 @@ async function downloadMeritBadges(updated: UpdatedSingle, args: Args) {
     const indexUrl = 'https://www.scouting.org/skills/merit-badges/all/';
     const links = await getHtmlDom(
         indexUrl,
-        '.mb-card .mb-title .mb-card-title a'
+        '.mb-cards-grid article .mb-title a'
     );
 
     // Resolve all links
