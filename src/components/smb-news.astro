@@ -9,8 +9,6 @@ const { news } = Astro.props.fontmatter || Astro.props;
 const newsArray = Array.isArray(news) ? news : [];
 ---
 
-<h2>News</h2>
-
 <div class="news-wrapper">
     <div class="bucky-image">
         <ScaledContent align="center" small={true}>
