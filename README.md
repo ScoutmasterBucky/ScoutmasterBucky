@@ -36,6 +36,7 @@ Event files can have the following metadata.
 * `eventBriteEventId` - For the generation of the registration link. Used for online events only.
 * `registrationLink` - When there is a link to a registration page, set this property and a "Register Here" button will automatically be added to the end.
 * `icon` - Image to show in association in the event card.
+* `hidden` - True if the event should be hidden.
 
 
 ## Merit Badge Requirements

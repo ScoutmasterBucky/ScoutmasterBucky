@@ -127,13 +127,13 @@
             - href: https://youtu.be/1g10qARTSrE
               text: How To Wear Your Archery Gear Correctly
               type: video
-            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/arm%20guard.tif
+            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/arm%20guard.png
               text: Arm Guard
               type: image
-            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/finger_tab_on_hand.tif
+            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/finger_tab_on_hand.png
               text: Finger Tab on Hand
               type: image
-            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/quiver.tif
+            - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/quiver.png
               text: Quiver
               type: image
       - requirement: b
@@ -160,7 +160,7 @@
             The differences among field, target, and 3-D archery
         resources:
             - href: https://archery360.com/2022/03/10/how-to-shoot-3d-field-and-outdoor-target-archery/
-              text: 'How To Shoot: 3D, Field and Outdoor Target Archery'
+              text: 'How To Shoot: 3D, Field, and Outdoor Target Archery'
               type: website
       - requirement: c
         text: |-
@@ -175,7 +175,7 @@
             targets and blue indoor targets are scored
         resources:
             - href: https://youtu.be/O47cSaBzNw0
-              text: How to Score an NFAA Field Archery Target
+              text: How To Score an NFAA Field Archery Target
               type: video
 - requirement: 5
   text: |-
@@ -188,7 +188,7 @@
       <b>Note:</b> When using a Genesis bow, apply the requirements in Option A.
   resources:
       - href: https://youtu.be/EuMHSsN8YLM
-        text: How is a Compound Bow Different From a Recurve Bow?
+        text: How Is a Compound Bow Different From a Recurve Bow?
         type: video
   children:
       - text: |-
@@ -200,7 +200,7 @@
                   Name and point to the parts of the recurve or longbow you are
                   shooting.
               resources:
-                  - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/recurve_bow_size.tif
+                  - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/recurve_bow_size.png
                     text: Recurve Bow Measurement Chart
                     type: image
             - requirement: 2
@@ -209,7 +209,7 @@
                   longbows.
               resources:
                   - href: https://youtu.be/Kbl2a9HRAR8
-                    text: How to Store a Recurve Bow
+                    text: How To Store a Recurve Bow
                     type: video
             - requirement: 3
               text: |-
@@ -224,7 +224,7 @@
                   Demonstrate the proper way to string a recurve bow or longbow.
               resources:
                   - href: https://youtu.be/K1NMzkoLC3c
-                    text: How to String a Recurve Bow
+                    text: How To String a Recurve Bow
                     type: video
             - requirement: 5
               text: |-
@@ -233,7 +233,7 @@
                   using.
               resources:
                   - href: https://youtu.be/325P19BBNgY
-                    text: How to Mark a Nock on a Recurve Bow
+                    text: How To Mark a Nock on a Recurve Bow
                     type: video
             - requirement: 6
               text: |-
@@ -272,6 +272,10 @@
             - requirement: 1
               text: |-
                   Name and point to the parts of the compound bow you are shooting.
+              resources:
+                  - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Archery/compound_bow.png
+                    text: compound_bow.png
+                    type: photo
             - requirement: 2
               text: |-
                   Explain how to properly care for and store compound bows.
@@ -293,7 +297,7 @@
                   nocking point on the bowstring of the bow you are using.
               resources:
                   - href: https://youtu.be/Hh0UgcUrpSI
-                    text: How to Mark a Nock on a Compound Bow
+                    text: How To Mark a Nock on a Compound Bow
                     type: video
             - requirement: 6
               text: |-
