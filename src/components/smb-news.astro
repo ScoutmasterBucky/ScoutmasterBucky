@@ -12,23 +12,29 @@ const newsArray = Array.isArray(news) ? news : [];
 <h2>News</h2>
 
 <div class="news-wrapper">
-    <ScaledContent align="left">
-        <img src="/images/bucky-with-newspaper.jpg" class="wide" />
-    </ScaledContent>
+    <div class="bucky-image">
+        <ScaledContent align="center">
+            <img src="/images/bucky-with-newspaper.jpg" class="wide" />
+        </ScaledContent>
+    </div>
 
-    {
-        newsArray.map(item => (
-            <div class="news-item">
-                <div class="news-new">NEW!</div>
-                <div>{item}</div>
-            </div>
-        ))
-    }
+    <div>
+        {
+            newsArray.map(item => (
+                <div class="news-item">
+                    <div class="news-new">NEW!</div>
+                    <div>{item}</div>
+                </div>
+            ))
+        }
+    </div>
 </div>
 
 <style>
     .news-wrapper {
         padding: 1em;
+        display: flex;
+        flex-direction: column;
     }
 
     .news-item {
@@ -40,5 +46,12 @@ const newsArray = Array.isArray(news) ? news : [];
         color: var(--index-news-text-color);
         font-weight: bold;
         padding-right: 8px;
+    }
+
+    @media (min-width: 480.0001px) {
+        .news-wrapper {
+            flex-direction: row;
+            gap: 2em;
+        }
     }
 </style>
