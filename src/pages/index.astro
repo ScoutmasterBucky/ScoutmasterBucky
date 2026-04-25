@@ -10,7 +10,7 @@ import { DateTime } from 'luxon';
 const news = [
     // "The Duluth event is now LIVE!",
     // "Merit badges have been updated to 2026 requirements.",
-    "Mark your calendars! June 20th is a Test Lab merit badge day."
+    'Mark your calendars! June 20th is a Test Lab merit badge day.',
 ];
 
 // Set this to the featured video code. If no featured video is desired, set to
@@ -48,7 +48,9 @@ const lastBuildTime = DateTime.now()
                 <FeaturedItemYoutubeVideo
                     code={featuredVideoCode}
                     ratio="16 / 9"
-                />
+                >
+                    Check out a new video each week!
+                </FeaturedItemYoutubeVideo>
             )
         }
     </div>
