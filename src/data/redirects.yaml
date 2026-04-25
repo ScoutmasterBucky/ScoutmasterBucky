@@ -602,30 +602,10 @@
   date: 2025-12-11
   title: Chess merit badge
 
-# Generated: Citizenship in Society
-- match: /merit-badges/citizenship-in-society/citizenship-in-society-cpp.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/citizenship-in-society/citizenship-in-society-cpp.pdf
-  date: 2025-12-11
-  title: Citizenship in Society merit badge class preparation page
-- match: /merit-badges/citizenship-in-society/citizenship-in-society-pamphlet.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/citizenship-in-society/citizenship-in-society-pamphlet.pdf
-  date: 2025-12-11
-  title: Citizenship in Society merit badge pamphlet
-- match: /merit-badges/citizenship-in-society/citizenship-in-society-workbook.pdf
-  url: https://filestore.scoutmasterbucky.com/merit-badges/citizenship-in-society/citizenship-in-society-workbook.pdf
-  date: 2025-12-11
-  title: Citizenship in Society merit badge workbook
-- match: /merit-badges/citizenship-in-society/citizenship-in-society-workbook-*
-  url: /merit-badges/citizenship-in-society/
-  date: 2025-12-11
-  title: Citizenship in Society merit badge workbook options
-- match: /merit-badges/citizenship-in-society/workbook*
-  url: /merit-badges/citizenship-in-society/
-  date: 2025-12-14
-  title: Citizenship in Society merit badge resources, including workbooks
+# Retired
 - match: /merit-badges/citizenship-in-society/*
-  url: /merit-badges/citizenship-in-society/
-  date: 2025-12-11
+  url: /history/citizenship-in-society/
+  date: 2026-04-24
   title: Citizenship in Society merit badge
 
 # Generated: Citizenship in the Community
