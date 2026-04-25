@@ -55,6 +55,9 @@ architecture:
 art:
     name: Art
     active: true
+artificial-intelligence:
+    name: Artificial Intelligence
+    active: true
 astronomy:
     name: Astronomy
     active: true
@@ -141,7 +144,7 @@ citizenship:
     active: false
 citizenship-in-society:
     name: Citizenship in Society
-    active: true
+    active: false
 citizenship-in-the-community:
     name: Citizenship in the Community
     active: true
@@ -201,6 +204,9 @@ craftsmanship:
     active: false
 crime-prevention:
     name: Crime Prevention
+    active: true
+cybersecurity:
+    name: Cybersecurity
     active: true
 cycling:
     name: Cycling
