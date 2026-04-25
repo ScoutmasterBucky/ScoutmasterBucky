@@ -1,6 +1,6 @@
 ---
 badge: cybersecurity
-layout: ~/layouts/cybersecurity.astro
+layout: ~/layouts/historical-merit-badge.astro
 ---
 
 Extra information goes here.
