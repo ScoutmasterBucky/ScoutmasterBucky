@@ -1,91 +1,235 @@
-- requirement: 1
-  text: |-
-      Using resources available to you, learn about working people and
-      work-related concerns. List and briefly describe or give examples of at
-      least EIGHT concerns of American workers. These may include, but are not
-      limited to, working conditions, workplace safety, hours, wages, seniority,
-      job security, equal-opportunity employment and discrimination, guest
-      workers, automation and technologies that replace workers, unemployment,
-      layoffs, outsourcing, and employee benefits such as health care, child
-      care, profit sharing, continuing education, and retirement benefits.
-- requirement: 2
-  text: |-
-      With your counselor's and parent or guardian's approval and permission,
-      visit the office or attend a meeting of a local union, a central labor
-      council, or an employee organization, or contact one of these organizations
-      via the internet. Then do the following:
-  children:
-      - requirement: a
-        text: |-
-            Find out what the organization does.
-      - requirement: b
-        text: |-
-            Share the list of issues and concerns you made for requirement 1. Ask
-            the people you communicate with which issues are of greatest interest
-            or concern to them and why.
-      - requirement: c
-        text: |-
-            Draw a diagram showing how the organization is structured, from the
-            local to the national level, if applicable.
-- requirement: 3
-  text: |-
-      Explain to your counselor what labor unions are, what they do, and what
-      services they provide to members. In your discussion, show that you
-      understand the concepts of labor, management, collective bargaining,
-      negotiation, union shops, open shops, grievance procedures, mediation,
-      arbitration, work stoppages, strikes, and lockouts.
-- requirement: 4
-  text: |-
-      Explain what is meant by the adversarial model of labor-management
-      relations, compared with a cooperative-bargaining style.
-- requirement: 5
-  text: |-
-      Do ONE of the following:
-  children:
-      - requirement: a
-        text: |-
-            Develop a time line of significant events in the history of the
-            American labor movement from the 1770s to the present.
-      - requirement: b
-        text: |-
-            Prepare an exhibit, a scrapbook, or a computer presentation, such as a
-            slide show, illustrating three major achievements of the American labor
-            movement and how those achievements affect American workers.
-      - requirement: c
-        text: |-
-            With your counselor's and parent or guardian's approval and permission,
-            watch a movie that addresses organized labor in the United States.
-            Afterward, discuss the movie with your counselor and explain what you
-            learned.
-      - requirement: d
-        text: |-
-            Read a biography (with your counselor's approval) of someone who has
-            made a contribution to the American labor movement. Explain what
-            contribution this person has made to the American labor movement.
-- requirement: 6
-  text: |-
-      Explain the term globalization. Discuss with your counselor some
-      effects of globalization on the workforce in the United States. Explain how
-      this global workforce fits into the economic system of this country.
-- requirement: 7
-  text: |-
-      Choose a labor issue of widespread interest to American workers - an issue
-      in the news currently or known to you from your work on this merit badge.
-      Before your counselor, or in writing, argue both sides of the issue, first
-      taking management's side, then presenting labor's or the employee's point
-      of view. In your presentation, summarize the basic rights and
-      responsibilities of employers and employees, including union members and
-      nonunion members.
-- requirement: 8
-  text: |-
-      Discuss with your counselor the different goals that may motivate the
-      owners of a business, its stockholders, its customers, its employees, the
-      employees' representatives, the community, and public officials. Explain
-      why agreements and compromises are made and how they affect each group in
-      achieving its goals.
-- requirement: 9
-  text: |-
-      Learn about opportunities in the field of labor relations. Choose one
-      career in which you are interested and discuss with your counselor the
-      major responsibilities of that position and the qualifications, education,
-      and training such a position requires.
+-
+    requirement: 1
+    text: |-
+        Using resources available to you, learn about working people and
+        work-related concerns. List and briefly describe or give examples of at
+        least EIGHT concerns of American workers. These may include, but are not
+        limited to, working conditions, workplace safety, hours, wages,
+        seniority, job security, equal-opportunity employment and
+        discrimination, guest workers, automation and technologies that replace
+        workers, unemployment, layoffs, outsourcing, and employee benefits such
+        as health care, child care, profit sharing, continuing education, and
+        retirement benefits.
+    resources:
+        -
+            href: https://www.apa.org/pubs/reports/work-in-america/2025
+            text: |-
+                Job Insecurity Is Having a Significant Impact on a Majority of
+                U.S. Workers' (54%) Stress Levels,
+            type: website
+        -
+            href: >-
+                https://www.forbes.com/sites/jackkelly/2025/04/21/the-biggest-worries-and-concerns-of-workers/
+            text: The Biggest Worries and Concerns of Workers
+            type: website
+        -
+            href: https://youtu.be/S-Q0C_bJ2-E
+            text: 'AI Reshapes the Future of Work: Who''s Safe, Who''s Not?'
+            type: video
+        -
+            href: https://youtu.be/Xksv2EGG9ek
+            text: Why Childcare Has Become So Unaffordable
+            type: video
+        -
+            href: >-
+                https://www.psychologytoday.com/us/blog/putting-america-to-work/202501/the-silent-struggles-of-the-workforce
+            text: Burnout
+            type: website
+        -
+            href: https://youtube.com/shorts/jSxPPW7TRM4
+            text: Robots Replace Humans—So, What Jobs Are Left for Us?
+            type: video
+        -
+            href: https://youtu.be/JQZLR2-eheo
+            text: |-
+                Job Alert: New Study Highlights Increased Safety, Mental Health
+                Concerns Among Workers
+            type: video
+-
+    requirement: 2
+    text: |-
+        With your counselor's and parent or guardian's approval and permission,
+        visit the office or attend a meeting of a local union, a central labor
+        council, or an employee organization, or contact one of these
+        organizations via the internet. Then do the following:
+    children:
+        -
+            requirement: a
+            text: Find out what the organization does.
+            resources:
+                -
+                    href: https://youtu.be/0KjQpKkYfFQ
+                    text: What Is a Labor Union? How Do Unions Work? Find Out Now
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Share the list of issues and concerns you made for requirement
+                1. Ask the people you communicate with which issues are of
+                greatest interest or concern to them and why.
+        -
+            requirement: c
+            text: |-
+                Draw a diagram showing how the organization is structured, from
+                the local to the national level, if applicable.
+            resources:
+                -
+                    href: >-
+                        https://unioncoded.com/union-leadership-structure-a-guide-to-effective-organizational-hierarchy/
+                    text: |-
+                        Labor Union Hierarchy: A guide to an effective Union
+                        structure
+                    type: website
+-
+    requirement: 3
+    text: |-
+        Explain to your counselor what labor unions are, what they do, and what
+        services they provide to members. In your discussion, show that you
+        understand the concepts of labor, management, collective bargaining,
+        negotiation, union shops, open shops, grievance procedures, mediation,
+        arbitration, work stoppages, strikes, and lockouts.
+    resources:
+        -
+            href: https://youtu.be/GZwQn4G18_M
+            text: Trade Unions
+            type: video
+-
+    requirement: 4
+    text: |-
+        Explain what is meant by the adversarial model of labor-management
+        relations, compared with a cooperative-bargaining style.
+    resources:
+        -
+            href: >-
+                https://www.geeksforgeeks.org/finance/collective-bargaining-meaning-working-objectives-types-and-examples
+            text: |-
+                Collective Bargaining: Meaning, Working, Objectives, Types and
+                Examples
+            type: website
+        -
+            href: >-
+                https://www.ebsco.com/research-starters/business-and-management/adversarial-bargaining
+            text: Adversarial Bargaining
+            type: website
+-
+    requirement: 5
+    text: 'Do ONE of the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Develop a time line of significant events in the history of the
+                American labor movement from the 1770s to the present.
+            resources:
+                -
+                    href: https://aflcio.org/about-us/history/labor-history-events
+                    text: Labor History Time Line
+                    type: website
+                -
+                    href: https://youtu.be/ewu-v36szlE
+                    text: The Labor Movement in the United States
+                    type: video
+                -
+                    href: https://youtu.be/2xrnu_7dRrY
+                    text: The Rise of Labor Unions
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Prepare an exhibit, a scrapbook, or a computer presentation,
+                such as a slide show, illustrating three major achievements of
+                the American labor movement and how those achievements affect
+                American workers.
+            resources:
+                -
+                    href: https://aflcio.org/about-us/history/labor-history-events
+                    text: Key Events in Labor History
+                    type: website
+        -
+            requirement: c
+            text: |-
+                With your counselor's and parent or guardian's approval and
+                permission, watch a movie that addresses organized labor in the
+                United States. Afterward, discuss the movie with your counselor
+                and explain what you learned.
+            resources:
+                -
+                    href: https://youtu.be/4uCWdQYfMlI
+                    text: |-
+                        Labor Day Top 10—Movies About the Struggles of Workers
+                        Right
+                    type: video
+        -
+            requirement: d
+            text: |-
+                Read a biography (with your counselor's approval) of someone who
+                has made a contribution to the American labor movement. Explain
+                what contribution this person has made to the American labor
+                movement.
+            resources:
+                -
+                    href: >-
+                        https://history.osu.edu/publications/labor-leaders-america
+                    text: Labor Leaders in America
+                    type: website
+-
+    requirement: 6
+    text: |-
+        Explain the term globalization. Discuss with your counselor some effects
+        of globalization on the workforce in the United States. Explain how this
+        global workforce fits into the economic system of this country.
+    resources:
+        -
+            href: >-
+                https://www.numberanalytics.com/blog/impact-globalization-labor-markets#google_vignette
+            text: The Impact of Gloalization on Labor Markets
+            type: website
+        -
+            href: https://youtu.be/15d818t9UZ0
+            text: What Is Globalization?
+            type: video
+        -
+            href: https://youtu.be/wLNp3kgBuuQ
+            text: What Is Globalization? Understand Our Interconnected World
+            type: video
+-
+    requirement: 7
+    text: |-
+        Choose a labor issue of widespread interest to American workers - an
+        issue in the news currently or known to you from your work on this merit
+        badge. Before your counselor, or in writing, argue both sides of the
+        issue, first taking management's side, then presenting labor's or the
+        employee's point of view. In your presentation, summarize the basic
+        rights and responsibilities of employers and employees, including union
+        members and nonunion members.
+-
+    requirement: 8
+    text: |-
+        Discuss with your counselor the different goals that may motivate the
+        owners of a business, its stockholders, its customers, its employees,
+        the employees' representatives, the community, and public officials.
+        Explain why agreements and compromises are made and how they affect each
+        group in achieving its goals.
+    resources:
+        -
+            href: >-
+                https://fastercapital.com/content/Stakeholder-theory--How-to-Balance-the-Needs-and-Expectations-of-Different-Stakeholders.html
+            text: Stakeholder Theory
+            type: website
+-
+    requirement: 9
+    text: |-
+        Learn about opportunities in the field of labor relations. Choose one
+        career in which you are interested and discuss with your counselor the
+        major responsibilities of that position and the qualifications,
+        education, and training such a position requires.
+    resources:
+        -
+            href: >-
+                https://smlr.rutgers.edu/academic-programs/undergraduate-programs/bachelors-degrees-labor-employment-relations/career-options
+            text: Careers in Labor and Employment Relations
+            type: website
+        -
+            href: https://youtu.be/5_btNIdvEfo
+            text: What is Employee Relations?
+            type: video

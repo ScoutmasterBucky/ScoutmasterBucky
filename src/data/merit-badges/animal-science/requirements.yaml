@@ -1,247 +1,813 @@
-# 6b, horse option says "Using the four breeds of horses you chose in requirement 1" but the updated requirement 1 requires only two breeds to be identified.
-- requirement: 1
-  text: |-
-      Name two breeds of livestock in each of the following classifications:
-      horses, dairy cattle, beef cattle, sheep, hogs, poultry, and goats. Tell
-      their principal uses and merits. Tell where the breeds originated.
-- requirement: 2
-  text: |-
-      List two diseases that afflict the animals in each of the classifications
-      in requirement 1. Describe the symptoms of each disease and explain how
-      each is contracted and how it could be prevented.
-- requirement: 3
-  text: |-
-      Draw models of the digestive tracts of ruminants, horses, pigs, and
-      poultry. Explain how the differences in structure and function among these
-      types of digestive tracts affect the nutritional management of these
-      species.
-- requirement: 4
-  text: |-
-      Select one type of animal: beef cow, dairy cow, horse, sheep, goat, or hog,
-      or a poultry flock, and tell how you would properly manage it. Include in
-      your discussion nutritional (feeding) concerns, housing, disease
-      prevention, waste control/removal, breeding programs, and biosecurity as
-      appropriate.
-- requirement: 5
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain how agricultural producers make desired improvements to their
-            stock through breeding practices and programs.
-      - requirement: b
-        text: |-
-            Explain the terms pure breeding and cross breeding.
-      - requirement: c
-        text: |-
-            List two modern technologies used in the production of horses, dairy
-            cattle, beef cattle, sheep, hogs, poultry, or goats, and tell what the
-            advantages are of using the technology.
-- requirement: 6
-  text: |-
-      Complete ONE of the following options:
-  children:
-      - text: |-
-            <strong>Option A—Beef Cattle.</strong> Do ALL of the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Visit a farm or ranch where beef cattle are produced under any of
-                  these systems: feeding market cattle for harvest, cow/calf operation
-                  (producing cattle for sale to commercial feeders), or producing purebred
-                  cattle for sale as breeding stock to others.<br />
-                  Talk with the operator to learn how the cattle were handled, fed,
-                  weighed, and shipped. Describe what you saw and explain what you
-                  learned. If you cannot visit a cattle ranch or farm, view a video from a
-                  breed association, or research the internet (with your parent or
-                  guardian's permission) for information on beef cattle production. Tell
-                  about your findings.
-            - requirement: 2
-              text: |-
-                  Sketch a plan of a feedlot to include its forage and grain storage
-                  facilities, and loading chute for 30 or more fattening steers; or
-                  sketch a corral plan with cutting and loading chutes for handling 50 or
-                  more beef cows and their calves at one time.
-            - requirement: 3
-              text: |-
-                  Make a sketch showing the principal wholesale and retail cuts of beef.
-                  Tell about the U.S. Department of Agriculture (USDA) dual grading
-                  system of beef. Tell the basis of each grade in each system.
-            - requirement: 4
-              text: |-
-                  Define the following terms: bull, steer, bullock, cow, heifer,
-                  freemartin, heiferette, and calf.
-      - text: |-
-            <strong>Option B—Dairy.</strong> Do ALL of the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Tell how a cow or a goat converts forage and grain into milk. Explain
-                  the differences in feeds typically used for dairy cows versus those fed
-                  to beef cows.
-            - requirement: 2
-              text: |-
-                  Make a chart showing the components in cow's milk or goat's milk.
-                  Chart the amount of each component.
-            - requirement: 3
-              text: |-
-                  Explain the requirements for producing grade A milk. Tell how and why
-                  milk is pasteurized.
-            - requirement: 4
-              text: |-
-                  Tell about the kinds of equipment used for milking and the sanitation
-                  standards that must be met on dairy farms.
-            - requirement: 5
-              text: |-
-                  Define the following terms: bull, cow, steer, heifer, springer, buck,
-                  doe, and kid.
-            - requirement: 6
-              text: |-
-                  Visit a dairy farm or a milk processing plant. Describe what you saw
-                  and explain what you learned. If you cannot visit a dairy farm or
-                  processing plant, view a video from a breed or dairy association, or
-                  research the internet (with your parent or guardian's permission) for
-                  information on dairying. Tell about your findings.
-      - text: |-
-            <strong>Option C—Horse.</strong> Do ALL of the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Make a sketch of a useful saddle horse barn and exercise yard.
-            - requirement: 2
-              text: |-
-                  Tell about the history of the horse and the benefits it has brought to
-                  people. Using the four breeds of horses you chose in requirement 1,
-                  discuss the different special uses of each breed.
-            - requirement: 3
-              text: |-
-                  Define the following terms: mare, stallion, gelding, foal, colt, filly;
-                  mustang, quarter horse, draft horse, pacer, trotter; pinto, calico,
-                  palomino, roan, overo, and tobiano.
-            - requirement: 4
-              text: |-
-                  Visit a horse farm. Describe what you saw and explain what you learned.
-                  If you cannot visit a horse farm, view a video from a breed
-                  association, or research the internet (with your parent or guardian's
-                  permission) for information on horses. Tell about your findings.
-            - requirement: 5
-              text: |-
-                  Outline the proper feeding of a horse doing light work. Explain why the
-                  amount and kind of feed will change according to the kind of horse and
-                  the work it does. Describe what colic is, what can cause it, and its
-                  symptoms.
-      - text: |-
-            <b>Option D—Sheep or Goat.</b> Choose one and do ALL of the following
-            based upon the choice:
-        children:
-            - requirement: 1
-              text: |-
-                  Make a sketch of a live lamb or goat. Show the location of the various
-                  wholesale and retail cuts.
-            - requirement: 2
-              text: |-
-                  Discuss how wools are sorted and graded.
-            - requirement: 3
-              text: |-
-                  List products that can be made from the milk.
-            - requirement: 4
-              text: |-
-                  Based on your choice, do ONE of the following:
-              children:
-                  - requirement: a
+# 6c, horse option says "Using the four breeds of horses you chose in requirement 1" but the updated requirement 1 requires only two breeds to be identified.
+# AUTO: WARNING: Found URL ending with ".pdf" near "A Guide to U.S. Graded Chicken..." with resource type "website". This should be "pdf".
+# AUTO: WARNING: Found "website / video" resource type near "Chick-Tionary...". This should be "website with video".
+-
+    requirement: 1
+    text: |-
+        Name two breeds of livestock in each of the following classifications:
+        horses, dairy cattle, beef cattle, sheep, hogs, poultry, and goats. Tell
+        their principal uses and merits. Tell where the breeds originated.
+    resources:
+        -
+            href: https://youtu.be/qO_3pnlWtmE
+            text: Different Types of Cattle Breeds Every Farmer Should Know
+            type: video
+        -
+            href: https://youtu.be/FiBBNX8WszQ
+            text: Ten Popular Horse Breeds
+            type: video
+        -
+            href: https://youtu.be/X2dOtjQ7Afo
+            text: Top 5 Best Sheep Breeds for Meat, Wool and Milk Production
+            type: video
+        -
+            href: https://youtu.be/oVLwITCidx0
+            text: The 15 Best Pig Breeds for Your Farm
+            type: video
+        -
+            href: https://youtu.be/jctKRaHoiuQ
+            text: 5 Types of Chickens You Should Know About
+            type: video
+        -
+            href: https://youtu.be/3T2v89EsH_4
+            text: Top 10 Best Goat Breeds for Milk &amp; Meat Production
+            type: video
+-
+    requirement: 2
+    text: |-
+        List two diseases that afflict the animals in each of the
+        classifications in requirement 1. Describe the symptoms of each disease
+        and explain how each is contracted and how it could be prevented.
+    resources:
+        -
+            href: https://youtu.be/HV-D5o7fhcQ
+            text: 'Common Cattle Diseases: Treatment and Prevention'
+            type: video
+        -
+            href: https://youtu.be/_ZeUDXMmSXE
+            text: Health Problems in Horses
+            type: video
+        -
+            href: https://youtu.be/EwVUKrlCIm0
+            text: 20 Diseases of Goats and Sheep You Need to Know
+            type: video
+        -
+            href: https://youtu.be/CU9h9PFEFJQ
+            text: Hidden Truth About Common Diseases of Pigs
+            type: video
+        -
+            href: https://youtu.be/IaBcFGTvo1g
+            text: Unveiling the Dark Secrets of Common Poultry Diseases
+            type: video
+-
+    requirement: 3
+    text: |-
+        Draw models of the digestive tracts of ruminants, horses, pigs, and
+        poultry. Explain how the differences in structure and function among
+        these types of digestive tracts affect the nutritional management of
+        these species.
+    resources:
+        -
+            href: https://youtu.be/CJomFwt3eMs
+            text: Digestion in Grass Eating Animals
+            type: video
+        -
+            href: https://youtu.be/8lqk7igz9L4
+            text: The Horse's Digestive System
+            type: video
+        -
+            href: https://youtu.be/5OsmJ_ERO3g
+            text: Types of Livestock Digestive Systems
+            type: video
+-
+    requirement: 4
+    text: |-
+        Select one type of animal: beef cow, dairy cow, horse, sheep, goat, or
+        hog, or a poultry flock, and tell how you would properly manage it.
+        Include in your discussion nutritional (feeding) concerns, housing,
+        disease prevention, waste control/removal, breeding programs, and
+        biosecurity as appropriate.
+    resources:
+        -
+            href: https://youtu.be/JNCPdG8jSKI
+            text: |-
+                Raising Dexter Cattle for Beef: Everything You Ever Wanted to
+                Know
+            type: video
+        -
+            href: https://youtu.be/58wsqGWK1kk
+            text: 'How To Raise a Dairy Cow: Step-by-Step Guide for Beginners!'
+            type: video
+        -
+            href: https://youtu.be/_KpkB7X3wIM
+            text: How To Raise Sheep for Beginners on 2.5 Acres or Less
+            type: video
+        -
+            href: https://youtu.be/7rNbUVZjBc8
+            text: Raising Goats 101
+            type: video
+        -
+            href: https://youtu.be/h0D1N9oDEUE
+            text: An Introduction to Raising Pigs on Pasture
+            type: video
+        -
+            href: https://youtu.be/aQMLQo-u7Sc
+            text: 10 Things To Know Before You Buy Backyard Chickens
+            type: video
+-
+    requirement: 5
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain how agricultural producers make desired improvements to
+                their stock through breeding practices and programs.
+            resources:
+                -
+                    href: https://youtu.be/TZaHQV22zqM
+                    text: How to Breed a Better Chicken
+                    type: video
+        -
+            requirement: b
+            text: Explain the terms pure breeding and cross breeding.
+            resources:
+                -
+                    href: https://youtu.be/wjF1gxO0LmU
                     text: |-
-                        Raise a lamb or goat from weaning to market weight. Keep records of
-                        feed intake, weight gains, medication, vaccination, and mortality.
-                        Present your records to your counselor for review.
-                  - requirement: b
+                        How Crossbreeding Works—How to Move From Hybrid Goats to
+                        Pure Pedigree Lines in Goat Farming
+                    type: video
+        -
+            requirement: c
+            text: |-
+                List two modern technologies used in the production of horses,
+                dairy cattle, beef cattle, sheep, hogs, poultry, or goats, and
+                tell what the advantages are of using the technology.
+            resources:
+                -
+                    href: https://youtu.be/3kIAGwHSsns
+                    text: Using Nuclear Science to Improve Animal Breeding
+                    type: video
+                -
+                    href: https://youtu.be/wJynHHapJx8
                     text: |-
-                        Visit a farm or ranch where sheep or goats are raised. Describe
-                        what you saw and explain what you learned. If you cannot visit a
-                        sheep or goat farm or ranch, view a video from a breed association,
-                        or research the internet (with your parent or guardian's
-                        permission) for information on sheep or goats. Tell about your
-                        findings.
-            - requirement: 5
-              text: |-
-                  Define the following terms for a sheep (wether, ewe, ram, and lamb) OR a
-                  goat (doe, nanny, kid, buck, and billy).
-      - text: |-
-            <strong>Option E—Hog.</strong> Do ALL of the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Make a sketch showing the principal wholesale and retail cuts of pork.
-                  Tell about the recommended USDA grades of pork. Tell the basis for each
-                  grade.
-            - requirement: 2
-              text: |-
-                  Outline in writing the proper feeding programs used from the breeding
-                  of a gilt or sow through the weaning of the litter. Discuss the feeding
-                  programs for the growth and finishing periods.
-            - requirement: 3
-              text: |-
-                  Do ONE of the following:
-              children:
-                  - requirement: a
+                        Improving Health &amp; Fertility for Each Cow With
+                        MooMonitor+
+                    type: video
+                -
+                    href: https://youtu.be/KEDqZc1uYNQ
                     text: |-
-                        Raise a feeder pig from weaning to market weight. Keep records of
-                        feed intake, weight gains, medication, vaccination, and mortality.
-                        Present your records to your counselor for review.
-                  - requirement: b
+                        From Satellites to Sound: Practical AI Tools for Dairy
+                        and Poultry Farming
+                    type: video
+-
+    requirement: 6
+    text: 'Complete ONE of the following options:'
+    children:
+        -
+            text: '<strong>Option A—Beef Cattle.</strong> Do ALL of the following:'
+            children:
+                -
+                    requirement: 1
                     text: |-
-                        Visit a farm where hogs are produced, or visit a packing plant
-                        handling hogs. Describe what you saw and explain what you learned.
-                        If you cannot visit a hog production unit or packing plant, view a
-                        video from a packer or processor, or research the internet (with
-                        your parent or guardian's permission) for information on hogs. Tell
-                        about your findings.
-            - requirement: 4
-              text: |-
-                  Define the following terms: gilt, sow, barrow, and boar.
-      - text: |-
-            <strong>Option F—Avian.</strong> Do ALL of the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Make a sketch of a layer house or broiler house showing nests, roosts,
-                  feeders, waterers, and means of ventilation. Explain how insulation,
-                  ventilation, temperature controls, automatic lights, and other
-                  environmental controls are used to protect birds from heat, cold, and
-                  bad weather. Explain the importance of light for egg production.
-            - requirement: 2
-              text: |-
-                  Explain why overcrowding is dangerous for poultry flocks.
-            - requirement: 3
-              text: |-
-                  Tell about the grading of eggs. Describe the classes of chicken meat.
-            - requirement: 4
-              text: |-
-                  Do ONE of the following:
-              children:
-                  - requirement: a
+                        Visit a farm or ranch where beef cattle are produced
+                        under any of these systems: feeding market cattle for
+                        harvest, cow/calf operation (producing cattle for sale
+                        to commercial feeders), or producing purebred cattle for
+                        sale as breeding stock to others.
+                        <div class="gap"></div>
+                        Talk with the operator to learn how the cattle were
+                        handled, fed, weighed, and shipped. Describe what you
+                        saw and explain what you learned. If you cannot visit a
+                        cattle ranch or farm, view a video from a breed
+                        association, or research the internet (with your parent
+                        or guardian's permission) for information on beef cattle
+                        production. Tell about your findings.
+                    resources:
+                        -
+                            href: https://youtu.be/1kA7wQCIoqI
+                            text: |-
+                                A Tour of Our Cattle Ranch - 20,000+ Head of
+                                Cattle per Year
+                            type: video
+                -
+                    requirement: 2
                     text: |-
-                        Manage an egg-producing flock for five months. Keep records of feed
-                        purchased, eggs sold, medication, vaccination, and mortality.
-                        Present your records to your counselor for review.
-                  - requirement: b
+                        Sketch a plan of a feedlot to include its forage and
+                        grain storage facilities, and loading chute for 30 or
+                        more fattening steers; or sketch a corral plan with
+                        cutting and loading chutes for handling 50 or more beef
+                        cows and their calves at one time.
+                    resources:
+                        -
+                            href: >-
+                                https://bookstore.ksre.ksu.edu/pubs/planning-and-designing-cattle-feedlots_MF2316.pdf
+                            text: Planning and Designing Cattle Feedlots
+                            type: pdf
+                        -
+                            href: >-
+                                https://agrilifeextension.tamu.edu/wp-content/uploads/2025/06/Corral_Working_Facilities_for_Beef_Cattle_OSU_6.pdf
+                            text: Corral and Working Facilities for Beef Cattle
+                            type: pdf
+                -
+                    requirement: 3
                     text: |-
-                        Raise five chickens from hatching. Keep records of feed intake,
-                        weight gains, medication, vaccination, and mortality. Present your
-                        records to your counselor for review.
-                  - requirement: c
+                        Make a sketch showing the principal wholesale and retail
+                        cuts of beef. Tell about the U.S. Department of
+                        Agriculture (USDA) dual grading system of beef. Tell the
+                        basis of each grade in each system.
+                    resources:
+                        -
+                            href: https://youtu.be/ks83UksLbmg
+                            text: Basic Meat Cuts &amp; Grades
+                            type: video
+                        -
+                            href: >-
+                                https://www.webstaurantstore.com/guide/965/types-of-beef-cuts.html
+                            text: Types of Beef Cuts
+                            type: website
+                        -
+                            href: >-
+                                https://www.canr.msu.edu/montcalm-county/uploads/files/Market%20Beef%20Wholesale%20Cuts.pdf
+                            text: Beef Wholesale and Retail Cuts
+                            type: pdf
+                -
+                    requirement: 4
                     text: |-
-                        Visit a commercial avian production facility. Describe what you saw
-                        and explain what you learned. If you cannot visit a commercial
-                        facility, view a video from a poultry association, or research the
+                        Define the following terms: bull, steer, bullock, cow,
+                        heifer, freemartin, heiferette, and calf.
+                    resources:
+                        -
+                            href: https://youtu.be/GA-QnF7J4Wg
+                            text: |-
+                                What's the Difference Between a Steer vs. Bull?
+                                Cow vs. Heifer?
+                            type: video
+                        -
+                            href: >-
+                                https://thevetdesk.com/pet-lifestyle/cattle/how-tell-cattle-cow-bull-heifer-steer/
+                            text: |-
+                                How to Tell If Cattle Are Cows, Bulls, Heifers,
+                                or Steers
+                            type: website
+        -
+            text: '<strong>Option B—Dairy.</strong> Do ALL of the following:'
+            children:
+                -
+                    requirement: 1
+                    text: |-
+                        Tell how a cow or a goat converts forage and grain into
+                        milk. Explain the differences in feeds typically used
+                        for dairy cows versus those fed to beef cows.
+                    resources:
+                        -
+                            href: https://youtu.be/Vbwwl3lLOqw
+                            text: How Cows Create Milk—3D Animated Tour
+                            type: video
+                        -
+                            href: https://youtu.be/4PFmkRak8hw
+                            text: What Cows Eat To Produce Milk
+                            type: video
+                        -
+                            href: https://youtu.be/fsZl7-oLxWI
+                            text: How To Feed a Beef Cow (Corn vs Hay)
+                            type: video
+                -
+                    requirement: 2
+                    text: |-
+                        Make a chart showing the components in cow's milk or
+                        goat's milk. Chart the amount of each component.
+                    resources:
+                        -
+                            href: >-
+                                https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Animal%20Science/milk_components_graph_guidelines_worksheet.pdf
+                            text: Milk Components Chart
+                            type: pdf
+                        -
+                            href: >-
+                                https://www.healthline.com/nutrition/milk#nutrition
+                            text: 'Milk 101: Nutrition Facts and Health Effects'
+                            type: website
+                        -
+                            href: >-
+                                https://www.healthline.com/health/benefits-of-goat-milk#Goat-s-milk-vs-cow-s-milk
+                            text: 'Goat''s Milk: Is This the Right Milk for You?'
+                            type: website
+                -
+                    requirement: 3
+                    text: |-
+                        Explain the requirements for producing grade A milk.
+                        Tell how and why milk is pasteurized.
+                    resources:
+                        -
+                            href: https://youtu.be/yJ3TqOXRqk4
+                            text: What Is Pasteurization?
+                            type: video
+                -
+                    requirement: 4
+                    text: |-
+                        Tell about the kinds of equipment used for milking and
+                        the sanitation standards that must be met on dairy
+                        farms.
+                    resources:
+                        -
+                            href: https://youtu.be/JfLTcy15Tik
+                            text: |-
+                                How Are Cows Actually Milked? Explained by a
+                                Dairy Veterinarian
+                            type: video
+                -
+                    requirement: 5
+                    text: |-
+                        Define the following terms: bull, cow, steer, heifer,
+                        springer, buck, doe, and kid.
+                    resources:
+                        -
+                            href: https://merrymeadowsok.com/goat-terminology-101/
+                            text: Goat Terminology
+                            type: website
+                -
+                    requirement: 6
+                    text: |-
+                        Visit a dairy farm or a milk processing plant. Describe
+                        what you saw and explain what you learned. If you cannot
+                        visit a dairy farm or processing plant, view a video
+                        from a breed or dairy association, or research the
                         internet (with your parent or guardian's permission) for
-                        information on poultry production. Tell about your findings.
-            - requirement: 5
-              text: |-
-                  Define the following terms: chick, pullet, hen, cockerel, cock, and capon.
-- requirement: 7
-  text: |-
-      Find out about three career opportunities in animal science. Pick one and
-      find out the education, training, and experience required for this
-      profession. Discuss this with your counselor, and explain why this
-      profession might interest you.
+                        information on dairying. Tell about your findings.
+                    resources:
+                        -
+                            href: https://youtu.be/1hrLeSQSdw4
+                            text: |-
+                                Guided Barn Tour! Modern Dairy Farm Tour (Part
+                                1)
+                            type: video
+                        -
+                            href: https://youtu.be/U32W389XDbo
+                            text: |-
+                                Robotic Dairy Barn Tour (Part 2)—The One You've
+                                Been Asking For
+                            type: video
+                        -
+                            href: https://youtu.be/uhXNHVlQnBc
+                            text: |-
+                                How They Process Milk In Factory With Modern
+                                Food Processing Technology | How It's Made
+                            type: video
+        -
+            text: '<strong>Option C—Horse.</strong> Do ALL of the following:'
+            children:
+                -
+                    requirement: 1
+                    text: |-
+                        Make a sketch of a useful saddle horse barn and exercise
+                        yard.
+                -
+                    requirement: 2
+                    text: |-
+                        Tell about the history of the horse and the benefits it
+                        has brought to people. Using the four breeds of horses
+                        you chose in requirement 1, discuss the different
+                        special uses of each breed.
+                    resources:
+                        -
+                            href: https://youtu.be/px9Ljv0bits
+                            text: How Horses Went From Food to Friends
+                            type: video
+                        -
+                            href: https://youtu.be/kZoTvXvV02A
+                            text: How Horses Took Over North America (Twice)
+                            type: video
+                        -
+                            href: https://youtu.be/FRuSrJXs5-Q
+                            text: Where Did Domesticated Horses Come From?
+                            type: video
+                -
+                    requirement: 3
+                    text: |-
+                        Define the following terms: mare, stallion, gelding,
+                        foal, colt, filly; mustang, quarter horse, draft horse,
+                        pacer, trotter; pinto, calico, palomino, roan, overo,
+                        and tobiano.
+                    resources:
+                        -
+                            href: https://youtu.be/jWkWetXkgO8
+                            text: |-
+                                What's the Difference Between a Mare, Stallion,
+                                Gelding, Colt, and a Pony?
+                            type: video
+                        -
+                            href: >-
+                                https://www.tiktok.com/@spendthriftfarm/video/7042307754253356335
+                            text: Understanding Common Horse Terms
+                            type: video
+                        -
+                            href: >-
+                                https://www.willowbrookridingcentre.co.uk/mustang-horse-facts/
+                            text: |-
+                                10 Facts About Mustang Horses That Make Them So
+                                Special
+                            type: website
+                        -
+                            href: >-
+                                https://horsenameideas.com/draft-horse-vs-quarter-horse/
+                            text: |-
+                                Draft Horse vs Quarter Horse: Comprehensive
+                                Comparison Guide
+                            type: website
+                        -
+                            href: https://insiderhorse.com/horse-coat-patterns/
+                            text: |-
+                                The Different Coat Patterns Found in Horses
+                                &amp; How to Identify Them
+                            type: website
+                -
+                    requirement: 4
+                    text: |-
+                        Visit a horse farm. Describe what you saw and explain
+                        what you learned. If you cannot visit a horse farm, view
+                        a video from a breed association, or research the
+                        internet (with your parent or guardian's permission) for
+                        information on horses. Tell about your findings.
+                    resources:
+                        -
+                            href: https://youtu.be/NbXQn8-VMww
+                            text: |-
+                                Inside Claiborne Farm—Home of Secretariat &amp;
+                                Racing Legends
+                            type: video
+                -
+                    requirement: 5
+                    text: |-
+                        Outline the proper feeding of a horse doing light work.
+                        Explain why the amount and kind of feed will change
+                        according to the kind of horse and the work it does.
+                        Describe what colic is, what can cause it, and its
+                        symptoms.
+                    resources:
+                        -
+                            href: https://youtu.be/DqN3Ps01Qp8
+                            text: The 7 Golden Rules of Feeding Horses
+                            type: video
+                        -
+                            href: https://youtu.be/uB-o9e6_rxM
+                            text: |-
+                                Colic in Horses: Horse Vet Explains What Owners
+                                Should Know
+                            type: video
+        -
+            text: |-
+                <b>Option D—Sheep or Goat.</b> Choose one and do ALL of the
+                following based upon the choice:
+            children:
+                -
+                    requirement: 1
+                    text: |-
+                        Make a sketch of a live lamb or goat. Show the location
+                        of the various wholesale and retail cuts.
+                    resources:
+                        -
+                            href: https://youtu.be/vP_OH7FI-4Y
+                            text: Lamb &amp; Goat Cuts
+                            type: video
+                        -
+                            href: >-
+                                https://www.webstaurantstore.com/guide/1273/types-of-lamb-cuts.html
+                            text: Types of Lamb Cuts
+                            type: website
+                -
+                    requirement: 2
+                    text: Discuss how wools are sorted and graded.
+                    resources:
+                        -
+                            href: https://youtu.be/twn79JnSZj8
+                            text: 'Mid States Wool: Grading Process'
+                            type: video
+                        -
+                            href: https://youtu.be/0Owp99Xi8is
+                            text: British Wool—Wool Grading and Selling at Auction
+                            type: video
+                -
+                    requirement: 3
+                    text: List products that can be made from the milk.
+                    resources:
+                        -
+                            href: >-
+                                https://agritopic.com/dairy-industry/dairy-products-list-a-comprehensive-guide/
+                            text: |-
+                                Dairy Products List: 50+ Dairy Foods (What
+                                Counts As Dairy?)
+                            type: website
+                -
+                    requirement: 4
+                    text: 'Based on your choice, do ONE of the following:'
+                    children:
+                        -
+                            requirement: a
+                            text: |-
+                                Raise a lamb or goat from weaning to market
+                                weight. Keep records of feed intake, weight
+                                gains, medication, vaccination, and mortality.
+                                Present your records to your counselor for
+                                review.
+                            resources:
+                                -
+                                    href: >-
+                                        https://ia601306.us.archive.org/26/items/GuideToSheepAndGoatProduction/Guide-to-Sheep-and-Goat-Production.pdf
+                                    text: |-
+                                        Illustrated Guide to Sheep and Goat
+                                        Production
+                                    type: pdf
+                                -
+                                    href: >-
+                                        https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Animal%20Science/lamb_goat_market_record_fillable_polished_v2.pdf
+                                    text: Lamb or Goat Record Book
+                                    type: pdf
+                                -
+                                    href: >-
+                                        https://threelittlegoats.com/free-goat-health-printable/
+                                    text: Goat Record Book
+                                    type: pdf
+                                -
+                                    href: >-
+                                        https://mamaonthehomestead.com/wp-content/uploads/2021/11/The-Sheep-Record-Book.pdf
+                                    text: Sheep Record Book
+                                    type: pdf
+                        -
+                            requirement: b
+                            text: |-
+                                Visit a farm or ranch where sheep or goats are
+                                raised. Describe what you saw and explain what
+                                you learned. If you cannot visit a sheep or goat
+                                farm or ranch, view a video from a breed
+                                association, or research the internet (with your
+                                parent or guardian's permission) for information
+                                on sheep or goats. Tell about your findings.
+                            resources:
+                                -
+                                    href: https://youtu.be/iYpfK-GXJ9c
+                                    text: |-
+                                        Redwood Hill Goat Farm: The Land of
+                                        Happy Goats!
+                                    type: video
+                                -
+                                    href: https://youtu.be/gfuc7mRPEpw
+                                    text: Flax Family Farms—Utica Kansas
+                                    type: video
+                                -
+                                    href: https://youtu.be/AATXu2Hl07I
+                                    text: |-
+                                        1000 Sheep: Expert Farmer Interview and
+                                        Farm Tour of Slatted Shed, Handling
+                                        System and Sheep
+                                    type: video
+                -
+                    requirement: 5
+                    text: |-
+                        Define the following terms for a sheep (wether, ewe,
+                        ram, and lamb) OR a goat (doe, nanny, kid, buck, and
+                        billy).
+                    resources:
+                        -
+                            href: https://www.sheep101.info/sheepandlambs.html
+                            text: Sheep Terminology
+                            type: website
+                        -
+                            href: https://merrymeadowsok.com/goat-terminology-101/
+                            text: Goat Terminology
+                            type: website
+        -
+            text: '<strong>Option E—Hog.</strong> Do ALL of the following:'
+            children:
+                -
+                    requirement: 1
+                    text: |-
+                        Make a sketch showing the principal wholesale and retail
+                        cuts of pork. Tell about the recommended USDA grades of
+                        pork. Tell the basis for each grade.
+                    resources:
+                        -
+                            href: >-
+                                https://www.farmcreditofvirginias.com/sites/default/files/Knowledge%20Center%20Assets/Youth%20Showbox/Retail%20Cuts%20of%20Pork-Infographic.pdf
+                            text: Retail Cuts of Pork
+                            type: pdf
+                        -
+                            href: >-
+                                https://www.webstaurantstore.com/guide/1114/types-of-pork-cuts.html
+                            text: Types of Pork Cuts
+                            type: website
+                -
+                    requirement: 2
+                    text: |-
+                        Outline in writing the proper feeding programs used from
+                        the breeding of a gilt or sow through the weaning of the
+                        litter. Discuss the feeding programs for the growth and
+                        finishing periods.
+                    resources:
+                        -
+                            href: >-
+                                https://www.asi.k-state.edu/extension/swine/swinenutritionguide/
+                            text: Swine Nutrition Guide
+                            type: website
+                        -
+                            href: >-
+                                https://americankunekunepigsociety.org/feeding-kunekunes/
+                            text: Feeding Kunekunes
+                            type: website
+                -
+                    requirement: 3
+                    text: 'Do ONE of the following:'
+                    children:
+                        -
+                            requirement: a
+                            text: |-
+                                Raise a feeder pig from weaning to market
+                                weight. Keep records of feed intake, weight
+                                gains, medication, vaccination, and mortality.
+                                Present your records to your counselor for
+                                review.
+                            resources:
+                                -
+                                    href: >-
+                                        https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Animal%20Science/pig_market_record_fillable_polished_v2.pdf
+                                    text: Pig Project Record Book
+                                    type: pdf
+                        -
+                            requirement: b
+                            text: |-
+                                Visit a farm where hogs are produced, or visit a
+                                packing plant handling hogs. Describe what you
+                                saw and explain what you learned. If you cannot
+                                visit a hog production unit or packing plant,
+                                view a video from a packer or processor, or
+                                research the internet (with your parent or
+                                guardian's permission) for information on hogs.
+                                Tell about your findings.
+                            resources:
+                                -
+                                    href: https://youtu.be/jSXeWwyymbA
+                                    text: |-
+                                        The Industrial Meat Machine: How
+                                        Thousands of Pigs Are Processed Daily
+                                    type: video
+                -
+                    requirement: 4
+                    text: 'Define the following terms: gilt, sow, barrow, and boar.'
+                    resources:
+                        -
+                            href: >-
+                                https://www.porkcdn.com/sites/porkorg/library/2016/10/Pigtionary.pdf
+                            text: Pigtionary
+                            type: pdf
+        -
+            text: '<strong>Option F—Avian.</strong> Do ALL of the following:'
+            children:
+                -
+                    requirement: 1
+                    text: |-
+                        Make a sketch of a layer house or broiler house showing
+                        nests, roosts, feeders, waterers, and means of
+                        ventilation. Explain how insulation, ventilation,
+                        temperature controls, automatic lights, and other
+                        environmental controls are used to protect birds from
+                        heat, cold, and bad weather. Explain the importance of
+                        light for egg production.
+                    resources:
+                        -
+                            href: >-
+                                https://agriculture.institute/poultry-housing-and-management/designing-layer-houses-buildings-dimensions-cage-arrangements/
+                            text: |-
+                                Designing Layer Houses: Buildings, Dimensions,
+                                and Cage Arrangements
+                            type: website
+                        -
+                            href: >-
+                                https://agriculture.institute/poultry-housing-and-management/constructing-broiler-house-area-dimensions-tips/
+                            text: |-
+                                Guidelines for Constructing a Broiler House:
+                                Area, Dimensions, and Construction Tips
+                            type: website
+                -
+                    requirement: 2
+                    text: |-
+                        Explain why overcrowding is dangerous for poultry
+                        flocks.
+                    resources:
+                        -
+                            href: https://youtu.be/uwUg5eIclHQ
+                            text: 'The #1 Mistake Chicken Keepers Make'
+                            type: video
+                -
+                    requirement: 3
+                    text: |-
+                        Tell about the grading of eggs. Describe the classes of
+                        chicken meat.
+                    resources:
+                        -
+                            href: https://youtu.be/toMJUI33kAo
+                            text: The Difference Between Grade AA, A, and B Eggs
+                            type: video
+                        -
+                            href: >-
+                                https://www.ams.usda.gov/sites/default/files/media/PoultryPictureSeriesPrintVersion.pdf
+                            text: A Guide to U.S. Graded Chicken
+                            type: pdf
+                -
+                    requirement: 4
+                    text: 'Do ONE of the following:'
+                    children:
+                        -
+                            requirement: a
+                            text: |-
+                                Manage an egg-producing flock for five months.
+                                Keep records of feed purchased, eggs sold,
+                                medication, vaccination, and mortality. Present
+                                your records to your counselor for review.
+                            resources:
+                                -
+                                    href: >-
+                                        https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Animal%20Science/egg_record_book_fillable_polished_v2.pdf
+                                    text: Egg Producing Record Book (Fillable)
+                                    type: pdf
+                        -
+                            requirement: b
+                            text: |-
+                                Raise five chickens from hatching. Keep records
+                                of feed intake, weight gains, medication,
+                                vaccination, and mortality. Present your records
+                                to your counselor for review.
+                            resources:
+                                -
+                                    href: >-
+                                        https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Animal%20Science/chicken_growth_record_fillable_polished_v2.pdf
+                                    text: Chicken Growth Record Book
+                                    type: pdf
+                        -
+                            requirement: c
+                            text: |-
+                                Visit a commercial avian production facility.
+                                Describe what you saw and explain what you
+                                learned. If you cannot visit a commercial
+                                facility, view a video from a poultry
+                                association, or research the internet (with your
+                                parent or guardian's permission) for information
+                                on poultry production. Tell about your findings.
+                            resources:
+                                -
+                                    href: https://youtu.be/-ZBXNpLQ1Y0
+                                    text: |-
+                                        Inside the Chicken Factory: Processing
+                                        Millions of Chickens for Meat
+                                    type: video
+                -
+                    requirement: 5
+                    text: |-
+                        Define the following terms: chick, pullet, hen,
+                        cockerel, cock, and capon.
+                    resources:
+                        -
+                            href: >-
+                                https://mannapro.com/blogs/news/chicken-terminology-101
+                            text: Chick-Tionary
+                            type: website with video
+-
+    requirement: 7
+    text: |-
+        Find out about three career opportunities in animal science. Pick one
+        and find out the education, training, and experience required for this
+        profession. Discuss this with your counselor, and explain why this
+        profession might interest you.
+    resources:
+        -
+            href: https://youtu.be/8ddpezxPp-Q
+            text: Beef Industry—Careers in Animal Sciences
+            type: video
+        -
+            href: https://youtu.be/R3FvgnSItWc
+            text: Dairy Industry—Careers in Animal Sciences
+            type: video
+        -
+            href: https://youtu.be/bON5Fjaaecc
+            text: Dr. Shannon Pratt Phillips, Department of Animal Science
+            type: video
+        -
+            href: https://youtu.be/MyiEsyIx-3k
+            text: Swine Industry—Careers in Animal Sciences
+            type: video
+        -
+            href: https://youtu.be/TrFNNR8xF_o
+            text: Poultry Industry—Careers in Animal Sciences
+            type: video
+        -
+            href: https://youtu.be/LdoSp8TaNVk
+            text: NC State Veterinary Medicine | Extraordinary Opportunity
+            type: video
+        -
+            href: https://youtu.be/00UQQttaXUs
+            text: 10 Rewarding Careers Working With Horses
+            type: video
+        -
+            href: https://interviewguy.com/jobs-for-animal-science-majors/
+            text: 30 Jobs for Animal Science Majors (Taming the Job Jungle)
+            type: website

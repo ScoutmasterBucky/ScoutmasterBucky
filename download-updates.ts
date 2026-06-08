@@ -3,7 +3,6 @@
 import chalk from 'chalk';
 import jsonStableStringify from 'json-stable-stringify';
 import neodoc from 'neodoc';
-import { parseHTML } from 'linkedom';
 import path from 'node:path';
 import * as prettier from 'prettier';
 import { getDocument } from 'pdfjs-dist/legacy/build/pdf.mjs';
@@ -447,7 +446,7 @@ async function downloadMeritBadges(updated: UpdatedSingle, args: Args) {
     const indexUrl = 'https://www.scouting.org/skills/merit-badges/all/';
     const links = await getHtmlDom(
         indexUrl,
-        '.mb-cards-grid article .mb-title a'
+        '.mb-cards-grid article .mb-card-name a'
     );
 
     // Resolve all links
@@ -670,7 +669,7 @@ async function downloadTestLab(updated: UpdatedSingle, args: Args) {
     debugDownloadTestLab(
         'Retrieving list of links to individual Test Lab pages from index page'
     );
-    const links = await getHtmlDom(indexUrl, '[data-id="8f1ed05"] a');
+    const links = await getHtmlDom(indexUrl, '[data-id="8f1ed05"] > div:not(.elementor-hidden-desktop.elementor-hidden-tablet.elementor-hidden-mobile) a');
 
     // Resolve all links
     const resolvedLinks: [string, string][] = [];

@@ -1,143 +1,363 @@
-- requirement: 1
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain to your counselor the hazards you are most likely to encounter
-            while participating in kayaking activities, including weather and
-            water-related hazards, and what you should do to anticipate, help
-            prevent, mitigate, and respond to these hazards.
-      - requirement: b
-        text: |-
-            Review prevention, symptoms, and first-aid treatment for the following
-            injuries or illnesses that can occur while kayaking: blisters,
-            cold-water shock and hypothermia, heat-related illnesses, dehydration,
-            sunburn, sprains, and strains.
-      - requirement: c
-        text: |-
-            Review the Scouting America Safety Afloat policy. Explain to your
-            counselor how this applies to kayaking.
-- requirement: 2
-  text: |-
-      Before doing requirements 3 through 8, successfully complete the Scouting
-      America swimmer test.
-      <div class="gap"></div>
-      <b>Note:</b> See the <a href="../swimming/"><i>Swimming</a> merit badge</a>
-      pamphlet for details about the Scouting America swimmer test.
-- requirement: 3
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Review the characteristics of life jackets most appropriate for
-            kayaking and understand why one must always be worn while paddling.
-            Then demonstrate how to select and fit a life jacket for kayaking.
-      - requirement: b
-        text: |-
-            Review the importance of safety equipment such as a signal device,
-            extra paddle, sponge, bilge pump, flotation bags, and throw bag.
-- requirement: 4
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Name and point out the major parts of a kayak.
-      - requirement: b
-        text: |-
-            Review the differences in the design between recreational, whitewater,
-            and sea or touring kayaks. Include how length, width, stability, and
-            rocker are involved in the design of each type.
-      - requirement: c
-        text: |-
-            Explain the care, maintenance, and storage of a kayak.
-- requirement: 5
-  text: |-
-      Discuss the following:
-  children:
-      - requirement: a
-        text: |-
-            Correct methods for the use of a kayak paddle
-      - requirement: b
-        text: |-
-            Parts of a paddle
-      - requirement: c
-        text: |-
-            The care and maintenance of a paddle
-- requirement: 6
-  text: |-
-      Using a properly equipped kayak with an open cockpit, a sit-on-top, or an
-      inflatable kayak, do the following:
-  children:
-      - requirement: a
-        text: |-
-            Safely capsize and perform a wet exit.
-      - requirement: b
-        text: |-
-            Reenter the kayak with assistance from a buddy boat.
-      - requirement: c
-        text: |-
-            Demonstrate a kayak-over-kayak rescue.
-      - requirement: d
-        text: |-
-            Demonstrate the HELP position.
-      - requirement: e
-        text: |-
-            Capsize the kayak, swim it and the paddle to shore, and empty water
-            from the kayak with assistance if needed.
-- requirement: 7
-  text: |-
-      As a solo paddler, use a properly equipped kayak to demonstrate the
-      following:
-  children:
-      - requirement: a
-        text: |-
-            Forward stroke
-      - requirement: b
-        text: |-
-            Backstroke
-      - requirement: c
-        text: |-
-            Forward sweep
-      - requirement: d
-        text: |-
-            Reverse sweep
-      - requirement: e
-        text: |-
-            Draw stroke
-      - requirement: f
-        text: |-
-            Stern draw
-- requirement: 8
-  text: |-
-      As a solo paddler, use a properly equipped kayak to demonstrate the
-      following:
-  children:
-      - requirement: a
-        text: |-
-            Paddle a straight line for 15 to 20 boat lengths using appropriate
-            strokes while maintaining trim and balance of the kayak.
-      - requirement: b
-        text: |-
-            Spin or pivot from a stationary position 180 degrees (half circle) to
-            the right and left within two boat lengths.
-      - requirement: c
-        text: |-
-            Move abeam to the right 10 feet and to the left 10 feet.
-      - requirement: d
-        text: |-
-            Stop the boat in one boat length.
-      - requirement: e
-        text: |-
-            While maintaining forward motion, turn the kayak 90 degrees to the
-            right and left.
-      - requirement: f
-        text: |-
-            Move the kayak backward three to four boat lengths using appropriate
-            and effective reverse strokes.
-      - requirement: g
-        text: |-
-            Paddle the kayak in a buoyed figure 8 course around markers three to
-            four boat lengths apart.
+-
+    requirement: 1
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain to your counselor the hazards you are most likely to
+                encounter while participating in kayaking activities, including
+                weather and water-related hazards, and what you should do to
+                anticipate, help prevent, mitigate, and respond to these
+                hazards.
+            resources:
+                -
+                    href: https://youtu.be/xUUX1VI7i1I
+                    text: |-
+                        Kayaking Tips—Cold Water and Winter Paddling (Wear,
+                        Gear, and Risks)
+                    type: video
+                -
+                    href: https://youtu.be/WMU4jNmlCQA
+                    text: Top 5 Kayak Safety Rules for Beginners
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Review prevention, symptoms, and first-aid treatment for the
+                following injuries or illnesses that can occur while kayaking:
+                blisters, cold-water shock and hypothermia, heat-related
+                illnesses, dehydration, sunburn, sprains, and strains.
+            resources:
+                -
+                    href: https://youtu.be/Kr2ouLj1oW0
+                    text: OSHA Heat Illness Prevention Campaign
+                    type: video
+                -
+                    href: https://youtu.be/u0sLzfq_w9s
+                    text: How To Treat a Sunburn
+                    type: video
+                -
+                    href: https://youtu.be/iLbL7fffGAk
+                    text: First Aid Kit for Kayaking—What's in It?
+                    type: video
+                -
+                    href: https://youtu.be/rH3gZuSr6Y8
+                    text: Cold Water Shock—How To Deal With Cold Water Shock
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Review the Scouting America Safety Afloat policy. Explain to
+                your counselor how this applies to kayaking.
+            resources:
+                -
+                    href: >-
+                        https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/
+                    text: Safety Afloat
+                    type: website
+-
+    requirement: 2
+    text: |-
+        Before doing requirements 3 through 8, successfully complete the
+        Scouting America swimmer test.
+        <div class="gap"></div>
+        <i><b>NOTE:</b> See the <a
+        href="/merit-badges/swimming/"><i>Swimming</i> merit badge</a> pamphlet
+        for details about the Scouting America swimmer test.</i>
+    resources:
+        -
+            href: >-
+                https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf
+            text: <i>Swimming</i> Merit Badge Pamphlet
+            type: pdf
+-
+    requirement: 3
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Review the characteristics of life jackets most appropriate for
+                kayaking and understand why one must always be worn while
+                paddling. Then demonstrate how to select and fit a life jacket
+                for kayaking.
+            resources:
+                -
+                    href: https://youtu.be/4y9XPNy1L1U
+                    text: How To Choose the Right Life Jacket
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Review the importance of safety equipment such as a signal
+                device, extra paddle, sponge, bilge pump, flotation bags, and
+                throw bag.
+            resources:
+                -
+                    href: https://youtu.be/L7DkmwqfcLI
+                    text: |-
+                        Essential Gear That All Paddlers Need To Carry On the
+                        Water
+                    type: video
+                -
+                    href: https://youtu.be/-z_h6ShvsHU
+                    text: |-
+                        Kayak Safety: How To Use a Kayak Bilge Pump (How To Get
+                        Water out of Your Kayak)
+                    type: video
+                -
+                    href: https://youtu.be/xcl4I8V2Pfg
+                    text: Must Have Paddling Safety Gear | How To Kayak or Canoe
+                    type: video
+-
+    requirement: 4
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: Name and point out the major parts of a kayak.
+            resources:
+                -
+                    href: https://youtu.be/JJGYUG8Bfxc
+                    text: Kayak Overview
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Review the differences in the design between recreational,
+                whitewater, and sea or touring kayaks. Include how length,
+                width, stability, and rocker are involved in the design of each
+                type.
+            resources:
+                -
+                    href: https://youtu.be/2xlCx8ckfR8
+                    text: |-
+                        How To Choose the Right Kayak for All Types of Flatwater
+                        Paddlers
+                    type: video
+        -
+            requirement: c
+            text: Explain the care, maintenance, and storage of a kayak.
+            resources:
+                -
+                    href: https://youtu.be/DThGAXJ8hM8
+                    text: How To Clean and Maintain Your Kayak
+                    type: video
+-
+    requirement: 5
+    text: 'Discuss the following:'
+    children:
+        -
+            requirement: a
+            text: Correct methods for the use of a kayak paddle
+            resources:
+                -
+                    href: https://youtu.be/RZLtB7BmNAc
+                    text: How To Hold a Kayak Paddle
+                    type: video
+                -
+                    href: https://youtu.be/v0-efrwppWQ
+                    text: Proper Technique for Paddling a Kayak
+                    type: video
+        -
+            requirement: b
+            text: Parts of a paddle
+            resources:
+                -
+                    href: >-
+                        https://www.boat-ed.com/paddlesports/paddlesports/studyGuide/Kayak-Paddles/11109901_52043/
+                    text: Kayak Paddles
+                    type: website
+        -
+            requirement: c
+            text: The care and maintenance of a paddle
+            resources:
+                -
+                    href: >-
+                        https://floridasplendors.com/kayak-paddle-maintenance-essential-tips/
+                    text: Kayak Paddle Maintenance
+                    type: website
+-
+    requirement: 6
+    text: |-
+        Using a properly equipped kayak with an open cockpit, a sit-on-top, or
+        an inflatable kayak, do the following:
+    children:
+        -
+            requirement: a
+            text: Safely capsize and perform a wet exit.
+            resources:
+                -
+                    href: https://youtu.be/blJFzirv3-E
+                    text: Kayak Wet Exit—How To Get Out of Your Kayak
+                    type: video
+        -
+            requirement: b
+            text: Reenter the kayak with assistance from a buddy boat.
+            resources:
+                -
+                    href: https://youtu.be/O_-a5ngnRew
+                    text: How To Re-Enter a Sit Inside Kayak for Beginners
+                    type: video
+                -
+                    href: https://youtu.be/YSRCAdCSj8Q
+                    text: |-
+                        Sea Kayak T-Rescue: Deep Water Rescue / How To Get Back
+                        in Your Kayak With Help
+                    type: video
+                -
+                    href: https://youtu.be/wE5y_DW2h04
+                    text: Master the Sea Kayak Scoop Rescue for Injured Paddlers
+                    type: video
+                -
+                    href: https://youtu.be/j-zpJQeiaNc
+                    text: Heel Hook—Kayak Rescue
+                    type: video
+        -
+            requirement: c
+            text: Demonstrate a kayak-over-kayak rescue.
+            resources:
+                -
+                    href: https://youtu.be/YSRCAdCSj8Q
+                    text: |-
+                        Sea Kayak T-Rescue: Deep Water Rescue / How To Get Back
+                        in Your Kayak With Help
+                    type: video
+        -
+            requirement: d
+            text: Demonstrate the HELP position.
+            resources:
+                -
+                    href: https://youtu.be/Z5X1K1I8xEc
+                    text: Help/Huddle Position
+                    type: video
+        -
+            requirement: e
+            text: |-
+                Capsize the kayak, swim it and the paddle to shore, and empty
+                water from the kayak with assistance if needed.
+            resources:
+                -
+                    href: https://youtu.be/ykvS7iHeC_g
+                    text: White Water Kayak—Swim to Shore
+                    type: video
+-
+    requirement: 7
+    text: |-
+        As a solo paddler, use a properly equipped kayak to demonstrate the
+        following:
+    children:
+        -
+            requirement: a
+            text: Forward stroke
+            resources:
+                -
+                    href: https://youtu.be/yz00070X04o
+                    text: Kayak Forward Stroke
+                    type: video
+        -
+            requirement: b
+            text: Backstroke
+            resources:
+                -
+                    href: https://youtu.be/O-feCLPf-qw
+                    text: Kayak Reverse Stroke
+                    type: video
+        -
+            requirement: c
+            text: Forward sweep
+            resources:
+                -
+                    href: https://youtu.be/GWpaWh8AcZw
+                    text: Kayak Sweep Strokes
+                    type: video
+        -
+            requirement: d
+            text: Reverse sweep
+            resources:
+                -
+                    href: https://youtu.be/O-feCLPf-qw
+                    text: Kayak Reverse Stroke
+                    type: video
+        -
+            requirement: e
+            text: Draw stroke
+            resources:
+                -
+                    href: https://youtu.be/H3G8Viju93I
+                    text: Kayak Draw Stroke—In Water Recovery
+                    type: video
+        -
+            requirement: f
+            text: Stern draw
+            resources:
+                -
+                    href: https://youtu.be/0bWe37-jaD8
+                    text: Stern Draw
+                    type: video
+-
+    requirement: 8
+    text: |-
+        As a solo paddler, use a properly equipped kayak to demonstrate the
+        following:
+    children:
+        -
+            requirement: a
+            text: |-
+                Paddle a straight line for 15 to 20 boat lengths using
+                appropriate strokes while maintaining trim and balance of the
+                kayak.
+            resources:
+                -
+                    href: https://youtu.be/7CThukQ8b0s
+                    text: Paddling a Kayak in a Straight Line
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Spin or pivot from a stationary position 180 degrees (half
+                circle) to the right and left within two boat lengths.
+            resources:
+                -
+                    href: https://youtu.be/eKGsnIat1NQ
+                    text: |-
+                        Fast Sea Kayak Turn—Turning a Sea Kayak 180 Degrees
+                        Efficiently
+                    type: video
+        -
+            requirement: c
+            text: Move abeam to the right 10 feet and to the left 10 feet.
+            resources:
+                -
+                    href: https://youtu.be/1j1DuKmZk1o
+                    text: How To Turn a Kayak
+                    type: video
+        -
+            requirement: d
+            text: Stop the boat in one boat length.
+            resources:
+                -
+                    href: https://youtu.be/kRUpSLUFMII
+                    text: Paddle Strokes, the Emergency Stopping Procedure
+                    type: video
+        -
+            requirement: e
+            text: |-
+                While maintaining forward motion, turn the kayak 90 degrees to
+                the right and left.
+        -
+            requirement: f
+            text: |-
+                Move the kayak backward three to four boat lengths using
+                appropriate and effective reverse strokes.
+            resources:
+                -
+                    href: https://youtu.be/O-feCLPf-qw
+                    text: Reverse Stroke
+                    type: video
+        -
+            requirement: g
+            text: |-
+                Paddle the kayak in a buoyed figure 8 course around markers
+                three to four boat lengths apart.

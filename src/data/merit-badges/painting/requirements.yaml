@@ -3,136 +3,172 @@
 # interest you and find out the training, certifications, and experience
 # required for this profession and discuss this with your counselor. Tell why
 # this profession interests you.
-- requirement: 1
-  text: |-
-      Explain the proper safety procedures to follow when preparing surfaces and
-      applying coatings.
-  resources:
-      - href: https://www.youtube.com/watch?v=4vpr3e_erug
-        text: Interior Painting Safety
-        type: video
-- requirement: 2
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain three ways that coatings can improve a surface.
-        resources:
-            - href: https://www.youtube.com/watch?v=A-ERekKoohI
-              text: Epoxy Resin Coatings
-              type: video
-      - requirement: b
-        text: |-
-            Explain the differences between oil-based paints, acrylic-based paints,
-            and water-based paints.
-        resources:
-            - href: https://www.youtube.com/watch?v=jEyTpUfbrYA
-              text: Paints - Oil, Water, Enamel, Acrylic
-              type: video
-            - href: https://www.youtube.com/watch?v=T99OFHCLF4s
-              text: Water vs Oil Based Paints
-              type: video
-      - requirement: c
-        text: |-
-            Explain where you would apply enamel paint, flat paint, wood stain, and
-            varnish, and explain the importance of sheen.
-        resources:
-            - href: https://www.youtube.com/watch?v=DyKh80Yt9k0
-              text: Paint Sheen Differences Explained
-              type: video
-      - requirement: d
-        text: |-
-            Tell why each is best for these uses.
-- requirement: 3
-  text: |-
-      Prepare and paint two different surfaces using patching materials or
-      caulking and the proper primers and topcoats. Suggested projects include an
-      interior or exterior wall, a door, a piece of furniture, a concrete wall or
-      floor, a porch rail, or a fence. Your counselor must preapprove the
-      projects.
-  resources:
-      - href: https://www.youtube.com/watch?v=CRXCB_3gLok
-        text: How to Paint a Room
-        type: video
-- requirement: 4
-  text: |-
-      Prepare and paint an item using harmonizing colors that you have selected
-      using the color wheel in this pamphlet.
-  resources:
-      - href: https://www.youtube.com/watch?v=K75ynD7aAeg
-        text: Choosing a Color Palette for Your Home
-        type: video
-      - href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Painting/Painting_Color%20Wheet%20from%202025%20MBP.pdf
-        text: Color Wheel from Painting Merit Badge Pamphlet
-        type: pdf
-- requirement: 5
-  text: |-
-      Show the right way to use, clean, maintain, and store painting equipment.
-  resources:
-      - href: https://www.youtube.com/watch?v=C_bY5_mOTcY
-        text: Good Paint Hygiene
-        type: video
-      - href: https://www.youtube.com/watch?v=u6_e5YXgviY
-        text: How to Clean and Store Paint Brushes
-        type: video
-- requirement: 6
-  text: |-
-      Explain the importance of ladder safety, personal hygiene, and the use of
-      personal protective equipment when painting.
-  resources:
-      - href: https://www.youtube.com/watch?v=b7ArZilnnTE
-        text: Ladder Safety
-        type: video
-      - href: https://www.youtube.com/watch?v=67G06bhuxPA
-        text: Personal Protective Equipment for Painting (PPE)
-        type: video
-- requirement: 7
-  text: |-
-      Explain some of the environmental and health issues concerning removing
-      paint, applying paint, and discarding old paint.
-  resources:
-      - href: https://www.youtube.com/watch?v=7YKuwlGgWpc
-        text: How to Dispose of Old Paint
-        type: video
-      - href: https://www.youtube.com/watch?v=8lG6dAZE52k
-        text: Paint Removers
-        type: video
-- requirement: 8
-  text: |-
-      Do ONE of the following:
-  children:
-      - requirement: a
-        text: |-
-            Explore careers related to this merit badge. Research one career to
-            learn about the training and education needed, costs, job prospects,
-            salary, job duties, and career advancement. Your research methods may
-            include—with your parent or guardian's permission—an internet or library
-            search, an interview with a professional in the field, or a visit to a
-            location where people in this career work. Discuss with your counselor
-            both your findings and what about this profession might make it an
-            interesting career.
-        resources:
-            - href: https://www.youtube.com/watch?v=5glRwgnb5gk
-              text: Painters Career Overview
-              type: video
-            - href: https://www.youtube.com/watch?v=mWjbRoAId_4
-              text: Scenic Painter
-              type: video
-      - requirement: b
-        text: |-
-            Explore how you could use knowledge and skills from this merit badge
-            to pursue a hobby or healthy lifestyle. Research any training needed,
-            expenses, and organizations that promote or support it. Discuss with
-            your counselor what short-term and long-term goals you might have if you
-            pursued this.
-        resources:
-            - href: https://youtu.be/L4ADLL2gAtU
-              text: How to Paint Murals Like a Pro
-              type: video
-            - href: https://youtu.be/UpImD3qedKw
-              text: Easy Wall Painting DIY I Balcony Makeover I Yoga Wall Art
-              type: video
-            - href: https://www.marthastewart.com/8229238/mood-boosting-paint-colors
-              text: Mood-Boosting Paint Colors for Every Room in Your House
-              type: website
+-
+    requirement: 1
+    text: |-
+        Explain the proper safety procedures to follow when preparing surfaces
+        and applying coatings.
+    resources:
+        -
+            href: https://www.youtube.com/watch?v=4vpr3e_erug
+            text: Interior Painting Safety
+            type: video
+-
+    requirement: 2
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: Explain three ways that coatings can improve a surface.
+            resources:
+                -
+                    href: https://www.youtube.com/watch?v=A-ERekKoohI
+                    text: Epoxy Resin Coatings
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Explain the differences between oil-based paints, acrylic-based
+                paints, and water-based paints.
+            resources:
+                -
+                    href: https://www.youtube.com/watch?v=jEyTpUfbrYA
+                    text: Paints - Oil, Water, Enamel, Acrylic
+                    type: video
+                -
+                    href: https://www.youtube.com/watch?v=T99OFHCLF4s
+                    text: Water vs Oil Based Paints
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Explain where you would apply enamel paint, flat paint, wood
+                stain, and varnish, and explain the importance of sheen.
+            resources:
+                -
+                    href: https://www.youtube.com/watch?v=DyKh80Yt9k0
+                    text: Paint Sheen Differences Explained
+                    type: video
+        -
+            requirement: d
+            text: Tell why each is best for these uses.
+-
+    requirement: 3
+    text: |-
+        Prepare and paint two different surfaces using patching materials or
+        caulking and the proper primers and topcoats. Suggested projects include
+        an interior or exterior wall, a door, a piece of furniture, a concrete
+        wall or floor, a porch rail, or a fence. Your counselor must preapprove
+        the projects.
+    resources:
+        -
+            href: https://www.youtube.com/watch?v=CRXCB_3gLok
+            text: How to Paint a Room
+            type: video
+-
+    requirement: 4
+    text: |-
+        Prepare and paint an item using harmonizing colors that you have
+        selected using the color wheel in the <a
+        href="/merit-badges/painting/"><i>Painting</i> merit badge</a> pamphlet.
+    resources:
+        -
+            href: https://www.youtube.com/watch?v=K75ynD7aAeg
+            text: Choosing a Color Palette for Your Home
+            type: video
+        -
+            href: >-
+                https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Painting/Painting_Color%20Wheet%20from%202025%20MBP.pdf
+            text: Color Wheel from Painting Merit Badge Pamphlet
+            type: pdf
+-
+    requirement: 5
+    text: |-
+        Show the right way to use, clean, maintain, and store painting
+        equipment.
+    resources:
+        -
+            href: https://www.youtube.com/watch?v=C_bY5_mOTcY
+            text: Good Paint Hygiene
+            type: video
+        -
+            href: https://www.youtube.com/watch?v=u6_e5YXgviY
+            text: How to Clean and Store Paint Brushes
+            type: video
+-
+    requirement: 6
+    text: |-
+        Explain the importance of ladder safety, personal hygiene, and the use
+        of personal protective equipment when painting.
+    resources:
+        -
+            href: https://www.youtube.com/watch?v=b7ArZilnnTE
+            text: Ladder Safety
+            type: video
+        -
+            href: https://www.youtube.com/watch?v=67G06bhuxPA
+            text: Personal Protective Equipment for Painting (PPE)
+            type: video
+-
+    requirement: 7
+    text: |-
+        Explain some of the environmental and health issues concerning removing
+        paint, applying paint, and discarding old paint.
+    resources:
+        -
+            href: https://www.youtube.com/watch?v=7YKuwlGgWpc
+            text: How to Dispose of Old Paint
+            type: video
+        -
+            href: https://www.youtube.com/watch?v=8lG6dAZE52k
+            text: Paint Removers
+            type: video
+-
+    requirement: 8
+    text: 'Do ONE of the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explore careers related to this merit badge. Research one career
+                to learn about the training and education needed, costs, job
+                prospects, salary, job duties, and career advancement. Your
+                research methods may include—with your parent or guardian's
+                permission—an internet or library search, an interview with a
+                professional in the field, or a visit to a location where people
+                in this career work. Discuss with your counselor both your
+                findings and what about this profession might make it an
+                interesting career.
+            resources:
+                -
+                    href: https://youtu.be/5glRwgnb5gk
+                    text: Painters Career Overview
+                    type: video
+                -
+                    href: https://youtu.be/mWjbRoAId_4
+                    text: Scenic Painter
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Explore how you could use knowledge and skills from this merit
+                badge to pursue a hobby or healthy lifestyle. Research any
+                training needed, expenses, and organizations that promote or
+                support it. Discuss with your counselor what short-term and
+                long-term goals you might have if you pursued this.
+            resources:
+                -
+                    href: https://youtu.be/L4ADLL2gAtU
+                    text: How to Paint Murals Like a Pro
+                    type: video
+                -
+                    href: https://youtu.be/UpImD3qedKw
+                    text: |-
+                        Easy Wall Painting DIY I Balcony Makeover I Yoga Wall
+                        Art
+                    type: video
+                -
+                    href: >-
+                        https://www.marthastewart.com/8229238/mood-boosting-paint-colors
+                    text: Mood-Boosting Paint Colors for Every Room in Your House
+                    type: website

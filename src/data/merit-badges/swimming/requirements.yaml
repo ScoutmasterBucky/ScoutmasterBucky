@@ -1,112 +1,215 @@
-- requirement: 1
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Review with your counselor how Scouting America's Safe Swim Defense
-            guidelines anticipates and deals with common drowning situations such as
-            unfenced residential pools, nonswimmers entering deep water, risky
-            behaviors, medical impairment in the water, drop-offs, cold water, murky
-            water, river currents, rip currents, and surf.
-      - requirement: b
-        text: |-
-            Discuss the prevention and treatment of health concerns that could
-            occur while swimming, including hypothermia, dehydration, sunburn, heat
-            exhaustion, heatstroke, muscle cramps, hyperventilation, spinal injury,
-            stings and bites, and cuts and scrapes.
-- requirement: 2
-  text: |-
-      Before doing the following requirements, successfully complete the
-      Scouting America swimmer test, found in the <a href="../swimming/"><i>Swimming</i> merit badge</a>
-      pamphlet.
-- requirement: 3
-  text: |-
-      Correctly perform the following strokes:
-  children:
-      - requirement: a
-        text: |-
-            Demonstrate the front crawl or the trudgen using good form.
-      - requirement: b
-        text: |-
-            Demonstrate the back crawl using good form.
-      - requirement: c
-        text: |-
-            Demonstrate the sidestroke using good form.
-      - requirement: d
-        text: |-
-            Demonstrate the breaststroke using good form.
-      - requirement: e
-        text: |-
-            Demonstrate the elementary backstroke using good form.
-- requirement: 4
-  text: |-
-      Swim continuously for 150 yards in a strong manner using each of the
-      following strokes in any order; front crawl or trudgen (25 yards); back
-      crawl (25 yards); sidestroke (25 yards); breaststroke (25 yards); and
-      elementary backstroke (50 yards).
-- requirement: 5
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Demonstrate water rescue methods by reaching with your arm or leg, by
-            reaching with a suitable object, and by throwing lines and objects.
-            Explain why swimming rescues should not be attempted when a reaching or
-            throwing rescue is possible, and explain why and how a rescue swimmer
-            should avoid contact with the victim.
-      - requirement: b
-        text: |-
-            With a helper and a practice victim, show a line rescue both as tender
-            and as rescuer. The practice victim should be approximately 30 feet
-            from shore in deep water.
-- requirement: 6
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Float faceup in a resting position for at least three minutes with
-            minimal movement.
-      - requirement: b
-        text: |-
-            Demonstrate survival floating for at least five minutes.
-      - requirement: c
-        text: |-
-            While wearing a properly fitted U.S. Coast Guard-approved life jacket,
-            demonstrate the HELP and huddle positions. Explain their purposes.
-      - requirement: d
-        text: |-
-            Explain why swimming or survival floating will hasten the onset of
-            hypothermia in cold water.
-- requirement: 7
-  text: |-
-      In water over your head, but not to exceed 10 feet, do the following:
-  children:
-      - requirement: a
-        text: |-
-            Use the feetfirst method of surface diving and bring an object up from
-            the bottom.
-      - requirement: b
-        text: |-
-            Do a headfirst surface dive (pike or tuck), and bring the object up
-            again.
-      - requirement: c
-        text: |-
-            Do a headfirst surface dive to a depth of at least 5 feet and swim
-            underwater for three strokes. Come to the surface, take a breath, and
-            repeat the sequence twice.
-- requirement: 8
-  text: |-
-      Following the guidelines set in the Scouting America Safe Swim Defense
-      guidelines, in water at least 7 feet deep, show a standing headfirst dive
-      from a dock or pool deck. Show a long shallow dive, also from the dock or
-      pool deck.
-      <div class="gap"></div>
-      <b>Note:</b> If your state, city, or local community requires a water depth greater
-      than 7 feet, it is important to abide by that mandate.
-- requirement: 9
-  text: |-
-      Explain the health benefits of regular aerobic exercise, and discuss why
-      swimming is favored as both fitness and therapeutic exercise.
+-
+    requirement: 1
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Review with your counselor how Scouting America's Safe Swim
+                Defense guidelines anticipates and deals with common drowning
+                situations such as unfenced residential pools, nonswimmers
+                entering deep water, risky behaviors, medical impairment in the
+                water, drop-offs, cold water, murky water, river currents, rip
+                currents, and surf.
+            resources:
+                -
+                    href: https://www.scouting.org/health-and-safety/gss/gss02/
+                    text: Safe Swim Defense
+                    type: website
+        -
+            requirement: b
+            text: |-
+                Discuss the prevention and treatment of health concerns that
+                could occur while swimming, including hypothermia, dehydration,
+                sunburn, heat exhaustion, heatstroke, muscle cramps,
+                hyperventilation, spinal injury, stings and bites, and cuts and
+                scrapes.
+            resources:
+                -
+                    href: >-
+                        https://surefirecpr.com/emergency-tips/10-common-summer-safety-emergencies/
+                    text: 10 Common Summer Safety Emergencies
+                    type: website
+-
+    requirement: 2
+    text: |-
+        Before doing the following requirements, successfully complete the
+        Scouting America swimmer test, found in the <a
+        href="/merit-badges/swimming/"><i>Swimming</i> merit badge</a> pamphlet.
+    resources:
+        -
+            href: >-
+                https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf
+            text: <i>Swimming</i> Merit Badge Pamphlet
+            type: pdf
+-
+    requirement: 3
+    text: 'Correctly perform the following strokes:'
+    children:
+        -
+            requirement: a
+            text: Demonstrate the front crawl or the trudgen using good form.
+            resources:
+                -
+                    href: https://youtu.be/6_vXycbD2TM
+                    text: Learn To Swim Freestyle | A Simple Step-by-Step Guide
+                    type: video
+                -
+                    href: https://youtu.be/44byh2wRnAY
+                    text: How To Swim Front Crawl?
+                    type: video
+        -
+            requirement: b
+            text: Demonstrate the back crawl using good form.
+            resources:
+                -
+                    href: https://youtu.be/MrFt6JHii8w
+                    text: How To Swim Backstroke
+                    type: video
+                -
+                    href: https://youtu.be/86S0fj6UQ8E
+                    text: How To Swim Backstroke
+                    type: video
+        -
+            requirement: c
+            text: Demonstrate the sidestroke using good form.
+            resources:
+                -
+                    href: https://youtu.be/40WQ8Q3Ximkc
+                    text: How To Swim Side Stroke
+                    type: video
+        -
+            requirement: d
+            text: Demonstrate the breaststroke using good form.
+            resources:
+                -
+                    href: https://youtu.be/_l8jZbKy9KI
+                    text: How To Swim Breaststroke Properly!
+                    type: video
+                -
+                    href: https://youtu.be/XFipOtBNMkg
+                    text: How To Swim Breaststroke
+                    type: video
+        -
+            requirement: e
+            text: Demonstrate the elementary backstroke using good form.
+            resources:
+                -
+                    href: https://youtu.be/WPgt7djgloQ
+                    text: Learn To Swim Elementary Backstroke
+                    type: video
+-
+    requirement: 4
+    text: |-
+        Swim continuously for 150 yards in a strong manner using each of the
+        following strokes in any order; front crawl or trudgen (25 yards); back
+        crawl (25 yards); sidestroke (25 yards); breaststroke (25 yards); and
+        elementary backstroke (50 yards).
+-
+    requirement: 5
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Demonstrate water rescue methods by reaching with your arm or
+                leg, by reaching with a suitable object, and by throwing lines
+                and objects. Explain why swimming rescues should not be
+                attempted when a reaching or throwing rescue is possible, and
+                explain why and how a rescue swimmer should avoid contact with
+                the victim.
+        -
+            requirement: b
+            text: |-
+                With a helper and a practice victim, show a line rescue both as
+                tender and as rescuer. The practice victim should be
+                approximately 30 feet from shore in deep water.
+-
+    requirement: 6
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Float faceup in a resting position for at least three minutes
+                with minimal movement.
+            resources:
+                -
+                    href: https://youtu.be/-7KZciqMEj4
+                    text: |-
+                        How To Float on Your Back for Beginners | Watch This
+                        Before You Give Up
+                    type: video
+        -
+            requirement: b
+            text: Demonstrate survival floating for at least five minutes.
+        -
+            requirement: c
+            text: |-
+                While wearing a properly fitted U.S. Coast Guard-approved life
+                jacket, demonstrate the HELP and huddle positions. Explain their
+                purposes.
+            resources:
+                -
+                    href: https://youtu.be/Bw_mYosCHIs
+                    text: PFD's H.E.L.P. &amp; Huddle Positions
+                    type: video
+        -
+            requirement: d
+            text: |-
+                Explain why swimming or survival floating will hasten the onset
+                of hypothermia in cold water.
+-
+    requirement: 7
+    text: 'In water over your head, but not to exceed 10 feet, do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Use the feetfirst method of surface diving and bring an object
+                up from the bottom.
+            resources:
+                -
+                    href: https://youtu.be/viE9D6LeH6c
+                    text: How To Do a Feetfirst Surface Dive
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Do a headfirst surface dive (pike or tuck), and bring the object
+                up again.
+            resources:
+                -
+                    href: https://youtu.be/QG5XPAUec3c
+                    text: How To Do a Headfirst Surface Dive
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Do a headfirst surface dive to a depth of at least 5 feet and
+                swim underwater for three strokes. Come to the surface, take a
+                breath, and repeat the sequence twice.
+-
+    requirement: 8
+    text: |-
+        Following the guidelines set in the Scouting America Safe Swim Defense
+        guidelines, in water at least 7 feet deep, show a standing headfirst
+        dive from a dock or pool deck. Show a long shallow dive, also from the
+        dock or pool deck.
+        <div class="gap"></div>
+        <i><b>NOTE:</b> If your state, city, or local community requires a water
+        depth greater than 7 feet, it is important to abide by that mandate.</i>
+-
+    requirement: 9
+    text: |-
+        Explain the health benefits of regular aerobic exercise, and discuss why
+        swimming is favored as both fitness and therapeutic exercise.
+    resources:
+        -
+            href: https://youtu.be/KMliGnl7uVo
+            text: What Happens to Your Body When You Swim?
+            type: video
+        -
+            href: https://youtu.be/AfnwseOgxE0
+            text: 10 Health Benefits of Swimming
+            type: video

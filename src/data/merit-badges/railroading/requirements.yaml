@@ -1,196 +1,629 @@
-# 4a and 4e was missing the trailing period - added it
-# 5b, 5c, 5d, 5e were also missing the trailing period - added one
-- requirement: 1
-  text: |-
-      Do THREE of the following:
-  children:
-      - requirement: a
-        text: |-
-            Name three types of modern freight trains. Explain why unit trains are
-            more efficient than mixed freight trains.
-      - requirement: b
-        text: |-
-            Name one Class I or regional railroad. Explain what major cities it
-            serves, the locations of major terminals, service facilities, and crew
-            change points, and the major commodities it carries.
-      - requirement: c
-        text: |-
-            Using models or pictures, identify 10 types of railroad freight or
-            passenger cars. Explain the purpose of each type of car.
-      - requirement: d
-        text: |-
-            Explain how a modern diesel or electric locomotive develops power.
-            Explain the terms dynamic braking and radial steering trucks.
-- requirement: 2
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain the purpose and formation of Amtrak. Explain, by the use of a
-            timetable, a plan for making a trip by rail between two cities at least
-            500 miles apart. List the times of departure and arrival at your
-            destination, the train number and name, and the type of service you
-            want.
-      - requirement: b
-        text: |-
-            List and explain the various forms of public/mass transit using rail.
-- requirement: 3
-  text: |-
-      Do ONE of the following:
-  children:
-      - requirement: a
-        text: |-
-            Name four departments of a railroad company. Describe what each
-            department does.
-      - requirement: b
-        text: |-
-            Tell about the opportunities in railroading that interest you most and
-            why.
-      - requirement: c
-        text: |-
-            Name four rail support industries. Describe the function of each one.
-      - requirement: d
-        text: |-
-            With your parent or guardian's and counselor's approval, interview
-            someone employed in the rail industry. Learn what that person does and
-            how this person became interested in railroading. Find out what type of
-            schooling and training is required for this position.
-- requirement: 4
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain the purpose of Operation Lifesaver and its mission.
-      - requirement: b
-        text: |-
-            List 9 track basic safety tips to remember when you are around a
-            railroad track.
-      - requirement: c
-        text: |-
-            List 9 safety considerations that should be followed when walking near
-            a railroad track.
-      - requirement: d
-        text: |-
-            Tell your counselor what a driver can do to safely operate near tracks.
-      - requirement: e
-        text: |-
-            Explain safety precautions when using a light rail or commuter train.
-- requirement: 5
-  text: |-
-      Explain the appearance and meaning of the following rail signs and signals:
-  children:
-      - requirement: a
-        text: |-
-            Passive signs and active signs
-      - requirement: b
-        text: |-
-            Devices at the crossing (flashing red lights—with or without bells,
-            flashing red lights and gates, and cantilever flashing lights)
-      - requirement: c
-        text: |-
-            Markings on the road (pavement markings and stop bars)
-      - requirement: d
-        text: |-
-            Signs before the crossing (advance warning sign, advance warning sign
-            for side streets, no train horn sign, and low ground clearance grade
-            crossing sign)
-      - requirement: e
-        text: |-
-            Signs along the railroad property (no trespassing sign)
-      - requirement: f
-        text: |-
-            Signs at the crossing (crossbuck sign, emergency notification system
-            sign, multiple track sign, stop sign, and yield sign)
-- requirement: 6
-  text: |-
-      Do EACH of the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain how railroad signals operate and show two basic signal types
-            using color or configuration.
-      - requirement: b
-        text: |-
-            Explain the meaning of three horn signals.
-      - requirement: c
-        text: |-
-            Describe a way to signal a train for an emergency stop.
-      - requirement: d
-        text: |-
-            Explain the use and function of the EOTD (end-of-train device), or
-            FRED (flashing rear end device), used on the last car of most
-            freight trains.
-- requirement: 7
-  text: |-
-      Do ONE of the following special-interest options:
-  children:
-      - text: |-
-            <strong>Option A—Model Railroading.</strong> With your parent or
-            guardian's and counselor's approval, do TWO of the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Draw a layout of your own model railroad or one that could be built
-                  in your home. Design a point-to-point track or loop with different
-                  routings. Include one of the following: turnaround or terminal or
-                  yard or siding.
-            - requirement: 2
-              text: |-
-                  Build one model railroad car kit or one locomotive kit.
-            - requirement: 3
-              text: |-
-                  Name the scale of four popular model railroad gauges. Identify the
-                  scale of four model cars or locomotives.
-            - requirement: 4
-              text: |-
-                  Locate the website of four model railroad - related manufacturers
-                  or magazine publishers. Print information on their products and
-                  services and discuss the information with your counselor.
-            - requirement: 5
-              text: |-
-                  Build one railroad structure (from scratch or using a kit), paint
-                  and weather the structure, mount it on your layout or diorama, and
-                  make the surrounding area on the diorama scenic.
-            - requirement: 6
-              text: |-
-                  Alone or with others, build a model railroad or modular layout
-                  including ballast and scenery. Make electrical connections and
-                  operate a train. Describe what you enjoyed most.
-            - requirement: 7
-              text: |-
-                  Participate in a switching contest on a timesaver layout and record
-                  your time.
-            - requirement: 8
-              text: |-
-                  Explain the difference between powering and controlling a model
-                  railroad by using direct current, and powering and controlling a
-                  model railroad using digital command control.
-      - text: |-
-            <strong>Option B—Railfanning.</strong> With your parent or guardian's
-            and counselor's approval, do TWO of the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Visit a railroad museum, historical display, or a prototype
-                  railroad sponsored public event. With permission, photograph,
-                  digitally record, or sketch items of interest. Explain what you saw
-                  and describe your photos, sketches, or video.
-            - requirement: 2
-              text: |-
-                  Purchase tickets and ride a scenic or historic railroad. Under
-                  supervision, photograph the equipment and discuss with your
-                  counselor the historic significance of the operation.
-            - requirement: 3
-              text: |-
-                  Locate the website of four rail historical groups, then find
-                  information on the history of the rail preservation operations and
-                  purpose of each group. Talk with a member of one of the groups and
-                  find out how you might help.
-            - requirement: 4
-              text: |-
-                  Plan a trip by rail between two points. Obtain a schedule and
-                  explain when the train should arrive at two intermediate points.
-                  Purchase the tickets and make the trip. Explain to your counselor
-                  what you saw.
+# 4a and 4e are missing the trailing period
+# 5b, 5c, 5d, 5e are also missing the trailing period
+-
+    requirement: 1
+    text: 'Do THREE of the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Name three types of modern freight trains. Explain why unit
+                trains are more efficient than mixed freight trains.
+            resources:
+                -
+                    href: https://youtu.be/E0m9Nu1pvy8
+                    text: Types of Freight Trains
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Name one Class I or regional railroad. Explain what major cities
+                it serves, the locations of major terminals, service facilities,
+                and crew change points, and the major commodities it carries.
+            resources:
+                -
+                    href: >-
+                        https://emaqualityindustries.com/class-i-railroads-in-usa/
+                    text: |-
+                        Class I Railroads in USA: What Are They, History, and
+                        Why Do They Matter
+                    type: website
+                -
+                    href: >-
+                        https://experience.arcgis.com/experience/b6c12fd0a4774f38a303e3d034775854/
+                    text: FRA Rail Network
+                    type: website
+        -
+            requirement: c
+            text: |-
+                Using models or pictures, identify 10 types of railroad freight
+                or passenger cars. Explain the purpose of each type of car.
+            resources:
+                -
+                    href: https://youtu.be/psjExhXfvbI
+                    text: Every Type of Railcar Explained in 15 Minutes
+                    type: video
+                -
+                    href: https://www.bnsf.com/about-bnsf/virtual-train-tour/
+                    text: Virtual Train Tour
+                    type: website
+        -
+            requirement: d
+            text: |-
+                Explain how a modern diesel or electric locomotive develops
+                power. Explain the terms dynamic braking and radial steering
+                trucks.
+            resources:
+                -
+                    href: https://youtu.be/nGhBHrr5CYQ
+                    text: Why Locomotives Don't Have Tires
+                    type: video
+                -
+                    href: https://youtu.be/dCQ9Wi8PlYY
+                    text: |-
+                        Dynamic Braking | Diesel Electric Locomotives |
+                        Regenerative Braking
+                    type: video
+                -
+                    href: https://youtu.be/aW3P9mTv0Jk
+                    text: |-
+                        [Rail Insights] Take a Closer Look at the
+                        Wheel-Rail-Interface
+                    type: video
+-
+    requirement: 2
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain the purpose and formation of Amtrak. Explain, by the use
+                of a timetable, a plan for making a trip by rail between two
+                cities at least 500 miles apart. List the times of departure and
+                arrival at your destination, the train number and name, and the
+                type of service you want.
+            resources:
+                -
+                    href: https://youtu.be/oRoxy8pMqLo
+                    text: The History of Amtrak in 2 Minutes
+                    type: video
+                -
+                    href: https://youtu.be/anKNW1YHBoU
+                    text: 'Amtrak Map USA: Understand America''s Train Routes'
+                    type: video
+                -
+                    href: >-
+                        https://www.amtrak.com/plan-your-trip.html?intcmp=wsp_hp-trip-planning_link_start-planning_slide1
+                    text: Trip Planning Map
+                    type: website
+                -
+                    href: https://www.amtrak.com/train-schedules-timetables
+                    text: Amtrak Schedules &amp; Timetables
+                    type: website
+        -
+            requirement: b
+            text: |-
+                List and explain the various forms of public/mass transit using
+                rail.
+            resources:
+                -
+                    href: https://youtu.be/fSgMi57YbDM
+                    text: Every Transit System That Works Explained in 9 Minutes
+                    type: video
+-
+    requirement: 3
+    text: 'Do ONE of the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Name four departments of a railroad company. Describe what each
+                department does.
+            resources:
+                -
+                    href: >-
+                        https://www.managementlegend.com/what-is-rail-operations-management/
+                    text: What Is Rail Operations Management
+                    type: website
+                -
+                    href: https://youtu.be/q6WM65grTMs
+                    text: MOW—Maintenance of Way
+                    type: video
+                -
+                    href: https://splives.org/the-southern-pacific-story/
+                    text: |-
+                        Departments—Pull Down Menu Under The Southern Pacific
+                        Story
+                    type: website
+        -
+            requirement: b
+            text: |-
+                Tell about the opportunities in railroading that interest you
+                most and why.
+            resources:
+                -
+                    href: https://aslrra.org/about-us/career-opportunities/
+                    text: Why Work for a Short Line or Regional Railroad?
+                    type: website
+                -
+                    href: https://youtu.be/8ofUGMZCRH8
+                    text: 'Railroad Careers: Conductors'
+                    type: video
+                -
+                    href: https://youtu.be/4w4j1tESxXk
+                    text: Metro Careers—Operations
+                    type: video
+                -
+                    href: https://youtu.be/f4loypZNHeY
+                    text: Union Pacific—Train Crew
+                    type: video
+                -
+                    href: https://youtu.be/n1clZI-RZGc
+                    text: A Day in the Life of an Amtrak Conductor
+                    type: video
+                -
+                    href: https://youtu.be/AN4QWTNKicM
+                    text: Amtrak Police Department Careers
+                    type: video
+                -
+                    href: https://youtu.be/cRDQ8PM4Y3Y
+                    text: Amtrak On Board Services Jobs
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Name four rail support industries. Describe the function of each
+                one.
+            resources:
+                -
+                    href: https://youtu.be/anJUiOLMGpk
+                    text: |-
+                        How Millions of Meters of Train Rails Are Made From
+                        Steel - Railroad Tracks Mass Production Line
+                    type: video
+                -
+                    href: https://youtu.be/h8nddK1NZSk
+                    text: Inside the Massive Factory Where Siemens Builds Trains
+                    type: video
+                -
+                    href: https://youtu.be/D_xJmt50LtQ
+                    text: |-
+                        Track Inspections: Keeping Railroads Safe in Under 5
+                        Minutes
+                    type: video
+                -
+                    href: https://youtu.be/9XiBZofqFIM
+                    text: Railway Freight Services
+                    type: video
+                -
+                    href: https://youtu.be/YYfxo2otxCw
+                    text: |-
+                        Why Chicago's Rail Hub Is So Vital to the National
+                        Economy | WSJ
+                    type: video
+        -
+            requirement: d
+            text: |-
+                With your parent or guardian's and counselor's approval,
+                interview someone employed in the rail industry. Learn what that
+                person does and how this person became interested in
+                railroading. Find out what type of schooling and training is
+                required for this position.
+            resources:
+                -
+                    href: https://youtu.be/Mqo0IsStelk
+                    text: 'The Informational Interview: Researching a Career'
+                    type: video
+-
+    requirement: 4
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: Explain the purpose of Operation Lifesaver and its mission.
+            resources:
+                -
+                    href: https://youtu.be/PVCVqdwj9QI
+                    text: Be Safe—Always Expect a Train
+                    type: video
+        -
+            requirement: b
+            text: |-
+                List 9 track basic safety tips to remember when you are around a
+                railroad track.
+            resources:
+                -
+                    href: https://youtu.be/DXubsyGnJYA
+                    text: Railroad Safety—Do's and Don'ts
+                    type: video
+                -
+                    href: https://oli.org/safety-near-trains/track-safety-basics
+                    text: Track Safety Basics
+                    type: website
+                -
+                    href: >-
+                        https://www.mass.gov/doc/srts-railroad-crossing-safety-flyer-english/download
+                    text: See Train Tracks Ahead? Know What To Do
+                    type: pdf
+        -
+            requirement: c
+            text: |-
+                List 9 safety considerations that should be followed when
+                walking near a railroad track.
+            resources:
+                -
+                    href: >-
+                        https://www.floridarail.com/news/railroad-safety-9-facts-to-keep-you-safe-near-the-tracks-and-avoid-train-accidents/
+                    text: |-
+                        Railroad Safety—9 Facts to Keep You Safe Near the Tracks
+                        and Avoid Train Accidents
+                    type: website
+                -
+                    href: https://youtu.be/zsReiSJw0SI
+                    text: The Dangers of Taking Photos on Train Tracks
+                    type: video
+        -
+            requirement: d
+            text: |-
+                Tell your counselor what a driver can do to safely operate near
+                tracks.
+            resources:
+                -
+                    href: >-
+                        https://oli.org/safety-near-trains/driving-safely-near-tracks
+                    text: Driving Safely Near Tracks
+                    type: website
+        -
+            requirement: e
+            text: |-
+                Explain safety precautions when using a light rail or commuter
+                train.
+            resources:
+                -
+                    href: https://youtu.be/_gxTH8U4cu4
+                    text: Tracks and Transit—Safety in Passenger Rail Systems
+                    type: video
+                -
+                    href: https://youtu.be/GAfugEgV9cI
+                    text: Safety Around Streetcars and Light Rail
+                    type: video
+-
+    requirement: 5
+    text: |-
+        Explain the appearance and meaning of the following rail signs and
+        signals:
+    resources:
+        -
+            href: >-
+                https://oli.org/safety-near-trains/track-safety-basics/rail-signs-and-signals
+            text: Rail Signs and Signals
+            type: website
+    children:
+        -
+            requirement: a
+            text: Passive signs and active signs
+            resources:
+                -
+                    href: >-
+                        https://www.nationalssc.com/the-importance-of-railroad-crossing-signs
+                    text: The 2 Types of Railroad Crossing Signs
+                    type: website
+        -
+            requirement: b
+            text: |-
+                Devices at the crossing (flashing red lights—with or without
+                bells, flashing red lights and gates, and cantilever flashing
+                lights)
+            resources:
+                -
+                    href: https://youtu.be/hyTCBIjla6M
+                    text: Rail Crossing Types From Safety Perspectives
+                    type: video
+                -
+                    href: >-
+                        https://oli.org/safety-near-trains/track-safety-basics/rail-signs-and-signals/devices-crossing
+                    text: Devices at the Crossing
+                    type: website
+        -
+            requirement: c
+            text: Markings on the road (pavement markings and stop bars)
+            resources:
+                -
+                    href: >-
+                        https://oli.org/safety-near-trains/track-safety-basics/rail-signs-and-signals/markings-road
+                    text: Markings on the Road
+                    type: website
+        -
+            requirement: d
+            text: |-
+                Signs before the crossing (advance warning sign, advance warning
+                sign for side streets, no train horn sign, and low ground
+                clearance grade crossing sign)
+            resources:
+                -
+                    href: >-
+                        https://oli.org/safety-near-trains/track-safety-basics/rail-signs-and-signals/signs-crossing
+                    text: Signs Before the Crossing
+                    type: website
+        -
+            requirement: e
+            text: Signs along the railroad property (no trespassing sign)
+            resources:
+                -
+                    href: >-
+                        https://oli.org/safety-near-trains/track-safety-basics/rail-signs-and-signals/signs-along-railroad-property
+                    text: Signs Along Railroad Property
+                    type: website
+        -
+            requirement: f
+            text: |-
+                Signs at the crossing (crossbuck sign, emergency notification
+                system sign, multiple track sign, stop sign, and yield sign)
+            resources:
+                -
+                    href: https://youtu.be/AaGx08xfmu4
+                    text: Why Are There 2 Railroad Crossing Signs?
+                    type: video
+-
+    requirement: 6
+    text: 'Do EACH of the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain how railroad signals operate and show two basic signal
+                types using color or configuration.
+            resources:
+                -
+                    href: https://youtu.be/9kRJPSVdzlM
+                    text: How Railroad Crossings Work
+                    type: video
+                -
+                    href: https://youtu.be/Q1UlOEUdows
+                    text: How To Read Railroad Signals
+                    type: video
+        -
+            requirement: b
+            text: Explain the meaning of three horn signals.
+            resources:
+                -
+                    href: https://youtu.be/eI6xSjkcXTY
+                    text: |-
+                        How Trains Talk to Each Other | Horn Sounds | Train
+                        Safety
+                    type: video
+                -
+                    href: >-
+                        https://www.up.com/news/safety/tr101620-train-safety-horns-signals
+                    text: 'Railroad Safety: Train Horns and Grade Crossing Signals'
+                    type: website
+        -
+            requirement: c
+            text: Describe a way to signal a train for an emergency stop.
+            resources:
+                -
+                    href: https://www.wikihow.com/Stop-a-Train-in-an-Emergency
+                    text: How To Stop a Train in an Emergency
+                    type: website
+        -
+            requirement: d
+            text: |-
+                Explain the use and function of the EOTD (end-of-train device),
+                or FRED (flashing rear end device), used on the last car of most
+                freight trains.
+            resources:
+                -
+                    href: https://www.american-rails.com/etd.html
+                    text: |-
+                        The End-of-Train Device (EOTD) and Its Impact on
+                        Railroading
+                    type: website
+                -
+                    href: https://youtu.be/lz0Q646DUL0
+                    text: |-
+                        End of Train Device (EOTD) or Flashing Rear End Device
+                        (FRED)
+                    type: video
+-
+    requirement: 7
+    text: 'Do ONE of the following special-interest options:'
+    children:
+        -
+            requirement: a
+            text: |-
+                <strong>Option A—Model Railroading.</strong> With your parent or
+                guardian's and counselor's approval, do TWO of the following:
+            children:
+                -
+                    requirement: 1
+                    text: |-
+                        Draw a layout of your own model railroad or one that
+                        could be built in your home. Design a point-to-point
+                        track or loop with different routings. Include one of
+                        the following: turnaround or terminal or yard or siding.
+                    resources:
+                        -
+                            href: >-
+                                https://www.nmra.org/beginners-guide-part-2-layout-planning
+                            text: Layout Planning
+                            type: website
+                        -
+                            href: https://youtu.be/oJL8DZO5mks
+                            text: Model Railroad Layout Design for Beginners
+                            type: video
+                        -
+                            href: >-
+                                https://stanshobbiesandinterests.com/2025/09/24/five-starter-track-plans-that-make-model-railroading-fun/
+                            text: |-
+                                Five Starter Track Plans That Make Model
+                                Railroading Fun
+                            type: website
+                -
+                    requirement: 2
+                    text: Build one model railroad car kit or one locomotive kit.
+                    resources:
+                        -
+                            href: https://www.nmra.org/beginner/safety
+                            text: Modeling Safety
+                            type: website
+                        -
+                            href: >-
+                                https://midwestmodelrr.com/blog/model-railroading-safety-and-etiquette/
+                            text: Model Railroading Safety and Etiquette
+                            type: website
+                        -
+                            href: >-
+                                https://www.nmra.org/beginners-guide-part-11-tools
+                            text: Tools
+                            type: website
+                -
+                    requirement: 3
+                    text: |-
+                        Name the scale of four popular model railroad gauges.
+                        Identify the scale of four model cars or locomotives.
+                    resources:
+                        -
+                            href: https://youtu.be/b5lk_2ROlD0
+                            text: |-
+                                Comparing Model Train Scales: T, Z, N, Tt, Ho,
+                                S, O, G Scales
+                            type: video
+                -
+                    requirement: 4
+                    text: |-
+                        Locate the website of four model railroad - related
+                        manufacturers or magazine publishers. Print information
+                        on their products and services and discuss the
+                        information with your counselor.
+                -
+                    requirement: 5
+                    text: |-
+                        Build one railroad structure (from scratch or using a
+                        kit), paint and weather the structure, mount it on your
+                        layout or diorama, and make the surrounding area on the
+                        diorama scenic.
+                    resources:
+                        -
+                            href: https://youtu.be/h0xQB2J2HKg
+                            text: |-
+                                Weather Plastic Kit Buildings Easy—Detailed
+                                Guide DIY
+                            type: video
+                        -
+                            href: >-
+                                https://www.nmra.org/beginners-guide-part-7-structures
+                            text: Structures
+                            type: website
+                        -
+                            href: >-
+                                https://www.nmra.org/beginners-guide-part-10-weathering
+                            text: Weathering
+                            type: website
+                -
+                    requirement: 6
+                    text: |-
+                        Alone or with others, build a model railroad or modular
+                        layout including ballast and scenery. Make electrical
+                        connections and operate a train. Describe what you
+                        enjoyed most.
+                    resources:
+                        -
+                            href: https://youtu.be/9uzOOMTzDAw
+                            text: |-
+                                How To Ballast Your Track—Model Railway Basics:
+                                Episode Six
+                            type: video
+                        -
+                            href: >-
+                                https://www.nmra.org/beginners-guide-part-6-scenery
+                            text: Scenery
+                            type: website
+                -
+                    requirement: 7
+                    text: |-
+                        Participate in a switching contest on a timesaver layout
+                        and record your time.
+                    resources:
+                        -
+                            href: https://youtu.be/7LdHlfPOB6o
+                            text: Fun With Model Train Switching Puzzles
+                            type: video
+                        -
+                            href: https://youtu.be/I0De0mAFJWQ
+                            text: Switching Puzzle—Timesaver (Timelapse)
+                            type: video
+                        -
+                            href: >-
+                                https://www.wymann.info/ShuntingPuzzles/sw-timesaver.html
+                            text: |-
+                                Classic Switching Puzzles — John Allen's
+                                Timesaver
+                            type: website
+                -
+                    requirement: 8
+                    text: |-
+                        Explain the difference between powering and controlling
+                        a model railroad by using direct current, and powering
+                        and controlling a model railroad using digital command
+                        control.
+                    resources:
+                        -
+                            href: https://youtube.com/shorts/q5WeBPPPq_I
+                            text: Differences Between DC and DCC HO Locomotives
+                            type: video
+                        -
+                            href: https://youtu.be/z5TiK_Ay-0g
+                            text: |-
+                                DC vs. DCC: What's Best for Your Model
+                                Railroad?!
+                            type: video
+                        -
+                            href: >-
+                                https://www.nmra.org/beginners-guide-part-5-adding-power
+                            text: Adding Power
+                            type: website
+        -
+            requirement: b
+            text: |-
+                <strong>Option B—Railfanning.</strong> With your parent or
+                guardian's and counselor's approval, do TWO of the following:
+            children:
+                -
+                    requirement: 1
+                    text: |-
+                        Visit a railroad museum, historical display, or a
+                        prototype railroad sponsored public event. With
+                        permission, photograph, digitally record, or sketch
+                        items of interest. Explain what you saw and describe
+                        your photos, sketches, or video.
+                    resources:
+                        -
+                            href: >-
+                                https://whichmuseum.com/place/united-states-2682?q=railroad
+                            text: Railroading Museums in the US
+                            type: website
+                        -
+                            href: https://youtu.be/jaU7xtVQBPM
+                            text: Railroad Museum Etiquette
+                            type: video
+                -
+                    requirement: 2
+                    text: |-
+                        Purchase tickets and ride a scenic or historic railroad.
+                        Under supervision, photograph the equipment and discuss
+                        with your counselor the historic significance of the
+                        operation.
+                -
+                    requirement: 3
+                    text: |-
+                        Locate the website of four rail historical groups, then
+                        find information on the history of the rail preservation
+                        operations and purpose of each group. Talk with a member
+                        of one of the groups and find out how you might help.
+                -
+                    requirement: 4
+                    text: |-
+                        Plan a trip by rail between two points. Obtain a
+                        schedule and explain when the train should arrive at two
+                        intermediate points. Purchase the tickets and make the
+                        trip. Explain to your counselor what you saw.

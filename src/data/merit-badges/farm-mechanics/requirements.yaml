@@ -1,98 +1,298 @@
-- requirement: 1
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Discuss with your counselor the safety equipment, tools, and clothing
-            used while checking or repairing farm equipment. Use this equipment,
-            tools, and/or clothing (when needed or called for) in meeting the
-            requirements for this merit badge.
-      - requirement: b
-        text: |-
-            Draw a plan showing a well-equipped farm shop. Point out the shop's
-            mandatory safety devices and features.
-      - requirement: c
-        text: |-
-            Find all the universal warning and safety symbols on a piece of
-            equipment and explain what they mean.
-      - requirement: d
-        text: |-
-            Describe what a safety data sheet (SDS) is and tell why it is used.
-            Obtain the SDS for any engine coolant, oil, grease, fuel, hydraulic or
-            transmission fluid, or other flammable or hazardous materials you use in
-            meeting the requirements for this merit badge.
-- requirement: 2
-  text: |-
-      Explain how power is produced or transferred in a:
-  children:
-      - requirement: a
-        text: |-
-            Diesel engine
-      - requirement: b
-        text: |-
-            Hydraulic system
-      - requirement: c
-        text: |-
-            Transmission or any other power system
-- requirement: 3
-  text: |-
-      Do TWO of the following:
-  children:
-      - requirement: a
-        text: |-
-            Replace the handle of any tool found on the farm.
-      - requirement: b
-        text: |-
-            Organize a tool rack or a storage system for nails, bolts, nuts, and
-            washers.
-      - requirement: c
-        text: |-
-            Using a hand file, properly dress the mushroomed head of a chisel or
-            punch.
-      - requirement: d
-        text: |-
-            Using a hand file, correctly dress a screwdriver tip.
-- requirement: 4
-  text: |-
-      Do ONE of the following:
-  children:
-      - requirement: a
-        text: |-
-            On an engine-powered machine: Grease all fittings, change the oil and
-            oil filter, clean the air filter, clean the radiator fins, and replace
-            the fuel filters.
-      - requirement: b
-        text: |-
-            For any engine-powered machine, create a preoperational checklist;
-            include checking the engine coolant, engine oil, hydraulic and/or
-            transmission fluid, and battery voltage (using a voltmeter). Using your
-            checklist, conduct a preoperational check of that machinery or
-            equipment.
-      - requirement: c
-        text: |-
-            Prepare any farm machine for winter storage.
-- requirement: 5
-  text: |-
-      Visit an implement dealer. Interview the dealer technician or service
-      manager for hints on good preventive maintenance. Ask why it is important,
-      the costs, and what causes wear or damage. Report what you learn.
-- requirement: 6
-  text: |-
-      Explain each step in ONE of the following maintenance procedures:
-  children:
-      - requirement: a
-        text: |-
-            Tightening hydraulic fittings.
-      - requirement: b
-        text: |-
-            Checking the air filter.
-      - requirement: c
-        text: |-
-            Cleaning a work piece with a wire-brush wheel.
-- requirement: 7
-  text: |-
-      Find out about three career opportunities in farm mechanics. Pick one and
-      find out the education, training, and experience required for this
-      profession. Discuss this with your counselor, and explain why this
-      profession might interest you.
+-
+    requirement: 1
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Discuss with your counselor the safety equipment, tools, and
+                clothing used while checking or repairing farm equipment. Use
+                this equipment, tools, and/or clothing (when needed or called
+                for) in meeting the requirements for this merit badge.
+            resources:
+                -
+                    href: https://youtu.be/cT0xTWFjDsY
+                    text: |-
+                        Farm Equipment Dangers —Staying Safe Around Farm
+                        Machinery
+                    type: video
+                -
+                    href: https://www.growerexperts.com/ppe-in-agriculture/
+                    text: |-
+                        The Comprehensive Guide to PPE for Farmers: Safety From
+                        Head to Toe
+                    type: website
+                -
+                    href: https://youtu.be/9rjaXpUKPqI
+                    text: 'Safety on the Farm: General Safety'
+                    type: video
+                -
+                    href: https://youtu.be/lRYxf9giLQI
+                    text: Working Safely With Hand Tools Around the Farm
+                    type: video
+                -
+                    href: https://youtu.be/Yjl1rqqjosU
+                    text: Personal Protective Equipment in the Farm (PPE)
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Draw a plan showing a well-equipped farm shop. Point out the
+                shop's mandatory safety devices and features.
+            resources:
+                -
+                    href: >-
+                        https://www.youtube.com/playlist?list=PLfmcXlkwVLVWPdGbiJMiCM3jdJF304pTq
+                    text: Playlist of Top Shops
+                    type: playlist
+                -
+                    href: https://youtu.be/turaJrzpgcg
+                    text: |-
+                        Farmer's Dream Shop Features Rolling Carts, In-Floor Tie
+                        Downs | Top Shops® | Successful Farming
+                    type: video
+                -
+                    href: https://youtu.be/Bss30MpMqLA
+                    text: |-
+                        The Largest Farm Shop We've Ever Seen | Top Shops® |
+                        Successful Farming
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Find all the universal warning and safety symbols on a piece of
+                equipment and explain what they mean.
+            resources:
+                -
+                    href: https://youtu.be/x50qcaHzNy8
+                    text: Caterpillar Warning Symbols/Icons Detailed Guide
+                    type: video
+                -
+                    href: >-
+                        https://www.scribd.com/document/889441066/Graphical-Symbols-for-Operator-Controls-and-Displays-on-Agricultural-Equipment
+                    text: Agricultural Equipment Symbol Standards
+                    type: website
+        -
+            requirement: d
+            text: |-
+                Describe what a safety data sheet (SDS) is and tell why it is
+                used. Obtain the SDS for any engine coolant, oil, grease, fuel,
+                hydraulic or transmission fluid, or other flammable or hazardous
+                materials you use in meeting the requirements for this merit
+                badge.
+            resources:
+                -
+                    href: https://youtu.be/_yWF-w3CwmU
+                    text: Safety Data Sheets
+                    type: video
+                -
+                    href: https://www.hseblog.com/where-find-sds/
+                    text: 'Where to Find Safety Data Sheets (SDS): A Complete Guide'
+                    type: website
+-
+    requirement: 2
+    text: 'Explain how power is produced or transferred in a:'
+    children:
+        -
+            requirement: a
+            text: Diesel engine
+            resources:
+                -
+                    href: https://youtu.be/qeGQgPQsJJI
+                    text: How a Diesel Engine Works
+                    type: video
+                -
+                    href: https://youtu.be/8ruuieWiXT4
+                    text: How Diesel Engine Actually Works? (Animation)
+                    type: video
+        -
+            requirement: b
+            text: Hydraulic system
+            resources:
+                -
+                    href: https://youtu.be/52IMMQSB9Hs
+                    text: How Does a Hydraulic Cylinder Work?
+                    type: video
+        -
+            requirement: c
+            text: Transmission or any other power system
+            resources:
+                -
+                    href: https://youtu.be/zJuhem5LuAg
+                    text: 'Tractor Transmission System: Common Methods'
+                    type: video
+-
+    requirement: 3
+    text: 'Do TWO of the following:'
+    children:
+        -
+            requirement: a
+            text: Replace the handle of any tool found on the farm.
+            resources:
+                -
+                    href: https://youtu.be/CPmkVm9CYkw
+                    text: How To Replace a Garden Tool Handle
+                    type: video
+                -
+                    href: https://youtu.be/g0aC6xOppio
+                    text: |-
+                        Axe &amp; Hammer Handle Replacement—How To Do It Old
+                        School
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Organize a tool rack or a storage system for nails, bolts, nuts,
+                and washers.
+            resources:
+                -
+                    href: https://youtu.be/twlFjHccSfE
+                    text: Adam Savage's Hardware Logjam Sorting Challenge!
+                    type: video
+                -
+                    href: https://youtu.be/ja3olvly0Ic
+                    text: Easy Bolt Sorter
+                    type: video
+                -
+                    href: https://youtu.be/7OSkChtwlJA
+                    text: How To Organise Screws, Nails, Bolts &amp; Nuts
+                    type: video
+                -
+                    href: https://youtu.be/pAP2m90RLhA
+                    text: How To Organize Your Loose Screws and Nails
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Using a hand file, properly dress the mushroomed head of a
+                chisel or punch.
+            resources:
+                -
+                    href: https://youtu.be/1xiIuBbH1SQ
+                    text: 4 Tools You Can Use To Dress a Chisel
+                    type: video
+                -
+                    href: https://youtu.be/Q5wyhqKtnqo
+                    text: Dressing Hammers and Punches—Basic Blacksmithing
+                    type: video
+        -
+            requirement: d
+            text: Using a hand file, correctly dress a screwdriver tip.
+            resources:
+                -
+                    href: >-
+                        https://www.tiktok.com/@paul.a.j.sellers/video/6854554012323171590
+                    text: Sharpening and Reshaping Your Screwdriver With a File
+                    type: video
+-
+    requirement: 4
+    text: 'Do ONE of the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                On an engine-powered machine: Grease all fittings, change the
+                oil and oil filter, clean the air filter, clean the radiator
+                fins, and replace the fuel filters.
+            resources:
+                -
+                    href: https://youtu.be/2HhdyfFzjWI
+                    text: |-
+                        Do This Every Two Weeks and Your Tractor Will Never
+                        Break Down
+                    type: video
+        -
+            requirement: b
+            text: |-
+                For any engine-powered machine, create a preoperational
+                checklist; include checking the engine coolant, engine oil,
+                hydraulic and/or transmission fluid, and battery voltage (using
+                a voltmeter). Using your checklist, conduct a preoperational
+                check of that machinery or equipment.
+            resources:
+                -
+                    href: >-
+                        https://www.worksafebc.com/en/resources/health-safety/checklist/equipment-and-machine-safety-checklist
+                    text: Download Equipment and Machine Safety Checklist
+                    type: pdf
+        -
+            requirement: c
+            text: Prepare any farm machine for winter storage.
+            resources:
+                -
+                    href: https://youtu.be/rjwAwPDBrqk
+                    text: |-
+                        Winterizing Your Tractor and Equipment: 10 Essential
+                        Steps
+                    type: video
+                -
+                    href: >-
+                        https://www.tiktok.com/@michiganmarinefarmer/video/7596082158477921566
+                    text: Preparing the Combine for Winter Storage
+                    type: video
+-
+    requirement: 5
+    text: |-
+        Visit an implement dealer. Interview the dealer technician or service
+        manager for hints on good preventive maintenance. Ask why it is
+        important, the costs, and what causes wear or damage. Report what you
+        learn.
+-
+    requirement: 6
+    text: 'Explain each step in ONE of the following maintenance procedures:'
+    children:
+        -
+            requirement: a
+            text: Tightening hydraulic fittings.
+            resources:
+                -
+                    href: >-
+                        https://cntopa.com/avoid-leaks-how-to-tighten-hydraulic-fittings-the-right-way.html
+                    text: |-
+                        Avoid Leaks! How To Tighten Hydraulic Fittings the Right
+                        Way
+                    type: website
+        -
+            requirement: b
+            text: Checking the air filter.
+            resources:
+                -
+                    href: https://youtu.be/571Oz9LrBwk
+                    text: Maintaining Your Tractor—Changing the Air Filter
+                    type: video
+        -
+            requirement: c
+            text: Cleaning a work piece with a wire-brush wheel.
+            resources:
+                -
+                    href: https://youtu.be/wPR2Lbmn7wM
+                    text: Cleaning Up Rusted Metal Finds
+                    type: video
+-
+    requirement: 7
+    text: |-
+        Find out about three career opportunities in farm mechanics. Pick one
+        and find out the education, training, and experience required for this
+        profession. Discuss this with your counselor, and explain why this
+        profession might interest you.
+    resources:
+        -
+            href: https://youtu.be/J7s3lBNr6VI
+            text: Agricultural Engineering
+            type: video
+        -
+            href: https://youtu.be/lYkXBAc6Elk
+            text: 'Agriculture Careers: Agriculture Equipment Technician'
+            type: video
+        -
+            href: https://youtu.be/KEuPYD1gcXw
+            text: Careers in Agriculture—Management
+            type: video
+        -
+            href: https://youtu.be/o3mov6oKoUI
+            text: Careers in Agriculture—Technology
+            type: video
+        -
+            href: https://youtu.be/7B9V96I5Rxs
+            text: Agricultural Equipment Technician
+            type: video

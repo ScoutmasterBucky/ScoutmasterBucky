@@ -1,126 +1,293 @@
-- text: |-
-      <b>NOTE:</b> <i>The activities used to fulfill the requirements for the Sports
-      merit badge may not be used to help fulfill requirements for other merit
-      badges.</i>
-- requirement: 1
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain to your counselor the most likely risks you may encounter while
-            participating in sports and what you should do to anticipate, help
-            prevent, mitigate, and respond to these risks.
-      - requirement: b
-        text: |-
-            Show that you know first aid or understand the treatment for injuries
-            that could occur while participating in sports, including sprains;
-            strains; muscle cramps; contusions; abrasions; blisters; dehydration;
-            heat reactions; fractures; injured teeth; head, neck, and back
-            injuries; and concussions.
-- requirement: 2
-  text: |-
-      Explain the following:
-  children:
-      - requirement: a
-        text: |-
-            The importance of the physical exam
-      - requirement: b
-        text: |-
-            The importance of maintaining good health habits for life (such as
-            exercising regularly), and how the use of tobacco products, alcohol,
-            and other harmful substances can negatively affect your health and your
-            performance in sports activities
-      - requirement: c
-        text: |-
-            The importance of maintaining a healthy diet
-- requirement: 3
-  text: |-
-      Discuss the following:
-  children:
-      - requirement: a
-        text: |-
-            The importance of warming up and cooling down
-      - requirement: b
-        text: |-
-            The importance of weight training
-      - requirement: c
-        text: |-
-            What an amateur athlete is and the differences between an amateur and a
-            professional athlete
-      - requirement: d
-        text: |-
-            The attributes (qualities) of a good sport, the importance of
-            sportsmanship, and the traits of a good team leader and player who
-            exhibits Scout spirit on and off the playing field
-- requirement: 4
-  text: |-
-      Select TWO of the following sports and discuss with your counselor how you
-      will complete the requirements in 5(a) through 5(h) for each sport: badminton,
-      baseball, basketball, bowling, cross-country, diving, field hockey, flag
-      football, flag team, golf, gymnastics, ice hockey, lacrosse, soccer,
-      softball, spirit/cheerleading, swimming, tackle football, table tennis,
-      tennis, track and field, volleyball, water polo, and/or wrestling. Your
-      counselor may approve in advance other recognized sports, but not any sport
-      that is prohibited by Scouting America. The sports you choose must include
-      regular practice sessions and at least four structured, officiated, scored
-      games, meets, or contests against other competitive individuals or
-      organized teams during the period of participation.
-- requirement: 5
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            With guidance from your counselor, establish a suitable personal
-            training program that you will follow throughout your competition
-            season (or for three months).
-      - requirement: b
-        text: |-
-            Create a chart or other tracking system, and document your training,
-            practice, and development during this time.
-      - requirement: c
-        text: |-
-            Demonstrate proper technique to play each sport effectively and avoid
-            injury.
-      - requirement: d
-        text: |-
-            List and describe the equipment needed for each sport, including
-            protective equipment and any specialized clothing.
-      - requirement: e
-        text: |-
-            List and explain the rules and proper etiquette of each sport.
-      - requirement: f
-        text: |-
-            Draw and explain a diagram of the playing area for each sport.
-      - requirement: g
-        text: |-
-            Participate in each sport as a competitive individual or as a member of
-            an organized team for one season (or for three months).
-      - requirement: h
-        text: |-
-            At the end of the season, share your completed chart with your
-            counselor and discuss how your participation in the sports you chose
-            has affected you mentally and physically.
-- requirement: 6
-  text: |-
-      Do ONE of the following:
-  children:
-      - requirement: a
-        text: |-
-            Identify three career opportunities that would use skills and
-            knowledge related to a sport. Pick one and research the training,
-            education, certification requirements, experience, and expenses
-            associated with entering the field. Research the prospects for
-            employment, starting salary, advancement opportunities and career
-            goals associated with this career. Discuss what you learned with your
-            counselor and whether you might be interested in this career.
-      - requirement: b
-        text: |-
-            Identify how you might use skills and knowledge related to a sport to
-            pursue a personal hobby and/or healthy lifestyle. Research the
-            additional training required, expenses, and affiliation with
-            organizations that would help you maximize the enjoyment and benefit
-            you might gain from it. Discuss what you learned with your counselor
-            and share what short-term and long-term goals you might have if you
-            pursued this.
+# AUTO: WARNING: Found URL ending with "%20" near "Benefits of Strength Training...". This should be cleaned up.
+# AUTO: WARNING: Found URL ending with "%20" near "7 Powerful Journaling Ideas for Youth Sports Athle...". This should be cleaned up.
+# AUTO: WARNING: Found URL ending with "%20" near "Equipment Needed To Play Various Sports...". This should be cleaned up.
+-
+    text: |-
+        <i><b>NOTE:</b> The activities used to fulfill the requirements for the
+        Sports merit badge may not be used to help fulfill requirements for
+        other merit badges.</i>
+-
+    requirement: 1
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain to your counselor the most likely risks you may
+                encounter while participating in sports and what you should do
+                to anticipate, help prevent, mitigate, and respond to these
+                risks.
+            resources:
+                -
+                    href: https://youtu.be/rBntW8FmLvo
+                    text: Sports Injuries and Prevention
+                    type: video
+                -
+                    href: https://youtu.be/WAne1NJJSCY
+                    text: Preventing Sports Injuries in Children
+                    type: video
+                -
+                    href: https://youtu.be/NAcMyn5Vsfc
+                    text: Safety Tips - Popular Sports
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Show that you know first aid or understand the treatment for
+                injuries that could occur while participating in sports,
+                including sprains; strains; muscle cramps; contusions;
+                abrasions; blisters; dehydration; heat reactions; fractures;
+                injured teeth; head, neck, and back injuries; and concussions.
+            resources:
+                -
+                    href: https://youtu.be/hPfXdZLEeNc
+                    text: Strains, Tears, and Sprains
+                    type: video
+                -
+                    href: https://youtu.be/E23pgdfFFlw
+                    text: First Aid for Fractures
+                    type: video
+                -
+                    href: https://youtu.be/KahsIEbFROI
+                    text: Dehydration
+                    type: video
+-
+    requirement: 2
+    text: 'Explain the following:'
+    children:
+        -
+            requirement: a
+            text: The importance of the physical exam
+            resources:
+                -
+                    href: https://www.scouting.org/health-and-safety/ahmr/
+                    text: Annual Physical Exam
+                    type: website
+        -
+            requirement: b
+            text: |-
+                The importance of maintaining good health habits for life (such
+                as exercising regularly), and how the use of tobacco products,
+                alcohol, and other harmful substances can negatively affect your
+                health and your performance in sports activities
+            resources:
+                -
+                    href: https://youtu.be/hmFQqjMF_f0
+                    text: Benefits of Playing Sports
+                    type: video
+        -
+            requirement: c
+            text: The importance of maintaining a healthy diet
+            resources:
+                -
+                    href: https://youtu.be/CSHO9VdVRfg
+                    text: How To Manage Your Mood With Food
+                    type: video
+-
+    requirement: 3
+    text: 'Discuss the following:'
+    children:
+        -
+            requirement: a
+            text: The importance of warming up and cooling down
+            resources:
+                -
+                    href: https://youtu.be/XeEIoGMldyc
+                    text: Stretching and Warming Up
+                    type: video
+        -
+            requirement: b
+            text: The importance of weight training
+            resources:
+                -
+                    href: >-
+                        https://www.uhhospitals.org/blog/articles/2024/01/the-benefits-of-strength-training-for-young-athletes
+                    text: Benefits of Strength Training
+                    type: website
+        -
+            requirement: c
+            text: |-
+                What an amateur athlete is and the differences between an
+                amateur and a professional athlete
+            resources:
+                -
+                    href: >-
+                        https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Sports/amateur_vs_professional.pdf
+                    text: What Is an Amateur
+                    type: pdf
+        -
+            requirement: d
+            text: |-
+                The attributes (qualities) of a good sport, the importance of
+                sportsmanship, and the traits of a good team leader and player
+                who exhibits Scout spirit on and off the playing field
+            resources:
+                -
+                    href: https://youtu.be/KoDu2FpU57c
+                    text: What Is Good Sportsmanship?
+                    type: video
+-
+    requirement: 4
+    text: |-
+        Select TWO of the following sports and discuss with your counselor how
+        you will complete the requirements in 5(a) through 5(h) for each sport:
+        badminton, baseball, basketball, bowling, cross-country, diving, field
+        hockey, flag football, flag team, golf, gymnastics, ice hockey,
+        lacrosse, soccer, softball, spirit/cheerleading, swimming, tackle
+        football, table tennis, tennis, track and field, volleyball, water polo,
+        and/or wrestling. Your counselor may approve in advance other recognized
+        sports, but not any sport that is prohibited by Scouting America. The
+        sports you choose must include regular practice sessions and at least
+        four structured, officiated, scored games, meets, or contests against
+        other competitive individuals or organized teams during the period of
+        participation.
+-
+    requirement: 5
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                With guidance from your counselor, establish a suitable personal
+                training program that you will follow throughout your
+                competition season (or for three months).
+            resources:
+                -
+                    href: https://youtu.be/x-bWOeFFQvk
+                    text: How To PUSH UP
+                    type: video
+                -
+                    href: https://youtu.be/eSPO3E7Qoy4
+                    text: How To PULL UP
+                    type: video
+                -
+                    href: https://youtu.be/GD2F5sqsK1o?
+                    text: How To SQUAT
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Create a chart or other tracking system, and document your
+                training, practice, and development during this time.
+            resources:
+                -
+                    href: >-
+                        https://isport360.com/7-powerful-journaling-ideas-for-youth-sports-athletes/
+                    text: 7 Powerful Journaling Ideas for Youth Sports Athletes
+                    type: website
+        -
+            requirement: c
+            text: |-
+                Demonstrate proper technique to play each sport effectively and
+                avoid injury.
+        -
+            requirement: d
+            text: |-
+                List and describe the equipment needed for each sport, including
+                protective equipment and any specialized clothing.
+            resources:
+                -
+                    href: >-
+                        https://www.spookynooksports.com/blog/manheim/equipment-needed-to-play-sports
+                    text: Equipment Needed To Play Various Sports
+                    type: website
+        -
+            requirement: e
+            text: List and explain the rules and proper etiquette of each sport.
+            resources:
+                -
+                    href: https://youtu.be/oyjYgmsM00Q
+                    text: Rules of Basketball
+                    type: video
+                -
+                    href: https://youtu.be/99nN7WWNF1Q
+                    text: How To Play Golf
+                    type: video
+                -
+                    href: https://youtu.be/nT5qyrxoqsA
+                    text: Rules of Soccer
+                    type: video
+                -
+                    href: https://youtu.be/MgzNVaubBNM
+                    text: How To Participate in Cheerleading Competitions
+                    type: video
+                -
+                    href: https://youtu.be/daiZtbGFdDM
+                    text: Baseball Basics
+                    type: video
+                -
+                    href: https://youtu.be/Q6-aH-op4g4
+                    text: Rules of Fencing
+                    type: video
+                -
+                    href: https://youtu.be/OFiDged4Z2s
+                    text: American Football Rules
+                    type: video
+                -
+                    href: https://youtu.be/907TGg-CXYc
+                    text: How To Play Volleyball
+                    type: video
+                -
+                    href: https://youtu.be/H_70vAiyyXM
+                    text: Rules of Ice Hockey
+                    type: video
+        -
+            requirement: f
+            text: Draw and explain a diagram of the playing area for each sport.
+            resources:
+                -
+                    href: >-
+                        https://pioneerathletics.com/painting-fields/field-diagrams
+                    text: Fields of Play for Various Sports
+                    type: website
+        -
+            requirement: g
+            text: |-
+                Participate in each sport as a competitive individual or as a
+                member of an organized team for one season (or for three
+                months).
+        -
+            requirement: h
+            text: |-
+                At the end of the season, share your completed chart with your
+                counselor and discuss how your participation in the sports you
+                chose has affected you mentally and physically.
+-
+    requirement: 6
+    text: 'Do ONE of the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Identify three career opportunities that would use skills and
+                knowledge related to a sport. Pick one and research the
+                training, education, certification requirements, experience, and
+                expenses associated with entering the field. Research the
+                prospects for employment, starting salary, advancement
+                opportunities and career goals associated with this career.
+                Discuss what you learned with your counselor and whether you
+                might be interested in this career.
+            resources:
+                -
+                    href: https://youtu.be/--HEntd1wcQ
+                    text: Sports Jobs for Non-Athletes
+                    type: video
+                -
+                    href: https://youtu.be/OQipQaPyfvY
+                    text: Career Advice for Pro Athletes
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Identify how you might use skills and knowledge related to a
+                sport to pursue a personal hobby and/or healthy lifestyle.
+                Research the additional training required, expenses, and
+                affiliation with organizations that would help you maximize the
+                enjoyment and benefit you might gain from it. Discuss what you
+                learned with your counselor and share what short-term and
+                long-term goals you might have if you pursued this.
+            resources:
+                -
+                    href: https://youtu.be/3DM3_ocFy0U
+                    text: What Happens When You Start Eating Healthy?
+                    type: video

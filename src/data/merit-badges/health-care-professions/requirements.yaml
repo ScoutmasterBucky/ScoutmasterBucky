@@ -1,142 +1,483 @@
-# Same goes for (a), (b), etc missing parentheis for sub-requirements.
-# Requirement 4's group needs a break between 2 and 3 - fixed
-# Requirement 4's group also needs to remove the break between "Radiology Technologist" - fixed
-# Requirement 5's children were all in one big block - fixed
-# Requirement 5 has "theirworkplace" - fixed
-# Removed space in requirement 9 "parents/ guardian"
-- requirement: 1
-  text: |-
-      Select three of the professions from Group 1 listed below which interest
-      you, then complete the following:
-      <div class="gap"></div>
-      <strong>Group 1:</strong><br />
-      (1) Allopathic physician (MD) -- all specialties<br />
-      (2) Osteopathic physician (DO) -- all specialties<br />
-      (3) Podiatrist (DPM)<br />
-      (4) Chiropractor (DC)<br />
-      (5) Nurse Practitioner (NP)<br />
-      (6) Psychologist (PhD or PsyD)<br />
-      (7) Optometrist (OD)<br />
-      (8) Audiologist (AudD)
-  children:
-      - requirement: a
-        text: |-
-            Briefly describe to your counselor the roles these professionals
-            play in the delivery of health care.
-      - requirement: b
-        text: |-
-            Describe to your counselor the educational and licensing
-            requirements for the professionals you selected.
-- requirement: 2
-  text: |-
-      Select three of the professions from Group 2 listed below which interest
-      you, then complete the following:
-      <div class="gap"></div>
-      <strong>Group 2:</strong><br />
-      (1) Physician Assistant (PA)<br />
-      (2) Registered Nurse (RN)<br />
-      (3) Certified Nurse Midwife (CNM)<br />
-      (4) Certified Nurse Assistant (CNA)<br />
-      (5) Licensed Practical Nurse (LPN/LVN)<br />
-      (6) Nurse Anesthetist (CRNA)<br />
-      (7) Pharmacist (PharmD)<br />
-      (8) Pharmacy Technician<br />
-      (9) Emergency Medical Technician (EMT)/Paramedic
-  children:
-      - requirement: a
-        text: |-
-            Briefly describe to your counselor the roles these professionals
-            play in the delivery of health care.
-      - requirement: b
-        text: |-
-            Describe to your counselor the educational and licensing
-            requirements for the professionals you selected.
-- requirement: 3
-  text: |-
-      Select three of the professions from Group 3 listed below which interest
-      you, then complete the following:
-      <div class="gap"></div>
-      <strong>Group 3:</strong><br />
-      (1) Physical Therapist (DPT)<br />
-      (2) Occupational Therapist (OT)<br />
-      (3) Orthotist/Prosthetist<br />
-      (4) Medical Appliance Technician<br />
-      (5) Respiratory Therapist (RT)<br />
-      (6) Medical Assistant<br />
-      (7) Dietitian (RD)<br />
-      (8) Speech-Language Pathologist (Speech Therapist) (SLP)
-  children:
-      - requirement: a
-        text: |-
-            Briefly describe to your counselor the roles these professionals
-            play in the delivery of health care.
-      - requirement: b
-        text: |-
-            Describe to your counselor the educational and licensing
-            requirements for the professionals you selected.
-- requirement: 4
-  text: |-
-      Select three of the professions from Group 4 listed below which interest
-      you, then complete the following:
-      <div class="gap"></div>
-      <strong>Group 4:</strong><br />
-      (1) Biomedical Engineer (BME)<br />
-      (2) Medical Technologist<br />
-      (3) Phlebotomist<br />
-      (4) Radiology Technologist<br />
-      (5) Sonographer<br />
-      (6) Medical Records Specialist<br />
-      (7) Cytopathologist<br />
-      (8) Histotechnologist
-  children:
-      - requirement: a
-        text: |-
-            Briefly describe to your counselor the roles these professionals
-            play in the delivery of health care.
-      - requirement: b
-        text: |-
-            Describe to your counselor the educational and licensing
-            requirements for the professionals you selected.
-- requirement: 5
-  text: |-
-      Select one career from any of the lists in Requirements 1, 2, 3, or 4 and
-      arrange to visit that professional at their workplace. Discuss with your
-      counselor the following:
-  children:
-      - requirement: a
-        text: |-
-            Why did they choose their particular career?
-      - requirement: b
-        text: |-
-            What do they most like about their job?
-      - requirement: c
-        text: |-
-            What are their biggest challenges in doing their job?
-      - requirement: d
-        text: |-
-            Identify the tools/instruments that may be used in their jobs.
-      - requirement: e
-        text: |-
-            What has been the most surprising aspect of their career?
-      - requirement: f
-        text: |-
-            What continuing education requirements are required to maintain
-            certification?
-- requirement: 6
-  text: |-
-      Discuss with your counselor your understanding of the meaning of the
-      Physician's Oath.
-- requirement: 7
-  text: |-
-      Describe the role of confidentiality between a patient and the health care
-      provider. What is HIPAA?
-- requirement: 8
-  text: |-
-      Identify a medical advancement or discovery that has been in the news
-      recently. Discuss with your counselor how this can affect patient care.
-- requirement: 9
-  text: |-
-      With your parent or guardian's and counselor's approval, serve as a
-      volunteer at a health-related event or facility in your community (e.g.
-      blood drive, health fair, blood pressure screening event). Report to your
-      counselor what you did and learned from the experience.
+# Need to be careful about the gaps that are inserted with the conversion tool
+# AUTO: WARNING: Found "website/video" resource type near "Choose a Career in Cytology...". This should be "website with video".
+-
+    requirement: 1
+    text: |-
+        Select three of the professions from Group 1 listed below which interest
+        you, then complete the following:
+        <div class="gap"></div>
+        <strong>Group 1:</strong><br/>
+        (1) Allopathic physician (MD)—all specialties<br/>
+        (2) Osteopathic physician (DO)—all specialties<br/>
+        (3) Podiatrist (DPM)<br/>
+        (4) Chiropractor (DC)<br/>
+        (5) Nurse Practitioner (NP)<br/>
+        (6) Psychologist (PhD or PsyD)<br/>
+        (7) Optometrist (OD)<br/>
+        (8) Audiologist (AudD)
+    children:
+        -
+            requirement: a
+            text: |-
+                Briefly describe to your counselor the roles these professionals
+                play in the delivery of health care.
+            resources:
+                -
+                    href: >-
+                        https://www.webmd.com/a-to-z-guides/what-is-allopathic-doctor
+                    text: What Is an Allopathic Doctor
+                    type: website
+                -
+                    href: https://youtu.be/6HUyrcPBY7k%5D
+                    text: Osteopathic Medicine
+                    type: video
+                -
+                    href: https://youtu.be/E6kdVVJ_QWU
+                    text: What Is a Podiatrist
+                    type: video
+                -
+                    href: https://youtu.be/3G0_IABxZ0w
+                    text: What Is Chiropractic
+                    type: video
+                -
+                    href: https://youtu.be/AMlhZ7U0N9s
+                    text: What Is a Nurse Practitioner
+                    type: video
+                -
+                    href: https://youtu.be/93UCR__hCTw
+                    text: What Is Clinical Psychology?
+                    type: video
+                -
+                    href: https://youtu.be/UAm8HDMK_es
+                    text: What Is an Optometrist
+                    type: video
+                -
+                    href: https://youtu.be/R9CEZpNCE60
+                    text: What Is an Audiologist? | The Hearing Doctor
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Describe to your counselor the educational and licensing
+                requirements for the professionals you selected.
+            resources:
+                -
+                    href: https://youtu.be/j2d8W_BE3o8
+                    text: |-
+                        M.D. vs. D.O. | Allopathic and Osteopathic Medical
+                        School Comparison
+                    type: video
+                -
+                    href: https://youtu.be/8OcVv32Mjmw
+                    text: |-
+                        How To Become a Podiatrist? [What Is a Podiatrist? What
+                        Do They Do?]
+                    type: video
+                -
+                    href: https://www.youtube.com/shorts/hTGqTMjKb1o
+                    text: How Long Does It Take to Become a Chiropractor
+                    type: video
+                -
+                    href: https://youtu.be/3RyalfewLR0
+                    text: How To Become a Nurse Practioner
+                    type: video
+                -
+                    href: https://youtu.be/lyamNv-5u_o
+                    text: PhD vs PsyD | What's the Difference?
+                    type: video
+                -
+                    href: https://youtu.be/MOlylzP3hFM
+                    text: How To Become an Optometrist
+                    type: video
+                -
+                    href: https://youtube.com/shorts/ktKV6ho8ApA
+                    text: How To Become an Audiologist
+                    type: video
+-
+    requirement: 2
+    text: |-
+        Select three of the professions from Group 2 listed below which interest
+        you, then complete the following:
+        <div class="gap"></div>
+        <strong>Group 2:</strong><br/>
+        (1) Physician Assistant (PA)<br/>
+        (2) Registered Nurse (RN)<br/>
+        (3) Certified Nurse Midwife (CNM)<br/>
+        (4) Certified Nurse Assistant (CNA)<br/>
+        (5) Licensed Practical Nurse (LPN/LVN)<br/>
+        (6) Nurse Anesthetist (CRNA)<br/>
+        (7) Pharmacist (PharmD)<br/>
+        (8) Pharmacy Technician<br/>
+        (9) Emergency Medical Technician (EMT)/Paramedic
+    children:
+        -
+            requirement: a
+            text: |-
+                Briefly describe to your counselor the roles these professionals
+                play in the delivery of health care.
+            resources:
+                -
+                    href: https://youtu.be/6k_5efDHiuE
+                    text: What's a PA? (Physician Assistant)
+                    type: video
+                -
+                    href: https://youtu.be/zl5Ht3B8li4
+                    text: What Does a Registered Nurse Do?
+                    type: video
+                -
+                    href: https://youtu.be/ApgsKWHr3rs
+                    text: What Is a Certified-Nurse Midwife?
+                    type: video
+                -
+                    href: https://youtu.be/2o1MR4A5OXg
+                    text: |-
+                        Everything You Need to Know About Being a CNA I Indeed
+                        Career Tips
+                    type: video
+                -
+                    href: https://youtu.be/4L7NUe-TTKE
+                    text: What It's Like to Be a Licensed Vocational Nurse
+                    type: video
+                -
+                    href: https://youtu.be/rOTZqTeoiSY
+                    text: What Is a Nurse Anesthetist (CrMA) and What Do They Do?
+                    type: video
+                -
+                    href: https://youtu.be/5z91xwzWkec
+                    text: What Does a Pharmacist Do? The Top Daily Tasks
+                    type: video
+                -
+                    href: https://youtu.be/qj-A2SGSSPY
+                    text: Pharmacy Technician a Guide to Pharmacy Tech Duties
+                    type: video
+                -
+                    href: https://youtu.be/C8zIHk9KKqI
+                    text: Emergency Medical Technicians and Paramedics Careers
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Describe to your counselor the educational and licensing
+                requirements for the professionals you selected.
+            resources:
+                -
+                    href: https://youtu.be/uhN_gxiNoJo
+                    text: |-
+                        How To Become a Physician Assistant (Step-by-Step Guide)
+                        | Physician Assistant Explains
+                    type: video
+                -
+                    href: https://youtu.be/lBCgJJxwmHY
+                    text: |-
+                        Registered Nurse (RN) Career Roadmap | Skills, Licensing
+                        &amp; Salary
+                    type: video
+                -
+                    href: https://youtu.be/RCBN4ZVjox0
+                    text: |-
+                        Becoming a Nurse Midwife: Time, Cost &amp; Salary
+                        Breakdown
+                    type: video
+                -
+                    href: https://youtu.be/DbK8JqUxLQA
+                    text: CNA / Nurse Aide Class [What to Expect]
+                    type: video
+                -
+                    href: https://youtu.be/jwvJ1pq8l4k
+                    text: How To Become an LPN / LVN Nurse
+                    type: video
+                -
+                    href: https://youtu.be/0H8J1jHWf2s
+                    text: The Fastest Way To Become a CRMA!
+                    type: video
+                -
+                    href: https://youtu.be/796Sgsrog-Q
+                    text: Steps To Becoming a Pharmacist
+                    type: video
+                -
+                    href: https://youtu.be/TsjkPRouZHU
+                    text: 'Pharmacy Tech Career: How To Get Started Fast!'
+                    type: video
+                -
+                    href: https://youtu.be/Zf8bGNZWz9s
+                    text: 'Becoming an EMT: What You Need To Know'
+                    type: video
+-
+    requirement: 3
+    text: |-
+        Select three of the professions from Group 3 listed below which interest
+        you, then complete the following:
+        <div class="gap"></div>
+        <strong>Group 3:</strong><br/>
+        (1) Physical Therapist (DPT)<br/>
+        (2) Occupational Therapist (OT)<br/>
+        (3) Orthotist/Prosthetist<br/>
+        (4) Medical Appliance Technician<br/>
+        (5) Respiratory Therapist (RT)<br/>
+        (6) Medical Assistant<br/>
+        (7) Dietitian (RD)<br/>
+        (8) Speech-Language Pathologist (Speech Therapist) (SLP)
+    children:
+        -
+            requirement: a
+            text: |-
+                Briefly describe to your counselor the roles these professionals
+                play in the delivery of health care.
+            resources:
+                -
+                    href: https://youtu.be/FOF71Lb5SkA
+                    text: Physical Therapists Careers
+                    type: video
+                -
+                    href: https://youtu.be/109WlBHvCkk
+                    text: Career Profile—Occupational Therapist
+                    type: video
+                -
+                    href: https://youtu.be/wncQLXXiM00
+                    text: Orthotists and Prosthetists Careers
+                    type: video
+                -
+                    href: https://youtu.be/UGAJm9Zj4b8
+                    text: Medical Appliance Technicians Career
+                    type: video
+                -
+                    href: https://youtu.be/OOcQCy9Pq-s
+                    text: 'Behind the Scenes: Respiratory Therapists'
+                    type: video
+                -
+                    href: https://youtu.be/ifG-Q_5sdxw
+                    text: What Is Medical Assisting?
+                    type: video
+                -
+                    href: https://youtu.be/76Mk3MyXfQw
+                    text: What Is a Dietitians Role?
+                    type: video
+                -
+                    href: https://youtu.be/Ti-bwsayqfc
+                    text: |-
+                        What Does a Speech Language Pathologist Do? | Speech
+                        Fact Friday
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Describe to your counselor the educational and licensing
+                requirements for the professionals you selected.
+            resources:
+                -
+                    href: https://youtu.be/I70zVX85Kvo
+                    text: How To Become a Physical Therapist
+                    type: video
+                -
+                    href: https://youtu.be/_JeI8jBcZ8I
+                    text: Everything You Need To Know About Occupational Therapist
+                    type: video
+                -
+                    href: https://youtu.be/6HRhBkpF4XM
+                    text: Prosthetic and Orthotic School Comparison
+                    type: video
+                -
+                    href: https://youtu.be/7-4zTZNnp30
+                    text: Become a Biomedical Equipment Technician
+                    type: video
+                -
+                    href: https://youtu.be/zXYraQ1Uv2s
+                    text: How To Become a Respiratory Therapist (Step-by-Step)
+                    type: video
+                -
+                    href: https://youtu.be/skFM5uPOP2U
+                    text: |-
+                        How To Become a Medical Assistant (5 Steps To a New
+                        Career!)
+                    type: video
+                -
+                    href: https://youtu.be/zvbXjm2ThvQ
+                    text: |-
+                        Career: How To Become a Registered Dietitian
+                        Nutritionist
+                    type: video
+                -
+                    href: https://youtu.be/VdGSkYL3u5A
+                    text: How Do You Become a Speech-Language Pathologist (SLP)?
+                    type: video
+-
+    requirement: 4
+    text: |-
+        Select three of the professions from Group 4 listed below which interest
+        you, then complete the following:
+        <div class="gap"></div>
+        <strong>Group 4:</strong>
+        (1) Biomedical Engineer (BME)<br/>
+        (2) Medical Technologist<br/>
+        (3) Phlebotomist<br/>
+        (4) Radiology Technologist<br/>
+        (5) Sonographer<br/>
+        (6) Medical Records Specialist<br/>
+        (7) Cytopathologist<br/>
+        (8) Histotechnologist
+    children:
+        -
+            requirement: a
+            text: |-
+                Briefly describe to your counselor the roles these professionals
+                play in the delivery of health care.
+            resources:
+                -
+                    href: https://youtu.be/QlnZpv713V4
+                    text: So You Want To Be a Biomedical Engineer
+                    type: video
+                -
+                    href: https://youtu.be/uSvPqsyT_wE
+                    text: What Does a Medical Technologist Do?
+                    type: video
+                -
+                    href: >-
+                        https://www.tiktok.com/@phlebmastery/video/7390411472243051781
+                    text: What Is Phlebotomy?
+                    type: video
+                -
+                    href: https://youtu.be/yGieTgpDy0Y
+                    text: Radiologic Technologists and Technicians Careers
+                    type: video
+                -
+                    href: https://youtu.be/4K6tf27z6wU
+                    text: Sonography—A Sound Career Choice
+                    type: video
+                -
+                    href: https://youtu.be/s7hcDF8XiDA
+                    text: Medical Records Specialists Career
+                    type: video
+                -
+                    href: https://youtu.be/3wgOE4uc0TY
+                    text: Consider a Career in Cytology
+                    type: video
+                -
+                    href: https://youtu.be/bI_frG7TG6E
+                    text: 'Behind the Scenes: Histotechnologist'
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Describe to your counselor the educational and licensing
+                requirements for the professionals you selected.
+            resources:
+                -
+                    href: >-
+                        https://www.tiktok.com/@futurecheme/video/7353059059412585770
+                    text: Biomedical Engineering
+                    type: video
+                -
+                    href: https://www.coursera.org/articles/medical-technologist
+                    text: How To Become a Medical Technologist
+                    type: website
+                -
+                    href: https://youtu.be/8CsBFLL6MQo
+                    text: |-
+                        How To Become a Phlebotomist—From Phlebotomy Training To
+                        Certification
+                    type: video
+                -
+                    href: https://youtu.be/Kz8rF2usnuI
+                    text: |-
+                        How To Become a Radiologic Technologist | X-Ray Tech |
+                        Prerequisites | Radiology Program | Clinicals
+                    type: video
+                -
+                    href: https://youtu.be/PeIsLi0Jp0k
+                    text: 'How To Become an Ultrasound Tech: Step-by-Step Guide'
+                    type: video
+                -
+                    href: >-
+                        https://preppy.org/how-to-become-a-medical-records-specialist/
+                    text: How To Become a Medical Records Specialist
+                    type: website
+                -
+                    href: https://cytopathology.org/page/cytologycareer
+                    text: Choose a Career in Cytology
+                    type: website with video
+                -
+                    href: >-
+                        https://www.nsh.org/about/about-histotechnology/how-histotechnology
+                    text: What It Takes to Be a Histotechnician
+                    type: website
+-
+    requirement: 5
+    text: |-
+        Select one career from any of the lists in Requirements 1, 2, 3, or 4
+        and arrange to visit that professional at their workplace. Discuss with
+        your counselor the following:
+    resources:
+        -
+            href: https://youtu.be/Mqo0IsStelk
+            text: 'The Informational Interview: Researching a Career'
+            type: video
+    children:
+        -
+            requirement: a
+            text: Why did they choose their particular career?
+        -
+            requirement: b
+            text: What do they most like about their job?
+        -
+            requirement: c
+            text: What are their biggest challenges in doing their job?
+        -
+            requirement: d
+            text: Identify the tools/instruments that may be used in their jobs.
+        -
+            requirement: e
+            text: What has been the most surprising aspect of their career?
+        -
+            requirement: f
+            text: |-
+                What continuing education requirements are required to maintain
+                certification?
+-
+    requirement: 6
+    text: |-
+        Discuss with your counselor your understanding of the meaning of the
+        Physician's Oath.
+    resources:
+        -
+            href: https://youtu.be/QbU61uO3Vdw
+            text: Hippocratic Oath / Physician's Creed
+            type: video
+-
+    requirement: 7
+    text: |-
+        Describe the role of confidentiality between a patient and the health
+        care provider. What is HIPAA?
+    resources:
+        -
+            href: https://youtu.be/t2SB6JtgPhM
+            text: Privacy and Confidentiality
+            type: video
+        -
+            href: https://youtu.be/HQK637UTyMU
+            text: What Is HIPAA?
+            type: video
+-
+    requirement: 8
+    text: |-
+        Identify a medical advancement or discovery that has been in the news
+        recently. Discuss with your counselor how this can affect patient care.
+    resources:
+        -
+            href: https://youtu.be/Wx40AwP_TRs
+            text: Top Medical Breakthroughs of 2025
+            type: video
+        -
+            href: https://youtu.be/5kwyuYJ2xEA
+            text: How AI Is Transforming Healthcare Across the Country
+            type: video
+        -
+            href: https://youtu.be/QSE4FcT4z_g
+            text: Cutting-Edge Medical Advances To Come in 2026
+            type: video
+-
+    requirement: 9
+    text: |-
+        With your parent or guardian's and counselor's approval, serve as a
+        volunteer at a health-related event or facility in your community (e.g.
+        blood drive, health fair, blood pressure screening event). Report to
+        your counselor what you did and learned from the experience.

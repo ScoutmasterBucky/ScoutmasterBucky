@@ -1,132 +1,346 @@
-- requirement: 1
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Discuss with your counselor the following hazards you might encounter
-            while motorboating: flammable fuel; carbon monoxide; propellers;
-            collisions; falls overboard; capsize; running aground. Explain what
-            you should do to anticipate, prevent, mitigate and respond to these
-            hazards.
-      - requirement: b
-        text: |-
-            Explain first aid for injuries or illnesses that could occur while
-            motorboating, including hypothermia, heat reactions, dehydration,
-            motion sickness, bug bites, blisters.
-      - requirement: c
-        text: |-
-            Discuss the Scouting America Safety Afloat policy. Tell how it
-            applies to motorboating activities.
-- requirement: 2
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Before doing requirement 5, successfully complete the Scouting America
-            swimmer test.
-            <div class="gap"></div>
-            <b>Note:</b> See the <a href="../swimming/"><i>Swimming</i> merit
-            badge</a> pamphlet for details about the Scouting America swimmer test.
-      - requirement: b
-        text: |-
-            Name the different types of personal flotation devices (PFDs), and
-            explain when each type should be used. Show how to choose and properly
-            fit a PFD.
-- requirement: 3
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain inboard, outboard, and inboard/outboard motors, and the uses
-            and advantages of each.
-      - requirement: b
-        text: |-
-            Explain the safety procedures and precautions involving handling fuel
-            and engine servicing, and equipment storage and placement.
-      - requirement: c
-        text: |-
-            Explain how to winterize a boat motor and tell why this procedure is
-            necessary.
-      - requirement: d
-        text: |-
-            Explain the safety procedures and precautions involving swimmers and
-            skiers in the water, passenger positions underway, and boat wakes.
-- requirement: 4
-  text: |-
-      Show you know safety guidelines for motorboating by doing the following:
-  children:
-      - requirement: a
-        text: |-
-            Review how each item of the Scouting America Safety Afloat policy
-            applies, including checking the weather prior to and during time on the
-            water, confirming all required equipment is present and functional, and
-            following a float plan.
-      - requirement: b
-        text: |-
-            Explain the rules or laws that apply to recreational boating in your
-            area or state. Have a permit to operate a motorboat, if required by the
-            laws of your state. Discuss how you would find information regarding
-            the boating laws in different states.
-      - requirement: c
-        text: |-
-            Discuss how hazards of weather and heavy water conditions can affect
-            safety and performance in motorboating.
-      - requirement: d
-        text: |-
-            Promise that you will follow Scouting America Safety Afloat guidelines.
-            Explain the meaning of each point.
-      - requirement: e
-        text: |-
-            Explain and show the correct use of equipment required by both state
-            and federal regulations to be carried aboard a motorboat.
-      - requirement: f
-        text: |-
-            Explain federal and state rules for a ventilation system, and tell why
-            these rules are required
-      - requirement: g
-        text: |-
-            Explain the use of lights (sight signals) and sound signals on
-            motorboats.
-      - requirement: h
-        text: |-
-            Discuss the common types of anchors used in motorboating and under
-            what conditions each would be preferred. Explain proper anchoring
-            techniques.
-- requirement: 5
-  text: |-
-      With your counselor or other adults on board, demonstrate proper
-      boat-handling procedures and skills by doing the following:
-  children:
-      - requirement: a
-        text: |-
-            Board and assist others in boarding. Confirm that all passengers on
-            board are wearing properly fitted life jackets.
-      - requirement: b
-        text: |-
-            Fuel the boat and complete a safety check.
-      - requirement: c
-        text: |-
-            If equipped, attach the engine cut-off switch link and safely start the
-            motor. Get underway from dockside or from a beach launch.
-      - requirement: d
-        text: |-
-            Run a course for at least a mile, showing procedures for overtaking and
-            passing slower vessels, yielding right-of-way, passing oncoming
-            traffic, making turns, reversing direction, and using navigation aids.
-      - requirement: e
-        text: |-
-            Stop and secure the boat in position on the open water using anchors.
-            Raise and stow the anchor and get underway.
-      - requirement: f
-        text: |-
-            Land or dock the boat, disembark, and assist others in doing the same.
-      - requirement: g
-        text: |-
-            Moor, dock, or beach the boat and secure all gear.
-      - requirement: h
-        text: |-
-            Demonstrate knots used in boating: cleating hitch, bowline, clove
-            hitch, anchor bend, sheet bend.
+-
+    requirement: 1
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Discuss with your counselor the following hazards you might
+                encounter while motorboating: flammable fuel; carbon monoxide;
+                propellers; collisions; falls overboard; capsize; or running
+                aground. Explain what you should do to anticipate, prevent,
+                mitigate and respond to these hazards.
+            resources:
+                -
+                    href: https://youtu.be/tQ3cHcqV_8A
+                    text: Running Aground Prevention and Response
+                    type: video
+                -
+                    href: https://youtu.be/gaZQc_trnCs
+                    text: 'Towsport Tips #4 Carbon Monoxide'
+                    type: video
+                -
+                    href: https://youtu.be/TVD0LxihhR8
+                    text: Collision Avoidance Rules
+                    type: video
+                -
+                    href: https://youtu.be/Sj2iIZgXRxk
+                    text: Preventing a Capsizing / Fall Overboard
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Explain first aid for injuries or illnesses that could occur
+                while motorboating, including hypothermia, heat reactions,
+                dehydration, motion sickness, bug bites, blisters.
+            resources:
+                -
+                    href: https://youtu.be/rH3gZuSr6Y8
+                    text: Cold Water Shock—How to Deal With Cold Water Shock
+                    type: video
+                -
+                    href: https://youtu.be/EmNieKLjmH4
+                    text: |-
+                        What Happens If You Don't Drink Enough Water? Signs of
+                        Dehydration + 4 Ways to Keep Hydrated
+                    type: video
+                -
+                    href: https://youtu.be/Rz6Wxiv4aRA
+                    text: Mayo Clinic Minute—Dangers of Heat-Related Illnesses
+                    type: video
+                -
+                    href: >-
+                        https://paddlingmag.com/skills/how-to-prevent-and-treat-blisters/
+                    text: How To Prevent and Treat Blisters
+                    type: website
+        -
+            requirement: c
+            text: |-
+                Discuss the Scouting America Safety Afloat policy. Tell how it
+                applies to motorboating activities.
+            resources:
+                -
+                    href: >-
+                        https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/
+                    text: Safety Afloat
+                    type: website
+-
+    requirement: 2
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Before doing requirement 5, successfully complete the Scouting
+                America swimmer test.
+                <div class="gap"></div>
+                <i><b>NOTE:</b> See the <a
+                href="/merit-badges/swimming/"><i>Swimming</i> merit badge</a>
+                pamphlet for details about the Scouting America swimmer
+                test.</i>
+            resources:
+                -
+                    href: >-
+                        https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf
+                    text: <i>Swimming</i> Merit Badge pamphlet
+                    type: pdf
+        -
+            requirement: b
+            text: |-
+                Name the different types of personal flotation devices (PFDs),
+                and explain when each type should be used. Show how to choose
+                and properly fit a PFD.
+            resources:
+                -
+                    href: https://youtu.be/4y9XPNy1L1U
+                    text: How To Choose the Right Life Jacket
+                    type: video
+-
+    requirement: 3
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain inboard, outboard, and inboard/outboard motors, and the
+                uses and advantages of each.
+            resources:
+                -
+                    href: https://youtu.be/1U10bHSLZQ4
+                    text: |-
+                        Whats the Difference Between Inboard, Outboard &amp;
+                        Sterndrive Boat Engines?
+                    type: video
+                -
+                    href: https://youtu.be/KNOmP3Z8YKg
+                    text: Engine Types
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Explain the safety procedures and precautions involving handling
+                fuel and engine servicing, and equipment storage and placement.
+            resources:
+                -
+                    href: https://youtu.be/0LAyvXOn_Ug
+                    text: Fueling Procedures
+                    type: video
+                -
+                    href: >-
+                        https://www.boat-ed.com/indiana/studyGuide/Engine-Maintenance/10101602_35162
+                    text: Engine Servicing
+                    type: website
+        -
+            requirement: c
+            text: |-
+                Explain how to winterize a boat motor and tell why this
+                procedure is necessary.
+            resources:
+                -
+                    href: https://youtu.be/5LLUFFq9zgA
+                    text: Winterize Your Boat Like a Pro in 7 Steps
+                    type: video
+        -
+            requirement: d
+            text: |-
+                Explain the safety procedures and precautions involving swimmers
+                and skiers in the water, passenger positions underway, and boat
+                wakes.
+            resources:
+                -
+                    href: https://youtu.be/h6KbCnRXkyM
+                    text: Boat Wakes
+                    type: video
+-
+    requirement: 4
+    text: 'Show you know safety guidelines for motorboating by doing the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Review how each item of the Scouting America Safety Afloat
+                policy applies, including checking the weather prior to and
+                during time on the water, confirming all required equipment is
+                present and functional, and following a float plan.
+        -
+            requirement: b
+            text: |-
+                Explain the rules or laws that apply to recreational boating in
+                your area or state. Have a permit to operate a motorboat, if
+                required by the laws of your state. Discuss how you would find
+                information regarding the boating laws in different states.
+            resources:
+                -
+                    href: >-
+                        https://www.discoverboating.com/ownership/safety/boating-rules-and-regulations-by-state
+                    text: Boating Rules and Regulations by State
+                    type: website
+        -
+            requirement: c
+            text: |-
+                Discuss how hazards of weather and heavy water conditions can
+                affect safety and performance in motorboating.
+            resources:
+                -
+                    href: https://youtu.be/pigz13CeesU
+                    text: Foul Weather Boating
+                    type: video
+                -
+                    href: https://youtu.be/vbCSQyOPvbE
+                    text: Coping With Foul Weather
+                    type: video
+                -
+                    href: https://youtu.be/6_Q_1_jyHuY
+                    text: Operation in Restricted Visibility
+                    type: video
+        -
+            requirement: d
+            text: |-
+                Promise that you will follow Scouting America Safety Afloat
+                guidelines. Explain the meaning of each point.
+        -
+            requirement: e
+            text: |-
+                Explain and show the correct use of equipment required by both
+                state and federal regulations to be carried aboard a motorboat.
+            resources:
+                -
+                    href: https://youtu.be/biRTksu9ZNw
+                    text: |-
+                        Coast Guard Requirements: What Items You Must Have in
+                        Your Boat (ID, Tools, etc)
+                    type: video
+        -
+            requirement: f
+            text: |-
+                Explain federal and state rules for a ventilation system, and
+                tell why these rules are required.
+            resources:
+                -
+                    href: https://youtu.be/XlhfoJt_m0U
+                    text: Ventilation Systems
+                    type: video
+        -
+            requirement: g
+            text: |-
+                Explain the use of lights (sight signals) and sound signals on
+                motorboats.
+            resources:
+                -
+                    href: https://youtu.be/fbyeg5y_qPE
+                    text: Navigation Light Equipment
+                    type: video
+        -
+            requirement: h
+            text: |-
+                Discuss the common types of anchors used in motorboating and
+                under what conditions each would be preferred. Explain proper
+                anchoring techniques.
+            resources:
+                -
+                    href: https://youtu.be/Iv3_8a7N_aE
+                    text: Anchoring
+                    type: video
+                -
+                    href: https://youtu.be/tK_d6wYEsP4
+                    text: Anchoring Tips
+                    type: video
+                -
+                    href: https://youtu.be/3CHgH0irUIA
+                    text: Anchoring a Boat | Basics of Boating
+                    type: video
+-
+    requirement: 5
+    text: |-
+        With your counselor or other adults on board, demonstrate proper
+        boat-handling procedures and skills by doing the following:
+    children:
+        -
+            requirement: a
+            text: |-
+                Board and assist others in boarding. Confirm that all passengers
+                on board are wearing properly fitted life jackets.
+            resources:
+                -
+                    href: https://youtu.be/PjpUIpX5Fw8
+                    text: Boating Equipment—Personal Flotation Devices (PFDs)
+                    type: video
+                -
+                    href: https://youtu.be/KVCNH96HqFs
+                    text: Life Jacket Safety Essentials | Discover Boating
+                    type: video
+        -
+            requirement: b
+            text: Fuel the boat and complete a safety check.
+            resources:
+                -
+                    href: https://youtu.be/NyqsxYaWJS4
+                    text: 'Quick Tip: Pre-Boating Inspection &amp; Safety Checklist'
+                    type: video
+        -
+            requirement: c
+            text: |-
+                If equipped, attach the engine cut-off switch link and safely
+                start the motor. Get underway from dockside or from a beach
+                launch.
+            resources:
+                -
+                    href: https://youtu.be/IOM4aTiH2Pc
+                    text: Launching a Boat
+                    type: video
+        -
+            requirement: d
+            text: |-
+                Run a course for at least a mile, showing procedures for
+                overtaking and passing slower vessels, yielding right-of-way,
+                passing oncoming traffic, making turns, reversing direction, and
+                using navigation aids.
+            resources:
+                -
+                    href: https://youtu.be/-Ozqi07qgi8
+                    text: |-
+                        What Every Boater Needs To Know About Boating
+                        Rules/Safety
+                    type: video
+        -
+            requirement: e
+            text: |-
+                Stop and secure the boat in position on the open water using
+                anchors. Raise and stow the anchor and get underway.
+        -
+            requirement: f
+            text: |-
+                Land or dock the boat, disembark, and assist others in doing the
+                same.
+            resources:
+                -
+                    href: https://youtu.be/7WaH87ZYBLs
+                    text: Retrieving a Boat
+                    type: video
+        -
+            requirement: g
+            text: Moor, dock, or beach the boat and secure all gear.
+            resources:
+                -
+                    href: https://youtu.be/VGfCKxv5t70
+                    text: How To Tie a Boat to a Dock
+                    type: video
+                -
+                    href: >-
+                        https://www.boatus.com/expert-advice/expert-advice-archive/2014/august/beaching-your-boat
+                    text: Beaching Your Boat
+                    type: website
+        -
+            requirement: h
+            text: |-
+                Demonstrate knots used in boating: cleating hitch, bowline,
+                clove hitch, anchor bend, sheet bend.
+            resources:
+                -
+                    href: https://youtu.be/TbJGKazU1co
+                    text: 10 Knots You Need for Sailing
+                    type: video
+                -
+                    href: https://youtu.be/pEWcxx8998U
+                    text: How To Tie the Anchor Bend Knot | Boating Knots
+                    type: video

@@ -1,98 +1,300 @@
-- requirement: 1
-  text: |-
-      Define law. Tell some of its sources. Describe the functions it serves.
-- requirement: 2
-  text: |-
-      Discuss TWO of the following:
-  children:
-      - requirement: a
-        text: |-
-            Justinian's Code, the Code of Hammurabi, and the Magna Carta
-      - requirement: b
-        text: |-
-            The development of the jury system
-      - requirement: c
-        text: |-
-            Two famous trials in history
-- requirement: 3
-  text: |-
-      Tell what civil law is; tell what criminal law is. Tell the main
-      differences between them. Give examples of each.
-- requirement: 4
-  text: |-
-      Ask five people (not more than one from your immediate family) about the
-      role of law enforcement officers in our society. Discuss their answers with
-      them. Report your findings to your counselor.
-- requirement: 5
-  text: |-
-      Discuss with your counselor several laws that were passed to protect the
-      consumer and the seller. Describe several organizations that provide help
-      to consumers and sellers.
-- requirement: 6
-  text: |-
-      Do ONE of the following:
-  children:
-      - requirement: a
-        text: |-
-            Attend a session of a civil or criminal court. Write 250 words or more
-            on what you saw.
-      - requirement: b
-        text: |-
-            Plan and conduct a mock trial with your troop or school class or
-            other group. After the trial is over, discuss it with the group.
-- requirement: 7
-  text: |-
-      Arrange a visit with a lawyer who works for a business, bank, title
-      company, or government agency. Find out his or her duties and
-      responsibilities. Report what you have learned.
-- requirement: 8
-  text: |-
-      Explain the requirements for becoming a lawyer in your state. Describe how
-      judges are selected in your state.
-- requirement: 9
-  text: |-
-      Make a list of 15 jobs that deal with some aspects of law or legal
-      processes. Tell which you prefer. Why?
-- requirement: 10
-  text: |-
-      Tell where people can go to obtain the help of a lawyer if they are unable
-      to pay for one. Tell what you can do if you can afford a lawyer but do not
-      know of any in your area.
-- requirement: 11
-  text: |-
-      Discuss with your counselor the importance in our society of TWO of the
-      following areas of the law or process:
-  children:
-      - requirement: a
-        text: |-
-            Administrative
-      - requirement: b
-        text: |-
-            Alternative Dispute Resolution
-      - requirement: c
-        text: |-
-            Bankruptcy
-      - requirement: d
-        text: |-
-            Biotechnology
-      - requirement: e
-        text: |-
-            Environmental
-      - requirement: f
-        text: |-
-            Family
-      - requirement: g
-        text: |-
-            Immigration
-      - requirement: h
-        text: |-
-            Information Technology
-      - requirement: i
-        text: |-
-            Intellectual Property, (Copyright, Patents and Trademarks)
-      - requirement: j
-        text: |-
-            International
-      - requirement: k
-        text: |-
-            Privacy
+# AUTO: WARNING: Found URL ending with "%20" near "What Is Biotechnology Law?...". This should be cleaned up.
+# AUTO: WARNING: Found URL ending with "%20" near "Tech Law &amp; Privacy Law...". This should be cleaned up.
+-
+    requirement: 1
+    text: Define law. Tell some of its sources. Describe the functions it serves.
+    resources:
+        -
+            href: https://guides.law.sc.edu/c.php?g=315539&p=10379907
+            text: Sources of Law
+            type: website
+-
+    requirement: 2
+    text: 'Discuss TWO of the following:'
+    children:
+        -
+            requirement: a
+            text: Justinian's Code, the Code of Hammurabi, and the Magna Carta
+            resources:
+                -
+                    href: https://www.britannica.com/topic/Code-of-Justinian
+                    text: Code of Justinian
+                    type: website
+                -
+                    href: https://youtube.com/shorts/AeQV7RcHku0
+                    text: Code of Justinian
+                    type: video
+                -
+                    href: https://www.history.com/articles/hammurabi
+                    text: Code of Hammurabi
+                    type: website
+                -
+                    href: https://youtube.com/shorts/b0STcHOptgM
+                    text: Code of Hammurabi
+                    type: video
+                -
+                    href: https://youtu.be/7xo4tUMdAMw
+                    text: Magna Carta
+                    type: video
+        -
+            requirement: b
+            text: The development of the jury system
+            resources:
+                -
+                    href: >-
+                        https://www.history.com/articles/trial-by-jury-origins-founding-fathers
+                    text: Origins of Modern Jury System
+                    type: website
+        -
+            requirement: c
+            text: Two famous trials in history
+            resources:
+                -
+                    href: https://www.youtube.com/shorts/RK7B-m6ZKyw
+                    text: Famous Trials That Shaped Legal History
+                    type: video
+-
+    requirement: 3
+    text: |-
+        Tell what civil law is; tell what criminal law is. Tell the main
+        differences between them. Give examples of each.
+    resources:
+        -
+            href: >-
+                https://www.lawhelp.org/resource/the-differences-between-criminal-court-and-ci
+            text: Differences Between Criminal Court and Civil Court
+            type: website
+        -
+            href: https://youtu.be/Zg5ex8WZUao
+            text: What Is the Difference Between Civil Cases and Criminal Cases?
+            type: video
+-
+    requirement: 4
+    text: |-
+        Ask five people (not more than one from your immediate family) about the
+        role of law enforcement officers in our society. Discuss their answers
+        with them. Report your findings to your counselor.
+-
+    requirement: 5
+    text: |-
+        Discuss with your counselor several laws that were passed to protect the
+        consumer and the seller. Describe several organizations that provide
+        help to consumers and sellers.
+    resources:
+        -
+            href: https://youtu.be/e5vmBmyZbqY
+            text: Consumer Protection Law Explained
+            type: video
+-
+    requirement: 6
+    text: 'Do ONE of the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Attend a session of a civil or criminal court. Write 250 words
+                or more on what you saw.
+        -
+            requirement: b
+            text: |-
+                Plan and conduct a mock trial with your troop or school class or
+                other group. After the trial is over, discuss it with the group.
+            resources:
+                -
+                    href: https://youtu.be/jzGBkWpAEQ8
+                    text: Law Merit Badge Mock Trial
+                    type: video
+                -
+                    href: https://youtu.be/qwS1suoSimc
+                    text: How Does a Mock Trial Work?
+                    type: video
+-
+    requirement: 7
+    text: |-
+        Arrange a visit with a lawyer who works for a business, bank, title
+        company, or government agency. Find out his or her duties and
+        responsibilities. Report what you have learned.
+-
+    requirement: 8
+    text: |-
+        Explain the requirements for becoming a lawyer in your state. Describe
+        how judges are selected in your state.
+    resources:
+        -
+            href: https://youtu.be/NvlnLPZaSnk
+            text: How To Become a Lawyer
+            type: video
+-
+    requirement: 9
+    text: |-
+        Make a list of 15 jobs that deal with some aspects of law or legal
+        processes. Tell which you prefer. Why?
+    resources:
+        -
+            href: https://legalcareerpath.com/
+            text: List of Legal Careers
+            type: website
+-
+    requirement: 10
+    text: |-
+        Tell where people can go to obtain the help of a lawyer if they are
+        unable to pay for one. Tell what you can do if you can afford a lawyer
+        but do not know of any in your area.
+    resources:
+        -
+            href: https://www.lsc.gov/
+            text: Legal Help Program If You Cannot Afford an Attorney
+            type: website
+        -
+            href: >-
+                https://www.americanbar.org/groups/public_education/resources/public-information/how-do-i-find-a-lawyer-/
+            text: How To Find An Attorney
+            type: website
+        -
+            href: https://youtu.be/8V35XuRqr-c
+            text: How Do I Find a Lawyer
+            type: video
+-
+    requirement: 11
+    text: |-
+        Discuss with your counselor the importance in our society of TWO of the
+        following areas of the law or process:
+    children:
+        -
+            requirement: a
+            text: Administrative
+            resources:
+                -
+                    href: >-
+                        https://law.pepperdine.edu/blog/posts/understanding-administrative-law.htm
+                    text: Understanding Administrative Law
+                    type: website
+                -
+                    href: https://youtu.be/qzgtxM4hsCQ
+                    text: Who Regulates Daily Life? | Administrative Law Explained
+                    type: video
+        -
+            requirement: b
+            text: Alternative Dispute Resolution
+            resources:
+                -
+                    href: >-
+                        https://www.law.cornell.edu/wex/alternative_dispute_resolution
+                    text: Alternative Dispute Resolution
+                    type: website
+                -
+                    href: https://youtu.be/bUmWRqlL6oM
+                    text: |-
+                        Alternative Dispute Resolution - An Explanation &amp;
+                        Overview
+                    type: video
+        -
+            requirement: c
+            text: Bankruptcy
+            resources:
+                -
+                    href: >-
+                        https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics
+                    text: Bankruptcy Basics
+                    type: website
+                -
+                    href: https://youtu.be/jobpaNCY-LU
+                    text: Bankruptcy Basic
+                    type: video
+        -
+            requirement: d
+            text: Biotechnology
+            resources:
+                -
+                    href: https://testmaxprep.com/blog/bar-exam/biotechnology-law
+                    text: What Is Biotechnology Law?
+                    type: website
+                -
+                    href: https://youtu.be/ytzwXOaIvqQ
+                    text: Biotech Regulation
+                    type: video
+        -
+            requirement: e
+            text: Environmental
+            resources:
+                -
+                    href: https://youtu.be/nq3racsBxg0
+                    text: 'Environmental Law: A Short Introduction'
+                    type: video
+        -
+            requirement: f
+            text: Family
+            resources:
+                -
+                    href: >-
+                        https://www.metlife.com/stories/legal/what-is-family-law/
+                    text: Family Law
+                    type: website
+                -
+                    href: https://youtu.be/7gGHZ6OHIXI
+                    text: Family Law Explained
+                    type: video
+        -
+            requirement: g
+            text: Immigration
+            resources:
+                -
+                    href: >-
+                        https://www.law.georgetown.edu/your-life-career/career-exploration-professional-development/for-jd-students/explore-legal-careers/practice-areas/immigration-law/
+                    text: Immigration Law
+                    type: website
+                -
+                    href: https://youtu.be/f790amgB6fo
+                    text: Immigration Law Explained
+                    type: video
+        -
+            requirement: h
+            text: Information Technology
+            resources:
+                -
+                    href: >-
+                        https://www.ebsco.com/research-starters/computer-science/information-technology-law-cyberlaw
+                    text: Information Technology Law
+                    type: website
+                -
+                    href: https://youtu.be/asByYA3rSCo
+                    text: Cyber Law Explained
+                    type: video
+        -
+            requirement: i
+            text: Intellectual Property, (Copyright, Patents and Trademarks)
+            resources:
+                -
+                    href: >-
+                        https://www.law.georgetown.edu/your-life-career/career-exploration-professional-development/for-jd-students/explore-legal-careers/practice-areas/intellectual-property-law/
+                    text: Intellectual Property Law
+                    type: website
+                -
+                    href: https://youtu.be/JyafmkfQDiY
+                    text: Intellectual Property Law Explained
+                    type: video
+        -
+            requirement: j
+            text: International
+            resources:
+                -
+                    href: https://www.law.cornell.edu/wex/international_law
+                    text: International Law
+                    type: website
+                -
+                    href: https://youtu.be/jTzKgI68VLc
+                    text: What Is International Law
+                    type: video
+        -
+            requirement: k
+            text: Privacy
+            resources:
+                -
+                    href: >-
+                        https://www.law.georgetown.edu/your-life-career/career-exploration-professional-development/for-jd-students/explore-legal-careers/practice-areas/tech-and-privacy-law/
+                    text: Tech Law &amp; Privacy Law
+                    type: website
+                -
+                    href: https://youtu.be/_Wh8iNhNgpc
+                    text: Understanding the Basics of US Privacy Laws
+                    type: video

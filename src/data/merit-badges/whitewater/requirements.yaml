@@ -1,244 +1,581 @@
 # Requirement 1: "lowhead" is not a word. It should be low-head.
 # Requirement 4 option A and option B: Both say "Canoest" but that's not a real word. The proper spelling is Canoeist.
-- requirement: 1
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain to your counselor the most likely hazards you may encounter
-            while participating in whitewater activities, including branches and
-            trees in water along a shore and stretching across the stream, rocks,
-            hydraulics over ledges or lowhead dams, strong wind, low water or air
-            temperature, and thunder and lightning storms. Explain what you should
-            do to anticipate, help prevent, mitigate, and respond to these hazards.
-      - requirement: b
-        text: |-
-            Review with your counselor the prevention, symptoms, and first aid
-            treatment for the following injuries or illnesses that could occur
-            while participating in whitewater activities including cold-water
-            shock; hypothermia; head, neck, and back injuries; heat-related
-            illnesses; sunburn; dehydration; blisters; bruises; cuts; sprains and
-            strains; shoulder dislocation; and submersion injuries.
-      - requirement: c
-        text: |-
-            Discuss with your counselor the Scouting America Safety Afloat policy
-            and the American Whitewater safety guidelines, including the use of
-            helmet and life jackets.
-- requirement: 2
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Demonstrate understanding of the following river features by drawing
-            lines to show the flow of water: upstream V, downstream V, riffle, eddy
-            with an eddy line, ledge, river bend, shallows, current at different
-            depths, drop, horizon line, and hydraulic.
-      - requirement: b
-        text: |-
-            Describe how waves form including standing waves and wave trains.
-      - requirement: c
-        text: |-
-            Explain how to tilt or edge the boat without leaning your body
-        children:
-            - requirement: 1
-              text: |-
-                  When entering and exiting an eddy.
-            - requirement: 2
-              text: |-
-                  When ferrying in downstream and upstream directions.
-      - requirement: d
-        text: |-
-            Explain when, why, and how you should scout a river while ashore, while
-            on the river, and when you should portage your boat.
-- requirement: 3
-  text: |-
-      Before doing requirements 4 through 12, earn the <a
-      href="/merit-badges/canoeing/">Canoeing</a> merit badge if you will be
-      using a canoe to earn this merit badge. If you will be using a kayak,
-      earn the <a href="/merit-badges/kayaking/">Kayaking</a> merit badge. Then
-      do ONE of the following:
-  children:
-      - requirement: a
-        text: |-
-            If you will be using a canoe to earn this merit badge, demonstrate
-            strokes and maneuvers from the <a
-            href="/merit-badges/canoeing/">Canoeing</a> merit badge to the
-            satisfaction of your counselor.
-      - requirement: b
-        text: |-
-            If you will be using a kayak to earn this merit badge, demonstrate
-            strokes and maneuvers from the <a
-            href="/merit-badges/kayaking/">Kayaking</a> merit badge to the
-            satisfaction of your counselor.
-- requirement: 4
-  text: |-
-      Do ONE of the following:
-  children:
-      - text: |-
-            <b>Option A—Tandem Canoest.</b> Do ALL of the following strokes and
-            techniques on calm water:
-        children:
-            - requirement: 1
-              text: |-
-                  Demonstrate the following strokes in the bow: cross forward, bow
-                  draw, cross bow draw, bow pry, and sculling draw.
-            - requirement: 2
-              text: |-
-                  Demonstrate the following strokes in the stern: stern draw, stern
-                  pry, sculling draw, and forward with stern pry.
-            - requirement: 3
-              text: |-
-                  Demonstrate a high brace, low brace, and righting pry.
-      - text: |-
-            <b>Option B—Solo Canoest.</b> Do ALL of the following strokes and
-            techniques on calm water:
-        children:
-            - requirement: 1
-              text: |-
-                  Demonstrate the following strokes: cross forward, bow draw, cross
-                  bow draw, stern draw, pry, stern pry, sculling draw, and forward
-                  with stern pry.
-            - requirement: 2
-              text: |-
-                  Demonstrate a high brace, low brace, and righting pry.
-      - text: |-
-            <b>Option C—Solo Kayaker.</b> Do ALL of the following strokes and
-            techniques on calm water:
-        children:
-            - requirement: 1
-              text: |-
-                  Demonstrate the following strokes: bow draw, rudder, and sculling
-                  draw.
-            - requirement: 2
-              text: |-
-                  Demonstrate a high brace and low brace.
-- requirement: 5
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain the International Scale of River Difficulty and apply the scale
-            to the stretch of river approved by your counselor.
-      - requirement: b
-        text: |-
-            Identify the specific characteristics of the river that are factors in
-            your classification according to the International Scale.
-      - requirement: c
-        text: |-
-            Discuss how the level of flow changes a river from one class to another
-            and what effects different flow rates have on the features of a river
-            and its hazards.
-- requirement: 6
-  text: |-
-      Explain the importance of communication during every whitewater outing.
-      Demonstrate knowledge and ability to use the following American Whitewater
-      Universal River Signals, both visual and auditory: "Stop," "Are you OK?,"
-      "Help/emergency," "Run river right," "Run river left," and "All clear—come
-      ahead."
-- requirement: 7
-  text: |-
-      Do ONE of the following:
-  children:
-      - requirement: a
-        text: |-
-            If completing this merit badge in a canoe, describe the various types
-            of canoes used on moving water and how they differ in design,
-            materials, and purpose.
-      - requirement: b
-        text: |-
-            If completing this merit badge in a kayak, describe the various types
-            of kayaks used on moving water and explain how they differ in design,
-            materials, and purpose.
-- requirement: 8
-  text: |-
-      Review with your counselor the personal and group equipment necessary for a
-      safe whitewater outing and how and why it is used.
-- requirement: 9
-  text: |-
-      Demonstrate your ability to read a Class II section of river approved by
-      your counselor. Describe the most desirable paths or lines of travel as
-      well as alternative routes and options. Point out how to use the existing
-      water features to your advantage, and explain how to best avoid the hazards
-      present.
-- requirement: 10
-  text: |-
-      Wearing a proper life jacket and being appropriately dressed for the
-      weather and water conditions, perform the following skills in moving water
-      in a properly equipped whitewater craft of your choice (tandem canoe, solo
-      canoe, or solo kayak). If a tandem canoe is used, the skills must be
-      demonstrated from both the bow and stern positions.
-  children:
-      - requirement: a
-        text: |-
-            Launch and land.
-      - requirement: b
-        text: |-
-            Paddle forward in a straight line at least 10 boat lengths.
-      - requirement: c
-        text: |-
-            Backpaddle in a straight line at least five boat lengths.
-      - requirement: d
-        text: |-
-            Ferry upstream from both sides of the river.
-      - requirement: e
-        text: |-
-            Ferry downstream from both sides of the river.
-      - requirement: f
-        text: |-
-            Eddy turn from both sides of an eddy.
-      - requirement: g
-        text: |-
-            Peel out from both sides of an eddy.
-- requirement: 11
-  text: |-
-      Explain and demonstrate the following to your counselor:
-  children:
-      - requirement: a
-        text: |-
-            Self-rescue and procedures when capsized in moving water, including a
-            wet exit if necessary
-      - requirement: b
-        text: |-
-            Proper use of a throw rope to rescue a swimmer in whitewater
-      - requirement: c
-        text: |-
-            Proper technique for receiving a throw rope as a swimmer
-      - requirement: d
-        text: |-
-            Portaging-where portaging would be appropriate, and when and how to do
-            it
-      - requirement: e
-        text: |-
-            The whitewater buddy system using at least three persons and three
-            craft
-- requirement: 12
-  text: |-
-      Participate in one or more whitewater trips using either a canoe or kayak
-      on a Class I and/or Class II river. The trip(s) must involve at least six
-      hours of paddling time. For each trip:
-  children:
-      - requirement: a
-        text: |-
-            Help to prepare a written plan, specifying the route (put-ins and
-            takeouts), schedule, equipment, safety precautions, and emergency
-            procedures.
-      - requirement: b
-        text: |-
-            Determine local rules and obtain permission from landowners and land
-            managers in advance.
-      - requirement: c
-        text: |-
-            Explain what steps have been taken to comply with Scouting America
-            Safety Afloat and the American Whitewater safety guidelines.
-      - requirement: d
-        text: |-
-            Show how to protect personal and group equipment from water and how to
-            load and secure the containers in boats to be used in the trip. Execute
-            the plans with other paddlers.
-      - requirement: e
-        text: |-
-            Explain to your counselor how well your plans worked for each trip
-            taken.
+-
+    requirement: 1
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain to your counselor the most likely hazards you may
+                encounter while participating in whitewater activities,
+                including branches and trees in water along a shore and
+                stretching across the stream, rocks, hydraulics over ledges or
+                lowhead dams, strong wind, low water or air temperature, and
+                thunder and lightning storms. Explain what you should do to
+                anticipate, help prevent, mitigate, and respond to these
+                hazards.
+            resources:
+                -
+                    href: https://youtu.be/EwUVNgeO0E8
+                    text: River Features
+                    type: video
+                -
+                    href: https://youtu.be/VuO9ZSCtZN4
+                    text: 'Low-Head Dams: Get Out and Scout'
+                    type: video
+                -
+                    href: https://www.kayakscout.com/kayaking-in-a-thunderstorm/
+                    text: What To Do When Kayaking in a Thunderstorm
+                    type: website
+        -
+            requirement: b
+            text: |-
+                Review with your counselor the prevention, symptoms, and first
+                aid treatment for the following injuries or illnesses that could
+                occur while participating in whitewater activities including
+                cold-water shock; hypothermia; head, neck, and back injuries;
+                heat-related illnesses; sunburn; dehydration; blisters; bruises;
+                cuts; sprains and strains; shoulder dislocation; and submersion
+                injuries.
+            resources:
+                -
+                    href: >-
+                        https://youtube.com/playlist?list=PLxKdp8_KfCQnMeVV5WjCGLQtOk0IdR_4S
+                    text: Cold Water Immersion and Drowning
+                    type: playlist
+        -
+            requirement: c
+            text: |-
+                Discuss with your counselor the Scouting America Safety Afloat
+                policy and the American Whitewater safety guidelines, including
+                the use of helmet and life jackets.
+            resources:
+                -
+                    href: >-
+                        https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/
+                    text: Safety Afloat
+                    type: website
+                -
+                    href: >-
+                        https://www.americanwhitewater.org/explore/safety/safety-code/
+                    text: American Whitewater Safety Guidelines
+                    type: website
+-
+    requirement: 2
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Demonstrate understanding of the following river features by
+                drawing lines to show the flow of water: upstream V, downstream
+                V, riffle, eddy with an eddy line, ledge, river bend, shallows,
+                current at different depths, drop, horizon line, and hydraulic.
+            resources:
+                -
+                    href: https://youtu.be/luOWq1Gdv8c
+                    text: |-
+                        River Hydrology 101—Part 1: How To 'Read' Whitewater
+                        Rapids
+                    type: video
+                -
+                    href: https://youtu.be/nKBrFv164xQ
+                    text: |-
+                        River Hydrology 101—Part 2: How To 'Read' Whitewater
+                        Rapids
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Describe how waves form including standing waves and wave
+                trains.
+            resources:
+                -
+                    href: https://raftingescapes.com/wave-train-rafting/
+                    text: 'Wave Train Rafting: The Pro''s Guide to Safe Navigation'
+                    type: website
+        -
+            requirement: c
+            text: Explain how to tilt or edge the boat without leaning your body
+            resources:
+                -
+                    href: https://youtu.be/Tp9gcA0bBoo
+                    text: Edging Your Whitewater Kayak
+                    type: video
+                -
+                    href: https://youtu.be/TEobm0VU7cs
+                    text: 'Basic Canoe Control: Edge'
+                    type: video
+            children:
+                -
+                    requirement: 1
+                    text: When entering and exiting an eddy.
+                -
+                    requirement: 2
+                    text: When ferrying in downstream and upstream directions.
+        -
+            requirement: d
+            text: |-
+                Explain when, why, and how you should scout a river while
+                ashore, while on the river, and when you should portage your
+                boat.
+            resources:
+                -
+                    href: https://youtu.be/qBn7YOJMK7g
+                    text: Advanced River Running—Scouting and Breaking Down Rapids
+                    type: video
+-
+    requirement: 3
+    text: |-
+        Before doing requirements 4 through 12, earn the Canoeing merit badge if
+        you will be using a canoe to earn this merit badge. If you will be using
+        a kayak, earn the <a href="/merit-badges/kayaking/"><i>Kayaking</i>
+        merit badge</a>. Then do ONE of the following:
+    resources:
+        -
+            href: https://www.scouting.org/merit-badges/canoeing/
+            text: Canoeing Merit Badge
+            type: website
+        -
+            href: https://www.scouting.org/merit-badges/kayaking/
+            text: Kayaking Merit Badge
+            type: website
+    children:
+        -
+            requirement: a
+            text: |-
+                If you will be using a canoe to earn this merit badge,
+                demonstrate strokes and maneuvers from the Canoeing merit badge
+                to the satisfaction of your counselor.
+        -
+            requirement: b
+            text: |-
+                If you will be using a kayak to earn this merit badge,
+                demonstrate strokes and maneuvers from the <a
+                href="/merit-badges/kayaking/"><i>Kayaking</i> merit badge</a>
+                to the satisfaction of your counselor.
+-
+    requirement: 4
+    text: 'Do ONE of the following:'
+    children:
+        -
+            text: |-
+                <b>Option A—Tandem Canoest.</b> Do ALL of the following strokes
+                and techniques on calm water:
+            resources:
+                -
+                    href: https://youtu.be/HYvucbWN4co
+                    text: Essential Strokes for Tandem Maneuvers
+                    type: video
+            children:
+                -
+                    requirement: 1
+                    text: |-
+                        Demonstrate the following strokes in the bow: cross
+                        forward, bow draw, cross bow draw, bow pry, and sculling
+                        draw.
+                -
+                    requirement: 2
+                    text: |-
+                        Demonstrate the following strokes in the stern: stern
+                        draw, stern pry, sculling draw, and forward with stern
+                        pry.
+                -
+                    requirement: 3
+                    text: Demonstrate a high brace, low brace, and righting pry.
+        -
+            text: |-
+                <b>Option B—Solo Canoest.</b> Do ALL of the following strokes
+                and techniques on calm water:
+            children:
+                -
+                    requirement: 1
+                    text: |-
+                        Demonstrate the following strokes: cross forward, bow
+                        draw, cross bow draw, stern draw, pry, stern pry,
+                        sculling draw, and forward with stern pry.
+                    resources:
+                        -
+                            href: https://youtu.be/TGE6i_aIvuE
+                            text: Cross Forward Stroke
+                            type: video
+                        -
+                            href: https://youtu.be/Un04rB9qb3E
+                            text: Stationary Bow Draw
+                            type: video
+                        -
+                            href: https://youtu.be/BXc39F1F-pI
+                            text: Cross Bow Draw
+                            type: video
+                        -
+                            href: https://youtu.be/OlhiyVmFHDg
+                            text: Running Bow Pry
+                            type: video
+                        -
+                            href: https://youtu.be/0NbWDhmREgo
+                            text: Sculling Draw
+                            type: video
+                -
+                    requirement: 2
+                    text: Demonstrate a high brace, low brace, and righting pry.
+                    resources:
+                        -
+                            href: https://youtu.be/-HofhF4__ps
+                            text: |-
+                                How To Keep Your Canoe From Flipping—Low and
+                                High Braces
+                            type: video
+        -
+            text: |-
+                <b>Option C—Solo Kayaker.</b> Do ALL of the following strokes
+                and techniques on calm water:
+            children:
+                -
+                    requirement: 1
+                    text: |-
+                        Demonstrate the following strokes: bow draw, rudder, and
+                        sculling draw.
+                    resources:
+                        -
+                            href: https://youtu.be/iGmQjKKuh10
+                            text: The Bow Draw
+                            type: video
+                        -
+                            href: https://youtu.be/DzO3ef7x45E
+                            text: Rudder Stroke
+                            type: video
+                        -
+                            href: https://youtu.be/hXT80bHsRKA
+                            text: Draw Stroke
+                            type: video
+                        -
+                            href: https://youtu.be/0NbWDhmREgo
+                            text: Sculling Draw
+                            type: video
+                -
+                    requirement: 2
+                    text: Demonstrate a high brace and low brace.
+                    resources:
+                        -
+                            href: https://youtu.be/lTzVPNva_fw
+                            text: Kayak High Brace
+                            type: video
+                        -
+                            href: https://youtu.be/B1YxQJnfFz0
+                            text: Kayak Low Brace
+                            type: video
+-
+    requirement: 5
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain the International Scale of River Difficulty and apply
+                the scale to the stretch of river approved by your counselor.
+            resources:
+                -
+                    href: https://youtu.be/g0s-MvzFRNM
+                    text: 'Whitewater Rafting: Rapid Classes Demystified'
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Identify the specific characteristics of the river that are
+                factors in your classification according to the International
+                Scale.
+        -
+            requirement: c
+            text: |-
+                Discuss how the level of flow changes a river from one class to
+                another and what effects different flow rates have on the
+                features of a river and its hazards.
+-
+    requirement: 6
+    text: |-
+        Explain the importance of communication during every whitewater outing.
+        Demonstrate knowledge and ability to use the following American
+        Whitewater Universal River Signals, both visual and auditory: "Stop,"
+        "Are you OK?," "Help/emergency," "Run river right," "Run river left,"
+        and "All clear—come ahead."
+    resources:
+        -
+            href: https://youtu.be/wnD2DQrENiQ
+            text: Hand Signals on the River
+            type: video
+-
+    requirement: 7
+    text: 'Do ONE of the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                If completing this merit badge in a canoe, describe the various
+                types of canoes used on moving water and how they differ in
+                design, materials, and purpose.
+            resources:
+                -
+                    href: >-
+                        https://redbeardsailing.com/blogs/red-beard-report/canoe-buyers-guide
+                    text: How To Choose a Canoe
+                    type: website
+        -
+            requirement: b
+            text: |-
+                If completing this merit badge in a kayak, describe the various
+                types of kayaks used on moving water and explain how they differ
+                in design, materials, and purpose.
+            resources:
+                -
+                    href: https://youtu.be/qzgkUM3hoP0
+                    text: Kayaking | How To Choose a Kayak
+                    type: video
+-
+    requirement: 8
+    text: |-
+        Review with your counselor the personal and group equipment necessary
+        for a safe whitewater outing and how and why it is used.
+    resources:
+        -
+            href: https://youtu.be/bu_trV7Kbx8
+            text: Beginners Guide to Whitewater Kayaking Gear
+            type: video
+        -
+            href: https://youtu.be/lheh7gnlG3I
+            text: |-
+                Top 5 Pieces of Paddling Gear | The Essential Kayak and Canoe
+                Gear
+            type: video
+-
+    requirement: 9
+    text: |-
+        Demonstrate your ability to read a Class II section of river approved by
+        your counselor. Describe the most desirable paths or lines of travel as
+        well as alternative routes and options. Point out how to use the
+        existing water features to your advantage, and explain how to best avoid
+        the hazards present.
+-
+    requirement: 10
+    text: |-
+        Wearing a proper life jacket and being appropriately dressed for the
+        weather and water conditions, perform the following skills in moving
+        water in a properly equipped whitewater craft of your choice (tandem
+        canoe, solo canoe, or solo kayak). If a tandem canoe is used, the skills
+        must be demonstrated from both the bow and stern positions.
+    resources:
+        -
+            href: https://youtu.be/xUUX1VI7i1I
+            text: |-
+                Kayaking Tips—Cold Water and Winter Paddling (Wear, Gear and
+                Risks)
+            type: video
+        -
+            href: https://youtu.be/jH99hBZB_l8
+            text: How To Choose a Life Jacket for Kayaking and Canoeing
+            type: video
+    children:
+        -
+            requirement: a
+            text: Launch and land.
+            resources:
+                -
+                    href: https://youtu.be/9Tdk0YKflhk
+                    text: How To Launch and Land Your Kayak
+                    type: video
+                -
+                    href: https://youtu.be/78qqDqUIX20&t=24
+                    text: How To Launch and Land a Canoe Smoothly and Safely
+                    type: video
+        -
+            requirement: b
+            text: Paddle forward in a straight line at least 10 boat lengths.
+            resources:
+                -
+                    href: https://youtu.be/3qWfoKl7-Gs
+                    text: 'Whitewater Kayaking for Beginners: The Forward Stroke'
+                    type: video
+                -
+                    href: https://youtu.be/GoPN8COLz2A
+                    text: 'Forward Paddling for Canoes: Generating the Power'
+                    type: video
+        -
+            requirement: c
+            text: Backpaddle in a straight line at least five boat lengths.
+            resources:
+                -
+                    href: https://youtu.be/oa7Q_0LM8OQ
+                    text: The Back / Reverse Stroke—Sea Kayak Technique
+                    type: video
+                -
+                    href: https://youtu.be/XOjH3h5Cao0
+                    text: 'Canoeing: Paddling Backwards'
+                    type: video
+        -
+            requirement: d
+            text: Ferry upstream from both sides of the river.
+            resources:
+                -
+                    href: https://youtu.be/qPhBCiupQXM
+                    text: How To Ferry Your Kayak in Current
+                    type: video
+                -
+                    href: https://youtu.be/Ug7ITXafAB0
+                    text: How To Do a Back Ferry While Kayaking
+                    type: video
+                -
+                    href: https://youtu.be/5yQSFFn24HY
+                    text: Tandem Front Ferry
+                    type: video
+        -
+            requirement: e
+            text: Ferry downstream from both sides of the river.
+        -
+            requirement: f
+            text: Eddy turn from both sides of an eddy.
+            resources:
+                -
+                    href: https://youtu.be/92AxG88R1Rc
+                    text: How To Do a Carving Eddy Turn
+                    type: video
+                -
+                    href: https://youtu.be/1JS-7r697Rc
+                    text: Tandem Canoe Eddy Turns—Carving Using MITH
+                    type: video
+        -
+            requirement: g
+            text: Peel out from both sides of an eddy.
+            resources:
+                -
+                    href: https://youtu.be/OTVIHx48AUM
+                    text: How To Catch and Peel Out of an Eddy
+                    type: video
+                -
+                    href: https://youtu.be/zxJRJMK-fsY
+                    text: Eddy Exits Using SHARC
+                    type: video
+-
+    requirement: 11
+    text: 'Explain and demonstrate the following to your counselor:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Self-rescue and procedures when capsized in moving water,
+                including a wet exit if necessary
+            resources:
+                -
+                    href: https://youtu.be/rpQ1kuhNxhQ
+                    text: How To Self Rescue in a Whitewater Kayak
+                    type: video
+                -
+                    href: https://youtu.be/m-0MeYKgmEs
+                    text: 'Canoe Self-Rescue Method: Re-Entry'
+                    type: video
+                -
+                    href: https://youtu.be/JpF-CoXjfWU
+                    text: How To Use a Swim Line to Self Rescue a Canoe
+                    type: video
+        -
+            requirement: b
+            text: Proper use of a throw rope to rescue a swimmer in whitewater
+            resources:
+                -
+                    href: https://youtu.be/B6dxD-ttYAw
+                    text: Throw Bag Techniques
+                    type: video
+                -
+                    href: https://youtu.be/DbWkLJ2gKTE
+                    text: White Water Swims and Throw Bag Rescues
+                    type: video
+                -
+                    href: https://youtu.be/UTzJsbXdHz0
+                    text: How To Perform a Throwbag Rescue
+                    type: video
+        -
+            requirement: c
+            text: Proper technique for receiving a throw rope as a swimmer
+            resources:
+                -
+                    href: https://youtu.be/B6dxD-ttYAw
+                    text: Throw Bag Techniques
+                    type: video
+                -
+                    href: https://youtu.be/DbWkLJ2gKTE
+                    text: White Water Swims and Throw Bag Rescues
+                    type: video
+        -
+            requirement: d
+            text: |-
+                Portaging-where portaging would be appropriate, and when and how
+                to do it
+            resources:
+                -
+                    href: https://youtu.be/wQKTRO-R9Uk
+                    text: How To Portage a Canoe
+                    type: video
+                -
+                    href: https://youtu.be/hp60rDcov48
+                    text: |-
+                        How To Portage for Beginners—Footwear, Gear, Tips and
+                        Techniques
+                    type: video
+        -
+            requirement: e
+            text: |-
+                The whitewater buddy system using at least three persons and
+                three craft
+            resources:
+                -
+                    href: https://youtu.be/BOS2DnTFRSA
+                    text: Learning How To Safely Paddle as a Group
+                    type: video
+-
+    requirement: 12
+    text: |-
+        Participate in one or more whitewater trips using either a canoe or
+        kayak on a Class I and/or Class II river. The trip(s) must involve at
+        least six hours of paddling time. For each trip:
+    children:
+        -
+            requirement: a
+            text: |-
+                Help to prepare a written plan, specifying the route (put-ins
+                and takeouts), schedule, equipment, safety precautions, and
+                emergency procedures.
+            resources:
+                -
+                    href: https://youtu.be/HF98HTAhxuA
+                    text: Planning Your Kayak Trip Safely
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Determine local rules and obtain permission from landowners and
+                land managers in advance.
+        -
+            requirement: c
+            text: |-
+                Explain what steps have been taken to comply with Scouting
+                America Safety Afloat and the American Whitewater safety
+                guidelines.
+        -
+            requirement: d
+            text: |-
+                Show how to protect personal and group equipment from water and
+                how to load and secure the containers in boats to be used in the
+                trip. Execute the plans with other paddlers.
+            resources:
+                -
+                    href: https://youtu.be/iazzviLCqgo
+                    text: How To Pack for a Multi-Day Whitewater Trip
+                    type: video
+                -
+                    href: https://youtu.be/57ukrEWtvy8
+                    text: '3 Minutes With a Maine Guide: Packing a Canoe'
+                    type: video
+        -
+            requirement: e
+            text: |-
+                Explain to your counselor how well your plans worked for each
+                trip taken.
