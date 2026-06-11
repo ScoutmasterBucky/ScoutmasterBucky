@@ -1,139 +1,468 @@
-- requirement: 1
-  text: |-
-      Explain what citizenship in the world means to you and what you think it
-      takes to be a good world citizen.
-- requirement: 2
-  text: |-
-      Explain how one becomes a citizen in the United States, and explain the
-      rights, duties, and obligations of U.S. citizenship. Discuss the
-      similarities and differences between the rights, duties, and obligations of
-      U.S. citizens and the citizens of two other countries.
-- requirement: 3
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Pick a current world event. In relation to this current event, discuss
-            with your counselor how a country's national interest and its
-            relationship with other countries might affect areas such as its
-            security, its economy, its values, and the health of its citizens.
-      - requirement: b
-        text: |-
-            Select a foreign country and discuss with your counselor how its
-            geography, natural resources, and climate influence its economy and its
-            global partnerships with other countries.
-- requirement: 4
-  text: |-
-      Do TWO of the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain international law and how it differs from national law.
-            Explain the role of international law and how international law can be
-            used as a tool for conflict resolution.
-      - requirement: b
-        text: |-
-            Using resources such as major daily newspapers, the internet (with your
-            parent or guardian's permission), and news magazines, observe a current
-            issue that involves international trade, foreign exchange, balance of
-            payments, tariffs, and free trade. Explain what you have learned.
-            Include in your discussion an explanation of why countries must
-            cooperate in order for world trade and global competition to thrive.
-      - requirement: c
-        text: |-
-            Select TWO of the following organizations and describe their role in
-            the world.
-        children:
-            - requirement: 1
-              text: |-
-                  United Nations and United Nations Children's Fund (UNICEF)
-            - requirement: 2
-              text: |-
-                  International Court of Justice (The World Court)
-            - requirement: 3
-              text: |-
-                  International Criminal Police Organization (Interpol)
-            - requirement: 4
-              text: |-
-                  World Organization of the Scout Movement
-            - requirement: 5
-              text: |-
-                  World Health Organization (WHO)
-            - requirement: 6
-              text: |-
-                  Amnesty International
-            - requirement: 7
-              text: |-
-                  International Federation of Red Cross and Red Crescent Societies
-                  (IFRC)
-            - requirement: 8
-              text: |-
-                  Cooperative for American Relief Everywhere (CARE)
-            - requirement: 9
-              text: |-
-                  European Union
-- requirement: 5
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Discuss the differences between constitutional and nonconstitutional
-            governments.
-      - requirement: b
-        text: |-
-            Name at least five different types of governments currently in power in
-            the world.
-      - requirement: c
-        text: |-
-            Show on a world map countries that use each of these five different
-            forms of government.
-- requirement: 6
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain how a government is represented abroad and how the United
-            States government is accredited to international organizations.
-      - requirement: b
-        text: |-
-            Describe the roles of the following in the conduct of foreign
-            relations: ambassador, consul, Bureau of Global Public Affairs, United
-            States and Foreign Commercial Service.
-      - requirement: c
-        text: |-
-            Explain the purpose of a passport and visa for international travel.
-- requirement: 7
-  text: |-
-      Do TWO of the following (with your parent or guardian's permission) and
-      share with your counselor what you have learned:
-  children:
-      - requirement: a
-        text: |-
-            Visit the website of the U.S. State Department. Learn more about an
-            issue you find interesting that is discussed on this website.
-      - requirement: b
-        text: |-
-            Visit the website of an international news organization or foreign
-            government, OR examine a foreign newspaper available at your local
-            library, bookstore, or newsstand. Find a news story about a human right
-            realized in the United States that is not recognized in another
-            country.
-      - requirement: c
-        text: |-
-            Visit with a student or Scout from another country and discuss the
-            typical values, holidays, ethnic foods, and traditions practiced or
-            enjoyed there.
-      - requirement: d
-        text: |-
-            Attend or participate in a World Organization of the Scouting
-            Movement (WOSM) event such as the World Scout Jamboree, World Scout
-            Moot, World Scout Congress, Jamboree Over The Air, or Jamboreee Over The
-            Internet. Attendance at a national or regional Jamboree sponsored by a
-            WOSM-National Scout Organization is also allowed.
-      - requirement: e
-        text: |-
-            Participate in or attend an international event in your area, such as
-            an ethnic festival, concert, or play.
+# Updated the unknown resource type for 2 to say "video"
+# AUTO: WARNING: Could not determine resource type for link with text "What Are the Rights and Responsibilities of Citize..." and URL "https://youtu.be/AyY01lTZZMk". Please check this manually.
+-
+    requirement: 1
+    text: |-
+        Explain what citizenship in the world means to you and what you think it
+        takes to be a good world citizen.
+    resources:
+        -
+            href: https://youtu.be/gfZgtP7VGGg
+            text: What Does It Mean To Be a Global Citizen?
+            type: video
+        -
+            href: https://youtu.be/IH8AmE6mV9k
+            text: What Is Global Citizenship?
+            type: video
+-
+    requirement: 2
+    text: |-
+        Explain how one becomes a citizen in the United States, and explain the
+        rights, duties, and obligations of U.S. citizenship. Discuss the
+        similarities and differences between the rights, duties, and obligations
+        of U.S. citizens and the citizens of two other countries.
+    resources:
+        -
+            href: https://youtu.be/JVXQvJvfuGw
+            text: What Is Citizenship?
+            type: video
+        -
+            href: https://youtu.be/yYEfLm5dLMQ
+            text: A Guide to the Bill of Rights
+            type: video
+        -
+            href: https://youtu.be/AyY01lTZZMk
+            text: What Are the Rights and Responsibilities of Citizens
+            type: video
+        -
+            href: https://youtu.be/TYtsc07PiLQ
+            text: Duties and Obligations of Being a Filipino Citizen
+            type: video
+        -
+            href: https://youtu.be/fxnVVftKrhI
+            text: Fundamental Duties as a Citizen of India
+            type: video
+-
+    requirement: 3
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Pick a current world event. In relation to this current event,
+                discuss with your counselor how a country's national interest
+                and its relationship with other countries might affect areas
+                such as its security, its economy, its values, and the health of
+                its citizens.
+            resources:
+                -
+                    href: https://youtu.be/geCF1K76nEs
+                    text: National Interest in International Relations
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Select a foreign country and discuss with your counselor how its
+                geography, natural resources, and climate influence its economy
+                and its global partnerships with other countries.
+            resources:
+                -
+                    href: >-
+                        https://geolutins.com/the-impact-of-geography-on-the-global-economy
+                    text: The Impact of Geography on the Global Economy
+                    type: website
+                -
+                    href: https://resourcetrade.earth
+                    text: resourcetrade.earth
+                    type: website
+                -
+                    href: https://oec.world/en
+                    text: The Observatory of Economic Complexity (OEC)
+                    type: website
+                -
+                    href: >-
+                        https://www.usgs.gov/educational-resources/usgs-geospatial-data-sources
+                    text: USGS Geospatial Data Sources
+                    type: website
+-
+    requirement: 4
+    text: 'Do TWO of the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain international law and how it differs from national law.
+                Explain the role of international law and how international law
+                can be used as a tool for conflict resolution.
+            resources:
+                -
+                    href: https://youtu.be/-VSD2d35ijI
+                    text: National Law vs International Law
+                    type: video
+                -
+                    href: https://youtu.be/C9m6IQX87G4
+                    text: What Are Treaties and How Do They Work?
+                    type: video
+                -
+                    href: https://youtu.be/ePV1J48cGYI
+                    text: Why Do We Need International Law?
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Using resources such as major daily newspapers, the internet
+                (with your parent or guardian's permission), and news magazines,
+                observe a current issue that involves international trade,
+                foreign exchange, balance of payments, tariffs, and free trade.
+                Explain what you have learned. Include in your discussion an
+                explanation of why countries must cooperate in order for world
+                trade and global competition to thrive.
+            resources:
+                -
+                    href: https://youtu.be/1hY8OhTH6ag
+                    text: Free Trade Agreement
+                    type: video
+                -
+                    href: https://youtu.be/UGLPiyeQVxU
+                    text: What Is Free Trade?
+                    type: video
+                -
+                    href: https://youtu.be/QrAwFXiwPnQ
+                    text: Balance of Payments &amp; Foreign Reserves Explained
+                    type: video
+                -
+                    href: https://youtu.be/98U_Vb8rQfs
+                    text: What Is Currency? Exchange Rates
+                    type: video
+                -
+                    href: https://youtu.be/_tmPnH-JkNg
+                    text: Free Trade and Protectionism
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Select TWO of the following organizations and describe their
+                role in the world.
+            children:
+                -
+                    requirement: 1
+                    text: |-
+                        United Nations and United Nations Children's Fund
+                        (UNICEF)
+                    resources:
+                        -
+                            href: https://youtu.be/Ttoad811t88
+                            text: What Is the United Nations?
+                            type: video
+                        -
+                            href: https://youtu.be/cx0QyKoyU6A
+                            text: What Is UNICEF?
+                            type: video
+                -
+                    requirement: 2
+                    text: International Court of Justice (The World Court)
+                    resources:
+                        -
+                            href: https://youtu.be/kJKgYZfeMkE
+                            text: What Is the International Court of Justice?
+                            type: video
+                        -
+                            href: https://www.icj-cij.org/home
+                            text: International Court of Justice
+                            type: website
+                -
+                    requirement: 3
+                    text: International Criminal Police Organization (Interpol)
+                    resources:
+                        -
+                            href: https://youtu.be/nQ1iFMlw0KI
+                            text: What Is The INTERPOL?
+                            type: video
+                        -
+                            href: https://www.interpol.int/
+                            text: INTERPOL
+                            type: website
+                -
+                    requirement: 4
+                    text: World Organization of the Scout Movement
+                    resources:
+                        -
+                            href: https://youtu.be/EEyM_ChN1yM
+                            text: World Organization Scout Movement (WOSM)
+                            type: video
+                        -
+                            href: https://www.scout.org/
+                            text: World Scouting
+                            type: website
+                -
+                    requirement: 5
+                    text: World Health Organization (WHO)
+                    resources:
+                        -
+                            href: https://youtu.be/qhvx5oxbYn0
+                            text: The WHO Explained
+                            type: video
+                        -
+                            href: https://www.who.int/
+                            text: World Health Organization (WHO)
+                            type: website
+                -
+                    requirement: 6
+                    text: Amnesty International
+                    resources:
+                        -
+                            href: https://youtu.be/xLIndY8JuNk
+                            text: What Does Amnesty International Do?
+                            type: video
+                        -
+                            href: https://www.amnesty.org/en/
+                            text: Amnesty International
+                            type: website
+                -
+                    requirement: 7
+                    text: |-
+                        International Federation of Red Cross and Red Crescent
+                        Societies (IFRC)
+                    resources:
+                        -
+                            href: https://youtu.be/ReE835-d8vk
+                            text: |-
+                                Together We Are the International Federation of
+                                Red Cross and Red Crescent Societies
+                            type: video
+                        -
+                            href: https://www.ifrc.org/
+                            text: IFRC
+                            type: website
+                -
+                    requirement: 8
+                    text: Cooperative for American Relief Everywhere (CARE)
+                    resources:
+                        -
+                            href: https://youtu.be/MfRlqpKo_t0
+                            text: CARE International
+                            type: video
+                        -
+                            href: https://www.care.org/
+                            text: CARE International
+                            type: website
+                -
+                    requirement: 9
+                    text: European Union
+                    resources:
+                        -
+                            href: https://youtu.be/8G1cds52Ko0
+                            text: What Is the European Union?
+                            type: video
+                        -
+                            href: https://european-union.europa.eu/index_en
+                            text: European Union
+                            type: website
+-
+    requirement: 5
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Discuss the differences between constitutional and
+                nonconstitutional governments.
+            resources:
+                -
+                    href: >-
+                        https://difbetween.com/constitutional-vs-nonconstitutional-governments.p15758/
+                    text: Constitutional vs Nonconstitutional Governments
+                    type: website
+        -
+            requirement: b
+            text: |-
+                Name at least five different types of governments currently in
+                power in the world.
+            resources:
+                -
+                    href: >-
+                        https://worldostats.com/politics/government-type-by-country/
+                    text: 'Types of Government Around the World: Country Comparison'
+                    type: website
+        -
+            requirement: c
+            text: |-
+                Show on a world map countries that use each of these five
+                different forms of government.
+            resources:
+                -
+                    href: https://worldmapblank.com/pages/free-maps
+                    text: World Maps
+                    type: website
+                -
+                    href: https://freeworldmaps.net/political.html
+                    text: Political World Maps
+                    type: website
+-
+    requirement: 6
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain how a government is represented abroad and how the
+                United States government is accredited to international
+                organizations.
+            resources:
+                -
+                    href: https://youtu.be/3kDp6mT1ioE
+                    text: What Is the State Department?
+                    type: video
+                -
+                    href: https://youtu.be/bOs5H39dlRA
+                    text: What Are Embassies, Consulates, and Missions?
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Describe the roles of the following in the conduct of foreign
+                relations: ambassador, consul, Bureau of Global Public Affairs,
+                United States and Foreign Commercial Service.
+            resources:
+                -
+                    href: https://youtu.be/LdKFN1g62PM
+                    text: What Is Diplomacy and How Does It Work?
+                    type: video
+                -
+                    href: https://youtu.be/XJAeLeBW6l8
+                    text: |-
+                        Ambassadors: An Overview of the Role and
+                        Responsibilities of Diplomatic Representatives
+                    type: video
+                -
+                    href: https://youtu.be/pRRsmcWtpt4
+                    text: Export With the US Commercial Service
+                    type: video
+                -
+                    href: https://diplomacy.state.gov/what-is-a-u-s-consulate/
+                    text: What Is a U.S. Consulate?
+                    type: website
+        -
+            requirement: c
+            text: |-
+                Explain the purpose of a passport and visa for international
+                travel.
+            resources:
+                -
+                    href: https://youtu.be/gDOXgWtCQxY
+                    text: |-
+                        Becoming a U.S. Citizen: An Overview of the
+                        Naturalization Process
+                    type: video
+                -
+                    href: https://youtube.com/shorts/Pmu0NXzj-Fo
+                    text: |-
+                        What Is the Process for Obtaining a Permanent Residency
+                        in the US?
+                    type: video
+                -
+                    href: https://youtu.be/R_OhIkzkF2Y
+                    text: Visa vs Passport—Know The Important Differences!
+                    type: video
+-
+    requirement: 7
+    text: |-
+        Do TWO of the following (with your parent or guardian's permission) and
+        share with your counselor what you have learned:
+    children:
+        -
+            requirement: a
+            text: |-
+                Visit the website of the U.S. State Department. Learn more about
+                an issue you find interesting that is discussed on this website.
+            resources:
+                -
+                    href: https://youtu.be/jJH1d0hG-RQ
+                    text: What Does the State Department Do?
+                    type: video
+                -
+                    href: https://www.usa.gov/
+                    text: USA.gov
+                    type: website
+        -
+            requirement: b
+            text: |-
+                Visit the website of an international news organization or
+                foreign government, OR examine a foreign newspaper available at
+                your local library, bookstore, or newsstand. Find a news story
+                about a human right realized in the United States that is not
+                recognized in another country.
+            resources:
+                -
+                    href: https://youtu.be/ew993Wdc0zo
+                    text: Human Rights
+                    type: video
+                -
+                    href: https://www.reuters.com/
+                    text: Reuters
+                    type: website
+                -
+                    href: https://www.nytimes.com/section/world
+                    text: The New York Times World News
+                    type: website
+        -
+            requirement: c
+            text: |-
+                Visit with a student or Scout from another country and discuss
+                the typical values, holidays, ethnic foods, and traditions
+                practiced or enjoyed there.
+        -
+            requirement: d
+            text: |-
+                Attend or participate in a World Organization of the Scouting
+                Movement (WOSM) event such as the World Scout Jamboree, World
+                Scout Moot, World Scout Congress, Jamboree Over The Air, or
+                Jamboree Over The Internet. Attendance at a national or regional
+                Jamboree sponsored by a WOSM-National Scout Organization is also
+                allowed.
+            resources:
+                -
+                    href: https://youtu.be/reg45_nepRo
+                    text: A Recap on the 25th World Scout Jamboree
+                    type: video
+                -
+                    href: >-
+                        https://www.scouting.org/international/international-adventure/world-scout-jamboree-stories-once-in-a-lifetime-or-lifechanging/
+                    text: |-
+                        Attending a World Scout Jamboree—Once in a Lifetime or
+                        Lifechanging?
+                    type: website
+                -
+                    href: https://vimeo.com/1157342063/39dc53d4ba?fl=ip&fe=ec
+                    text: What Is the World Jamboree
+                    type: video
+                -
+                    href: https://www.scouting.org/international/resources/
+                    text: International Scouting Tools and Resources
+                    type: website
+                -
+                    href: https://www.scout.org/jamboree-live
+                    text: World Scout Jamboree—Live Shows
+                    type: website
+                -
+                    href: https://www.scout.org/news/ultimate-scout-packing-list
+                    text: The Ultimate Scout Camp Packing List
+                    type: website
+                -
+                    href: https://wsj2019.us/scholarships/
+                    text: World Scout Jamboree Scholarship Information
+                    type: website
+        -
+            requirement: e
+            text: |-
+                Participate in or attend an international event in your area,
+                such as an ethnic festival, concert, or play.
+            resources:
+                -
+                    href: https://www.eventbrite.com/
+                    text: Eventbrite
+                    type: website
+                -
+                    href: https://allevents.in/
+                    text: Allevents
+                    type: website

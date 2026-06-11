@@ -1,144 +1,326 @@
 # Requirements 1c and 4a are essentially the same thing.
 # Removed space before closing parenthesis for requirement 3.
-- requirement: 1
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain to your counselor the most likely hazards you may encounter
-            while participating in small-boat sailing activities, and what you
-            should do to anticipate, help prevent, mitigate, and respond to
-            these hazards.
-      - requirement: b
-        text: |-
-            Review prevention, symptoms, and first-aid treatment for the following
-            injuries or illnesses that can occur while sailing: blisters,
-            cold-water shock and hypothermia, dehydration, heat-related illnesses,
-            sunburn, sprains, and strains.
-      - requirement: c
-        text: |-
-            Discuss the Scouting America Safety Afloat policy. Tell how it applies
-            to small-boat sailing activities.
-- requirement: 2
-  text: |-
-      Before doing the following requirements, successfully complete the Scouting
-      America swimmer test.
-      <div class="gap"></div>
-      <b>Note:</b> See the <a href="../swimming/"><i>Swimming</i> merit badge</a>
-      pamphlet for details about the Scouting America swimmer test.
-- requirement: 3
-  text: |-
-      Describe the boat you will be using for the sailing requirement, naming all
-      of the major parts and the function of those parts.
-      <div class="gap"></div>
-      <b>Note:</b> The skills may be demonstrated on any boat available to the
-      Scout; sailboards are not acceptable. While no specific sail plan is
-      recommended, it is suggested that the craft be smaller than 20 feet. The
-      boat must be capsizable and have the capability of sailing to windward.
-- requirement: 4
-  text: |-
-      Before going afloat, do the following:
-  children:
-      - requirement: a
-        text: |-
-            Discuss the nine points of the Scouting America Safety Afloat plan.
-      - requirement: b
-        text: |-
-            Explain the rules of the road in general and any specific rules or laws
-            that apply to your area or state.
-      - requirement: c
-        text: |-
-            Explain how water conditions, the hazards of weather, and heavy winds
-            can affect both safety and performance in sailing.
-      - requirement: d
-        text: |-
-            Discuss the warning signs of inclement weather and what to do should
-            heavy winds develop or a storm approach.
-      - requirement: e
-        text: |-
-            Prepare a typical float plan.
-      - requirement: f
-        text: |-
-            Discuss the proper clothing, footwear, and personal gear required for
-            small-boat sailing in warm weather and in cool weather. Explain how
-            choosing the proper clothing, footwear, and personal gear will help
-            keep you comfortable and safe while sailing.
-- requirement: 5
-  text: |-
-      Discuss with your counselor how to identify the wind direction and wind
-      indicators. Explain the importance of this task before setting sail.
-- requirement: 6
-  text: |-
-      Following the Scouting America Safety Afloat plan, show that you and a
-      buddy can sail a boat properly. Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Prepare a boat for sailing, including a safety inspection.
-      - requirement: b
-        text: |-
-            Get underway from a dock, mooring, or beach.
-      - requirement: c
-        text: |-
-            Properly set sails for a round-trip course approved by your counselor
-            that will include running, beating, and reaching-the basic points of
-            sail. While sailing, demonstrate good helmsmanship skills.
-      - requirement: d
-        text: |-
-            Change direction by tacking; change direction by jibing.
-      - requirement: e
-        text: |-
-            Demonstrate getting out of irons.
-      - requirement: f
-        text: |-
-            Demonstrate the safety position.
-      - requirement: g
-        text: |-
-            Demonstrate capsize procedures and the rescue of a person overboard.
-            <div class="gap"></div>
-            <b>Note:</b> Capsize procedures should be conducted under the close
-            supervision of the counselor. A rescue boat should be standing by to
-            assist, if necessary, and to tow the capsized craft to shore.
-            Self-bailing boats are acceptable for this requirement. Extreme care
-            should be taken to avoid personal injury and damage to the boat or
-            equipment.
-      - requirement: h
-        text: |-
-            Demonstrate the procedure to take after running aground.
-      - requirement: i
-        text: |-
-            Accept a single line or side tow and maneuver the craft being towed
-            safely for 20 boat lengths.
-      - requirement: j
-        text: |-
-            Upon returning to the dock, mooring, or beach, properly secure all
-            equipment, furl or stow sails, and prepare the craft for unattended
-            docking or beaching overnight or longer.
-- requirement: 7
-  text: |-
-      Demonstrate a working knowledge of marlinespike seamanship. Do the
-      following:
-  children:
-      - requirement: a
-        text: |-
-            Show how to tie a square (reef) knot, clove hitch, two half hitches,
-            bowline, cleat hitch, and figure-eight knot. Demonstrate the use of
-            each.
-      - requirement: b
-        text: |-
-            Show how to heave a line, coil a line, and fake down a line.
-      - requirement: c
-        text: |-
-            Discuss the kinds of lines used on sailboats and the types of fibers
-            used in their manufacture. Explain the advantages and disadvantages of
-            each.
-- requirement: 8
-  text: |-
-      Describe how you would care for and maintain a sailboat and its gear
-      throughout the year.
-- requirement: 9
-  text: |-
-      With your counselor, review sailing terminology and the points of sail.
-      Discuss various types of sailboats in use today and explain their
-      differences.
+-
+    requirement: 1
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain to your counselor the most likely hazards you may
+                encounter while participating in small-boat sailing activities,
+                and what you should do to anticipate, help prevent, mitigate,
+                and respond to these hazards.
+            resources:
+                -
+                    href: https://youtu.be/BmjUXXB_3UY
+                    text: Environment, Rules Afloat and General Safety
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Review prevention, symptoms, and first-aid treatment for the
+                following injuries or illnesses that can occur while sailing:
+                blisters, cold-water shock and hypothermia, dehydration,
+                heat-related illnesses, sunburn, sprains, and strains.
+            resources:
+                -
+                    href: https://youtu.be/rH3gZuSr6Y8
+                    text: Cold Water Shock
+                    type: video
+                -
+                    href: https://youtu.be/EmNieKLjmH4
+                    text: What Happens if You Don't Drink Enough Water?
+                    type: video
+                -
+                    href: https://youtu.be/Rz6Wxiv4aRAK
+                    text: Dangers of Heat-Related Illnesses
+                    type: video
+                -
+                    href: https://youtu.be/9aFm087_XWg
+                    text: What Causes Sunburns?
+                    type: video
+                -
+                    href: https://youtu.be/z1gbB_peVDQ
+                    text: Sprain Care With RICE Method
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Discuss the Scouting America Safety Afloat policy. Tell how it
+                applies to small-boat sailing activities.
+            resources:
+                -
+                    href: >-
+                        https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/
+                    text: Safety Afloat
+                    type: website
+-
+    requirement: 2
+    text: |-
+        Before doing the following requirements, successfully complete the
+        Scouting America swimmer test.
+        <div class="gap"></div>
+        <i><b>NOTE:</b> See the <a
+        href="/merit-badges/swimming/"><i>Swimming</i> merit badge</a> pamphlet
+        for details about the Scouting America swimmer test.</i>
+    resources:
+        -
+            href: >-
+                https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf
+            text: <i>Swimming</i> Merit Badge Pamphlet
+            type: pdf
+-
+    requirement: 3
+    text: |-
+        Describe the boat you will be using for the sailing requirement, naming
+        all of the major parts and the function of those parts.
+        <div class="gap"></div>
+        <i><b>NOTE:</b> The skills may be demonstrated on any boat available to
+        the Scout; sailboards are not acceptable. While no specific sail plan is
+        recommended, it is suggested that the craft be smaller than 20 feet. The
+        boat must be capsizable and have the capability of sailing to
+        windward.</i>
+    resources:
+        -
+            href: https://youtu.be/hJHkil8HOHo
+            text: 'Sailboat Parts Explained: Overview and Names'
+            type: video
+-
+    requirement: 4
+    text: 'Before going afloat, do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Discuss the nine points of the Scouting America Safety Afloat
+                plan.
+            resources:
+                -
+                    href: >-
+                        https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/
+                    text: Safety Afloat
+                    type: website
+        -
+            requirement: b
+            text: |-
+                Explain the rules of the road in general and any specific rules
+                or laws that apply to your area or state.
+            resources:
+                -
+                    href: https://youtu.be/bFPRfYCUYY8
+                    text: 'Steering Rules: Crossing, Meeting &amp; Overtaking'
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Explain how water conditions, the hazards of weather, and heavy
+                winds can affect both safety and performance in sailing.
+        -
+            requirement: d
+            text: |-
+                Discuss the warning signs of inclement weather and what to do
+                should heavy winds develop or a storm approach.
+            resources:
+                -
+                    href: >-
+                        https://thenauticalnomad.com/sailing-basics/safety-at-sea/how-to-prepare-for-heavy-weather-conditions/
+                    text: How To Prepare for Heavy Weather Conditions
+                    type: website
+                -
+                    href: https://youtu.be/vAqM9g7Chgg
+                    text: Science of Sailing | Level 3 | Clouds and Breezes
+                    type: video
+                -
+                    href: https://youtu.be/OEWQzUl1jQc
+                    text: How To Read Clouds
+                    type: video
+        -
+            requirement: e
+            text: Prepare a typical float plan.
+            resources:
+                -
+                    href: https://youtu.be/AZHZzy25E-8
+                    text: Filing a Float Plan
+                    type: video
+                -
+                    href: >-
+                        https://floatplancentral.cgaux.org/classroom/preparation.htm
+                    text: How To Complete a Float Plan
+                    type: website
+        -
+            requirement: f
+            text: |-
+                Discuss the proper clothing, footwear, and personal gear
+                required for small-boat sailing in warm weather and in cool
+                weather. Explain how choosing the proper clothing, footwear, and
+                personal gear will help keep you comfortable and safe while
+                sailing.
+            resources:
+                -
+                    href: https://youtu.be/vzmPjHBZ--g
+                    text: What To Wear for Dinghy Sailing
+                    type: video
+-
+    requirement: 5
+    text: |-
+        Discuss with your counselor how to identify the wind direction and wind
+        indicators. Explain the importance of this task before setting sail.
+    resources:
+        -
+            href: https://youtu.be/tIlZv-l9qcQ
+            text: Wind Awareness
+            type: video
+-
+    requirement: 6
+    text: |-
+        Following the Scouting America Safety Afloat plan, show that you and a
+        buddy can sail a boat properly. Do the following:
+    children:
+        -
+            requirement: a
+            text: Prepare a boat for sailing, including a safety inspection.
+        -
+            requirement: b
+            text: Get underway from a dock, mooring, or beach.
+            resources:
+                -
+                    href: https://youtu.be/JBdvAG6Ham0
+                    text: Beach Launching a Single Handed Boat
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Properly set sails for a round-trip course approved by your
+                counselor that will include running, beating, and reaching-the
+                basic points of sail. While sailing, demonstrate good
+                helmsmanship skills.
+            resources:
+                -
+                    href: https://youtu.be/Ow-P45DpHj8
+                    text: Points of Sail
+                    type: video
+                -
+                    href: https://youtu.be/mTtKGr_4vYg
+                    text: Close-Hauled (Sailing Towards the Wind)
+                    type: video
+                -
+                    href: https://youtu.be/DsmH7XuMJbw
+                    text: Reaching (Sailing Across the Wind)
+                    type: video
+                -
+                    href: https://youtu.be/FI-9JeVzsK0
+                    text: Running (Sailing Away From the Wind)
+                    type: video
+        -
+            requirement: d
+            text: Change direction by tacking; change direction by jibing.
+            resources:
+                -
+                    href: https://youtu.be/gMEOex9GQWU
+                    text: How To Tack (Turn Around) a One Person Sailboat
+                    type: video
+                -
+                    href: https://youtu.be/LVQyaWa4riw
+                    text: |-
+                        How To Jib a Single Person Sailboat (Turning Away From
+                        the Wind)
+                    type: video
+        -
+            requirement: e
+            text: Demonstrate getting out of irons.
+        -
+            requirement: f
+            text: Demonstrate the safety position.
+        -
+            requirement: g
+            text: |-
+                Demonstrate capsize procedures and the rescue of a person
+                overboard.
+                <div class="gap"></div>
+                <i><b>NOTE:</b> Capsize procedures should be conducted under the
+                close supervision of the counselor. A rescue boat should be
+                standing by to assist, if necessary, and to tow the capsized
+                craft to shore. Self-bailing boats are acceptable for this
+                requirement. Extreme care should be taken to avoid personal
+                injury and damage to the boat or equipment.</i>
+            resources:
+                -
+                    href: https://youtu.be/0flyv_GPwwc
+                    text: Capsize a Single Handed Sailboat
+                    type: video
+        -
+            requirement: h
+            text: Demonstrate the procedure to take after running aground.
+            resources:
+                -
+                    href: >-
+                        https://www.cruisingworld.com/how/what-do-when-you-run-aground/
+                    text: What To Do When You Run Aground
+                    type: website
+        -
+            requirement: i
+            text: |-
+                Accept a single line or side tow and maneuver the craft being
+                towed safely for 20 boat lengths.
+        -
+            requirement: j
+            text: |-
+                Upon returning to the dock, mooring, or beach, properly secure
+                all equipment, furl or stow sails, and prepare the craft for
+                unattended docking or beaching overnight or longer.
+-
+    requirement: 7
+    text: |-
+        Demonstrate a working knowledge of marlinespike seamanship. Do the
+        following:
+    children:
+        -
+            requirement: a
+            text: |-
+                Show how to tie a square (reef) knot, clove hitch, two half
+                hitches, bowline, cleat hitch, and figure-eight knot.
+                Demonstrate the use of each.
+            resources:
+                -
+                    href: https://youtu.be/L-SWGGN3nsM
+                    text: Essential Sailing Knots
+                    type: video
+                -
+                    href: https://www.youtube.com/watch?v=0-eDYx3lkC8
+                    text: Overhand Knot
+                    type: video
+        -
+            requirement: b
+            text: Show how to heave a line, coil a line, and fake down a line.
+            resources:
+                -
+                    href: https://youtu.be/b14m_BGixK0
+                    text: How To Coil a Rope
+                    type: video
+                -
+                    href: https://youtu.be/X6QWotYflG0
+                    text: How To Flake and Heave a Line
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Discuss the kinds of lines used on sailboats and the types of
+                fibers used in their manufacture. Explain the advantages and
+                disadvantages of each.
+            resources:
+                -
+                    href: https://www.sailboat-cruising.com/marine-cordage.html
+                    text: Lines and Usages for Sailing
+                    type: website
+-
+    requirement: 8
+    text: |-
+        Describe how you would care for and maintain a sailboat and its gear
+        throughout the year.
+-
+    requirement: 9
+    text: |-
+        With your counselor, review sailing terminology and the points of sail.
+        Discuss various types of sailboats in use today and explain their
+        differences.

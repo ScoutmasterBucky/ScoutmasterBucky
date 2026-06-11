@@ -1,100 +1,320 @@
-# Requirement 8 - changed "where you pan to fish" to "where you plan to fish"
-- text: |-
-      <b>NOTE:</b> <i>Scouts should obey all local fishing regulations and property
-      laws.</i>
-- requirement: 1
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain to your counselor the most likely hazards you may encounter
-            while participating in fly-fishing activities and what you should do to
-            anticipate, help prevent, mitigate, and respond to these hazards. Name
-            and explain five safety practices you should always follow while
-            fly-fishing.
-      - requirement: b
-        text: |-
-            Discuss the prevention of and treatment for the following health
-            concerns that could occur while fly-fishing: cuts and scratches, puncture
-            wounds, insect bites, hypothermia, dehydration, heat exhaustion,
-            heatstroke, sunburn.
-      - requirement: c
-        text: |-
-            Explain how to remove a hook that has lodged in someone's arm.
-- requirement: 2
-  text: |-
-      Demonstrate how to match a fly rod, line, and leader to achieve a balanced
-      system. Discuss several types of fly lines, and explain how and when each
-      would be used. Review with your counselor how to care for this equipment.
-- requirement: 3
-  text: |-
-      Demonstrate how to tie proper knots to prepare a fly rod for fishing:
-  children:
-      - requirement: a
-        text: |-
-            Tie backing to the arbor of a fly reel spool using an arbor knot.
-      - requirement: b
-        text: |-
-            Tie backing to the fly line using a nail (tube) knot.
-      - requirement: c
-        text: |-
-            Attach a leader to the fly line using a nail (tube) knot or a
-            loop-to-loop connection.
-      - requirement: d
-        text: |-
-            Add a tippet to a leader using a surgeon's knot or a loop-to-loop
-            connection.
-      - requirement: e
-        text: |-
-            Tie a fly onto the terminal end of the leader using an improved clinch
-            knot.
-- requirement: 4
-  text: |-
-      Explain how and when each of the following types of flies is used: dry
-      flies, wet flies, nymphs, streamers, bass bugs, poppers, and saltwater
-      flies. Tell what each one imitates. Tie at least two types of the flies
-      mentioned in this requirement.
-- requirement: 5
-  text: |-
-      Demonstrate the ability to cast a fly 30 feet consistently and accurately
-      using both overhead and roll cast techniques.
-- requirement: 6
-  text: |-
-      Go to a suitable fishing location and observe what fish may be eating both
-      above and beneath the water's surface. Explain the importance of matching
-      the hatch.
-- requirement: 7
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain the importance of practicing Leave No Trace Seven Principles
-            and the Outdoor Code. Discuss the positive effects of the Leave No
-            Trace Seven Principles and the Outdoor Code on fly-fishing resources.
-      - requirement: b
-        text: |-
-            Discuss the meaning and importance of catch and release. Describe how
-            to properly release a fish safely to the water.
-- requirement: 8
-  text: |-
-      Obtain and review a copy of the regulations affecting game fishing where
-      you live or where you plan to fish. Explain why they were adopted and what
-      is accomplished by following them.
-- requirement: 9
-  text: |-
-      Explain what good outdoor sportsmanlike behavior is and how it relates to
-      anglers. Tell how the Leave No Trace Seven Principles and the Outdoor Code
-      relate to a fishing sports enthusiast, including the aspects of littering,
-      trespassing, courteous behavior, and obeying fishing regulations.
-- requirement: 10
-  text: |-
-      Catch one fish on a fly and identify it.
-- requirement: 11
-  text: |-
-      If regulations and health concerns permit, clean and cook a fish you have
-      caught. If you are unable to catch a fish for eating, acquire a fish, clean
-      the fish you acquired, and cook the fish you acquired.
-      <div class="gap"></div>
-      <b>Note:</b> It is not required that you eat the fish.
+# AUTO: WARNING: Found "website/video" resource type near "Arbor Knot...". This should be "website with video".
+# AUTO: WARNING: Found "website/video" resource type near "Nail Knot...". This should be "website with video".
+# AUTO: WARNING: Found "website/video" resource type near "Loop to Loop Knot...". This should be "website with video".
+# AUTO: WARNING: Found "website/video" resource type near "Surgeon's Knot...". This should be "website with video".
+# AUTO: WARNING: Found "website/video" resource type near "Improved Clinch Knot...". This should be "website with video".
+# AUTO: WARNING: Found "web" resource type near "Fishing Licenses, Rules, Regulations...". This should be "website".
+-
+    text: |-
+        <i><b>NOTE:</b> Scouts should obey all local fishing regulations and
+        property laws.</i>
+-
+    requirement: 1
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain to your counselor the most likely hazards you may
+                encounter while participating in fly-fishing activities and what
+                you should do to anticipate, help prevent, mitigate, and respond
+                to these hazards. Name and explain five safety practices you
+                should always follow while fly-fishing.
+            resources:
+                -
+                    href: >-
+                        https://anglersadvantageguideservice.com/why-is-fishing-dangerous-dont-overlook-these-risks/
+                    text: Why Is Fishing Dangerous? Don't Overlook These Risks!
+                    type: website
+                -
+                    href: https://youtu.be/PiSbKetM50U
+                    text: Wader Safety 101
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Discuss the prevention of and treatment for the following health
+                concerns that could occur while fly-fishing: cuts and scratches,
+                puncture wounds, insect bites, hypothermia, dehydration, heat
+                exhaustion, heatstroke, and sunburn.
+            resources:
+                -
+                    href: https://youtu.be/L6crQ3nMLkI
+                    text: Splinters
+                    type: video
+                -
+                    href: https://youtu.be/0jp5FgLmKtk
+                    text: How To Treat Cuts and Bruises
+                    type: video
+                -
+                    href: https://youtu.be/YkUW3pquCF4
+                    text: |-
+                        How To Treat an Insect Bite or Sting | First Aid
+                        Training
+                    type: video
+                -
+                    href: https://youtu.be/my6JB41apTw
+                    text: Hypothermia
+                    type: video
+                -
+                    href: https://youtu.be/KahsIEbFROI
+                    text: What Is Dehydration?
+                    type: video
+                -
+                    href: https://youtu.be/8gn3DEYOPuE
+                    text: Heat Exhaustion vs Heat Stroke
+                    type: video
+                -
+                    href: https://youtu.be/-KzTvagnpfU
+                    text: Sunburn
+                    type: video
+        -
+            requirement: c
+            text: Explain how to remove a hook that has lodged in someone's arm.
+            resources:
+                -
+                    href: https://youtu.be/AmT3T_9Guq0
+                    text: Removing a Fishhook
+                    type: video
+                -
+                    href: https://youtu.be/52GLMQp52qg
+                    text: How To Remove a Hook
+                    type: video
+-
+    requirement: 2
+    text: |-
+        Demonstrate how to match a fly rod, line, and leader to achieve a
+        balanced system. Discuss several types of fly lines, and explain how and
+        when each would be used. Review with your counselor how to care for this
+        equipment.
+    resources:
+        -
+            href: https://youtu.be/AzmVg3rN08U
+            text: How To Set Up a Fly Rod and Reel
+            type: video
+        -
+            href: https://youtu.be/w_5V08fYXnQ
+            text: How To Set Up Your Fly Line, Leader, Tippet, &amp; Flies
+            type: video
+        -
+            href: https://youtu.be/zYlWyySamYk
+            text: Understanding Fly Line Tapers
+            type: video
+        -
+            href: https://youtu.be/j7w6LEpbLeo
+            text: Cleaning and Maintaining Your Fly Fishing Gear
+            type: video
+-
+    requirement: 3
+    text: 'Demonstrate how to tie proper knots to prepare a fly rod for fishing:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Tie backing to the arbor of a fly reel spool using an arbor
+                knot.
+            resources:
+                -
+                    href: https://www.netknots.com/fishing_knots/arbor-knot
+                    text: Arbor Knot
+                    type: website with video
+        -
+            requirement: b
+            text: Tie backing to the fly line using a nail (tube) knot.
+            resources:
+                -
+                    href: https://www.netknots.com/fishing_knots/nail-knot
+                    text: Nail Knot
+                    type: website with video
+        -
+            requirement: c
+            text: |-
+                Attach a leader to the fly line using a nail (tube) knot or a
+                loop-to-loop connection.
+            resources:
+                -
+                    href: https://www.netknots.com/fishing_knots/loop-to-loop-knot
+                    text: Loop to Loop Knot
+                    type: website with video
+        -
+            requirement: d
+            text: |-
+                Add a tippet to a leader using a surgeon's knot or a
+                loop-to-loop connection.
+            resources:
+                -
+                    href: https://www.netknots.com/fishing_knots/surgeons-knot
+                    text: Surgeon's Knot
+                    type: website with video
+        -
+            requirement: e
+            text: |-
+                Tie a fly onto the terminal end of the leader using an improved
+                clinch knot.
+            resources:
+                -
+                    href: >-
+                        https://www.netknots.com/fishing_knots/improved-clinch-knot
+                    text: Improved Clinch Knot
+                    type: website with video
+-
+    requirement: 4
+    text: |-
+        Explain how and when each of the following types of flies is used: dry
+        flies, wet flies, nymphs, streamers, bass bugs, poppers, and saltwater
+        flies. Tell what each one imitates. Tie at least two types of the flies
+        mentioned in this requirement.
+    resources:
+        -
+            href: https://youtu.be/jz189rWAMfw
+            text: |-
+                Fly Fishing Flies Explained (Streamers, Nymphs, Dry Flies &amp;
+                More)
+            type: video
+        -
+            href: https://youtu.be/yoR-cDYRAiE
+            text: Bass Popper Fly—Bass Series:McFly Angler fly Tying Tutorial
+            type: video
+        -
+            href: https://youtu.be/OuWR6Zx1MaQ
+            text: Saltwater Flys
+            type: video
+-
+    requirement: 5
+    text: |-
+        Demonstrate the ability to cast a fly 30 feet consistently and
+        accurately using both overhead and roll cast techniques.
+    resources:
+        -
+            href: https://youtu.be/ey2DSp3_s6E
+            text: Overhead Cast and Roll Cast
+            type: video
+-
+    requirement: 6
+    text: |-
+        Go to a suitable fishing location and observe what fish may be eating
+        both above and beneath the water's surface. Explain the importance of
+        matching the hatch.
+    resources:
+        -
+            href: https://youtu.be/TdV0DMk6ohs
+            text: Match the Hatch Fly Fishing
+            type: video
+-
+    requirement: 7
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain the importance of practicing Leave No Trace Seven
+                Principles and the Outdoor Code. Discuss the positive effects of
+                the Leave No Trace Seven Principles and the Outdoor Code on
+                fly-fishing resources.
+            resources:
+                -
+                    href: https://youtu.be/Rpq01rO9ZR0
+                    text: What Is Leave No trace?
+                    type: video
+                -
+                    href: https://lnt.org/why/7-principles/
+                    text: 7 Principles—Leave No Trace
+                    type: website
+                -
+                    href: https://vimeo.com/1115216743/63b20c0b33
+                    text: LNT Basics
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Discuss the meaning and importance of catch and release.
+                Describe how to properly release a fish safely to the water.
+            resources:
+                -
+                    href: https://youtu.be/MBg_dtAY2-o
+                    text: Proper Catch and Release Fishing Practices
+                    type: video
+                -
+                    href: https://youtu.be/TzNjYoRpvb0
+                    text: |-
+                        How To Safely Handle Fish for Catch &amp; Release
+                        Fishing
+                    type: video
+                -
+                    href: https://youtu.be/SMGO50R_lrA
+                    text: Ethical Catch and Release
+                    type: video
+-
+    requirement: 8
+    text: |-
+        Obtain and review a copy of the regulations affecting game fishing where
+        you live or where you plan to fish. Explain why they were adopted and
+        what is accomplished by following them.
+    resources:
+        -
+            href: >-
+                https://fishpiers.com/fishing-license-requirements-by-state-all-50-states/
+            text: Fishing Licenses, Rules, Regulations
+            type: website
+-
+    requirement: 9
+    text: |-
+        Explain what good outdoor sportsmanlike behavior is and how it relates
+        to anglers. Tell how the Leave No Trace Seven Principles and the Outdoor
+        Code relate to a fishing sports enthusiast, including the aspects of
+        littering, trespassing, courteous behavior, and obeying fishing
+        regulations.
+    resources:
+        -
+            href: https://youtu.be/54ImytCqbzI
+            text: Understanding Basic Fishing Rules and Etiquette
+            type: video
+        -
+            href: https://youtu.be/HGJc_mb9InY
+            text: Fly Fishing Guidelines with Leave No Trace
+            type: video
+-
+    requirement: 10
+    text: Catch one fish on a fly and identify it.
+    resources:
+        -
+            href: https://freeappsforme.com/fish-identification-apps/
+            text: Fish Identification Apps
+            type: website
+        -
+            href: https://youtu.be/mZ4M-AP6-iQ
+            text: How To Identify Common Freshwater Fish
+            type: video
+-
+    requirement: 11
+    text: |-
+        If regulations and health concerns permit, clean and cook a fish you
+        have caught. If you are unable to catch a fish for eating, acquire a
+        fish, clean the fish you acquired, and cook the fish you acquired.
+        <div class="gap"></div>
+        <i><b>NOTE:</b> It is not required that you eat the fish.</i>
+    resources:
+        -
+            href: https://youtu.be/ZiGEN2F_spc
+            text: How To Clean, Descale, and Gut a Fresh Fish
+            type: video
+        -
+            href: https://youtu.be/uBDYqh8p2fU
+            text: How To Clean and Care for Your Catch
+            type: video
+        -
+            href: https://www.youtube.com/shorts/hca5xiZbulY
+            text: How To Fillet a Fish
+            type: video
+        -
+            href: https://www.youtube.com/shorts/u19fJ10kAVo
+            text: How To Clean a Fish Before Cooking
+            type: video
+        -
+            href: https://youtu.be/BSQhEjSalwk
+            text: How To Cook a Fish
+            type: video
+        -
+            href: https://youtu.be/Tgv7tCx2NsA
+            text: 5 Easy Ways To Cook Fish
+            type: video

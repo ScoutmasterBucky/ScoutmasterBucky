@@ -4,92 +4,222 @@
 # transitioned in 2009 to the Native American $1 Coin Program using the
 # Sacagawea obverse paired with different designs each year.
 # 4f: Punctuation should be changed to use semicolons - Susan B. Anthony 1979-1981, 1999; Sacagawea 2000-2008; U.S. Presidents 2007-2016, 2020.
-- requirement: 1
-  text: |-
-      Understand how coins are made and where the active U.S. Mint facilities are
-      located.
-- requirement: 2
-  text: |-
-      Explain the following terms: obverse, reverse, reeding, clad, type set,
-      and date set.
-- requirement: 3
-  text: |-
-      Describe three different ways to store a collection, and the benefits,
-      drawbacks, and cost of each method.
-- requirement: 4
-  text: |-
-      Do the following and explain to your counselor the design features,
-      designer name, designer initials, and where to find them for each item:
-  children:
-      - requirement: a
-        text: |-
-            Collect a one-cent coin from the year group: 1959-2008 (that is, dated
-            between 1959 and 2008) and a one-cent coin from the year group
-            2010-present. Explain how and why the one-cent coins issued in 2009
-            were different from either of the other two year groups.
-      - requirement: b
-        text: |-
-            Collect two five-cent coins, one from each of these year groups:
-            1959-2003 and 2006-present. Explain how and why the five-cent coins
-            issued in 2004-2005 were different from either of the other two year
-            groups.
-      - requirement: c
-        text: |-
-            Collect a ten-cent coin from 1965-present.
-      - requirement: d
-        text: |-
-            Collect a twenty-five-cent coin from 1965-1998, two examples from the
-            50-State Quarter®/territories Program 1999-2009, two designs from the
-            America the Beautiful® program 2010-2021 and two designs from the
-            American Woman Quarter® program (2022-2024). Explain the purpose of
-            each of those programs.
-      - requirement: e
-        text: |-
-            Collect a half dollar coin from 1965-present.
-      - requirement: f
-        text: |-
-            Collect a dollar coin from the following design groups: Susan B.
-            Anthony 1979-1981, 1999, Sacagawea 2000-2008, U.S. Presidents 2007-2016, 2020.
-- requirement: 5
-  text: |-
-      Describe and discuss with your counselor the special reverse designs of the
-      quarters, half dollar and dollar coin struck in 1975-1976 to honor the U.S.
-      Bicentennial.
-- requirement: 6
-  text: |-
-      Identify for your counselor the people depicted on current currency: $1,
-      $2, $5, $10, $20, $50, and $100 notes. Explain where United States currency
-      is printed.
-- requirement: 7
-  text: |-
-      Do ONE of the following:
-  children:
-      - requirement: a
-        text: |-
-            Collect and identify for your counselor 20 different world coins from
-            at least seven different countries. Identify the country, major design
-            elements, and denomination of each.
-      - requirement: b
-        text: |-
-            Collect and identify for your counselor 20 different world paper money
-            from at least 7 different countries. Identify the country, major design
-            elements, and denomination of each.
-      - requirement: c
-        text: |-
-            Collect and identify for your counselor 20 different tokens and/or
-            medals. Identify the issuer and use of each.
-      - requirement: d
-        text: |-
-            Complete one of the following and report to your counselor what you
-            experienced:
-        children:
-            - requirement: 1
-              text: Attend a coin show
-            - requirement: 2
-              text: Attend a coin club meeting
-            - requirement: 3
-              text: Tour a U.S. Mint facility or museum
-            - requirement: 4
-              text: |-
-                  Tour a virtual exhibit (with your parent or guardian's permission)
-                  approved by your counselor.
+-
+    requirement: 1
+    text: |-
+        Understand how coins are made and where the active U.S. Mint facilities
+        are located.
+    resources:
+        -
+            href: https://youtu.be/PIwUqiedeRo
+            text: How Coins Are Made—Inside U.S. Coin Factory
+            type: video
+        -
+            href: https://www.usmint.gov/about/tours-and-locations
+            text: US Mint Locations in the US
+            type: website
+-
+    requirement: 2
+    text: |-
+        Explain the following terms: obverse, reverse, reeding, clad, type set,
+        and date set.
+    resources:
+        -
+            href: https://www.usmint.gov/learn/collecting-basics/glossary
+            text: Coin Term Glossary
+            type: website
+        -
+            href: https://youtu.be/-tWMpOVGyOU
+            text: Coin Collecting for Beginners; Coin Terminology and Coin Anatomy
+            type: video
+-
+    requirement: 3
+    text: |-
+        Describe three different ways to store a collection, and the benefits,
+        drawbacks, and cost of each method.
+    resources:
+        -
+            href: https://youtu.be/hlrjZhNcaUk
+            text: Coin Storage Tips | How and Where to Keep Your Collection Safe
+            type: video
+-
+    requirement: 4
+    text: |-
+        Do the following and explain to your counselor the design features,
+        designer name, designer initials, and where to find them for each item:
+    resources:
+        -
+            href: https://youtu.be/cdeGZ8yJyZQ
+            text: |-
+                Coin Collecting 101 for Beginners: What You Need to Know to
+                Start Coin Collecting
+            type: video
+    children:
+        -
+            requirement: a
+            text: |-
+                Collect a one-cent coin from the year group: 1959-2008 (that is,
+                dated between 1959 and 2008) and a one-cent coin from the year
+                group 2010-present. Explain how and why the one-cent coins
+                issued in 2009 were different from either of the other two year
+                groups.
+        -
+            requirement: b
+            text: |-
+                Collect two five-cent coins, one from each of these year groups:
+                1959-2003 and 2006-present. Explain how and why the five-cent
+                coins issued in 2004-2005 were different from either of the
+                other two year groups.
+        -
+            requirement: c
+            text: Collect a ten-cent coin from 1965-present.
+        -
+            requirement: d
+            text: |-
+                Collect a twenty-five-cent coin from 1965-1998, two examples
+                from the 50-State Quarter®/territories Program 1999-2009, two
+                designs from the America the Beautiful® program 2010-2021 and
+                two designs from the American Woman Quarter® program
+                (2022-2024). Explain the purpose of each of those programs.
+            resources:
+                -
+                    href: https://youtu.be/aT93UvK8GKs
+                    text: Collecting State Quarters
+                    type: video
+                -
+                    href: https://youtu.be/EhT0DuFrWgY
+                    text: America the Beautiful Quarters® Program
+                    type: video
+                -
+                    href: https://youtu.be/F9vlvwHOQWQ
+                    text: American Women Quarters® Program
+                    type: video
+        -
+            requirement: e
+            text: Collect a half dollar coin from 1965-present.
+        -
+            requirement: f
+            text: |-
+                Collect a dollar coin from the following design groups: Susan B.
+                Anthony 1979-1981, 1999, Sacagawea 2000-2008, U.S. Presidents
+                2007-2016, 2020.
+            resources:
+                -
+                    href: https://susanbanthonycoin.com/
+                    text: Susan B. Anthony Coins
+                    type: website
+                -
+                    href: https://sacagawea-coin.com/
+                    text: Sacagawea Coins
+                    type: website
+                -
+                    href: >-
+                        https://www.usmint.gov/learn/coins-and-medals/collectible-coins/presidential-dollar-coins
+                    text: Presidential Dollar Coins
+                    type: website
+-
+    requirement: 5
+    text: |-
+        Describe and discuss with your counselor the special reverse designs of
+        the quarters, half dollar and dollar coin struck in 1975-1976 to honor
+        the U.S. Bicentennial.
+    resources:
+        -
+            href: >-
+                https://www.usmint.gov/learn/coins-and-medals/bicentennial-coins-and-medals
+            text: Bicentennial Coins &amp; Medals
+            type: website
+-
+    requirement: 6
+    text: |-
+        Identify for your counselor the people depicted on current currency: $1,
+        $2, $5, $10, $20, $50, and $100 notes. Explain where United States
+        currency is printed.
+    resources:
+        -
+            href: https://www.bep.gov/currency/how-money-is-made
+            text: How Money is Made
+            type: video
+        -
+            href: https://www.youtube.com/shorts/Mdlw67Rt7lA
+            text: Do You Know Who Is on Every US Banknote?
+            type: video
+-
+    requirement: 7
+    text: 'Do ONE of the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Collect and identify for your counselor 20 different world coins
+                from at least seven different countries. Identify the country,
+                major design elements, and denomination of each.
+        -
+            requirement: b
+            text: |-
+                Collect and identify for your counselor 20 different world paper
+                money from at least 7 different countries. Identify the country,
+                major design elements, and denomination of each.
+        -
+            requirement: c
+            text: |-
+                Collect and identify for your counselor 20 different tokens
+                and/or medals. Identify the issuer and use of each.
+            resources:
+                -
+                    href: >-
+                        https://stacksbowers.com/coin-resource-center/coin-collectors-guide/exonumia-tokens-medals-guide/
+                    text: Exonumia (Tokens and Medals)
+                    type: website
+        -
+            requirement: d
+            text: |-
+                Complete one of the following and report to your counselor what
+                you experienced:
+            children:
+                -
+                    requirement: 1
+                    text: Attend a coin show.
+                    resources:
+                        -
+                            href: >-
+                                https://www.govmint.com/learn/post/best-national-regional-coin-shows-for-collectors
+                            text: National and Regional Coin Shows for Collectors
+                            type: website
+                -
+                    requirement: 2
+                    text: Attend a coin club meeting.
+                    resources:
+                        -
+                            href: https://www.money.org/club-directory/
+                            text: Local Coin Club Directory
+                            type: website
+                -
+                    requirement: 3
+                    text: Tour a U.S. Mint facility or museum.
+                    resources:
+                        -
+                            href: https://www.usmint.gov/about/tours-and-locations
+                            text: US Mint Locations in the US
+                            type: website
+                -
+                    requirement: 4
+                    text: |-
+                        Tour a virtual exhibit (with your parent or guardian's
+                        permission) approved by your counselor.
+                    resources:
+                        -
+                            href: >-
+                                https://www.money.org/money-museum/virtual-tours/
+                            text: Virtual Tours
+                            type: website
+                        -
+                            href: >-
+                                https://www.money.org/money-museum/virtual-exhibits-hom/
+                            text: History of Money Exhibit
+                            type: website
+                        -
+                            href: >-
+                                https://www.money.org/money-museum/virtual-exhibits-mia/
+                            text: Medal in America Exhibit
+                            type: website

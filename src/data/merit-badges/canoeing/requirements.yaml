@@ -1,171 +1,428 @@
 # 9e changed "thumbdown" back to "thumb-down"
-- requirement: 1
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Review with your counselor the most likely hazards you may encounter
-            while participating in canoeing activities and what you should do to
-            anticipate, help prevent, mitigate, and respond to these hazards.
-      - requirement: b
-        text: |-
-            Review prevention, symptoms, and first-aid treatment for the following
-            injuries or illnesses that could occur while canoeing: blisters,
-            cold-water shock and hypothermia, dehydration, heat-related illnesses,
-            sunburn, sprains, and strains.
-      - requirement: c
-        text: |-
-            Discuss the Scouting America Safety Afloat policy. Tell how it applies
-            to canoeing activities.
-- requirement: 2
-  text: |-
-      Before doing the following requirements, successfully complete the Scouting
-      America swimmer test, found in the <a href="../swimming/"><i>Swimming</i>
-      merit badge</a> pamphlet.
-- requirement: 3
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Name and point out the major parts of a canoe.
-      - requirement: b
-        text: |-
-            Describe how the length and shape of a canoe affect its performance.
-- requirement: 4
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Name and point out the parts of a paddle.
-      - requirement: b
-        text: |-
-            Demonstrate how to correctly size a paddle for a paddler in a sitting
-            position and a kneeling position.
-- requirement: 5
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Review with your counselor the characteristics of life jackets most
-            appropriate for canoeing and tell why a life jacket must always be worn
-            while paddling.
-      - requirement: b
-        text: |-
-            Demonstrate how to select and properly fit the correct size life
-            jacket.
-      - requirement: c
-        text: |-
-            Review the importance of safety and rescue equipment such as a sound
-            signal device, extra paddle, sponge, bailer, bilge pump, rescue sling,
-            ropes, and throw bag.
-- requirement: 6
-  text: |-
-      Review with your counselor the general care and maintenance of canoes,
-      paddles, and other canoeing equipment.
-- requirement: 7
-  text: |-
-      With a companion, use a properly equipped canoe to demonstrate the
-      following:
-  children:
-      - requirement: a
-        text: |-
-            Safely carry and launch the canoe from a dock or shore (both, if
-            possible).
-      - requirement: b
-        text: |-
-            Safely land the canoe on a dock or shore (both, if possible) and return
-            it to its proper storage location.
-      - requirement: c
-        text: |-
-            Demonstrate kneeling and sitting positions in a canoe and explain the
-            proper use for each position.
-      - requirement: d
-        text: |-
-            Change places while afloat in the canoe.
-- requirement: 8
-  text: |-
-      With a companion, use a properly equipped canoe to demonstrate the
-      following:
-  children:
-      - requirement: a
-        text: |-
-            Safely exit the canoe in deep water without losing contact with the
-            canoe. Reenter the canoe with the assistance of the other paddler
-            without capsizing the boat.
-      - requirement: b
-        text: |-
-            Safely perform a controlled capsize of the canoe and demonstrate how
-            staying with a capsized canoe will support both paddlers.
-      - requirement: c
-        text: |-
-            Swim, tow, or push a swamped canoe 50 feet to shallow water. In the
-            shallow water, empty the swamped canoe and reenter it.
-      - requirement: d
-        text: |-
-            In deep water, rescue a swamped canoe and its paddlers. After checking
-            that those in the water do not need immediate assistance, empty the
-            swamped canoe and help the paddlers safely reenter their boat without
-            capsizing.
-      - requirement: e
-        text: |-
-            Perform a canoe rescue of a conscious swimmer.
-      - requirement: f
-        text: |-
-            Using a rescue (throw) bag from shore, lay the line within 3 feet of a
-            conscious swimmer 30 feet away. Show how to repack the bag when done.
-- requirement: 9
-  text: |-
-      With a companion, using a properly equipped canoe to demonstrate the
-      following tandem maneuvers while paddling in unison on opposite sides and
-      without changing sides. Each paddler must demonstrate these maneuvers in
-      both the bow and stern and on both sides of the canoe while maintaining
-      trim and balance of the canoe:
-  children:
-      - requirement: a
-        text: |-
-            Pivot (spin) the canoe 180° (half circle) to the right from a
-            stationary position, stop, and return to the starting position by
-            pivoting to the left using draw and pushaway strokes or using forward
-            and reverse sweeps staying within 2 boat lengths of the starting
-            position.
-      - requirement: b
-        text: |-
-            Move a canoe sideways (abeam) in one direction for 10 feet and then
-            return to the starting position using the draw and pushaway strokes.
-      - requirement: c
-        text: |-
-            While in forward motion, stop the canoe within two boat lengths using
-            the backstroke.
-      - requirement: d
-        text: |-
-            While in the stern position and without assistance from the bow
-            paddler, paddle in a straight line 15-20 boat lengths using an
-            appropriate steering stroke, e.g., the J-stroke or thumb-down rudder
-            stroke with or without a stern pry.
-      - requirement: e
-        text: |-
-            Move the canoe in a straight line 15-20 boat lengths with the bow
-            paddler using as necessary the forward stroke, draw stroke or forward
-            sweep and the stern paddler using an appropriate steering stroke, e.g.,
-            the J-stroke or thumb-down rudder stroke with or without a stern pry.
-      - requirement: f
-        text: |-
-            While maintaining forward motion, turn the canoe 90° in an arc to the
-            right in 5-10 boat lengths with the bow paddler using as necessary
-            either the draw stroke or forward sweep and the stern paddler using
-            only the forward stroke. Repeat the maneuver turning the canoe 90° to
-            the left.
-      - requirement: g
-        text: |-
-            Move the canoe backwards in a straight line 3-4 boat lengths using as
-            necessary the back stroke, reverse sweep or draw stroke in the bow or
-            the stern.
-      - requirement: h
-        text: |-
-            Complete a figure of 8 course around markers 3-4 boat lengths apart
-            using appropriate strokes including the draw stroke, and the forward and
-            reverse sweeps.
+-
+    requirement: 1
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Review with your counselor the most likely hazards you may
+                encounter while participating in canoeing activities and what
+                you should do to anticipate, help prevent, mitigate, and respond
+                to these hazards.
+            resources:
+                -
+                    href: >-
+                        https://boundarywaters.com/ely-minnesota-outfitter/canoe-trip-risks/
+                    text: Canoe Trip Risks
+                    type: website
+                -
+                    href: https://youtu.be/bNlnEOblxLw
+                    text: Canoe Safety
+                    type: video
+                -
+                    href: https://youtu.be/a6Qy5sVRCtk
+                    text: Golden Rules of Canoeing | How To Stay Safe on the Water
+                    type: video
+                -
+                    href: >-
+                        https://www.bendingbranches.com/blogs/resources/round-up-of-our-best-canoeing-safety-topics
+                    text: Safety on Wilderness Canoe Trips
+                    type: website
+        -
+            requirement: b
+            text: |-
+                Review prevention, symptoms, and first-aid treatment for the
+                following injuries or illnesses that could occur while canoeing:
+                blisters, cold-water shock and hypothermia, dehydration,
+                heat-related illnesses, sunburn, sprains, and strains.
+            resources:
+                -
+                    href: >-
+                        https://paddlingmag.com/skills/how-to-prevent-and-treat-blisters/
+                    text: How To Prevent and Treat Blisters
+                    type: website
+                -
+                    href: https://youtu.be/rH3gZuSr6Y8
+                    text: Cold Water Shock—How To Deal With Cold Water Shock
+                    type: video
+                -
+                    href: https://youtu.be/pS0EeinLd3Y
+                    text: Cold Water Paddling Safely
+                    type: video
+                -
+                    href: https://youtu.be/EmNieKLjmH4
+                    text: What Happens If You Don't Drink Enough Water
+                    type: video
+                -
+                    href: >-
+                        https://paddling.com/learn/great-ways-to-beat-the-heat-and-avoid-heat-related-illness-on-the-water
+                    text: |-
+                        Great Ways To Beat the Heat and Avoid Heat-Related
+                        Illness on the Water
+                    type: website
+                -
+                    href: >-
+                        https://paddling.com/learn/what-to-do-if-you-are-overheated-after-a-paddling-this-summer
+                    text: |-
+                        What To Do if You Are Overheated After a Paddling This
+                        Summer?
+                    type: website
+                -
+                    href: https://youtu.be/9aFm087_XWg
+                    text: What Causes Sunburns
+                    type: video
+                -
+                    href: https://youtu.be/z1gbB_peVDQ
+                    text: Sprain Care With RICE Method
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Discuss the Scouting America Safety Afloat policy. Tell how it
+                applies to canoeing activities.
+            resources:
+                -
+                    href: >-
+                        https://www.scouting.org/health-and-safety/safety-moments/safety-afloat/
+                    text: Safety Afloat
+                    type: website
+-
+    requirement: 2
+    text: |-
+        Before doing the following requirements, successfully complete the
+        Scouting America swimmer test, found in the <a
+        href="/merit-badges/swimming/"><i>Swimming</i> merit badge</a> pamphlet.
+-
+    requirement: 3
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: Name and point out the major parts of a canoe.
+            resources:
+                -
+                    href: https://youtu.be/qSGd6m-BOLM
+                    text: Basic Canoe Parts Identified
+                    type: video
+                -
+                    href: https://youtu.be/MqnFm-O7A5c
+                    text: The Parts of a Canoe
+                    type: video
+                -
+                    href: https://youtu.be/yKg7UPmhv1w
+                    text: Parts of a Canoe
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Describe how the length and shape of a canoe affect its
+                performance.
+            resources:
+                -
+                    href: https://youtu.be/PbBOp8PZiCg
+                    text: |-
+                        How To Choose the Right Canoe | Comparing Length, Width
+                        and Hull Shape
+                    type: video
+                -
+                    href: https://youtu.be/nrZjyCH9zpA
+                    text: Canoe Design Features and How They Affect Performance
+                    type: video
+-
+    requirement: 4
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: Name and point out the parts of a paddle.
+            resources:
+                -
+                    href: https://youtu.be/4KSwa6J3Jfw
+                    text: Parts of a Canoe Paddle Explained
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Demonstrate how to correctly size a paddle for a paddler in a
+                sitting position and a kneeling position.
+-
+    requirement: 5
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Review with your counselor the characteristics of life jackets
+                most appropriate for canoeing and tell why a life jacket must
+                always be worn while paddling.
+            resources:
+                -
+                    href: https://youtu.be/aFn7vB-ZHv8
+                    text: How To Pick &amp; Fit a PFD
+                    type: video
+                -
+                    href: https://www.nrs.com/learn/choose-the-right-life-jacket
+                    text: How To Choose the Right Life Jacket
+                    type: website
+        -
+            requirement: b
+            text: |-
+                Demonstrate how to select and properly fit the correct size life
+                jacket.
+        -
+            requirement: c
+            text: |-
+                Review the importance of safety and rescue equipment such as a
+                sound signal device, extra paddle, sponge, bailer, bilge pump,
+                rescue sling, ropes, and throw bag.
+            resources:
+                -
+                    href: https://youtu.be/fq6BvQTP9f0
+                    text: Essential Safety Gear for Canoeing
+                    type: video
+                -
+                    href: >-
+                        https://paddling.com/learn/13-pieces-of-essential-safety-equipment-for-ww-canoeing
+                    text: 13 Pieces of Essential Safety Equipment for WW Canoeing
+                    type: website
+-
+    requirement: 6
+    text: |-
+        Review with your counselor the general care and maintenance of canoes,
+        paddles, and other canoeing equipment.
+    resources:
+        -
+            href: https://youtu.be/A_-5fP3pYGo
+            text: How To Check, Clean, and Dry Your Canoe
+            type: video
+        -
+            href: https://youtu.be/FPVAU5cpj88&t=25
+            text: Canoe Care and Maintenance
+            type: video
+        -
+            href: https://youtu.be/GIyZORTIbxw
+            text: How To Care for an Ultralight Canoe
+            type: video
+-
+    requirement: 7
+    text: |-
+        With a companion, use a properly equipped canoe to demonstrate the
+        following:
+    children:
+        -
+            requirement: a
+            text: |-
+                Safely carry and launch the canoe from a dock or shore (both, if
+                possible).
+            resources:
+                -
+                    href: https://youtu.be/6xRWA9S0LEM
+                    text: How To Get Into and Out of a Canoe Smoothly and Safely
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Safely land the canoe on a dock or shore (both, if possible) and
+                return it to its proper storage location.
+        -
+            requirement: c
+            text: |-
+                Demonstrate kneeling and sitting positions in a canoe and
+                explain the proper use for each position.
+            resources:
+                -
+                    href: https://youtu.be/5lyRGXJsaGA&t=20
+                    text: Should You Kneel or Sit in a Canoe?
+                    type: video
+        -
+            requirement: d
+            text: Change places while afloat in the canoe.
+            resources:
+                -
+                    href: https://youtu.be/GpBezA6dh5w
+                    text: How To Switch Places in a Canoe
+                    type: video
+-
+    requirement: 8
+    text: |-
+        With a companion, use a properly equipped canoe to demonstrate the
+        following:
+    children:
+        -
+            requirement: a
+            text: |-
+                Safely exit the canoe in deep water without losing contact with
+                the canoe. Reenter the canoe with the assistance of the other
+                paddler without capsizing the boat.
+            resources:
+                -
+                    href: https://youtu.be/KAbv8CTZ8T0
+                    text: Getting Into a Canoe From Deep Water
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Safely perform a controlled capsize of the canoe and demonstrate
+                how staying with a capsized canoe will support both paddlers.
+            resources:
+                -
+                    href: https://youtu.be/g3SR1WoDAt0
+                    text: |-
+                        How To Deal With a Flipped Canoe | Canoe Rescue
+                        Techniques
+                    type: video
+                -
+                    href: https://youtu.be/GVXZFwHvfCE
+                    text: Capistrano Flip, Canoe Solo Self Rescue
+                    type: video
+                -
+                    href: >-
+                        https://www.boat-ed.com/blog/capsizing-a-canoe-what-to-do/
+                    text: 'Capsizing a Canoe: What To Do if It Happens to You'
+                    type: website
+        -
+            requirement: c
+            text: |-
+                Swim, tow, or push a swamped canoe 50 feet to shallow water. In
+                the shallow water, empty the swamped canoe and reenter it.
+            resources:
+                -
+                    href: >-
+                        https://paddlingmag.com/skills/strokes-techniques/capistrano-flip-rescue-swamped-canoe/
+                    text: Rescue a Swamped Canoe With the Capistrano Flip
+                    type: website
+                -
+                    href: https://youtu.be/I8nMtYnshrg
+                    text: Unswamp a Canoe
+                    type: video
+        -
+            requirement: d
+            text: |-
+                In deep water, rescue a swamped canoe and its paddlers. After
+                checking that those in the water do not need immediate
+                assistance, empty the swamped canoe and help the paddlers safely
+                reenter their boat without capsizing.
+            resources:
+                -
+                    href: https://youtu.be/Z_CEeqea41k
+                    text: Canoe Deep Water Rescue
+                    type: video
+                -
+                    href: https://youtu.be/0vcuykiqmYc
+                    text: Open Canoe to Open Canoe Rescue
+                    type: video
+        -
+            requirement: e
+            text: Perform a canoe rescue of a conscious swimmer.
+        -
+            requirement: f
+            text: |-
+                Using a rescue (throw) bag from shore, lay the line within 3
+                feet of a conscious swimmer 30 feet away. Show how to repack the
+                bag when done.
+            resources:
+                -
+                    href: https://youtu.be/c-0MRc8_QJQ
+                    text: Swiftwater Rescue—Throw Bag Toss
+                    type: video
+                -
+                    href: https://youtu.be/eX_39_6PTOE
+                    text: 'Water Rescue: Throw Bags'
+                    type: video
+-
+    requirement: 9
+    text: |-
+        With a companion, using a properly equipped canoe to demonstrate the
+        following tandem maneuvers while paddling in unison on opposite sides
+        and without changing sides. Each paddler must demonstrate these
+        maneuvers in both the bow and stern and on both sides of the canoe while
+        maintaining trim and balance of the canoe:
+    resources:
+        -
+            href: https://youtu.be/ecStrF15o-4&t=12
+            text: 3 Golden Rules of Canoeing Technique
+            type: video
+    children:
+        -
+            requirement: a
+            text: |-
+                Pivot (spin) the canoe 180° (half circle) to the right from a
+                stationary position, stop, and return to the starting position
+                by pivoting to the left using draw and pushaway strokes or using
+                forward and reverse sweeps staying within 2 boat lengths of the
+                starting position.
+            resources:
+                -
+                    href: https://youtu.be/Ytf5LMCkKwk
+                    text: Pivot Turns—Maneuvering a Canoe
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Move a canoe sideways (abeam) in one direction for 10 feet and
+                then return to the starting position using the draw and pushaway
+                strokes.
+        -
+            requirement: c
+            text: |-
+                While in forward motion, stop the canoe within two boat lengths
+                using the backstroke.
+        -
+            requirement: d
+            text: |-
+                While in the stern position and without assistance from the bow
+                paddler, paddle in a straight line 15-20 boat lengths using an
+                appropriate steering stroke, e.g., the J-stroke or thumb-down
+                rudder stroke with or without a stern pry.
+            resources:
+                -
+                    href: https://youtu.be/kSOu0jyuqN8&t=23
+                    text: How To Do a J-Stroke—Canoe Technique
+                    type: video
+                -
+                    href: https://youtu.be/YpAB5p0ot5g
+                    text: Canoe tips with Chris Brain—The J stroke
+                    type: video
+        -
+            requirement: e
+            text: |-
+                Move the canoe in a straight line 15-20 boat lengths with the
+                bow paddler using as necessary the forward stroke, draw stroke
+                or forward sweep and the stern paddler using an appropriate
+                steering stroke, e.g., the J-stroke or thumb-down rudder stroke
+                with or without a stern pry.
+            resources:
+                -
+                    href: https://youtu.be/rjdlF7Cnr3E
+                    text: Tandem Canoe Basics
+                    type: video
+                -
+                    href: https://youtu.be/aDaqvoIJD-A
+                    text: How To Paddle a Tandem Canoe
+                    type: video
+        -
+            requirement: f
+            text: |-
+                While maintaining forward motion, turn the canoe 90° in an arc
+                to the right in 5-10 boat lengths with the bow paddler using as
+                necessary either the draw stroke or forward sweep and the stern
+                paddler using only the forward stroke. Repeat the maneuver
+                turning the canoe 90° to the left.
+        -
+            requirement: g
+            text: |-
+                Move the canoe backwards in a straight line 3-4 boat lengths
+                using as necessary the back stroke, reverse sweep or draw stroke
+                in the bow or the stern.
+            resources:
+                -
+                    href: https://youtu.be/48ihzYwWn1w
+                    text: Canoeing—How To Paddle Straight Back
+                    type: video
+        -
+            requirement: h
+            text: |-
+                Complete a figure of 8 course around markers 3-4 boat lengths
+                apart using appropriate strokes including the draw stroke, and
+                the forward and reverse sweeps.

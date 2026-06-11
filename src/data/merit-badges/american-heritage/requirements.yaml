@@ -1,122 +1,270 @@
-- requirement: 1
-  text: |-
-      Read the Declaration of Independence. Pay close attention to the section
-      that begins with "We hold these truths to be self-evident" and ends with
-      "to provide new Guards for their future security." Rewrite that section in
-      your own words, making it as easy to understand as possible. Then, share
-      your writing with your counselor and discuss the importance of the
-      Declaration to all Americans.
-- requirement: 2
-  text: |-
-      Do TWO of the following:
-  children:
-      - requirement: a
-        text: |-
-            Select two individuals from American history, one a political leader (a
-            president, senator, etc.) and the other a private citizen (a writer,
-            religious leader, etc.). Find out about each person's accomplishments
-            and compare the contributions each has made to America's heritage.
-      - requirement: b
-        text: |-
-            With your counselor's approval, choose an organization that has
-            promoted some type of positive change in American society. Find out why
-            the organization believed this change was necessary and how it helped
-            to accomplish the change. Discuss how this organization is related to
-            events or situations from America's past.
-      - requirement: c
-        text: |-
-            With your counselor's approval, interview two veterans of the U.S.
-            military. Find out what their experiences were like. Ask the veterans
-            what they believe they accomplished.
-      - requirement: d
-        text: |-
-            With your counselor's approval, interview three people in your
-            community of different ages and occupations. Ask these people what
-            America means to them, what they think is special about this country,
-            and what American traditions they feel are important to preserve.
-- requirement: 3
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Select a topic related to the United States that is currently in the
-            news. Describe to your counselor what is happening. Explain how today's
-            events are related to or affected by the events and values of America's
-            past.
-      - requirement: b
-        text: |-
-            For the following, describe its adoption, tell about any changes since
-            its adoption, and explain how each one continues to influence Americans
-            today: the flag, the Pledge of Allegiance, the Great Seal of the United
-            States, the motto, and the national anthem.
-      - requirement: c
-        text: |-
-            Research your family's history. Find out how various events and
-            situations in American history affected your family. If your family
-            immigrated to America, tell the reasons why. Share what you find with
-            your counselor.
-- requirement: 4
-  text: |-
-      Do TWO of the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain the National Register of Historic Places and how a property
-            becomes eligible for listing in the National Register of Historic
-            Places. Make a map of your local area, marking the points of historical
-            interest. Tell about any National Register properties in your area.
-            Share the map with your counselor, and describe the historical points
-            you have indicated.
-      - requirement: b
-        text: |-
-            Research an event of historical importance that took place in or near
-            your area. If possible, visit the place. Tell your counselor about the
-            event and how it affected local history. Describe how the area looked
-            then and what it now looks like.
-      - requirement: c
-        text: |-
-            Find out when, why, and how your town or neighborhood started, and what
-            ethnic, national, or racial groups played a part. Find out how the area
-            has changed over the past 50 years and try to explain why.
-      - requirement: d
-        text: |-
-            Take an active part in a program about an event or person in American
-            history. Report to your counselor about the program, the part you took,
-            and the subject.
-      - requirement: e
-        text: |-
-            Visit a historic trail or walk in your area. After your visit, share
-            with your counselor what you have learned. Discuss the importance of
-            this location and explain why you think it might qualify for National
-            Register listing.
-- requirement: 5
-  text: |-
-      Do ONE of the following:
-  children:
-      - requirement: a
-        text: |-
-            Watch two motion pictures (with the approval and permission of your
-            counselor and parent or guardian) that are set in some period of
-            American history. Describe to your counselor how accurate each film is
-            with regard to the historical events depicted and also with regard to
-            the way the characters are portrayed.
-      - requirement: b
-        text: |-
-            Read a biography (with your counselor's approval) of someone who has
-            made a contribution to America's heritage. Tell some things you admire
-            about this individual and some things you do not admire. Explain why
-            you think this person has made a positive or a negative contribution to
-            America's heritage.
-      - requirement: c
-        text: |-
-            Listen to recordings of popular songs from various periods of American
-            history. Share five of these songs with your counselor, and describe
-            how each song reflects the way people felt about the period in which it
-            was popular. If a recording is not available, have a copy of the lyrics
-            available.
-- requirement: 6
-  text: |-
-      Discuss with your counselor the career opportunities in American heritage.
-      Pick one that interests you and explain how to prepare for this career.
-      Discuss what education and training are required for this career.
+-
+    requirement: 1
+    text: |-
+        Read the Declaration of Independence. Pay close attention to the section
+        that begins with "We hold these truths to be self-evident" and ends with
+        "to provide new Guards for their future security." Rewrite that section
+        in your own words, making it as easy to understand as possible. Then,
+        share your writing with your counselor and discuss the importance of the
+        Declaration to all Americans.
+    resources:
+        -
+            href: https://www.archives.gov/founding-docs/declaration-transcript
+            text: Declaration of Independence—Full Transcript
+            type: website
+        -
+            href: https://youtu.be/gkFxD-CMlZM
+            text: The Declaration of Independence | Journey to American Democracy
+            type: video
+-
+    requirement: 2
+    text: 'Do TWO of the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Select two individuals from American history, one a political
+                leader (a president, senator, etc.) and the other a private
+                citizen (a writer, religious leader, etc.). Find out about each
+                person's accomplishments and compare the contributions each has
+                made to America's heritage.
+        -
+            requirement: b
+            text: |-
+                With your counselor's approval, choose an organization that has
+                promoted some type of positive change in American society. Find
+                out why the organization believed this change was necessary and
+                how it helped to accomplish the change. Discuss how this
+                organization is related to events or situations from America's
+                past.
+            resources:
+                -
+                    href: https://youtu.be/uGtFvOSmZ8A
+                    text: How Volunteering Can Help Change the World
+                    type: video
+                -
+                    href: https://youtu.be/so6wZ6Tbkp8
+                    text: The Power of Volunteering
+                    type: video
+        -
+            requirement: c
+            text: |-
+                With your counselor's approval, interview two veterans of the
+                U.S. military. Find out what their experiences were like. Ask
+                the veterans what they believe they accomplished.
+            resources:
+                -
+                    href: >-
+                        https://dam.assets.ohio.gov/image/upload/dvs.ohio.gov/workforce/interviewing-a-veteran-handout.pdf
+                    text: Interviewing a Veteran Resource Guide
+                    type: pdf
+        -
+            requirement: d
+            text: |-
+                With your counselor's approval, interview three people in your
+                community of different ages and occupations. Ask these people
+                what America means to them, what they think is special about
+                this country, and what American traditions they feel are
+                important to preserve.
+-
+    requirement: 3
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Select a topic related to the United States that is currently in
+                the news. Describe to your counselor what is happening. Explain
+                how today's events are related to or affected by the events and
+                values of America's past.
+        -
+            requirement: b
+            text: |-
+                For the following, describe its adoption, tell about any changes
+                since its adoption, and explain how each one continues to
+                influence Americans today: the flag, the Pledge of Allegiance,
+                the Great Seal of the United States, the motto, and the national
+                anthem.
+            resources:
+                -
+                    href: https://youtu.be/BPoPVo1-nnE
+                    text: The Pledge of Allegiance History
+                    type: video
+                -
+                    href: https://youtu.be/KOHDAWOd5Ac
+                    text: |-
+                        Why America Chose the Bald Eagle | The Story Behind the
+                        Great Seal (1782)
+                    type: video
+                -
+                    href: https://youtu.be/Idy_lsX6m7c
+                    text: US National Motto
+                    type: video
+                -
+                    href: https://youtu.be/H2Iwgq1baks
+                    text: |-
+                        How "The Star-Spangled Banner" Became the National
+                        Anthem
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Research your family's history. Find out how various events and
+                situations in American history affected your family. If your
+                family immigrated to America, tell the reasons why. Share what
+                you find with your counselor.
+            resources:
+                -
+                    href: https://www.scouting.org/merit-badges/genealogy/
+                    text: Genealogy Merit Badge
+                    type: website
+                -
+                    href: https://youtu.be/RuNvBXyYEJk
+                    text: The Perfect Way To Start Finding Your Family Tree
+                    type: video
+-
+    requirement: 4
+    text: 'Do TWO of the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain the National Register of Historic Places and how a
+                property becomes eligible for listing in the National Register
+                of Historic Places. Make a map of your local area, marking the
+                points of historical interest. Tell about any National Register
+                properties in your area. Share the map with your counselor, and
+                describe the historical points you have indicated.
+            resources:
+                -
+                    href: https://youtu.be/D8zZ2Yu8whk
+                    text: 'National Register Guide Episode 1: Basics'
+                    type: video
+                -
+                    href: https://youtu.be/xUoOg0bWNC4
+                    text: |-
+                        National Register Guide Episode 2: The Function of the
+                        National Register of Historic Places
+                    type: video
+                -
+                    href: >-
+                        https://www.nps.gov/subjects/nationalregister/data-downloads.htm
+                    text: National Register Database
+                    type: website
+        -
+            requirement: b
+            text: |-
+                Research an event of historical importance that took place in or
+                near your area. If possible, visit the place. Tell your
+                counselor about the event and how it affected local history.
+                Describe how the area looked then and what it now looks like.
+        -
+            requirement: c
+            text: |-
+                Find out when, why, and how your town or neighborhood started,
+                and what ethnic, national, or racial groups played a part. Find
+                out how the area has changed over the past 50 years and try to
+                explain why.
+        -
+            requirement: d
+            text: |-
+                Take an active part in a program about an event or person in
+                American history. Report to your counselor about the program,
+                the part you took, and the subject.
+        -
+            requirement: e
+            text: |-
+                Visit a historic trail or walk in your area. After your visit,
+                share with your counselor what you have learned. Discuss the
+                importance of this location and explain why you think it might
+                qualify for National Register listing.
+            resources:
+                -
+                    href: >-
+                        https://www.nps.gov/subjects/nationaltrailssystem/national-historic-trails.htm
+                    text: National Historic Trails
+                    type: website
+-
+    requirement: 5
+    text: 'Do ONE of the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Watch two motion pictures (with the approval and permission of
+                your counselor and parent or guardian) that are set in some
+                period of American history. Describe to your counselor how
+                accurate each film is with regard to the historical events
+                depicted and also with regard to the way the characters are
+                portrayed.
+            resources:
+                -
+                    href: https://youtu.be/9Vz5f9NOVuk
+                    text: Gettysburg (1993) Official Trailer
+                    type: video
+                -
+                    href: https://youtu.be/35MvdHBWjwU
+                    text: Remember the Titans Official Trailer
+                    type: video
+                -
+                    href: https://youtu.be/2QwaNhalGcQ
+                    text: Tora! Tora! Tora! Theatrical Movie Trailer
+                    type: video
+                -
+                    href: https://youtu.be/5wfrDhgUMGI
+                    text: Hidden Figures | Official Trailer
+                    type: video
+                -
+                    href: https://youtu.be/H8qMhtkB18k
+                    text: A League of Their Own—Official Trailer
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Read a biography (with your counselor's approval) of someone who
+                has made a contribution to America's heritage. Tell some things
+                you admire about this individual and some things you do not
+                admire. Explain why you think this person has made a positive or
+                a negative contribution to America's heritage.
+            resources:
+                -
+                    href: https://youtu.be/FCL5cIfkvrA
+                    text: |-
+                        America250 Reading List: A Journey Through Stories That
+                        Shaped a Nation
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Listen to recordings of popular songs from various periods of
+                American history. Share five of these songs with your counselor,
+                and describe how each song reflects the way people felt about
+                the period in which it was popular. If a recording is not
+                available, have a copy of the lyrics available.
+            resources:
+                -
+                    href: >-
+                        https://www.loc.gov/collections/songs-of-america/about-this-collection/
+                    text: The Library of Congress Celebrates the Songs of America
+                    type: website
+                -
+                    href: https://youtu.be/GaqokusDbbs
+                    text: The Evolution of Popular Music by Year (1890-2009) (USA)
+                    type: video
+-
+    requirement: 6
+    text: |-
+        Discuss with your counselor the career opportunities in American
+        heritage. Pick one that interests you and explain how to prepare for
+        this career. Discuss what education and training are required for this
+        career.
+    resources:
+        -
+            href: https://youtu.be/rHjavLMAj38
+            text: Top 10 Highest Paying Jobs for History Major
+            type: video
+        -
+            href: >-
+                https://www.historians.org/resource/what-can-you-do-with-that-history-degree/
+            text: What Can You Do With That History Degree?
+            type: website

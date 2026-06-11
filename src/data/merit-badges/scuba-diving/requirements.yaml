@@ -1,39 +1,125 @@
-- requirement: 1
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Show that you know first aid for injuries or illnesses that could occur
-            while scuba diving, including hypothermia, hyperventilation, squeezes,
-            decompression illness, nitrogen narcosis, motion sickness, fatigue,
-            overexertion, heat reactions, dehydration, injuries by aquatic life,
-            and cuts and scrapes.
-      - requirement: b
-        text: |-
-            Identify the conditions that must exist before performing CPR on a
-            person, and explain how to recognize such conditions. Demonstrate the
-            proper technique for performing CPR using a training device approved by
-            your counselor.
-- requirement: 2
-  text: |-
-      Before completing requirements 3 through 6, earn the <a
-      href="/merit-badges/swimming/">Swimming</a> merit badge.
-- requirement: 3
-  text: |-
-      Discuss the Scuba Diver's Code with your counselor, and explain the
-      importance of each guideline to a scuba diver's safety.
-- requirement: 4
-  text: |-
-      Earn an Open Water Diver Certification from a scuba organization recognized
-      by the Scouting America scuba policy.
-- requirement: 5
-  text: |-
-      Explain what an ecosystem is, and describe four aquatic ecosystems a diver
-      might experience.
-- requirement: 6
-  text: |-
-      Find out about three career opportunities in the scuba industry. Pick one
-      and find out the education, training, and experience required for this
-      profession. Discuss this with your counselor, and explain why this
-      profession might interest you.
+-
+    requirement: 1
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Show that you know first aid for injuries or illnesses that
+                could occur while scuba diving, including hypothermia,
+                hyperventilation, squeezes, decompression illness, nitrogen
+                narcosis, motion sickness, fatigue, overexertion, heat
+                reactions, dehydration, injuries by aquatic life, and cuts and
+                scrapes.
+            resources:
+                -
+                    href: https://youtu.be/qFWDTNuS0Xo
+                    text: What Is Hypothermia?
+                    type: video
+                -
+                    href: https://youtu.be/c-BSo8OknNc
+                    text: |-
+                        What Are the Bends in Scuba Diving? Decompression
+                        Sickness Explained
+                    type: video
+                -
+                    href: https://youtu.be/Y8CKkbgIahk
+                    text: How To Relieve Cramps While Scuba Diving
+                    type: video
+                -
+                    href: https://youtu.be/7PLnYgUHOP4
+                    text: |-
+                        Diving With Anxiety | Tips for Staying Calm &amp;
+                        Confident at Depth!
+                    type: video
+                -
+                    href: >-
+                        https://dan.org/safety-prevention/diver-safety/divers-blog/seasickness-prevention-and-treatment/
+                    text: Seasickness Prevention and Treatment
+                    type: website
+                -
+                    href: https://youtu.be/-nZHTqSaJ0c
+                    text: What Is Nitrogen Narcosis and How Do You Get It?
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Identify the conditions that must exist before performing CPR on
+                a person, and explain how to recognize such conditions.
+                Demonstrate the proper technique for performing CPR using a
+                training device approved by your counselor.
+            resources:
+                -
+                    href: https://youtu.be/6eRwgM2Pa4o
+                    text: How To Perform Hands-Only CPR
+                    type: video
+-
+    requirement: 2
+    text: |-
+        Before completing requirements 3 through 6, earn the <a
+        href="/merit-badges/swimming/"><i>Swimming</i> merit badge</a>.
+    resources:
+        -
+            href: https://www.scouting.org/merit-badges/swimming/
+            text: Swimming Merit Badge
+            type: website
+-
+    requirement: 3
+    text: |-
+        Discuss the Scuba Diver's Code with your counselor, and explain the
+        importance of each guideline to a scuba diver's safety.
+    resources:
+        -
+            href: https://www.divessi.com/en/training/responsible-diver-code-scuba
+            text: Scuba School International Divers Code
+            type: website
+-
+    requirement: 4
+    text: |-
+        Earn an Open Water Diver Certification from a scuba organization
+        recognized by the Scouting America scuba policy.
+    resources:
+        -
+            href: https://youtu.be/PCcTAS53Inc
+            text: How To Get Scuba Certified
+            type: video
+-
+    requirement: 5
+    text: |-
+        Explain what an ecosystem is, and describe four aquatic ecosystems a
+        diver might experience.
+    resources:
+        -
+            href: https://youtu.be/vINK9ujrRwM
+            text: Aquatic Ecosystems (Characteristics, Types and Examples)
+            type: video
+-
+    requirement: 6
+    text: |-
+        Find out about three career opportunities in the scuba industry. Pick
+        one and find out the education, training, and experience required for
+        this profession. Discuss this with your counselor, and explain why this
+        profession might interest you.
+    resources:
+        -
+            href: https://youtu.be/TGj1ua6SWts
+            text: Top 5 Jobs in the Commercial Diving Industry
+            type: video
+        -
+            href: https://youtu.be/S2yhU1KHoHM
+            text: Navy Diver
+            type: video
+        -
+            href: https://youtu.be/TAB0-ZQ9cUU
+            text: Navy Medical Deep Sea Diving Technician—DMT
+            type: video
+        -
+            href: https://youtu.be/h1VFsl_JplQ
+            text: 5 Types of Diving Job
+            type: video
+        -
+            href: https://youtu.be/MHObp9RUV-w
+            text: |-
+                Dream Job: A Day in the Life of Our Divers by Aquarium Love
+                Stories
+            type: video

@@ -1,324 +1,895 @@
-- requirement: 1
-  text: |-
-      <b>Radio Safety.</b> Explain the safety precautions for working with radio
-      gear, including:
-  children:
-      - requirement: a
-        text: |-
-            Grounding for direct and alternating current circuits, power
-            outlets, antennas, and lightning.
-      - requirement: b
-        text: |-
-            Preventing and treating electrical burns
-      - requirement: c
-        text: |-
-            Preventing lithium-ion battery fires in cell phones and other
-            devices.
-- requirement: 2
-  text: |-
-      <b>Radio Fundamentals.</b> Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Do the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Draw a chart of the electromagnetic spectrum covering 300 kilohertz
-                  (kHz) to 3,000 Megahertz (MHz).
-            - requirement: 2
-              text: |-
-                  Label the MF, HF, VHF, UHF, and microwave portions of the spectrum
-                  on your diagram.
-            - requirement: 3
-              text: |-
-                  Locate on your chart at least eight radio services, such as AM and
-                  FM commercial broadcast, citizens band (CB), television, amateur radio
-                  (at least four amateur radio bands), public service (police and fire),
-                  cellular, Wi-Fi, and Bluetooth.
-      - requirement: b
-        text: |-
-            Discuss the following topics with your counselor:
-        children:
-            - requirement: 1
-              text: |-
-                  The definition of radio
-            - requirement: 2
-              text: |-
-                  The differences between broadcast radio and two-way radio
-            - requirement: 3
-              text: |-
-                  The differences between commercial broadcast radio and hobby radio
-- requirement: 3
-  text: |-
-      <b>How Radio Waves Travel.</b> Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Sketch a diagram showing how different radio wavelengths can travel
-            locally or around the world.
-      - requirement: b
-        text: |-
-            Explain how the radio stations WWV and WWVH can be used to help
-            determine what you can expect to hear when you listen to a shortwave
-            radio.
-      - requirement: c
-        text: |-
-            Explain the difference between a distant (DX) and a local station.
-- requirement: 4
-  text: |-
-      <b>Information by Radio.</b> Discuss the following with your counselor:
-  children:
-      - requirement: a
-        text: |-
-            How radio waves carry information using continuous wave (CW) Morse
-            Code transmission, amplitude modulation (AM), frequency modulation (FM),
-            single sideband (SSB) transmission, and frequency hopping.
-      - requirement: b
-        text: |-
-            How digitized radio standards including Bluetooth, Wi-Fi, and 5G can
-            offer more reliable data transmission and reception than analog
-            standards.
-      - requirement: c
-        text: |-
-            How the effective range varies for different methods of information
-            encoding.
-      - requirement: d
-        text: |-
-            How the maximum data rate from a Wi-Fi radio system compares to a
-            hard-wired or fiber-optic system.
-- requirement: 5
-  text: |-
-      <b>Radio Hardware and Services.</b> Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain the differences between a block diagram and a schematic
-            diagram.
-      - requirement: b
-        text: |-
-            Draw a block diagram for a radio station that shows a microphone,
-            speaker, transceiver, transmitter, receiver, amplifier, feedline, and
-            antenna and discuss the function of these components.
-      - requirement: c
-        text: |-
-            List consumer devices and services that use analog or digital radio
-            communications.
-      - requirement: d
-        text: |-
-            Explain how NOAA Weather Radio (NWR) can alert you to danger.
-      - requirement: e
-        text: |-
-            Explain how RFID works and what are some of its uses in everyday
-            life.
-- requirement: 6
-  text: |-
-      <b>Radio Regulation.</b> Discuss the following with your counselor:
-  children:
-      - requirement: a
-        text: |-
-            What the Federal Communications Commission (FCC) does and how it is
-            different from the International Telecommunication Union (ITU).
-      - requirement: b
-        text: |-
-            How radio station call signs are used in broadcast radio and amateur
-            radio.
-      - requirement: c
-        text: |-
-            How the phonetic alphabet is used to communicate clearly.
-- requirement: 7
-  text: |-
-      <b>Cell Phones</b> Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain how cellular systems differ from broadcast and hobby radio.
-      - requirement: b
-        text: |-
-            Explain what Airplane Mode is and why it is important.
-      - requirement: c
-        text: |-
-            Explain how cell phones keep the correct time and show locations and
-            elevations.
-      - requirement: d
-        text: |-
-            Explain the benefits and limitations of cell phones in emergencies.
-      - requirement: e
-        text: |-
-            Explain wireless charging for cell phones and other devices.
-- requirement: 8
-  text: |-
-      <b>Amateur and Professional Radio.</b> Do ONE of the following options:
-  children:
-      - text: |-
-            <b>Option A—Amateur Radio.</b> Do ALL of the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Tell why the FCC has an amateur radio service. Describe activities
-                  that amateur radio operators can do on the air, once they have earned an
-                  amateur radio license.
-            - requirement: 2
-              text: |-
-                  Explain differences between the Technician, General, and Extra Class
-                  license requirements and privileges. Explain who administers amateur
-                  radio exams.
-            - requirement: 3
-              text: |-
-                  Explain at least five Q signals or amateur radio terms.
-            - requirement: 4
-              text: |-
-                  Explain how you would make an emergency call on voice or Morse code.
-            - requirement: 5
-              text: |-
-                  Explain the differences between handheld, mobile, and base station
-                  transceivers and their uses. Explain the use of amateur radio repeaters.
-            - requirement: 6
-              text: |-
-                  Using proper call signs, Q signals, and abbreviations, carry on a
-                  10-minute real or simulated amateur radio contact using voice, Morse
-                  code, or digital mode. Properly log the real or simulated amateur radio
-                  contact, and record the signal report. <br /><b>Note: </b>Licensed
-                  amateur radio operators may substitute five QSL cards as evidence of
-                  contacts with five amateur radio operators.
-      - text: |-
-            <b>Option B—Radio Broadcasting.</b> Do ALL of the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Discuss with your counselor FCC broadcast regulations. Include power
-                  levels, frequencies, and the regulations for low-power stations.
-            - requirement: 2
-              text: |-
-                  Prepare a program schedule for radio station "KBSA" of exactly
-                  one-half hour, including music, news, commercials, and proper station
-                  identification. Record your program on audiotape or in a digital audio
-                  format, using proper techniques.
-            - requirement: 3
-              text: |-
-                  Listen to and properly log 15 broadcast stations. Determine the
-                  program format and target audience for five of these stations.
-            - requirement: 4
-              text: |-
-                  Explain to your counselor at least eight terms used in commercial
-                  broadcasting, such as segue, cut, fade, continuity, remote, Emergency
-                  Alert System, network, cue, dead air, PSA, and playlist.
-            - requirement: 5
-              text: |-
-                  Discuss with your counselor alternative radio platforms such as
-                  internet streaming, satellite radio, and podcasts.
-      - text: |-
-            <b>Option C—Shortwave and Medium-Wave Listening.</b> Do ALL of the
-            following:
-        children:
-            - requirement: 1
-              text: |-
-                  Listen across several shortwave bands for four one-hour periods-at
-                  least one period during daylight hours and at least one period at night.
-                  Log the stations properly and locate them geographically on a map,
-                  globe, or web-based mapping service.
-            - requirement: 2
-              text: |-
-                  Listen to several medium-wave stations for two one-hour periods, one
-                  period during daylight hours and one period at night. Log the stations
-                  properly and locate them on a map, globe, or web-based mapping service.
-            - requirement: 3
-              text: |-
-                  Compare your daytime and nighttime logs; note the frequencies on
-                  which your selected stations were loudest during each session. Explain
-                  differences in the signal strength from one period to the next.
-            - requirement: 4
-              text: |-
-                  Compare your medium-wave broadcast station logs and explain why some
-                  distant stations are heard at your location only during the night.
-            - requirement: 5
-              text: |-
-                  Demonstrate listening to a radio broadcast using a smartphone/cell
-                  phone. Include international broadcasts in your demonstration.
-      - text: |-
-            <b>Option D—Amateur Radio Direction Finding.</b> Do ALL of the
-            following:
-        children:
-            - requirement: 1
-              text: |-
-                  Describe amateur radio direction finding and explain why direction
-                  finding is important as both an activity and in competition.
-            - requirement: 2
-              text: |-
-                  Describe what frequencies and equipment are used for ARDF or fox
-                  hunting.
-            - requirement: 3
-              text: |-
-                  Build a simple directional antenna for either of the two frequencies
-                  used in ARDF.
-            - requirement: 4
-              text: |-
-                  Participate in a simple fox hunt using your antenna along with a
-                  provided receiver.
-            - requirement: 5
-              text: |-
-                  Show, on a map, how you located the "fox" using your receiver.
-      - text: |-
-            <b
-              >Option E—Family Radio Service (FRS) &amp; General Mobile Radio
-              Service (GMRS) Walkie Talkies. </b
-            >Do ALL of the following:
-        children:
-            - requirement: 1
-              text: |-
-                  Explain what the Family Radio Service (FRS) and General Mobile Radio
-                  Service (GMRS) are and how they are different from each other, from
-                  other commercial two-way radios, and from Citizens Band (CB) &amp;
-                  Amateur Radio (HAM).
-            - requirement: 2
-              text: |-
-                  Explain each of the following for using a FRS radio or GMRS walkie
-                  talkie:
-              children:
-                  - requirement: a
+# AUTO: WARNING: Resources section is not wrapped in italics near "Explain how you would make an emergency call on vo..."
+-
+    requirement: 1
+    text: |-
+        <b>Radio Safety.</b> Explain the safety precautions for working with
+        radio gear, including:
+    children:
+        -
+            requirement: a
+            text: |-
+                Grounding for direct and alternating current circuits, power
+                outlets, antennas, and lightning.
+            resources:
+                -
+                    href: https://youtu.be/JBpQ9Fodz_Q
+                    text: Grounding Explained
+                    type: video
+                -
+                    href: https://youtu.be/zLW_7TPf310
+                    text: What Is Ground?
+                    type: video
+        -
+            requirement: b
+            text: Preventing and treating electrical burns
+            resources:
+                -
+                    href: >-
+                        https://burncenters.com/burns/burn-services/electrical-burns/
+                    text: First Aid for Electrical Burns
+                    type: website
+                -
+                    href: https://youtu.be/O2VpgB8Xrzs
+                    text: Rescue and First Aid for Electric Shock
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Preventing lithium-ion battery fires in cell phones and other
+                devices.
+            resources:
+                -
+                    href: https://youtu.be/7OiHAPmv75A
+                    text: Preventing Lithium Ion Battery Fires
+                    type: video
+-
+    requirement: 2
+    text: '<b>Radio Fundamentals.</b> Do the following:'
+    children:
+        -
+            requirement: a
+            text: 'Do the following:'
+            children:
+                -
+                    requirement: 1
                     text: |-
-                        Is any type of license needed to use these radios? If so: what kind?
-                  - requirement: b
+                        Draw a chart of the electromagnetic spectrum covering
+                        300 kilohertz (kHz) to 3,000 megahertz (MHz).
+                    resources:
+                        -
+                            href: https://youtu.be/JatvwodZZRY
+                            text: Frequency Bands
+                            type: video
+                -
+                    requirement: 2
                     text: |-
-                        What radio frequencies are used and how is information encoded?
-                  - requirement: c
+                        Label the MF, HF, VHF, UHF, and microwave portions of
+                        the spectrum on your diagram.
+                    resources:
+                        -
+                            href: >-
+                                https://terasense.com/terahertz-technology/radio-frequency-bands/
+                            text: Radio Frequency Bands
+                            type: video
+                -
+                    requirement: 3
                     text: |-
-                        How much power can be used when transmitting?
-                  - requirement: d
+                        Locate on your chart at least eight radio services, such
+                        as AM and FM commercial broadcast, citizens band (CB),
+                        television, amateur radio (at least four amateur radio
+                        bands), public service (police and fire), cellular,
+                        Wi-Fi, and Bluetooth.
+                    resources:
+                        -
+                            href: >-
+                                https://strykerradios.com/ham-radios/ham-radio-frequencies-common-uses-you-should-know/
+                            text: Common Uses of Ham Radio Frequencies
+                            type: video
+        -
+            requirement: b
+            text: 'Discuss the following topics with your counselor:'
+            children:
+                -
+                    requirement: 1
+                    text: The definition of radio
+                    resources:
+                        -
+                            href: https://youtu.be/bdAxVp5HWis
+                            text: Communication and Radio
+                            type: video
+                        -
+                            href: https://youtu.be/mp6St2hgv8A
+                            text: What Is a Radio Wave?
+                            type: video
+                -
+                    requirement: 2
                     text: |-
-                        What type of antenna can be used?
-                  - requirement: e
+                        The differences between broadcast radio and two-way
+                        radio
+                    resources:
+                        -
+                            href: https://youtu.be/CU8cVH8YYuo
+                            text: How Broadcast Radio Works
+                            type: video
+                        -
+                            href: https://youtu.be/iEKrp8at6i8
+                            text: |-
+                                Two-Way Radios Explained: VHF vs UHF, FCC
+                                Licenses, and More FAQs
+                            type: video
+                -
+                    requirement: 3
                     text: |-
-                        What is the effective range and what limits it?
-                  - requirement: f
+                        The differences between commercial broadcast radio and
+                        hobby radio
+                    resources:
+                        -
+                            href: https://youtu.be/Xt3RVtfnbPA
+                            text: |-
+                                What Is Ham Radio? How Amateur Radio Works (No
+                                Internet Required)
+                            type: video
+-
+    requirement: 3
+    text: '<b>How Radio Waves Travel.</b> Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Sketch a diagram showing how different radio wavelengths can
+                travel locally or around the world.
+            resources:
+                -
+                    href: https://youtu.be/tVAVPpxdg9k
+                    text: What Is Propagation?
+                    type: video
+                -
+                    href: https://youtu.be/61UqLXVJM7s
+                    text: Why Some AM Radio Stations Don't Work at Night
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Explain how the radio stations WWV and WWVH can be used to help
+                determine what you can expect to hear when you listen to a
+                shortwave radio.
+            resources:
+                -
+                    href: https://youtu.be/yB2A_ANhH_k
+                    text: WWV WWVH Time Signals
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Explain the difference between a distant (DX) and a local
+                station.
+            resources:
+                -
+                    href: https://youtu.be/VKb9eMZKcSE
+                    text: 'DXing: D for Distance, X for Unknown'
+                    type: video
+                -
+                    href: https://youtu.be/KZrhjfKY-9g
+                    text: Ham Radio DX Fun
+                    type: video
+-
+    requirement: 4
+    text: '<b>Information by Radio.</b> Discuss the following with your counselor:'
+    children:
+        -
+            requirement: a
+            text: |-
+                How radio waves carry information using continuous wave (CW)
+                Morse Code transmission, amplitude modulation (AM), frequency
+                modulation (FM), single sideband (SSB) transmission, and
+                frequency hopping.
+            resources:
+                -
+                    href: https://youtu.be/drLxfjqZHVo
+                    text: Radio Wave Modulation
+                    type: video
+                -
+                    href: https://www.youtube.com/shorts/Dr5Sai2IVuE
+                    text: Frequency Hopping
+                    type: video
+                -
+                    href: https://www.youtube.com/shorts/GA3vr55ZwmU
+                    text: Frequency Hopping and WiFi
+                    type: video
+        -
+            requirement: b
+            text: |-
+                How digitized radio standards including Bluetooth, Wi-Fi, and 5G
+                can offer more reliable data transmission and reception than
+                analog standards.
+            resources:
+                -
+                    href: https://youtu.be/btgAUdbj85E
+                    text: Analog vs Digital Data
+                    type: video
+                -
+                    href: https://youtu.be/ZWdT-6Ld71Q
                     text: |-
-                        What are common everyday uses for these radios?
-                  - requirement: g
+                        Digital vs Analog. What's the Difference? Why Does It
+                        Matter?
+                    type: video
+                -
+                    href: https://youtu.be/Yl5ezrw7T1c
                     text: |-
-                        How can these radios be useful in an emergency?
-            - requirement: 3
-              text: |-
-                  Use the FRS radios or GMRS walkie talkies with family, friends, or
-                  Scouts on a hike, at an event, or in a team game. Discuss what you
-                  learned with your counselor.
-- requirement: 9
-  text: |-
-      <b>Careers.</b> Do ONE of the following.
-  children:
-      - requirement: a
-        text: |-
-            Explore careers related to radio. Research one career to learn about
-            the training and education needed, costs, job prospects, salary, job
-            duties, and advancement. With permission of your parent or guardian,
-            your research methods may include an internet or library search, an
-            interview with a professional in the field, or a visit to a location
-            where people in this career work or train. Discuss your findings and
-            career interest with your counselor.
-      - requirement: b
-        text: |-
-            Explore how you could use radio knowledge and skills to develop a
-            hobby or to serve as a volunteer. If possible, with permission of your
-            parent or guardian, interview a radio hobbyist or volunteer. Research
-            training and licensing needed, expenses, and organizations that promote
-            or support your objectives. Discuss with your counselor what short-term
-            and long-term goals you might have if you pursue this.
+                        Analog vs Digital Radio: A Beginner's Guide to Radio
+                        Modes
+                    type: video
+        -
+            requirement: c
+            text: |-
+                How the effective range varies for different methods of
+                information encoding.
+            resources:
+                -
+                    href: https://youtu.be/8XC2hv1Tfpc
+                    text: Relationship Between Frequency, Data Rate, and Distance
+                    type: video
+                -
+                    href: https://youtu.be/whEqaxlCVSs
+                    text: How Radio Waves Transmit Information
+                    type: video
+        -
+            requirement: d
+            text: |-
+                How the maximum data rate from a Wi-Fi radio system compares to
+                a hard-wired or fiber-optic system.
+            resources:
+                -
+                    href: https://youtu.be/mLS9XXiPNcE
+                    text: Ethernet vs WiFi, Which One Is Faster？
+                    type: video
+                -
+                    href: https://youtube.com/shorts/hlLYg2FUFq8
+                    text: 'Shattering Limits: 402 Terabits per Second'
+                    type: video
+-
+    requirement: 5
+    text: '<b>Radio Hardware and Services.</b> Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain the differences between a block diagram and a schematic
+                diagram.
+            resources:
+                -
+                    href: https://youtu.be/_HZ-EQ8Hc8E
+                    text: How To Read a Schematic
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Draw a block diagram for a radio station that shows a
+                microphone, speaker, transceiver, transmitter, receiver,
+                amplifier, feedline, and antenna and discuss the function of
+                these components.
+        -
+            requirement: c
+            text: |-
+                List consumer devices and services that use analog or digital
+                radio communications.
+            resources:
+                -
+                    href: https://youtu.be/Yl5ezrw7T1c
+                    text: |-
+                        Analog vs Digital Radio: A Beginner's Guide to Radio
+                        Modes
+                    type: video
+        -
+            requirement: d
+            text: Explain how NOAA Weather Radio (NWR) can alert you to danger.
+            resources:
+                -
+                    href: https://youtu.be/bWcU_IPnXgY
+                    text: 'National Weather Service: Weather Warning Process'
+                    type: video
+                -
+                    href: https://youtu.be/ZqmguEWojYw
+                    text: Ways To Get Warnings
+                    type: video
+        -
+            requirement: e
+            text: |-
+                Explain how RFID works and what are some of its uses in everyday
+                life.
+            resources:
+                -
+                    href: https://youtu.be/qRimFDF7FR0
+                    text: What Is RFID Technology? And How It Works?
+                    type: video
+                -
+                    href: https://youtu.be/ziDlycAZb9I
+                    text: What is RFID (Radio Frequency Identification)?
+                    type: video
+-
+    requirement: 6
+    text: '<b>Radio Regulation.</b> Discuss the following with your counselor:'
+    children:
+        -
+            requirement: a
+            text: |-
+                What the Federal Communications Commission (FCC) does and how it
+                is different from the International Telecommunication Union
+                (ITU).
+            resources:
+                -
+                    href: https://youtu.be/KiSLp7h5Qeo
+                    text: What Is the FCC?
+                    type: video
+        -
+            requirement: b
+            text: |-
+                How radio station call signs are used in broadcast radio and
+                amateur radio.
+            resources:
+                -
+                    href: https://youtu.be/1ES-I3q-odY
+                    text: Ham Radio Call Signs
+                    type: video
+                -
+                    href: https://youtu.be/R_GvgmeRADo
+                    text: 'Ham 101 Episode 7: Your Call Sign'
+                    type: video
+                -
+                    href: https://youtu.be/kcAROYxzJ4U
+                    text: Broadcast Call Signs Explained
+                    type: video
+                -
+                    href: https://youtu.be/vZgWdZImg9Q
+                    text: When To ID With Your Call Sign
+                    type: video
+        -
+            requirement: c
+            text: How the phonetic alphabet is used to communicate clearly.
+            resources:
+                -
+                    href: https://youtu.be/cFhZLaLDILQ
+                    text: Learn the Phonetic Alphabet
+                    type: video
+-
+    requirement: 7
+    text: '<b>Cell Phones</b> Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain how cellular systems differ from broadcast and hobby
+                radio.
+            resources:
+                -
+                    href: https://youtu.be/1JZG9x_VOwA
+                    text: How Your Mobile Phone Works
+                    type: video
+        -
+            requirement: b
+            text: Explain what Airplane Mode is and why it is important.
+            resources:
+                -
+                    href: https://youtu.be/841MdLwynXg
+                    text: What Really Happens When You Turn On Airplane Mode
+                    type: video
+                -
+                    href: https://youtu.be/iKYHf22qVdM
+                    text: |-
+                        What Happens if You Don't Put Your Phone in Airplane
+                        Mode?
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Explain how cell phones keep the correct time and show locations
+                and elevations.
+            resources:
+                -
+                    href: https://youtu.be/wCcARVbL_Dk
+                    text: How GPS Works Today
+                    type: video
+                -
+                    href: https://youtu.be/8eTlI19_57g
+                    text: GPS, How Does It Work?
+                    type: video
+        -
+            requirement: d
+            text: |-
+                Explain the benefits and limitations of cell phones in
+                emergencies.
+            resources:
+                -
+                    href: https://youtu.be/RAa5GHcIki4
+                    text: How Reliable Are Cell Phones in an Emergency?
+                    type: video
+                -
+                    href: https://youtu.be/6-9HUBO2HeY
+                    text: |-
+                        When Cell Phones Fail: Staying Connected When It Matters
+                        Most
+                    type: video
+                -
+                    href: https://youtu.be/Dx1Wn7JpObM
+                    text: We Tested the iPhone 14's Emergency SOS via Satellite
+                    type: video
+                -
+                    href: >-
+                        https://www.abc10.com/article/news/local/crash-detection-feature-heres-where-you-can-find-it/103-525d6812-ce6b-4dad-b888-1f5fd490493d
+                    text: Does Your Phone Have a Crash Detection Feature?
+                    type: website
+        -
+            requirement: e
+            text: Explain wireless charging for cell phones and other devices.
+            resources:
+                -
+                    href: https://youtu.be/CvXJes3BREM
+                    text: How Do Wireless Phone Chargers Work?
+                    type: video
+                -
+                    href: https://youtu.be/NjeUxwGblm8
+                    text: How Your Phone Charges Through Thin Air
+                    type: video
+-
+    requirement: 8
+    text: '<b>Amateur and Professional Radio.</b> Do ONE of the following options:'
+    children:
+        -
+            text: '<b>Option A—Amateur Radio.</b> Do ALL of the following:'
+            children:
+                -
+                    requirement: 1
+                    text: |-
+                        Tell why the FCC has an amateur radio service. Describe
+                        activities that amateur radio operators can do on the
+                        air, once they have earned an amateur radio license.
+                    resources:
+                        -
+                            href: https://youtu.be/zWoZ_mqjInA
+                            text: Why Do They Call It Ham Radio?
+                            type: video
+                        -
+                            href: https://youtu.be/BCSZH7UzOxg
+                            text: |-
+                                Episode 3: How To Get a Ham Radio License | Bcu
+                                Freshman Class
+                            type: video
+                -
+                    requirement: 2
+                    text: |-
+                        Explain differences between the Technician, General, and
+                        Extra Class license requirements and privileges. Explain
+                        who administers amateur radio exams.
+                    resources:
+                        -
+                            href: https://www.arrl.org/getting-licensed
+                            text: Ham Radio License Levels
+                            type: video
+                -
+                    requirement: 3
+                    text: Explain at least five Q signals or amateur radio terms.
+                    resources:
+                        -
+                            href: https://youtu.be/JFdfPSPrwE4
+                            text: Q-Codes, Logs, and QRZ.com
+                            type: video
+                        -
+                            href: https://youtu.be/580VdJlXZ_A
+                            text: Q-Codes and Calling CQ
+                            type: video
+                -
+                    requirement: 4
+                    text: |-
+                        Explain how you would make an emergency call on voice or
+                        Morse code.
+                    resources:
+                        -
+                            href: https://youtu.be/9pHZR_aiTPU
+                            text: |-
+                                How To Use Your VHF Marine Radio To Call for
+                                Help in a Boat Emergency
+                            type: video
+                        -
+                            href: https://youtu.be/33JSFzFB8U8
+                            text: Ham Radio Disaster Messaging Demo
+                            type: video
+                        -
+                            href: https://youtu.be/MaRLuoJRwFg
+                            text: |-
+                                Using Ham Radio To Call for Help in an
+                                Emergency—What You Should Do!
+                            type: video
+                -
+                    requirement: 5
+                    text: |-
+                        Explain the differences between handheld, mobile, and
+                        base station transceivers and their uses. Explain the
+                        use of amateur radio repeaters.
+                    resources:
+                        -
+                            href: https://youtu.be/BH19eKBuKwY
+                            text: How Do Repeaters Work?
+                            type: video
+                -
+                    requirement: 6
+                    text: |-
+                        Using proper call signs, Q signals, and abbreviations,
+                        carry on a 10-minute real or simulated amateur radio
+                        contact using voice, Morse code, or digital mode.
+                        Properly log the real or simulated amateur radio
+                        contact, and record the signal report.
+                        <div class="gap"></div>
+                        <i><b>NOTE:</b> Licensed amateur radio operators may
+                        substitute five QSL cards as evidence of contacts with
+                        five amateur radio operators.</i>
+        -
+            text: '<b>Option B—Radio Broadcasting.</b> Do ALL of the following:'
+            children:
+                -
+                    requirement: 1
+                    text: |-
+                        Discuss with your counselor FCC broadcast regulations.
+                        Include power levels, frequencies, and the regulations
+                        for low-power stations.
+                    resources:
+                        -
+                            href: https://youtu.be/DioqjwYzJiA
+                            text: How To Start a FM Radio Station!
+                            type: video
+                        -
+                            href: https://youtu.be/9_gFYKGMO5Y
+                            text: |-
+                                In Historic Victory for Community Radio, FCC
+                                Puts 1,000 Low-Power FM Frequencies Up for Grabs
+                            type: video
+                -
+                    requirement: 2
+                    text: |-
+                        Prepare a program schedule for radio station "KBSA" of
+                        exactly one-half hour, including music, news,
+                        commercials, and proper station identification. Record
+                        your program on audiotape or in a digital audio format,
+                        using proper techniques.
+                    resources:
+                        -
+                            href: https://youtu.be/oOFdg9roook
+                            text: |-
+                                Build the Best Programming for Your Radio
+                                Station!
+                            type: video
+                -
+                    requirement: 3
+                    text: |-
+                        Listen to and properly log 15 broadcast stations.
+                        Determine the program format and target audience for
+                        five of these stations.
+                    resources:
+                        -
+                            href: https://youtube.com/shorts/SoCL56dEy_k
+                            text: Radio Stations Over The World
+                            type: video
+                -
+                    requirement: 4
+                    text: |-
+                        Explain to your counselor at least eight terms used in
+                        commercial broadcasting, such as segue, cut, fade,
+                        continuity, remote, Emergency Alert System, network,
+                        cue, dead air, PSA, and playlist.
+                    resources:
+                        -
+                            href: https://www.radioconnection.com/glossary/
+                            text: Radio Broadcasting Glossary
+                            type: website
+                -
+                    requirement: 5
+                    text: |-
+                        Discuss with your counselor alternative radio platforms
+                        such as internet streaming, satellite radio, and
+                        podcasts.
+                    resources:
+                        -
+                            href: https://youtu.be/HzYX0LQgt-k
+                            text: |-
+                                Shortwave Radio Top Ten Tips for Beginners
+                                Listen to Online Receivers
+                            type: video
+        -
+            text: |-
+                <b>Option C—Shortwave and Medium-Wave Listening.</b> Do ALL of
+                the following:
+            children:
+                -
+                    requirement: 1
+                    text: |-
+                        Listen across several shortwave bands for four one-hour
+                        periods-at least one period during daylight hours and at
+                        least one period at night. Log the stations properly and
+                        locate them geographically on a map, globe, or web-based
+                        mapping service.
+                    resources:
+                        -
+                            href: https://youtube.com/shorts/GuGMFXdco_4
+                            text: |-
+                                Unlock Shortwave Listening: Fun With HF Ham
+                                Radios
+                            type: video
+                        -
+                            href: https://youtu.be/dIeK-3PlL9U
+                            text: Incredible Shortwave Radio Stations Listing
+                            type: video
+                -
+                    requirement: 2
+                    text: |-
+                        Listen to several medium-wave stations for two one-hour
+                        periods, one period during daylight hours and one period
+                        at night. Log the stations properly and locate them on a
+                        map, globe, or web-based mapping service.
+                    resources:
+                        -
+                            href: https://youtu.be/KIBRDcNnIk4
+                            text: |-
+                                Great Mediumwave AM radio DXers resource for
+                                Finding Stations MWLIST
+                            type: video
+                -
+                    requirement: 3
+                    text: |-
+                        Compare your daytime and nighttime logs; note the
+                        frequencies on which your selected stations were loudest
+                        during each session. Explain differences in the signal
+                        strength from one period to the next.
+                    resources:
+                        -
+                            href: https://youtu.be/UL4ZrttSNv4
+                            text: |-
+                                Shortwave for Beginners Day and Night
+                                Differences in Radio Propagation of Signals
+                            type: video
+                        -
+                            href: https://youtu.be/X-Vnpsi46XE
+                            text: |-
+                                Understanding Daytime and Night Time Patterns To
+                                Increase Shortwave Listening Pleasure
+                            type: video
+                        -
+                            href: https://youtu.be/byvMpUt7k58
+                            text: |-
+                                Shortwave Propagation 101 Part 1 Daytime and
+                                Nighttime Propagation
+                            type: video
+                -
+                    requirement: 4
+                    text: |-
+                        Compare your medium-wave broadcast station logs and
+                        explain why some distant stations are heard at your
+                        location only during the night.
+                    resources:
+                        -
+                            href: https://youtu.be/_VDUGiJhK78
+                            text: |-
+                                Why AM Radio Signals Propogate Farther At Night
+                                Than During the Day
+                            type: video
+                        -
+                            href: https://youtu.be/jpbkcakEvWs
+                            text: Ground Wave Propagation / Types of Radio Waves
+                            type: video
+                -
+                    requirement: 5
+                    text: |-
+                        Demonstrate listening to a radio broadcast using a
+                        smartphone/cell phone. Include international broadcasts
+                        in your demonstration.
+                    resources:
+                        -
+                            href: https://youtu.be/EUXYo9vS30w
+                            text: How To Listen to FM Radio on Android or iPhone!
+                            type: video
+                        -
+                            href: https://youtu.be/K9LbIu4p1fc
+                            text: |-
+                                Unlock the Hidden FM Radio in Your Android Smart
+                                Phone
+                            type: video
+        -
+            text: |-
+                <b>Option D—Amateur Radio Direction Finding.</b> Do ALL of the
+                following:
+            children:
+                -
+                    requirement: 1
+                    text: |-
+                        Describe amateur radio direction finding and explain why
+                        direction finding is important as both an activity and
+                        in competition.
+                    resources:
+                        -
+                            href: https://youtu.be/1Qseg0mWpcI
+                            text: |-
+                                Amateur Radio Foxhunting: Equipment, Techniques,
+                                &amp; Getting Started—Ham Radio Transmitter
+                                Hunting
+                            type: video
+                        -
+                            href: https://youtu.be/bWs6shlc9m0
+                            text: |-
+                                Radio Direction Finding: AKA How "They" Can Find
+                                You
+                            type: video
+                -
+                    requirement: 2
+                    text: |-
+                        Describe what frequencies and equipment are used for
+                        ARDF or fox hunting.
+                    resources:
+                        -
+                            href: https://youtu.be/HQxGJDvRnPU
+                            text: Ham Radio Fox Hunting 101
+                            type: video
+                -
+                    requirement: 3
+                    text: |-
+                        Build a simple directional antenna for either of the two
+                        frequencies used in ARDF.
+                    resources:
+                        -
+                            href: https://youtu.be/KihdX-8XKIE
+                            text: |-
+                                Two Simple Ham Radio Antennas You Can Use for
+                                Fox Hunting
+                            type: video
+                -
+                    requirement: 4
+                    text: |-
+                        Participate in a simple fox hunt using your antenna
+                        along with a provided receiver.
+                    resources:
+                        -
+                            href: https://youtube.com/shorts/i2x_t08KUw8
+                            text: Ham Radio Fox Hunt?
+                            type: video
+                -
+                    requirement: 5
+                    text: |-
+                        Show, on a map, how you located the "fox" using your
+                        receiver.
+        -
+            text: |-
+                <b>Option E—Family Radio Service (FRS) and General Mobile Radio
+                Service (GMRS) Walkie Talkies.</b> Do ALL of the following:
+            children:
+                -
+                    requirement: 1
+                    text: |-
+                        Explain what the Family Radio Service (FRS) and General
+                        Mobile Radio Service (GMRS) are and how they are
+                        different from each other, from other commercial two-way
+                        radios, and from Citizens Band (CB) and amateur radio
+                        (ham).
+                    resources:
+                        -
+                            href: https://youtu.be/cuqPawftFhQ
+                            text: 'FRS VS GMRS: A Radio Service Comparison Guide'
+                            type: video
+                -
+                    requirement: 2
+                    text: |-
+                        Explain each of the following for using a FRS radio or
+                        GMRS walkie talkie:
+                    children:
+                        -
+                            requirement: a
+                            text: |-
+                                Is any type of license needed to use these
+                                radios? If so: what kind?
+                            resources:
+                                -
+                                    href: https://youtube.com/shorts/8HUTrWX_A_k
+                                    text: Walkie Talkies—FRS vs GMRS vs Ham
+                                    type: video
+                        -
+                            requirement: b
+                            text: |-
+                                What radio frequencies are used and how is
+                                information encoded?
+                            resources:
+                                -
+                                    href: >-
+                                        https://www.tiktok.com/@onthetrailradio/video/7319691451955154222
+                                    text: Troubleshooting Radio Connections
+                                    type: video
+                        -
+                            requirement: c
+                            text: How much power can be used when transmitting?
+                            resources:
+                                -
+                                    href: >-
+                                        https://www.tiktok.com/@onthetrailradio/video/7490642330546916638
+                                    text: FRS vs. GMRS
+                                    type: video
+                        -
+                            requirement: d
+                            text: What type of antenna can be used?
+                            resources:
+                                -
+                                    href: https://youtube.com/shorts/wHJCA43UK8Y
+                                    text: Differences between GMRS and FRS
+                                    type: video
+                        -
+                            requirement: e
+                            text: What is the effective range and what limits it?
+                        -
+                            requirement: f
+                            text: What are common everyday uses for these radios?
+                        -
+                            requirement: g
+                            text: How can these radios be useful in an emergency?
+                            resources:
+                                -
+                                    href: >-
+                                        https://www.youtube.com/watch?v=zy5lNBGoORw
+                                    text: HAM and GMRS Radios for Emergencies
+                                    type: video
+                                -
+                                    href: >-
+                                        https://www.youtube.com/watch?v=xT-2IVItSZY
+                                    text: |-
+                                        FRS and GMRS Radio for Emergency
+                                        Communications
+                                    type: video
+                                -
+                                    href: >-
+                                        https://www.radiodesigngroup.com/blog/the-vital-role-of-ham-radio-in-disaster-preparedness
+                                    text: |-
+                                        The Vital Role of Ham Radio in Disaster
+                                        Preparedness
+                                    type: video
+                -
+                    requirement: 3
+                    text: |-
+                        Use the FRS radios or GMRS walkie talkies with family,
+                        friends, or Scouts on a hike, at an event, or in a team
+                        game. Discuss what you learned with your counselor.
+-
+    requirement: 9
+    text: <b>Careers.</b> Do ONE of the following.
+    children:
+        -
+            requirement: a
+            text: |-
+                Explore careers related to radio. Research one career to learn
+                about the training and education needed, costs, job prospects,
+                salary, job duties, and advancement. With permission of your
+                parent or guardian, your research methods may include an
+                internet or library search, an interview with a professional in
+                the field, or a visit to a location where people in this career
+                work or train. Discuss your findings and career interest with
+                your counselor.
+            resources:
+                -
+                    href: https://youtu.be/0M-WdfQlk3Q
+                    text: 'How I Got That Job: Public Radio'
+                    type: video
+                -
+                    href: https://youtu.be/ftGPn35lNhw
+                    text: Broadcast Announcers and Radio Disc Jockeys Careers
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Explore how you could use radio knowledge and skills to develop
+                a hobby or to serve as a volunteer. If possible, with permission
+                of your parent or guardian, interview a radio hobbyist or
+                volunteer. Research training and licensing needed, expenses, and
+                organizations that promote or support your objectives. Discuss
+                with your counselor what short-term and long-term goals you
+                might have if you pursue this.
+            resources:
+                -
+                    href: https://youtu.be/sULPHxTkDnk
+                    text: (Hobbies) Ham Radio
+                    type: video
+                -
+                    href: https://youtu.be/sEDg7HycNU0
+                    text: 5 MOST POPULAR Ham Radio Hobbies
+                    type: video

@@ -1,103 +1,330 @@
-- requirement: 1
-  text: |-
-      What is the Constitution of the United States? What does the Constitution
-      do? What principles does it reflect? Why is it important to have a
-      Constitution?
-- requirement: 2
-  text: |-
-      List the six purposes for creating the United States Constitution set forth
-      in the Preamble to the Constitution. How do these purposes affect your
-      family and community?
-- requirement: 3
-  text: |-
-      List the three branches of the United States government. Explain:
-  children:
-      - requirement: a
-        text: |-
-            The function of each branch of government
-      - requirement: b
-        text: |-
-            Why it is important to divide powers among different branches
-      - requirement: c
-        text: |-
-            How each branch checks and balances the others
-      - requirement: d
-        text: |-
-            How citizens can be involved in each branch of government
-- requirement: 4
-  text: |-
-      Discuss the importance of:
-  children:
-      - requirement: a
-        text: |-
-            <i>Declaration of Independence</i>
-      - requirement: b
-        text: |-
-            <i>Bill of Rights</i> (the first 10 Amendments to the Constitution) and the
-            14th Amendment
-      - requirement: c
-        text: |-
-            E Pluribus Unum, the traditional United States motto.
-- requirement: 5
-  text: |-
-      Watch the national evening news for five days in a row or read the main
-      stories in a national media organization (e.g., a newspaper or news
-      website) for five days in a row. Discuss the national issues that you
-      learned about with your counselor. Choose one issue and explain how it
-      affects you, your family, and community.
-- requirement: 6
-  text: |-
-      With your counselor's approval, choose a speech of national historical
-      importance. Explain:
-  children:
-      - requirement: a
-        text: |-
-            Who the author was
-      - requirement: b
-        text: |-
-            What the historical context was
-      - requirement: c
-        text: |-
-            What difficulties the nation faced that the author wished to discuss
-      - requirement: d
-        text: |-
-            What the author said
-      - requirement: e
-        text: |-
-            Why the speech is important to the nation's history
-      - requirement: f
-        text: |-
-            Choose a sentence or two from the speech that has significant meaning
-            to you, and tell your counselor why.
-- requirement: 7
-  text: |-
-      Do TWO of the following:
-  children:
-      - requirement: a
-        text: |-
-            Visit a place that is listed as a National Historic Landmark or that is
-            on the National Register of Historic Places. Tell your counselor what
-            you learned about the landmark or site and what you found interesting
-            about it.
-      - requirement: b
-        text: |-
-            Tour your state capitol building or the U.S. Capitol. Tell your
-            counselor what you learned about the capitol, its function, and the
-            history.
-      - requirement: c
-        text: |-
-            Tour a federal facility. Explain to your counselor what you saw and
-            what you learned about its function in the local community and how
-            it serves this nation.
-      - requirement: d
-        text: |-
-            Choose a United States national monument that interests you. Using
-            books, brochures, the internet (with your parent or guardian's
-            permission), and other resources, find out more about the monument.
-            Tell your counselor what you learned, and explain why the monument is
-            important to this country's citizens.
-- requirement: 8
-  text: |-
-      Name your representatives in the United States Congress. Write to
-      your representative in Congress explaining your views on a national issue.
-      Show your correspondence, along with any response you receive, to your counselor.
+# AUTO: WARNING: Found URL ending with ".docx" near "Tracking Planner..." with resource type "pdf". This should be "docx".
+-
+    requirement: 1
+    text: |-
+        What is the Constitution of the United States? What does the
+        Constitution do? What principles does it reflect? Why is it important to
+        have a Constitution?
+    resources:
+        -
+            href: https://vimeo.com/1157341979/58d0d206c3?fl=pl&fe=vl
+            text: Creating the Constitution
+            type: video
+        -
+            href: https://youtu.be/vHm_b7QOc7U
+            text: What Is Federalism? | Things Explained
+            type: video
+        -
+            href: https://youtu.be/XfS-bZ69p0E
+            text: Walkthrough of the Constitution | Constitution 101
+            type: video
+        -
+            href: https://youtu.be/R2h8CrX84Eo
+            text: The Bill of Rights
+            type: video
+-
+    requirement: 2
+    text: |-
+        List the six purposes for creating the United States Constitution set
+        forth in the Preamble to the Constitution. How do these purposes affect
+        your family and community?
+    resources:
+        -
+            href: https://youtu.be/eLQ3ZEnchB4
+            text: What Does the Preamble Actually Mean?
+            type: video
+        -
+            href: https://youtu.be/nXh2lEk2XNs
+            text: What Is Ratification?
+            type: video
+-
+    requirement: 3
+    text: 'List the three branches of the United States government. Explain:'
+    children:
+        -
+            requirement: a
+            text: The function of each branch of government
+            resources:
+                -
+                    href: https://youtu.be/hltv8-nzcUc
+                    text: What Is the Legislative Branch of the U.S. Government?
+                    type: video
+                -
+                    href: https://www.senate.gov/
+                    text: US Senate
+                    type: website
+                -
+                    href: https://www.house.gov/
+                    text: US House of Representatives
+                    type: website
+                -
+                    href: https://youtu.be/BWR2p9j9hWo
+                    text: What Is the Executive Branch of the U.S. Government?
+                    type: video
+                -
+                    href: https://youtu.be/n_3cBWrC5n8
+                    text: What Is Veto Power?
+                    type: video
+                -
+                    href: https://youtu.be/9giPmCWnepU
+                    text: What Is the Judicial Branch of the U.S. Government?
+                    type: video
+                -
+                    href: https://www.supremecourt.gov/
+                    text: Supreme Court of the United States
+                    type: website
+                -
+                    href: https://youtu.be/8Zpe046BxQw
+                    text: The US Court System Explained
+                    type: video
+        -
+            requirement: b
+            text: Why it is important to divide powers among different branches
+            resources:
+                -
+                    href: https://youtu.be/TAqAvKnheSk
+                    text: The Separation of Powers
+                    type: video
+        -
+            requirement: c
+            text: How each branch checks and balances the others
+            resources:
+                -
+                    href: https://youtu.be/JaYA3cLPMc4
+                    text: Checks and Balances/Separation of Powers Explained
+                    type: video
+        -
+            requirement: d
+            text: How citizens can be involved in each branch of government
+            resources:
+                -
+                    href: https://youtu.be/R8yrjKj4cP0
+                    text: Political Participation and Elections
+                    type: video
+                -
+                    href: https://youtu.be/a2-QL59pVRo
+                    text: The Duties and Responsibilities of Citizens
+                    type: video
+                -
+                    href: https://ymcacona.org/
+                    text: YMCA Youth Conference on National Affairs
+                    type: website
+                -
+                    href: https://nextgenamerica.org/who-we-are/
+                    text: NextGen America
+                    type: website
+                -
+                    href: https://www.youthrights.org/about/our-movement/
+                    text: National Youth Rights Association
+                    type: website
+-
+    requirement: 4
+    text: 'Discuss the importance of:'
+    children:
+        -
+            requirement: a
+            text: <i>Declaration of Independence</i>
+            resources:
+                -
+                    href: https://youtu.be/faa5YMquv_8
+                    text: <i>The Declaration of Independence</i>
+                    type: video
+        -
+            requirement: b
+            text: |-
+                <i>Bill of Rights</i> (the first 10 Amendments to the
+                Constitution) and the 14th Amendment
+            resources:
+                -
+                    href: https://youtu.be/yYEfLm5dLMQ
+                    text: A 3-Minute Guide to the <i>Bill of Rights</i>
+                    type: video
+                -
+                    href: https://youtu.be/ftoroDlR4Ss
+                    text: The 14th Amendment
+                    type: video
+        -
+            requirement: c
+            text: E Pluribus Unum, the traditional United States motto
+            resources:
+                -
+                    href: https://youtu.be/ki23hxGovao
+                    text: What Does E Pluribus Unum Actually Mean?
+                    type: video
+-
+    requirement: 5
+    text: |-
+        Watch the national evening news for five days in a row or read the main
+        stories in a national media organization (e.g., a newspaper or news
+        website) for five days in a row. Discuss the national issues that you
+        learned about with your counselor. Choose one issue and explain how it
+        affects you, your family, and community.
+    resources:
+        -
+            href: >-
+                https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Citizenship%20in%20the%20Nation/Media%20Tracking%20Planner.docx
+            text: Tracking Planner
+            type: docx
+        -
+            href: https://www.snopes.com/factbot/
+            text: Factbot
+            type: website
+        -
+            href: https://www.factcheck.org/
+            text: FactCheck
+            type: website
+        -
+            href: https://apnews.com/
+            text: AP News
+            type: website
+        -
+            href: https://www.politifact.com/
+            text: Politifact
+            type: website
+-
+    requirement: 6
+    text: |-
+        With your counselor's approval, choose a speech of national historical
+        importance. Explain:
+    resources:
+        -
+            href: https://youtu.be/vP4iY1TtS3s
+            text: I Have a Dream Speech by Martin Luther King Jr.
+            type: video
+        -
+            href: https://youtu.be/lK8gYGg0dkE
+            text: President Franklin D. Roosevelt Declares War on Japan Speech
+            type: video
+        -
+            href: https://youtu.be/uSHGXVBA17A
+            text: '"Tear Down This Wall" Reagan Speech June 12 1987'
+            type: video
+        -
+            href: https://www.jstor.org/
+            text: Explore the World's Knowledge, Cultures, and Ideas
+            type: video
+        -
+            href: https://www.americanrhetoric.com/
+            text: American Rhetoric
+            type: website
+        -
+            href: https://www.americanrhetoric.com/top100speechesall.html
+            text: Top 100 Speeches
+            type: website
+    children:
+        -
+            requirement: a
+            text: Who the author was
+        -
+            requirement: b
+            text: What the historical context was
+        -
+            requirement: c
+            text: |-
+                What difficulties the nation faced that the author wished to
+                discuss
+        -
+            requirement: d
+            text: What the author said
+        -
+            requirement: e
+            text: Why the speech is important to the nation's history
+        -
+            requirement: f
+            text: |-
+                Choose a sentence or two from the speech that has significant
+                meaning to you, and tell your counselor why.
+-
+    requirement: 7
+    text: 'Do TWO of the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Visit a place that is listed as a National Historic Landmark or
+                that is on the National Register of Historic Places. Tell your
+                counselor what you learned about the landmark or site and what
+                you found interesting about it.
+            resources:
+                -
+                    href: >-
+                        https://americasnationalparks.org/passport-to-your-national-parks/
+                    text: America's National Parks National Passport Program
+                    type: website
+                -
+                    href: https://www.nps.gov/index.htm
+                    text: National Park Service
+                    type: website
+                -
+                    href: https://www.archives.gov/
+                    text: National Archives
+                    type: website
+                -
+                    href: https://youtu.be/POC5G1gWBC0
+                    text: Does Historical Preservation Even Matter?
+                    type: video
+                -
+                    href: https://www.amrevmuseum.org/virtual-museum-tour
+                    text: Museum of the American Revolution - Virtual Museum Tour
+                    type: website
+        -
+            requirement: b
+            text: |-
+                Tour your state capitol building or the U.S. Capitol. Tell your
+                counselor what you learned about the capitol, its function, and
+                the history.
+            resources:
+                -
+                    href: https://youtu.be/iqz0RoNoRhE
+                    text: |-
+                        Capital Curiosities: Exploring Why State Capitals Aren't
+                        Always the Biggest Cities
+                    type: video
+                -
+                    href: >-
+                        https://www.visitthecapitol.gov/live-virtual-capitol-tour
+                    text: Live, Virtual US Capital Tour
+                    type: website
+        -
+            requirement: c
+            text: |-
+                Tour a federal facility. Explain to your counselor what you saw
+                and what you learned about its function in the local community
+                and how it serves this nation.
+        -
+            requirement: d
+            text: |-
+                Choose a United States national monument that interests you.
+                Using books, brochures, the internet (with your parent or
+                guardian's permission), and other resources, find out more about
+                the monument. Tell your counselor what you learned, and explain
+                why the monument is important to this country's citizens.
+            resources:
+                -
+                    href: https://www.senate.gov/senators/senators-contact.htm
+                    text: US Senate
+                    type: website
+                -
+                    href: https://www.govtrack.us/
+                    text: GovTrack
+                    type: website
+                -
+                    href: https://www.usa.gov/elected-officials
+                    text: USA.gov
+                    type: website
+                -
+                    href: https://www.commoncause.org/find-your-representative/
+                    text: Common Cause
+                    type: website
+                -
+                    href: >-
+                        https://www.house.gov/representatives/find-your-representative
+                    text: US House of Representatives
+                    type: website
+-
+    requirement: 8
+    text: |-
+        Name your representatives in the United States Congress. Write to your
+        representative in Congress explaining your views on a national issue.
+        Show your correspondence, along with any response you receive, to your
+        counselor.

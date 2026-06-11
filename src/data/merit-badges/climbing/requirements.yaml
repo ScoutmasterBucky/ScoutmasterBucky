@@ -1,182 +1,419 @@
-- requirement: 1
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain to your counselor the most likely hazards you may encounter
-            while participating in climbing and rappelling activities and what you
-            should do to anticipate, help prevent, mitigate, and respond to these
-            hazards.
-      - requirement: b
-        text: |-
-            Show that you know first aid for and how to prevent injuries or
-            illnesses that could occur during climbing activities, including heat
-            and cold reactions, dehydration, stopped breathing, sprains, abrasions,
-            fractures, rope burns, blisters, snakebite, concussions, and insect
-            bites or stings.
-      - requirement: c
-        text: |-
-            Identify the conditions that must exist before performing CPR on a
-            person.
-- requirement: 2
-  text: |-
-      Learn the Leave No Trace Seven Principles and the Outdoor Code and explain
-      what they mean.
-- requirement: 3
-  text: |-
-      Present yourself properly dressed for belaying, climbing, and rappelling.
-      Explain why you are wearing each piece of gear and discuss qualities of
-      easy movement, entanglement free and good weather protection and comfort.
-- requirement: 4
-  text: |-
-      <strong>Location.</strong> Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain how the difficulty of climbs is classified, and apply
-            classifications to the rock faces or walls where you will demonstrate
-            your climbing skills.
-      - requirement: b
-        text: |-
-            Explain the following: top-rope climbing, lead climbing, and
-            bouldering.
-      - requirement: c
-        text: |-
-            Evaluate the safety of a particular climbing area. Consider weather,
-            visibility, the condition of the climbing surface, and any other
-            environmental hazards.
-      - requirement: d
-        text: |-
-            Determine how to summon aid to the climbing area in case of an
-            emergency. Discuss what medical training is needed for your group when
-            climbing and rappelling in remote areas.
-- requirement: 5
-  text: |-
-      <strong>Verbal signals.</strong> Explain the importance of using verbal
-      signals during every climb and rappel, and while bouldering. With the help
-      of the counselor or another Scout, demonstrate the verbal signals used by
-      each of the following:
-  children:
-      - requirement: a
-        text: |-
-            Climbers
-      - requirement: b
-        text: |-
-            Rappellers
-      - requirement: c
-        text: |-
-            Belayers
-      - requirement: d
-        text: |-
-            Boulderers and their spotters
-- requirement: 6
-  text: |-
-      <strong>Rope.</strong> Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Describe the kinds of rope acceptable for use in climbing and
-            rappelling.
-      - requirement: b
-        text: |-
-            Show how to examine a rope for signs of wear or damage.
-      - requirement: c
-        text: |-
-            Discuss ways to prevent a rope from being damaged.
-      - requirement: d
-        text: |-
-            Explain when and how a rope should be retired.
-      - requirement: e
-        text: |-
-            Properly coil a rope.
-- requirement: 7
-  text: |-
-      <strong>Knots.</strong> Demonstrate the ability to tie each of the
-      following knots. Give at least one example of how each knot is used in
-      belaying, climbing, or rappelling.
-  children:
-      - requirement: a
-        text: |-
-            Figure eight on a bight
-      - requirement: b
-        text: |-
-            Figure eight follow-through
-      - requirement: c
-        text: |-
-            Water knot
-      - requirement: d
-        text: |-
-            Double fisherman's knot (grapevine knot)
-      - requirement: e
-        text: |-
-            Prusik hitch applied to rope
-- requirement: 8
-  text: |-
-      <b>Harness, Helmet &amp; Gloves.</b> Explain the purpose of each of the
-      following and demonstrate how to put them on correctly.
-  children:
-      - requirement: a
-        text: |-
-            Commercially made climbing harness
-      - requirement: b
-        text: |-
-            Climbing helmet
-      - requirement: c
-        text: |-
-            Climbing or rappeling gloves
-- requirement: 9
-  text: |-
-      Identify the elements of the CHECK system and describe the meaning of each
-      one to your counselor.
-- requirement: 10
-  text: |-
-      <strong>Belaying.</strong> Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain the importance of belaying climbers and rappellers and when it
-            is necessary.
-      - requirement: b
-        text: |-
-            Belay three different climbers on three different routes.
-      - requirement: c
-        text: |-
-            Serve as a backup belayer on three different climbs.
-      - requirement: d
-        text: |-
-            Belay three different rappellers on three different routes.
-      - requirement: e
-        text: |-
-            Serve as a backup belayer on three different rappels.
-- requirement: 11
-  text: |-
-      <strong>Climbing.</strong> Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Show the correct way to directly tie a belay rope to your harness.
-      - requirement: b
-        text: |-
-            Climb at least three different routes on a rock face or climbing wall,
-            demonstrating good technique and using verbal signals with a belayer.
-- requirement: 12
-  text: |-
-      <strong>Rappelling.</strong> Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Show the correct way to directly tie a belay rope to your harness.
-      - requirement: b
-        text: |-
-            Using a carabiner and a rappel device, attach a rappel rope to your
-            harness.
-      - requirement: c
-        text: |-
-            Rappel down three different rock faces or three rappel routes on a
-            climbing wall. Use verbal signals to communicate with a belayer, and
-            demonstrate good rappelling technique.
-- requirement: 13
-  text: |-
-      Demonstrate ways to store rope, hardware, and other gear used for climbing,
-      rappelling, and belaying.
+-
+    requirement: 1
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain to your counselor the most likely hazards you may
+                encounter while participating in climbing and rappelling
+                activities and what you should do to anticipate, help prevent,
+                mitigate, and respond to these hazards.
+            resources:
+                -
+                    href: https://youtu.be/7YqZkQRSMRw
+                    text: Risk Management in Rock Climbing
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Show that you know first aid for and how to prevent injuries or
+                illnesses that could occur during climbing activities, including
+                heat and cold reactions, dehydration, stopped breathing,
+                sprains, abrasions, fractures, rope burns, blisters, snakebite,
+                concussions, and insect bites or stings.
+            resources:
+                -
+                    href: https://www.healthline.com/health/rope-burn
+                    text: Treatment of Rope Burns
+                    type: website
+                -
+                    href: https://youtu.be/x-YYjkokQ6U
+                    text: Head, Neck, and Spine Injuries
+                    type: video
+                -
+                    href: https://youtu.be/mlWaByoT24s
+                    text: First Aid for Concussions
+                    type: video
+                -
+                    href: https://youtu.be/sPzXAVNVJr0
+                    text: Fracture and Dislocation
+                    type: video
+                -
+                    href: https://youtu.be/tGqXa3wujiM
+                    text: |-
+                        How To Treat A Blister Correctly (First, Look At Your
+                        Blister Roof)
+                    type: video
+                -
+                    href: https://youtu.be/KahsIEbFROI
+                    text: |-
+                        What Is Dehydration? Causes, Signs and Symptoms,
+                        Diagnosis and Treatment.
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Identify the conditions that must exist before performing CPR on
+                a person.
+            resources:
+                -
+                    href: https://youtu.be/khJ40b2TuHg
+                    text: What To Do Before Starting Hands-Only CPR
+                    type: video
+-
+    requirement: 2
+    text: |-
+        Learn the Leave No Trace Seven Principles and the Outdoor Code and
+        explain what they mean.
+    resources:
+        -
+            href: https://vimeo.com/1115216743/63b20c0b33
+            text: Leave No Trace
+            type: video
+-
+    requirement: 3
+    text: |-
+        Present yourself properly dressed for belaying, climbing, and
+        rappelling. Explain why you are wearing each piece of gear and discuss
+        qualities of easy movement, entanglement free and good weather
+        protection and comfort.
+    resources:
+        -
+            href: https://youtu.be/xBS6SxlC64s
+            text: Sport Climbing Gear Checklist
+            type: video
+        -
+            href: https://youtu.be/jBa5TuXjHOE
+            text: How To Choose Climbing Shoes
+            type: video
+        -
+            href: https://youtu.be/llSukbWw5kQ
+            text: How To Pick Top 10 Sport Climbing Essentials
+            type: video
+        -
+            href: https://www.rei.com/dam/sport_climbing_checklist.pdf
+            text: Sport Climbing Gear Checklist
+            type: pdf
+        -
+            href: https://youtu.be/KpxCQgL5oZw
+            text: What Gear Do You Need for Winter Climbing
+            type: video
+-
+    requirement: 4
+    text: '<strong>Location.</strong> Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain how the difficulty of climbs is classified, and apply
+                classifications to the rock faces or walls where you will
+                demonstrate your climbing skills.
+            resources:
+                -
+                    href: https://youtu.be/cD4XHKBwe3I
+                    text: Climbing Grades Explained
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Explain the following: top-rope climbing, lead climbing, and
+                bouldering.
+            resources:
+                -
+                    href: https://youtu.be/1Wri-kqrX80
+                    text: Top Roping vs Lead Climbing vs Bouldering
+                    type: video
+        -
+            requirement: c
+            text: |-
+                Evaluate the safety of a particular climbing area. Consider
+                weather, visibility, the condition of the climbing surface, and
+                any other environmental hazards.
+        -
+            requirement: d
+            text: |-
+                Determine how to summon aid to the climbing area in case of an
+                emergency. Discuss what medical training is needed for your
+                group when climbing and rappelling in remote areas.
+-
+    requirement: 5
+    text: |-
+        <strong>Verbal signals.</strong> Explain the importance of using verbal
+        signals during every climb and rappel, and while bouldering. With the
+        help of the counselor or another Scout, demonstrate the verbal signals
+        used by each of the following:
+    resources:
+        -
+            href: >-
+                https://americanalpineclub.org/news/2017/1/19/4xm1fcsag6b7xqf1p1w1qp7vdpp1ha
+            text: Climber Communication
+            type: website
+    children:
+        -
+            requirement: a
+            text: Climbers
+            resources:
+                -
+                    href: https://youtu.be/gxfGI0AGEMA
+                    text: Rock Climbing Commands
+                    type: video
+        -
+            requirement: b
+            text: Rappellers
+        -
+            requirement: c
+            text: Belayers
+            resources:
+                -
+                    href: https://youtu.be/GRLUYDGHIEI
+                    text: 'Gym Top Rope Climbing: Verbal Commands'
+                    type: video
+                -
+                    href: https://youtu.be/Ilmv4bsWSXcr
+                    text: 'SL Climb Series: Rock Climbers Communicate How?'
+                    type: video
+        -
+            requirement: d
+            text: Boulderers and their spotters
+            resources:
+                -
+                    href: https://youtu.be/YZbzT5ijJd8
+                    text: ABCDs of Spotting
+                    type: video
+-
+    requirement: 6
+    text: '<strong>Rope.</strong> Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Describe the kinds of rope acceptable for use in climbing and
+                rappelling.
+            resources:
+                -
+                    href: https://youtu.be/1AxF_0S7BTY
+                    text: |-
+                        The Essential Guide for Every Climber (Dynamic vs Static
+                        Ropes)
+                    type: video
+        -
+            requirement: b
+            text: Show how to examine a rope for signs of wear or damage.
+            resources:
+                -
+                    href: https://youtu.be/p3xFDP9G0ow
+                    text: |-
+                        Rope Inspection 101: One of the Most Important Safety
+                        Steps
+                    type: video
+        -
+            requirement: c
+            text: Discuss ways to prevent a rope from being damaged.
+            resources:
+                -
+                    href: >-
+                        https://www.namahropes.com/rope-safety-tips-for-reliable-use/
+                    text: |-
+                        Safety First: Preventing Rope Failures and Ensuring
+                        Longevity
+                    type: website
+        -
+            requirement: d
+            text: Explain when and how a rope should be retired.
+            resources:
+                -
+                    href: https://youtu.be/0MD83ewJFMA
+                    text: When To Retire a Climbing Rope
+                    type: video
+        -
+            requirement: e
+            text: Properly coil a rope.
+            resources:
+                -
+                    href: https://youtu.be/Aqt1ntSVjJA
+                    text: How To Coil a Climbing Rope
+                    type: video
+-
+    requirement: 7
+    text: |-
+        <strong>Knots.</strong> Demonstrate the ability to tie each of the
+        following knots. Give at least one example of how each knot is used in
+        belaying, climbing, or rappelling.
+    children:
+        -
+            requirement: a
+            text: Figure eight on a bight
+            resources:
+                -
+                    href: https://youtu.be/kbB85p_uJsE
+                    text: How To Tie a Figure 8 Knot on a Bight
+                    type: video
+        -
+            requirement: b
+            text: Figure eight follow-through
+            resources:
+                -
+                    href: https://youtu.be/GFlwrvggas0
+                    text: |-
+                        How To Tie a Figure 8 Knot for Climbing - Everything You
+                        Need To Know
+                    type: video
+        -
+            requirement: c
+            text: Water knot
+            resources:
+                -
+                    href: https://youtu.be/mWKfGmA3M48
+                    text: 'Rock Climbing: How To Tie a Water Knot'
+                    type: video
+        -
+            requirement: d
+            text: Double fisherman's knot (grapevine knot)
+            resources:
+                -
+                    href: https://youtu.be/iZuqOkTumSQ
+                    text: How To Tie a Double Fisherman's Knot (Grapevine Knot)
+                    type: video
+                -
+                    href: https://youtu.be/YHUv-oOMwRA
+                    text: 'Rock Climbing: How To Tie a Double Fisherman''s Knot'
+                    type: video
+        -
+            requirement: e
+            text: Prusik hitch applied to rope
+            resources:
+                -
+                    href: https://youtu.be/EFHxQ5fiUvI
+                    text: 'Rock Climbing: How To Tie a Prusik Knot'
+                    type: video
+-
+    requirement: 8
+    text: |-
+        <b>Harness, Helmet &amp; Gloves.</b> Explain the purpose of each of the
+        following and demonstrate how to put them on correctly.
+    children:
+        -
+            requirement: a
+            text: Commercially made climbing harness
+            resources:
+                -
+                    href: https://youtu.be/aRrLfR7rnw0
+                    text: How to Choose a Climbing Harness
+                    type: video
+                -
+                    href: https://youtu.be/v5WpeMStpf0
+                    text: How To Put On a Climbing Harness
+                    type: video
+        -
+            requirement: b
+            text: Climbing helmet
+            resources:
+                -
+                    href: https://youtu.be/NFzGftaJOvM
+                    text: How To Choose Climbing Helmets
+                    type: video
+        -
+            requirement: c
+            text: Climbing or rappelling gloves
+            resources:
+                -
+                    href: >-
+                        https://www.gearinstant.com/things-you-should-know-before-choosing-gloves-for-climbing
+                    text: |-
+                        Things You Should Know Before Choosing Gloves for
+                        Climbing
+                    type: website
+-
+    requirement: 9
+    text: |-
+        Identify the elements of the CHECK system and describe the meaning of
+        each one to your counselor.
+    resources:
+        -
+            href: https://youtu.be/5YC-t0cwVr0
+            text: Climbing Partner Checks—Check or Deck
+            type: video
+-
+    requirement: 10
+    text: '<strong>Belaying.</strong> Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain the importance of belaying climbers and rappellers and
+                when it is necessary.
+            resources:
+                -
+                    href: https://youtu.be/CFIz4cBFVro
+                    text: How To Top-Rope Belay
+                    type: video
+        -
+            requirement: b
+            text: Belay three different climbers on three different routes.
+        -
+            requirement: c
+            text: Serve as a backup belayer on three different climbs.
+            resources:
+                -
+                    href: https://youtu.be/Uuv1B-C1Ziw
+                    text: How To Back Up a Beginner's Belay
+                    type: video
+        -
+            requirement: d
+            text: Belay three different rappellers on three different routes.
+        -
+            requirement: e
+            text: Serve as a backup belayer on three different rappels.
+-
+    requirement: 11
+    text: '<strong>Climbing.</strong> Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Show the correct way to directly tie a belay rope to your
+                harness.
+            resources:
+                -
+                    href: https://youtu.be/XQ1r7iddc1w
+                    text: |-
+                        How To Tie Into a Climbing Harness (With a Figure 8
+                        Knot)
+                    type: video
+        -
+            requirement: b
+            text: |-
+                Climb at least three different routes on a rock face or climbing
+                wall, demonstrating good technique and using verbal signals with
+                a belayer.
+-
+    requirement: 12
+    text: '<strong>Rappelling.</strong> Do the following:'
+    resources:
+        -
+            href: https://youtu.be/7U6tdEevJgs
+            text: 'Rock Climbing: How to Rappel'
+            type: video
+    children:
+        -
+            requirement: a
+            text: |-
+                Show the correct way to directly tie a belay rope to your
+                harness.
+        -
+            requirement: b
+            text: |-
+                Using a carabiner and a rappel device, attach a rappel rope to
+                your harness.
+        -
+            requirement: c
+            text: |-
+                Rappel down three different rock faces or three rappel routes on
+                a climbing wall. Use verbal signals to communicate with a
+                belayer, and demonstrate good rappelling technique.
+-
+    requirement: 13
+    text: |-
+        Demonstrate ways to store rope, hardware, and other gear used for
+        climbing, rappelling, and belaying.

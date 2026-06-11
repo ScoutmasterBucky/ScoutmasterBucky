@@ -1,161 +1,199 @@
 # Removed space in 7b "major weaknesses on this course ."
-- requirement: 1
-  text: |-
-      Show that you know first aid for the following types of injuries that could
-      occur while orienteering: cuts, scratches, blisters, snakebite, insect
-      stings, tick bites, heat and cold reactions (sunburn, heatstroke, heat
-      exhaustion, hypothermia), dehydration. Explain to your counselor why you
-      should be able to identify poisonous plants and poisonous animals that are
-      found in your area.
-  resources:
-      - href: https://shopeverbeam.com/blogs/news/10-ways-to-handle-emergencies-while-orienteering-essential-tips-for-adventure-safety
-        text: '10 Ways to Handle Emergencies While Orienteering: Essential Tips for Adventure Safety'
-        type: website
-      - href: https://youtu.be/mwAHhOwqeX4
-        text: Tick Checks
-        type: video
-      - href: https://www.weather.gov/safety/heat-illness
-        text: Heat Cramps, Heat Exhaustion, and Heat Stroke
-        type: website
-      - href: https://youtu.be/P6aBc4OAD0g
-        text: Poisonous Plants
-        type: video
-- requirement: 2
-  text: |-
-      Explain what orienteering is.
-  resources:
-      - href: https://youtu.be/26Zc5AVkFis
-        text: Start Orienteering || A Newcomer's Guide
-        type: video
-- requirement: 3
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Explain how a compass works. Describe the features of an orienteering
-            compass.
-        resources:
-            - href: https://youtu.be/bzNA6-lx5n8
-              text: Basic Orienteering
-              type: video
-      - requirement: b
-        text: |-
-            In the field, show how to take a compass bearing and follow it.
-        resources:
-            - href: https://youtu.be/0cF0ovA3FtY
-              text: How to Use a Compass
-              type: video
-- requirement: 4
-  text: |-
-      Do the following:
-  resources:
-      - href: https://youtu.be/CoVcRxza8nI
-        text: Topographic Maps
-        type: video
-  children:
-      - requirement: a
-        text: |-
-            Explain how a topographic map shows terrain features. Point out and
-            name five terrain features on a map and in the field.
-      - requirement: b
-        text: |-
-            Point out and name 10 symbols on a topographic map.
-      - requirement: c
-        text: |-
-            Explain the meaning of <em>declination</em> when using map and
-            compass together.
-        resources:
-            - href: https://youtu.be/SStmBzQC7eI
-              text: Magnetic Declination
-              type: video
-      - requirement: d
-        text: |-
-            Show a topographic map with magnetic north-south lines.
-      - requirement: e
-        text: |-
-            Show how to measure distances on a map using an orienteering compass.
-      - requirement: f
-        text: |-
-            Show how to orient a map using a compass.
-- requirement: 5
-  text: |-
-      Set up a 100-meter pace course. Determine your walking and running pace for
-      100 meters. Tell why it is important to pace-count.
-  resources:
-      - href: https://youtu.be/YAS9Cc8fhO8
-        text: Establishing a Pace Count
-        type: video
-- requirement: 6
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Identify 20 international control description symbols. Tell the meaning
-            of each symbol.
-        resources:
-            - href: https://carolinaorienteering.com/wp-content/uploads/Orienteering-Clue-Symbols.pdf
-              text: International Orienteering Symbols
-              type: pdf
-      - requirement: b
-        text: |-
-            Show a control description sheet and explain the information provided.
-        resources:
-            - href: https://orienteering-sport.com/control-descriptions
-              text: Key Terms
-              type: website
-      - requirement: c
-        text: |-
-            Explain the following terms and tell when you would use them: attack
-            point, collecting feature, catching feature, aiming off, contouring,
-            reading ahead, handrail, relocation, and rough versus fine orienteering.
-        resources:
-            - href: https://betterorienteering.org/intermediate-techniques
-              text: Setting Up an Orienteering Course
-              type: website
-- requirement: 7
-  text: |-
-      Do the following:
-  children:
-      - requirement: a
-        text: |-
-            Take part in three orienteering events. One of these must be a
-            cross-country course.
-            <div class="gap"></div>
-            <b>Note:</b> While orienteering is primarily an individual sport,
-            Scouting America Youth Protection procedures call for using the buddy
-            system.  Requirement 7(a) can be completed by pairs or groups of
-            Scouts.
-      - requirement: b
-        text: |-
-            After each event, write a report with (1) a copy of the master map and
-            control description sheet, (2) a copy of the route you took on the
-            course, (3) a discussion of how you could improve your time between
-            control points, and (4) a list of your major weaknesses on this course.
-            Describe what you could do to improve.
-- requirement: 8
-  text: |-
-      Do ONE of the following:
-  children:
-      - requirement: a
-        text: |-
-            Set up a cross-country course that is at least 2,000 meters long with
-            at least five control markers. Prepare the master map and control
-            description sheet.
-      - requirement: b
-        text: |-
-            Set up a score orienteering course with at least 12 control points and
-            a time limit of at least 60 minutes. Set point values for each control.
-            Prepare the master map and control description sheet.
-- requirement: 9
-  text: |-
-      Act as an official during an orienteering event. This may be during the
-      running of the course you set up for requirement 8.
-  resources:
-      - href: https://youtu.be/IfSaBKaau4k
-        text: How to Setup a Compass Course
-        type: video
-- requirement: 10
-  text: |-
-      Teach orienteering techniques to your patrol, troop or crew.
+-
+    requirement: 1
+    text: |-
+        Show that you know first aid for the following types of injuries that
+        could occur while orienteering: cuts, scratches, blisters, snakebite,
+        insect stings, tick bites, heat and cold reactions (sunburn, heatstroke,
+        heat exhaustion, hypothermia), dehydration. Explain to your counselor
+        why you should be able to identify poisonous plants and poisonous
+        animals that are found in your area.
+    resources:
+        -
+            href: >-
+                https://shopeverbeam.com/blogs/news/10-ways-to-handle-emergencies-while-orienteering-essential-tips-for-adventure-safety
+            text: |-
+                10 Ways to Handle Emergencies While Orienteering: Essential Tips
+                for Adventure Safety
+            type: website
+        -
+            href: https://youtu.be/mwAHhOwqeX4
+            text: Tick Checks
+            type: video
+        -
+            href: https://www.weather.gov/safety/heat-illness
+            text: Heat Cramps, Heat Exhaustion, and Heat Stroke
+            type: website
+        -
+            href: https://youtu.be/P6aBc4OAD0g
+            text: Poisonous Plants
+            type: video
+-
+    requirement: 2
+    text: Explain what orienteering is.
+    resources:
+        -
+            href: https://youtu.be/26Zc5AVkFis
+            text: Start Orienteering || A Newcomer's Guide
+            type: video
+-
+    requirement: 3
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain how a compass works. Describe the features of an
+                orienteering compass.
+            resources:
+                -
+                    href: https://youtu.be/bzNA6-lx5n8
+                    text: Basic Orienteering
+                    type: video
+        -
+            requirement: b
+            text: In the field, show how to take a compass bearing and follow it.
+            resources:
+                -
+                    href: https://youtu.be/0cF0ovA3FtY
+                    text: How to Use a Compass
+                    type: video
+-
+    requirement: 4
+    text: 'Do the following:'
+    resources:
+        -
+            href: https://youtu.be/CoVcRxza8nI
+            text: Topographic Maps
+            type: video
+    children:
+        -
+            requirement: a
+            text: |-
+                Explain how a topographic map shows terrain features. Point out
+                and name five terrain features on a map and in the field.
+        -
+            requirement: b
+            text: Point out and name 10 symbols on a topographic map.
+        -
+            requirement: c
+            text: |-
+                Explain the meaning of <em>declination</em>. Tell why you must
+                consider declination when using map and compass together.
+            resources:
+                -
+                    href: https://youtu.be/SStmBzQC7eI
+                    text: Magnetic Declination
+                    type: video
+        -
+            requirement: d
+            text: Show a topographic map with magnetic north-south lines.
+        -
+            requirement: e
+            text: |-
+                Show how to measure distances on a map using an orienteering
+                compass.
+        -
+            requirement: f
+            text: Show how to orient a map using a compass.
+-
+    requirement: 5
+    text: |-
+        Set up a 100-meter pace course. Determine your walking and running pace
+        for 100 meters. Tell why it is important to pace-count.
+    resources:
+        -
+            href: https://youtu.be/YAS9Cc8fhO8
+            text: Establishing a Pace Count
+            type: video
+-
+    requirement: 6
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Identify 20 international control description symbols. Tell the
+                meaning of each symbol.
+            resources:
+                -
+                    href: >-
+                        https://carolinaorienteering.com/wp-content/uploads/Orienteering-Clue-Symbols.pdf
+                    text: International Orienteering Symbols
+                    type: pdf
+        -
+            requirement: b
+            text: |-
+                Show a control description sheet and explain the information
+                provided.
+            resources:
+                -
+                    href: >-
+                        https://backwoodsok.org/control-descriptions-and-map-symbols-explained
+                    text: Control Descriptions
+                    type: website
+        -
+            requirement: c
+            text: |-
+                Explain the following terms and tell when you would use them:
+                attack point, collecting feature, catching feature, aiming off,
+                contouring, reading ahead, handrail, relocation, and rough
+                versus fine orienteering.
+            resources:
+                -
+                    href: https://betterorienteering.org/intermediate-techniques
+                    text: Setting Up an Orienteering Course
+                    type: website
+-
+    requirement: 7
+    text: 'Do the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Take part in three orienteering events. One of these must be a
+                cross-country course.
+                <div class="gap"></div>
+                <i><b>NOTE:</b> While orienteering is primarily an individual
+                sport, Scouting America Youth Protection procedures call for
+                using the buddy system. Requirement 7(a) can be completed by
+                pairs or groups of Scouts.</i>
+        -
+            requirement: b
+            text: |-
+                After each event, write a report with (1) a copy of the master
+                map and control description sheet, (2) a copy of the route you
+                took on the course, (3) a discussion of how you could improve
+                your time between control points, and (4) a list of your major
+                weaknesses on this course. Describe what you could do to
+                improve.
+-
+    requirement: 8
+    text: 'Do ONE of the following:'
+    children:
+        -
+            requirement: a
+            text: |-
+                Set up a cross-country course that is at least 2,000 meters long
+                with at least five control markers. Prepare the master map and
+                control description sheet.
+        -
+            requirement: b
+            text: |-
+                Set up a score orienteering course with at least 12 control
+                points and a time limit of at least 60 minutes. Set point values
+                for each control. Prepare the master map and control description
+                sheet.
+            resources:
+                -
+                    href: https://youtu.be/IfSaBKaau4k
+                    text: How To Setup a Compass Course
+                    type: video
+-
+    requirement: 9
+    text: |-
+        Act as an official during an orienteering event. This may be during the
+        running of the course you set up for requirement 8.
+-
+    requirement: 10
+    text: Teach orienteering techniques to your patrol, troop or crew.
