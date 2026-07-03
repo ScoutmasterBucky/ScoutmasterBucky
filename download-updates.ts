@@ -736,8 +736,8 @@ async function main() {
         );
     const settingsCollapseRadioButtonShadow =
         await settingsCollapseRadioButton!.getShadowRoot();
-    const disc = await settingsCollapseRadioButtonShadow!.select('.disc');
-    await disc!.click();
+    const target = await settingsCollapseRadioButtonShadow!.select('#radioCollapse');
+    await target!.click();
 
     debugMain('Browser configured');
     await driver.get('https://www.scouting.org/', { bypassCloudflare: true });
