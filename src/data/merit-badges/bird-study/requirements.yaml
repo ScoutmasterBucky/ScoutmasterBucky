@@ -1,7 +1,4 @@
 # Resource for 4, Merlin Bird ID, is an app. Not a website, not a video.
-# AUTO: WARNING: Found URL ending with "%20" near "How to Get Crystal Clear Focus With Your Binocular...". This should be cleaned up.
-# AUTO: WARNING: Found URL ending with "%20" near "A Beginner's Guide to Bird Beaks...". This should be cleaned up.
-# AUTO: WARNING: Found URL ending with "%20" near "AMAZING Bird Feet!...". This should be cleaned up.
 -
     requirement: 1
     text: |-
@@ -72,13 +69,13 @@
                 viewing.
             resources:
                 -
-                    href: https://www.youtube.com/watch?v=pkPzl-VPmo4
-                    text: How to Get Crystal Clear Focus With Your Binoculars
+                    href: https://youtu.be/pkPzl-VPmo4
+                    text: How To Get Crystal Clear Focus With Your Binoculars
                     type: video
                 -
-                    href: https://www.youtube.com/watch?v=cNx9klskWFk
+                    href: https://youtu.be/cNx9klskWFk
                     text: |-
-                        How to Use Binoculars For Bird Watching - A Beginners
+                        How To Use Binoculars For Bird Watching - A Beginners
                         Guide!
                     type: video
         -
@@ -178,11 +175,11 @@
             text: Beak
             resources:
                 -
-                    href: https://www.youtube.com/watch?v=BjzYfiFm_tw
+                    href: https://youtu.be/BjzYfiFm_tw
                     text: A Beginner's Guide to Bird Beaks
                     type: video
                 -
-                    href: https://www.youtube.com/watch?v=lFZ8NMBDCJw
+                    href: https://youtu.be/lFZ8NMBDCJw
                     text: |-
                         Bird Feeding Adaptations: How Beaks Are Adapted to What
                         Birds Eat
@@ -204,7 +201,7 @@
             text: Leg and foot
             resources:
                 -
-                    href: https://www.youtube.com/watch?v=cwFZyNiRzQU
+                    href: https://youtu.be/cwFZyNiRzQU
                     text: AMAZING Bird Feet!
                     type: video
         -
@@ -236,11 +233,11 @@
         or song that you heard.
     resources:
         -
-            href: https://www.youtube.com/watch?v=xTPGii-A2VM
+            href: https://youtu.be/xTPGii-A2VM
             text: 25 Iconic Bird Sounds
             type: video
         -
-            href: https://www.youtube.com/watch?v=4_1zIwEENt8
+            href: https://youtu.be/4_1zIwEENt8
             text: |-
                 Two Types of Communication Between Birds: Understanding Bird
                 Language Songs and Calls

@@ -20,9 +20,10 @@
                 guardian's permission.)
             resources:
                 -
-                    href: https://scoutingwire.org/social-media-guidelines/
-                    text: Scouting America Social Media Guidelines
-                    type: website
+                    href: >-
+                        https://filestore.scouting.org/filestore/YPSAT/YT%20Mod1%20Final%20Master%20Small.mp4
+                    text: Scouting Digital Safety Video
+                    type: video
         -
             requirement: b
             text: |-
@@ -71,9 +72,20 @@
             href: https://www.computerhistory.org/timeline/software-languages/
             text: Computer History Museum Timeline With Pictures
             type: website
+        -
+            href: >-
+                https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req2-History.pdf
+            text: History Handout
+            type: pdf
 -
     requirement: 3
     text: '<strong>General Knowledge.</strong> Do the following:'
+    resources:
+        -
+            href: >-
+                https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req3-General.pdf
+            text: General Knowledge Handout
+            type: pdf
     children:
         -
             requirement: a
@@ -97,6 +109,12 @@
 -
     requirement: 4
     text: '<strong>Intellectual Property.</strong> Do the following:'
+    resources:
+        -
+            href: >-
+                https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req4-IP.pdf
+            text: Intellectual Property Handout
+            type: pdf
     children:
         -
             requirement: a
@@ -146,6 +164,12 @@
         counselor. Explain how each program processes inputs, makes decisions
         based on those inputs, and provides outputs based on computations and
         decision making.
+    resources:
+        -
+            href: >-
+                https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req5-Project.pdf
+            text: Project Handout
+            type: pdf
     children:
         -
             requirement: a
@@ -181,6 +205,12 @@
 -
     requirement: 6
     text: '<b>Careers.</b> Do ONE of the following:'
+    resources:
+        -
+            href: >-
+                https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Programming/Req6-Careers.pdf
+            text: Careers Handout
+            type: pdf
     children:
         -
             requirement: a

@@ -22,6 +22,7 @@ const ResourceSchema: z.ZodSchema<Resource> = z.strictObject({
             'podcast',
             'video',
             'website',
+            'website w/ video',
             'website with video',
             'website with videos',
         ])
@@ -103,7 +104,7 @@ const meritBadgeResources = defineCollection({
 const meritBadges = defineCollection({
     loader: fileLoader('./src/data/merit-badges.yaml'),
     schema: z.strictObject({
-        bucky: z.string(),
+        bucky: z.string().optional(),
         discontinuedDate: z.string().optional(),
         eagle: z.boolean().optional(),
         image: z.string(),

@@ -13,9 +13,14 @@
                 currents, and surf.
             resources:
                 -
-                    href: https://www.scouting.org/health-and-safety/gss/gss02/
+                    href: https://www.scouting.org/health-and-safety/gss/gss02
                     text: Safe Swim Defense
                     type: website
+                -
+                    href: >-
+                        https://www.noaa.gov/multimedia/video/video-heading-to-beach-see-our-rip-current-survival-guide-first
+                    text: Rip Current Survival Guide
+                    type: website w/ video
         -
             requirement: b
             text: |-

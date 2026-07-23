@@ -1,4 +1,3 @@
-# AUTO: WARNING: Found URL ending with "%20" near "Easiest Way to Teach Your Dog to Roll Over...". This should be cleaned up.
 # AUTO: WARNING: Resources section is not wrapped in italics near "Explore how you could use knowledge and skills fro..."
 -
     requirement: 1
@@ -47,16 +46,12 @@
             text: Train a pet in three or more tricks or special abilities.
             resources:
                 -
-                    href: https://www.youtube.com/watch?v=IsJ0VdeOJcg
-                    text: Easiest Way to Teach Your Dog to Roll Over
+                    href: https://youtu.be/oX7vgQTK9fo
+                    text: Train Your Cat To Do Fun Tricks
                     type: video
                 -
-                    href: https://www.youtube.com/watch?v=oX7vgQTK9fo
-                    text: Train Your Cat to Do Fun Tricks
-                    type: video
-                -
-                    href: https://www.youtube.com/watch?v=zrDskEObBs8
-                    text: How I Trained My Cat to Fetch
+                    href: https://youtu.be/zrDskEObBs8
+                    text: How I Trained My Cat To Fetch
                     type: video
 -
     requirement: 5

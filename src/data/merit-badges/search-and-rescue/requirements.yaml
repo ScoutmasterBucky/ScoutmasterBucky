@@ -1,5 +1,5 @@
-# 6b missing trailing period
-# AUTO: WARNING: Found URL ending with ".pdf" near "Incident Command Structure..." with resource type "website". This should be "pdf".
+# 6b missing trailing period - added
+# Resource for 6e6 has (PPT) in the title but links to a PDF. Changed type to pdf and removed (PPT) from the title.
 # AUTO: WARNING: Found URL ending with ".pdf" near "Search and Rescue Glossary..." with resource type "website". This should be "pdf".
 # AUTO: WARNING: Found URL ending with ".pdf" near "Clue Awareness and Detection (PPT)..." with resource type "?". This should be "pdf".
 -
@@ -348,11 +348,6 @@
                     href: https://youtu.be/P-dPBso2xPM
                     text: Introduction to ICS
                     type: video
-                -
-                    href: >-
-                        https://www.cfsph.iastate.edu/Emergency-Response/Just-in-Time/01-Incident-Command-System-Overview-HANDOUT.pdf
-                    text: Incident Command Structure
-                    type: pdf
         -
             requirement: b
             text: |-
@@ -428,7 +423,7 @@
             requirement: b
             text: |-
                 Explain the difference between PLS (place last seen) and LKP
-                (last known point)
+                (last known point).
             resources:
                 -
                     href: http://www.sarmath.com/terms/initial-planning-point

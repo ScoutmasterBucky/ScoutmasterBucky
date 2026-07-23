@@ -1,7 +1,6 @@
 # Requirement 3 omits "Do the following:" - added it for consistency
 # 6b unnecessary comma after "plants" as it is a list with two elements
 # Resource for 8 lists "webpage" as type instead of "website" - changed for consistency
-# AUTO: WARNING: Found URL ending with "%20" near "Visualize Radioactive Decay in a Cloud Chamber...". This should be cleaned up.
 # AUTO: WARNING: Found "webpage" resource type near "7 Nuclear Careers that Don't Require an Engineerin...". This should be "website".
 -
     requirement: 1
@@ -206,7 +205,7 @@
             resources:
                 -
                     href: https://youtu.be/pewTySxfTQk
-                    text: How to Build a Cloud Chamber!
+                    text: How To Build a Cloud Chamber!
                     type: video
                 -
                     href: https://youtu.be/jh7SzrNWGhI

@@ -1,14 +1,7 @@
 # 4c1b and 4d1b uses "guidelines" while 4a1b uses "program." Consider making them consistent.
-# 4c1c is misplaced after 4c2c
 # 4 is very redundant. Consider consolidating, eg "Biking (for triathlon, duathlon, aquabike):"
-# AUTO: WARNING: Found URL ending with "%20" near "Multisport Disciplines...". This should be cleaned up.
 # AUTO: WARNING: Found URL ending with ".jpg" near "Multisport Race Options..." with resource type "pdf". This should be "image".
-# AUTO: WARNING: Found URL ending with "%20" near "Swimming Merit Badge...". This should be cleaned up.
-# AUTO: WARNING: Found URL ending with "%20" near "Swimming Merit Badge...". This should be cleaned up.
-# AUTO: WARNING: Found URL ending with "%20" near "Swimming Merit Badge...". This should be cleaned up.
 # AUTO: WARNING: Found URL ending with "%20" near "Participating in Multisport...". This should be cleaned up.
-# AUTO: WARNING: Found URL ending with "%20" near "Paralympic Triathlon...". This should be cleaned up.
-# AUTO: WARNING: Found URL ending with "%20" near "Olympic Triathlon...". This should be cleaned up.
 # AUTO: WARNING: Found URL ending with "%20" near "Training With a Club...". This should be cleaned up.
 -
     requirement: 1
@@ -602,7 +595,7 @@
                     type: video
                 -
                     href: https://youtu.be/Zh9bhXe5lug
-                    text: How to Start Swim Training
+                    text: How To Start Swim Training
                     type: video
                 -
                     href: https://youtu.be/i6-w8RXf45Y

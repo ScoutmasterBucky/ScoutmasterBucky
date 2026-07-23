@@ -125,9 +125,11 @@ let hasResources = checkRequirementsForResources(requirements);
     }
 
     <div class="center unprintable">
-        <ScaledContent>
-            <img src={info.bucky} alt="Bucky" class="wide" />
-        </ScaledContent>
+        { info.bucky && (
+            <ScaledContent>
+                <img src={info.bucky} alt="Bucky" class="wide" />
+            </ScaledContent>
+        )}
         <ScaledContent>
             <img src={info.image} alt="Merit Badge" class="wide" />
         </ScaledContent>

@@ -228,6 +228,13 @@ communication:
     ranks:
         - eagle
     # videoCode: MaopoAkAZ8s
+competitive-gaming:
+    # bucky: ...
+    image: /merit-badges/competitive-gaming/competitive-gaming.webp
+    name: Competitive Gaming
+    otherAwards: []
+    ranks: []
+    # videoCode: ...
 composite-materials:
     bucky: /merit-badges/composite-materials/composite-materials-bucky.jpg
     image: /merit-badges/composite-materials/composite-materials.png
@@ -1037,6 +1044,14 @@ wilderness-survival:
     image: /merit-badges/wilderness-survival/wilderness-survival.png
     name: Wilderness Survival
     otherAwards: []
+    ranks: []
+    # videoCode:
+wildland-fire-management:
+    # bucky: /merit-badges/wildland-fire-management/wildland-fire-management-bucky.jpg
+    image: /merit-badges/wildland-fire-management/wildland-fire-management.png
+    name: Wildland Fire Management
+    otherAwards:
+        - distinguished-conservation-service-award
     ranks: []
     # videoCode:
 wood-carving:

@@ -151,6 +151,13 @@ async function processHtmlFile(filePath: string) {
     const htmlContent = await readFile(filePath, 'utf-8');
     const { document } = parseHTML(htmlContent);
 
+    // Cycling has a stray empty link. Remove empty links.
+    for (const link of document.querySelectorAll('a')) {
+        if (!link.textContent.trim()) {
+            link.remove();
+        }
+    }
+
     for (const child of document.documentElement.children) {
         // Depth of 1 indicates the inside of the array
         processRequirement(processingFile, result, 1, child);
@@ -329,7 +336,7 @@ function processResources(
             .replace(/  +/, ' ')
             .trim();
         const match = text.match(
-            /\(\s*(pdf|photo|picture|playlist|podcast|video|web|webpage|website|website\s*\/\s*videos?|website with videos)\s*\)/i
+            /\(\s*(pdf|photo|picture|playlist|podcast|video|web|webpage|website|website\s*\/\s*videos?|website with videos|website w\/ video)\s*\)/i
         );
         let type = '?';
 

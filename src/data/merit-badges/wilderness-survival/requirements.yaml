@@ -1,6 +1,5 @@
-# 3's header has a colon. Others all use periods.
+# 3's header has a colon. Others all use periods. Updated to use a period
 # 7b has "ground-to- air" - I removed the extra space
-# AUTO: WARNING: Found URL ending with ".pdf" near "Surface to Air Visual and Body Signals..." with resource type "website". This should be "pdf".
 -
     requirement: 1
     text: '<b>Hazards and First Aid.</b> Do the following:'
@@ -207,7 +206,7 @@
 -
     requirement: 3
     text: |-
-        <b>Avoiding Panic:</b> Describe ways to avoid panic and to maintain a
+        <b>Avoiding Panic.</b> Describe ways to avoid panic and to maintain a
         high level of morale when lost, and explain why this is important.
     resources:
         -
@@ -383,12 +382,8 @@
             resources:
                 -
                     href: https://youtu.be/X8j5NC7Bqq4
-                    text: How to Signal for Ground Rescue
+                    text: How To Signal for Ground Rescue
                     type: video
-                -
-                    href: http://www.cap-es.net/zips/gnd2airsignals.PDF
-                    text: Surface to Air Visual and Body Signals
-                    type: pdf
                 -
                     href: https://youtu.be/0Y4pG_mN7Ek
                     text: Distress Signals for Water Emergencies
@@ -404,7 +399,7 @@
         -
             requirement: c
             text: |-
-                Describe from memory five ground-to- air signals and tell what
+                Describe from memory five ground-to-air signals and tell what
                 they mean.
 -
     requirement: 8

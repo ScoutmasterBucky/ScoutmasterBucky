@@ -1,6 +1,5 @@
 # 6a: "whehre" changed to "where"
 # 7b says "DO ALL" - corrected to "Do ALL"
-# AUTO: WARNING: Found URL ending with "%20" near "How to Prevent Injuries...". This should be cleaned up.
 -
     requirement: 1
     text: 'Do the following:'
@@ -15,12 +14,12 @@
             resources:
                 -
                     href: https://youtu.be/AKxY8Xm-Gg0
-                    text: How to Ski Safely
+                    text: How To Ski Safely
                     type: video
                 -
                     href: >-
                         https://centerforspineandortho.com/common-skiing-and-snowboarding-injuries-and-how-to-prevent-them/
-                    text: How to Prevent Injuries
+                    text: How To Prevent Injuries
                     type: website
         -
             requirement: b
@@ -274,7 +273,7 @@
                             type: video
         -
             text: |-
-                <strong>Option B—Cross-Country (Nordic) Skiing.</strong> DO ALL
+                <strong>Option B—Cross-Country (Nordic) Skiing.</strong> Do ALL
                 of the following:
             children:
                 -

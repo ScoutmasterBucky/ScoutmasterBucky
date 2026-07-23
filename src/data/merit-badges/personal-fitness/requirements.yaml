@@ -1,7 +1,5 @@
 # Requirement 6 is missing the period after "6"
-# AUTO: WARNING: Found URL ending with "%20" near "Body Mass Index (BMI) Calculator...". This should be cleaned up.
 # AUTO: WARNING: Found resource type with extra whitespace or capitalization near "Muscular Strength...". This should be cleaned up from " video" to "video".
-# AUTO: WARNING: Found URL ending with "%20" near "The MyPlate Quiz...". This should be cleaned up.
 -
     requirement: 1
     text: |-
@@ -379,8 +377,8 @@
                 and nutrition
             resources:
                 -
-                    href: https://www.myplate.gov/form/myplate-quiz#question_1
-                    text: The MyPlate Quiz
+                    href: https://ssec.si.edu/pick-your-plate
+                    text: Pick Your Plate Game
                     type: website
 -
     requirement: 7

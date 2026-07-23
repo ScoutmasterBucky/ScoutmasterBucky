@@ -1,13 +1,17 @@
+# Removed leading periods and fixed newlines in requirement 1
 -
     requirement: 1
     text: >-
         View the <a
-
         href="https://www.scouting.org/training/youth-protection/scouts-bsa/">Personal
-
-        Safety Awareness "Digital Safety" video </a>(with your parent or
-
+        Safety Awareness "Digital Safety" video</a> (with your parent or
         guardian's permission).
+    resources:
+        -
+            href: >-
+                https://filestore.scouting.org/filestore/YPSAT/YT%20Mod1%20Final%20Master%20Small.mp4
+            text: Personal Safety Awareness
+            type: video
 -
     requirement: 2
     text: 'Do the following:'

@@ -119,7 +119,7 @@
   <div
     data-particle_enable="false"
     data-particle-mobile-disabled="false"
-    class="elementor-element elementor-element-ae6a0ad e-con-full e-ecs-flex e-flex e-con e-child"
+    class="elementor-element elementor-element-ae6a0ad e-con-full elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-ecs-flex e-flex e-con e-child"
     data-id="ae6a0ad"
     data-element_type="container"
     data-e-type="container"
@@ -172,9 +172,7 @@
     >
       <div class="elementor-widget-container">
         <span class="elementor-heading-title elementor-size-default"
-          ><a href="/skills/merit-badges/test-lab/wildland-fire-management/"
-            >Wildland Fire Management</a
-          ></span
+          ><a href="#">Wildland Fire Management</a></span
         >
       </div>
     </div>
@@ -543,9 +541,7 @@
     >
       <div class="elementor-widget-container">
         <span class="elementor-heading-title elementor-size-default"
-          ><a href="/skills/merit-badges/test-lab/competitive-gaming/"
-            >Competitive Gaming</a
-          ></span
+          ><a href="#">Competitive Gaming</a></span
         >
       </div>
     </div>

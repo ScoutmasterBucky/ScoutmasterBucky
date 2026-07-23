@@ -1,6 +1,4 @@
 # AUTO: WARNING: Found URL ending with ".docx" near "Download a Communication Log Template..." with resource type "pdf". This should be "docx".
-# AUTO: WARNING: Found URL ending with "%20" near "Communicating While Scuba Diving...". This should be cleaned up.
-# AUTO: WARNING: Found URL ending with "%20" near "Link To Write to the Editors of <i>Scout Life</i>...". This should be cleaned up.
 -
     requirement: 1
     text: 'Do ONE of the following:'
@@ -108,7 +106,7 @@
             resources:
                 -
                     href: https://scoutlife.org/the-emoji-scout-law/
-                    text: Using Emojis to Communicate the Scout Law
+                    text: Using Emojis To Communicate the Scout Law
                     type: website
                 -
                     href: https://youtu.be/xyH79KQET5E
@@ -116,7 +114,7 @@
                     type: video
                 -
                     href: https://youtu.be/KVbRQ0cE0Ok
-                    text: How to Use Visual Aids for Public Speaking
+                    text: How To Use Visual Aids for Public Speaking
                     type: video
         -
             requirement: b

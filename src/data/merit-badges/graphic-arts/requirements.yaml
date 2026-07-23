@@ -1,6 +1,5 @@
-# 6a, changed "plant: Follow" to "plant. Follow" to match 6b, 6c, 6d
+# 6a, changed "plant: Follow" to "plant. Follow" to match 6b, 6c, 6d and to make sense as it's not bolded or a heading.
 # AUTO: WARNING: Resources section is not wrapped in italics near "Produce the design you created for requirement 3 u..."
-# AUTO: WARNING: Found URL ending with "%20" near "How Are Newspapers Made?...". This should be cleaned up.
 # AUTO: WARNING: Found URL ending with "%20" near "Flexographic Printing Basics...". This should be cleaned up.
 -
     requirement: 1
@@ -158,11 +157,7 @@
             resources:
                 -
                     href: https://youtu.be/MrWP2z8I0Qk
-                    text: How <i>The New York Times</i> Is Made
-                    type: video
-                -
-                    href: https://www.youtube.com/watch?v=dEqMu7IVURE
-                    text: How Are Newspapers Made?
+                    text: How The New York Times Is Made
                     type: video
         -
             requirement: b

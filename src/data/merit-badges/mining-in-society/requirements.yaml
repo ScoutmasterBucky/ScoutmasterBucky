@@ -1,4 +1,4 @@
-# 7a - removed space after dangling hyphen, "near- Earth"
+# 5e - duplicated text
 -
     requirement: 1
     text: 'Do the following:'
@@ -10,10 +10,6 @@
                 which the mineral is used.
             resources:
                 -
-                    href: https://youtu.be/MAlx87jEohs
-                    text: How We Use Rocks and Minerals in Everyday Life
-                    type: video
-                -
                     href: https://youtu.be/lMTQb7KN5vQ
                     text: The One Metal All of Humanity Depends On
                     type: video
@@ -24,16 +20,12 @@
                 -
                     href: https://youtu.be/nhxycg_iYEQ
                     text: |-
-                        The Six Elements That Your Life Depends on! | Platinum
+                        The Six Elements That Your Life Depends On! | Platinum
                         Group Metals
                     type: video
                 -
                     href: https://www.youtube.com/shorts/PL3LCSRuvJA
                     text: How Is Aluminum Made
-                    type: video
-                -
-                    href: https://youtu.be/7foK-wVNSMw
-                    text: Minnesota Iron Mining Process
                     type: video
                 -
                     href: https://www.youtube.com/shorts/OIl_yWe1kMY
@@ -56,11 +48,6 @@
                 From the list of minerals you chose for requirement 1(a),
                 determine the countries where those minerals can be found, and
                 discuss what you learned with your counselor.
-            resources:
-                -
-                    href: https://www.mapsofworld.com/world-mineral-map.htm
-                    text: World Mineral Map
-                    type: website
 -
     requirement: 2
     text: |-
@@ -69,26 +56,12 @@
         Find out what resource is processed at each location, and identify the
         mine as a surface or underground operation. Discuss with your counselor
         how the resources mined at these locations are used.
-    resources:
-        -
-            href: https://thediggings.com/
-            text: Discover Mining Claims
-            type: website
-        -
-            href: https://wwwn.cdc.gov/niosh-mining/MMWC/MineMap
-            text: Active Mine Operations
-            type: website
 -
     requirement: 3
     text: |-
         Discuss with your counselor the potential hazards a miner may encounter
         at an active mine and the protective measures used by miners. In your
         discussion, explain how:
-    resources:
-        -
-            href: https://www.cdc.gov/niosh/mining/topics/index.html
-            text: Mining Heatlh &amp; Safety Topics
-            type: website
     children:
         -
             requirement: a
@@ -167,11 +140,6 @@
                 permitting, types of equipment used, and the minerals produced.
                 Discuss with your counselor what you learned from your
                 internet-based mine tours.
-            resources:
-                -
-                    href: https://youtu.be/jK4R4LuBZsw
-                    text: Clay County Colorado Gold Mine Virtual Tour
-                    type: video
         -
             requirement: b
             text: |-
@@ -180,12 +148,6 @@
                 out about the history of the museum's exhibit and the type of
                 mining it represents. Give three examples of how mineral
                 resources have influenced history.
-            resources:
-                -
-                    href: >-
-                        https://whichmuseum.com/place/united-states-2682?q=mining
-                    text: Mining Museums in the US
-                    type: website
         -
             requirement: c
             text: |-
@@ -225,6 +187,10 @@
                 -
                     href: https://youtu.be/US2BB4MrS00
                     text: 'Materials (Part 1: Smelting and Refining Iron and Steel)'
+                    type: video
+                -
+                    href: https://youtu.be/7foK-wVNSMw
+                    text: Minnesota Iron Mining Process
                     type: video
         -
             requirement: f
