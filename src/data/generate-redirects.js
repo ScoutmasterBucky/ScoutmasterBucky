@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 
-import YAML from 'js-yaml';
+import { load } from 'js-yaml';
 import fs from 'fs';
 
 const data = fs.readFileSync('./merit-badges.yaml', 'utf8');
-const meritBadges = YAML.load(data);
+const meritBadges = load(data);
 let content = '';
 
 for (const [key, badge] of Object.entries(meritBadges)) {

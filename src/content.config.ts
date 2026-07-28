@@ -1,6 +1,5 @@
 import { defineCollection, z } from 'astro:content';
 import { glob as globLoader, file as fileLoader } from 'astro/loaders';
-import yaml from 'js-yaml';
 
 interface Resource {
     href?: string;

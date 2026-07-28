@@ -11,7 +11,6 @@ const { badge, badge2 } = Astro.props.frontmatter || Astro.props;
 const badgeInfo = (await getEntry('meritBadges', badge))?.data;
 const badge2Info = badge2 ? (await getEntry('meritBadges', badge2))?.data : null;
 ---
-</script>
 
 {badge2Info && (
     <div class="scaled">
