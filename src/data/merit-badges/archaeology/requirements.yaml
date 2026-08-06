@@ -1,133 +1,106 @@
 # Requirement 7c: "Make a list of the trash your family throws out during one week." Should be "throws out for one week"
 # Requirement 10a: "Describe ... the steps of archaeological inquiry." but the steps are not in the pamphlet.
 # Requirement 10b: Also mentions "steps of archaeological inquiry"
--
-    requirement: 1
+-   requirement: 1
     text: |-
         Tell what archaeology is and explain to your counselor how it differs or
         relates to other fields of study such as anthropology, geology,
         paleontology, and history. Explain how archaeology is different than
         artifact collecting or treasure hunting.
     resources:
-        -
-            href: https://youtu.be/qdjZnVgjfCo
+        -   href: https://youtu.be/qdjZnVgjfCo
             text: 'Archaeology: Digging Into the Past'
             type: video
-        -
-            href: https://youtu.be/-YOgQEP8Q5k
+        -   href: https://youtu.be/-YOgQEP8Q5k
             text: Archaeology vs Anthropology—What's the Real Difference?
             type: video
-        -
-            href: https://youtu.be/q6OjU8UvY54
+        -   href: https://youtu.be/q6OjU8UvY54
             text: Know Your Scientists! Archaeology or Paleontology?
             type: video
--
-    requirement: 2
+-   requirement: 2
     text: |-
         Describe the following steps of the archaeological process: site
         location, development of background research and a research design, site
         survey and fieldwork, artifact identification and examination,
         interpretation, preservation, and information sharing.
     resources:
-        -
-            href: https://youtu.be/9Y9HYxpj9v0
+        -   href: https://youtu.be/9Y9HYxpj9v0
             text: Archaeologist Explains How We Know Where To Dig
             type: video
-        -
-            href: https://youtu.be/u6rKQqZygls
+        -   href: https://youtu.be/u6rKQqZygls
             text: 'Archaeology Project Step 1: Research Design'
             type: video
-        -
-            href: https://youtu.be/b6jFkEbbAss
+        -   href: https://youtu.be/b6jFkEbbAss
             text: Archeological Surveys
             type: video
-        -
-            href: https://youtu.be/PcT1vGyJzyg
+        -   href: https://youtu.be/PcT1vGyJzyg
             text: 'The Excavation Process: How We Excavate'
             type: video
-        -
-            href: https://youtu.be/DZ0Y9dY1Q4A
+        -   href: https://youtu.be/DZ0Y9dY1Q4A
             text: Archaeological Artifact Processing
             type: video
-        -
-            href: https://youtu.be/LIzwQHukE8g
+        -   href: https://youtu.be/LIzwQHukE8g
             text: 'Archaeology Project Step 5: Interpretation'
             type: video
-        -
-            href: >-
+        -   href: >-
                 https://popular-archaeology.com/article/how-do-modern-archaeologists-communicate-discoveries-to-the-public-in-the-digital-age/
             text: |-
                 How Do Modern Archaeologists Communicate Discoveries to the
                 Public in the Digital Age?
             type: website
--
-    requirement: 3
+-   requirement: 3
     text: |-
         Describe at least two ways in which archaeologists determine the age of
         sites, structures, or artifacts. Explain what absolute dating and
         relative dating are.
     resources:
-        -
-            href: https://youtu.be/iUQ4C5bfBVE
+        -   href: https://youtu.be/iUQ4C5bfBVE
             text: What Is the Stratigraphic Record of a Site?
             type: video
-        -
-            href: https://youtu.be/phZeE7Att_s
+        -   href: https://youtu.be/phZeE7Att_s
             text: How Does Radiocarbon Dating Work?
             type: video
-        -
-            href: https://youtu.be/4fBQgO3BuFw
+        -   href: https://youtu.be/4fBQgO3BuFw
             text: Relative vs Absolute Dating
             type: video
--
-    requirement: 4
+-   requirement: 4
     text: |-
         Learn about a combined total of five archaeological sites located both
         within and outside the United States.
     resources:
-        -
-            href: https://youtu.be/2sH-MRmXKgo
+        -   href: https://youtu.be/2sH-MRmXKgo
             text: 5 Most Amazing Archaeology Sites in the USA
             type: video
-        -
-            href: https://youtu.be/Ze2H0fH-2zw
+        -   href: https://youtu.be/Ze2H0fH-2zw
             text: 6 Archaeology Sites You've Never Heard of in the USA
             type: video
-        -
-            href: https://youtu.be/5QeWAamv7pU
+        -   href: https://youtu.be/5QeWAamv7pU
             text: Mesa Verde National Park
             type: video
-        -
-            href: https://youtu.be/cnMa-Sm9H4k
+        -   href: https://youtu.be/cnMa-Sm9H4k
             text: Machu Picchu
             type: video
-        -
-            href: https://youtu.be/A6LgLMTYS_0
+        -   href: https://youtu.be/A6LgLMTYS_0
             text: Touring the Hidden World of Cahokia, America's First City
             type: video
-        -
-            href: https://youtu.be/TMkoX1kfyDs
+        -   href: https://youtu.be/TMkoX1kfyDs
             text: |-
                 The Evolution of Ancient Egypt's Pyramids | Lost Treasures of
                 Egypt
             type: video
-        -
-            href: https://youtu.be/kq5fHCGOU7U
+        -   href: https://youtu.be/kq5fHCGOU7U
             text: What Is Stonehenge?
             type: video
-        -
-            href: https://youtu.be/4c_ADqshdSA
+        -   href: https://youtu.be/4c_ADqshdSA
             text: |-
                 Terracotta Army: The Greatest Archaeological Find of the 20th
                 Century
             type: video
-        -
-            href: https://youtu.be/2TyBTYZl4yE
+        -   href: https://youtu.be/2TyBTYZl4yE
             text: Underwater Lost City in England | Lost Cities With Albert Lin
             type: video
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: |-
                 For EACH site you research, point it out on a map and explain
                 how it became known to archaeologists. Describe some of the
@@ -136,118 +109,96 @@
                 answers questions that archaeologists are asking and how the
                 information may be important to modern people. Compare the
                 relative ages of the sites you research.
-        -
-            requirement: b
+        -   requirement: b
             text: |-
                 Choose ONE of the sites you picked and give a short presentation
                 about your findings to a Cub Scout pack, your Scout troop, your
                 school class, or another group.
--
-    requirement: 5
+-   requirement: 5
     text: 'Do the following:'
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: |-
                 Learn about the federal laws and international conventions that
                 protect archaeological sites. Find out if your state, county, or
                 local government has regulations that apply to archaeological or
                 historic sites.
             resources:
-                -
-                    href: >-
+                -   href: >-
                         https://www.nps.gov/subjects/archeology/laws-regulations-guidelines.htm
                     text: Laws, Regulations, &amp; Guidelines
                     type: website
-        -
-            requirement: b
+        -   requirement: b
             text: |-
                 Identify a national, international, or local organization that
                 helps to protect archaeological sites.
             resources:
-                -
-                    href: https://smarthistory.org/preserve-cultural-heritage/
+                -   href: https://smarthistory.org/preserve-cultural-heritage/
                     text: |-
                         Organizations and Agencies that Work to Protect Cultural
                         Heritage
                     type: website
--
-    requirement: 6
+-   requirement: 6
     text: 'Do the following:'
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: Explain why it is important to protect archaeological sites.
             resources:
-                -
-                    href: https://youtu.be/dkM6A_nZJa8
+                -   href: https://youtu.be/dkM6A_nZJa8
                     text: Ethics in Archeology
                     type: video
-        -
-            requirement: b
+        -   requirement: b
             text: |-
                 Explain what people should do if they think they have found an
                 artifact.
             resources:
-                -
-                    href: https://youtu.be/g64uYmBl6Us
+                -   href: https://youtu.be/g64uYmBl6Us
                     text: What Do You Do with a Found Artifact?
                     type: video
-        -
-            requirement: c
+        -   requirement: c
             text: Describe the ways in which you can be a protector of the past.
             resources:
-                -
-                    href: https://youtu.be/G9ab9d0FCdY
+                -   href: https://youtu.be/G9ab9d0FCdY
                     text: The Secret That Saved Kartchner Caverns
                     type: video
-                -
-                    href: https://youtu.be/IOk5etJDvhU
+                -   href: https://youtu.be/IOk5etJDvhU
                     text: |-
                         Protecting Archaeology Sites in Illinois: Mission
                         Possible
                     type: video
--
-    requirement: 7
+-   requirement: 7
     text: 'Do ONE of the following and discuss your findings with your counselor:'
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: |-
                 Visit a museum to observe how artifacts aid in conveying
                 history.
             resources:
-                -
-                    href: >-
+                -   href: >-
                         https://whichmuseum.com/place/united-states-2682/t-archaeology
                     text: Archaeology Museums in the US
                     type: website
-        -
-            requirement: b
+        -   requirement: b
             text: |-
                 Present to your counselor a significant family artifact/heirloom
                 and discuss its history.
-        -
-            requirement: c
+        -   requirement: c
             text: |-
                 Make a list of the trash your family throws out during one week.
                 Discuss with your counselor what archaeologists might learn
                 about you and your family if they found your trash a thousand
                 years from now.
             resources:
-                -
-                    href: https://youtu.be/FQFmWmllmwI
+                -   href: https://youtu.be/FQFmWmllmwI
                     text: |-
                         Why Archaeologists Are Obsessed With Ancient Trash (Top
                         10 Finds)
                     type: video
-                -
-                    href: >-
+                -   href: >-
                         https://republicofarchaeology.ca/digit/2023/6/2/the-garbage-project
                     text: The Garbage Project
                     type: website
--
-    requirement: 8
+-   requirement: 8
     text: |-
         Research a group of people who lived in your area more than 100 years
         ago. Find out about their ways of life, including housing, clothing,
@@ -256,8 +207,7 @@
         Describe what you would expect to find at an archaeological site where
         these people lived. Explain how these people influenced your current
         community.
--
-    requirement: 9
+-   requirement: 9
     text: |-
         Explore careers related to this merit badge. Research one career to
         learn about the training and education needed, costs, job prospects,
@@ -268,38 +218,30 @@
         both your findings and what about this profession might make it an
         interesting career.
     resources:
-        -
-            href: https://youtu.be/O70O6twDYmU
+        -   href: https://youtu.be/O70O6twDYmU
             text: Jobs Breakdown in Archaeology
             type: video
-        -
-            href: https://youtu.be/XIOs9gPJ56Q
+        -   href: https://youtu.be/XIOs9gPJ56Q
             text: How to Become an Archaeologist
             type: video
-        -
-            href: https://youtu.be/bfFaesQQ7IA
+        -   href: https://youtu.be/bfFaesQQ7IA
             text: How I Became an Archaeologist
             type: video
-        -
-            href: https://youtu.be/ywNy_WARJWk
+        -   href: https://youtu.be/ywNy_WARJWk
             text: How To Become An Underwater Archaeologist
             type: video
-        -
-            href: >-
+        -   href: >-
                 https://www.bls.gov/ooh/Life-Physical-and-Social-Science/Anthropologists-and-archeologists.htm
             text: Anthropologists and Archeologists Occupational Outlook
             type: website
--
-    requirement: 10
+-   requirement: 10
     text: 'Do ONE of the following:'
     resources:
-        -
-            href: https://youtu.be/H90EOX7mbs8
+        -   href: https://youtu.be/H90EOX7mbs8
             text: Volunteering in Archaeology
             type: video
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: |-
                 With your parent or guardian's and counselor's permission,
                 assist a qualified archaeologist for at least eight hours with a
@@ -314,8 +256,7 @@
                 dangerous place. While there, you will need to closely follow
                 the archaeologist's directions and comply with all the safety
                 procedures. Be aware of the changing conditions at the site.</i>
-        -
-            requirement: b
+        -   requirement: b
             text: |-
                 With your counselor's approval, take part in a simulated
                 archaeological project designed by a qualified archaeologist.
@@ -335,19 +276,16 @@
                 trained avocational archaeologist, museum school instructor,
                 science teacher, advisor from a local archaeology society, or
                 other qualified instructor.</i>
--
-    requirement: 11
+-   requirement: 11
     text: |-
         Under the supervision of a qualified archaeologist or instructor, do ONE
         of the following:
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: |-
                 Help prepare an archaeological exhibit for display in a museum,
                 visitor center, school, or other public area.
-        -
-            requirement: b
+        -   requirement: b
             text: |-
                 Use the methods of experimental archaeology to re-create an item
                 or to practice a skill from the past. Write a brief report

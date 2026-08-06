@@ -92,15 +92,19 @@ async function main() {
         process.exit(0);
     }
 
-    if (positionals.length !== 1) {
-        console.error('Error: Exactly one input file must be specified.');
+    if (positionals.length < 1) {
+        console.error('Error: One or more input files must be specified.');
         process.exit(1);
     }
 
     for (const filePath of positionals) {
-        const yaml = await processHtmlFile(positionals[0]);
+        console.log(`Processing ${filePath}...`);
+        const yaml = await processHtmlFile(filePath);
 
         if (values.write) {
+            for (const match of yaml.matchAll(/^(#.*)$/gm)) {
+                console.log(match[1]);
+            }
             await writeFile(
                 join(dirname(filePath), 'requirements.yaml'),
                 yaml,
@@ -298,6 +302,13 @@ function processSingleRequirement(
     if (matchResources) {
         const [before, after] = html.split(matchResources[0]);
         html = before.trim();
+
+        if (!html.match(/<br>$/)) {
+            processingFile.warn(
+                `Resources section is not on a new line near "${html.substring(0, 50)}..."`
+            );
+        }
+
         resources = [];
         processResources(processingFile, resources, depth + 2, after);
     }
@@ -336,7 +347,7 @@ function processResources(
             .replace(/  +/, ' ')
             .trim();
         const match = text.match(
-            /\(\s*(pdf|photo|picture|playlist|podcast|video|web|webpage|website|website\s*\/\s*videos?|website with videos|website w\/ video)\s*\)/i
+            /\(\s*(app|pdf|photo|picture|playlist|podcast|video|web|webpage|website|website\s*\/\s*videos?|website with videos|website w\/ video)\s*\)/i
         );
         let type = '?';
 

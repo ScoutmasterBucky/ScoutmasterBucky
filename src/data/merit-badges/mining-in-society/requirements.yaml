@@ -1,137 +1,110 @@
-# 5e - duplicated text
--
-    requirement: 1
+-   requirement: 1
     text: 'Do the following:'
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: |-
                 Select 10 different minerals. For each one, name a product for
                 which the mineral is used.
             resources:
-                -
-                    href: https://youtu.be/lMTQb7KN5vQ
+                -   href: https://youtu.be/lMTQb7KN5vQ
                     text: The One Metal All of Humanity Depends On
                     type: video
-                -
-                    href: https://youtu.be/dqMY6sdVqf8
+                -   href: https://youtu.be/dqMY6sdVqf8
                     text: What Is Tungsten Used For?
                     type: video
-                -
-                    href: https://youtu.be/nhxycg_iYEQ
+                -   href: https://youtu.be/nhxycg_iYEQ
                     text: |-
                         The Six Elements That Your Life Depends On! | Platinum
                         Group Metals
                     type: video
-                -
-                    href: https://www.youtube.com/shorts/PL3LCSRuvJA
+                -   href: https://www.youtube.com/shorts/PL3LCSRuvJA
                     text: How Is Aluminum Made
                     type: video
-                -
-                    href: https://www.youtube.com/shorts/OIl_yWe1kMY
+                -   href: https://www.youtube.com/shorts/OIl_yWe1kMY
                     text: Highest Purity Silica from Spruce Pines NC
                     type: video
-        -
-            requirement: b
+        -   requirement: b
             text: |-
                 Explain the role mining has in producing and processing things
                 that are grown.
             resources:
-                -
-                    href: >-
+                -   href: >-
                         https://www.weforum.org/stories/2024/02/how-mining-could-help-scale-up-food-production/
                     text: How Mining Could Help Scale Up Global Food Production
                     type: website
-        -
-            requirement: c
+        -   requirement: c
             text: |-
                 From the list of minerals you chose for requirement 1(a),
                 determine the countries where those minerals can be found, and
                 discuss what you learned with your counselor.
--
-    requirement: 2
+-   requirement: 2
     text: |-
         Obtain a map of your state or region showing major cities, highways,
         rivers, and railroads. Mark the locations of five mining enterprises.
         Find out what resource is processed at each location, and identify the
         mine as a surface or underground operation. Discuss with your counselor
         how the resources mined at these locations are used.
--
-    requirement: 3
+-   requirement: 3
     text: |-
         Discuss with your counselor the potential hazards a miner may encounter
         at an active mine and the protective measures used by miners. In your
         discussion, explain how:
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: |-
                 The miner's personal protective equipment is worn and used,
                 including a hard hat, safety glasses, earplugs, dust mask or
                 respirator, self-rescue device, and high-visibility vest.
             resources:
-                -
-                    href: https://youtu.be/w0mrsEWWWmQ
+                -   href: https://youtu.be/w0mrsEWWWmQ
                     text: 12 Critical Types of PPE for Mining
                     type: video
-        -
-            requirement: b
+        -   requirement: b
             text: |-
                 Miners protect their hands and feet from impact, pinch,
                 vibration, slipping, and tripping/falling hazards.
             resources:
-                -
-                    href: >-
+                -   href: >-
                         https://www.cdc.gov/niosh/mining/topics/handfingerinjuries.html
                     text: Mining Hand and Finger Injuries
                     type: website
-        -
-            requirement: c
+        -   requirement: c
             text: |-
                 Monitoring equipment warns miners of imminent danger, and how
                 robots, drones, and other technology may be used in mine
                 rescues.
             resources:
-                -
-                    href: https://youtu.be/ABMuOXPd0dc
+                -   href: https://youtu.be/ABMuOXPd0dc
                     text: Why Mining Is More Advanced Than You Think!
                     type: video
-                -
-                    href: https://youtu.be/K0espL8dKa4
+                -   href: https://youtu.be/K0espL8dKa4
                     text: |-
                         IoT Based Coal Mine Safety Monitoring &amp; Alert Using
                         ESP8266
                     type: video
-                -
-                    href: https://youtu.be/IgeHOZHkAOU
+                -   href: https://youtu.be/IgeHOZHkAOU
                     text: Inside Rio Tinto's Most Advanced Mine
                     type: video
-                -
-                    href: https://youtu.be/hHCMQm6NSUU
+                -   href: https://youtu.be/hHCMQm6NSUU
                     text: |-
                         Smart Mining in Canada: How New Technologies Are
                         Transforming the Mining Industry
                     type: video
-                -
-                    href: https://youtu.be/0Q74aSzXYoA
+                -   href: https://youtu.be/0Q74aSzXYoA
                     text: How Drones Are Changing Mining
                     type: video
--
-    requirement: 4
+-   requirement: 4
     text: |-
         Discuss with your counselor the dangers someone might encounter at an
         abandoned mine or quarry.
     resources:
-        -
-            href: https://youtu.be/x-xCUrfTAvE
+        -   href: https://youtu.be/x-xCUrfTAvE
             text: Abandoned Mine Safety Training—Stay Out, Stay Alive
             type: video
--
-    requirement: 5
+-   requirement: 5
     text: 'Do ONE of the following:'
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: |-
                 With your parent or guardian's approval and your counselor's
                 assistance, use the internet to find and take a virtual tour of
@@ -140,16 +113,14 @@
                 permitting, types of equipment used, and the minerals produced.
                 Discuss with your counselor what you learned from your
                 internet-based mine tours.
-        -
-            requirement: b
+        -   requirement: b
             text: |-
                 With your parent or guardian's permission and counselor's
                 approval, visit a mining or minerals exhibit at a museum. Find
                 out about the history of the museum's exhibit and the type of
                 mining it represents. Give three examples of how mineral
                 resources have influenced history.
-        -
-            requirement: c
+        -   requirement: c
             text: |-
                 With your parent or guardian's permission and counselor's
                 approval, visit an active mine. Find out about the tasks
@@ -157,8 +128,7 @@
                 resource mined at that site. Take photographs, if allowed, and
                 request brochures from your visit. Share photos, brochures, and
                 what you have learned with your counselor.
-        -
-            requirement: d
+        -   requirement: d
             text: |-
                 With your parent or guardian's permission and counselor's
                 approval, visit a mining equipment manufacturer or supplier.
@@ -167,33 +137,27 @@
                 photographs if allowed, and request brochures from your visit.
                 Share photos, brochures, and what you have learned with your
                 counselor.
-        -
-            requirement: e
+        -   requirement: e
             text: |-
                 Discuss with your counselor two methods used to reduce rock in
                 size, one of which uses a chemical process to extract a mineral.
                 Explain the difference between smelting and refining.
             resources:
-                -
-                    href: https://youtu.be/IgFo8Yi9k74
+                -   href: https://youtu.be/IgFo8Yi9k74
                     text: What Is Mineral Processing?
                     type: video
-                -
-                    href: https://youtu.be/X7mIXsr3LGc
+                -   href: https://youtu.be/X7mIXsr3LGc
                     text: |-
                         How Gold Is Extracted From Ore | Heap Leaching Explained
                         Step-by-Step
                     type: video
-                -
-                    href: https://youtu.be/US2BB4MrS00
+                -   href: https://youtu.be/US2BB4MrS00
                     text: 'Materials (Part 1: Smelting and Refining Iron and Steel)'
                     type: video
-                -
-                    href: https://youtu.be/7foK-wVNSMw
+                -   href: https://youtu.be/7foK-wVNSMw
                     text: Minnesota Iron Mining Process
                     type: video
-        -
-            requirement: f
+        -   requirement: f
             text: |-
                 Learn about the history of a local mine, including what is or
                 was mined there, how the deposit was found, the mining
@@ -202,67 +166,54 @@
                 business person how mining has affected your community. Note any
                 social, cultural, or economic consequences of mining in your
                 area. Share what you have learned with your counselor.
--
-    requirement: 6
+-   requirement: 6
     text: 'Do the following:'
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: |-
                 Choose a modern mining site. Find out what is being done to help
                 control environmental impacts. Share what you have learned about
                 mining and sustainability.
             resources:
-                -
-                    href: https://youtu.be/MsddhUdiY1I
+                -   href: https://youtu.be/MsddhUdiY1I
                     text: |-
                         How Is Environmental Impact Management in Mining
                         Changing?
                     type: video
-        -
-            requirement: b
+        -   requirement: b
             text: |-
                 Explain reclamation as it is used in mining and how mine
                 reclamation pertains to the Leave No Trace Seven Principles and
                 the Outdoor Code.
             resources:
-                -
-                    href: https://youtu.be/uYw06osVLMI
+                -   href: https://youtu.be/uYw06osVLMI
                     text: What Happens to a Mine After It Is Closed?
                     type: video
-        -
-            requirement: c
+        -   requirement: c
             text: |-
                 Discuss with your counselor what values society has about
                 returning the land to the benefit of wildlife and people after
-                mining has ended. Discuss the transformation of the Scouting
-                America's Summit Bechtel Family National Scout Reserve from a
-                mine site to its current role.
+                mining has ended. Discuss the transformation of the Summit
+                Bechtel Reserve from a mine site to its current role.
             resources:
-                -
-                    href: https://youtu.be/J7DIJA9Me_M
+                -   href: https://youtu.be/J7DIJA9Me_M
                     text: From Mine Lands to Forests
                     type: video
-                -
-                    href: https://youtu.be/tp_hIh6nHFE
+                -   href: https://youtu.be/tp_hIh6nHFE
                     text: |-
                         Mine Rehabilitation: An Ecological Rehabilitation Case
                         Study at Mount Owen Mine, Hunter Valley, NSW
                     type: video
-                -
-                    href: >-
+                -   href: >-
                         https://www.einpresswire.com/article/641336423/from-coal-to-conservation-the-remarkable-transformation-of-summit-bechtel-reserve-site-of-bsa-s-2023-national-jamboree
                     text: |-
                         From Coal to Conservation: The Remarkable Transformation
-                        of Summit Bechtel Reserve, Site of BSA's 2023 National
-                        Jamboree
+                        of the Summit Bechtel Reserve
                     type: website
--
-    requirement: 7
+-   requirement: 7
     text: 'Do ONE of the following:'
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: |-
                 Explore the anticipated benefits of interplanetary mining. Learn
                 how NASA and private investors may search for, extract, and
@@ -274,12 +225,10 @@
                 exploring, collecting, and analyzing surface or near-surface
                 samples in space.
             resources:
-                -
-                    href: https://youtu.be/MkpAsSf2bJs
+                -   href: https://youtu.be/MkpAsSf2bJs
                     text: 'Asteroid Mining: How Would It Actually Work?'
                     type: video
-        -
-            requirement: b
+        -   requirement: b
             text: |-
                 Identify three minerals found dissolved in seawater or found on
                 the ocean floor, and list three places where the ocean is mined
@@ -290,42 +239,35 @@
                 sustainability problems arise from mining the oceans. Discuss
                 what you learned with your counselor.
             resources:
-                -
-                    href: https://youtu.be/rRiLzmWkeu8
+                -   href: https://youtu.be/rRiLzmWkeu8
                     text: |-
                         Deep Sea Mining for Beginners—How Does Deep Sea Mining
                         Work?
                     type: video
-        -
-            requirement: c
+        -   requirement: c
             text: |-
                 Learn what metals and minerals are recycled after their original
                 use has ended. List four metals and two nonmetals, and find out
                 how each can be recycled. Find out how recycling affects the
                 sustainability of natural resources and how this idea is related
-                to mining. Discuss what you learn with your counselor.
+                to mining. Discuss what you learned with your counselor.
             resources:
-                -
-                    href: https://youtu.be/rRiLzmWkeu8
+                -   href: https://youtu.be/rRiLzmWkeu8
                     text: |-
                         Deep Sea Mining for Beginners—How Does Deep Sea Mining
                         Work?
                     type: video
-                -
-                    href: >-
+                -   href: >-
                         https://taylorsjunkyard.com/blog/what-metals-can-be-recycled/
                     text: Types of Metals That Can Be Recycled
                     type: website
-                -
-                    href: https://youtu.be/Zq6LEeylTGg
+                -   href: https://youtu.be/Zq6LEeylTGg
                     text: How Mining Contributes to UN SDG Part 1
                     type: video
-                -
-                    href: https://youtu.be/cR-MB84XuVU
+                -   href: https://youtu.be/cR-MB84XuVU
                     text: Can Recycling Metals Replace Mining?
                     type: video
-        -
-            requirement: d
+        -   requirement: d
             text: |-
                 With your parent or guardian's permission, use the internet and
                 other resources to determine the current price of gold, copper,
@@ -333,17 +275,14 @@
                 the five-year price trend for two of these. Report your findings
                 to your counselor.
             resources:
-                -
-                    href: https://markets.businessinsider.com/commodities
+                -   href: https://markets.businessinsider.com/commodities
                     text: Commodities
                     type: website
-                -
-                    href: >-
+                -   href: >-
                         https://www.macrotrends.net/1333/historical-gold-prices-100-year-chart
                     text: Metal Prices—100 Year Historical Chart
                     type: website
--
-    requirement: 8
+-   requirement: 8
     text: |-
         Explore careers related to this merit badge. Research one career to
         learn about the training and education needed, costs, job prospects,
@@ -354,15 +293,12 @@
         both your findings and what about this profession might make it an
         interesting career.
     resources:
-        -
-            href: https://youtu.be/m2k-OBJUIBk
+        -   href: https://youtu.be/m2k-OBJUIBk
             text: Careers in Mining
             type: video
-        -
-            href: https://youtu.be/S3jfqaFZMR0
+        -   href: https://youtu.be/S3jfqaFZMR0
             text: 'Mining and Minerals Engineering: A Day in the Life'
             type: video
-        -
-            href: https://youtu.be/GvWin0v00VU
+        -   href: https://youtu.be/GvWin0v00VU
             text: 'Mining Is Us: Geotechnical Engineer'
             type: video

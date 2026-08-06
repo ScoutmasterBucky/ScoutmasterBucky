@@ -1,136 +1,108 @@
--
-    requirement: 1
+# 8c should have a comma within the quotes in the first suggested title?
+-   requirement: 1
     text: |-
         Name four branches of oceanography. Describe at least five reasons why
         it is important for people to learn about the oceans.
     resources:
-        -
-            href: https://youtu.be/NMM_GboBZyc
+        -   href: https://youtu.be/NMM_GboBZyc
             text: What is Oceanography
             type: video
--
-    requirement: 2
+-   requirement: 2
     text: |-
         Explain the following terms: salinity, temperature, and density.
         Describe how these important properties of seawater are measured by an
         oceanographer. Discuss the circulation and currents of the ocean.
         Describe the effects of the oceans on weather and climate.
     resources:
-        -
-            href: https://youtu.be/jKWc5oy0NCQ
+        -   href: https://youtu.be/jKWc5oy0NCQ
             text: Temperature and Salinity
             type: video
-        -
-            href: https://youtu.be/R5-s6O8qyvE
+        -   href: https://youtu.be/R5-s6O8qyvE
             text: An Ocean in Motion
             type: video
-        -
-            href: https://youtu.be/zO2153cJORI
+        -   href: https://youtu.be/zO2153cJORI
             text: Oceans and Climate
             type: video
-        -
-            href: https://youtu.be/T9LTtqcKDw0
+        -   href: https://youtu.be/T9LTtqcKDw0
             text: How Do Ocean Currents Affect the Weather Pattern?
             type: video
--
-    requirement: 3
+-   requirement: 3
     text: 'Describe the characteristics of ocean waves and do the following:'
     resources:
-        -
-            href: https://youtu.be/_LRc6k-clzE
+        -   href: https://youtu.be/_LRc6k-clzE
             text: How Do Ocean Waves Work?
             type: video
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: |-
                 Point out the differences among the storm surge, tsunami, tidal
                 wave, and tidal bore.
             resources:
-                -
-                    href: https://youtu.be/wk7RyUReaIA
+                -   href: https://youtu.be/wk7RyUReaIA
                     text: 'Tsunami vs Tidal Wave: What''s the Difference?'
                     type: video
-                -
-                    href: https://youtu.be/ZxYCB4VPVow
+                -   href: https://youtu.be/ZxYCB4VPVow
                     text: What is Storm Surge?
                     type: video
-        -
-            requirement: b
+        -   requirement: b
             text: Explain the difference between sea, swell, and surf.
             resources:
-                -
-                    href: >-
+                -   href: >-
                         https://www.skynews.com.au/australia-news/weather-explained-whats-the-difference-between-seas-and-swell/video/836f58b40244e1a18c28b015033f9792
                     text: |-
                         Weather Explained: What's the Difference Between Seas
                         and Swell?
                     type: video
-                -
-                    href: >-
+                -   href: >-
                         https://support.surfline.com/hc/en-us/articles/4410126820891-Difference-between-swell-and-surf
                     text: Difference Between Swell and Surf
                     type: website
-                -
-                    href: https://www.youtube.com/shorts/qcwAsh9TDvo
+                -   href: https://www.youtube.com/shorts/qcwAsh9TDvo
                     text: The Difference Between SWELL and SURF
                     type: video
-        -
-            requirement: c
+        -   requirement: c
             text: Explain how breakers are formed.
             resources:
-                -
-                    href: https://www.youtube.com/watch?v=aXuQC1qRuEM
+                -   href: https://www.youtube.com/watch?v=aXuQC1qRuEM
                     text: How Do Waves Break?
                     type: video
-        -
-            requirement: d
+        -   requirement: d
             text: |-
                 Explain what a rip current is, how to avoid them, and what to do
                 if you are caught in one.
             resources:
-                -
-                    href: https://youtu.be/lofVgAzut6w
+                -   href: https://youtu.be/lofVgAzut6w
                     text: New Guide to Spot and Escape a Rip Current
                     type: video
-                -
-                    href: >-
+                -   href: >-
                         https://www.noaa.gov/multimedia/video/video-heading-to-beach-see-our-rip-current-survival-guide-first
                     text: Rip Current Survival Guide
                     type: website w/ video
--
-    requirement: 4
+-   requirement: 4
     text: |-
         Draw a cross-section of underwater topography. Name and put on your
         drawing the following: seamount, guyot, rift valley, canyon, trench, and
         oceanic ridge. Compare the depths in the oceans with the heights of
         mountains on land. Show what is meant by:
     resources:
-        -
-            href: >-
+        -   href: >-
                 https://www.visualdictionaryonline.com/earth/geology/ocean-floor.php
             text: Diagram of Sea Floor
             type: website
-        -
-            href: https://youtu.be/mAwfTahzbtw
+        -   href: https://youtu.be/mAwfTahzbtw
             text: How Deep Does the Ocean Go?
             type: video
-        -
-            href: https://youtube.com/shorts/DZ9v54D4mZ8
+        -   href: https://youtube.com/shorts/DZ9v54D4mZ8
             text: How Deep the Ocean REALLY Is
             type: video
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: Continental shelf
-        -
-            requirement: b
+        -   requirement: b
             text: Continental slope
-        -
-            requirement: c
+        -   requirement: c
             text: Abyssal plain
--
-    requirement: 5
+-   requirement: 5
     text: |-
         List the main salts, gases, and nutrients in seawater. Describe some
         important properties of water. Tell how the animals and plants of the
@@ -138,45 +110,36 @@
         differences in evaporation and precipitation affect the salt content of
         the oceans.
     resources:
-        -
-            href: >-
+        -   href: >-
                 https://www.marinebio.net/marinescience/02ocean/swcomposition.htm
             text: Seawater Composition
             type: website
-        -
-            href: https://youtu.be/SPF6cSan6tc
+        -   href: https://youtu.be/SPF6cSan6tc
             text: Why is the Sea Salty?
             type: video
--
-    requirement: 6
+-   requirement: 6
     text: |-
         Describe some of the biologically important properties of seawater.
         Define benthos, nekton, and plankton. Name some of the plants and
         animals that make up each of these groups. Describe the place and
         importance of phytoplankton in the oceanic food chain.
     resources:
-        -
-            href: https://youtu.be/4cguoY4qTXA
+        -   href: https://youtu.be/4cguoY4qTXA
             text: Nekton, Benthos, and Plankton
             type: video
-        -
-            href: https://youtu.be/AWfebk0_auY
+        -   href: https://youtu.be/AWfebk0_auY
             text: 'Feeding the Sea: Phytoplankton Fuel Ocean Life'
             type: video
-        -
-            href: https://youtu.be/H7sACT0Dx0Q
+        -   href: https://youtu.be/H7sACT0Dx0Q
             text: 'NASA | Earth Science Week: The Ocean''s Green Machines'
             type: video
-        -
-            href: https://teara.govt.nz/en/video/5354/open-ocean-food-chain
+        -   href: https://teara.govt.nz/en/video/5354/open-ocean-food-chain
             text: Open Ocean Food Chain
             type: website
--
-    requirement: 7
+-   requirement: 7
     text: 'Do ONE of the following:'
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: |-
                 Make a plankton net. Tow the net by a dock, wade with it, hold
                 it in a current, or tow it from a rowboat. Do this for about 20
@@ -186,32 +149,26 @@
                 <div class="gap"></div>
                 <i><b>NOTE:</b> May be done in lakes or streams.</i>
             resources:
-                -
-                    href: https://youtu.be/e-MYhWcWWXw
+                -   href: https://youtu.be/e-MYhWcWWXw
                     text: How to Make a Soda Bottle Plankton Net
                     type: video
-                -
-                    href: https://youtu.be/HBcuGbMc8cU
+                -   href: https://youtu.be/HBcuGbMc8cU
                     text: Make Your Own Plankton Net!
                     type: video
-        -
-            requirement: b
+        -   requirement: b
             text: |-
                 Make a series of models (clay or plaster and wood) of a volcanic
                 island. Show the growth of an atoll from a fringing reef through
                 a barrier reef. Describe the Darwinian theory of coral reef
                 formation.
             resources:
-                -
-                    href: https://youtu.be/mPA9Ze16lGw
+                -   href: https://youtu.be/mPA9Ze16lGw
                     text: 'Coral Reefs: Types and Formation'
                     type: video
-                -
-                    href: https://youtu.be/anDSRfSY7LQ
+                -   href: https://youtu.be/anDSRfSY7LQ
                     text: How Coral Reefs are Formed
                     type: video
-        -
-            requirement: c
+        -   requirement: c
             text: |-
                 Measure the water temperature at the surface, midwater, and
                 bottom of a body of water four times daily for five consecutive
@@ -222,12 +179,10 @@
                 findings (air and water temperature, turbidity) on a graph. Tell
                 how the water temperature changes with air temperature.
             resources:
-                -
-                    href: https://youtu.be/lr66G09PuKg
+                -   href: https://youtu.be/lr66G09PuKg
                     text: How to Make and Use a Secchi Disk
                     type: video
-        -
-            requirement: d
+        -   requirement: d
             text: |-
                 Make a model showing the inshore sediment movement by littoral
                 currents, tidal movement, and wave action. Include such
@@ -235,112 +190,89 @@
                 and coastal cliffs. Show how offshore bars are built up and torn
                 down.
             resources:
-                -
-                    href: https://youtu.be/bfzAeQXhSGk
+                -   href: https://youtu.be/bfzAeQXhSGk
                     text: Longshore Drift Model Demo
                     type: video
-        -
-            requirement: e
+        -   requirement: e
             text: |-
                 Make a wave generator. Show reflection and refraction of waves.
                 Show how groins, jetties, and breakwaters affect these patterns.
             resources:
-                -
-                    href: https://youtu.be/9l-tIvvtCPA
+                -   href: https://youtu.be/9l-tIvvtCPA
                     text: DIY Ripple Tank
                     type: video
-                -
-                    href: https://youtu.be/iGuUKRmytLw
+                -   href: https://youtu.be/iGuUKRmytLw
                     text: Reflecting Waves in a Ripple Tank
                     type: video
-                -
-                    href: https://youtu.be/7wfEczDapHA
+                -   href: https://youtu.be/7wfEczDapHA
                     text: Refraction of Waves in a Ripple Tank
                     type: video
-                -
-                    href: https://youtu.be/_eeKpz8oD7E
+                -   href: https://youtu.be/_eeKpz8oD7E
                     text: Coastal Erosion and the Methods Used to Reduce It
                     type: video
-                -
-                    href: https://youtu.be/3yNoy4H2Z-o
+                -   href: https://youtu.be/3yNoy4H2Z-o
                     text: Wave Tank Demonstration
                     type: video
-        -
-            requirement: f
+        -   requirement: f
             text: |-
                 With your counselor's and parent or guardian's approval and
                 permission, track and monitor satellite images available on the
                 internet for a specific location for three weeks. Describe what
                 you have learned to your counselor.
             resources:
-                -
-                    href: https://www.nhc.noaa.gov/satellite.php
+                -   href: https://www.nhc.noaa.gov/satellite.php
                     text: Weather Satellite Images
                     type: website
--
-    requirement: 8
+-   requirement: 8
     text: 'Do ONE of the following:'
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: |-
                 Write a 500-word report on a book about oceanography approved by
                 your counselor.
-        -
-            requirement: b
+        -   requirement: b
             text: |-
                 Visit one of the following and write a 500-word report about
                 your visit.
             children:
-                -
-                    requirement: 1
+                -   requirement: 1
                     text: Oceanographic research ship
                     resources:
-                        -
-                            href: https://youtu.be/LVDQi5iG99M
+                        -   href: https://youtu.be/LVDQi5iG99M
                             text: Tour of a Research Vessel
                             type: video
-                -
-                    requirement: 2
+                -   requirement: 2
                     text: |-
                         Oceanographic institute, marine laboratory, or marine
                         aquarium
                     resources:
-                        -
-                            href: https://youtu.be/DYI_gw72bk8
+                        -   href: https://youtu.be/DYI_gw72bk8
                             text: A Virtual Tour of Bodega Marine Laboratory
                             type: video
-                        -
-                            href: https://youtu.be/aaY1fwyjU1U
+                        -   href: https://youtu.be/aaY1fwyjU1U
                             text: A Visit to Mote Marine Laboratory &amp; Aquarium
                             type: video
-        -
-            requirement: c
+        -   requirement: c
             text: |-
-                Explain to your troop, in a five-minute prepared speech "Why
-                Oceanography Is Important," or describe "Career Opportunities in
+                Explain to your troop, in a five-minute prepared speech, "Why
+                Oceanography Is Important" or describe "Career Opportunities in
                 Oceanography." (Before making your speech, show your speech
                 outline to your counselor for approval.)
             resources:
-                -
-                    href: https://youtu.be/uFHREUrMLSY
+                -   href: https://youtu.be/uFHREUrMLSY
                     text: Oceanography Careers
                     type: video
-                -
-                    href: https://youtu.be/N4d6YRKEaxg
-                    text: How to Work with the Ocean
+                -   href: https://youtu.be/N4d6YRKEaxg
+                    text: How To Work with the Ocean
                     type: video
--
-    requirement: 9
+-   requirement: 9
     text: |-
         Describe four methods that marine scientists use to investigate the
         ocean, underlying geology, and organisms living in the water.
     resources:
-        -
-            href: https://youtu.be/ibPuzpHuAgY
+        -   href: https://youtu.be/ibPuzpHuAgY
             text: Studying the Ocean EXPLAINED
             type: video
-        -
-            href: https://youtu.be/vKzgIyCTY8k
+        -   href: https://youtu.be/vKzgIyCTY8k
             text: How do Scientists Explore the Deep Sea?
             type: video

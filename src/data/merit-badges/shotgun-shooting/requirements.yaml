@@ -1,10 +1,9 @@
 # It appears that 2A10 was replaced with the text from 2B13. Option A is shotgun and the requirement says muzzleloading shotgun, along with the shotgun shooting rules. Kept original.
-# Fixed 2a10 "shot— position" by removing the space. Either it should have no spaces or sometimes spaces on both sides, but never a space on just one side. Note that 2b13 is correctly using the dash.
+# 2a10 "shot— position" should probably use a colon.
 # AUTO: WARNING: Found "photo" resource type near "Parts of a Shotgun...". This should be "image".
 # AUTO: WARNING: Found "photo" resource type near "Shot Size...". This should be "image".
 # AUTO: WARNING: Found "photo" resource type near "Shotgun Ammunition...". This should be "image".
--
-    text: |-
+-   text: |-
         <i><b>NOTE:</b> To enable safe and responsible learning and enjoyment of
         range and target activities, Scouting America has established rigorous
         standards for approved equipment and materials, ranges, qualified
@@ -12,106 +11,87 @@
         requirements and safe practices for activities in this merit badge may
         be found in the current Scouting America <i>Guide to Safe Scouting</i>
         and the <i>National Range and Target Activities Manual</i>.</i>
--
-    requirement: 1
+-   requirement: 1
     text: 'Do the following:'
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: |-
                 Explain what a projectile is, and why any device that shoots a
                 projectile at high speed must be handled with care and respect,
                 and used only in approved locations.
             resources:
-                -
-                    href: https://youtu.be/kStpU1bU-oc&t=119
+                -   href: https://youtu.be/kStpU1bU-oc&t=119
                     text: |-
                         High-Speed Collisions in Space - Experiments with a
                         Carrot Gun
                     type: video
-        -
-            requirement: b
+        -   requirement: b
             text: |-
                 Explain the basic rules of safe gun handling that apply to all
                 firearms.
             resources:
-                -
-                    href: >-
+                -   href: >-
                         https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Shotgun%20Shooting/Rules%20of%20Gun%20Safety.pdf
                     text: Rules of Gun Safety
                     type: pdf
-                -
-                    href: https://gunsafetyrules.nra.org/
+                -   href: https://gunsafetyrules.nra.org/
                     text: NRA Gun Safety Rules
                     type: website
-        -
-            requirement: c
+        -   requirement: c
             text: |-
                 Describe how you would react if a friend visiting your home
                 asked to see your or your family's firearm.
-        -
-            requirement: d
+        -   requirement: d
             text: |-
                 Explain the need for, types, and use of eye protection and
                 hearing protection.
-        -
-            requirement: e
+        -   requirement: e
             text: |-
                 Explain the main points of the laws for owning and using guns in
                 your community and state.
             resources:
-                -
-                    href: >-
+                -   href: >-
                         https://www.atf.gov/firearms/tools-and-services-firearms-industry/state-laws-and-published-ordinances-firearms
                     text: State Laws for Gun Ownership and Use
                     type: website
-        -
-            requirement: f
+        -   requirement: f
             text: |-
                 Explain how hunting is related to the wise use of renewable
                 wildlife resources.
-        -
-            requirement: g
+        -   requirement: g
             text: |-
                 Successfully complete a state hunter education course, or obtain
                 a copy of the hunting laws for your state, then do the
                 following:
             resources:
-                -
-                    href: >-
+                -   href: >-
                         https://nra.yourlearningportal.com/Course/HuntersEdActivityInfoPage
                     text: NRA Hunter Education
                     type: website
             children:
-                -
-                    requirement: 1
+                -   requirement: 1
                     text: |-
                         Explain the main points of hunting laws in your state,
                         and any special laws on the use of guns and ammunition,
                         AND
-                -
-                    requirement: 2
+                -   requirement: 2
                     text: |-
                         List the kinds of wildlife that can be legally hunted in
                         your state.
-        -
-            requirement: h
+        -   requirement: h
             text: |-
                 Explain to your counselor the proper hygienic guidelines
                 followed while shooting.
-        -
-            requirement: i
+        -   requirement: i
             text: |-
                 List and explain three shotgun sports. Identify places in your
                 community where you could practice these sports, and explain how
                 you can join or be a part of range and target activities.
-        -
-            requirement: j
+        -   requirement: j
             text: |-
                 Discuss with your counselor a list of sources you could contact
                 for information on firearms and their use.
--
-    requirement: 2
+-   requirement: 2
     text: |-
         Working under the supervision of a certified National Rifle Association
         (NRA) Shotgun instructor and a certified range safety officer, at a
@@ -119,96 +99,79 @@
         defined in the <i>Scouting America National Range and Target Activities
         Manual</i>), do ONE of the following options:
     children:
-        -
-            text: |-
+        -   text: |-
                 <strong>Option A—Shotgun Shooting (Modern Shotshell
                 Type).</strong> Do ALL of the following:
             children:
-                -
-                    requirement: 1
+                -   requirement: 1
                     text: |-
                         Identify and explain the principal parts of a shotgun,
                         action types, and how they function.
                     resources:
-                        -
-                            href: >-
+                        -   href: >-
                                 https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Shotgun%20Shooting/Parts%20of%20a%20Shotgun.pdf
                             text: Parts of a Shotgun
                             type: pdf
-                        -
-                            href: >-
+                        -   href: >-
                                 https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Shotgun%20Shooting/parts_of_shotgun.png
                             text: Parts of a Shotgun
                             type: image
-                -
-                    requirement: 2
+                -   requirement: 2
                     text: |-
                         Identify and demonstrate the rules for safely storing
                         and handling a shotgun.
                     resources:
-                        -
-                            href: >-
+                        -   href: >-
                                 https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Shotgun%20Shooting/Rules%20for%20Using%20or%20Storing%20a%20Gun.pdf
                             text: Rules for Using or Storing a Gun
                             type: pdf
-                -
-                    requirement: 3
+                -   requirement: 3
                     text: |-
                         Identify the parts of a shotgun shell and their
                         functions.
                     resources:
-                        -
-                            href: >-
+                        -   href: >-
                                 https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Shotgun%20Shooting/Parts%20of%20a%20Shotgun%20Shell.pdf
                             text: Parts of a Shotgun Shell
                             type: pdf
-                        -
-                            href: >-
+                        -   href: >-
                                 https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Shotgun%20Shooting/shot_size.jpg
                             text: Shot Size
                             type: image
-                        -
-                            href: >-
+                        -   href: >-
                                 https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Shotgun%20Shooting/shotgun_ammunition.jpg
                             text: Shotgun Ammunition
                             type: image
-                -
-                    requirement: 4
+                -   requirement: 4
                     text: |-
                         Identify the various gauges of shotguns. Explain which
                         you would choose for a particular use and why.
-                -
-                    requirement: 5
+                -   requirement: 5
                     text: |-
                         Identify the causes of a shotgun's failure to fire, and
                         explain what a misfire, hangfire, and squib fire are.
                         Explain and demonstrate proper preventive measures, and
                         the procedures to follow in response to each.
-                -
-                    requirement: 6
+                -   requirement: 6
                     text: |-
                         Demonstrate the knowledge, skills, and attitude
                         necessary to safely shoot a shotgun on a range,
                         including understanding and following range procedures
                         and commands.
-                -
-                    requirement: 7
+                -   requirement: 7
                     text: |-
                         Explain the basic safety rules for cleaning a shotgun,
                         and identify the materials needed.
-                -
-                    requirement: 8
+                -   requirement: 8
                     text: Demonstrate how to clean a shotgun properly and safely.
-                -
-                    requirement: 9
+                -   requirement: 9
                     text: |-
                         Discuss what points you would consider in selecting a
                         shotgun.
-                -
-                    requirement: 10
+                -   requirement: 10
                     text: |-
                         Shoot a moving target with a shotgun using the four
-                        fundamentals of firing a shot—position, mount, vision,
+                        fundamentals of firing a shot— position, mount, vision,
                         and movement. Shooting score required: Hit at least 12
                         out of 25 targets (48 percent) in two 25-target groups.
                         The two groups need not be shot in consecutive order. A
@@ -240,88 +203,72 @@
                         station 3 with traps set to throw straightaway targets.
                         </li> <li>If using a skeet field, shoot station 7 low
                         house.</li> </ul>
-        -
-            text: |-
+        -   text: |-
                 <strong>Option B—Muzzleloading Shotgun Shooting.</strong> Do ALL
                 of the following:
             children:
-                -
-                    requirement: 1
+                -   requirement: 1
                     text: |-
                         Discuss with your counselor a brief history of the
                         development of the muzzleloading shotgun.
-                -
-                    requirement: 2
+                -   requirement: 2
                     text: |-
                         Identify principal parts of muzzleloading shotguns and
                         discuss how they function.
-                -
-                    requirement: 3
+                -   requirement: 3
                     text: |-
                         Identify and demonstrate the rules for safely storing
                         and handling a muzzleloading shotgun.
                     resources:
-                        -
-                            href: >-
+                        -   href: >-
                                 https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Shotgun%20Shooting/Rules%20for%20Using%20or%20Storing%20a%20Gun.pdf
                             text: Rules for Using or Storing a Gun
                             type: pdf
-                -
-                    requirement: 4
+                -   requirement: 4
                     text: |-
                         Identify the various grades of black powder and explain
                         their proper and safe use.
-                -
-                    requirement: 5
+                -   requirement: 5
                     text: |-
                         Discuss proper safety procedures pertaining to black
                         powder storage.
-                -
-                    requirement: 6
+                -   requirement: 6
                     text: Discuss proper components of a load.
-                -
-                    requirement: 7
+                -   requirement: 7
                     text: |-
                         Identify proper procedures and accessories used for
                         safely loading a muzzleloading shotgun.
-                -
-                    requirement: 8
+                -   requirement: 8
                     text: |-
                         Identify the causes of a muzzleloading shotgun's failure
                         to fire, and explain what a misfire, hangfire, and squib
                         fire are. Explain and demonstrate proper preventive
                         measures, and the procedures to follow in response to
                         each.
-                -
-                    requirement: 9
+                -   requirement: 9
                     text: |-
                         Demonstrate the knowledge, skills, and attitude
                         necessary to safely shoot a muzzleloading shotgun on a
                         range, including understanding and following range
                         procedures and commands.
-                -
-                    requirement: 10
+                -   requirement: 10
                     text: |-
                         Explain the basic safety rules for cleaning a
                         muzzleloading shotgun, and identify the materials
                         needed.
                     resources:
-                        -
-                            href: https://youtu.be/oAkZP_dXams
+                        -   href: https://youtu.be/oAkZP_dXams
                             text: The Muzzleloader Shotgun
                             type: video
-                -
-                    requirement: 11
+                -   requirement: 11
                     text: |-
                         Demonstrate how to clean a muzzleloading shotgun
                         properly and safely.
-                -
-                    requirement: 12
+                -   requirement: 12
                     text: |-
                         Discuss what points you would consider in selecting a
                         muzzleloading shotgun.
-                -
-                    requirement: 13
+                -   requirement: 13
                     text: |-
                         Shoot a moving target with a muzzleloading shotgun using
                         the four fundamentals of firing a shot—position, mount,
@@ -355,8 +302,7 @@
                         be set to throw only straightaway targets.</li> <li>If
                         using a skeet field, shoot station 7 low house.</li>
                         </ul>
--
-    requirement: 3
+-   requirement: 3
     text: |-
         Identify how you could apply the skills and knowledge of safe and
         responsible use of firearms you learned in this merit badge to pursue a

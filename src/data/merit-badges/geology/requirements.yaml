@@ -1,5 +1,4 @@
--
-    text: |-
+-   text: |-
         <i><b>NOTE:</b> Scouts must remember to follow the Leave No Trace Seven
         Principles and the Outdoor Code while on field trips and when collecting
         mineral, rock, and fossil specimens. Make sure you have permission from
@@ -8,34 +7,28 @@
         purchasing from commercial rock and mineral shops or from home garden
         stores. Pictures or sketches may suffice for a collection and limit
         impacted disturbances.</i>
--
-    requirement: 1
+-   requirement: 1
     text: |-
         Define geology. Discuss how geologists learn about rock formations. In
         geology, explain why the study of the present is important to
         understanding the past.
     resources:
-        -
-            href: https://youtu.be/Kv_7jt0nvHQ
+        -   href: https://youtu.be/Kv_7jt0nvHQ
             text: Defining Geology
             type: video
-        -
-            href: https://youtu.be/qNiOXc6pSBQ
+        -   href: https://youtu.be/qNiOXc6pSBQ
             text: Introduction to Geology
             type: video
--
-    requirement: 2
+-   requirement: 2
     text: |-
         Pick three resources that can be extracted or mined from Earth for
         commercial use. Discuss with your counselor how each product is
         discovered and processed.
     resources:
-        -
-            href: https://youtu.be/wQhFQFeYdJU
+        -   href: https://youtu.be/wQhFQFeYdJU
             text: Patterns of Mineral Extraction
             type: video
--
-    requirement: 3
+-   requirement: 3
     text: |-
         Review a geologic map of your area or an area approved by your
         counselor, and discuss the different rock types and estimated ages of
@@ -44,41 +37,33 @@
         folded, faulted, or intrusive rocks, and explain how you arrived at your
         conclusion.
     resources:
-        -
-            href: https://www.stategeologists.org/surveys
+        -   href: https://www.stategeologists.org/surveys
             text: State Geological Surveys
             type: website
--
-    requirement: 4
+-   requirement: 4
     text: 'Do ONE of the following options:'
     children:
-        -
-            text: |-
+        -   text: |-
                 <b>Option A—Surface and Sedimentary Processes.</b> Do ALL of the
                 following:
             children:
-                -
-                    requirement: 1
+                -   requirement: 1
                     text: |-
                         Conduct an experiment approved by your counselor that
                         demonstrates how sediments settle from suspension in
                         water. Explain to your counselor what the exercise shows
                         and why it is important.
                     resources:
-                        -
-                            href: https://youtu.be/YoZZZQ2lxOc
+                        -   href: https://youtu.be/YoZZZQ2lxOc
                             text: Stream Erosion and Stream Deposition
                             type: video
-                        -
-                            href: https://youtu.be/p4K5N6WuVoA
+                        -   href: https://youtu.be/p4K5N6WuVoA
                             text: Sediment Settlement Lab
                             type: video
-                        -
-                            href: https://youtu.be/BVWIspB8qWk
+                        -   href: https://youtu.be/BVWIspB8qWk
                             text: Separate Soil!
                             type: video
-                -
-                    requirement: 2
+                -   requirement: 2
                     text: |-
                         Using topographical maps provided by your counselor,
                         plot the stream gradients (different elevations divided
@@ -87,35 +72,29 @@
                         fastest and why, and which ones will carry larger grains
                         of sediment and why.
                     resources:
-                        -
-                            href: https://youtu.be/3QFJ_uv2mGw
+                        -   href: https://youtu.be/3QFJ_uv2mGw
                             text: How to Calculate the Gradient of a Slope
                             type: video
-                -
-                    requirement: 3
+                -   requirement: 3
                     text: |-
                         On a stream diagram, show areas where you will find the
                         following features: cut bank, fill bank, point bar,
-                        medial channel bars, lake delta. Describe the relative
-                        sediment grain size found in each feature.
+                        medial channel bars, and lake delta. Describe the
+                        relative sediment grain size found in each feature.
                     resources:
-                        -
-                            href: https://youtu.be/gjIrApP2tt8
+                        -   href: https://youtu.be/gjIrApP2tt8
                             text: Point Bars and Cut Banks
                             type: video
-                -
-                    requirement: 4
+                -   requirement: 4
                     text: |-
                         Conduct an experiment approved by your counselor that
                         shows how some sedimentary material carried by water may
                         be too small for you to see without a magnifier.
                     resources:
-                        -
-                            href: https://youtu.be/-tDOu1vrNHY
+                        -   href: https://youtu.be/-tDOu1vrNHY
                             text: Sediment in Streams
                             type: video
-                -
-                    requirement: 5
+                -   requirement: 5
                     text: |-
                         Visit a nearby stream. Find clues that show the
                         direction of water flow, even if the water is missing.
@@ -123,37 +102,30 @@
                         clues you observe. Discuss your observations with your
                         counselor.
                     resources:
-                        -
-                            href: https://youtu.be/jOQmN7EM5NE
+                        -   href: https://youtu.be/jOQmN7EM5NE
                             text: How to Read Water
                             type: video
-        -
-            text: '<b>Option B—Energy Resources.</b> Do ALL of the following:'
+        -   text: '<b>Option B—Energy Resources.</b> Do ALL of the following:'
             children:
-                -
-                    requirement: 1
+                -   requirement: 1
                     text: |-
                         List the top five Earth resources used to generate
                         electricity in the United States.
                     resources:
-                        -
-                            href: >-
+                        -   href: >-
                                 https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=table_es1a
                             text: Electric Power Monthly
                             type: website
-                -
-                    requirement: 2
+                -   requirement: 2
                     text: |-
                         Discuss source rock, trap, and reservoir rock—the three
                         components necessary for the occurrence of oil and gas
                         underground.
                     resources:
-                        -
-                            href: https://youtu.be/_PDOD_FEnNk
+                        -   href: https://youtu.be/_PDOD_FEnNk
                             text: Formation of Reservoir Rock
                             type: video
-                -
-                    requirement: 3
+                -   requirement: 3
                     text: |-
                         Explain how each of the following items is used in
                         subsurface exploration to locate oil or gas: reflection
@@ -162,25 +134,21 @@
                         map, subsurface isopach map, and core samples and
                         cutting samples.
                     resources:
-                        -
-                            href: https://youtu.be/8h35KsRD0c0
+                        -   href: https://youtu.be/8h35KsRD0c0
                             text: |-
                                 Using 3D Seismic Exploration to Find and Drill
                                 for Oil and Natural Gas Sources
                             type: video
-                -
-                    requirement: 4
+                -   requirement: 4
                     text: |-
                         Using at least 20 data points provided by your
                         counselor, create a subsurface structure map and use it
                         to explain how subsurface geology maps are used to find
                         oil, gas, or coal resources.
-                -
-                    requirement: 5
+                -   requirement: 5
                     text: 'Do ONE of the following:'
                     children:
-                        -
-                            requirement: a
+                        -   requirement: a
                             text: |-
                                 Make a display or presentation showing how oil
                                 and gas or coal is found, extracted, and
@@ -190,8 +158,7 @@
                                 permission). Share the display with your
                                 counselor or a small group (such as your class
                                 at school) in a five-minute presentation.
-                        -
-                            requirement: b
+                        -   requirement: b
                             text: |-
                                 With your parent or guardian's and counselor's
                                 permission and assistance, arrange for a visit
@@ -199,47 +166,38 @@
                                 with a geologist and ask to see what the
                                 geologist does onsite. Ask to see cutting
                                 samples taken at the site.
-        -
-            text: '<b>Option C—Mineral Resources.</b> Do ALL of the following:'
+        -   text: '<b>Option C—Mineral Resources.</b> Do ALL of the following:'
             children:
-                -
-                    requirement: 1
+                -   requirement: 1
                     text: |-
                         Define rock. Discuss the three classes of rocks
                         including their origin and characteristics.
                     resources:
-                        -
-                            href: https://youtu.be/xsHPA2GNF9Q
+                        -   href: https://youtu.be/xsHPA2GNF9Q
                             text: Rocks for Kids
                             type: video
-                        -
-                            href: https://youtu.be/KtbAEYwkC1E
+                        -   href: https://youtu.be/KtbAEYwkC1E
                             text: Types of Rocks
                             type: video
-                -
-                    requirement: 2
+                -   requirement: 2
                     text: |-
                         Define mineral. Discuss the origin of minerals and their
                         chemical composition and identification properties,
                         including hardness, specific gravity, color, streak,
                         cleavage, luster, and crystal form.
                     resources:
-                        -
-                            href: https://youtu.be/24O79WgKZO8
+                        -   href: https://youtu.be/24O79WgKZO8
                             text: Rocks and Minerals
                             type: video
-                        -
-                            href: https://youtu.be/M4rzNUZFV4w
+                        -   href: https://youtu.be/M4rzNUZFV4w
                             text: |-
                                 Identifying Rocks and Minerals - Using Physical
                                 Properties for Identification
                             type: video
-                -
-                    requirement: 3
+                -   requirement: 3
                     text: 'Do ONE of the following:'
                     children:
-                        -
-                            requirement: a
+                        -   requirement: a
                             text: |-
                                 Collect 10 different rocks or minerals. Record
                                 in a notebook where you obtained (found, bought,
@@ -247,8 +205,7 @@
                                 its class and origin, determine its chemical
                                 composition, and list its physical properties.
                                 Share your collection with your counselor.
-                        -
-                            requirement: b
+                        -   requirement: b
                             text: |-
                                 With your counselor's assistance, identify 15
                                 different rocks and minerals. List the name of
@@ -256,24 +213,20 @@
                                 mineral, and give the name of its class (if it
                                 is a rock) or list its identifying physical
                                 properties (if it is a mineral).
-                -
-                    requirement: 4
+                -   requirement: 4
                     text: |-
-                        List three of the most common road building materials
+                        List three of the most common road-building materials
                         used in your area. Explain how each material is produced
                         and how each is used in road building.
                     resources:
-                        -
-                            href: >-
+                        -   href: >-
                                 https://roblarquarryllc.com/top-rock-types-used-in-road-construction/
                             text: Top Rock Types Used in Road Construction
                             type: website
-                -
-                    requirement: 5
+                -   requirement: 5
                     text: 'Do ONE of the following:'
                     children:
-                        -
-                            requirement: a
+                        -   requirement: a
                             text: |-
                                 With your parent or guardian's and counselor's
                                 approval, visit an active mining site, quarry,
@@ -281,36 +234,30 @@
                                 you learned about the resources extracted from
                                 this location and how these resources are used
                                 by society.
-                        -
-                            requirement: b
+                        -   requirement: b
                             text: |-
                                 With your counselor, choose two examples of
                                 rocks and two examples of minerals. Discuss the
                                 mining of these materials and describe how each
                                 is used by society.
-                        -
-                            requirement: c
+                        -   requirement: c
                             text: |-
                                 With your parent or guardian's and counselor's
                                 approval, visit the office of a civil engineer
                                 and learn how geology is used in construction.
                                 Discuss what you learned with your counselor.
-        -
-            text: '<b>Option D—Earth History.</b> Do ALL of the following:'
+        -   text: '<b>Option D—Earth History.</b> Do ALL of the following:'
             children:
-                -
-                    requirement: 1
+                -   requirement: 1
                     text: |-
                         Create a chart showing suggested geological eras and
                         periods. Determine which period the rocks in your region
                         might have been formed.
                     resources:
-                        -
-                            href: https://www.youtube.com/watch?v=5Prp5iYFu4w
+                        -   href: https://www.youtube.com/watch?v=5Prp5iYFu4w
                             text: The Geological Timescale
                             type: video
-                -
-                    requirement: 2
+                -   requirement: 2
                     text: |-
                         Explain the theory of plate tectonics. Make a chart
                         explaining, or discuss with your counselor, how the
@@ -318,31 +265,25 @@
                         tectonics determines the distribution of most of the
                         Earth's volcanoes, earthquakes, and mountain belts.
                     resources:
-                        -
-                            href: https://www.youtube.com/watch?v=xhcovHLA90s
+                        -   href: https://www.youtube.com/watch?v=xhcovHLA90s
                             text: How Plate Tectonics Work
                             type: video
-                -
-                    requirement: 3
+                -   requirement: 3
                     text: |-
                         Explain to your counselor the processes of burial and
                         fossilization, and discuss the concept of extinction.
                     resources:
-                        -
-                            href: https://youtu.be/7loCEh2mhoU
+                        -   href: https://youtu.be/7loCEh2mhoU
                             text: Fossilization Process Simply Explained
                             type: video
-                        -
-                            href: https://youtu.be/bRuSmxJo_iA
+                        -   href: https://youtu.be/bRuSmxJo_iA
                             text: Fossils 101
                             type: video
-                        -
-                            href: >-
+                        -   href: >-
                                 https://www.nps.gov/subjects/fossils/significance.htm
                             text: Fossils and Paleontology
                             type: website
-                -
-                    requirement: 4
+                -   requirement: 4
                     text: |-
                         Explain to your counselor how fossils provide
                         information about ancient life, environment, climate,
@@ -351,65 +292,51 @@
                         pelagic, littoral, lacustrine, open marine, brackish,
                         fluvial, eolian, and protected reef.
                     resources:
-                        -
-                            href: https://www.youtube.com/watch?v=TjYU7ImWUjI
+                        -   href: https://www.youtube.com/watch?v=TjYU7ImWUjI
                             text: Fossils and Rock Layers for Kids!
                             type: video
-                        -
-                            href: https://youtu.be/J4cIRTU_vD8
+                        -   href: https://youtu.be/J4cIRTU_vD8
                             text: Divisions of the Marine Environment
                             type: video
-                        -
-                            href: https://youtu.be/Tk_c5dT9OV8
+                        -   href: https://youtu.be/Tk_c5dT9OV8
                             text: 'Benthos: Intertidal Zone'
                             type: video
-                        -
-                            href: https://youtu.be/RfXrj0E7EUc
+                        -   href: https://youtu.be/RfXrj0E7EUc
                             text: Pelagic Zone
                             type: video
-                        -
-                            href: https://kids.kiddle.co/Pelagic_zone
+                        -   href: https://kids.kiddle.co/Pelagic_zone
                             text: Pelagic Zone Facts
                             type: website
-                        -
-                            href: https://youtu.be/9bfzCsdScZQ
+                        -   href: https://youtu.be/9bfzCsdScZQ
                             text: What Is the Littoral Zone
                             type: video
-                        -
-                            href: https://youtu.be/vHVbhHww0Iw
+                        -   href: https://youtu.be/vHVbhHww0Iw
                             text: Lacustrine Zone
                             type: video
-                        -
-                            href: https://youtu.be/MfWyzrkFkg8
+                        -   href: https://youtu.be/MfWyzrkFkg8
                             text: Oceans 101
                             type: video
-                        -
-                            href: >-
+                        -   href: >-
                                 http://www.actforlibraries.org/what-is-brackish-water
                             text: Brackish Water
                             type: website
-                        -
-                            href: https://youtu.be/BhYDFg_BtSo
+                        -   href: https://youtu.be/BhYDFg_BtSo
                             text: Fluvial Processes
                             type: video
-                        -
-                            href: https://youtu.be/Ea47Gat0Oec
+                        -   href: https://youtu.be/Ea47Gat0Oec
                             text: |-
                                 Weathering Environments Part 1: Fluvial
                                 Processes
                             type: video
-                        -
-                            href: https://youtu.be/vOH7y-jKVSY
+                        -   href: https://youtu.be/vOH7y-jKVSY
                             text: |-
                                 Weathering Environments Part 2: Aeolian
                                 Processes
                             type: video
-                        -
-                            href: https://youtu.be/ZiULxLLP32s
+                        -   href: https://youtu.be/ZiULxLLP32s
                             text: Coral Reef 101
                             type: video
-                -
-                    requirement: 5
+                -   requirement: 5
                     text: |-
                         Collect 10 different fossil plants or animals OR (with
                         your counselor's assistance) identify 15 different
@@ -418,12 +345,10 @@
                         specimen to the best of your ability, and explain how
                         each one might have survived and obtained food. Tell
                         what else you can learn from these fossils.
-                -
-                    requirement: 6
+                -   requirement: 6
                     text: 'Do ONE of the following:'
                     children:
-                        -
-                            requirement: a
+                        -   requirement: a
                             text: |-
                                 Visit a science museum or the geology department
                                 of a local university that has fossils on
@@ -433,29 +358,25 @@
                                 you how the fossils are preserved and prepared
                                 for display.
                             resources:
-                                -
-                                    href: >-
+                                -   href: >-
                                         https://whichmuseum.com/place/united-states-2682/t-geology
                                     text: |-
                                         Geology Museums to Visit in the United
                                         States
                                     type: website
-                        -
-                            requirement: b
+                        -   requirement: b
                             text: |-
                                 Visit a structure in your area that was built
                                 using fossiliferous rocks. Determine what kind
                                 of rock was used and tell your counselor the
                                 kinds of fossil evidence you found there.
-                        -
-                            requirement: c
+                        -   requirement: c
                             text: |-
                                 Visit a rock outcrop that contains fossils.
                                 Determine what kind of rock contains the
                                 fossils, and tell your counselor the kinds of
                                 fossil evidence you found at the outcrop.
-                        -
-                            requirement: d
+                        -   requirement: d
                             text: |-
                                 Prepare a display or presentation on your state
                                 fossil. Include an image of the fossil, the age
@@ -467,33 +388,27 @@
                                 your class at school). If your state does not
                                 have a state fossil, you may select a state
                                 fossil from a neighboring state.
--
-    requirement: 5
+-   requirement: 5
     text: 'Do the following:'
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: |-
                 Discuss with your counselor the importance of the Leave No Trace
                 Seven Principles and the Outdoor Code as they relate to the
                 study of geology.
             resources:
-                -
-                    href: https://vimeo.com/1115216743/63b20c0b33
+                -   href: https://vimeo.com/1115216743/63b20c0b33
                     text: Leave No Trace
                     type: video
-        -
-            requirement: b
+        -   requirement: b
             text: |-
                 Explain how you practiced the Leave No Trace Seven Principles
                 and the Outdoor Code while traveling in natural areas and while
                 collecting rock and fossil specimens for this merit badge.
--
-    requirement: 6
+-   requirement: 6
     text: 'Do ONE of the following:'
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: |-
                 Explore careers related to this merit badge. Research one career
                 to learn about the training and education needed, costs, job
@@ -505,18 +420,15 @@
                 findings and what about this profession might make it an
                 interesting career.
             resources:
-                -
-                    href: https://youtu.be/d22wgbrwmzA
+                -   href: https://youtu.be/d22wgbrwmzA
                     text: |-
                         20+ Geoscience Careers &amp; How Much Geoscientists Make
                         $ (Why You Should Study Geology!)
                     type: video
-                -
-                    href: https://youtu.be/FPY1q6oPmN8
+                -   href: https://youtu.be/FPY1q6oPmN8
                     text: 'Geology Jobs: What You Can Do With a Degree in Geology'
                     type: video
-        -
-            requirement: b
+        -   requirement: b
             text: |-
                 Explore how you could use knowledge and skills from this merit
                 badge to pursue a hobby or healthy lifestyle. Research any
@@ -524,21 +436,17 @@
                 support it. Discuss with your counselor what short-term and
                 long-term goals you might have if you pursued this.
             resources:
-                -
-                    href: https://www.youtube.com/shorts/sxTzwHxxEp8
+                -   href: https://www.youtube.com/shorts/sxTzwHxxEp8
                     text: Why I'm So Obsessed With Geology
                     type: video
-                -
-                    href: https://youtu.be/oLomQG6P6tc
+                -   href: https://youtu.be/oLomQG6P6tc
                     text: |-
                         What Is Geology and How Can Rock Collecting Become a
                         Fascinating Hobby?
                     type: video
-                -
-                    href: https://youtu.be/x4iptGa2eU4
+                -   href: https://youtu.be/x4iptGa2eU4
                     text: 'Rockhounding 101: The Best Way to Find Minerals'
                     type: video
-                -
-                    href: https://youtu.be/75QB3OFbEi0
+                -   href: https://youtu.be/75QB3OFbEi0
                     text: Michigan Geology Tourism Series
                     type: video

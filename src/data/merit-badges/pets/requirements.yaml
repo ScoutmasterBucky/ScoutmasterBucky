@@ -1,6 +1,5 @@
 # AUTO: WARNING: Resources section is not wrapped in italics near "Explore how you could use knowledge and skills fro..."
--
-    requirement: 1
+-   requirement: 1
     text: |-
         Present evidence that you have cared for a pet for four months. Get
         approval before you start.
@@ -8,57 +7,45 @@
         <i><b>NOTE:</b> Work done for other merit badges cannot be used for this
         requirement.</i>
     resources:
-        -
-            href: https://www.youtube.com/watch?v=uh8tDZj9I_A
+        -   href: https://www.youtube.com/watch?v=uh8tDZj9I_A
             text: Create an Activity Log
             type: video
--
-    requirement: 2
+-   requirement: 2
     text: |-
         Write in 200 words or more about the care, feeding, and housing of your
         pet. Tell some interesting facts about it. Tell why you have this kind
         of pet. Give local laws, if any, relating to the pet you keep.
     resources:
-        -
-            href: https://www.youtube.com/watch?v=Pi_slxuGJUg
+        -   href: https://www.youtube.com/watch?v=Pi_slxuGJUg
             text: 'Understanding Hamsters: Care, Feeding, Housing, and More'
             type: video
--
-    requirement: 3
+-   requirement: 3
     text: |-
         Show that you have read a book or pamphlet, approved by your counselor,
         about your kind of pet. Discuss with your counselor what you have
         learned from what you read.
--
-    requirement: 4
+-   requirement: 4
     text: 'Do ONE of the following:'
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: Show your pet in a pet show.
             resources:
-                -
-                    href: https://www.youtube.com/watch?v=QABTG6FldFE
+                -   href: https://www.youtube.com/watch?v=QABTG6FldFE
                     text: Cat Agility Course at Cat Fanciers Cat Show
                     type: video
-        -
-            requirement: b
+        -   requirement: b
             text: Train a pet in three or more tricks or special abilities.
             resources:
-                -
-                    href: https://youtu.be/oX7vgQTK9fo
+                -   href: https://youtu.be/oX7vgQTK9fo
                     text: Train Your Cat To Do Fun Tricks
                     type: video
-                -
-                    href: https://youtu.be/zrDskEObBs8
+                -   href: https://youtu.be/zrDskEObBs8
                     text: How I Trained My Cat To Fetch
                     type: video
--
-    requirement: 5
+-   requirement: 5
     text: 'Do ONE of the following:'
     children:
-        -
-            requirement: a
+        -   requirement: a
             text: |-
                 Explore careers related to this merit badge. Research one career
                 to learn about the training and education needed, costs, job
@@ -70,12 +57,10 @@
                 findings and what about this profession might make it an
                 interesting career.
             resources:
-                -
-                    href: https://youtu.be/k5LGDo2OwY8
+                -   href: https://youtu.be/k5LGDo2OwY8
                     text: 15 Awesome Jobs for Animal Lovers
                     type: video
-        -
-            requirement: b
+        -   requirement: b
             text: |-
                 Explore how you could use knowledge and skills from this merit
                 badge to pursue a hobby or healthy lifestyle. Research any
@@ -83,7 +68,6 @@
                 support it. Discuss with your counselor what short-term and
                 long-term goals you might have if you pursued this.
             resources:
-                -
-                    href: https://youtu.be/U8RImRv8HC0
+                -   href: https://youtu.be/U8RImRv8HC0
                     text: Animal Hobbies
                     type: video
