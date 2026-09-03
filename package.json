@@ -7,6 +7,7 @@
         "build-dist": "astro build",
         "build-sitemap": "node build-sitemap.mjs",
         "now": "npm run build && npm run preview",
+        "postinstall": "patch-package",
         "fix-cloud-one": "cp cloud-one/dist/core/element.js node_modules/cloud-one/dist/core/ || :",
         "reinstall": "rm -rf node_modules package-lock.json && npm install",
         "start": "astro dev --open --host",
@@ -23,29 +24,34 @@
         "@literals/rollup-plugin-html-css-minifier": "^4.0.2",
         "@rollup/plugin-yaml": "^5.0.0",
         "@types/js-yaml": "^4.0.9",
-        "@types/luxon": "^3.7.3",
+        "@types/luxon": "^3.7.5",
         "@types/papaparse": "^5.5.2",
         "ajv": "^8.20.0",
-        "astro": "^7.2.0",
+        "astro": "^7.3.1",
         "check-html-links": "^0.2.4",
         "cloud-one": "^1.0.1",
         "debug": "^4.4.3",
-        "fudgel": "^3.3.0",
+        "esbuild": "0.28.2",
+        "fudgel": "^3.4.0",
         "glob-to-regexp": "^0.4.1",
-        "js-yaml": "^5.2.3",
+        "js-yaml": "^5.4.1",
         "json-stable-stringify": "^1.3.0",
         "luxon": "^3.7.2",
         "neodoc": "^2.0.2",
-        "papaparse": "^5.5.4",
-        "pdfjs-dist": "^6.2.108",
+        "papaparse": "^5.7.0",
+        "patch-package": "8.0.1",
+        "pdfjs-dist": "^6.3.289",
         "prettier": "^3.9.6",
         "prettier-plugin-astro": "^0.14.1",
-        "typescript": "^6.0.0"
+        "typescript": "^7.0.2"
     },
     "dependencies": {
         "linkedom": "^0.18.13"
     },
+    "overrides": {
+        "@literals/parser": "2.0.1"
+    },
     "allowScripts": {
-        "esbuild@0.28.1": true
+        "esbuild@0.28.2": true
     }
 }

@@ -1,0 +1,28 @@
+diff --git a/node_modules/@literals/html-css-minifier/dist/strip-types.js b/node_modules/@literals/html-css-minifier/dist/strip-types.js
+index 81f7f7f..96c7fb5 100644
+--- a/node_modules/@literals/html-css-minifier/dist/strip-types.js
++++ b/node_modules/@literals/html-css-minifier/dist/strip-types.js
+@@ -1,4 +1,4 @@
+-import * as ts from 'typescript';
++import { transformSync } from 'esbuild';
+ /**
+  * Extracts `<script lang="ts|typescript">` blocks from HTML using a simple
+  * state-machine parser. This avoids regex pitfalls such as:
+@@ -110,12 +110,11 @@ export function stripTypeScriptInScripts(html) {
+     let result = html;
+     for (let i = blocks.length - 1; i >= 0; i--) {
+         const block = blocks[i];
+-        const stripped = ts.transpileModule(block.content, {
+-            compilerOptions: {
+-                target: ts.ScriptTarget.ESNext,
+-                module: ts.ModuleKind.ESNext,
+-            },
+-        }).outputText;
++        const stripped = transformSync(block.content, {
++            loader: 'ts',
++            format: 'esm',
++            target: 'esnext',
++        }).code;
+         const cleanedAttrs = block.attributes.replace(/\s*\blang\s*=\s*('|")(?:ts|typescript)\1/i, '');
+         const replacement = `<script${cleanedAttrs}>${stripped}</script>`;
+         result =
