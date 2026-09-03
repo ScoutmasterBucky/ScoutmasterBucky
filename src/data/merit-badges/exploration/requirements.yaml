@@ -1,5 +1,8 @@
 # Requirement 5b: "With permission and approval, " but doesn't state from whom you need this permission and approval.
 # Resource for 7c should not have italics in the title. Removed.
+# AUTO: WARNING: Resources section is not wrapped in italics near "What you think it takes to be an explorer Resource..."
+# AUTO: WARNING: Resources section is not on a new line near "What you think it takes to be an explorer..."
+# AUTO: WARNING: Found resource text wrapped in italics near "<i>Scouting America SAFE Checklist</i> (PDF)...". This should be cleaned up.
 -   requirement: 1
     text: '<b>General Knowledge.</b> Do the following:'
     children:
@@ -61,10 +64,11 @@
         -   requirement: c
             text: What you think it takes to be an explorer
             resources:
-                -   href: https://youtu.be/1B9q2eS78Tw
-                    text: |-
-                        Why Great Scientists Ask Great Questions? w/ Neil
-                        deGrasse Tyson
+                -   href: https://youtu.be/IpXlxS1r5NY
+                    text: Why Is It Important To Explore?
+                    type: video
+                -   href: https://youtu.be/zKjbCC7rpk4
+                    text: Greatest Explorers in History
                     type: video
 -   requirement: 4
     text: '<strong>Real-Life Exploration.</strong> Do ONE of the following:'

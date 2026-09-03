@@ -346,6 +346,14 @@ function processResources(
             .replace(/\n/g, ' ')
             .replace(/  +/, ' ')
             .trim();
+
+        if (text.match(/<i>(.*?)<\/i>/)) {
+            processingFile.warn(
+                `Found resource text wrapped in italics near "${text.substring(0, 50)}...". This should be cleaned up.`
+            );
+            text = text.replace(/<i>(.*?)<\/i>/g, '$1');
+        }
+
         const match = text.match(
             /\(\s*(app|pdf|photo|picture|playlist|podcast|video|web|webpage|website|website\s*\/\s*videos?|website with videos|website w\/ video)\s*\)/i
         );
@@ -546,9 +554,10 @@ function manageNotes(html: string): string {
     }
 
     // Space exploration has "Safety Note:". Most others have "NOTE:" but some have "Note:".
+    // Scholarship omits "Note"
     const pattern = />\s*(Safety\s*)?Note:/i;
 
-    if (!pattern.test(html)) {
+    if (!pattern.test(html) && !html.match(/Digital Resource Guide/i)) {
         return html;
     }
 
@@ -565,6 +574,12 @@ function manageNotes(html: string): string {
             line = cleanPat(
                 line,
                 /Note:.*check out the digital resource guide.* your merit badge journey.*/i
+            );
+
+            // Scholarship
+            line = cleanPat(
+                line,
+                /Check out the Digital Resource Guide.* your merit badge journey.*/i
             );
 
             // Shotgun shooting omits "Note" because there are multiple notes. Some
