@@ -92,7 +92,8 @@ freedom to ensure
 the robot has
 some complexity.
 For example, a
-robot that has two
+robot that has
+two independent
 motors will have
 2 degrees of
 freedom. A robot
@@ -226,21 +227,22 @@ credited with inventing the term “robotics” and developing the
 concept of robots as intelligent machines in his book I, Robot.
 Artificial Intelligence
 In the late 1950s the field of artificial intelligence (AI) was born.
-An important field for robotics, AI is the study of ways to program
-a computer or machine to re-create the reasoning, deduction, and
-problem-solving abilities of humans and animals. So far, this field
-has had only limited success in matching the intelligence of
-animals, not the higher-thinking abilities of humans.
+AI aims to develop software systems that mimic the reasoning,
+problem-solving, and communication abilities of humans and
+animals. The field is changing rapidly. Machine learning, pattern-
+matching, and large data models help robots recognize their
+environments and respond appropriately. With AI, robots do not
+need to be programmed for every scenario. They learn from their
+experiences.
 Leonardo da Vinci is credited with
 creating the first robot in human form
 (1495). Here, a mechanical knight is
 being built using da Vinci’s plans.
 While truly intelligent machines have
 yet to appear, robots with humanlike
-“features”—humanoids—have been created.
-This humanoid robot, ASIMO (Advanced
-Step in Innovative Motion), can walk on
-two feet.
+features—humanoids—have been created.
+This humanoid robot, ATLAS from Boston
+Dynamics, can walk on two feet.
 
 
 10 ROBOTICS
@@ -576,13 +578,15 @@ balancing.
 ROBOTICS 19
 .Major Fields of Robotics
 Walking Robots. A robot that can walk on two legs (like the
-Honda ASIMO) is called a biped. Some robots have more than
-two legs and can always have multiple legs on the ground to
-maintain their position and not risk losing their balance. The
-U.S. Army’s BigDog robot, a four-legged cargo carrier, can move
-across rough terrain that would stop a wheeled vehicle.
+Boston Dynamics robot) is called a biped. Some robots have
+more than two legs and can always have multiple legs on the
+ground to maintain their position and not risk losing their bal-
+ance. The U.S. Army’s BigDog robot, a four-legged cargo carrier,
+can move across rough terrain that would stop a wheeled vehi-
+cle.
 Flying Robots. Unmanned aerial vehicles (UAVs) are flying
-robots. In the military, small UAVs fly in front of patrols so
+robots. In the military, small UAVs
+fly in front of patrols so
 that soldiers can spot potential
 ambushes. UAVs with special sen-
 sors can patrol large areas to spot the
@@ -592,14 +596,11 @@ veillance in remote areas. The U.S.
 Border Patrol uses unmanned aircraft
 along America’s borders.
 Underwater Robots. Robots are
-used underwater for exploration,
-repairs, mapping, recovering items
-like the flight data recorder of an airplane that has crashed in the
-ocean, or cleaning up oil spills.
+used underwater for exploration, repairs, mapping, recovering
+items like the flight data recorder of an airplane that has crashed in
+the ocean, or cleaning up oil spills.
 Climbing Robots. Some climbing robots can adjust their center
 of mass and move each limb in turn to gain leverage, just like
-humans. Another form of climber is the gecko-style robot that
-uses a special pad to climb even smooth surfaces.
 It’s important to
 design and equip
 a robot for its
@@ -621,6 +622,8 @@ Unmanned aerial vehicle
 
 20 ROBOTICS
 Major Fields of Robotics.
+humans. Another form of climber is the gecko-style robot that
+uses a special pad to climb even smooth surfaces.
 Manipulators and Effectors
 Besides moving from place to place, robots need to manipulate
 objects—pick up, modify, or otherwise move or have an effect
@@ -638,9 +641,6 @@ Magnetic Grippers. Magnetic grippers use electromagnets to
 hold and manipulate objects. These are versatile and can control
 heavy loads, but the objects must be made of a kind of material
 (iron, usually) that a magnet can pick up.
-Ingressive Effector. An ingressive effector uses pins, needles,
-or hackles that penetrate the surface of the object. These are
-common for handling textiles and glass fibers.
 Manipulators also
 use actuators
 to accomplish
@@ -656,6 +656,9 @@ ference is that each job uses a different end-effector.
 
 ROBOTICS 21
 .Major Fields of Robotics
+Ingressive Effector. An ingressive effector uses pins, needles,
+or hackles that penetrate the surface of the object. These are
+common for handling textiles and glass fibers.
 Programming
 A robot generally has an onboard computer that controls it. This
 requires writing a program in the language the robot speaks.
@@ -727,10 +730,9 @@ to build, the task you want your robot to complete, and the
 safety considerations of building your robot.
 Building larger robots requires the use of safety glasses,
 gloves, or other safety equipment depending on the complexity
-of your project. In addition, your counselor may suggest that a
-parent or trusted adult or another Scout be present during the
-building of your robot. This is in the Scouting spirit of two-deep
-leadership and the buddy system—always a good practice.
+of your project. And in the Scouting spirit of two-deep
+leadership, in any group setting there must be at least two
+registered leaders present when building a robot.
 The robot you build for this merit badge may be
 complicated. If so, you may be able to work on a
 team to complete the requirements. Discuss this
@@ -885,10 +887,10 @@ than by working alone.
 Putting most commercial robots together
 takes a team of skilled engineers. A Scout,
 however, does not have to wait to become
-an engineer to build robots. More than
-300,000 students participate each year in
-robotics competitions around the country.
-Many other youths build robots as a hobby.
+an engineer to build robots. Millions of
+students participate each year in robotics
+competitions around the country. Many
+other youths build robots as a hobby.
 Often, each member of a robotics team is
 assigned a responsibility. If you have an
 assigned responsibility, you need to show how
@@ -1941,36 +1943,12 @@ enters from one end only, and the device uses a spring for
 return force.
 
 
-DIGITAL SENSOR INPUTS
-ANALOG SENSOR INPUTS
-AIR PRESSURE PUMP
-ETHERNET FROM PC
-CONNECTED TO WIRELESS
-RECEIVER TO RUN THE ROBOT
-(BLACK CABLE)
-ROBOT CONTROL
-COMPUTER
-WEBCAM
-ETHERNET
-SECOND CAMERA
-SERIAL PORT
-DIGITAL
-SIGNAL
-ROUTER
-CAMERAS MAIN
-BREAKER
-MAIN POWER
-DISTRIBUTION BATTERY CONNECTOR
+58 ROBOTICS
+The Power Subsystem.
 
 
 ROBOTICS 59
 .The Controls Subsystem
-The controller
-on a robot is
-like a computer
-except it does not
-have a keyboard
-or mouse.
 The Controls Subsystem
 The controls subsystem controls what the robot does, similar to
 the way your brain controls your actions. The subsystem consists
@@ -1990,16 +1968,6 @@ The operator uses a computer to write the program that will run
 the robot. The computer translates the program and sends it to
 the robot’s controller. This screen shows a partial CAD rendering
 of a robot at a goal.
-CAMERAS DIGITAL SENSOR
-INPUTS
-ANALOG SENSOR
-INPUTS ROBOT CONTROL
-COMPUTER
-AIR
-COMPRESSOR
-ETHERNET
-FROM PC TO
-DOWNLOAD
 
 
 60 ROBOTICS
@@ -2318,9 +2286,10 @@ When using the
 internet, you
 should do so
 only with your
-parent or guard-
-ian’s permission
-and knowledge.
+parent or
+guardian’s
+permission and
+knowledge.
 Robotics Competitions
 Youth robotics competitions range from local competitions for
 30 students from a single town to major, organized tournaments
@@ -2360,16 +2329,17 @@ FIRST® competition
 70 ROBOTICS
 Robotics Competitions.
 FIRST®. For Inspiration and Recognition of Science and
-Technology (FIRST®) runs both autonomous time-trial and teleop-
-erated sports-like robotics competitions for youth from ages 6 to
-18. Younger students use LEGO kits (FIRST® LEGO® League or Jr.
-FIRST® LEGO® League—FLL®/Jr.FLL™). Older students choose
-between competitions featuring either a blend of LEGO and metal
-(FIRST® Tech Challenge—FTC®) or a custom-fabricated 130-pound
-robot (FIRST® Robotics Competition—FRC®). Thousands of FIRST
-teams can be found throughout the United States and in many
-other countries. The competitions welcome school, club, commu-
-nity, and Scout teams. Search the internet for “FIRST robotics.”
+Technology (FIRST®) is an international nonprofit organization
+that prepares young people for the future through a suite of life-
+changing youth robotics programs that build skills, confidence,
+and resilience. Children ages 4-18 can join any of the three
+programs—FIRST® LEGO® League, FIRST® Tech Challenge, and
+FIRST® Robotics Competition—based on age or grade level. Since
+1989, FIRST has reached more than 3.2 million young people in
+more than 100 countries, including teams and events across the
+United States. The annual competitions welcome school,
+community, and Scout teams. Learn more about the suite of FIRST
+programs at firstinspires.org.
 MATE. The Marine Advanced Technology Education (MATE)
 Center coordinates an international student ROV (remotely
 operated vehicle) competition that takes place underwater.
@@ -2396,32 +2366,35 @@ the robots may compete in autonomous, teleoperated, or hybrid
 challenges. A tournament may be open to TSA school chapters
 only, or to all teams in an area, so be sure to check with your
 local TSA chapter. Search the internet for “TSA-VEX robotics.”
-Trinity College Fire Fighting Home Robot Contest. The
-Trinity College firefighting contest is among the oldest robotics
-competitions. It has divisions for younger people, high school
-students, and adults. Teams build fully autonomous robots that
-explore a scale-model house and extinguish a fire (a candle).
-Regional events are held worldwide, and the championship is at
-Trinity College in Hartford, Connecticut. Search the internet for
-“Trinity firefighting robot.”
+REC Foundation’s Aerial Drone Competition. The RECF Arial
+Drone Competition provides a unique hands-on learning
+experience, fostering crucial STEM skills, including drone
+piloting, programming, and problem-solving. The competition
+environment mirrors the real world, requiring teamwork, critical
+thinking, and innovation to navigate mission challenges. The
+competition fosters a deep understanding of flight principles,
+documentation, and interpersonal skills, all while igniting a
+passion for drone-related careers.
 VEX® Robotics. The VEX® Robotics Competition (VRC) is an
 international competition offering separate sports-like divisions
 for elementary, middle school, high school, and college students.
 School, club, community, and Scout teams are welcome. Teams
 participate in hundreds of VRC competitions—autonomous, tele-
-operated, and hybrid autonomous/teleoperated—in more than 25
-countries, followed by a world championship in the United States.
-Search the internet for “VEX IQ Challenge,” “VEX Robotics
+operated, and hybrid autonomous/teleoperated—in more than
+100 countries, followed by a world championship in the United
+States. Search the internet for “VEX IQ Challenge,” “VEX Robotics
 Competition,” or “VEX Robotics College Competition.”
-Trinity College
-also sponsors a
-“RoboWaiter”
-competition to
-build a robot that
-can retrieve
-a plate of food
-and transport it
-reliably to a table.
+The RECF Aerial
+Drone Competition
+features 4
+missions.
+Teamwork
+Mission,
+Autonomous Flight
+Mission, Piloting
+Mission, and
+Communications
+Mission.
 VEX® Robotics competition
 
 
@@ -2454,7 +2427,7 @@ ROBOTICS 73
 Use an Internet Gateway
 Use a portal to find information. You might begin your search at
 an internet gateway such as these.
-Carnegie Mellon Robotics Academy (www.cs2n.org) has
+Carnegie Mellon Robotics Academy (cs2n.org) has
 information on several popular robotics platforms and youth
 competitions, and provides many resources.
 NASA Robotics Alliance Project (robotics.nasa.gov) provides
@@ -2464,12 +2437,14 @@ Other useful robotics portals include magazine websites
 (search for “robot magazine”), robotics clubs (search “robotics
 club” and “robotics society”), and professional groups such as
 the Institute of Electrical and Electronics Engineers (IEEE.org).
-Robot Events (www.robotevents.com) is maintained by
-the Robotics Education and Competition Foundation and is a
-clearinghouse for information on youth robotics competitions.
+Robot Events (robotevents.com) is maintained by the Robotics
+Education and Competition Foundation and is a clearinghouse for
+information on youth robotics competitions.
 Robotics Education and Competition Foundation (recf.org)
 connects students, mentors, and schools with engaging
-technology-based programs and competitions.
+technology-based programs fostering workforce development.
+RECF programs include ground-based robotics, drones, workcell
+challenge, and online technology-based challenges.
 In addition to your counselor, use traditional means. Go to a library or
 talk to your teachers, Scout leaders, parent or guardian, and fellow Scouts.
 Robots draw widespread interest—you will be surprised by how many
@@ -2721,11 +2696,8 @@ DVDs
 NOVA: The Great Robot Race. PBS, 2006.
 Robotics. History Channel, 2001.
 Online Resources
-“How to Build a Robot.” Razor Robotics,
-www.razorrobotics.com/
-building-robots
 “Robotics Tutorials.” ElectronicsTeacher.
-com, www.electronicsteacher.com/
+com, electronicsteacher.com/
 robotics/robotics-tutorial
 Also see the websites and sources
 described under “Robotics
@@ -2753,25 +2725,25 @@ Mechanical Engineers
 3 Park Ave.
 New York, NY 10016-5990
 Toll-free telephone: 800-843-2763
-www.asme.org
+asme.org
 AUVSI Foundation
 Robotic Competitions
 Association for Unmanned Vehicle
 Systems International
-www.auvsi.org
+auvsi.org
 Carnegie Mellon Robotics Academy
 Computer Science Social Network
-www.cmu.edu/roboticsacademy
+cmu.edu/roboticsacademy
 Institute of Electrical and
 Electronics Engineers
 2001 L Street, NW, Suite 700
 Washington, DC 20036-4910
 Phone: 202-785-0017
-www.ieee.org
+ieee.org
 National Robotics Week
-www.nationalroboticsweek.org
+nationalroboticsweek.org
 RoboGames
-www.robogames.net
+robogames.net
 Robotics Education and
 Competition Foundation (REC)
 recf.org
@@ -2779,7 +2751,7 @@ Technology Student Association
 1914 Association Drive
 Reston, VA 20191-1540
 Toll-free telephone: 888-860-9010
-www.tsaweb.org
+tsaweb.org
 Get Interactive with
 Scout Life magazine
 Unlock Scouting America’s
@@ -2816,9 +2788,8 @@ Space Center
 Rick Folea—Eagle Scout; co-author,
 Digital Technology merit badge pam-
 phlet; team lead, Animation merit
-badge; executive board member,
-Northeast Georgia Council; visual
-effects artist, AutomationDirect.com
+badge; team lead—Programming
+merit badge
 
 
 ROBOTICS 83
@@ -2846,8 +2817,8 @@ services of Dr. Kenneth Berry. Dr. Berry
 coordinated the development of the
 requirements and the pamphlet.
 We are grateful to Carnegie
-Mellon Robotics Academy (www.cs2n.
-org) and Robin Shoop, its director, for
+Mellon Robotics Academy (cs2n.org)
+and Robin Shoop, its director, for
 their generosity in including Scouting
 America as part of the FIRE initiative
 (Fostering Innovation through Robotics
@@ -2873,15 +2844,17 @@ petitor.
 Photo and Illustration Credits
 ©2011 AAI Corporation, courtesy—
 page 77 (unmanned surface vehicle)
-ABB Asea Brown Boveri Ltd., courtesy; www.
+ABB Asea Brown Boveri Ltd., courtesy;
 abb.com—cover (industrial robot at
 center right)
+AutomationDirect.com, courtesy—page 56
 Battery Powered Picklejar Heads, FTC Team
 4299, Lexington, Massachusetts, cour-
 tesy—page 72 (robot)
+Boston Dynamics, courtesy—page 9 (ATLAS)
 Carnegie Mellon Univ., courtesy—page 26
-Carnegie Science Center, courtesy—pages 72
-(RoboWorld exhibit) and 82
+Carnegie Science Center, courtesy—page 72
+(RoboWorld exhibit)
 Dagu, courtesy—page 32 (chassis)
 Dassault Systèmes SolidWorks,
 courtesy—page 13
@@ -2889,8 +2862,8 @@ courtesy—page 13
 courtesy—page 62
 ©2011 FIRST®, courtesy—page 69
 FIRST Robotics Team No. 33, the Killer Bees/
-Laszlo Hideg, Ph.D., P.E., courtesy—pages
-58, 59, and 60
+Laszlo Hideg, Ph.D., P.E., courtesy—page
+4, 50, 60, 69
 Rick Folea, courtesy—page 5
 Christopher Hideg, courtesy—pages 31 and 67
 Laszlo Hideg, Ph.D., P.E., courtesy—pages 23
@@ -2913,11 +2886,11 @@ Marine Advanced Technology Education
 (MATE), courtesy—page 70
 NASA, courtesy—cover (robot hands); pages
 11 (rover), 76, and 80
+NASA Human Spaceflight Collection, cour-
+tesy—page 74 (astronaut)
 
 
 Robotics Resources.
-NASA Human Spaceflight Collection, cour-
-tesy—page 74 (astronaut)
 NASA/Jet Propulsion Laboratory–Caltech,
 courtesy—page 18 (Curiosity)
 NASA/Jet Propulsion Laboratory–Caltech/
@@ -2931,8 +2904,9 @@ page 77 (AUV)
 Boe-Bot and Boe-Bot Robot Kit photos
 is with permission of Parallax Inc. Boe-
 Bot is a registered trademark of Parallax
-Inc. (www.parallax.com/go/boebot)—
-page 25 (Boe-Bot robot)
+Inc. (parallax.com/go/boebot)—page 25
+(Boe-Bot robot)
+Rev Robotics, Courtesy—page 58, 59
 RoboCoaster Ltd., courtesy—page 17
 Segway Inc., courtesy—page 18 (Segway)
 ©2011 Tec Weld Automation Inc., courtesy—
@@ -2942,11 +2916,8 @@ U.S. Marine Corps/Lance Cpl. M.L. Meier,
 courtesy—page 19 (BigDog)
 U.S. Navy, courtesy—cover and page 19
 (unmanned aerial vehicle)
-VEX Robotics—page 61 (both)
-Wikipedia.org, courtesy—page 9 (ASIMO)
+VEX Robotics—page 25, 27, 61 (both), 71
 Wikipedia.org/Humanrobo, courtesy—page 73
-Wikipedia.org/Francesco Mondada and
-Michael Bonani, courtesy—page 56
 Wikipedia.org/Lance Cpl. Bobby J. Segovia,
 courtesy—page 15 (telerobot)
 Wikipedia.org/Red Sunset, courtesy—page
@@ -2961,7 +2932,7 @@ John McDearmon, Rick Folea, and VEX
 Robotics—pages 34–39, 44–47, 49, and 57
 John McDearmon and Laszlo Hideg, Ph.D.,
 P.E.—page 65
-Subscribe today at go.scoutlife.org/subscribe
+Subscribe today at go.scoutlife.org/slmbp15
 Use promo code SLMBP15 to get a special
 offer priced just for Scouts!
 
@@ -3005,12 +2976,12 @@ Chemistry
 Chess
 Citizenship in the Community
 Citizenship in the Nation
-Citizenship in Society
 Citizenship in the World
 Climbing
 Coin Collecting
 Collections
 Communication
+Competitive Gaming
 Composite Materials
 Cooking
 Crime Prevention
@@ -3117,6 +3088,7 @@ Weather
 Welding
 Whitewater
 Wilderness Survival
+Wildland Fire Management
 Wood Carving
 Woodwork
 
