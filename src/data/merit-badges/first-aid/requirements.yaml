@@ -1,3 +1,4 @@
+# 7(g) had ".." at the beginning - removed
 # AUTO: WARNING: Found URL ending with ".pdf" near "Where to Place AEDs..." with resource type "website". This should be "pdf".
 -   requirement: 1
     text: '<b>Handling a First Aid Emergency.</b> Do the following:'
@@ -7,8 +8,7 @@
                 Explain the steps necessary to assess and handle a first aid
                 emergency, including a safety evaluation of the scene.
             resources:
-                -   href: >-
-                        https://www.redcross.org/take-a-class/resources/articles/the-three-cs-of-first-aid-check-call-care
+                -   href: https://www.redcross.org/take-a-class/resources/articles/the-three-cs-of-first-aid-check-call-care
                     text: 'The 3 C''s of First Aid: Check, Call, Care'
                     type: website
                 -   href: https://youtu.be/nrNAhMg-uS4
@@ -25,12 +25,10 @@
                 -   href: https://youtu.be/J3efgWPPp4k
                     text: What Happens When You Call 911
                     type: video
-                -   href: >-
-                        https://www.medstarhealth.org/blog/preparing-for-medical-emergencies-at-home
+                -   href: https://www.medstarhealth.org/blog/preparing-for-medical-emergencies-at-home
                     text: Preparing for a Medical Emergency at Home
                     type: website
-                -   href: >-
-                        https://ncoae.org/blog/when-to-call-or-not-call-for-help-during-a-wilderness-emergency/
+                -   href: https://ncoae.org/blog/when-to-call-or-not-call-for-help-during-a-wilderness-emergency/
                     text: Calling for Help for a Wilderness Emergency
                     type: website
         -   requirement: c
@@ -99,8 +97,7 @@
                 immunizations, allergies, medications, health history, and
                 medical examinations to providing first aid at Scouting events.
             resources:
-                -   href: >-
-                        https://www.scouting.org/health-and-safety/safety-moments/annual-health-and-medical-record/
+                -   href: https://www.scouting.org/health-and-safety/safety-moments/annual-health-and-medical-record/
                     text: Scout Health Forms
                     type: website
         -   requirement: b
@@ -109,12 +106,10 @@
                 href="/merit-badges/first-aid/"><i>First Aid</i> merit badge</a>
                 pamphlet or ones approved by your counselor, do the following:
             resources:
-                -   href: >-
-                        https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/First%20Aid/Personal%20Family%20Troop%20First%20Aid%20Kit%20Checklist.pdf
+                -   href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/First%20Aid/Personal%20Family%20Troop%20First%20Aid%20Kit%20Checklist.pdf
                     text: Personal, Family, and Troop First Aid Kit Checklist
                     type: pdf
-                -   href: >-
-                        https://scoutlife.org/video-audio/4937/first-aid-kit-buying-guide/
+                -   href: https://scoutlife.org/video-audio/4937/first-aid-kit-buying-guide/
                     text: First Aid Kit Checklists
                     type: website
             children:
@@ -148,8 +143,7 @@
                 -   href: https://www.youtube.com/watch?v=DkOmr3BEkvE
                     text: 'Bruise: What to Do'
                     type: video
-                -   href: >-
-                        https://www.mayoclinic.org/first-aid/first-aid-bruise/basics/art-20056663
+                -   href: https://www.mayoclinic.org/first-aid/first-aid-bruise/basics/art-20056663
                     text: First Aid for Bruises
                     type: website
                 -   href: https://www.youtube.com/watch?v=Bc28m7Ryumg
@@ -172,15 +166,13 @@
         -   requirement: c
             text: Chemical burns
             resources:
-                -   href: >-
-                        https://my.clevelandclinic.org/health/diseases/22350-chemical-burns
+                -   href: https://my.clevelandclinic.org/health/diseases/22350-chemical-burns
                     text: Chemical Burns
                     type: website
         -   requirement: d
             text: Electrical burns
             resources:
-                -   href: >-
-                        https://www.mayoclinic.org/first-aid/first-aid-electrical-burns/basics/art-20056687
+                -   href: https://www.mayoclinic.org/first-aid/first-aid-electrical-burns/basics/art-20056687
                     text: Electrical Burns
                     type: website
         -   requirement: e
@@ -206,22 +198,19 @@
                 -   href: https://youtu.be/b8Th0JIDBW4
                     text: Immersion (Trench) Foot
                     type: video
-                -   href: >-
-                        https://my.clevelandclinic.org/health/diseases/24392-trench-foot
+                -   href: https://my.clevelandclinic.org/health/diseases/24392-trench-foot
                     text: Immersion (Trench) Foot
                     type: website
                 -   href: https://youtu.be/tPEj-0sKZyo
                     text: Frostbite
                     type: video
-                -   href: >-
-                        https://www.mayoclinic.org/diseases-conditions/frostbite/symptoms-causes/syc-20372656
+                -   href: https://www.mayoclinic.org/diseases-conditions/frostbite/symptoms-causes/syc-20372656
                     text: Frostbite
                     type: website
         -   requirement: h
             text: Abrasions, such as chafing and rope burns
             resources:
-                -   href: >-
-                        https://hilltoppacks.com/pages/how-do-i-prevent-chafing-while-hiking
+                -   href: https://hilltoppacks.com/pages/how-do-i-prevent-chafing-while-hiking
                     text: How To Prevent Chafing While Hiking
                     type: website
                 -   href: https://www.healthline.com/health/rope-burn
@@ -230,8 +219,7 @@
         -   requirement: i
             text: Blisters on the hands, feet, buttocks, and shoulders
             resources:
-                -   href: >-
-                        https://www.aad.org/public/everyday-care/injured-skin/burns/prevent-treat-blisters
+                -   href: https://www.aad.org/public/everyday-care/injured-skin/burns/prevent-treat-blisters
                     text: How to Prevent and Treat Blisters
                     type: website
         -   requirement: j
@@ -242,14 +230,12 @@
                 -   href: https://youtu.be/L6crQ3nMLkI
                     text: Splinters
                     type: video
-                -   href: >-
-                        https://www.homedepot.com/c/ah/how-to-get-a-splinter-out/9ba683603be9fa5395fab9013594e8c7
+                -   href: https://www.homedepot.com/c/ah/how-to-get-a-splinter-out/9ba683603be9fa5395fab9013594e8c7
                     text: |-
                         Tips for Removing Splinters, Including Tape and White
                         Glue
                     type: website
-                -   href: >-
-                        https://www.urgentcareforfeet.com/infection-warning-key-signs-to-monitor-after-a-foot-puncture-injury/
+                -   href: https://www.urgentcareforfeet.com/infection-warning-key-signs-to-monitor-after-a-foot-puncture-injury/
                     text: Puncture Wounds on the Feet
                     type: website
                 -   href: https://youtu.be/AmT3T_9Guq0
@@ -261,8 +247,7 @@
                 -   href: https://www.youtube.com/watch?v=P6aBc4OAD0g
                     text: Poisonous Plants
                     type: video
-                -   href: >-
-                        https://my.clevelandclinic.org/health/diseases/10655-poison-plants-poison-ivy--poison-oak--poison-sumac
+                -   href: https://my.clevelandclinic.org/health/diseases/10655-poison-plants-poison-ivy--poison-oak--poison-sumac
                     text: Poisonous Plants
                     type: website
         -   requirement: l
@@ -271,12 +256,10 @@
                 -   href: https://youtu.be/tcbNBdPRxk8
                     text: First Aid for Chigger Bites
                     type: video
-                -   href: >-
-                        https://www.aad.org/public/everyday-care/injured-skin/bites/remove-a-tick
+                -   href: https://www.aad.org/public/everyday-care/injured-skin/bites/remove-a-tick
                     text: Removing a Tick and Preventing Tick Bites
                     type: website
-                -   href: >-
-                        https://www.aad.org/public/everyday-care/injured-skin/bites/prevent-treat-bug-bites
+                -   href: https://www.aad.org/public/everyday-care/injured-skin/bites/prevent-treat-bug-bites
                     text: Preventing and Treating Mosquito Bites
                     type: website
                 -   href: https://youtu.be/QazaIwbtZHs
@@ -300,8 +283,7 @@
                 -   href: https://www.youtube.com/watch?v=cfh7XOc_hgc
                     text: Black Widow vs Brown Recluse Spider Bites
                     type: video
-                -   href: >-
-                        https://my.clevelandclinic.org/health/diseases/16639-spider-bites
+                -   href: https://my.clevelandclinic.org/health/diseases/16639-spider-bites
                     text: Spider Bites
                     type: website
         -   requirement: o
@@ -310,8 +292,7 @@
                 -   href: https://youtu.be/YFI2VMy6mT0
                     text: How Scorpion Stings Work
                     type: video
-                -   href: >-
-                        https://www.mayoclinic.org/diseases-conditions/scorpion-stings/symptoms-causes/syc-20353859
+                -   href: https://www.mayoclinic.org/diseases-conditions/scorpion-stings/symptoms-causes/syc-20353859
                     text: Scorpion Stings
                     type: website
         -   requirement: p
@@ -323,15 +304,13 @@
         -   requirement: q
             text: Bite of a venomous snake
             resources:
-                -   href: >-
-                        https://www.snakebitefoundation.org/blog/how-to-treat-snakebites-for-first-responders-in-the-united-states
+                -   href: https://www.snakebitefoundation.org/blog/how-to-treat-snakebites-for-first-responders-in-the-united-states
                     text: First Aid for Snake Bites
                     type: website
                 -   href: https://youtu.be/yyicCyoEpPM
                     text: First Aid for Snake Bites
                     type: video
-                -   href: >-
-                        https://www.cdc.gov/niosh/outdoor-workers/about/venomous-snakes.html
+                -   href: https://www.cdc.gov/niosh/outdoor-workers/about/venomous-snakes.html
                     text: Venomous Snakes
                     type: website
 -   requirement: 4
@@ -532,20 +511,18 @@
                 Demonstrate or simulate the proper use of an AED, using an AED
                 training device if available.
             resources:
-                -   href: >-
-                        https://blog.scoutingmagazine.org/2024/06/13/does-your-scout-unit-have-an-aed/
+                -   href: https://blog.scoutingmagazine.org/2024/06/13/does-your-scout-unit-have-an-aed/
                     text: AEDs in Scouting
                     type: website
         -   requirement: g
             text: |-
-                Identify the typical location(s) of one or more AED(s) at public
-                facilities in your community, such as, your school, place of
-                worship, unit meeting place, sports facilities, and/or camp or
-                by using a smart phone app. Discuss the reasons for choosing
+                Identify the typical location(s) of one or more AED(s) at
+                public facilities in your community, such as, your school, place
+                of worship, unit meeting place, sports facilities, and/or camp
+                or by using a smartphone app. Discuss the reasons for choosing
                 locations like these.
             resources:
-                -   href: >-
-                        https://cpr.heart.org/en/-/media/CPR-Files/Training-Programs/AED-Implementation/2023-updates/KJ1683-AED-Guide.pdf
+                -   href: https://cpr.heart.org/en/-/media/CPR-Files/Training-Programs/AED-Implementation/2023-updates/KJ1683-AED-Guide.pdf
                     text: Where to Place AEDs
                     type: pdf
 -   requirement: 8
@@ -690,8 +667,7 @@
                 Describe the conditions under which an injured person should and
                 should not be moved.
             resources:
-                -   href: >-
-                        https://www.firstaidbristol.co.uk/blog/2024/09/10/when-is-it-okay-to-move-a-casualty/
+                -   href: https://www.firstaidbristol.co.uk/blog/2024/09/10/when-is-it-okay-to-move-a-casualty/
                     text: When to Move an Injured Person
                     type: website
         -   requirement: b
@@ -699,8 +675,7 @@
                 If a sick or an injured person must be moved, tell how you would
                 decide the best method. Demonstrate these methods.
             resources:
-                -   href: >-
-                        https://www.cert-la.com/cert-training-education/lifts-carries/
+                -   href: https://www.cert-la.com/cert-training-education/lifts-carries/
                     text: Lifts and Carries
                     type: website
         -   requirement: c
@@ -777,12 +752,10 @@
                 -   href: https://youtu.be/my6JB41apTw
                     text: Hypothermia
                     type: video
-                -   href: >-
-                        https://www.scouting.org/health-and-safety/safety-moments/winter-activity/
+                -   href: https://www.scouting.org/health-and-safety/safety-moments/winter-activity/
                     text: C.O.L.D. Guidelines for Staying warm
                     type: website
-                -   href: >-
-                        https://health.mo.gov/living/healthcondiseases/hypothermia/index.php
+                -   href: https://health.mo.gov/living/healthcondiseases/hypothermia/index.php
                     text: Frostbite and Hypothermia
                     type: website
                 -   href: https://youtu.be/aDAqWLpHXXU
@@ -859,8 +832,7 @@
                 -   href: https://youtu.be/eJnKf1jM6xY
                     text: Dental Emergencies
                     type: video
-                -   href: >-
-                        https://my.clevelandclinic.org/health/diseases/16916-dental-injuries
+                -   href: https://my.clevelandclinic.org/health/diseases/16916-dental-injuries
                     text: Dental Injuries
                     type: website
         -   requirement: c
@@ -903,8 +875,7 @@
         plan with your counselor, and then teach your skill or topic to your
         family or to one or more Scouts.
     resources:
-        -   href: >-
-                https://blog.scoutingmagazine.org/2017/05/05/living-on-the-edge-this-is-the-correct-way-to-teach-someone-a-skill/
+        -   href: https://blog.scoutingmagazine.org/2017/05/05/living-on-the-edge-this-is-the-correct-way-to-teach-someone-a-skill/
             text: 'The Teaching EDGE: The Best Way To Teach Someone a New Skill'
             type: website
 -   requirement: 15

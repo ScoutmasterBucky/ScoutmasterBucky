@@ -1,3 +1,4 @@
+# AUTO: WARNING: Found resource text wrapped in italics near "<i>Swimming</i> Merit Badge Pamphlet (PDF)...". This should be cleaned up.
 -   requirement: 1
     text: 'Do the following:'
     children:
@@ -13,12 +14,10 @@
                 -   href: https://www.scouting.org/health-and-safety/gss/gss02
                     text: Safe Swim Defense
                     type: website
-                -   href: >-
-                        https://www.noaa.gov/multimedia/video/video-heading-to-beach-see-our-rip-current-survival-guide-first
+                -   href: https://www.noaa.gov/multimedia/video/video-heading-to-beach-see-our-rip-current-survival-guide-first
                     text: Rip Current Survival Guide
                     type: website w/ video
-                -   href: >-
-                        https://onscouting.org/2021/06/10/what-constitutes-a-safe-swimming-area/
+                -   href: https://onscouting.org/2021/06/10/what-constitutes-a-safe-swimming-area/
                     text: Safe Swimming Area
                     type: website
         -   requirement: b
@@ -29,8 +28,7 @@
                 hyperventilation, spinal injury, stings and bites, and cuts and
                 scrapes.
             resources:
-                -   href: >-
-                        https://surefirecpr.com/emergency-tips/10-common-summer-safety-emergencies/
+                -   href: https://surefirecpr.com/emergency-tips/10-common-summer-safety-emergencies/
                     text: 10 Common Summer Safety Emergencies
                     type: website
 -   requirement: 2
@@ -39,9 +37,8 @@
         Scouting America swimmer test, found in the <a
         href="/merit-badges/swimming/"><i>Swimming</i> merit badge</a> pamphlet.
     resources:
-        -   href: >-
-                https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf
-            text: <i>Swimming</i> Merit Badge Pamphlet
+        -   href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf
+            text: Swimming Merit Badge Pamphlet
             type: pdf
 -   requirement: 3
     text: 'Correctly perform the following strokes:'
