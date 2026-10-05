@@ -3,9 +3,28 @@ host: Scoutmaster Bucky
 icon: /events/bucky-dec.png
 start: '2026-12-12 8:00'
 end: '2026-12-12 16:00'
+registrationLink: https://scoutmasterbucky.regfox.com/in-person-scoutmaster-bucky-december-merit-badge-day-2026-12-12
 location:
     - Shepherd of the Lake Lutheran Church
     - 3611 North Berens Road NW
     - Prior Lake, Minnesota 55379
+meritBadges:
+    - animation
+    - communication
+    - cooking
+    - dentistry
+    - family-life
+    - first-aid
+    - graphic-arts
+    - health-care-professions
+    - journalism
+    - moviemaking
+    - photography
+    - public-speaking
+    - textile
 html: |-
-    <p>Save the date! Merit badge offerings will be announced later.</p>
+    <p>Registration is now open!</p>
+noticeTile: |-
+     Giving to Toys for Tots
+noticeHtml: |-
+     <p>Our December 2026 Year of Giving recipient will be Toys for Tots.</p>
