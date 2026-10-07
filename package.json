@@ -9,6 +9,7 @@
         "now": "npm run build && npm run preview",
         "postinstall": "patch-package",
         "fix-cloud-one": "node -e \"try { require('fs').copyFileSync('cloud-one/dist/core/element.js', 'node_modules/cloud-one/dist/core/element.js') } catch {}\"",
+        "release-videos": "node release-videos.mjs",
         "reinstall": "node -e \"const fs = require('fs'); fs.rmSync('node_modules', { recursive: true, force: true }); fs.rmSync('package-lock.json', { force: true })\" && npm install",
         "start": "astro dev --open --host",
         "start-windows": "npm ci && npm run start",
