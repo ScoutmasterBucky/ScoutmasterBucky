@@ -8,12 +8,12 @@
         "build-sitemap": "node build-sitemap.mjs",
         "now": "npm run build && npm run preview",
         "postinstall": "patch-package",
-        "fix-cloud-one": "cp cloud-one/dist/core/element.js node_modules/cloud-one/dist/core/ || :",
-        "reinstall": "rm -rf node_modules package-lock.json && npm install",
+        "fix-cloud-one": "node -e \"try { require('fs').copyFileSync('cloud-one/dist/core/element.js', 'node_modules/cloud-one/dist/core/element.js') } catch {}\"",
+        "reinstall": "node -e \"const fs = require('fs'); fs.rmSync('node_modules', { recursive: true, force: true }); fs.rmSync('package-lock.json', { force: true })\" && npm install",
         "start": "astro dev --open --host",
         "start-windows": "npm ci && npm run start",
         "verify-external-links": "checklinks -a",
-        "verify-internal-links": "check-html-links dist/ 2>&1 > /dev/null | ( ! grep --context=1000 '❌' )"
+        "verify-internal-links": "node verify-internal-links.mjs"
     },
     "engines": {
         "node": ">= 20.0.0"

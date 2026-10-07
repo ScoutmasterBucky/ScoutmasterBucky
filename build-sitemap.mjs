@@ -8,6 +8,7 @@ const sitemap = [
 
 for await (const file of glob('dist/**/*.html')) {
     const linkUrl = file
+        .replace(/\\/g, '/')
         .replace(/^dist\//, '')
         .replace(/(^|\/)index\.html$/, '$1');
 
