@@ -1,5 +1,5 @@
 ---
-import { getEntry } from 'astro:content';
+import { getCollection, getEntry } from 'astro:content';
 import { updatedDateToString } from '~/utils/updated-date';
 import DefaultLayout from './default-layout.astro';
 import DiscontinuedMeritBadge from '~/components/discontinued-merit-badge.astro';
@@ -12,7 +12,10 @@ interface Props {
 
 const { badge } = Astro.props.frontmatter || Astro.props;
 const requirements = (await getEntry('meritBadgeRequirements', badge))?.data;
-const resources = (await getEntry('meritBadgeResources', badge))?.data;
+// Not every merit badge has resources; getEntry would warn for the missing ones.
+const resources =
+    (await getCollection('meritBadgeResources', entry => entry.id === badge))[0]
+        ?.data ?? [];
 const info = (await getEntry('meritBadges', badge))?.data;
 const updatedDates = (await getEntry('updated', 'merit-badges'))?.data;
 const updatedDateStr = updatedDateToString(updatedDates[badge]);
@@ -137,20 +140,22 @@ let hasResources = checkRequirementsForResources(requirements);
 
     <slot />
 
-    <h3>Resources</h3>
+    {(resources.length > 0 || info.videoCode) && <h3>Resources</h3>}
 
     <div class="resources-and-video">
-        <ul>
-            {
-                resources.map(resource => (
-                    <li>
-                        <a href={resource.url} target="_blank">
-                            {resource.name}
-                        </a>
-                    </li>
-                ))
-            }
-        </ul>
+        {
+            resources.length > 0 && (
+                <ul>
+                    {resources.map(resource => (
+                        <li>
+                            <a href={resource.url} target="_blank">
+                                {resource.name}
+                            </a>
+                        </li>
+                    ))}
+                </ul>
+            )
+        }
         {
             info.videoCode && (
                 <div class="video-wrapper">

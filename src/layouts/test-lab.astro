@@ -2,7 +2,7 @@
 import DefaultLayout from './default-layout.astro';
 import Requirements from '~/components/requirements.astro';
 import ScaledContent from '~/components/scaled-content.astro';
-import { getEntry } from 'astro:content';
+import { getCollection, getEntry } from 'astro:content';
 import { updatedDateToString } from '~/utils/updated-date';
 
 interface Props {
@@ -11,7 +11,8 @@ interface Props {
 
 const { testLab } = Astro.props.frontmatter || Astro.props;
 const requirements = (await getEntry('testLabRequirements', testLab))?.data;
-const resources = (await getEntry('testLabResources', testLab))?.data;
+// Not every test lab has resources; getEntry would warn for the missing ones.
+const resources = (await getCollection('testLabResources', entry => entry.id === testLab))[0]?.data;
 const info = (await getEntry('testLabs', testLab))?.data;
 const updatedDates = (await getEntry('updated', 'test-labs'))?.data;
 const updatedDateStr = updatedDateToString(updatedDates[testLab]);
