@@ -213,6 +213,7 @@ component(
                     MMM: this.formatDateLocal(date, 'MMM'),
                     d: this.formatDateLocal(date, 'd'),
                     hmma: this.formatDateLocal(date, 'h:mm a'),
+                    yyyy: this.formatDateLocal(date, 'yyyy'),
                 },
                 timestamp,
             };

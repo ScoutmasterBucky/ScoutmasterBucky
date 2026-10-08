@@ -26,6 +26,14 @@ component(
             .calendar-day.multiple {
                 font-size: 1.5em;
             }
+
+            .calendar-day.far {
+                font-size: 1.2em;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                white-space: nowrap;
+            }
         `,
         template: html`
             <div class="calendar">
@@ -47,11 +55,13 @@ component(
             let month = event.startDate.local.MMM;
             let day = event.startDate.local.d;
             let multiple = false;
+            let multipleMonths = false;
 
             if (event.endDate) {
                 if (event.endDate.local.MMM !== month) {
-                    this.month += `/${event.endDate.local.MMM}`;
+                    month += `/${event.endDate.local.MMM}`;
                     multiple = true;
+                    multipleMonths = true;
                 }
 
                 if (event.endDate.local.d !== day || multiple) {
@@ -63,6 +73,17 @@ component(
             this.multipleClass = multiple ? 'multiple' : '';
             this.month = month;
             this.day = day;
+
+            // Events over a year away show the year so they are not
+            // confused with the same month in the coming year.
+            const nextYear = new Date();
+            nextYear.setFullYear(nextYear.getFullYear() + 1);
+
+            if (event.startDate.timestamp > nextYear.getTime()) {
+                this.month = event.startDate.local.yyyy;
+                this.day = multipleMonths ? month : `${month} ${day}`;
+                this.multipleClass = 'far';
+            }
         }
     }
 );
