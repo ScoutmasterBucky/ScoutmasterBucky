@@ -148,9 +148,13 @@ let hasResources = checkRequirementsForResources(requirements);
                 <ul>
                     {resources.map(resource => (
                         <li>
-                            <a href={resource.url} target="_blank">
-                                {resource.name}
-                            </a>
+                            {resource.url ? (
+                                <a href={resource.url} target="_blank">
+                                    {resource.name}
+                                </a>
+                            ) : (
+                                resource.name
+                            )}
                         </li>
                     ))}
                 </ul>

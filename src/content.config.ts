@@ -95,7 +95,8 @@ const meritBadgeResources = defineCollection({
             description: z.string().optional(),
             name: z.string(),
             shortName: z.string().optional(),
-            url: z.string(),
+            // Optional so a plain note (e.g., "There is no official ... pamphlet.") can sit in the list
+            url: z.string().optional(),
         })
     ),
 });
