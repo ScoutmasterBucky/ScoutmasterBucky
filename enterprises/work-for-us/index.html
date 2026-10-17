@@ -1,0 +1,1441 @@
+<!DOCTYPE html><html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!-- TODO: Set the document title to the name of your application -->
+        <title>Bucky Enterprises</title>
+        <meta name="description" content="Bucky Enterprises" />
+
+        <!-- TODO: Update og:title to match your application name -->
+
+        <meta property="og:type" content="website" />
+        <meta
+            property="og:image"
+            content="https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/48ddc115-1277-4884-81a8-b2ffb7b3d100?Expires=1774014648&amp;GoogleAccessId=go-api-on-aws%40gpt-engineer-390607.iam.gserviceaccount.com&amp;Signature=WydEpTn41z31vNcSWa1yJaBd2haWxTfCXgPbYgqzZ0FMRdRzr1yEGAr%2F8u%2F4nZm7OvKHoR%2Bp9y7ymLYQOD4qCSG%2Fi2r%2FnGyIiT2KpAw4wqorbUATeypAQdFDAjuYFGmsZhKkTxx0Tw4UjwmcmhmaEu54EoatioCxVJ9BoA%2FcHeuth%2BmXOheEGewIIrpwmie7siU%2F47%2B0HoGYivEMQtb%2BfxTX2P8CYYR9wj5KP9DQiaiAHRyKd1MDyvpxyTm8dcT7mL%2BDvAGOrCY98n0xwCq4JyN1UcpvPnGG%2F87ab1pVZ9KIzjmlfO3Yp62J%2Bs7nzNC3%2F%2FT6pv6urnoGHwMhwGTNwQ%3D%3D"
+        />
+
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+            name="twitter:image"
+            content="https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/48ddc115-1277-4884-81a8-b2ffb7b3d100?Expires=1774014648&amp;GoogleAccessId=go-api-on-aws%40gpt-engineer-390607.iam.gserviceaccount.com&amp;Signature=WydEpTn41z31vNcSWa1yJaBd2haWxTfCXgPbYgqzZ0FMRdRzr1yEGAr%2F8u%2F4nZm7OvKHoR%2Bp9y7ymLYQOD4qCSG%2Fi2r%2FnGyIiT2KpAw4wqorbUATeypAQdFDAjuYFGmsZhKkTxx0Tw4UjwmcmhmaEu54EoatioCxVJ9BoA%2FcHeuth%2BmXOheEGewIIrpwmie7siU%2F47%2B0HoGYivEMQtb%2BfxTX2P8CYYR9wj5KP9DQiaiAHRyKd1MDyvpxyTm8dcT7mL%2BDvAGOrCY98n0xwCq4JyN1UcpvPnGG%2F87ab1pVZ9KIzjmlfO3Yp62J%2Bs7nzNC3%2F%2FT6pv6urnoGHwMhwGTNwQ%3D%3D"
+        />
+        <meta property="og:title" content="Bucky Enterprises" />
+        <meta name="twitter:title" content="Bucky Enterprises" />
+        <meta
+            property="og:description"
+            content="Bucky Enterprises"
+        />
+        <meta
+            name="twitter:description"
+            content="Bucky Enterprises"
+        />
+        <link rel="stylesheet" crossorigin="" href="../styles.css" />
+    </head>
+
+    <body>
+        <div id="root">
+            <div class="min-h-screen flex flex-col">
+                <header
+                    class="bg-pine-dark text-primary-foreground"
+                    role="banner"
+                >
+                    <nav
+                        class="container-wide section-padding py-3 flex items-center justify-between"
+                        aria-label="Site navigation"
+                    >
+                        <a
+                            class="text-xl font-bold tracking-tight hover:text-amber-light transition-colors"
+                            href="../"
+                            >Bucky</a
+                        >
+                        <ul class="hidden md:flex items-center gap-6 text-sm">
+                            <li>
+                                <a
+                                    class="transition-colors text-primary-foreground hover:text-amber-light"
+                                    href="../"
+                                    >Home</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    class="transition-colors text-primary-foreground hover:text-amber-light"
+                                    href="../about/"
+                                    >About Us</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    class="transition-colors text-primary-foreground hover:text-amber-light"
+                                    href="../community/"
+                                    >Community</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    class="transition-colors text-amber-light font-semibold"
+                                    aria-current="page"
+                                    href="../work-for-us/"
+                                    >Work For Us</a
+                                >
+                            </li>
+                        </ul>
+                        <details class="md:hidden relative">
+                            <summary
+                                class="list-none cursor-pointer p-2"
+                                aria-label="Open menu"
+                            >
+                                <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    width="24"
+                                    height="24"
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    stroke="currentColor"
+                                    stroke-width="2"
+                                    stroke-linecap="round"
+                                    stroke-linejoin="round"
+                                    aria-hidden="true"
+                                >
+                                    <line x1="3" y1="6" x2="21" y2="6"></line>
+                                    <line x1="3" y1="12" x2="21" y2="12"></line>
+                                    <line x1="3" y1="18" x2="21" y2="18"></line>
+                                </svg>
+                            </summary>
+                            <div
+                                class="absolute right-0 top-full mt-2 w-48 bg-card text-foreground border rounded-lg shadow-lg z-50"
+                            >
+                                <ul class="py-2">
+                                    <li>
+                                        <a
+                                            class="block px-4 py-2 hover:bg-secondary"
+                                            href="../"
+                                            >Home</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="block px-4 py-2 hover:bg-secondary"
+                                            href="../about/"
+                                            >About Us</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="block px-4 py-2 hover:bg-secondary"
+                                            href="../community/"
+                                            >Community</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="block px-4 py-2 hover:bg-secondary font-semibold text-pine"
+                                            aria-current="page"
+                                            href="../work-for-us/"
+                                            >Work For Us</a
+                                        >
+                                    </li>
+                                </ul>
+                            </div>
+                        </details>
+                    </nav>
+                </header>
+                <main id="main-content" class="flex-1">
+                    <section class="bg-pine-dark text-primary-foreground py-16">
+                        <div class="container-wide section-padding">
+                            <h1 class="heading-1 text-primary-foreground">
+                                Work For Us
+                            </h1>
+                            <p
+                                class="mt-4 text-primary-foreground/80 text-lg max-w-2xl"
+                            >
+                                Start your career with purpose. We're hiring
+                                youth for summer, part-time, and flexible
+                                positions across the country.
+                            </p>
+                        </div>
+                    </section>
+                    <section class="bg-card py-12" aria-label="Why work here">
+                        <div class="container-wide section-padding">
+                            <div
+                                class="grid md:grid-cols-2 gap-10 items-center"
+                            >
+                                <div>
+                                    <h2 class="heading-2 mb-4">
+                                        Join the Bucky Family
+                                    </h2>
+                                    <p class="body-large mb-4">
+                                        At Bucky Enterprises, many
+                                        of our team members started as the youth
+                                        we serve. We hire students and young
+                                        adults, give them real responsibilities,
+                                        and invest in their growth with
+                                        competitive pay, strong values, and
+                                        genuine care.
+                                    </p>
+                                    <p
+                                        class="text-muted-foreground leading-relaxed"
+                                    >
+                                        No special skills or prior experience
+                                        required for any of the positions below.
+                                        We'll train you, mentor you, and — if
+                                        you're a good fit — keep you as part of
+                                        the team for as long as you want to
+                                        stay.
+                                    </p>
+                                </div>
+                                <img
+                                    src="../work-for-us.jpg"
+                                    alt="Young employees helping a customer in an outdoor gear store"
+                                    class="rounded-lg shadow-md w-full h-64 object-cover"
+                                />
+                            </div>
+                        </div>
+                    </section>
+                    <section
+                        class="bg-secondary py-16"
+                        aria-label="Open positions"
+                    >
+                        <div class="container-wide section-padding">
+                            <h2 class="heading-2 mb-2">Open Positions</h2>
+                            <p class="text-muted-foreground mb-8">
+                                All current positions are designed for students
+                                and young adults. No experience necessary.
+                            </p>
+                            <div class="space-y-8">
+                                <article
+                                    class="card-surface p-6 sm:p-8"
+                                    id="job-1"
+                                >
+                                    <div
+                                        class="flex flex-wrap items-baseline gap-x-4 gap-y-1 mb-4"
+                                    >
+                                        <h3 class="heading-3">
+                                            Retail Adventure Specialist
+                                        </h3>
+                                        <span
+                                            class="text-xs font-semibold uppercase tracking-widest text-pine bg-pine/10 px-2 py-0.5 rounded"
+                                            >Summer Seasonal</span
+                                        >
+                                    </div>
+                                    <div
+                                        class="flex flex-wrap gap-x-6 gap-y-1 text-sm text-muted-foreground mb-4"
+                                    >
+                                        ><span>💰 $15.50 – $17.00/hr</span
+                                        ><span
+                                            >🕐 30–40 hrs/week, June through
+                                            August</span
+                                        >
+                                    </div>
+                                    <p
+                                        class="text-muted-foreground leading-relaxed mb-6"
+                                    >
+                                        Bucky Enterprises is seeking
+                                        high-energy, customer-focused students
+                                        to join our retail team during our
+                                        busiest season. As a Retail Adventure
+                                        Specialist, you will work directly with
+                                        customers to outfit them for camping,
+                                        hiking, water sports, and backyard
+                                        adventures. You'll learn product lines,
+                                        help customers choose the right gear for
+                                        their skill level and trip plans, and
+                                        keep the sales floor organized and
+                                        inviting.
+                                    </p>
+                                    <div class="grid md:grid-cols-2 gap-6 mb-6">
+                                        <div>
+                                            <h4
+                                                class="font-semibold text-foreground mb-2"
+                                            >
+                                                Responsibilities &amp; Duties
+                                            </h4>
+                                            <ul
+                                                class="space-y-1.5 text-sm text-muted-foreground"
+                                                role="list"
+                                            >
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Greet and assist customers
+                                                    on the sales floor, helping
+                                                    them select camping, hiking,
+                                                    and water sport equipment
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Maintain product displays,
+                                                    restock shelves, and ensure
+                                                    accurate signage and pricing
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Operate point-of-sale
+                                                    systems and process
+                                                    transactions accurately
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Participate in weekly
+                                                    product training sessions to
+                                                    stay current on gear
+                                                    features and recommendations
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Support inventory counts
+                                                    and help receive shipments
+                                                    during peak delivery periods
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Assist with in-store
+                                                    events, gear demonstrations,
+                                                    and seasonal promotions
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div>
+                                            <h4
+                                                class="font-semibold text-foreground mb-2"
+                                            >
+                                                Who Fits This Role Best
+                                            </h4>
+                                            <ul
+                                                class="space-y-1.5 text-sm text-muted-foreground"
+                                                role="list"
+                                            >
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Genuine enthusiasm for
+                                                    outdoor activities and
+                                                    helping people try new
+                                                    things
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Strong verbal communication
+                                                    skills and comfort
+                                                    approaching customers
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Reliability — consistent
+                                                    attendance and punctuality
+                                                    matter in a seasonal role
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Willingness to learn
+                                                    product details and share
+                                                    that knowledge confidently
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Ability to stand for
+                                                    extended periods and lift up
+                                                    to 40 lbs
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Team-oriented attitude with
+                                                    a positive, solutions-first
+                                                    mindset
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="bg-secondary/50 rounded-lg p-4">
+                                        <h4
+                                            class="font-semibold text-foreground mb-1"
+                                        >
+                                            Why You'd Want This Job
+                                        </h4>
+                                        <p
+                                            class="text-sm text-muted-foreground leading-relaxed"
+                                        >
+                                            This is a fast-paced, team-oriented
+                                            environment that builds real
+                                            customer service and business
+                                            skills. High-performing seasonal
+                                            employees are often invited to
+                                            continue part-time during the school
+                                            year or considered for team lead
+                                            opportunities the following summer.
+                                            Employee discount included.
+                                        </p>
+                                    </div>
+                                </article>
+                                <article
+                                    class="card-surface p-6 sm:p-8"
+                                    id="job-2"
+                                >
+                                    <div
+                                        class="flex flex-wrap items-baseline gap-x-4 gap-y-1 mb-4"
+                                    >
+                                        <h3 class="heading-3">
+                                            Community Outreach Event Crew Member
+                                        </h3>
+                                        <span
+                                            class="text-xs font-semibold uppercase tracking-widest text-pine bg-pine/10 px-2 py-0.5 rounded"
+                                            >Summer + Select Weekends</span
+                                        >
+                                    </div>
+                                    <div
+                                        class="flex flex-wrap gap-x-6 gap-y-1 text-sm text-muted-foreground mb-4"
+                                    >
+                                        ><span>💰 $14.75 – $16.25/hr</span
+                                        ><span
+                                            >🕐 15–25 hrs/week, flexible around
+                                            school schedule</span
+                                        >
+                                    </div>
+                                    <p
+                                        class="text-muted-foreground leading-relaxed mb-6"
+                                    >
+                                        Bucky Enterprises hosts
+                                        service projects, gear demonstrations,
+                                        and youth engagement events throughout
+                                        the region. Outreach Crew Members help
+                                        represent the company at these programs.
+                                        You'll assist with event setup, interact
+                                        with families and community groups,
+                                        distribute information about our
+                                        programs, and help facilitate hands-on
+                                        gear demos and outdoor skill stations.
+                                    </p>
+                                    <div class="grid md:grid-cols-2 gap-6 mb-6">
+                                        <div>
+                                            <h4
+                                                class="font-semibold text-foreground mb-2"
+                                            >
+                                                Responsibilities &amp; Duties
+                                            </h4>
+                                            <ul
+                                                class="space-y-1.5 text-sm text-muted-foreground"
+                                                role="list"
+                                            >
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Set up and break down event
+                                                    equipment including tents,
+                                                    tables, signage, and demo
+                                                    gear
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Engage with event
+                                                    attendees, answer questions
+                                                    about Bucky
+                                                    programs, and distribute
+                                                    materials
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Assist with interactive
+                                                    demonstrations such as tent
+                                                    setup races, compass
+                                                    navigation, and knot-tying
+                                                    stations
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Coordinate with community
+                                                    partners and venue contacts
+                                                    before and during events
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Track attendance and
+                                                    collect participant feedback
+                                                    using provided forms
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Represent the company
+                                                    professionally and
+                                                    enthusiastically at all
+                                                    public-facing events
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div>
+                                            <h4
+                                                class="font-semibold text-foreground mb-2"
+                                            >
+                                                Who Fits This Role Best
+                                            </h4>
+                                            <ul
+                                                class="space-y-1.5 text-sm text-muted-foreground"
+                                                role="list"
+                                            >
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Comfortable speaking to
+                                                    groups and engaging with
+                                                    people of all ages
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Interest in community
+                                                    service, public outreach, or
+                                                    event planning
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Self-motivated and able to
+                                                    work independently when
+                                                    needed
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Organized and able to
+                                                    manage multiple tasks during
+                                                    fast-paced events
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Physically able to lift and
+                                                    carry event supplies (up to
+                                                    35 lbs)
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Reliable transportation to
+                                                    event locations within the
+                                                    region
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="bg-secondary/50 rounded-lg p-4">
+                                        <h4
+                                            class="font-semibold text-foreground mb-1"
+                                        >
+                                            Why You'd Want This Job
+                                        </h4>
+                                        <p
+                                            class="text-sm text-muted-foreground leading-relaxed"
+                                        >
+                                            This role is ideal for students
+                                            interested in communications, public
+                                            service, or marketing. You'll build
+                                            real-world event coordination and
+                                            public speaking skills while
+                                            representing a company that
+                                            genuinely gives back. Top performers
+                                            may be invited to join our Youth
+                                            Leadership Advisory Panel.
+                                        </p>
+                                    </div>
+                                </article>
+                                <article
+                                    class="card-surface p-6 sm:p-8"
+                                    id="job-3"
+                                >
+                                    <div
+                                        class="flex flex-wrap items-baseline gap-x-4 gap-y-1 mb-4"
+                                    >
+                                        <h3 class="heading-3">
+                                            Junior Inventory &amp; Logistics
+                                            Coordinator
+                                        </h3>
+                                        <span
+                                            class="text-xs font-semibold uppercase tracking-widest text-pine bg-pine/10 px-2 py-0.5 rounded"
+                                            >Part-Time Year-Round</span
+                                        >
+                                    </div>
+                                    <div
+                                        class="flex flex-wrap gap-x-6 gap-y-1 text-sm text-muted-foreground mb-4"
+                                    >
+                                        ><span>💰 $15.00 – $17.50/hr</span
+                                        ><span
+                                            >🕐 12–20 hrs/week, evenings and
+                                            weekends available</span
+                                        >
+                                    </div>
+                                    <p
+                                        class="text-muted-foreground leading-relaxed mb-6"
+                                    >
+                                        The Logistics Team at Bucky
+                                        Enterprises manages high-value inventory
+                                        across retail locations. We are hiring
+                                        detail-oriented students to support
+                                        receiving, tracking, and organizing
+                                        merchandise. You'll work behind the
+                                        scenes to make sure product moves
+                                        efficiently from delivery truck to sales
+                                        floor, using barcode scanning systems,
+                                        inventory software, and physical
+                                        organization techniques.
+                                    </p>
+                                    <div class="grid md:grid-cols-2 gap-6 mb-6">
+                                        <div>
+                                            <h4
+                                                class="font-semibold text-foreground mb-2"
+                                            >
+                                                Responsibilities &amp; Duties
+                                            </h4>
+                                            <ul
+                                                class="space-y-1.5 text-sm text-muted-foreground"
+                                                role="list"
+                                            >
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Receive incoming shipments,
+                                                    verify contents against
+                                                    purchase orders, and log
+                                                    discrepancies
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Scan and catalog
+                                                    merchandise into the
+                                                    inventory management system
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Organize backstock areas
+                                                    and maintain clean, labeled
+                                                    storage sections
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Assist with weekly cycle
+                                                    counts and quarterly
+                                                    full-store inventory audits
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Coordinate with sales floor
+                                                    staff to prioritize
+                                                    restocking based on demand
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Flag damaged or defective
+                                                    items and process them
+                                                    according to company
+                                                    procedure
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div>
+                                            <h4
+                                                class="font-semibold text-foreground mb-2"
+                                            >
+                                                Who Fits This Role Best
+                                            </h4>
+                                            <ul
+                                                class="space-y-1.5 text-sm text-muted-foreground"
+                                                role="list"
+                                            >
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Strong attention to detail
+                                                    and comfort working with
+                                                    data and numbers
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Ability to work
+                                                    independently in a stockroom
+                                                    environment with minimal
+                                                    supervision
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Familiarity with basic
+                                                    computer software
+                                                    (spreadsheets, email,
+                                                    web-based tools)
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Physical ability to lift
+                                                    boxes up to 50 lbs and stand
+                                                    for extended periods
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Organized, methodical
+                                                    approach to tasks — accuracy
+                                                    matters more than speed
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Interest in business
+                                                    operations, supply chain, or
+                                                    analytical work
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="bg-secondary/50 rounded-lg p-4">
+                                        <h4
+                                            class="font-semibold text-foreground mb-1"
+                                        >
+                                            Why You'd Want This Job
+                                        </h4>
+                                        <p
+                                            class="text-sm text-muted-foreground leading-relaxed"
+                                        >
+                                            Accurate inventory ensures customers
+                                            get what they need when they need
+                                            it. This position builds operational
+                                            and analytical skills valuable in
+                                            business, supply chain, or
+                                            engineering careers. Advancement to
+                                            Inventory Lead is possible within
+                                            12–18 months, and year-round
+                                            availability means you'll develop
+                                            deeper expertise than a seasonal
+                                            role allows.
+                                        </p>
+                                    </div>
+                                </article>
+                                <article
+                                    class="card-surface p-6 sm:p-8"
+                                    id="job-4"
+                                >
+                                    <div
+                                        class="flex flex-wrap items-baseline gap-x-4 gap-y-1 mb-4"
+                                    >
+                                        <h3 class="heading-3">
+                                            Summer Expedition Program Assistant
+                                        </h3>
+                                        <span
+                                            class="text-xs font-semibold uppercase tracking-widest text-pine bg-pine/10 px-2 py-0.5 rounded"
+                                            >Full-Time Summer</span
+                                        >
+                                    </div>
+                                    <div
+                                        class="flex flex-wrap gap-x-6 gap-y-1 text-sm text-muted-foreground mb-4"
+                                    >
+                                        ><span>💰 $16.00 – $18.00/hr</span
+                                        ><span
+                                            >🕐 40 hrs/week, Monday–Friday,
+                                            mid-June through mid-August</span
+                                        >
+                                    </div>
+                                    <p
+                                        class="text-muted-foreground leading-relaxed mb-6"
+                                    >
+                                        Bucky Enterprises operates
+                                        skill-building day camps focused on
+                                        outdoor readiness and teamwork. The
+                                        Summer Expedition Program Assistant
+                                        supports lead instructors in supervising
+                                        groups of 8–12 middle school
+                                        participants. You'll help facilitate
+                                        daily activities — from orienteering and
+                                        fire safety to climbing and water skills
+                                        — while keeping campers safe, engaged,
+                                        and having fun.
+                                    </p>
+                                    <div class="grid md:grid-cols-2 gap-6 mb-6">
+                                        <div>
+                                            <h4
+                                                class="font-semibold text-foreground mb-2"
+                                            >
+                                                Responsibilities &amp; Duties
+                                            </h4>
+                                            <ul
+                                                class="space-y-1.5 text-sm text-muted-foreground"
+                                                role="list"
+                                            >
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Assist lead instructors
+                                                    with daily activity
+                                                    preparation, delivery, and
+                                                    wrap-up
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Supervise assigned camper
+                                                    groups during transitions,
+                                                    meals, and free time
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Help teach and demonstrate
+                                                    outdoor skills including
+                                                    knot-tying, compass
+                                                    navigation, and basic first
+                                                    aid
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Monitor participant safety
+                                                    and enforce program rules
+                                                    consistently and fairly
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Maintain and organize
+                                                    program equipment and report
+                                                    any damage or shortages
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Communicate daily with
+                                                    parents during drop-off and
+                                                    pick-up, providing updates
+                                                    on their camper's experience
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div>
+                                            <h4
+                                                class="font-semibold text-foreground mb-2"
+                                            >
+                                                Who Fits This Role Best
+                                            </h4>
+                                            <ul
+                                                class="space-y-1.5 text-sm text-muted-foreground"
+                                                role="list"
+                                            >
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Previous experience working
+                                                    with children or youth in
+                                                    any setting (school, sports,
+                                                    tutoring, church, etc.)
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Patience, enthusiasm, and a
+                                                    calm demeanor under pressure
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Comfort with outdoor
+                                                    environments, weather
+                                                    variability, and physical
+                                                    activity
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Ability to follow
+                                                    structured lesson plans
+                                                    while adapting to group
+                                                    needs
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Current CPR/First Aid
+                                                    certification (or
+                                                    willingness to obtain before
+                                                    start date — we'll cover the
+                                                    cost)
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Strong sense of
+                                                    responsibility and awareness
+                                                    of youth safety protocols
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="bg-secondary/50 rounded-lg p-4">
+                                        <h4
+                                            class="font-semibold text-foreground mb-1"
+                                        >
+                                            Why You'd Want This Job
+                                        </h4>
+                                        <p
+                                            class="text-sm text-muted-foreground leading-relaxed"
+                                        >
+                                            This is a competitive entry point
+                                            into our Youth Leadership Pipeline.
+                                            Successful candidates may be
+                                            considered for returning Lead
+                                            Instructor roles and future
+                                            management internships. You'll spend
+                                            your summer outside, building skills
+                                            that translate directly to
+                                            education, recreation, and
+                                            leadership careers.
+                                        </p>
+                                    </div>
+                                </article>
+                                <article
+                                    class="card-surface p-6 sm:p-8"
+                                    id="job-5"
+                                >
+                                    <div
+                                        class="flex flex-wrap items-baseline gap-x-4 gap-y-1 mb-4"
+                                    >
+                                        <h3 class="heading-3">
+                                            Customer Insights &amp; Store
+                                            Experience Associate
+                                        </h3>
+                                        <span
+                                            class="text-xs font-semibold uppercase tracking-widest text-pine bg-pine/10 px-2 py-0.5 rounded"
+                                            >Hybrid (In-Store + Remote)</span
+                                        >
+                                    </div>
+                                    <div
+                                        class="flex flex-wrap gap-x-6 gap-y-1 text-sm text-muted-foreground mb-4"
+                                    >
+                                        ><span>💰 $15.00 – $16.50/hr</span
+                                        ><span
+                                            >🕐 10–15 hrs/week, flexible
+                                            scheduling</span
+                                        >
+                                    </div>
+                                    <p
+                                        class="text-muted-foreground leading-relaxed mb-6"
+                                    >
+                                        Bucky Enterprises
+                                        continuously evaluates how customers
+                                        experience our stores. This role gathers
+                                        structured feedback to improve layout,
+                                        service speed, and product
+                                        accessibility. You'll conduct in-store
+                                        observation sessions, administer brief
+                                        customer surveys, compile data into
+                                        summary reports, and present findings to
+                                        store management on a regular basis.
+                                    </p>
+                                    <div class="grid md:grid-cols-2 gap-6 mb-6">
+                                        <div>
+                                            <h4
+                                                class="font-semibold text-foreground mb-2"
+                                            >
+                                                Responsibilities &amp; Duties
+                                            </h4>
+                                            <ul
+                                                class="space-y-1.5 text-sm text-muted-foreground"
+                                                role="list"
+                                            >
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Conduct structured
+                                                    observation sessions
+                                                    in-store, documenting
+                                                    customer traffic patterns
+                                                    and pain points
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Administer short customer
+                                                    satisfaction surveys using
+                                                    tablets and paper forms
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Enter survey data into
+                                                    spreadsheets and company
+                                                    reporting tools accurately
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Prepare weekly summary
+                                                    reports highlighting trends,
+                                                    recurring issues, and
+                                                    customer suggestions
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Present findings to store
+                                                    management during monthly
+                                                    review meetings
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-pine mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Collaborate with the
+                                                    regional Customer Experience
+                                                    team on special research
+                                                    projects
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div>
+                                            <h4
+                                                class="font-semibold text-foreground mb-2"
+                                            >
+                                                Who Fits This Role Best
+                                            </h4>
+                                            <ul
+                                                class="space-y-1.5 text-sm text-muted-foreground"
+                                                role="list"
+                                            >
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Analytical mindset and
+                                                    comfort working with data,
+                                                    charts, and reports
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Clear written and verbal
+                                                    communication skills
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Discretion and
+                                                    professionalism when
+                                                    conducting in-store
+                                                    observations
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Familiarity with
+                                                    spreadsheet software (Google
+                                                    Sheets or Excel)
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Ability to work both
+                                                    independently (remote
+                                                    reporting) and in-store
+                                                    (observation shifts)
+                                                </li>
+                                                <li
+                                                    class="flex items-start gap-2"
+                                                >
+                                                    <span
+                                                        class="w-1 h-1 rounded-full bg-amber mt-2 shrink-0"
+                                                        aria-hidden="true"
+                                                    ></span
+                                                    >Interest in business
+                                                    strategy, consumer behavior,
+                                                    or data analytics
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="bg-secondary/50 rounded-lg p-4">
+                                        <h4
+                                            class="font-semibold text-foreground mb-1"
+                                        >
+                                            Why You'd Want This Job
+                                        </h4>
+                                        <p
+                                            class="text-sm text-muted-foreground leading-relaxed"
+                                        >
+                                            This role provides exposure to
+                                            business strategy, consumer
+                                            behavior, and operational
+                                            improvement — skills that are
+                                            directly relevant to careers in
+                                            business, economics, or data
+                                            analytics. Students interested in
+                                            understanding how companies make
+                                            decisions based on customer data are
+                                            encouraged to apply. High performers
+                                            may be considered for future
+                                            corporate internships.
+                                        </p>
+                                    </div>
+                                </article>
+                            </div>
+                        </div>
+                    </section>
+                    <section
+                        class="bg-pine-dark text-primary-foreground py-12"
+                        aria-label="Apply now"
+                    >
+                        <div
+                            class="container-narrow section-padding text-center"
+                        >
+                            <h2 class="text-2xl font-bold mb-3">
+                                Ready to Get Started?
+                            </h2>
+                            <p class="opacity-80 max-w-lg mx-auto">
+                                Visit any Bucky location to pick up
+                                an application, or ask about our upcoming Youth
+                                Hiring Event. We'd love to meet you.
+                            </p>
+                        </div>
+                    </section>
+                </main>
+                <footer
+                    class="bg-pine-dark text-primary-foreground mt-16"
+                    role="contentinfo"
+                >
+                    <div class="container-wide section-padding py-12">
+                        <div
+                            class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
+                        >
+                            <div>
+                                <h2 class="text-lg font-bold mb-2">
+                                    Bucky Enterprises
+                                </h2>
+                                <p class="text-sm opacity-80 italic mb-4">
+                                    Leadership Grows Here
+                                </p>
+                                <p class="text-sm opacity-70">
+                                    Headquarters: Richfield, MN<br />Stores in
+                                    34 states nationwide
+                                </p>
+                            </div>
+                            <div>
+                                <h3 class="font-semibold mb-3">Explore</h3>
+                                <ul class="space-y-2 text-sm opacity-80">
+                                    <li>
+                                        <a
+                                            class="hover:text-amber-light transition-colors"
+                                            href="../"
+                                            >Home</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="hover:text-amber-light transition-colors"
+                                            href="../about/"
+                                            >About Us</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="hover:text-amber-light transition-colors"
+                                            href="../community/"
+                                            >Community</a
+                                        >
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="hover:text-amber-light transition-colors"
+                                            href="../work-for-us/"
+                                            >Work For Us</a
+                                        >
+                                    </li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h3 class="font-semibold mb-3">What We Do</h3>
+                                <ul class="space-y-2 text-sm opacity-80">
+                                    <li>Outdoor Gear &amp; Apparel</li>
+                                    <li>Bike Sales &amp; Service</li>
+                                    <li>Equipment Rentals</li>
+                                    <li>Climbing Classes</li>
+                                    <li>Excursion Planning</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h3 class="font-semibold mb-3">Our Mission</h3>
+                                <p class="text-sm opacity-80">
+                                    Equip people for the outdoors while
+                                    investing in the leaders of tomorrow.
+                                </p>
+                                <h3 class="font-semibold mt-4 mb-2">
+                                    Core Values
+                                </h3>
+                                <ul class="text-sm opacity-80 space-y-1">
+                                    <li>Integrity First</li>
+                                    <li>Service Over Sales</li>
+                                    <li>Preparedness &amp; Responsibility</li>
+                                    <li>Community Investment</li>
+                                    <li>Growth Through Leadership</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div
+                            class="border-t border-pine-light mt-8 pt-6 text-sm opacity-60 text-center"
+                        >
+                            © Bucky Enterprises. All rights
+                            reserved.
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </body>
+</html>
