@@ -1,4 +1,3 @@
-# Resource for 4, Merlin Bird ID, is an app. Not a website, not a video.
 -   requirement: 1
     text: |-
         Explain the need for bird study and why birds are useful indicators of
@@ -74,8 +73,7 @@
                 Describe when and where each type of viewing device would be
                 most effective.
             resources:
-                -   href: >-
-                        https://chirperbirds.com/spotting-scope-vs-binoculars-for-birdwatching/
+                -   href: https://chirperbirds.com/spotting-scope-vs-binoculars-for-birdwatching/
                     text: |-
                         What's the Difference-Spotting Scope vs Binoculars for
                         Birdwatching
@@ -113,9 +111,15 @@
         field notebook, making a separate entry for each species, and record the
         following information from your field observations and other references.
     resources:
-        -   href: https://www.youtube.com/watch?v=eIOXLyMm4fE
-            text: How to Keep Birding Records in a Field Notebook
+        -   href: https://youtu.be/-skC_FNDWV4
+            text: Bird Identification Mastery
             type: video
+        -   href: https://youtu.be/B4lgedvwNqQ
+            text: Keeping a Field Notebook
+            type: video
+        -   href: https://youtu.be/Woe_Q6S8oyw
+            text: How To Use the Merlin Bird ID App
+            type: app
     children:
         -   requirement: a
             text: Note the date and time.

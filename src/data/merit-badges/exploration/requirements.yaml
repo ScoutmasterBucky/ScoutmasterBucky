@@ -2,7 +2,6 @@
 # Resource for 7c should not have italics in the title. Removed.
 # AUTO: WARNING: Resources section is not wrapped in italics near "What you think it takes to be an explorer Resource..."
 # AUTO: WARNING: Resources section is not on a new line near "What you think it takes to be an explorer..."
-# AUTO: WARNING: Found resource text wrapped in italics near "<i>Scouting America SAFE Checklist</i> (PDF)...". This should be cleaned up.
 -   requirement: 1
     text: '<b>General Knowledge.</b> Do the following:'
     children:
@@ -12,8 +11,7 @@
                 travel, trekking or hiking, tour-group trips, or recreational
                 outdoor adventure trips.
             resources:
-                -   href: >-
-                        https://medium.com/@idee-explores/whats-the-difference-between-adventure-and-exploration-eb1a4628f925
+                -   href: https://medium.com/@idee-explores/whats-the-difference-between-adventure-and-exploration-eb1a4628f925
                     text: What's the Difference Between Adventure and Exploration?
                     type: website
         -   requirement: b
@@ -234,8 +232,7 @@
                 Plan the interpretation and sharing of information at the
                 conclusion of the expedition.
             resources:
-                -   href: >-
-                        https://matadornetwork.com/notebook/the-7-fundamentals-of-documenting-your-travels/
+                -   href: https://matadornetwork.com/notebook/the-7-fundamentals-of-documenting-your-travels/
                     text: The 7 Fundamentals of Documenting Your Travels
                     type: website
 -   requirement: 7
@@ -266,9 +263,8 @@
                 Checklist</i> for your expedition. Ensure that all foreseeable
                 hazards for your expedition are adequately addressed.
             resources:
-                -   href: >-
-                        https://www.scouting.org/wp-content/uploads/2021/06/680-11421_SAFE.pdf
-                    text: Scouting America SAFE Checklist
+                -   href: https://www.scouting.org/wp-content/uploads/2021/06/680-11421_SAFE.pdf
+                    text: <i>Scouting America SAFE Checklist</i>
                     type: pdf
 -   requirement: 8
     text: '<strong>Go on an Expedition.</strong> Complete the following:'
@@ -286,7 +282,7 @@
                 Discuss with your counselor about the vital role of outdoor
                 ethics in exploration, explaining how they promote responsible
                 and mindful adventuring. Explain how you applied the Outdoor
-                Code, Leave No Trace and Tread Lightly! principles during your
+                Code, Leave No Trace, and Tread Lightly! principles during your
                 expedition.
             resources:
                 -   href: https://vimeo.com/1115216743/63b20c0b33

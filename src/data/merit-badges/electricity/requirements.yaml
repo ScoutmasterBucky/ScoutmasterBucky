@@ -61,8 +61,7 @@
         checklist found in the <em>Electricity</em> merit badge pamphlet or one
         approved by your counselor. Discuss what you find with your counselor.
     resources:
-        -   href: >-
-                https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Electricity/Electrical%20Safety%20Checklist.docx.pdf
+        -   href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Electricity/Electrical%20Safety%20Checklist.docx.pdf
             text: Electrical Fire Safety Checklist
             type: pdf
 -   requirement: 3
@@ -211,6 +210,13 @@
                 rheostat, substation, surge protection, solar panel,
                 transformer, transmission and distribution systems, and wind
                 turbine.
+            resources:
+                -   href: https://www.homedepot.com/c/ab/types-of-circuit-breakers/9ba683603be9fa5395fab900f0d22b4
+                    text: Types of Circuit Breakers
+                    type: website w/ video
+                -   href: https://www.homedepot.com/c/ab/best-surge-protectors-for-your-home/9ba683603be9fa5395fab90a9c684df
+                    text: Surge Protectors
+                    type: website w/ video
 -   requirement: 10
     text: 'Do TWO of the following:'
     children:
@@ -239,10 +245,8 @@
         -   requirement: d
             text: Build a single-pole, double-throw switch. Show that it works.
             resources:
-                -   href: https://youtu.be/EAvbAiZX2CI
-                    text: |-
-                        How a Single Pole Double Throw SPDT Switch Works Make
-                        and Break
+                -   href: https://youtu.be/hludzoUjXl0
+                    text: How To Replace Switches and Outlets
                     type: video
         -   requirement: e
             text: Explain how 3-way switch wiring works in a lighting circuit.
@@ -271,8 +275,8 @@
         career. Discuss what you learned with your counselor and whether you
         might be interested in this career.
     resources:
-        -   href: https://www.tiktok.com/@mal_hoovs/video/7433223621667163438
-            text: Career Opportunities with an Electrical Engineering Degree
+        -   href: https://youtu.be/Ya9KIN1GzbA
+            text: 'Electricians: The Many Career Paths'
             type: video
         -   href: https://youtu.be/Ug9QtgaRplo
             text: Power Plant Operators, Distributors, and Dispatchers Careers

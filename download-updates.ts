@@ -6,7 +6,7 @@ import neodoc from 'neodoc';
 import path from 'node:path';
 import * as prettier from 'prettier';
 import { getDocument } from 'pdfjs-dist/legacy/build/pdf.mjs';
-import { glob, rename, readFile, writeFile, unlink } from 'node:fs/promises';
+import { glob, readFile, writeFile, unlink } from 'node:fs/promises';
 import { Driver, Element } from 'cloud-one';
 import debug from 'debug';
 
@@ -179,58 +179,61 @@ async function getPdfText(body: NonSharedBuffer) {
 
 const debugSaveBinaryFile = debug('saveBinaryFile');
 async function saveBinaryFile(url: string, destPath: string) {
-    return new Promise<string>(async (resolve, reject) => {
-        const connection = (driver as any).browser.connection;
+    // Fetch from inside the current page so the request uses the browser
+    // session that already passed Cloudflare. This avoids Chrome's PDF viewer
+    // and download manager entirely. Files are either same-origin or on
+    // filestore.scouting.org, which allows CORS.
+    debugSaveBinaryFile('Fetching %s from within %s', url, driver.url);
+    const info = await driver.tab.evaluate<{ status: number; size?: number }>(
+        `async (url) => {
+            const response = await fetch(url);
 
-        debugSaveBinaryFile(
-            'Configuring browser to download file from %s to %s',
-            url,
-            destPath
-        );
-        await connection.send('Browser.setDownloadBehavior', {
-            behavior: 'allowAndName', // Allow downloads and name it after the GUID
-            downloadPath: path.dirname(destPath),
-            eventsEnabled: true, // So we can tell when the download finishes and get the GUID
-        });
-        const downloadListener = async (event: any) => {
-            debugSaveBinaryFile('Download progress event: %o', event);
-            if (event.state === 'completed') {
-                debugSaveBinaryFile(
-                    'Download completed for %s with GUID %s',
-                    url,
-                    event.guid
-                );
-                resolve(event.filePath);
-                connection.off('Browser.downloadProgress', downloadListener);
-            } else if (event.state === 'interrupted') {
-                debugSaveBinaryFile('Download interrupted for %s', url);
-                reject(new Error(`Download interrupted: ${url}`));
+            if (!response.ok) {
+                return { status: response.status };
             }
-        }
-        connection.on('Browser.downloadProgress', downloadListener);
-        debugSaveBinaryFile('Navigating to %s to trigger download', url);
-        try {
-            // It is expected that this throws because it's converted from a
-            // navigation event to a download
-            await driver.get(url, { bypassCloudflare: true });
-        } catch (_ignore) {
-        }
-    }).then(async filePath => {
+
+            window.__download = new Uint8Array(await response.arrayBuffer());
+
+            return { status: response.status, size: window.__download.length };
+        }`,
+        [url]
+    );
+
+    if (info.size === undefined) {
+        throw new Error(`HTTP ${info.status} while downloading ${url}`);
+    }
+
+    // Transfer in chunks to keep each CDP message a reasonable size
+    const chunkSize = 8 * 1024 * 1024;
+    const chunks: Buffer[] = [];
+
+    for (let offset = 0; offset < info.size; offset += chunkSize) {
         debugSaveBinaryFile(
-            'Renaming downloaded file from %s to %s',
-            filePath,
-            destPath
+            'Transferring bytes %d-%d of %d',
+            offset,
+            Math.min(offset + chunkSize, info.size),
+            info.size
         );
-        await rename(filePath, destPath);
-        if (destPath.match(/\.pdf$/)) {
-            debugSaveBinaryFile('Converting PDF at %s to text', destPath);
-            // Also convert PDF to text for easier detection of what changed
-            const text = await getPdfText(await readFile(destPath));
-            const destTextPath = destPath.replace(/\.pdf$/, '.txt');
-            debugSaveBinaryFile('Writing extracted text to %s', destTextPath);
-            await writeFile(destTextPath, text);
-        }
-    });
+        const base64 = await driver.tab.evaluate<string>(
+            '(offset, length) => window.__download.subarray(offset, offset + length).toBase64()',
+            [offset, chunkSize]
+        );
+        chunks.push(Buffer.from(base64, 'base64'));
+    }
+
+    await driver.tab.evaluate('() => { delete window.__download; }');
+    const body = Buffer.concat(chunks);
+    debugSaveBinaryFile('Writing %d bytes to %s', body.length, destPath);
+    await writeFile(destPath, body);
+
+    if (destPath.match(/\.pdf$/)) {
+        debugSaveBinaryFile('Converting PDF at %s to text', destPath);
+        // Also convert PDF to text for easier detection of what changed
+        const text = await getPdfText(body);
+        const destTextPath = destPath.replace(/\.pdf$/, '.txt');
+        debugSaveBinaryFile('Writing extracted text to %s', destTextPath);
+        await writeFile(destTextPath, text);
+    }
 }
 
 const debugSaveHtml = debug('saveHtml');
@@ -350,7 +353,19 @@ async function downloadCounselorInformation(updated: UpdatedSingle) {
             url: indexUrl,
             dest: 'download/geocaching-counselor-guide.pdf',
             selector: '[data-id="e6c9db3"] a',
-        }
+        },
+        {
+            key: 'swimming-counselor-guidelines',
+            url: indexUrl,
+            dest: 'download/swimming-counselor-guidelines.pdf',
+            selector: '[data-id="01bd55b"] a',
+        },
+        {
+            key: 'woodwork-counselor-guidelines',
+            url: indexUrl,
+            dest: 'download/woodwork-counselor-guidelines.pdf',
+            selector: '[data-id="5097719"] a',
+        },
     ]);
 }
 
@@ -713,33 +728,7 @@ async function main() {
     console.log(combined);
     debug.enable(combined);
 
-    debugMain('Forcing PDF files to download');
-    await driver.get('chrome://settings/content/pdfDocuments');
-    const settingsUi = await driver.select('settings-ui');
-    const settingsUiShadow = await settingsUi!.getShadowRoot();
-    const settingsMain = await settingsUiShadow!.select('settings-main');
-    const settingsMainShadow = await settingsMain!.getShadowRoot();
-    const settingsPrivacyPageIndex = await settingsMainShadow!.select(
-        'settings-privacy-page-index'
-    );
-    const settingsPrivacyPageIndexShadow =
-        await settingsPrivacyPageIndex!.getShadowRoot();
-    const settingsPdfDocumentsPage =
-        await settingsPrivacyPageIndexShadow!.select(
-            'settings-pdf-documents-page'
-        );
-    const settingsPdfDocumentsPageShadow =
-        await settingsPdfDocumentsPage!.getShadowRoot();
-    const settingsCollapseRadioButton =
-        await settingsPdfDocumentsPageShadow!.select(
-            'settings-collapse-radio-button[name="true"]'
-        );
-    const settingsCollapseRadioButtonShadow =
-        await settingsCollapseRadioButton!.getShadowRoot();
-    const target = await settingsCollapseRadioButtonShadow!.select('#radioCollapse');
-    await target!.click();
-
-    debugMain('Browser configured');
+    debugMain('Browser started');
     await driver.get('https://www.scouting.org/', { bypassCloudflare: true });
 
     for (const target of args.TARGET) {

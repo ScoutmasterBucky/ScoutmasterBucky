@@ -1,17 +1,14 @@
+# 4d changed to "... is used" but grammatically it should be "... are used" with the current wording. Just to double check, I asked two AI agents and they agreed, but one suggested changing the wording of the requirement to make it more clear: Explain what a barcode, a QR code, and an RFID tag are, what data each contains, and give two or more examples of how each is used.
 # AUTO: WARNING: Resources section is not wrapped in italics near "Using a word processor, write a draft letter invit..."
 # AUTO: WARNING: Resources section is not on a new line near "Using a word processor, write a draft letter invit..."
 -   requirement: 1
-    text: >-
+    text: |-
         View the <a
-
         href="https://www.scouting.org/training/youth-protection/scouts-bsa/">Personal
-
         Safety Awareness "Digital Safety" video</a> (with your parent or
-
         guardian's permission).
     resources:
-        -   href: >-
-                https://filestore.scouting.org/filestore/YPSAT/YT%20Mod1%20Final%20Master%20Small.mp4
+        -   href: https://filestore.scouting.org/filestore/YPSAT/YT%20Mod1%20Final%20Master%20Small.mp4
             text: Personal Safety Awareness
             type: video
 -   requirement: 2
@@ -79,8 +76,7 @@
                 -   href: https://www.youtube.com/shorts/UdkG0NZTJak
                     text: Comparing PC to Gaming Consoles.
                     type: video
-                -   href: >-
-                        https://techousegames.com/mobile-vs-pc-vs-console-gaming/
+                -   href: https://techousegames.com/mobile-vs-pc-vs-console-gaming/
                     text: Mobile vs Pc vs Console Gaming
                     type: website
         -   requirement: e
@@ -128,7 +124,7 @@
             text: |-
                 Explain what a barcode, a QR code, and an RFID tag are along
                 with the data they contain and two or more examples where each
-                are used.
+                is used.
 -   requirement: 5
     text: 'Do the following:'
     children:
@@ -261,7 +257,7 @@
         -   requirement: a
             text: |-
                 Explain to your counselor each of these protections and why they
-                exist: copyright, patents, trademarks, trade secrets.
+                exist: copyright, patents, trademarks, and trade secrets.
             resources:
                 -   href: https://www.youtube.com/watch?v=LyQOf5bqdzo
                     text: |-
@@ -373,7 +369,6 @@
                         Tech Hobbies: The Best Technology Hobbies You Need to
                         Try
                     type: video
-                -   href: >-
-                        https://insideofhappiness.com/20-computer-hobbies-that-will-entertain-you-for-long/
+                -   href: https://insideofhappiness.com/20-computer-hobbies-that-will-entertain-you-for-long/
                     text: 20 Computer Hobbies That Will Entertain You for Long
                     type: website

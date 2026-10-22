@@ -12,11 +12,10 @@
     children:
         -   requirement: a
             text: |-
-                Get swatches of two natural fiber fabrics (100 percent cotton,
-                linen, wool or silk; no blends). Get swatches of two synthetic
-                fiber fabrics (nylon, polyester, acrylic, olefin, or spandex).
-                Get a sample of one cellulosic fabric (rayon, acetate or
-                lyocell).
+                Get swatches of two natural fiber fabrics (100% cotton, linen,
+                wool, or silk; no blends). Get swatches of two synthetic fiber
+                fabrics (nylon, polyester, acrylic, olefin, or spandex). Get a
+                sample of one cellulosic fabric (rayon, acetate, or lyocell).
         -   requirement: b
             text: |-
                 Give the origin, major characteristics, and general content of
@@ -63,8 +62,7 @@
                 Weave a belt, headband, placemat, or wall hanging using a simple
                 loom that you have made yourself.
             resources:
-                -   href: >-
-                        https://www.theweavingloom.com/how-to-make-a-cardboard-loom/
+                -   href: https://www.theweavingloom.com/how-to-make-a-cardboard-loom/
                     text: How To Make a Cardboard Loom
                     type: website
         -   requirement: c
