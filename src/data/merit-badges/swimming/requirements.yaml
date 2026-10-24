@@ -1,11 +1,10 @@
-# AUTO: WARNING: Found resource text wrapped in italics near "<i>Swimming</i> Merit Badge Pamphlet (PDF)...". This should be cleaned up.
 -   requirement: 1
     text: 'Do the following:'
     children:
         -   requirement: a
             text: |-
                 Review with your counselor how Scouting America's Safe Swim
-                Defense guidelines anticipates and deals with common drowning
+                Defense guidelines anticipate and deal with common drowning
                 situations such as unfenced residential pools, nonswimmers
                 entering deep water, risky behaviors, medical impairment in the
                 water, drop-offs, cold water, murky water, river currents, rip
@@ -38,7 +37,7 @@
         href="/merit-badges/swimming/"><i>Swimming</i> merit badge</a> pamphlet.
     resources:
         -   href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Pamphlets/Swimming.pdf
-            text: Swimming Merit Badge Pamphlet
+            text: <i>Swimming</i> Merit Badge Pamphlet
             type: pdf
 -   requirement: 3
     text: 'Correctly perform the following strokes:'

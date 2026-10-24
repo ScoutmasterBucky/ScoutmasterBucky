@@ -1,7 +1,4 @@
 # Changed note to only bold "NOTE:"
-# AUTO: WARNING: Resources section is not wrapped in italics near "Weatherstrip a window or door. Resource:         <..."
-# AUTO: WARNING: Resources section is not on a new line near "Weatherstrip a window or door...."
-# AUTO: WARNING: Resources section is not wrapped in italics near "Replace an electrical wall outlet. <br>Resource:  ..."
 -   text: |-
         <i><b>NOTE:</b> A parent, guardian, or the counselor may supervise the
         Scout's work on any Home Repairs requirements.</i>
@@ -12,18 +9,16 @@
             text: |-
                 Explain to your counselor the most likely hazards you may
                 encounter while working on home repairs and what you should do
-                to anticipate, mitigate and prevent, and respond to these
-                hazards. Describe the appropriate safety gear and clothing that
-                should be used when working on home repairs.
+                to anticipate, mitigate, prevent, and respond to these hazards.
+                Describe the appropriate safety gear and clothing that should be
+                used when working on home repairs.
             resources:
-                -   href: https://youtu.be/AjlWEb-xbhk
-                    text: |-
-                        Avoid These 9 Worst DIY Injuries/Accidents From Common
-                        Tools!
-                    type: video
-                -   href: https://youtu.be/JL0hj-VAeBg
-                    text: DIY Home Maintenance | Ladder Safety
-                    type: video
+                -   href: https://www.homedepot.com/c/ab/what-is-ppe-and-why-is-it-important
+                    text: What Is PPE and Why Is It Important
+                    type: website w/ video
+                -   href: https://www.homedepot.com/c/ab/ladder-safety-tips/9ba683603be9fa5395fab9017d77401c
+                    text: Ladder Safety Tips
+                    type: website
         -   requirement: b
             text: |-
                 Discuss general precautions related to home repairs. Name at
@@ -43,37 +38,40 @@
                 Maintain or recondition a yard tool and show that you know how
                 to clean up and properly store this equipment.
             resources:
-                -   href: https://www.youtube.com/watch?v=YzpKDkIOkJM
-                    text: How to Clean &amp; Sharpen Your Garden Tools
+                -   href: https://youtu.be/6EMseAAMpRY
+                    text: How To Remove Rust From Tools
                     type: video
         -   requirement: b
             text: Weatherstrip a window or door.
             resources:
-                -   href: https://youtu.be/E3JK2zMR53c
-                    text: How To Install Weatherstripping
+                -   href: https://youtu.be/OWjBi-QF10w
+                    text: Front Door Weather Stripping
                     type: video
         -   requirement: c
             text: Caulk cracks or joints open to the weather.
             resources:
-                -   href: https://www.youtube.com/watch?v=lS0wiWLFzMw
+                -   href: https://www.stesso.com/watch/what-most-people-forget-to-caulk-before-painting-their-house-v40873806
                     text: |-
-                        The Secrets to Great Exterior Caulking (Windows, Doors,
-                        Trims)!
+                        What Most People Forget to Caulk Before Painting Their
+                        House
                     type: video
+                -   href: https://www.homedepot.com/c/ah/how-to-use-a-caulk-gun/9ba683603be9fa5395fab9014749e39b
+                    text: How To Use a Caulk Gun
+                    type: website
         -   requirement: d
             text: Repair a break in a concrete or asphalt surface.
             resources:
-                -   href: https://youtu.be/aI3ayjrVJl0
-                    text: How to Fill Asphalt Gaps and Cracks
-                    type: video
-                -   href: https://youtu.be/xk2lT9D_0wY
-                    text: Repairing a Neglected Driveway Crack
-                    type: video
+                -   href: https://www.homedepot.com/c/ah/how-to-fix-cracks-in-concrete/9ba683603be9fa5395fab90147c3431e
+                    text: How To Fix Cracks in Concrete
+                    type: website w/ video
         -   requirement: e
             text: Repair or replace the screen in a window or door.
             resources:
-                -   href: https://youtu.be/t7emMleueHg
-                    text: How to Repair a Window Screen
+                -   href: https://www.homedepot.com/c/ah/how-to-replace-a-screen-in-a-wooden-frame/9ba683603be9fa5395fab90130d654a
+                    text: How to Replace a Screen in a Frame
+                    type: website
+                -   href: https://youtu.be/Co8G2PAymR4
+                    text: How To Make a Window Screen
                     type: video
         -   requirement: f
             text: Replace a pane of glass.
@@ -89,32 +87,34 @@
         -   requirement: a
             text: Install or build equipment for storing tools.
             resources:
-                -   href: https://www.youtube.com/watch?v=txhES7lKfCI
-                    text: 80 Tool Storarge Ideas
-                    type: video
                 -   href: https://www.youtube.com/shorts/L0CgzmPzOeI
                     text: Easy Scrap Wood Yard Tool Organizer
                     type: video
+                -   href: https://youtu.be/qyXSvCz3nbY
+                    text: Tool Storage Shelf
+                    type: video
         -   requirement: b
             text: Build a workbench.
-            resources:
-                -   href: https://www.youtube.com/watch?v=TRp4FaT24BA
-                    text: DIY Simple Workbench
-                    type: video
         -   requirement: c
             text: Repair a piece of furniture.
             resources:
-                -   href: https://www.youtube.com/watch?v=X_3jmub6U0g
-                    text: Sofa Leg Frame Repair
-                    type: video
-                -   href: https://www.youtube.com/watch?v=66rQe_aB1v0
+                -   href: https://youtu.be/66rQe_aB1v0
                     text: Fix Split Furniture with Wood Glue
+                    type: video
+                -   href: https://youtu.be/M-5mx-u1ee8
+                    text: How To Fix a Wobbly Chair Leg
                     type: video
         -   requirement: d
             text: |-
                 Paint or varnish a piece of furniture, a door, or trim on a
                 house.
             resources:
+                -   href: https://youtu.be/2hry1JemFoc
+                    text: How To Paint Interior Doors
+                    type: video
+                -   href: https://youtu.be/w2ZR7hDqGcc
+                    text: How To Paint an Exterior Door
+                    type: video
                 -   href: https://youtube.com/shorts/bIis1JZHoKI
                     text: Refurbishing a Table
                     type: video
@@ -125,20 +125,14 @@
                     type: video
         -   requirement: e
             text: Repair a sagging door or gate.
-            resources:
-                -   href: https://www.youtube.com/watch?v=ZcDj6g2UODw
-                    text: |-
-                        How to Fix a Sagging Door That's Rubbing or Won't
-                        Close!!!
-                    type: video
         -   requirement: f
             text: Repair a loose step or railing.
             resources:
-                -   href: https://www.youtube.com/watch?v=b4ixXEoCMRw
-                    text: How to Repair a Broken Stair Tread
+                -   href: https://youtu.be/b4ixXEoCMRw
+                    text: How To Repair a Broken Stair Tread
                     type: video
                 -   href: https://youtu.be/u6_TNkcGL5I
-                    text: How to Repair a Loose Newel Post
+                    text: How To Repair a Loose Newel Post
                     type: video
         -   requirement: g
             text: Repair a fence.
@@ -166,18 +160,17 @@
             text: Replace an electrical cord or repair a plug or lamp socket.
             resources:
                 -   href: https://youtu.be/SsvPe1bo2Qs
-                    text: How to Replace a Lamp Cord
+                    text: How To Replace a Lamp Cord
                     type: video
         -   requirement: c
             text: Install a single-pole light switch.
-            resources:
-                -   href: https://www.youtube.com/watch?v=HreHB638a2g
-                    text: How to Replace a Light Switch
-                    type: video
         -   requirement: d
             text: Replace an electrical wall outlet.
             resources:
-                -   href: https://www.youtube.com/watch?v=OC-b-00d-R0
+                -   href: https://www.homedepot.com/c/ah/how-to-replace-an-electrical-outlet/9ba683603be9fa5395fab908943e20a
+                    text: How To Replace an Electrical Outlet
+                    type: website w/ video
+                -   href: https://youtu.be/OC-b-00d-R0
                     text: How To Change an Outlet
                     type: video
 -   requirement: 5
@@ -186,6 +179,9 @@
         know how to turn off the main water source, including well pumps, and do
         TWO of the following:
     resources:
+        -   href: https://www.homedepot.com/c/ah/how-to-turn-off-the-water-to-your-house/9ba683603be9fa5395fab9017ab28c8a
+            text: How To Turn Off the Water to Your House
+            type: website
         -   href: https://youtu.be/aDkaq8RKFAc
             text: Two Methods to Turn Off Your Homes Water Supply
             type: video
@@ -193,7 +189,7 @@
             text: Main Water Shutoff Valve for Private Pumps and Wells
             type: video
         -   href: https://youtu.be/4RhYOAygA7I
-            text: How to Shut Off the Water Main to Your Home
+            text: How To Shut Off the Water Main to Your Home
             type: video
     children:
         -   requirement: a
@@ -211,12 +207,12 @@
         -   requirement: c
             text: Repair a flush toilet.
             resources:
-                -   href: https://www.youtube.com/watch?v=NQ2AXvqgfPM
-                    text: 'How to Fix a Running Toilet: The Two Most Common Causes'
+                -   href: https://youtu.be/j6GZbC09VXw
+                    text: How To Fix Common Toilet Issues
                     type: video
-                -   href: https://www.youtube.com/watch?v=7K6pcLYrJJs
-                    text: Fix a Running Toilet...Fill Valve Replacement
-                    type: video
+                -   href: https://www.homedepot.com/c/ah/how-to-fix-a-running-toilet/9ba683603be9fa5395fab90138bd8691
+                    text: How To Fix a Running Toilet
+                    type: website
         -   requirement: d
             text: Repair a leaky hose or connector.
             resources:
@@ -226,11 +222,8 @@
         -   requirement: e
             text: Clean or replace a sprinkler head.
             resources:
-                -   href: https://www.youtube.com/watch?v=Fu9rKGWbbMw
-                    text: Replace a Sprinkler Head in 5 Minutes
-                    type: video
-                -   href: https://www.youtube.com/watch?v=K6qXBbpL8VE
-                    text: How to Clean a Sprinkler Head
+                -   href: https://youtu.be/K6qXBbpL8VE
+                    text: How To Clean a Sprinkler Head
                     type: video
 -   requirement: 6
     text: |-
@@ -240,8 +233,11 @@
         -   requirement: a
             text: Paint a wall or ceiling.
             resources:
-                -   href: https://www.youtube.com/watch?v=ftDSnccAx_Q
-                    text: How to Paint a Wall
+                -   href: https://youtu.be/8JCoJvYPKBE
+                    text: How To Paint a Room
+                    type: video
+                -   href: https://youtu.be/SQa9rInS1u4
+                    text: How To Paint a Ceiling
                     type: video
         -   requirement: b
             text: Repair or replace damaged tile, linoleum, or vinyl flooring.
@@ -291,13 +287,6 @@
                     type: video
         -   requirement: h
             text: Fix a drawer slide or fix/replace cabinet pulls.
-            resources:
-                -   href: https://youtu.be/52B3gGZ_AtE
-                    text: How to Repair and Replace Broken Plastic Drawer Guides
-                    type: video
-                -   href: https://youtu.be/7Mp60UHj0Yw
-                    text: How to Repair a Drawer Slide
-                    type: video
 -   requirement: 7
     text: 'Do ONE of the following:'
     children:

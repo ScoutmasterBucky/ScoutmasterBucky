@@ -347,7 +347,7 @@ function processResources(
             .replace(/  +/, ' ')
             .trim();
 
-        if (text.match(/<i>(.*?)<\/i>/)) {
+        if (text.match(/<i>(.*?)<\/i>\w*$/)) {
             processingFile.warn(
                 `Found resource text wrapped in italics near "${text.substring(0, 50)}...". This should be cleaned up.`
             );

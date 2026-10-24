@@ -1,4 +1,3 @@
-# AUTO: WARNING: Resources section is not wrapped in italics near "Discuss the prevention of and treatment for the he..."
 # AUTO: WARNING: Resources section is not wrapped in italics near "Demonstrate that you know how to operate a backpac..."
 # AUTO: WARNING: Resources section is not wrapped in italics near "Write a plan that includes a schedule for a patrol..."
 -   requirement: 1
@@ -8,11 +7,9 @@
         frostbite, dehydration, insect stings, tick bites, snakebite, and
         blisters.
     resources:
-        -   href: https://youtu.be/nxExCQiWa_U
-            text: |-
-                Backpacking First Aid (What To Carry + Foot Care, Snakes, Poison
-                Plants, Hypothermia, etc)
-            type: video
+        -   href: https://www.nps.gov/articles/gtgemergencyplan.htm
+            text: Outdoor Emergency Plan
+            type: website
         -   href: https://youtu.be/lIvLRG31MZI
             text: Preventing and Treating Blisters
             type: video
@@ -46,23 +43,19 @@
                 Define limits on the number of backpackers appropriate for a
                 trek crew.
             resources:
-                -   href: >-
-                        https://www.philmontscoutranch.org/treks/trekrequirements/crewrequirements/
+                -   href: https://www.philmontscoutranch.org/treks/trekrequirements/crewrequirements/
                     text: Philmont Crew Requirements
                     type: website
-                -   href: >-
-                        https://www.trailhiking.com.au/preparation/hiking-group-size/
+                -   href: https://www.trailhiking.com.au/preparation/hiking-group-size/
                     text: Ideal Hiking Group Size
                     type: website
         -   requirement: b
             text: Describe how a trek crew should be organized.
             resources:
-                -   href: >-
-                        https://www.philmontscoutranch.org/resources/crew-positions-dynamics-leadership/
+                -   href: https://www.philmontscoutranch.org/resources/crew-positions-dynamics-leadership/
                     text: Philmont Crew Positions
                     type: website
-                -   href: >-
-                        https://www.trailhiking.com.au/preparation/hiking-group-size/
+                -   href: https://www.trailhiking.com.au/preparation/hiking-group-size/
                     text: Ideal Hiking Group Size
                     type: website
         -   requirement: c
@@ -199,8 +192,7 @@
                 -   href: https://youtu.be/O1vtZSKr0pE
                     text: How To Plan Your First Backpacking Trip
                     type: video
-                -   href: >-
-                        https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Backpacking/Backpacking%20Trip%20Schedule.pdf
+                -   href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Backpacking/Backpacking%20Trip%20Schedule.pdf
                     text: Backpacking Trip Schedule
                     type: pdf
         -   requirement: b
@@ -209,8 +201,7 @@
                 -   href: https://youtu.be/60iYJZoWBMA
                     text: Testing Your Backpacking Gear
                     type: video
-                -   href: >-
-                        https://nomadisbeautiful.com/travel-blogs/hiking-backpack-inspection-checklist/
+                -   href: https://nomadisbeautiful.com/travel-blogs/hiking-backpack-inspection-checklist/
                     text: |-
                         Hiking Backpack Inspection: The Ultimate Safety
                         Checklist for Outdoor Enthusiasts

@@ -70,9 +70,12 @@
                 -   requirement: 7
                     text: Vehicle trapped in a blizzard
                     resources:
-                        -   href: https://youtu.be/QU-VXl7eqcg
-                            text: How to Survive A Car Stranding in Winter
-                            type: video
+                        -   href: https://readynutrition.com/resources/6-critical-tips-you-need-to-know-in-order-to-survive-being-stranded-in-your-car-in-freezing-temperatures_06012018/
+                            text: |-
+                                6 Critical Tips You Need To Know in Order To
+                                Survive Being Stranded in Your Car in Freezing
+                                Temperatures
+                            type: website w/ video
                 -   requirement: 8
                     text: Backcountry injury
                     resources:
@@ -87,8 +90,7 @@
                 -   requirement: 9
                     text: Boating or water accident
                     resources:
-                        -   href: >-
-                                https://www.boat-ed.com/indiana/studyGuide/If-You-Capsize-Swamp-or-Fall-Overboard/10101602_35419/
+                        -   href: https://www.boat-ed.com/indiana/studyGuide/If-You-Capsize-Swamp-or-Fall-Overboard/10101602_35419/
                             text: Preventing and Managing Boating Accidents
                             type: website
                 -   requirement: 10
@@ -97,8 +99,7 @@
                         -   href: https://www.youtube.com/watch?v=K30BBRgt7BM
                             text: Chemical Spill Preparedness
                             type: video
-                        -   href: >-
-                                https://www.ready.gov/household-chemical-emergencies
+                        -   href: https://www.ready.gov/household-chemical-emergencies
                             text: Household Chemical Emergencies
                             type: website
                 -   requirement: 11
@@ -119,10 +120,8 @@
                 -   requirement: 13
                     text: Violence in a public place
                     resources:
-                        -   href: https://youtu.be/5pgxzPoxv4w
-                            text: |-
-                                A Navy SEAL Reveals How to Survive an Active
-                                Shooter
+                        -   href: https://www.youtube.com/watch?v=sshDd_AgRAA&t=6s
+                            text: How To Respond to an Active Shooter
                             type: video
                 -   requirement: 14
                     text: Wildland fire
@@ -130,6 +129,9 @@
                         -   href: https://youtu.be/fhiaP01lfhk
                             text: If You Are Trapped by a Wildfire
                             type: video
+                        -   href: https://www.homedepot.com/c/ai/how-to-prepare-for-wildfires/9ba683603be9fa5395fab90e9b6eb4f
+                            text: How To Prepare for Wildfires
+                            type: website
                 -   requirement: 15
                     text: Avalanche (snowslide or rockslide)
                     resources:
@@ -143,8 +145,11 @@
                     text: Earthquake
                     resources:
                         -   href: https://youtu.be/hWSu4l1RxLg
-                            text: 10 Ways to Survive an Earthquake
+                            text: 10 Ways To Survive an Earthquake
                             type: video
+                        -   href: https://www.homedepot.com/c/ah/how-to-prepare-for-an-earthquake-/9ba683603be9fa5395fab90137077c1a
+                            text: How To Prepare for an Earthquake
+                            type: website
                 -   requirement: 17
                     text: Tsunami
                     resources:
@@ -155,19 +160,28 @@
                     text: Major flooding or a flash flood with water outage
                     resources:
                         -   href: https://youtu.be/rV1iqRD9EKY
-                            text: How to Survive a Flood
+                            text: How To Survive a Flood
                             type: video
+                        -   href: https://www.homedepot.com/c/ah/how-to-prepare-for-a-flood/9ba683603be9fa5395fab90e40527b3
+                            text: How To Prepare for a Flood
+                            type: website w/ video
                 -   requirement: 19
                     text: Hurricane with power outage
                     resources:
                         -   href: https://youtu.be/TqZ3M7xh8jM
-                            text: How to Survive a Hurricane
+                            text: How To Survive a Hurricane
                             type: video
+                        -   href: https://www.homedepot.com/c/ab/how-to-prepare-for-a-hurricane/9ba683603be9fa5395fab90b70dffd2
+                            text: How To Prepare for a Hurricane
+                            type: website w/ video
                 -   requirement: 20
                     text: Tornado
                     resources:
-                        -   href: https://youtu.be/donE6SxyHXw
-                            text: How to Survive a Tornado
+                        -   href: https://www.homedepot.com/c/ab/how-to-prepare-for-a-tornado/9ba683603be9fa5395fab901359a067b
+                            text: How To Prepare for a Tornado
+                            type: website
+                        -   href: https://youtu.be/CAjkJ2kSMmE
+                            text: 'TERRIFYING Tornado Scenarios: What You Should Do'
                             type: video
                 -   requirement: 21
                     text: Lightning storm
@@ -175,8 +189,7 @@
                         -   href: https://youtu.be/T3BT-cnHjik
                             text: What Happens When You Are Struck by Lightning
                             type: video
-                        -   href: >-
-                                https://www.backpacker.com/survival/natural-hazards/lightning/lightning-safety-facts-for-hikers/
+                        -   href: https://www.backpacker.com/survival/natural-hazards/lightning/lightning-safety-facts-for-hikers/
                             text: Backcountry Lightning Safety
                             type: website
 -   requirement: 2
@@ -201,6 +214,16 @@
                 fire in your home. Draw a floor plan with escape routes and a
                 map with a safe meeting place. Discuss your family's home escape
                 plan with your counselor.
+            resources:
+                -   href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/Home%20Fire%20Safety%20Checklist.pdf
+                    text: Home Fire Safety Checklist
+                    type: pdf
+                -   href: https://www.redcross.org/content/dam/redcross/get-help/fire-safety/Home-Fire-Escape-Plan-English-Spanish.pdf
+                    text: Home Fire Escape Plan
+                    type: pdf
+                -   href: https://www.youtube.com/watch?v=iOCx5ZQeLLU&t=2s
+                    text: 'Plan Your Escape: High-Rise Apartment Fire'
+                    type: video
         -   requirement: c
             text: |-
                 Using a checklist in the <em>Emergency Preparedness</em> merit
@@ -209,16 +232,17 @@
                 evacuation of your home. Review the needs and uses of the items
                 in a kit with your counselor.
             resources:
-                -   href: >-
-                        https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/Family%20Emergency%20Sheltering%20in%20Place%20Checklist%2001%202026.pdf
+                -   href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/Family%20Emergency%20Sheltering%20in%20Place%20Checklist%2001%202026.pdf
                     text: Checklist for Sheltering in Place
                     type: pdf
-                -   href: >-
-                        https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/E%20Prep%20Checklist%20for%20Evacuation.pdf
+                -   href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/E%20Prep%20Checklist%20for%20Evacuation.pdf
                     text: Checklist for Evacuation
                     type: pdf
                 -   href: https://www.ready.gov/kit
                     text: Build a Kit
+                    type: website
+                -   href: https://www.homedepot.com/c/ab/shelter-in-place-drill-checklist/9ba683603be9fa5395fab901b57e20ec
+                    text: Shelter in Place Drill Checklist
                     type: website
 -   requirement: 3
     text: '<b>Preventing Accidents and Emergencies.</b> Do ONE of the following:'
@@ -232,8 +256,7 @@
                 Present your completed checklist to and discuss your findings
                 with your counselor.
             resources:
-                -   href: >-
-                        https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/Home%20Safety%20Checklists%20%231%20%23%202%2001%202026.pdf
+                -   href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/Home%20Safety%20Checklists%20%231%20%23%202%2001%202026.pdf
                     text: Checklists Home Safety
                     type: pdf
         -   requirement: b
@@ -316,9 +339,6 @@
                 -   href: https://youtu.be/xwbgU9envik
                     text: How does an EPIRB work?
                     type: video
-                -   href: https://youtu.be/CGLDG7n7g5U
-                    text: PLB and EPIRB Emergency Beacons
-                    type: video
 -   requirement: 6
     text: |-
         <b>Moving an Injured Person.</b> With another person, show two good ways
@@ -371,15 +391,13 @@
                 -   requirement: 1
                     text: Crowd and traffic control
                     resources:
-                        -   href: >-
-                                https://ehs.cornell.edu/campus-health-safety/event-management/event-crowd-management
+                        -   href: https://ehs.cornell.edu/campus-health-safety/event-management/event-crowd-management
                             text: Guidelines for Managing Crowds
                             type: website
                 -   requirement: 2
                     text: Messenger service during an incident
                     resources:
-                        -   href: >-
-                                https://www.epa.gov/natural-disasters/social-media-messages-you-can-use-during-or-after-natural-disaster#hurricane
+                        -   href: https://www.epa.gov/natural-disasters/social-media-messages-you-can-use-during-or-after-natural-disaster#hurricane
                             text: Social Media Messaging for Natural Disasters
                             type: website
                 -   requirement: 3
@@ -408,12 +426,10 @@
                 call. Explain the needs and uses of the contents to your
                 counselor.
             resources:
-                -   href: >-
-                        https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/E%20Prep%20Checklist%20for%20Go%20Bag.pdf
+                -   href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/E%20Prep%20Checklist%20for%20Go%20Bag.pdf
                     text: Checklist for Go Bag
                     type: pdf
-                -   href: >-
-                        https://scoutlife.org/outdoors/outdoorarticles/16727/create-an-emergency-pack-or-kit/
+                -   href: https://scoutlife.org/outdoors/outdoorarticles/16727/create-an-emergency-pack-or-kit/
                     text: Family and Personal Emergency Kits
                     type: website
         -   requirement: d
