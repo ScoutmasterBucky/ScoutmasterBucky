@@ -1,0 +1,251 @@
+---
+import { historyPhoto } from '~/utils/merit-badge-history';
+
+interface Photo {
+    src: string;
+    caption: string;
+    alt?: string;
+}
+
+interface Props {
+    item: {
+        type: string;
+        years?: string;
+        note?: string;
+        image?: string;
+        more?: { image: string; label: string }[];
+        status?: 'missing' | 'unknown' | 'none' | 'notMade' | 'unconfirmed';
+        // Stand-in art for a slot with no real photo, e.g. a "Not made" cover
+        placeholder?: string;
+        // Title shown instead of "Type X", for a slot that is not a type yet
+        label?: string;
+    };
+    // Describes the item in captions and alt text, e.g. "Archery merit badge"
+    what: string;
+    shape: 'round' | 'cover';
+    // Years worked out from the printings, used when the item has none
+    years?: string;
+    // Extra photos such as the back covers used by this cover's printings
+    extraPhotos?: Photo[];
+    // Short summary line, e.g. "6 printings · 4 in collection"
+    stats?: string;
+    // Explanation of the type, shown on hover and in the enlarged view
+    typeInfo?: string;
+    // id of a <template> holding this cover's backs and printings for the enlarged view
+    printingsId?: string;
+    // Makes the title a link, e.g. to the page of every badge in this type
+    titleHref?: string;
+    // Replaces "Type X" as the title, e.g. the badge name on a type page
+    title?: string;
+}
+
+const { what, shape, extraPhotos = [], stats, typeInfo, printingsId, titleHref } = Astro.props;
+// The photos are on the filestore
+const item = {
+    ...Astro.props.item,
+    image: historyPhoto(Astro.props.item.image),
+    placeholder: historyPhoto(Astro.props.item.placeholder),
+    more: Astro.props.item.more?.map(extra => ({ ...extra, image: historyPhoto(extra.image) })),
+};
+const title = Astro.props.title ?? item.label ?? `Type ${item.type}`;
+// Year ranges read "1952 - 1962"; only a dash after a year is spaced, so "3A-2" is left alone
+// String() because YAML reads an unquoted single year like 2026 as a number
+const rawYears = item.years ?? Astro.props.years;
+const years = rawYears === undefined ? undefined : String(rawYears).replace(/(\d{4})\s*-\s*/g, '$1 - ');
+
+const statusText = {
+    missing: 'Photo needed',
+    unknown: 'Not known to exist',
+    none: 'Does not exist in this style',
+    notMade: 'Not made',
+    unconfirmed: 'Unconfirmed',
+};
+
+const caption = `${what}, Type ${item.type}${years ? `, ${years}` : ''}`;
+// Covers are obviously pamphlets, so their enlarged-view caption skips "what"
+const shortCaption = (text: string) => (shape === 'cover' ? text.replace(`${what}, `, '') : text);
+const photos: Photo[] = item.image
+    ? [
+          { src: item.image, caption },
+          ...(item.more ?? []).map(extra => ({
+              src: extra.image,
+              caption: `${what}, Type ${extra.label}`,
+          })),
+          ...extraPhotos,
+      ].map(photo => ({ ...photo, alt: photo.alt ?? photo.caption, caption: shortCaption(photo.caption) }))
+    : [];
+
+// The pop-up panel already shows a cover's years, so its photo caption is just the type
+if (shape === 'cover' && photos.length) {
+    photos[0].caption = `Type ${item.type}`;
+}
+---
+
+<li class:list={['card', shape, { empty: !item.image }]} title={typeInfo}>
+    {
+        item.image ? (
+            <button
+                class="zoom"
+                type="button"
+                data-photos={JSON.stringify(photos)}
+                data-shape={shape}
+                data-printings-id={printingsId}
+            >
+                <img src={item.image} alt={caption} loading="lazy" />
+                {photos.length > 1 && (
+                    <span class="count">{photos.length} photos</span>
+                )}
+            </button>
+        ) : item.placeholder ? (
+            <img
+                class="placeholder-art"
+                src={item.placeholder}
+                alt={`${caption}: ${statusText[item.status ?? 'missing']}`}
+                loading="lazy"
+            />
+        ) : (
+            <div class="placeholder">{statusText[item.status ?? 'missing']}</div>
+        )
+    }
+    {
+        titleHref ? (
+            <a class="type" href={titleHref}>{title}</a>
+        ) : (
+            <span class="type">{title}</span>
+        )
+    }
+    {years && <span class="years">{years}</span>}
+    {item.note && <span class="note">{item.note}</span>}
+    {stats && <span class="stats">{stats}</span>}
+</li>
+
+<style>
+    .card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 0.7em 0.5em;
+        border: 1px solid #cfd8c4;
+        border-radius: 0.5em;
+        background: #fff;
+        box-shadow: 0 1px 3px rgb(0 0 0 / 0.08);
+    }
+
+    .card.empty {
+        background: #f7f8f5;
+        box-shadow: none;
+    }
+
+    .zoom {
+        position: relative;
+        border: 0;
+        padding: 0;
+        background: none;
+        cursor: zoom-in;
+        width: 100%;
+        transition: transform 0.15s ease;
+    }
+
+    .zoom:hover,
+    .zoom:focus-visible {
+        transform: scale(1.04);
+    }
+
+    .zoom img {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+    .round .zoom img {
+        aspect-ratio: 1;
+        object-fit: contain;
+    }
+
+    /* A thin black edge keeps pale covers from fading into the white card */
+    .cover .zoom img {
+        box-sizing: border-box;
+        border: 1px solid #000;
+        aspect-ratio: 2 / 3;
+        object-fit: cover;
+        border-radius: 0.2em;
+        box-shadow: 0 2px 6px rgb(0 0 0 / 0.25);
+    }
+
+    .count {
+        position: absolute;
+        right: 0.3em;
+        bottom: 0.3em;
+        padding: 0.1em 0.5em;
+        border-radius: 999px;
+        background: rgb(0 0 0 / 0.7);
+        color: #fff;
+        font-size: 0.7em;
+    }
+
+    .placeholder {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        padding: 0.5em;
+        box-sizing: border-box;
+        border: 2px dashed #c3cbb8;
+        color: #5c6656;
+        font-size: 0.8em;
+        font-style: italic;
+    }
+
+    .placeholder-art {
+        display: block;
+        box-sizing: border-box;
+        width: 100%;
+        height: auto;
+        border: 1px solid #000;
+        border-radius: 0.2em;
+    }
+
+    .cover .placeholder-art {
+        aspect-ratio: 2 / 3;
+        object-fit: cover;
+    }
+
+    .round .placeholder {
+        aspect-ratio: 1;
+        border-radius: 50%;
+    }
+
+    .cover .placeholder {
+        aspect-ratio: 2 / 3;
+        border-radius: 0.2em;
+    }
+
+    .type {
+        margin-top: 0.5em;
+        font-weight: bold;
+        color: var(--palette-very-dark);
+    }
+
+    a.type {
+        text-decoration: none;
+    }
+
+    a.type:hover {
+        color: var(--palette-dark);
+    }
+
+    .years {
+        font-size: 0.9em;
+    }
+
+    .note,
+    .stats {
+        font-size: 0.8em;
+        color: #5c6656;
+    }
+
+    .stats {
+        margin-top: 0.2em;
+    }
+</style>

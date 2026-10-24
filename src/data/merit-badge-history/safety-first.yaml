@@ -1,0 +1,71 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Safety First
+precededBy: None
+introduced: 1916
+discontinued: '1926'
+replacedWith: Safety
+timeline:
+-   year: 1916
+    text: 'The Safety First merit badge is introduced. The first Safety First merit badges are earned: 151 that year.'
+- {year: 1925, text: 'Best ranking: 9th of 64 merit badges.'}
+-   year: 1926
+    text: 'All-time high: 10,675 Safety First merit badges earned. Last year the Safety First merit badge is offered; it is replaced by Safety.'
+ranks:
+    1916: [25, 56]
+    1917: [11, 58]
+    1918: [11, 58]
+    1919: [12, 59]
+    1920: [11, 59]
+    1921: [10, 61]
+    1922: [10, 61]
+    1923: [11, 63]
+    1924: [11, 64]
+    1925: [9, 64]
+    1926: [10, 65]
+lifetimeRank: {rank: 175, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 180
+    range: [179, 181]
+    asOf: 2025
+earned:
+    totalThrough: 1926
+    total: 45931
+    byYear:
+        1916: 151
+        1917: 908
+        1918: 965
+        1919: 2203
+        1920: 2327
+        1921: 4185
+        1922: 5500
+        1923: 5564
+        1924: 5574
+        1925: 7879
+        1926: 10675
+patches:
+-   type: A
+    years: 1916-1921
+    note: variations
+    image: /history/safety-first/safety-first-patch-a1.webp
+-   type: A
+    years: 1917-1921
+    note: variations
+    image: /history/safety-first/safety-first-patch-a2.webp
+-   type: A
+    years: 1922-1926
+    note: variations
+    image: /history/safety-first/safety-first-patch-a3.webp
+pamphlets:
+- {type: 1C, image: /history/safety-first/safety-first-1c.webp}
+- {type: '2', image: /history/safety-first/safety-first-2.webp}
+- {type: 3A, image: /history/safety-first/safety-first-3a.webp}
+trivia:
+-   q: In what year did Scouts earn the most Safety First merit badges?
+    a: 1926, when 10,675 were earned.
+- {q: 'How many Safety First merit badges had been earned by 1926?', a: '45,931.'}
+-   q: What was Safety First's best year in the rankings on record?
+    a: 1925, when it was 9th of the 64 merit badges earned that year.
+- {q: 'What replaced Safety First after 1926?', a: Safety.}

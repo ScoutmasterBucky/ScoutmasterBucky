@@ -1,0 +1,20 @@
+# Researched for the American Cultures history page (generate_histories.py
+# merges this over the generated draft). Sources:
+# - usscouts.org history table: the only badge first offered in 1979 (BSA No. 17);
+#   Bucky's workbook counts agree: no other badge was first earned in 1979
+# - Bucky's old page and his patch photos (Types H through M): same design since 1979
+# - Workbook counts and rankings for the rest
+# Requirements: the earliest found online are the 2008 version (archived
+# meritbadge.org wiki, Boy Scout Requirements 2008). The 1979-80 originals need
+# Bucky's 1980 Type 9A pamphlet (TODO.md); until then the page shows trivia.
+trivia:
+    - q: What was the only new merit badge of 1979?
+      a: American Cultures.
+    - q: Has the American Cultures badge design ever changed?
+      a: No. It has kept the same design since 1979, through every patch style from Type H to the new Scouting America back.
+    - q: How many American Cultures merit badges were earned in its first year?
+      a: 161 in 1979. Two years later, Scouts earned 928.
+    - q: Of the years with a known count, when did Scouts earn the most American Cultures merit badges?
+      a: 2019, when 3,089 were earned.
+    - q: What was American Cultures' best year in the rankings on record?
+      a: 2013, when it was 83rd of the 129 merit badges earned that year.

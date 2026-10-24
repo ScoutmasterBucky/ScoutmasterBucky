@@ -1,0 +1,67 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Signs, Signals, and Codes
+precededBy: N/A
+introduced: 2015
+discontinued: Current
+replacedWith: Current
+story: ['The Signs, Signals, and Codes merit badge']
+timeline:
+-   year: 2015
+    text: 'The Signs, Signals, and Codes merit badge is introduced. The first Signs, Signals, and Codes merit badges are earned: 3,453 that year. The earliest known Signs, Signals, and Codes pamphlet printing
+        (Type 10C).'
+- {year: 2016, text: 'All-time high: 8,025 Signs, Signals, and Codes merit badges earned.'}
+- {year: 2021, text: 'Best ranking: 57th of 137 merit badges.'}
+ranks:
+    2015: [105, 138]
+    2016: [64, 138]
+    2017: [65, 139]
+    2018: [67, 139]
+    2019: [62, 139]
+    2020: [76, 137]
+    2021: [57, 137]
+    2022: [58, 138]
+    2023: [58, 138]
+    2024: [60, 138]
+    2025: [59, 141]
+lifetimeRank: {rank: 180, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 169
+    range: [165, 171]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 38454
+    byYear:
+        2015: 3453
+        2016: 8025
+        2017: 7364
+        2018: 7178
+        2019: 7854
+        2020: 4580
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: K, image: /history/signs-signals-and-codes/signs-signals-and-codes-patch-k.webp}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/signs-signals-and-codes/signs-signals-and-codes-patch-l.webp
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+- {type: 11A, status: missing}
+trivia:
+-   q: In what year did Scouts earn the most Signs, Signals, and Codes merit badges?
+    a: 2016, when 8,025 were earned.
+- {q: 'How many Signs, Signals, and Codes merit badges had been earned by 2020?', a: '38,454.'}
+-   q: What was Signs, Signals, and Codes' best year in the rankings on record?
+    a: 2021, when it was 57th of the 137 merit badges earned that year.
+- {q: 'What came before the Signs, Signals, and Codes merit badge?', a: N/A.}
+- {q: 'When was the earliest known Signs, Signals, and Codes pamphlet printed?', a: '2015.'}

@@ -1,0 +1,48 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Farm and Ranch Management
+precededBy: Farm Records Became Agribusiness
+introduced: 1980
+discontinued: '1987'
+replacedWith: Agribusiness
+timeline:
+-   year: 1980
+    text: 'The Farm and Ranch Management merit badge is introduced. The first Farm and Ranch Management merit badges are earned: 726 that year. The earliest known Farm and Ranch Management pamphlet printing
+        (Type 9).'
+-   year: 1981
+    text: 'All-time high: 1,195 Farm and Ranch Management merit badges earned. Best ranking: 105th of 134 merit badges.'
+-   year: 1987
+    text: Last year the Farm and Ranch Management merit badge is offered; it is replaced by Agribusiness.
+ranks:
+    1980: [106, 132]
+    1981: [105, 134]
+lifetimeRank: {rank: 222, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 224
+    range: [224, 224]
+    asOf: 2025
+earned:
+    totalThrough: 1981
+    total: 1921
+    byYear: {1980: 726, 1981: 1195}
+patches:
+-   type: H
+    years: 1980-1987
+    status: missing
+    more:
+    -   image: /history/farm-and-ranch-management/farm-and-ranch-management-patch-h3-reverse.webp
+        label: H variation H3, back
+pamphlets:
+- {type: '9', image: /history/farm-and-ranch-management/farm-and-ranch-management-9.webp}
+trivia:
+-   q: In what year did Scouts earn the most Farm and Ranch Management merit badges?
+    a: 1981, when 1,195 were earned.
+- {q: 'How many Farm and Ranch Management merit badges had been earned by 1981?', a: '1,921.'}
+-   q: What was Farm and Ranch Management's best year in the rankings on record?
+    a: 1981, when it was 105th of the 134 merit badges earned that year.
+-   q: What came before the Farm and Ranch Management merit badge?
+    a: Farm Records Became Agribusiness.
+- {q: 'What replaced Farm and Ranch Management after 1987?', a: Agribusiness.}
+- {q: 'When was the earliest known Farm and Ranch Management pamphlet printed?', a: April 1980.}

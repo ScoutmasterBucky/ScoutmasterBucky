@@ -1,0 +1,73 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Welding
+precededBy: N/A
+introduced: 2012
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2012
+    text: 'The Welding merit badge is introduced. The first Welding merit badges are earned: 4,022 that year. The earliest known Welding pamphlet printing (Type 10C).'
+- {year: 2013, text: 'Best ranking: 36th of 129 merit badges.'}
+- {year: 2018, text: 'All-time high: 11,981 Welding merit badges earned.'}
+ranks:
+    2012: [84, 132]
+    2013: [36, 129]
+    2014: [54, 136]
+    2015: [51, 138]
+    2016: [53, 138]
+    2017: [49, 139]
+    2018: [46, 139]
+    2019: [48, 139]
+    2020: [74, 137]
+    2021: [44, 137]
+    2022: [39, 138]
+    2023: [36, 138]
+    2024: [41, 138]
+    2025: [39, 141]
+lifetimeRank: {rank: 150, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 137
+    range: [134, 138]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 86233
+    byYear:
+        2012: 4022
+        2013: 10919
+        2014: 11061
+        2015: 11019
+        2016: 10737
+        2017: 10656
+        2018: 11981
+        2019: 11129
+        2020: 4709
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: K
+    years: 2012-2014
+    note: BSA 2010 back
+    image: /history/welding/welding-patch-k.webp
+    more:
+    - {image: /history/welding/welding-patch-k-front.webp, label: K front}
+    - {image: /history/welding/welding-patch-k-reverse.webp, label: K back}
+- {type: L, years: 2015-2025, note: Since 1910 back, status: missing}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10C, image: /history/welding/welding-10c.webp}
+- {type: 10D, image: /history/welding/welding-10d.webp}
+- {type: 11A, image: /history/welding/welding-11a.webp}
+trivia:
+- {q: 'In what year did Scouts earn the most Welding merit badges?', a: '2018, when 11,981 were earned.'}
+- {q: 'How many Welding merit badges had been earned by 2020?', a: '86,233.'}
+-   q: What was Welding's best year in the rankings on record?
+    a: 2013, when it was 36th of the 129 merit badges earned that year.
+- {q: 'What came before the Welding merit badge?', a: N/A.}
+- {q: 'When was the earliest known Welding pamphlet printed?', a: '2012.'}

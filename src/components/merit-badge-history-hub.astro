@@ -1,0 +1,386 @@
+---
+// The list of merit badge history pages, with search, a current/discontinued
+// filter, and the collector guides to the patch, pamphlet and hard cover types.
+// The draft hub lists every draft; the public hub lists the site's history list.
+import badgeNames from '~/data/historical-merit-badges.yaml';
+import currentBadges from '~/data/merit-badges.yaml';
+import { allBadgeHistories, historyLinks, historyPhoto, visibleSections } from '~/utils/merit-badge-history';
+
+interface Props {
+    draft?: boolean;
+}
+
+const { draft = false } = Astro.props;
+const links = historyLinks(draft);
+const histories = allBadgeHistories();
+const historyFor = new Map(histories.map(h => [h.slug, h.history]));
+
+// Newest patch photo, when the badge's patches can be shown
+const patchPhoto = (slug: string) =>
+    visibleSections(slug, draft).has('patches')
+        ? historyPhoto(historyFor.get(slug)?.patches.filter(p => p.image).at(-1)?.image)
+        : undefined;
+
+const badges = (
+    draft
+        ? histories.map(({ slug, history }) => ({
+              slug,
+              name: history.name,
+              active: String(history.discontinued).toLowerCase() === 'current',
+          }))
+        : Object.entries(badgeNames as Record<string, { name: string; active: boolean }>).map(([slug, b]) => ({
+              slug,
+              name: b.name,
+              active: b.active,
+          }))
+)
+    .map(b => ({
+        ...b,
+        href: links.badge(b.slug),
+        image: patchPhoto(b.slug) ?? currentBadges[b.slug]?.image,
+        // Required for Eagle today; only current badges get the eagle
+        eagle: b.active && currentBadges[b.slug]?.eagle === true,
+    }))
+    .sort((a, b) => a.name.localeCompare(b.name));
+
+// "Airplane Design" -> "AD", "Fish and Wildlife Management" -> "FWM",
+// one-word names keep two letters: "Aerodynamics" -> "Ae"
+function initials(name: string) {
+    const words = name.split(/[\s-]+/).filter(w => !/^(and|of|the|in|its)$/i.test(w));
+    if (words.length === 1) {
+        return words[0].slice(0, 2);
+    }
+
+    return words
+        .map(w => w[0].toUpperCase())
+        .join('')
+        .slice(0, 3);
+}
+
+// Collector guides appear once at least one badge has that section approved
+const anyShown = (section: 'patches' | 'pamphlets' | 'hardcovers') =>
+    histories.some(h => visibleSections(h.slug, draft).has(section));
+const guides = [
+    anyShown('patches') && {
+        href: `${links.types}/patch-a/`,
+        title: 'Patch Types A - M',
+        text: 'How to tell when a merit badge was made, from 1911 to today.',
+        image: '/history/0-type/patch-type-l-back.webp',
+    },
+    anyShown('pamphlets') && {
+        href: `${links.types}/pamphlet-1/`,
+        title: 'Pamphlet Types 1 - 11',
+        text: 'Every style of merit badge pamphlet cover.',
+        image: '/history/0-type/pamphlet-type-10.webp',
+    },
+    anyShown('hardcovers') && {
+        href: `${links.types}/hardcover-hca/`,
+        title: 'Hard Cover Types',
+        text: 'Library bound pamphlets, HCA through HCU.',
+        image: '/history/0-type/hardcover-hcj-front.webp',
+    },
+]
+    .filter(Boolean)
+    .map(g => g && { ...g, image: historyPhoto(g.image) }) as { href: string; title: string; text: string; image: string }[];
+---
+
+<div class="hub">
+    {
+        guides.length > 0 && (
+            <>
+                <h2>Collector Guides</h2>
+                <ul class="guides">
+                    {guides.map(g => (
+                        <li>
+                            <a href={g.href}>
+                                <img src={g.image} alt="" loading="lazy" />
+                                <span>
+                                    <strong>{g.title}</strong>
+                                    <span class="text">{g.text}</span>
+                                </span>
+                            </a>
+                        </li>
+                    ))}
+                </ul>
+            </>
+        )
+    }
+
+    <h2>Merit Badge History Pages</h2>
+    <div class="controls">
+        <input type="search" placeholder="Find a merit badge" aria-label="Find a merit badge" data-search />
+        <div class="filters" role="group" aria-label="Show">
+            <button type="button" data-filter="all" aria-pressed="true">All</button>
+            <button type="button" data-filter="current" aria-pressed="false">Current</button>
+            <button type="button" data-filter="discontinued" aria-pressed="false">Discontinued</button>
+        </div>
+    </div>
+    <p class="count" aria-live="polite">
+        {badges.length} merit badges, {badges.filter(b => b.active).length} of them current.
+    </p>
+    <p class="key">
+        Current badges: <span class="key-current">green</span> ones are electives,
+        <span class="key-eagle">silver</span> ones are required for Eagle.
+    </p>
+
+    <ul class="badges">
+        {badges.map(b => (
+            <li data-name={b.name.toLowerCase()} data-active={String(b.active)}>
+                <a href={b.href} class:list={{ current: b.active, 'eagle-tile': b.eagle }}>
+                    {b.image ? (
+                        <img src={b.image} alt="" loading="lazy" />
+                    ) : (
+                        // A plain emblem with the badge's initials until its patch photos are approved
+                        <span class="emblem" aria-hidden="true">{initials(b.name)}</span>
+                    )}
+                    <span class:list={['name', { active: b.active }]}>{b.name}</span>
+                    {b.eagle && <span class="visually-hidden">(required for Eagle)</span>}
+                </a>
+            </li>
+        ))}
+    </ul>
+</div>
+
+<style>
+    .guides {
+        list-style: none;
+        margin: 0.5em 0 1.5em;
+        padding: 0;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+        gap: 0.8em;
+    }
+
+    .guides a {
+        display: flex;
+        gap: 0.8em;
+        align-items: center;
+        height: 100%;
+        padding: 0.6em;
+        border: 1px solid #cfe0b5;
+        border-radius: 0.5em;
+        background: var(--palette-very-light);
+        color: inherit;
+        text-decoration: none;
+    }
+
+    .guides a:hover {
+        border-color: var(--palette-dark);
+    }
+
+    .guides img {
+        flex: none;
+        width: 3.5em;
+        height: 3.5em;
+        object-fit: contain;
+    }
+
+    .guides strong {
+        display: block;
+        color: var(--palette-very-dark);
+    }
+
+    .guides .text {
+        font-size: 0.85em;
+    }
+
+    .controls {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.6em;
+        align-items: center;
+    }
+
+    .controls input {
+        flex: 1 1 14em;
+        padding: 0.4em 0.6em;
+        border: 1px solid #b9c4ad;
+        border-radius: 0.3em;
+        font: inherit;
+    }
+
+    .filters {
+        display: flex;
+        gap: 0.3em;
+    }
+
+    .filters button {
+        padding: 0.3em 0.8em;
+        border: 2px solid var(--palette-dark);
+        border-radius: 999px;
+        background: #fff;
+        color: var(--palette-dark);
+        font: inherit;
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+    .filters button[aria-pressed='true'] {
+        background: var(--palette-dark);
+        color: #fff;
+    }
+
+    .count {
+        font-size: 0.9em;
+        color: #5c6656;
+    }
+
+    .badges {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 0.5em;
+    }
+
+    .badges a {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.3em;
+        height: 100%;
+        padding: 0.6em 0.4em;
+        border: 1px solid #e3e7dd;
+        border-radius: 0.4em;
+        background: #fff;
+        color: inherit;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .badges a:hover {
+        border-color: var(--palette-dark);
+    }
+
+    .badges img,
+    .badges .emblem {
+        width: 64px;
+        height: 64px;
+        object-fit: contain;
+    }
+
+    /* Looks like a merit badge: khaki rim, green center, the badge's initials */
+    .badges .emblem {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-sizing: border-box;
+        border: 5px solid #c8b58a;
+        border-radius: 50%;
+        background: radial-gradient(circle at 35% 30%, var(--palette-light), var(--palette-dark));
+        box-shadow: inset 0 0 0 2px rgb(255 255 255 / 35%);
+        color: #fff;
+        font-weight: bold;
+        font-size: 1.05em;
+        letter-spacing: 0.04em;
+    }
+
+    .name {
+        font-size: 0.9em;
+        line-height: 1.2;
+        color: #6b7466;
+    }
+
+    /* Current badges stand out: green tile, stronger border, dark bold name */
+    .badges a.current {
+        border: 2px solid var(--palette-light);
+        background: var(--palette-very-light);
+    }
+
+    .name.active {
+        font-weight: bold;
+        color: var(--palette-very-dark);
+    }
+
+    /* Eagle-required badges get a silver shading, like their silver-bordered patches */
+    .badges a.current.eagle-tile,
+    .key-eagle {
+        border-color: #9aa3ab;
+        background: linear-gradient(145deg, #f7f8f9 0%, #dde1e5 45%, #c3c9cf 100%);
+    }
+
+    .badges a.current.eagle-tile {
+        box-shadow: inset 0 1px 0 #fff, 0 1px 3px rgb(0 0 0 / 12%);
+    }
+
+    .visually-hidden {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+        clip: rect(0 0 0 0);
+        white-space: nowrap;
+    }
+
+    .key {
+        margin-top: -0.4em;
+        font-size: 0.9em;
+        color: #5c6656;
+    }
+
+    .key-eagle {
+        padding: 0.05em 0.5em;
+        border: 2px solid #9aa3ab;
+        border-radius: 0.3em;
+        color: #3d454c;
+        font-weight: bold;
+    }
+
+    .key-current {
+        padding: 0.05em 0.5em;
+        border: 2px solid var(--palette-light);
+        border-radius: 0.3em;
+        background: var(--palette-very-light);
+        color: var(--palette-very-dark);
+        font-weight: bold;
+    }
+</style>
+
+<script>
+    // Search by name and filter current/discontinued badges
+    const hub = document.querySelector<HTMLElement>('.hub');
+    const search = hub?.querySelector<HTMLInputElement>('[data-search]');
+    const buttons = [...(hub?.querySelectorAll<HTMLButtonElement>('[data-filter]') ?? [])];
+    const items = [...(hub?.querySelectorAll<HTMLElement>('.badges li') ?? [])];
+    const count = hub?.querySelector('.count');
+    const key = hub?.querySelector<HTMLElement>('.key');
+    let filter = 'all';
+
+    function update() {
+        const words = (search?.value ?? '').toLowerCase().trim();
+        let shown = 0;
+        let current = 0;
+        for (const item of items) {
+            const active = item.dataset.active === 'true';
+            const match =
+                (!words || (item.dataset.name ?? '').includes(words)) &&
+                (filter === 'all' || (filter === 'current') === active);
+            item.hidden = !match;
+            shown += match ? 1 : 0;
+            current += match && active ? 1 : 0;
+        }
+        // The count fits the toggle; the green/silver key only matters when current badges show
+        const plural = shown === 1 ? '' : 's';
+        if (count) {
+            count.textContent =
+                filter === 'current'
+                    ? `${shown} current merit badge${plural}.`
+                    : filter === 'discontinued'
+                      ? `${shown} discontinued merit badge${plural}.`
+                      : `${shown} merit badge${plural}, ${current} of them current.`;
+        }
+        if (key) {
+            key.hidden = filter === 'discontinued';
+        }
+    }
+
+    search?.addEventListener('input', update);
+    for (const button of buttons) {
+        button.addEventListener('click', () => {
+            filter = button.dataset.filter ?? 'all';
+            buttons.forEach(b => b.setAttribute('aria-pressed', String(b === button)));
+            update();
+        });
+    }
+</script>

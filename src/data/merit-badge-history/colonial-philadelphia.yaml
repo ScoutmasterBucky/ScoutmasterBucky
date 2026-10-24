@@ -1,0 +1,45 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Colonial Philadelphia
+precededBy: None
+introduced: Unknown
+discontinued: Unknown
+replacedWith: None
+timeline: []
+patches:
+- {type: A, years: 1911-1933, status: missing}
+- {type: B, years: 1934-1935, status: missing}
+- {type: C, years: 1936-1942, status: missing}
+- {type: D, years: 1942-1946, status: missing}
+- {type: E, years: 1947-1960, status: missing}
+- {type: F, years: 1961-1968, status: missing}
+- {type: G, years: 1961-1971, status: missing}
+-   type: H
+    years: 1972-2002
+    note: variation H1
+    image: /history/colonial-philadelphia/colonial-philadelphia-patch-h1.webp
+    more:
+    -   image: /history/colonial-philadelphia/colonial-philadelphia-patch-h1-front.webp
+        label: H variation H1, front
+    -   image: /history/colonial-philadelphia/colonial-philadelphia-patch-h1-reverse.webp
+        label: H variation H1, back
+    -   image: /history/colonial-philadelphia/colonial-philadelphia-patch-h3-front.webp
+        label: H variation H3, front
+    -   image: /history/colonial-philadelphia/colonial-philadelphia-patch-h3-reverse.webp
+        label: H variation H3, back
+-   type: H
+    years: 1972-2002
+    note: variation H2
+    image: /history/colonial-philadelphia/colonial-philadelphia-patch-h2.webp
+- {type: I, years: 1993-1995, status: unknown}
+- {type: J, years: 2002-2009, status: missing}
+- {type: K, years: 2010-2014, status: missing}
+- {type: L, years: 2015-2025, status: missing, note: Since 1910 back}
+pamphlets:
+- {type: 1A, image: /history/colonial-philadelphia/colonial-philadelphia-1a.webp}
+- {type: '1975', image: /history/colonial-philadelphia/colonial-philadelphia-1975.webp}
+trivia:
+-   q: Was the Colonial Philadelphia badge made in every patch style of its time?
+    a: No. No Type I Colonial Philadelphia badge is known to exist.

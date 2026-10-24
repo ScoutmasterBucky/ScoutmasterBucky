@@ -1,0 +1,192 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Communication
+precededBy: None
+introduced: 1965
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1965
+    text: 'The Communication merit badge is introduced. The first Communication merit badges are earned: 497 that year.'
+- {year: 1967, text: The earliest known Communication pamphlet printing (Type 7).}
+- {year: 2002, text: 'All-time high: 63,408 Communication merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 4th of 129 merit badges.'}
+ranks:
+    1965: [103, 109]
+    1966: [102, 110]
+    1967: [89, 112]
+    1968: [95, 112]
+    1969: [96, 113]
+    1970: [100, 113]
+    1971: [96, 113]
+    1972: [64, 124]
+    1973: [54, 122]
+    1974: [25, 121]
+    1975: [17, 128]
+    1976: [16, 130]
+    1977: [17, 130]
+    1978: [17, 131]
+    1979: [14, 132]
+    1980: [12, 132]
+    1981: [11, 134]
+    1993: [11, 123]
+    1996: [11, 134]
+    2000: [10, 128]
+    2001: [9, 129]
+    2002: [9, 129]
+    2003: [9, 130]
+    2004: [9, 121]
+    2005: [8, 121]
+    2006: [9, 121]
+    2007: [7, 121]
+    2008: [7, 121]
+    2009: [7, 122]
+    2010: [7, 125]
+    2011: [6, 129]
+    2012: [6, 132]
+    2013: [4, 129]
+    2014: [8, 136]
+    2015: [7, 138]
+    2016: [8, 138]
+    2017: [8, 139]
+    2018: [6, 139]
+    2019: [9, 139]
+    2020: [7, 137]
+    2021: [7, 137]
+    2022: [7, 138]
+    2023: [9, 138]
+    2024: [6, 138]
+    2025: [5, 141]
+lifetimeRank: {rank: 19, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 18
+    range: [17, 18]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 2352069
+    byYear:
+        1965: 497
+        1966: 952
+        1967: 1614
+        1968: 1424
+        1969: 1569
+        1970: 1481
+        1971: 1427
+        1972: 6527
+        1973: 8398
+        1974: 31608
+        1975: 46486
+        1976: 45517
+        1977: 39979
+        1978: 35881
+        1979: 33252
+        1980: 26165
+        1981: 39474
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 52533
+        1994: null
+        1995: null
+        1996: 54288
+        1997: null
+        1998: null
+        1999: null
+        2000: 59388
+        2001: 60560
+        2002: 63408
+        2003: 61057
+        2004: 60105
+        2005: 54633
+        2006: 53558
+        2007: 54214
+        2008: 54983
+        2009: 62153
+        2010: 59462
+        2011: 60749
+        2012: 59345
+        2013: 57111
+        2014: 54081
+        2015: 55738
+        2016: 53367
+        2017: 50503
+        2018: 51541
+        2019: 48117
+        2020: 36675
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: F, years: 1965-1968, status: missing}
+- {type: G, years: 1965-1971, note: cloth back, status: missing}
+- {type: H, years: '1972', note: clear, status: missing}
+- {type: H, years: '1973', note: blue, status: missing}
+- {type: H, years: 1973-2002, note: 'blue, clear, and molded', status: missing}
+- {type: I, status: none}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/communication/communication-patch-j.webp
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/communication/communication-patch-k.webp
+    more:
+    - {image: /history/communication/communication-patch-k-1-front.webp, label: K-1 front}
+    - {image: /history/communication/communication-patch-k-1-reverse.webp, label: K-1 back}
+    - {image: /history/communication/communication-patch-k-mve-front.webp, label: K-MVE front}
+    - {image: /history/communication/communication-patch-k-mve-reverse.webp, label: K-MVE back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/communication/communication-patch-l.webp
+    more:
+    - {image: /history/communication/communication-patch-l-front.webp, label: L front}
+    - {image: /history/communication/communication-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '7', image: /history/communication/communication-7.webp}
+- {type: 8A-1, image: /history/communication/communication-8a-1.webp}
+- {type: 8A-2, image: /history/communication/communication-8a-2.webp}
+- {type: 9A, image: /history/communication/communication-9a.webp}
+- {type: 9B, image: /history/communication/communication-9b.webp}
+- {type: 9C-1, image: /history/communication/communication-9c-1.webp}
+- {type: 9C-2, image: /history/communication/communication-9c-2.webp}
+- {type: 9D-1, image: /history/communication/communication-9d-1.webp}
+- {type: 9D-2, image: /history/communication/communication-9d-2.webp}
+- {type: 10A, image: /history/communication/communication-10a.webp}
+- {type: 10B, image: /history/communication/communication-10b.webp}
+- {type: 10C-1, image: /history/communication/communication-10c-1.webp}
+- {type: 10C-1ES, image: /history/communication/communication-10c-1es.webp}
+- {type: 10C-2, image: /history/communication/communication-10c-2.webp}
+- {type: 10C-ES, status: missing}
+- {type: 10D-1, image: /history/communication/communication-10d-1.webp}
+- {type: 10D-2A, image: /history/communication/communication-10d-2a.webp}
+- {type: 10D-2B, image: /history/communication/communication-10d-2b.webp}
+- {type: 11A, status: missing}
+hardcovers:
+- {type: HCN, image: /history/communication/communication-hcn.webp}
+- {type: HCS, image: /history/communication/communication-hcs.webp}
+- {type: HCT, image: /history/communication/communication-hct.webp}
+trivia:
+-   q: Was the Communication badge made in every patch style of its time?
+    a: No. No Type I Communication badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Communication merit badges?
+    a: 2002, when 63,408 were earned.
+- {q: 'How many Communication merit badges had been earned by 2020?', a: '2,352,069.'}
+-   q: What was Communication's best year in the rankings on record?
+    a: 2013, when it was 4th of the 129 merit badges earned that year.
+- {q: 'When was the earliest known Communication pamphlet printed?', a: April 1967.}

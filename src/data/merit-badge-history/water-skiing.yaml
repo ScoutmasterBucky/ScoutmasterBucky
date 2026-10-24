@@ -1,0 +1,144 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Water Skiing
+precededBy: None
+introduced: 1969
+discontinued: '2007'
+replacedWith: Water Sports
+timeline:
+-   year: 1969
+    text: 'The Water Skiing merit badge is introduced. The first Water Skiing merit badges are earned: 5,773 that year. The earliest known Water Skiing pamphlet printing (Type 7).'
+- {year: 1974, text: 'All-time high: 8,198 Water Skiing merit badges earned.'}
+- {year: 1980, text: 'Best ranking: 53rd of 132 merit badges.'}
+- {year: 2007, text: Last year the Water Skiing merit badge is offered; it is replaced by Water Sports.}
+ranks:
+    1969: [57, 113]
+    1970: [56, 113]
+    1971: [55, 113]
+    1972: [63, 124]
+    1973: [64, 122]
+    1974: [65, 121]
+    1975: [68, 128]
+    1976: [65, 130]
+    1977: [62, 130]
+    1978: [61, 131]
+    1979: [60, 132]
+    1980: [53, 132]
+    1981: [54, 134]
+    1993: [67, 123]
+    1996: [67, 134]
+    2000: [68, 128]
+    2001: [80, 129]
+    2002: [79, 129]
+    2003: [82, 130]
+    2004: [94, 121]
+    2005: [93, 121]
+    2006: [89, 121]
+lifetimeRank: {rank: 105, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 110
+    range: [110, 111]
+    asOf: 2025
+earned:
+    totalThrough: 2006
+    total: 215116
+    byYear:
+        1969: 5773
+        1970: 6778
+        1971: 6519
+        1972: 6582
+        1973: 6878
+        1974: 8198
+        1975: 7819
+        1976: 7659
+        1977: 7198
+        1978: 6605
+        1979: 5586
+        1980: 4172
+        1981: 5705
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 5053
+        1994: null
+        1995: null
+        1996: 4801
+        1997: null
+        1998: null
+        1999: null
+        2000: 6298
+        2001: 4097
+        2002: 4782
+        2003: 4731
+        2004: 3516
+        2005: 3560
+        2006: 3701
+patches:
+-   type: G
+    years: 1969-1971
+    note: cloth back
+    image: /history/water-skiing/water-skiing-patch-g.webp
+-   type: H
+    years: 1972-1998
+    note: blue, clear, and molded) (numerous variations
+    image: /history/water-skiing/water-skiing-patch-h1.webp
+    more:
+    - {image: /history/water-skiing/water-skiing-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/water-skiing/water-skiing-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/water-skiing/water-skiing-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/water-skiing/water-skiing-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/water-skiing/water-skiing-patch-h51-front.webp, label: 'H variation H51, front'}
+    - {image: /history/water-skiing/water-skiing-patch-h51-reverse.webp, label: 'H variation H51, back'}
+    - {image: /history/water-skiing/water-skiing-patch-h52-front.webp, label: 'H variation H52, front'}
+    - {image: /history/water-skiing/water-skiing-patch-h52-reverse.webp, label: 'H variation H52, back'}
+    - {image: /history/water-skiing/water-skiing-patch-h53-front.webp, label: 'H variation H53, front'}
+    - {image: /history/water-skiing/water-skiing-patch-h53-reverse.webp, label: 'H variation H53, back'}
+-   type: H
+    years: 1999-2000
+    note: blue, clear, and molded
+    image: /history/water-skiing/water-skiing-patch-h2.webp
+-   type: H
+    years: 2001-2004
+    note: blue, clear, and molded
+    image: /history/water-skiing/water-skiing-patch-h3.webp
+- {type: I, status: notMade}
+-   type: J
+    years: '2002'
+    note: Scout Stuff back
+    image: /history/water-skiing/water-skiing-patch-j1.webp
+-   type: J
+    years: 2002-2004
+    note: Scout Stuff back
+    image: /history/water-skiing/water-skiing-patch-j2.webp
+- {type: J, years: 2004-2006, note: Scout Stuff back, status: missing}
+pamphlets:
+- {type: '7', image: /history/water-skiing/water-skiing-7.webp}
+- {type: '8', image: /history/water-skiing/water-skiing-8.webp}
+- {type: 9A-1, image: /history/water-skiing/waterskiing-9a-1.webp}
+- {type: 9A-2, image: /history/water-skiing/waterskiing-9a-2.webp}
+- {type: 9B-1, image: /history/water-skiing/waterskiing-9b-1.webp}
+- {type: 9B-2, image: /history/water-skiing/waterskiing-9b-2.webp}
+- {type: 9C, image: /history/water-skiing/waterskiing-9c.webp}
+hardcovers:
+- {type: HCS, image: /history/water-skiing/water-skiing-hcs.webp}
+- {type: HCU, image: /history/water-skiing/water-skiing-hcu.webp}
+trivia:
+-   q: Was the Water Skiing badge made in every patch style of its time?
+    a: No. No Type I Water Skiing badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Water Skiing merit badges?
+    a: 1974, when 8,198 were earned.
+- {q: 'How many Water Skiing merit badges had been earned by 2006?', a: '215,116.'}
+-   q: What was Water Skiing's best year in the rankings on record?
+    a: 1980, when it was 53rd of the 132 merit badges earned that year.
+- {q: 'What replaced Water Skiing after 2007?', a: Water Sports.}
+- {q: 'When was the earliest known Water Skiing pamphlet printed?', a: January 1969.}

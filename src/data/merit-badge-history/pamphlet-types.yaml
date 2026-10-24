@@ -1,0 +1,20 @@
+# Merit badge pamphlet type families, for the pamphlet type pages.
+# Names follow ScoutStuff4Sale's categories where Bucky's own sample covers
+# confirm them. Type 8 is "Green Band" there, but Bucky calls it the yellow band
+# cover, and his samples agree.
+'1': { name: White cover }
+'2': { name: White cover, image: /history/0-type/pamphlet-type-2.jpg }
+'3': { name: Tan cover, image: /history/0-type/pamphlet-type-3.webp }
+'4': { name: Standing Scout cover, image: /history/0-type/pamphlet-type-4.webp }
+# The World War II wartime covers have their own page, listed before Type 5
+'5a': { name: Wartime cover }
+'5': { name: Red and white cover, image: /history/0-type/pamphlet-type-5.webp }
+'6': { name: Picture top, red bottom, image: /history/0-type/pamphlet-type-6.webp }
+'7': { name: Full picture cover, image: /history/0-type/pamphlet-type-7.webp }
+'8':
+    name: Yellow band cover
+    differs: Some collectors and dealers call it the green band cover.
+    image: /history/0-type/pamphlet-type-8.webp
+'9': { name: Red band cover, image: /history/0-type/pamphlet-type-9.webp }
+'10': { name: Montage of pictures, image: /history/0-type/pamphlet-type-10.webp }
+'11': { name: Scouting America cover }

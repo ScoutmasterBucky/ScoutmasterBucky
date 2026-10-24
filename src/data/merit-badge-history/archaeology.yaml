@@ -1,0 +1,129 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Archaeology
+precededBy: None
+introduced: 1997
+discontinued: Current
+replacedWith: Current
+story: ['The Archaeology merit badge introduces Scouts to learning about methods used to study artifacts and sites, and doing research on or visiting current archaeological sites.']
+timeline:
+- {year: 1996, text: The first Archaeology merit badge is earned.}
+-   year: 1997
+    text: The Archaeology merit badge is introduced. The earliest known Archaeology pamphlet printing (Type 9A).
+- {year: 2012, text: 'All-time high: 10,316 Archaeology merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 44th of 129 merit badges.'}
+ranks:
+    1996: [133, 134]
+    2000: [94, 128]
+    2001: [86, 129]
+    2002: [85, 129]
+    2003: [83, 130]
+    2004: [81, 121]
+    2005: [91, 121]
+    2006: [79, 121]
+    2007: [72, 121]
+    2008: [62, 121]
+    2009: [59, 122]
+    2010: [61, 125]
+    2011: [54, 129]
+    2012: [50, 132]
+    2013: [44, 129]
+    2014: [64, 136]
+    2015: [68, 138]
+    2016: [69, 138]
+    2017: [71, 139]
+    2018: [77, 139]
+    2019: [81, 139]
+    2020: [106, 137]
+    2021: [76, 137]
+    2022: [78, 138]
+    2023: [81, 138]
+    2024: [84, 138]
+    2025: [83, 141]
+lifetimeRank: {rank: 111, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 111
+    range: [110, 112]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 192293
+    byYear:
+        1996: 1
+        1997: null
+        1998: null
+        1999: null
+        2000: 2742
+        2001: 3372
+        2002: 4347
+        2003: 4617
+        2004: 5018
+        2005: 3766
+        2006: 4946
+        2007: 5522
+        2008: 6527
+        2009: 7821
+        2010: 7939
+        2011: 9586
+        2012: 10316
+        2013: 8913
+        2014: 8652
+        2015: 7590
+        2016: 7388
+        2017: 6876
+        2018: 6056
+        2019: 5722
+        2020: 2671
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: H, years: 1996-2002, note: molded, status: missing}
+- {type: H, years: 1997-2002, image: /history/archaeology/archaeology-patch-h.webp}
+- {type: I, status: none}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/archaeology/archaeology-patch-j.webp
+    more:
+    - {image: /history/archaeology/archaeology-patch-j-front.webp, label: J front}
+    - {image: /history/archaeology/archaeology-patch-j-reverse.webp, label: J back}
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/archaeology/archaeology-patch-k.webp
+    more:
+    - {image: /history/archaeology/archaeology-patch-k-front.webp, label: K front}
+    - {image: /history/archaeology/archaeology-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/archaeology/archaeology-patch-l.webp
+    more:
+    - {image: /history/archaeology/archaeology-patch-l-front.webp, label: L front}
+    - {image: /history/archaeology/archaeology-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 9A, image: /history/archaeology/archaeology-9a.webp}
+- {type: 9B, image: /history/archaeology/archaeology-9b.webp}
+- {type: 10A, image: /history/archaeology/archaeology-10a.webp}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C-1, image: /history/archaeology/archaeology-10c-1.webp}
+- {type: 10C-2, image: /history/archaeology/archaeology-10c-2.webp}
+- {type: 10C-3, image: /history/archaeology/archaeology-10c-3.webp}
+- {type: 10D-1, image: /history/archaeology/archaeology-10d-1.webp}
+- {type: 10D-2, image: /history/archaeology/archaeology-10d-2.webp}
+- {type: 11A, status: missing}
+trivia:
+-   q: Was the Archaeology badge made in every patch style of its time?
+    a: No. No Type I Archaeology badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Archaeology merit badges?
+    a: 2012, when 10,316 were earned.
+- {q: 'How many Archaeology merit badges had been earned by 2020?', a: '192,293.'}
+-   q: What was Archaeology's best year in the rankings on record?
+    a: 2013, when it was 44th of the 129 merit badges earned that year.
+- {q: 'When was the earliest known Archaeology pamphlet printed?', a: September 1997.}

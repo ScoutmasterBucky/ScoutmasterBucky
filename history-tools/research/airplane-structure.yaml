@@ -1,0 +1,29 @@
+# Researched for the Airplane Structure history page (generate_histories.py
+# merges this over the generated draft). Sources:
+# - Boys' Life, April 1942, page 50 (Google Books, full view): Airplane Structure
+#   with Weather earned the triple-bladed propeller of the Second Class Air Scout
+#   Candidate; seniorscoutinghistory.org (Air Scouting candidate requirements)
+#   lists it the same way
+# - Boys' Life, October 1942, page 27: what the 1942 pamphlet covered
+# - seniorscoutinghistory.org and Wikipedia (Aviation Career Exploring): the four
+#   Air Scout ranks, Ace the highest
+# - Bucky's old pages and photos: only Airplane Structure is known in Type D
+# Requirements not found online in full; Bucky's 1942 pamphlet is the best
+# source (TODO.md). The Scouting magazine and 1942 Air Scout Manual printings of
+# them are snippet-only on Google Books.
+
+# Bucky's story, without its last sentence, which pointed to a table on his old page
+story:
+    - 'The "Air Scouts" program, established in 1941, offered the Ace Award as its highest program level recognition. Despite lower membership numbers, the Ace Award maintained a similar consistency to its program equivalent; the standard Boy Scouts program and the Eagle Scout award, at around 3 to 4 percent of all potential members receiving the award.'
+
+trivia:
+    - q: Which of the four Air Scout badges is known in the tan Type D style?
+      a: Only Airplane Structure. Aerodynamics, Aeronautics and Airplane Design are known only in their blue Type C design through 1946.
+    - q: What did a Scout earn by completing Airplane Structure and Weather in 1942?
+      a: The triple-bladed propeller insignia of the Second Class Air Scout Candidate.
+    - q: What did the 1942 Airplane Structure pamphlet teach?
+      a: The major parts of an airplane, how to build working and flying model planes, and how the controls work, shown with a "joy stick" model.
+    - q: What was the highest Air Scout rank?
+      a: Ace, above Apprentice, Observer and Craftsman.
+    - q: How did Airplane Structure compare with the other Air Scout badges?
+      a: With 12,130 earned, it was second only to Aeronautics among the four.

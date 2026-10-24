@@ -1,0 +1,283 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Coin Collecting
+precededBy: None
+introduced: 1938
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1938
+    text: 'The Coin Collecting merit badge is introduced. The first Coin Collecting merit badges are earned: 81 that year. The earliest known Coin Collecting pamphlet printing (Type 3D).'
+- {year: 1965, text: 'Best ranking: 31st of 109 merit badges.'}
+- {year: 1974, text: 'All-time high: 21,745 Coin Collecting merit badges earned.'}
+ranks:
+    1938: [105, 105]
+    1939: [98, 106]
+    1940: [101, 106]
+    1941: [102, 106]
+    1942: [100, 110]
+    1943: [97, 112]
+    1944: [95, 111]
+    1945: [93, 111]
+    1946: [92, 111]
+    1947: [93, 111]
+    1948: [85, 111]
+    1949: [80, 111]
+    1950: [77, 111]
+    1951: [66, 111]
+    1952: [71, 120]
+    1953: [63, 105]
+    1954: [59, 103]
+    1955: [53, 100]
+    1956: [51, 100]
+    1957: [45, 100]
+    1958: [44, 101]
+    1959: [38, 101]
+    1960: [35, 100]
+    1961: [35, 101]
+    1962: [34, 101]
+    1963: [34, 102]
+    1964: [32, 107]
+    1965: [31, 109]
+    1966: [31, 110]
+    1967: [32, 112]
+    1968: [35, 112]
+    1969: [35, 113]
+    1970: [36, 113]
+    1971: [34, 113]
+    1972: [41, 124]
+    1973: [36, 122]
+    1974: [35, 121]
+    1975: [37, 128]
+    1976: [40, 130]
+    1977: [45, 130]
+    1978: [51, 131]
+    1979: [56, 132]
+    1980: [57, 132]
+    1981: [56, 134]
+    1993: [72, 123]
+    1996: [80, 134]
+    2000: [76, 128]
+    2001: [70, 129]
+    2002: [76, 129]
+    2003: [80, 130]
+    2004: [80, 121]
+    2005: [76, 121]
+    2006: [73, 121]
+    2007: [78, 121]
+    2008: [71, 121]
+    2009: [71, 122]
+    2010: [71, 125]
+    2011: [61, 129]
+    2012: [64, 132]
+    2013: [55, 129]
+    2014: [87, 136]
+    2015: [89, 138]
+    2016: [95, 138]
+    2017: [96, 139]
+    2018: [92, 139]
+    2019: [90, 139]
+    2020: [75, 137]
+    2021: [93, 137]
+    2022: [92, 138]
+    2023: [94, 138]
+    2024: [96, 138]
+    2025: [89, 141]
+lifetimeRank: {rank: 68, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 69
+    range: [69, 69]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 524111
+    byYear:
+        1938: 81
+        1939: 399
+        1940: 222
+        1941: 218
+        1942: 258
+        1943: 345
+        1944: 487
+        1945: 519
+        1946: 574
+        1947: 478
+        1948: 587
+        1949: 781
+        1950: 1209
+        1951: 1928
+        1952: 2035
+        1953: 2208
+        1954: 3130
+        1955: 4143
+        1956: 4761
+        1957: 5628
+        1958: 6336
+        1959: 8513
+        1960: 11447
+        1961: 12767
+        1962: 12412
+        1963: 12843
+        1964: 14543
+        1965: 15069
+        1966: 14573
+        1967: 15129
+        1968: 14267
+        1969: 14246
+        1970: 13268
+        1971: 13010
+        1972: 12509
+        1973: 14732
+        1974: 21745
+        1975: 20721
+        1976: 17197
+        1977: 12344
+        1978: 8891
+        1979: 6074
+        1980: 3801
+        1981: 5467
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 4209
+        1994: null
+        1995: null
+        1996: 3599
+        1997: null
+        1998: null
+        1999: null
+        2000: 5025
+        2001: 5406
+        2002: 5023
+        2003: 4809
+        2004: 5062
+        2005: 5011
+        2006: 5134
+        2007: 4909
+        2008: 5895
+        2009: 7023
+        2010: 6785
+        2011: 7052
+        2012: 6043
+        2013: 5667
+        2014: 5303
+        2015: 4715
+        2016: 4135
+        2017: 3930
+        2018: 4726
+        2019: 4822
+        2020: 4639
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: C
+    years: 1938-1946
+    note: heavyweight and lightweight cloth
+    image: /history/coin-collecting/coin-collecting-patch-c.webp
+- {type: D, status: unknown}
+- {type: E, years: 1947-1960, image: /history/coin-collecting/coin-collecting-patch-e.webp}
+-   type: F
+    years: 1961-1968
+    note: rolled edge
+    image: /history/coin-collecting/coin-collecting-patch-f.webp
+-   type: G
+    years: 1969-1971
+    note: cloth back
+    image: /history/coin-collecting/coin-collecting-patch-g.webp
+-   type: H
+    years: '1972'
+    note: blue and clear
+    image: /history/coin-collecting/coin-collecting-patch-h1.webp
+    more:
+    - {image: /history/coin-collecting/coin-collecting-patch-h1a-front.webp, label: 'H variation H1A, front'}
+    - {image: /history/coin-collecting/coin-collecting-patch-h1a-reverse.webp, label: 'H variation H1A, back'}
+    - {image: /history/coin-collecting/coin-collecting-patch-h1b-front.webp, label: 'H variation H1B, front'}
+    - {image: /history/coin-collecting/coin-collecting-patch-h1b-reverse.webp, label: 'H variation H1B, back'}
+    -   image: /history/coin-collecting/coin-collecting-patch-h2a-1-front.webp
+        label: H variation H2A-1, front
+    -   image: /history/coin-collecting/coin-collecting-patch-h2a-1-reverse.webp
+        label: H variation H2A-1, back
+    -   image: /history/coin-collecting/coin-collecting-patch-h2b-1-front.webp
+        label: H variation H2B-1, front
+    -   image: /history/coin-collecting/coin-collecting-patch-h2b-1-reverse.webp
+        label: H variation H2B-1, back
+    - {image: /history/coin-collecting/coin-collecting-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/coin-collecting/coin-collecting-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/coin-collecting/coin-collecting-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/coin-collecting/coin-collecting-patch-h5-reverse.webp, label: 'H variation H5, back'}
+-   type: H
+    years: 1973-1990
+    note: blue, clear, and molded
+    image: /history/coin-collecting/coin-collecting-patch-h2.webp
+-   type: H
+    years: 1990-2002
+    note: molded
+    image: /history/coin-collecting/coin-collecting-patch-h3.webp
+- {type: I, status: none}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/coin-collecting/coin-collecting-patch-j.webp
+    more:
+    - {image: /history/coin-collecting/coin-collecting-patch-j1-front.webp, label: J1 front}
+    - {image: /history/coin-collecting/coin-collecting-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/coin-collecting/coin-collecting-patch-k.webp
+    more:
+    - {image: /history/coin-collecting/coin-collecting-patch-k-front.webp, label: K front}
+    - {image: /history/coin-collecting/coin-collecting-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/coin-collecting/coin-collecting-patch-l.webp
+    more:
+    - {image: /history/coin-collecting/coin-collecting-patch-l-front.webp, label: L front}
+    - {image: /history/coin-collecting/coin-collecting-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 3D, image: /history/coin-collecting/coin-collecting-3d.webp}
+- {type: 5A, image: /history/coin-collecting/coin-collecting-5a.webp}
+- {type: 5B, image: /history/coin-collecting/coin-collecting-5b.webp}
+- {type: '6', image: /history/coin-collecting/coin-collecting-6.webp}
+- {type: '7', image: /history/coin-collecting/coin-collecting-7.webp}
+- {type: 8A, image: /history/coin-collecting/coin-collecting-8a.webp}
+- {type: 8B, image: /history/coin-collecting/coin-collecting-8b.webp}
+- {type: 9A, image: /history/coin-collecting/coin-collecting-9a.webp}
+- {type: 9B-1, image: /history/coin-collecting/coin-collecting-9b-1.webp}
+- {type: 9B-2, image: /history/coin-collecting/coin-collecting-9b-2.webp}
+- {type: 10A, image: /history/coin-collecting/coin-collecting-10a.webp}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C-1, image: /history/coin-collecting/coin-collecting-10c-1.webp}
+- {type: 10C-2, image: /history/coin-collecting/coin-collecting-10c-2.webp}
+- {type: 10D, image: /history/coin-collecting/coin-collecting-10d.webp}
+hardcovers:
+- {type: HCI, image: /history/coin-collecting/coin-collecting-hci.webp}
+- {type: HCJ, image: /history/coin-collecting/coin-collecting-hcj.webp}
+- {type: HCL, image: /history/coin-collecting/coin-collecting-hcl.webp}
+- {type: HCM, image: /history/coin-collecting/coin-collecting-hcm.webp}
+- {type: HCT, image: /history/coin-collecting/coin-collecting-hct.webp}
+- {type: HCU, image: /history/coin-collecting/coin-collecting-hcu.webp}
+trivia:
+-   q: Was the Coin Collecting badge made in every patch style of its time?
+    a: No. No Type D or I Coin Collecting badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Coin Collecting merit badges?
+    a: 1974, when 21,745 were earned.
+- {q: 'How many Coin Collecting merit badges had been earned by 2020?', a: '524,111.'}
+-   q: What was Coin Collecting's best year in the rankings on record?
+    a: 1965, when it was 31st of the 109 merit badges earned that year.
+- {q: 'When was the earliest known Coin Collecting pamphlet printed?', a: February 1938.}

@@ -1,0 +1,265 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Dog Care
+precededBy: None
+introduced: 1938
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1938
+    text: 'The Dog Care merit badge is introduced. The first Dog Care merit badges are earned: 275 that year. The earliest known Dog Care pamphlet printing (Type 3D).'
+- {year: 1959, text: 'Best ranking: 39th of 101 merit badges.'}
+- {year: 1974, text: 'All-time high: 15,062 Dog Care merit badges earned.'}
+ranks:
+    1938: [100, 105]
+    1939: [56, 106]
+    1940: [58, 106]
+    1941: [54, 106]
+    1942: [50, 110]
+    1943: [50, 112]
+    1944: [48, 111]
+    1945: [44, 111]
+    1946: [55, 111]
+    1947: [49, 111]
+    1948: [47, 111]
+    1949: [45, 111]
+    1950: [43, 111]
+    1951: [43, 111]
+    1952: [44, 120]
+    1953: [41, 105]
+    1954: [45, 103]
+    1955: [42, 100]
+    1956: [44, 100]
+    1957: [43, 100]
+    1958: [41, 101]
+    1959: [39, 101]
+    1960: [40, 100]
+    1961: [42, 101]
+    1962: [43, 101]
+    1963: [44, 102]
+    1964: [41, 107]
+    1965: [43, 109]
+    1966: [44, 110]
+    1967: [45, 112]
+    1968: [45, 112]
+    1969: [43, 113]
+    1970: [46, 113]
+    1971: [47, 113]
+    1972: [52, 124]
+    1973: [52, 122]
+    1974: [48, 121]
+    1975: [50, 128]
+    1976: [47, 130]
+    1977: [47, 130]
+    1978: [47, 131]
+    1979: [51, 132]
+    1980: [54, 132]
+    1981: [53, 134]
+    1993: [75, 123]
+    1996: [78, 134]
+    2000: [85, 128]
+    2001: [83, 129]
+    2002: [88, 129]
+    2003: [86, 130]
+    2004: [91, 121]
+    2005: [96, 121]
+    2006: [97, 121]
+    2007: [96, 121]
+    2008: [94, 121]
+    2009: [96, 122]
+    2010: [98, 125]
+    2011: [97, 129]
+    2012: [90, 132]
+    2013: [76, 129]
+    2014: [114, 136]
+    2015: [118, 138]
+    2016: [118, 138]
+    2017: [114, 139]
+    2018: [111, 139]
+    2019: [108, 139]
+    2020: [82, 137]
+    2021: [107, 137]
+    2022: [111, 138]
+    2023: [110, 138]
+    2024: [114, 138]
+    2025: [120, 141]
+lifetimeRank: {rank: 71, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 73
+    range: [73, 73]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 449515
+    byYear:
+        1938: 275
+        1939: 1915
+        1940: 1971
+        1941: 2241
+        1942: 2342
+        1943: 2903
+        1944: 3865
+        1945: 4203
+        1946: 2408
+        1947: 2763
+        1948: 2750
+        1949: 3249
+        1950: 4283
+        1951: 4827
+        1952: 5049
+        1953: 5056
+        1954: 5495
+        1955: 5923
+        1956: 6007
+        1957: 6211
+        1958: 6651
+        1959: 7494
+        1960: 9319
+        1961: 9042
+        1962: 8997
+        1963: 8909
+        1964: 9665
+        1965: 8929
+        1966: 8606
+        1967: 9456
+        1968: 9581
+        1969: 10336
+        1970: 9846
+        1971: 9402
+        1972: 8604
+        1973: 9315
+        1974: 15062
+        1975: 14297
+        1976: 13162
+        1977: 11340
+        1978: 9325
+        1979: 6715
+        1980: 4113
+        1981: 6030
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 3695
+        1994: null
+        1995: null
+        1996: 3674
+        1997: null
+        1998: null
+        1999: null
+        2000: 3817
+        2001: 3799
+        2002: 4071
+        2003: 4047
+        2004: 3997
+        2005: 3157
+        2006: 3124
+        2007: 2948
+        2008: 3188
+        2009: 3373
+        2010: 3455
+        2011: 3407
+        2012: 3330
+        2013: 3351
+        2014: 2955
+        2015: 2666
+        2016: 2414
+        2017: 2661
+        2018: 3025
+        2019: 3151
+        2020: 4136
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: C
+    years: 1936-1946
+    note: heavyweight and lightweight cloth
+    image: /history/dog-care/dog-care-patch-c.webp
+-   type: D
+    years: 19XX-19XX
+    note: fine twill cloth
+    image: /history/dog-care/dog-care-patch-d.webp
+- {type: E, years: 1947-1960, image: /history/dog-care/dog-care-patch-e.webp}
+- {type: F, years: 1961-1968, note: rolled edge, image: /history/dog-care/dog-care-patch-f.webp}
+- {type: G, years: 1961-1971, note: cloth back, image: /history/dog-care/dog-care-patch-g.webp}
+-   type: H
+    years: 1972-2002
+    note: blue, clear, and molded
+    image: /history/dog-care/dog-care-patch-h.webp
+    more:
+    - {image: /history/dog-care/dog-care-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/dog-care/dog-care-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/dog-care/dog-care-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/dog-care/dog-care-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/dog-care/dog-care-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/dog-care/dog-care-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/dog-care/dog-care-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/dog-care/dog-care-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, years: 19XX-19XX, note: 38mm and 42mm, status: missing}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/dog-care/dog-care-patch-j.webp
+    more:
+    - {image: /history/dog-care/dog-care-patch-j1-front.webp, label: J1 front}
+    - {image: /history/dog-care/dog-care-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/dog-care/dog-care-patch-k.webp
+    more:
+    - {image: /history/dog-care/dog-care-patch-k-front.webp, label: K front}
+    - {image: /history/dog-care/dog-care-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/dog-care/dog-care-patch-l.webp
+    more:
+    - {image: /history/dog-care/dog-care-patch-l-front.webp, label: L front}
+    - {image: /history/dog-care/dog-care-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 3D, image: /history/dog-care/dog-care-3d.webp}
+- {type: '4', image: /history/dog-care/dog-care-4.webp}
+- {type: 5A, image: /history/dog-care/dog-care-5a.webp}
+- {type: 5B, image: /history/dog-care/dog-care-5b.webp}
+- {type: '6', image: /history/dog-care/dog-care-6.webp}
+- {type: 7A, image: /history/dog-care/dog-care-7a.webp}
+- {type: 7B, image: /history/dog-care/dog-care-7b.webp}
+- {type: '8', image: /history/dog-care/dog-care-8.webp}
+- {type: 9A, image: /history/dog-care/dog-care-9a.webp}
+- {type: 9B, image: /history/dog-care/dog-care-9b.webp}
+- {type: 10A, image: /history/dog-care/dog-care-10a.webp}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C-1, image: /history/dog-care/dog-care-10c-1.webp}
+- {type: 10C-2, image: /history/dog-care/dog-care-10c-2.webp}
+- {type: 10C-3, image: /history/dog-care/dog-care-10c-3.webp}
+- {type: 10D, image: /history/dog-care/dog-care-10d.webp}
+hardcovers:
+- {type: HCJ, image: /history/dog-care/dog-care-hcj.webp}
+- {type: HCK, image: /history/dog-care/dog-care-hck.webp}
+- {type: HCL, image: /history/dog-care/dog-care-hcl.webp}
+- {type: HCM, image: /history/dog-care/dog-care-hcm.webp}
+- {type: HCN, image: /history/dog-care/dog-care-hcn.webp}
+- {type: HCP, image: /history/dog-care/dog-care-hcp.webp}
+- {type: HCS, image: /history/dog-care/dog-care-hcs.webp}
+- {type: HCT, image: /history/dog-care/dog-care-hct.webp}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Dog Care merit badges?
+    a: 1974, when 15,062 were earned.
+- {q: 'How many Dog Care merit badges had been earned by 2020?', a: '449,515.'}
+-   q: What was Dog Care's best year in the rankings on record?
+    a: 1959, when it was 39th of the 101 merit badges earned that year.
+- {q: 'When was the earliest known Dog Care pamphlet printed?', a: September 1938.}

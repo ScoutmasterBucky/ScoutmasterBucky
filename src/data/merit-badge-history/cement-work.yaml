@@ -1,0 +1,131 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Cement Work
+precededBy: Craftsmanship
+precededByLink: craftsmanship
+introduced: 1911
+discontinued: '1952'
+replacedWith: N/A
+story: ['The Cement Work merit badge started out as a part of the Crafstmanship series of merit badges simply as Cement. Craftsmanship comprised of a half dozen different merit badges, all of which in 1928
+        branched out to be their own independent merit badge with their own merit badge design. Information shown here is only for 1928 and beyond Cement / Cement Work merit badge publications and earnings.
+        See Craftsmanship merit badge for earlier information.']
+timeline:
+-   year: 1911
+    text: The Cement Work merit badge is introduced. It is one of the original 57 merit badges.
+- {year: 1920, text: The earliest known Cement Work pamphlet printing (Type 1C).}
+-   year: 1928
+    text: 'First known count: 2,720 Cement Work merit badges earned. Best ranking: 45th of 88 merit badges.'
+- {year: 1931, text: 'All-time high: 2,784 Cement Work merit badges earned.'}
+- {year: 1952, text: Last year the Cement Work merit badge is offered; it is replaced by N/A.}
+ranks:
+    1928: [45, 88]
+    1929: [49, 89]
+    1930: [46, 92]
+    1931: [46, 96]
+    1932: [52, 98]
+    1933: [59, 101]
+    1934: [57, 101]
+    1935: [57, 101]
+    1936: [56, 101]
+    1937: [56, 102]
+    1938: [57, 105]
+    1939: [60, 106]
+    1940: [60, 106]
+    1941: [63, 106]
+    1942: [62, 110]
+    1943: [62, 112]
+    1944: [60, 111]
+    1945: [62, 111]
+    1946: [61, 111]
+    1947: [59, 111]
+    1948: [58, 111]
+    1949: [60, 111]
+    1950: [62, 111]
+    1951: [65, 111]
+    1952: [76, 120]
+lifetimeRank: {rank: 174, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 178
+    range: [178, 179]
+    asOf: 2025
+earned:
+    totalThrough: 1952
+    total: 48036
+    byYear:
+        1911: null
+        1912: null
+        1913: null
+        1914: null
+        1915: null
+        1916: null
+        1917: null
+        1918: null
+        1919: null
+        1920: null
+        1921: null
+        1922: null
+        1923: null
+        1924: null
+        1925: null
+        1926: null
+        1927: null
+        1928: 2720
+        1929: 1680
+        1930: 2111
+        1931: 2784
+        1932: 2064
+        1933: 1815
+        1934: 1676
+        1935: 2043
+        1936: 1551
+        1937: 1902
+        1938: 1732
+        1939: 1810
+        1940: 1790
+        1941: 1455
+        1942: 1342
+        1943: 1645
+        1944: 2172
+        1945: 2163
+        1946: 1876
+        1947: 1779
+        1948: 1943
+        1949: 1835
+        1950: 2109
+        1951: 2141
+        1952: 1898
+patches:
+- {type: A, years: 1928-1933, status: missing}
+- {type: B, years: 1934-1935, note: heavyweight cloth, status: missing}
+-   type: C
+    years: 1936-1946
+    note: heavyweight and lightweight cloth
+    image: /history/cement-work/cement-work-patch-c.webp
+- {type: D, status: unknown}
+- {type: E, years: 1947-1952, image: /history/cement-work/cement-work-patch-e.webp}
+pamphlets:
+- {type: 1C, image: /history/cement-work/cement-work-1c.webp}
+- {type: '2', image: /history/cement-work/cement-work-2.webp}
+- {type: 3A-1 over 2, image: /history/cement-work/cement-work-3a-1-over-2.webp}
+- {type: 3A-1, image: /history/cement-work/cement-work-3a-1.webp}
+- {type: 3A-2, image: /history/cement-work/cement-work-3a-2.webp}
+- {type: 3B, image: /history/cement-work/cement-work-3b.webp}
+- {type: '4', image: /history/cement-work/cement-work-4.webp}
+- {type: 5A, status: missing}
+- {type: 5B, image: /history/cement-work/cement-work-5b.webp}
+hardcovers:
+- {type: HCA, image: /history/cement-work/cement-work-hca.webp}
+- {type: HCH, image: /history/cement-work/cement-work-hch.webp}
+trivia:
+-   q: Was the Cement Work badge made in every patch style of its time?
+    a: No. No Type D Cement Work badge is known to exist.
+-   q: Was Cement Work one of the original 57 merit badges?
+    a: Yes. It was in the first Official Handbook for Boys in 1911.
+-   q: Of the years with a known count, when did Scouts earn the most Cement Work merit badges?
+    a: 1931, when 2,784 were earned.
+- {q: 'How many Cement Work merit badges had been earned by 1952?', a: '48,036.'}
+-   q: What was Cement Work's best year in the rankings on record?
+    a: 1928, when it was 45th of the 88 merit badges earned that year.
+- {q: 'What came before the Cement Work merit badge?', a: Craftsmanship.}

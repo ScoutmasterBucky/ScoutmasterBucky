@@ -1,0 +1,132 @@
+---
+// Enlarged photo view for pages without the full history component (the type
+// pages). Opens for any `.zoom` button inside the slot, paging through the
+// photos in its data-photos list.
+---
+
+<div class="photo-viewer" data-photo-viewer>
+    <slot />
+
+    <dialog class="viewer">
+        <form method="dialog">
+            <button class="close" aria-label="Close">&times;</button>
+        </form>
+        <img alt="" />
+        <p class="caption"></p>
+        <div class="pager" hidden>
+            <button class="prev" type="button" aria-label="Previous photo">&lsaquo;</button>
+            <span class="position"></span>
+            <button class="next" type="button" aria-label="Next photo">&rsaquo;</button>
+        </div>
+    </dialog>
+</div>
+
+<style>
+    /* position: fixed because the site styles dialogs as absolute */
+    .viewer {
+        position: fixed;
+        height: fit-content;
+        max-width: min(90vw, 600px);
+        margin: auto;
+        padding: 1em;
+        border: var(--modal-border);
+        border-radius: 0.5em;
+        text-align: center;
+    }
+
+    .viewer::backdrop {
+        background: rgb(0 0 0 / 0.7);
+    }
+
+    .viewer img {
+        max-width: 100%;
+        max-height: 70vh;
+    }
+
+    .caption {
+        white-space: pre-line;
+    }
+
+    .pager {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 1em;
+    }
+
+    .pager[hidden] {
+        display: none;
+    }
+
+    .pager button,
+    .close {
+        width: 2.2em;
+        height: 2.2em;
+        padding: 0;
+        border: 2px solid var(--palette-dark);
+        border-radius: 50%;
+        background: var(--palette-very-light);
+        color: var(--palette-very-dark);
+        font-size: 1.2em;
+        line-height: 1;
+        cursor: pointer;
+    }
+
+    .close {
+        position: absolute;
+        top: 0.4em;
+        right: 0.5em;
+        z-index: 2;
+    }
+</style>
+
+<script>
+    interface Photo {
+        src: string;
+        caption: string;
+        alt?: string;
+    }
+
+    for (const viewer of document.querySelectorAll<HTMLElement>('[data-photo-viewer]')) {
+        const dialog = viewer.querySelector<HTMLDialogElement>('dialog.viewer');
+        const img = dialog?.querySelector('img');
+        const caption = dialog?.querySelector('.caption');
+        const pager = dialog?.querySelector<HTMLElement>('.pager');
+        const position = dialog?.querySelector('.position');
+        let photos: Photo[] = [];
+        let index = 0;
+
+        const show = (i: number) => {
+            if (!img || !caption || !pager || !position) {
+                return;
+            }
+
+            index = (i + photos.length) % photos.length;
+            img.src = photos[index].src;
+            img.alt = photos[index].alt ?? photos[index].caption;
+            caption.textContent = photos[index].caption;
+            position.textContent = `${index + 1} of ${photos.length}`;
+            pager.hidden = photos.length < 2;
+        };
+
+        for (const button of viewer.querySelectorAll<HTMLButtonElement>('.zoom')) {
+            button.addEventListener('click', () => {
+                photos = JSON.parse(button.dataset.photos ?? '[]');
+                show(0);
+                dialog?.showModal();
+            });
+        }
+
+        dialog?.querySelector('.prev')?.addEventListener('click', () => show(index - 1));
+        dialog?.querySelector('.next')?.addEventListener('click', () => show(index + 1));
+        dialog?.querySelector('.close')?.addEventListener('click', event => {
+            event.preventDefault();
+            dialog.close();
+        });
+        dialog?.addEventListener('click', event => {
+            if (event.target === dialog) {
+                dialog.close();
+            }
+        });
+    }
+</script>

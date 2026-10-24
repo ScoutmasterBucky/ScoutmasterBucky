@@ -1,0 +1,74 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Inventing
+precededBy: None
+introduced: 2010
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2010
+    text: 'The Inventing merit badge is introduced. The first Inventing merit badges are earned: 616 that year. The earliest known Inventing pamphlet printing (Type 10C).'
+- {year: 2013, text: 'Best ranking: 81st of 129 merit badges.'}
+- {year: 2018, text: 'All-time high: 3,494 Inventing merit badges earned.'}
+ranks:
+    2010: [124, 125]
+    2011: [106, 129]
+    2012: [97, 132]
+    2013: [81, 129]
+    2014: [115, 136]
+    2015: [107, 138]
+    2016: [113, 138]
+    2017: [104, 139]
+    2018: [103, 139]
+    2019: [104, 139]
+    2020: [118, 137]
+    2021: [111, 137]
+    2022: [112, 138]
+    2023: [117, 138]
+    2024: [117, 138]
+    2025: [119, 141]
+lifetimeRank: {rank: 190, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 185
+    range: [185, 185]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 29178
+    byYear:
+        2010: 616
+        2011: 2279
+        2012: 2592
+        2013: 2704
+        2014: 2902
+        2015: 3369
+        2016: 2834
+        2017: 3296
+        2018: 3494
+        2019: 3259
+        2020: 1833
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: K
+    years: 2010-2014
+    image: /history/inventing/inventing-patch-k.webp
+    more:
+    - {image: /history/inventing/inventing-patch-k-front.webp, label: K front}
+    - {image: /history/inventing/inventing-patch-k-reverse.webp, label: K back}
+- {type: L, years: 2015-2025, image: /history/inventing/inventing-patch-l.webp}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+trivia:
+- {q: 'In what year did Scouts earn the most Inventing merit badges?', a: '2018, when 3,494 were earned.'}
+- {q: 'How many Inventing merit badges had been earned by 2020?', a: '29,178.'}
+-   q: What was Inventing's best year in the rankings on record?
+    a: 2013, when it was 81st of the 129 merit badges earned that year.
+- {q: 'When was the earliest known Inventing pamphlet printed?', a: '2010.'}

@@ -1,6 +1,7 @@
 ---
 import { getCollection, getEntry } from 'astro:content';
 import { updatedDateToString } from '~/utils/updated-date';
+import { hasPublicHistory } from '~/utils/merit-badge-history';
 import DefaultLayout from './default-layout.astro';
 import DiscontinuedMeritBadge from '~/components/discontinued-merit-badge.astro';
 import Requirements from '~/components/requirements.astro';
@@ -34,6 +35,14 @@ for (const otherAwardId of info['otherAwards']) {
     related.push({
         name: otherAward.name,
         href: `/other-awards/${otherAwardId}/`,
+    });
+}
+
+// Every badge on the history list has a public history page
+if (hasPublicHistory(badge)) {
+    related.push({
+        name: `${info.name} Merit Badge History`,
+        href: `/history/${badge}/`,
     });
 }
 

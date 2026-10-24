@@ -1,0 +1,142 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Physical Development
+precededBy: None
+introduced: 1914
+discontinued: '1952'
+replacedWith: None
+timeline:
+-   year: 1914
+    text: 'The Physical Development merit badge is introduced. The first Physical Development merit badges are earned: 5 that year.'
+- {year: 1919, text: The earliest known Physical Development pamphlet printing (Type 1B-2).}
+- {year: 1943, text: 'Best ranking: 19th of 112 merit badges.'}
+- {year: 1945, text: 'All-time high: 15,423 Physical Development merit badges earned.'}
+- {year: 1952, text: Last year the Physical Development merit badge is offered.}
+ranks:
+    1914: [54, 58]
+    1915: [21, 58]
+    1916: [23, 56]
+    1917: [24, 58]
+    1918: [23, 58]
+    1919: [24, 59]
+    1920: [22, 59]
+    1921: [24, 61]
+    1922: [23, 61]
+    1923: [24, 63]
+    1924: [23, 64]
+    1925: [24, 64]
+    1926: [24, 65]
+    1927: [24, 68]
+    1928: [22, 88]
+    1929: [27, 89]
+    1930: [28, 92]
+    1931: [26, 96]
+    1932: [27, 98]
+    1933: [28, 101]
+    1934: [26, 101]
+    1935: [25, 101]
+    1936: [25, 101]
+    1937: [24, 102]
+    1938: [25, 105]
+    1939: [25, 106]
+    1940: [25, 106]
+    1941: [25, 106]
+    1942: [22, 110]
+    1943: [19, 112]
+    1944: [20, 111]
+    1945: [20, 111]
+    1946: [20, 111]
+    1947: [20, 111]
+    1948: [20, 111]
+    1949: [20, 111]
+    1950: [20, 111]
+    1951: [21, 111]
+    1952: [24, 120]
+lifetimeRank: {rank: 91, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 97
+    range: [97, 98]
+    asOf: 2025
+earned:
+    totalThrough: 1952
+    total: 267769
+    byYear:
+        1914: 5
+        1915: 184
+        1916: 193
+        1917: 311
+        1918: 412
+        1919: 942
+        1920: 917
+        1921: 1434
+        1922: 1950
+        1923: 1932
+        1924: 2094
+        1925: 2358
+        1926: 3263
+        1927: 4074
+        1928: 8442
+        1929: 5619
+        1930: 5559
+        1931: 7591
+        1932: 6735
+        1933: 7026
+        1934: 6851
+        1935: 8259
+        1936: 7198
+        1937: 7572
+        1938: 8685
+        1939: 10094
+        1940: 10203
+        1941: 9528
+        1942: 9313
+        1943: 12653
+        1944: 15263
+        1945: 15423
+        1946: 12550
+        1947: 11073
+        1948: 10183
+        1949: 11564
+        1950: 13178
+        1951: 14026
+        1952: 13112
+patches:
+-   type: A
+    years: 1914-1933
+    note: variation A1
+    image: /history/physical-development/physical-development-patch-a1.webp
+-   type: A
+    years: 1914-1933
+    note: variation A2
+    image: /history/physical-development/physical-development-patch-a2.webp
+- {type: B, years: 1934-1935, status: missing}
+-   type: C
+    years: 1936-1942
+    image: /history/physical-development/physical-development-patch-c.webp
+-   type: D
+    years: 1942-1946
+    image: /history/physical-development/physical-development-patch-d.webp
+-   type: E
+    years: 1947-1952
+    image: /history/physical-development/physical-development-patch-e.webp
+pamphlets:
+- {type: 1B-2, image: /history/physical-development/physical-development-1b-2.webp}
+- {type: '2', image: /history/physical-development/physical-development-2.webp}
+- {type: 3A, status: missing}
+- {type: 3B, image: /history/physical-development/physical-development-3b.webp}
+- {type: '4', status: missing}
+- {type: 5A, status: missing}
+- {type: 5B-1, status: missing}
+- {type: 5B-2, status: missing}
+hardcovers:
+- {type: HCB, image: /history/physical-development/physical-development-hcb.webp}
+- {type: HCH, image: /history/physical-development/physical-development-hch.webp}
+trivia:
+-   q: In what year did Scouts earn the most Physical Development merit badges?
+    a: 1945, when 15,423 were earned.
+- {q: 'How many Physical Development merit badges had been earned by 1952?', a: '267,769.'}
+-   q: What was Physical Development's best year in the rankings on record?
+    a: 1943, when it was 19th of the 112 merit badges earned that year.
+- {q: 'When was the earliest known Physical Development pamphlet printed?', a: '1919.'}

@@ -1,0 +1,82 @@
+# Airplane Structure merit badge history. Approved by Bucky on 2026-10-23; the
+# generator no longer overwrites this file (its printings still come from the
+# workbook). Story text is Bucky's own from his earlier page; research sources
+# are in history-tools/research/airplane-structure.yaml.
+
+name: Airplane Structure
+precededBy: Aviation
+precededByLink: aviation
+introduced: 1942
+discontinued: '1952'
+replacedWith: Aviation
+story: ['The "Air Scouts" program, established in 1941, offered the Ace Award as its highest program level recognition. Despite lower membership numbers, the Ace Award maintained a similar consistency to
+        its program equivalent; the standard Boy Scouts program and the Eagle Scout award, at around 3 to 4 percent of all potential members receiving the award.']
+timeline:
+-   year: 1942
+    text: 'The Airplane Structure merit badge is introduced. The first Airplane Structure merit badges are earned: 220 that year. The earliest known Airplane Structure pamphlet printing (Type 4BL).'
+-   year: 1944
+    text: 'All-time high: 1,738 Airplane Structure merit badges earned. Best ranking: 66th of 111 merit badges.'
+-   year: 1952
+    text: Last year the Airplane Structure merit badge is offered; it is replaced by Aviation.
+ranks:
+    1942: [102, 110]
+    1943: [68, 112]
+    1944: [66, 111]
+    1945: [70, 111]
+    1946: [72, 111]
+    1947: [75, 111]
+    1948: [76, 111]
+    1949: [76, 111]
+    1950: [75, 111]
+    1951: [75, 111]
+    1952: [92, 120]
+lifetimeRank: {rank: 207, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 210
+    range: [209, 210]
+    asOf: 2025
+earned:
+    totalThrough: 1952
+    total: 12130
+    byYear:
+        1942: 220
+        1943: 1242
+        1944: 1738
+        1945: 1476
+        1946: 1157
+        1947: 908
+        1948: 820
+        1949: 949
+        1950: 1251
+        1951: 1435
+        1952: 934
+patches:
+-   type: C
+    years: 1942-1946
+    image: /history/airplane-structure/airplane-structure-patch-c.webp
+    more:
+    - {image: /history/airplane-structure/airplane-structure-patch-c-front.webp, label: C front}
+    - {image: /history/airplane-structure/airplane-structure-patch-c-reverse.webp, label: C back}
+-   type: D
+    years: 1942-1946
+    image: /history/airplane-structure/airplane-structure-patch-d.webp
+    more:
+    - {image: /history/airplane-structure/airplane-structure-patch-d-reverse.webp, label: D back}
+-   type: E
+    years: 1947-1952
+    image: /history/airplane-structure/airplane-structure-patch-e.webp
+    more:
+    - {image: /history/airplane-structure/airplane-structure-patch-e-reverse.webp, label: E back}
+pamphlets:
+- {type: 4BL, image: /history/airplane-structure/airplane-structure-4bl.webp}
+- {type: 5B, image: /history/airplane-structure/airplane-structure-5b.webp}
+trivia:
+-   q: Which of the four Air Scout badges is known in the tan Type D style?
+    a: Only Airplane Structure. Aerodynamics, Aeronautics and Airplane Design are known only in their blue Type C design through 1946.
+-   q: What did a Scout earn by completing Airplane Structure and Weather in 1942?
+    a: The triple-bladed propeller insignia of the Second Class Air Scout Candidate.
+-   q: What did the 1942 Airplane Structure pamphlet teach?
+    a: The major parts of an airplane, how to build working and flying model planes, and how the controls work, shown with a "joy stick" model.
+- {q: 'What was the highest Air Scout rank?', a: 'Ace, above Apprentice, Observer and Craftsman.'}
+-   q: How did Airplane Structure compare with the other Air Scout badges?
+    a: With 12,130 earned, it was second only to Aeronautics among the four.

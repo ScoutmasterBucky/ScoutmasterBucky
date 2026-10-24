@@ -1,0 +1,222 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Model Design and Building
+precededBy: None
+introduced: 1963
+discontinued: Current
+replacedWith: Current
+timeline:
+- {year: 1963, text: The Model Design and Building merit badge is introduced.}
+-   year: 1964
+    text: 'The first Model Design and Building merit badges are earned: 1,467 that year. The earliest known Model Design and Building pamphlet printing (Type 6).'
+- {year: 1974, text: 'Best ranking: 41st of 121 merit badges.'}
+- {year: 1975, text: 'All-time high: 18,638 Model Design and Building merit badges earned.'}
+ranks:
+    1964: [91, 107]
+    1965: [70, 109]
+    1966: [72, 110]
+    1967: [66, 112]
+    1968: [62, 112]
+    1969: [67, 113]
+    1970: [65, 113]
+    1971: [61, 113]
+    1972: [82, 124]
+    1973: [71, 122]
+    1974: [41, 121]
+    1975: [41, 128]
+    1976: [41, 130]
+    1977: [44, 130]
+    1978: [44, 131]
+    1979: [44, 132]
+    1980: [47, 132]
+    1981: [49, 134]
+    1993: [98, 123]
+    1996: [101, 134]
+    2000: [99, 128]
+    2001: [102, 129]
+    2002: [103, 129]
+    2003: [101, 130]
+    2004: [98, 121]
+    2005: [100, 121]
+    2006: [102, 121]
+    2007: [103, 121]
+    2008: [101, 121]
+    2009: [105, 122]
+    2010: [111, 125]
+    2011: [102, 129]
+    2012: [91, 132]
+    2013: [72, 129]
+    2014: [118, 136]
+    2015: [116, 138]
+    2016: [114, 138]
+    2017: [116, 139]
+    2018: [116, 139]
+    2019: [115, 139]
+    2020: [130, 137]
+    2021: [122, 137]
+    2022: [113, 138]
+    2023: [104, 138]
+    2024: [104, 138]
+    2025: [106, 141]
+lifetimeRank: {rank: 98, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 103
+    range: [102, 103]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 235108
+    byYear:
+        1963: 0
+        1964: 1467
+        1965: 2540
+        1966: 2701
+        1967: 3397
+        1968: 3730
+        1969: 3672
+        1970: 3910
+        1971: 4041
+        1972: 3171
+        1973: 4398
+        1974: 17257
+        1975: 18638
+        1976: 16555
+        1977: 13253
+        1978: 10541
+        1979: 8466
+        1980: 5116
+        1981: 7006
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 1904
+        1994: null
+        1995: null
+        1996: 1665
+        1997: null
+        1998: null
+        1999: null
+        2000: 2270
+        2001: 2009
+        2002: 2225
+        2003: 2517
+        2004: 2892
+        2005: 2699
+        2006: 2365
+        2007: 2282
+        2008: 2530
+        2009: 2586
+        2010: 2123
+        2011: 2964
+        2012: 3120
+        2013: 3628
+        2014: 2612
+        2015: 2795
+        2016: 2770
+        2017: 2564
+        2018: 2674
+        2019: 2770
+        2020: 1359
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: F, years: 1963-1968, status: missing}
+-   type: G
+    years: 1963-1971
+    image: /history/model-design-and-building/model-design-and-building-patch-g.webp
+-   type: H
+    years: 1972-2002
+    image: /history/model-design-and-building/model-design-and-building-patch-h.webp
+    more:
+    -   image: /history/model-design-and-building/model-design-and-building-patch-h1a-front.webp
+        label: H variation H1A, front
+    -   image: /history/model-design-and-building/model-design-and-building-patch-h1a-reverse.webp
+        label: H variation H1A, back
+    -   image: /history/model-design-and-building/model-design-and-building-patch-h1b-front.webp
+        label: H variation H1B, front
+    -   image: /history/model-design-and-building/model-design-and-building-patch-h1b-reverse.webp
+        label: H variation H1B, back
+    -   image: /history/model-design-and-building/model-design-and-building-patch-h1b1-front.webp
+        label: H variation H1B1, front
+    -   image: /history/model-design-and-building/model-design-and-building-patch-h2-front.webp
+        label: H variation H2, front
+    -   image: /history/model-design-and-building/model-design-and-building-patch-h2-reverse.webp
+        label: H variation H2, back
+    -   image: /history/model-design-and-building/model-design-and-building-patch-h3-front.webp
+        label: H variation H3, front
+    -   image: /history/model-design-and-building/model-design-and-building-patch-h3-reverse.webp
+        label: H variation H3, back
+    -   image: /history/model-design-and-building/model-design-and-building-patch-h5-front.webp
+        label: H variation H5, front
+    -   image: /history/model-design-and-building/model-design-and-building-patch-h5-reverse.webp
+        label: H variation H5, back
+- {type: I, years: 1993-1995, status: unknown}
+-   type: J
+    years: 2002-2009
+    image: /history/model-design-and-building/model-design-and-building-patch-j.webp
+    more:
+    -   image: /history/model-design-and-building/model-design-and-building-patch-j1-front.webp
+        label: J1 front
+    -   image: /history/model-design-and-building/model-design-and-building-patch-j1-reverse.webp
+        label: J1 back
+-   type: K
+    years: 2010-2014
+    image: /history/model-design-and-building/model-design-and-building-patch-k.webp
+    more:
+    -   image: /history/model-design-and-building/model-design-and-building-patch-k-front.webp
+        label: K front
+    -   image: /history/model-design-and-building/model-design-and-building-patch-k-reverse.webp
+        label: K back
+-   type: L
+    years: 2015-2025
+    image: /history/model-design-and-building/model-design-and-building-patch-l.webp
+    more:
+    -   image: /history/model-design-and-building/model-design-and-building-patch-l-front.webp
+        label: L front
+    -   image: /history/model-design-and-building/model-design-and-building-patch-l-reverse.webp
+        label: L back
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '6', status: missing}
+- {type: '7', status: missing}
+- {type: '8', status: missing}
+- {type: '9', status: missing}
+- {type: 9A, status: missing}
+- {type: 9B, status: missing}
+- {type: 9C, status: missing}
+- {type: 10A, status: missing}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+- {type: 11A, status: missing}
+hardcovers:
+- {type: HCK, image: /history/model-design-and-building/model-design-and-building-hck.webp}
+- {type: HCL, image: /history/model-design-and-building/model-design-and-building-hcl.webp}
+- {type: HCM, image: /history/model-design-and-building/model-design-and-building-hcm.webp}
+- {type: HCN, image: /history/model-design-and-building/model-design-and-building-hcn.webp}
+- {type: HCQ, image: /history/model-design-and-building/model-design-and-building-hcq.webp}
+- {type: HCR, image: /history/model-design-and-building/model-design-and-building-hcr.webp}
+- {type: HCS, image: /history/model-design-and-building/model-design-and-building-hcs.webp}
+- {type: HCT, image: /history/model-design-and-building/model-design-and-building-hct.webp}
+trivia:
+-   q: Was the Model Design and Building badge made in every patch style of its time?
+    a: No. No Type I Model Design and Building badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Model Design and Building merit badges?
+    a: 1975, when 18,638 were earned.
+- {q: 'How many Model Design and Building merit badges had been earned by 2020?', a: '235,108.'}
+-   q: What was Model Design and Building's best year in the rankings on record?
+    a: 1974, when it was 41st of the 121 merit badges earned that year.
+- {q: 'When was the earliest known Model Design and Building pamphlet printed?', a: January 1964.}

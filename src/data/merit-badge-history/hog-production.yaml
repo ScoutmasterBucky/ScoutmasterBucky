@@ -1,0 +1,102 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Hog Production
+precededBy: Hog & Pork Production
+precededByLink: hog-and-pork-production
+introduced: 1959
+discontinued: '1975'
+replacedWith: None
+timeline:
+-   year: 1959
+    text: 'The Hog Production merit badge is introduced. The first Hog Production merit badges are earned: 2,123 that year. Best ranking: 75th of 101 merit badges.'
+- {year: 1960, text: The earliest known Hog Production pamphlet printing (Type 6).}
+- {year: 1974, text: 'All-time high: 2,467 Hog Production merit badges earned.'}
+- {year: 1975, text: Last year the Hog Production merit badge is offered.}
+ranks:
+    1959: [75, 101]
+    1960: [83, 100]
+    1961: [75, 101]
+    1962: [76, 101]
+    1963: [92, 102]
+    1964: [87, 107]
+    1965: [96, 109]
+    1966: [99, 110]
+    1967: [99, 112]
+    1968: [99, 112]
+    1969: [91, 113]
+    1970: [96, 113]
+    1971: [87, 113]
+    1972: [113, 124]
+    1973: [103, 122]
+    1974: [108, 121]
+    1975: [113, 128]
+    1976: [121, 130]
+    1977: [125, 130]
+    1978: [123, 131]
+    1979: [124, 132]
+    1980: [126, 132]
+    1981: [126, 134]
+lifetimeRank: {rank: 182, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 189
+    range: [188, 189]
+    asOf: 2025
+earned:
+    totalThrough: 1983
+    total: 30850
+    byYear:
+        1959: 2123
+        1960: 1582
+        1961: 2197
+        1962: 2166
+        1963: 1357
+        1964: 1678
+        1965: 1116
+        1966: 1198
+        1967: 1272
+        1968: 1336
+        1969: 1666
+        1970: 1531
+        1971: 1888
+        1972: 1304
+        1973: 1387
+        1974: 2467
+        1975: 2011
+        1976: 1376
+        1977: 723
+        1978: 405
+        1979: 15
+        1980: 17
+        1981: 26
+        1982: 0
+        1983: 0
+patches:
+- {type: E, years: 1959-1960, image: /history/hog-production/hog-production-patch-e.webp}
+- {type: F, years: 1961-1968, image: /history/hog-production/hog-production-patch-f.webp}
+- {type: G, years: 1961-1971, image: /history/hog-production/hog-production-patch-g.webp}
+-   type: H
+    years: 1972-1975
+    image: /history/hog-production/hog-production-patch-h.webp
+    more:
+    - {image: /history/hog-production/hog-production-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/hog-production/hog-production-patch-h1-reverse.webp, label: 'H variation H1, back'}
+pamphlets:
+- {type: '6', image: /history/hog-production/hog-production-6.webp}
+- {type: 7A, image: /history/hog-production/hog-production-7a.webp}
+- {type: 7B, image: /history/hog-production/hog-production-7b.webp}
+- {type: '8', image: /history/hog-production/hog-production-8.webp}
+hardcovers:
+- {type: HCK, image: /history/hog-production/hog-production-hck.webp}
+- {type: HCM, image: /history/hog-production/hog-production-hcm.webp}
+- {type: HCN, image: /history/hog-production/hog-production-hcn.webp}
+- {type: HCP, image: /history/hog-production/hog-production-hcp.webp}
+trivia:
+-   q: In what year did Scouts earn the most Hog Production merit badges?
+    a: 1974, when 2,467 were earned.
+- {q: 'How many Hog Production merit badges had been earned by 1983?', a: '30,850.'}
+-   q: What was Hog Production's best year in the rankings on record?
+    a: 1959, when it was 75th of the 101 merit badges earned that year.
+- {q: 'What came before the Hog Production merit badge?', a: Hog & Pork Production.}
+- {q: 'When was the earliest known Hog Production pamphlet printed?', a: July 1960.}

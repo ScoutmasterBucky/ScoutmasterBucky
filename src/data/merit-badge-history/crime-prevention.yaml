@@ -1,0 +1,126 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Crime Prevention
+precededBy: None
+introduced: 1996
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1996
+    text: 'The Crime Prevention merit badge is introduced. The first Crime Prevention merit badges are earned: 1,440 that year. The earliest known Crime Prevention pamphlet printing (Type 9A).'
+- {year: 2011, text: 'All-time high: 8,374 Crime Prevention merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 49th of 129 merit badges.'}
+ranks:
+    1996: [106, 134]
+    2000: [64, 128]
+    2001: [62, 129]
+    2002: [61, 129]
+    2003: [60, 130]
+    2004: [61, 121]
+    2005: [63, 121]
+    2006: [61, 121]
+    2007: [63, 121]
+    2008: [61, 121]
+    2009: [72, 122]
+    2010: [60, 125]
+    2011: [60, 129]
+    2012: [57, 132]
+    2013: [49, 129]
+    2014: [71, 136]
+    2015: [77, 138]
+    2016: [77, 138]
+    2017: [72, 139]
+    2018: [75, 139]
+    2019: [74, 139]
+    2020: [64, 137]
+    2021: [86, 137]
+    2022: [83, 138]
+    2023: [84, 138]
+    2024: [80, 138]
+    2025: [69, 141]
+lifetimeRank: {rank: 116, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 114
+    range: [114, 115]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 174749
+    byYear:
+        1996: 1440
+        1997: null
+        1998: null
+        1999: null
+        2000: 6781
+        2001: 6281
+        2002: 7801
+        2003: 7799
+        2004: 7369
+        2005: 6702
+        2006: 6645
+        2007: 6158
+        2008: 6586
+        2009: 6981
+        2010: 8049
+        2011: 8374
+        2012: 8331
+        2013: 7274
+        2014: 6917
+        2015: 6581
+        2016: 6178
+        2017: 6721
+        2018: 6456
+        2019: 6517
+        2020: 5628
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1996-2002
+    note: molded
+    image: /history/crime-prevention/crime-prevention-patch-h.webp
+    more:
+    - {image: /history/crime-prevention/crime-prevention-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/crime-prevention/crime-prevention-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, status: none}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/crime-prevention/crime-prevention-patch-j.webp
+    more:
+    - {image: /history/crime-prevention/crime-prevention-patch-j1-front.webp, label: J1 front}
+    - {image: /history/crime-prevention/crime-prevention-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/crime-prevention/crime-prevention-patch-k.webp
+    more:
+    - {image: /history/crime-prevention/crime-prevention-patch-k-front.webp, label: K front}
+    - {image: /history/crime-prevention/crime-prevention-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/crime-prevention/crime-prevention-patch-l.webp
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 9A, image: /history/crime-prevention/crime-prevention-9a.webp}
+- {type: 9B, image: /history/crime-prevention/crime-prevention-9b.webp}
+- {type: 10A, image: /history/crime-prevention/crime-prevention-10a.webp}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C, image: /history/crime-prevention/crime-prevention-10c.webp}
+- {type: 10D, image: /history/crime-prevention/crime-prevention-10d.webp}
+- {type: '11', status: missing}
+trivia:
+-   q: Was the Crime Prevention badge made in every patch style of its time?
+    a: No. No Type I Crime Prevention badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Crime Prevention merit badges?
+    a: 2011, when 8,374 were earned.
+- {q: 'How many Crime Prevention merit badges had been earned by 2020?', a: '174,749.'}
+-   q: What was Crime Prevention's best year in the rankings on record?
+    a: 2013, when it was 49th of the 129 merit badges earned that year.
+- {q: 'When was the earliest known Crime Prevention pamphlet printed?', a: June 1996.}

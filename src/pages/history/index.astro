@@ -1,107 +1,425 @@
 ---
 import DefaultLayout from '~/layouts/default-layout.astro';
-import ScaledContent from '~/components/scaled-content.astro';
-import TileWrapper from '~/components/tile-wrapper.astro';
-import Tile from '~/components/tile.astro';
-import { getCollection } from 'astro:content';
+import MeritBadgeHistoryHub from '~/components/merit-badge-history-hub.astro';
+import badgeNames from '~/data/historical-merit-badges.yaml';
+import { historyPhoto } from '~/utils/merit-badge-history';
 
-const meritBadges = await getCollection('historicalMeritBadges');
+const badges = Object.values(badgeNames as Record<string, { active: boolean }>);
+const stats = [
+    { value: '1908', label: "Proficiency badges appear in Baden-Powell's Scouting for Boys" },
+    { value: '57', label: 'merit badges in the first Official Handbook for Boys, 1911' },
+    { value: String(badges.length), label: 'merit badges in this history so far' },
+    { value: String(badges.filter(b => b.active).length), label: 'of them still offered today' },
+];
+
+// Each checked against at least two sources (handbook, Scouting Magazine,
+// news reports, Bucky's collection records)
+const milestones = [
+    { year: '1910', text: "Seton's first American handbook lists 14 Badges of Merit, but none are made or awarded." },
+    { year: '1911', text: 'The Official Handbook for Boys lists 57 merit badges, and the first ones are made and earned.' },
+    { year: '1912', text: 'Arthur Rose Eldred becomes the first Eagle Scout, a rank that took 21 merit badges.' },
+    { year: '1919', text: 'The first merit badge pamphlets are printed, giving each badge its own guide.' },
+    { year: '2010', text: "For Scouting's 100th anniversary, four retired badges return for one year: Carpentry, Pathfinding, Signaling and Tracking." },
+    { year: '2019', text: 'Girls join Scouts BSA and begin earning merit badges.' },
+    { year: '2025', text: 'Boy Scouts of America becomes Scouting America, and new merit badges carry the Scouting America name on the back.' },
+];
+
+// The three founders whose work shaped the merit badge program
+const founders = [
+    {
+        year: '1908',
+        name: 'Robert Baden-Powell',
+        role: 'Founder of the worldwide Scouting movement',
+        image: '/history/robert-stephenson-smyth-baden-powell-watercolor.webp',
+        alt: 'Watercolor portrait of Robert Stephenson Smyth Baden-Powell',
+    },
+    {
+        year: '1910',
+        name: 'William D. Boyce',
+        role: 'Incorporated the Boy Scouts of America',
+        image: '/history/william-dickson-boyce-watercolor.webp',
+        alt: 'Watercolor portrait of William Dickson Boyce',
+    },
+    {
+        year: '1910',
+        name: 'Ernest Thompson Seton',
+        role: 'Author, nature artist and naturalist',
+        image: '/history/ernest-thompson-seton-watercolor.webp',
+        alt: 'Watercolor portrait of Ernest Thompson Seton',
+    },
+].map(f => ({ ...f, image: historyPhoto(f.image) }));
 ---
 
 <DefaultLayout title="Merit Badge History">
     <h1>Merit Badge History Pages</h1>
 
-    <p>
-        When one is asked about the icons of Scouting, the most commonly
-        identified are: the campfire, the uniform, and merit badges. The merit
-        badge program has delivered knowledge, skills and career awareness to
-        millions of youth for the last 100 years.
-    </p>
+    <section class="hero">
+        <p class="lead">
+            When one is asked about the icons of Scouting, the most commonly
+            identified are: the campfire, the uniform, and merit badges. The merit
+            badge program has delivered knowledge, skills and career awareness to
+            millions of youth for the last 100 years.
+        </p>
+        <ul class="stats">
+            {stats.map(s => (
+                <li>
+                    <span class="value">{s.value}</span>
+                    <span class="label">{s.label}</span>
+                </li>
+            ))}
+        </ul>
+    </section>
 
-    <ScaledContent align="center"
-        ><img
-            src="/history/robert-stephenson-smyth-baden-powell-watercolor.jpg"
-            alt="Robert Stephenson Smyth Baden-Powell"
-        /></ScaledContent
-    >
+    <h2>Where Merit Badges Came From</h2>
 
-    <p>
-        The preface of Scouting for Boys, written in 1908, by Lord Robert
-        Baden-Powell; the founder of the worldwide Scouting movement, included a
-        description of the four components of the Scouting program. The second
-        of those components was, "Handicrafts or hobbies which may help a boy to
-        make his way in life, for which we give 'Proficiency' badges."
-    </p>
+    <ol class="founders">
+        <li>
+            <img src={founders[0].image} alt={founders[0].alt} />
+            <div>
+                <span class="year">{founders[0].year}</span>
+                <h3>{founders[0].name}</h3>
+                <p class="role">{founders[0].role}</p>
+                <p>
+                    The preface of Scouting for Boys, written in 1908, by Lord Robert
+                    Baden-Powell; the founder of the worldwide Scouting movement, included a
+                    description of the four components of the Scouting program. The second
+                    of those components was, "Handicrafts or hobbies which may help a boy to
+                    make his way in life, for which we give 'Proficiency' badges."
+                </p>
+            </div>
+        </li>
+        <li>
+            <img src={founders[1].image} alt={founders[1].alt} />
+            <div>
+                <span class="year">{founders[1].year}</span>
+                <h3>{founders[1].name}</h3>
+                <p class="role">{founders[1].role}</p>
+                <p>
+                    In 1910, the American Scouting movement was incorporated by William D
+                    Boyce and others. The original edition of The Official Handbook for Boys
+                    was published in 1911 to standardize the program. In addressing merit
+                    badges, known at that time as Badges of Merit, the manual stated:
+                </p>
+                <blockquote>
+                    "These badges are intended to stimulate the boy's interest in the
+                    life about him and are given for general knowledge."
+                </blockquote>
+                <p>
+                    That purpose has changed little since those early days. Recent
+                    editions of the Boy Scout Handbook stated:
+                </p>
+                <blockquote>
+                    "A merit badge is an invitation to explore an exciting subject...
+                    some merit badges encourage you to increase your skill in subjects
+                    you already like, while others challenge you to learn about new
+                    areas of knowledge ... a merit badge can even lead you toward a
+                    lifelong hobby or set you on the way to a rewarding career."
+                </blockquote>
+            </div>
+        </li>
+        <li>
+            <img src={founders[2].image} alt={founders[2].alt} />
+            <div>
+                <span class="year">{founders[2].year}</span>
+                <h3>{founders[2].name}</h3>
+                <p class="role">{founders[2].role}</p>
+                <p>
+                    Ernest Thompson-Seton, an author, nature artist, and naturalist from New
+                    York, was commissioned to adapt Scouting for Boys into a manual for the
+                    new Boy Scouts of America organization (later renamed to Scouting
+                    America) and his 1910 publication included 14 Badges of Merit. The
+                    following year, a more comprehensive manual was released that is
+                    considered the first original handbook. <em>The Official Handbook for
+                    Boys</em> listed 57 different merit badges available to Scouts. From
+                    that point on, national leaders of the organization have considered
+                    and approved merit badges on subjects that interest boys and helped
+                    to achieve the purposes of Scouting America.
+                </p>
+            </div>
+        </li>
+    </ol>
 
-    <ScaledContent align="center"
-        ><img
-            src="/history/william-dickson-boyce-watercolor.jpg"
-            alt="William Dickson Boyce"
-        /></ScaledContent
-    >
+    <h2>Milestones</h2>
 
-    <p>
-        In 1910, the American Scouting movement was incorporated by William D
-        Boyce and others. The original edition of The Official Handbook for Boys
-        was published in 1911 to standardize the program. In addressing merit
-        badges, known at that time as Badges of Merit, the manual stated, "These
-        badges are intended to stimulate the boy's interest in the life about
-        him and are given for general knowledge". That purpose has changed
-        little since those early days. Recent editions of the Boy Scout Handbook
-        stated, "A merit badge is an invitation to explore an exciting
-        subject... some merit badges encourage you to increase your skill in
-        subjects you already like, while others challenge you to learn about new
-        areas of knowledge ... a merit badge can even lead you toward a lifelong
-        hobby or set you on the way to a rewarding career."
-    </p>
+    <ol class="milestones">
+        {milestones.map(m => (
+            <li>
+                <span class="year">{m.year}</span>
+                <p>{m.text}</p>
+            </li>
+        ))}
+    </ol>
 
-    <ScaledContent align="center"
-        ><img
-            src="/history/ernest-thompson-seton-watercolor.jpg"
-            alt="Ernest Thompson Seton"
-        /></ScaledContent
-    >
+    <aside class="did-you-know">
+        <h3>Did you know?</h3>
+        <figure>
+            <img
+                src={historyPhoto('/history/eagle-scout-badge-1911.webp')}
+                alt="Drawing of the Eagle Scout badge from the 1911 Official Handbook for Boys: an eagle hanging from a ribbon"
+                title="Eagle Scout badge, 1911 Official Handbook for Boys"
+            />
+            <figcaption>1911 Eagle</figcaption>
+        </figure>
+        <ul>
+            <li>
+                Eagle Scout began as a merit badge. The 1911 handbook says any
+                First Class Scout "qualifying for twenty-one merit badges" may wear
+                "the highest scout merit badge," an eagle's head in silver.
+            </li>
+            <li>
+                First Aid is the most-earned merit badge of all time, with more than
+                7 million earned through 2020.
+            </li>
+            <li>
+                By 2013, Scouts had earned more than 117 million merit badges.
+            </li>
+        </ul>
+    </aside>
 
-    <p>
-        Ernest Thompson-Seton, an author, nature artist, and naturalist from New
-        York, was commissioned to adapt Scouting for Boys into a manual for the
-        new Boy Scouts of America organization (later renamed to Scouting
-        America) and his 1910 publication included 14 Badges of Merit. The
-        following year, a more comprehensive manual was released by is
-        considered the first original handbook. <em
-            >The Official Handbook for Boys</em
-        > listed 57 different merit badges available to Scouts. From that point on,
-        national leaders of the organization have considered and approved merit badges
-        on subjects that interest boys and helped to achieve the purposes of Scouting
-        America.
-    </p>
+    <MeritBadgeHistoryHub />
+</DefaultLayout>
 
-    <h2>Merit Badge History Pages</h2>
+<style>
+    .hero {
+        margin: 0.5em 0 1.5em;
+        padding: 1.4em 1.5em;
+        border-radius: 0.8em;
+        background: linear-gradient(135deg, var(--palette-very-light), #fff 70%);
+        border: 1px solid #cfe0b5;
+    }
 
-    <p>Merit badges listed <b>in bold</b> are those that are still active.</p>
+    .lead {
+        margin: 0 0 1.2em;
+        font-size: 1.2em;
+        line-height: 1.5;
+        text-align: left;
+        color: var(--palette-very-dark);
+    }
 
-    <TileWrapper>
-        {
-            meritBadges.map((badge) => (
-                <Tile>
-                    <a href={`/history/${badge.id}/`}>
-                        <div class={`${badge.data.active && 'active'} label`}>
-                            {badge.data.name}
-                        </div>
-                    </a>
-                </Tile>
-            ))
+    .stats {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 0.8em;
+    }
+
+    .stats li {
+        display: flex;
+        flex-direction: column;
+        gap: 0.2em;
+        padding: 0.8em 1em;
+        border-radius: 0.6em;
+        background: #fff;
+        box-shadow: 0 1px 4px rgb(0 0 0 / 8%);
+    }
+
+    .stats .value {
+        font-size: 1.8em;
+        font-weight: bold;
+        line-height: 1;
+        color: var(--palette-dark);
+    }
+
+    .stats .label {
+        font-size: 0.85em;
+        line-height: 1.3;
+        color: #5c6656;
+    }
+
+    /* A short timeline: a line down the left with each founder as a stop */
+    .founders {
+        list-style: none;
+        margin: 1em 0 2em;
+        padding: 0 0 0 1.4em;
+        border-left: 3px solid var(--palette-light);
+        display: flex;
+        flex-direction: column;
+        gap: 1.4em;
+    }
+
+    .founders li {
+        position: relative;
+        display: flex;
+        gap: 1.2em;
+        align-items: flex-start;
+        padding: 1.1em 1.2em;
+        border: 1px solid #e3e7dd;
+        border-radius: 0.8em;
+        background: #fff;
+        box-shadow: 0 2px 8px rgb(0 0 0 / 6%);
+    }
+
+    /* The dot on the timeline line */
+    .founders li::before {
+        content: '';
+        position: absolute;
+        top: 1.6em;
+        left: calc(-1.4em - 9px);
+        width: 12px;
+        height: 12px;
+        border: 3px solid #fff;
+        border-radius: 50%;
+        background: var(--palette-dark);
+        box-shadow: 0 0 0 2px var(--palette-light);
+    }
+
+    .founders img {
+        flex: none;
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        object-fit: cover;
+        border: 4px solid var(--palette-very-light);
+    }
+
+    .founders .year {
+        display: inline-block;
+        padding: 0.1em 0.7em;
+        border-radius: 999px;
+        background: var(--palette-dark);
+        color: #fff;
+        font-size: 0.8em;
+        font-weight: bold;
+    }
+
+    .founders h3 {
+        margin: 0.3em 0 0;
+        padding: 0;
+        border: 0;
+        background: none;
+        color: var(--palette-very-dark);
+        text-transform: none;
+        text-align: inherit;
+        font-size: 1.25em;
+    }
+
+    .founders .role {
+        margin: 0.1em 0 0.6em;
+        font-style: italic;
+        color: #5c6656;
+    }
+
+    .founders p {
+        text-align: left;
+    }
+
+    blockquote {
+        margin: 0.6em 0;
+        padding: 0.5em 1em;
+        border-left: 4px solid var(--palette-light);
+        border-radius: 0 0.4em 0.4em 0;
+        background: var(--palette-very-light);
+        font-style: italic;
+        color: var(--palette-very-dark);
+    }
+
+    /* Milestones read left to right on a wide screen and wrap on a phone */
+    .milestones {
+        list-style: none;
+        margin: 1em 0 1.5em;
+        padding: 0;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+        gap: 0.8em;
+    }
+
+    .milestones li {
+        padding: 0.9em 1em;
+        border-top: 4px solid var(--palette-light);
+        border-radius: 0.5em;
+        background: #fff;
+        box-shadow: 0 2px 8px rgb(0 0 0 / 6%);
+    }
+
+    .milestones .year {
+        font-size: 1.4em;
+        font-weight: bold;
+        color: var(--palette-dark);
+    }
+
+    .milestones p {
+        margin: 0.3em 0 0;
+        font-size: 0.92em;
+        line-height: 1.4;
+        text-align: left;
+    }
+
+    .did-you-know {
+        margin: 0 0 2em;
+        padding: 1em 1.3em;
+        border-radius: 0.8em;
+        background: #fff8e1;
+        border: 1px solid #f0d98a;
+    }
+
+    .did-you-know h3 {
+        margin: 0 0 0.4em;
+        padding: 0;
+        border: 0;
+        background: none;
+        color: #7a5a00;
+        text-transform: none;
+        text-align: left;
+    }
+
+    .did-you-know ul {
+        margin: 0;
+        padding-left: 1.2em;
+    }
+
+    .did-you-know li + li {
+        margin-top: 0.4em;
+    }
+
+    /* The 1911 Eagle drawing sits on the right; the bullets line up on the left */
+    .did-you-know figure {
+        float: right;
+        width: 60px;
+        margin: 0 0 0.5em 1em;
+        text-align: center;
+    }
+
+    .did-you-know::after {
+        content: '';
+        display: block;
+        clear: both;
+    }
+
+    /* A transparent drawing, so it sits right on the box's color */
+    .did-you-know figure img {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+    .did-you-know figcaption {
+        margin-top: 0.3em;
+        font-size: 0.7em;
+        line-height: 1.2;
+        color: #7a5a00;
+    }
+
+    @media (max-width: 600px) {
+        .hero {
+            padding: 1em;
         }
-    </TileWrapper>
 
-    <style>
-        .active {
-            font-weight: bold;
-        }
-
-        .label {
-            padding: 0.7em;
+        .founders li {
+            flex-direction: column;
+            align-items: center;
             text-align: center;
         }
-    </style>
-</DefaultLayout>
+
+        .founders img {
+            width: 100px;
+            height: 100px;
+        }
+
+        .founders p,
+        blockquote {
+            text-align: left;
+        }
+    }
+</style>

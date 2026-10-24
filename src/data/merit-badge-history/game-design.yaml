@@ -1,0 +1,70 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Game Design
+precededBy: None
+introduced: 2013
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2013
+    text: 'The Game Design merit badge is introduced. The first Game Design merit badges are earned: 2,657 that year. The earliest known Game Design pamphlet printing (Type 10C).'
+-   year: 2018
+    text: 'All-time high: 16,020 Game Design merit badges earned. Best ranking: 31st of 139 merit badges.'
+ranks:
+    2013: [82, 129]
+    2014: [51, 136]
+    2015: [48, 138]
+    2016: [41, 138]
+    2017: [38, 139]
+    2018: [31, 139]
+    2019: [32, 139]
+    2020: [37, 137]
+    2021: [37, 137]
+    2022: [38, 138]
+    2023: [43, 138]
+    2024: [47, 138]
+    2025: [51, 141]
+lifetimeRank: {rank: 144, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 135
+    range: [133, 137]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 92506
+    byYear:
+        2013: 2657
+        2014: 11853
+        2015: 12313
+        2016: 13689
+        2017: 13810
+        2018: 16020
+        2019: 14424
+        2020: 7740
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: K
+    years: 2013-2014
+    image: /history/game-design/game-design-patch-k.webp
+    more:
+    - {image: /history/game-design/game-design-patch-k-front.webp, label: K front}
+    - {image: /history/game-design/game-design-patch-k-reverse.webp, label: K back}
+- {type: L, years: 2015-2025, image: /history/game-design/game-design-patch-l.webp}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+- {type: '2013', image: /history/game-design/game-design-2013.webp}
+trivia:
+-   q: In what year did Scouts earn the most Game Design merit badges?
+    a: 2018, when 16,020 were earned.
+- {q: 'How many Game Design merit badges had been earned by 2020?', a: '92,506.'}
+-   q: What was Game Design's best year in the rankings on record?
+    a: 2018, when it was 31st of the 139 merit badges earned that year.
+- {q: 'When was the earliest known Game Design pamphlet printed?', a: '2013.'}

@@ -1,0 +1,421 @@
+---
+// Every badge's patch, pamphlet or hard cover of one type, e.g. types/patch-a/ or
+// types/pamphlet-6/. The draft copy shows every badge; the public copy only the
+// badges whose patches, pamphlets or hard covers Bucky has approved.
+import DefaultLayout from '~/layouts/default-layout.astro';
+import HistoryCard from '~/components/merit-badge-history-card.astro';
+import PhotoViewer from '~/components/merit-badge-photo-viewer.astro';
+import patchTypes from '~/data/merit-badge-history/patch-types.yaml';
+import pamphletTypes from '~/data/merit-badge-history/pamphlet-types.yaml';
+import hardcoverTypes from '~/data/merit-badge-history/hardcover-types.yaml';
+import hardcoverPhotos from '~/data/merit-badge-history/hardcover-photos.yaml';
+import badgeNames from '~/data/historical-merit-badges.yaml';
+import {
+    allBadgeHistories,
+    formatYears,
+    historyLinks,
+    historyPhoto,
+    pamphletFamily,
+    pamphletSection,
+    pamphletYears,
+    sharedPhoto,
+    titleSlug,
+    typeSlug,
+    visibleSections,
+} from '~/utils/merit-badge-history';
+
+interface Props {
+    kind: 'patch' | 'pamphlet' | 'hardcover';
+    key: string;
+    draft?: boolean;
+}
+
+const { kind, key, draft = false } = Astro.props;
+const links = historyLinks(draft);
+const badgeHistoryHref = (slug: string) => links.badge(slug);
+const section = kind === 'patch' ? 'patches' : kind === 'pamphlet' ? 'pamphlets' : 'hardcovers';
+const shown = (slug: string) => visibleSections(slug, draft).has(section);
+const allBadges = allBadgeHistories();
+const badges = allBadges.filter(b => shown(b.slug));
+
+// Natural order for sub-types: 6, 6A, 6B, 10A, 10C-1, 10C-2 ...
+const typeOrder = (a: string, b: string) => a.localeCompare(b, 'en', { numeric: true, sensitivity: 'base' });
+
+let title: string;
+let info: {
+    name?: string;
+    years?: string;
+    text?: string;
+    image?: string;
+    front?: string;
+    back?: string;
+    contents?: string;
+    titles?: string[];
+};
+let groups: { label?: string; entries: { slug: string; name: string; item: any; years?: string }[] }[];
+
+if (kind === 'hardcover') {
+    info = hardcoverTypes[key];
+    title = key === 'MISC' ? 'Miscellaneous Hard Covers' : `Type ${key} Hard Covers`;
+    groups = [
+        {
+            entries: badges.flatMap(({ slug, history }) =>
+                (history.hardcovers ?? [])
+                    .filter(item => item.type.toUpperCase() === key.toUpperCase())
+                    .map(item => ({ slug, name: history.name, item }))
+            ),
+        },
+    ];
+} else if (kind === 'patch') {
+    info = { ...patchTypes[key], image: `/history/0-type/patch-type-${typeSlug(key)}-back.webp` };
+    title = `Type ${key} Merit Badges`;
+    groups = [
+        {
+            entries: badges.flatMap(({ slug, history }) =>
+                history.patches
+                    .filter(item => item.type.toUpperCase() === key.toUpperCase())
+                    .map(item => ({ slug, name: history.name, item, years: item.years }))
+            ),
+        },
+    ];
+} else {
+    info = pamphletTypes[key] ?? {};
+    title = `Type ${key.toUpperCase()} Merit Badge Pamphlets`;
+    // One section per letter (10A, 10B, 10C ...); numbered printing variations
+    // such as 10C-1 and 10C-2 sit together in their letter's section
+    const sections = new Map<string, { slug: string; name: string; item: any; years?: string }[]>();
+    for (const { slug, history, printings } of badges) {
+        const years = pamphletYears(history, printings);
+        for (const item of history.pamphlets.filter(p => pamphletFamily(p.type) === key)) {
+            const section = pamphletSection(item.type);
+            const list = sections.get(section) ?? [];
+            list.push({ slug, name: history.name, item, years: item.years ?? years.get(item.type.toUpperCase()) });
+            sections.set(section, list);
+        }
+    }
+    groups = [...sections.keys()].sort(typeOrder).map(section => ({
+        label: sections.size > 1 || section !== key.toUpperCase() ? `Type ${section}` : undefined,
+        entries: sections.get(section)!.sort((a, b) => a.name.localeCompare(b.name) || typeOrder(a.item.type, b.item.type)),
+    }));
+}
+
+// The other types of the same kind, for moving between them
+const siblings =
+    kind === 'patch'
+        ? Object.keys(patchTypes).map(k => ({ key: k, href: `../patch-${typeSlug(k)}/` }))
+        : kind === 'hardcover'
+          ? Object.keys(hardcoverTypes).map(k => ({ key: k, href: `../hardcover-${typeSlug(k)}/` }))
+          : Object.keys(pamphletTypes)
+                // The 5A wartime covers came before the other Type 5 covers
+                .sort((a, b) => (a === '5a' ? 4.5 : parseInt(a)) - (b === '5a' ? 4.5 : parseInt(b)))
+                .map(k => ({ key: k, href: `../pamphlet-${k}/` }));
+// Sample pictures for the intro: a patch back, a pamphlet cover, or a hard cover's front and back
+const samples = [
+    { src: sharedPhoto(info.image), caption: kind === 'patch' ? `The back of a Type ${key} badge` : undefined },
+    { src: sharedPhoto(info.front), caption: 'Front' },
+    { src: sharedPhoto(info.back), caption: 'Back' },
+].filter(s => s.src) as { src: string; caption?: string }[];
+const count = groups.reduce((n, g) => n + g.entries.length, 0);
+// Bucky's lists write some titles as two words ("Wood Work", "Life Saving"), so
+// titles are matched to badge pages ignoring spaces and hyphens
+const squash = (s: string) => s.replace(/-/g, '');
+const pageFor = new Map(allBadges.map(b => [squash(b.slug), b.slug]));
+const titlePage = (t: string) => pageFor.get(squash(titleSlug(t)));
+
+// Hard cover pages: one small tile per known title, from Bucky's photos plus the
+// titles on his list that are not photographed yet
+const nameOf = (slug: string) =>
+    badgeNames[slug]?.name ?? slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+const tiles: { name: string; href?: string; image?: string; variant?: string }[] = [];
+if (kind === 'hardcover') {
+    const photos: { slug: string; variant?: string; image: string }[] = hardcoverPhotos[key] ?? [];
+    // Public pages only show the photos of approved hard covers
+    for (const p of photos.filter(p => shown(pageFor.get(squash(p.slug)) ?? p.slug))) {
+        const href = pageFor.get(squash(p.slug));
+        tiles.push({ name: nameOf(p.slug), href: href && badgeHistoryHref(href), image: historyPhoto(p.image), variant: p.variant });
+    }
+    const pictured = new Set(tiles.map(t => squash(titleSlug(t.name))));
+    for (const t of info.titles ?? []) {
+        if (!pictured.has(squash(titleSlug(t)))) {
+            const page = titlePage(t);
+            tiles.push({ name: t, href: page && badgeHistoryHref(page) });
+        }
+    }
+    tiles.sort((a, b) => a.name.localeCompare(b.name));
+}
+const noun = kind === 'patch' ? 'badge' : kind === 'hardcover' ? 'hard cover' : 'cover';
+---
+
+<DefaultLayout title={title}>
+    <h1>{title}</h1>
+
+    <nav class="type-nav" aria-label={kind === 'patch' ? 'Patch types' : kind === 'hardcover' ? 'Hard cover types' : 'Pamphlet types'}>
+        {siblings.map(s => (
+            <a href={s.href} aria-current={s.key === key ? 'page' : undefined}>{s.key === 'MISC' ? 'Misc' : s.key.toUpperCase()}</a>
+        ))}
+    </nav>
+
+    <section class="type-intro">
+        {samples.length > 0 && (
+            <div class="samples">
+                {samples.map(s => (
+                    <figure>
+                        <img src={s.src} alt={`Sample Type ${key} ${noun}${s.caption ? `, ${s.caption.toLowerCase()}` : ''}`} />
+                        {s.caption && <figcaption>{s.caption}</figcaption>}
+                    </figure>
+                ))}
+            </div>
+        )}
+        <div>
+            {info.name && <h2 class="type-name">{info.name}</h2>}
+            {(info.years || info.contents) && (
+                <p class="type-years">
+                    {formatYears(info.years)}
+                    {info.years && info.contents && ' · '}
+                    {info.contents && `Contains pamphlet ${info.contents}`}
+                </p>
+            )}
+            {info.text && <p>{info.text}</p>}
+            <p class="muted">
+                {kind === 'hardcover'
+                    ? `${tiles.length} known title${tiles.length === 1 ? '' : 's'}, ${tiles.filter(t => t.image).length} pictured. New titles are added as they are found and confirmed.`
+                    : `${count} ${noun}${count === 1 ? '' : 's'} pictured so far. More appear here as each merit badge's history is reviewed.`}
+            </p>
+        </div>
+    </section>
+
+    <PhotoViewer>
+        {kind === 'hardcover' && (
+            <ul class="hc-tiles">
+                {tiles.map(t => (
+                    <li>
+                        {t.image ? (
+                            <button
+                                type="button"
+                                class="zoom"
+                                data-photos={JSON.stringify([{ src: t.image, caption: key === 'MISC' ? `${t.name}, ${t.variant}` : `${t.name}, Type ${key}${t.variant ? ` (${t.variant})` : ''}` }])}
+                            >
+                                <img src={t.image} alt={key === 'MISC' ? `${t.name} hard cover, ${t.variant}` : `${t.name} hard cover, Type ${key}`} loading="lazy" />
+                            </button>
+                        ) : (
+                            <span class="no-photo">No photo yet</span>
+                        )}
+                        <span class="hc-name">
+                            {t.href ? <a href={t.href}>{t.name}</a> : t.name}
+                            {t.variant && <span class="variant"> {t.variant}</span>}
+                        </span>
+                    </li>
+                ))}
+            </ul>
+        )}
+        {kind !== 'hardcover' && groups.map(group => (
+            <section class="type-group">
+                {group.label && <h3>{group.label}</h3>}
+                {group.entries.length ? (
+                    <ol class:list={['type-grid', kind]}>
+                        {group.entries.map(entry => (
+                            <HistoryCard
+                                item={{ ...entry.item, years: entry.years }}
+                                what={kind === 'patch' ? `${entry.name} merit badge` : kind === 'hardcover' ? `${entry.name} hard cover` : `${entry.name} merit badge pamphlet`}
+                                shape={kind === 'patch' ? 'round' : 'cover'}
+                                title={
+                                    // Name the printing variation, e.g. "Archery 10C-2"
+                                    kind === 'pamphlet' && entry.item.type.toUpperCase() !== pamphletSection(entry.item.type)
+                                        ? `${entry.name} ${entry.item.type}`
+                                        : entry.name
+                                }
+                                titleHref={badgeHistoryHref(entry.slug)}
+                            />
+                        ))}
+                    </ol>
+                ) : (
+                    <p class="muted">No {noun}s pictured in this type yet.</p>
+                )}
+            </section>
+        ))}
+    </PhotoViewer>
+
+</DefaultLayout>
+
+<style>
+    .type-nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.3em;
+        margin-bottom: 1em;
+    }
+
+    .type-nav a {
+        min-width: 2.2em;
+        padding: 0.25em 0.6em;
+        border: 2px solid var(--palette-dark);
+        border-radius: 999px;
+        color: var(--palette-dark);
+        font-weight: bold;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .type-nav a[aria-current='page'],
+    .type-nav a:hover {
+        background: var(--palette-dark);
+        color: #fff;
+    }
+
+    .type-intro {
+        display: flex;
+        gap: 1.2em;
+        align-items: flex-start;
+        padding: 1em;
+        border: 1px solid #cfe0b5;
+        border-radius: 0.5em;
+        background: var(--palette-very-light);
+    }
+
+    .samples {
+        display: flex;
+        flex: none;
+        gap: 0.6em;
+    }
+
+    .type-intro figure {
+        flex: none;
+        width: 9em;
+        margin: 0;
+        text-align: center;
+    }
+
+    /* Compact grid like the history page panels: small thumbnail, title under it */
+    .hc-tiles {
+        list-style: none;
+        margin: 1em 0 0;
+        padding: 0;
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        gap: 0.6em;
+    }
+
+    @media (max-width: 600px) {
+        .hc-tiles {
+            grid-template-columns: repeat(3, 1fr);
+        }
+    }
+
+    .hc-tiles li {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.3em;
+        padding: 0.4em;
+        border: 1px solid #e3e7dd;
+        border-radius: 0.4em;
+        background: #fff;
+        text-align: center;
+    }
+
+    .hc-tiles .zoom {
+        padding: 0;
+        border: 0;
+        background: none;
+        cursor: zoom-in;
+    }
+
+    .hc-tiles .zoom {
+        width: 70%;
+    }
+
+    .hc-tiles img {
+        display: block;
+        width: 100%;
+        aspect-ratio: 2 / 3;
+        object-fit: cover;
+        border: 1px solid #000;
+    }
+
+    .hc-tiles .no-photo {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 70%;
+        aspect-ratio: 2 / 3;
+        border: 1px dashed #c3cbb8;
+        color: #5c6656;
+        font-size: 0.65em;
+        font-style: italic;
+    }
+
+    .hc-name {
+        font-size: 0.85em;
+        line-height: 1.2;
+    }
+
+    .hc-name a {
+        font-weight: bold;
+        color: var(--palette-dark);
+        text-decoration: none;
+    }
+
+    .hc-name .variant {
+        color: #5c6656;
+    }
+
+    .type-intro img {
+        display: block;
+        width: 100%;
+        height: auto;
+        border: 1px solid #000;
+    }
+
+    .type-intro figcaption {
+        margin-top: 0.3em;
+        font-size: 0.8em;
+        color: #5c6656;
+    }
+
+    .type-name {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        background: none;
+        color: var(--palette-very-dark);
+        text-transform: none;
+        font-size: 1.3em;
+    }
+
+    .type-years {
+        margin: 0.2em 0 0.6em;
+        font-weight: bold;
+    }
+
+    .muted {
+        font-size: 0.9em;
+        color: #5c6656;
+    }
+
+    .type-group h3 {
+        margin: 1.2em 0 0.6em;
+    }
+
+    .type-grid {
+        list-style: none;
+        margin: 1em 0 0;
+        padding: 0;
+        display: grid;
+        gap: 0.8em;
+    }
+
+    .type-grid.patch {
+        grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    }
+
+    .type-grid.pamphlet {
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    }
+
+    @media (max-width: 600px) {
+        .type-intro {
+            flex-direction: column;
+            align-items: center;
+        }
+    }
+</style>

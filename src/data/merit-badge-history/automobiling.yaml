@@ -1,0 +1,220 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Automobiling
+precededBy: Original badge
+introduced: 1911
+discontinued: '1961'
+replacedWith: Automotive Safety
+story: [The Automobiling merit badge was retired at the end 1961 and replaced with Automotive Safety.]
+thenAndNow:
+    year: 1911
+    source: The Official Handbook for Boys (1911)
+    requirements:
+    - Demonstrate how to start a motor, explaining what precautions should be taken.
+    - Take off and put on pneumatic tires.
+    - Know the functions of the clutch, carburetor, valves, magneto, spark plug, differential cam shaft, and different speed gears, and be able to explain difference between a two and four-cycle motor.
+    - Know how to put out burning gasoline or oil.
+    - Have satisfactorily passed the requirements to receive a license to operate an automobile in the community in which he lives.
+timeline:
+-   year: 1911
+    text: The Automobiling merit badge is introduced. It is one of the original 57 merit badges.
+- {year: 1912, text: 'The first Automobiling merit badges are earned: 16 that year.'}
+- {year: 1920, text: The earliest known Automobiling pamphlet printing (Type 1C).}
+- {year: 1921, text: 'Best ranking: 22nd of 61 merit badges.'}
+- {year: 1931, text: 'All-time high: 7,930 Automobiling merit badges earned.'}
+-   year: 1961
+    text: Last year the Automobiling merit badge is offered; it is replaced by Automotive Safety.
+ranks:
+    1912: [32, 51]
+    1913: [34, 56]
+    1914: [34, 58]
+    1915: [27, 58]
+    1916: [29, 56]
+    1917: [25, 58]
+    1918: [25, 58]
+    1919: [26, 59]
+    1920: [23, 59]
+    1921: [22, 61]
+    1922: [24, 61]
+    1923: [23, 63]
+    1924: [24, 64]
+    1925: [23, 64]
+    1926: [23, 65]
+    1927: [23, 68]
+    1928: [28, 88]
+    1929: [23, 89]
+    1930: [23, 92]
+    1931: [25, 96]
+    1932: [26, 98]
+    1933: [30, 101]
+    1934: [29, 101]
+    1935: [29, 101]
+    1936: [30, 101]
+    1937: [31, 102]
+    1938: [32, 105]
+    1939: [33, 106]
+    1940: [34, 106]
+    1941: [35, 106]
+    1942: [41, 110]
+    1943: [49, 112]
+    1944: [50, 111]
+    1945: [46, 111]
+    1946: [39, 111]
+    1947: [36, 111]
+    1948: [36, 111]
+    1949: [36, 111]
+    1950: [42, 111]
+    1951: [45, 111]
+    1952: [49, 120]
+    1953: [53, 105]
+    1954: [55, 103]
+    1955: [57, 100]
+    1956: [54, 100]
+    1957: [55, 100]
+    1958: [51, 101]
+    1959: [59, 101]
+    1960: [60, 100]
+    1961: [60, 101]
+lifetimeRank: {rank: 120, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 126
+    range: [124, 126]
+    asOf: 2025
+earned:
+    totalThrough: 1961
+    total: 166914
+    byYear:
+        1911: 0
+        1912: 16
+        1913: 47
+        1914: 94
+        1915: 108
+        1916: 124
+        1917: 299
+        1918: 348
+        1919: 822
+        1920: 840
+        1921: 1615
+        1922: 1936
+        1923: 2041
+        1924: 2054
+        1925: 3152
+        1926: 4133
+        1927: 5003
+        1928: 5582
+        1929: 6540
+        1930: 6844
+        1931: 7930
+        1932: 7046
+        1933: 6925
+        1934: 5109
+        1935: 5000
+        1936: 4038
+        1937: 4299
+        1938: 4766
+        1939: 4714
+        1940: 4444
+        1941: 3929
+        1942: 3005
+        1943: 3006
+        1944: 3686
+        1945: 4055
+        1946: 4036
+        1947: 4010
+        1948: 3814
+        1949: 4159
+        1950: 4287
+        1951: 4388
+        1952: 4493
+        1953: 3445
+        1954: 3703
+        1955: 3517
+        1956: 3715
+        1957: 3889
+        1958: 4223
+        1959: 3795
+        1960: 4057
+        1961: 4177
+patches:
+-   type: A
+    years: 1911-1933
+    note: variations
+    image: /history/automobiling/automobiling-patch-a1.webp
+    more:
+    - {image: /history/automobiling/automobiling-patch-a-front.webp, label: A front}
+-   type: A
+    years: 1911-1933
+    note: variations
+    image: /history/automobiling/automobiling-patch-a2.webp
+-   type: A
+    years: 1911-1933
+    note: variations
+    image: /history/automobiling/automobiling-patch-a3.webp
+-   type: B
+    years: 1934-1935
+    note: heavyweight cloth
+    image: /history/automobiling/automobiling-patch-b.webp
+    more:
+    - {image: /history/automobiling/automobiling-patch-b-reverse.webp, label: B back}
+-   type: C
+    years: 1936-1941
+    note: heavyweight and lightweight cloth
+    image: /history/automobiling/automobiling-patch-c.webp
+    more:
+    - {image: /history/automobiling/automobiling-patch-c-reverse.webp, label: C back}
+    - {image: /history/automobiling/automobiling-patch-c2-reverse.webp, label: C2 back}
+-   type: C
+    years: 1941-1942
+    note: heavyweight and lightweight cloth
+    image: /history/automobiling/automobiling-patch-c2.webp
+-   type: D
+    years: 1942-1946
+    note: fine twill cloth
+    image: /history/automobiling/automobiling-patch-d.webp
+    more:
+    - {image: /history/automobiling/automobiling-patch-d-reverse.webp, label: D back}
+-   type: E
+    years: 1947-1960
+    image: /history/automobiling/automobiling-patch-e.webp
+    more:
+    - {image: /history/automobiling/automobiling-patch-e-reverse.webp, label: E back}
+-   type: F
+    years: '1961'
+    note: rolled edge
+    image: /history/automobiling/automobiling-patch-f.webp
+    more:
+    - {image: /history/automobiling/automobiling-patch-f-reverse.webp, label: F back}
+- {type: G, years: '1961', status: missing}
+pamphlets:
+- {type: 1C, image: /history/automobiling/automobiling-1c.webp}
+- {type: '2', image: /history/automobiling/automobiling-2.webp}
+- {type: 3A, image: /history/automobiling/automobiling-3a.webp}
+- {type: 3B, image: /history/automobiling/automobiling-3b.webp}
+- {type: 3C, image: /history/automobiling/automobiling-3c.webp}
+- {type: 3D, image: /history/automobiling/automobiling-3d.webp}
+- {type: 4A, image: /history/automobiling/automobiling-4a.webp}
+- {type: 4B, image: /history/automobiling/automobiling-4b.webp}
+- {type: 5A, image: /history/automobiling/automobiling-5a.webp}
+- {type: 5B-1, image: /history/automobiling/automobiling-5b-1.webp}
+- {type: 5B-2A, image: /history/automobiling/automobiling-5b-2a.webp}
+- {type: 5B-2B, image: /history/automobiling/automobiling-5b-2b.webp}
+- {type: '6', image: /history/automobiling/automobiling-6.webp}
+hardcovers:
+- {type: HCE, image: /history/automobiling/automobiling-hce.webp}
+- {type: HCF, image: /history/automobiling/automobiling-hcf.webp}
+- {type: HCH, image: /history/automobiling/automobiling-hch.webp}
+- {type: HCI, image: /history/automobiling/automobiling-hci.webp}
+- {type: HCJ, image: /history/automobiling/automobiling-hcj.webp}
+trivia:
+-   q: Was Automobiling one of the original 57 merit badges?
+    a: Yes. It was in the first Official Handbook for Boys in 1911.
+-   q: What was the first thing a Scout had to do for Automobiling in 1911?
+    a: Demonstrate how to start a motor, explaining what precautions should be taken.
+-   q: In what year did Scouts earn the most Automobiling merit badges?
+    a: 1931, when 7,930 were earned.
+- {q: 'How many Automobiling merit badges had been earned by 1961?', a: '166,914.'}
+-   q: What was Automobiling's best year in the rankings on record?
+    a: 1921, when it was 22nd of the 61 merit badges earned that year.
+- {q: 'What replaced Automobiling after 1961?', a: Automotive Safety.}

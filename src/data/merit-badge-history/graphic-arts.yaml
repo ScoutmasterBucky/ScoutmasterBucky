@@ -1,0 +1,133 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Graphic Arts
+precededBy: Printing
+precededByLink: printing
+introduced: 1987
+discontinued: Current
+replacedWith: Current
+timeline:
+- {year: 1987, text: The Graphic Arts merit badge is introduced.}
+- {year: 1988, text: The earliest known Graphic Arts pamphlet printing (Type 9A).}
+- {year: 1993, text: 'First known count: 1,429 Graphic Arts merit badges earned.'}
+- {year: 2011, text: 'All-time high: 3,620 Graphic Arts merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 78th of 129 merit badges.'}
+ranks:
+    1993: [109, 123]
+    1996: [111, 134]
+    2000: [109, 128]
+    2001: [107, 129]
+    2002: [109, 129]
+    2003: [110, 130]
+    2004: [108, 121]
+    2005: [107, 121]
+    2006: [107, 121]
+    2007: [100, 121]
+    2008: [102, 121]
+    2009: [100, 122]
+    2010: [102, 125]
+    2011: [93, 129]
+    2012: [88, 132]
+    2013: [78, 129]
+    2014: [110, 136]
+    2015: [109, 138]
+    2016: [107, 138]
+    2017: [109, 139]
+    2018: [106, 139]
+    2019: [107, 139]
+    2020: [111, 137]
+    2021: [106, 137]
+    2022: [109, 138]
+    2023: [111, 138]
+    2024: [110, 138]
+    2025: [103, 141]
+lifetimeRank: {rank: 161, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 161
+    range: [161, 162]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 69365
+    byYear:
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 1429
+        1994: null
+        1995: null
+        1996: 1205
+        1997: null
+        1998: null
+        1999: null
+        2000: 1522
+        2001: 1799
+        2002: 1703
+        2003: 1822
+        2004: 2063
+        2005: 2024
+        2006: 2038
+        2007: 2373
+        2008: 2526
+        2009: 2982
+        2010: 3093
+        2011: 3620
+        2012: 3505
+        2013: 3140
+        2014: 3189
+        2015: 3356
+        2016: 3251
+        2017: 3066
+        2018: 3343
+        2019: 3178
+        2020: 2228
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1987-2002
+    image: /history/graphic-arts/graphic-arts-patch-h.webp
+    more:
+    - {image: /history/graphic-arts/graphic-arts-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/graphic-arts/graphic-arts-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, years: 1993-1995, status: unknown}
+-   type: J
+    years: 2002-2009
+    image: /history/graphic-arts/graphic-arts-patch-j.webp
+    more:
+    - {image: /history/graphic-arts/graphic-arts-patch-j1-front.webp, label: J1 front}
+    - {image: /history/graphic-arts/graphic-arts-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    image: /history/graphic-arts/graphic-arts-patch-k.webp
+    more:
+    - {image: /history/graphic-arts/graphic-arts-patch-k-front.webp, label: K front}
+    - {image: /history/graphic-arts/graphic-arts-patch-k-reverse.webp, label: K back}
+- {type: L, years: 2015-2025, image: /history/graphic-arts/graphic-arts-patch-l.webp}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 9A, status: missing}
+- {type: 9B, status: missing}
+- {type: 9C, image: /history/graphic-arts/graphic-arts-9c.webp}
+- {type: 10A, status: missing}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+trivia:
+-   q: Was the Graphic Arts badge made in every patch style of its time?
+    a: No. No Type I Graphic Arts badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Graphic Arts merit badges?
+    a: 2011, when 3,620 were earned.
+- {q: 'How many Graphic Arts merit badges had been earned by 2020?', a: '69,365.'}
+-   q: What was Graphic Arts' best year in the rankings on record?
+    a: 2013, when it was 78th of the 129 merit badges earned that year.
+- {q: 'What came before the Graphic Arts merit badge?', a: Printing.}
+- {q: 'When was the earliest known Graphic Arts pamphlet printed?', a: July 1988.}

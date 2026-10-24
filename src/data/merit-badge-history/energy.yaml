@@ -1,0 +1,166 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Energy
+precededBy: None
+introduced: 1976
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1976
+    text: 'The Energy merit badge is introduced. The first Energy merit badges are earned: 754 that year.'
+- {year: 1978, text: The earliest known Energy pamphlet printing (Type 8).}
+-   year: 2013
+    text: 'All-time high: 3,989 Energy merit badges earned. Best ranking: 68th of 129 merit badges.'
+ranks:
+    1976: [126, 130]
+    1977: [114, 130]
+    1978: [104, 131]
+    1979: [90, 132]
+    1980: [90, 132]
+    1981: [89, 134]
+    1993: [86, 123]
+    1996: [110, 134]
+    2000: [110, 128]
+    2001: [105, 129]
+    2002: [105, 129]
+    2003: [105, 130]
+    2004: [100, 121]
+    2005: [98, 121]
+    2006: [100, 121]
+    2007: [98, 121]
+    2008: [100, 121]
+    2009: [95, 122]
+    2010: [100, 125]
+    2011: [92, 129]
+    2012: [85, 132]
+    2013: [68, 129]
+    2014: [104, 136]
+    2015: [112, 138]
+    2016: [111, 138]
+    2017: [113, 139]
+    2018: [117, 139]
+    2019: [118, 139]
+    2020: [112, 137]
+    2021: [127, 137]
+    2022: [127, 138]
+    2023: [131, 138]
+    2024: [121, 138]
+    2025: [125, 141]
+lifetimeRank: {rank: 140, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 146
+    range: [145, 146]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 96783
+    byYear:
+        1976: 754
+        1977: 1634
+        1978: 1877
+        1979: 1877
+        1980: 1216
+        1981: 1838
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 2680
+        1994: null
+        1995: null
+        1996: 1227
+        1997: null
+        1998: null
+        1999: null
+        2000: 1384
+        2001: 1812
+        2002: 1998
+        2003: 2269
+        2004: 2522
+        2005: 3019
+        2006: 2506
+        2007: 2620
+        2008: 2651
+        2009: 3427
+        2010: 3203
+        2011: 3641
+        2012: 3907
+        2013: 3989
+        2014: 3669
+        2015: 3190
+        2016: 2955
+        2017: 2749
+        2018: 2607
+        2019: 2727
+        2020: 2162
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1976-2002
+    image: /history/energy/energy-patch-h.webp
+    more:
+    - {image: /history/energy/energy-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/energy/energy-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/energy/energy-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/energy/energy-patch-h5-reverse.webp, label: 'H variation H5, back'}
+-   type: I
+    years: 1993-1995
+    note: variation I38
+    image: /history/energy/energy-patch-i38.webp
+    more:
+    - {image: /history/energy/energy-patch-ib-front.webp, label: IB front}
+    - {image: /history/energy/energy-patch-ib-reverse.webp, label: IB back}
+-   type: J
+    years: 2002-2009
+    image: /history/energy/energy-patch-j.webp
+    more:
+    - {image: /history/energy/energy-patch-j1-front.webp, label: J1 front}
+    - {image: /history/energy/energy-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    image: /history/energy/energy-patch-k.webp
+    more:
+    - {image: /history/energy/energy-patch-k-front.webp, label: K front}
+    - {image: /history/energy/energy-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    image: /history/energy/energy-patch-l.webp
+    more:
+    - {image: /history/energy/energy-patch-l-front.webp, label: L front}
+    - {image: /history/energy/energy-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '8', image: /history/energy/energy-8.webp}
+- {type: 9A, image: /history/energy/energy-9a.webp}
+- {type: 9B-1, image: /history/energy/energy-9b-1.webp}
+- {type: 9B-2, image: /history/energy/energy-9b-2.webp}
+- {type: 10A, image: /history/energy/energy-10a.webp}
+- {type: 10B, image: /history/energy/energy-10b.webp}
+- {type: 10C-1A, image: /history/energy/energy-10c-1a.webp}
+- {type: 10C-1B, image: /history/energy/energy-10c-1b.webp}
+- {type: 10C-2, image: /history/energy/energy-10c-2.webp}
+- {type: 10D-1, image: /history/energy/energy-10d-1.webp}
+- {type: 10D-2, image: /history/energy/energy-10d-2.webp}
+- {type: 11A, status: missing}
+hardcovers:
+- {type: HCT, image: /history/energy/energy-hct.webp}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Energy merit badges?
+    a: 2013, when 3,989 were earned.
+- {q: 'How many Energy merit badges had been earned by 2020?', a: '96,783.'}
+-   q: What was Energy's best year in the rankings on record?
+    a: 2013, when it was 68th of the 129 merit badges earned that year.
+- {q: 'When was the earliest known Energy pamphlet printed?', a: April 1978.}

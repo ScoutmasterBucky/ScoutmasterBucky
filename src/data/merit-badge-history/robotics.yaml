@@ -1,0 +1,68 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Robotics
+precededBy: None
+introduced: 2011
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2011
+    text: 'The Robotics merit badge is introduced. The first Robotics merit badges are earned: 5,407 that year. The earliest known Robotics pamphlet printing (Type 10C).'
+- {year: 2013, text: 'Best ranking: 31st of 129 merit badges.'}
+- {year: 2018, text: 'All-time high: 15,285 Robotics merit badges earned.'}
+ranks:
+    2011: [78, 129]
+    2012: [43, 132]
+    2013: [31, 129]
+    2014: [44, 136]
+    2015: [42, 138]
+    2016: [38, 138]
+    2017: [34, 139]
+    2018: [34, 139]
+    2019: [37, 139]
+    2020: [66, 137]
+    2021: [43, 137]
+    2022: [44, 138]
+    2023: [42, 138]
+    2024: [43, 138]
+    2025: [45, 141]
+lifetimeRank: {rank: 134, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 125
+    range: [124, 126]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 123337
+    byYear:
+        2011: 5407
+        2012: 13262
+        2013: 13401
+        2014: 13708
+        2015: 13700
+        2016: 14264
+        2017: 15031
+        2018: 15285
+        2019: 13827
+        2020: 5452
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: K, years: 2011-2014, image: /history/robotics/robotics-patch-k.webp}
+- {type: L, years: 2015-2025, image: /history/robotics/robotics-patch-l.webp}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+- {type: 11A, status: missing}
+trivia:
+- {q: 'In what year did Scouts earn the most Robotics merit badges?', a: '2018, when 15,285 were earned.'}
+- {q: 'How many Robotics merit badges had been earned by 2020?', a: '123,337.'}
+-   q: What was Robotics' best year in the rankings on record?
+    a: 2013, when it was 31st of the 129 merit badges earned that year.
+- {q: 'When was the earliest known Robotics pamphlet printed?', a: '2011.'}

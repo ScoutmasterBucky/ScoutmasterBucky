@@ -1,0 +1,54 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Landscaping
+precededBy: Landscape Gardening Became Landscape Architecture
+introduced: 1959
+discontinued: '1966'
+replacedWith: Landscape Architecture
+timeline:
+-   year: 1959
+    text: 'The Landscaping merit badge is introduced. The first Landscaping merit badges are earned: 1,180 that year.'
+- {year: 1960, text: The earliest known Landscaping pamphlet printing (Type 6).}
+-   year: 1966
+    text: 'All-time high: 1,627 Landscaping merit badges earned. Best ranking: 87th of 110 merit badges. Last year the Landscaping merit badge is offered; it is replaced by Landscape Architecture.'
+ranks:
+    1959: [89, 101]
+    1960: [93, 100]
+    1961: [91, 101]
+    1962: [92, 101]
+    1963: [93, 102]
+    1964: [94, 107]
+    1965: [93, 109]
+    1966: [87, 110]
+lifetimeRank: {rank: 209, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 212
+    range: [212, 212]
+    asOf: 2025
+earned:
+    totalThrough: 1966
+    total: 10631
+    byYear: {1959: 1180, 1960: 1237, 1961: 1329, 1962: 1257, 1963: 1311, 1964: 1312, 1965: 1378, 1966: 1627}
+patches:
+- {type: E, years: 1959-1960, image: /history/landscaping/landscaping-patch-e.webp}
+- {type: F, years: 1961-1966, status: missing}
+- {type: G, years: 1961-1966, image: /history/landscaping/landscaping-patch-g.webp}
+pamphlets:
+- {type: '6', status: missing}
+hardcovers:
+- {type: HCJ, image: /history/landscaping/landscaping-hcj.webp}
+- {type: HCK, image: /history/landscaping/landscaping-hck.webp}
+- {type: HCL, image: /history/landscaping/landscaping-hcl.webp}
+- {type: HCP, image: /history/landscaping/landscaping-hcp.webp}
+trivia:
+-   q: In what year did Scouts earn the most Landscaping merit badges?
+    a: 1966, when 1,627 were earned.
+- {q: 'How many Landscaping merit badges had been earned by 1966?', a: '10,631.'}
+-   q: What was Landscaping's best year in the rankings on record?
+    a: 1966, when it was 87th of the 110 merit badges earned that year.
+-   q: What came before the Landscaping merit badge?
+    a: Landscape Gardening Became Landscape Architecture.
+- {q: 'What replaced Landscaping after 1966?', a: Landscape Architecture.}
+- {q: 'When was the earliest known Landscaping pamphlet printed?', a: January 1960.}

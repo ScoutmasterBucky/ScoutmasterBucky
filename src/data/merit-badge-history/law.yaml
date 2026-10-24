@@ -1,0 +1,142 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Law
+precededBy: None
+introduced: 1974
+discontinued: Current
+replacedWith: Current
+timeline:
+- {year: 1974, text: The Law merit badge is introduced.}
+-   year: 1975
+    text: 'First known count: 1,097 Law merit badges earned. The earliest known Law pamphlet printing (Type 8A).'
+- {year: 2010, text: 'All-time high: 7,333 Law merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 49th of 129 merit badges.'}
+ranks:
+    1975: [123, 128]
+    1976: [96, 130]
+    1977: [86, 130]
+    1978: [84, 131]
+    1979: [84, 132]
+    1980: [83, 132]
+    1981: [81, 134]
+    1993: [65, 123]
+    1996: [68, 134]
+    2000: [74, 128]
+    2001: [76, 129]
+    2002: [69, 129]
+    2003: [66, 130]
+    2004: [66, 121]
+    2005: [68, 121]
+    2006: [67, 121]
+    2007: [71, 121]
+    2008: [70, 121]
+    2009: [70, 122]
+    2010: [66, 125]
+    2011: [61, 129]
+    2012: [58, 132]
+    2013: [49, 129]
+    2014: [83, 136]
+    2015: [80, 138]
+    2016: [83, 138]
+    2017: [84, 139]
+    2018: [82, 139]
+    2019: [82, 139]
+    2020: [56, 137]
+    2021: [91, 137]
+    2022: [90, 138]
+    2023: [89, 138]
+    2024: [91, 138]
+    2025: [87, 141]
+lifetimeRank: {rank: 103, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 106
+    range: [105, 106]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 218325
+    byYear:
+        1974: null
+        1975: 1097
+        1976: 2896
+        1977: 3391
+        1978: 3042
+        1979: 2338
+        1980: 1594
+        1981: 2590
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 5067
+        1994: null
+        1995: null
+        1996: 4725
+        1997: null
+        1998: null
+        1999: null
+        2000: 5274
+        2001: 4977
+        2002: 6120
+        2003: 6357
+        2004: 6400
+        2005: 5666
+        2006: 5652
+        2007: 5545
+        2008: 5949
+        2009: 7044
+        2010: 7333
+        2011: 7315
+        2012: 7274
+        2013: 6946
+        2014: 5463
+        2015: 5633
+        2016: 5226
+        2017: 5402
+        2018: 5656
+        2019: 5681
+        2020: 5962
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: H, years: 1974-2002, image: /history/law/law-patch-h.webp}
+- {type: I, years: 1993-1995, status: unknown}
+- {type: J, years: 2002-2009, image: /history/law/law-patch-j.webp}
+- {type: K, years: 2010-2014, image: /history/law/law-patch-k.webp}
+- {type: L, years: 2015-2025, image: /history/law/law-patch-l.webp}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '8', status: missing}
+- {type: 8A, status: missing}
+- {type: 8B, status: missing}
+- {type: '9', status: missing}
+- {type: 9A, status: missing}
+- {type: 9B-1, image: /history/law/law-9b-1.webp}
+- {type: 9B-2, image: /history/law/law-9b-2.webp}
+- {type: 10A, status: missing}
+- {type: 10B, status: missing}
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+hardcovers:
+- {type: HCT, image: /history/law/law-hct.webp}
+trivia:
+-   q: Was the Law badge made in every patch style of its time?
+    a: No. No Type I Law badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Law merit badges?
+    a: 2010, when 7,333 were earned.
+- {q: 'How many Law merit badges had been earned by 2020?', a: '218,325.'}
+-   q: What was Law's best year in the rankings on record?
+    a: 2013, when it was 49th of the 129 merit badges earned that year.
+- {q: 'When was the earliest known Law pamphlet printed?', a: February 1975.}

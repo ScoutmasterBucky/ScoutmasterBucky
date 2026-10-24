@@ -25,6 +25,12 @@ const meritBadges = await getCollection('meritBadges');
         Workbook and Class Preparation Pages.
     </p>
 
+    <p class="history-link">
+        Curious how a badge has changed since 1911? Explore the
+        {' '}<a href="/history/">Merit Badge History pages</a>: how many Scouts
+        earned each badge, year by year, for current and discontinued badges.
+    </p>
+
     <h2>Merit Badge Index</h2>
 
     <MeritBadgeList>
@@ -35,3 +41,11 @@ const meritBadges = await getCollection('meritBadges');
         }
     </MeritBadgeList>
 </DefaultLayout>
+
+<style>
+    .history-link {
+        padding: 0.6em 1em;
+        border-left: 4px solid var(--palette-light);
+        background: var(--palette-very-light);
+    }
+</style>

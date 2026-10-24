@@ -1,0 +1,41 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Bee Farming
+precededBy: Original badge
+introduced: 1911
+discontinued: '1914'
+replacedWith: Bee Keeping
+thenAndNow:
+    year: 1911
+    source: The Official Handbook for Boys (1911)
+    requirements: ['Have a practical knowledge of swarming, hiving, hives and general apiculture, including a knowledge of the use of artificial combs.', Describe different kinds of honey and tell from
+            what sources gathered.]
+timeline:
+-   year: 1911
+    text: The Bee Farming merit badge is introduced. It is one of the original 57 merit badges.
+- {year: 1912, text: 'The first Bee Farming merit badges are earned: 25 that year.'}
+-   year: 1914
+    text: 'All-time high: 214 Bee Farming merit badges earned. Best ranking: 17th of 58 merit badges. Last year the Bee Farming merit badge is offered; it is replaced by Bee Keeping.'
+ranks:
+    1912: [23, 51]
+    1913: [25, 56]
+    1914: [17, 58]
+earned:
+    totalThrough: 1914
+    total: 301
+    totalKnownOnly: true
+    byYear: {1911: 0, 1912: 25, 1913: 62, 1914: 214}
+patches:
+- {type: A, years: 1911-1914, image: /history/bee-farming/bee-farming-patch-a.webp}
+pamphlets: []
+trivia:
+-   q: Was Bee Farming one of the original 57 merit badges?
+    a: Yes. It was in the first Official Handbook for Boys in 1911.
+-   q: What was the first thing a Scout had to do for Bee Farming in 1911?
+    a: Have a practical knowledge of swarming, hiving, hives and general apiculture, including a knowledge of the use of artificial combs.
+- {q: 'In what year did Scouts earn the most Bee Farming merit badges?', a: '1914, when 214 were earned.'}
+-   q: What was Bee Farming's best year in the rankings on record?
+    a: 1914, when it was 17th of the 58 merit badges earned that year.
+- {q: 'What replaced Bee Farming after 1914?', a: Bee Keeping.}

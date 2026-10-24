@@ -1,0 +1,186 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Markmanship
+precededBy: Marksman Became Rifle & Shotgun Shooting
+introduced: 1911
+discontinued: '1966'
+replacedWith: Rifle & Shotgun Shooting
+thenAndNow:
+    year: 1911
+    source: The Official Handbook for Boys (1911)
+    requirements: [Qualify as a marksman in accordance with the regulations of the National Rifle Association.]
+timeline:
+-   year: 1911
+    text: The Markmanship merit badge is introduced. It is one of the original 57 merit badges.
+- {year: 1912, text: 'The first Markmanship merit badges are earned: 12 that year.'}
+- {year: 1920, text: The earliest known Markmanship pamphlet printing (Type 1C).}
+- {year: 1961, text: 'All-time high: 20,758 Markmanship merit badges earned.'}
+-   year: 1966
+    text: 'Best ranking: 25th of 110 merit badges. Last year the Markmanship merit badge is offered; it is replaced by Rifle & Shotgun Shooting.'
+ranks:
+    1912: [38, 51]
+    1913: [36, 56]
+    1914: [39, 58]
+    1915: [32, 58]
+    1916: [31, 56]
+    1917: [33, 58]
+    1918: [27, 58]
+    1919: [32, 59]
+    1920: [27, 59]
+    1921: [28, 61]
+    1922: [28, 61]
+    1923: [29, 63]
+    1924: [30, 64]
+    1925: [32, 64]
+    1926: [31, 65]
+    1927: [33, 68]
+    1928: [38, 88]
+    1929: [41, 89]
+    1930: [40, 92]
+    1931: [38, 96]
+    1932: [35, 98]
+    1933: [35, 101]
+    1934: [39, 101]
+    1935: [46, 101]
+    1936: [49, 101]
+    1937: [55, 102]
+    1938: [54, 105]
+    1939: [54, 106]
+    1940: [53, 106]
+    1941: [58, 106]
+    1942: [54, 110]
+    1943: [58, 112]
+    1944: [55, 111]
+    1945: [51, 111]
+    1946: [46, 111]
+    1947: [46, 111]
+    1948: [46, 111]
+    1949: [49, 111]
+    1950: [50, 111]
+    1951: [46, 111]
+    1952: [45, 120]
+    1953: [39, 105]
+    1954: [38, 103]
+    1955: [35, 100]
+    1956: [34, 100]
+    1957: [30, 100]
+    1958: [30, 101]
+    1959: [30, 101]
+    1960: [29, 100]
+    1961: [27, 101]
+    1962: [28, 101]
+    1963: [28, 102]
+    1964: [28, 107]
+    1965: [28, 109]
+    1966: [25, 110]
+lifetimeRank: {rank: 87, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 91
+    range: [91, 91]
+    asOf: 2025
+earned:
+    totalThrough: 1966
+    total: 290762
+    byYear:
+        1911: 0
+        1912: 12
+        1913: 34
+        1914: 75
+        1915: 88
+        1916: 106
+        1917: 158
+        1918: 257
+        1919: 478
+        1920: 562
+        1921: 947
+        1922: 1159
+        1923: 1173
+        1924: 1073
+        1925: 1234
+        1926: 1913
+        1927: 2507
+        1928: 3796
+        1929: 2294
+        1930: 2692
+        1931: 3722
+        1932: 3920
+        1933: 3793
+        1934: 3049
+        1935: 3173
+        1936: 2332
+        1937: 1952
+        1938: 2012
+        1939: 2070
+        1940: 2196
+        1941: 1943
+        1942: 1884
+        1943: 2052
+        1944: 2889
+        1945: 3387
+        1946: 3121
+        1947: 2972
+        1948: 2868
+        1949: 3130
+        1950: 3437
+        1951: 4307
+        1952: 4827
+        1953: 5344
+        1954: 6985
+        1955: 8706
+        1956: 9858
+        1957: 11474
+        1958: 13082
+        1959: 14466
+        1960: 17620
+        1961: 20758
+        1962: 19869
+        1963: 19574
+        1964: 19142
+        1965: 19245
+        1966: 19045
+patches:
+- {type: A, years: 1911-1933, image: /history/markmanship/markmanship-patch-a.webp}
+- {type: B, years: 1934-1935, image: /history/markmanship/markmanship-patch-b.webp}
+-   type: C
+    years: 1936-1942
+    note: variation C1
+    image: /history/markmanship/markmanship-patch-c1.webp
+-   type: C
+    years: 1936-1942
+    note: variation C2
+    image: /history/markmanship/markmanship-patch-c2.webp
+- {type: D, years: 1942-1946, image: /history/markmanship/markmanship-patch-d.webp}
+- {type: E, years: 1947-1960, image: /history/markmanship/markmanship-patch-e.webp}
+- {type: F, years: 1961-1966, status: missing}
+- {type: G, years: 1961-1966, image: /history/markmanship/markmanship-patch-g.webp}
+pamphlets:
+- {type: 1C, image: /history/markmanship/marksmanship-1c.webp}
+- {type: '2', image: /history/markmanship/marksmanship-2.webp}
+- {type: 3A over 2, status: missing}
+- {type: 3A, status: missing}
+- {type: 3B, status: missing}
+- {type: 3C, status: missing}
+- {type: 3D, status: missing}
+- {type: '4', status: missing}
+- {type: 5A, status: missing}
+- {type: 5B, status: missing}
+- {type: '6', status: missing}
+hardcovers:
+- {type: HCE, image: /history/markmanship/markmanship-hce.webp}
+- {type: HCH, image: /history/markmanship/markmanship-hch.webp}
+- {type: HCI, image: /history/markmanship/markmanship-hci.webp}
+- {type: HCK, image: /history/markmanship/markmanship-hck.webp}
+- {type: HCP, image: /history/markmanship/markmanship-hcp.webp}
+trivia:
+-   q: Was Markmanship one of the original 57 merit badges?
+    a: Yes. It was in the first Official Handbook for Boys in 1911.
+-   q: What was the first thing a Scout had to do for Markmanship in 1911?
+    a: Qualify as a marksman in accordance with the regulations of the National Rifle Association.
+-   q: In what year did Scouts earn the most Markmanship merit badges?
+    a: 1961, when 20,758 were earned.
+- {q: 'How many Markmanship merit badges had been earned by 1966?', a: '290,762.'}
+-   q: What was Markmanship's best year in the rankings on record?
+    a: 1966, when it was 25th of the 110 merit badges earned that year.
+- {q: 'What came before the Markmanship merit badge?', a: Marksman Became Rifle & Shotgun Shooting.}

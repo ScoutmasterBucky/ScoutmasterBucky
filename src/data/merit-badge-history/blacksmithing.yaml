@@ -1,0 +1,145 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Blacksmithing
+precededBy: Original badge
+introduced: 1911
+discontinued: '1952'
+replacedWith: Metalwork
+story: ['The Blacksmithing Merit Badge pamphlets are some of the toughest to find. Their small printing runs and earlier printing dates, make finding good copies even tougher.']
+thenAndNow:
+    year: 1911
+    source: The Official Handbook for Boys (1911)
+    requirements: [Upset and weld a one-inch iron rod., Make a horseshoe., 'Know how to tire a wheel, use a sledge-hammer and forge, shoe a horse correctly and roughshoe a horse.', Be able to temper iron
+            and steel.]
+timeline:
+-   year: 1911
+    text: The Blacksmithing merit badge is introduced. It is one of the original 57 merit badges.
+- {year: 1913, text: 'The first Blacksmithing merit badges are earned: 6 that year.'}
+-   year: 1919
+    text: 'All-time high: 1,657 Blacksmithing merit badges earned. Best ranking: 19th of 59 merit badges.'
+- {year: 1920, text: The earliest known Blacksmithing pamphlet printing (Type 1C).}
+- {year: 1952, text: Last year the Blacksmithing merit badge is offered; it is replaced by Metalwork.}
+ranks:
+    1913: [51, 56]
+    1914: [49, 58]
+    1915: [39, 58]
+    1916: [38, 56]
+    1917: [39, 58]
+    1918: [44, 58]
+    1919: [19, 59]
+    1920: [44, 59]
+    1921: [49, 61]
+    1922: [48, 61]
+    1923: [47, 63]
+    1924: [51, 64]
+    1925: [46, 64]
+    1926: [49, 65]
+    1927: [52, 68]
+    1928: [67, 88]
+    1929: [63, 89]
+    1930: [63, 92]
+    1931: [67, 96]
+    1932: [64, 98]
+    1933: [65, 101]
+    1934: [69, 101]
+    1935: [80, 101]
+    1936: [71, 101]
+    1937: [67, 102]
+    1938: [75, 105]
+    1939: [74, 106]
+    1940: [78, 106]
+    1941: [76, 106]
+    1942: [80, 110]
+    1943: [86, 112]
+    1944: [84, 111]
+    1945: [84, 111]
+    1946: [85, 111]
+    1947: [86, 111]
+    1948: [86, 111]
+    1949: [93, 111]
+    1950: [86, 111]
+    1951: [88, 111]
+    1952: [101, 120]
+lifetimeRank: {rank: 194, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 197
+    range: [196, 197]
+    asOf: 2025
+earned:
+    totalThrough: 1952
+    total: 23680
+    byYear:
+        1911: 0
+        1912: 0
+        1913: 6
+        1914: 23
+        1915: 41
+        1916: 50
+        1917: 92
+        1918: 65
+        1919: 1657
+        1920: 126
+        1921: 235
+        1922: 382
+        1923: 386
+        1924: 315
+        1925: 485
+        1926: 771
+        1927: 960
+        1928: 869
+        1929: 1026
+        1930: 1077
+        1931: 1240
+        1932: 1210
+        1933: 1207
+        1934: 908
+        1935: 822
+        1936: 773
+        1937: 1231
+        1938: 956
+        1939: 1003
+        1940: 806
+        1941: 885
+        1942: 659
+        1943: 564
+        1944: 901
+        1945: 809
+        1946: 663
+        1947: 567
+        1948: 552
+        1949: 482
+        1950: 753
+        1951: 789
+        1952: 712
+patches:
+- {type: A, years: 1911-1933, note: variations, status: missing}
+- {type: B, years: 1934-1935, note: heavyweight and dpression cloth, status: missing}
+-   type: C
+    years: 1936-1946
+    note: heavyweight and lightweight cloth
+    image: /history/blacksmithing/blacksmithing-patch-c.webp
+- {type: D, status: unknown}
+- {type: E, years: 1947-1952, image: /history/blacksmithing/blacksmithing-patch-e.webp}
+pamphlets:
+- {type: 1C, image: /history/blacksmithing/blacksmithing-1c.webp}
+- {type: '2', image: /history/blacksmithing/blacksmithing-2.webp}
+- {type: 3A over 2, image: /history/blacksmithing/blacksmithing-3a-over-2.webp}
+- {type: 3A, image: /history/blacksmithing/blacksmithing-3a.webp}
+- {type: 3B, image: /history/blacksmithing/blacksmithing-3b.webp}
+- {type: '4', image: /history/blacksmithing/blacksmithing-4.webp}
+- {type: 5A, image: /history/blacksmithing/blacksmithing-5a.webp}
+- {type: 5B, image: /history/blacksmithing/blacksmithing-5b.webp}
+trivia:
+-   q: Was the Blacksmithing badge made in every patch style of its time?
+    a: No. No Type D Blacksmithing badge is known to exist.
+-   q: Was Blacksmithing one of the original 57 merit badges?
+    a: Yes. It was in the first Official Handbook for Boys in 1911.
+-   q: What was the first thing a Scout had to do for Blacksmithing in 1911?
+    a: Upset and weld a one-inch iron rod.
+-   q: In what year did Scouts earn the most Blacksmithing merit badges?
+    a: 1919, when 1,657 were earned.
+- {q: 'How many Blacksmithing merit badges had been earned by 1952?', a: '23,680.'}
+-   q: What was Blacksmithing's best year in the rankings on record?
+    a: 1919, when it was 19th of the 59 merit badges earned that year.

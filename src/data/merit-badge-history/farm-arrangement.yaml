@@ -1,0 +1,127 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Farm Arrangement
+precededBy: Farm Home & Its Planning and Farm Layout & Building Arrangements Became Farm Arrangements
+introduced: 1960
+discontinued: '1973'
+replacedWith: Farm Arrangements
+timeline:
+-   year: 1960
+    text: 'The Farm Arrangement merit badge is introduced. The first Farm Arrangement merit badges are earned: 4,399 that year. All-time high: 4,399 Farm Arrangement merit badges earned. Best ranking: 57th
+        of 100 merit badges.'
+- {year: 1961, text: The earliest known Farm Arrangement pamphlet printing (Type 6).}
+-   year: 1973
+    text: Last year the Farm Arrangement merit badge is offered; it is replaced by Farm Arrangements.
+ranks:
+    1960: [57, 100]
+    1961: [67, 101]
+    1962: [71, 101]
+    1963: [77, 102]
+    1964: [85, 107]
+    1965: [86, 109]
+    1966: [95, 110]
+    1967: [98, 112]
+    1968: [94, 112]
+    1969: [100, 113]
+    1970: [88, 113]
+    1971: [93, 113]
+    1972: [119, 124]
+    1973: [113, 122]
+    1974: [89, 121]
+    1975: [92, 128]
+    1976: [108, 130]
+    1977: [95, 130]
+    1978: [93, 131]
+    1979: [95, 132]
+    1980: [120, 132]
+    1981: [120, 134]
+lifetimeRank: {rank: 178, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 183
+    range: [183, 183]
+    asOf: 2025
+earned:
+    totalThrough: 1981
+    total: 42174
+    byYear:
+        1960: 4399
+        1961: 3047
+        1962: 2375
+        1963: 1948
+        1964: 1725
+        1965: 1594
+        1966: 1374
+        1967: 1413
+        1968: 1426
+        1969: 1461
+        1970: 1781
+        1971: 1504
+        1972: 624
+        1973: 682
+        1974: 3829
+        1975: 3656
+        1976: 2158
+        1977: 2801
+        1978: 2470
+        1979: 1712
+        1980: 59
+        1981: 136
+patches:
+- {type: E, years: '1960', image: /history/farm-arrangement/farm-arrangement-patch-e.webp}
+- {type: F, years: 1961-1968, status: missing}
+-   type: G
+    years: 1961-1971
+    note: variation G1
+    image: /history/farm-arrangement/farm-arrangement-patch-g1.webp
+-   type: G
+    years: 1961-1971
+    note: variation G2
+    image: /history/farm-arrangement/farm-arrangement-patch-g2.webp
+-   type: H
+    years: 1972-1973
+    image: /history/farm-arrangement/farm-arrangement-patch-h.webp
+    more:
+    - {image: /history/farm-arrangement/farm-arrangement-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/farm-arrangement/farm-arrangement-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    -   image: /history/farm-arrangement/farm-arrangement-patch-h1-1-front.webp
+        label: H variation H1-1, front
+    -   image: /history/farm-arrangement/farm-arrangement-patch-h1-1-reverse.webp
+        label: H variation H1-1, back
+    -   image: /history/farm-arrangement/farm-arrangement-patch-h1-mve-front.webp
+        label: H variation H1-MVE, front
+    -   image: /history/farm-arrangement/farm-arrangement-patch-h1-mve-reverse.webp
+        label: H variation H1-MVE, back
+    -   image: /history/farm-arrangement/farm-arrangement-patch-h2-1-front.webp
+        label: H variation H2-1, front
+    -   image: /history/farm-arrangement/farm-arrangement-patch-h2-1-reverse.webp
+        label: H variation H2-1, back
+    -   image: /history/farm-arrangement/farm-arrangement-patch-h2-1-front.webp
+        label: H variation H2-1, front
+    -   image: /history/farm-arrangement/farm-arrangement-patch-h2-1-reverse.webp
+        label: H variation H2-1, back
+    - {image: /history/farm-arrangement/farm-arrangement-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/farm-arrangement/farm-arrangement-patch-h3-reverse.webp, label: 'H variation H3, back'}
+pamphlets:
+- {type: '6', image: /history/farm-arrangement/farm-arrangements-6.webp}
+- {type: '7', image: /history/farm-arrangement/farm-arrangements-7.webp}
+- {type: '8', image: /history/farm-arrangement/farm-arrangements-8.webp}
+hardcovers:
+- {type: HCJ, image: /history/farm-arrangement/farm-arrangement-hcj.webp}
+- {type: HCK, image: /history/farm-arrangement/farm-arrangement-hck.webp}
+- {type: HCL, image: /history/farm-arrangement/farm-arrangement-hcl.webp}
+- {type: HCM, image: /history/farm-arrangement/farm-arrangement-hcm.webp}
+- {type: HCP, image: /history/farm-arrangement/farm-arrangement-hcp.webp}
+- {type: HCS, image: /history/farm-arrangement/farm-arrangement-hcs.webp}
+- {type: HCT, image: /history/farm-arrangement/farm-arrangement-hct.webp}
+trivia:
+-   q: In what year did Scouts earn the most Farm Arrangement merit badges?
+    a: 1960, when 4,399 were earned.
+- {q: 'How many Farm Arrangement merit badges had been earned by 1981?', a: '42,174.'}
+-   q: What was Farm Arrangement's best year in the rankings on record?
+    a: 1960, when it was 57th of the 100 merit badges earned that year.
+-   q: What came before the Farm Arrangement merit badge?
+    a: Farm Home & Its Planning and Farm Layout & Building Arrangements Became Farm Arrangements.
+- {q: 'What replaced Farm Arrangement after 1973?', a: Farm Arrangements.}
+- {q: 'When was the earliest known Farm Arrangement pamphlet printed?', a: January 1961.}

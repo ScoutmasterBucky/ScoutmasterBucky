@@ -1,0 +1,207 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Electronics
+precededBy: None
+introduced: 1963
+discontinued: Current
+replacedWith: Current
+timeline:
+- {year: 1963, text: The Electronics merit badge is introduced.}
+- {year: 1964, text: 'First known count: 882 Electronics merit badges earned.'}
+- {year: 1965, text: The earliest known Electronics pamphlet printing (Type 6A-1).}
+- {year: 2013, text: 'Best ranking: 45th of 129 merit badges.'}
+- {year: 2014, text: 'All-time high: 8,860 Electronics merit badges earned.'}
+ranks:
+    1964: [97, 107]
+    1965: [90, 109]
+    1966: [75, 110]
+    1967: [71, 112]
+    1968: [66, 112]
+    1969: [60, 113]
+    1970: [61, 113]
+    1971: [64, 113]
+    1972: [80, 124]
+    1973: [58, 122]
+    1974: [70, 121]
+    1975: [76, 128]
+    1976: [76, 130]
+    1977: [72, 130]
+    1978: [79, 131]
+    1979: [75, 132]
+    1980: [81, 132]
+    1981: [74, 134]
+    1993: [82, 123]
+    1996: [82, 134]
+    2000: [79, 128]
+    2001: [78, 129]
+    2002: [73, 129]
+    2003: [102, 130]
+    2004: [67, 121]
+    2005: [65, 121]
+    2006: [68, 121]
+    2007: [70, 121]
+    2008: [65, 121]
+    2009: [68, 122]
+    2010: [64, 125]
+    2011: [61, 129]
+    2012: [58, 132]
+    2013: [45, 129]
+    2014: [63, 136]
+    2015: [64, 138]
+    2016: [65, 138]
+    2017: [64, 139]
+    2018: [64, 139]
+    2019: [65, 139]
+    2020: [85, 137]
+    2021: [80, 137]
+    2022: [65, 138]
+    2023: [64, 138]
+    2024: [68, 138]
+    2025: [75, 141]
+lifetimeRank: {rank: 94, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 92
+    range: [92, 92]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 259193
+    byYear:
+        1963: null
+        1964: 882
+        1965: 1474
+        1966: 2219
+        1967: 2936
+        1968: 3358
+        1969: 4761
+        1970: 4293
+        1971: 3931
+        1972: 3487
+        1973: 7755
+        1974: 6293
+        1975: 6046
+        1976: 5445
+        1977: 5135
+        1978: 3842
+        1979: 3277
+        1980: 1788
+        1981: 3040
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 2988
+        1994: null
+        1995: null
+        1996: 3103
+        1997: null
+        1998: null
+        1999: null
+        2000: 4265
+        2001: 4824
+        2002: 5204
+        2003: 2470
+        2004: 6043
+        2005: 6219
+        2006: 5596
+        2007: 5680
+        2008: 6361
+        2009: 7112
+        2010: 7452
+        2011: 7186
+        2012: 8060
+        2013: 8753
+        2014: 8860
+        2015: 8352
+        2016: 7814
+        2017: 7524
+        2018: 7731
+        2019: 7204
+        2020: 4063
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: F, years: 1963-1968, status: missing}
+- {type: G, years: 1963-1971, image: /history/electronics/electronics-patch-g.webp}
+-   type: H
+    years: 1972-2002
+    image: /history/electronics/electronics-patch-h.webp
+    more:
+    - {image: /history/electronics/electronics-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/electronics/electronics-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/electronics/electronics-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/electronics/electronics-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/electronics/electronics-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/electronics/electronics-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/electronics/electronics-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/electronics/electronics-patch-h5-reverse.webp, label: 'H variation H5, back'}
+-   type: I
+    years: 1993-1995
+    note: variation I38
+    image: /history/electronics/electronics-patch-i38.webp
+    more:
+    - {image: /history/electronics/electronics-patch-ia-front.webp, label: IA front}
+    - {image: /history/electronics/electronics-patch-ia-reverse.webp, label: IA back}
+    - {image: /history/electronics/electronics-patch-ib-front.webp, label: IB front}
+    - {image: /history/electronics/electronics-patch-ib-reverse.webp, label: IB back}
+-   type: I
+    years: 1993-1995
+    note: variation I42
+    image: /history/electronics/electronics-patch-i42.webp
+- {type: J, years: 2002-2009, image: /history/electronics/electronics-patch-j.webp}
+-   type: K
+    years: 2010-2014
+    image: /history/electronics/electronics-patch-k.webp
+    more:
+    - {image: /history/electronics/electronics-patch-k-front.webp, label: K front}
+    - {image: /history/electronics/electronics-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    image: /history/electronics/electronics-patch-l.webp
+    more:
+    - {image: /history/electronics/electronics-patch-l-front.webp, label: L front}
+    - {image: /history/electronics/electronics-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 6A-1, image: /history/electronics/electronics-6a-1.webp}
+- {type: 6A-2, image: /history/electronics/electronics-6a-2.webp}
+- {type: '7', image: /history/electronics/electronics-7.webp}
+- {type: 8A-1, image: /history/electronics/electronics-8a-1.webp}
+- {type: 8A-2, image: /history/electronics/electronics-8a-2.webp}
+- {type: 8B, image: /history/electronics/electronics-8b.webp}
+- {type: 9A, image: /history/electronics/electronics-9a.webp}
+- {type: 9B-1, image: /history/electronics/electronics-9b-1.webp}
+- {type: 9B-2, image: /history/electronics/electronics-9b-2.webp}
+- {type: 9C-1, image: /history/electronics/electronics-9c-1.webp}
+- {type: 9C-2, image: /history/electronics/electronics-9c-2.webp}
+- {type: 10A, image: /history/electronics/electronics-10a.webp}
+- {type: 10B, image: /history/electronics/electronics-10b.webp}
+- {type: 10C-1A, image: /history/electronics/electronics-10c-1a.webp}
+- {type: 10C-1B, image: /history/electronics/electronics-10c-1b.webp}
+- {type: 10D-1, image: /history/electronics/electronics-10d-1.webp}
+- {type: 10D-2, image: /history/electronics/electronics-10d-2.webp}
+hardcovers:
+- {type: HCK, image: /history/electronics/electronics-hck.webp}
+- {type: HCL, image: /history/electronics/electronics-hcl.webp}
+- {type: HCM, image: /history/electronics/electronics-hcm.webp}
+- {type: HCP, image: /history/electronics/electronics-hcp.webp}
+- {type: HCT, image: /history/electronics/electronics-hct.webp}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Electronics merit badges?
+    a: 2014, when 8,860 were earned.
+- {q: 'How many Electronics merit badges had been earned by 2020?', a: '259,193.'}
+-   q: What was Electronics' best year in the rankings on record?
+    a: 2013, when it was 45th of the 129 merit badges earned that year.
+- {q: 'When was the earliest known Electronics pamphlet printed?', a: February 1965.}

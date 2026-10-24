@@ -1,7 +1,9 @@
 ---
 import type { MarkdownLayoutProps } from 'astro';
 import DefaultLayout from './default-layout.astro';
+import MeritBadgeHistory from '~/components/merit-badge-history.astro';
 import { getEntry } from 'astro:content';
+import { allBadgeHistories } from '~/utils/merit-badge-history';
 
 interface Props {
     badge: string;
@@ -9,9 +11,35 @@ interface Props {
 
 const { badge } = Astro.props.frontmatter || Astro.props
 const info = (await getEntry('historicalMeritBadges', badge))?.data;
+// The merit badge history data; the page shows its approved sections
+const found = allBadgeHistories().find(b => b.slug === badge);
 ---
 <DefaultLayout title={`${ info.name } Merit Badge History`}>
+    <nav class="crumbs" aria-label="Breadcrumb">
+        <a href="/history/">Merit Badge History</a> › { info.name }
+    </nav>
     <h1>{ info.name } Merit Badge History</h1>
 
-    <slot />
+    {found ? (
+        <MeritBadgeHistory badge={badge} history={found.history} printings={found.printings} notMadeYears={found.notMadeYears} />
+    ) : (
+        <slot />
+    )}
 </DefaultLayout>
+
+<style>
+    .crumbs {
+        font-size: 0.85em;
+        margin-bottom: 0.3em;
+    }
+
+    .crumbs a {
+        color: var(--palette-dark);
+        font-weight: bold;
+        text-decoration: none;
+    }
+
+    .crumbs a:hover {
+        color: var(--palette-light);
+    }
+</style>

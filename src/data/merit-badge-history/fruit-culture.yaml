@@ -1,0 +1,98 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Fruit Culture
+precededBy: None
+introduced: 1928
+discontinued: '1954'
+replacedWith: None
+timeline:
+-   year: 1928
+    text: 'The Fruit Culture merit badge is introduced. The first Fruit Culture merit badges are earned: 68 that year.'
+- {year: 1929, text: The earliest known Fruit Culture pamphlet printing (Type 3B).}
+-   year: 1934
+    text: 'All-time high: 861 Fruit Culture merit badges earned. Best ranking: 72nd of 101 merit badges.'
+- {year: 1954, text: Last year the Fruit Culture merit badge is offered.}
+ranks:
+    1928: [86, 88]
+    1929: [84, 89]
+    1930: [81, 92]
+    1931: [77, 96]
+    1932: [81, 98]
+    1933: [85, 101]
+    1934: [72, 101]
+    1935: [92, 101]
+    1936: [90, 101]
+    1937: [78, 102]
+    1938: [95, 105]
+    1939: [91, 106]
+    1940: [93, 106]
+    1941: [96, 106]
+    1942: [96, 110]
+    1943: [93, 112]
+    1944: [94, 111]
+    1945: [96, 111]
+    1946: [100, 111]
+    1947: [99, 111]
+    1948: [98, 111]
+    1949: [101, 111]
+    1950: [95, 111]
+    1951: [104, 111]
+    1952: [111, 120]
+    1953: [96, 105]
+    1954: [99, 103]
+lifetimeRank: {rank: 208, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 211
+    range: [210, 211]
+    asOf: 2025
+earned:
+    totalThrough: 1954
+    total: 11877
+    byYear:
+        1928: 68
+        1929: 228
+        1930: 376
+        1931: 732
+        1932: 513
+        1933: 500
+        1934: 861
+        1935: 355
+        1936: 344
+        1937: 804
+        1938: 382
+        1939: 485
+        1940: 447
+        1941: 381
+        1942: 305
+        1943: 411
+        1944: 489
+        1945: 500
+        1946: 397
+        1947: 359
+        1948: 323
+        1949: 367
+        1950: 526
+        1951: 458
+        1952: 458
+        1953: 426
+        1954: 382
+patches:
+- {type: A, years: 1928-1933, image: /history/fruit-culture/fruit-culture-patch-a.webp}
+- {type: B, years: 1934-1935, status: missing}
+- {type: C, years: 1936-1942, image: /history/fruit-culture/fruit-culture-patch-c.webp}
+- {type: D, years: 1942-1946, image: /history/fruit-culture/fruit-culture-patch-d.webp}
+- {type: E, years: 1947-1954, image: /history/fruit-culture/fruit-culture-patch-e.webp}
+pamphlets:
+- {type: 3B, image: /history/fruit-culture/fruit-culture-3b.webp}
+- {type: 5B, image: /history/fruit-culture/fruit-culture-5b.webp}
+hardcovers:
+- {type: HCE, image: /history/fruit-culture/fruit-culture-hce.webp}
+trivia:
+-   q: In what year did Scouts earn the most Fruit Culture merit badges?
+    a: 1934, when 861 were earned.
+- {q: 'How many Fruit Culture merit badges had been earned by 1954?', a: '11,877.'}
+-   q: What was Fruit Culture's best year in the rankings on record?
+    a: 1934, when it was 72nd of the 101 merit badges earned that year.
+- {q: 'When was the earliest known Fruit Culture pamphlet printed?', a: November 1929.}

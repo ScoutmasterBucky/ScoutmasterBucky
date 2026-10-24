@@ -1,0 +1,51 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Ornithology
+precededBy: Original badge
+introduced: 1911
+discontinued: '1913'
+replacedWith: Bird Study
+thenAndNow:
+    year: 1911
+    source: The Official Handbook for Boys (1911)
+    requirements:
+    - Have a list of one hundred different kinds of birds personally observed on exploration in the field.
+    - Have identified beyond question, by appearance or by note, forty-five different kinds of birds in one day.
+    - Have made a good clear photograph of some wild bird, the bird image to be over one half inch in length on the negative.
+    - Have secured at least two tenants in bird boxes erected by himself.
+    - Have daily notes on the nesting of a pair of wild birds from the time the first egg is laid until the young have left the nest.
+    - Have attracted at least three kinds of birds, exclusive of the English sparrow, to a "lunch counter" which he has supplied.
+timeline:
+-   year: 1911
+    text: The Ornithology merit badge is introduced. It is one of the original 57 merit badges.
+-   year: 1912
+    text: 'The first Ornithology merit badges are earned: 2 that year. Best ranking: 47th of 51 merit badges.'
+-   year: 1913
+    text: 'All-time high: 4 Ornithology merit badges earned. Last year the Ornithology merit badge is offered; it is replaced by Bird Study.'
+ranks:
+    1912: [47, 51]
+    1913: [53, 56]
+lifetimeRank: {rank: 226, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 231
+    range: [231, 231]
+    asOf: 2025
+earned:
+    totalThrough: 1913
+    total: 6
+    byYear: {1911: 0, 1912: 2, 1913: 4}
+patches:
+- {type: A, years: 1911-1913, image: /history/ornithology/ornithology-patch-a.webp}
+pamphlets: []
+trivia:
+-   q: Was Ornithology one of the original 57 merit badges?
+    a: Yes. It was in the first Official Handbook for Boys in 1911.
+-   q: What was the first thing a Scout had to do for Ornithology in 1911?
+    a: Have a list of one hundred different kinds of birds personally observed on exploration in the field.
+- {q: 'In what year did Scouts earn the most Ornithology merit badges?', a: '1913, when 4 were earned.'}
+- {q: 'How many Ornithology merit badges had been earned by 1913?', a: '6.'}
+-   q: What was Ornithology's best year in the rankings on record?
+    a: 1912, when it was 47th of the 51 merit badges earned that year.
+- {q: 'What replaced Ornithology after 1913?', a: Bird Study.}

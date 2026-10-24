@@ -1,0 +1,17 @@
+---
+// DRAFT hub: every draft history page, with every section showing
+import DefaultLayout from '~/layouts/default-layout.astro';
+import MeritBadgeHistoryHub from '~/components/merit-badge-history-hub.astro';
+---
+
+<DefaultLayout title="Merit Badge History (draft)">
+    <h1>Merit Badge History (draft)</h1>
+
+    <p>
+        Every draft history page with all of its sections. The public pages at
+        <a href="/history/">/history/</a> show the earned counts and rankings for
+        every badge, plus the sections approved in approved.yaml.
+    </p>
+
+    <MeritBadgeHistoryHub draft />
+</DefaultLayout>

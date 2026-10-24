@@ -1,0 +1,100 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Rifle and Shotgun Shooting
+precededBy: Marksmanship Became Rifle Shooting and Shotgun Shooting
+introduced: 1967
+discontinued: '1987'
+replacedWith: Rifle Shooting and Shotgun Shooting
+timeline:
+-   year: 1967
+    text: 'The Rifle and Shotgun Shooting merit badge is introduced. The first Rifle and Shotgun Shooting merit badges are earned: 19,411 that year. The earliest known Rifle and Shotgun Shooting pamphlet
+        printing (Type 7).'
+- {year: 1970, text: 'Best ranking: 24th of 113 merit badges.'}
+- {year: 1975, text: 'All-time high: 28,760 Rifle and Shotgun Shooting merit badges earned.'}
+-   year: 1987
+    text: Last year the Rifle and Shotgun Shooting merit badge is offered; it is replaced by Rifle Shooting and Shotgun Shooting.
+ranks:
+    1967: [26, 112]
+    1968: [26, 112]
+    1969: [26, 113]
+    1970: [24, 113]
+    1971: [24, 113]
+    1972: [24, 124]
+    1973: [25, 122]
+    1974: [30, 121]
+    1975: [30, 128]
+    1976: [31, 130]
+    1977: [28, 130]
+    1978: [26, 131]
+    1979: [27, 132]
+    1980: [25, 132]
+    1981: [28, 134]
+lifetimeRank: {rank: 85, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 88
+    range: [88, 88]
+    asOf: 2025
+earned:
+    totalThrough: 1981
+    total: 320041
+    byYear:
+        1967: 19411
+        1968: 19494
+        1969: 18525
+        1970: 20070
+        1971: 19631
+        1972: 19379
+        1973: 21107
+        1974: 28202
+        1975: 28760
+        1976: 25426
+        1977: 23732
+        1978: 22206
+        1979: 19368
+        1980: 14787
+        1981: 19943
+patches:
+- {type: F, years: 1967-1968, status: missing}
+-   type: G
+    years: 1967-1971
+    image: /history/rifle-and-shotgun-shooting/rifle-and-shotgun-shooting-patch-g.webp
+-   type: H
+    years: 1972-1987
+    image: /history/rifle-and-shotgun-shooting/rifle-and-shotgun-shooting-patch-h.webp
+    more:
+    -   image: /history/rifle-and-shotgun-shooting/rifle-and-shotgun-shooting-patch-h1-front.webp
+        label: H variation H1, front
+    -   image: /history/rifle-and-shotgun-shooting/rifle-and-shotgun-shooting-patch-h1-reverse.webp
+        label: H variation H1, back
+    -   image: /history/rifle-and-shotgun-shooting/rifle-and-shotgun-shooting-patch-h2-1-front.webp
+        label: H variation H2-1, front
+    -   image: /history/rifle-and-shotgun-shooting/rifle-and-shotgun-shooting-patch-h2-1-reverse.webp
+        label: H variation H2-1, back
+    -   image: /history/rifle-and-shotgun-shooting/rifle-and-shotgun-shooting-patch-h3-front.webp
+        label: H variation H3, front
+    -   image: /history/rifle-and-shotgun-shooting/rifle-and-shotgun-shooting-patch-h3-reverse.webp
+        label: H variation H3, back
+    -   image: /history/rifle-and-shotgun-shooting/rifle-and-shotgun-shooting-patch-h5-front.webp
+        label: H variation H5, front
+    -   image: /history/rifle-and-shotgun-shooting/rifle-and-shotgun-shooting-patch-h5-reverse.webp
+        label: H variation H5, back
+pamphlets:
+- {type: '7', status: missing}
+- {type: '8', status: missing}
+- {type: '9', status: missing}
+hardcovers:
+- {type: HCL, image: /history/rifle-and-shotgun-shooting/rifle-and-shotgun-shooting-hcl.webp}
+- {type: HCM, image: /history/rifle-and-shotgun-shooting/rifle-and-shotgun-shooting-hcm.webp}
+- {type: HCT, image: /history/rifle-and-shotgun-shooting/rifle-and-shotgun-shooting-hct.webp}
+trivia:
+-   q: In what year did Scouts earn the most Rifle and Shotgun Shooting merit badges?
+    a: 1975, when 28,760 were earned.
+- {q: 'How many Rifle and Shotgun Shooting merit badges had been earned by 1981?', a: '320,041.'}
+-   q: What was Rifle and Shotgun Shooting's best year in the rankings on record?
+    a: 1970, when it was 24th of the 113 merit badges earned that year.
+-   q: What came before the Rifle and Shotgun Shooting merit badge?
+    a: Marksmanship Became Rifle Shooting and Shotgun Shooting.
+- {q: 'What replaced Rifle and Shotgun Shooting after 1987?', a: Rifle Shooting and Shotgun Shooting.}
+- {q: 'When was the earliest known Rifle and Shotgun Shooting pamphlet printed?', a: April 1967.}

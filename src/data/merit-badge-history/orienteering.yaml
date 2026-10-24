@@ -1,0 +1,166 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Orienteering
+precededBy: None
+introduced: 1973
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1973
+    text: 'The Orienteering merit badge is introduced. The first Orienteering merit badges are earned: 36 that year.'
+- {year: 1974, text: The earliest known Orienteering pamphlet printing (Type 8A).}
+- {year: 1996, text: 'All-time high: 26,192 Orienteering merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 26th of 129 merit badges.'}
+ranks:
+    1973: [122, 122]
+    1974: [81, 121]
+    1975: [52, 128]
+    1976: [44, 130]
+    1977: [40, 130]
+    1978: [37, 131]
+    1979: [33, 132]
+    1980: [32, 132]
+    1981: [32, 134]
+    1993: [74, 123]
+    1996: [29, 134]
+    2000: [29, 128]
+    2001: [30, 129]
+    2002: [29, 129]
+    2003: [29, 130]
+    2004: [31, 121]
+    2005: [31, 121]
+    2006: [31, 121]
+    2007: [31, 121]
+    2008: [32, 121]
+    2009: [33, 122]
+    2010: [34, 125]
+    2011: [29, 129]
+    2012: [31, 132]
+    2013: [26, 129]
+    2014: [36, 136]
+    2015: [36, 138]
+    2016: [40, 138]
+    2017: [45, 139]
+    2018: [42, 139]
+    2019: [44, 139]
+    2020: [67, 137]
+    2021: [45, 137]
+    2022: [50, 138]
+    2023: [52, 138]
+    2024: [56, 138]
+    2025: [62, 141]
+lifetimeRank: {rank: 45, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 45
+    range: [45, 45]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 888402
+    byYear:
+        1973: 36
+        1974: 4640
+        1975: 13145
+        1976: 15588
+        1977: 15197
+        1978: 15180
+        1979: 14659
+        1980: 9874
+        1981: 15518
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 3879
+        1994: null
+        1995: null
+        1996: 26192
+        1997: null
+        1998: null
+        1999: null
+        2000: 25571
+        2001: 22430
+        2002: 24077
+        2003: 24966
+        2004: 23162
+        2005: 21395
+        2006: 20267
+        2007: 19803
+        2008: 20035
+        2009: 20723
+        2010: 18328
+        2011: 20221
+        2012: 18989
+        2013: 16909
+        2014: 16871
+        2015: 15642
+        2016: 13753
+        2017: 11742
+        2018: 12538
+        2019: 12249
+        2020: 5337
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1973-2002
+    image: /history/orienteering/orienteering-patch-h.webp
+    more:
+    - {image: /history/orienteering/orienteering-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/orienteering/orienteering-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/orienteering/orienteering-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/orienteering/orienteering-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/orienteering/orienteering-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/orienteering/orienteering-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, years: 1993-1995, status: unknown}
+-   type: J
+    years: 2002-2009
+    image: /history/orienteering/orienteering-patch-j.webp
+    more:
+    - {image: /history/orienteering/orienteering-patch-j1-front.webp, label: J1 front}
+    - {image: /history/orienteering/orienteering-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    image: /history/orienteering/orienteering-patch-k.webp
+    more:
+    - {image: /history/orienteering/orienteering-patch-k-front.webp, label: K front}
+    - {image: /history/orienteering/orienteering-patch-k-reverse.webp, label: K back}
+- {type: L, years: 2015-2025, image: /history/orienteering/orienteering-patch-l.webp}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '8', status: missing}
+- {type: 8A, status: missing}
+- {type: 8B, status: missing}
+- {type: '9', status: missing}
+- {type: 9A, status: missing}
+- {type: 9B, status: missing}
+- {type: 9C-1, status: missing}
+- {type: 9C-2, status: missing}
+- {type: 10A, status: missing}
+- {type: 10B, status: missing}
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+- {type: 11A, status: missing}
+hardcovers:
+- {type: HCT, image: /history/orienteering/orienteering-hct.webp}
+trivia:
+-   q: Was the Orienteering badge made in every patch style of its time?
+    a: No. No Type I Orienteering badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Orienteering merit badges?
+    a: 1996, when 26,192 were earned.
+- {q: 'How many Orienteering merit badges had been earned by 2020?', a: '888,402.'}
+-   q: What was Orienteering's best year in the rankings on record?
+    a: 2013, when it was 26th of the 129 merit badges earned that year.
+- {q: 'When was the earliest known Orienteering pamphlet printed?', a: April 1974.}

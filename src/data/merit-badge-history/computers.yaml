@@ -1,0 +1,182 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Computers
+precededBy: None
+introduced: 1967
+discontinued: '2014'
+replacedWith: Digital Technology
+timeline:
+-   year: 1967
+    text: 'The Computers merit badge is introduced. The first Computers merit badges are earned: 17 that year.'
+- {year: 1968, text: The earliest known Computers pamphlet printing (Type 7).}
+- {year: 2002, text: 'All-time high: 19,109 Computers merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 28th of 129 merit badges.'}
+-   year: 2014
+    text: Last year the Computers merit badge is offered; it is replaced by Digital Technology.
+ranks:
+    1967: [112, 112]
+    1968: [102, 112]
+    1969: [83, 113]
+    1970: [82, 113]
+    1971: [85, 113]
+    1972: [98, 124]
+    1973: [81, 122]
+    1974: [73, 121]
+    1975: [71, 128]
+    1976: [80, 130]
+    1977: [78, 130]
+    1978: [76, 131]
+    1979: [68, 132]
+    1980: [69, 132]
+    1981: [60, 134]
+    1993: [43, 123]
+    1996: [41, 134]
+    2000: [36, 128]
+    2001: [32, 129]
+    2002: [37, 129]
+    2003: [40, 130]
+    2004: [42, 121]
+    2005: [39, 121]
+    2006: [40, 121]
+    2007: [41, 121]
+    2008: [43, 121]
+    2009: [44, 122]
+    2010: [44, 125]
+    2011: [43, 129]
+    2012: [40, 132]
+    2013: [28, 129]
+    2014: [45, 136]
+    2015: [127, 138]
+    2016: [138, 138]
+    2017: [139, 139]
+    2018: [138, 139]
+    2019: [138, 139]
+lifetimeRank: {rank: 69, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 70
+    range: [70, 70]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 521329
+    byYear:
+        1967: 17
+        1968: 940
+        1969: 2389
+        1970: 2496
+        1971: 1957
+        1972: 2063
+        1973: 3600
+        1974: 6139
+        1975: 6797
+        1976: 5072
+        1977: 4299
+        1978: 4312
+        1979: 3765
+        1980: 2694
+        1981: 5192
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 12744
+        1994: null
+        1995: null
+        1996: 14489
+        1997: null
+        1998: null
+        1999: null
+        2000: 17461
+        2001: 18421
+        2002: 19109
+        2003: 16717
+        2004: 15751
+        2005: 14647
+        2006: 14215
+        2007: 13702
+        2008: 14278
+        2009: 15166
+        2010: 14474
+        2011: 14712
+        2012: 14474
+        2013: 15149
+        2014: 12973
+        2015: 1686
+        2016: 354
+        2017: 207
+        2018: 202
+        2019: 72
+        2020: 0
+patches:
+- {type: F, years: 1967-1968, status: missing}
+-   type: G
+    years: 1967-1971
+    note: cloth back
+    image: /history/computers/computers-patch-g.webp
+-   type: H
+    years: 1972-1984
+    note: blue, clear, and molded
+    image: /history/computers/computers-patch-h1.webp
+    more:
+    - {image: /history/computers/computers-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/computers/computers-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/computers/computers-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/computers/computers-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/computers/computers-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/computers/computers-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/computers/computers-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/computers/computers-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: H, years: 1984-2002, note: molded, image: /history/computers/computers-patch-h2.webp}
+- {type: I, status: none}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/computers/computers-patch-j.webp
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/computers/computers-patch-k.webp
+    more:
+    - {image: /history/computers/computers-patch-k-1-front.webp, label: K-1 front}
+    - {image: /history/computers/computers-patch-k-1-reverse.webp, label: K-1 back}
+    - {image: /history/computers/computers-patch-k-mve-front.webp, label: K-MVE front}
+    - {image: /history/computers/computers-patch-k-mve-reverse.webp, label: K-MVE back}
+-   type: L
+    years: '2015'
+    note: Since 1910 back
+    image: /history/computers/computers-patch-l.webp
+pamphlets:
+- {type: '7', image: /history/computers/computers-7.webp}
+- {type: '8', image: /history/computers/computers-8.webp}
+- {type: 9A, image: /history/computers/computers-9a.webp}
+- {type: 9B, image: /history/computers/computers-9b.webp}
+- {type: 9C-1, image: /history/computers/computers-9c-1.webp}
+- {type: 9C-2, image: /history/computers/computers-9c-2.webp}
+- {type: 9D, image: /history/computers/computers-9d.webp}
+- {type: 10A, image: /history/computers/computers-10a.webp}
+- {type: 10B, image: /history/computers/computers-10b.webp}
+- {type: 10C-1, image: /history/computers/computers-10c-1.webp}
+- {type: 10C-2, image: /history/computers/computers-10c-2.webp}
+hardcovers:
+- {type: HCL, image: /history/computers/computers-hcl.webp}
+- {type: HCM, image: /history/computers/computers-hcm.webp}
+- {type: HCS, image: /history/computers/computers-hcs.webp}
+trivia:
+-   q: Was the Computers badge made in every patch style of its time?
+    a: No. No Type I Computers badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Computers merit badges?
+    a: 2002, when 19,109 were earned.
+- {q: 'How many Computers merit badges had been earned by 2020?', a: '521,329.'}
+-   q: What was Computers' best year in the rankings on record?
+    a: 2013, when it was 28th of the 129 merit badges earned that year.
+- {q: 'What replaced Computers after 2014?', a: Digital Technology.}
+- {q: 'When was the earliest known Computers pamphlet printed?', a: June 1968.}

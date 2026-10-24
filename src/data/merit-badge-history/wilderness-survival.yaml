@@ -1,0 +1,179 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Wilderness Survival
+precededBy: previous
+introduced: 1974
+discontinued: Current
+replacedWith: Current
+timeline:
+- {year: 1973, text: 'The first Wilderness Survival merit badges are earned: 51 that year.'}
+-   year: 1974
+    text: The Wilderness Survival merit badge is introduced. The earliest known Wilderness Survival pamphlet printing (Type 8A-1).
+- {year: 2006, text: 'All-time high: 46,912 Wilderness Survival merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 11th of 129 merit badges.'}
+ranks:
+    1973: [121, 122]
+    1974: [50, 121]
+    1975: [32, 128]
+    1976: [24, 130]
+    1977: [22, 130]
+    1978: [20, 131]
+    1979: [20, 132]
+    1980: [18, 132]
+    1981: [17, 134]
+    1993: [15, 123]
+    1996: [15, 134]
+    2000: [18, 128]
+    2001: [21, 129]
+    2002: [20, 129]
+    2003: [20, 130]
+    2004: [19, 121]
+    2005: [19, 121]
+    2006: [16, 121]
+    2007: [18, 121]
+    2008: [17, 121]
+    2009: [18, 122]
+    2010: [18, 125]
+    2011: [14, 129]
+    2012: [14, 132]
+    2013: [11, 129]
+    2014: [18, 136]
+    2015: [18, 138]
+    2016: [18, 138]
+    2017: [19, 139]
+    2018: [20, 139]
+    2019: [21, 139]
+    2020: [19, 137]
+    2021: [22, 137]
+    2022: [22, 138]
+    2023: [24, 138]
+    2024: [24, 138]
+    2025: [24, 141]
+lifetimeRank: {rank: 24, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 25
+    range: [25, 25]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 1805803
+    byYear:
+        1973: 51
+        1974: 14208
+        1975: 27391
+        1976: 33014
+        1977: 33669
+        1978: 32639
+        1979: 29329
+        1980: 21070
+        1981: 33112
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 46405
+        1994: null
+        1995: null
+        1996: 46843
+        1997: null
+        1998: null
+        1999: null
+        2000: 44112
+        2001: 38866
+        2002: 43539
+        2003: 41959
+        2004: 41401
+        2005: 38512
+        2006: 46912
+        2007: 40496
+        2008: 41679
+        2009: 44632
+        2010: 41627
+        2011: 46757
+        2012: 46829
+        2013: 43158
+        2014: 40395
+        2015: 37581
+        2016: 35221
+        2017: 30814
+        2018: 29392
+        2019: 25863
+        2020: 11604
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1974-2002
+    note: molded
+    image: /history/wilderness-survival/wilderness-survival-patch-h.webp
+    more:
+    -   image: /history/wilderness-survival/wilderness-survival-patch-h1-front.webp
+        label: H variation H1, front
+    -   image: /history/wilderness-survival/wilderness-survival-patch-h1-reverse.webp
+        label: H variation H1, back
+    -   image: /history/wilderness-survival/wilderness-survival-patch-h2-1-front.webp
+        label: H variation H2-1, front
+    -   image: /history/wilderness-survival/wilderness-survival-patch-h2-1-reverse.webp
+        label: H variation H2-1, back
+    -   image: /history/wilderness-survival/wilderness-survival-patch-h3-front.webp
+        label: H variation H3, front
+    -   image: /history/wilderness-survival/wilderness-survival-patch-h3-reverse.webp
+        label: H variation H3, back
+    -   image: /history/wilderness-survival/wilderness-survival-patch-h5-front.webp
+        label: H variation H5, front
+    -   image: /history/wilderness-survival/wilderness-survival-patch-h5-reverse.webp
+        label: H variation H5, back
+- {type: I, status: notMade}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/wilderness-survival/wilderness-survival-patch-j.webp
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/wilderness-survival/wilderness-survival-patch-k.webp
+    more:
+    - {image: /history/wilderness-survival/wilderness-survival-patch-k-front.webp, label: K front}
+    - {image: /history/wilderness-survival/wilderness-survival-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/wilderness-survival/wilderness-survival-patch-l.webp
+    more:
+    - {image: /history/wilderness-survival/wilderness-survival-patch-l-front.webp, label: L front}
+    - {image: /history/wilderness-survival/wilderness-survival-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 8A-1, image: /history/wilderness-survival/wilderness-survival-8a-1.webp}
+- {type: 8A-2, image: /history/wilderness-survival/wilderness-survival-8a-2.webp}
+- {type: 9A-1, image: /history/wilderness-survival/wilderness-survival-9a-1.webp}
+- {type: 9A-2, image: /history/wilderness-survival/wilderness-survival-9a-2.webp}
+- {type: 9B, image: /history/wilderness-survival/wilderness-survival-9b.webp}
+- {type: 9C, image: /history/wilderness-survival/wilderness-survival-9c.webp}
+- {type: 10A, image: /history/wilderness-survival/wilderness-survival-10a.webp}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C, image: /history/wilderness-survival/wilderness-survival-10c.webp}
+- {type: 10D, image: /history/wilderness-survival/wilderness-survival-10d.webp}
+- {type: 11A, image: /history/wilderness-survival/wilderness-survival-11a.webp}
+trivia:
+-   q: Was the Wilderness Survival badge made in every patch style of its time?
+    a: No. No Type I Wilderness Survival badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Wilderness Survival merit badges?
+    a: 2006, when 46,912 were earned.
+- {q: 'How many Wilderness Survival merit badges had been earned by 2020?', a: '1,805,803.'}
+-   q: What was Wilderness Survival's best year in the rankings on record?
+    a: 2013, when it was 11th of the 129 merit badges earned that year.
+- {q: 'What came before the Wilderness Survival merit badge?', a: previous.}
+- {q: 'When was the earliest known Wilderness Survival pamphlet printed?', a: April 1974.}

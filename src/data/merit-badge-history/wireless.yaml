@@ -1,0 +1,41 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Wireless
+precededBy: None
+introduced: 1919
+discontinued: '1923'
+replacedWith: None
+timeline:
+-   year: 1919
+    text: 'The Wireless merit badge is introduced. The first Wireless merit badges are earned: 100 that year.'
+-   year: 1920
+    text: 'The earliest known Wireless pamphlet printing (Type 1C). Best ranking: 42nd of 59 merit badges.'
+- {year: 1921, text: 'All-time high: 248 Wireless merit badges earned.'}
+- {year: 1923, text: Last year the Wireless merit badge is offered.}
+ranks:
+    1919: [51, 59]
+    1920: [42, 59]
+    1921: [48, 61]
+    1922: [50, 61]
+lifetimeRank: {rank: 224, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 228
+    range: [227, 229]
+    asOf: 2025
+earned:
+    totalThrough: 1922
+    total: 723
+    byYear: {1919: 100, 1920: 132, 1921: 248, 1922: 243}
+patches:
+- {type: A, years: 1918-1923, note: variations, image: /history/wireless/wireless-patch-a.webp}
+pamphlets:
+- {type: 1C, image: /history/wireless/wireless-1c.webp}
+- {type: '2', image: /history/wireless/wireless-2.webp}
+trivia:
+- {q: 'In what year did Scouts earn the most Wireless merit badges?', a: '1921, when 248 were earned.'}
+- {q: 'How many Wireless merit badges had been earned by 1922?', a: '723.'}
+-   q: What was Wireless' best year in the rankings on record?
+    a: 1920, when it was 42nd of the 59 merit badges earned that year.
+- {q: 'When was the earliest known Wireless pamphlet printed?', a: '1920.'}

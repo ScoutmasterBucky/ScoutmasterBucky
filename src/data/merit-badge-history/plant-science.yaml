@@ -1,0 +1,162 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Plant Science
+precededBy: None
+introduced: 1974
+discontinued: Current
+replacedWith: Current
+timeline:
+- {year: 1974, text: The Plant Science merit badge is introduced.}
+-   year: 1975
+    text: 'First known count: 958 Plant Science merit badges earned. The earliest known Plant Science pamphlet printing (Type 8).'
+-   year: 1993
+    text: 'All-time high: 3,571 Plant Science merit badges earned. Best ranking: 77th of 123 merit badges.'
+ranks:
+    1975: [126, 128]
+    1976: [107, 130]
+    1977: [105, 130]
+    1978: [110, 131]
+    1979: [110, 132]
+    1980: [115, 132]
+    1981: [116, 134]
+    1993: [77, 123]
+    1996: [113, 134]
+    2000: [119, 128]
+    2001: [120, 129]
+    2002: [117, 129]
+    2003: [118, 130]
+    2004: [121, 121]
+    2005: [118, 121]
+    2006: [117, 121]
+    2007: [118, 121]
+    2008: [116, 121]
+    2009: [110, 122]
+    2010: [113, 125]
+    2011: [104, 129]
+    2012: [96, 132]
+    2013: [80, 129]
+    2014: [117, 136]
+    2015: [114, 138]
+    2016: [121, 138]
+    2017: [123, 139]
+    2018: [118, 139]
+    2019: [125, 139]
+    2020: [121, 137]
+    2021: [119, 137]
+    2022: [117, 138]
+    2023: [116, 138]
+    2024: [118, 138]
+    2025: [112, 141]
+lifetimeRank: {rank: 167, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 170
+    range: [169, 171]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 58456
+    byYear:
+        1974: null
+        1975: 958
+        1976: 2212
+        1977: 2164
+        1978: 1574
+        1979: 1045
+        1980: 565
+        1981: 771
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 3571
+        1994: null
+        1995: null
+        1996: 978
+        1997: null
+        1998: null
+        1999: null
+        2000: 542
+        2001: 409
+        2002: 742
+        2003: 855
+        2004: 637
+        2005: 900
+        2006: 753
+        2007: 928
+        2008: 1151
+        2009: 1779
+        2010: 1797
+        2011: 2614
+        2012: 2593
+        2013: 2712
+        2014: 2680
+        2015: 2922
+        2016: 2363
+        2017: 2107
+        2018: 2569
+        2019: 2041
+        2020: 1653
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1974-2002
+    image: /history/plant-science/plant-science-patch-h.webp
+    more:
+    - {image: /history/plant-science/plant-science-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/plant-science/plant-science-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/plant-science/plant-science-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/plant-science/plant-science-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/plant-science/plant-science-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/plant-science/plant-science-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/plant-science/plant-science-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/plant-science/plant-science-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, years: 1993-1995, status: unknown}
+-   type: J
+    years: 2002-2009
+    image: /history/plant-science/plant-science-patch-j.webp
+    more:
+    - {image: /history/plant-science/plant-science-patch-j1-front.webp, label: J1 front}
+    - {image: /history/plant-science/plant-science-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    image: /history/plant-science/plant-science-patch-k.webp
+    more:
+    - {image: /history/plant-science/plant-science-patch-k-front.webp, label: K front}
+    - {image: /history/plant-science/plant-science-patch-k-reverse.webp, label: K back}
+- {type: L, years: 2015-2025, image: /history/plant-science/plant-science-patch-l.webp}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '8', status: missing}
+- {type: 9A, status: missing}
+- {type: 9B-1, status: missing}
+- {type: 9B-2, status: missing}
+- {type: 9X, status: missing}
+- {type: 10A, status: missing}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+- {type: 11A, status: missing}
+hardcovers:
+- {type: HCT, image: /history/plant-science/plant-science-hct.webp}
+trivia:
+-   q: Was the Plant Science badge made in every patch style of its time?
+    a: No. No Type I Plant Science badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Plant Science merit badges?
+    a: 1993, when 3,571 were earned.
+- {q: 'How many Plant Science merit badges had been earned by 2020?', a: '58,456.'}
+-   q: What was Plant Science's best year in the rankings on record?
+    a: 1993, when it was 77th of the 123 merit badges earned that year.
+- {q: 'When was the earliest known Plant Science pamphlet printed?', a: August 1975.}

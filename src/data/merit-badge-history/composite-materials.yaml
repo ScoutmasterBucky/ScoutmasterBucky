@@ -1,0 +1,101 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Composite Materials
+precededBy: None
+introduced: 2006
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2006
+    text: The Composite Materials merit badge is introduced. The earliest known Composite Materials pamphlet printing (Type 9).
+- {year: 2008, text: 'First known count: 1,536 Composite Materials merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 92nd of 129 merit badges.'}
+- {year: 2015, text: 'All-time high: 2,183 Composite Materials merit badges earned.'}
+ranks:
+    2008: [109, 121]
+    2009: [114, 122]
+    2010: [114, 125]
+    2011: [110, 129]
+    2012: [105, 132]
+    2013: [92, 129]
+    2014: [128, 136]
+    2015: [122, 138]
+    2016: [127, 138]
+    2017: [130, 139]
+    2018: [128, 139]
+    2019: [131, 139]
+    2020: [135, 137]
+    2021: [132, 137]
+    2022: [130, 138]
+    2023: [133, 138]
+    2024: [134, 138]
+    2025: [124, 141]
+lifetimeRank: {rank: 195, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 194
+    range: [194, 195]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 22472
+    byYear:
+        2006: null
+        2007: null
+        2008: 1536
+        2009: 1380
+        2010: 1603
+        2011: 1817
+        2012: 1610
+        2013: 1817
+        2014: 1614
+        2015: 2183
+        2016: 1597
+        2017: 1407
+        2018: 1646
+        2019: 1383
+        2020: 1011
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: J
+    years: 2006-2007
+    note: Scout Stuff back
+    image: /history/composite-materials/composite-materials-patch-j1.webp
+    more:
+    - {image: /history/composite-materials/composite-materials-patch-j1-front.webp, label: J1 front}
+    - {image: /history/composite-materials/composite-materials-patch-j1-reverse.webp, label: J1 back}
+-   type: J
+    years: 2008-2009
+    note: Scout Stuff back
+    image: /history/composite-materials/composite-materials-patch-j2.webp
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/composite-materials/composite-materials-patch-k.webp
+    more:
+    - {image: /history/composite-materials/composite-materials-patch-k-front.webp, label: K front}
+    - {image: /history/composite-materials/composite-materials-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/composite-materials/composite-materials-patch-l.webp
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '9', image: /history/composite-materials/composite-materials-9.webp}
+- {type: 10A, image: /history/composite-materials/composite-materials-10a.webp}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C-1, image: /history/composite-materials/composite-materials-10c-1.webp}
+- {type: 10C-2, image: /history/composite-materials/composite-materials-10c-2.webp}
+- {type: 10D-1, image: /history/composite-materials/composite-materials-10d-1.webp}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Composite Materials merit badges?
+    a: 2015, when 2,183 were earned.
+- {q: 'How many Composite Materials merit badges had been earned by 2020?', a: '22,472.'}
+-   q: What was Composite Materials' best year in the rankings on record?
+    a: 2013, when it was 92nd of the 129 merit badges earned that year.
+- {q: 'When was the earliest known Composite Materials pamphlet printed?', a: '2006.'}

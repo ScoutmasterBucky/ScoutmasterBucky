@@ -1,0 +1,97 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Consumer Buying
+precededBy: None
+introduced: 1975
+discontinued: '1995'
+replacedWith: N/A
+timeline:
+-   year: 1975
+    text: 'The Consumer Buying merit badge is introduced. The first Consumer Buying merit badges are earned: 1,017 that year. The earliest known Consumer Buying pamphlet printing (Type 8).'
+- {year: 1978, text: 'All-time high: 1,884 Consumer Buying merit badges earned.'}
+- {year: 1979, text: 'Best ranking: 98th of 132 merit badges.'}
+- {year: 1995, text: Last year the Consumer Buying merit badge is offered; it is replaced by N/A.}
+ranks:
+    1975: [125, 128]
+    1976: [114, 130]
+    1977: [111, 130]
+    1978: [103, 131]
+    1979: [98, 132]
+    1980: [112, 132]
+    1981: [106, 134]
+    1993: [121, 123]
+    1996: [120, 134]
+    2000: [123, 128]
+    2001: [127, 129]
+    2002: [127, 129]
+    2003: [130, 130]
+lifetimeRank: {rank: 192, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 195
+    range: [194, 195]
+    asOf: 2025
+earned:
+    totalThrough: 2003
+    total: 26970
+    byYear:
+        1975: 1017
+        1976: 1779
+        1977: 1815
+        1978: 1884
+        1979: 1544
+        1980: 647
+        1981: 1186
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 806
+        1994: null
+        1995: null
+        1996: 203
+        1997: null
+        1998: null
+        1999: null
+        2000: 119
+        2001: 9
+        2002: 5
+        2003: 3
+patches:
+-   type: H
+    years: 1975-2002
+    note: blue, clear, and molded
+    image: /history/consumer-buying/consumer-buying-patch-h.webp
+    more:
+    - {image: /history/consumer-buying/consumer-buying-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/consumer-buying/consumer-buying-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    -   image: /history/consumer-buying/consumer-buying-patch-h2-1-front.webp
+        label: H variation H2-1, front
+    -   image: /history/consumer-buying/consumer-buying-patch-h2-1-reverse.webp
+        label: H variation H2-1, back
+    - {image: /history/consumer-buying/consumer-buying-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/consumer-buying/consumer-buying-patch-h3-reverse.webp, label: 'H variation H3, back'}
+- {type: I, years: 1993-1995, status: unknown}
+pamphlets:
+- {type: '8', image: /history/consumer-buying/consumer-buying-8.webp}
+- {type: '9', image: /history/consumer-buying/consumer-buying-9.webp}
+hardcovers:
+- {type: HCT, image: /history/consumer-buying/consumer-buying-hct.webp}
+trivia:
+-   q: Was the Consumer Buying badge made in every patch style of its time?
+    a: No. No Type I Consumer Buying badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Consumer Buying merit badges?
+    a: 1978, when 1,884 were earned.
+- {q: 'How many Consumer Buying merit badges had been earned by 2003?', a: '26,970.'}
+-   q: What was Consumer Buying's best year in the rankings on record?
+    a: 1979, when it was 98th of the 132 merit badges earned that year.
+- {q: 'What replaced Consumer Buying after 1995?', a: N/A.}
+- {q: 'When was the earliest known Consumer Buying pamphlet printed?', a: January 1975.}

@@ -1,0 +1,69 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Chess
+precededBy: None
+introduced: 2011
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2011
+    text: 'The Chess merit badge is introduced. The first Chess merit badges are earned: 6,002 that year. The earliest known Chess pamphlet printing (Type 10C-1A).'
+- {year: 2012, text: 'All-time high: 29,298 Chess merit badges earned.'}
+- {year: 2020, text: 'Best ranking: 15th of 137 merit badges.'}
+ranks:
+    2011: [73, 129]
+    2012: [19, 132]
+    2013: [17, 129]
+    2014: [24, 136]
+    2015: [22, 138]
+    2016: [22, 138]
+    2017: [21, 139]
+    2018: [21, 139]
+    2019: [20, 139]
+    2020: [15, 137]
+    2021: [21, 137]
+    2022: [21, 138]
+    2023: [16, 138]
+    2024: [19, 138]
+    2025: [19, 141]
+lifetimeRank: {rank: 96, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 87
+    range: [87, 87]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 239164
+    byYear:
+        2011: 6002
+        2012: 29298
+        2013: 27315
+        2014: 25266
+        2015: 27235
+        2016: 27416
+        2017: 26919
+        2018: 28260
+        2019: 25999
+        2020: 15454
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: K, years: 2011-2014, note: BSA 2010 back, image: /history/chess/chess-patch-k.webp}
+- {type: L, years: 2015-2025, note: Since 1910 back, image: /history/chess/chess-patch-l.webp}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10C-1A, image: /history/chess/chess-10c-1a.webp}
+- {type: 10C-1B, image: /history/chess/chess-10c-1b.webp}
+- {type: 10D, image: /history/chess/chess-10d.webp}
+- {type: 11A, status: missing}
+trivia:
+- {q: 'In what year did Scouts earn the most Chess merit badges?', a: '2012, when 29,298 were earned.'}
+- {q: 'How many Chess merit badges had been earned by 2020?', a: '239,164.'}
+-   q: What was Chess' best year in the rankings on record?
+    a: 2020, when it was 15th of the 137 merit badges earned that year.
+- {q: 'When was the earliest known Chess pamphlet printed?', a: '2011.'}

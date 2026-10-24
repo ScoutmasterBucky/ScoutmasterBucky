@@ -1,0 +1,176 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Skating
+precededBy: None
+introduced: 1973
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1973
+    text: 'The Skating merit badge is introduced. The first Skating merit badges are earned: 997 that year. The earliest known Skating pamphlet printing (Type 8).'
+-   year: 1996
+    text: 'All-time high: 7,770 Skating merit badges earned. Best ranking: 57th of 134 merit badges.'
+ranks:
+    1973: [109, 122]
+    1974: [98, 121]
+    1975: [82, 128]
+    1976: [86, 130]
+    1977: [82, 130]
+    1978: [73, 131]
+    1979: [76, 132]
+    1980: [71, 132]
+    1981: [66, 134]
+    1993: [66, 123]
+    1996: [57, 134]
+    2000: [61, 128]
+    2001: [66, 129]
+    2002: [67, 129]
+    2003: [71, 130]
+    2004: [75, 121]
+    2005: [89, 121]
+    2006: [90, 121]
+    2007: [97, 121]
+    2008: [95, 121]
+    2009: [97, 122]
+    2010: [101, 125]
+    2011: [98, 129]
+    2012: [100, 132]
+    2013: [85, 129]
+    2014: [124, 136]
+    2015: [125, 138]
+    2016: [124, 138]
+    2017: [127, 139]
+    2018: [127, 139]
+    2019: [126, 139]
+    2020: [120, 137]
+    2021: [120, 137]
+    2022: [124, 138]
+    2023: [120, 138]
+    2024: [115, 138]
+    2025: [115, 141]
+lifetimeRank: {rank: 113, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 115
+    range: [114, 117]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 184647
+    byYear:
+        1973: 997
+        1974: 3240
+        1975: 4748
+        1976: 4294
+        1977: 4107
+        1978: 4513
+        1979: 3244
+        1980: 2583
+        1981: 4282
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 5059
+        1994: null
+        1995: null
+        1996: 7770
+        1997: null
+        1998: null
+        1999: null
+        2000: 7060
+        2001: 5857
+        2002: 6482
+        2003: 5575
+        2004: 5289
+        2005: 3841
+        2006: 3564
+        2007: 2920
+        2008: 3111
+        2009: 3360
+        2010: 3119
+        2011: 3208
+        2012: 2220
+        2013: 2406
+        2014: 2010
+        2015: 1972
+        2016: 1953
+        2017: 1785
+        2018: 1898
+        2019: 1979
+        2020: 1700
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1973-1998
+    note: blue, clear?, and molded
+    image: /history/skating/skating-patch-h1.webp
+    more:
+    - {image: /history/skating/skating-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/skating/skating-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/skating/skating-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/skating/skating-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/skating/skating-patch-h51-front.webp, label: 'H variation H51, front'}
+    - {image: /history/skating/skating-patch-h51-reverse.webp, label: 'H variation H51, back'}
+-   type: H
+    years: 1999-2002
+    note: blue, clear, and molded
+    image: /history/skating/skating-patch-h2.webp
+-   type: I
+    years: 1993-1995
+    note: 38mm
+    image: /history/skating/skating-patch-i38.webp
+    more:
+    - {image: /history/skating/skating-patch-ia-front.webp, label: IA front}
+    - {image: /history/skating/skating-patch-ia-reverse.webp, label: IA back}
+    - {image: /history/skating/skating-patch-ib-front.webp, label: IB front}
+    - {image: /history/skating/skating-patch-ib-reverse.webp, label: IB back}
+- {type: I, years: 1993-1995, note: 42mm, image: /history/skating/skating-patch-i42.webp}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/skating/skating-patch-j.webp
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/skating/skating-patch-k.webp
+    more:
+    - {image: /history/skating/skating-patch-k-front.webp, label: K front}
+    - {image: /history/skating/skating-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/skating/skating-patch-l.webp
+    more:
+    - {image: /history/skating/skating-patch-l-front.webp, label: L front}
+    - {image: /history/skating/skating-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '8', status: missing}
+- {type: '9', status: missing}
+- {type: 9A, status: missing}
+- {type: 9B, status: missing}
+- {type: 9C, status: missing}
+- {type: 10A, status: missing}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Skating merit badges?
+    a: 1996, when 7,770 were earned.
+- {q: 'How many Skating merit badges had been earned by 2020?', a: '184,647.'}
+-   q: What was Skating's best year in the rankings on record?
+    a: 1996, when it was 57th of the 134 merit badges earned that year.
+- {q: 'When was the earliest known Skating pamphlet printed?', a: December 1973.}

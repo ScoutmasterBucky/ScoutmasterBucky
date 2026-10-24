@@ -1,0 +1,74 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Programming
+precededBy: None
+introduced: 2013
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2013
+    text: 'The Programming merit badge is introduced. The first Programming merit badges are earned: 480 that year. The earliest known Programming pamphlet printing (Type 10C).'
+- {year: 2018, text: 'All-time high: 4,723 Programming merit badges earned.'}
+- {year: 2020, text: 'Best ranking: 77th of 137 merit badges.'}
+ranks:
+    2013: [103, 129]
+    2014: [113, 136]
+    2015: [102, 138]
+    2016: [96, 138]
+    2017: [95, 139]
+    2018: [93, 139]
+    2019: [92, 139]
+    2020: [77, 137]
+    2021: [100, 137]
+    2022: [95, 138]
+    2023: [95, 138]
+    2024: [93, 138]
+    2025: [96, 141]
+lifetimeRank: {rank: 191, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 181
+    range: [179, 182]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 29163
+    byYear:
+        2013: 480
+        2014: 2970
+        2015: 3577
+        2016: 4085
+        2017: 4138
+        2018: 4723
+        2019: 4717
+        2020: 4473
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: K
+    years: 2013-2014
+    image: /history/programming/programming-patch-k.webp
+    more:
+    - {image: /history/programming/programming-patch-k-front.webp, label: K front}
+    - {image: /history/programming/programming-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    image: /history/programming/programming-patch-l.webp
+    more:
+    - {image: /history/programming/programming-patch-l-front.webp, label: L front}
+    - {image: /history/programming/programming-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+trivia:
+-   q: In what year did Scouts earn the most Programming merit badges?
+    a: 2018, when 4,723 were earned.
+- {q: 'How many Programming merit badges had been earned by 2020?', a: '29,163.'}
+-   q: What was Programming's best year in the rankings on record?
+    a: 2020, when it was 77th of the 137 merit badges earned that year.
+- {q: 'When was the earliest known Programming pamphlet printed?', a: '2013.'}

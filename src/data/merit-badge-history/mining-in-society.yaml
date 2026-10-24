@@ -1,0 +1,67 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Mining in Society
+precededBy: None
+introduced: 2014
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2014
+    text: 'The Mining in Society merit badge is introduced. The first Mining in Society merit badges are earned: 3,519 that year. The earliest known Mining in Society pamphlet printing (Type 10C).'
+- {year: 2017, text: 'All-time high: 4,673 Mining in Society merit badges earned.'}
+- {year: 2023, text: 'Best ranking: 82nd of 138 merit badges.'}
+ranks:
+    2014: [107, 136]
+    2015: [91, 138]
+    2016: [94, 138]
+    2017: [89, 139]
+    2018: [94, 139]
+    2019: [101, 139]
+    2020: [88, 137]
+    2021: [102, 137]
+    2022: [96, 138]
+    2023: [82, 138]
+    2024: [92, 138]
+    2025: [84, 141]
+lifetimeRank: {rank: 189, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 179
+    range: [177, 181]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 29397
+    byYear:
+        2014: 3519
+        2015: 4613
+        2016: 4224
+        2017: 4673
+        2018: 4650
+        2019: 3929
+        2020: 3789
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: K, years: '2014', status: missing}
+-   type: L
+    years: 2015-2025
+    image: /history/mining-in-society/mining-in-society-patch-l.webp
+    more:
+    - {image: /history/mining-in-society/mining-in-society-patch-l-front.webp, label: L front}
+    - {image: /history/mining-in-society/mining-in-society-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+trivia:
+-   q: In what year did Scouts earn the most Mining in Society merit badges?
+    a: 2017, when 4,673 were earned.
+- {q: 'How many Mining in Society merit badges had been earned by 2020?', a: '29,397.'}
+-   q: What was Mining in Society's best year in the rankings on record?
+    a: 2023, when it was 82nd of the 138 merit badges earned that year.
+- {q: 'When was the earliest known Mining in Society pamphlet printed?', a: '2014.'}

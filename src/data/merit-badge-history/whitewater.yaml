@@ -1,0 +1,155 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Whitewater
+precededBy: None
+introduced: 1987
+discontinued: Current
+replacedWith: Current
+timeline:
+- {year: 1987, text: The Whitewater merit badge is introduced.}
+- {year: 1988, text: The earliest known Whitewater pamphlet printing (Type 9A-1).}
+- {year: 1993, text: 'First known count: 2,274 Whitewater merit badges earned.'}
+- {year: 2011, text: 'All-time high: 4,322 Whitewater merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 77th of 129 merit badges.'}
+ranks:
+    1993: [94, 123]
+    1996: [83, 134]
+    2000: [83, 128]
+    2001: [88, 129]
+    2002: [89, 129]
+    2003: [85, 130]
+    2004: [89, 121]
+    2005: [87, 121]
+    2006: [86, 121]
+    2007: [92, 121]
+    2008: [90, 121]
+    2009: [92, 122]
+    2010: [99, 125]
+    2011: [88, 129]
+    2012: [82, 132]
+    2013: [77, 129]
+    2014: [106, 136]
+    2015: [115, 138]
+    2016: [104, 138]
+    2017: [111, 139]
+    2018: [108, 139]
+    2019: [113, 139]
+    2020: [126, 137]
+    2021: [116, 137]
+    2022: [101, 138]
+    2023: [106, 138]
+    2024: [108, 138]
+    2025: [108, 141]
+lifetimeRank: {rank: 138, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 142
+    range: [140, 142]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 105245
+    byYear:
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 2274
+        1994: null
+        1995: null
+        1996: 3021
+        1997: null
+        1998: null
+        1999: null
+        2000: 3882
+        2001: 3212
+        2002: 4031
+        2003: 4111
+        2004: 4159
+        2005: 4157
+        2006: 4212
+        2007: 3557
+        2008: 3780
+        2009: 3993
+        2010: 3372
+        2011: 4322
+        2012: 4149
+        2013: 3252
+        2014: 3565
+        2015: 2888
+        2016: 3476
+        2017: 2832
+        2018: 3199
+        2019: 2890
+        2020: 1508
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1987-2002
+    note: clear and molded
+    image: /history/whitewater/whitewater-patch-h.webp
+    more:
+    - {image: /history/whitewater/whitewater-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/whitewater/whitewater-patch-h5-reverse.webp, label: 'H variation H5, back'}
+-   type: H
+    years: '2002'
+    note: error black border
+    image: /history/whitewater/whitewater-patch-hblack.webp
+-   type: I
+    years: 1993-1995
+    note: 38mm
+    image: /history/whitewater/whitewater-patch-i38.webp
+    more:
+    - {image: /history/whitewater/whitewater-patch-ia-front.webp, label: IA front}
+    - {image: /history/whitewater/whitewater-patch-ia-reverse.webp, label: IA back}
+    - {image: /history/whitewater/whitewater-patch-ib-front.webp, label: IB front}
+    - {image: /history/whitewater/whitewater-patch-ib-reverse.webp, label: IB back}
+- {type: I, years: 1993-1995, note: 42mm, image: /history/whitewater/whitewater-patch-i42.webp}
+-   type: J
+    years: 2002-2004
+    note: Scout Stuff back
+    image: /history/whitewater/whitewater-patch-j1.webp
+-   type: J
+    years: 2004-2009
+    note: Scout Stuff back
+    image: /history/whitewater/whitewater-patch-j2.webp
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/whitewater/whitewater-patch-k.webp
+    more:
+    - {image: /history/whitewater/whitewater-patch-k-front.webp, label: K front}
+    - {image: /history/whitewater/whitewater-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/whitewater/whitewater-patch-l.webp
+    more:
+    - {image: /history/whitewater/whitewater-patch-l-front.webp, label: L front}
+    - {image: /history/whitewater/whitewater-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 9A-1, image: /history/whitewater/whitewater-9a-1.webp}
+- {type: 9A-2, image: /history/whitewater/whitewater-9a-2.webp}
+- {type: 9B-1, image: /history/whitewater/whitewater-9b-1.webp}
+- {type: 9B-2, image: /history/whitewater/whitewater-9b-2.webp}
+- {type: 10A, image: /history/whitewater/whitewater-10a.webp}
+- {type: 10B, image: /history/whitewater/whitewater-10b.webp}
+- {type: 10C, image: /history/whitewater/whitewater-10c.webp}
+- {type: 10D-1, image: /history/whitewater/whitewater-10d-1.webp}
+- {type: 10D-2, image: /history/whitewater/whitewater-10d-2.webp}
+- {type: 11A, image: /history/whitewater/whitewater-11a.webp}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Whitewater merit badges?
+    a: 2011, when 4,322 were earned.
+- {q: 'How many Whitewater merit badges had been earned by 2020?', a: '105,245.'}
+-   q: What was Whitewater's best year in the rankings on record?
+    a: 2013, when it was 77th of the 129 merit badges earned that year.
+- {q: 'When was the earliest known Whitewater pamphlet printed?', a: November 1988.}

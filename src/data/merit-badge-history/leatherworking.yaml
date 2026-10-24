@@ -1,0 +1,83 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Leatherworking
+precededBy: Original badge
+introduced: 1911
+discontinued: '1927'
+replacedWith: Leathercraft
+thenAndNow:
+    year: 1911
+    source: The Official Handbook for Boys (1911)
+    requirements: [Have a knowledge of tanning and curing., 'Be able to sole and heel a pair of boots, sewed or nailed, and generally repair boots and shoes.', 'Be able to dress a saddle, repair traces,
+            stirrup leathers, etc., and know the various parts of harness.']
+timeline:
+-   year: 1911
+    text: The Leatherworking merit badge is introduced. It is one of the original 57 merit badges.
+- {year: 1913, text: 'The first Leatherworking merit badges are earned: 15 that year.'}
+-   year: 1927
+    text: 'Best ranking: 34th of 68 merit badges. Last year the Leatherworking merit badge is offered; it is replaced by Leathercraft.'
+- {year: 1930, text: 'All-time high: 2,582 Leatherworking merit badges earned.'}
+ranks:
+    1913: [43, 56]
+    1914: [43, 58]
+    1915: [51, 58]
+    1916: [50, 56]
+    1917: [52, 58]
+    1918: [47, 58]
+    1919: [43, 59]
+    1920: [43, 59]
+    1921: [42, 61]
+    1922: [41, 61]
+    1923: [42, 63]
+    1924: [40, 64]
+    1925: [40, 64]
+    1926: [43, 65]
+    1927: [34, 68]
+    1928: [47, 88]
+    1929: [43, 89]
+    1930: [42, 92]
+lifetimeRank: {rank: 206, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 208
+    range: [208, 209]
+    asOf: 2025
+earned:
+    totalThrough: 1930
+    total: 13824
+    byYear:
+        1911: 0
+        1912: 0
+        1913: 15
+        1914: 55
+        1915: 14
+        1916: 17
+        1917: 19
+        1918: 55
+        1919: 194
+        1920: 131
+        1921: 403
+        1922: 553
+        1923: 512
+        1924: 696
+        1925: 760
+        1926: 1126
+        1927: 2227
+        1928: 2386
+        1929: 2079
+        1930: 2582
+patches:
+- {type: A, years: 1911-1927, image: /history/leatherworking/leatherworking-patch-a.webp}
+pamphlets: []
+trivia:
+-   q: Was Leatherworking one of the original 57 merit badges?
+    a: Yes. It was in the first Official Handbook for Boys in 1911.
+-   q: What was the first thing a Scout had to do for Leatherworking in 1911?
+    a: Have a knowledge of tanning and curing.
+-   q: In what year did Scouts earn the most Leatherworking merit badges?
+    a: 1930, when 2,582 were earned.
+- {q: 'How many Leatherworking merit badges had been earned by 1930?', a: '13,824.'}
+-   q: What was Leatherworking's best year in the rankings on record?
+    a: 1927, when it was 34th of the 68 merit badges earned that year.
+- {q: 'What replaced Leatherworking after 1927?', a: Leathercraft.}

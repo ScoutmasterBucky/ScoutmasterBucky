@@ -1,0 +1,76 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Personal Finances
+precededBy: None
+introduced: 1962
+discontinued: '1971'
+replacedWith: Personal Management
+timeline:
+- {year: 1962, text: The Personal Finances merit badge is introduced.}
+-   year: 1963
+    text: 'First known count: 3,797 Personal Finances merit badges earned. The earliest known Personal Finances pamphlet printing (Type 6).'
+- {year: 1967, text: 'Best ranking: 43rd of 112 merit badges.'}
+- {year: 1969, text: 'All-time high: 10,309 Personal Finances merit badges earned.'}
+-   year: 1971
+    text: Last year the Personal Finances merit badge is offered; it is replaced by Personal Management.
+ranks:
+    1963: [61, 102]
+    1964: [52, 107]
+    1965: [47, 109]
+    1966: [45, 110]
+    1967: [43, 112]
+    1968: [44, 112]
+    1969: [44, 113]
+    1970: [45, 113]
+    1971: [46, 113]
+    1972: [53, 124]
+lifetimeRank: {rank: 153, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 160
+    range: [159, 160]
+    asOf: 2025
+earned:
+    totalThrough: 1972
+    total: 83662
+    byYear:
+        1962: null
+        1963: 3797
+        1964: 6055
+        1965: 6970
+        1966: 8326
+        1967: 10062
+        1968: 9772
+        1969: 10309
+        1970: 10212
+        1971: 9578
+        1972: 8581
+patches:
+- {type: F, years: 1962-1968, status: missing}
+- {type: G, years: 1962-1971, image: /history/personal-finances/personal-finances-patch-g.webp}
+-   type: H
+    image: /history/personal-finances/personal-finances-patch-h.webp
+    more:
+    -   image: /history/personal-finances/personal-finances-patch-h2-1-front.webp
+        label: H variation H2-1, front
+    -   image: /history/personal-finances/personal-finances-patch-h2-1-reverse.webp
+        label: H variation H2-1, back
+    -   image: /history/personal-finances/personal-finances-patch-h2-mve1-front.webp
+        label: H variation H2-MVE1, front
+    -   image: /history/personal-finances/personal-finances-patch-h2-mve1-reverse.webp
+        label: H variation H2-MVE1, back
+pamphlets:
+- {type: '6', status: missing}
+- {type: '7', status: missing}
+hardcovers:
+- {type: HCK, image: /history/personal-finances/personal-finances-hck.webp}
+- {type: HCL, image: /history/personal-finances/personal-finances-hcl.webp}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Personal Finances merit badges?
+    a: 1969, when 10,309 were earned.
+- {q: 'How many Personal Finances merit badges had been earned by 1972?', a: '83,662.'}
+-   q: What was Personal Finances' best year in the rankings on record?
+    a: 1967, when it was 43rd of the 112 merit badges earned that year.
+- {q: 'What replaced Personal Finances after 1971?', a: Personal Management.}
+- {q: 'When was the earliest known Personal Finances pamphlet printed?', a: July 1963.}

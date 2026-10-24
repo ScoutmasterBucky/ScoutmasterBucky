@@ -1,0 +1,72 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Mammals
+precededBy: None
+introduced: 1972
+discontinued: '1987'
+replacedWith: Mammal Study
+timeline:
+-   year: 1972
+    text: 'The Mammals merit badge is introduced. The first Mammals merit badges are earned: 12,600 that year. The earliest known Mammals pamphlet printing (Type 7).'
+- {year: 1975, text: 'All-time high: 29,864 Mammals merit badges earned.'}
+- {year: 1981, text: 'Best ranking: 23rd of 134 merit badges.'}
+- {year: 1987, text: Last year the Mammals merit badge is offered; it is replaced by Mammal Study.}
+ranks:
+    1972: [39, 124]
+    1973: [38, 122]
+    1974: [32, 121]
+    1975: [28, 128]
+    1976: [28, 130]
+    1977: [27, 130]
+    1978: [24, 131]
+    1979: [24, 132]
+    1980: [24, 132]
+    1981: [23, 134]
+earned:
+    totalThrough: 1981
+    total: 221787
+    totalKnownOnly: true
+    byYear:
+        1972: 12600
+        1973: 14070
+        1974: 27487
+        1975: 29864
+        1976: 27205
+        1977: 26059
+        1978: 26193
+        1979: 20829
+        1980: 15078
+        1981: 22402
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+patches:
+-   type: H
+    years: 1972-1987
+    image: /history/mammals/mammals-patch-h.webp
+    more:
+    - {image: /history/mammals/mammals-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/mammals/mammals-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/mammals/mammals-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/mammals/mammals-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/mammals/mammals-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/mammals/mammals-patch-h3-reverse.webp, label: 'H variation H3, back'}
+pamphlets:
+- {type: '7', status: missing}
+- {type: '8', status: missing}
+- {type: '9', status: missing}
+hardcovers:
+- {type: HCS, image: /history/mammals/mammals-hcs.webp}
+- {type: HCT, image: /history/mammals/mammals-hct.webp}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Mammals merit badges?
+    a: 1975, when 29,864 were earned.
+-   q: What was Mammals' best year in the rankings on record?
+    a: 1981, when it was 23rd of the 134 merit badges earned that year.
+- {q: 'What replaced Mammals after 1987?', a: Mammal Study.}
+- {q: 'When was the earliest known Mammals pamphlet printed?', a: March 1972.}

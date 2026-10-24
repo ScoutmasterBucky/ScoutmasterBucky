@@ -1,0 +1,137 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Veterinary Medicine
+precededBy: Veterinary Science
+precededByLink: veterinary-science
+introduced: 1995
+discontinued: Current
+replacedWith: Current
+timeline:
+- {year: 1973, text: The earliest known Veterinary Medicine pamphlet printing (Type 8).}
+- {year: 1995, text: The Veterinary Medicine merit badge is introduced.}
+- {year: 1996, text: 'First known count: 1,166 Veterinary Medicine merit badges earned.'}
+- {year: 2010, text: 'All-time high: 3,855 Veterinary Medicine merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 75th of 129 merit badges.'}
+ranks:
+    1996: [112, 134]
+    2000: [103, 128]
+    2001: [101, 129]
+    2002: [104, 129]
+    2003: [107, 130]
+    2004: [107, 121]
+    2005: [103, 121]
+    2006: [105, 121]
+    2007: [101, 121]
+    2008: [99, 121]
+    2009: [99, 122]
+    2010: [93, 125]
+    2011: [96, 129]
+    2012: [89, 132]
+    2013: [75, 129]
+    2014: [116, 136]
+    2015: [117, 138]
+    2016: [115, 138]
+    2017: [118, 139]
+    2018: [114, 139]
+    2019: [110, 139]
+    2020: [108, 137]
+earned:
+    totalThrough: 2020
+    total: 57402
+    totalKnownOnly: true
+    byYear:
+        1995: null
+        1996: 1166
+        1997: null
+        1998: null
+        1999: null
+        2000: 1879
+        2001: 2065
+        2002: 2085
+        2003: 2096
+        2004: 2098
+        2005: 2400
+        2006: 2204
+        2007: 2355
+        2008: 2723
+        2009: 3018
+        2010: 3855
+        2011: 3502
+        2012: 3460
+        2013: 3455
+        2014: 2875
+        2015: 2764
+        2016: 2580
+        2017: 2451
+        2018: 2716
+        2019: 3103
+        2020: 2552
+patches:
+-   type: H
+    years: 1973-2002
+    note: blue, clear, and molded
+    status: missing
+    more:
+    -   image: /history/veterinary-medicine/veterinary-medicine-patch-h1-front.webp
+        label: H variation H1, front
+    -   image: /history/veterinary-medicine/veterinary-medicine-patch-h1-reverse.webp
+        label: H variation H1, back
+    -   image: /history/veterinary-medicine/veterinary-medicine-patch-h2-1-front.webp
+        label: H variation H2-1, front
+    -   image: /history/veterinary-medicine/veterinary-medicine-patch-h2-1-reverse.webp
+        label: H variation H2-1, back
+    -   image: /history/veterinary-medicine/veterinary-medicine-patch-h3-front.webp
+        label: H variation H3, front
+    -   image: /history/veterinary-medicine/veterinary-medicine-patch-h3-reverse.webp
+        label: H variation H3, back
+- {type: I, status: notMade}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/veterinary-medicine/veterinary-medicine-patch-j.webp
+    more:
+    - {image: /history/veterinary-medicine/veterinary-medicine-patch-j1-front.webp, label: J1 front}
+    - {image: /history/veterinary-medicine/veterinary-medicine-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/veterinary-medicine/veterinary-medicine-patch-k.webp
+    more:
+    - {image: /history/veterinary-medicine/veterinary-medicine-patch-k-front.webp, label: K front}
+    - {image: /history/veterinary-medicine/veterinary-medicine-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/veterinary-medicine/veterinary-medicine-patch-l.webp
+    more:
+    - {image: /history/veterinary-medicine/veterinary-medicine-patch-l-front.webp, label: L front}
+    - {image: /history/veterinary-medicine/veterinary-medicine-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '8', image: /history/veterinary-medicine/veterinary-science-8.webp, note: Veterinary Science}
+-   type: 9A-1
+    image: /history/veterinary-medicine/veterinary-science-9a-1.webp
+    note: Veterinary Science
+-   type: 9A-2
+    image: /history/veterinary-medicine/veterinary-science-9a-2.webp
+    note: Veterinary Science
+- {type: 9B, image: /history/veterinary-medicine/veterinary-medicine-9b.webp}
+- {type: 9C-1, image: /history/veterinary-medicine/veterinary-medicine-9c-1.webp}
+- {type: 9C-2, image: /history/veterinary-medicine/veterinary-medicine-9c-2.webp}
+- {type: 10A, image: /history/veterinary-medicine/veterinary-medicine-10a.webp}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C-1A, image: /history/veterinary-medicine/veterinary-medicine-10c-1a.webp}
+- {type: 10C-1B, image: /history/veterinary-medicine/veterinary-medicine-10c-1b.webp}
+- {type: 10D, image: /history/veterinary-medicine/veterinary-medicine-10d.webp}
+- {type: 11A, image: /history/veterinary-medicine/veterinary-medicine-11a.webp}
+trivia:
+-   q: Was the Veterinary Medicine badge made in every patch style of its time?
+    a: No. No Type I Veterinary Medicine badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Veterinary Medicine merit badges?
+    a: 2010, when 3,855 were earned.
+-   q: What was Veterinary Medicine's best year in the rankings on record?
+    a: 2013, when it was 75th of the 129 merit badges earned that year.
+- {q: 'What came before the Veterinary Medicine merit badge?', a: Veterinary Science.}
+- {q: 'When was the earliest known Veterinary Medicine pamphlet printed?', a: October 1973.}

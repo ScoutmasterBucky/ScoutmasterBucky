@@ -1,0 +1,130 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Climbing
+precededBy: None
+introduced: 1996
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1996
+    text: 'The Climbing merit badge is introduced. The first Climbing merit badges are earned: 7 that year.'
+- {year: 1997, text: The earliest known Climbing pamphlet printing (Type 9A).}
+- {year: 2003, text: 'All-time high: 26,881 Climbing merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 21st of 129 merit badges.'}
+ranks:
+    1996: [131, 134]
+    2000: [30, 128]
+    2001: [29, 129]
+    2002: [28, 129]
+    2003: [28, 130]
+    2004: [29, 121]
+    2005: [30, 121]
+    2006: [29, 121]
+    2007: [28, 121]
+    2008: [28, 121]
+    2009: [26, 122]
+    2010: [27, 125]
+    2011: [22, 129]
+    2012: [23, 132]
+    2013: [21, 129]
+    2014: [28, 136]
+    2015: [31, 138]
+    2016: [27, 138]
+    2017: [30, 139]
+    2018: [28, 139]
+    2019: [29, 139]
+    2020: [43, 137]
+    2021: [28, 137]
+    2022: [27, 138]
+    2023: [28, 138]
+    2024: [28, 138]
+    2025: [32, 141]
+lifetimeRank: {rank: 70, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 67
+    range: [67, 67]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 521055
+    byYear:
+        1996: 7
+        1997: null
+        1998: null
+        1999: null
+        2000: 23021
+        2001: 24148
+        2002: 26663
+        2003: 26881
+        2004: 25062
+        2005: 22316
+        2006: 22628
+        2007: 22495
+        2008: 22928
+        2009: 25192
+        2010: 23698
+        2011: 24617
+        2012: 24609
+        2013: 22861
+        2014: 23200
+        2015: 21574
+        2016: 21171
+        2017: 18356
+        2018: 18911
+        2019: 17305
+        2020: 7228
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1996-2002
+    note: molded
+    image: /history/climbing/climbing-patch-h.webp
+    more:
+    - {image: /history/climbing/climbing-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/climbing/climbing-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, status: none}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/climbing/climbing-patch-j.webp
+    more:
+    - {image: /history/climbing/climbing-patch-j1-front.webp, label: J1 front}
+    - {image: /history/climbing/climbing-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/climbing/climbing-patch-k.webp
+    more:
+    - {image: /history/climbing/climbing-patch-k-front.webp, label: K front}
+    - {image: /history/climbing/climbing-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/climbing/climbing-patch-l.webp
+    more:
+    - {image: /history/climbing/climbing-patch-l-front.webp, label: L front}
+    - {image: /history/climbing/climbing-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 9A, image: /history/climbing/climbing-9a.webp}
+- {type: 9B, image: /history/climbing/climbing-9b.webp}
+- {type: 9C, image: /history/climbing/climbing-9c.webp}
+- {type: 10A, image: /history/climbing/climbing-10a.webp}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C, image: /history/climbing/climbing-10c.webp}
+- {type: 10D, image: /history/climbing/climbing-10d.webp}
+trivia:
+-   q: Was the Climbing badge made in every patch style of its time?
+    a: No. No Type I Climbing badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Climbing merit badges?
+    a: 2003, when 26,881 were earned.
+- {q: 'How many Climbing merit badges had been earned by 2020?', a: '521,055.'}
+-   q: What was Climbing's best year in the rankings on record?
+    a: 2013, when it was 21st of the 129 merit badges earned that year.
+- {q: 'When was the earliest known Climbing pamphlet printed?', a: September 1997.}

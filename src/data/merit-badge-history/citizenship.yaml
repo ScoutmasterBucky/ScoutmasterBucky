@@ -1,0 +1,66 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Citizenship
+precededBy: Civics
+precededByLink: civics
+introduced: 1948
+discontinued: '1951'
+replacedWith: Citizenship in the Home Citizenship in the Community Citizenship in the Nation World Brotherhood
+story: ['The Citizenship merit badge went through a revamp replacing the retired Civics merit badge. After a short period of time, in 1952, and after extensive testing and reviewing, the Citizenship pamphlet
+        served as the core of 4 individual merit badges. Merit badges earned were based off of those Scouts that started or earned the Civics (or prototype Citizenship) merit badge. After 1952 Scouts could
+        only earn one of the four disciplines found in the Citizenship merit badge pamphlet.']
+timeline:
+-   year: 1948
+    text: 'The Citizenship merit badge is introduced. The first Citizenship merit badges are earned: 12,764 that year.'
+- {year: 1949, text: The earliest known Citizenship pamphlet printing (Type 6X).}
+-   year: 1951
+    text: Last year the Citizenship merit badge is offered; it is replaced by Citizenship in the Home Citizenship in the Community Citizenship in the Nation World Brotherhood.
+-   year: 1952
+    text: 'All-time high: 18,926 Citizenship merit badges earned. Best ranking: 14th of 120 merit badges.'
+ranks:
+    1948: [16, 111]
+    1949: [17, 111]
+    1950: [17, 111]
+    1951: [17, 111]
+    1952: [14, 120]
+lifetimeRank: {rank: 156, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 163
+    range: [162, 163]
+    asOf: 2025
+earned:
+    totalThrough: 1952
+    total: 78814
+    byYear: {1948: 12764, 1949: 13977, 1950: 16055, 1951: 17092, 1952: 18926}
+patches:
+- {type: E, years: 1948-1951, status: missing}
+pamphlets:
+- {type: 6A-1, image: /history/citizenship/citizenship-6a-1.webp}
+- {type: 6A-2, image: /history/citizenship/citizenship-6a-2.webp}
+- {type: 6P-1, image: /history/citizenship/citizenship-6p-1.webp}
+- {type: 6P-2, image: /history/citizenship/citizenship-6p-2.webp}
+- {type: 6X, status: missing}
+- {type: 7A-1, image: /history/citizenship/citizenship-7a-1.webp}
+- {type: 7A-2, image: /history/citizenship/citizenship-7a-2.webp}
+hardcovers:
+- {type: HCH, image: /history/citizenship/citizenship-hch.webp}
+- {type: HCI, image: /history/citizenship/citizenship-hci.webp}
+- {type: HCJ, image: /history/citizenship/citizenship-hcj.webp}
+- {type: HCK, image: /history/citizenship/citizenship-hck.webp}
+- {type: HCL, image: /history/citizenship/citizenship-hcl.webp}
+- {type: HCM, image: /history/citizenship/citizenship-hcm.webp}
+- {type: HCN, image: /history/citizenship/citizenship-hcn.webp}
+- {type: HCO, image: /history/citizenship/citizenship-hco.webp}
+- {type: HCQ, image: /history/citizenship/citizenship-hcq.webp}
+trivia:
+-   q: In what year did Scouts earn the most Citizenship merit badges?
+    a: 1952, when 18,926 were earned.
+- {q: 'How many Citizenship merit badges had been earned by 1952?', a: '78,814.'}
+-   q: What was Citizenship's best year in the rankings on record?
+    a: 1952, when it was 14th of the 120 merit badges earned that year.
+- {q: 'What came before the Citizenship merit badge?', a: Civics.}
+-   q: What replaced Citizenship after 1951?
+    a: Citizenship in the Home, Citizenship in the Community, Citizenship in the Nation and World Brotherhood.
+- {q: 'When was the earliest known Citizenship pamphlet printed?', a: December 1949.}

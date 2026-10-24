@@ -1,0 +1,29 @@
+# Researched for the American Business history page (generate_histories.py
+# merges this over the generated draft). Sources:
+# - BSA Annual Report to Congress, 1967, page 36 (Google Books, full view): the
+#   five new subjects of 1967; usscouts.org history table lists the same five as
+#   first offered in 1967, and Business (1911-1966) "Became American Business"
+# - Scouting Magazine, 2020 merit badge rankings: the 238% jump, second to
+#   Public Health; the counts match Bucky's workbook
+# - Official BSA merit badge fact sheets for 2005 and 2007: last of 121 badges
+# - Dun's Review, 1966 (Google Books snippet): the badge welcomed by
+#   free-enterprise supporters; the 1970 Publishers' Trade List describes the
+#   pamphlet as highlighting free enterprise in running a small business
+# Requirements: none readable online; Bucky's 1968 Type 7A pamphlet (TODO.md).
+
+# Bucky's story, with the time span he approved (2026-10-23): it was in the
+# bottom 10 in 2004-2010 and 2014-2018, but not since 2020
+story:
+    - The American Business merit badge is one of the least earned merit badges, finding itself in the bottom 10 of all merit badges earned for most of the 2000s and 2010s.
+
+trivia:
+    - q: Which other merit badges were brand new in 1967, along with American Business?
+      a: Computers, Engineering, Landscape Architecture and Theater.
+    - q: Which merit badge came before American Business?
+      a: Business, one of the original 57 badges of 1911. It became American Business in 1967.
+    - q: Which merit badge had the second-biggest jump in 2020, after Public Health?
+      a: American Business. Scouts earned 4,967, up 238 percent from 1,468 in 2019, as many worked on badges from home.
+    - q: Where did American Business rank in 2005 and 2007?
+      a: Last, 121st of the 121 merit badges earned in each of those years.
+    - q: What idea did the first American Business pamphlet highlight?
+      a: Free enterprise, through what it takes to run a small business.

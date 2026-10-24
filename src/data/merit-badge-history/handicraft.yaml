@@ -1,0 +1,145 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Handicraft
+precededBy: Original badge
+introduced: 1911
+discontinued: '1942'
+replacedWith: Home Repairs
+thenAndNow:
+    year: 1911
+    source: The Official Handbook for Boys (1911)
+    requirements:
+    - Be able to paint a door.
+    - Whitewash a ceiling.
+    - Repair gas fittings, sash lines, window and door fastenings.
+    - Replace gas mantles, washers, and electric light bulbs.
+    - Solder.
+    - Hang pictures and curtains.
+    - Repair blinds.
+    - Fix curtains, portiere rods, blind fixtures.
+    - Lay carpets and mend clothing and upholstery.
+    - Repair furniture and china.
+    - Sharpen knives.
+    - Repair gates.
+    - Fix screens on windows and doors.
+timeline:
+-   year: 1911
+    text: The Handicraft merit badge is introduced. It is one of the original 57 merit badges. The first Handicraft merit badge is earned.
+- {year: 1920, text: The earliest known Handicraft pamphlet printing (Type 1C).}
+- {year: 1937, text: 'Best ranking: 1st of 102 merit badges.'}
+- {year: 1942, text: Last year the Handicraft merit badge is offered; it is replaced by Home Repairs.}
+- {year: 1944, text: 'All-time high: 45,697 Handicraft merit badges earned.'}
+ranks:
+    1911: [16, 22]
+    1912: [10, 51]
+    1913: [14, 56]
+    1914: [7, 58]
+    1915: [7, 58]
+    1916: [13, 56]
+    1917: [12, 58]
+    1918: [13, 58]
+    1919: [6, 59]
+    1920: [12, 59]
+    1921: [12, 61]
+    1922: [14, 61]
+    1923: [14, 63]
+    1924: [14, 64]
+    1925: [13, 64]
+    1926: [11, 65]
+    1927: [10, 68]
+    1928: [3, 88]
+    1929: [3, 89]
+    1930: [3, 92]
+    1931: [3, 96]
+    1932: [3, 98]
+    1933: [3, 101]
+    1934: [2, 101]
+    1935: [2, 101]
+    1936: [2, 101]
+    1937: [1, 102]
+    1938: [2, 105]
+    1939: [2, 106]
+    1940: [2, 106]
+    1941: [2, 106]
+    1942: [3, 110]
+    1943: [4, 112]
+    1944: [2, 111]
+lifetimeRank: {rank: 63, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 65
+    range: [65, 65]
+    asOf: 2025
+earned:
+    totalThrough: 1944
+    total: 600551
+    byYear:
+        1911: 1
+        1912: 53
+        1913: 135
+        1914: 449
+        1915: 443
+        1916: 426
+        1917: 872
+        1918: 960
+        1919: 3226
+        1920: 2129
+        1921: 3433
+        1922: 4537
+        1923: 4856
+        1924: 4603
+        1925: 6510
+        1926: 10335
+        1927: 12822
+        1928: 19870
+        1929: 26037
+        1930: 26719
+        1931: 29364
+        1932: 30726
+        1933: 32538
+        1934: 29420
+        1935: 32297
+        1936: 27589
+        1937: 30801
+        1938: 36506
+        1939: 38618
+        1940: 38827
+        1941: 33525
+        1942: 32237
+        1943: 33990
+        1944: 45697
+patches:
+-   type: A
+    years: 1911-1933
+    note: variation A1
+    image: /history/handicraft/handicraft-patch-a1.webp
+-   type: A
+    years: 1911-1933
+    note: variation A2
+    image: /history/handicraft/handicraft-patch-a2.webp
+-   type: A
+    years: 1911-1933
+    note: variation A3
+    image: /history/handicraft/handicraft-patch-a3.webp
+- {type: B, years: 1934-1935, status: missing}
+- {type: C, years: 1936-1942, image: /history/handicraft/handicraft-patch-c.webp}
+- {type: D, years: '1942', image: /history/handicraft/handicraft-patch-d.webp}
+pamphlets:
+- {type: 1C, image: /history/handicraft/handicraft-1c.webp}
+- {type: '2', image: /history/handicraft/handicraft-2.webp}
+- {type: '3', status: missing}
+- {type: 3A, status: missing}
+- {type: 3B, image: /history/handicraft/handicraft-3b.webp}
+- {type: 3C, status: missing}
+- {type: '4', status: missing}
+trivia:
+-   q: Was Handicraft one of the original 57 merit badges?
+    a: Yes. It was in the first Official Handbook for Boys in 1911.
+- {q: 'What was the first thing a Scout had to do for Handicraft in 1911?', a: Be able to paint a door.}
+-   q: In what year did Scouts earn the most Handicraft merit badges?
+    a: 1944, when 45,697 were earned.
+- {q: 'How many Handicraft merit badges had been earned by 1944?', a: '600,551.'}
+-   q: What was Handicraft's best year in the rankings on record?
+    a: 1937, when it was 1st of the 102 merit badges earned that year.
+- {q: 'What replaced Handicraft after 1942?', a: Home Repairs.}

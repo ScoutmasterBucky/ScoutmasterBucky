@@ -1,0 +1,176 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Dentistry
+precededBy: None
+introduced: 1975
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1975
+    text: 'The Dentistry merit badge is introduced. The first Dentistry merit badges are earned: 3,195 that year. The earliest known Dentistry pamphlet printing (Type 8).'
+- {year: 2010, text: 'All-time high: 5,506 Dentistry merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 65th of 129 merit badges.'}
+ranks:
+    1975: [94, 128]
+    1976: [90, 130]
+    1977: [89, 130]
+    1978: [85, 131]
+    1979: [86, 132]
+    1980: [87, 132]
+    1981: [83, 134]
+    1993: [73, 123]
+    1996: [85, 134]
+    2000: [87, 128]
+    2001: [82, 129]
+    2002: [90, 129]
+    2003: [89, 130]
+    2004: [92, 121]
+    2005: [82, 121]
+    2006: [88, 121]
+    2007: [86, 121]
+    2008: [89, 121]
+    2009: [83, 122]
+    2010: [85, 125]
+    2011: [84, 129]
+    2012: [78, 132]
+    2013: [65, 129]
+    2014: [108, 136]
+    2015: [104, 138]
+    2016: [112, 138]
+    2017: [108, 139]
+    2018: [109, 139]
+    2019: [123, 139]
+    2020: [116, 137]
+    2021: [131, 137]
+    2022: [132, 138]
+    2023: [129, 138]
+    2024: [130, 138]
+    2025: [133, 141]
+lifetimeRank: {rank: 126, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 132
+    range: [131, 132]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 152381
+    byYear:
+        1975: 3195
+        1976: 3488
+        1977: 3186
+        1978: 2902
+        1979: 2034
+        1980: 1384
+        1981: 2481
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 4204
+        1994: null
+        1995: null
+        1996: 2873
+        1997: null
+        1998: null
+        1999: null
+        2000: 3371
+        2001: 3866
+        2002: 3815
+        2003: 3873
+        2004: 3942
+        2005: 4584
+        2006: 3770
+        2007: 3974
+        2008: 3814
+        2009: 5231
+        2010: 5506
+        2011: 4491
+        2012: 4403
+        2013: 4213
+        2014: 3416
+        2015: 3485
+        2016: 2910
+        2017: 3135
+        2018: 3110
+        2019: 2433
+        2020: 1924
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1975-2002
+    note: blue, clear, and molded
+    image: /history/dentistry/dentistry-patch-h.webp
+    more:
+    - {image: /history/dentistry/dentistry-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/dentistry/dentistry-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/dentistry/dentistry-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/dentistry/dentistry-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/dentistry/dentistry-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/dentistry/dentistry-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/dentistry/dentistry-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/dentistry/dentistry-patch-h5-reverse.webp, label: 'H variation H5, back'}
+-   type: I
+    years: 1993-1995
+    note: 38mm and 42mm
+    image: /history/dentistry/dentistry-patch-i42.webp
+    more:
+    - {image: /history/dentistry/dentistry-patch-ia-front.webp, label: IA front}
+    - {image: /history/dentistry/dentistry-patch-ia-reverse.webp, label: IA back}
+    - {image: /history/dentistry/dentistry-patch-ib-front.webp, label: IB front}
+    - {image: /history/dentistry/dentistry-patch-ib-reverse.webp, label: IB back}
+-   type: I
+    years: 1993-1995
+    note: variation I38
+    image: /history/dentistry/dentistry-patch-i38.webp
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/dentistry/dentistry-patch-j.webp
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/dentistry/dentistry-patch-k.webp
+    more:
+    - {image: /history/dentistry/dentistry-patch-k-front.webp, label: K front}
+    - {image: /history/dentistry/dentistry-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/dentistry/dentistry-patch-l.webp
+    more:
+    - {image: /history/dentistry/dentistry-patch-l-front.webp, label: L front}
+    - {image: /history/dentistry/dentistry-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '8', image: /history/dentistry/dentistry-8.webp}
+- {type: 9A, image: /history/dentistry/dentistry-9a.webp}
+- {type: 9B, image: /history/dentistry/dentistry-9b.webp}
+- {type: 9C, image: /history/dentistry/dentistry-9c.webp}
+- {type: 9D, image: /history/dentistry/dentistry-9d.webp}
+- {type: 10A, image: /history/dentistry/dentistry-10a.webp}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C-1A, image: /history/dentistry/dentistry-10c-1a.webp}
+- {type: 10C-1B, image: /history/dentistry/dentistry-10c-1b.webp}
+- {type: 10D, image: /history/dentistry/dentistry-10d.webp}
+hardcovers:
+- {type: HCT, image: /history/dentistry/dentistry-hct.webp}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Dentistry merit badges?
+    a: 2010, when 5,506 were earned.
+- {q: 'How many Dentistry merit badges had been earned by 2020?', a: '152,381.'}
+-   q: What was Dentistry's best year in the rankings on record?
+    a: 2013, when it was 65th of the 129 merit badges earned that year.
+- {q: 'When was the earliest known Dentistry pamphlet printed?', a: January 1975.}

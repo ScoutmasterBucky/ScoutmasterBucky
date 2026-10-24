@@ -1,0 +1,90 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Conservation of Natural Resources
+precededBy: None
+introduced: 1966
+discontinued: '1972'
+replacedWith: Environmental Science
+story: [The Conservation of Natural Resources merit badge.]
+timeline:
+-   year: 1966
+    text: 'The Conservation of Natural Resources merit badge is introduced. The first Conservation of Natural Resources merit badges are earned: 6,285 that year.'
+- {year: 1967, text: The earliest known Conservation of Natural Resources pamphlet printing (Type 7A-1).}
+- {year: 1969, text: 'Best ranking: 6th of 113 merit badges.'}
+- {year: 1970, text: 'All-time high: 71,666 Conservation of Natural Resources merit badges earned.'}
+-   year: 1972
+    text: Last year the Conservation of Natural Resources merit badge is offered; it is replaced by Environmental Science.
+ranks:
+    1966: [53, 110]
+    1967: [21, 112]
+    1968: [7, 112]
+    1969: [6, 113]
+    1970: [6, 113]
+    1971: [6, 113]
+    1972: [8, 124]
+    1973: [13, 122]
+lifetimeRank: {rank: 75, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 76
+    range: [76, 76]
+    asOf: 2025
+earned:
+    totalThrough: 1973
+    total: 406592
+    byYear: {1966: 6285, 1967: 27490, 1968: 64243, 1969: 70536, 1970: 71666, 1971: 66538, 1972: 56984, 1973: 42850}
+patches:
+- {type: F, years: 1966-1968, status: missing}
+-   type: G
+    years: 1961-1971
+    note: cloth back
+    image: /history/conservation-of-natural-resources/conservation-of-natural-resources-patch-g.webp
+-   type: G
+    years: 1961-1971
+    note: cloth back
+    image: /history/conservation-of-natural-resources/conservation-of-natural-resources-patch-gs.webp
+-   type: H
+    years: 1972-2002
+    note: blue, clear, and molded
+    image: /history/conservation-of-natural-resources/conservation-of-natural-resources-patch-hs.webp
+    more:
+    -   image: /history/conservation-of-natural-resources/conservation-of-natural-resources-patch-h1-front.webp
+        label: H variation H1, front
+    -   image: /history/conservation-of-natural-resources/conservation-of-natural-resources-patch-h1-reverse.webp
+        label: H variation H1, back
+    -   image: /history/conservation-of-natural-resources/conservation-of-natural-resources-patch-h2g-1-front.webp
+        label: H variation H2G-1, front
+    -   image: /history/conservation-of-natural-resources/conservation-of-natural-resources-patch-h2g-1-reverse.webp
+        label: H variation H2G-1, back
+    -   image: /history/conservation-of-natural-resources/conservation-of-natural-resources-patch-h2s-1-front.webp
+        label: H variation H2S-1, front
+    -   image: /history/conservation-of-natural-resources/conservation-of-natural-resources-patch-h2s-1-reverse.webp
+        label: H variation H2S-1, back
+-   type: H
+    years: 1972-2002
+    note: blue, clear, and molded
+    image: /history/conservation-of-natural-resources/conservation-of-natural-resources-patch-h.webp
+pamphlets:
+-   type: 7A-1
+    image: /history/conservation-of-natural-resources/conservation-of-natural-resources-7a-1.webp
+-   type: 7A-2
+    image: /history/conservation-of-natural-resources/conservation-of-natural-resources-7a-2.webp
+hardcovers:
+-   type: HCG
+    image: /history/conservation-of-natural-resources/conservation-of-natural-resources-hcg.webp
+-   type: HCL
+    image: /history/conservation-of-natural-resources/conservation-of-natural-resources-hcl.webp
+-   type: HCM
+    image: /history/conservation-of-natural-resources/conservation-of-natural-resources-hcm.webp
+-   type: HCN
+    image: /history/conservation-of-natural-resources/conservation-of-natural-resources-hcn.webp
+trivia:
+-   q: In what year did Scouts earn the most Conservation of Natural Resources merit badges?
+    a: 1970, when 71,666 were earned.
+- {q: 'How many Conservation of Natural Resources merit badges had been earned by 1973?', a: '406,592.'}
+-   q: What was Conservation of Natural Resources' best year in the rankings on record?
+    a: 1969, when it was 6th of the 113 merit badges earned that year.
+- {q: 'What replaced Conservation of Natural Resources after 1972?', a: Environmental Science.}
+-   q: When was the earliest known Conservation of Natural Resources pamphlet printed?
+    a: December 1967.

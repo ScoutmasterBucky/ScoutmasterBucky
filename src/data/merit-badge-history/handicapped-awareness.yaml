@@ -1,0 +1,25 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Handicapped Awareness
+precededBy: None
+introduced: 1980
+discontinued: '1985'
+replacedWith: Handicap Awareness
+timeline:
+- {year: 1980, text: The Handicapped Awareness merit badge is introduced.}
+- {year: 1981, text: The earliest known Handicapped Awareness pamphlet printing (Type 9A-1).}
+-   year: 1985
+    text: Last year the Handicapped Awareness merit badge is offered; it is replaced by Handicap Awareness.
+patches:
+-   type: H
+    years: 1980-1985
+    image: /history/handicapped-awareness/handicapped-awareness-patch-h.webp
+pamphlets:
+- {type: 9A-1, status: missing}
+- {type: 9A-2, status: missing}
+- {type: 9B, status: missing}
+trivia:
+- {q: 'What replaced Handicapped Awareness after 1985?', a: Handicap Awareness.}
+- {q: 'When was the earliest known Handicapped Awareness pamphlet printed?', a: January 1981.}

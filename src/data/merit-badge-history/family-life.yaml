@@ -1,0 +1,140 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Family Life
+precededBy: None
+introduced: 1991
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1991
+    text: The Family Life merit badge is introduced. The earliest known Family Life pamphlet printing (Type 9A-1A).
+- {year: 1993, text: 'First known count: 2,932 Family Life merit badges earned.'}
+- {year: 1996, text: 'All-time high: 61,305 Family Life merit badges earned.'}
+- {year: 2020, text: 'Best ranking: 1st of 137 merit badges.'}
+ranks:
+    1993: [84, 123]
+    1996: [7, 134]
+    2000: [12, 128]
+    2001: [10, 129]
+    2002: [11, 129]
+    2003: [10, 130]
+    2004: [11, 121]
+    2005: [11, 121]
+    2006: [10, 121]
+    2007: [9, 121]
+    2008: [9, 121]
+    2009: [9, 122]
+    2010: [10, 125]
+    2011: [9, 129]
+    2012: [9, 132]
+    2013: [5, 129]
+    2014: [11, 136]
+    2015: [12, 138]
+    2016: [12, 138]
+    2017: [11, 139]
+    2018: [11, 139]
+    2019: [10, 139]
+    2020: [1, 137]
+    2021: [16, 137]
+    2022: [15, 138]
+    2023: [14, 138]
+    2024: [13, 138]
+    2025: [13, 141]
+lifetimeRank: {rank: 31, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 29
+    range: [29, 29]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 1455287
+    byYear:
+        1991: null
+        1992: null
+        1993: 2932
+        1994: null
+        1995: null
+        1996: 61305
+        1997: null
+        1998: null
+        1999: null
+        2000: 54281
+        2001: 54303
+        2002: 57183
+        2003: 55630
+        2004: 57526
+        2005: 52538
+        2006: 52671
+        2007: 51225
+        2008: 52397
+        2009: 58568
+        2010: 58767
+        2011: 55812
+        2012: 56210
+        2013: 55080
+        2014: 49516
+        2015: 51008
+        2016: 50177
+        2017: 48774
+        2018: 48787
+        2019: 47788
+        2020: 48408
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1991-2002
+    image: /history/family-life/family-life-patch-h.webp
+    more:
+    - {image: /history/family-life/family-life-patch-h51-front.webp, label: 'H variation H51, front'}
+    - {image: /history/family-life/family-life-patch-h51-reverse.webp, label: 'H variation H51, back'}
+    - {image: /history/family-life/family-life-patch-h52-front.webp, label: 'H variation H52, front'}
+    - {image: /history/family-life/family-life-patch-h52-reverse.webp, label: 'H variation H52, back'}
+-   type: H
+    years: 1991-2002
+    note: variation HS
+    image: /history/family-life/family-life-patch-hs.webp
+- {type: I, years: 1993-1995, status: unknown}
+- {type: J, years: 2002-2009, image: /history/family-life/family-life-patch-j.webp}
+-   type: K
+    years: 2010-2014
+    image: /history/family-life/family-life-patch-k.webp
+    more:
+    - {image: /history/family-life/family-life-patch-k-front.webp, label: K front}
+    - {image: /history/family-life/family-life-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    image: /history/family-life/family-life-patch-l.webp
+    more:
+    - {image: /history/family-life/family-life-patch-l-front.webp, label: L front}
+    - {image: /history/family-life/family-life-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 9A-1A, image: /history/family-life/family-life-9a-1a.webp}
+- {type: 9A-1B, image: /history/family-life/family-life-9a-1b.webp}
+- {type: 9A-1C, image: /history/family-life/family-life-9a-1c.webp}
+- {type: 9B-1, image: /history/family-life/family-life-9b-1.webp}
+- {type: 9B-2, image: /history/family-life/family-life-9b-2.webp}
+- {type: 10A, image: /history/family-life/family-life-10a.webp}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b-e.webp}
+- {type: 10C-1, image: /history/family-life/family-life-10c-1.webp}
+- {type: 10C-1ES, image: /history/family-life/family-life-10c-1es.webp}
+- {type: 10C-2, image: /history/family-life/family-life-10c-2.webp}
+- {type: 10C-ES, status: missing}
+- {type: 10D-1, image: /history/family-life/family-life-10d-1.webp}
+- {type: 10D-2, image: /history/family-life/family-life-10d-2.webp}
+- {type: 11A, status: missing}
+trivia:
+-   q: Was the Family Life badge made in every patch style of its time?
+    a: No. No Type I Family Life badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Family Life merit badges?
+    a: 1996, when 61,305 were earned.
+- {q: 'How many Family Life merit badges had been earned by 2020?', a: '1,455,287.'}
+-   q: What was Family Life's best year in the rankings on record?
+    a: 2020, when it was 1st of the 137 merit badges earned that year.
+- {q: 'When was the earliest known Family Life pamphlet printed?', a: December 1991.}

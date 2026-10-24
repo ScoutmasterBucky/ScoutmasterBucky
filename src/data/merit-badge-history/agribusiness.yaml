@@ -1,0 +1,82 @@
+# Agribusiness merit badge history. Approved by Bucky on 2026-10-23; the
+# generator no longer overwrites this file (its printings still come from the
+# workbook). Story text is Bucky's own from his earlier page.
+
+name: Agribusiness
+precededBy: Farm and Ranch Management Food Systems
+introduced: 1987
+discontinued: '1995'
+# Terry 2013 (Journal of Agricultural Education) says it merged into American
+# Business, but that is the only source, and Bucky is not convinced (2026-10-23)
+replacedWith: None
+story: [The Agribusiness merit badge was short-lived and is one of the shortest run merit badge titles as well as total earned during its tenure in the merit badge offerings. Agribusiness was introduced
+        along with 5 other merit badges in 1987; the first new offerings since 1982 (Backpacking).]
+
+# No Agribusiness requirements found online yet; Bucky's 1987 pamphlet is the
+# best source. Researched trivia: the 1987 badges and numbers come from
+# usscouts.org and Bucky's old page; the American Business merger from Terry,
+# "Development and Evolution of Agriculturally Related Merit Badges",
+# Journal of Agricultural Education, 2013 (which also gives the 6,716 total).
+trivia:
+    - q: Agribusiness was one of how many brand-new merit badges in 1987?
+      a: Six. It was introduced with American Labor, Graphic Arts, Rifle Shooting, Shotgun Shooting and Whitewater, the first new badges since Backpacking in 1982.
+    - q: What number did the BSA give Agribusiness?
+      a: '120, the first of the six numbers (120 to 125) given to the new 1987 badges.'
+    - q: How many Agribusiness merit badges were earned in its short life?
+      a: 6,716 in all, one of the smallest totals of any merit badge.
+    - q: Was the Agribusiness badge made in every patch style of its time?
+      a: No. No Type I Agribusiness badge is known to exist.
+
+timeline:
+-   year: 1987
+    text: The Agribusiness merit badge is introduced. The earliest known Agribusiness pamphlet printing (Type 9A-1).
+-   year: 1993
+    text: 'First known count: 1,138 Agribusiness merit badges earned. All-time high: 1,138 Agribusiness merit badges earned. Best ranking: 117th of 123 merit badges.'
+- {year: 1995, text: Last year the Agribusiness merit badge is offered.}
+ranks:
+    1993: [117, 123]
+    1996: [121, 134]
+    2000: [124, 128]
+    2001: [122, 129]
+    2002: [126, 129]
+    2003: [128, 130]
+lifetimeRank: {rank: 216, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 218
+    range: [218, 218]
+    asOf: 2025
+earned:
+    totalThrough: 2003
+    total: 6716
+    byYear:
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 1138
+        1994: null
+        1995: null
+        1996: 192
+        1997: null
+        1998: null
+        1999: null
+        2000: 77
+        2001: 43
+        2002: 12
+        2003: 12
+patches:
+-   type: H
+    years: 1987-1995
+    note: molded
+    image: /history/agribusiness/agribusiness-patch-h.webp
+    more:
+    - {image: /history/agribusiness/agribusiness-patch-hm-reverse.webp, label: HM back}
+- {type: I, years: 1993-1995, status: unknown}
+pamphlets:
+-   type: 9A-1
+    image: /history/agribusiness/agribusiness-9a-1.webp
+    more:
+    - {image: /history/agribusiness/back-agribusiness-9b-2.webp, label: back 9B-2}
+- {type: 9A-2, image: /history/agribusiness/agribusiness-9a-2.webp}

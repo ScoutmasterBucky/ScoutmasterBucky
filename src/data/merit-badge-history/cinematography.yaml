@@ -1,0 +1,125 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Cinematography
+precededBy: None
+introduced: 1989
+discontinued: '2013'
+replacedWith: Moviemaking
+story: ['The Cinematography merit badge, was introduced in 1989 with significant help in its development by Eagle Scout, and famed movie director, Stephen Spielberg. Renamed to Moviemaking in 2013, the
+        requirements remain realtively unchanged.']
+timeline:
+- {year: 1989, text: The Cinematography merit badge is introduced.}
+- {year: 1990, text: The earliest known Cinematography pamphlet printing (Type 9A).}
+- {year: 1993, text: 'First known count: 1,730 Cinematography merit badges earned.'}
+-   year: 2013
+    text: 'All-time high: 8,465 Cinematography merit badges earned. Best ranking: 46th of 129 merit badges. Last year the Cinematography merit badge is offered; it is replaced by Moviemaking.'
+ranks:
+    1993: [102, 123]
+    1996: [88, 134]
+    2000: [88, 128]
+    2001: [91, 129]
+    2002: [93, 129]
+    2003: [90, 130]
+    2004: [82, 121]
+    2005: [74, 121]
+    2006: [81, 121]
+    2007: [79, 121]
+    2008: [75, 121]
+    2009: [75, 122]
+    2010: [75, 125]
+    2011: [61, 129]
+    2012: [58, 132]
+    2013: [46, 129]
+    2014: [97, 136]
+    2015: [131, 138]
+    2016: [133, 138]
+    2017: [138, 139]
+    2018: [139, 139]
+    2019: [139, 139]
+lifetimeRank: {rank: 137, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 144
+    range: [143, 144]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 106448
+    byYear:
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 1730
+        1994: null
+        1995: null
+        1996: 2525
+        1997: null
+        1998: null
+        1999: null
+        2000: 3295
+        2001: 2946
+        2002: 3386
+        2003: 3727
+        2004: 4950
+        2005: 5143
+        2006: 4768
+        2007: 4839
+        2008: 5673
+        2009: 6819
+        2010: 6529
+        2011: 7245
+        2012: 8308
+        2013: 8465
+        2014: 4026
+        2015: 1260
+        2016: 841
+        2017: 231
+        2018: 1
+        2019: 0
+        2020: 0
+patches:
+-   type: H
+    years: 1989-2002
+    note: molded
+    image: /history/cinematography/cinematography-patch-h.webp
+-   type: I
+    years: 1993-1995
+    note: 38mm
+    status: missing
+    more:
+    - {image: /history/cinematography/cinematography-patch-ia-front.webp, label: IA front}
+    - {image: /history/cinematography/cinematography-patch-ia-reverse.webp, label: IA back}
+-   type: I
+    years: 1993-1995
+    note: 42mm
+    image: /history/cinematography/cinematography-patch-i42.webp
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/cinematography/cinematography-patch-j.webp
+    more:
+    - {image: /history/cinematography/cinematography-patch-j1-front.webp, label: J1 front}
+    - {image: /history/cinematography/cinematography-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/cinematography/cinematography-patch-k.webp
+    more:
+    - {image: /history/cinematography/cinematography-patch-k-front.webp, label: K front}
+    - {image: /history/cinematography/cinematography-patch-k-reverse.webp, label: K back}
+pamphlets:
+- {type: 9A, image: /history/cinematography/cinematography-9a.webp}
+- {type: 9B, image: /history/cinematography/cinematography-9b.webp}
+- {type: 10A, image: /history/cinematography/cinematography-10a.webp}
+- {type: 10B, image: /history/cinematography/cinematography-10b.webp}
+- {type: 10C, image: /history/cinematography/cinematography-10c.webp}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Cinematography merit badges?
+    a: 2013, when 8,465 were earned.
+- {q: 'How many Cinematography merit badges had been earned by 2020?', a: '106,448.'}
+-   q: What was Cinematography's best year in the rankings on record?
+    a: 2013, when it was 46th of the 129 merit badges earned that year.
+- {q: 'What replaced Cinematography after 2013?', a: Moviemaking.}
+- {q: 'When was the earliest known Cinematography pamphlet printed?', a: March 1990.}

@@ -1,0 +1,65 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Sustainability
+precededBy: N/A
+introduced: 2013
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2013
+    text: 'The Sustainability merit badge is introduced. The first Sustainability merit badges are earned: 590 that year. The earliest known Sustainability pamphlet printing (Type 10C).'
+- {year: 2020, text: 'All-time high: 8,477 Sustainability merit badges earned.'}
+- {year: 2025, text: 'Best ranking: 25th of 141 merit badges.'}
+ranks:
+    2013: [100, 129]
+    2014: [84, 136]
+    2015: [76, 138]
+    2016: [72, 138]
+    2017: [66, 139]
+    2018: [66, 139]
+    2019: [64, 139]
+    2020: [31, 137]
+    2021: [61, 137]
+    2022: [63, 138]
+    2023: [65, 138]
+    2024: [31, 138]
+    2025: [25, 141]
+lifetimeRank: {rank: 172, asOf: 2020}
+earned:
+    totalThrough: 2020
+    total: 49748
+    byYear:
+        2013: 590
+        2014: 5428
+        2015: 6625
+        2016: 6813
+        2017: 7295
+        2018: 7192
+        2019: 7328
+        2020: 8477
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: K, years: 2013-2014, image: /history/sustainability/sustainability-patch-k.webp}
+-   type: L
+    years: 2013-2025
+    note: Since 1910 back
+    image: /history/sustainability/sustainability-patch-l.webp
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+- {type: 11A, status: missing}
+trivia:
+-   q: In what year did Scouts earn the most Sustainability merit badges?
+    a: 2020, when 8,477 were earned.
+- {q: 'How many Sustainability merit badges had been earned by 2020?', a: '49,748.'}
+-   q: What was Sustainability's best year in the rankings on record?
+    a: 2025, when it was 25th of the 141 merit badges earned that year.
+- {q: 'What came before the Sustainability merit badge?', a: N/A.}
+- {q: 'When was the earliest known Sustainability pamphlet printed?', a: '2013.'}

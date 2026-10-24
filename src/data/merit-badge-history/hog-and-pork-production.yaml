@@ -1,0 +1,123 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Hog and Pork Production
+precededBy: None
+introduced: 1928
+discontinued: '1958'
+replacedWith: Hog Production
+timeline:
+-   year: 1928
+    text: 'The Hog and Pork Production merit badge is introduced. The first Hog and Pork Production merit badges are earned: 83 that year.'
+- {year: 1929, text: The earliest known Hog and Pork Production pamphlet printing (Type 3B).}
+-   year: 1951
+    text: 'All-time high: 2,767 Hog and Pork Production merit badges earned. Best ranking: 58th of 111 merit badges.'
+-   year: 1958
+    text: Last year the Hog and Pork Production merit badge is offered; it is replaced by Hog Production.
+ranks:
+    1928: [84, 88]
+    1929: [82, 89]
+    1930: [74, 92]
+    1931: [72, 96]
+    1932: [73, 98]
+    1933: [68, 101]
+    1934: [66, 101]
+    1935: [66, 101]
+    1936: [75, 101]
+    1937: [59, 102]
+    1938: [73, 105]
+    1939: [68, 106]
+    1940: [66, 106]
+    1941: [65, 106]
+    1942: [66, 110]
+    1943: [64, 112]
+    1944: [64, 111]
+    1945: [66, 111]
+    1946: [66, 111]
+    1947: [62, 111]
+    1948: [65, 111]
+    1949: [67, 111]
+    1950: [65, 111]
+    1951: [58, 111]
+    1952: [68, 120]
+    1953: [72, 105]
+    1954: [71, 103]
+    1955: [77, 100]
+    1956: [80, 100]
+    1957: [80, 100]
+    1958: [79, 101]
+lifetimeRank: {rank: 176, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 182
+    range: [181, 182]
+    asOf: 2025
+earned:
+    totalThrough: 1958
+    total: 43235
+    byYear:
+        1928: 83
+        1929: 292
+        1930: 520
+        1931: 1005
+        1932: 832
+        1933: 1116
+        1934: 1080
+        1935: 1580
+        1936: 689
+        1937: 1834
+        1938: 1028
+        1939: 1330
+        1940: 1366
+        1941: 1314
+        1942: 1151
+        1943: 1527
+        1944: 1860
+        1945: 1822
+        1946: 1596
+        1947: 1611
+        1948: 1412
+        1949: 1416
+        1950: 1690
+        1951: 2767
+        1952: 2311
+        1953: 1515
+        1954: 1955
+        1955: 1680
+        1956: 1615
+        1957: 1628
+        1958: 1610
+patches:
+-   type: A
+    years: 1928-1933
+    image: /history/hog-and-pork-production/hog-and-pork-production-patch-a.webp
+- {type: B, years: 1934-1935, status: missing}
+-   type: C
+    years: 1936-1942
+    image: /history/hog-and-pork-production/hog-and-pork-production-patch-c.webp
+-   type: D
+    years: 1942-1946
+    image: /history/hog-and-pork-production/hog-and-pork-production-patch-d.webp
+-   type: E
+    years: 1947-1958
+    image: /history/hog-and-pork-production/hog-and-pork-production-patch-e.webp
+pamphlets:
+- {type: 3B, image: /history/hog-and-pork-production/hog-and-pork-production-3b.webp}
+- {type: 5B-1, image: /history/hog-and-pork-production/hog-and-pork-production-5b-1.webp}
+- {type: 5B-2, image: /history/hog-and-pork-production/hog-and-pork-production-5b-2.webp}
+- {type: 5B-3, image: /history/hog-and-pork-production/hog-and-pork-production-5b-3.webp}
+- {type: 6A, image: /history/hog-and-pork-production/hog-and-pork-production-6a.webp}
+- {type: 6B, image: /history/hog-and-pork-production/hog-and-pork-production-6b.webp}
+hardcovers:
+- {type: HCC, image: /history/hog-and-pork-production/hog-and-pork-production-hcc.webp}
+- {type: HCE, image: /history/hog-and-pork-production/hog-and-pork-production-hce.webp}
+- {type: HCH, image: /history/hog-and-pork-production/hog-and-pork-production-hch.webp}
+- {type: HCJ, image: /history/hog-and-pork-production/hog-and-pork-production-hcj.webp}
+trivia:
+-   q: In what year did Scouts earn the most Hog and Pork Production merit badges?
+    a: 1951, when 2,767 were earned.
+- {q: 'How many Hog and Pork Production merit badges had been earned by 1958?', a: '43,235.'}
+-   q: What was Hog and Pork Production's best year in the rankings on record?
+    a: 1951, when it was 58th of the 111 merit badges earned that year.
+- {q: 'What replaced Hog and Pork Production after 1958?', a: Hog Production.}
+- {q: 'When was the earliest known Hog and Pork Production pamphlet printed?', a: September 1929.}

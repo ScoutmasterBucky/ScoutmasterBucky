@@ -1,0 +1,224 @@
+# American Business merit badge history. Approved by Bucky on 2026-10-23; the
+# generator no longer overwrites this file (its printings still come from the
+# workbook). Research sources are in history-tools/research/american-business.yaml.
+
+name: American Business
+precededBy: Business
+precededByLink: business
+introduced: 1967
+discontinued: Current
+replacedWith: Current
+story: ['The American Business merit badge is one of the least earned merit badges, finding itself in the bottom 10 of all merit badges earned for most of the 2000s and 2010s.']
+timeline:
+-   year: 1967
+    text: 'The American Business merit badge is introduced. The first American Business merit badges are earned: 2,107 that year.'
+- {year: 1968, text: The earliest known American Business pamphlet printing (Type 7A).}
+-   year: 2020
+    text: 'All-time high: 4,967 American Business merit badges earned. Best ranking: 71st of 137 merit badges.'
+ranks:
+    1967: [82, 112]
+    1968: [87, 112]
+    1969: [101, 113]
+    1970: [94, 113]
+    1971: [102, 113]
+    1972: [104, 124]
+    1973: [84, 122]
+    1974: [110, 121]
+    1975: [115, 128]
+    1976: [113, 130]
+    1977: [115, 130]
+    1978: [112, 131]
+    1979: [109, 132]
+    1980: [111, 132]
+    1981: [101, 134]
+    1993: [107, 123]
+    1996: [114, 134]
+    2000: [115, 128]
+    2001: [119, 129]
+    2002: [118, 129]
+    2003: [120, 130]
+    2004: [118, 121]
+    2005: [121, 121]
+    2006: [118, 121]
+    2007: [121, 121]
+    2008: [120, 121]
+    2009: [119, 122]
+    2010: [123, 125]
+    2011: [117, 129]
+    2012: [116, 132]
+    2013: [99, 129]
+    2014: [135, 136]
+    2015: [137, 138]
+    2016: [136, 138]
+    2017: [136, 139]
+    2018: [136, 139]
+    2019: [128, 139]
+    2020: [71, 137]
+    2021: [118, 137]
+    2022: [121, 138]
+    2023: [112, 138]
+    2024: [101, 138]
+    2025: [104, 141]
+lifetimeRank: {rank: 164, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 165
+    range: [165, 167]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 61953
+    byYear:
+        1967: 2107
+        1968: 1715
+        1969: 1415
+        1970: 1595
+        1971: 1222
+        1972: 1618
+        1973: 3272
+        1974: 2180
+        1975: 1920
+        1976: 1816
+        1977: 1571
+        1978: 1332
+        1979: 1081
+        1980: 657
+        1981: 1247
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 1442
+        1994: null
+        1995: null
+        1996: 813
+        1997: null
+        1998: null
+        1999: null
+        2000: 810
+        2001: 608
+        2002: 719
+        2003: 669
+        2004: 917
+        2005: 541
+        2006: 717
+        2007: 539
+        2008: 494
+        2009: 685
+        2010: 667
+        2011: 707
+        2012: 679
+        2013: 805
+        2014: 650
+        2015: 587
+        2016: 627
+        2017: 613
+        2018: 551
+        2019: 1468
+        2020: 4967
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: F, years: 1967-1968, status: unknown}
+-   type: G
+    years: 1961-1971
+    note: cloth back
+    image: /history/american-business/american-business-patch-g.webp
+    more:
+    - {image: /history/american-business/american-business-patch-g-reverse.webp, label: G back}
+-   type: H
+    years: 1972-2002
+    note: blue, clear, and molded
+    image: /history/american-business/american-business-patch-h.webp
+    more:
+    -   image: /history/american-business/american-business-patch-h1-front.webp
+        label: H variation H1, front
+    -   image: /history/american-business/american-business-patch-h1-reverse.webp
+        label: H variation H1, back
+    -   image: /history/american-business/american-business-patch-h2-1-front.webp
+        label: H variation H2-1, front
+    -   image: /history/american-business/american-business-patch-h2-1-reverse.webp
+        label: H variation H2-1, back
+    -   image: /history/american-business/american-business-patch-h3-front.webp
+        label: H variation H3, front
+    -   image: /history/american-business/american-business-patch-h5-front.webp
+        label: H variation H5, front
+    -   image: /history/american-business/american-business-patch-h5-reverse.webp
+        label: H variation H5, back
+    - {image: /history/american-business/american-business-patch-hb-front.webp, label: HB front}
+    - {image: /history/american-business/american-business-patch-hb-reverse.webp, label: HB back}
+    - {image: /history/american-business/american-business-patch-hc-front.webp, label: HC front}
+    - {image: /history/american-business/american-business-patch-hc-reverse.webp, label: HC back}
+    - {image: /history/american-business/american-business-patch-hm-reverse.webp, label: HM back}
+-   type: I
+    years: 1993-1995
+    note: 38mm and 42mm
+    image: /history/american-business/american-business-patch-i42.webp
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/american-business/american-business-patch-j.webp
+    more:
+    - {image: /history/american-business/american-business-patch-j1-front.webp, label: J1 front}
+    - {image: /history/american-business/american-business-patch-j1-reverse.webp, label: J1 back}
+    - {image: /history/american-business/american-business-patch-j-front.webp, label: J front}
+    - {image: /history/american-business/american-business-patch-j-reverse.webp, label: J back}
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/american-business/american-business-patch-k.webp
+    more:
+    - {image: /history/american-business/american-business-patch-k-front.webp, label: K front}
+    - {image: /history/american-business/american-business-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/american-business/american-business-patch-l.webp
+-   type: M
+    years: 2025-current
+    note: Scouting America back
+    image: /history/american-business/american-business-patch-m-front.webp
+    more:
+    - {image: /history/american-business/american-business-patch-m-reverse.webp, label: M back}
+pamphlets:
+- {type: 7A, image: /history/american-business/american-business-7a.webp}
+- {type: 7B, image: /history/american-business/american-business-7b.webp}
+- {type: 8A, image: /history/american-business/american-business-8a.webp}
+- {type: 8B, image: /history/american-business/american-business-8b.webp}
+- {type: 9A-1, image: /history/american-business/american-business-9a-1.webp}
+- {type: 9A-2, image: /history/american-business/american-business-9a-2.webp}
+- {type: 9A-3, image: /history/american-business/american-business-9a-3.webp}
+- {type: 9B, image: /history/american-business/american-business-9b.webp}
+- {type: 10A, image: /history/american-business/american-business-10a.webp}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C-1A, image: /history/american-business/american-business-10c-1a.webp}
+- {type: 10C-1B, image: /history/american-business/american-business-10c-1b.webp}
+- {type: 10D-1, image: /history/american-business/american-business-10d-1.webp}
+- {type: 10D-2, image: /history/american-business/american-business-10d-2.webp}
+- {type: 11A, status: missing}
+hardcovers:
+- {type: HCM, image: /history/american-business/american-business-hcm.webp}
+- {type: HCN, image: /history/american-business/american-business-hcn.webp}
+- {type: HCR, image: /history/american-business/american-business-hcr.webp}
+- {type: HCS, image: /history/american-business/american-business-hcs.webp}
+- {type: HCT, image: /history/american-business/american-business-hct.webp}
+trivia:
+-   q: Which other merit badges were brand new in 1967, along with American Business?
+    a: Computers, Engineering, Landscape Architecture and Theater.
+-   q: Which merit badge came before American Business?
+    a: Business, one of the original 57 badges of 1911. It became American Business in 1967.
+-   q: Which merit badge had the second-biggest jump in 2020, after Public Health?
+    a: American Business. Scouts earned 4,967, up 238 percent from 1,468 in 2019, as many worked on badges from home.
+-   q: Where did American Business rank in 2005 and 2007?
+    a: Last, 121st of the 121 merit badges earned in each of those years.
+-   q: What idea did the first American Business pamphlet highlight?
+    a: Free enterprise, through what it takes to run a small business.

@@ -1,0 +1,80 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Beekeeping
+precededBy: Introduced as Bee Farming became Bee Keeping
+introduced: 1911
+discontinued: '1913'
+replacedWith: Bee Keeping Beekeeping
+story: ['The Bee Keeping / Beekeeping merit badge is sometimes considered to be two different merit badges, this is due in part to the spelling change in the early 1950''s from two words to one word.']
+timeline:
+-   year: 1911
+    text: The Beekeeping merit badge is introduced. It is one of the original 57 merit badges.
+-   year: 1912
+    text: 'The first Beekeeping merit badges are earned: 25 that year. Best ranking: 23rd of 51 merit badges.'
+-   year: 1913
+    text: 'All-time high: 62 Beekeeping merit badges earned. Last year the Beekeeping merit badge is offered; it is replaced by Bee Keeping Beekeeping.'
+- {year: 1920, text: The earliest known Beekeeping pamphlet printing (Type 1C).}
+ranks:
+    1912: [23, 51]
+    1913: [25, 56]
+earned:
+    totalThrough: 1913
+    total: 87
+    totalKnownOnly: true
+    byYear: {1911: 0, 1912: 25, 1913: 62}
+patches:
+- {type: A, years: 1911-1913, note: variations, status: missing}
+- {type: A, years: 1914-1933, note: variations, status: missing}
+- {type: B, years: 1934-1935, note: heavyweight cloth, status: missing}
+- {type: C, years: 1936-1938, note: heavyweight cloth, status: missing}
+- {type: C, years: 1939-1946, note: heavyweight and lightweight cloth, status: missing}
+- {type: D, status: unknown}
+- {type: E, years: 1947-1951, image: /history/beekeeping/beekeeping-patch-e.webp}
+- {type: E, years: 1952-1956, image: /history/beekeeping/beekeeping-patch-e.webp}
+- {type: E, years: 1957-1960, image: /history/beekeeping/beekeeping-patch-e2.webp}
+- {type: F, status: none}
+- {type: G, image: /history/beekeeping/beekeeping-patch-g.webp}
+- {type: G, note: variation GS, image: /history/beekeeping/beekeeping-patch-gs.webp}
+-   type: H
+    image: /history/beekeeping/beekeeping-patch-h.webp
+    more:
+    - {image: /history/beekeeping/beekeeping-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/beekeeping/beekeeping-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/beekeeping/beekeeping-patch-h1-1-front.webp, label: 'H variation H1-1, front'}
+    - {image: /history/beekeeping/beekeeping-patch-h1-1-reverse.webp, label: 'H variation H1-1, back'}
+    - {image: /history/beekeeping/beekeeping-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/beekeeping/beekeeping-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/beekeeping/beekeeping-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/beekeeping/beekeeping-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/beekeeping/beekeeping-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/beekeeping/beekeeping-patch-h5-reverse.webp, label: 'H variation H5, back'}
+pamphlets:
+- {type: 1C, image: /history/beekeeping/beekeeping-1c.webp}
+- {type: '2', image: /history/beekeeping/beekeeping-2.webp}
+- {type: 3A over 2, image: /history/beekeeping/beekeeping-3a-over-2.webp}
+- {type: 3A, image: /history/beekeeping/beekeeping-3a.webp}
+- {type: 3B, image: /history/beekeeping/beekeeping-3b.webp}
+- {type: 5A, image: /history/beekeeping/beekeeping-5a.webp}
+- {type: 5B, image: /history/beekeeping/beekeeping-5b.webp}
+- {type: 6A, image: /history/beekeeping/beekeeping-6a.webp}
+- {type: 6B, image: /history/beekeeping/beekeeping-6b.webp}
+- {type: '7', image: /history/beekeeping/beekeeping-7.webp}
+- {type: '8', image: /history/beekeeping/beekeeping-8.webp}
+- {type: 9A, image: /history/beekeeping/beekeeping-9a.webp}
+- {type: 9B, image: /history/beekeeping/beekeeping-9b.webp}
+hardcovers:
+- {type: HCC, image: /history/beekeeping/beekeeping-hcc.webp}
+- {type: HCJ, image: /history/beekeeping/beekeeping-hcj.webp}
+- {type: HCS, image: /history/beekeeping/beekeeping-hcs.webp}
+trivia:
+-   q: Was the Beekeeping badge made in every patch style of its time?
+    a: No. No Type D or F Beekeeping badge is known to exist.
+-   q: Was Beekeeping one of the original 57 merit badges?
+    a: Yes. It was in the first Official Handbook for Boys in 1911.
+- {q: 'In what year did Scouts earn the most Beekeeping merit badges?', a: '1913, when 62 were earned.'}
+-   q: What was Beekeeping's best year in the rankings on record?
+    a: 1912, when it was 23rd of the 51 merit badges earned that year.
+- {q: 'What came before the Beekeeping merit badge?', a: Introduced as Bee Farming became Bee Keeping.}
+- {q: 'What replaced Beekeeping after 1913?', a: Bee Keeping and Beekeeping.}

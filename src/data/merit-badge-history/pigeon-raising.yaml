@@ -1,0 +1,163 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Pigeon Raising
+precededBy: None
+introduced: 1933
+discontinued: '1980'
+replacedWith: None
+timeline:
+-   year: 1933
+    text: 'The Pigeon Raising merit badge is introduced. The first Pigeon Raising merit badges are earned: 448 that year.'
+- {year: 1934, text: The earliest known Pigeon Raising pamphlet printing (Type 3B).}
+- {year: 1938, text: 'Best ranking: 64th of 105 merit badges.'}
+- {year: 1959, text: 'All-time high: 2,058 Pigeon Raising merit badges earned.'}
+- {year: 1980, text: Last year the Pigeon Raising merit badge is offered.}
+ranks:
+    1933: [89, 101]
+    1934: [93, 101]
+    1935: [83, 101]
+    1936: [87, 101]
+    1937: [86, 102]
+    1938: [64, 105]
+    1939: [83, 106]
+    1940: [81, 106]
+    1941: [74, 106]
+    1942: [82, 110]
+    1943: [79, 112]
+    1944: [75, 111]
+    1945: [76, 111]
+    1946: [82, 111]
+    1947: [84, 111]
+    1948: [80, 111]
+    1949: [87, 111]
+    1950: [88, 111]
+    1951: [89, 111]
+    1952: [96, 120]
+    1953: [84, 105]
+    1954: [87, 103]
+    1955: [87, 100]
+    1956: [88, 100]
+    1957: [86, 100]
+    1958: [82, 101]
+    1959: [77, 101]
+    1960: [84, 100]
+    1961: [82, 101]
+    1962: [83, 101]
+    1963: [76, 102]
+    1964: [84, 107]
+    1965: [95, 109]
+    1966: [100, 110]
+    1967: [101, 112]
+    1968: [104, 112]
+    1969: [105, 113]
+    1970: [106, 113]
+    1971: [105, 113]
+    1972: [108, 124]
+    1973: [107, 122]
+    1974: [115, 121]
+    1975: [122, 128]
+    1976: [123, 130]
+    1977: [120, 130]
+    1978: [119, 131]
+    1979: [118, 132]
+    1980: [118, 132]
+    1981: [119, 134]
+lifetimeRank: {rank: 173, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 177
+    range: [177, 178]
+    asOf: 2025
+earned:
+    totalThrough: 1981
+    total: 48522
+    byYear:
+        1933: 448
+        1934: 263
+        1935: 538
+        1936: 380
+        1937: 558
+        1938: 1478
+        1939: 669
+        1940: 684
+        1941: 987
+        1942: 605
+        1943: 935
+        1944: 1348
+        1945: 1176
+        1946: 825
+        1947: 645
+        1948: 666
+        1949: 577
+        1950: 651
+        1951: 748
+        1952: 743
+        1953: 825
+        1954: 984
+        1955: 1094
+        1956: 993
+        1957: 1114
+        1958: 1460
+        1959: 2058
+        1960: 1581
+        1961: 1853
+        1962: 1823
+        1963: 1955
+        1964: 1737
+        1965: 1272
+        1966: 1132
+        1967: 1000
+        1968: 877
+        1969: 1015
+        1970: 901
+        1971: 931
+        1972: 1474
+        1973: 1142
+        1974: 1560
+        1975: 1119
+        1976: 1014
+        1977: 961
+        1978: 1080
+        1979: 148
+        1980: 255
+        1981: 240
+patches:
+- {type: A, years: '1933', image: /history/pigeon-raising/pigeon-raising-patch-a.webp}
+- {type: B, years: 1934-1935, status: missing}
+- {type: C, years: 1936-1942, image: /history/pigeon-raising/pigeon-raising-patch-c.webp}
+- {type: D, years: 1942-1946, image: /history/pigeon-raising/pigeon-raising-patch-d.webp}
+- {type: E, years: 1947-1960, image: /history/pigeon-raising/pigeon-raising-patch-e.webp}
+- {type: F, years: 1961-1968, image: /history/pigeon-raising/pigeon-raising-patch-f.webp}
+- {type: G, years: 1961-1971, image: /history/pigeon-raising/pigeon-raising-patch-g.webp}
+-   type: H
+    years: 1972-1980
+    image: /history/pigeon-raising/pigeon-raising-patch-h.webp
+    more:
+    - {image: /history/pigeon-raising/pigeon-raising-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/pigeon-raising/pigeon-raising-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/pigeon-raising/pigeon-raising-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/pigeon-raising/pigeon-raising-patch-h3-reverse.webp, label: 'H variation H3, back'}
+pamphlets:
+- {type: 3B, status: missing}
+- {type: '4', status: missing}
+- {type: 5B, status: missing}
+- {type: 6A, status: missing}
+- {type: 6B, status: missing}
+- {type: '7', status: missing}
+- {type: 8A, status: missing}
+- {type: 8B, status: missing}
+hardcovers:
+- {type: HCI, image: /history/pigeon-raising/pigeon-raising-hci.webp}
+- {type: HCJ, image: /history/pigeon-raising/pigeon-raising-hcj.webp}
+- {type: HCL, image: /history/pigeon-raising/pigeon-raising-hcl.webp}
+- {type: HCM, image: /history/pigeon-raising/pigeon-raising-hcm.webp}
+- {type: HCP, image: /history/pigeon-raising/pigeon-raising-hcp.webp}
+- {type: HCS, image: /history/pigeon-raising/pigeon-raising-hcs.webp}
+trivia:
+-   q: In what year did Scouts earn the most Pigeon Raising merit badges?
+    a: 1959, when 2,058 were earned.
+- {q: 'How many Pigeon Raising merit badges had been earned by 1981?', a: '48,522.'}
+-   q: What was Pigeon Raising's best year in the rankings on record?
+    a: 1938, when it was 64th of the 105 merit badges earned that year.
+- {q: 'When was the earliest known Pigeon Raising pamphlet printed?', a: August 1934.}

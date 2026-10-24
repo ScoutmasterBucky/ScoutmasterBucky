@@ -1,0 +1,115 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Medicine
+precededBy: None
+introduced: 1991
+discontinued: '2021'
+replacedWith: Health Care Professions
+timeline:
+-   year: 1991
+    text: The Medicine merit badge is introduced. The earliest known Medicine pamphlet printing (Type 9A).
+- {year: 1993, text: 'First known count: 2,495 Medicine merit badges earned.'}
+- {year: 2010, text: 'All-time high: 4,547 Medicine merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 67th of 129 merit badges.'}
+-   year: 2021
+    text: Last year the Medicine merit badge is offered; it is replaced by Health Care Professions.
+ranks:
+    1993: [88, 123]
+    1996: [94, 134]
+    2000: [93, 128]
+    2001: [92, 129]
+    2002: [97, 129]
+    2003: [98, 130]
+    2004: [96, 121]
+    2005: [94, 121]
+    2006: [93, 121]
+    2007: [89, 121]
+    2008: [91, 121]
+    2009: [90, 122]
+    2010: [88, 125]
+    2011: [85, 129]
+    2012: [75, 132]
+    2013: [67, 129]
+    2014: [102, 136]
+    2015: [100, 138]
+    2016: [100, 138]
+    2017: [99, 139]
+    2018: [98, 139]
+    2019: [102, 139]
+    2020: [95, 137]
+lifetimeRank: {rank: 143, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 145
+    range: [145, 146]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 94597
+    byYear:
+        1991: null
+        1992: null
+        1993: 2495
+        1994: null
+        1995: null
+        1996: 2079
+        1997: null
+        1998: null
+        1999: null
+        2000: 2756
+        2001: 2901
+        2002: 3031
+        2003: 3074
+        2004: 3196
+        2005: 3396
+        2006: 3493
+        2007: 3644
+        2008: 3693
+        2009: 4513
+        2010: 4547
+        2011: 4480
+        2012: 4507
+        2013: 3990
+        2014: 3725
+        2015: 3807
+        2016: 3767
+        2017: 3561
+        2018: 3878
+        2019: 3758
+        2020: 3278
+patches:
+-   type: H
+    years: 1991-2002
+    image: /history/medicine/medicine-patch-h.webp
+    more:
+    - {image: /history/medicine/medicine-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/medicine/medicine-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, years: 1993-1995, status: unknown}
+- {type: J, years: 2002-2009, image: /history/medicine/medicine-patch-j.webp}
+-   type: K
+    years: 2010-2014
+    image: /history/medicine/medicine-patch-k.webp
+    more:
+    - {image: /history/medicine/medicine-patch-k-front.webp, label: K front}
+    - {image: /history/medicine/medicine-patch-k-reverse.webp, label: K back}
+- {type: L, years: 2015-2021, image: /history/medicine/medicine-patch-l.webp}
+pamphlets:
+- {type: '9', status: missing}
+- {type: 9A, status: missing}
+- {type: 9B-1, status: missing}
+- {type: 9B-2, status: missing}
+- {type: 10A, status: missing}
+- {type: 10B, status: missing}
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+trivia:
+-   q: Was the Medicine badge made in every patch style of its time?
+    a: No. No Type I Medicine badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Medicine merit badges?
+    a: 2010, when 4,547 were earned.
+- {q: 'How many Medicine merit badges had been earned by 2020?', a: '94,597.'}
+-   q: What was Medicine's best year in the rankings on record?
+    a: 2013, when it was 67th of the 129 merit badges earned that year.
+- {q: 'What replaced Medicine after 2021?', a: Health Care Professions.}
+- {q: 'When was the earliest known Medicine pamphlet printed?', a: November 1991.}

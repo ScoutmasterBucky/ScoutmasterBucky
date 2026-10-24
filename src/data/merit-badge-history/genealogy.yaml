@@ -1,0 +1,171 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Genealogy
+precededBy: None
+introduced: 1972
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1972
+    text: 'The Genealogy merit badge is introduced. The first Genealogy merit badges are earned: 1,189 that year.'
+- {year: 1973, text: The earliest known Genealogy pamphlet printing (Type 8A-1).}
+- {year: 1977, text: 'All-time high: 6,851 Genealogy merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 54th of 129 merit badges.'}
+ranks:
+    1972: [115, 124]
+    1973: [101, 122]
+    1974: [80, 121]
+    1975: [75, 128]
+    1976: [71, 130]
+    1977: [63, 130]
+    1978: [60, 131]
+    1979: [62, 132]
+    1980: [63, 132]
+    1981: [62, 134]
+    1993: [59, 123]
+    1996: [62, 134]
+    2000: [72, 128]
+    2001: [72, 129]
+    2002: [71, 129]
+    2003: [70, 130]
+    2004: [69, 121]
+    2005: [67, 121]
+    2006: [72, 121]
+    2007: [83, 121]
+    2008: [81, 121]
+    2009: [80, 122]
+    2010: [76, 125]
+    2011: [77, 129]
+    2012: [67, 132]
+    2013: [54, 129]
+    2014: [82, 136]
+    2015: [85, 138]
+    2016: [89, 138]
+    2017: [86, 139]
+    2018: [91, 139]
+    2019: [97, 139]
+    2020: [54, 137]
+    2021: [105, 137]
+    2022: [120, 138]
+    2023: [109, 138]
+    2024: [116, 138]
+    2025: [116, 141]
+lifetimeRank: {rank: 93, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 96
+    range: [96, 96]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 261683
+    byYear:
+        1972: 1189
+        1973: 1586
+        1974: 4742
+        1975: 6269
+        1976: 6522
+        1977: 6851
+        1978: 6663
+        1979: 5179
+        1980: 3177
+        1981: 5106
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 6680
+        1994: null
+        1995: null
+        1996: 6005
+        1997: null
+        1998: null
+        1999: null
+        2000: 5610
+        2001: 5309
+        2002: 5722
+        2003: 5702
+        2004: 5714
+        2005: 5704
+        2006: 5218
+        2007: 4387
+        2008: 4841
+        2009: 5674
+        2010: 6386
+        2011: 5452
+        2012: 5641
+        2013: 5740
+        2014: 5474
+        2015: 5316
+        2016: 4570
+        2017: 5213
+        2018: 4830
+        2019: 4096
+        2020: 6020
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1972-2002
+    image: /history/genealogy/genealogy-patch-h.webp
+    more:
+    - {image: /history/genealogy/genealogy-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/genealogy/genealogy-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/genealogy/genealogy-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/genealogy/genealogy-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/genealogy/genealogy-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/genealogy/genealogy-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, years: 1993-1995, status: unknown}
+-   type: J
+    years: 2002-2009
+    image: /history/genealogy/genealogy-patch-j.webp
+    more:
+    - {image: /history/genealogy/genealogy-patch-j1-front.webp, label: J1 front}
+    - {image: /history/genealogy/genealogy-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    image: /history/genealogy/genealogy-patch-k.webp
+    more:
+    - {image: /history/genealogy/genealogy-patch-k-front.webp, label: K front}
+    - {image: /history/genealogy/genealogy-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    image: /history/genealogy/genealogy-patch-l.webp
+    more:
+    - {image: /history/genealogy/genealogy-patch-l-front.webp, label: L front}
+    - {image: /history/genealogy/genealogy-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 8A-1, image: /history/genealogy/genealogy-8a-1.webp}
+- {type: 8A-2, image: /history/genealogy/genealogy-8a-2.webp}
+- {type: 9A, image: /history/genealogy/genealogy-9a.webp}
+- {type: 9B, image: /history/genealogy/genealogy-9b.webp}
+- {type: 9C-1, image: /history/genealogy/genealogy-9c-1.webp}
+- {type: 9C-2, image: /history/genealogy/genealogy-9c-2.webp}
+- {type: 10A, image: /history/genealogy/genealogy-10a.webp}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C-1A, image: /history/genealogy/genealogy-10c-1a.webp}
+- {type: 10C-1B, image: /history/genealogy/genealogy-10c-1b.webp}
+- {type: 10C-2, image: /history/genealogy/genealogy-10c-2.webp}
+- {type: 10D, image: /history/genealogy/genealogy-10d.webp}
+- {type: 11A, status: missing}
+trivia:
+-   q: Was the Genealogy badge made in every patch style of its time?
+    a: No. No Type I Genealogy badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Genealogy merit badges?
+    a: 1977, when 6,851 were earned.
+- {q: 'How many Genealogy merit badges had been earned by 2020?', a: '261,683.'}
+-   q: What was Genealogy's best year in the rankings on record?
+    a: 2013, when it was 54th of the 129 merit badges earned that year.
+- {q: 'When was the earliest known Genealogy pamphlet printed?', a: September 1973.}

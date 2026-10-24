@@ -1,0 +1,443 @@
+# Archery merit badge history.
+# Image paths are under /public. Leave `image` off when no photo exists yet;
+# use `status` to say why: missing (photo needed), unknown (not known to exist),
+# none (does not exist in this style), notMade (never printed).
+# `more` adds extra photos (variations, backs) shown in the enlarged view.
+# Pamphlet printings come from printings/archery.yaml (generated from the workbook).
+
+name: Archery
+precededBy: Original badge
+introduced: 1911
+discontinued: Current
+replacedWith: Current
+
+story:
+    - Archery is one of the original 57 merit badges. It appeared in the first Official Handbook for Boys in 1911, and its symbol, a bow and arrow, has been on the badge ever since.
+    - The first Archery requirements were short and demanding. A Scout had to make his own bow and arrow that would shoot 100 feet "with fair precision," post target scores at 40 and 50 yards, and "shoot so far and fast as to have six arrows in the air at once." Until the first Archery pamphlet appeared in 1920, these requirements were found only in the Scout handbook.
+    - For its first forty years the badge was a rarity, earned by a few hundred Scouts a year at most and ranked near the bottom of the list, about 94th of 101 badges through the 1930s. That changed after 1950. Within ten years Scouts were earning more than 5,000 a year, and by 2004 they earned nearly 50,000 Archery badges in a single year. Its best ranking came in 2007, 13th of 122 badges.
+    - The arrow on the badge has changed direction over the years. The proper way it points in each era comes from how the badge was pictured in the pamphlets and other Scouting publications of the time. On the early square and wide-crimped badges (Types A and B) the arrow points left. The khaki Type E badges made from 1947 to 1960 point it right, and the Type F badges of the 1960s point it left again. With the fully embroidered Type G badge the design was redrawn on a red background, with the bow lying flat and the arrow crossing it on a diagonal.
+    - Archery is primarily earned at Scout camp, where Scouts have a range and equipment to work with. That is why 2020, when most summer camps closed, cut the number earned by two-thirds. Archery remains one of the most popular badges that is not required for Eagle and has ranked 17th of all merit badges every year from 2022 through 2025.
+
+thenAndNow:
+    year: 1911
+    source: The Official Handbook for Boys (1911)
+    requirements:
+        - Make a bow and arrow which will shoot a distance of one hundred feet with fair precision.
+        - Make a total score of 350 with 60 shots in one or two meets, using standard four-foot target at forty yards, or three-foot target at thirty yards.
+        - Make a total score of 300 with 72 arrows, using standard target at a distance of fifty yards.
+        - Shoot so far and fast as to have six arrows in the air at once.
+
+timeline:
+    - { year: 1911, text: One of the 57 original merit badges in the first Official Handbook for Boys. }
+    - { year: 1914, text: 'The first two Archery merit badges are earned. None were earned in 1911, 1912 or 1913.' }
+    - { year: 1920, text: 'The first Archery merit badge pamphlet (Type 1C) is printed. Until now the requirements were found only in the Scout handbook.' }
+    - { year: 1947, text: 'The new khaki Type E badge points the arrow to the right; it points left again from 1961.' }
+    - { year: 1952, text: 'Scouts earn 1,398 Archery badges, nearly three times the year before.' }
+    - { year: 1969, text: 'The fully embroidered Type G badge brings a new design: a red background with the arrow crossing the bow on a diagonal.' }
+    - { year: 1974, text: 'Earned badges jump 46% in one year, to 28,438.' }
+    - { year: 2004, text: 'All-time high: 49,626 Archery merit badges earned.' }
+    - { year: 2007, text: 'Archery reaches its best ranking ever: 13th of 122 merit badges.' }
+    - { year: 2020, text: 'With summer camps closed by the pandemic, only 10,487 are earned, down 67%.' }
+    - { year: 2021, text: Camps reopen and Archery climbs to 10th of all merit badges. }
+    - { year: 2026, text: 'A 2026 Scouting America edition of the pamphlet (No. 35856) appears. Scouting America is moving pamphlets to PDF, so a printed copy is not yet confirmed.' }
+
+trivia:
+    - q: How many arrows did the 1911 requirements ask a Scout to have in the air at once?
+      a: Six. The fourth requirement was to "shoot so far and fast as to have six arrows in the air at once."
+    - q: When were the first Archery merit badges earned?
+      a: In 1914, three years after the badge was created. Only two were earned that year.
+    - q: Which way does the arrow point on the Archery badge?
+      a: It depends on the year. Left on the Type A and B badges, right on the khaki Type E badges of 1947 to 1960, left again on the Type F badges of the 1960s, and on a diagonal since the red Type G design.
+    - q: What was Archery's best year?
+      a: '2004, when Scouts earned 49,626 Archery merit badges.'
+    - q: Which patch style was Archery never made in?
+      a: Type I, the flat-edged "computer designed" style made from 1992 to 1995. Only some badges were produced that way.
+    - q: Where was Archery ranked in the 1930s, and where is it now?
+      a: Near the bottom, around 94th of 101 badges. Since 2022 it has held steady at 17th of about 140.
+    - q: Where does Archery rank among badges that are not required for Eagle?
+      a: Third, in both 2022 and 2024, behind Fingerprinting and Rifle Shooting.
+
+# Popularity rank: [rank, number of badges earned that year]; 1 = most earned,
+# badges with the same count share a rank. Sources: BSA "Merit Badge Program"
+# fact sheet 02-500 (1996, 2000, 2001, 2003-2007), Scouting Magazine rankings
+# (2021-2025), otherwise calculated from Bucky's Historical Count sheet.
+# No counts exist for 1982-1992, 1994-1995 and 1997-1999.
+ranks:
+    1914: [57, 58]
+    1915: [57, 58]
+    1917: [58, 58]
+    1918: [58, 58]
+    1919: [59, 59]
+    1920: [59, 59]
+    1921: [61, 61]
+    1922: [61, 61]
+    1923: [61, 63]
+    1924: [64, 64]
+    1925: [64, 64]
+    1926: [64, 65]
+    1927: [66, 68]
+    1928: [77, 88]
+    1929: [73, 89]
+    1930: [82, 92]
+    1931: [88, 96]
+    1932: [87, 98]
+    1933: [94, 101]
+    1934: [94, 101]
+    1935: [96, 101]
+    1936: [91, 101]
+    1937: [97, 102]
+    1938: [96, 105]
+    1939: [94, 106]
+    1940: [96, 106]
+    1941: [97, 106]
+    1942: [91, 110]
+    1943: [100, 112]
+    1944: [97, 111]
+    1945: [109, 111]
+    1946: [101, 111]
+    1947: [104, 111]
+    1948: [101, 111]
+    1949: [98, 111]
+    1950: [91, 111]
+    1951: [101, 111]
+    1952: [84, 120]
+    1953: [78, 105]
+    1954: [75, 103]
+    1955: [66, 100]
+    1956: [57, 100]
+    1957: [56, 100]
+    1958: [49, 101]
+    1959: [49, 101]
+    1960: [50, 100]
+    1961: [47, 101]
+    1962: [45, 101]
+    1963: [45, 102]
+    1964: [42, 107]
+    1965: [39, 109]
+    1966: [36, 110]
+    1967: [37, 112]
+    1968: [34, 112]
+    1969: [30, 113]
+    1970: [27, 113]
+    1971: [25, 113]
+    1972: [26, 124]
+    1973: [28, 122]
+    1974: [29, 121]
+    1975: [31, 128]
+    1976: [32, 130]
+    1977: [29, 130]
+    1978: [27, 131]
+    1979: [26, 132]
+    1980: [28, 132]
+    1981: [27, 134]
+    1993: [29, 123]
+    1996: [21, 135]
+    2000: [21, 129]
+    2001: [19, 130]
+    2002: [19, 129]
+    2003: [20, 143]
+    2004: [16, 122]
+    2005: [15, 122]
+    2006: [14, 122]
+    2007: [13, 122]
+    2008: [16, 121]
+    2009: [17, 122]
+    2010: [17, 125]
+    2011: [18, 127]
+    2012: [15, 130]
+    2013: [17, 133]
+    2014: [16, 136]
+    2015: [16, 138]
+    2016: [16, 138]
+    2017: [17, 139]
+    2018: [16, 139]
+    2019: [16, 138]
+    2020: [24, 137]
+    2021: [10, 137]
+    2022: [17, 138]
+    2023: [17, 138]
+    2024: [17, 138]
+    2025: [17, 141]
+lifetimeRank: { rank: 25, asOf: 2020 }
+# Estimated, not official: history-tools/estimate_alltime.py
+lifetimeRankEstimate: { rank: 24, range: [24, 24], asOf: 2025 }
+
+earned:
+    totalThrough: 2020
+    total: 1797351
+    # null = earned that year but the exact number is not known
+    byYear:
+        1911: 0
+        1912: 0
+        1913: 0
+        1914: 2
+        1915: 1
+        1916: 0
+        1917: 3
+        1918: 3
+        1919: 31
+        1920: 4
+        1921: 15
+        1922: 17
+        1923: 37
+        1924: 34
+        1925: 32
+        1926: 119
+        1927: 304
+        1928: 227
+        1929: 518
+        1930: 366
+        1931: 431
+        1932: 369
+        1933: 303
+        1934: 256
+        1935: 242
+        1936: 309
+        1937: 268
+        1938: 332
+        1939: 436
+        1940: 386
+        1941: 342
+        1942: 349
+        1943: 328
+        1944: 450
+        1945: 235
+        1946: 340
+        1947: 227
+        1948: 303
+        1949: 405
+        1950: 594
+        1951: 510
+        1952: 1398
+        1953: 1139
+        1954: 1780
+        1955: 2573
+        1956: 3509
+        1957: 3658
+        1958: 4582
+        1959: 5074
+        1960: 5600
+        1961: 7261
+        1962: 8253
+        1963: 8834
+        1964: 9343
+        1965: 11059
+        1966: 11742
+        1967: 13521
+        1968: 14276
+        1969: 15790
+        1970: 17252
+        1971: 17946
+        1972: 17245
+        1973: 19456
+        1974: 28438
+        1975: 27646
+        1976: 25400
+        1977: 23002
+        1978: 22184
+        1979: 20340
+        1980: 14119
+        1981: 20649
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 19658
+        1994: null
+        1995: null
+        1996: 37020
+        1997: null
+        1998: null
+        1999: null
+        2000: 41175
+        2001: 41076
+        2002: 45455
+        2003: 47644
+        2004: 49626
+        2005: 46902
+        2006: 47297
+        2007: 46550
+        2008: 45070
+        2009: 46579
+        2010: 45039
+        2011: 45204
+        2012: 48229
+        2013: 43879
+        2014: 43238
+        2015: 41879
+        2016: 39419
+        2017: 35301
+        2018: 34487
+        2019: 31934
+        2020: 10487
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+
+patches:
+    - type: A
+      years: 1914-1921
+      image: /history/archery/archery-patch-a1.webp
+    - type: A
+      years: 1920-1933
+      note: variations
+      image: /history/archery/archery-patch-a2.webp
+    - type: B
+      years: 1934-1935
+      note: heavyweight cloth
+      image: /history/archery/archery-patch-b.webp
+    - type: C
+      years: 1936-1942
+      note: heavyweight cloth
+      status: missing
+    - type: D
+      status: unknown
+    - type: E
+      years: 1947-1960
+      image: /history/archery/archery-patch-e.webp
+    - type: F
+      years: 1961-1968
+      note: rolled edge
+      image: /history/archery/archery-patch-f.webp
+    - type: G
+      years: 1969-1971
+      note: cloth back
+      image: /history/archery/archery-patch-g.webp
+    - type: H
+      years: 1972-2002
+      note: blue, clear, and molded
+      image: /history/archery/archery-patch-h.webp
+      more:
+          # H1-H5 are variations of the Type H badge
+          - { image: /history/archery/archery-patch-h1-front.webp, label: 'H variation H1, front' }
+          - { image: /history/archery/archery-patch-h1-reverse.webp, label: 'H variation H1, back' }
+          - { image: /history/archery/archery-patch-h2-1-front.webp, label: 'H variation H2-1, front' }
+          - { image: /history/archery/archery-patch-h2-1-reverse.webp, label: 'H variation H2-1, back' }
+          - { image: /history/archery/archery-patch-h3-front.webp, label: 'H variation H3, front' }
+          - { image: /history/archery/archery-patch-h3-reverse.webp, label: 'H variation H3, back' }
+          - { image: /history/archery/archery-patch-h5-front.webp, label: 'H variation H5, front' }
+          - { image: /history/archery/archery-patch-h5-reverse.webp, label: 'H variation H5, back' }
+    - type: I
+      status: none
+    - type: J
+      years: 2002-2009
+      note: Scout Stuff back
+      image: /history/archery/archery-patch-j.webp
+    - type: K
+      years: 2010-2014
+      note: BSA 2010 back
+      image: /history/archery/archery-patch-k.webp
+      more:
+          - { image: /history/archery/archery-patch-k-reverse.webp, label: K back }
+    - type: L
+      years: 2015-2025
+      note: Since 1910 back
+      image: /history/archery/archery-patch-l.webp
+      more:
+          - { image: /history/archery/archery-patch-l-reverse.webp, label: L back }
+    # Photo from eBay seller Old Stuff 707 (ebay.com/itm/236962168926), used with
+    # Bucky's OK on 2026-10-23
+    - type: M
+      years: 2025-current
+      note: Scouting America back
+      image: /history/archery/archery-patch-m-front.webp
+      more:
+          - { image: /history/archery/archery-patch-m-reverse.webp, label: M back }
+
+# Years for each cover come from the printings.
+pamphlets:
+    - { type: 1C, image: /history/archery/archery-1c.webp }
+    - { type: '2', image: /history/archery/archery-2.webp }
+    - { type: 3A over 2, image: /history/archery/archery-3a-over-2.webp }
+    # 3A-1 and 3A-2 are different covers. The workbook lists these printings as
+    # plain "3A", so they show under 3A-1 until it says which is which.
+    - { type: 3A-1, image: /history/archery/archery-3a-1.webp }
+    - { type: 3A-2, image: /history/archery/archery-3a-2.webp }
+    - { type: 3B, image: /history/archery/archery-3b.webp }
+    - { type: 3C, image: /history/archery/archery-3c.webp }
+    - { type: 3D, image: /history/archery/archery-3d.webp }
+    - { type: '4', image: /history/archery/archery-4.webp }
+    - { type: 5B-1, image: /history/archery/archery-5b-1.webp }
+    - { type: 5B-2, image: /history/archery/archery-5b-2.webp }
+    - { type: 6A, image: /history/archery/archery-6a.webp }
+    - { type: 6B, image: /history/archery/archery-6b.webp }
+    - { type: 7A-1, image: /history/archery/archery-7a-1.webp }
+    - { type: 7A-2, image: /history/archery/archery-7a-2.webp }
+    - { type: 8A-1, image: /history/archery/archery-8a-1.webp }
+    - { type: 8A-2, image: /history/archery/archery-8a-2.webp }
+    - { type: 8B, image: /history/archery/archery-8b.webp }
+    - { type: 9A, image: /history/archery/archery-9a.webp }
+    - { type: 9B, image: /history/archery/archery-9b.webp }
+    - { type: 9C, image: /history/archery/archery-9c.webp }
+    - { type: 9D-1, image: /history/archery/archery-9d-1.webp }
+    - { type: 9D-2, image: /history/archery/archery-9d-2.webp }
+    - { type: 10A, image: /history/archery/archery-10a.webp }
+    # Archery was an elective in 2009, so it uses the elective (blue band) art
+    - { type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp }
+    - { type: 10C-1, image: /history/archery/archery-10c-1.webp }
+    - { type: 10C-2, image: /history/archery/archery-10c-2.webp }
+    - { type: 10C-3, image: /history/archery/archery-10c-3.webp }
+    - { type: 10D, image: /history/archery/archery-10d.webp }
+    # Type 11 is every Scouting America cover. Unconfirmed in print: Scouting
+    # America is moving pamphlets to PDF
+    - type: '11'
+      label: 2026 edition
+      years: '2026'
+      note: ©2026 Scouting America, No. 35856. Seen as a PDF; a printed copy is not yet confirmed.
+      status: unconfirmed
+
+# Printings found outside the workbook. Add these to the workbook, then remove them here.
+extraPrintings:
+    - year: 2026
+      cover: '11'
+      bsaNumber: '35856'
+      notes: '©2026 Scouting America, "2026 Printing" on the PDF edition; a printed copy is not yet confirmed'
+      status: listed
+
+hardcovers:
+    - { type: HCI, image: /history/archery/archery-hci.webp }
+    - { type: HCJ, image: /history/archery/archery-hcj.webp }
+    - { type: HCK, image: /history/archery/archery-hck.webp }
+    - { type: HCL, image: /history/archery/archery-hcl.webp }
+    - { type: HCM, image: /history/archery/archery-hcm.webp }
+    - { type: HCN, image: /history/archery/archery-hcn.webp }
+    - { type: HCP, image: /history/archery/archery-hcp.webp }
+    - { type: HCU, image: /history/archery/archery-hcu.webp }
+
+sources:
+    - title: The Official Handbook for Boys, 1911 (Project Gutenberg)
+      url: https://www.gutenberg.org/ebooks/29558
+    - title: Merit Badge History, U.S. Scouting Service Project
+      url: http://usscouts.org/mb/history.asp
+    - title: Merit Badges, Past and Present, Henning's Scouters' Pages
+      url: http://www.scouters.us/Merit.php
+    - title: Legend to Identify Merit Badges, Scouting Memories Project (boyscoutimages.org)
+      url: https://dev.boyscoutimages.org/history-legend?portal=youth&c1=merit-badges&c2=legend-to-identify-merit-badges
+    - title: Merit badge type categories, ScoutStuff4Sale
+      url: https://www.scoutstuff4sale.com/merit-badges-1/
+    - title: Collecting Merit Badges, ISCA Getting Started Collecting Series
+      url: https://scouttrader.org/collecting/meritbadge.pdf
+    - title: 2019 merit badge rankings, Scouting Magazine
+      url: https://onscouting.org/2020/02/17/2019-merit-badge-rankings-which-were-the-most-and-least-popular/
+    - title: 2020 merit badge rankings, Scouting Magazine
+      url: https://onscouting.org/2021/02/24/2020-merit-badge-rankings-a-list-rewritten-by-the-pandemic/
+    - title: 2021 merit badge rankings, Scouting Magazine
+      url: https://onscouting.org/2022/04/26/2021-merit-badge-rankings-return-of-summer-camps-shuffles-the-list-again/
+    - title: 2022 merit badge rankings, Scouting Magazine
+      url: https://onscouting.org/2023/02/28/2022-merit-badge-rankings-a-new-chart-topper-emerges/
+    - title: 2023 merit badge rankings, Scouting Magazine
+      url: https://onscouting.org/2024/02/13/2023-merit-badge-rankings-a-look-into-scouts-current-interests-and-achievements/
+    - title: 2024 merit badge rankings, Scouting Magazine
+      url: https://onscouting.org/2025/03/06/the-2024-merit-badge-rankings-take-a-swing-at-guessing-what-made-the-largest-gains-this-year/
+    - title: 2025 merit badge rankings, Scouting Magazine
+      url: https://onscouting.org/2026/03/18/first-aid-is-first-again-2025-merit-badge-rankings-are-here/
+    - title: Scoutmaster Bucky's merit badge pamphlet collection records

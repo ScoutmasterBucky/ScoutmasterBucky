@@ -1,0 +1,88 @@
+# Aeronautics merit badge history. Approved by Bucky on 2026-10-23; the
+# generator no longer overwrites this file (its printings still come from the
+# workbook). Story text is Bucky's own from his earlier page.
+
+name: Aeronautics
+precededBy: Aviation
+precededByLink: aviation
+introduced: 1942
+discontinued: '1952'
+replacedWith: Aviation
+story: ['The Aeronautics merit badge utilized the suspended Aviation merit badge design for its design. After the four "Air Scouts" specific badges were dissolved in 1951-1952, the Aviation merit badge
+        was brought back and used the latest rendition of the Aeronautics merit badge design.']
+
+# Requirements still needed. The archived meritbadge.org wiki shows Airplane
+# Design's requirements on its Aeronautics page too; Boys' Life (October 1942,
+# page 27) shows that list (wing camber, stability) is Airplane Design's.
+# Bucky's 1942 Aeronautics pamphlet is the best source (see TODO.md).
+
+# Researched trivia, each fact from at least two sources or from Bucky's own
+# records; the last two come from the page's own data
+trivia:
+    - q: Which Air Scout rank called for the Aeronautics merit badge?
+      a: Observer, the second of the four Air Scout ranks (Apprentice, Observer, Craftsman and Ace), in the 1943 Air Scout Manual.
+    - q: Where did the 1942 Aeronautics pamphlet come from?
+      a: It was the old Aviation pamphlet, completely rewritten for the new Air Scout program, covering the basics of flight, model building, engines and how to identify aircraft.
+    - q: What did the Aviation merit badge look like when it returned in 1952?
+      a: It used the latest version of the Aeronautics badge design.
+    - q: Was the Aeronautics badge made in every patch style of its time?
+      a: No. Like the other Air Scout badges, it kept its blue Type C design through 1946, and no Type D Aeronautics badge is known to exist.
+    - q: In what year did Scouts earn the most Aeronautics merit badges?
+      a: 1943, when 3,590 were earned.
+
+timeline:
+-   year: 1942
+    text: 'The Aeronautics merit badge is introduced. The first Aeronautics merit badges are earned: 1,540 that year. The earliest known Aeronautics pamphlet printing (Type 4BL).'
+-   year: 1943
+    text: 'All-time high: 3,590 Aeronautics merit badges earned. Best ranking: 42nd of 112 merit badges.'
+- {year: 1952, text: Last year the Aeronautics merit badge is offered; it is replaced by Aviation.}
+ranks:
+    1942: [59, 110]
+    1943: [42, 112]
+    1944: [53, 111]
+    1945: [60, 111]
+    1946: [65, 111]
+    1947: [72, 111]
+    1948: [74, 111]
+    1949: [75, 111]
+    1950: [76, 111]
+    1951: [76, 111]
+    1952: [83, 120]
+lifetimeRank: {rank: 199, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 201
+    range: [201, 201]
+    asOf: 2025
+earned:
+    totalThrough: 1952
+    total: 19677
+    byYear:
+        1942: 1540
+        1943: 3590
+        1944: 3379
+        1945: 2380
+        1946: 1614
+        1947: 1158
+        1948: 927
+        1949: 990
+        1950: 1213
+        1951: 1383
+        1952: 1503
+patches:
+-   type: C
+    years: 1942-1946
+    image: /history/aeronautics/aeronautics-patch-c.webp
+    more:
+    - {image: /history/aeronautics/aeronautics-patch-c-front.webp, label: C front}
+    - {image: /history/aeronautics/aeronautics-patch-c-reverse.webp, label: C back}
+- {type: D, status: unknown}
+-   type: E
+    years: 1947-1952
+    image: /history/aeronautics/aeronautics-patch-e.webp
+    more:
+    - {image: /history/aeronautics/aeronautics-patch-e-reverse.webp, label: E back}
+pamphlets:
+- {type: 4BL, image: /history/aeronautics/aeronautics-4bl.webp}
+hardcovers:
+- {type: HCC, image: /history/aeronautics/aeronautics-hcc.webp}
+- {type: HCF, image: /history/aeronautics/aeronautics-hcf.webp}

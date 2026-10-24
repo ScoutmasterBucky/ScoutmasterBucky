@@ -1,0 +1,48 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Communications
+precededBy: None
+introduced: 1965
+discontinued: '2009'
+replacedWith: Communication
+timeline:
+- {year: 1965, text: The Communications merit badge is introduced.}
+-   year: 2009
+    text: Last year the Communications merit badge is offered; it is replaced by Communication.
+patches:
+- {type: F, years: 1965-1968, status: missing}
+- {type: G, years: 1965-1971, image: /history/communications/communications-patch-g.webp}
+-   type: H
+    years: 1972-2002
+    note: variation H2
+    image: /history/communications/communications-patch-h2.webp
+    more:
+    - {image: /history/communications/communications-patch-h1a-front.webp, label: 'H variation H1A, front'}
+    - {image: /history/communications/communications-patch-h1a-reverse.webp, label: 'H variation H1A, back'}
+    - {image: /history/communications/communications-patch-h1b-front.webp, label: 'H variation H1B, front'}
+    - {image: /history/communications/communications-patch-h1b-reverse.webp, label: 'H variation H1B, back'}
+    - {image: /history/communications/communications-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/communications/communications-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    -   image: /history/communications/communications-patch-h2-mve1-front.webp
+        label: H variation H2-MVE1, front
+    -   image: /history/communications/communications-patch-h2-mve1-reverse.webp
+        label: H variation H2-MVE1, back
+    - {image: /history/communications/communications-patch-h5-1-front.webp, label: 'H variation H5-1, front'}
+    - {image: /history/communications/communications-patch-h5-1-reverse.webp, label: 'H variation H5-1, back'}
+    -   image: /history/communications/communications-patch-h5-mve1-front.webp
+        label: H variation H5-MVE1, front
+    -   image: /history/communications/communications-patch-h5-mve1-reverse.webp
+        label: H variation H5-MVE1, back
+-   type: H
+    years: 1972-2002
+    note: variation H3
+    image: /history/communications/communications-patch-h3.webp
+- {type: I, years: 1993-1995, status: unknown}
+- {type: J, years: 2002-2009, image: /history/communications/communications-patch-j.webp}
+pamphlets: []
+trivia:
+-   q: Was the Communications badge made in every patch style of its time?
+    a: No. No Type I Communications badge is known to exist.
+- {q: 'What replaced Communications after 2009?', a: Communication.}

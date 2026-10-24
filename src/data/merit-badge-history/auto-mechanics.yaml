@@ -1,0 +1,84 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Auto Mechanics
+precededBy: Introduced as Auto Mechanics Automotive Maintenance
+introduced: 1991
+discontinued: '2008'
+replacedWith: Automotive Maintenance current
+story: ['The Auto Mechanics merit badge was announced in the October 1991 edition of Scouting Magazine and in 2008 quietly changed to the current title of Automotive Maintenance. A new merit badge design
+        accompanied the August 1, 2008 release of the new color Merit Badge pamphlets that saw Auto Mechnics morph immediately into Automotive Maintenance. Total merit badges earned numbers, maintained
+        by the National BSA, reflect these two merit badges as one.merit badge in their records.']
+timeline:
+- {year: 1991, text: The Auto Mechanics merit badge is introduced.}
+- {year: 1992, text: The earliest known Auto Mechanics pamphlet printing (Type 9A).}
+- {year: 1993, text: 'First known count: 3,566 Auto Mechanics merit badges earned.'}
+- {year: 2001, text: 'Best ranking: 55th of 129 merit badges.'}
+- {year: 2004, text: 'All-time high: 8,892 Auto Mechanics merit badges earned.'}
+-   year: 2008
+    text: Last year the Auto Mechanics merit badge is offered; it is replaced by Automotive Maintenance current.
+ranks:
+    1993: [78, 123]
+    1996: [69, 134]
+    2000: [67, 128]
+    2001: [55, 129]
+    2002: [60, 129]
+    2003: [58, 130]
+    2004: [57, 121]
+    2005: [57, 121]
+    2006: [57, 121]
+    2007: [56, 121]
+    2008: [56, 121]
+earned:
+    totalThrough: 2008
+    total: 78880
+    totalKnownOnly: true
+    byYear:
+        1991: null
+        1992: null
+        1993: 3566
+        1994: null
+        1995: null
+        1996: 4724
+        1997: null
+        1998: null
+        1999: null
+        2000: 6348
+        2001: 8069
+        2002: 8023
+        2003: 8139
+        2004: 8892
+        2005: 8175
+        2006: 7600
+        2007: 7480
+        2008: 7864
+patches:
+-   type: H
+    years: 1991-2002
+    image: /history/auto-mechanics/auto-mechanics-patch-h.webp
+    more:
+    - {image: /history/auto-mechanics/auto-mechanics-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/auto-mechanics/auto-mechanics-patch-h5-reverse.webp, label: 'H variation H5, back'}
+    - {image: /history/auto-mechanics/auto-mechanics-patch-hm-reverse.webp, label: HM back}
+- {type: I, years: 1993-1995, status: unknown}
+-   type: J
+    years: 2002-2008
+    image: /history/auto-mechanics/auto-mechanics-patch-j.webp
+    more:
+    - {image: /history/auto-mechanics/auto-mechanics-patch-j-front.webp, label: J front}
+    - {image: /history/auto-mechanics/auto-mechanics-patch-j-reverse.webp, label: J back}
+pamphlets:
+- {type: 9A, image: /history/auto-mechanics/auto-mechanics-9a.webp}
+- {type: 9B, image: /history/auto-mechanics/auto-mechanics-9b.webp}
+trivia:
+-   q: Was the Auto Mechanics badge made in every patch style of its time?
+    a: No. No Type I Auto Mechanics badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Auto Mechanics merit badges?
+    a: 2004, when 8,892 were earned.
+-   q: What was Auto Mechanics' best year in the rankings on record?
+    a: 2001, when it was 55th of the 129 merit badges earned that year.
+-   q: What came before the Auto Mechanics merit badge?
+    a: Introduced as Auto Mechanics Automotive Maintenance.
+- {q: 'What replaced Auto Mechanics after 2008?', a: Automotive Maintenance current.}
+- {q: 'When was the earliest known Auto Mechanics pamphlet printed?', a: July 1992.}

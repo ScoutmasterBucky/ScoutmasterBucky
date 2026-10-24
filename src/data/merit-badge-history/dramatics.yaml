@@ -1,0 +1,134 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Dramatics
+precededBy: None
+introduced: 1932
+discontinued: '1966'
+replacedWith: Theater
+timeline:
+-   year: 1932
+    text: 'The Dramatics merit badge is introduced. The first Dramatics merit badges are earned: 99 that year.'
+- {year: 1936, text: The earliest known Dramatics pamphlet printing (Type 3B).}
+- {year: 1937, text: 'Best ranking: 74th of 102 merit badges.'}
+- {year: 1962, text: 'All-time high: 1,684 Dramatics merit badges earned.'}
+- {year: 1966, text: Last year the Dramatics merit badge is offered; it is replaced by Theater.}
+ranks:
+    1932: [95, 98]
+    1933: [99, 101]
+    1934: [85, 101]
+    1935: [86, 101]
+    1936: [81, 101]
+    1937: [74, 102]
+    1938: [85, 105]
+    1939: [95, 106]
+    1940: [90, 106]
+    1941: [86, 106]
+    1942: [85, 110]
+    1943: [83, 112]
+    1944: [89, 111]
+    1945: [89, 111]
+    1946: [88, 111]
+    1947: [87, 111]
+    1948: [88, 111]
+    1949: [86, 111]
+    1950: [85, 111]
+    1951: [87, 111]
+    1952: [102, 120]
+    1953: [86, 105]
+    1954: [83, 103]
+    1955: [83, 100]
+    1956: [86, 100]
+    1957: [87, 100]
+    1958: [85, 101]
+    1959: [86, 101]
+    1960: [87, 100]
+    1961: [84, 101]
+    1962: [86, 101]
+    1963: [91, 102]
+    1964: [90, 107]
+    1965: [89, 109]
+    1966: [90, 110]
+lifetimeRank: {rank: 183, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 190
+    range: [189, 190]
+    asOf: 2025
+earned:
+    totalThrough: 1966
+    total: 30495
+    byYear:
+        1932: 99
+        1933: 151
+        1934: 415
+        1935: 449
+        1936: 521
+        1937: 1016
+        1938: 621
+        1939: 434
+        1940: 523
+        1941: 556
+        1942: 509
+        1943: 705
+        1944: 641
+        1945: 659
+        1946: 621
+        1947: 560
+        1948: 493
+        1949: 604
+        1950: 757
+        1951: 790
+        1952: 683
+        1953: 812
+        1954: 1103
+        1955: 1168
+        1956: 1119
+        1957: 1107
+        1958: 1246
+        1959: 1265
+        1960: 1459
+        1961: 1678
+        1962: 1684
+        1963: 1457
+        1964: 1505
+        1965: 1497
+        1966: 1588
+patches:
+- {type: A, years: 1911-1933, image: /history/dramatics/dramatics-patch-a.webp}
+- {type: B, years: 1934-1935, note: heavyweight cloth, status: missing}
+-   type: C
+    years: 1936-1942
+    note: heavyweight cloth
+    image: /history/dramatics/dramatics-patch-c.webp
+-   type: D
+    years: 1942-1946
+    note: war and fine twill cloth
+    image: /history/dramatics/dramatics-patch-d.webp
+- {type: E, years: 1947-1960, image: /history/dramatics/dramatics-patch-e.webp}
+- {type: F, status: none}
+-   type: G
+    years: 1961-1966
+    note: cloth back
+    image: /history/dramatics/dramatics-patch-g.webp
+pamphlets:
+- {type: 3B, image: /history/dramatics/dramatics-3b.webp}
+- {type: 3D, image: /history/dramatics/dramatics-3d.webp}
+- {type: 5B, image: /history/dramatics/dramatics-5b.webp}
+- {type: '6', image: /history/dramatics/dramatics-6.webp}
+hardcovers:
+- {type: HCG, image: /history/dramatics/dramatics-hcg.webp}
+- {type: HCH, image: /history/dramatics/dramatics-hch.webp}
+- {type: HCI, image: /history/dramatics/dramatics-hci.webp}
+- {type: HCJ, image: /history/dramatics/dramatics-hcj.webp}
+- {type: HCK, image: /history/dramatics/dramatics-hck.webp}
+- {type: HCP, image: /history/dramatics/dramatics-hcp.webp}
+trivia:
+-   q: Was the Dramatics badge made in every patch style of its time?
+    a: No. No Type F Dramatics badge is known to exist.
+- {q: 'In what year did Scouts earn the most Dramatics merit badges?', a: '1962, when 1,684 were earned.'}
+- {q: 'How many Dramatics merit badges had been earned by 1966?', a: '30,495.'}
+-   q: What was Dramatics' best year in the rankings on record?
+    a: 1937, when it was 74th of the 102 merit badges earned that year.
+- {q: 'What replaced Dramatics after 1966?', a: Theater.}
+- {q: 'When was the earliest known Dramatics pamphlet printed?', a: January 1936.}

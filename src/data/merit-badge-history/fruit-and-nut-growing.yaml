@@ -1,0 +1,123 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Fruit and Nut Growing
+precededBy: None
+introduced: 1953
+discontinued: '1975'
+replacedWith: None
+timeline:
+-   year: 1953
+    text: 'The Fruit and Nut Growing merit badge is introduced. The first Fruit and Nut Growing merit badges are earned: 48 that year. The earliest known Fruit and Nut Growing pamphlet printing (Type 6A).'
+- {year: 1957, text: 'Best ranking: 96th of 100 merit badges.'}
+- {year: 1974, text: 'All-time high: 1,378 Fruit and Nut Growing merit badges earned.'}
+- {year: 1975, text: Last year the Fruit and Nut Growing merit badge is offered.}
+ranks:
+    1953: [105, 105]
+    1954: [102, 103]
+    1955: [98, 100]
+    1956: [97, 100]
+    1957: [96, 100]
+    1958: [99, 101]
+    1959: [98, 101]
+    1960: [96, 100]
+    1961: [99, 101]
+    1962: [98, 101]
+    1963: [100, 102]
+    1964: [102, 107]
+    1965: [105, 109]
+    1966: [105, 110]
+    1967: [108, 112]
+    1968: [107, 112]
+    1969: [112, 113]
+    1970: [111, 113]
+    1971: [110, 113]
+    1972: [122, 124]
+    1973: [114, 122]
+    1974: [117, 121]
+    1975: [121, 128]
+    1976: [125, 130]
+    1977: [127, 130]
+    1978: [128, 131]
+    1979: [131, 132]
+    1980: [129, 132]
+    1981: [131, 134]
+lifetimeRank: {rank: 202, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 204
+    range: [204, 204]
+    asOf: 2025
+earned:
+    totalThrough: 1981
+    total: 14412
+    byYear:
+        1953: 48
+        1954: 127
+        1955: 425
+        1956: 468
+        1957: 564
+        1958: 425
+        1959: 657
+        1960: 772
+        1961: 545
+        1962: 685
+        1963: 507
+        1964: 505
+        1965: 439
+        1966: 551
+        1967: 531
+        1968: 516
+        1969: 454
+        1970: 558
+        1971: 648
+        1972: 491
+        1973: 670
+        1974: 1378
+        1975: 1141
+        1976: 765
+        1977: 310
+        1978: 214
+        1979: 3
+        1980: 8
+        1981: 7
+patches:
+-   type: E
+    years: 1953-1960
+    image: /history/fruit-and-nut-growing/fruit-and-nut-growing-patch-e.webp
+- {type: F, years: 1961-1968, status: missing}
+-   type: G
+    years: 1961-1971
+    image: /history/fruit-and-nut-growing/fruit-and-nut-growing-patch-g.webp
+-   type: H
+    years: 1972-1975
+    image: /history/fruit-and-nut-growing/fruit-and-nut-growing-patch-h.webp
+    more:
+    -   image: /history/fruit-and-nut-growing/fruit-and-nut-growing-patch-h1-front.webp
+        label: H variation H1, front
+    -   image: /history/fruit-and-nut-growing/fruit-and-nut-growing-patch-h1-reverse.webp
+        label: H variation H1, back
+    -   image: /history/fruit-and-nut-growing/fruit-and-nut-growing-patch-h2-1-front.webp
+        label: H variation H2-1, front
+    -   image: /history/fruit-and-nut-growing/fruit-and-nut-growing-patch-h2-1-reverse.webp
+        label: H variation H2-1, back
+pamphlets:
+- {type: 6A, image: /history/fruit-and-nut-growing/fruit-and-nut-growing-6a.webp}
+- {type: 6B, image: /history/fruit-and-nut-growing/fruit-and-nut-growing-6b.webp}
+- {type: '7', image: /history/fruit-and-nut-growing/fruit-and-nut-growing-7.webp}
+- {type: '8', image: /history/fruit-and-nut-growing/fruit-and-nut-growing-8.webp}
+hardcovers:
+- {type: HCJ, image: /history/fruit-and-nut-growing/fruit-and-nut-growing-hcj.webp}
+- {type: HCK, image: /history/fruit-and-nut-growing/fruit-and-nut-growing-hck.webp}
+- {type: HCL, image: /history/fruit-and-nut-growing/fruit-and-nut-growing-hcl.webp}
+- {type: HCM, image: /history/fruit-and-nut-growing/fruit-and-nut-growing-hcm.webp}
+- {type: HCP, image: /history/fruit-and-nut-growing/fruit-and-nut-growing-hcp.webp}
+- {type: HCS, image: /history/fruit-and-nut-growing/fruit-and-nut-growing-hcs.webp}
+- {type: HCT, image: /history/fruit-and-nut-growing/fruit-and-nut-growing-hct.webp}
+trivia:
+-   q: In what year did Scouts earn the most Fruit and Nut Growing merit badges?
+    a: 1974, when 1,378 were earned.
+- {q: 'How many Fruit and Nut Growing merit badges had been earned by 1981?', a: '14,412.'}
+-   q: What was Fruit and Nut Growing's best year in the rankings on record?
+    a: 1957, when it was 96th of the 100 merit badges earned that year.
+- {q: 'When was the earliest known Fruit and Nut Growing pamphlet printed?', a: October 1953.}

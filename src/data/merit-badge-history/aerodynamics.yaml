@@ -1,0 +1,103 @@
+# Aerodynamics merit badge history. Approved by Bucky on 2026-10-23; the
+# generator no longer overwrites this file (its printings still come from the
+# workbook). Story text is Bucky's own from his earlier page.
+
+name: Aerodynamics
+precededBy: Aviation
+precededByLink: aviation
+introduced: 1942
+discontinued: '1952'
+replacedWith: Aviation
+story: ['The "Air Scouts" program was established in 1941, and with this came the suspension of the Aviation merit badge, and the creation of four more specialized aeronautical subjects. (Aerodynamics,
+        Aeronautics, Airplane Design, and Airplane Structure). The Air Scouts lasted until 1949 when they were renamed Air Explorers and integrated over the years into the Exploring component of Scouting,
+        lasting until 1965 when it was finally dissolved.']
+
+# Summarized in our own words (the original text is still under copyright).
+# Source: Handbook for Boys, 1948, as preserved on the archived meritbadge.org
+# wiki. The 1943 Air Scout Manual (seniorscoutinghistory.org) points to "the
+# three airfoils in Requirement 4-a of Aerodynamics", which matches item 4, so
+# these are very likely the 1942 originals. Bucky's 1942 pamphlet would confirm.
+thenAndNow:
+    year: 1948
+    source: Handbook for Boys (1948), summarized
+    requirements:
+        - Show that air has weight and pressure with a homemade barometer made from a dish and a tall glass of water, and explain how air changes with altitude and the problems that causes for engines, flight and the pilot.
+        - Demonstrate Bernoulli's law, that faster-moving air has lower pressure, with a thread spool and a small card, or a tube and a ping-pong ball.
+        - Build a small airfoil wing section and use it to show how a wing makes lift, and draw a rough diagram explaining the four forces of flight, thrust, lift, gravity and drag.
+        - Build three drag-test shapes of the same width (a cube, a cylinder and a streamlined form) from an oatmeal box, cardboard and paper, and mount them on small rolling supports to show air resistance in an air current.
+        - Build and demonstrate a simple wind tunnel, or a simple airspeed-measuring device.
+        - Build a rubber-band-powered model airplane of a type new to you and fly it in a competition (a kit may be used).
+        - Using a rough side view of a monoplane, explain the angle of attack, show how the air stream lets the control surfaces steer the plane, and tell which control surfaces the stick and pedals move.
+        - Give six or more ways a pilot about to land can tell the wind direction, explain why planes take off and land into the wind, and explain why a plane stalls.
+        - Compare two propellers of about the same size but different pitch in an air current, and explain the advantages of a variable-pitch propeller.
+
+# Researched trivia, each fact from at least two sources or from Bucky's own
+# records; the last two come from the page's own data
+trivia:
+    - q: Which Air Scout rank called for the Aerodynamics merit badge?
+      a: Craftsman, the third of the four Air Scout ranks (Apprentice, Observer, Craftsman and Ace), in the 1943 Air Scout Manual.
+    - q: What everyday items could a Scout use to show Bernoulli's law for Aerodynamics?
+      a: A thread spool and a small card, or a tube and a ping-pong ball.
+    - q: What did an Aerodynamics Scout build out of an oatmeal box?
+      a: Three small drag-test shapes, a cube, a cylinder and a streamlined form, to show how shape changes air resistance.
+    - q: Was the Aerodynamics badge made in every patch style of its time?
+      a: No. Like the other Air Scout badges, it kept its blue Type C design through 1946, and no Type D Aerodynamics badge is known to exist.
+    - q: In what year did Scouts earn the most Aerodynamics merit badges?
+      a: 1944, when 924 were earned.
+
+timeline:
+-   year: 1942
+    text: 'The Aerodynamics merit badge is introduced. The first Aerodynamics merit badges are earned: 274 that year. The earliest known Aerodynamics pamphlet printing (Type 4BL).'
+- {year: 1943, text: 'Best ranking: 81st of 112 merit badges.'}
+- {year: 1944, text: 'All-time high: 924 Aerodynamics merit badges earned.'}
+- {year: 1952, text: Last year the Aerodynamics merit badge is offered; it is replaced by Aviation.}
+ranks:
+    1942: [97, 110]
+    1943: [81, 112]
+    1944: [83, 111]
+    1945: [87, 111]
+    1946: [91, 111]
+    1947: [92, 111]
+    1948: [94, 111]
+    1949: [95, 111]
+    1950: [99, 111]
+    1951: [98, 111]
+    1952: [112, 120]
+lifetimeRank: {rank: 217, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 219
+    range: [219, 219]
+    asOf: 2025
+earned:
+    totalThrough: 1952
+    total: 6206
+    byYear:
+        1942: 274
+        1943: 818
+        1944: 924
+        1945: 747
+        1946: 576
+        1947: 495
+        1948: 421
+        1949: 421
+        1950: 503
+        1951: 599
+        1952: 428
+patches:
+-   type: C
+    years: 1942-1946
+    image: /history/aerodynamics/aerodynamics-patch-c.webp
+    more:
+    - {image: /history/aerodynamics/aerodynamics-patch-c-front.webp, label: C front}
+    - {image: /history/aerodynamics/aerodynamics-patch-c-reverse.webp, label: C back}
+- {type: D, status: unknown}
+-   type: E
+    years: 1947-1952
+    image: /history/aerodynamics/aerodynamics-patch-e.webp
+    more:
+    - {image: /history/aerodynamics/aerodynamics-patch-e-reverse.webp, label: E back}
+pamphlets:
+- {type: 4BL, image: /history/aerodynamics/aerodynamics-4bl.webp}
+hardcovers:
+- {type: HCA, image: /history/aerodynamics/aerodynamics-hca.webp}
+- {type: HCC, image: /history/aerodynamics/aerodynamics-hcc.webp}

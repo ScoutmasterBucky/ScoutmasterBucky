@@ -1,0 +1,72 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Moviemaking
+precededBy: Cinematography
+precededByLink: cinematography
+introduced: 2013
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2013
+    text: The Moviemaking merit badge is introduced. The earliest known Moviemaking pamphlet printing (Type 10C).
+- {year: 2014, text: 'First known count: 6,195 Moviemaking merit badges earned.'}
+- {year: 2016, text: 'All-time high: 10,851 Moviemaking merit badges earned.'}
+- {year: 2025, text: 'Best ranking: 48th of 141 merit badges.'}
+ranks:
+    2014: [79, 136]
+    2015: [55, 138]
+    2016: [51, 138]
+    2017: [56, 139]
+    2018: [56, 139]
+    2019: [54, 139]
+    2020: [60, 137]
+    2021: [66, 137]
+    2022: [64, 138]
+    2023: [60, 138]
+    2024: [54, 138]
+    2025: [48, 141]
+lifetimeRank: {rank: 165, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 153
+    range: [149, 154]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 61305
+    byYear:
+        2013: null
+        2014: 6195
+        2015: 10064
+        2016: 10851
+        2017: 9262
+        2018: 9416
+        2019: 9738
+        2020: 5779
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: K, years: 2013-2014, image: /history/moviemaking/moviemaking-patch-k.webp}
+-   type: L
+    years: 2015-2025
+    image: /history/moviemaking/moviemaking-patch-l.webp
+    more:
+    - {image: /history/moviemaking/moviemaking-patch-l-front.webp, label: L front}
+    - {image: /history/moviemaking/moviemaking-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+- {type: 11A, status: missing}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Moviemaking merit badges?
+    a: 2016, when 10,851 were earned.
+- {q: 'How many Moviemaking merit badges had been earned by 2020?', a: '61,305.'}
+-   q: What was Moviemaking's best year in the rankings on record?
+    a: 2025, when it was 48th of the 141 merit badges earned that year.
+- {q: 'What came before the Moviemaking merit badge?', a: Cinematography.}
+- {q: 'When was the earliest known Moviemaking pamphlet printed?', a: '2013.'}

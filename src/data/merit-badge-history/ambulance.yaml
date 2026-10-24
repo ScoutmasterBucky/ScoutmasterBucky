@@ -1,0 +1,22 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Ambulance
+precededBy: None
+introduced: 1910
+discontinued: '1911'
+replacedWith: First Aid
+timeline:
+- {year: 1910, text: The Ambulance merit badge is introduced.}
+- {year: 1911, text: Last year the Ambulance merit badge is offered; it is replaced by First Aid.}
+lifetimeRank: {rank: 227, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 232
+    range: [232, 232]
+    asOf: 2025
+patches:
+- {type: A, years: '1911', status: missing}
+pamphlets: []
+trivia:
+- {q: 'What replaced Ambulance after 1911?', a: First Aid.}

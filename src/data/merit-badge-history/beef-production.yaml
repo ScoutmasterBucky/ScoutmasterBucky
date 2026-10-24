@@ -1,0 +1,197 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Beef Production
+precededBy: None
+introduced: 1928
+discontinued: '1975'
+replacedWith: Animal Science
+story: [The Beef Production Merit Badge was introduced in 1928 as a part of a dozen new merit badges that year. Many of these merit badges were agricultural-based to address the growth of Scouting into
+        rural America.]
+timeline:
+-   year: 1928
+    text: 'The Beef Production merit badge is introduced. The first Beef Production merit badges are earned: 191 that year.'
+- {year: 1929, text: The earliest known Beef Production pamphlet printing (Type 3B).}
+- {year: 1948, text: 'Best ranking: 64th of 111 merit badges.'}
+-   year: 1975
+    text: 'All-time high: 3,732 Beef Production merit badges earned. Last year the Beef Production merit badge is offered; it is replaced by Animal Science.'
+ranks:
+    1928: [78, 88]
+    1929: [78, 89]
+    1930: [75, 92]
+    1931: [83, 96]
+    1932: [76, 98]
+    1933: [78, 101]
+    1934: [80, 101]
+    1935: [81, 101]
+    1936: [72, 101]
+    1937: [79, 102]
+    1938: [76, 105]
+    1939: [73, 106]
+    1940: [73, 106]
+    1941: [73, 106]
+    1942: [74, 110]
+    1943: [69, 112]
+    1944: [71, 111]
+    1945: [71, 111]
+    1946: [68, 111]
+    1947: [66, 111]
+    1948: [64, 111]
+    1949: [72, 111]
+    1950: [69, 111]
+    1951: [67, 111]
+    1952: [79, 120]
+    1953: [70, 105]
+    1954: [76, 103]
+    1955: [76, 100]
+    1956: [79, 100]
+    1957: [79, 100]
+    1958: [78, 101]
+    1959: [84, 101]
+    1960: [81, 100]
+    1961: [81, 101]
+    1962: [80, 101]
+    1963: [82, 102]
+    1964: [80, 107]
+    1965: [80, 109]
+    1966: [86, 110]
+    1967: [87, 112]
+    1968: [85, 112]
+    1969: [88, 113]
+    1970: [90, 113]
+    1971: [89, 113]
+    1972: [95, 124]
+    1973: [116, 122]
+    1974: [91, 121]
+    1975: [91, 128]
+    1976: [110, 130]
+    1977: [124, 130]
+    1978: [124, 131]
+    1979: [125, 132]
+    1980: [125, 132]
+    1981: [124, 134]
+lifetimeRank: {rank: 158, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 166
+    range: [165, 167]
+    asOf: 2025
+earned:
+    totalThrough: 1981
+    total: 72666
+    byYear:
+        1928: 191
+        1929: 338
+        1930: 503
+        1931: 658
+        1932: 681
+        1933: 748
+        1934: 676
+        1935: 709
+        1936: 763
+        1937: 790
+        1938: 939
+        1939: 1120
+        1940: 1060
+        1941: 1005
+        1942: 898
+        1943: 1224
+        1944: 1506
+        1945: 1475
+        1946: 1421
+        1947: 1421
+        1948: 1475
+        1949: 1144
+        1950: 1445
+        1951: 1861
+        1952: 1763
+        1953: 1734
+        1954: 1627
+        1955: 1708
+        1956: 1633
+        1957: 1761
+        1958: 1626
+        1959: 1424
+        1960: 1735
+        1961: 1963
+        1962: 1902
+        1963: 1856
+        1964: 1991
+        1965: 1852
+        1966: 1628
+        1967: 1756
+        1968: 1828
+        1969: 1882
+        1970: 1745
+        1971: 1731
+        1972: 2110
+        1973: 636
+        1974: 3637
+        1975: 3732
+        1976: 2130
+        1977: 755
+        1978: 399
+        1979: 14
+        1980: 18
+        1981: 39
+patches:
+- {type: A, years: 1928-1932, status: missing}
+- {type: A, years: '1933', image: /history/beef-production/beef-production-patch-a2.webp}
+- {type: B, years: 1934-1935, note: heavyweight cloth, status: missing}
+-   type: C
+    years: 1936-1939
+    note: heavyweight cloth
+    image: /history/beef-production/beef-production-patch-c.webp
+-   type: C
+    years: 1939-1946
+    note: lightweight cloth
+    image: /history/beef-production/beef-production-patch-c2.webp
+- {type: D, status: unknown}
+- {type: E, years: 1947-1960, image: /history/beef-production/beef-production-patch-e.webp}
+-   type: F
+    years: 1961-1968
+    note: rolled edge
+    image: /history/beef-production/beef-production-patch-f.webp
+-   type: G
+    years: 1969-1971
+    note: cloth back
+    image: /history/beef-production/beef-production-patch-g.webp
+-   type: H
+    years: 1972-1975
+    note: blue and clear
+    image: /history/beef-production/beef-production-patch-h.webp
+    more:
+    - {image: /history/beef-production/beef-production-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/beef-production/beef-production-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    -   image: /history/beef-production/beef-production-patch-h2-1-front.webp
+        label: H variation H2-1, front
+    -   image: /history/beef-production/beef-production-patch-h2-1-reverse.webp
+        label: H variation H2-1, back
+    -   image: /history/beef-production/beef-production-patch-h2-mve1-front.webp
+        label: H variation H2-MVE1, front
+    -   image: /history/beef-production/beef-production-patch-h2-mve1-reverse.webp
+        label: H variation H2-MVE1, back
+pamphlets:
+- {type: 3B, image: /history/beef-production/beef-production-3b.webp}
+- {type: 5B, image: /history/beef-production/beef-production-5b.webp}
+- {type: 6A, image: /history/beef-production/beef-production-6a.webp}
+- {type: 6B, image: /history/beef-production/beef-production-6b.webp}
+- {type: '7', image: /history/beef-production/beef-production-7.webp}
+- {type: '8', image: /history/beef-production/beef-production-8.webp}
+hardcovers:
+- {type: HCC, image: /history/beef-production/beef-production-hcc.webp}
+- {type: HCH, image: /history/beef-production/beef-production-hch.webp}
+- {type: HCJ, image: /history/beef-production/beef-production-hcj.webp}
+- {type: HCK, image: /history/beef-production/beef-production-hck.webp}
+- {type: HCL, image: /history/beef-production/beef-production-hcl.webp}
+- {type: HCT, image: /history/beef-production/beef-production-hct.webp}
+trivia:
+-   q: Was the Beef Production badge made in every patch style of its time?
+    a: No. No Type D Beef Production badge is known to exist.
+-   q: In what year did Scouts earn the most Beef Production merit badges?
+    a: 1975, when 3,732 were earned.
+- {q: 'How many Beef Production merit badges had been earned by 1981?', a: '72,666.'}
+-   q: What was Beef Production's best year in the rankings on record?
+    a: 1948, when it was 64th of the 111 merit badges earned that year.
+- {q: 'What replaced Beef Production after 1975?', a: Animal Science.}
+- {q: 'When was the earliest known Beef Production pamphlet printed?', a: '1929.'}

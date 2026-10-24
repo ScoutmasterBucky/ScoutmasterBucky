@@ -1,0 +1,389 @@
+# Woodwork merit badge history. See archery.yaml for the field notes.
+
+name: Woodwork
+precededBy: Craftsmanship
+precededByLink: craftsmanship
+introduced: 1927
+discontinued: Current
+replacedWith: Current
+
+story:
+    - Woodwork grew out of Craftsmanship, one of the original 1911 merit badges. In 1927 Craftsmanship was split into separate craft badges, Basketry, Bookbinding, Cement Work, Leathercraft, Metalwork, Pottery, Wood Carving, and Woodwork (then written "Wood Work"), each with its own design.
+    - The earliest pamphlets came from that Craftsmanship family. Printings from 1920 to 1927 carry the title "Craftsmanship – Wood." The badge that followed was Wood Work, and its symbol was a small stool.
+    - In 1952 three badges became one. The January 1952 pamphlet cover reads "Woodwork, replacing Wood Work, Carpentry and Wood Turning merit badges," and it shows a woodworking plane, the symbol the original 1911 Carpentry badge had used. The stool stayed on the patches through Type E; from Type F (1961) on, the badge shows the plane.
+    - Carpentry came back for one year only in 2010, as one of four historic badges for Scouting's 100th anniversary.
+    - Woodwork was at its most popular during World War II, peaking at 21,589 badges in 1945. By the end of 2020 Scouts had earned 999,863 Woodwork badges, just 137 short of one million.
+
+thenAndNow:
+    year: 1911
+    badge: Carpentry
+    note: Woodwork did not exist yet in 1911. These are the requirements of the original Carpentry badge, the first woodworking merit badge.
+    source: The Official Handbook for Boys (1911)
+    requirements:
+        - Know the proper way to drive, set and clinch a nail.
+        - Know the different kinds of chisels, planes and saws, and how to sharpen and use them.
+        - Know the use of the rule, square, level, plumb-line and mitre.
+        - Know how to use compasses for scribing both regular and irregular lines.
+        - Make an article of furniture with three different standard joints or splices, with at least one surface of highly polished hard or decorative wood. All work to be done without assistance.
+
+timeline:
+    - { year: 1911, text: Craftsmanship and Carpentry are among the 57 original merit badges. }
+    - { year: 1920, text: 'The first "Craftsmanship – Wood" pamphlet (Type 2) is printed.' }
+    - { year: 1927, text: Craftsmanship is split into eight craft badges and Woodwork is born. }
+    - { year: 1928, text: 'First year of Woodwork counts: 12,680 earned.' }
+    - { year: 1930, text: A separate Wood Turning merit badge is added. }
+    - { year: 1945, text: 'All-time high: 21,589 Woodwork merit badges earned.' }
+    - { year: 1952, text: 'A new Woodwork badge replaces Wood Work, Carpentry and Wood Turning, and takes Carpentry''s plane as its symbol.' }
+    - { year: 2010, text: Carpentry returns for one year as a historic badge for Scouting's 100th anniversary. }
+    - { year: 2020, text: 'Pandemic year: 3,066 earned, down 32%.' }
+    - { year: 2024, text: 'Type 11A cover, the first Woodwork pamphlet with a Scouting America number.' }
+
+trivia:
+    - q: How close is Woodwork to one million badges earned?
+      a: At the end of 2020 the total stood at 999,863, just 137 short of one million.
+    - q: What was on the Woodwork badge before the plane?
+      a: A small stool. The plane came from the Carpentry badge when the two were merged in 1952.
+    - q: Which three badges did the 1952 Woodwork badge replace?
+      a: Wood Work, Carpentry and Wood Turning, as printed on the January 1952 pamphlet cover.
+    - q: What happened to the original Carpentry badge?
+      a: It was merged into Woodwork in 1952, then brought back for 2010 only as one of four historic merit badges.
+    - q: Why do two 1926 printings differ?
+      a: Page iv of one ends with the 200 Fifth Avenue address and the other with 2 Park Avenue, as the Boy Scouts' New York address changed.
+    - q: When was Woodwork most popular?
+      a: '1945, when 21,589 Scouts earned it.'
+
+# Popularity rank: [rank, number of badges earned that year]. See archery.yaml
+# for the sources and method.
+ranks:
+    1928: [13, 88]
+    1929: [15, 89]
+    1930: [14, 92]
+    1931: [14, 96]
+    1932: [12, 98]
+    1933: [13, 101]
+    1934: [14, 101]
+    1935: [14, 101]
+    1936: [14, 101]
+    1937: [14, 102]
+    1938: [13, 105]
+    1939: [14, 106]
+    1940: [13, 106]
+    1941: [14, 106]
+    1942: [14, 110]
+    1943: [14, 112]
+    1944: [14, 111]
+    1945: [11, 111]
+    1946: [13, 111]
+    1947: [12, 111]
+    1948: [15, 111]
+    1949: [15, 111]
+    1950: [15, 111]
+    1951: [15, 111]
+    1952: [15, 120]
+    1953: [19, 105]
+    1954: [23, 103]
+    1955: [29, 100]
+    1956: [30, 100]
+    1957: [32, 100]
+    1958: [32, 101]
+    1959: [33, 101]
+    1960: [34, 100]
+    1961: [34, 101]
+    1962: [33, 101]
+    1963: [32, 102]
+    1964: [35, 107]
+    1965: [36, 109]
+    1966: [34, 110]
+    1967: [35, 112]
+    1968: [31, 112]
+    1969: [34, 113]
+    1970: [33, 113]
+    1971: [31, 113]
+    1972: [34, 124]
+    1973: [40, 122]
+    1974: [45, 121]
+    1975: [45, 128]
+    1976: [46, 130]
+    1977: [46, 130]
+    1978: [45, 131]
+    1979: [47, 132]
+    1980: [48, 132]
+    1981: [47, 134]
+    1993: [61, 123]
+    1996: [72, 135]
+    2000: [70, 129]
+    2001: [81, 130]
+    2002: [78, 129]
+    2003: [82, 143]
+    2004: [78, 122]
+    2005: [80, 122]
+    2006: [77, 122]
+    2007: [81, 122]
+    2008: [84, 121]
+    2009: [84, 122]
+    2010: [82, 125]
+    2011: [85, 127]
+    2012: [90, 130]
+    2013: [87, 133]
+    2014: [88, 136]
+    2015: [86, 138]
+    2016: [85, 138]
+    2017: [87, 139]
+    2018: [87, 139]
+    2019: [93, 138]
+    2020: [99, 137]
+    2021: [84, 137]
+    2022: [85, 138]
+    2023: [91, 138]
+    2024: [88, 138]
+    2025: [94, 141]
+lifetimeRank: { rank: 44, asOf: 2020 }
+# Estimated, not official: history-tools/estimate_alltime.py
+lifetimeRankEstimate: { rank: 43, range: [43, 43], asOf: 2025 }
+
+earned:
+    totalThrough: 2020
+    total: 999863
+    # null = earned that year but the exact number is not known
+    byYear:
+        1928: 12680
+        1929: 13623
+        1930: 14488
+        1931: 17107
+        1932: 16414
+        1933: 17095
+        1934: 15232
+        1935: 16755
+        1936: 14065
+        1937: 14553
+        1938: 18332
+        1939: 19494
+        1940: 19521
+        1941: 17078
+        1942: 15712
+        1943: 16863
+        1944: 21025
+        1945: 21589
+        1946: 17052
+        1947: 16193
+        1948: 13619
+        1949: 14569
+        1950: 17430
+        1951: 18642
+        1952: 18523
+        1953: 14824
+        1954: 14261
+        1955: 13001
+        1956: 11334
+        1957: 10291
+        1958: 10424
+        1959: 10746
+        1960: 12258
+        1961: 13303
+        1962: 13097
+        1963: 13656
+        1964: 14169
+        1965: 13487
+        1966: 13158
+        1967: 14396
+        1968: 15229
+        1969: 14386
+        1970: 14548
+        1971: 15416
+        1972: 15412
+        1973: 13168
+        1974: 16645
+        1975: 15756
+        1976: 13864
+        1977: 12088
+        1978: 9811
+        1979: 8008
+        1980: 4930
+        1981: 7635
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 5733
+        1994: null
+        1995: null
+        1996: 4315
+        1997: null
+        1998: null
+        1999: null
+        2000: 5749
+        2001: 4037
+        2002: 4809
+        2003: 5284
+        2004: 5219
+        2005: 4846
+        2006: 4990
+        2007: 4621
+        2008: 4418
+        2009: 5217
+        2010: 5866
+        2011: 5590
+        2012: 4962
+        2013: 5602
+        2014: 5198
+        2015: 5242
+        2016: 4975
+        2017: 5212
+        2018: 4939
+        2019: 4503
+        2020: 3066
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+
+patches:
+    - type: A
+      years: 1928-1933
+      note: heavyweight cloth
+      image: /history/woodwork/woodwork-patch-a.webp
+    - type: B
+      years: 1934-1935
+      note: heavyweight and depression cloth
+      image: /history/woodwork/woodwork-patch-b.webp
+    - type: C
+      years: 1936-1942
+      note: heavyweight and lightweight cloth
+      image: /history/woodwork/woodwork-patch-c.webp
+    - type: D
+      years: 1942-1946
+      note: fine twill and war cloth
+      image: /history/woodwork/woodwork-patch-d.webp
+    - type: E
+      years: 1947-1960
+      image: /history/woodwork/woodwork-patch-e.webp
+    - type: F
+      years: 1961-1968
+      note: rolled edge
+      image: /history/woodwork/woodwork-patch-f.webp
+    - type: G
+      years: 1969-1971
+      note: cloth back
+      image: /history/woodwork/woodwork-patch-g.webp
+    - type: H
+      years: 1972-2002
+      note: blue, clear, and molded
+      image: /history/woodwork/woodwork-patch-h.webp
+      more:
+          # H1-H5 are variations of the Type H badge
+          - { image: /history/woodwork/woodwork-patch-h1-front.webp, label: 'H variation H1, front' }
+          - { image: /history/woodwork/woodwork-patch-h1-reverse.webp, label: 'H variation H1, back' }
+          - { image: /history/woodwork/woodwork-patch-h2-1-front.webp, label: 'H variation H2-1, front' }
+          - { image: /history/woodwork/woodwork-patch-h2-1-reverse.webp, label: 'H variation H2-1, back' }
+          - { image: /history/woodwork/woodwork-patch-h2-mve1-front.webp, label: 'H variation H2-MVE1, front' }
+          - { image: /history/woodwork/woodwork-patch-h2-mve1-reverse.webp, label: 'H variation H2-MVE1, back' }
+          - { image: /history/woodwork/woodwork-patch-h3-front.webp, label: 'H variation H3, front' }
+          - { image: /history/woodwork/woodwork-patch-h3-reverse.webp, label: 'H variation H3, back' }
+    - type: I
+      status: notMade
+    - type: J
+      years: 2002-2009
+      note: Scout Stuff back
+      image: /history/woodwork/woodwork-patch-j.webp
+    - type: K
+      years: 2010-2014
+      note: BSA 2010 back
+      image: /history/woodwork/woodwork-patch-k.webp
+      more:
+          - { image: /history/woodwork/woodwork-patch-k-reverse.webp, label: K back }
+    - type: L
+      years: 2015-2025
+      note: Since 1910 back
+      image: /history/woodwork/woodwork-patch-l.webp
+      more:
+          - { image: /history/woodwork/woodwork-patch-l-reverse.webp, label: L back }
+    - type: M
+      years: 2025-current
+      note: Scouting America back
+      status: missing
+
+# Years for each cover come from the printings.
+pamphlets:
+    - type: '2'
+      note: Craftsmanship – Wood
+      image: /history/woodwork/craftsmanship-wood-2.webp
+    - type: 3A-1 over 2
+      note: Craftsmanship – Wood
+      image: /history/woodwork/woodwork-3a-1-over-2.webp
+    - type: 3A-1
+      note: Craftsmanship – Wood
+      image: /history/woodwork/craftsmanship-wood-3a.webp
+    - type: 3A-2
+      note: Craftsmanship – Wood
+      image: /history/woodwork/craftsmanship-wood-3a-2.webp
+    - { type: 3B, image: /history/woodwork/woodwork-3b.webp }
+    - { type: 3C, image: /history/woodwork/woodwork-3c.webp }
+    - { type: 3D, image: /history/woodwork/woodwork-3d.webp }
+    - { type: '4', image: /history/woodwork/woodwork-4.webp }
+    - { type: 5A, image: /history/woodwork/woodwork-5a.webp }
+    - { type: 5B, image: /history/woodwork/woodwork-5b.webp }
+    - { type: 5C, image: /history/woodwork/woodwork-5c.webp }
+    - { type: '6', image: /history/woodwork/woodwork-6.webp }
+    - { type: 7A, image: /history/woodwork/woodwork-7a.webp }
+    - { type: 7B, image: /history/woodwork/woodwork-7b.webp }
+    - { type: 8A, image: /history/woodwork/woodwork-8a.webp }
+    - { type: 8B, image: /history/woodwork/woodwork-8b.webp }
+    - { type: 9A-1, image: /history/woodwork/woodwork-9a-1.webp }
+    - { type: 9A-2, image: /history/woodwork/woodwork-9a-2.webp }
+    - { type: 9B-1, image: /history/woodwork/woodwork-9b-1.webp }
+    - { type: 9B-2, image: /history/woodwork/woodwork-9b-2.webp }
+    - { type: 10A, image: /history/woodwork/woodwork-10a.webp }
+    - { type: 10B, image: /history/woodwork/woodwork-10b.webp }
+    - { type: 10C-1, image: /history/woodwork/woodwork-10c-1.webp }
+    - { type: 10C-2, image: /history/woodwork/woodwork-10c-2.webp }
+    - { type: 10D-1, image: /history/woodwork/woodwork-10d-1.webp }
+    - { type: 10D-2, image: /history/woodwork/woodwork-10d-2.webp }
+    - { type: 11A, image: /history/woodwork/woodwork-11a.webp }
+
+hardcovers:
+    - { type: HCJ, image: /history/woodwork/woodwork-hcj.webp }
+    - { type: HCK, image: /history/woodwork/woodwork-hck.webp }
+    - { type: HCL, image: /history/woodwork/woodwork-hcl.webp }
+    - { type: HCM, image: /history/woodwork/woodwork-hcm.webp }
+    - { type: HCR, image: /history/woodwork/woodwork-hcr.webp }
+    - { type: HCS, image: /history/woodwork/woodwork-hcs.webp }
+    - { type: HCT, image: /history/woodwork/woodwork-hct.webp }
+
+sources:
+    - title: The Official Handbook for Boys, 1911 (Project Gutenberg)
+      url: https://www.gutenberg.org/ebooks/29558
+    - title: Merit Badge History, U.S. Scouting Service Project
+      url: http://usscouts.org/mb/history.asp
+    - title: Merit Badges, Past and Present, Henning's Scouters' Pages
+      url: http://www.scouters.us/Merit.php
+    - title: Legend to Identify Merit Badges, Scouting Memories Project (boyscoutimages.org)
+      url: https://dev.boyscoutimages.org/history-legend?portal=youth&c1=merit-badges&c2=legend-to-identify-merit-badges
+    - title: Merit badge type categories, ScoutStuff4Sale
+      url: https://www.scoutstuff4sale.com/merit-badges-1/
+    - title: Collecting Merit Badges, ISCA Getting Started Collecting Series
+      url: https://scouttrader.org/collecting/meritbadge.pdf
+    - title: Original 57 merit badges, Wikipedia
+      url: https://en.wikipedia.org/wiki/Original_57_merit_badges_(Boy_Scouts_of_America)
+    - title: 2019 merit badge rankings, Scouting Magazine
+      url: https://onscouting.org/2020/02/17/2019-merit-badge-rankings-which-were-the-most-and-least-popular/
+    - title: 2020 merit badge rankings, Scouting Magazine
+      url: https://onscouting.org/2021/02/24/2020-merit-badge-rankings-a-list-rewritten-by-the-pandemic/
+    - title: 2021 merit badge rankings, Scouting Magazine
+      url: https://onscouting.org/2022/04/26/2021-merit-badge-rankings-return-of-summer-camps-shuffles-the-list-again/
+    - title: 2022 merit badge rankings, Scouting Magazine
+      url: https://onscouting.org/2023/02/28/2022-merit-badge-rankings-a-new-chart-topper-emerges/
+    - title: 2023 merit badge rankings, Scouting Magazine
+      url: https://onscouting.org/2024/02/13/2023-merit-badge-rankings-a-look-into-scouts-current-interests-and-achievements/
+    - title: 2024 merit badge rankings, Scouting Magazine
+      url: https://onscouting.org/2025/03/06/the-2024-merit-badge-rankings-take-a-swing-at-guessing-what-made-the-largest-gains-this-year/
+    - title: 2025 merit badge rankings, Scouting Magazine
+      url: https://onscouting.org/2026/03/18/first-aid-is-first-again-2025-merit-badge-rankings-are-here/
+    - title: Scoutmaster Bucky's merit badge pamphlet collection records

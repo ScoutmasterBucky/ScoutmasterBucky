@@ -1,0 +1,179 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Engineering
+precededBy: None
+introduced: 1967
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1967
+    text: 'The Engineering merit badge is introduced. The first Engineering merit badges are earned: 138 that year.'
+- {year: 1968, text: The earliest known Engineering pamphlet printing (Type 7).}
+- {year: 2018, text: 'All-time high: 12,280 Engineering merit badges earned.'}
+- {year: 2020, text: 'Best ranking: 36th of 137 merit badges.'}
+ranks:
+    1967: [111, 112]
+    1968: [109, 112]
+    1969: [106, 113]
+    1970: [102, 113]
+    1971: [103, 113]
+    1972: [105, 124]
+    1973: [89, 122]
+    1974: [106, 121]
+    1975: [110, 128]
+    1976: [112, 130]
+    1977: [101, 130]
+    1978: [109, 131]
+    1979: [96, 132]
+    1980: [109, 132]
+    1981: [104, 134]
+    1993: [95, 123]
+    1996: [99, 134]
+    2000: [100, 128]
+    2001: [98, 129]
+    2002: [94, 129]
+    2003: [92, 130]
+    2004: [87, 121]
+    2005: [73, 121]
+    2006: [76, 121]
+    2007: [69, 121]
+    2008: [68, 121]
+    2009: [64, 122]
+    2010: [56, 125]
+    2011: [56, 129]
+    2012: [54, 132]
+    2013: [40, 129]
+    2014: [52, 136]
+    2015: [49, 138]
+    2016: [49, 138]
+    2017: [43, 139]
+    2018: [45, 139]
+    2019: [45, 139]
+    2020: [36, 137]
+    2021: [52, 137]
+    2022: [41, 138]
+    2023: [39, 138]
+    2024: [38, 138]
+    2025: [37, 141]
+lifetimeRank: {rank: 106, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 99
+    range: [98, 99]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 213737
+    byYear:
+        1967: 138
+        1968: 418
+        1969: 915
+        1970: 1220
+        1971: 1213
+        1972: 1497
+        1973: 2968
+        1974: 2541
+        1975: 2171
+        1976: 1877
+        1977: 2422
+        1978: 1659
+        1979: 1705
+        1980: 670
+        1981: 1208
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 2263
+        1994: null
+        1995: null
+        1996: 1725
+        1997: null
+        1998: null
+        1999: null
+        2000: 2121
+        2001: 2561
+        2002: 3276
+        2003: 3555
+        2004: 4283
+        2005: 5164
+        2006: 4998
+        2007: 5733
+        2008: 5965
+        2009: 7361
+        2010: 9459
+        2011: 9418
+        2012: 9682
+        2013: 10445
+        2014: 11624
+        2015: 11735
+        2016: 11429
+        2017: 11773
+        2018: 12280
+        2019: 12184
+        2020: 7800
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: F, years: 1967-1968, status: missing}
+- {type: G, years: 1967-1971, image: /history/engineering/engineering-patch-g.webp}
+-   type: H
+    years: 1972-2002
+    image: /history/engineering/engineering-patch-h.webp
+    more:
+    - {image: /history/engineering/engineering-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/engineering/engineering-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/engineering/engineering-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/engineering/engineering-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/engineering/engineering-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/engineering/engineering-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/engineering/engineering-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/engineering/engineering-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, years: 1993-1995, status: unknown}
+- {type: J, years: 2002-2009, image: /history/engineering/engineering-patch-j.webp}
+-   type: K
+    years: 2010-2014
+    image: /history/engineering/engineering-patch-k.webp
+    more:
+    - {image: /history/engineering/engineering-patch-k-front.webp, label: K front}
+    - {image: /history/engineering/engineering-patch-k-reverse.webp, label: K back}
+- {type: L, years: 2015-2025, image: /history/engineering/engineering-patch-l.webp}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '7', image: /history/engineering/engineering-7.webp}
+- {type: 8A, image: /history/engineering/engineering-8a.webp}
+- {type: 8B, image: /history/engineering/engineering-8b.webp}
+- {type: 9A, image: /history/engineering/engineering-9a.webp}
+- {type: 9B-1, image: /history/engineering/engineering-9b-1.webp}
+- {type: 9B-2, image: /history/engineering/engineering-9b-2.webp}
+- {type: 10A, image: /history/engineering/engineering-10a.webp}
+- {type: 10B, image: /history/engineering/engineering-10b.webp}
+- {type: 10C-1A, image: /history/engineering/engineering-10c-1a.webp}
+- {type: 10C-1B, image: /history/engineering/engineering-10c-1b.webp}
+- {type: 10D, image: /history/engineering/engineering-10d.webp}
+- {type: 11A, status: missing}
+hardcovers:
+- {type: HCL, image: /history/engineering/engineering-hcl.webp}
+- {type: HCM, image: /history/engineering/engineering-hcm.webp}
+- {type: HCN, image: /history/engineering/engineering-hcn.webp}
+- {type: HCQQ, image: /history/engineering/engineering-hcqq.webp}
+trivia:
+-   q: Was the Engineering badge made in every patch style of its time?
+    a: No. No Type I Engineering badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Engineering merit badges?
+    a: 2018, when 12,280 were earned.
+- {q: 'How many Engineering merit badges had been earned by 2020?', a: '213,737.'}
+-   q: What was Engineering's best year in the rankings on record?
+    a: 2020, when it was 36th of the 137 merit badges earned that year.
+- {q: 'When was the earliest known Engineering pamphlet printed?', a: December 1968.}

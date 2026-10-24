@@ -1,0 +1,189 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Pets
+precededBy: None
+introduced: 1958
+discontinued: Current
+replacedWith: Current
+timeline:
+- {year: 1957, text: The earliest known Pets pamphlet printing (Type 6).}
+-   year: 1958
+    text: 'The Pets merit badge is introduced. The first Pets merit badges are earned: 853 that year.'
+-   year: 1974
+    text: 'All-time high: 38,350 Pets merit badges earned. Best ranking: 23rd of 121 merit badges.'
+ranks:
+    1958: [92, 101]
+    1959: [66, 101]
+    1960: [45, 100]
+    1961: [40, 101]
+    1962: [39, 101]
+    1963: [35, 102]
+    1964: [34, 107]
+    1965: [35, 109]
+    1966: [35, 110]
+    1967: [36, 112]
+    1968: [33, 112]
+    1969: [31, 113]
+    1970: [32, 113]
+    1971: [31, 113]
+    1972: [32, 124]
+    1973: [37, 122]
+    1974: [23, 121]
+    1975: [24, 128]
+    1976: [25, 130]
+    1977: [26, 130]
+    1978: [29, 131]
+    1979: [32, 132]
+    1980: [36, 132]
+    1981: [37, 134]
+    1993: [68, 123]
+    1996: [59, 134]
+    2000: [65, 128]
+    2001: [58, 129]
+    2002: [59, 129]
+    2003: [61, 130]
+    2004: [60, 121]
+    2005: [62, 121]
+    2006: [63, 121]
+    2007: [61, 121]
+    2008: [66, 121]
+    2009: [74, 122]
+    2010: [77, 125]
+    2011: [72, 129]
+    2012: [64, 132]
+    2013: [56, 129]
+    2014: [90, 136]
+    2015: [90, 138]
+    2016: [92, 138]
+    2017: [92, 139]
+    2018: [88, 139]
+    2019: [88, 139]
+    2020: [32, 137]
+    2021: [69, 137]
+    2022: [86, 138]
+    2023: [87, 138]
+    2024: [90, 138]
+    2025: [98, 141]
+lifetimeRank: {rank: 53, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 55
+    range: [55, 56]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 690228
+    byYear:
+        1958: 853
+        1959: 3071
+        1960: 7369
+        1961: 10189
+        1962: 11828
+        1963: 12754
+        1964: 14259
+        1965: 13626
+        1966: 13007
+        1967: 13564
+        1968: 14649
+        1969: 15483
+        1970: 15692
+        1971: 15416
+        1972: 15484
+        1973: 14575
+        1974: 38350
+        1975: 37036
+        1976: 32774
+        1977: 26647
+        1978: 21209
+        1979: 14859
+        1980: 9025
+        1981: 12792
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 4715
+        1994: null
+        1995: null
+        1996: 7228
+        1997: null
+        1998: null
+        1999: null
+        2000: 6658
+        2001: 6803
+        2002: 8080
+        2003: 7677
+        2004: 7498
+        2005: 6919
+        2006: 6350
+        2007: 6287
+        2008: 6251
+        2009: 6900
+        2010: 6346
+        2011: 6068
+        2012: 5904
+        2013: 5659
+        2014: 4821
+        2015: 4645
+        2016: 4278
+        2017: 4289
+        2018: 4890
+        2019: 5130
+        2020: 8333
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: E, years: 1958-1960, image: /history/pets/pets-patch-e.webp}
+- {type: F, years: 1961-1968, image: /history/pets/pets-patch-f.webp}
+- {type: G, years: 1961-1971, image: /history/pets/pets-patch-g.webp}
+- {type: H, years: 1972-2002, image: /history/pets/pets-patch-h.webp}
+- {type: I, years: 1993-1995, status: unknown}
+- {type: J, years: 2002-2009, image: /history/pets/pets-patch-j.webp}
+- {type: K, years: 2010-2014, image: /history/pets/pets-patch-k.webp}
+- {type: L, years: 2015-2025, image: /history/pets/pets-patch-l.webp}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '6', status: missing}
+- {type: 7A, status: missing}
+- {type: 7B, status: missing}
+- {type: '8', status: missing}
+- {type: 8A, status: missing}
+- {type: 8B, status: missing}
+- {type: '9', status: missing}
+- {type: 9A, status: missing}
+- {type: 9B-1, status: missing}
+- {type: 9B-2, status: missing}
+- {type: 10A, status: missing}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+- {type: 11A, status: missing}
+hardcovers:
+- {type: HCJ, image: /history/pets/pets-hcj.webp}
+- {type: HCK, image: /history/pets/pets-hck.webp}
+- {type: HCL, image: /history/pets/pets-hcl.webp}
+- {type: HCM, image: /history/pets/pets-hcm.webp}
+- {type: HCO, image: /history/pets/pets-hco.webp}
+- {type: HCP, image: /history/pets/pets-hcp.webp}
+- {type: HCT, image: /history/pets/pets-hct.webp}
+- {type: Misc T, image: /history/pets/pets-hc-misc-t.webp}
+trivia:
+-   q: Was the Pets badge made in every patch style of its time?
+    a: No. No Type I Pets badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Pets merit badges?
+    a: 1974, when 38,350 were earned.
+- {q: 'How many Pets merit badges had been earned by 2020?', a: '690,228.'}
+-   q: What was Pets' best year in the rankings on record?
+    a: 1974, when it was 23rd of the 121 merit badges earned that year.
+- {q: 'When was the earliest known Pets pamphlet printed?', a: September 1957.}

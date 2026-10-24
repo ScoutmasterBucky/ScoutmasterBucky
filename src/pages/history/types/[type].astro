@@ -1,0 +1,9 @@
+---
+// Public type pages: only the patches, pamphlets and hard covers Bucky has approved
+import MeritBadgeTypePage from '~/components/merit-badge-type-page.astro';
+import { typePagePaths } from '~/utils/merit-badge-history';
+
+export const getStaticPaths = typePagePaths;
+---
+
+<MeritBadgeTypePage {...Astro.props} />

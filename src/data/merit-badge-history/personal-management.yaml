@@ -1,0 +1,173 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Personal Management
+precededBy: Personal Finances
+precededByLink: personal-finances
+introduced: 1972
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1972
+    text: 'The Personal Management merit badge is introduced. The first Personal Management merit badges are earned: 13,299 that year. The earliest known Personal Management pamphlet printing (Type 8).'
+- {year: 2010, text: 'All-time high: 56,793 Personal Management merit badges earned.'}
+- {year: 2020, text: 'Best ranking: 5th of 137 merit badges.'}
+ranks:
+    1972: [36, 124]
+    1973: [45, 122]
+    1974: [26, 121]
+    1975: [20, 128]
+    1976: [18, 130]
+    1977: [20, 130]
+    1978: [22, 131]
+    1979: [19, 132]
+    1980: [16, 132]
+    1981: [16, 134]
+    1993: [54, 123]
+    1996: [17, 134]
+    2000: [17, 128]
+    2001: [15, 129]
+    2002: [16, 129]
+    2003: [16, 130]
+    2004: [13, 121]
+    2005: [12, 121]
+    2006: [11, 121]
+    2007: [11, 121]
+    2008: [12, 121]
+    2009: [11, 122]
+    2010: [11, 125]
+    2011: [11, 129]
+    2012: [10, 132]
+    2013: [6, 129]
+    2014: [12, 136]
+    2015: [11, 138]
+    2016: [11, 138]
+    2017: [10, 139]
+    2018: [12, 139]
+    2019: [7, 139]
+    2020: [5, 137]
+    2021: [17, 137]
+    2022: [11, 138]
+    2023: [11, 138]
+    2024: [11, 138]
+    2025: [8, 141]
+lifetimeRank: {rank: 21, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 20
+    range: [20, 20]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 2100383
+    byYear:
+        1972: 13299
+        1973: 12522
+        1974: 31526
+        1975: 42140
+        1976: 40858
+        1977: 35466
+        1978: 30513
+        1979: 30106
+        1980: 23406
+        1981: 34893
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 7955
+        1994: null
+        1995: null
+        1996: 45973
+        1997: null
+        1998: null
+        1999: null
+        2000: 47232
+        2001: 46940
+        2002: 52449
+        2003: 50617
+        2004: 53691
+        2005: 51197
+        2006: 51334
+        2007: 49861
+        2008: 50240
+        2009: 56330
+        2010: 56793
+        2011: 53459
+        2012: 54529
+        2013: 53273
+        2014: 48299
+        2015: 51105
+        2016: 50251
+        2017: 49287
+        2018: 48393
+        2019: 48464
+        2020: 40897
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1972-2002
+    image: /history/personal-management/personal-management-patch-h.webp
+    more:
+    -   image: /history/personal-management/personal-management-patch-h1-front.webp
+        label: H variation H1, front
+    -   image: /history/personal-management/personal-management-patch-h1-reverse.webp
+        label: H variation H1, back
+    -   image: /history/personal-management/personal-management-patch-h2-1-front.webp
+        label: H variation H2-1, front
+    -   image: /history/personal-management/personal-management-patch-h2-1-reverse.webp
+        label: H variation H2-1, back
+    -   image: /history/personal-management/personal-management-patch-h5-front.webp
+        label: H variation H5, front
+    -   image: /history/personal-management/personal-management-patch-h5-reverse.webp
+        label: H variation H5, back
+- {type: I, years: 1993-1995, status: unknown}
+- {type: J, years: 2002-2009, image: /history/personal-management/personal-management-patch-j.webp}
+-   type: K
+    years: 2010-2014
+    image: /history/personal-management/personal-management-patch-k.webp
+    more:
+    - {image: /history/personal-management/personal-management-patch-k-front.webp, label: K front}
+    - {image: /history/personal-management/personal-management-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    image: /history/personal-management/personal-management-patch-l.webp
+    more:
+    - {image: /history/personal-management/personal-management-patch-l-front.webp, label: L front}
+    - {image: /history/personal-management/personal-management-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '8', status: missing}
+- {type: 9A, status: missing}
+- {type: 9B, status: missing}
+- {type: 9C-1, status: missing}
+- {type: 9C-2, status: missing}
+- {type: 10A, status: missing}
+- {type: 10B, status: missing}
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+- {type: 11A, status: missing}
+hardcovers:
+- {type: HCS, image: /history/personal-management/personal-management-hcs.webp}
+- {type: HCT, image: /history/personal-management/personal-management-hct.webp}
+trivia:
+-   q: Was the Personal Management badge made in every patch style of its time?
+    a: No. No Type I Personal Management badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Personal Management merit badges?
+    a: 2010, when 56,793 were earned.
+- {q: 'How many Personal Management merit badges had been earned by 2020?', a: '2,100,383.'}
+-   q: What was Personal Management's best year in the rankings on record?
+    a: 2020, when it was 5th of the 137 merit badges earned that year.
+- {q: 'What came before the Personal Management merit badge?', a: Personal Finances.}
+- {q: 'When was the earliest known Personal Management pamphlet printed?', a: June 1972.}

@@ -1,0 +1,115 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Entrepreneurship
+precededBy: None
+introduced: 1997
+discontinued: Current
+replacedWith: Current
+timeline:
+- {year: 1996, text: The first Entrepreneurship merit badge is earned.}
+-   year: 1997
+    text: The Entrepreneurship merit badge is introduced. The earliest known Entrepreneurship pamphlet printing (Type 9A).
+- {year: 2017, text: 'All-time high: 3,473 Entrepreneurship merit badges earned.'}
+- {year: 2025, text: 'Best ranking: 80th of 141 merit badges.'}
+ranks:
+    1996: [133, 134]
+    2000: [117, 128]
+    2001: [115, 129]
+    2002: [115, 129]
+    2003: [117, 130]
+    2004: [117, 121]
+    2005: [113, 121]
+    2006: [114, 121]
+    2007: [112, 121]
+    2008: [113, 121]
+    2009: [111, 122]
+    2010: [115, 125]
+    2011: [109, 129]
+    2012: [101, 132]
+    2013: [90, 129]
+    2014: [119, 136]
+    2015: [113, 138]
+    2016: [105, 138]
+    2017: [102, 139]
+    2018: [104, 139]
+    2019: [103, 139]
+    2020: [94, 137]
+    2021: [101, 137]
+    2022: [94, 138]
+    2023: [92, 138]
+    2024: [86, 138]
+    2025: [80, 141]
+lifetimeRank: {rank: 177, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 175
+    range: [173, 175]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 42254
+    byYear:
+        1996: 1
+        1997: null
+        1998: null
+        1999: null
+        2000: 731
+        2001: 915
+        2002: 1040
+        2003: 903
+        2004: 1006
+        2005: 1605
+        2006: 1161
+        2007: 1332
+        2008: 1249
+        2009: 1609
+        2010: 1582
+        2011: 1895
+        2012: 1932
+        2013: 1900
+        2014: 2496
+        2015: 2927
+        2016: 3365
+        2017: 3473
+        2018: 3353
+        2019: 3410
+        2020: 3284
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1997-2002
+    image: /history/entrepreneurship/entrepreneurship-patch-h.webp
+    more:
+    - {image: /history/entrepreneurship/entrepreneurship-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/entrepreneurship/entrepreneurship-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: J, years: 2002-2009, image: /history/entrepreneurship/entrepreneurship-patch-j.webp}
+-   type: K
+    years: 2010-2014
+    image: /history/entrepreneurship/entrepreneurship-patch-k.webp
+    more:
+    - {image: /history/entrepreneurship/entrepreneurship-patch-k-front.webp, label: K front}
+    - {image: /history/entrepreneurship/entrepreneurship-patch-k-reverse.webp, label: K back}
+- {type: L, years: 2015-2025, image: /history/entrepreneurship/entrepreneurship-patch-l.webp}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 9A, image: /history/entrepreneurship/entrepreneurship-9a.webp}
+- {type: 9B, image: /history/entrepreneurship/entrepreneurship-9b.webp}
+- {type: 10A, image: /history/entrepreneurship/entrepreneurship-10a.webp}
+- {type: 10B, image: /history/entrepreneurship/entrepreneurship-10b.webp}
+- {type: 10C-1A, image: /history/entrepreneurship/entrepreneurship-10c-1a.webp}
+- {type: 10C-1B, image: /history/entrepreneurship/entrepreneurship-10c-1b.webp}
+- {type: 10C-2, image: /history/entrepreneurship/entrepreneurship-10c-2.webp}
+- {type: 10D-1, image: /history/entrepreneurship/entrepreneurship-10d-1.webp}
+- {type: 10D-2, image: /history/entrepreneurship/entrepreneurship-10d-2.webp}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Entrepreneurship merit badges?
+    a: 2017, when 3,473 were earned.
+- {q: 'How many Entrepreneurship merit badges had been earned by 2020?', a: '42,254.'}
+-   q: What was Entrepreneurship's best year in the rankings on record?
+    a: 2025, when it was 80th of the 141 merit badges earned that year.
+- {q: 'When was the earliest known Entrepreneurship pamphlet printed?', a: '1997.'}

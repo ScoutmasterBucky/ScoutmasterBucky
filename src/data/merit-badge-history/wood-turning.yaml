@@ -1,0 +1,107 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Wood Turning
+precededBy: None
+introduced: 1930
+discontinued: '1952'
+replacedWith: None
+timeline:
+-   year: 1930
+    text: 'The Wood Turning merit badge is introduced. The first Wood Turning merit badges are earned: 193 that year.'
+- {year: 1931, text: The earliest known Wood Turning pamphlet printing (Type 3B-1).}
+- {year: 1936, text: 'Best ranking: 34th of 101 merit badges.'}
+- {year: 1951, text: 'All-time high: 4,870 Wood Turning merit badges earned.'}
+- {year: 1952, text: Last year the Wood Turning merit badge is offered.}
+ranks:
+    1930: [89, 92]
+    1931: [74, 96]
+    1932: [47, 98]
+    1933: [46, 101]
+    1934: [44, 101]
+    1935: [36, 101]
+    1936: [34, 101]
+    1937: [38, 102]
+    1938: [35, 105]
+    1939: [39, 106]
+    1940: [39, 106]
+    1941: [39, 106]
+    1942: [38, 110]
+    1943: [41, 112]
+    1944: [45, 111]
+    1945: [42, 111]
+    1946: [41, 111]
+    1947: [41, 111]
+    1948: [40, 111]
+    1949: [40, 111]
+    1950: [39, 111]
+    1951: [42, 111]
+    1952: [50, 120]
+lifetimeRank: {rank: 157, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 164
+    range: [163, 164]
+    asOf: 2025
+earned:
+    totalThrough: 1952
+    total: 78061
+    byYear:
+        1930: 193
+        1931: 903
+        1932: 2428
+        1933: 2655
+        1934: 2672
+        1935: 3765
+        1936: 3196
+        1937: 3091
+        1938: 4145
+        1939: 4082
+        1940: 3976
+        1941: 3754
+        1942: 3207
+        1943: 3609
+        1944: 4256
+        1945: 4330
+        1946: 3722
+        1947: 3391
+        1948: 3389
+        1949: 3687
+        1950: 4522
+        1951: 4870
+        1952: 4218
+patches:
+-   type: A
+    years: 1931-1933
+    note: variations
+    image: /history/wood-turning/wood-turning-patch-a.webp
+-   type: B
+    years: 1934-1935
+    note: heavyweight and depression cloth
+    image: /history/wood-turning/wood-turning-patch-b.webp
+-   type: C
+    years: 1936-1942
+    note: heavyweight and lightweight cloth
+    image: /history/wood-turning/wood-turning-patch-c.webp
+-   type: D
+    years: 1942-1945
+    note: fine twill and war cloth
+    image: /history/wood-turning/wood-turning-patch-d.webp
+- {type: E, years: 1947-1952, image: /history/wood-turning/wood-turning-patch-e.webp}
+pamphlets:
+- {type: 3B-1, image: /history/wood-turning/wood-turning-3b-1.webp}
+- {type: 3B-2, image: /history/wood-turning/wood-turning-3b-2.webp}
+- {type: 3C, image: /history/wood-turning/wood-turning-3c.webp}
+- {type: 3D, image: /history/wood-turning/wood-turning-3d.webp}
+- {type: '4', image: /history/wood-turning/wood-turning-4.webp}
+- {type: 5A, image: /history/wood-turning/wood-turning-5a.webp}
+- {type: 5B, image: /history/wood-turning/wood-turning-5b.webp}
+hardcovers:
+- {type: HCB, image: /history/wood-turning/wood-turning-hcb.webp}
+trivia:
+-   q: In what year did Scouts earn the most Wood Turning merit badges?
+    a: 1951, when 4,870 were earned.
+- {q: 'How many Wood Turning merit badges had been earned by 1952?', a: '78,061.'}
+-   q: What was Wood Turning's best year in the rankings on record?
+    a: 1936, when it was 34th of the 101 merit badges earned that year.
+- {q: 'When was the earliest known Wood Turning pamphlet printed?', a: June 1931.}

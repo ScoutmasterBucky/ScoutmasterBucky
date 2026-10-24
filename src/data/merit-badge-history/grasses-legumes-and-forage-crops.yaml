@@ -1,0 +1,100 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Grasses, Legumes, and Forage Crops
+precededBy: None
+introduced: 1938
+discontinued: '1958'
+replacedWith: Forage Crops
+timeline:
+-   year: 1938
+    text: The Grasses, Legumes, and Forage Crops merit badge is introduced. The earliest known Grasses, Legumes, and Forage Crops pamphlet printing (Type 3D).
+-   year: 1939
+    text: 'First known count: 688 Grasses, Legumes, and Forage Crops merit badges earned. All-time high: 688 Grasses, Legumes, and Forage Crops merit badges earned. Best ranking: 81st of 106 merit badges.'
+-   year: 1958
+    text: Last year the Grasses, Legumes, and Forage Crops merit badge is offered; it is replaced by Forage Crops.
+ranks:
+    1939: [81, 106]
+    1940: [103, 106]
+    1941: [103, 106]
+    1942: [101, 110]
+    1943: [89, 112]
+    1944: [100, 111]
+    1945: [102, 111]
+    1946: [104, 111]
+    1947: [103, 111]
+    1948: [104, 111]
+    1949: [105, 111]
+    1950: [105, 111]
+    1951: [102, 111]
+    1952: [108, 120]
+    1953: [100, 105]
+    1954: [94, 103]
+    1955: [99, 100]
+    1956: [95, 100]
+    1957: [99, 100]
+    1958: [100, 101]
+lifetimeRank: {rank: 215, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 217
+    range: [217, 217]
+    asOf: 2025
+earned:
+    totalThrough: 1958
+    total: 7639
+    byYear:
+        1938: null
+        1939: 688
+        1940: 190
+        1941: 214
+        1942: 229
+        1943: 541
+        1944: 419
+        1945: 395
+        1946: 282
+        1947: 253
+        1948: 259
+        1949: 257
+        1950: 300
+        1951: 480
+        1952: 521
+        1953: 322
+        1954: 528
+        1955: 424
+        1956: 531
+        1957: 419
+        1958: 387
+patches:
+-   type: C
+    years: 1938-1942
+    image: /history/grasses-legumes-and-forage-crops/grasses-legumes-and-forage-crops-patch-c.webp
+-   type: D
+    years: 1942-1946
+    image: /history/grasses-legumes-and-forage-crops/grasses-legumes-and-forage-crops-patch-d.webp
+-   type: E
+    years: 1947-1958
+    image: /history/grasses-legumes-and-forage-crops/grasses-legumes-and-forage-crops-patch-e.webp
+pamphlets:
+- {type: 3D, image: /history/grasses-legumes-and-forage-crops/grasses-legumes-and-forage-crops-3d.webp}
+- {type: '4', status: missing}
+- {type: 5B, status: missing}
+- {type: '6', status: missing}
+hardcovers:
+-   type: HCE
+    image: /history/grasses-legumes-and-forage-crops/grasses-legumes-and-forage-crops-hce.webp
+-   type: HCH
+    image: /history/grasses-legumes-and-forage-crops/grasses-legumes-and-forage-crops-hch.webp
+-   type: HCI
+    image: /history/grasses-legumes-and-forage-crops/grasses-legumes-and-forage-crops-hci.webp
+-   type: HCJ
+    image: /history/grasses-legumes-and-forage-crops/grasses-legumes-and-forage-crops-hcj.webp
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Grasses, Legumes, and Forage Crops merit badges?
+    a: 1939, when 688 were earned.
+- {q: 'How many Grasses, Legumes, and Forage Crops merit badges had been earned by 1958?', a: '7,639.'}
+-   q: What was Grasses, Legumes, and Forage Crops' best year in the rankings on record?
+    a: 1939, when it was 81st of the 106 merit badges earned that year.
+- {q: 'What replaced Grasses, Legumes, and Forage Crops after 1958?', a: Forage Crops.}
+-   q: When was the earliest known Grasses, Legumes, and Forage Crops pamphlet printed?
+    a: November 1938.

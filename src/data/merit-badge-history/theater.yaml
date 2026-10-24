@@ -1,0 +1,192 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Theater
+precededBy: Dramatics
+precededByLink: dramatics
+introduced: 1967
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1967
+    text: 'The Theater merit badge is introduced. The first Theater merit badges are earned: 1,189 that year.'
+- {year: 1968, text: The earliest known Theater pamphlet printing (Type 7).}
+- {year: 1969, text: 'Best ranking: 85th of 113 merit badges.'}
+- {year: 2012, text: 'All-time high: 2,776 Theater merit badges earned.'}
+ranks:
+    1967: [100, 112]
+    1968: [101, 112]
+    1969: [85, 113]
+    1970: [99, 113]
+    1971: [97, 113]
+    1972: [106, 124]
+    1973: [102, 122]
+    1974: [105, 121]
+    1975: [105, 128]
+    1976: [105, 130]
+    1977: [107, 130]
+    1978: [98, 131]
+    1979: [99, 132]
+    1980: [103, 132]
+    1981: [98, 134]
+    1993: [110, 123]
+    1996: [105, 134]
+    2000: [107, 128]
+    2001: [110, 129]
+    2002: [108, 129]
+    2003: [111, 130]
+    2004: [106, 121]
+    2005: [105, 121]
+    2006: [103, 121]
+    2007: [106, 121]
+    2008: [105, 121]
+    2009: [108, 122]
+    2010: [110, 125]
+    2011: [107, 129]
+    2012: [94, 132]
+    2013: [87, 129]
+    2014: [121, 136]
+    2015: [119, 138]
+    2016: [116, 138]
+    2017: [119, 139]
+    2018: [124, 139]
+    2019: [117, 139]
+    2020: [123, 137]
+    2021: [126, 137]
+    2022: [118, 138]
+    2023: [113, 138]
+    2024: [113, 138]
+    2025: [110, 141]
+lifetimeRank: {rank: 139, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 143
+    range: [143, 144]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 97833
+    byYear:
+        1967: 1189
+        1968: 1178
+        1969: 2166
+        1970: 1497
+        1971: 1392
+        1972: 1488
+        1973: 1455
+        1974: 2657
+        1975: 2774
+        1976: 2459
+        1977: 2075
+        1978: 2052
+        1979: 1463
+        1980: 811
+        1981: 1354
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 1389
+        1994: null
+        1995: null
+        1996: 1466
+        1997: null
+        1998: null
+        1999: null
+        2000: 1697
+        2001: 1392
+        2002: 1788
+        2003: 1686
+        2004: 2148
+        2005: 2032
+        2006: 2267
+        2007: 1937
+        2008: 2239
+        2009: 2290
+        2010: 2174
+        2011: 2201
+        2012: 2776
+        2013: 2320
+        2014: 2273
+        2015: 2665
+        2016: 2543
+        2017: 2332
+        2018: 2294
+        2019: 2745
+        2020: 1592
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: F, years: 1967-1968, status: missing}
+- {type: G, years: 1967-1971, note: cloth back, image: /history/theater/theater-patch-g.webp}
+-   type: H
+    years: 1972-2002
+    note: blue?, clear, and molded
+    image: /history/theater/theater-patch-h.webp
+    more:
+    - {image: /history/theater/theater-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/theater/theater-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/theater/theater-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/theater/theater-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/theater/theater-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/theater/theater-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, status: notMade}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/theater/theater-patch-j.webp
+    more:
+    - {image: /history/theater/theater-patch-j1-front.webp, label: J1 front}
+    - {image: /history/theater/theater-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/theater/theater-patch-k.webp
+    more:
+    - {image: /history/theater/theater-patch-k-front.webp, label: K front}
+    - {image: /history/theater/theater-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/theater/theater-patch-l.webp
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '7', image: /history/theater/theater-7.webp}
+- {type: 8A-1, image: /history/theater/theater-8a-1.webp}
+- {type: 8A-2, image: /history/theater/theater-8a-2.webp}
+- {type: 9A-1, image: /history/theater/theater-9a-1.webp}
+- {type: 9A-2, image: /history/theater/theater-9a-2.webp}
+- {type: 9B, image: /history/theater/theater-9b.webp}
+- {type: 9C, image: /history/theater/theater-9c.webp}
+- {type: 10A, image: /history/theater/theater-10a.webp}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C-1, image: /history/theater/theater-10c-1.webp}
+- {type: 10C-2, image: /history/theater/theater-10c-2.webp}
+- {type: 10D, image: /history/theater/theater-10d.webp}
+- {type: 11A, image: /history/theater/theater-11a.webp}
+hardcovers:
+- {type: HCL, image: /history/theater/theater-hcl.webp}
+- {type: HCM, image: /history/theater/theater-hcm.webp}
+- {type: HCN, image: /history/theater/theater-hcn.webp}
+- {type: HCR, image: /history/theater/theater-hcr.webp}
+- {type: HCS, image: /history/theater/theater-hcs.webp}
+trivia:
+-   q: Was the Theater badge made in every patch style of its time?
+    a: No. No Type I Theater badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Theater merit badges?
+    a: 2012, when 2,776 were earned.
+- {q: 'How many Theater merit badges had been earned by 2020?', a: '97,833.'}
+-   q: What was Theater's best year in the rankings on record?
+    a: 1969, when it was 85th of the 113 merit badges earned that year.
+- {q: 'What came before the Theater merit badge?', a: Dramatics.}
+- {q: 'When was the earliest known Theater pamphlet printed?', a: January 1968.}

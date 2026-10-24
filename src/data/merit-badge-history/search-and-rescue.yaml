@@ -1,0 +1,76 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Search and Rescue
+precededBy: N/A
+introduced: 2012
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2012
+    text: 'The Search and Rescue merit badge is introduced. The first Search and Rescue merit badges are earned: 725 that year. The earliest known Search and Rescue pamphlet printing (Type 10C).'
+- {year: 2013, text: 'Best ranking: 39th of 129 merit badges.'}
+- {year: 2014, text: 'All-time high: 12,359 Search and Rescue merit badges earned.'}
+ranks:
+    2012: [115, 132]
+    2013: [39, 129]
+    2014: [49, 136]
+    2015: [50, 138]
+    2016: [54, 138]
+    2017: [53, 139]
+    2018: [53, 139]
+    2019: [53, 139]
+    2020: [84, 137]
+    2021: [49, 137]
+    2022: [46, 138]
+    2023: [57, 138]
+    2024: [49, 138]
+    2025: [43, 141]
+lifetimeRank: {rank: 155, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 139
+    range: [139, 142]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 79782
+    byYear:
+        2012: 725
+        2013: 10552
+        2014: 12359
+        2015: 11725
+        2016: 10361
+        2017: 10107
+        2018: 10107
+        2019: 9764
+        2020: 4082
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: K
+    years: 2012-2014
+    note: BSA 2010 back
+    image: /history/search-and-rescue/search-and-rescue-patch-k.webp
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/search-and-rescue/search-and-rescue-patch-l.webp
+    more:
+    - {image: /history/search-and-rescue/search-and-rescue-patch-l-front.webp, label: L front}
+    - {image: /history/search-and-rescue/search-and-rescue-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+trivia:
+-   q: In what year did Scouts earn the most Search and Rescue merit badges?
+    a: 2014, when 12,359 were earned.
+- {q: 'How many Search and Rescue merit badges had been earned by 2020?', a: '79,782.'}
+-   q: What was Search and Rescue's best year in the rankings on record?
+    a: 2013, when it was 39th of the 129 merit badges earned that year.
+- {q: 'What came before the Search and Rescue merit badge?', a: N/A.}
+- {q: 'When was the earliest known Search and Rescue pamphlet printed?', a: '2012.'}

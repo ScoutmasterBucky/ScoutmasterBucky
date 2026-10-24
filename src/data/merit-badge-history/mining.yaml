@@ -1,0 +1,105 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Mining
+precededBy: Original badge
+introduced: 1911
+discontinued: '1937'
+replacedWith: Rocks & Minerals
+thenAndNow:
+    year: 1911
+    source: The Official Handbook for Boys (1911)
+    requirements: [Know and name fifty minerals., 'Know, name and describe the fourteen great divisions of the earth''s crust (according to Geikie).', 'Define watershed, delta, drift, fault, glacier, terrace,
+            stratum, dip; and identify ten different kinds of rock.', Describe methods for mine ventilation and safety devices.]
+timeline:
+- {year: 1911, text: The Mining merit badge is introduced. It is one of the original 57 merit badges.}
+- {year: 1912, text: 'The first Mining merit badges are earned: 6 that year.'}
+-   year: 1919
+    text: 'The earliest known Mining pamphlet printing (Type 1B-1). Best ranking: 31st of 59 merit badges.'
+- {year: 1926, text: 'All-time high: 752 Mining merit badges earned.'}
+- {year: 1937, text: Last year the Mining merit badge is offered; it is replaced by Rocks & Minerals.}
+ranks:
+    1912: [42, 51]
+    1913: [39, 56]
+    1914: [48, 58]
+    1915: [45, 58]
+    1916: [44, 56]
+    1917: [43, 58]
+    1918: [42, 58]
+    1919: [31, 59]
+    1920: [47, 59]
+    1921: [47, 61]
+    1922: [49, 61]
+    1923: [48, 63]
+    1924: [46, 64]
+    1925: [49, 64]
+    1926: [50, 65]
+    1927: [55, 68]
+    1928: [72, 88]
+    1929: [83, 89]
+    1930: [85, 92]
+    1931: [79, 96]
+    1932: [90, 98]
+    1933: [92, 101]
+    1934: [96, 101]
+    1935: [91, 101]
+    1936: [95, 101]
+    1937: [81, 102]
+lifetimeRank: {rank: 213, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 215
+    range: [215, 215]
+    asOf: 2025
+earned:
+    totalThrough: 1937
+    total: 8056
+    byYear:
+        1911: 0
+        1912: 6
+        1913: 26
+        1914: 26
+        1915: 29
+        1916: 27
+        1917: 68
+        1918: 82
+        1919: 488
+        1920: 100
+        1921: 255
+        1922: 312
+        1923: 323
+        1924: 364
+        1925: 380
+        1926: 752
+        1927: 651
+        1928: 700
+        1929: 259
+        1930: 293
+        1931: 690
+        1932: 269
+        1933: 402
+        1934: 211
+        1935: 359
+        1936: 267
+        1937: 717
+patches:
+- {type: A, years: 1911-1933, note: variation A1, image: /history/mining/mining-patch-a1.webp}
+- {type: A, years: 1911-1933, note: variation A2, image: /history/mining/mining-patch-a2.webp}
+- {type: A, years: 1911-1933, note: variation A3, image: /history/mining/mining-patch-a3.webp}
+- {type: B, years: 1934-1935, status: missing}
+- {type: C, years: 1936-1937, image: /history/mining/mining-patch-c.webp}
+pamphlets:
+- {type: 1B-1, image: /history/mining/mining-1b-1.webp}
+- {type: 1B-2, image: /history/mining/mining-1b-2.webp}
+- {type: 3A over 1, status: missing}
+- {type: 3A, status: missing}
+- {type: 3B, status: missing}
+trivia:
+-   q: Was Mining one of the original 57 merit badges?
+    a: Yes. It was in the first Official Handbook for Boys in 1911.
+- {q: 'What was the first thing a Scout had to do for Mining in 1911?', a: Know and name fifty minerals.}
+- {q: 'In what year did Scouts earn the most Mining merit badges?', a: '1926, when 752 were earned.'}
+- {q: 'How many Mining merit badges had been earned by 1937?', a: '8,056.'}
+-   q: What was Mining's best year in the rankings on record?
+    a: 1919, when it was 31st of the 59 merit badges earned that year.
+- {q: 'What replaced Mining after 1937?', a: Rocks & Minerals.}

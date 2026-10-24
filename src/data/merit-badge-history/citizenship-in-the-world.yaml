@@ -1,0 +1,182 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Citizenship in the World
+precededBy: World Brotherhood
+precededByLink: world-brotherhood
+introduced: 1972
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1972
+    text: 'The Citizenship in the World merit badge is introduced. The first Citizenship in the World merit badges are earned: 13,122 that year. The earliest known Citizenship in the World pamphlet printing
+        (Type 8).'
+- {year: 2002, text: 'All-time high: 69,222 Citizenship in the World merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 2nd of 129 merit badges.'}
+ranks:
+    1972: [37, 124]
+    1973: [21, 122]
+    1974: [21, 121]
+    1975: [14, 128]
+    1976: [13, 130]
+    1977: [14, 130]
+    1978: [18, 131]
+    1979: [12, 132]
+    1980: [11, 132]
+    1981: [12, 134]
+    1993: [9, 123]
+    1996: [9, 134]
+    2000: [8, 128]
+    2001: [7, 129]
+    2002: [5, 129]
+    2003: [6, 130]
+    2004: [6, 121]
+    2005: [5, 121]
+    2006: [5, 121]
+    2007: [4, 121]
+    2008: [4, 121]
+    2009: [4, 122]
+    2010: [4, 125]
+    2011: [4, 129]
+    2012: [4, 132]
+    2013: [2, 129]
+    2014: [5, 136]
+    2015: [5, 138]
+    2016: [4, 138]
+    2017: [3, 139]
+    2018: [3, 139]
+    2019: [4, 139]
+    2020: [3, 137]
+    2021: [5, 137]
+    2022: [5, 138]
+    2023: [5, 138]
+    2024: [2, 138]
+    2025: [2, 141]
+lifetimeRank: {rank: 14, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 12
+    range: [12, 12]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 2593491
+    byYear:
+        1972: 13122
+        1973: 30517
+        1974: 38999
+        1975: 49557
+        1976: 48352
+        1977: 42088
+        1978: 35766
+        1979: 35413
+        1980: 28246
+        1981: 38812
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 60844
+        1994: null
+        1995: null
+        1996: 57187
+        1997: null
+        1998: null
+        1999: null
+        2000: 63393
+        2001: 64878
+        2002: 69222
+        2003: 65633
+        2004: 67969
+        2005: 61746
+        2006: 58097
+        2007: 58608
+        2008: 60582
+        2009: 68075
+        2010: 67483
+        2011: 67779
+        2012: 67486
+        2013: 64452
+        2014: 61303
+        2015: 60171
+        2016: 59363
+        2017: 55917
+        2018: 55843
+        2019: 50700
+        2020: 42738
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1972-2002
+    note: blue, clear, and molded
+    image: /history/citizenship-in-the-world/citizenship-in-the-world-patch-h.webp
+    more:
+    -   image: /history/citizenship-in-the-world/citizenship-in-the-world-patch-h1-front.webp
+        label: H variation H1, front
+    -   image: /history/citizenship-in-the-world/citizenship-in-the-world-patch-h1-reverse.webp
+        label: H variation H1, back
+    -   image: /history/citizenship-in-the-world/citizenship-in-the-world-patch-h5-front.webp
+        label: H variation H5, front
+    -   image: /history/citizenship-in-the-world/citizenship-in-the-world-patch-h5-reverse.webp
+        label: H variation H5, back
+- {type: I, status: none}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/citizenship-in-the-world/citizenship-in-the-world-patch-j.webp
+    more:
+    -   image: /history/citizenship-in-the-world/citizenship-in-the-world-patch-j1-front.webp
+        label: J1 front
+    -   image: /history/citizenship-in-the-world/citizenship-in-the-world-patch-j1-reverse.webp
+        label: J1 back
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/citizenship-in-the-world/citizenship-in-the-world-patch-k.webp
+    more:
+    - {image: /history/citizenship-in-the-world/citizenship-in-the-world-patch-k-front.webp, label: K front}
+    -   image: /history/citizenship-in-the-world/citizenship-in-the-world-patch-k-reverse.webp
+        label: K back
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/citizenship-in-the-world/citizenship-in-the-world-patch-l.webp
+    more:
+    - {image: /history/citizenship-in-the-world/citizenship-in-the-world-patch-l-front.webp, label: L front}
+    -   image: /history/citizenship-in-the-world/citizenship-in-the-world-patch-l-reverse.webp
+        label: L back
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '8', image: /history/citizenship-in-the-world/citizenship-in-the-world-8.webp}
+- {type: 9A, image: /history/citizenship-in-the-world/citizenship-in-the-world-9a.webp}
+- {type: 9B, image: /history/citizenship-in-the-world/citizenship-in-the-world-9b.webp}
+- {type: 9C-1A, image: /history/citizenship-in-the-world/citizenship-in-the-world-9c-1a.webp}
+- {type: 9C-1B, image: /history/citizenship-in-the-world/citizenship-in-the-world-9c-1b.webp}
+- {type: 9C-1C, image: /history/citizenship-in-the-world/citizenship-in-the-world-9c-1c.webp}
+- {type: 10A, image: /history/citizenship-in-the-world/citizenship-in-the-world-10a.webp}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b-e.webp}
+- {type: 10C, image: /history/citizenship-in-the-world/citizenship-in-the-world-10c.webp}
+- {type: 10D, image: /history/citizenship-in-the-world/citizenship-in-the-world-10d.webp}
+hardcovers:
+- {type: HCS, image: /history/citizenship-in-the-world/citizenship-in-the-world-hcs.webp}
+trivia:
+-   q: Was the Citizenship in the World badge made in every patch style of its time?
+    a: No. No Type I Citizenship in the World badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Citizenship in the World merit badges?
+    a: 2002, when 69,222 were earned.
+- {q: 'How many Citizenship in the World merit badges had been earned by 2020?', a: '2,593,491.'}
+-   q: What was Citizenship in the World's best year in the rankings on record?
+    a: 2013, when it was 2nd of the 129 merit badges earned that year.
+- {q: 'What came before the Citizenship in the World merit badge?', a: World Brotherhood.}
+- {q: 'When was the earliest known Citizenship in the World pamphlet printed?', a: July 1972.}

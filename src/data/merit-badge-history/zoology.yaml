@@ -1,0 +1,160 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Zoology
+precededBy: N/A
+introduced: 1930
+discontinued: '1972'
+replacedWith: General Science Mammals
+timeline:
+-   year: 1930
+    text: 'The Zoology merit badge is introduced. The first Zoology merit badges are earned: 217 that year.'
+- {year: 1931, text: The earliest known Zoology pamphlet printing (Type 3B-1).}
+- {year: 1935, text: 'Best ranking: 41st of 101 merit badges.'}
+- {year: 1939, text: 'All-time high: 3,599 Zoology merit badges earned.'}
+-   year: 1972
+    text: Last year the Zoology merit badge is offered; it is replaced by General Science Mammals.
+ranks:
+    1930: [88, 92]
+    1931: [96, 96]
+    1932: [58, 98]
+    1933: [55, 101]
+    1934: [52, 101]
+    1935: [41, 101]
+    1936: [43, 101]
+    1937: [50, 102]
+    1938: [51, 105]
+    1939: [44, 106]
+    1940: [50, 106]
+    1941: [50, 106]
+    1942: [60, 110]
+    1943: [67, 112]
+    1944: [73, 111]
+    1945: [77, 111]
+    1946: [77, 111]
+    1947: [83, 111]
+    1948: [82, 111]
+    1949: [69, 111]
+    1950: [84, 111]
+    1951: [82, 111]
+    1952: [94, 120]
+    1953: [93, 105]
+    1954: [90, 103]
+    1955: [88, 100]
+    1956: [90, 100]
+    1957: [91, 100]
+    1958: [90, 101]
+    1959: [90, 101]
+    1960: [89, 100]
+    1961: [87, 101]
+    1962: [88, 101]
+    1963: [88, 102]
+    1964: [92, 107]
+    1965: [92, 109]
+    1966: [83, 110]
+    1967: [96, 112]
+    1968: [89, 112]
+    1969: [87, 113]
+    1970: [86, 113]
+    1971: [90, 113]
+    1972: [101, 124]
+lifetimeRank: {rank: 162, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 172
+    range: [172, 173]
+    asOf: 2025
+earned:
+    totalThrough: 1972
+    total: 64994
+    byYear:
+        1930: 217
+        1931: 59
+        1932: 1721
+        1933: 2157
+        1934: 2088
+        1935: 3564
+        1936: 2615
+        1937: 2291
+        1938: 2492
+        1939: 3599
+        1940: 2908
+        1941: 2670
+        1942: 1525
+        1943: 1256
+        1944: 1421
+        1945: 1125
+        1946: 895
+        1947: 647
+        1948: 630
+        1949: 1314
+        1950: 759
+        1951: 1027
+        1952: 778
+        1953: 580
+        1954: 746
+        1955: 1007
+        1956: 958
+        1957: 854
+        1958: 945
+        1959: 1151
+        1960: 1345
+        1961: 1473
+        1962: 1575
+        1963: 1548
+        1964: 1456
+        1965: 1392
+        1966: 1793
+        1967: 1497
+        1968: 1634
+        1969: 1906
+        1970: 1943
+        1971: 1688
+        1972: 1745
+patches:
+-   type: A
+    years: 1930-1933
+    note: heavyweight cloth
+    image: /history/zoology/zoology-patch-a.webp
+-   type: B
+    years: 1934-1935
+    note: heavyweight and depression cloth
+    image: /history/zoology/zoology-patch-b.webp
+-   type: C
+    years: 1936-1942
+    note: heavyweight and lightweight cloth
+    image: /history/zoology/zoology-patch-c.webp
+-   type: D
+    years: 1942-1945
+    note: fine twill and war cloth
+    image: /history/zoology/zoology-patch-d.webp
+- {type: E, years: 1947-1960, image: /history/zoology/zoology-patch-e.webp}
+- {type: F, years: 1961-1968, note: rolled edge, image: /history/zoology/zoology-patch-f.webp}
+- {type: G, years: 1961-1972, note: cloth back, image: /history/zoology/zoology-patch-g.webp}
+- {type: H, years: '1972', note: molded, image: /history/zoology/zoology-patch-h.webp}
+pamphlets:
+- {type: 3B-1, image: /history/zoology/zoology-3b-1.webp}
+- {type: 3B-2, image: /history/zoology/zoology-3b-2.webp}
+- {type: 3C, image: /history/zoology/zoology-3c.webp}
+- {type: '4', image: /history/zoology/zoology-4.webp}
+- {type: 5A, image: /history/zoology/zoology-5a.webp}
+- {type: 5B, image: /history/zoology/zoology-5b.webp}
+- {type: '6', image: /history/zoology/zoology-6.webp}
+- {type: '7', image: /history/zoology/zoology-7.webp}
+hardcovers:
+- {type: HCB, image: /history/zoology/zoology-hcb.webp}
+- {type: HCF, image: /history/zoology/zoology-hcf.webp}
+- {type: HCG, image: /history/zoology/zoology-hcg.webp}
+- {type: HCI, image: /history/zoology/zoology-hci.webp}
+- {type: HCJ, image: /history/zoology/zoology-hcj.webp}
+- {type: HCK, image: /history/zoology/zoology-hck.webp}
+- {type: HCM, image: /history/zoology/zoology-hcm.webp}
+- {type: HCP, image: /history/zoology/zoology-hcp.webp}
+trivia:
+- {q: 'In what year did Scouts earn the most Zoology merit badges?', a: '1939, when 3,599 were earned.'}
+- {q: 'How many Zoology merit badges had been earned by 1972?', a: '64,994.'}
+-   q: What was Zoology's best year in the rankings on record?
+    a: 1935, when it was 41st of the 101 merit badges earned that year.
+- {q: 'What came before the Zoology merit badge?', a: N/A.}
+- {q: 'What replaced Zoology after 1972?', a: General Science and Mammals.}
+- {q: 'When was the earliest known Zoology pamphlet printed?', a: '1931.'}

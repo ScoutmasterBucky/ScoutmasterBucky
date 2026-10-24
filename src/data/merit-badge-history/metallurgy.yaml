@@ -1,0 +1,52 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Metallurgy
+precededBy: None
+introduced: 1965
+discontinued: '1971'
+replacedWith: Metals Engineering
+timeline:
+-   year: 1965
+    text: 'The Metallurgy merit badge is introduced. The first Metallurgy merit badges are earned: 634 that year.'
+- {year: 1966, text: The earliest known Metallurgy pamphlet printing (Type 7).}
+-   year: 1969
+    text: 'All-time high: 1,509 Metallurgy merit badges earned. Best ranking: 99th of 113 merit badges.'
+-   year: 1971
+    text: Last year the Metallurgy merit badge is offered; it is replaced by Metals Engineering.
+ranks:
+    1965: [101, 109]
+    1966: [104, 110]
+    1967: [104, 112]
+    1968: [103, 112]
+    1969: [99, 113]
+    1970: [104, 113]
+    1971: [104, 113]
+    1972: [116, 124]
+lifetimeRank: {rank: 214, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 216
+    range: [216, 216]
+    asOf: 2025
+earned:
+    totalThrough: 1972
+    total: 7660
+    byYear: {1965: 634, 1966: 613, 1967: 703, 1968: 936, 1969: 1509, 1970: 1175, 1971: 1052, 1972: 1038}
+patches:
+- {type: F, years: 1965-1968, status: missing}
+- {type: G, years: 1965-1971, image: /history/metallurgy/metallurgy-patch-g.webp}
+pamphlets:
+- {type: '7', status: missing}
+hardcovers:
+- {type: HCL, image: /history/metallurgy/metallurgy-hcl.webp}
+- {type: HCM, image: /history/metallurgy/metallurgy-hcm.webp}
+- {type: HCN, image: /history/metallurgy/metallurgy-hcn.webp}
+- {type: HCQ, image: /history/metallurgy/metallurgy-hcq.webp}
+trivia:
+- {q: 'In what year did Scouts earn the most Metallurgy merit badges?', a: '1969, when 1,509 were earned.'}
+- {q: 'How many Metallurgy merit badges had been earned by 1972?', a: '7,660.'}
+-   q: What was Metallurgy's best year in the rankings on record?
+    a: 1969, when it was 99th of the 113 merit badges earned that year.
+- {q: 'What replaced Metallurgy after 1971?', a: Metals Engineering.}
+- {q: 'When was the earliest known Metallurgy pamphlet printed?', a: June 1966.}

@@ -1,0 +1,178 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Sports
+precededBy: None
+introduced: 1972
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1972
+    text: 'The Sports merit badge is introduced. The first Sports merit badges are earned: 20,333 that year. The earliest known Sports pamphlet printing (Type 8A-1).'
+-   year: 1974
+    text: 'All-time high: 61,054 Sports merit badges earned. Best ranking: 9th of 121 merit badges.'
+ranks:
+    1972: [23, 124]
+    1973: [26, 122]
+    1974: [9, 121]
+    1975: [10, 128]
+    1976: [11, 130]
+    1977: [11, 130]
+    1978: [9, 131]
+    1979: [10, 132]
+    1980: [13, 132]
+    1981: [14, 134]
+    1993: [22, 123]
+    1996: [27, 134]
+    2000: [45, 128]
+    2001: [48, 129]
+    2002: [47, 129]
+    2003: [47, 130]
+    2004: [48, 121]
+    2005: [45, 121]
+    2006: [45, 121]
+    2007: [47, 121]
+    2008: [54, 121]
+    2009: [50, 122]
+    2010: [54, 125]
+    2011: [57, 129]
+    2012: [55, 132]
+    2013: [44, 129]
+    2014: [66, 136]
+    2015: [65, 138]
+    2016: [66, 138]
+    2017: [75, 139]
+    2018: [74, 139]
+    2019: [77, 139]
+    2020: [89, 137]
+    2021: [96, 137]
+    2022: [93, 138]
+    2023: [88, 138]
+    2024: [98, 138]
+    2025: [101, 141]
+lifetimeRank: {rank: 40, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 40
+    range: [40, 41]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 1184127
+    byYear:
+        1972: 20333
+        1973: 21017
+        1974: 61054
+        1975: 59329
+        1976: 54350
+        1977: 47601
+        1978: 41600
+        1979: 37242
+        1980: 25728
+        1981: 37040
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 31446
+        1994: null
+        1995: null
+        1996: 28989
+        1997: null
+        1998: null
+        1999: null
+        2000: 14487
+        2001: 12162
+        2002: 13683
+        2003: 13001
+        2004: 12609
+        2005: 12315
+        2006: 12349
+        2007: 10968
+        2008: 9581
+        2009: 10444
+        2010: 9550
+        2011: 9167
+        2012: 9112
+        2013: 8950
+        2014: 8032
+        2015: 8272
+        2016: 7626
+        2017: 6556
+        2018: 6594
+        2019: 6133
+        2020: 3557
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1972-1999
+    note: blue, clear, and molded
+    image: /history/sports/sports-patch-h1.webp
+    more:
+    - {image: /history/sports/sports-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/sports/sports-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/sports/sports-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/sports/sports-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/sports/sports-patch-h51-front.webp, label: 'H variation H51, front'}
+    - {image: /history/sports/sports-patch-h51-reverse.webp, label: 'H variation H51, back'}
+    - {image: /history/sports/sports-patch-h52-front.webp, label: 'H variation H52, front'}
+    - {image: /history/sports/sports-patch-h52-reverse.webp, label: 'H variation H52, back'}
+- {type: H, years: 1999-2002, note: molded, image: /history/sports/sports-patch-h2.webp}
+- {type: I, status: notMade}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/sports/sports-patch-j.webp
+    more:
+    - {image: /history/sports/sports-patch-j1-front.webp, label: J1 front}
+    - {image: /history/sports/sports-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/sports/sports-patch-k.webp
+    more:
+    - {image: /history/sports/sports-patch-k-front.webp, label: K front}
+    - {image: /history/sports/sports-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/sports/sports-patch-l.webp
+    more:
+    - {image: /history/sports/sports-patch-l-front.webp, label: L front}
+    - {image: /history/sports/sports-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 8A-1, status: missing}
+- {type: 8A-2, status: missing}
+- {type: '9', status: missing}
+- {type: 9A, status: missing}
+- {type: 9B-1, status: missing}
+- {type: 9B-2, status: missing}
+- {type: 9C, status: missing}
+- {type: 10A, status: missing}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+hardcovers:
+- {type: HCS, image: /history/sports/sports-hcs.webp}
+- {type: HCT, image: /history/sports/sports-hct.webp}
+trivia:
+-   q: Was the Sports badge made in every patch style of its time?
+    a: No. No Type I Sports badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Sports merit badges?
+    a: 1974, when 61,054 were earned.
+- {q: 'How many Sports merit badges had been earned by 2020?', a: '1,184,127.'}
+-   q: What was Sports' best year in the rankings on record?
+    a: 1974, when it was 9th of the 121 merit badges earned that year.
+- {q: 'When was the earliest known Sports pamphlet printed?', a: June 1972.}

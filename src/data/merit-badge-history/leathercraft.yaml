@@ -1,0 +1,110 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Leathercraft
+precededBy: Craftsmanship
+precededByLink: craftsmanship
+introduced: 1927
+discontinued: '1952'
+replacedWith: None
+timeline:
+- {year: 1920, text: The earliest known Leathercraft pamphlet printing (Type 2).}
+- {year: 1927, text: The Leathercraft merit badge is introduced.}
+- {year: 1928, text: 'First known count: 16,418 Leathercraft merit badges earned.'}
+- {year: 1930, text: 'Best ranking: 8th of 92 merit badges.'}
+- {year: 1931, text: 'All-time high: 21,068 Leathercraft merit badges earned.'}
+- {year: 1952, text: Last year the Leathercraft merit badge is offered.}
+ranks:
+    1928: [10, 88]
+    1929: [9, 89]
+    1930: [8, 92]
+    1931: [9, 96]
+    1932: [10, 98]
+    1933: [17, 101]
+    1934: [23, 101]
+    1935: [24, 101]
+    1936: [24, 101]
+    1937: [25, 102]
+    1938: [27, 105]
+    1939: [27, 106]
+    1940: [27, 106]
+    1941: [27, 106]
+    1942: [25, 110]
+    1943: [27, 112]
+    1944: [30, 111]
+    1945: [30, 111]
+    1946: [28, 111]
+    1947: [28, 111]
+    1948: [26, 111]
+    1949: [26, 111]
+    1950: [27, 111]
+    1951: [27, 111]
+    1952: [35, 120]
+lifetimeRank: {rank: 95, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 101
+    range: [101, 101]
+    asOf: 2025
+earned:
+    totalThrough: 1952
+    total: 249100
+    byYear:
+        1927: null
+        1928: 16418
+        1929: 19419
+        1930: 19896
+        1931: 21068
+        1932: 19855
+        1933: 15049
+        1934: 10369
+        1935: 9224
+        1936: 7628
+        1937: 7334
+        1938: 8001
+        1939: 8182
+        1940: 7525
+        1941: 7151
+        1942: 6703
+        1943: 5834
+        1944: 6316
+        1945: 6415
+        1946: 6406
+        1947: 5704
+        1948: 5331
+        1949: 6385
+        1950: 7320
+        1951: 8794
+        1952: 6773
+patches:
+- {type: A, years: 1927-1933, image: /history/leathercraft/leathercraft-patch-a.webp}
+- {type: B, years: 1934-1935, status: missing}
+- {type: C, years: 1936-1942, image: /history/leathercraft/leathercraft-patch-c.webp}
+- {type: D, years: 1942-1946, image: /history/leathercraft/leathercraft-patch-d.webp}
+- {type: E, years: 1947-1952, image: /history/leathercraft/leathercraft-patch-e.webp}
+pamphlets:
+- {type: '2', image: /history/leathercraft/leather-2.webp, note: Leather}
+- {type: 3A-1 over 2, image: /history/leathercraft/leathercraft-3a-1-over-2.webp}
+-   type: 3A
+    image: /history/leathercraft/craftsmanship-leather-3a.webp
+    note: Craftsmanship – Leather
+-   type: 3A-2
+    image: /history/leathercraft/craftsmanship-leather-3a-2.webp
+    note: Craftsmanship – Leather
+- {type: 3B, image: /history/leathercraft/leathercraft-3b.webp}
+- {type: 3C, status: missing}
+- {type: 3D, status: missing}
+- {type: '4', status: missing}
+- {type: 5A, status: missing}
+- {type: 5B, status: missing}
+hardcovers:
+- {type: HCB, image: /history/leathercraft/leathercraft-hcb.webp}
+- {type: HCF, image: /history/leathercraft/leathercraft-hcf.webp}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Leathercraft merit badges?
+    a: 1931, when 21,068 were earned.
+- {q: 'How many Leathercraft merit badges had been earned by 1952?', a: '249,100.'}
+-   q: What was Leathercraft's best year in the rankings on record?
+    a: 1930, when it was 8th of the 92 merit badges earned that year.
+- {q: 'What came before the Leathercraft merit badge?', a: Craftsmanship.}
+- {q: 'When was the earliest known Leathercraft pamphlet printed?', a: '1920.'}

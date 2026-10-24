@@ -1,0 +1,180 @@
+# American Cultures merit badge history. Approved by Bucky on 2026-10-23; the
+# generator no longer overwrites this file (its printings still come from the
+# workbook). Research sources are in history-tools/research/american-cultures.yaml.
+
+name: American Cultures
+precededBy: None
+introduced: 1979
+discontinued: Current
+replacedWith: Current
+story: [The American Cultures merit badge has maintained the same design for its merit badge since its inception in 1979.]
+timeline:
+-   year: 1979
+    text: 'The American Cultures merit badge is introduced. The first American Cultures merit badges are earned: 161 that year.'
+- {year: 1980, text: The earliest known American Cultures pamphlet printing (Type 9A).}
+- {year: 2013, text: 'Best ranking: 83rd of 129 merit badges.'}
+- {year: 2019, text: 'All-time high: 3,089 American Cultures merit badges earned.'}
+ranks:
+    1979: [117, 132]
+    1980: [114, 132]
+    1981: [114, 134]
+    1993: [96, 123]
+    1996: [98, 134]
+    2000: [105, 128]
+    2001: [104, 129]
+    2002: [99, 129]
+    2003: [104, 130]
+    2004: [102, 121]
+    2005: [102, 121]
+    2006: [101, 121]
+    2007: [102, 121]
+    2008: [103, 121]
+    2009: [101, 122]
+    2010: [108, 125]
+    2011: [101, 129]
+    2012: [93, 132]
+    2013: [83, 129]
+    2014: [123, 136]
+    2015: [121, 138]
+    2016: [123, 138]
+    2017: [121, 139]
+    2018: [120, 139]
+    2019: [111, 139]
+    2020: [100, 137]
+    2021: [113, 137]
+    2022: [119, 138]
+    2023: [119, 138]
+    2024: [120, 138]
+    2025: [121, 141]
+lifetimeRank: {rank: 154, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 154
+    range: [152, 154]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 83032
+    byYear:
+        1979: 161
+        1980: 577
+        1981: 928
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 2074
+        1994: null
+        1995: null
+        1996: 1892
+        1997: null
+        1998: null
+        1999: null
+        2000: 1729
+        2001: 1940
+        2002: 2706
+        2003: 2332
+        2004: 2409
+        2005: 2450
+        2006: 2479
+        2007: 2334
+        2008: 2484
+        2009: 2710
+        2010: 2353
+        2011: 2965
+        2012: 2883
+        2013: 2649
+        2014: 2174
+        2015: 2233
+        2016: 2218
+        2017: 2298
+        2018: 2519
+        2019: 3089
+        2020: 2906
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1972-2002
+    note: blue, clear, and molded
+    image: /history/american-cultures/american-cultures-patch-h.webp
+    more:
+    -   image: /history/american-cultures/american-cultures-patch-h2-1-front.webp
+        label: H variation H2-1, front
+    -   image: /history/american-cultures/american-cultures-patch-h3-1-front.webp
+        label: H variation H3-1, front
+    -   image: /history/american-cultures/american-cultures-patch-h3-1-reverse.webp
+        label: H variation H3-1, back
+    -   image: /history/american-cultures/american-cultures-patch-h3-mve1-front.webp
+        label: H variation H3-MVE1, front
+    -   image: /history/american-cultures/american-cultures-patch-h3-mve1-reverse.webp
+        label: H variation H3-MVE1, back
+    -   image: /history/american-cultures/american-cultures-patch-h5-front.webp
+        label: H variation H5, front
+    -   image: /history/american-cultures/american-cultures-patch-h5-reverse.webp
+        label: H variation H5, back
+    - {image: /history/american-cultures/american-cultures-patch-hc-front.webp, label: HC front}
+    - {image: /history/american-cultures/american-cultures-patch-hc-reverse.webp, label: HC back}
+    - {image: /history/american-cultures/american-cultures-patch-hm-reverse.webp, label: HM back}
+- {type: I, status: none}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/american-cultures/american-cultures-patch-j.webp
+    more:
+    - {image: /history/american-cultures/american-cultures-patch-j1-front.webp, label: J1 front}
+    - {image: /history/american-cultures/american-cultures-patch-j1-reverse.webp, label: J1 back}
+    - {image: /history/american-cultures/american-cultures-patch-j-front.webp, label: J front}
+    - {image: /history/american-cultures/american-cultures-patch-j-reverse.webp, label: J back}
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/american-cultures/american-cultures-patch-k.webp
+    more:
+    - {image: /history/american-cultures/american-cultures-patch-k-front.webp, label: K front}
+    - {image: /history/american-cultures/american-cultures-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/american-cultures/american-cultures-patch-l.webp
+    more:
+    - {image: /history/american-cultures/american-cultures-patch-l-front.webp, label: L front}
+    - {image: /history/american-cultures/american-cultures-patch-l-reverse.webp, label: L back}
+-   type: M
+    years: 2025-current
+    note: Scouting America back
+    image: /history/american-cultures/american-cultures-patch-m-front.webp
+    more:
+    - {image: /history/american-cultures/american-cultures-patch-m-reverse.webp, label: M back}
+pamphlets:
+- {type: 9A, image: /history/american-cultures/american-cultures-9a.webp}
+- {type: 9B-1, image: /history/american-cultures/american-cultures-9b-1.webp}
+- {type: 9B-2, image: /history/american-cultures/american-cultures-9b-2.webp}
+- {type: 9C-1, image: /history/american-cultures/american-cultures-9c-1.webp}
+- {type: 9C-2, image: /history/american-cultures/american-cultures-9c-2.webp}
+- {type: 10A, image: /history/american-cultures/american-cultures-10a.webp}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C, image: /history/american-cultures/american-cultures-10c.webp}
+- {type: 10D-1, image: /history/american-cultures/american-cultures-10d-1.webp}
+- {type: 10D-2, image: /history/american-cultures/american-cultures-10d-2.webp}
+hardcovers:
+- {type: HCU, image: /history/american-cultures/american-cultures-hcu.webp}
+trivia:
+- {q: 'What was the only new merit badge of 1979?', a: American Cultures.}
+-   q: Has the American Cultures badge design ever changed?
+    a: No. It has kept the same design since 1979, through every patch style from Type H to the new Scouting America back.
+-   q: How many American Cultures merit badges were earned in its first year?
+    a: 161 in 1979. Two years later, Scouts earned 928.
+-   q: Of the years with a known count, when did Scouts earn the most American Cultures merit badges?
+    a: 2019, when 3,089 were earned.
+-   q: What was American Cultures' best year in the rankings on record?
+    a: 2013, when it was 83rd of the 129 merit badges earned that year.

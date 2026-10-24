@@ -1,0 +1,117 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Snow Sports
+precededBy: Skiing
+precededByLink: skiing
+introduced: 1999
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1999
+    text: 'The Snow Sports merit badge is introduced. The first Snow Sports merit badges are earned: 5,132 that year. The earliest known Snow Sports pamphlet printing (Type 9A).'
+- {year: 2003, text: 'All-time high: 13,559 Snow Sports merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 43rd of 129 merit badges.'}
+ranks:
+    2000: [47, 128]
+    2001: [44, 129]
+    2002: [48, 129]
+    2003: [46, 130]
+    2004: [47, 121]
+    2005: [47, 121]
+    2006: [47, 121]
+    2007: [49, 121]
+    2008: [48, 121]
+    2009: [49, 122]
+    2010: [48, 125]
+    2011: [51, 129]
+    2012: [56, 132]
+    2013: [43, 129]
+    2014: [65, 136]
+    2015: [70, 138]
+    2016: [70, 138]
+    2017: [67, 139]
+    2018: [70, 139]
+    2019: [63, 139]
+    2020: [57, 137]
+    2021: [78, 137]
+    2022: [68, 138]
+    2023: [67, 138]
+    2024: [74, 138]
+    2025: [71, 141]
+lifetimeRank: {rank: 104, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 71
+    range: [71, 71]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 216278
+    byYear:
+        1999: 5132
+        2000: 12716
+        2001: 13277
+        2002: 13088
+        2003: 13559
+        2004: 13041
+        2005: 11734
+        2006: 11423
+        2007: 10671
+        2008: 10443
+        2009: 11326
+        2010: 11394
+        2011: 10586
+        2012: 8636
+        2013: 9134
+        2014: 8227
+        2015: 7251
+        2016: 7177
+        2017: 7267
+        2018: 6961
+        2019: 7375
+        2020: 5860
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1999-2002
+    note: molded
+    image: /history/snow-sports/snow-sports-patch-h.webp
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/snow-sports/snow-sports-patch-j.webp
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/snow-sports/snow-sports-patch-k.webp
+    more:
+    - {image: /history/snow-sports/snow-sports-patch-k-front.webp, label: K front}
+    - {image: /history/snow-sports/snow-sports-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/snow-sports/snow-sports-patch-l.webp
+    more:
+    - {image: /history/snow-sports/snow-sports-patch-l-front.webp, label: L front}
+    - {image: /history/snow-sports/snow-sports-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 9A, status: missing}
+- {type: 9B, status: missing}
+- {type: 10A, status: missing}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+trivia:
+-   q: In what year did Scouts earn the most Snow Sports merit badges?
+    a: 2003, when 13,559 were earned.
+- {q: 'How many Snow Sports merit badges had been earned by 2020?', a: '216,278.'}
+-   q: What was Snow Sports' best year in the rankings on record?
+    a: 2013, when it was 43rd of the 129 merit badges earned that year.
+- {q: 'What came before the Snow Sports merit badge?', a: Skiing.}
+- {q: 'When was the earliest known Snow Sports pamphlet printed?', a: '1999.'}

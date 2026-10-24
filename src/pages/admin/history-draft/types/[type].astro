@@ -1,0 +1,9 @@
+---
+// DRAFT type pages: every badge, approved or not
+import MeritBadgeTypePage from '~/components/merit-badge-type-page.astro';
+import { typePagePaths } from '~/utils/merit-badge-history';
+
+export const getStaticPaths = typePagePaths;
+---
+
+<MeritBadgeTypePage {...Astro.props} draft />

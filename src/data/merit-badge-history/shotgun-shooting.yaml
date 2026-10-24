@@ -1,0 +1,141 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Shotgun Shooting
+precededBy: Rifle & Shotgun Shooting
+precededByLink: rifle-and-shotgun-shooting
+introduced: 1987
+discontinued: Current
+replacedWith: Current
+timeline:
+- {year: 1987, text: The Shotgun Shooting merit badge is introduced.}
+- {year: 1989, text: The earliest known Shotgun Shooting pamphlet printing (Type 9A).}
+- {year: 1993, text: 'First known count: 19,713 Shotgun Shooting merit badges earned.'}
+- {year: 2011, text: 'All-time high: 27,838 Shotgun Shooting merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 18th of 129 merit badges.'}
+ranks:
+    1993: [28, 123]
+    1996: [38, 134]
+    2000: [33, 128]
+    2001: [35, 129]
+    2002: [30, 129]
+    2003: [30, 130]
+    2004: [28, 121]
+    2005: [28, 121]
+    2006: [27, 121]
+    2007: [27, 121]
+    2008: [27, 121]
+    2009: [27, 122]
+    2010: [25, 125]
+    2011: [22, 129]
+    2012: [23, 132]
+    2013: [18, 129]
+    2014: [27, 136]
+    2015: [29, 138]
+    2016: [28, 138]
+    2017: [26, 139]
+    2018: [26, 139]
+    2019: [26, 139]
+    2020: [63, 137]
+    2021: [26, 137]
+    2022: [26, 138]
+    2023: [26, 138]
+    2024: [27, 138]
+    2025: [28, 141]
+lifetimeRank: {rank: 60, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 58
+    range: [57, 59]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 627238
+    byYear:
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 19713
+        1994: null
+        1995: null
+        1996: 15188
+        1997: null
+        1998: null
+        1999: null
+        2000: 20106
+        2001: 18192
+        2002: 22653
+        2003: 24404
+        2004: 25926
+        2005: 23562
+        2006: 23062
+        2007: 22986
+        2008: 23597
+        2009: 25086
+        2010: 24978
+        2011: 27838
+        2012: 26173
+        2013: 24603
+        2014: 23970
+        2015: 21895
+        2016: 20912
+        2017: 19703
+        2018: 20241
+        2019: 18576
+        2020: 5631
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1989-2002
+    note: clear and molded
+    image: /history/shotgun-shooting/shotgun-shooting-patch-h.webp
+- {type: I, status: notMade}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/shotgun-shooting/shotgun-shooting-patch-j.webp
+    more:
+    - {image: /history/shotgun-shooting/shotgun-shooting-patch-j1-front.webp, label: J1 front}
+    - {image: /history/shotgun-shooting/shotgun-shooting-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/shotgun-shooting/shotgun-shooting-patch-k.webp
+    more:
+    - {image: /history/shotgun-shooting/shotgun-shooting-patch-k-front.webp, label: K front}
+    - {image: /history/shotgun-shooting/shotgun-shooting-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/shotgun-shooting/shotgun-shooting-patch-l.webp
+    more:
+    - {image: /history/shotgun-shooting/shotgun-shooting-patch-l-front.webp, label: L front}
+    - {image: /history/shotgun-shooting/shotgun-shooting-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '9', status: missing}
+- {type: 9A, status: missing}
+- {type: 9B, status: missing}
+- {type: 9C-1, status: missing}
+- {type: 9C-2, status: missing}
+- {type: 10A, status: missing}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+trivia:
+-   q: Was the Shotgun Shooting badge made in every patch style of its time?
+    a: No. No Type I Shotgun Shooting badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Shotgun Shooting merit badges?
+    a: 2011, when 27,838 were earned.
+- {q: 'How many Shotgun Shooting merit badges had been earned by 2020?', a: '627,238.'}
+-   q: What was Shotgun Shooting's best year in the rankings on record?
+    a: 2013, when it was 18th of the 129 merit badges earned that year.
+- {q: 'What came before the Shotgun Shooting merit badge?', a: Rifle & Shotgun Shooting.}
+- {q: 'When was the earliest known Shotgun Shooting pamphlet printed?', a: February 1989.}

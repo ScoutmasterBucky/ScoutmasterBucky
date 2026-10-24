@@ -1,0 +1,125 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Insect Study
+precededBy: Insect Life
+precededByLink: insect-life
+introduced: 1987
+discontinued: Current
+replacedWith: Current
+timeline:
+- {year: 1986, text: The earliest known Insect Study pamphlet printing (Type 9A).}
+- {year: 1987, text: The Insect Study merit badge is introduced.}
+- {year: 1993, text: 'First known count: 1,721 Insect Study merit badges earned.'}
+- {year: 2012, text: 'All-time high: 4,120 Insect Study merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 73rd of 129 merit badges.'}
+ranks:
+    1993: [103, 123]
+    1996: [95, 134]
+    2000: [104, 128]
+    2001: [109, 129]
+    2002: [107, 129]
+    2003: [109, 130]
+    2004: [109, 121]
+    2005: [112, 121]
+    2006: [109, 121]
+    2007: [109, 121]
+    2008: [108, 121]
+    2009: [106, 122]
+    2010: [97, 125]
+    2011: [95, 129]
+    2012: [83, 132]
+    2013: [73, 129]
+    2014: [111, 136]
+    2015: [103, 138]
+    2016: [122, 138]
+    2017: [115, 139]
+    2018: [114, 139]
+    2019: [124, 139]
+    2020: [119, 137]
+earned:
+    totalThrough: 2020
+    total: 55242
+    totalKnownOnly: true
+    byYear:
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 1721
+        1994: null
+        1995: null
+        1996: 2067
+        1997: null
+        1998: null
+        1999: null
+        2000: 1771
+        2001: 1525
+        2002: 1842
+        2003: 1928
+        2004: 1954
+        2005: 1611
+        2006: 1808
+        2007: 1536
+        2008: 1542
+        2009: 2582
+        2010: 3502
+        2011: 3579
+        2012: 4120
+        2013: 3613
+        2014: 3164
+        2015: 3550
+        2016: 2341
+        2017: 2644
+        2018: 2716
+        2019: 2392
+        2020: 1734
+patches:
+-   type: H
+    years: 1987-2002
+    image: /history/insect-study/insect-study-patch-h.webp
+    more:
+    - {image: /history/insect-study/insect-study-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/insect-study/insect-study-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/insect-study/insect-study-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/insect-study/insect-study-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/insect-study/insect-study-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/insect-study/insect-study-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/insect-study/insect-study-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/insect-study/insect-study-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, years: 1993-1995, status: unknown}
+- {type: J, years: 2002-2009, image: /history/insect-study/insect-study-patch-j.webp}
+-   type: K
+    years: 2010-2014
+    image: /history/insect-study/insect-study-patch-k.webp
+    more:
+    - {image: /history/insect-study/insect-study-patch-k-front.webp, label: K front}
+    - {image: /history/insect-study/insect-study-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    image: /history/insect-study/insect-study-patch-l.webp
+    more:
+    - {image: /history/insect-study/insect-study-patch-l-front.webp, label: L front}
+    - {image: /history/insect-study/insect-study-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '9', status: missing}
+- {type: 9A, image: /history/insect-study/insect-study-9a.webp}
+- {type: 9B, image: /history/insect-study/insect-study-9b.webp}
+- {type: 9C, image: /history/insect-study/insect-study-9c.webp}
+- {type: 10A, status: missing}
+- {type: 10B, status: missing}
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+trivia:
+-   q: Was the Insect Study badge made in every patch style of its time?
+    a: No. No Type I Insect Study badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Insect Study merit badges?
+    a: 2012, when 4,120 were earned.
+-   q: What was Insect Study's best year in the rankings on record?
+    a: 2013, when it was 73rd of the 129 merit badges earned that year.
+- {q: 'What came before the Insect Study merit badge?', a: Insect Life.}
+- {q: 'When was the earliest known Insect Study pamphlet printed?', a: November 1986.}

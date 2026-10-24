@@ -1,0 +1,235 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Bookbinding
+precededBy: Craftsmanship
+precededByLink: craftsmanship
+introduced: 1914
+discontinued: '1986'
+replacedWith: Graphic Arts
+story: ['The Bookbinding merit badge started out as a part of the Crafstmanship series of merit badges. Craftsmanship comprised of a half dozen different merit badges, all of which in 1928 branched out
+        to be their own independent merit badge with their own merit badge design. Information shown here is only for 1928 and beyond Bookbinding merit badge publications and earnings. See Craftsmanship
+        merit badge for earlier information.']
+timeline:
+- {year: 1914, text: The Bookbinding merit badge is introduced.}
+- {year: 1920, text: The earliest known Bookbinding pamphlet printing (Type 2).}
+- {year: 1928, text: 'First known count: 10,667 Bookbinding merit badges earned.'}
+-   year: 1931
+    text: 'All-time high: 15,521 Bookbinding merit badges earned. Best ranking: 15th of 96 merit badges.'
+- {year: 1986, text: Last year the Bookbinding merit badge is offered; it is replaced by Graphic Arts.}
+ranks:
+    1928: [16, 88]
+    1929: [18, 89]
+    1930: [18, 92]
+    1931: [15, 96]
+    1932: [18, 98]
+    1933: [20, 101]
+    1934: [21, 101]
+    1935: [21, 101]
+    1936: [22, 101]
+    1937: [22, 102]
+    1938: [22, 105]
+    1939: [22, 106]
+    1940: [22, 106]
+    1941: [21, 106]
+    1942: [24, 110]
+    1943: [24, 112]
+    1944: [23, 111]
+    1945: [24, 111]
+    1946: [24, 111]
+    1947: [26, 111]
+    1948: [27, 111]
+    1949: [27, 111]
+    1950: [26, 111]
+    1951: [26, 111]
+    1952: [27, 120]
+    1953: [29, 105]
+    1954: [32, 103]
+    1955: [31, 100]
+    1956: [32, 100]
+    1957: [36, 100]
+    1958: [45, 101]
+    1959: [48, 101]
+    1960: [51, 100]
+    1961: [59, 101]
+    1962: [60, 101]
+    1963: [62, 102]
+    1964: [62, 107]
+    1965: [61, 109]
+    1966: [63, 110]
+    1967: [65, 112]
+    1968: [70, 112]
+    1969: [72, 113]
+    1970: [77, 113]
+    1971: [76, 113]
+    1972: [91, 124]
+    1973: [80, 122]
+    1974: [86, 121]
+    1975: [89, 128]
+    1976: [94, 130]
+    1977: [93, 130]
+    1978: [92, 131]
+    1979: [116, 132]
+    1980: [99, 132]
+    1981: [103, 134]
+    1996: [132, 134]
+lifetimeRank: {rank: 78, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 79
+    range: [79, 80]
+    asOf: 2025
+earned:
+    totalThrough: 1996
+    total: 391054
+    byYear:
+        1914: null
+        1915: null
+        1916: null
+        1917: null
+        1918: null
+        1919: null
+        1920: null
+        1921: null
+        1922: null
+        1923: null
+        1924: null
+        1925: null
+        1926: null
+        1927: null
+        1928: 10667
+        1929: 11232
+        1930: 11896
+        1931: 15521
+        1932: 12881
+        1933: 12943
+        1934: 11310
+        1935: 12186
+        1936: 9583
+        1937: 10471
+        1938: 12417
+        1939: 12887
+        1940: 12637
+        1941: 10933
+        1942: 8785
+        1943: 8996
+        1944: 10901
+        1945: 10350
+        1946: 7783
+        1947: 6085
+        1948: 5184
+        1949: 6094
+        1950: 7993
+        1951: 9285
+        1952: 9799
+        1953: 9181
+        1954: 11131
+        1955: 11860
+        1956: 10510
+        1957: 8178
+        1958: 6198
+        1959: 5437
+        1960: 5462
+        1961: 4576
+        1962: 4007
+        1963: 3779
+        1964: 3794
+        1965: 3564
+        1966: 3413
+        1967: 3520
+        1968: 3227
+        1969: 3278
+        1970: 2888
+        1971: 2667
+        1972: 2448
+        1973: 3651
+        1974: 4208
+        1975: 3961
+        1976: 3292
+        1977: 2869
+        1978: 2515
+        1979: 510
+        1980: 860
+        1981: 1245
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: null
+        1994: null
+        1995: null
+        1996: 6
+patches:
+- {type: A, years: 1911-1933, note: variations, status: missing}
+- {type: B, years: 1934-1935, note: heavyweight cloth, status: missing}
+-   type: C
+    years: 1936-1942
+    note: heavyweight and lightweight cloth
+    image: /history/bookbinding/bookbinding-patch-c.webp
+-   type: D
+    years: 1942-1946
+    note: wartime and fine twill cloth
+    image: /history/bookbinding/bookbinding-patch-d.webp
+- {type: E, years: 1947-1960, image: /history/bookbinding/bookbinding-patch-e.webp}
+-   type: F
+    years: 1961-1965
+    note: rolled edge
+    image: /history/bookbinding/bookbinding-patch-f.webp
+-   type: F
+    years: 1966-1968
+    note: rolled edge
+    image: /history/bookbinding/bookbinding-patch-f2.webp
+-   type: G
+    years: 1969-1971
+    note: cloth back
+    image: /history/bookbinding/bookbinding-patch-g.webp
+-   type: H
+    years: 1972-1987
+    note: blue, clear, and molded
+    image: /history/bookbinding/bookbinding-patch-h.webp
+    more:
+    - {image: /history/bookbinding/bookbinding-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/bookbinding/bookbinding-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/bookbinding/bookbinding-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/bookbinding/bookbinding-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/bookbinding/bookbinding-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/bookbinding/bookbinding-patch-h3-reverse.webp, label: 'H variation H3, back'}
+pamphlets:
+- {type: '2', image: /history/bookbinding/bookbinding-2.webp}
+- {type: 3A-1 over 2, image: /history/bookbinding/bookbinding-3a-1-over-2.webp}
+- {type: 3A-1, image: /history/bookbinding/bookbinding-3a-1.webp}
+- {type: 3A-2, image: /history/bookbinding/bookbinding-3a-2.webp}
+- {type: 3B, image: /history/bookbinding/bookbinding-3b.webp}
+- {type: 3C, image: /history/bookbinding/bookbinding-3c.webp}
+- {type: 3D, image: /history/bookbinding/bookbinding-3d.webp}
+- {type: '4', image: /history/bookbinding/bookbinding-4.webp}
+- {type: 5A, image: /history/bookbinding/bookbinding-5a.webp}
+- {type: 5B, image: /history/bookbinding/bookbinding-5b.webp}
+- {type: '6', image: /history/bookbinding/bookbinding-6.webp}
+- {type: '7', image: /history/bookbinding/bookbinding-7.webp}
+- {type: '8', image: /history/bookbinding/bookbinding-8.webp}
+- {type: '9', image: /history/bookbinding/bookbinding-9.webp}
+hardcovers:
+- {type: HCI, image: /history/bookbinding/bookbinding-hci.webp}
+- {type: HCJ, image: /history/bookbinding/bookbinding-hcj.webp}
+- {type: HCK, image: /history/bookbinding/bookbinding-hck.webp}
+- {type: HCL, image: /history/bookbinding/bookbinding-hcl.webp}
+- {type: HCM, image: /history/bookbinding/bookbinding-hcm.webp}
+- {type: HCP, image: /history/bookbinding/bookbinding-hcp.webp}
+- {type: HCT, image: /history/bookbinding/bookbinding-hct.webp}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Bookbinding merit badges?
+    a: 1931, when 15,521 were earned.
+- {q: 'How many Bookbinding merit badges had been earned by 1996?', a: '391,054.'}
+-   q: What was Bookbinding's best year in the rankings on record?
+    a: 1931, when it was 15th of the 96 merit badges earned that year.
+- {q: 'What came before the Bookbinding merit badge?', a: Craftsmanship.}
+- {q: 'What replaced Bookbinding after 1986?', a: Graphic Arts.}
+- {q: 'When was the earliest known Bookbinding pamphlet printed?', a: '1920.'}

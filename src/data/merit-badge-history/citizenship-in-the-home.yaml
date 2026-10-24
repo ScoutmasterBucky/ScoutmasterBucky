@@ -1,0 +1,114 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Citizenship in the Home
+precededBy: Citizenship
+precededByLink: citizenship
+introduced: 1952
+discontinued: '1972'
+replacedWith: N/A
+timeline:
+-   year: 1952
+    text: 'The Citizenship in the Home merit badge is introduced. The first Citizenship in the Home merit badges are earned: 6,386 that year.'
+- {year: 1961, text: 'Best ranking: 7th of 101 merit badges.'}
+- {year: 1962, text: 'All-time high: 67,613 Citizenship in the Home merit badges earned.'}
+-   year: 1972
+    text: Last year the Citizenship in the Home merit badge is offered; it is replaced by N/A.
+ranks:
+    1952: [38, 120]
+    1953: [8, 105]
+    1954: [10, 103]
+    1955: [10, 100]
+    1956: [11, 100]
+    1957: [11, 100]
+    1958: [11, 101]
+    1959: [12, 101]
+    1960: [10, 100]
+    1961: [7, 101]
+    1962: [7, 101]
+    1963: [7, 102]
+    1964: [8, 107]
+    1965: [15, 109]
+    1966: [17, 110]
+    1967: [19, 112]
+    1968: [20, 112]
+    1969: [20, 113]
+    1970: [21, 113]
+    1971: [20, 113]
+    1972: [25, 124]
+lifetimeRank: {rank: 47, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 47
+    range: [47, 48]
+    asOf: 2025
+earned:
+    totalThrough: 1972
+    total: 806114
+    byYear:
+        1952: 6386
+        1953: 26094
+        1954: 31865
+        1955: 35343
+        1956: 35950
+        1957: 36883
+        1958: 36485
+        1959: 38499
+        1960: 46186
+        1961: 66408
+        1962: 67613
+        1963: 67047
+        1964: 57343
+        1965: 43864
+        1966: 36833
+        1967: 34381
+        1968: 31611
+        1969: 31470
+        1970: 28942
+        1971: 27975
+        1972: 18936
+patches:
+-   type: E
+    years: 1952-1960
+    image: /history/citizenship-in-the-home/citizenship-in-the-home-patch-e.webp
+- {type: F, status: none}
+-   type: G
+    years: 1961-1971
+    note: cloth back
+    image: /history/citizenship-in-the-home/citizenship-in-the-home-patch-g.webp
+-   type: H
+    years: '1972'
+    note: blue and clear
+    image: /history/citizenship-in-the-home/citizenship-in-the-home-patch-h.webp
+    more:
+    -   image: /history/citizenship-in-the-home/citizenship-in-the-home-patch-h1-1-front.webp
+        label: H variation H1-1, front
+    -   image: /history/citizenship-in-the-home/citizenship-in-the-home-patch-h1-1-reverse.webp
+        label: H variation H1-1, back
+    -   image: /history/citizenship-in-the-home/citizenship-in-the-home-patch-h1-mve-front.webp
+        label: H variation H1-MVE, front
+    -   image: /history/citizenship-in-the-home/citizenship-in-the-home-patch-h1-mve-reverse.webp
+        label: H variation H1-MVE, back
+    -   image: /history/citizenship-in-the-home/citizenship-in-the-home-patch-h1-mve1-front.webp
+        label: H variation H1-MVE1, front
+    -   image: /history/citizenship-in-the-home/citizenship-in-the-home-patch-h1-mve1-reverse.webp
+        label: H variation H1-MVE1, back
+    -   image: /history/citizenship-in-the-home/citizenship-in-the-home-patch-h1-mve2-front.webp
+        label: H variation H1-MVE2, front
+    -   image: /history/citizenship-in-the-home/citizenship-in-the-home-patch-h1-mve2-reverse.webp
+        label: H variation H1-MVE2, back
+    -   image: /history/citizenship-in-the-home/citizenship-in-the-home-patch-h2-1-front.webp
+        label: H variation H2-1, front
+    -   image: /history/citizenship-in-the-home/citizenship-in-the-home-patch-h2-1-reverse.webp
+        label: H variation H2-1, back
+pamphlets: []
+trivia:
+-   q: Was the Citizenship in the Home badge made in every patch style of its time?
+    a: No. No Type F Citizenship in the Home badge is known to exist.
+-   q: In what year did Scouts earn the most Citizenship in the Home merit badges?
+    a: 1962, when 67,613 were earned.
+- {q: 'How many Citizenship in the Home merit badges had been earned by 1972?', a: '806,114.'}
+-   q: What was Citizenship in the Home's best year in the rankings on record?
+    a: 1961, when it was 7th of the 101 merit badges earned that year.
+- {q: 'What came before the Citizenship in the Home merit badge?', a: Citizenship.}
+- {q: 'What replaced Citizenship in the Home after 1972?', a: N/A.}

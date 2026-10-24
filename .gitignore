@@ -30,3 +30,10 @@ node_modules/
 .env.production
 download/*
 !download/*.txt
+
+# History tools: the workbook and its cache hold collection values, so they stay local
+history-tools/sources/*.xlsx
+history-tools/sources/workbook.json
+history-tools/sources/generate-report.md
+# History photos are served from the filestore, not git (history-tools/README.md)
+public/history/

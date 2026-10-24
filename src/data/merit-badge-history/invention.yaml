@@ -1,0 +1,44 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Invention
+precededBy: Original badge
+introduced: 1911
+discontinued: '1917'
+replacedWith: None
+thenAndNow:
+    year: 1911
+    source: The Official Handbook for Boys (1911)
+    requirements: [Invent and patent some useful article;, Show a working drawing or model of the same.]
+timeline:
+- {year: 1911, text: The Invention merit badge is introduced. It is one of the original 57 merit badges.}
+- {year: 1913, text: The first Invention merit badge is earned.}
+-   year: 1914
+    text: 'All-time high: 8 Invention merit badges earned. Best ranking: 52nd of 58 merit badges.'
+- {year: 1917, text: Last year the Invention merit badge is offered.}
+ranks:
+    1913: [55, 56]
+    1914: [52, 58]
+    1915: [57, 58]
+lifetimeRank: {rank: 225, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 230
+    range: [230, 230]
+    asOf: 2025
+earned:
+    totalThrough: 1917
+    total: 10
+    byYear: {1911: 0, 1912: 0, 1913: 1, 1914: 8, 1915: 1, 1916: 0, 1917: 0}
+patches:
+- {type: A, years: 1911-1917, status: missing}
+pamphlets: []
+trivia:
+-   q: Was Invention one of the original 57 merit badges?
+    a: Yes. It was in the first Official Handbook for Boys in 1911.
+-   q: What was the first thing a Scout had to do for Invention in 1911?
+    a: Invent and patent some useful article.
+- {q: 'In what year did Scouts earn the most Invention merit badges?', a: '1914, when 8 were earned.'}
+- {q: 'How many Invention merit badges had been earned by 1917?', a: '10.'}
+-   q: What was Invention's best year in the rankings on record?
+    a: 1914, when it was 52nd of the 58 merit badges earned that year.

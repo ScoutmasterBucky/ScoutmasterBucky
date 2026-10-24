@@ -1,0 +1,192 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: American Heritage
+precededBy: None
+introduced: 1975
+discontinued: Current
+replacedWith: Current
+story: ['The American Heritage merit badge, introduced as a part of America''s bicentennial celebration, is still a great badge to explore the foundations of the United States establishment and growth over
+        the past 200 plus years.']
+timeline:
+-   year: 1975
+    text: 'The American Heritage merit badge is introduced. The first American Heritage merit badges are earned: 2,015 that year.'
+-   year: 1976
+    text: 'All-time high: 10,891 American Heritage merit badges earned. The earliest known American Heritage pamphlet printing (Type 8).'
+- {year: 2020, text: 'Best ranking: 46th of 137 merit badges.'}
+ranks:
+    1975: [112, 128]
+    1976: [55, 130]
+    1977: [70, 130]
+    1978: [81, 131]
+    1979: [81, 132]
+    1980: [82, 132]
+    1981: [79, 134]
+    1993: [69, 123]
+    1996: [81, 134]
+    2000: [84, 128]
+    2001: [73, 129]
+    2002: [81, 129]
+    2003: [79, 130]
+    2004: [83, 121]
+    2005: [78, 121]
+    2006: [85, 121]
+    2007: [85, 121]
+    2008: [85, 121]
+    2009: [81, 122]
+    2010: [83, 125]
+    2011: [66, 129]
+    2012: [61, 132]
+    2013: [51, 129]
+    2014: [86, 136]
+    2015: [82, 138]
+    2016: [86, 138]
+    2017: [82, 139]
+    2018: [84, 139]
+    2019: [86, 139]
+    2020: [46, 137]
+    2021: [82, 137]
+    2022: [87, 138]
+    2023: [85, 138]
+    2024: [87, 138]
+    2025: [92, 141]
+lifetimeRank: {rank: 110, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 112
+    range: [111, 112]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 192552
+    byYear:
+        1975: 2015
+        1976: 10891
+        1977: 5326
+        1978: 3588
+        1979: 2602
+        1980: 1661
+        1981: 2652
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 4371
+        1994: null
+        1995: null
+        1996: 3126
+        1997: null
+        1998: null
+        1999: null
+        2000: 3825
+        2001: 5164
+        2002: 4666
+        2003: 4908
+        2004: 4753
+        2005: 4890
+        2006: 4273
+        2007: 4274
+        2008: 4390
+        2009: 5625
+        2010: 5853
+        2011: 6645
+        2012: 6626
+        2013: 6195
+        2014: 5333
+        2015: 5599
+        2016: 4952
+        2017: 5496
+        2018: 5530
+        2019: 5454
+        2020: 6700
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1972-2002
+    note: blue, clear, and molded
+    image: /history/american-heritage/american-heritage-patch-h.webp
+    more:
+    -   image: /history/american-heritage/american-heritage-patch-h1-front.webp
+        label: H variation H1, front
+    -   image: /history/american-heritage/american-heritage-patch-h1-reverse.webp
+        label: H variation H1, back
+    -   image: /history/american-heritage/american-heritage-patch-h2-1-front.webp
+        label: H variation H2-1, front
+    -   image: /history/american-heritage/american-heritage-patch-h2-1-reverse.webp
+        label: H variation H2-1, back
+    -   image: /history/american-heritage/american-heritage-patch-h2-mve1-front.webp
+        label: H variation H2-MVE1, front
+    -   image: /history/american-heritage/american-heritage-patch-h2-mve1-reverse.webp
+        label: H variation H2-MVE1, back
+    -   image: /history/american-heritage/american-heritage-patch-h3-front.webp
+        label: H variation H3, front
+    -   image: /history/american-heritage/american-heritage-patch-h3-reverse.webp
+        label: H variation H3, back
+    -   image: /history/american-heritage/american-heritage-patch-h5-front.webp
+        label: H variation H5, front
+    -   image: /history/american-heritage/american-heritage-patch-h5-reverse.webp
+        label: H variation H5, back
+    - {image: /history/american-heritage/american-heritage-patch-hb-front.webp, label: HB front}
+    - {image: /history/american-heritage/american-heritage-patch-hb-reverse.webp, label: HB back}
+    - {image: /history/american-heritage/american-heritage-patch-hc-front.webp, label: HC front}
+    - {image: /history/american-heritage/american-heritage-patch-hc-reverse.webp, label: HC back}
+    - {image: /history/american-heritage/american-heritage-patch-hm-reverse.webp, label: HM back}
+-   type: I
+    years: 1993-1995
+    note: 42mm
+    image: /history/american-heritage/american-heritage-patch-i42.webp
+    more:
+    - {image: /history/american-heritage/american-heritage-patch-ia-front.webp, label: IA front}
+    - {image: /history/american-heritage/american-heritage-patch-ia-reverse.webp, label: IA back}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/american-heritage/american-heritage-patch-j.webp
+    more:
+    - {image: /history/american-heritage/american-heritage-patch-j-front.webp, label: J front}
+    - {image: /history/american-heritage/american-heritage-patch-j-reverse.webp, label: J back}
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/american-heritage/american-heritage-patch-k.webp
+    more:
+    - {image: /history/american-heritage/american-heritage-patch-k-front.webp, label: K front}
+    - {image: /history/american-heritage/american-heritage-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/american-heritage/american-heritage-patch-l.webp
+    more:
+    - {image: /history/american-heritage/american-heritage-patch-l-front.webp, label: L front}
+    - {image: /history/american-heritage/american-heritage-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '8', image: /history/american-heritage/american-heritage-8.webp}
+- {type: 9A-1, image: /history/american-heritage/american-heritage-9a-1.webp}
+- {type: 9A-2, image: /history/american-heritage/american-heritage-9a-2.webp}
+- {type: 9B-1, image: /history/american-heritage/american-heritage-9b-1.webp}
+- {type: 9B-2, image: /history/american-heritage/american-heritage-9b-2.webp}
+- {type: 10A, image: /history/american-heritage/american-heritage-10a.webp}
+- {type: 10B, image: /history/american-heritage/american-heritage-10b.webp}
+- {type: 10C-1, image: /history/american-heritage/american-heritage-10c-1.webp}
+- {type: 10C-2, image: /history/american-heritage/american-heritage-10c-2.webp}
+- {type: 10D-1, image: /history/american-heritage/american-heritage-10d-1.webp}
+- {type: 10D-2, image: /history/american-heritage/american-heritage-10d-2.webp}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most American Heritage merit badges?
+    a: 1976, when 10,891 were earned.
+- {q: 'How many American Heritage merit badges had been earned by 2020?', a: '192,552.'}
+-   q: What was American Heritage's best year in the rankings on record?
+    a: 2020, when it was 46th of the 137 merit badges earned that year.
+- {q: 'When was the earliest known American Heritage pamphlet printed?', a: March 1976.}

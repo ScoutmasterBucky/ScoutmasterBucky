@@ -1,0 +1,207 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Landscape Architecture
+precededBy: Landscaping
+precededByLink: landscaping
+introduced: 1967
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1967
+    text: 'The Landscape Architecture merit badge is introduced. The first Landscape Architecture merit badges are earned: 1,531 that year.'
+- {year: 1968, text: 'Best ranking: 88th of 112 merit badges.'}
+- {year: 1969, text: The earliest known Landscape Architecture pamphlet printing (Type 7).}
+- {year: 2003, text: 'All-time high: 2,949 Landscape Architecture merit badges earned.'}
+ranks:
+    1967: [93, 112]
+    1968: [88, 112]
+    1969: [102, 113]
+    1970: [103, 113]
+    1971: [101, 113]
+    1972: [103, 124]
+    1973: [105, 122]
+    1974: [101, 121]
+    1975: [107, 128]
+    1976: [109, 130]
+    1977: [104, 130]
+    1978: [111, 131]
+    1979: [104, 132]
+    1980: [107, 132]
+    1981: [107, 134]
+    1993: [99, 123]
+    1996: [100, 134]
+    2000: [91, 128]
+    2001: [94, 129]
+    2002: [98, 129]
+    2003: [99, 130]
+    2004: [103, 121]
+    2005: [109, 121]
+    2006: [110, 121]
+    2007: [108, 121]
+    2008: [110, 121]
+    2009: [115, 122]
+    2010: [119, 125]
+    2011: [111, 129]
+    2012: [104, 132]
+    2013: [91, 129]
+    2014: [129, 136]
+    2015: [129, 138]
+    2016: [128, 138]
+    2017: [128, 139]
+    2018: [129, 139]
+    2019: [130, 139]
+    2020: [129, 137]
+    2021: [125, 137]
+    2022: [128, 138]
+    2023: [128, 138]
+    2024: [131, 138]
+    2025: [126, 141]
+lifetimeRank: {rank: 146, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 150
+    range: [149, 152]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 90412
+    byYear:
+        1967: 1531
+        1968: 1685
+        1969: 1349
+        1970: 1198
+        1971: 1244
+        1972: 1670
+        1973: 1325
+        1974: 2903
+        1975: 2575
+        1976: 2131
+        1977: 2172
+        1978: 1440
+        1979: 1294
+        1980: 709
+        1981: 1169
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 1863
+        1994: null
+        1995: null
+        1996: 1687
+        1997: null
+        1998: null
+        1999: null
+        2000: 2830
+        2001: 2814
+        2002: 2892
+        2003: 2949
+        2004: 2320
+        2005: 1927
+        2006: 1707
+        2007: 1649
+        2008: 1461
+        2009: 1335
+        2010: 1414
+        2011: 1475
+        2012: 1618
+        2013: 1872
+        2014: 1496
+        2015: 1434
+        2016: 1494
+        2017: 1483
+        2018: 1495
+        2019: 1395
+        2020: 1400
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: F, years: 1967-1968, status: missing}
+-   type: G
+    years: 1967-1971
+    note: variation G1
+    image: /history/landscape-architecture/landscape-architecture-patch-g1.webp
+-   type: G
+    years: 1967-1971
+    note: variation G2
+    image: /history/landscape-architecture/landscape-architecture-patch-g2.webp
+-   type: H
+    years: 1972-2002
+    image: /history/landscape-architecture/landscape-architecture-patch-h.webp
+    more:
+    -   image: /history/landscape-architecture/landscape-architecture-patch-h1-front.webp
+        label: H variation H1, front
+    -   image: /history/landscape-architecture/landscape-architecture-patch-h1-reverse.webp
+        label: H variation H1, back
+    -   image: /history/landscape-architecture/landscape-architecture-patch-h3-front.webp
+        label: H variation H3, front
+    -   image: /history/landscape-architecture/landscape-architecture-patch-h3-reverse.webp
+        label: H variation H3, back
+    -   image: /history/landscape-architecture/landscape-architecture-patch-h5-front.webp
+        label: H variation H5, front
+    -   image: /history/landscape-architecture/landscape-architecture-patch-h5-reverse.webp
+        label: H variation H5, back
+-   type: I
+    years: 1993-1995
+    note: variation I38
+    image: /history/landscape-architecture/landscape-architecture-patch-i38.webp
+    more:
+    - {image: /history/landscape-architecture/landscape-architecture-patch-ia-front.webp, label: IA front}
+    - {image: /history/landscape-architecture/landscape-architecture-patch-ia-reverse.webp, label: IA back}
+    - {image: /history/landscape-architecture/landscape-architecture-patch-ib-front.webp, label: IB front}
+    - {image: /history/landscape-architecture/landscape-architecture-patch-ib-reverse.webp, label: IB back}
+-   type: I
+    years: 1993-1995
+    note: variation I42
+    image: /history/landscape-architecture/landscape-architecture-patch-i42.webp
+-   type: J
+    years: 2002-2009
+    image: /history/landscape-architecture/landscape-architecture-patch-j.webp
+-   type: K
+    years: 2010-2014
+    image: /history/landscape-architecture/landscape-architecture-patch-k.webp
+    more:
+    - {image: /history/landscape-architecture/landscape-architecture-patch-k-front.webp, label: K front}
+    - {image: /history/landscape-architecture/landscape-architecture-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    image: /history/landscape-architecture/landscape-architecture-patch-l.webp
+    more:
+    - {image: /history/landscape-architecture/landscape-architecture-patch-l-front.webp, label: L front}
+    - {image: /history/landscape-architecture/landscape-architecture-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '7', image: /history/landscape-architecture/landscape-architecture-7.webp}
+- {type: '8', status: missing}
+- {type: '9', status: missing}
+- {type: 9A, status: missing}
+- {type: 9B, image: /history/landscape-architecture/landscape-architecture-9b.webp}
+- {type: 10A, image: /history/landscape-architecture/landscape-architecture-10a.webp}
+- {type: 10B, image: /history/landscape-architecture/landscape-architecture-10b.webp}
+- {type: 10C, image: /history/landscape-architecture/landscape-architecture-10c.webp}
+- {type: 10D, image: /history/landscape-architecture/landscape-architecture-10d.webp}
+hardcovers:
+- {type: HCL, image: /history/landscape-architecture/landscape-architecture-hcl.webp}
+- {type: HCM, image: /history/landscape-architecture/landscape-architecture-hcm.webp}
+- {type: HCN, image: /history/landscape-architecture/landscape-architecture-hcn.webp}
+- {type: HCS, image: /history/landscape-architecture/landscape-architecture-hcs.webp}
+- {type: HCT, image: /history/landscape-architecture/landscape-architecture-hct.webp}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Landscape Architecture merit badges?
+    a: 2003, when 2,949 were earned.
+- {q: 'How many Landscape Architecture merit badges had been earned by 2020?', a: '90,412.'}
+-   q: What was Landscape Architecture's best year in the rankings on record?
+    a: 1968, when it was 88th of the 112 merit badges earned that year.
+- {q: 'What came before the Landscape Architecture merit badge?', a: Landscaping.}
+- {q: 'When was the earliest known Landscape Architecture pamphlet printed?', a: February 1969.}

@@ -1,0 +1,149 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Backpacking
+precededBy: None
+introduced: 1982
+discontinued: Current
+replacedWith: Current
+story: [The Backpacking merit badge is one of the most commonly worked on merit badges by Scouts visiting Philmont.]
+timeline:
+- {year: 1982, text: The Backpacking merit badge is introduced.}
+- {year: 1983, text: The earliest known Backpacking pamphlet printing (Type 9A).}
+-   year: 1993
+    text: 'First known count: 8,864 Backpacking merit badges earned. All-time high: 8,864 Backpacking merit badges earned. Best ranking: 51st of 123 merit badges.'
+ranks:
+    1993: [51, 123]
+    1996: [56, 134]
+    2000: [62, 128]
+    2001: [65, 129]
+    2002: [66, 129]
+    2003: [68, 130]
+    2004: [63, 121]
+    2005: [75, 121]
+    2006: [75, 121]
+    2007: [77, 121]
+    2008: [78, 121]
+    2009: [87, 122]
+    2010: [90, 125]
+    2011: [86, 129]
+    2012: [73, 132]
+    2013: [67, 129]
+    2014: [95, 136]
+    2015: [97, 138]
+    2016: [97, 138]
+    2017: [101, 139]
+    2018: [123, 139]
+    2019: [98, 139]
+    2020: [122, 137]
+    2021: [95, 137]
+    2022: [102, 138]
+    2023: [103, 138]
+    2024: [106, 138]
+    2025: [109, 141]
+lifetimeRank: {rank: 100, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 102
+    range: [102, 103]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 233724
+    byYear:
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 8864
+        1994: null
+        1995: null
+        1996: 7800
+        1997: null
+        1998: null
+        1999: null
+        2000: 7038
+        2001: 6175
+        2002: 6582
+        2003: 6026
+        2004: 6572
+        2005: 5092
+        2006: 5003
+        2007: 4974
+        2008: 5005
+        2009: 5003
+        2010: 4377
+        2011: 4445
+        2012: 4878
+        2013: 4114
+        2014: 4169
+        2015: 3973
+        2016: 3963
+        2017: 3498
+        2018: 2295
+        2019: 4079
+        2020: 1640
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1982-2002
+    note: clear and molded
+    image: /history/backpacking/backpacking-patch-h.webp
+    more:
+    - {image: /history/backpacking/backpacking-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/backpacking/backpacking-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/backpacking/backpacking-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/backpacking/backpacking-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, status: none}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/backpacking/backpacking-patch-j.webp
+    more:
+    - {image: /history/backpacking/backpacking-patch-j1-front.webp, label: J1 front}
+    - {image: /history/backpacking/backpacking-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/backpacking/backpacking-patch-k.webp
+    more:
+    - {image: /history/backpacking/backpacking-patch-k-front.webp, label: K front}
+    - {image: /history/backpacking/backpacking-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/backpacking/backpacking-patch-l.webp
+    more:
+    - {image: /history/backpacking/backpacking-patch-l-front.webp, label: L front}
+    - {image: /history/backpacking/backpacking-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 9A, image: /history/backpacking/backpacking-9a.webp}
+- {type: 9B, image: /history/backpacking/backpacking-9b.webp}
+- {type: 9C, image: /history/backpacking/backpacking-9c.webp}
+- {type: 10A, image: /history/backpacking/backpacking-10a.webp}
+- {type: 10B, image: /history/backpacking/backpacking-10b.webp}
+- {type: 10C-1, image: /history/backpacking/backpacking-10c-1.webp}
+- {type: 10C-2, image: /history/backpacking/backpacking-10c-2.webp}
+- {type: 10D, image: /history/backpacking/backpacking-10d.webp}
+- {type: 11A, status: missing}
+trivia:
+-   q: Was the Backpacking badge made in every patch style of its time?
+    a: No. No Type I Backpacking badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Backpacking merit badges?
+    a: 1993, when 8,864 were earned.
+- {q: 'How many Backpacking merit badges had been earned by 2020?', a: '233,724.'}
+-   q: What was Backpacking's best year in the rankings on record?
+    a: 1993, when it was 51st of the 123 merit badges earned that year.
+- {q: 'When was the earliest known Backpacking pamphlet printed?', a: March 1983.}

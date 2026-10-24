@@ -1,0 +1,43 @@
+---
+// DRAFT preview of each merit badge history page, one for every data file in
+// src/data/merit-badge-history/, showing every section whether approved or not.
+import DefaultLayout from '~/layouts/default-layout.astro';
+import MeritBadgeHistory from '~/components/merit-badge-history.astro';
+import { allBadgeHistories } from '~/utils/merit-badge-history';
+
+export function getStaticPaths() {
+    return allBadgeHistories().map(({ slug, history, printings, notMadeYears }) => ({
+        params: { badge: slug },
+        props: { history, printings, notMadeYears },
+    }));
+}
+
+const { badge } = Astro.params;
+const { history, printings, notMadeYears } = Astro.props;
+---
+
+<DefaultLayout title={`${history.name} Merit Badge History`}>
+    <nav class="crumbs" aria-label="Breadcrumb">
+        <a href="/admin/history-draft/">Merit Badge History (draft)</a> › {history.name}
+    </nav>
+    <h1>{history.name} Merit Badge History</h1>
+
+    <MeritBadgeHistory badge={badge} history={history} printings={printings} notMadeYears={notMadeYears} draft />
+</DefaultLayout>
+
+<style>
+    .crumbs {
+        font-size: 0.85em;
+        margin-bottom: 0.3em;
+    }
+
+    .crumbs a {
+        color: var(--palette-dark);
+        font-weight: bold;
+        text-decoration: none;
+    }
+
+    .crumbs a:hover {
+        color: var(--palette-light);
+    }
+</style>

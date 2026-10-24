@@ -1,0 +1,115 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Metals Engineering
+precededBy: Metallurgy
+precededByLink: metallurgy
+introduced: 1972
+discontinued: '1995'
+replacedWith: None
+timeline:
+-   year: 1972
+    text: 'The Metals Engineering merit badge is introduced. The first Metals Engineering merit badges are earned: 4,104 that year. The earliest known Metals Engineering pamphlet printing (Type 8).'
+-   year: 1973
+    text: 'All-time high: 4,847 Metals Engineering merit badges earned. Best ranking: 68th of 122 merit badges.'
+- {year: 1995, text: Last year the Metals Engineering merit badge is offered.}
+ranks:
+    1972: [72, 124]
+    1973: [68, 122]
+    1974: [112, 121]
+    1975: [116, 128]
+    1976: [119, 130]
+    1977: [118, 130]
+    1978: [118, 131]
+    1979: [111, 132]
+    1980: [117, 132]
+    1981: [115, 134]
+    1993: [115, 123]
+    1996: [123, 134]
+    2000: [121, 128]
+    2001: [117, 129]
+    2002: [124, 129]
+    2003: [124, 130]
+lifetimeRank: {rank: 186, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 192
+    range: [192, 192]
+    asOf: 2025
+earned:
+    totalThrough: 2003
+    total: 29857
+    byYear:
+        1972: 4104
+        1973: 4847
+        1974: 2017
+        1975: 1773
+        1976: 1490
+        1977: 1366
+        1978: 1160
+        1979: 1043
+        1980: 499
+        1981: 925
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 1268
+        1994: null
+        1995: null
+        1996: 134
+        1997: null
+        1998: null
+        1999: null
+        2000: 249
+        2001: 685
+        2002: 60
+        2003: 36
+patches:
+-   type: H
+    years: 1972-1995
+    image: /history/metals-engineering/metals-engineering-patch-h.webp
+    more:
+    -   image: /history/metals-engineering/metals-engineering-patch-h1-front.webp
+        label: H variation H1, front
+    -   image: /history/metals-engineering/metals-engineering-patch-h1-reverse.webp
+        label: H variation H1, back
+    -   image: /history/metals-engineering/metals-engineering-patch-h2-front.webp
+        label: H variation H2, front
+    -   image: /history/metals-engineering/metals-engineering-patch-h2-reverse.webp
+        label: H variation H2, back
+    -   image: /history/metals-engineering/metals-engineering-patch-h2-mve1-front.webp
+        label: H variation H2-MVE1, front
+    -   image: /history/metals-engineering/metals-engineering-patch-h2-mve1-reverse.webp
+        label: H variation H2-MVE1, back
+    -   image: /history/metals-engineering/metals-engineering-patch-h3-front.webp
+        label: H variation H3, front
+    -   image: /history/metals-engineering/metals-engineering-patch-h3-reverse.webp
+        label: H variation H3, back
+-   type: I
+    years: 1993-1995
+    note: variation I42
+    image: /history/metals-engineering/metals-engineering-patch-i42.webp
+    more:
+    - {image: /history/metals-engineering/metals-engineering-patch-ia-front.webp, label: IA front}
+    - {image: /history/metals-engineering/metals-engineering-patch-ia-reverse.webp, label: IA back}
+pamphlets:
+- {type: '8', status: missing}
+- {type: '9', status: missing}
+hardcovers:
+- {type: HCS, image: /history/metals-engineering/metals-engineering-hcs.webp}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Metals Engineering merit badges?
+    a: 1973, when 4,847 were earned.
+- {q: 'How many Metals Engineering merit badges had been earned by 2003?', a: '29,857.'}
+-   q: What was Metals Engineering's best year in the rankings on record?
+    a: 1973, when it was 68th of the 122 merit badges earned that year.
+- {q: 'What came before the Metals Engineering merit badge?', a: Metallurgy.}
+- {q: 'When was the earliest known Metals Engineering pamphlet printed?', a: August 1972.}

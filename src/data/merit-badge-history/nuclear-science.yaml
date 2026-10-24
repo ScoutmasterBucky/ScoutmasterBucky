@@ -1,0 +1,88 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Nuclear Science
+precededBy: Atomic Energy
+precededByLink: atomic-energy
+introduced: 2005
+discontinued: Current
+replacedWith: Current
+timeline:
+- {year: 2004, text: The earliest known Nuclear Science pamphlet printing (Type 9).}
+-   year: 2005
+    text: 'The Nuclear Science merit badge is introduced. The first Nuclear Science merit badges are earned: 3,585 that year.'
+-   year: 2013
+    text: 'All-time high: 7,666 Nuclear Science merit badges earned. Best ranking: 49th of 129 merit badges.'
+ranks:
+    2005: [92, 121]
+    2006: [96, 121]
+    2007: [82, 121]
+    2008: [83, 121]
+    2009: [78, 122]
+    2010: [81, 125]
+    2011: [62, 129]
+    2012: [58, 132]
+    2013: [49, 129]
+    2014: [74, 136]
+    2015: [72, 138]
+    2016: [71, 138]
+    2017: [73, 139]
+    2018: [73, 139]
+    2019: [73, 139]
+    2020: [92, 137]
+earned:
+    totalThrough: 2020
+    total: 93293
+    totalKnownOnly: true
+    byYear:
+        2005: 3585
+        2006: 3188
+        2007: 4595
+        2008: 4505
+        2009: 5881
+        2010: 5908
+        2011: 6965
+        2012: 7114
+        2013: 7666
+        2014: 6657
+        2015: 6728
+        2016: 7005
+        2017: 6702
+        2018: 6678
+        2019: 6623
+        2020: 3493
+patches:
+-   type: J
+    years: 2005-2009
+    image: /history/nuclear-science/nuclear-science-patch-j.webp
+    more:
+    - {image: /history/nuclear-science/nuclear-science-patch-j1-front.webp, label: J1 front}
+    - {image: /history/nuclear-science/nuclear-science-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    image: /history/nuclear-science/nuclear-science-patch-k.webp
+    more:
+    - {image: /history/nuclear-science/nuclear-science-patch-k-front.webp, label: K front}
+    - {image: /history/nuclear-science/nuclear-science-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    image: /history/nuclear-science/nuclear-science-patch-l.webp
+    more:
+    - {image: /history/nuclear-science/nuclear-science-patch-l-front.webp, label: L front}
+    - {image: /history/nuclear-science/nuclear-science-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '9', status: missing}
+- {type: 10A, status: missing}
+- {type: 10B, status: missing}
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+- {type: 11A, status: missing}
+trivia:
+-   q: In what year did Scouts earn the most Nuclear Science merit badges?
+    a: 2013, when 7,666 were earned.
+-   q: What was Nuclear Science's best year in the rankings on record?
+    a: 2013, when it was 49th of the 129 merit badges earned that year.
+- {q: 'What came before the Nuclear Science merit badge?', a: Atomic Energy.}
+- {q: 'When was the earliest known Nuclear Science pamphlet printed?', a: '2004.'}

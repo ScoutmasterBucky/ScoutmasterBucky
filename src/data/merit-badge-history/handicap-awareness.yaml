@@ -1,0 +1,38 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Handicap Awareness
+precededBy: Handicapped Awareness Became Disabilities Awareness
+introduced: 1985
+discontinued: '1993'
+replacedWith: Disabilities Awareness
+timeline:
+- {year: 1985, text: The Handicap Awareness merit badge is introduced.}
+-   year: 1993
+    text: Last year the Handicap Awareness merit badge is offered; it is replaced by Disabilities Awareness.
+patches:
+-   type: H
+    years: 1985-1993
+    image: /history/handicap-awareness/handicap-awareness-patch-h.webp
+    more:
+    -   image: /history/handicap-awareness/handicap-awareness-patch-h3-front.webp
+        label: H variation H3, front
+    -   image: /history/handicap-awareness/handicap-awareness-patch-h3-reverse.webp
+        label: H variation H3, back
+-   type: I
+    years: '1993'
+    status: unknown
+    more:
+    - {image: /history/handicap-awareness/handicap-awareness-patch-ia-front.webp, label: IA front}
+    - {image: /history/handicap-awareness/handicap-awareness-patch-ia-reverse.webp, label: IA back}
+    - {image: /history/handicap-awareness/handicap-awareness-patch-ib-front.webp, label: IB front}
+    - {image: /history/handicap-awareness/handicap-awareness-patch-ib-reverse.webp, label: IB back}
+pamphlets:
+- {type: 9B, image: /history/handicap-awareness/handicap-awareness-9b.webp}
+trivia:
+-   q: Was the Handicap Awareness badge made in every patch style of its time?
+    a: No. No Type I Handicap Awareness badge is known to exist.
+-   q: What came before the Handicap Awareness merit badge?
+    a: Handicapped Awareness Became Disabilities Awareness.
+- {q: 'What replaced Handicap Awareness after 1993?', a: Disabilities Awareness.}

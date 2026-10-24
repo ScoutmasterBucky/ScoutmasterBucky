@@ -1,0 +1,114 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Automotive Safety
+precededBy: Automobiling
+precededByLink: automobiling
+introduced: 1962
+discontinued: '1974'
+replacedWith: Traffic Safety
+story: [The Automotive Safety merit badge design changed in 1971 and is still it's successor's design; Traffic Safety.]
+timeline:
+-   year: 1962
+    text: 'The Automotive Safety merit badge is introduced. The first Automotive Safety merit badges are earned: 4,135 that year. The earliest known Automotive Safety pamphlet printing (Type 6A).'
+- {year: 1970, text: 'Best ranking: 44th of 113 merit badges.'}
+-   year: 1974
+    text: 'All-time high: 16,735 Automotive Safety merit badges earned. Last year the Automotive Safety merit badge is offered; it is replaced by Traffic Safety.'
+ranks:
+    1962: [59, 101]
+    1963: [51, 102]
+    1964: [51, 107]
+    1965: [49, 109]
+    1966: [46, 110]
+    1967: [47, 112]
+    1968: [47, 112]
+    1969: [47, 113]
+    1970: [44, 113]
+    1971: [44, 113]
+    1972: [50, 124]
+    1973: [48, 122]
+    1974: [44, 121]
+    1975: [51, 128]
+    1976: [64, 130]
+    1977: [80, 130]
+    1978: [91, 131]
+    1979: [121, 132]
+    1980: [124, 132]
+    1981: [123, 134]
+lifetimeRank: {rank: 130, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 133
+    range: [133, 134]
+    asOf: 2025
+earned:
+    totalThrough: 1981
+    total: 141595
+    byYear:
+        1962: 4135
+        1963: 5429
+        1964: 6501
+        1965: 6864
+        1966: 7201
+        1967: 8845
+        1968: 8619
+        1969: 9458
+        1970: 10296
+        1971: 9753
+        1972: 9202
+        1973: 9784
+        1974: 16735
+        1975: 14087
+        1976: 7764
+        1977: 4211
+        1978: 2557
+        1979: 64
+        1980: 29
+        1981: 61
+patches:
+-   type: F
+    years: 1961-1968
+    note: rolled edge
+    image: /history/automotive-safety/automotive-safety-patch-f.webp
+    more:
+    - {image: /history/automotive-safety/automotive-safety-patch-f-reverse.webp, label: F back}
+-   type: G
+    years: 1961-1971
+    note: cloth back
+    image: /history/automotive-safety/automotive-safety-patch-g.webp
+    more:
+    - {image: /history/automotive-safety/automotive-safety-patch-g-reverse.webp, label: G back}
+-   type: H
+    years: 1972-2002
+    note: blue
+    image: /history/automotive-safety/automotive-safety-patch-h.webp
+    more:
+    -   image: /history/automotive-safety/automotive-safety-patch-h1-front.webp
+        label: H variation H1, front
+    -   image: /history/automotive-safety/automotive-safety-patch-h1-reverse.webp
+        label: H variation H1, back
+    - {image: /history/automotive-safety/automotive-safety-patch-hb-reverse.webp, label: HB back}
+pamphlets:
+- {type: 6A, image: /history/automotive-safety/automotive-safety-6a.webp}
+- {type: 6B, image: /history/automotive-safety/automotive-safety-6b.webp}
+- {type: 7A-1, image: /history/automotive-safety/automotive-safety-7a-1.webp}
+- {type: 7A-2, image: /history/automotive-safety/automotive-safety-7a-2.webp}
+- {type: '8', image: /history/automotive-safety/automotive-safety-8.webp}
+hardcovers:
+- {type: HCJ, image: /history/automotive-safety/automotive-safety-hcj.webp}
+- {type: HCK, image: /history/automotive-safety/automotive-safety-hck.webp}
+- {type: HCL, image: /history/automotive-safety/automotive-safety-hcl.webp}
+- {type: HCM, image: /history/automotive-safety/automotive-safety-hcm.webp}
+- {type: HCN, image: /history/automotive-safety/automotive-safety-hcn.webp}
+- {type: HCQ, image: /history/automotive-safety/automotive-safety-hcq.webp}
+- {type: HCS, image: /history/automotive-safety/automotive-safety-hcs.webp}
+- {type: HCT, image: /history/automotive-safety/automotive-safety-hct.webp}
+trivia:
+-   q: In what year did Scouts earn the most Automotive Safety merit badges?
+    a: 1974, when 16,735 were earned.
+- {q: 'How many Automotive Safety merit badges had been earned by 1981?', a: '141,595.'}
+-   q: What was Automotive Safety's best year in the rankings on record?
+    a: 1970, when it was 44th of the 113 merit badges earned that year.
+- {q: 'What came before the Automotive Safety merit badge?', a: Automobiling.}
+- {q: 'What replaced Automotive Safety after 1974?', a: Traffic Safety.}
+- {q: 'When was the earliest known Automotive Safety pamphlet printed?', a: October 1962.}

@@ -1,0 +1,103 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Fly Fishing
+precededBy: None
+introduced: 2002
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2002
+    text: 'The Fly Fishing merit badge is introduced. The first Fly Fishing merit badges are earned: 675 that year. The earliest known Fly Fishing pamphlet printing (Type 9).'
+- {year: 2013, text: 'Best ranking: 62nd of 129 merit badges.'}
+- {year: 2019, text: 'All-time high: 5,005 Fly Fishing merit badges earned.'}
+ranks:
+    2002: [119, 129]
+    2003: [95, 130]
+    2004: [116, 121]
+    2005: [117, 121]
+    2006: [119, 121]
+    2007: [119, 121]
+    2008: [121, 121]
+    2009: [121, 122]
+    2010: [125, 125]
+    2011: [82, 129]
+    2012: [79, 132]
+    2013: [62, 129]
+    2014: [92, 136]
+    2015: [96, 138]
+    2016: [88, 138]
+    2017: [90, 139]
+    2018: [89, 139]
+    2019: [89, 139]
+    2020: [109, 137]
+    2021: [94, 137]
+    2022: [98, 138]
+    2023: [98, 138]
+    2024: [100, 138]
+    2025: [95, 141]
+lifetimeRank: {rank: 170, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 171
+    range: [169, 171]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 52650
+    byYear:
+        2002: 675
+        2003: 3203
+        2004: 1154
+        2005: 1040
+        2006: 701
+        2007: 685
+        2008: 489
+        2009: 634
+        2010: 475
+        2011: 4605
+        2012: 4291
+        2013: 4690
+        2014: 4537
+        2015: 3981
+        2016: 4577
+        2017: 4597
+        2018: 4872
+        2019: 5005
+        2020: 2439
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: H, years: '2002', status: missing}
+- {type: J, years: 2002-2009, image: /history/fly-fishing/fly-fishing-patch-j.webp}
+-   type: K
+    years: 2010-2014
+    image: /history/fly-fishing/fly-fishing-patch-k.webp
+    more:
+    - {image: /history/fly-fishing/fly-fishing-patch-k-front.webp, label: K front}
+    - {image: /history/fly-fishing/fly-fishing-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    image: /history/fly-fishing/fly-fishing-patch-l.webp
+    more:
+    - {image: /history/fly-fishing/fly-fishing-patch-l-front.webp, label: L front}
+    - {image: /history/fly-fishing/fly-fishing-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '9', image: /history/fly-fishing/fly-fishing-9.webp}
+- {type: 10B, image: /history/fly-fishing/fly-fishing-10b.webp}
+- {type: 10C, image: /history/fly-fishing/fly-fishing-10c.webp}
+- {type: 10D-1, image: /history/fly-fishing/fly-fishing-10d-1.webp}
+- {type: 10D-2A, image: /history/fly-fishing/fly-fishing-10d-2a.webp}
+- {type: 10D-2B, image: /history/fly-fishing/fly-fishing-10d-2b.webp}
+- {type: 11A, status: missing}
+trivia:
+-   q: In what year did Scouts earn the most Fly Fishing merit badges?
+    a: 2019, when 5,005 were earned.
+- {q: 'How many Fly Fishing merit badges had been earned by 2020?', a: '52,650.'}
+-   q: What was Fly Fishing's best year in the rankings on record?
+    a: 2013, when it was 62nd of the 129 merit badges earned that year.
+- {q: 'When was the earliest known Fly Fishing pamphlet printed?', a: '2002.'}

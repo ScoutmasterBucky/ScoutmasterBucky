@@ -1,0 +1,111 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Forage Crops
+precededBy: Grasses, Legumes, & Forage Crops
+precededByLink: grasses-legumes-and-forage-crops
+introduced: 1959
+discontinued: '1975'
+replacedWith: None
+timeline:
+-   year: 1959
+    text: 'The Forage Crops merit badge is introduced. The first Forage Crops merit badges are earned: 643 that year.'
+-   year: 1960
+    text: 'All-time high: 1,838 Forage Crops merit badges earned. The earliest known Forage Crops pamphlet printing (Type 6A). Best ranking: 79th of 100 merit badges.'
+- {year: 1975, text: Last year the Forage Crops merit badge is offered.}
+ranks:
+    1959: [99, 101]
+    1960: [79, 100]
+    1961: [96, 101]
+    1962: [94, 101]
+    1963: [96, 102]
+    1964: [103, 107]
+    1965: [107, 109]
+    1966: [109, 110]
+    1967: [106, 112]
+    1968: [111, 112]
+    1969: [111, 113]
+    1970: [105, 113]
+    1971: [106, 113]
+    1972: [120, 124]
+    1973: [112, 122]
+    1974: [120, 121]
+    1975: [124, 128]
+    1976: [124, 130]
+    1977: [128, 130]
+    1978: [125, 131]
+    1979: [129, 132]
+    1980: [129, 132]
+    1981: [133, 134]
+lifetimeRank: {rank: 201, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 203
+    range: [203, 203]
+    asOf: 2025
+earned:
+    totalThrough: 1981
+    total: 14428
+    byYear:
+        1959: 643
+        1960: 1838
+        1961: 651
+        1962: 1017
+        1963: 791
+        1964: 433
+        1965: 368
+        1966: 494
+        1967: 576
+        1968: 308
+        1969: 497
+        1970: 941
+        1971: 789
+        1972: 586
+        1973: 787
+        1974: 1167
+        1975: 1066
+        1976: 819
+        1977: 286
+        1978: 356
+        1979: 5
+        1980: 8
+        1981: 2
+patches:
+- {type: E, years: 1959-1960, image: /history/forage-crops/forage-crops-patch-e.webp}
+- {type: F, years: 1961-1968, status: missing}
+- {type: G, years: 1961-1971, image: /history/forage-crops/forage-crops-patch-g.webp}
+-   type: H
+    years: 1972-1975
+    image: /history/forage-crops/forage-crops-patch-h.webp
+    more:
+    - {image: /history/forage-crops/forage-crops-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/forage-crops/forage-crops-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/forage-crops/forage-crops-patch-h1-1-front.webp, label: 'H variation H1-1, front'}
+    - {image: /history/forage-crops/forage-crops-patch-h1-1-reverse.webp, label: 'H variation H1-1, back'}
+    - {image: /history/forage-crops/forage-crops-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/forage-crops/forage-crops-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    -   image: /history/forage-crops/forage-crops-patch-h2-mve1-front.webp
+        label: H variation H2-MVE1, front
+    -   image: /history/forage-crops/forage-crops-patch-h2-mve1-reverse.webp
+        label: H variation H2-MVE1, back
+pamphlets:
+- {type: '6', status: missing}
+- {type: 6A, image: /history/forage-crops/forage-crops-6a.webp}
+- {type: 6B, image: /history/forage-crops/forage-crops-6b.webp}
+- {type: '7', image: /history/forage-crops/forage-crops-7.webp}
+- {type: '8', image: /history/forage-crops/forage-crops-8.webp}
+hardcovers:
+- {type: HCJ, image: /history/forage-crops/forage-crops-hcj.webp}
+- {type: HCK, image: /history/forage-crops/forage-crops-hck.webp}
+- {type: HCL, image: /history/forage-crops/forage-crops-hcl.webp}
+- {type: HCM, image: /history/forage-crops/forage-crops-hcm.webp}
+- {type: HCP, image: /history/forage-crops/forage-crops-hcp.webp}
+- {type: HCS, image: /history/forage-crops/forage-crops-hcs.webp}
+trivia:
+-   q: In what year did Scouts earn the most Forage Crops merit badges?
+    a: 1960, when 1,838 were earned.
+- {q: 'How many Forage Crops merit badges had been earned by 1981?', a: '14,428.'}
+-   q: What was Forage Crops' best year in the rankings on record?
+    a: 1960, when it was 79th of the 100 merit badges earned that year.
+- {q: 'What came before the Forage Crops merit badge?', a: 'Grasses, Legumes, & Forage Crops.'}
+- {q: 'When was the earliest known Forage Crops pamphlet printed?', a: June 1960.}

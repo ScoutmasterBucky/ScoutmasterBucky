@@ -1,0 +1,79 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Rocks and Minerals
+precededBy: Mining Became Geology
+introduced: 1937
+discontinued: '1953'
+replacedWith: Geology
+timeline:
+-   year: 1937
+    text: 'The Rocks and Minerals merit badge is introduced. The first Rocks and Minerals merit badges are earned: 19 that year. The earliest known Rocks and Minerals pamphlet printing (Type 3D).'
+- {year: 1952, text: 'All-time high: 2,354 Rocks and Minerals merit badges earned.'}
+-   year: 1953
+    text: 'Best ranking: 61st of 105 merit badges. Last year the Rocks and Minerals merit badge is offered; it is replaced by Geology.'
+ranks:
+    1937: [102, 102]
+    1938: [79, 105]
+    1939: [80, 106]
+    1940: [77, 106]
+    1941: [79, 106]
+    1942: [75, 110]
+    1943: [80, 112]
+    1944: [76, 111]
+    1945: [75, 111]
+    1946: [73, 111]
+    1947: [71, 111]
+    1948: [71, 111]
+    1949: [66, 111]
+    1950: [63, 111]
+    1951: [62, 111]
+    1952: [67, 120]
+    1953: [61, 105]
+lifetimeRank: {rank: 197, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 199
+    range: [199, 199]
+    asOf: 2025
+earned:
+    totalThrough: 1953
+    total: 20991
+    byYear:
+        1937: 19
+        1938: 750
+        1939: 697
+        1940: 856
+        1941: 806
+        1942: 873
+        1943: 896
+        1944: 1263
+        1945: 1192
+        1946: 1135
+        1947: 1160
+        1948: 1131
+        1949: 1419
+        1950: 1914
+        1951: 2243
+        1952: 2354
+        1953: 2283
+patches:
+- {type: C, years: 1937-1942, image: /history/rocks-and-minerals/rocks-and-minerals-patch-c.webp}
+- {type: D, years: 1942-1946, image: /history/rocks-and-minerals/rocks-and-minerals-patch-d.webp}
+- {type: E, years: 1947-1953, image: /history/rocks-and-minerals/rocks-and-minerals-patch-e.webp}
+pamphlets:
+- {type: 3D, status: missing}
+- {type: '4', image: /history/rocks-and-minerals/rocks-and-minerals-4.webp}
+- {type: 5A, status: missing}
+- {type: 5B, status: missing}
+hardcovers:
+- {type: HCB, image: /history/rocks-and-minerals/rocks-and-minerals-hcb.webp}
+trivia:
+-   q: In what year did Scouts earn the most Rocks and Minerals merit badges?
+    a: 1952, when 2,354 were earned.
+- {q: 'How many Rocks and Minerals merit badges had been earned by 1953?', a: '20,991.'}
+-   q: What was Rocks and Minerals' best year in the rankings on record?
+    a: 1953, when it was 61st of the 105 merit badges earned that year.
+- {q: 'What came before the Rocks and Minerals merit badge?', a: Mining Became Geology.}
+- {q: 'What replaced Rocks and Minerals after 1953?', a: Geology.}
+- {q: 'When was the earliest known Rocks and Minerals pamphlet printed?', a: September 1937.}

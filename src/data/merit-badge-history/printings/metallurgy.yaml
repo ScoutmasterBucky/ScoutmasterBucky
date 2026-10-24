@@ -1,0 +1,20 @@
+# Generated from the 2026 Merit Badge Pamphlets List, sheet 'Metallurgy'.
+# status: have = in Bucky's collection, confirmed = known to exist but not in the
+# collection, listed = on the list without a have/confirmed mark.
+printings:
+-   year: 1966
+    month: June
+    cover: '7'
+    printRun: 10M
+    copyright: '1966'
+    hardcover: HCL, HCN, HCQ
+    status: have
+-   year: 1969
+    month: November
+    cover: '7'
+    printRun: 4M
+    copyright: '1966'
+    hardcover: HCL, HCM
+    status: have
+- {year: 1970, month: November, cover: '7', printRun: 4M, status: listed}
+notMadeYears: [1967, 1968, 1971]

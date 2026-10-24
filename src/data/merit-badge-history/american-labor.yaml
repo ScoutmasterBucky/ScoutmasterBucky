@@ -1,0 +1,153 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: American Labor
+precededBy: None
+introduced: 1987
+discontinued: Current
+replacedWith: Current
+story: [The American Labor merit badge helps Scouts explore the labor movement and its many contributions to the improvement and well being of many workers in our country.]
+timeline:
+-   year: 1987
+    text: The American Labor merit badge is introduced. The earliest known American Labor pamphlet printing (Type 9A-1).
+- {year: 1993, text: 'First known count: 1,358 American Labor merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 97th of 129 merit badges.'}
+- {year: 2020, text: 'All-time high: 1,892 American Labor merit badges earned.'}
+ranks:
+    1993: [112, 123]
+    1996: [116, 134]
+    2000: [117, 128]
+    2001: [118, 129]
+    2002: [120, 129]
+    2003: [121, 130]
+    2004: [120, 121]
+    2005: [120, 121]
+    2006: [121, 121]
+    2007: [115, 121]
+    2008: [118, 121]
+    2009: [118, 122]
+    2010: [122, 125]
+    2011: [114, 129]
+    2012: [113, 132]
+    2013: [97, 129]
+    2014: [132, 136]
+    2015: [132, 138]
+    2016: [134, 138]
+    2017: [134, 139]
+    2018: [133, 139]
+    2019: [133, 139]
+    2020: [117, 137]
+    2021: [134, 137]
+    2022: [134, 138]
+    2023: [134, 138]
+    2024: [133, 138]
+    2025: [136, 141]
+lifetimeRank: {rank: 185, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 187
+    range: [187, 187]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 29926
+    byYear:
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 1358
+        1994: null
+        1995: null
+        1996: 802
+        1997: null
+        1998: null
+        1999: null
+        2000: 731
+        2001: 619
+        2002: 640
+        2003: 649
+        2004: 686
+        2005: 576
+        2006: 582
+        2007: 1060
+        2008: 642
+        2009: 822
+        2010: 739
+        2011: 1168
+        2012: 811
+        2013: 1090
+        2014: 992
+        2015: 1106
+        2016: 812
+        2017: 901
+        2018: 1109
+        2019: 1298
+        2020: 1892
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: '1987'
+    note: molded
+    image: /history/american-labor/american-labor-patch-h1.webp
+    more:
+    - {image: /history/american-labor/american-labor-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/american-labor/american-labor-patch-h5-reverse.webp, label: 'H variation H5, back'}
+    - {image: /history/american-labor/american-labor-patch-hm-reverse.webp, label: HM back}
+-   type: H
+    years: 1987-2002
+    note: molded
+    image: /history/american-labor/american-labor-patch-h2.webp
+-   type: I
+    years: 1993-1995
+    note: 42mm
+    image: /history/american-labor/american-labor-patch-i42.webp
+    more:
+    - {image: /history/american-labor/american-labor-patch-ia-front.webp, label: IA front}
+    - {image: /history/american-labor/american-labor-patch-ia-reverse.webp, label: IA back}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/american-labor/american-labor-patch-j.webp
+    more:
+    - {image: /history/american-labor/american-labor-patch-j-front.webp, label: J front}
+    - {image: /history/american-labor/american-labor-patch-j-reverse.webp, label: J back}
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/american-labor/american-labor-patch-k.webp
+    more:
+    - {image: /history/american-labor/american-labor-patch-k-front.webp, label: K front}
+    - {image: /history/american-labor/american-labor-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/american-labor/american-labor-patch-l.webp
+    more:
+    - {image: /history/american-labor/american-labor-patch-l-front.webp, label: L front}
+    - {image: /history/american-labor/american-labor-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 9A-1, image: /history/american-labor/american-labor-9a-1.webp}
+- {type: 9A-2, image: /history/american-labor/american-labor-9a-2.webp}
+- {type: 9A-3, image: /history/american-labor/american-labor-9a-3.webp}
+- {type: 9B-1, image: /history/american-labor/american-labor-9b-1.webp}
+- {type: 9B-2, image: /history/american-labor/american-labor-9b-2.webp}
+- {type: 10A, image: /history/american-labor/american-labor-10a.webp}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C, image: /history/american-labor/american-labor-10c.webp}
+- {type: 10D, image: /history/american-labor/american-labor-10d.webp}
+- {type: '11', status: missing}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most American Labor merit badges?
+    a: 2020, when 1,892 were earned.
+- {q: 'How many American Labor merit badges had been earned by 2020?', a: '29,926.'}
+-   q: What was American Labor's best year in the rankings on record?
+    a: 2013, when it was 97th of the 129 merit badges earned that year.
+- {q: 'When was the earliest known American Labor pamphlet printed?', a: September 1987.}

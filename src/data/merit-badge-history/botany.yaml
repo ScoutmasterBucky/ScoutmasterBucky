@@ -1,0 +1,244 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Botany
+precededBy: None
+introduced: 1921
+discontinued: '1995'
+replacedWith: N/A
+story: ['The Botany Merit Badge pamphlet''s introduction, for decades, began with, "A great botanist once said that a weed is merely a flower out of place" .']
+timeline:
+- {year: 1919, text: The earliest known Botany pamphlet printing (Type 2).}
+-   year: 1921
+    text: 'The Botany merit badge is introduced. The first Botany merit badges are earned: 193 that year.'
+- {year: 1922, text: 'Best ranking: 39th of 61 merit badges.'}
+- {year: 1973, text: 'All-time high: 3,065 Botany merit badges earned.'}
+- {year: 1995, text: Last year the Botany merit badge is offered; it is replaced by N/A.}
+ranks:
+    1921: [51, 61]
+    1922: [39, 61]
+    1923: [46, 63]
+    1924: [47, 64]
+    1925: [53, 64]
+    1926: [46, 65]
+    1927: [50, 68]
+    1928: [51, 88]
+    1929: [62, 89]
+    1930: [66, 92]
+    1931: [70, 96]
+    1932: [66, 98]
+    1933: [66, 101]
+    1934: [71, 101]
+    1935: [77, 101]
+    1936: [68, 101]
+    1937: [80, 102]
+    1938: [74, 105]
+    1939: [76, 106]
+    1940: [79, 106]
+    1941: [77, 106]
+    1942: [81, 110]
+    1943: [88, 112]
+    1944: [88, 111]
+    1945: [86, 111]
+    1946: [87, 111]
+    1947: [82, 111]
+    1948: [84, 111]
+    1949: [81, 111]
+    1950: [83, 111]
+    1951: [83, 111]
+    1952: [93, 120]
+    1953: [90, 105]
+    1954: [90, 103]
+    1955: [90, 100]
+    1956: [87, 100]
+    1957: [90, 100]
+    1958: [89, 101]
+    1959: [92, 101]
+    1960: [91, 100]
+    1961: [86, 101]
+    1962: [89, 101]
+    1963: [87, 102]
+    1964: [88, 107]
+    1965: [84, 109]
+    1966: [92, 110]
+    1967: [88, 112]
+    1968: [86, 112]
+    1969: [90, 113]
+    1970: [92, 113]
+    1971: [91, 113]
+    1972: [90, 124]
+    1973: [87, 122]
+    1974: [102, 121]
+    1975: [109, 128]
+    1976: [98, 130]
+    1977: [100, 130]
+    1978: [108, 131]
+    1979: [100, 132]
+    1980: [100, 132]
+    1981: [101, 134]
+    1993: [120, 123]
+    1996: [125, 134]
+    2000: [125, 128]
+    2001: [129, 129]
+    2002: [121, 129]
+    2003: [127, 130]
+lifetimeRank: {rank: 149, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 157
+    range: [157, 158]
+    asOf: 2025
+earned:
+    totalThrough: 2003
+    total: 87752
+    byYear:
+        1921: 193
+        1922: 558
+        1923: 427
+        1924: 358
+        1925: 300
+        1926: 944
+        1927: 1030
+        1928: 2203
+        1929: 1071
+        1930: 916
+        1931: 1083
+        1932: 1124
+        1933: 1157
+        1934: 894
+        1935: 924
+        1936: 968
+        1937: 749
+        1938: 982
+        1939: 961
+        1940: 802
+        1941: 871
+        1942: 611
+        1943: 555
+        1944: 675
+        1945: 785
+        1946: 644
+        1947: 655
+        1948: 598
+        1949: 751
+        1950: 842
+        1951: 1024
+        1952: 833
+        1953: 623
+        1954: 746
+        1955: 940
+        1956: 1016
+        1957: 968
+        1958: 957
+        1959: 1002
+        1960: 1326
+        1961: 1532
+        1962: 1537
+        1963: 1585
+        1964: 1618
+        1965: 1648
+        1966: 1539
+        1967: 1677
+        1968: 1731
+        1969: 1763
+        1970: 1702
+        1971: 1683
+        1972: 2619
+        1973: 3065
+        1974: 2889
+        1975: 2361
+        1976: 2799
+        1977: 2448
+        1978: 1690
+        1979: 1456
+        1980: 844
+        1981: 1247
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 959
+        1994: null
+        1995: null
+        1996: 77
+        1997: null
+        1998: null
+        1999: null
+        2000: 39
+        2001: 5
+        2002: 266
+        2003: 13
+patches:
+- {type: A, years: '1921', status: missing}
+- {type: A, years: '1922', image: /history/botany/botany-patch-a2.webp}
+- {type: A, years: 1922-1933, status: missing}
+- {type: B, years: 1934-1935, note: heavyweight cloth, status: missing}
+-   type: C
+    years: 1936-1939
+    note: heavyweight cloth
+    image: /history/botany/botany-patch-c1.webp
+-   type: C
+    years: 1940-1946
+    note: lightweight cloth
+    image: /history/botany/botany-patch-c2.webp
+- {type: D, status: unknown}
+- {type: E, years: 1947-1960, image: /history/botany/botany-patch-e.webp}
+- {type: F, years: 1961-1968, note: rolled edge, image: /history/botany/botany-patch-f.webp}
+- {type: G, years: 1969-1971, note: cloth back, image: /history/botany/botany-patch-g.webp}
+-   type: H
+    years: 1972-2002
+    note: blue, clear, and molded
+    image: /history/botany/botany-patch-h.webp
+    more:
+    - {image: /history/botany/botany-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/botany/botany-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/botany/botany-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/botany/botany-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/botany/botany-patch-h2-mve1-front.webp, label: 'H variation H2-MVE1, front'}
+    - {image: /history/botany/botany-patch-h2-mve1-reverse.webp, label: 'H variation H2-MVE1, back'}
+    - {image: /history/botany/botany-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/botany/botany-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/botany/botany-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/botany/botany-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, years: 1993-1995, status: unknown}
+pamphlets:
+- {type: '2', image: /history/botany/botany-2.webp}
+- {type: 3A over 2, image: /history/botany/botany-3a-over-2.webp}
+- {type: 3A, image: /history/botany/botany-3a.webp}
+- {type: 3B, image: /history/botany/botany-3b.webp}
+- {type: 3C, image: /history/botany/botany-3c.webp}
+- {type: '4', image: /history/botany/botany-4.webp}
+- {type: 5A, image: /history/botany/botany-5a.webp}
+- {type: 5B, image: /history/botany/botany-5b.webp}
+- {type: 6A, image: /history/botany/botany-6a.webp}
+- {type: 6B, image: /history/botany/botany-6b.webp}
+- {type: '7', image: /history/botany/botany-7.webp}
+- {type: '8', image: /history/botany/botany-8.webp}
+- {type: '9', image: /history/botany/botany-9.webp}
+hardcovers:
+- {type: HCD, image: /history/botany/botany-hcd.webp}
+- {type: HCH, image: /history/botany/botany-hch.webp}
+- {type: HCJ, image: /history/botany/botany-hcj.webp}
+- {type: HCK, image: /history/botany/botany-hck.webp}
+- {type: HCL, image: /history/botany/botany-hcl.webp}
+- {type: HCM, image: /history/botany/botany-hcm.webp}
+- {type: HCP, image: /history/botany/botany-hcp.webp}
+- {type: HCS, image: /history/botany/botany-hcs.webp}
+- {type: HCU, image: /history/botany/botany-hcu.webp}
+trivia:
+-   q: Was the Botany badge made in every patch style of its time?
+    a: No. No Type D or I Botany badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Botany merit badges?
+    a: 1973, when 3,065 were earned.
+- {q: 'How many Botany merit badges had been earned by 2003?', a: '87,752.'}
+-   q: What was Botany's best year in the rankings on record?
+    a: 1922, when it was 39th of the 61 merit badges earned that year.
+- {q: 'What replaced Botany after 1995?', a: N/A.}
+- {q: 'When was the earliest known Botany pamphlet printed?', a: '1919.'}

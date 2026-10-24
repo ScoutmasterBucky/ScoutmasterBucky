@@ -1,0 +1,48 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Food Systems
+precededBy: None
+introduced: 1978
+discontinued: '1987'
+replacedWith: None
+timeline:
+-   year: 1978
+    text: 'The Food Systems merit badge is introduced. The first Food Systems merit badges are earned: 225 that year. The earliest known Food Systems pamphlet printing (Type 8).'
+- {year: 1980, text: 'Best ranking: 101st of 132 merit badges.'}
+- {year: 1981, text: 'All-time high: 1,129 Food Systems merit badges earned.'}
+- {year: 1987, text: Last year the Food Systems merit badge is offered.}
+ranks:
+    1978: [127, 131]
+    1979: [113, 132]
+    1980: [101, 132]
+    1981: [109, 134]
+lifetimeRank: {rank: 221, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 223
+    range: [223, 223]
+    asOf: 2025
+earned:
+    totalThrough: 1981
+    total: 3100
+    byYear: {1978: 225, 1979: 910, 1980: 836, 1981: 1129}
+patches:
+-   type: H
+    years: 1978-1987
+    image: /history/food-systems/food-systems-patch-h.webp
+    more:
+    - {image: /history/food-systems/food-systems-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/food-systems/food-systems-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+pamphlets:
+- {type: '8', image: /history/food-systems/food-systems-8.webp}
+- {type: '9', image: /history/food-systems/food-systems-9.webp}
+hardcovers:
+- {type: HCT, image: /history/food-systems/food-systems-hct.webp}
+trivia:
+-   q: In what year did Scouts earn the most Food Systems merit badges?
+    a: 1981, when 1,129 were earned.
+- {q: 'How many Food Systems merit badges had been earned by 1981?', a: '3,100.'}
+-   q: What was Food Systems' best year in the rankings on record?
+    a: 1980, when it was 101st of the 132 merit badges earned that year.
+- {q: 'When was the earliest known Food Systems pamphlet printed?', a: September 1978.}

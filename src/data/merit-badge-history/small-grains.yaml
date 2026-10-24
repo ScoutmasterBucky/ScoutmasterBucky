@@ -1,0 +1,47 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Small Grains
+precededBy: Small Grains and Cereal Foods
+precededByLink: small-grains-and-cereal-foods
+introduced: 1959
+discontinued: '1975'
+replacedWith: Plant Science
+timeline:
+- {year: 1957, text: The earliest known Small Grains pamphlet printing (Type 6).}
+- {year: 1959, text: The Small Grains merit badge is introduced.}
+- {year: 1975, text: Last year the Small Grains merit badge is offered; it is replaced by Plant Science.}
+patches:
+- {type: D, image: /history/small-grains/small-grains-patch-d.webp}
+- {type: E, years: 1959-1960, image: /history/small-grains/small-grains-patch-e.webp}
+- {type: F, status: notMade}
+-   type: G
+    years: 1961-1971
+    note: cloth back
+    image: /history/small-grains/small-grains-patch-g.webp
+-   type: H
+    years: 1972-1975
+    note: blue and clear
+    image: /history/small-grains/small-grains-patch-h.webp
+    more:
+    - {image: /history/small-grains/small-grains-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/small-grains/small-grains-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/small-grains/small-grains-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/small-grains/small-grains-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+pamphlets:
+- {type: '6', status: missing}
+- {type: '7', status: missing}
+- {type: '8', status: missing}
+hardcovers:
+- {type: HCJ, image: /history/small-grains/small-grains-hcj.webp}
+- {type: HCK, image: /history/small-grains/small-grains-hck.webp}
+- {type: HCL, image: /history/small-grains/small-grains-hcl.webp}
+- {type: HCP, image: /history/small-grains/small-grains-hcp.webp}
+- {type: HCS, image: /history/small-grains/small-grains-hcs.webp}
+trivia:
+-   q: Was the Small Grains badge made in every patch style of its time?
+    a: No. No Type F Small Grains badge is known to exist.
+- {q: 'What came before the Small Grains merit badge?', a: Small Grains and Cereal Foods.}
+- {q: 'What replaced Small Grains after 1975?', a: Plant Science.}
+- {q: 'When was the earliest known Small Grains pamphlet printed?', a: February 1957.}

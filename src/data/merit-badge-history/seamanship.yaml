@@ -1,0 +1,192 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Seamanship
+precededBy: previous
+introduced: 1911
+discontinued: '1964'
+replacedWith: Motorboating and Small-Boat Sailing
+thenAndNow:
+    year: 1911
+    source: The Official Handbook for Boys (1911)
+    requirements:
+    - Be able to tie rapidly six different knots.
+    - Splice ropes.
+    - Use a palm and needle.
+    - Fling a rope coil.
+    - Be able to row, pole, scull, and steer a boat; also bring a boat properly alongside and make fast.
+    - Know how to box the compass, read a chart, and show use of parallel rules and dividers.
+    - Be able to state direction by the stars and sun.
+    - Swim fifty yards with shoes and clothes on.
+    - Understand the general working of steam and hydraulic winches, and have a knowledge of weather wisdom and of tides.
+timeline:
+-   year: 1911
+    text: The Seamanship merit badge is introduced. It is one of the original 57 merit badges.
+- {year: 1912, text: 'The first Seamanship merit badges are earned: 11 that year.'}
+- {year: 1913, text: 'Best ranking: 37th of 56 merit badges.'}
+- {year: 1920, text: The earliest known Seamanship pamphlet printing (Type 1C).}
+- {year: 1928, text: 'All-time high: 1,696 Seamanship merit badges earned.'}
+-   year: 1964
+    text: Last year the Seamanship merit badge is offered; it is replaced by Motorboating and Small-Boat Sailing.
+ranks:
+    1912: [39, 51]
+    1913: [37, 56]
+    1914: [42, 58]
+    1915: [41, 58]
+    1916: [45, 56]
+    1917: [50, 58]
+    1918: [53, 58]
+    1919: [54, 59]
+    1920: [51, 59]
+    1921: [55, 61]
+    1922: [51, 61]
+    1923: [55, 63]
+    1924: [52, 64]
+    1925: [56, 64]
+    1926: [58, 65]
+    1927: [64, 68]
+    1928: [57, 88]
+    1929: [80, 89]
+    1930: [86, 92]
+    1931: [90, 96]
+    1932: [84, 98]
+    1933: [91, 101]
+    1934: [87, 101]
+    1935: [92, 101]
+    1936: [85, 101]
+    1937: [93, 102]
+    1938: [87, 105]
+    1939: [92, 106]
+    1940: [92, 106]
+    1941: [92, 106]
+    1942: [94, 110]
+    1943: [92, 112]
+    1944: [92, 111]
+    1945: [97, 111]
+    1946: [94, 111]
+    1947: [97, 111]
+    1948: [99, 111]
+    1949: [103, 111]
+    1950: [103, 111]
+    1951: [105, 111]
+    1952: [109, 120]
+    1953: [98, 105]
+    1954: [95, 103]
+    1955: [95, 100]
+    1956: [96, 100]
+    1957: [97, 100]
+    1958: [98, 101]
+    1959: [100, 101]
+    1960: [98, 100]
+    1961: [97, 101]
+    1962: [99, 101]
+    1963: [97, 102]
+    1964: [98, 107]
+lifetimeRank: {rank: 198, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 200
+    range: [200, 200]
+    asOf: 2025
+earned:
+    totalThrough: 1964
+    total: 20622
+    byYear:
+        1911: 0
+        1912: 11
+        1913: 31
+        1914: 57
+        1915: 37
+        1916: 26
+        1917: 28
+        1918: 24
+        1919: 73
+        1920: 81
+        1921: 150
+        1922: 239
+        1923: 172
+        1924: 256
+        1925: 214
+        1926: 313
+        1927: 367
+        1928: 1696
+        1929: 325
+        1930: 270
+        1931: 398
+        1932: 412
+        1933: 434
+        1934: 373
+        1935: 355
+        1936: 419
+        1937: 429
+        1938: 569
+        1939: 463
+        1940: 456
+        1941: 465
+        1942: 332
+        1943: 413
+        1944: 510
+        1945: 499
+        1946: 483
+        1947: 436
+        1948: 319
+        1949: 331
+        1950: 344
+        1951: 432
+        1952: 505
+        1953: 388
+        1954: 525
+        1955: 555
+        1956: 473
+        1957: 513
+        1958: 525
+        1959: 553
+        1960: 587
+        1961: 616
+        1962: 586
+        1963: 723
+        1964: 831
+patches:
+-   type: A
+    years: 1911-1933
+    note: variations
+    image: /history/seamanship/seamanship-patch-a.webp
+-   type: B
+    years: 1934-1935
+    note: heavyweight cloth
+    image: /history/seamanship/seamanship-patch-b.webp
+- {type: C, years: 1936-1942, status: missing}
+-   type: D
+    years: 1942-1946
+    note: fine twill cloth
+    image: /history/seamanship/seamanship-patch-d.webp
+- {type: E, years: 1947-1960, image: /history/seamanship/seamanship-patch-e.webp}
+-   type: F
+    years: 1961-1964
+    note: rolled edge
+    image: /history/seamanship/seamanship-patch-f.webp
+- {type: G, years: 1961-1964, status: missing}
+pamphlets:
+- {type: 1C, image: /history/seamanship/seamanship-1c.webp}
+- {type: '2', image: /history/seamanship/seamanship-2.webp}
+- {type: 3A, image: /history/seamanship/seamanship-3a.webp}
+- {type: 3B, image: /history/seamanship/seamanship-3b.webp}
+- {type: 3D, image: /history/seamanship/seamanship-3d.webp}
+- {type: '4', image: /history/seamanship/seamanship-4.webp}
+- {type: 5A, status: missing}
+- {type: 5B, status: missing}
+- {type: '6', status: missing}
+hardcovers:
+- {type: HCH, image: /history/seamanship/seamanship-hch.webp}
+- {type: HCI, image: /history/seamanship/seamanship-hci.webp}
+- {type: HCJ, image: /history/seamanship/seamanship-hcj.webp}
+trivia:
+-   q: Was Seamanship one of the original 57 merit badges?
+    a: Yes. It was in the first Official Handbook for Boys in 1911.
+-   q: What was the first thing a Scout had to do for Seamanship in 1911?
+    a: Be able to tie rapidly six different knots.
+- {q: 'In what year did Scouts earn the most Seamanship merit badges?', a: '1928, when 1,696 were earned.'}
+- {q: 'How many Seamanship merit badges had been earned by 1964?', a: '20,622.'}
+-   q: What was Seamanship's best year in the rankings on record?
+    a: 1913, when it was 37th of the 56 merit badges earned that year.
+- {q: 'What came before the Seamanship merit badge?', a: previous.}

@@ -1,0 +1,85 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Scuba Diving
+precededBy: N/A
+introduced: 2009
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2009
+    text: 'The Scuba Diving merit badge is introduced. The first Scuba Diving merit badges are earned: 130 that year. The earliest known Scuba Diving pamphlet printing (Type 10C).'
+- {year: 2011, text: 'All-time high: 3,015 Scuba Diving merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 86th of 129 merit badges.'}
+ranks:
+    2009: [122, 122]
+    2010: [103, 125]
+    2011: [99, 129]
+    2012: [95, 132]
+    2013: [86, 129]
+    2014: [125, 136]
+    2015: [124, 138]
+    2016: [126, 138]
+    2017: [125, 139]
+    2018: [126, 139]
+    2019: [127, 139]
+    2020: [131, 137]
+    2021: [121, 137]
+    2022: [123, 138]
+    2023: [126, 138]
+    2024: [126, 138]
+    2025: [132, 141]
+lifetimeRank: {rank: 193, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 188
+    range: [188, 190]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 24100
+    byYear:
+        2009: 130
+        2010: 2962
+        2011: 3015
+        2012: 2594
+        2013: 2370
+        2014: 1989
+        2015: 2135
+        2016: 1792
+        2017: 1842
+        2018: 2036
+        2019: 1912
+        2020: 1323
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: J
+    years: 2009-2010
+    note: Scout Stuff back
+    image: /history/scuba-diving/scuba-diving-patch-j.webp
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/scuba-diving/scuba-diving-patch-k.webp
+    more:
+    - {image: /history/scuba-diving/scuba-diving-patch-k-front.webp, label: K front}
+    - {image: /history/scuba-diving/scuba-diving-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/scuba-diving/scuba-diving-patch-l.webp
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10C, status: missing}
+trivia:
+-   q: In what year did Scouts earn the most Scuba Diving merit badges?
+    a: 2011, when 3,015 were earned.
+- {q: 'How many Scuba Diving merit badges had been earned by 2020?', a: '24,100.'}
+-   q: What was Scuba Diving's best year in the rankings on record?
+    a: 2013, when it was 86th of the 129 merit badges earned that year.
+- {q: 'What came before the Scuba Diving merit badge?', a: N/A.}
+- {q: 'When was the earliest known Scuba Diving pamphlet printed?', a: '2009.'}

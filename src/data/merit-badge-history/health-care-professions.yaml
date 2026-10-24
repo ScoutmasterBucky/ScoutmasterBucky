@@ -1,0 +1,21 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Health Care Professions
+precededBy: Medicine
+precededByLink: medicine
+introduced: 2021
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2021
+    text: The Health Care Professions merit badge is introduced. The earliest known Health Care Professions pamphlet printing (Type 10D).
+patches:
+- {type: L, years: 2021-2025, status: missing, note: Since 1910 back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10D, status: missing}
+trivia:
+- {q: 'What came before the Health Care Professions merit badge?', a: Medicine.}
+- {q: 'When was the earliest known Health Care Professions pamphlet printed?', a: '2021.'}

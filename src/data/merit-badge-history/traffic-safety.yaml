@@ -1,0 +1,181 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Traffic Safety
+precededBy: Automotive Safety
+precededByLink: automotive-safety
+introduced: 1975
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1975
+    text: 'The Traffic Safety merit badge is introduced. The first Traffic Safety merit badges are earned: 2,425 that year. The earliest known Traffic Safety pamphlet printing (Type 8A-1).'
+- {year: 2011, text: 'All-time high: 8,665 Traffic Safety merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 49th of 129 merit badges.'}
+ranks:
+    1975: [108, 128]
+    1976: [82, 130]
+    1977: [69, 130]
+    1978: [74, 131]
+    1979: [73, 132]
+    1980: [76, 132]
+    1981: [78, 134]
+    1993: [92, 123]
+    1996: [86, 134]
+    2000: [90, 128]
+    2001: [90, 129]
+    2002: [83, 129]
+    2003: [88, 130]
+    2004: [90, 121]
+    2005: [70, 121]
+    2006: [69, 121]
+    2007: [67, 121]
+    2008: [67, 121]
+    2009: [60, 122]
+    2010: [68, 125]
+    2011: [59, 129]
+    2012: [58, 132]
+    2013: [49, 129]
+    2014: [70, 136]
+    2015: [81, 138]
+    2016: [79, 138]
+    2017: [81, 139]
+    2018: [68, 139]
+    2019: [75, 139]
+    2020: [61, 137]
+    2021: [77, 137]
+    2022: [73, 138]
+    2023: [77, 138]
+    2024: [70, 138]
+    2025: [76, 141]
+lifetimeRank: {rank: 109, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 109
+    range: [109, 110]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 194271
+    byYear:
+        1975: 2425
+        1976: 4831
+        1977: 5411
+        1978: 4385
+        1979: 3363
+        1980: 2247
+        1981: 2685
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 2351
+        1994: null
+        1995: null
+        1996: 2865
+        1997: null
+        1998: null
+        1999: null
+        2000: 2840
+        2001: 3084
+        2002: 4447
+        2003: 3937
+        2004: 4156
+        2005: 5576
+        2006: 5428
+        2007: 5817
+        2008: 6060
+        2009: 7745
+        2010: 7148
+        2011: 8665
+        2012: 7450
+        2013: 7582
+        2014: 7088
+        2015: 5604
+        2016: 6072
+        2017: 5689
+        2018: 7100
+        2019: 6477
+        2020: 5758
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1972-2002
+    note: blue, clear, and molded
+    image: /history/traffic-safety/traffic-safety-patch-h.webp
+    more:
+    - {image: /history/traffic-safety/traffic-safety-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/traffic-safety/traffic-safety-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/traffic-safety/traffic-safety-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/traffic-safety/traffic-safety-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    -   image: /history/traffic-safety/traffic-safety-patch-h2-mve1-front.webp
+        label: H variation H2-MVE1, front
+    -   image: /history/traffic-safety/traffic-safety-patch-h2-mve1-reverse.webp
+        label: H variation H2-MVE1, back
+    - {image: /history/traffic-safety/traffic-safety-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/traffic-safety/traffic-safety-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/traffic-safety/traffic-safety-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/traffic-safety/traffic-safety-patch-h5-reverse.webp, label: 'H variation H5, back'}
+-   type: I
+    years: 1993-1995
+    note: 38mm
+    image: /history/traffic-safety/traffic-safety-patch-i38.webp
+    more:
+    - {image: /history/traffic-safety/traffic-safety-patch-ib-front.webp, label: IB front}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/traffic-safety/traffic-safety-patch-j.webp
+    more:
+    - {image: /history/traffic-safety/traffic-safety-patch-j1-front.webp, label: J1 front}
+    - {image: /history/traffic-safety/traffic-safety-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/traffic-safety/traffic-safety-patch-k.webp
+    more:
+    - {image: /history/traffic-safety/traffic-safety-patch-k-front.webp, label: K front}
+    - {image: /history/traffic-safety/traffic-safety-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/traffic-safety/traffic-safety-patch-l.webp
+    more:
+    - {image: /history/traffic-safety/traffic-safety-patch-l-front.webp, label: L front}
+    - {image: /history/traffic-safety/traffic-safety-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 8A-1, image: /history/traffic-safety/traffic-safety-8a-1.webp}
+- {type: 8A-2, image: /history/traffic-safety/traffic-safety-8a-2.webp}
+- {type: 9A, image: /history/traffic-safety/traffic-safety-9a.webp}
+- {type: 9B-1, image: /history/traffic-safety/traffic-safety-9b-1.webp}
+- {type: 9B-2, image: /history/traffic-safety/traffic-safety-9b-2.webp}
+- {type: 9C, image: /history/traffic-safety/traffic-safety-9c.webp}
+- {type: 9D-1, image: /history/traffic-safety/traffic-safety-9d-1.webp}
+- {type: 9D-2, image: /history/traffic-safety/traffic-safety-9d-2.webp}
+- {type: 10A, image: /history/traffic-safety/traffic-safety-10a.webp}
+- {type: 10B, years: '2009', status: notMade, placeholder: /history/0-type/not-made-10b.webp}
+- {type: 10C, image: /history/traffic-safety/traffic-safety-10c.webp}
+- {type: 10D, image: /history/traffic-safety/traffic-safety-10d.webp}
+- {type: 11A, image: /history/traffic-safety/traffic-safety-11a.webp}
+hardcovers:
+- {type: HCT, image: /history/traffic-safety/traffic-safety-hct.webp}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Traffic Safety merit badges?
+    a: 2011, when 8,665 were earned.
+- {q: 'How many Traffic Safety merit badges had been earned by 2020?', a: '194,271.'}
+-   q: What was Traffic Safety's best year in the rankings on record?
+    a: 2013, when it was 49th of the 129 merit badges earned that year.
+- {q: 'What came before the Traffic Safety merit badge?', a: Automotive Safety.}
+- {q: 'When was the earliest known Traffic Safety pamphlet printed?', a: February 1975.}

@@ -1,0 +1,95 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Nut Culture
+precededBy: None
+introduced: 1928
+discontinued: '1954'
+replacedWith: None
+timeline:
+-   year: 1928
+    text: 'The Nut Culture merit badge is introduced. The first Nut Culture merit badges are earned: 18 that year.'
+- {year: 1929, text: The earliest known Nut Culture pamphlet printing (Type 3B).}
+-   year: 1938
+    text: 'All-time high: 649 Nut Culture merit badges earned. Best ranking: 82nd of 105 merit badges.'
+- {year: 1954, text: Last year the Nut Culture merit badge is offered.}
+ranks:
+    1928: [88, 88]
+    1929: [89, 89]
+    1930: [91, 92]
+    1931: [89, 96]
+    1932: [98, 98]
+    1933: [98, 101]
+    1934: [101, 101]
+    1935: [101, 101]
+    1936: [101, 101]
+    1937: [101, 102]
+    1938: [82, 105]
+    1939: [106, 106]
+    1940: [106, 106]
+    1941: [106, 106]
+    1942: [110, 110]
+    1943: [112, 112]
+    1944: [111, 111]
+    1945: [111, 111]
+    1946: [111, 111]
+    1947: [111, 111]
+    1948: [111, 111]
+    1949: [111, 111]
+    1950: [111, 111]
+    1951: [111, 111]
+    1952: [118, 120]
+    1953: [104, 105]
+    1954: [103, 103]
+lifetimeRank: {rank: 220, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 222
+    range: [222, 222]
+    asOf: 2025
+earned:
+    totalThrough: 1954
+    total: 3613
+    byYear:
+        1928: 18
+        1929: 42
+        1930: 160
+        1931: 405
+        1932: 84
+        1933: 166
+        1934: 78
+        1935: 129
+        1936: 77
+        1937: 150
+        1938: 649
+        1939: 126
+        1940: 121
+        1941: 81
+        1942: 73
+        1943: 47
+        1944: 126
+        1945: 104
+        1946: 81
+        1947: 32
+        1948: 85
+        1949: 98
+        1950: 76
+        1951: 106
+        1952: 208
+        1953: 166
+        1954: 125
+patches:
+- {type: A, years: 1928-1933, image: /history/nut-culture/nut-culture-patch-a.webp}
+- {type: B, years: 1934-1935, status: missing}
+- {type: C, years: 1936-1942, status: missing}
+- {type: D, years: 1942-1946, image: /history/nut-culture/nut-culture-patch-d.webp}
+- {type: E, years: 1947-1954, image: /history/nut-culture/nut-culture-patch-e.webp}
+pamphlets:
+- {type: 3B, status: missing}
+- {type: 5B, status: missing}
+trivia:
+- {q: 'In what year did Scouts earn the most Nut Culture merit badges?', a: '1938, when 649 were earned.'}
+- {q: 'How many Nut Culture merit badges had been earned by 1954?', a: '3,613.'}
+-   q: What was Nut Culture's best year in the rankings on record?
+    a: 1938, when it was 82nd of the 105 merit badges earned that year.
+- {q: 'When was the earliest known Nut Culture pamphlet printed?', a: '1929.'}

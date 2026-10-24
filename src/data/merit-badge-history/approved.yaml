@@ -1,0 +1,28 @@
+# What Bucky has approved for the public merit badge history pages.
+#
+# Every badge on the history list has a public page at /history/<slug>/ that
+# always shows the counts: the number earned each year and the yearly rankings.
+#
+# Everything else waits for approval, badge by badge and section by section:
+#   facts         introduced, preceded by, status and replaced with
+#   story         the story paragraphs
+#   requirements  the earliest (1911) requirements
+#   timeline    the timeline
+#   trivia      the trivia questions
+#   patches     the merit badge patches
+#   pamphlets   the pamphlet covers and printings
+#   hardcovers  the hard covers
+#
+# Approve a whole page with `all`, or list the sections:
+#   archery: all
+#   camping: [facts, patches]
+# Approved patches, pamphlets and hard covers also appear on the public type pages.
+approved:
+    aerodynamics: all
+    aeronautics: all
+    agribusiness: all
+    agriculture: all
+    airplane-design: all
+    airplane-structure: all
+    american-business: all
+    american-cultures: all

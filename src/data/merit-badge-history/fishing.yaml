@@ -1,0 +1,234 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Fishing
+precededBy: Angling
+precededByLink: angling
+introduced: 1952
+discontinued: Current
+replacedWith: Current
+timeline:
+- {year: 1950, text: The earliest known Fishing pamphlet printing (Type 5B).}
+-   year: 1952
+    text: 'The Fishing merit badge is introduced. The first Fishing merit badges are earned: 7,134 that year.'
+- {year: 1974, text: 'Best ranking: 11th of 121 merit badges.'}
+- {year: 1975, text: 'All-time high: 58,511 Fishing merit badges earned.'}
+ranks:
+    1952: [34, 120]
+    1953: [35, 105]
+    1954: [17, 103]
+    1955: [16, 100]
+    1956: [17, 100]
+    1957: [17, 100]
+    1958: [17, 101]
+    1959: [17, 101]
+    1960: [17, 100]
+    1961: [17, 101]
+    1962: [19, 101]
+    1963: [20, 102]
+    1964: [20, 107]
+    1965: [20, 109]
+    1966: [20, 110]
+    1967: [20, 112]
+    1968: [19, 112]
+    1969: [17, 113]
+    1970: [17, 113]
+    1971: [15, 113]
+    1972: [14, 124]
+    1973: [16, 122]
+    1974: [11, 121]
+    1975: [11, 128]
+    1976: [12, 130]
+    1977: [16, 130]
+    1978: [16, 131]
+    1979: [18, 132]
+    1980: [20, 132]
+    1981: [20, 134]
+    1993: [24, 123]
+    1996: [23, 134]
+    2000: [23, 128]
+    2001: [23, 129]
+    2002: [25, 129]
+    2003: [26, 130]
+    2004: [25, 121]
+    2005: [25, 121]
+    2006: [25, 121]
+    2007: [25, 121]
+    2008: [25, 121]
+    2009: [23, 122]
+    2010: [20, 125]
+    2011: [19, 129]
+    2012: [18, 132]
+    2013: [15, 129]
+    2014: [22, 136]
+    2015: [23, 138]
+    2016: [23, 138]
+    2017: [23, 139]
+    2018: [23, 139]
+    2019: [22, 139]
+    2020: [17, 137]
+    2021: [20, 137]
+    2022: [24, 138]
+    2023: [23, 138]
+    2024: [23, 138]
+    2025: [22, 141]
+lifetimeRank: {rank: 20, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 21
+    range: [21, 22]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 2126476
+    byYear:
+        1952: 7134
+        1953: 5934
+        1954: 23777
+        1955: 26557
+        1956: 26804
+        1957: 27701
+        1958: 28913
+        1959: 30522
+        1960: 34766
+        1961: 35888
+        1962: 33686
+        1963: 33433
+        1964: 31824
+        1965: 29616
+        1966: 28688
+        1967: 32807
+        1968: 33161
+        1969: 36616
+        1970: 37185
+        1971: 36189
+        1972: 37080
+        1973: 37301
+        1974: 56780
+        1975: 58511
+        1976: 50146
+        1977: 40227
+        1978: 36043
+        1979: 30691
+        1980: 20556
+        1981: 30319
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 29726
+        1994: null
+        1995: null
+        1996: 32541
+        1997: null
+        1998: null
+        1999: null
+        2000: 32822
+        2001: 31123
+        2002: 31625
+        2003: 30325
+        2004: 30497
+        2005: 27203
+        2006: 26496
+        2007: 26769
+        2008: 26014
+        2009: 28692
+        2010: 29806
+        2011: 32048
+        2012: 31932
+        2013: 29788
+        2014: 28119
+        2015: 26050
+        2016: 25256
+        2017: 24343
+        2018: 24688
+        2019: 23589
+        2020: 13601
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: E, years: 1952-1960, image: /history/fishing/fishing-patch-e.webp}
+- {type: F, years: 1961-1968, image: /history/fishing/fishing-patch-f.webp}
+- {type: G, years: 1961-1971, image: /history/fishing/fishing-patch-g.webp}
+-   type: H
+    years: 1972-2002
+    image: /history/fishing/fishing-patch-h.webp
+    more:
+    - {image: /history/fishing/fishing-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/fishing/fishing-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/fishing/fishing-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/fishing/fishing-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/fishing/fishing-patch-h2-mve1-front.webp, label: 'H variation H2-MVE1, front'}
+    - {image: /history/fishing/fishing-patch-h2-mve1-reverse.webp, label: 'H variation H2-MVE1, back'}
+    - {image: /history/fishing/fishing-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/fishing/fishing-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/fishing/fishing-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/fishing/fishing-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, years: 1993-1995, status: unknown}
+-   type: J
+    years: 2002-2009
+    image: /history/fishing/fishing-patch-j.webp
+    more:
+    - {image: /history/fishing/fishing-patch-j1-front.webp, label: J1 front}
+    - {image: /history/fishing/fishing-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    image: /history/fishing/fishing-patch-k.webp
+    more:
+    - {image: /history/fishing/fishing-patch-k-front.webp, label: K front}
+    - {image: /history/fishing/fishing-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    image: /history/fishing/fishing-patch-l.webp
+    more:
+    - {image: /history/fishing/fishing-patch-l-front.webp, label: L front}
+    - {image: /history/fishing/fishing-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 5B, image: /history/fishing/fishing-5b.webp}
+- {type: '6', image: /history/fishing/fishing-6.webp}
+- {type: 7A-1, image: /history/fishing/fishing-7a-1.webp}
+- {type: 7A-2, image: /history/fishing/fishing-7a-2.webp}
+- {type: 8A, image: /history/fishing/fishing-8a.webp}
+- {type: 8B, image: /history/fishing/fishing-8b.webp}
+- {type: 9A, image: /history/fishing/fishing-9a.webp}
+- {type: 9B-1, image: /history/fishing/fishing-9b-1.webp}
+- {type: 9B-2, image: /history/fishing/fishing-9b-2.webp}
+- {type: 9C-1, image: /history/fishing/fishing-9c-1.webp}
+- {type: 9C-2, image: /history/fishing/fishing-9c-2.webp}
+- {type: 10A, image: /history/fishing/fishing-10a.webp}
+- {type: 10B, image: /history/fishing/fishing-10b.webp}
+- {type: 10C-1, image: /history/fishing/fishing-10c-1.webp}
+- {type: 10C-2, image: /history/fishing/fishing-10c-2.webp}
+- {type: 10D-1, image: /history/fishing/fishing-10d-1.webp}
+- {type: 10D-2, image: /history/fishing/fishing-10d-2.webp}
+- {type: 11A, status: missing}
+- {type: SPECIAL, status: missing}
+hardcovers:
+- {type: HCI, image: /history/fishing/fishing-hci.webp}
+- {type: HCJ, image: /history/fishing/fishing-hcj.webp}
+- {type: HCK, image: /history/fishing/fishing-hck.webp}
+- {type: HCL, image: /history/fishing/fishing-hcl.webp}
+- {type: HCP, image: /history/fishing/fishing-hcp.webp}
+- {type: HCT, image: /history/fishing/fishing-hct.webp}
+- {type: HCU, image: /history/fishing/fishing-hcu.webp}
+trivia:
+-   q: Was the Fishing badge made in every patch style of its time?
+    a: No. No Type I Fishing badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Fishing merit badges?
+    a: 1975, when 58,511 were earned.
+- {q: 'How many Fishing merit badges had been earned by 2020?', a: '2,126,476.'}
+-   q: What was Fishing's best year in the rankings on record?
+    a: 1974, when it was 11th of the 121 merit badges earned that year.
+- {q: 'What came before the Fishing merit badge?', a: Angling.}
+- {q: 'When was the earliest known Fishing pamphlet printed?', a: November 1950.}

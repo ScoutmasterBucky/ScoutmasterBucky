@@ -1,0 +1,203 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Skiing
+precededBy: None
+introduced: 1938
+discontinued: '1999'
+replacedWith: Snow Sports
+timeline:
+-   year: 1938
+    text: 'The Skiing merit badge is introduced. The first Skiing merit badges are earned: 128 that year. The earliest known Skiing pamphlet printing (Type 3D).'
+- {year: 1993, text: 'Best ranking: 44th of 123 merit badges.'}
+- {year: 1996, text: 'All-time high: 12,798 Skiing merit badges earned.'}
+- {year: 1999, text: Last year the Skiing merit badge is offered; it is replaced by Snow Sports.}
+ranks:
+    1938: [104, 105]
+    1939: [90, 106]
+    1940: [99, 106]
+    1941: [101, 106]
+    1942: [99, 110]
+    1943: [107, 112]
+    1944: [109, 111]
+    1945: [107, 111]
+    1946: [108, 111]
+    1947: [105, 111]
+    1948: [104, 111]
+    1949: [107, 111]
+    1950: [107, 111]
+    1951: [107, 111]
+    1952: [110, 120]
+    1953: [97, 105]
+    1954: [98, 103]
+    1955: [92, 100]
+    1956: [92, 100]
+    1957: [92, 100]
+    1958: [91, 101]
+    1959: [95, 101]
+    1960: [90, 100]
+    1961: [92, 101]
+    1962: [91, 101]
+    1963: [85, 102]
+    1964: [70, 107]
+    1965: [81, 109]
+    1966: [80, 110]
+    1967: [78, 112]
+    1968: [75, 112]
+    1969: [67, 113]
+    1970: [64, 113]
+    1971: [62, 113]
+    1972: [75, 124]
+    1973: [75, 122]
+    1974: [77, 121]
+    1975: [77, 128]
+    1976: [77, 130]
+    1977: [79, 130]
+    1978: [69, 131]
+    1979: [64, 132]
+    1980: [60, 132]
+    1981: [64, 134]
+    1993: [44, 123]
+    1996: [46, 134]
+    2000: [122, 128]
+    2001: [121, 129]
+    2002: [122, 129]
+    2003: [97, 130]
+    2004: [75, 121]
+    2005: [89, 121]
+    2006: [90, 121]
+lifetimeRank: {rank: 89, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 94
+    range: [94, 94]
+    asOf: 2025
+earned:
+    totalThrough: 2006
+    total: 276831
+    byYear:
+        1938: 128
+        1939: 538
+        1940: 258
+        1941: 239
+        1942: 267
+        1943: 155
+        1944: 193
+        1945: 250
+        1946: 189
+        1947: 204
+        1948: 259
+        1949: 213
+        1950: 238
+        1951: 348
+        1952: 466
+        1953: 410
+        1954: 438
+        1955: 767
+        1956: 874
+        1957: 837
+        1958: 904
+        1959: 838
+        1960: 1340
+        1961: 1293
+        1962: 1439
+        1963: 1761
+        1964: 2719
+        1965: 1842
+        1966: 1971
+        1967: 2513
+        1968: 2815
+        1969: 3672
+        1970: 3999
+        1971: 4031
+        1972: 3769
+        1973: 4240
+        1974: 5261
+        1975: 6004
+        1976: 5316
+        1977: 4241
+        1978: 5409
+        1979: 4771
+        1980: 3742
+        1981: 4638
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 12623
+        1994: null
+        1995: null
+        1996: 12798
+        1997: null
+        1998: null
+        1999: null
+        2000: 244
+        2001: 159
+        2002: 146
+        2003: 3115
+        2004: 5289
+        2005: 3841
+        2006: 3564
+patches:
+- {type: C, years: 1938-1942, note: lightweight cloth, status: missing}
+-   type: D
+    years: 1942-1946
+    note: fine twill cloth
+    image: /history/skiing/skiing-patch-d.webp
+- {type: E, years: 1947-1960, image: /history/skiing/skiing-patch-e.webp}
+- {type: F, status: notMade}
+- {type: G, years: 1961-1971, note: cloth back, image: /history/skiing/skiing-patch-g.webp}
+-   type: H
+    years: 1972-1975
+    note: blue back
+    image: /history/skiing/skiing-patch-h1.webp
+    more:
+    - {image: /history/skiing/skiing-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/skiing/skiing-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/skiing/skiing-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/skiing/skiing-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/skiing/skiing-patch-h2-mve1-front.webp, label: 'H variation H2-MVE1, front'}
+    - {image: /history/skiing/skiing-patch-h2-mve1-reverse.webp, label: 'H variation H2-MVE1, back'}
+    - {image: /history/skiing/skiing-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/skiing/skiing-patch-h3-reverse.webp, label: 'H variation H3, back'}
+-   type: H
+    years: 1972-1999
+    note: clear and molded
+    image: /history/skiing/skiing-patch-h2.webp
+- {type: I, years: 1993-1995, status: unknown}
+pamphlets:
+- {type: 3D, image: /history/skiing/skiing-3d.webp}
+- {type: '4', image: /history/skiing/skiing-4.webp}
+- {type: 5A, status: missing}
+- {type: 5B, status: missing}
+- {type: 6A, status: missing}
+- {type: 6B, status: missing}
+- {type: '7', status: missing}
+- {type: '8', status: missing}
+- {type: '9', status: missing}
+- {type: 9A, status: missing}
+- {type: 9B, status: missing}
+hardcovers:
+- {type: HCJ, image: /history/skiing/skiing-hcj.webp}
+- {type: HCK, image: /history/skiing/skiing-hck.webp}
+- {type: HCL, image: /history/skiing/skiing-hcl.webp}
+- {type: HCP, image: /history/skiing/skiing-hcp.webp}
+- {type: HCS, image: /history/skiing/skiing-hcs.webp}
+- {type: HCT, image: /history/skiing/skiing-hct.webp}
+trivia:
+-   q: Was the Skiing badge made in every patch style of its time?
+    a: No. No Type F or I Skiing badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Skiing merit badges?
+    a: 1996, when 12,798 were earned.
+- {q: 'How many Skiing merit badges had been earned by 2006?', a: '276,831.'}
+-   q: What was Skiing's best year in the rankings on record?
+    a: 1993, when it was 44th of the 123 merit badges earned that year.
+- {q: 'What replaced Skiing after 1999?', a: Snow Sports.}
+- {q: 'When was the earliest known Skiing pamphlet printed?', a: August 1938.}

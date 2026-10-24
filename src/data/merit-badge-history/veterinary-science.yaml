@@ -1,0 +1,23 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Veterinary Science
+precededBy: First Aid to Animals Became Veterinary Medicine
+introduced: 1973
+discontinued: '1995'
+replacedWith: Veterinary Medicine
+timeline:
+- {year: 1973, text: The Veterinary Science merit badge is introduced.}
+-   year: 1995
+    text: Last year the Veterinary Science merit badge is offered; it is replaced by Veterinary Medicine.
+patches:
+- {type: H, years: 1973-1995, image: /history/veterinary-science/veterinary-science-patch-h.webp}
+- {type: I, years: 1993-1995, status: unknown}
+pamphlets: []
+trivia:
+-   q: Was the Veterinary Science badge made in every patch style of its time?
+    a: No. No Type I Veterinary Science badge is known to exist.
+-   q: What came before the Veterinary Science merit badge?
+    a: First Aid to Animals Became Veterinary Medicine.
+- {q: 'What replaced Veterinary Science after 1995?', a: Veterinary Medicine.}

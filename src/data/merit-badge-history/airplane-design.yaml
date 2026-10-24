@@ -1,0 +1,92 @@
+# Airplane Design merit badge history. Approved by Bucky on 2026-10-23; the
+# generator no longer overwrites this file (its printings still come from the
+# workbook). Story text is Bucky's own from his earlier page; research sources
+# are in history-tools/research/airplane-design.yaml.
+
+name: Airplane Design
+precededBy: Aviation
+precededByLink: aviation
+introduced: 1942
+discontinued: '1952'
+replacedWith: Aviation
+story: ['The "Air Scouts" program, established in 1941, never really caught on, most likely because of the strict activity restrictions placed on the program, it struggled to compete against the more popular
+        and allowing Civil Air Patrol program. Of the four Aviation-themed subjects during this time, the Airplane Design title had the least amount earned in comparison to each of the other three.']
+timeline:
+-   year: 1942
+    text: 'The Airplane Design merit badge is introduced. The first Airplane Design merit badges are earned: 108 that year. The earliest known Airplane Design pamphlet printing (Type 4BL).'
+- {year: 1943, text: 'Best ranking: 85th of 112 merit badges.'}
+- {year: 1944, text: 'All-time high: 760 Airplane Design merit badges earned.'}
+- {year: 1952, text: Last year the Airplane Design merit badge is offered; it is replaced by Aviation.}
+ranks:
+    1942: [109, 110]
+    1943: [85, 112]
+    1944: [87, 111]
+    1945: [88, 111]
+    1946: [89, 111]
+    1947: [95, 111]
+    1948: [95, 111]
+    1949: [94, 111]
+    1950: [90, 111]
+    1951: [94, 111]
+    1952: [106, 120]
+lifetimeRank: {rank: 218, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 220
+    range: [220, 220]
+    asOf: 2025
+earned:
+    totalThrough: 1952
+    total: 5938
+    byYear:
+        1942: 108
+        1943: 641
+        1944: 760
+        1945: 665
+        1946: 610
+        1947: 463
+        1948: 405
+        1949: 464
+        1950: 603
+        1951: 663
+        1952: 556
+patches:
+-   type: C
+    years: 1942-1946
+    image: /history/airplane-design/airplane-design-patch-c.webp
+    more:
+    - {image: /history/airplane-design/airplane-design-patch-c-front.webp, label: C front}
+    - {image: /history/airplane-design/airplane-design-patch-c-reverse.webp, label: C back}
+- {type: D, status: unknown}
+-   type: E
+    years: 1947-1952
+    image: /history/airplane-design/airplane-design-patch-e.webp
+    more:
+    - {image: /history/airplane-design/airplane-design-patch-e-reverse.webp, label: E back}
+pamphlets:
+- {type: 4BL, image: /history/airplane-design/airplane-design-4bl.webp}
+- {type: 5B, image: /history/airplane-design/airplane-design-5b.webp}
+trivia:
+-   q: Which of the four Air Scout merit badges was earned the least?
+    a: Airplane Design, with 5,938 in all, fewer than Aerodynamics, Aeronautics or Airplane Structure.
+-   q: Who was the 1942 Airplane Design pamphlet written for?
+    a: Experienced model builders who were ready to try designs of their own.
+-   q: Which Air Scout rank called for the Airplane Design merit badge?
+    a: Craftsman, the third of the four Air Scout ranks (Apprentice, Observer, Craftsman and Ace), in the 1943 Air Scout Manual.
+-   q: How many planes had to be in the model competition for Airplane Design?
+    a: At least four, and the Scout then measured and compared them.
+-   q: Was the Airplane Design badge made in every patch style of its time?
+    a: No. Like the other Air Scout badges, it kept its blue Type C design through 1946, and no Type D Airplane Design badge is known to exist.
+thenAndNow:
+    year: 1948
+    source: Handbook for Boys (1948), summarized
+    requirements:
+    - Using rough diagrams or photos, point out how full-size planes are designed differently for five quite different jobs, such as training, airline transport, seaplanes, flying boats and fighters.
+    - Measure the outlines of five modern planes and record how much they vary in the ratio of wingspan to wing width (aspect ratio), and in wing area compared with tail area.
+    - With rough sketches, show how the curve of a wing (camber) differs for high lift and for high speed, and why.
+    - Find the approximate center of gravity of a flying model and explain why a low center of gravity helps stability, and tell what a balanced model would do in flight if longer, heavier wings were put
+        on at the same points.
+    - With rough sketches, show why dihedral, swept-back wings and high wings help make a model stable.
+    - Build, test and report on two flying models of about the same size but very different design, using the same motor and propeller. A Scout could build one and compare it with a friend's.
+    - Make rough scale drawings of the two test models and point out how their designs differ.
+    - Fly one or more of your own models in a competition of at least four planes.
+    - Measure four of the competition models and give the counselor their flight records, wing shapes and design ratios, such as wingspan to wing width, wingspan to propeller size and wing loading.

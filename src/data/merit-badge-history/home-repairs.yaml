@@ -1,0 +1,256 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Home Repairs
+precededBy: Handicraft
+precededByLink: handicraft
+introduced: 1943
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1943
+    text: The Home Repairs merit badge is introduced. The earliest known Home Repairs pamphlet printing (Type 4).
+- {year: 1945, text: 'First known count: 43,618 Home Repairs merit badges earned.'}
+- {year: 1946, text: 'Best ranking: 1st of 111 merit badges.'}
+- {year: 1960, text: 'All-time high: 87,101 Home Repairs merit badges earned.'}
+ranks:
+    1945: [2, 111]
+    1946: [1, 111]
+    1947: [1, 111]
+    1948: [1, 111]
+    1949: [1, 111]
+    1950: [1, 111]
+    1951: [1, 111]
+    1952: [1, 120]
+    1953: [1, 105]
+    1954: [1, 103]
+    1955: [1, 100]
+    1956: [1, 100]
+    1957: [1, 100]
+    1958: [2, 101]
+    1959: [4, 101]
+    1960: [4, 100]
+    1961: [4, 101]
+    1962: [6, 101]
+    1963: [6, 102]
+    1964: [6, 107]
+    1965: [6, 109]
+    1966: [8, 110]
+    1967: [7, 112]
+    1968: [9, 112]
+    1969: [10, 113]
+    1970: [10, 113]
+    1971: [10, 113]
+    1972: [10, 124]
+    1973: [11, 122]
+    1974: [5, 121]
+    1975: [5, 128]
+    1976: [7, 130]
+    1977: [12, 130]
+    1978: [14, 131]
+    1979: [22, 132]
+    1980: [22, 132]
+    1981: [26, 134]
+    1993: [49, 123]
+    1996: [52, 134]
+    2000: [63, 128]
+    2001: [60, 129]
+    2002: [62, 129]
+    2003: [64, 130]
+    2004: [68, 121]
+    2005: [83, 121]
+    2006: [82, 121]
+    2007: [84, 121]
+    2008: [86, 121]
+    2009: [85, 122]
+    2010: [87, 125]
+    2011: [87, 129]
+    2012: [77, 132]
+    2013: [71, 129]
+    2014: [100, 136]
+    2015: [110, 138]
+    2016: [106, 138]
+    2017: [103, 139]
+    2018: [102, 139]
+    2019: [106, 139]
+    2020: [93, 137]
+    2021: [109, 137]
+    2022: [107, 138]
+    2023: [114, 138]
+    2024: [112, 138]
+    2025: [111, 141]
+lifetimeRank: {rank: 18, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 19
+    range: [19, 19]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 2435429
+    byYear:
+        1943: null
+        1944: null
+        1945: 43618
+        1946: 38167
+        1947: 36293
+        1948: 36576
+        1949: 44637
+        1950: 54297
+        1951: 57718
+        1952: 59310
+        1953: 57691
+        1954: 68589
+        1955: 74115
+        1956: 73415
+        1957: 71263
+        1958: 73598
+        1959: 77710
+        1960: 87101
+        1961: 78960
+        1962: 71549
+        1963: 67720
+        1964: 62980
+        1965: 58662
+        1966: 53208
+        1967: 56803
+        1968: 54739
+        1969: 55222
+        1970: 53763
+        1971: 50856
+        1972: 48478
+        1973: 46192
+        1974: 78525
+        1975: 74307
+        1976: 62073
+        1977: 47279
+        1978: 37095
+        1979: 26298
+        1980: 15725
+        1981: 21272
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 10788
+        1994: null
+        1995: null
+        1996: 8432
+        1997: null
+        1998: null
+        1999: null
+        2000: 6898
+        2001: 6497
+        2002: 7364
+        2003: 6579
+        2004: 5865
+        2005: 4536
+        2006: 4659
+        2007: 4292
+        2008: 4325
+        2009: 5165
+        2010: 4572
+        2011: 4324
+        2012: 4413
+        2013: 3790
+        2014: 3866
+        2015: 3288
+        2016: 3325
+        2017: 3432
+        2018: 3579
+        2019: 3193
+        2020: 3442
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: C, image: /history/home-repairs/home-repairs-patch-c.webp}
+- {type: D, years: 1943-1946, image: /history/home-repairs/home-repairs-patch-d.webp}
+- {type: E, years: 1947-1960, image: /history/home-repairs/home-repairs-patch-e.webp}
+- {type: F, years: 1961-1968, image: /history/home-repairs/home-repairs-patch-f.webp}
+- {type: G, years: 1961-1971, image: /history/home-repairs/home-repairs-patch-g.webp}
+-   type: H
+    years: 1972-2002
+    image: /history/home-repairs/home-repairs-patch-h.webp
+    more:
+    - {image: /history/home-repairs/home-repairs-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/home-repairs/home-repairs-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/home-repairs/home-repairs-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/home-repairs/home-repairs-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    -   image: /history/home-repairs/home-repairs-patch-h2-mve1-front.webp
+        label: H variation H2-MVE1, front
+    -   image: /history/home-repairs/home-repairs-patch-h2-mve1-reverse.webp
+        label: H variation H2-MVE1, back
+    - {image: /history/home-repairs/home-repairs-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/home-repairs/home-repairs-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/home-repairs/home-repairs-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/home-repairs/home-repairs-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, years: 1993-1995, status: unknown}
+- {type: J, years: 2002-2009, image: /history/home-repairs/home-repairs-patch-j.webp}
+-   type: K
+    years: 2010-2014
+    image: /history/home-repairs/home-repairs-patch-k.webp
+    more:
+    - {image: /history/home-repairs/home-repairs-patch-k-front.webp, label: K front}
+    - {image: /history/home-repairs/home-repairs-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    image: /history/home-repairs/home-repairs-patch-l.webp
+    more:
+    - {image: /history/home-repairs/home-repairs-patch-l-front.webp, label: L front}
+    - {image: /history/home-repairs/home-repairs-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '4', image: /history/home-repairs/home-repairs-4.webp}
+- {type: 4R, image: /history/home-repairs/home-repairs-4r.webp}
+- {type: 5A, image: /history/home-repairs/home-repairs-5a.webp}
+- {type: 5B-1, image: /history/home-repairs/home-repairs-5b-1.webp}
+- {type: 5B-2, image: /history/home-repairs/home-repairs-5b-2.webp}
+- {type: 6A-1, status: missing}
+- {type: 6A-2, image: /history/home-repairs/home-repairs-6a-2.webp}
+- {type: 6B, image: /history/home-repairs/home-repairs-6b.webp}
+- {type: 7A, image: /history/home-repairs/home-repairs-7a.webp}
+- {type: 7B, image: /history/home-repairs/home-repairs-7b.webp}
+- {type: '8', image: /history/home-repairs/home-repairs-8.webp}
+- {type: 8A-1, image: /history/home-repairs/home-repairs-8a-1.webp}
+- {type: 8A-2, image: /history/home-repairs/home-repairs-8a-2.webp}
+- {type: 9A, image: /history/home-repairs/home-repairs-9a.webp}
+- {type: 9B, image: /history/home-repairs/home-repairs-9b.webp}
+- {type: 9C, image: /history/home-repairs/home-repairs-9c.webp}
+- {type: 10A, image: /history/home-repairs/home-repairs-10a.webp}
+- {type: 10B, image: /history/home-repairs/home-repairs-10b.webp}
+- {type: 10C-1, image: /history/home-repairs/home-repairs-10c-1.webp}
+- {type: 10C-2, image: /history/home-repairs/home-repairs-10c-2.webp}
+- {type: 10D, image: /history/home-repairs/home-repairs-10d.webp}
+- {type: 11A, status: missing}
+hardcovers:
+- {type: HCF, image: /history/home-repairs/home-repairs-hcf.webp}
+- {type: HCH, image: /history/home-repairs/home-repairs-hch.webp}
+- {type: HCI, image: /history/home-repairs/home-repairs-hci.webp}
+- {type: HCJ, image: /history/home-repairs/home-repairs-hcj.webp}
+- {type: HCK, image: /history/home-repairs/home-repairs-hck.webp}
+- {type: HCL, image: /history/home-repairs/home-repairs-hcl.webp}
+- {type: HCM, image: /history/home-repairs/home-repairs-hcm.webp}
+- {type: HCN, image: /history/home-repairs/home-repairs-hcn.webp}
+- {type: HCP, image: /history/home-repairs/home-repairs-hcp.webp}
+- {type: HCS, image: /history/home-repairs/home-repairs-hcs.webp}
+- {type: HCT, image: /history/home-repairs/home-repairs-hct.webp}
+trivia:
+-   q: Was the Home Repairs badge made in every patch style of its time?
+    a: No. No Type I Home Repairs badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Home Repairs merit badges?
+    a: 1960, when 87,101 were earned.
+- {q: 'How many Home Repairs merit badges had been earned by 2020?', a: '2,435,429.'}
+-   q: What was Home Repairs' best year in the rankings on record?
+    a: 1946, when it was 1st of the 111 merit badges earned that year.
+- {q: 'What came before the Home Repairs merit badge?', a: Handicraft.}
+- {q: 'When was the earliest known Home Repairs pamphlet printed?', a: October 1943.}

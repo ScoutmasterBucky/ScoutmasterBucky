@@ -1,0 +1,119 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Mammal Study
+precededBy: Mammals
+precededByLink: mammals
+introduced: 1987
+discontinued: Current
+replacedWith: Current
+timeline:
+- {year: 1986, text: The earliest known Mammal Study pamphlet printing (Type 9A).}
+- {year: 1987, text: The Mammal Study merit badge is introduced.}
+-   year: 1993
+    text: 'First known count: 34,147 Mammal Study merit badges earned. All-time high: 34,147 Mammal Study merit badges earned.'
+- {year: 2013, text: 'Best ranking: 19th of 129 merit badges.'}
+ranks:
+    1993: [21, 123]
+    1996: [24, 134]
+    2000: [24, 128]
+    2001: [25, 129]
+    2002: [26, 129]
+    2003: [24, 130]
+    2004: [24, 121]
+    2005: [22, 121]
+    2006: [23, 121]
+    2007: [21, 121]
+    2008: [20, 121]
+    2009: [21, 122]
+    2010: [21, 125]
+    2011: [20, 129]
+    2012: [21, 132]
+    2013: [19, 129]
+    2014: [26, 136]
+    2015: [26, 138]
+    2016: [26, 138]
+    2017: [28, 139]
+    2018: [29, 139]
+    2019: [28, 139]
+    2020: [35, 137]
+earned:
+    totalThrough: 2020
+    total: 613316
+    totalKnownOnly: true
+    byYear:
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 34147
+        1994: null
+        1995: null
+        1996: 31170
+        1997: null
+        1998: null
+        1999: null
+        2000: 31800
+        2001: 29258
+        2002: 30544
+        2003: 32085
+        2004: 31602
+        2005: 29935
+        2006: 29729
+        2007: 28888
+        2008: 29653
+        2009: 31245
+        2010: 28728
+        2011: 31028
+        2012: 28309
+        2013: 24064
+        2014: 24060
+        2015: 23427
+        2016: 21303
+        2017: 18715
+        2018: 17982
+        2019: 17799
+        2020: 7845
+patches:
+-   type: H
+    years: 1987-2002
+    status: missing
+    more:
+    - {image: /history/mammal-study/mammal-study-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/mammal-study/mammal-study-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, years: 1993-1995, status: unknown}
+- {type: J, years: 2002-2009, image: /history/mammal-study/mammal-study-patch-j.webp}
+-   type: K
+    years: 2010-2014
+    image: /history/mammal-study/mammal-study-patch-k.webp
+    more:
+    - {image: /history/mammal-study/mammal-study-patch-k-front.webp, label: K front}
+    - {image: /history/mammal-study/mammal-study-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    image: /history/mammal-study/mammal-study-patch-l.webp
+    more:
+    - {image: /history/mammal-study/mammal-study-patch-l-front.webp, label: L front}
+    - {image: /history/mammal-study/mammal-study-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '9', status: missing}
+- {type: 9A, status: missing}
+- {type: 9B-1, status: missing}
+- {type: 9B-2, status: missing}
+- {type: 10A, status: missing}
+- {type: 10B, status: missing}
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+trivia:
+-   q: Was the Mammal Study badge made in every patch style of its time?
+    a: No. No Type I Mammal Study badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Mammal Study merit badges?
+    a: 1993, when 34,147 were earned.
+-   q: What was Mammal Study's best year in the rankings on record?
+    a: 2013, when it was 19th of the 129 merit badges earned that year.
+- {q: 'What came before the Mammal Study merit badge?', a: Mammals.}
+- {q: 'When was the earliest known Mammal Study pamphlet printed?', a: October 1986.}

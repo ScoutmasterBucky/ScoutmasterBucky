@@ -1,0 +1,119 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Mechanical Drawing
+precededBy: None
+introduced: 1933
+discontinued: '1964'
+replacedWith: Drafting
+timeline:
+-   year: 1933
+    text: 'The Mechanical Drawing merit badge is introduced. The first Mechanical Drawing merit badges are earned: 619 that year.'
+- {year: 1934, text: The earliest known Mechanical Drawing pamphlet printing (Type 3).}
+- {year: 1943, text: 'Best ranking: 31st of 112 merit badges.'}
+-   year: 1964
+    text: 'All-time high: 10,990 Mechanical Drawing merit badges earned. Last year the Mechanical Drawing merit badge is offered; it is replaced by Drafting.'
+ranks:
+    1933: [83, 101]
+    1934: [55, 101]
+    1935: [51, 101]
+    1936: [47, 101]
+    1937: [44, 102]
+    1938: [37, 105]
+    1939: [36, 106]
+    1940: [33, 106]
+    1941: [33, 106]
+    1942: [32, 110]
+    1943: [31, 112]
+    1944: [31, 111]
+    1945: [32, 111]
+    1946: [32, 111]
+    1947: [33, 111]
+    1948: [35, 111]
+    1949: [35, 111]
+    1950: [36, 111]
+    1951: [37, 111]
+    1952: [41, 120]
+    1953: [42, 105]
+    1954: [44, 103]
+    1955: [41, 100]
+    1956: [42, 100]
+    1957: [42, 100]
+    1958: [40, 101]
+    1959: [42, 101]
+    1960: [42, 100]
+    1961: [41, 101]
+    1962: [41, 101]
+    1963: [41, 102]
+    1964: [39, 107]
+lifetimeRank: {rank: 117, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 122
+    range: [122, 123]
+    asOf: 2025
+earned:
+    totalThrough: 1964
+    total: 174497
+    byYear:
+        1933: 619
+        1934: 1930
+        1935: 2717
+        1936: 2458
+        1937: 2824
+        1938: 3906
+        1939: 4194
+        1940: 4445
+        1941: 4204
+        1942: 4018
+        1943: 4943
+        1944: 6073
+        1945: 5779
+        1946: 4780
+        1947: 4244
+        1948: 3993
+        1949: 4190
+        1950: 5217
+        1951: 5440
+        1952: 5584
+        1953: 4993
+        1954: 5642
+        1955: 6059
+        1956: 6500
+        1957: 6786
+        1958: 7078
+        1959: 6915
+        1960: 8543
+        1961: 9584
+        1962: 9811
+        1963: 10038
+        1964: 10990
+patches:
+- {type: A, years: '1933', image: /history/mechanical-drawing/mechanical-drawing-patch-a.webp}
+- {type: B, years: 1934-1935, status: missing}
+- {type: C, years: 1936-1942, image: /history/mechanical-drawing/mechanical-drawing-patch-c.webp}
+- {type: D, years: 1942-1946, image: /history/mechanical-drawing/mechanical-drawing-patch-d.webp}
+- {type: E, years: 1947-1960, image: /history/mechanical-drawing/mechanical-drawing-patch-e.webp}
+- {type: F, years: 1961-1964, image: /history/mechanical-drawing/mechanical-drawing-patch-f.webp}
+- {type: G, years: 1961-1964, status: missing}
+pamphlets:
+- {type: '3', status: missing}
+- {type: 3B, status: missing}
+- {type: '4', status: missing}
+- {type: 5A, status: missing}
+- {type: 5B, status: missing}
+- {type: '6', status: missing}
+hardcovers:
+- {type: HCD, image: /history/mechanical-drawing/mechanical-drawing-hcd.webp}
+- {type: HCG, image: /history/mechanical-drawing/mechanical-drawing-hcg.webp}
+- {type: HCH, image: /history/mechanical-drawing/mechanical-drawing-hch.webp}
+- {type: HCJ, image: /history/mechanical-drawing/mechanical-drawing-hcj.webp}
+- {type: HCP, image: /history/mechanical-drawing/mechanical-drawing-hcp.webp}
+trivia:
+-   q: In what year did Scouts earn the most Mechanical Drawing merit badges?
+    a: 1964, when 10,990 were earned.
+- {q: 'How many Mechanical Drawing merit badges had been earned by 1964?', a: '174,497.'}
+-   q: What was Mechanical Drawing's best year in the rankings on record?
+    a: 1943, when it was 31st of the 112 merit badges earned that year.
+- {q: 'What replaced Mechanical Drawing after 1964?', a: Drafting.}
+- {q: 'When was the earliest known Mechanical Drawing pamphlet printed?', a: '1934.'}

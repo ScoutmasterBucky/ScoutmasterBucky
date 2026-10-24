@@ -1,0 +1,98 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Soil Management
+precededBy: None
+introduced: 1928
+discontinued: '1952'
+replacedWith: Soil & Water Conservation
+timeline:
+-   year: 1928
+    text: 'The Soil Management merit badge is introduced. The first Soil Management merit badges are earned: 103 that year. The earliest known Soil Management pamphlet printing (Type 3B).'
+-   year: 1952
+    text: 'All-time high: 2,788 Soil Management merit badges earned. Best ranking: 63rd of 120 merit badges. Last year the Soil Management merit badge is offered; it is replaced by Soil & Water Conservation.'
+ranks:
+    1928: [83, 88]
+    1929: [74, 89]
+    1930: [67, 92]
+    1931: [75, 96]
+    1932: [71, 98]
+    1933: [74, 101]
+    1934: [75, 101]
+    1935: [71, 101]
+    1936: [77, 101]
+    1937: [73, 102]
+    1938: [83, 105]
+    1939: [82, 106]
+    1940: [87, 106]
+    1941: [95, 106]
+    1942: [95, 110]
+    1943: [95, 112]
+    1944: [93, 111]
+    1945: [92, 111]
+    1946: [103, 111]
+    1947: [100, 111]
+    1948: [103, 111]
+    1949: [100, 111]
+    1950: [102, 111]
+    1951: [103, 111]
+    1952: [63, 120]
+earned:
+    totalThrough: 1952
+    total: 16709
+    totalKnownOnly: true
+    byYear:
+        1928: 103
+        1929: 439
+        1930: 843
+        1931: 895
+        1932: 877
+        1933: 898
+        1934: 758
+        1935: 1243
+        1936: 655
+        1937: 1090
+        1938: 629
+        1939: 677
+        1940: 553
+        1941: 395
+        1942: 312
+        1943: 369
+        1944: 495
+        1945: 524
+        1946: 335
+        1947: 328
+        1948: 274
+        1949: 395
+        1950: 355
+        1951: 479
+        1952: 2788
+patches:
+- {type: A, years: 1928-1933, image: /history/soil-management/soil-management-patch-a.webp}
+-   type: B
+    years: 1934-1935
+    note: heavyweight cloth
+    image: /history/soil-management/soil-management-patch-b.webp
+-   type: C
+    years: 1936-1942
+    note: lightweight cloth
+    image: /history/soil-management/soil-management-patch-c.webp
+-   type: D
+    years: 1942-1946
+    note: fine twill and war cloth
+    image: /history/soil-management/soil-management-patch-d.webp
+- {type: E, years: 1947-1952, image: /history/soil-management/soil-management-patch-e.webp}
+pamphlets:
+- {type: 3B, image: /history/soil-management/soil-management-3b.webp}
+- {type: 3D, image: /history/soil-management/soil-management-3d.webp}
+- {type: '4', status: missing}
+- {type: 5A, status: missing}
+- {type: 5B, status: missing}
+trivia:
+-   q: In what year did Scouts earn the most Soil Management merit badges?
+    a: 1952, when 2,788 were earned.
+-   q: What was Soil Management's best year in the rankings on record?
+    a: 1952, when it was 63rd of the 120 merit badges earned that year.
+- {q: 'What replaced Soil Management after 1952?', a: Soil & Water Conservation.}
+- {q: 'When was the earliest known Soil Management pamphlet printed?', a: '1928.'}

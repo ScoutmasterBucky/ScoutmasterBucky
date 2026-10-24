@@ -11,6 +11,13 @@ const news = [
     // "The Duluth event is now LIVE!",
     // "Merit badges have been updated to 2026 requirements.",
     // 'Happy 250th United States of America',
+    // Plain text gets a colored bullet; { text, href, isNew: true } shows NEW!
+    // and ends with a "Click here" link to href
+    {
+        text: 'Merit badge history pages are here! See how many Scouts earned each badge, year by year, with more history added as each badge is reviewed.',
+        href: '/history/',
+        isNew: true,
+    },
     'All Scoutmaster Bucky workbooks are now fillable PDFs: type your answers right in the workbook, then save the file to keep your work!',
     'The November 14 Merit Badge Day in Richfield is open for registration!',
     'The December 12 Merit Badge Day in Prior Lake is open for registration!',
@@ -20,7 +27,7 @@ const news = [
 // null or an empty string.
 //     const featuredVideoCode = "Ka8V39lIGRs"; // Example code for a YouTube video
 //     const featuredVideoCode = null; // No featured video
-const featuredVideoCode = 'YziubbUnugA';
+const featuredVideoCode = 'agTbLpYYZPI';
 
 const lastBuildTime = DateTime.now()
     .setZone('America/Chicago')

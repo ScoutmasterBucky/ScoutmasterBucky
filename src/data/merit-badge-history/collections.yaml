@@ -1,0 +1,137 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Collections
+precededBy: None
+introduced: 1991
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1991
+    text: The Collections merit badge is introduced. The earliest known Collections pamphlet printing (Type 9A-1).
+- {year: 1993, text: 'First known count: 7,524 Collections merit badges earned.'}
+- {year: 2000, text: 'All-time high: 8,048 Collections merit badges earned.'}
+- {year: 2020, text: 'Best ranking: 48th of 137 merit badges.'}
+ranks:
+    1993: [56, 123]
+    1996: [60, 134]
+    2000: [57, 128]
+    2001: [59, 129]
+    2002: [68, 129]
+    2003: [67, 130]
+    2004: [70, 121]
+    2005: [71, 121]
+    2006: [80, 121]
+    2007: [76, 121]
+    2008: [79, 121]
+    2009: [82, 122]
+    2010: [80, 125]
+    2011: [80, 129]
+    2012: [71, 132]
+    2013: [60, 129]
+    2014: [94, 136]
+    2015: [95, 138]
+    2016: [101, 138]
+    2017: [94, 139]
+    2018: [96, 139]
+    2019: [99, 139]
+    2020: [48, 137]
+    2021: [81, 137]
+    2022: [88, 138]
+    2023: [79, 138]
+    2024: [77, 138]
+    2025: [81, 141]
+lifetimeRank: {rank: 119, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 118
+    range: [117, 119]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 168524
+    byYear:
+        1991: null
+        1992: null
+        1993: 7524
+        1994: null
+        1995: null
+        1996: 7065
+        1997: null
+        1998: null
+        1999: null
+        2000: 8048
+        2001: 6511
+        2002: 6272
+        2003: 6303
+        2004: 5601
+        2005: 5406
+        2006: 4784
+        2007: 5011
+        2008: 4939
+        2009: 5614
+        2010: 6090
+        2011: 5027
+        2012: 5077
+        2013: 4966
+        2014: 4295
+        2015: 4004
+        2016: 3753
+        2017: 4140
+        2018: 4280
+        2019: 4060
+        2020: 6429
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: H
+    years: 1991-2002
+    note: molded
+    image: /history/collections/collections-patch-h.webp
+    more:
+    - {image: /history/collections/collections-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/collections/collections-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, status: none}
+-   type: J
+    years: 2002-2009
+    note: Scout Stuff back
+    image: /history/collections/collections-patch-j.webp
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/collections/collections-patch-k.webp
+    more:
+    - {image: /history/collections/collections-patch-k-front.webp, label: K front}
+    - {image: /history/collections/collections-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/collections/collections-patch-l.webp
+    more:
+    - {image: /history/collections/collections-patch-l-front.webp, label: L front}
+    - {image: /history/collections/collections-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 9A-1, image: /history/collections/collections-9a-1.webp}
+- {type: 9A-2, image: /history/collections/collections-9a-2.webp}
+- {type: 9B-1, image: /history/collections/collections-9b-1.webp}
+- {type: 9B-2, image: /history/collections/collections-9b-2.webp}
+- {type: 10A, image: /history/collections/collections-10a.webp}
+- {type: 10B, image: /history/collections/collections-10b.webp}
+- {type: 10C-1, image: /history/collections/collections-10c-1.webp}
+- {type: 10C-2, image: /history/collections/collections-10c-2.webp}
+- {type: 10D-1, image: /history/collections/collections-10d-1.webp}
+- {type: 10D-2, image: /history/collections/collections-10d-2.webp}
+- {type: 11A, status: missing}
+trivia:
+-   q: Was the Collections badge made in every patch style of its time?
+    a: No. No Type I Collections badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Collections merit badges?
+    a: 2000, when 8,048 were earned.
+- {q: 'How many Collections merit badges had been earned by 2020?', a: '168,524.'}
+-   q: What was Collections' best year in the rankings on record?
+    a: 2020, when it was 48th of the 137 merit badges earned that year.
+- {q: 'When was the earliest known Collections pamphlet printed?', a: December 1991.}

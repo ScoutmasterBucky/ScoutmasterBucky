@@ -1,0 +1,46 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Exploration
+precededBy: None
+introduced: 2017
+discontinued: Current
+replacedWith: Current
+timeline:
+- {year: 2016, text: The earliest known Exploration pamphlet printing (Type 10D).}
+-   year: 2017
+    text: 'The Exploration merit badge is introduced. The first Exploration merit badges are earned: 2,090 that year.'
+- {year: 2018, text: 'All-time high: 3,351 Exploration merit badges earned.'}
+- {year: 2024, text: 'Best ranking: 95th of 138 merit badges.'}
+ranks:
+    2017: [124, 139]
+    2018: [105, 139]
+    2019: [109, 139]
+    2020: [127, 137]
+    2021: [108, 137]
+    2022: [106, 138]
+    2023: [96, 138]
+    2024: [95, 138]
+    2025: [97, 141]
+lifetimeRank: {rank: 211, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 196
+    range: [196, 197]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 10012
+    byYear: {2017: 2090, 2018: 3351, 2019: 3107, 2020: 1464, 2021: null, 2022: null, 2023: null, 2024: null, 2025: null}
+patches:
+- {type: L, years: 2017-2025, image: /history/exploration/exploration-patch-l.webp}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10D, image: /history/exploration/exploration-10d.webp}
+trivia:
+-   q: In what year did Scouts earn the most Exploration merit badges?
+    a: 2018, when 3,351 were earned.
+- {q: 'How many Exploration merit badges had been earned by 2020?', a: '10,012.'}
+-   q: What was Exploration's best year in the rankings on record?
+    a: 2024, when it was 95th of the 138 merit badges earned that year.
+- {q: 'When was the earliest known Exploration pamphlet printed?', a: '2016.'}

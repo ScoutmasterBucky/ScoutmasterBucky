@@ -1,0 +1,71 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Kayaking
+precededBy: None
+introduced: 2012
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2012
+    text: 'The Kayaking merit badge is introduced. The first Kayaking merit badges are earned: 21,765 that year. The earliest known Kayaking pamphlet printing (Type 10C).'
+-   year: 2013
+    text: 'All-time high: 36,217 Kayaking merit badges earned. Best ranking: 13th of 129 merit badges.'
+ranks:
+    2012: [28, 132]
+    2013: [13, 129]
+    2014: [20, 136]
+    2015: [20, 138]
+    2016: [20, 138]
+    2017: [20, 139]
+    2018: [19, 139]
+    2019: [19, 139]
+    2020: [21, 137]
+    2021: [14, 137]
+    2022: [19, 138]
+    2023: [21, 138]
+    2024: [21, 138]
+    2025: [21, 141]
+lifetimeRank: {rank: 92, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 84
+    range: [82, 86]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 261710
+    byYear:
+        2012: 21765
+        2013: 36217
+        2014: 35533
+        2015: 34054
+        2016: 33137
+        2017: 30466
+        2018: 31362
+        2019: 28093
+        2020: 11083
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: K, years: 2012-2014, image: /history/kayaking/kayaking-patch-k.webp}
+-   type: L
+    years: 2015-2025
+    image: /history/kayaking/kayaking-patch-l.webp
+    more:
+    - {image: /history/kayaking/kayaking-patch-l-front.webp, label: L front}
+    - {image: /history/kayaking/kayaking-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+- {type: 11A, status: missing}
+trivia:
+- {q: 'In what year did Scouts earn the most Kayaking merit badges?', a: '2013, when 36,217 were earned.'}
+- {q: 'How many Kayaking merit badges had been earned by 2020?', a: '261,710.'}
+-   q: What was Kayaking's best year in the rankings on record?
+    a: 2013, when it was 13th of the 129 merit badges earned that year.
+- {q: 'When was the earliest known Kayaking pamphlet printed?', a: '2012.'}

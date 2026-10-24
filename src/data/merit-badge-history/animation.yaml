@@ -1,0 +1,72 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Animation
+precededBy: None
+introduced: 2015
+discontinued: Current
+replacedWith: Current
+story: [The Animation merit badge offered the first digitally interactive merit badge pamphlet containing video links and other online resrouce links for Scouts to utilize for completing this merit badge.]
+timeline:
+-   year: 2015
+    text: 'The Animation merit badge is introduced. The first Animation merit badges are earned: 1,099 that year. The earliest known Animation pamphlet printing (Type 10C).'
+- {year: 2019, text: 'All-time high: 7,193 Animation merit badges earned.'}
+- {year: 2025, text: 'Best ranking: 54th of 141 merit badges.'}
+ranks:
+    2015: [133, 138]
+    2016: [87, 138]
+    2017: [83, 139]
+    2018: [69, 139]
+    2019: [66, 139]
+    2020: [78, 137]
+    2021: [59, 137]
+    2022: [60, 138]
+    2023: [59, 138]
+    2024: [61, 138]
+    2025: [54, 141]
+lifetimeRank: {rank: 187, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 173
+    range: [172, 175]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 29817
+    byYear:
+        2015: 1099
+        2016: 4637
+        2017: 5462
+        2018: 6981
+        2019: 7193
+        2020: 4445
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/animation/animation-patch-k.webp
+    more:
+    - {image: /history/animation/animation-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/animation/animation-patch-l.webp
+    more:
+    - {image: /history/animation/animation-patch-l-front.webp, label: L front}
+    - {image: /history/animation/animation-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10C, image: /history/animation/animation-10c.webp}
+- {type: 10D, image: /history/animation/animation-10d.webp}
+- {type: '11', status: missing}
+trivia:
+- {q: 'In what year did Scouts earn the most Animation merit badges?', a: '2019, when 7,193 were earned.'}
+- {q: 'How many Animation merit badges had been earned by 2020?', a: '29,817.'}
+-   q: What was Animation's best year in the rankings on record?
+    a: 2025, when it was 54th of the 141 merit badges earned that year.
+- {q: 'When was the earliest known Animation pamphlet printed?', a: '2015.'}

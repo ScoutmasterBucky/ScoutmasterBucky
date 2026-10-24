@@ -1,0 +1,76 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Bee Keeping
+precededBy: Introduced as Bee Farming became Bee Keeping
+introduced: 1911
+discontinued: '1913'
+replacedWith: Bee Keeping Beekeeping
+story: ['The Bee Keeping / Beekeeping merit badge is sometimes considered to be two different merit badges, this is due in part to the spelling change in the early 1950''s from two words to one word.']
+timeline:
+-   year: 1911
+    text: The Bee Keeping merit badge is introduced. It is one of the original 57 merit badges.
+-   year: 1912
+    text: 'The first Bee Keeping merit badges are earned: 25 that year. Best ranking: 23rd of 51 merit badges.'
+-   year: 1913
+    text: 'All-time high: 62 Bee Keeping merit badges earned. Last year the Bee Keeping merit badge is offered; it is replaced by Bee Keeping Beekeeping.'
+- {year: 1920, text: The earliest known Bee Keeping pamphlet printing (Type 1C).}
+ranks:
+    1912: [23, 51]
+    1913: [25, 56]
+earned:
+    totalThrough: 1913
+    total: 87
+    totalKnownOnly: true
+    byYear: {1911: 0, 1912: 25, 1913: 62}
+patches:
+-   type: A
+    years: 1911-1913
+    note: variations
+    image: /history/bee-keeping/bee-keeping-patch-a.webp
+-   type: A
+    years: 1914-1933
+    note: variations
+    image: /history/bee-keeping/bee-keeping-patch-a.webp
+-   type: B
+    years: 1934-1935
+    note: heavyweight cloth
+    image: /history/bee-keeping/bee-keeping-patch-b.webp
+-   type: C
+    years: 1936-1938
+    note: heavyweight cloth
+    image: /history/bee-keeping/bee-keeping-patch-c.webp
+-   type: C
+    years: 1939-1946
+    note: heavyweight and lightweight cloth
+    image: /history/bee-keeping/bee-keeping-patch-c2.webp
+- {type: D, status: unknown}
+- {type: E, years: 1947-1951, image: /history/bee-keeping/bee-keeping-patch-e.webp}
+- {type: E, years: 1952-1956, image: /history/bee-keeping/bee-keeping-patch-e.webp}
+- {type: E, years: 1957-1960, status: missing}
+- {type: F, status: none}
+pamphlets:
+- {type: 1C, status: missing}
+- {type: '2', status: missing}
+- {type: 3A over 2, status: missing}
+- {type: 3A, status: missing}
+- {type: 3B, status: missing}
+- {type: 5A, status: missing}
+- {type: 5B, status: missing}
+- {type: 6A, status: missing}
+- {type: 6B, status: missing}
+- {type: '7', status: missing}
+- {type: '8', status: missing}
+- {type: 9A, status: missing}
+- {type: 9B, status: missing}
+trivia:
+-   q: Was the Bee Keeping badge made in every patch style of its time?
+    a: No. No Type D or F Bee Keeping badge is known to exist.
+-   q: Was Bee Keeping one of the original 57 merit badges?
+    a: Yes. It was in the first Official Handbook for Boys in 1911.
+- {q: 'In what year did Scouts earn the most Bee Keeping merit badges?', a: '1913, when 62 were earned.'}
+-   q: What was Bee Keeping's best year in the rankings on record?
+    a: 1912, when it was 23rd of the 51 merit badges earned that year.
+- {q: 'What came before the Bee Keeping merit badge?', a: Introduced as Bee Farming became Bee Keeping.}
+- {q: 'What replaced Bee Keeping after 1913?', a: Bee Keeping and Beekeeping.}

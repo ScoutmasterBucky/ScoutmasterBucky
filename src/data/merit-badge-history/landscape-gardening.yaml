@@ -1,0 +1,115 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Landscape Gardening
+precededBy: None
+introduced: 1930
+discontinued: '1958'
+replacedWith: Landscaping
+timeline:
+-   year: 1930
+    text: 'The Landscape Gardening merit badge is introduced. The first Landscape Gardening merit badges are earned: 68 that year. The earliest known Landscape Gardening pamphlet printing (Type 3B).'
+-   year: 1931
+    text: 'All-time high: 1,549 Landscape Gardening merit badges earned. Best ranking: 61st of 96 merit badges.'
+-   year: 1958
+    text: Last year the Landscape Gardening merit badge is offered; it is replaced by Landscaping.
+ranks:
+    1930: [92, 92]
+    1931: [61, 96]
+    1932: [86, 98]
+    1933: [93, 101]
+    1934: [90, 101]
+    1935: [94, 101]
+    1936: [93, 101]
+    1937: [96, 102]
+    1938: [91, 105]
+    1939: [100, 106]
+    1940: [84, 106]
+    1941: [84, 106]
+    1942: [98, 110]
+    1943: [101, 112]
+    1944: [98, 111]
+    1945: [90, 111]
+    1946: [83, 111]
+    1947: [88, 111]
+    1948: [87, 111]
+    1949: [88, 111]
+    1950: [94, 111]
+    1951: [86, 111]
+    1952: [97, 120]
+    1953: [82, 105]
+    1954: [86, 103]
+    1955: [86, 100]
+    1956: [89, 100]
+    1957: [83, 100]
+    1958: [87, 101]
+lifetimeRank: {rank: 200, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 202
+    range: [202, 202]
+    asOf: 2025
+earned:
+    totalThrough: 1958
+    total: 18001
+    byYear:
+        1930: 68
+        1931: 1549
+        1932: 372
+        1933: 353
+        1934: 348
+        1935: 293
+        1936: 287
+        1937: 355
+        1938: 473
+        1939: 349
+        1940: 560
+        1941: 607
+        1942: 272
+        1943: 306
+        1944: 437
+        1945: 602
+        1946: 809
+        1947: 528
+        1948: 494
+        1949: 572
+        1950: 543
+        1951: 806
+        1952: 739
+        1953: 840
+        1954: 1047
+        1955: 1101
+        1956: 980
+        1957: 1178
+        1958: 1133
+patches:
+-   type: A
+    years: 1930-1933
+    note: variation A1
+    image: /history/landscape-gardening/landscape-gardening-patch-a1.webp
+-   type: A
+    years: 1930-1933
+    note: variation A2
+    image: /history/landscape-gardening/landscape-gardening-patch-a2.webp
+- {type: B, years: 1934-1935, status: missing}
+- {type: C, years: 1936-1942, image: /history/landscape-gardening/landscape-gardening-patch-c.webp}
+- {type: D, years: 1942-1946, image: /history/landscape-gardening/landscape-gardening-patch-d.webp}
+- {type: E, years: 1947-1958, image: /history/landscape-gardening/landscape-gardening-patch-e.webp}
+pamphlets:
+- {type: 3B, image: /history/landscape-gardening/landscape-gardening-3b.webp}
+- {type: '4', status: missing}
+- {type: 5A, status: missing}
+- {type: 5B, status: missing}
+- {type: '6', status: missing}
+hardcovers:
+- {type: HCD, image: /history/landscape-gardening/landscape-gardening-hcd.webp}
+- {type: HCH, image: /history/landscape-gardening/landscape-gardening-hch.webp}
+- {type: HCJ, image: /history/landscape-gardening/landscape-gardening-hcj.webp}
+trivia:
+-   q: In what year did Scouts earn the most Landscape Gardening merit badges?
+    a: 1931, when 1,549 were earned.
+- {q: 'How many Landscape Gardening merit badges had been earned by 1958?', a: '18,001.'}
+-   q: What was Landscape Gardening's best year in the rankings on record?
+    a: 1931, when it was 61st of the 96 merit badges earned that year.
+- {q: 'What replaced Landscape Gardening after 1958?', a: Landscaping.}
+- {q: 'When was the earliest known Landscape Gardening pamphlet printed?', a: April 1930.}

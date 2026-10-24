@@ -1,0 +1,120 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Farm Records and Bookkeeping
+precededBy: None
+introduced: 1928
+discontinued: '1958'
+replacedWith: Farm Records
+timeline:
+-   year: 1928
+    text: 'The Farm Records and Bookkeeping merit badge is introduced. The first Farm Records and Bookkeeping merit badges are earned: 71 that year. The earliest known Farm Records and Bookkeeping pamphlet
+        printing (Type 3B).'
+-   year: 1931
+    text: 'All-time high: 2,666 Farm Records and Bookkeeping merit badges earned. Best ranking: 47th of 96 merit badges.'
+-   year: 1958
+    text: Last year the Farm Records and Bookkeeping merit badge is offered; it is replaced by Farm Records.
+ranks:
+    1928: [85, 88]
+    1929: [77, 89]
+    1930: [68, 92]
+    1931: [47, 96]
+    1932: [72, 98]
+    1933: [71, 101]
+    1934: [79, 101]
+    1935: [73, 101]
+    1936: [74, 101]
+    1937: [71, 102]
+    1938: [72, 105]
+    1939: [77, 106]
+    1940: [74, 106]
+    1941: [80, 106]
+    1942: [77, 110]
+    1943: [77, 112]
+    1944: [78, 111]
+    1945: [78, 111]
+    1946: [80, 111]
+    1947: [81, 111]
+    1948: [83, 111]
+    1949: [84, 111]
+    1950: [82, 111]
+    1951: [84, 111]
+    1952: [91, 120]
+    1953: [79, 105]
+    1954: [79, 103]
+    1955: [84, 100]
+    1956: [84, 100]
+    1957: [84, 100]
+    1958: [86, 101]
+lifetimeRank: {rank: 188, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 193
+    range: [193, 193]
+    asOf: 2025
+earned:
+    totalThrough: 1958
+    total: 29619
+    byYear:
+        1928: 71
+        1929: 342
+        1930: 773
+        1931: 2666
+        1932: 858
+        1933: 1068
+        1934: 688
+        1935: 1204
+        1936: 723
+        1937: 1103
+        1938: 1119
+        1939: 851
+        1940: 890
+        1941: 774
+        1942: 716
+        1943: 984
+        1944: 1126
+        1945: 1117
+        1946: 874
+        1947: 689
+        1948: 607
+        1949: 695
+        1950: 855
+        1951: 964
+        1952: 968
+        1953: 1032
+        1954: 1231
+        1955: 1142
+        1956: 1173
+        1957: 1169
+        1958: 1147
+patches:
+-   type: A
+    years: 1928-1933
+    image: /history/farm-records-and-bookkeeping/farm-records-and-bookkeeping-patch-a.webp
+- {type: B, years: 1934-1935, status: missing}
+- {type: C, years: 1936-1942, status: missing}
+-   type: D
+    years: 1942-1946
+    image: /history/farm-records-and-bookkeeping/farm-records-and-bookkeeping-patch-d.webp
+-   type: E
+    years: 1947-1958
+    image: /history/farm-records-and-bookkeeping/farm-records-and-bookkeeping-patch-e.webp
+pamphlets:
+- {type: 3B, image: /history/farm-records-and-bookkeeping/farm-records-and-bookkeeping-3b.webp}
+- {type: 3D, image: /history/farm-records-and-bookkeeping/farm-records-and-bookkeeping-3d.webp}
+- {type: 5B-1, image: /history/farm-records-and-bookkeeping/farm-records-and-bookkeeping-5b-1.webp}
+- {type: 5B-2, image: /history/farm-records-and-bookkeeping/farm-records-and-bookkeeping-5b-2.webp}
+- {type: '6', image: /history/farm-records-and-bookkeeping/farm-records-and-bookkeeping-6.webp}
+hardcovers:
+- {type: HCC, image: /history/farm-records-and-bookkeeping/farm-records-and-bookkeeping-hcc.webp}
+- {type: HCH, image: /history/farm-records-and-bookkeeping/farm-records-and-bookkeeping-hch.webp}
+- {type: HCI, image: /history/farm-records-and-bookkeeping/farm-records-and-bookkeeping-hci.webp}
+- {type: HCJ, image: /history/farm-records-and-bookkeeping/farm-records-and-bookkeeping-hcj.webp}
+trivia:
+-   q: In what year did Scouts earn the most Farm Records and Bookkeeping merit badges?
+    a: 1931, when 2,666 were earned.
+- {q: 'How many Farm Records and Bookkeeping merit badges had been earned by 1958?', a: '29,619.'}
+-   q: What was Farm Records and Bookkeeping's best year in the rankings on record?
+    a: 1931, when it was 47th of the 96 merit badges earned that year.
+- {q: 'What replaced Farm Records and Bookkeeping after 1958?', a: Farm Records.}
+- {q: 'When was the earliest known Farm Records and Bookkeeping pamphlet printed?', a: '1928.'}

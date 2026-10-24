@@ -1,0 +1,187 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Sheep Farming
+precededBy: None
+introduced: 1928
+discontinued: '1975'
+replacedWith: None
+timeline:
+-   year: 1928
+    text: 'The Sheep Farming merit badge is introduced. The first Sheep Farming merit badges are earned: 63 that year.'
+- {year: 1929, text: The earliest known Sheep Farming pamphlet printing (Type 3B).}
+- {year: 1932, text: 'Best ranking: 82nd of 98 merit badges.'}
+- {year: 1974, text: 'All-time high: 1,969 Sheep Farming merit badges earned.'}
+- {year: 1975, text: Last year the Sheep Farming merit badge is offered.}
+ranks:
+    1928: [87, 88]
+    1929: [88, 89]
+    1930: [84, 92]
+    1931: [86, 96]
+    1932: [82, 98]
+    1933: [88, 101]
+    1934: [88, 101]
+    1935: [88, 101]
+    1936: [89, 101]
+    1937: [94, 102]
+    1938: [92, 105]
+    1939: [93, 106]
+    1940: [90, 106]
+    1941: [88, 106]
+    1942: [91, 110]
+    1943: [94, 112]
+    1944: [96, 111]
+    1945: [91, 111]
+    1946: [97, 111]
+    1947: [96, 111]
+    1948: [102, 111]
+    1949: [97, 111]
+    1950: [97, 111]
+    1951: [96, 111]
+    1952: [104, 120]
+    1953: [92, 105]
+    1954: [92, 103]
+    1955: [94, 100]
+    1956: [93, 100]
+    1957: [93, 100]
+    1958: [93, 101]
+    1959: [96, 101]
+    1960: [95, 100]
+    1961: [95, 101]
+    1962: [96, 101]
+    1963: [99, 102]
+    1964: [100, 107]
+    1965: [100, 109]
+    1966: [108, 110]
+    1967: [107, 112]
+    1968: [108, 112]
+    1969: [109, 113]
+    1970: [110, 113]
+    1971: [111, 113]
+    1972: [114, 124]
+    1973: [111, 122]
+    1974: [113, 121]
+    1975: [117, 128]
+    1976: [127, 130]
+    1977: [126, 130]
+    1978: [129, 131]
+    1979: [129, 132]
+    1980: [129, 132]
+    1981: [131, 134]
+lifetimeRank: {rank: 184, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 191
+    range: [191, 191]
+    asOf: 2025
+earned:
+    totalThrough: 1981
+    total: 30195
+    byYear:
+        1928: 63
+        1929: 182
+        1930: 335
+        1931: 475
+        1932: 463
+        1933: 450
+        1934: 360
+        1935: 428
+        1936: 362
+        1937: 410
+        1938: 459
+        1939: 452
+        1940: 523
+        1941: 538
+        1942: 349
+        1943: 404
+        1944: 486
+        1945: 582
+        1946: 449
+        1947: 447
+        1948: 296
+        1949: 409
+        1950: 510
+        1951: 612
+        1952: 640
+        1953: 583
+        1954: 665
+        1955: 636
+        1956: 788
+        1957: 817
+        1958: 800
+        1959: 756
+        1960: 828
+        1961: 704
+        1962: 753
+        1963: 678
+        1964: 767
+        1965: 728
+        1966: 519
+        1967: 533
+        1968: 512
+        1969: 587
+        1970: 578
+        1971: 573
+        1972: 1211
+        1973: 795
+        1974: 1969
+        1975: 1532
+        1976: 711
+        1977: 331
+        1978: 137
+        1979: 5
+        1980: 8
+        1981: 7
+patches:
+- {type: A, years: 1928-1933, image: /history/sheep-farming/sheep-farming-patch-a1.webp}
+- {type: A, years: 1928-1933, image: /history/sheep-farming/sheep-farming-patch-a2.webp}
+-   type: B
+    years: 1934-1935
+    note: heavyweight cloth
+    image: /history/sheep-farming/sheep-farming-patch-b.webp
+-   type: C
+    years: 1936-1939
+    note: heavyweight cloth
+    image: /history/sheep-farming/sheep-farming-patch-c1.webp
+-   type: C
+    years: 1940-1946
+    note: lightweight cloth
+    image: /history/sheep-farming/sheep-farming-patch-c2.webp
+-   type: D
+    years: 1942-1946
+    note: fine twill cloth
+    image: /history/sheep-farming/sheep-farming-patch-d.webp
+- {type: E, years: 1947-1960, image: /history/sheep-farming/sheep-farming-patch-e.webp}
+-   type: F
+    years: 1961-1968
+    note: rolled edge
+    image: /history/sheep-farming/sheep-farming-patch-f.webp
+-   type: G
+    years: 1961-1971
+    note: cloth back
+    image: /history/sheep-farming/sheep-farming-patch-g.webp
+-   type: H
+    years: 1972-1975
+    note: blue and clear
+    image: /history/sheep-farming/sheep-farming-patch-h.webp
+    more:
+    - {image: /history/sheep-farming/sheep-farming-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/sheep-farming/sheep-farming-patch-h1-reverse.webp, label: 'H variation H1, back'}
+pamphlets:
+- {type: 3B, image: /history/sheep-farming/sheep-farming-3b.webp}
+- {type: 5B, status: missing}
+- {type: '6', status: missing}
+- {type: '7', status: missing}
+- {type: '8', status: missing}
+hardcovers:
+- {type: HCF, image: /history/sheep-farming/sheep-farming-hcf.webp}
+- {type: HCI, image: /history/sheep-farming/sheep-farming-hci.webp}
+- {type: HCJ, image: /history/sheep-farming/sheep-farming-hcj.webp}
+- {type: HCM, image: /history/sheep-farming/sheep-farming-hcm.webp}
+trivia:
+-   q: In what year did Scouts earn the most Sheep Farming merit badges?
+    a: 1974, when 1,969 were earned.
+- {q: 'How many Sheep Farming merit badges had been earned by 1981?', a: '30,195.'}
+-   q: What was Sheep Farming's best year in the rankings on record?
+    a: 1932, when it was 82nd of the 98 merit badges earned that year.
+- {q: 'When was the earliest known Sheep Farming pamphlet printed?', a: '1929.'}

@@ -1,0 +1,107 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: World Brotherhood
+precededBy: Citizenship
+precededByLink: citizenship
+introduced: 1952
+discontinued: '1972'
+replacedWith: Citizenship in the World
+story: ['In 1952 the Citizenship merit badge was broke into 4 individual merit badges; Citizenship in the Home, Citizenship in the Community, Citizenship in the Nation, and World Brotherhood, which in 1972
+        would eventually turn into Citizneship in the World. These 4 merit badges still utilized the Citizenship merit badge pamphlet until 1972 when they were reorganized into their own subject matters.
+        The World Brotherhood is one of the only merit badges that never had it''s own merit badge pamphlet book exclusively. The World Brotherhood merit badge was redesigned in 1969 to show the Scout sign
+        on the badge, until it was morphed into the Citizenship in the World merit badge in 1972.']
+timeline:
+-   year: 1952
+    text: 'The World Brotherhood merit badge is introduced. The first World Brotherhood merit badges are earned: 1,305 that year.'
+- {year: 1954, text: 'Best ranking: 36th of 103 merit badges.'}
+- {year: 1963, text: 'All-time high: 11,523 World Brotherhood merit badges earned.'}
+-   year: 1972
+    text: Last year the World Brotherhood merit badge is offered; it is replaced by Citizenship in the World.
+ranks:
+    1952: [85, 120]
+    1953: [37, 105]
+    1954: [36, 103]
+    1955: [38, 100]
+    1956: [41, 100]
+    1957: [39, 100]
+    1958: [38, 101]
+    1959: [40, 101]
+    1960: [39, 100]
+    1961: [39, 101]
+    1962: [40, 101]
+    1963: [40, 102]
+    1964: [45, 107]
+    1965: [55, 109]
+    1966: [58, 110]
+    1967: [60, 112]
+    1968: [69, 112]
+    1969: [71, 113]
+    1970: [78, 113]
+    1971: [77, 113]
+    1972: [111, 124]
+lifetimeRank: {rank: 133, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 138
+    range: [137, 138]
+    asOf: 2025
+earned:
+    totalThrough: 1972
+    total: 130690
+    byYear:
+        1952: 1305
+        1953: 5720
+        1954: 7465
+        1955: 7383
+        1956: 7267
+        1957: 7389
+        1958: 7385
+        1959: 7257
+        1960: 9679
+        1961: 11118
+        1962: 10898
+        1963: 11523
+        1964: 8351
+        1965: 5686
+        1966: 4628
+        1967: 4235
+        1968: 3247
+        1969: 3374
+        1970: 2769
+        1971: 2632
+        1972: 1379
+patches:
+-   type: E
+    years: 1952-1960
+    note: variations
+    image: /history/world-brotherhood/world-brotherhood-patch-e.webp
+- {type: F, status: notMade}
+-   type: G
+    years: 1961-1968
+    note: cloth and gauze back
+    image: /history/world-brotherhood/world-brotherhood-patch-g1.webp
+-   type: G
+    years: 1969-1971
+    note: cloth back
+    image: /history/world-brotherhood/world-brotherhood-patch-g2.webp
+-   type: H
+    years: '1972'
+    note: blue back
+    image: /history/world-brotherhood/world-brotherhood-patch-h.webp
+    more:
+    -   image: /history/world-brotherhood/world-brotherhood-patch-h1-front.webp
+        label: H variation H1, front
+    -   image: /history/world-brotherhood/world-brotherhood-patch-h1-reverse.webp
+        label: H variation H1, back
+pamphlets: []
+trivia:
+-   q: Was the World Brotherhood badge made in every patch style of its time?
+    a: No. No Type F World Brotherhood badge is known to exist.
+-   q: In what year did Scouts earn the most World Brotherhood merit badges?
+    a: 1963, when 11,523 were earned.
+- {q: 'How many World Brotherhood merit badges had been earned by 1972?', a: '130,690.'}
+-   q: What was World Brotherhood's best year in the rankings on record?
+    a: 1954, when it was 36th of the 103 merit badges earned that year.
+- {q: 'What came before the World Brotherhood merit badge?', a: Citizenship.}
+- {q: 'What replaced World Brotherhood after 1972?', a: Citizenship in the World.}

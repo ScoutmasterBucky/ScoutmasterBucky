@@ -1,0 +1,230 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Personal Fitness
+precededBy: Personal Health and Physical Development
+introduced: 1952
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 1952
+    text: 'The Personal Fitness merit badge is introduced. The first Personal Fitness merit badges are earned: 3,115 that year.'
+- {year: 1953, text: The earliest known Personal Fitness pamphlet printing (Type 6).}
+-   year: 2000
+    text: 'All-time high: 82,865 Personal Fitness merit badges earned. Best ranking: 3rd of 128 merit badges.'
+ranks:
+    1952: [60, 120]
+    1953: [11, 105]
+    1954: [16, 103]
+    1955: [17, 100]
+    1956: [16, 100]
+    1957: [15, 100]
+    1958: [15, 101]
+    1959: [15, 101]
+    1960: [7, 100]
+    1961: [9, 101]
+    1962: [11, 101]
+    1963: [10, 102]
+    1964: [9, 107]
+    1965: [8, 109]
+    1966: [6, 110]
+    1967: [5, 112]
+    1968: [6, 112]
+    1969: [7, 113]
+    1970: [7, 113]
+    1971: [7, 113]
+    1972: [6, 124]
+    1973: [4, 122]
+    1974: [17, 121]
+    1975: [25, 128]
+    1976: [26, 130]
+    1977: [25, 130]
+    1978: [28, 131]
+    1979: [25, 132]
+    1980: [26, 132]
+    1981: [25, 134]
+    1993: [14, 123]
+    1996: [49, 134]
+    2000: [3, 128]
+    2001: [11, 129]
+    2002: [10, 129]
+    2003: [12, 130]
+    2004: [10, 121]
+    2005: [9, 121]
+    2006: [6, 121]
+    2007: [8, 121]
+    2008: [8, 121]
+    2009: [10, 122]
+    2010: [8, 125]
+    2011: [8, 129]
+    2012: [8, 132]
+    2013: [4, 129]
+    2014: [10, 136]
+    2015: [9, 138]
+    2016: [9, 138]
+    2017: [9, 139]
+    2018: [10, 139]
+    2019: [5, 139]
+    2020: [6, 137]
+    2021: [9, 137]
+    2022: [10, 138]
+    2023: [8, 138]
+    2024: [9, 138]
+    2025: [9, 141]
+lifetimeRank: {rank: 11, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 11
+    range: [10, 11]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 2793990
+    byYear:
+        1952: 3115
+        1953: 22739
+        1954: 24506
+        1955: 26244
+        1956: 27144
+        1957: 29776
+        1958: 31349
+        1959: 33449
+        1960: 66506
+        1961: 57101
+        1962: 49852
+        1963: 52404
+        1964: 55068
+        1965: 54343
+        1966: 56710
+        1967: 70166
+        1968: 66742
+        1969: 66989
+        1970: 66746
+        1971: 64066
+        1972: 63857
+        1973: 67105
+        1974: 43881
+        1975: 36797
+        1976: 32005
+        1977: 26746
+        1978: 21714
+        1979: 20767
+        1980: 14427
+        1981: 21532
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 46576
+        1994: null
+        1995: null
+        1996: 11927
+        1997: null
+        1998: null
+        1999: null
+        2000: 82865
+        2001: 54162
+        2002: 58995
+        2003: 54907
+        2004: 58820
+        2005: 54348
+        2006: 55088
+        2007: 53030
+        2008: 54068
+        2009: 58461
+        2010: 58988
+        2011: 56588
+        2012: 56908
+        2013: 56295
+        2014: 50693
+        2015: 52499
+        2016: 52079
+        2017: 50428
+        2018: 49600
+        2019: 49802
+        2020: 40355
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: E, years: 1952-1960, status: missing}
+- {type: F, years: 1961-1968, image: /history/personal-fitness/personal-fitness-patch-f.webp}
+- {type: G, years: 1961-1971, image: /history/personal-fitness/personal-fitness-patch-g.webp}
+-   type: H
+    years: 1972-2002
+    image: /history/personal-fitness/personal-fitness-patch-h.webp
+    more:
+    - {image: /history/personal-fitness/personal-fitness-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/personal-fitness/personal-fitness-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    -   image: /history/personal-fitness/personal-fitness-patch-h2-1-front.webp
+        label: H variation H2-1, front
+    -   image: /history/personal-fitness/personal-fitness-patch-h2-1-reverse.webp
+        label: H variation H2-1, back
+    -   image: /history/personal-fitness/personal-fitness-patch-h2-mve1-front.webp
+        label: H variation H2-MVE1, front
+    -   image: /history/personal-fitness/personal-fitness-patch-h2-mve1-reverse.webp
+        label: H variation H2-MVE1, back
+    - {image: /history/personal-fitness/personal-fitness-patch-h5-front.webp, label: 'H variation H5, front'}
+    - {image: /history/personal-fitness/personal-fitness-patch-h5-reverse.webp, label: 'H variation H5, back'}
+- {type: I, years: 1993-1995, status: unknown}
+-   type: J
+    years: 2002-2009
+    image: /history/personal-fitness/personal-fitness-patch-j.webp
+    more:
+    - {image: /history/personal-fitness/personal-fitness-patch-j1-front.webp, label: J1 front}
+    - {image: /history/personal-fitness/personal-fitness-patch-j1-reverse.webp, label: J1 back}
+-   type: K
+    years: 2010-2014
+    image: /history/personal-fitness/personal-fitness-patch-k.webp
+    more:
+    - {image: /history/personal-fitness/personal-fitness-patch-k-front.webp, label: K front}
+    - {image: /history/personal-fitness/personal-fitness-patch-k-reverse.webp, label: K back}
+- {type: L, years: 2015-2025, image: /history/personal-fitness/personal-fitness-patch-l.webp}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: '6', status: missing}
+- {type: 7A, status: missing}
+- {type: 7B, status: missing}
+- {type: 7C, status: missing}
+- {type: 8A, status: missing}
+- {type: 8B, status: missing}
+- {type: '9', status: missing}
+- {type: 9A, status: missing}
+- {type: 9B-1, status: missing}
+- {type: 9B-3, status: missing}
+- {type: 9C, status: missing}
+- {type: 9D, status: missing}
+- {type: 9X, status: missing}
+- {type: 10A, status: missing}
+- {type: 10B, status: missing}
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+- {type: 11A, status: missing}
+hardcovers:
+- {type: HCJ, image: /history/personal-fitness/personal-fitness-hcj.webp}
+- {type: HCK, image: /history/personal-fitness/personal-fitness-hck.webp}
+- {type: HCL, image: /history/personal-fitness/personal-fitness-hcl.webp}
+- {type: HCM, image: /history/personal-fitness/personal-fitness-hcm.webp}
+- {type: HCN, image: /history/personal-fitness/personal-fitness-hcn.webp}
+- {type: HCP, image: /history/personal-fitness/personal-fitness-hcp.webp}
+- {type: HCS, image: /history/personal-fitness/personal-fitness-hcs.webp}
+- {type: HCT, image: /history/personal-fitness/personal-fitness-hct.webp}
+trivia:
+-   q: Was the Personal Fitness badge made in every patch style of its time?
+    a: No. No Type I Personal Fitness badge is known to exist.
+-   q: Of the years with a known count, when did Scouts earn the most Personal Fitness merit badges?
+    a: 2000, when 82,865 were earned.
+- {q: 'How many Personal Fitness merit badges had been earned by 2020?', a: '2,793,990.'}
+-   q: What was Personal Fitness' best year in the rankings on record?
+    a: 2000, when it was 3rd of the 128 merit badges earned that year.
+- {q: 'What came before the Personal Fitness merit badge?', a: Personal Health and Physical Development.}
+- {q: 'When was the earliest known Personal Fitness pamphlet printed?', a: June 1953.}

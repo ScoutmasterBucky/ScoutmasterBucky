@@ -1,0 +1,119 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Farm Records
+precededBy: Farm Records & Bookkeeping Became Farm & Ranch Management
+introduced: 1959
+discontinued: '1980'
+replacedWith: Farm & Ranch Management
+timeline:
+-   year: 1959
+    text: 'The Farm Records merit badge is introduced. The first Farm Records merit badges are earned: 1,130 that year.'
+- {year: 1960, text: The earliest known Farm Records pamphlet printing (Type 6).}
+-   year: 1961
+    text: 'All-time high: 1,471 Farm Records merit badges earned. Best ranking: 88th of 101 merit badges.'
+-   year: 1980
+    text: Last year the Farm Records merit badge is offered; it is replaced by Farm & Ranch Management.
+ranks:
+    1959: [91, 101]
+    1960: [92, 100]
+    1961: [88, 101]
+    1962: [93, 101]
+    1963: [94, 102]
+    1964: [96, 107]
+    1965: [97, 109]
+    1966: [101, 110]
+    1967: [102, 112]
+    1968: [106, 112]
+    1969: [107, 113]
+    1970: [107, 113]
+    1971: [108, 113]
+    1972: [117, 124]
+    1973: [110, 122]
+    1974: [119, 121]
+    1975: [120, 128]
+    1976: [120, 130]
+    1977: [119, 130]
+    1978: [120, 131]
+    1979: [114, 132]
+    1980: [122, 132]
+    1981: [121, 134]
+lifetimeRank: {rank: 196, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 198
+    range: [198, 198]
+    asOf: 2025
+earned:
+    totalThrough: 1988
+    total: 21908
+    byYear:
+        1959: 1130
+        1960: 1277
+        1961: 1471
+        1962: 1155
+        1963: 961
+        1964: 923
+        1965: 915
+        1966: 1031
+        1967: 945
+        1968: 751
+        1969: 807
+        1970: 859
+        1971: 729
+        1972: 965
+        1973: 937
+        1974: 1282
+        1975: 1185
+        1976: 1428
+        1977: 1285
+        1978: 847
+        1979: 899
+        1980: 52
+        1981: 74
+        1982: 0
+        1983: 0
+        1984: 0
+        1985: 0
+        1986: 0
+        1987: 0
+        1988: 0
+patches:
+- {type: E, years: 1959-1960, image: /history/farm-records/farm-records-patch-e.webp}
+- {type: F, years: 1961-1968, image: /history/farm-records/farm-records-patch-f.webp}
+- {type: G, years: 1961-1971, image: /history/farm-records/farm-records-patch-g.webp}
+-   type: H
+    years: 1972-1980
+    image: /history/farm-records/farm-records-patch-h.webp
+    more:
+    - {image: /history/farm-records/farm-records-patch-h1-1-front.webp, label: 'H variation H1-1, front'}
+    - {image: /history/farm-records/farm-records-patch-h1-1-reverse.webp, label: 'H variation H1-1, back'}
+    - {image: /history/farm-records/farm-records-patch-h1-mve-front.webp, label: 'H variation H1-MVE, front'}
+    - {image: /history/farm-records/farm-records-patch-h1-mve-reverse.webp, label: 'H variation H1-MVE, back'}
+    -   image: /history/farm-records/farm-records-patch-h1-mve1-front.webp
+        label: H variation H1-MVE1, front
+    -   image: /history/farm-records/farm-records-patch-h1-mve1-reverse.webp
+        label: H variation H1-MVE1, back
+    - {image: /history/farm-records/farm-records-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/farm-records/farm-records-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/farm-records/farm-records-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/farm-records/farm-records-patch-h3-reverse.webp, label: 'H variation H3, back'}
+pamphlets:
+- {type: '6', image: /history/farm-records/farm-records-6.webp}
+- {type: '7', image: /history/farm-records/farm-records-7.webp}
+- {type: '8', image: /history/farm-records/farm-records-8.webp}
+hardcovers:
+- {type: HCL, image: /history/farm-records/farm-records-hcl.webp}
+- {type: HCP, image: /history/farm-records/farm-records-hcp.webp}
+- {type: HCR, image: /history/farm-records/farm-records-hcr.webp}
+- {type: HCT, image: /history/farm-records/farm-records-hct.webp}
+trivia:
+-   q: In what year did Scouts earn the most Farm Records merit badges?
+    a: 1961, when 1,471 were earned.
+- {q: 'How many Farm Records merit badges had been earned by 1988?', a: '21,908.'}
+-   q: What was Farm Records' best year in the rankings on record?
+    a: 1961, when it was 88th of the 101 merit badges earned that year.
+-   q: What came before the Farm Records merit badge?
+    a: Farm Records & Bookkeeping Became Farm & Ranch Management.
+- {q: 'What replaced Farm Records after 1980?', a: Farm & Ranch Management.}
+- {q: 'When was the earliest known Farm Records pamphlet printed?', a: October 1960.}

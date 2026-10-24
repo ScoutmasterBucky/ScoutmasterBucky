@@ -1,0 +1,81 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Geocaching
+precededBy: None
+introduced: 2010
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2010
+    text: 'The Geocaching merit badge is introduced. The first Geocaching merit badges are earned: 4,533 that year. The earliest known Geocaching pamphlet printing (Type 10C).'
+- {year: 2011, text: 'All-time high: 19,419 Geocaching merit badges earned.'}
+- {year: 2013, text: 'Best ranking: 26th of 129 merit badges.'}
+ranks:
+    2010: [89, 125]
+    2011: [32, 129]
+    2012: [35, 132]
+    2013: [26, 129]
+    2014: [37, 136]
+    2015: [37, 138]
+    2016: [35, 138]
+    2017: [42, 139]
+    2018: [40, 139]
+    2019: [47, 139]
+    2020: [59, 137]
+    2021: [41, 137]
+    2022: [48, 138]
+    2023: [51, 138]
+    2024: [46, 138]
+    2025: [53, 141]
+lifetimeRank: {rank: 129, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 117
+    range: [114, 119]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 149929
+    byYear:
+        2010: 4533
+        2011: 19419
+        2012: 18711
+        2013: 17031
+        2014: 16785
+        2015: 15582
+        2016: 15210
+        2017: 12604
+        2018: 12972
+        2019: 11271
+        2020: 5811
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: K
+    years: 2010-2014
+    image: /history/geocaching/geocaching-patch-k.webp
+    more:
+    - {image: /history/geocaching/geocaching-patch-k-front.webp, label: K front}
+    - {image: /history/geocaching/geocaching-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    image: /history/geocaching/geocaching-patch-l.webp
+    more:
+    - {image: /history/geocaching/geocaching-patch-l-front.webp, label: L front}
+    - {image: /history/geocaching/geocaching-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10C, image: /history/geocaching/geocaching-10c.webp}
+- {type: 10D, image: /history/geocaching/geocaching-10d.webp}
+- {type: 11A, status: missing}
+trivia:
+-   q: In what year did Scouts earn the most Geocaching merit badges?
+    a: 2011, when 19,419 were earned.
+- {q: 'How many Geocaching merit badges had been earned by 2020?', a: '149,929.'}
+-   q: What was Geocaching's best year in the rankings on record?
+    a: 2013, when it was 26th of the 129 merit badges earned that year.
+- {q: 'When was the earliest known Geocaching pamphlet printed?', a: '2010.'}

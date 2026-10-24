@@ -1,0 +1,60 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Reptile Study
+precededBy: Reptiles Became Reptile and Amphibian Study
+introduced: 1927
+discontinued: '1993'
+replacedWith: Reptile and Amphibian Study
+timeline:
+-   year: 1927
+    text: The Reptile Study merit badge is introduced. The earliest known Reptile Study pamphlet printing (Type 3A).
+-   year: 1993
+    text: Last year the Reptile Study merit badge is offered; it is replaced by Reptile and Amphibian Study.
+patches:
+- {type: A, years: 1927-1933, image: /history/reptile-study/reptile-study-patch-a.webp}
+- {type: B, years: 1934-1935, image: /history/reptile-study/reptile-study-patch-b.webp}
+- {type: C, years: 1936-1942, image: /history/reptile-study/reptile-study-patch-c.webp}
+- {type: D, years: 1942-1946, status: missing}
+- {type: E, years: 1947-1960, image: /history/reptile-study/reptile-study-patch-e.webp}
+- {type: F, years: 1961-1968, image: /history/reptile-study/reptile-study-patch-f.webp}
+- {type: G, years: 1961-1971, image: /history/reptile-study/reptile-study-patch-g.webp}
+-   type: H
+    years: 1972-1993
+    image: /history/reptile-study/reptile-study-patch-h.webp
+    more:
+    - {image: /history/reptile-study/reptile-study-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/reptile-study/reptile-study-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/reptile-study/reptile-study-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/reptile-study/reptile-study-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/reptile-study/reptile-study-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/reptile-study/reptile-study-patch-h3-reverse.webp, label: 'H variation H3, back'}
+- {type: I, years: '1993', status: unknown}
+pamphlets:
+- {type: 3A, status: missing}
+- {type: 3B, status: missing}
+- {type: 3C, status: missing}
+- {type: 3D, status: missing}
+- {type: '4', image: /history/reptile-study/reptile-study-4.webp}
+- {type: 5A, status: missing}
+- {type: 5B, status: missing}
+- {type: '6', status: missing}
+- {type: 7A, status: missing}
+- {type: 7B, status: missing}
+- {type: 8A, status: missing}
+- {type: 8B, status: missing}
+- {type: '9', status: missing}
+hardcovers:
+- {type: HCB, image: /history/reptile-study/reptile-study-hcb.webp}
+- {type: HCJ, image: /history/reptile-study/reptile-study-hcj.webp}
+- {type: HCK, image: /history/reptile-study/reptile-study-hck.webp}
+- {type: HCL, image: /history/reptile-study/reptile-study-hcl.webp}
+- {type: HCP, image: /history/reptile-study/reptile-study-hcp.webp}
+- {type: HCT, image: /history/reptile-study/reptile-study-hct.webp}
+trivia:
+-   q: Was the Reptile Study badge made in every patch style of its time?
+    a: No. No Type I Reptile Study badge is known to exist.
+- {q: 'What came before the Reptile Study merit badge?', a: Reptiles Became Reptile and Amphibian Study.}
+- {q: 'What replaced Reptile Study after 1993?', a: Reptile and Amphibian Study.}
+- {q: 'When was the earliest known Reptile Study pamphlet printed?', a: '1927.'}

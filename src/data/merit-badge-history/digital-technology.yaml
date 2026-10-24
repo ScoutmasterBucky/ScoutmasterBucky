@@ -1,0 +1,76 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Digital Technology
+precededBy: Computers
+precededByLink: computers
+introduced: 2014
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2014
+    text: 'The Digital Technology merit badge is introduced. The first Digital Technology merit badges are earned: 3,014 that year. The earliest known Digital Technology pamphlet printing (Type 10C-1).'
+- {year: 2015, text: 'All-time high: 9,383 Digital Technology merit badges earned.'}
+- {year: 2020, text: 'Best ranking: 29th of 137 merit badges.'}
+ranks:
+    2014: [112, 136]
+    2015: [62, 138]
+    2016: [60, 138]
+    2017: [58, 139]
+    2018: [63, 139]
+    2019: [68, 139]
+    2020: [29, 137]
+    2021: [68, 137]
+    2022: [74, 138]
+    2023: [70, 138]
+    2024: [69, 138]
+    2025: [72, 141]
+lifetimeRank: {rank: 168, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 162
+    range: [161, 164]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 54274
+    byYear:
+        2014: 3014
+        2015: 9383
+        2016: 9344
+        2017: 8768
+        2018: 7857
+        2019: 7096
+        2020: 8812
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+-   type: K
+    years: '2014'
+    note: BSA 2010 back
+    image: /history/digital-technology/digital-technology-patch-k.webp
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/digital-technology/digital-technology-patch-l.webp
+    more:
+    - {image: /history/digital-technology/digital-technology-patch-l-front.webp, label: L front}
+    - {image: /history/digital-technology/digital-technology-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10C-1, image: /history/digital-technology/digital-technology-10c-1.webp}
+- {type: 10C-2A, image: /history/digital-technology/digital-technology-10c-2a.webp}
+- {type: 10C-2B, image: /history/digital-technology/digital-technology-10c-2b.webp}
+- {type: 10D-1, image: /history/digital-technology/digital-technology-10d-1.webp}
+- {type: 10D-2, image: /history/digital-technology/digital-technology-10d-2.webp}
+trivia:
+-   q: In what year did Scouts earn the most Digital Technology merit badges?
+    a: 2015, when 9,383 were earned.
+- {q: 'How many Digital Technology merit badges had been earned by 2020?', a: '54,274.'}
+-   q: What was Digital Technology's best year in the rankings on record?
+    a: 2020, when it was 29th of the 137 merit badges earned that year.
+- {q: 'What came before the Digital Technology merit badge?', a: Computers.}
+- {q: 'When was the earliest known Digital Technology pamphlet printed?', a: '2014.'}

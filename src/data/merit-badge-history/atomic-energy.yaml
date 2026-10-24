@@ -1,0 +1,173 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Atomic Energy
+precededBy: Introduced as Atomic Energy Nuclear Science
+introduced: 1963
+discontinued: '2004'
+replacedWith: Nuclear Science current
+story: ['The Atomic Energy merit badge was first announced in the October 1963 edition of Scouting Magazine. Some Scouts were able to earn the merit badge starting in 1964 thru the use of the prototype
+        pamphlets and the requirements posted in the 1963 article. In 2005, the title was changed to Nuclear Science but continued the exisiting merit badge design. Totals show here are for both merit badges.']
+timeline:
+-   year: 1963
+    text: The Atomic Energy merit badge is introduced. The earliest known Atomic Energy pamphlet printing (Type SPECIAL).
+- {year: 1964, text: 'First known count: 1,188 Atomic Energy merit badges earned.'}
+-   year: 1993
+    text: 'All-time high: 6,278 Atomic Energy merit badges earned. Best ranking: 60th of 123 merit badges.'
+-   year: 2004
+    text: Last year the Atomic Energy merit badge is offered; it is replaced by Nuclear Science current.
+ranks:
+    1964: [95, 107]
+    1965: [87, 109]
+    1966: [68, 110]
+    1967: [67, 112]
+    1968: [64, 112]
+    1969: [75, 113]
+    1970: [76, 113]
+    1971: [79, 113]
+    1972: [97, 124]
+    1973: [85, 122]
+    1974: [94, 121]
+    1975: [97, 128]
+    1976: [97, 130]
+    1977: [98, 130]
+    1978: [102, 131]
+    1979: [94, 132]
+    1980: [98, 132]
+    1981: [97, 134]
+    1993: [60, 123]
+    1996: [73, 134]
+    2000: [75, 128]
+    2001: [74, 129]
+    2002: [84, 129]
+    2003: [81, 130]
+    2004: [75, 121]
+earned:
+    totalThrough: 2004
+    total: 79446
+    totalKnownOnly: true
+    byYear:
+        1963: null
+        1964: 1188
+        1965: 1589
+        1966: 2871
+        1967: 3206
+        1968: 3522
+        1969: 3037
+        1970: 3002
+        1971: 2513
+        1972: 2085
+        1973: 3240
+        1974: 3417
+        1975: 3085
+        1976: 2803
+        1977: 2515
+        1978: 1994
+        1979: 1758
+        1980: 873
+        1981: 1426
+        1982: null
+        1983: null
+        1984: null
+        1985: null
+        1986: null
+        1987: null
+        1988: null
+        1989: null
+        1990: null
+        1991: null
+        1992: null
+        1993: 6278
+        1994: null
+        1995: null
+        1996: 4188
+        1997: null
+        1998: null
+        1999: null
+        2000: 5230
+        2001: 5106
+        2002: 4439
+        2003: 4792
+        2004: 5289
+patches:
+- {type: F, years: 1963-1968, status: missing}
+-   type: G
+    years: 1961-1971
+    note: cloth back
+    image: /history/atomic-energy/atomic-energy-patch-g.webp
+    more:
+    - {image: /history/atomic-energy/atomic-energy-patch-g-reverse.webp, label: G back}
+-   type: H
+    years: 1972-2002
+    note: blue, clear, and molded
+    image: /history/atomic-energy/atomic-energy-patch-h.webp
+    more:
+    - {image: /history/atomic-energy/atomic-energy-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/atomic-energy/atomic-energy-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    - {image: /history/atomic-energy/atomic-energy-patch-h1-1-front.webp, label: 'H variation H1-1, front'}
+    - {image: /history/atomic-energy/atomic-energy-patch-h1-1-reverse.webp, label: 'H variation H1-1, back'}
+    - {image: /history/atomic-energy/atomic-energy-patch-h1a-front.webp, label: 'H variation H1A, front'}
+    - {image: /history/atomic-energy/atomic-energy-patch-h1a-reverse.webp, label: 'H variation H1A, back'}
+    - {image: /history/atomic-energy/atomic-energy-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
+    - {image: /history/atomic-energy/atomic-energy-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    - {image: /history/atomic-energy/atomic-energy-patch-h3-front.webp, label: 'H variation H3, front'}
+    - {image: /history/atomic-energy/atomic-energy-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    - {image: /history/atomic-energy/atomic-energy-patch-hb-front.webp, label: HB front}
+    - {image: /history/atomic-energy/atomic-energy-patch-hb-reverse.webp, label: HB back}
+    - {image: /history/atomic-energy/atomic-energy-patch-hc-front.webp, label: HC front}
+    - {image: /history/atomic-energy/atomic-energy-patch-hc-reverse.webp, label: HC back}
+    - {image: /history/atomic-energy/atomic-energy-patch-hm-reverse.webp, label: HM back}
+-   type: I
+    years: 1993-1995
+    note: 38mm and 42mm
+    image: /history/atomic-energy/atomic-energy-patch-i42.webp
+    more:
+    - {image: /history/atomic-energy/atomic-energy-patch-ia-front.webp, label: IA front}
+    - {image: /history/atomic-energy/atomic-energy-patch-ia-reverse.webp, label: IA back}
+    - {image: /history/atomic-energy/atomic-energy-patch-ib-front.webp, label: IB front}
+    - {image: /history/atomic-energy/atomic-energy-patch-ib-reverse.webp, label: IB back}
+-   type: I
+    years: 1993-1995
+    note: variation I38
+    image: /history/atomic-energy/atomic-energy-patch-i38.webp
+-   type: J
+    years: 2002-2004
+    note: Scout Stuff back
+    image: /history/atomic-energy/atomic-energy-patch-j.webp
+    more:
+    - {image: /history/atomic-energy/atomic-energy-patch-j-front.webp, label: J front}
+    - {image: /history/atomic-energy/atomic-energy-patch-j-reverse.webp, label: J back}
+-   type: J
+    years: 2005-2009
+    note: Scout Stuff back
+    image: /history/atomic-energy/atomic-energy-patch-j.webp
+- {type: K, years: 2010-2014, note: BSA 2010 back, status: missing}
+- {type: L, years: 2015-current, note: Since 1910 back, status: missing}
+pamphlets:
+-   type: '2'
+    image: /history/atomic-energy/atomic-energy-prototype-2.webp
+    note: Atomic Energy – Prototype
+-   type: '3'
+    image: /history/atomic-energy/atomic-energy-prototype-3.webp
+    note: Atomic Energy – Prototype
+- {type: '6', image: /history/atomic-energy/atomic-energy-6.webp}
+- {type: '7', image: /history/atomic-energy/atomic-energy-7.webp}
+- {type: '8', image: /history/atomic-energy/atomic-energy-8.webp}
+- {type: 9A, image: /history/atomic-energy/atomic-energy-9a.webp}
+- {type: 9B-1, image: /history/atomic-energy/atomic-energy-9b-1.webp}
+- {type: 9B-2, image: /history/atomic-energy/atomic-energy-9b-2.webp}
+- {type: SPECIAL, status: missing}
+hardcovers:
+- {type: HCL, image: /history/atomic-energy/atomic-energy-hcl.webp}
+- {type: HCM, image: /history/atomic-energy/atomic-energy-hcm.webp}
+- {type: HCN, image: /history/atomic-energy/atomic-energy-hcn.webp}
+- {type: HCS, image: /history/atomic-energy/atomic-energy-hcs.webp}
+trivia:
+-   q: Of the years with a known count, when did Scouts earn the most Atomic Energy merit badges?
+    a: 1993, when 6,278 were earned.
+-   q: What was Atomic Energy's best year in the rankings on record?
+    a: 1993, when it was 60th of the 123 merit badges earned that year.
+- {q: 'What came before the Atomic Energy merit badge?', a: Introduced as Atomic Energy Nuclear Science.}
+- {q: 'What replaced Atomic Energy after 2004?', a: Nuclear Science current.}
+- {q: 'When was the earliest known Atomic Energy pamphlet printed?', a: '1963.'}

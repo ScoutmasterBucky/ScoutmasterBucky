@@ -1,0 +1,178 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Cotton Farming
+precededBy: None
+introduced: 1931
+discontinued: '1975'
+replacedWith: Plant Science
+timeline:
+-   year: 1931
+    text: 'The Cotton Farming merit badge is introduced. The first Cotton Farming merit badges are earned: 669 that year. The earliest known Cotton Farming pamphlet printing (Type 3B). Best ranking: 82nd
+        of 96 merit badges.'
+- {year: 1974, text: 'All-time high: 986 Cotton Farming merit badges earned.'}
+-   year: 1975
+    text: Last year the Cotton Farming merit badge is offered; it is replaced by Plant Science.
+ranks:
+    1931: [82, 96]
+    1932: [97, 98]
+    1933: [101, 101]
+    1934: [100, 101]
+    1935: [95, 101]
+    1936: [97, 101]
+    1937: [91, 102]
+    1938: [102, 105]
+    1939: [104, 106]
+    1940: [105, 106]
+    1941: [105, 106]
+    1942: [107, 110]
+    1943: [104, 112]
+    1944: [106, 111]
+    1945: [106, 111]
+    1946: [106, 111]
+    1947: [108, 111]
+    1948: [110, 111]
+    1949: [108, 111]
+    1950: [104, 111]
+    1951: [106, 111]
+    1952: [115, 120]
+    1953: [102, 105]
+    1954: [100, 103]
+    1955: [97, 100]
+    1956: [100, 100]
+    1957: [100, 100]
+    1958: [101, 101]
+    1959: [101, 101]
+    1960: [100, 100]
+    1961: [101, 101]
+    1962: [101, 101]
+    1963: [102, 102]
+    1964: [105, 107]
+    1965: [108, 109]
+    1966: [110, 110]
+    1967: [110, 112]
+    1968: [112, 112]
+    1969: [113, 113]
+    1970: [113, 113]
+    1971: [113, 113]
+    1972: [121, 124]
+    1973: [117, 122]
+    1974: [121, 121]
+    1975: [128, 128]
+    1976: [129, 130]
+    1977: [130, 130]
+    1978: [131, 131]
+    1979: [122, 132]
+    1981: [133, 134]
+lifetimeRank: {rank: 205, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 207
+    range: [207, 208]
+    asOf: 2025
+earned:
+    totalThrough: 1981
+    total: 13853
+    byYear:
+        1931: 669
+        1932: 87
+        1933: 85
+        1934: 97
+        1935: 279
+        1936: 179
+        1937: 464
+        1938: 232
+        1939: 171
+        1940: 145
+        1941: 152
+        1942: 156
+        1943: 202
+        1944: 295
+        1945: 273
+        1946: 208
+        1947: 186
+        1948: 140
+        1949: 205
+        1950: 301
+        1951: 372
+        1952: 358
+        1953: 261
+        1954: 316
+        1955: 428
+        1956: 382
+        1957: 324
+        1958: 286
+        1959: 377
+        1960: 289
+        1961: 263
+        1962: 293
+        1963: 257
+        1964: 206
+        1965: 223
+        1966: 246
+        1967: 240
+        1968: 237
+        1969: 292
+        1970: 171
+        1971: 188
+        1972: 571
+        1973: 623
+        1974: 986
+        1975: 447
+        1976: 376
+        1977: 155
+        1978: 81
+        1979: 44
+        1980: 0
+        1981: 2
+patches:
+- {type: A, years: 1931-1933, image: /history/cotton-farming/cotton-farming-patch-a.webp}
+- {type: B, years: 1934-1935, note: heavyweight cloth, status: missing}
+-   type: C
+    years: 1936-1942
+    note: heavyweight and lightweight cloth
+    image: /history/cotton-farming/cotton-farming-patch-c.webp
+-   type: D
+    years: 1942-1946
+    note: fine twill cloth
+    image: /history/cotton-farming/cotton-farming-patch-d.webp
+- {type: E, years: 1947-1960, image: /history/cotton-farming/cotton-farming-patch-e.webp}
+-   type: F
+    years: 1961-1968
+    note: rolled edge
+    image: /history/cotton-farming/cotton-farming-patch-f.webp
+-   type: G
+    years: 1961-1971
+    note: cloth back
+    image: /history/cotton-farming/cotton-farming-patch-g.webp
+-   type: H
+    years: 1972-1975
+    note: blue
+    image: /history/cotton-farming/cotton-farming-patch-h.webp
+    more:
+    - {image: /history/cotton-farming/cotton-farming-patch-h1-front.webp, label: 'H variation H1, front'}
+    - {image: /history/cotton-farming/cotton-farming-patch-h1-reverse.webp, label: 'H variation H1, back'}
+pamphlets:
+- {type: 3B, image: /history/cotton-farming/cotton-farming-3b.webp}
+- {type: 3D, image: /history/cotton-farming/cotton-farming-3d.webp}
+- {type: 5B, image: /history/cotton-farming/cotton-framing-5b.webp, note: Cotton Framing}
+- {type: '6', image: /history/cotton-farming/cotton-farming-6.webp}
+- {type: '7', image: /history/cotton-farming/cotton-farming-7.webp}
+- {type: '8', image: /history/cotton-farming/cotton-farming-8.webp}
+hardcovers:
+- {type: HCC, image: /history/cotton-farming/cotton-farming-hcc.webp}
+- {type: HCE, image: /history/cotton-farming/cotton-farming-hce.webp}
+- {type: HCH, image: /history/cotton-farming/cotton-farming-hch.webp}
+- {type: HCJ, image: /history/cotton-farming/cotton-farming-hcj.webp}
+- {type: HCK, image: /history/cotton-farming/cotton-farming-hck.webp}
+- {type: HCL, image: /history/cotton-farming/cotton-farming-hcl.webp}
+- {type: HCM, image: /history/cotton-farming/cotton-farming-hcm.webp}
+- {type: HCP, image: /history/cotton-farming/cotton-farming-hcp.webp}
+trivia:
+-   q: In what year did Scouts earn the most Cotton Farming merit badges?
+    a: 1974, when 986 were earned.
+- {q: 'How many Cotton Farming merit badges had been earned by 1981?', a: '13,853.'}
+-   q: What was Cotton Farming's best year in the rankings on record?
+    a: 1931, when it was 82nd of the 96 merit badges earned that year.
+- {q: 'What replaced Cotton Farming after 1975?', a: Plant Science.}
+- {q: 'When was the earliest known Cotton Farming pamphlet printed?', a: December 1931.}

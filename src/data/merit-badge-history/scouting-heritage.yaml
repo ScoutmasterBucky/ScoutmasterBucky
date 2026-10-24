@@ -1,0 +1,85 @@
+# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Delete this first line once the page is hand-edited, so it is never overwritten.
+# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+
+name: Scouting Heritage
+precededBy: N/A
+introduced: 2010
+discontinued: Current
+replacedWith: Current
+timeline:
+-   year: 2010
+    text: 'The Scouting Heritage merit badge is introduced. The first Scouting Heritage merit badges are earned: 3,814 that year. The earliest known Scouting Heritage pamphlet printing (Type 10C).'
+-   year: 2020
+    text: 'All-time high: 6,517 Scouting Heritage merit badges earned. Best ranking: 47th of 137 merit badges.'
+ranks:
+    2010: [94, 125]
+    2011: [70, 129]
+    2012: [69, 132]
+    2013: [55, 129]
+    2014: [81, 136]
+    2015: [84, 138]
+    2016: [82, 138]
+    2017: [77, 139]
+    2018: [79, 139]
+    2019: [76, 139]
+    2020: [47, 137]
+    2021: [65, 137]
+    2022: [82, 138]
+    2023: [75, 138]
+    2024: [78, 138]
+    2025: [77, 141]
+lifetimeRank: {rank: 163, asOf: 2020}
+lifetimeRankEstimate:
+    rank: 159
+    range: [156, 160]
+    asOf: 2025
+earned:
+    totalThrough: 2020
+    total: 62290
+    byYear:
+        2010: 3814
+        2011: 6407
+        2012: 5394
+        2013: 5660
+        2014: 5572
+        2015: 5558
+        2016: 5266
+        2017: 5916
+        2018: 5901
+        2019: 6285
+        2020: 6517
+        2021: null
+        2022: null
+        2023: null
+        2024: null
+        2025: null
+patches:
+- {type: J, image: /history/scouting-heritage/scouting-heritage-patch-j.webp}
+-   type: K
+    years: 2010-2014
+    note: BSA 2010 back
+    image: /history/scouting-heritage/scouting-heritage-patch-k.webp
+    more:
+    - {image: /history/scouting-heritage/scouting-heritage-patch-k-front.webp, label: K front}
+    - {image: /history/scouting-heritage/scouting-heritage-patch-k-reverse.webp, label: K back}
+-   type: L
+    years: 2015-2025
+    note: Since 1910 back
+    image: /history/scouting-heritage/scouting-heritage-patch-l.webp
+    more:
+    - {image: /history/scouting-heritage/scouting-heritage-patch-l-front.webp, label: L front}
+    - {image: /history/scouting-heritage/scouting-heritage-patch-l-reverse.webp, label: L back}
+- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+pamphlets:
+- {type: 10C, status: missing}
+- {type: 10D, status: missing}
+- {type: 11A, status: missing}
+trivia:
+-   q: In what year did Scouts earn the most Scouting Heritage merit badges?
+    a: 2020, when 6,517 were earned.
+- {q: 'How many Scouting Heritage merit badges had been earned by 2020?', a: '62,290.'}
+-   q: What was Scouting Heritage's best year in the rankings on record?
+    a: 2020, when it was 47th of the 137 merit badges earned that year.
+- {q: 'What came before the Scouting Heritage merit badge?', a: N/A.}
+- {q: 'When was the earliest known Scouting Heritage pamphlet printed?', a: '2010.'}
