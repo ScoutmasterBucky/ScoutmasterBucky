@@ -5,7 +5,6 @@ import ScaledContent from '~/components/scaled-content.astro';
 import SmbNews from '~/components/smb-news.astro';
 import TestLabTiles from '~/components/test-lab-tiles.astro';
 import UpcomingEvents from '~/components/upcoming-events.astro';
-import WeeklyPoll from '~/components/weekly-poll.astro';
 import { DateTime } from 'luxon';
 
 const news = [
@@ -69,8 +68,6 @@ const lastBuildTime = DateTime.now()
     </div>
 
     {news && news.length > 0 && <SmbNews news={news} />}
-
-    <WeeklyPoll />
 
     <UpcomingEvents />
 
