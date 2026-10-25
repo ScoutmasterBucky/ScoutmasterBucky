@@ -418,6 +418,9 @@ leathercraft:
 leatherwork:
     name: Leatherwork
     active: true
+leatherworking:
+    name: Leatherworking
+    active: false
 lifesaving:
     name: Lifesaving
     active: true
@@ -586,6 +589,9 @@ rowing:
 safety:
     name: Safety
     active: true
+safety-first:
+    name: Safety First
+    active: false
 salesmanship:
     name: Salesmanship
     active: true
@@ -601,33 +607,54 @@ scuba-diving:
 sculpture:
     name: Sculpture
     active: true
+seamanship:
+    name: Seamanship
+    active: false
 search-and-rescue:
     name: Search and Rescue
     active: true
+sheep-farming:
+    name: Sheep Farming
+    active: false
 shotgun-shooting:
     name: Shotgun Shooting
     active: true
+signaling:
+    name: Signaling
+    active: false
 signs-signals-and-codes:
     name: Signs, Signals, and Codes
     active: true
 skating:
     name: Skating
     active: true
+skiing:
+    name: Skiing
+    active: false
 small-boat-sailing:
     name: Small-Boat Sailing
     active: true
+small-grains-and-cereal-foods:
+    name: Small Grains and Cereal Foods
+    active: false
 snow-sports:
     name: Snow Sports
     active: true
 soil-and-water-conservation:
     name: Soil and Water Conservation
     active: true
+soil-management:
+    name: Soil Management
+    active: false
 space-exploration:
     name: Space Exploration
     active: true
 sports:
     name: Sports
     active: true
+stalking:
+    name: Stalking
+    active: false
 stamp-collecting:
     name: Stamp Collecting
     active: true
@@ -640,6 +667,9 @@ sustainability:
 swimming:
     name: Swimming
     active: true
+taxidermy:
+    name: Taxidermy
+    active: false
 textile:
     name: Textile
     active: true
@@ -655,6 +685,12 @@ truck-transportation:
 veterinary-medicine:
     name: Veterinary Medicine
     active: true
+veterinary-science:
+    name: Veterinary Science
+    active: false
+water-skiing:
+    name: Water Skiing
+    active: false
 water-sports:
     name: Water Sports
     active: true
@@ -673,9 +709,24 @@ wilderness-survival:
 wildland-fire-management:
     name: Wildland Fire Management
     active: true
+wildlife-management:
+    name: Wildlife Management
+    active: false
+wireless:
+    name: Wireless
+    active: false
 wood-carving:
     name: Wood Carving
     active: true
+wood-turning:
+    name: Wood Turning
+    active: false
 woodwork:
     name: Woodwork
     active: true
+world-brotherhood:
+    name: World Brotherhood
+    active: false
+zoology:
+    name: Zoology
+    active: false

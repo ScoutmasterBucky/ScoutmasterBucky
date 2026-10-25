@@ -2,7 +2,6 @@
 import DefaultLayout from '~/layouts/default-layout.astro';
 import MeritBadgeHistoryHub from '~/components/merit-badge-history-hub.astro';
 import badgeNames from '~/data/historical-merit-badges.yaml';
-import { historyPhoto } from '~/utils/merit-badge-history';
 
 const badges = Object.values(badgeNames as Record<string, { active: boolean }>);
 const stats = [
@@ -30,24 +29,24 @@ const founders = [
         year: '1908',
         name: 'Robert Baden-Powell',
         role: 'Founder of the worldwide Scouting movement',
-        image: '/history/robert-stephenson-smyth-baden-powell-watercolor.webp',
+        image: '/history/robert-stephenson-smyth-baden-powell-watercolor.jpg',
         alt: 'Watercolor portrait of Robert Stephenson Smyth Baden-Powell',
     },
     {
         year: '1910',
         name: 'William D. Boyce',
         role: 'Incorporated the Boy Scouts of America',
-        image: '/history/william-dickson-boyce-watercolor.webp',
+        image: '/history/william-dickson-boyce-watercolor.jpg',
         alt: 'Watercolor portrait of William Dickson Boyce',
     },
     {
         year: '1910',
         name: 'Ernest Thompson Seton',
         role: 'Author, nature artist and naturalist',
-        image: '/history/ernest-thompson-seton-watercolor.webp',
+        image: '/history/ernest-thompson-seton-watercolor.jpg',
         alt: 'Watercolor portrait of Ernest Thompson Seton',
     },
-].map(f => ({ ...f, image: historyPhoto(f.image) }));
+];
 ---
 
 <DefaultLayout title="Merit Badge History">
@@ -154,7 +153,7 @@ const founders = [
         <h3>Did you know?</h3>
         <figure>
             <img
-                src={historyPhoto('/history/eagle-scout-badge-1911.webp')}
+                src="/history/eagle-scout-badge-1911.png"
                 alt="Drawing of the Eagle Scout badge from the 1911 Official Handbook for Boys: an eagle hanging from a ribbon"
                 title="Eagle Scout badge, 1911 Official Handbook for Boys"
             />

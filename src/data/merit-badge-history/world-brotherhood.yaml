@@ -1,6 +1,6 @@
-# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
-# Delete this first line once the page is hand-edited, so it is never overwritten.
-# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+# World Brotherhood merit badge history. Approved by Bucky on 2026-10-25; the
+# generator no longer overwrites this file. Research sources are in
+# history-tools/research/world-brotherhood.yaml.
 
 name: World Brotherhood
 precededBy: Citizenship
@@ -8,15 +8,16 @@ precededByLink: citizenship
 introduced: 1952
 discontinued: '1972'
 replacedWith: Citizenship in the World
-story: ['In 1952 the Citizenship merit badge was broke into 4 individual merit badges; Citizenship in the Home, Citizenship in the Community, Citizenship in the Nation, and World Brotherhood, which in 1972
-        would eventually turn into Citizneship in the World. These 4 merit badges still utilized the Citizenship merit badge pamphlet until 1972 when they were reorganized into their own subject matters.
-        The World Brotherhood is one of the only merit badges that never had it''s own merit badge pamphlet book exclusively. The World Brotherhood merit badge was redesigned in 1969 to show the Scout sign
+story: ['In 1952 the Citizenship merit badge was broken into 4 individual merit badges; Citizenship in the Home, Citizenship in the Community, Citizenship in the Nation, and World Brotherhood, which in 1972
+        would eventually turn into Citizenship in the World. These 4 merit badges still utilized the Citizenship merit badge pamphlet until 1972 when they were reorganized into their own subject matters.
+        The World Brotherhood is one of the only merit badges that never had its own merit badge pamphlet book exclusively. The World Brotherhood merit badge was redesigned in 1969 to show the Scout sign
         on the badge, until it was morphed into the Citizenship in the World merit badge in 1972.']
 timeline:
 -   year: 1952
     text: 'The World Brotherhood merit badge is introduced. The first World Brotherhood merit badges are earned: 1,305 that year.'
 - {year: 1954, text: 'Best ranking: 36th of 103 merit badges.'}
 - {year: 1963, text: 'All-time high: 11,523 World Brotherhood merit badges earned.'}
+- {year: 1969, text: 'The badge is redesigned with the Scout sign in front of a blue globe.'}
 -   year: 1972
     text: Last year the World Brotherhood merit badge is offered; it is replaced by Citizenship in the World.
 ranks:
@@ -76,7 +77,7 @@ patches:
     years: 1952-1960
     note: variations
     image: /history/world-brotherhood/world-brotherhood-patch-e.webp
-- {type: F, status: notMade}
+- {type: F, status: notMade, note: 1961-1968 badges were fully embroidered (Type G)}
 -   type: G
     years: 1961-1968
     note: cloth and gauze back
@@ -96,12 +97,13 @@ patches:
         label: H variation H1, back
 pamphlets: []
 trivia:
--   q: Was the World Brotherhood badge made in every patch style of its time?
-    a: No. No Type F World Brotherhood badge is known to exist.
--   q: In what year did Scouts earn the most World Brotherhood merit badges?
+-   q: Which four merit badges took the place of the Citizenship badge in 1952?
+    a: Citizenship in the Home, Citizenship in the Community, Citizenship in the Nation, and World Brotherhood.
+-   q: Did World Brotherhood ever have a pamphlet of its own?
+    a: No. For its whole life, 1952 to 1972, Scouts used the same Citizenship pamphlet as the three other citizenship badges.
+-   q: How did the World Brotherhood badge change in 1969?
+    a: The Scout sign was added in front of the globe, now drawn in blue with lines of latitude and longitude.
+-   q: What did World Brotherhood become in 1972?
+    a: Citizenship in the World, which Scouts still need for the Eagle Scout rank today.
+-   q: When was World Brotherhood most popular?
     a: 1963, when 11,523 were earned.
-- {q: 'How many World Brotherhood merit badges had been earned by 1972?', a: '130,690.'}
--   q: What was World Brotherhood's best year in the rankings on record?
-    a: 1954, when it was 36th of the 103 merit badges earned that year.
-- {q: 'What came before the World Brotherhood merit badge?', a: Citizenship.}
-- {q: 'What replaced World Brotherhood after 1972?', a: Citizenship in the World.}

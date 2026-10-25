@@ -1,4 +1,4 @@
-# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Generated draft by generate_histories.py on 2026-10-25 for Bucky's review.
 # Delete this first line once the page is hand-edited, so it is never overwritten.
 # Story text is Bucky's own from his earlier page; timeline facts come from the data.
 
@@ -153,7 +153,10 @@ patches:
     image: /history/business/business-patch-c.webp
 - {type: D, status: unknown}
 - {type: E, years: 1947-1960, image: /history/business/business-patch-e.webp}
-- {type: F, years: 1961-1967, note: rolled edge, image: /history/business/business-patch-f.webp}
+-   type: F
+    years: 1961-1967
+    note: rolled edge
+    image: /history/business/business-patch-f.webp
 - {type: G, years: 1961-1967, status: missing}
 pamphlets:
 - {type: 1B-2, image: /history/business/business-1b-2.webp}

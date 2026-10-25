@@ -1,4 +1,4 @@
-# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Generated draft by generate_histories.py on 2026-10-25 for Bucky's review.
 # Delete this first line once the page is hand-edited, so it is never overwritten.
 # Story text is Bucky's own from his earlier page; timeline facts come from the data.
 
@@ -6,14 +6,14 @@ name: Wood Turning
 precededBy: None
 introduced: 1930
 discontinued: '1952'
-replacedWith: None
+replacedWith: Woodwork
 timeline:
 -   year: 1930
     text: 'The Wood Turning merit badge is introduced. The first Wood Turning merit badges are earned: 193 that year.'
 - {year: 1931, text: The earliest known Wood Turning pamphlet printing (Type 3B-1).}
 - {year: 1936, text: 'Best ranking: 34th of 101 merit badges.'}
 - {year: 1951, text: 'All-time high: 4,870 Wood Turning merit badges earned.'}
-- {year: 1952, text: Last year the Wood Turning merit badge is offered.}
+- {year: 1952, text: Last year the Wood Turning merit badge is offered; it is replaced by Woodwork.}
 ranks:
     1930: [89, 92]
     1931: [74, 96]
@@ -104,4 +104,5 @@ trivia:
 - {q: 'How many Wood Turning merit badges had been earned by 1952?', a: '78,061.'}
 -   q: What was Wood Turning's best year in the rankings on record?
     a: 1936, when it was 34th of the 101 merit badges earned that year.
+- {q: 'What replaced Wood Turning after 1952?', a: Woodwork.}
 - {q: 'When was the earliest known Wood Turning pamphlet printed?', a: June 1931.}

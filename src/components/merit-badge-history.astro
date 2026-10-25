@@ -129,6 +129,8 @@ function lineageParts(text?: string) {
 }
 const precededParts = lineageParts(history.precededBy);
 const replacedParts = lineageParts(history.replacedWith);
+// Three or more badges don't fit a single fact box, so it takes two columns
+const isLong = (parts: { href?: string }[]) => parts.filter(p => p.href).length > 2;
 // Every printing from the workbook; the easter egg always shows these (Bucky's
 // choice), while the Pamphlets section waits for approval
 const workbookPrintings = [...(Astro.props.printings ?? []), ...(data.extraPrintings ?? [])];
@@ -270,7 +272,7 @@ const printingCounts = {
                     <span class="label">Introduced</span>
                     <span class="value">{history.introduced}</span>
                 </div>
-                <div class="fact">
+                <div class:list={['fact', { long: isLong(precededParts) }]}>
                     <span class="label">Preceded by</span>
                     <span class="value">
                         {precededParts.map(p => (p.href ? <a href={p.href}>{p.text}</a> : p.text))}
@@ -286,7 +288,7 @@ const printingCounts = {
         )}
         {
             show.has('facts') && !active && (
-                <div class="fact">
+                <div class:list={['fact', { long: isLong(replacedParts) }]}>
                     <span class="label">Replaced with</span>
                     <span class="value">
                         {replacedParts.map(p => (p.href ? <a href={p.href}>{p.text}</a> : p.text))}
@@ -820,6 +822,10 @@ const printingCounts = {
         border-left: 5px solid var(--palette-light);
         border-radius: 0.4em;
         background: #fff;
+    }
+
+    .fact.long {
+        grid-column: span 2;
     }
 
     .fact.highlight {

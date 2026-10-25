@@ -1,0 +1,246 @@
+# Weekly Scouting poll shown on the home page, right below the news.
+#
+# Each entry starts on its Monday (America/Chicago) and runs until the next
+# entry's Monday. Keep the weeks in order, one per Monday, 3 to 6 options each.
+# "fact" is optional: a short, true fun fact shown after someone votes.
+#
+# Never reorder or reword the options of a week that has already started:
+# votes are counted by option position.
+#
+# The build prints a warning (and the Monday watch reports it) when fewer than
+# four weeks of questions are left, so new ones can be added in time.
+
+- week: '2026-10-26'
+  question: What is the best campfire treat?
+  options:
+      - S'mores
+      - Banana boats
+      - Dutch oven cobbler
+      - Pie iron pies
+      - Popcorn over the fire
+
+- week: '2026-11-02'
+  question: Which knot do you trust the most?
+  options:
+      - Bowline
+      - Square knot
+      - Taut-line hitch
+      - Clove hitch
+      - Two half hitches
+  fact: The bowline is often called the "king of knots" because it makes a loop that will not slip or jam.
+
+- week: '2026-11-09'
+  question: Which outdoor skill would you most like to master?
+  options:
+      - Building a fire
+      - Map and compass navigation
+      - Knots and lashings
+      - Camp cooking
+      - First aid
+
+- week: '2026-11-16'
+  question: What is the best patrol job on a campout?
+  options:
+      - Cook
+      - Firewood gatherer
+      - Water hauler
+      - Dish washer
+      - Tent setup crew
+
+- week: '2026-11-23'
+  question: What is the best campout meal?
+  options:
+      - Foil packet dinners
+      - Chili
+      - Pancake breakfast
+      - Walking tacos
+      - Dutch oven pizza
+
+- week: '2026-11-30'
+  question: What kind of merit badge do you enjoy most?
+  options:
+      - Outdoor skills
+      - Science and technology
+      - Citizenship
+      - Hobbies and the arts
+      - Careers and trades
+
+- week: '2026-12-07'
+  question: What is the coldest night you would go camping?
+  options:
+      - Above 40 degrees, thank you
+      - In the 20s or 30s
+      - In the single digits
+      - Below zero, bring it on
+      - I'll take the cabin
+
+- week: '2026-12-14'
+  question: What is the best gift for a Scout?
+  options:
+      - A good sleeping bag
+      - A headlamp
+      - A camping hammock
+      - A mess kit
+      - A new backpack
+
+- week: '2026-12-21'
+  question: How will you spend your winter break?
+  options:
+      - Sledding
+      - Ice skating
+      - Movie marathon
+      - Board games with family
+      - Working on merit badges
+
+- week: '2026-12-28'
+  question: What is your Scouting goal for 2027?
+  options:
+      - Earn my next rank
+      - Earn more merit badges
+      - Go on a high adventure trip
+      - Take on a leadership position
+      - Earn Eagle Scout
+
+- week: '2027-01-04'
+  question: Which high adventure base would you most like to visit?
+  options:
+      - Philmont Scout Ranch
+      - Northern Tier
+      - Florida Sea Base
+      - Summit Bechtel Reserve
+  fact: Northern Tier is right here in Minnesota, near Ely, on the edge of the Boundary Waters.
+
+- week: '2027-01-11'
+  question: Which point of the Scout Law is the hardest to live every day?
+  options:
+      - Courteous
+      - Kind
+      - Obedient
+      - Cheerful
+      - Thrifty
+
+- week: '2027-01-18'
+  question: What is your favorite way to start a campfire?
+  options:
+      - Matches
+      - Ferro rod
+      - Flint and steel
+      - Lighter
+      - Bow drill, for bragging rights
+
+- week: '2027-01-25'
+  question: Where would you rather sleep on a campout?
+  options:
+      - A tent
+      - A hammock
+      - A cabin
+      - A lean-to
+      - A snow shelter (quinzee)
+
+- week: '2027-02-01'
+  question: How long have you been in Scouting?
+  options:
+      - This is my first year
+      - 2 to 3 years
+      - 4 to 6 years
+      - 7 to 10 years
+      - More than 10 years
+
+- week: '2027-02-08'
+  question: Scouting's birthday is February 8. What is the best way to celebrate?
+  options:
+      - A campout
+      - A service project
+      - Wear my uniform to school
+      - Cake at the troop meeting
+      - Earn a merit badge
+  fact: The Boy Scouts of America was incorporated on February 8, 1910, so Scouting turns 117 this week.
+
+- week: '2027-02-15'
+  question: What is the best game at a troop meeting?
+  options:
+      - Capture the flag
+      - Steal the bacon
+      - Dodgeball
+      - Board and card games
+      - Chess
+
+- week: '2027-02-22'
+  question: What is the most useful thing in your pack?
+  options:
+      - Pocketknife
+      - Headlamp
+      - Paracord
+      - Duct tape
+      - First aid kit
+
+- week: '2027-03-01'
+  question: Which animal would you most like to spot on a hike?
+  options:
+      - Moose
+      - Bald eagle
+      - Black bear, from far away
+      - Fox
+      - Turtle
+
+- week: '2027-03-08'
+  question: What is the best season for camping?
+  options:
+      - Spring
+      - Summer
+      - Fall
+      - Winter
+
+- week: '2027-03-15'
+  question: Which Eagle-required merit badge would you most like to earn next?
+  options:
+      - Camping
+      - Cooking
+      - First Aid
+      - Swimming
+      - Personal Management
+
+- week: '2027-03-22'
+  question: What is the best part of summer camp?
+  options:
+      - The campfire program
+      - The waterfront
+      - Shooting sports
+      - Merit badge classes
+      - Hanging out with my patrol
+
+- week: '2027-03-29'
+  question: What is the worst thing to deal with on a campout?
+  options:
+      - Rain
+      - Wind
+      - Mosquitoes
+      - Cold
+      - Heat
+
+- week: '2027-04-05'
+  question: How do you find your way on a hike?
+  options:
+      - Paper map and compass
+      - GPS on my phone
+      - A handheld GPS
+      - I follow whoever is in front of me
+
+- week: '2027-04-12'
+  question: Which animal makes the best patrol name?
+  options:
+      - Eagle
+      - Wolf
+      - Bear
+      - Fox
+      - Beaver
+  fact: Scoutmaster Bucky votes Beaver. Beavers are hard workers, and they build their own lodges.
+
+- week: '2027-04-19'
+  question: Earth Day is this week. What is the best conservation project?
+  options:
+      - Planting trees
+      - Trail work
+      - Litter cleanup
+      - Removing invasive plants
+      - Building bird or bat houses

@@ -1,20 +1,19 @@
-# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Generated draft by generate_histories.py on 2026-10-25 for Bucky's review.
 # Delete this first line once the page is hand-edited, so it is never overwritten.
 # Story text is Bucky's own from his earlier page; timeline facts come from the data.
 
 name: Leathercraft
-precededBy: Craftsmanship
-precededByLink: craftsmanship
+precededBy: Craftsmanship, Leatherworking
 introduced: 1927
 discontinued: '1952'
-replacedWith: None
+replacedWith: Leatherwork
 timeline:
 - {year: 1920, text: The earliest known Leathercraft pamphlet printing (Type 2).}
 - {year: 1927, text: The Leathercraft merit badge is introduced.}
 - {year: 1928, text: 'First known count: 16,418 Leathercraft merit badges earned.'}
 - {year: 1930, text: 'Best ranking: 8th of 92 merit badges.'}
 - {year: 1931, text: 'All-time high: 21,068 Leathercraft merit badges earned.'}
-- {year: 1952, text: Last year the Leathercraft merit badge is offered.}
+- {year: 1952, text: Last year the Leathercraft merit badge is offered; it is replaced by Leatherwork.}
 ranks:
     1928: [10, 88]
     1929: [9, 89]
@@ -106,5 +105,6 @@ trivia:
 - {q: 'How many Leathercraft merit badges had been earned by 1952?', a: '249,100.'}
 -   q: What was Leathercraft's best year in the rankings on record?
     a: 1930, when it was 8th of the 92 merit badges earned that year.
-- {q: 'What came before the Leathercraft merit badge?', a: Craftsmanship.}
+- {q: 'What came before the Leathercraft merit badge?', a: 'Craftsmanship, Leatherworking.'}
+- {q: 'What replaced Leathercraft after 1952?', a: Leatherwork.}
 - {q: 'When was the earliest known Leathercraft pamphlet printed?', a: '1920.'}

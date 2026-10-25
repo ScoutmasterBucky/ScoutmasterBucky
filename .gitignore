@@ -35,5 +35,6 @@ download/*
 history-tools/sources/*.xlsx
 history-tools/sources/workbook.json
 history-tools/sources/generate-report.md
-# History photos are served from the filestore, not git (history-tools/README.md)
-public/history/
+# Merit badge history photos are served from the filestore, not git (history-tools/README.md);
+# only the history intro page's own artwork sits in public/history itself
+public/history/*/

@@ -63,7 +63,9 @@ handbook = {squash(k): v for k, v in handbook1911.parse(os.path.join(scratch, 'o
 # Filestore folders that hold more photos of a site badge under another spelling
 MERGED_FOLDERS = {'farm-arrangement': ['farm-arrangements'], 'markmanship': ['marksmanship'], 'textile': ['textiles'],
                   # The 2010 Tracking badge is Stalking renamed for one year
-                  'stalking': ['tracking']}
+                  'stalking': ['tracking'],
+                  # Renamed Small Grains in 1959; Bucky wants one page
+                  'small-grains-and-cereal-foods': ['small-grains']}
 merged = {f for fs in MERGED_FOLDERS.values() for f in fs}
 
 
@@ -239,6 +241,8 @@ for y, e in official.items():
         official_names.setdefault(squash(n.replace('*', '')), n)
 
 sheet_names = {squash(n): n for n in workbook}
+# Workbook sheets filed under a later name of the badge
+SHEETS = {'small-grains-and-cereal-foods': 'Small Grains'}
 
 # Stray keystrokes in the workbook that Bucky confirmed are junk
 JUNK = {'dsakjldasf'}
@@ -435,6 +439,18 @@ LINEAGE = {
                                                'Tracking because of the modern meaning of the word "stalking."'}],
         'patches': {'K': {'years': '2010', 'note': 'Tracking, 2010 only'}},
     },
+    # Bucky (2026-10-25): one page; the workbook's count row already runs 1943-1981
+    'small-grains-and-cereal-foods': {
+        'discontinued': 1975,
+        'replacedWith': 'Plant Science',
+        'addTimeline': [{'year': 1959, 'text': 'Renamed Small Grains.'}],
+    },
+    # Bucky (2026-10-25): the craft badges cross-reference the badges before and after them
+    'leatherworking': {'replacedWith': 'Leathercraft'},
+    'leathercraft': {'precededBy': 'Craftsmanship, Leatherworking', 'replacedWith': 'Leatherwork'},
+    'leatherwork': {'precededBy': 'Leathercraft'},
+    'wood-turning': {'replacedWith': 'Woodwork'},
+    'carpentry': {'precededBy': 'Original badge'},
 }
 
 
@@ -447,7 +463,7 @@ def build(slug, name):
         notes.append('No old history page (or an empty one): fields come from usscouts and the workbook.')
     us = next((usscouts[k] for k in keys if k in usscouts), None)
     crow = count_row_for(keys)
-    sheet = next((sheet_names[k] for k in keys if k in sheet_names), None)
+    sheet = SHEETS.get(slug) or next((sheet_names[k] for k in keys if k in sheet_names), None)
 
     fields = page.get('fields', {})
     intro_old = re.search(r'\d{4}', fields.get('introduced', ''))
@@ -469,6 +485,8 @@ def build(slug, name):
     if slug == 'citizenship-in-society':
         active = True  # Bucky wants its Type M slot
     lineage = LINEAGE.get(slug, {})
+    if 'discontinued' in lineage:
+        active, last = False, lineage['discontinued']
 
     preceded = fields.get('preceded by') or ''
     replaced = fields.get('replaced with') or ''
@@ -486,6 +504,7 @@ def build(slug, name):
         replaced = 'Current' if active else (m.group(1).strip() if m else 'None')
     replaced = {'current': 'Current', 'none': 'None'}.get(replaced.lower(), replaced)
     replaced = lineage.get('replacedWith', replaced)
+    preceded = lineage.get('precededBy', preceded)
 
     data = {'name': name, 'precededBy': preceded}
     link = titleslug(preceded)
@@ -705,7 +724,8 @@ def data_trivia(data, printings):
 
 
 # Typos in Bucky's old page text that he has OK'd fixing
-TYPOS = {'meirt': 'merit', "despite it's": 'despite its', "for it's": 'for its'}
+TYPOS = {'meirt': 'merit', "despite it's": 'despite its', "for it's": 'for its',
+         'Citizneship': 'Citizenship', "had it's own": 'had its own', 'was broke into': 'was broken into'}
 
 
 def fix_typos(text):
@@ -1041,7 +1061,7 @@ for slug, name in sorted(badges.items()):
     if not is_generated(path):
         # Hand-curated pages keep their data file, but their printings still
         # come straight from the workbook
-        sheet = next((sheet_names[k] for k in keys_for(slug, name) if k in sheet_names), None)
+        sheet = SHEETS.get(slug) or next((sheet_names[k] for k in keys_for(slug, name) if k in sheet_names), None)
         if sheet:
             curated_printings, curated_not_made = read_printings(sheet)
             write_printings(slug, curated_printings, sheet, curated_not_made)

@@ -1,4 +1,4 @@
-# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Generated draft by generate_histories.py on 2026-10-25 for Bucky's review.
 # Delete this first line once the page is hand-edited, so it is never overwritten.
 # Story text is Bucky's own from his earlier page; timeline facts come from the data.
 
@@ -245,7 +245,10 @@ patches:
 - {type: A, years: '1911', image: /history/swimming/swimming-patch-a1.webp}
 - {type: A, years: '1912', note: variations, image: /history/swimming/swimming-patch-a2.webp}
 - {type: A, years: '1913', image: /history/swimming/swimming-patch-a3.webp}
-- {type: A, years: 1913-1933, note: variations, image: /history/swimming/swimming-patch-a4.webp}
+-   type: A
+    years: 1913-1933
+    note: variations
+    image: /history/swimming/swimming-patch-a4.webp
 -   type: B
     years: 1934-1935
     note: heavyweight cloth
@@ -263,7 +266,10 @@ patches:
     years: 1958-1960
     note: lightweight tan
     image: /history/swimming/swimming-patch-e2.webp
-- {type: F, years: 1961-1968, note: rolled edge, image: /history/swimming/swimming-patch-f.webp}
+-   type: F
+    years: 1961-1968
+    note: rolled edge
+    image: /history/swimming/swimming-patch-f.webp
 - {type: G, years: 1969-1971, note: cloth back, image: /history/swimming/swimming-patch-g.webp}
 -   type: H
     years: 1972-2002

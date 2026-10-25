@@ -1,4 +1,4 @@
-# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Generated draft by generate_histories.py on 2026-10-25 for Bucky's review.
 # Delete this first line once the page is hand-edited, so it is never overwritten.
 # Story text is Bucky's own from his earlier page; timeline facts come from the data.
 
@@ -206,8 +206,14 @@ earned:
         2024: null
         2025: null
 patches:
-- {type: A, years: 1927-1933, note: variation A1, image: /history/pottery/pottery-patch-a1.webp}
-- {type: A, years: 1927-1933, note: variation A2, image: /history/pottery/pottery-patch-a2.webp}
+-   type: A
+    years: 1927-1933
+    note: variation A1
+    image: /history/pottery/pottery-patch-a1.webp
+-   type: A
+    years: 1927-1933
+    note: variation A2
+    image: /history/pottery/pottery-patch-a2.webp
 - {type: B, years: 1934-1935, status: missing}
 - {type: C, years: 1936-1942, image: /history/pottery/pottery-patch-c.webp}
 - {type: D, years: 1942-1946, status: missing}

@@ -1,4 +1,4 @@
-# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Generated draft by generate_histories.py on 2026-10-25 for Bucky's review.
 # Delete this first line once the page is hand-edited, so it is never overwritten.
 # Story text is Bucky's own from his earlier page; timeline facts come from the data.
 
@@ -171,9 +171,18 @@ earned:
         1980: 32
         1981: 8
 patches:
-- {type: A, years: 1911-1933, note: variations, image: /history/dairying/dairying-patch-a1.webp}
-- {type: A, years: 1911-1933, note: variations, image: /history/dairying/dairying-patch-a2.webp}
-- {type: A, years: 1911-1933, note: variations, image: /history/dairying/dairying-patch-a3.webp}
+-   type: A
+    years: 1911-1933
+    note: variations
+    image: /history/dairying/dairying-patch-a1.webp
+-   type: A
+    years: 1911-1933
+    note: variations
+    image: /history/dairying/dairying-patch-a2.webp
+-   type: A
+    years: 1911-1933
+    note: variations
+    image: /history/dairying/dairying-patch-a3.webp
 - {type: B, years: 1934-1935, note: heavyweight cloth, status: missing}
 -   type: C
     years: 1936-1942
@@ -184,7 +193,10 @@ patches:
     note: war and fine twill cloth
     image: /history/dairying/dairying-patch-d.webp
 - {type: E, years: 1947-1960, image: /history/dairying/dairying-patch-e.webp}
-- {type: F, years: 1961-1968, note: rolled edge, image: /history/dairying/dairying-patch-f.webp}
+-   type: F
+    years: 1961-1968
+    note: rolled edge
+    image: /history/dairying/dairying-patch-f.webp
 - {type: G, years: 1961-1971, note: cloth back, image: /history/dairying/dairying-patch-g.webp}
 -   type: H
     years: 1972-1975

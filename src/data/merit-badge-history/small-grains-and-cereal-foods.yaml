@@ -1,19 +1,20 @@
-# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Generated draft by generate_histories.py on 2026-10-25 for Bucky's review.
 # Delete this first line once the page is hand-edited, so it is never overwritten.
 # Story text is Bucky's own from his earlier page; timeline facts come from the data.
 
 name: Small Grains and Cereal Foods
 precededBy: None
 introduced: 1943
-discontinued: '1958'
-replacedWith: Small Grains
+discontinued: '1975'
+replacedWith: Plant Science
 timeline:
 -   year: 1943
     text: 'The Small Grains and Cereal Foods merit badge is introduced. The first Small Grains and Cereal Foods merit badges are earned: 121 that year.'
--   year: 1958
-    text: Last year the Small Grains and Cereal Foods merit badge is offered; it is replaced by Small Grains.
-- {year: 1959, text: 'Best ranking: 94th of 101 merit badges.'}
+- {year: 1957, text: The earliest known Small Grains and Cereal Foods pamphlet printing (Type 6).}
+- {year: 1959, text: 'Best ranking: 94th of 101 merit badges. Renamed Small Grains.'}
 - {year: 1974, text: 'All-time high: 1,314 Small Grains and Cereal Foods merit badges earned.'}
+-   year: 1975
+    text: Last year the Small Grains and Cereal Foods merit badge is offered; it is replaced by Plant Science.
 ranks:
     1943: [110, 112]
     1944: [104, 111]
@@ -109,11 +110,37 @@ patches:
 -   type: E
     years: 1942-1958
     image: /history/small-grains-and-cereal-foods/small-grains-and-cereal-foods-patch-e.webp
-pamphlets: []
+- {type: F, years: 1961-1968, status: missing}
+-   type: G
+    years: 1961-1971
+    image: /history/small-grains-and-cereal-foods/small-grains-and-cereal-foods-patch-g.webp
+-   type: H
+    years: 1972-1975
+    image: /history/small-grains-and-cereal-foods/small-grains-and-cereal-foods-patch-h.webp
+    more:
+    -   image: /history/small-grains-and-cereal-foods/small-grains-and-cereal-foods-patch-h1-front.webp
+        label: H variation H1, front
+    -   image: /history/small-grains-and-cereal-foods/small-grains-and-cereal-foods-patch-h1-reverse.webp
+        label: H variation H1, back
+    -   image: /history/small-grains-and-cereal-foods/small-grains-and-cereal-foods-patch-h2-1-front.webp
+        label: H variation H2-1, front
+    -   image: /history/small-grains-and-cereal-foods/small-grains-and-cereal-foods-patch-h2-1-reverse.webp
+        label: H variation H2-1, back
+pamphlets:
+- {type: '6', status: missing}
+- {type: '7', status: missing}
+- {type: '8', status: missing}
+hardcovers:
+- {type: HCJ, image: /history/small-grains-and-cereal-foods/small-grains-and-cereal-foods-hcj.webp}
+- {type: HCK, image: /history/small-grains-and-cereal-foods/small-grains-and-cereal-foods-hck.webp}
+- {type: HCL, image: /history/small-grains-and-cereal-foods/small-grains-and-cereal-foods-hcl.webp}
+- {type: HCP, image: /history/small-grains-and-cereal-foods/small-grains-and-cereal-foods-hcp.webp}
+- {type: HCS, image: /history/small-grains-and-cereal-foods/small-grains-and-cereal-foods-hcs.webp}
 trivia:
 -   q: In what year did Scouts earn the most Small Grains and Cereal Foods merit badges?
     a: 1974, when 1,314 were earned.
 - {q: 'How many Small Grains and Cereal Foods merit badges had been earned by 1981?', a: '14,333.'}
 -   q: What was Small Grains and Cereal Foods' best year in the rankings on record?
     a: 1959, when it was 94th of the 101 merit badges earned that year.
-- {q: 'What replaced Small Grains and Cereal Foods after 1958?', a: Small Grains.}
+- {q: 'What replaced Small Grains and Cereal Foods after 1975?', a: Plant Science.}
+- {q: 'When was the earliest known Small Grains and Cereal Foods pamphlet printed?', a: February 1957.}

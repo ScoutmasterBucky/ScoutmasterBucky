@@ -1,4 +1,4 @@
-# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Generated draft by generate_histories.py on 2026-10-25 for Bucky's review.
 # Delete this first line once the page is hand-edited, so it is never overwritten.
 # Story text is Bucky's own from his earlier page; timeline facts come from the data.
 
@@ -142,7 +142,8 @@ patches:
     - {image: /history/rabbit-raising/rabbit-raising-patch-h1-front.webp, label: 'H variation H1, front'}
     - {image: /history/rabbit-raising/rabbit-raising-patch-h1-reverse.webp, label: 'H variation H1, back'}
     - {image: /history/rabbit-raising/rabbit-raising-patch-h2-1-front.webp, label: 'H variation H2-1, front'}
-    - {image: /history/rabbit-raising/rabbit-raising-patch-h2-1-reverse.webp, label: 'H variation H2-1, back'}
+    -   image: /history/rabbit-raising/rabbit-raising-patch-h2-1-reverse.webp
+        label: H variation H2-1, back
     - {image: /history/rabbit-raising/rabbit-raising-patch-h3-front.webp, label: 'H variation H3, front'}
     - {image: /history/rabbit-raising/rabbit-raising-patch-h3-reverse.webp, label: 'H variation H3, back'}
 - {type: I, years: '1993', status: unknown}

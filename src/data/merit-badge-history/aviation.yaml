@@ -1,4 +1,4 @@
-# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Generated draft by generate_histories.py on 2026-10-25 for Bucky's review.
 # Delete this first line once the page is hand-edited, so it is never overwritten.
 # Story text is Bucky's own from his earlier page; timeline facts come from the data.
 
@@ -229,7 +229,10 @@ patches:
     image: /history/aviation/aviation-patch-a1.webp
     more:
     - {image: /history/aviation/aviation-patch-a-front.webp, label: A front}
-- {type: A, years: 1920-1933, note: variations, image: /history/aviation/aviation-patch-a2.webp}
+-   type: A
+    years: 1920-1933
+    note: variations
+    image: /history/aviation/aviation-patch-a2.webp
 -   type: B
     years: 1934-1935
     note: heavyweight cloth
@@ -260,7 +263,10 @@ patches:
     more:
     - {image: /history/aviation/aviation-patch-g-reverse.webp, label: G back}
     - {image: /history/aviation/aviation-patch-g2-reverse.webp, label: G2 back}
-- {type: G, years: 1962-1971, note: cloth back, image: /history/aviation/aviation-patch-g2.webp}
+-   type: G
+    years: 1962-1971
+    note: cloth back
+    image: /history/aviation/aviation-patch-g2.webp
 -   type: H
     years: 1972-1998
     note: blue, clear, and molded

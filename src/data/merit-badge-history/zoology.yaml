@@ -1,18 +1,31 @@
-# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
-# Delete this first line once the page is hand-edited, so it is never overwritten.
-# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+# Zoology merit badge history. Approved by Bucky on 2026-10-25; the
+# generator no longer overwrites this file (its printings still come from the
+# workbook). Research sources are in history-tools/research/zoology.yaml.
 
 name: Zoology
-precededBy: N/A
+precededBy: None
 introduced: 1930
 discontinued: '1972'
-replacedWith: General Science Mammals
+replacedWith: General Science, Mammals
+story:
+- Zoology was added in 1930, the same year as Wood Turning and Landscape Gardening. It sent Scouts outdoors to study wild animal life, but left out birds, snakes and insects, which had merit badges of their own.
+- The badge was most popular just before World War II, when 3,599 were earned in 1939. It was discontinued in 1972, after Scouts had earned 64,994 Zoology merit badges.
+thenAndNow:
+    year: 1942
+    source: Handbook for Boys (1940), requirements in effect January 1, 1942, summarized
+    requirements:
+    - Make five field trips of at least two hours each, if possible in different seasons, to watch wild animals. Keep a record of every animal seen, with the date, place, kind of habitat and what it was doing.
+    - Use a classification key to identify at least five animals from different phyla.
+    - Learn the life processes all animals share, such as birth, self-protection, feeding and breathing, and keep a record from your own observation of the life cycle and habits of two animals from different phyla.
+    - On a map of your area, mark the animals found in each habitat, such as forests, streams and marshes, and learn what your state does to protect wild animals.
+    - "For at least three months, do one of these: raise a young animal such as a squirrel, rabbit or guinea pig and keep a weekly diary of its habits, food, weight and health; keep an aquarium or \"toad pen\" and follow frogs, toads, turtles or fish from the egg on; or photograph or sketch microscopic animal life you find and prepare three microscope slides."
 timeline:
 -   year: 1930
     text: 'The Zoology merit badge is introduced. The first Zoology merit badges are earned: 217 that year.'
 - {year: 1931, text: The earliest known Zoology pamphlet printing (Type 3B-1).}
 - {year: 1935, text: 'Best ranking: 41st of 101 merit badges.'}
 - {year: 1939, text: 'All-time high: 3,599 Zoology merit badges earned.'}
+- {year: 1942, text: 'New requirements take effect January 1, with a choice of three long-term projects.'}
 -   year: 1972
     text: Last year the Zoology merit badge is offered; it is replaced by General Science Mammals.
 ranks:
@@ -125,12 +138,12 @@ patches:
     note: heavyweight and lightweight cloth
     image: /history/zoology/zoology-patch-c.webp
 -   type: D
-    years: 1942-1945
+    years: 1942-1946
     note: fine twill and war cloth
     image: /history/zoology/zoology-patch-d.webp
 - {type: E, years: 1947-1960, image: /history/zoology/zoology-patch-e.webp}
 - {type: F, years: 1961-1968, note: rolled edge, image: /history/zoology/zoology-patch-f.webp}
-- {type: G, years: 1961-1972, note: cloth back, image: /history/zoology/zoology-patch-g.webp}
+- {type: G, years: 1961-1971, note: cloth back, image: /history/zoology/zoology-patch-g.webp}
 - {type: H, years: '1972', note: molded, image: /history/zoology/zoology-patch-h.webp}
 pamphlets:
 - {type: 3B-1, image: /history/zoology/zoology-3b-1.webp}
@@ -155,6 +168,5 @@ trivia:
 - {q: 'How many Zoology merit badges had been earned by 1972?', a: '64,994.'}
 -   q: What was Zoology's best year in the rankings on record?
     a: 1935, when it was 41st of the 101 merit badges earned that year.
-- {q: 'What came before the Zoology merit badge?', a: N/A.}
 - {q: 'What replaced Zoology after 1972?', a: General Science and Mammals.}
 - {q: 'When was the earliest known Zoology pamphlet printed?', a: '1931.'}

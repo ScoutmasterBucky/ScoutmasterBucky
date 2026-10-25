@@ -1,0 +1,33 @@
+# Researched for the World Brotherhood history page (generate_histories.py
+# merges this over the generated draft). Sources:
+# - Bucky's old page: Citizenship split into four badges in 1952; the four shared
+#   the Citizenship pamphlet until 1972; redesigned in 1969 with the Scout sign.
+#   (Wikipedia's discontinued list says the globe design changed in 1968; Bucky's
+#   Type G2 patch, 1969-1971, matches his date.)
+# - Bucky's workbook agrees on the pamphlet: one Citizenship pamphlet through 1970,
+#   then separate Community and Nation pamphlets from 1972; no World Brotherhood sheet
+# - Wikipedia, Discontinued merit badges: 1952-1972, replaced by Citizenship in the
+#   World; original design a globe, later the Scout sign on a blue background
+# - Boy Scout Handbook (1959, Internet Archive boy_scout_handbook_1959): lists World
+#   Brotherhood beside the three Citizenship badges; no requirements printed
+# Patch types (checked 2026-10-25): A-D are before 1952. E, G (both designs) and H
+#   are all photographed. Type F (rolled edge khaki twill, 1961-1968): not made. The
+#   ISCA "Collecting Merit Badges" guide (scouttrader.org) says that from 1961-1968
+#   most badges were twill "but some were solidly embroidered", identical to Type G.
+#   Bucky's 1961-1968 World Brotherhood is that fully embroidered badge (his G1).
+#   No twill World Brotherhood turns up in collector listings, which show Type F for
+#   many other badges.
+# Pamphlets: none of its own (see above), so there are no pamphlet slots to check.
+# Requirements: none found for the BSA badge. A "World Brotherhood" worksheet on
+# mbcenter.org is for the Boy Scouts of the Philippines badge, so it isn't used.
+trivia:
+    - q: Which four merit badges took the place of the Citizenship badge in 1952?
+      a: Citizenship in the Home, Citizenship in the Community, Citizenship in the Nation, and World Brotherhood.
+    - q: Did World Brotherhood ever have a pamphlet of its own?
+      a: No. For its whole life, 1952 to 1972, Scouts used the same Citizenship pamphlet as the three other citizenship badges.
+    - q: How did the World Brotherhood badge change in 1969?
+      a: The Scout sign was added in front of the globe, now drawn in blue with lines of latitude and longitude.
+    - q: What did World Brotherhood become in 1972?
+      a: Citizenship in the World, which Scouts still need for the Eagle Scout rank today.
+    - q: When was World Brotherhood most popular?
+      a: 1963, when 11,523 were earned.

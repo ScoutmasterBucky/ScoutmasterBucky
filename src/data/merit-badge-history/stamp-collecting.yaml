@@ -1,4 +1,4 @@
-# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Generated draft by generate_histories.py on 2026-10-25 for Bucky's review.
 # Delete this first line once the page is hand-edited, so it is never overwritten.
 # Story text is Bucky's own from his earlier page; timeline facts come from the data.
 
@@ -228,15 +228,18 @@ patches:
     image: /history/stamp-collecting/stamp-collecting-patch-h.webp
     more:
     - {image: /history/stamp-collecting/stamp-collecting-patch-h1-front.webp, label: 'H variation H1, front'}
-    - {image: /history/stamp-collecting/stamp-collecting-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    -   image: /history/stamp-collecting/stamp-collecting-patch-h1-reverse.webp
+        label: H variation H1, back
     -   image: /history/stamp-collecting/stamp-collecting-patch-h2-1-front.webp
         label: H variation H2-1, front
     -   image: /history/stamp-collecting/stamp-collecting-patch-h2-1-reverse.webp
         label: H variation H2-1, back
     - {image: /history/stamp-collecting/stamp-collecting-patch-h3-front.webp, label: 'H variation H3, front'}
-    - {image: /history/stamp-collecting/stamp-collecting-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    -   image: /history/stamp-collecting/stamp-collecting-patch-h3-reverse.webp
+        label: H variation H3, back
     - {image: /history/stamp-collecting/stamp-collecting-patch-h5-front.webp, label: 'H variation H5, front'}
-    - {image: /history/stamp-collecting/stamp-collecting-patch-h5-reverse.webp, label: 'H variation H5, back'}
+    -   image: /history/stamp-collecting/stamp-collecting-patch-h5-reverse.webp
+        label: H variation H5, back
 -   type: I
     years: 1993-1995
     note: 38mm

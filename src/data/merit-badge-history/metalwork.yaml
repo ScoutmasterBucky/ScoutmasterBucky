@@ -1,4 +1,4 @@
-# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Generated draft by generate_histories.py on 2026-10-25 for Bucky's review.
 # Delete this first line once the page is hand-edited, so it is never overwritten.
 # Story text is Bucky's own from his earlier page; timeline facts come from the data.
 
@@ -247,7 +247,9 @@ patches:
 pamphlets:
 - {type: '2', image: /history/metalwork/metal-2.webp, note: Metal}
 - {type: 3A, image: /history/metalwork/craftsmanship-metal-3a.webp, note: Craftsmanship – Metal}
-- {type: 3A-2, image: /history/metalwork/craftsmanship-metal-3a-2.webp, note: Craftsmanship – Metal}
+-   type: 3A-2
+    image: /history/metalwork/craftsmanship-metal-3a-2.webp
+    note: Craftsmanship – Metal
 - {type: 3B, status: missing}
 - {type: 3C, image: /history/metalwork/metalwork-3c.webp}
 - {type: 3D, image: /history/metalwork/metalwork-3d.webp}

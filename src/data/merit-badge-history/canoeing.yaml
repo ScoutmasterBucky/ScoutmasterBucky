@@ -1,4 +1,4 @@
-# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Generated draft by generate_histories.py on 2026-10-25 for Bucky's review.
 # Delete this first line once the page is hand-edited, so it is never overwritten.
 # Story text is Bucky's own from his earlier page; timeline facts come from the data.
 
@@ -216,7 +216,10 @@ patches:
     note: fine twill and war cloth
     image: /history/canoeing/canoeing-patch-d.webp
 - {type: E, years: 1947-1960, image: /history/canoeing/canoeing-patch-e.webp}
-- {type: F, years: 1961-1968, note: rolled edge, image: /history/canoeing/canoeing-patch-f.webp}
+-   type: F
+    years: 1961-1968
+    note: rolled edge
+    image: /history/canoeing/canoeing-patch-f.webp
 - {type: G, years: 1969-1971, note: cloth back, image: /history/canoeing/canoeing-patch-g.webp}
 -   type: H
     years: 1972-2002

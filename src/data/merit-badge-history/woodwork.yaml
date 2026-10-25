@@ -1,8 +1,7 @@
 # Woodwork merit badge history. See archery.yaml for the field notes.
 
 name: Woodwork
-precededBy: Craftsmanship
-precededByLink: craftsmanship
+precededBy: Craftsmanship, Carpentry, Wood Turning
 introduced: 1927
 discontinued: Current
 replacedWith: Current
@@ -10,21 +9,17 @@ replacedWith: Current
 story:
     - Woodwork grew out of Craftsmanship, one of the original 1911 merit badges. In 1927 Craftsmanship was split into separate craft badges, Basketry, Bookbinding, Cement Work, Leathercraft, Metalwork, Pottery, Wood Carving, and Woodwork (then written "Wood Work"), each with its own design.
     - The earliest pamphlets came from that Craftsmanship family. Printings from 1920 to 1927 carry the title "Craftsmanship – Wood." The badge that followed was Wood Work, and its symbol was a small stool.
-    - In 1952 three badges became one. The January 1952 pamphlet cover reads "Woodwork, replacing Wood Work, Carpentry and Wood Turning merit badges," and it shows a woodworking plane, the symbol the original 1911 Carpentry badge had used. The stool stayed on the patches through Type E; from Type F (1961) on, the badge shows the plane.
+    - In 1952 three badges became one. The January 1952 pamphlet cover reads "Woodwork, replacing Wood Work, Carpentry and Wood Turning merit badges," and it shows a woodworking plane, the symbol the original 1911 Carpentry badge had used. The stool stayed on the patches through Type E. Type F (1961-1968) shows the plane, and since 1969 the badge has shown a group of woodworking tools.
     - Carpentry came back for one year only in 2010, as one of four historic badges for Scouting's 100th anniversary.
     - Woodwork was at its most popular during World War II, peaking at 21,589 badges in 1945. By the end of 2020 Scouts had earned 999,863 Woodwork badges, just 137 short of one million.
 
 thenAndNow:
-    year: 1911
-    badge: Carpentry
-    note: Woodwork did not exist yet in 1911. These are the requirements of the original Carpentry badge, the first woodworking merit badge.
-    source: The Official Handbook for Boys (1911)
+    year: 1940
+    badge: Wood Work
+    source: Handbook for Boys (1940), summarized
     requirements:
-        - Know the proper way to drive, set and clinch a nail.
-        - Know the different kinds of chisels, planes and saws, and how to sharpen and use them.
-        - Know the use of the rule, square, level, plumb-line and mitre.
-        - Know how to use compasses for scribing both regular and irregular lines.
-        - Make an article of furniture with three different standard joints or splices, with at least one surface of highly polished hard or decorative wood. All work to be done without assistance.
+        - Design and build a small piece of furniture that uses mortise-and-tenon or dowel joints, such as a plant stand, small table, chair, footstool or writing desk.
+        - Draw plans, or a careful rough sketch, of the piece you chose.
 
 timeline:
     - { year: 1911, text: Craftsmanship and Carpentry are among the 57 original merit badges. }
@@ -34,6 +29,7 @@ timeline:
     - { year: 1930, text: A separate Wood Turning merit badge is added. }
     - { year: 1945, text: 'All-time high: 21,589 Woodwork merit badges earned.' }
     - { year: 1952, text: 'A new Woodwork badge replaces Wood Work, Carpentry and Wood Turning, and takes Carpentry''s plane as its symbol.' }
+    - { year: 1969, text: The badge is redesigned with a group of woodworking tools in place of the plane. }
     - { year: 2010, text: Carpentry returns for one year as a historic badge for Scouting's 100th anniversary. }
     - { year: 2020, text: 'Pandemic year: 3,066 earned, down 32%.' }
     - { year: 2024, text: 'Type 11A cover, the first Woodwork pamphlet with a Scouting America number.' }

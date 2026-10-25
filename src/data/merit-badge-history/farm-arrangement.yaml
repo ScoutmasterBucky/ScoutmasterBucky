@@ -1,19 +1,18 @@
-# Generated draft by generate_histories.py on 2026-10-23 for Bucky's review.
+# Generated draft by generate_histories.py on 2026-10-25 for Bucky's review.
 # Delete this first line once the page is hand-edited, so it is never overwritten.
 # Story text is Bucky's own from his earlier page; timeline facts come from the data.
 
 name: Farm Arrangement
-precededBy: Farm Home & Its Planning and Farm Layout & Building Arrangements Became Farm Arrangements
-introduced: 1960
-discontinued: '1973'
-replacedWith: Farm Arrangements
+precededBy: Farm Arrangement
+introduced: 1974
+discontinued: '1979'
+replacedWith: None
 timeline:
 -   year: 1960
-    text: 'The Farm Arrangement merit badge is introduced. The first Farm Arrangement merit badges are earned: 4,399 that year. All-time high: 4,399 Farm Arrangement merit badges earned. Best ranking: 57th
-        of 100 merit badges.'
+    text: 'The first Farm Arrangement merit badges are earned: 4,399 that year. All-time high: 4,399 Farm Arrangement merit badges earned. Best ranking: 57th of 100 merit badges.'
 - {year: 1961, text: The earliest known Farm Arrangement pamphlet printing (Type 6).}
--   year: 1973
-    text: Last year the Farm Arrangement merit badge is offered; it is replaced by Farm Arrangements.
+- {year: 1974, text: The Farm Arrangement merit badge is introduced.}
+- {year: 1979, text: Last year the Farm Arrangement merit badge is offered.}
 ranks:
     1960: [57, 100]
     1961: [67, 101]
@@ -69,22 +68,16 @@ earned:
         1980: 59
         1981: 136
 patches:
-- {type: E, years: '1960', image: /history/farm-arrangement/farm-arrangement-patch-e.webp}
-- {type: F, years: 1961-1968, status: missing}
--   type: G
-    years: 1961-1971
-    note: variation G1
-    image: /history/farm-arrangement/farm-arrangement-patch-g1.webp
--   type: G
-    years: 1961-1971
-    note: variation G2
-    image: /history/farm-arrangement/farm-arrangement-patch-g2.webp
+- {type: E, image: /history/farm-arrangement/farm-arrangement-patch-e.webp}
+- {type: G, note: variation G1, image: /history/farm-arrangement/farm-arrangement-patch-g1.webp}
+- {type: G, note: variation G2, image: /history/farm-arrangement/farm-arrangement-patch-g2.webp}
 -   type: H
-    years: 1972-1973
+    years: 1974-1979
     image: /history/farm-arrangement/farm-arrangement-patch-h.webp
     more:
     - {image: /history/farm-arrangement/farm-arrangement-patch-h1-front.webp, label: 'H variation H1, front'}
-    - {image: /history/farm-arrangement/farm-arrangement-patch-h1-reverse.webp, label: 'H variation H1, back'}
+    -   image: /history/farm-arrangement/farm-arrangement-patch-h1-reverse.webp
+        label: H variation H1, back
     -   image: /history/farm-arrangement/farm-arrangement-patch-h1-1-front.webp
         label: H variation H1-1, front
     -   image: /history/farm-arrangement/farm-arrangement-patch-h1-1-reverse.webp
@@ -102,7 +95,8 @@ patches:
     -   image: /history/farm-arrangement/farm-arrangement-patch-h2-1-reverse.webp
         label: H variation H2-1, back
     - {image: /history/farm-arrangement/farm-arrangement-patch-h3-front.webp, label: 'H variation H3, front'}
-    - {image: /history/farm-arrangement/farm-arrangement-patch-h3-reverse.webp, label: 'H variation H3, back'}
+    -   image: /history/farm-arrangement/farm-arrangement-patch-h3-reverse.webp
+        label: H variation H3, back
 pamphlets:
 - {type: '6', image: /history/farm-arrangement/farm-arrangements-6.webp}
 - {type: '7', image: /history/farm-arrangement/farm-arrangements-7.webp}
@@ -121,7 +115,5 @@ trivia:
 - {q: 'How many Farm Arrangement merit badges had been earned by 1981?', a: '42,174.'}
 -   q: What was Farm Arrangement's best year in the rankings on record?
     a: 1960, when it was 57th of the 100 merit badges earned that year.
--   q: What came before the Farm Arrangement merit badge?
-    a: Farm Home & Its Planning and Farm Layout & Building Arrangements Became Farm Arrangements.
-- {q: 'What replaced Farm Arrangement after 1973?', a: Farm Arrangements.}
+- {q: 'What came before the Farm Arrangement merit badge?', a: Farm Arrangement.}
 - {q: 'When was the earliest known Farm Arrangement pamphlet printed?', a: January 1961.}
