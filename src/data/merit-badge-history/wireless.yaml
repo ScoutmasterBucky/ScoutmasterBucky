@@ -1,19 +1,36 @@
-# Generated draft by generate_histories.py on 2026-10-25 for Bucky's review.
-# Delete this first line once the page is hand-edited, so it is never overwritten.
-# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+# Wireless merit badge history. Approved by Bucky on 2026-10-25; the generator
+# no longer overwrites this file (its printings still come from the workbook).
+# Research sources are in history-tools/research/wireless.yaml.
 
 name: Wireless
 precededBy: None
 introduced: 1919
 discontinued: '1923'
-replacedWith: None
+replacedWith: Radio
+story:
+- Wireless was added in 1919. To earn it, a Scout sent and received Morse code at ten words a minute, named the minerals used in crystal detectors, drew diagrams of spark transmitters, receiving sets and aerials, and wrote a short essay on the development of wireless telegraphy.
+- Only 723 Wireless merit badges were earned in the four years with counts, which makes it one of the least-earned merit badges of all time. In 1923 the Radio merit badge took its place.
+thenAndNow:
+    year: 1922
+    source: Boy Scouts of America (1922)
+    requirements:
+    - Be able to receive and send correctly not less than ten words a minute.
+    - Know the correct form for sending a message.
+    - Be able to tell in own words the principal laws regarding radio communication.
+    - Know at least ten of the radiogram abbreviations. (Q signals)
+    - (a) Be able to name two types of detectors and explain how they work. (b) Name five minerals used in detectors in the order of their sensitiveness.
+    - 'Draw a diagram of a simple transmitting set, showing how the following instruments are connected: dynamo or storage battery (source of power), transformer, condenser, spark gap, helix, key. Explain the function of each.'
+    - Draw a simple diagram showing how to connect the following instruments; tuning coil or loose coupler, detector, fixed or variable condensers, phones and ground. Tell the use of the above apparatus.
+    - Draw a diagram of three different types of aerials and tell their advantages or faults.
+    - (a) Know how properly to ground a radio set and know what precautions to take during a thunder shower. (b) Demonstrate how to rescue a person in contact with a live wire, and have a knowledge of the method of resuscitation of a person insensible from shock.
+    - Write a brief essay on development of wireless telegraphy.
 timeline:
 -   year: 1919
     text: 'The Wireless merit badge is introduced. The first Wireless merit badges are earned: 100 that year.'
 -   year: 1920
     text: 'The earliest known Wireless pamphlet printing (Type 1C). Best ranking: 42nd of 59 merit badges.'
 - {year: 1921, text: 'All-time high: 248 Wireless merit badges earned.'}
-- {year: 1923, text: Last year the Wireless merit badge is offered.}
+- {year: 1923, text: Last year the Wireless merit badge is offered; it is replaced by Radio.}
 ranks:
     1919: [51, 59]
     1920: [42, 59]
@@ -29,7 +46,7 @@ earned:
     total: 723
     byYear: {1919: 100, 1920: 132, 1921: 248, 1922: 243}
 patches:
-- {type: A, years: 1918-1923, note: variations, image: /history/wireless/wireless-patch-a.webp}
+- {type: A, years: 1919-1923, note: variations, image: /history/wireless/wireless-patch-a.webp}
 pamphlets:
 - {type: 1C, image: /history/wireless/wireless-1c.webp}
 - {type: '2', image: /history/wireless/wireless-2.webp}

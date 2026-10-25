@@ -450,6 +450,8 @@ LINEAGE = {
     'leathercraft': {'precededBy': 'Craftsmanship, Leatherworking', 'replacedWith': 'Leatherwork'},
     'leatherwork': {'precededBy': 'Leathercraft'},
     'wood-turning': {'replacedWith': 'Woodwork'},
+    # Wikipedia's discontinued list; the Radio page already names Wireless before it
+    'wireless': {'replacedWith': 'Radio'},
     'carpentry': {'precededBy': 'Original badge'},
 }
 
@@ -725,7 +727,7 @@ def data_trivia(data, printings):
 
 # Typos in Bucky's old page text that he has OK'd fixing
 TYPOS = {'meirt': 'merit', "despite it's": 'despite its', "for it's": 'for its',
-         'Citizneship': 'Citizenship', "had it's own": 'had its own', 'was broke into': 'was broken into'}
+         'Citizneship': 'Citizenship', "had it's own": 'had its own', 'was broke into': 'was broken into', 'Crafstmanship': 'Craftsmanship'}
 
 
 def fix_typos(text):

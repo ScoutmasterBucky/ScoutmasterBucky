@@ -1,12 +1,26 @@
-# Generated draft by generate_histories.py on 2026-10-25 for Bucky's review.
-# Delete this first line once the page is hand-edited, so it is never overwritten.
-# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+# Wood Turning merit badge history. Approved by Bucky on 2026-10-25; the
+# generator no longer overwrites this file (its printings still come from the
+# workbook). Research sources are in history-tools/research/wood-turning.yaml.
 
 name: Wood Turning
 precededBy: None
 introduced: 1930
 discontinued: '1952'
 replacedWith: Woodwork
+story:
+- Wood Turning was added in 1930, the same year as Zoology and Landscape Gardening. It taught Scouts to shape wood on a lathe with gouges and chisels, and its badge showed a lathe.
+- The badge was never more popular than at the end, when 4,870 were earned in 1951. In 1952 a new Woodwork badge replaced Wood Work, Carpentry and Wood Turning, after Scouts had earned 78,061 Wood Turning merit badges.
+thenAndNow:
+    year: 1940
+    source: Handbook for Boys (1940), summarized
+    requirements:
+    - Show how to use the roughing gouge, turning gouge, skew chisel and parting tool, and how to sharpen each one.
+    - Show how to put wood into the lathe and take it out, both between the live and dead centers and on a faceplate.
+    - Know how a wood turner's lathe works, and how to figure out how fast it is turning.
+    - Know how an automatic wood-turning lathe works.
+    - Turn one project on a faceplate and one between centers.
+    - Make matching parts for a project, such as four legs for a table, or two candlesticks or bud vases.
+    - Know how French polish is applied.
 timeline:
 -   year: 1930
     text: 'The Wood Turning merit badge is introduced. The first Wood Turning merit badges are earned: 193 that year.'
@@ -84,7 +98,7 @@ patches:
     note: heavyweight and lightweight cloth
     image: /history/wood-turning/wood-turning-patch-c.webp
 -   type: D
-    years: 1942-1945
+    years: 1942-1946
     note: fine twill and war cloth
     image: /history/wood-turning/wood-turning-patch-d.webp
 - {type: E, years: 1947-1952, image: /history/wood-turning/wood-turning-patch-e.webp}

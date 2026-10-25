@@ -1,6 +1,6 @@
-# Generated draft by generate_histories.py on 2026-10-25 for Bucky's review.
-# Delete this first line once the page is hand-edited, so it is never overwritten.
-# Story text is Bucky's own from his earlier page; timeline facts come from the data.
+# Wood Carving merit badge history. Approved by Bucky on 2026-10-25; the
+# generator no longer overwrites this file (its printings still come from the
+# workbook). Research sources are in history-tools/research/wood-carving.yaml.
 
 name: Wood Carving
 precededBy: Craftsmanship
@@ -8,9 +8,17 @@ precededByLink: craftsmanship
 introduced: 1914
 discontinued: Current
 replacedWith: Current
-story: ['The Wood Carving merit badge started out as a part of the Crafstmanship series of merit badges. Craftsmanship comprised of a half dozen different merit badges, all of which in 1928 branched out
+story: ['The Wood Carving merit badge started out as a part of the Craftsmanship series of merit badges. Craftsmanship comprised of a half dozen different merit badges, all of which in 1928 branched out
         to be their own independent merit badge with their own merit badge design. Information shown here is only for 1928 and beyond Wood Carving merit badge publications and earnings. See Craftsmanship
         merit badge for earlier information.']
+thenAndNow:
+    year: 1914
+    badge: 'Craftsmanship: Woodcarving'
+    note: Woodcarving was one of eight crafts a Scout could choose for the Craftsmanship badge.
+    source: The Official Handbook for Boys, revised edition (1914)
+    requirements:
+    - 'Plan and carve an appropriate design in low relief on some simple object: such as book ends, a tray, a pair of bellows, a chest, a screen, a clock case, a letter opener or a box.'
+    - State the qualities of hardwood and softwood, and the best woods to use in woodcarving; name, describe, and explain how to sharpen the different kinds of woodcarving tools; and explain methods of handling the grain of the wood in designing.
 timeline:
 - {year: 1914, text: The Wood Carving merit badge is introduced.}
 - {year: 1920, text: The earliest known Wood Carving pamphlet printing (Type 2).}
@@ -231,7 +239,7 @@ patches:
     note: heavyweight cloth
     image: /history/wood-carving/wood-carving-patch-b.webp
 -   type: C
-    years: 1936-1946
+    years: 1936-1942
     note: heavyweight and lightweight cloth
     image: /history/wood-carving/wood-carving-patch-c.webp
 -   type: D
@@ -276,11 +284,18 @@ patches:
     more:
     - {image: /history/wood-carving/wood-carving-patch-l-front.webp, label: L front}
     - {image: /history/wood-carving/wood-carving-patch-l-reverse.webp, label: L back}
-- {type: M, years: 2025-current, status: missing, note: Scouting America back}
+-   type: M
+    years: 2025-current
+    note: Scouting America back
+    image: /history/wood-carving/wood-carving-patch-m-front.webp
+    more:
+    - {image: /history/wood-carving/wood-carving-patch-m-reverse.webp, label: M back}
 pamphlets:
 - {type: '2', image: /history/wood-carving/wood-carving-2.webp, note: Craftsmanship – Wood Carving}
-- {type: 3A-1 over 2, image: /history/wood-carving/wood-carving-3a-1-over-2.webp}
--   type: 3A
+-   type: 3A-1 over 2
+    image: /history/wood-carving/wood-carving-3a-1-over-2.webp
+    note: Craftsmanship – Wood Carving
+-   type: 3A-1
     image: /history/wood-carving/craftsmanship-wood-carving-3a.webp
     note: Craftsmanship – Wood Carving
 -   type: 3A-2

@@ -1,0 +1,29 @@
+# Researched for the Wood Turning history page (generate_histories.py merges this
+# over the generated draft). Sources:
+# - Revised Handbook for Boys, 33rd printing, copyright 1940 (Internet Archive
+#   boyscoutsofameri0000unse), p. 638: Wood Turning, seven requirements. The 1930
+#   originals weren't found online. Summarized because 1940 is under copyright.
+# - Wikipedia, Discontinued merit badges: Wood Turning 1930-1952; Zoology and
+#   Landscape Gardening also 1930
+# - The January 1952 Woodwork pamphlet cover (Bucky's collection): "Woodwork,
+#   replacing Wood Work, Carpentry and Wood Turning merit badges"
+# - Bucky's patch photos: a lathe on every type, A through E
+# - Workbook counts: 4,870 in 1951 (peak); 78,061 through 1952
+# Patch types (checked 2026-10-25): A-E are all photographed, and the badge ended
+#   before Type F, so there are no empty slots. Type D years set to the standard
+#   1942-1946.
+# Pamphlets: every cover in the printings (3B-1 through 5B) is photographed.
+story:
+    - Wood Turning was added in 1930, the same year as Zoology and Landscape Gardening. It taught Scouts to shape wood on a lathe with gouges and chisels, and its badge showed a lathe.
+    - The badge was never more popular than at the end, when 4,870 were earned in 1951. In 1952 a new Woodwork badge replaced Wood Work, Carpentry and Wood Turning, after Scouts had earned 78,061 Wood Turning merit badges.
+thenAndNow:
+    year: 1940
+    source: Handbook for Boys (1940), summarized
+    requirements:
+        - Show how to use the roughing gouge, turning gouge, skew chisel and parting tool, and how to sharpen each one.
+        - Show how to put wood into the lathe and take it out, both between the live and dead centers and on a faceplate.
+        - Know how a wood turner's lathe works, and how to figure out how fast it is turning.
+        - Know how an automatic wood-turning lathe works.
+        - Turn one project on a faceplate and one between centers.
+        - Make matching parts for a project, such as four legs for a table, or two candlesticks or bud vases.
+        - Know how French polish is applied.

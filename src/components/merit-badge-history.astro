@@ -129,8 +129,10 @@ function lineageParts(text?: string) {
 }
 const precededParts = lineageParts(history.precededBy);
 const replacedParts = lineageParts(history.replacedWith);
-// Three or more badges don't fit a single fact box, so it takes two columns
-const isLong = (parts: { href?: string }[]) => parts.filter(p => p.href).length > 2;
+// Three or more badges, or one very long word like "Craftsmanship", don't fit a
+// single fact box, so it takes two columns
+const isLong = (parts: { text: string; href?: string }[]) =>
+    parts.filter(p => p.href).length > 2 || parts.some(p => p.text.split(/\s+/).some(w => w.length > 12));
 // Every printing from the workbook; the easter egg always shows these (Bucky's
 // choice), while the Pamphlets section waits for approval
 const workbookPrintings = [...(Astro.props.printings ?? []), ...(data.extraPrintings ?? [])];

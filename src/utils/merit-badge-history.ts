@@ -8,7 +8,9 @@ import sharedPhotoList from '~/data/merit-badge-history/shared-photos.json';
 
 // The history photos live on the filestore, not in git (history-tools/web-photos.mjs).
 // The data keeps paths like /history/archery/archery-patch-a.webp; this points them there.
-const PHOTO_HOST = 'https://filestore.scoutmasterbucky.com/history/web/';
+// The dev server reads them straight from the local folder (astro.config.mjs), so
+// reviewing drafts doesn't depend on the filestore server being up.
+const PHOTO_HOST = import.meta.env.DEV ? '/filestore-history/' : 'https://filestore.scoutmasterbucky.com/history/web/';
 export const historyPhoto = <T extends string | undefined>(path: T): T =>
     (path?.startsWith('/history/') ? PHOTO_HOST + path.slice('/history/'.length) : path) as T;
 

@@ -1,0 +1,25 @@
+# Researched for the Wood Carving history page (generate_histories.py merges this
+# over the generated draft). Sources:
+# - The Official Handbook for Boys, revised edition, 1914 (Internet Archive
+#   officialhandbook00newy), pp. 41-42: Craftsmanship could be earned in one of
+#   eight crafts (metal, leather, basketry, pottery, cement, bookbinding,
+#   woodcarving, wood); the two Woodcarving requirements are quoted (public domain).
+# - Revised Handbook for Boys, 1940 printing (boyscoutsofameri0000unse), p. 638:
+#   Woodcarving by then had three requirements; the old two became numbers 2 and 3,
+#   after a new first one: three camp articles carved with only a knife.
+# Patch types (checked 2026-10-25):
+# - Type I (computer designed, 1993-1995): not made, per Bucky's records. A collector
+#   store's Type I stock (eaglepeakstore.com, 25 badges) has no Wood Carving either.
+# - Type M (Scouting America back): Bucky's front-and-back photo (2026-10-25), cut out
+#   with prepare-patch-photo.mjs as wood-carving-patch-m-front/-reverse.png.
+# - Type C years set to the standard 1936-1942 (the draft had 1936-1946).
+# Pamphlets: every cover is photographed except 10B, which the workbook marks
+#   "not made" in 2009.
+thenAndNow:
+    year: 1914
+    badge: 'Craftsmanship: Woodcarving'
+    note: Woodcarving was one of eight crafts a Scout could choose for the Craftsmanship badge.
+    source: The Official Handbook for Boys, revised edition (1914)
+    requirements:
+        - 'Plan and carve an appropriate design in low relief on some simple object: such as book ends, a tray, a pair of bellows, a chest, a screen, a clock case, a letter opener or a box.'
+        - State the qualities of hardwood and softwood, and the best woods to use in woodcarving; name, describe, and explain how to sharpen the different kinds of woodcarving tools; and explain methods of handling the grain of the wood in designing.

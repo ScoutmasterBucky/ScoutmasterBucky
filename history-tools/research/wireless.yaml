@@ -1,0 +1,32 @@
+# Researched for the Wireless history page (generate_histories.py merges this
+# over the generated draft). Sources:
+# - 1922 Wireless requirements, ten of them, quoted from the transcription in the
+#   K2BSA "Radio Merit Badge History" paper (k2bsa.net, 2017). The ARRL's Radio
+#   Scouting history also cites the 1922 pamphlet's ten-words-a-minute code test.
+#   Before 1930, so quoted exactly. One OCR slip fixed: "spark, gap" -> "spark gap".
+#   Bucky's Type 2 pamphlet ("20c Wireless", 1920) would confirm the wording.
+# - Wikipedia, Discontinued merit badges: Wireless 1919-1923, replaced by Radio.
+#   A Morse code history blog (observer.wunderwood.org) says 1918; the workbook's
+#   first count is 1919 (100 earned), so 1919 stands.
+# - Workbook counts: 723 earned 1919-1922; all-time rank 224 (2020), among the
+#   least-earned badges.
+# Patch types (checked 2026-10-25): Wireless (1919-1923) only falls in the Type A
+#   years, which is photographed; years set to 1919-1923 (the draft had 1918).
+# Pamphlets: 1C (1920, confirmed) and 2 (1920-1923, in the collection), both photographed.
+story:
+    - Wireless was added in 1919. To earn it, a Scout sent and received Morse code at ten words a minute, named the minerals used in crystal detectors, drew diagrams of spark transmitters, receiving sets and aerials, and wrote a short essay on the development of wireless telegraphy.
+    - Only 723 Wireless merit badges were earned in the four years with counts, which makes it one of the least-earned merit badges of all time. In 1923 the Radio merit badge took its place.
+thenAndNow:
+    year: 1922
+    source: Boy Scouts of America (1922)
+    requirements:
+        - Be able to receive and send correctly not less than ten words a minute.
+        - Know the correct form for sending a message.
+        - Be able to tell in own words the principal laws regarding radio communication.
+        - Know at least ten of the radiogram abbreviations. (Q signals)
+        - (a) Be able to name two types of detectors and explain how they work. (b) Name five minerals used in detectors in the order of their sensitiveness.
+        - 'Draw a diagram of a simple transmitting set, showing how the following instruments are connected: dynamo or storage battery (source of power), transformer, condenser, spark gap, helix, key. Explain the function of each.'
+        - Draw a simple diagram showing how to connect the following instruments; tuning coil or loose coupler, detector, fixed or variable condensers, phones and ground. Tell the use of the above apparatus.
+        - Draw a diagram of three different types of aerials and tell their advantages or faults.
+        - (a) Know how properly to ground a radio set and know what precautions to take during a thunder shower. (b) Demonstrate how to rescue a person in contact with a live wire, and have a knowledge of the method of resuscitation of a person insensible from shock.
+        - Write a brief essay on development of wireless telegraphy.
