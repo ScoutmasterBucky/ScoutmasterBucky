@@ -928,25 +928,30 @@ The shape matters: the commonest card is the one a new Scout needs most, and the
 - **Printed in multiples.** The 52 Skills come in packs of 8, random, weighted toward the lower ranks (4 Scout or Tenderfoot, 3 Second Class, 1 First Class). Packs are free: at every merit badge day, at Test Lab Day, in the print-and-play as a sheet to cut, and as a stack a Troop Guide keeps for new Scouts.
 - **Starter deck:** all 10 Scout Skills and all 14 Tenderfoot Skills, so a new player can reach Tenderfoot without trading. Second Class and First Class Skills come from packs and trades, which is where the collecting starts. Full contents below.
 
-### The Starter deck: one player, about 100 cards
+### The Starter deck: one player, 100 cards
 
-One Starter makes a player ready for any Trail table. Two Starters are a complete two-player game with nothing else needed. Four are a troop. The count lands near 100 because a player's personal set (ranks, Law, Skills) is 44 cards before a single badge, and that set is the part that cannot be shared.
+One Starter makes a player ready for any Trail table. Two Starters are a complete two-player game with nothing else needed. Four are a troop. The count lands at 100 because a player's personal set (ranks, Law, Skills) is 44 cards before a single badge, and that set is the part that cannot be shared.
 
-| Part | Cards | What is in it |
-|---|---|---|
-| **Trail deck** (the 40-card deck section 5 plays with) | 40 | 24 badges (4 per Trail, 8 of them Eagle-required), 3 Counselors plus Scoutmaster Bucky, 2 other Helpers, 3 Events (Court of Honor, Weekend Campout, Merit Badge Day), 3 Gear, 2 Weather, 2 Good Turns |
-| **Personal set** | 44 | 7 Rank cards, the 12 Scout Law cards, 1 Oath mat, 24 Skills (all 10 Scout, all 14 Tenderfoot) |
-| **Table half** (two Starters together make a full table) | 19 | 6 youth and 5 adult Positions plus the Scoutmaster card, 1 Adventure, 2 Individual Quests and 1 Group Quest, 1 Heritage, 1 Team Member play edition, 1 Common Legacy |
-| **Props** | | 4 feet of paracord, a rules sheet, the PLC sheet |
-| **Total** | **103** | |
+**Same or different?** Neither, all the way. A Starter that is identical in every box teaches best: one rules sheet, one walkthrough, every table has every color, and no new player opens a dud. But two friends with the same box have nothing to trade, and trading is the point of the commons. A Starter that is different in every box (the way KeyForge does it) cannot be taught from a sheet and cannot promise "no one is better than another." So the Starter is built in three layers: a **Core** that never changes, three **Trail samplers** chosen from six, and a **Campfire trio** that rotates. Two thirds of every box is the same box. The other third is why you open your friend's.
 
-Three Starters, each themed to a pair of Trails for its badges and Counselors and each with a different Adventure, Heritage and Team Member card, so two friends with different Starters already have something to trade:
+| Layer | Cards | What is in it | Varies? |
+|---|---|---|---|
+| **Core: personal set** | 44 | 7 Rank cards, the 12 Scout Law cards, 1 Oath mat, 24 Skills (all 10 Scout, all 14 Tenderfoot) | never |
+| **Core: the troop** | 23 | the Scoutmaster card, Scoutmaster Bucky, the Crossover card; 12 anchor badges (2 per Trail, Eagle-required where the Trail has one); Court of Honor and Merit Badge Day; 5 Positions that make any table work (Senior Patrol Leader, Patrol Leader, Committee Chair, Advancement Chair, Assistant Scoutmaster); Weekend Campout | never |
+| **Trail samplers**, three per box | 30 (3 × 10) | each sampler is one Trail: 4 more of its badges, its Counselor, 1 themed Gear or Helper, 1 themed Weather or Good Turn, 1 Individual Quest, 1 youth and 1 adult Position that fit the Trail (Quartermaster and Outdoor Chair for Outdoors, Chaplain Aide and Chaplain for Citizenship & Community, and so on) | which three of six |
+| **Campfire trio** | 3 | 1 Heritage, 1 Team Member play edition, 1 Common Legacy | twelve fixed trios, rotating |
+| **Props** | | 4 feet of paracord, a rules sheet, the PLC sheet, a Good Turn coin | never |
+| **Total** | **100** | | |
 
-- **Trailhead:** Outdoors and Nature & Science. Weekend Campout. Brownsea Island.
-- **Flagpole:** Citizenship & Community and Life & Home. Service Project. The Unknown Scout.
-- **Workshop:** Arts & Trades and Sports & Water. Field Trip. Scouting for Food.
+What that buys:
 
-Each Starter still carries 4 badges of every Trail so no table is ever missing a color; the theme is in which 8 extra badges and which Counselors it holds. Every Starter is tournament-legal in Summit as printed (section 6).
+- **Distinct designs the Starters draw on:** 67 Core + 60 sampler cards (6 samplers × 10) + 36 trio cards = **163**. None are new art; every one is a card the full set already has. The design work is choosing, not drawing.
+- **Distinct boxes:** 20 ways to pick three samplers from six, times 12 trios = **240** different Starters. Any two boxes share at least 67 cards and at most 97, so a Scout can always be taught from the sheet and almost always has something to trade.
+- **Every table still has every Trail.** The 12 anchor badges are in every box, so a two-Starter table holds 24 anchors plus 48 sampler badges across up to six Trails. A box has 6 badges of each of its three Trails and 2 of each of the other three.
+- **The sampler is a product on its own.** Printed as a 10-card pack with the Trail's color on the back of the wrapper, it is the cheapest add-on in the line and the thing a Scout buys to fill in a Trail the box skipped. Six samplers plus one Core is a 127-card "all six Trails" Starter for the Scout who wants no gaps.
+- **Assembly is bins, not a collator.** A Core deck, three samplers off a shelf of six, one trio off a shelf of twelve, bagged. Bucky can build Starters at an event table in a minute each, and a print shop can build them from seven stock items. For a first print run, make six box variants so that every Trail appears in exactly three of them (Outdoors, Nature & Science, Citizenship & Community; Life & Home, Arts & Trades, Sports & Water; and four more that mix those halves), and rotate the twelve trios through them.
+
+The front of the box shows its three Trail colors, so a Scout picks the Starter whose Trails they like, and a parent can see at a glance that the box their Scout's friend has is a different one. Every Starter is tournament-legal in Summit as printed (section 6).
 
 The **Troop Box** is the four-player version for a den, patrol or family: four personal sets, the full 142 badges, every Helper, Event, Gear, Weather, Good Turn, Adventure, Quest, Heritage and Twist, all 34 Positions, four Skill sets, and the first Legacy wave. About 480 cards. The print-and-play PDF is the Troop Box.
 - **Duplicates are the trade stock.** A third Square Knot is useless to you and exactly what the new Scout across the table needs.
@@ -1139,8 +1144,38 @@ Everything the game is printed as, with counts. Three families: **boxes** you st
 
 | Box | Cards | For |
 |---|---|---|
-| **Starter deck** (three themes: Trailhead, Flagpole, Workshop) | 103 | one player; two make a game |
+| **Starter deck** (67-card Core, three of six 10-card Trail samplers, one of twelve Campfire trios: 240 possible boxes from 163 designs; six box variants in the first run) | 100 | one player; two make a game |
 | **Troop Box** | ~480 | four players; the print-and-play is this box |
+
+### How to order the Starter
+
+A card printer does not build "240 different boxes." It builds **stock items** from fixed card lists and, if asked, **kits** them. The variation lives in the kitting, not the printing. Two ways to ask, and the second is the one to use.
+
+**Ask 1, the plain one: deck versions.** Hand the printer six (or twelve) card lists of exactly 100 cards, one per box variant, same box art with a different Trail color band on each. Each version is its own product with its own collation list and its own minimum. This is how Pokémon theme decks are made. It works with any printer, including print-on-demand where each version is a saved project, but every new variant is a new product, and the samplers never exist on their own.
+
+**Ask 2, the right one: three stock items plus kitting.** The Starter is ordered as parts, and the parts are the same items the line sells separately.
+
+| Stock item | Versions | Cards each | Per Starter | Wrapped |
+|---|---|---|---|---|
+| Core deck | 1 | 67 | 1 | shrink-wrapped deck |
+| Trail sampler | 6 (one per Trail) | 10 | 3, all different | foil or paper pack, Trail color on the wrapper |
+| Campfire trio | 12 | 3 | 1 | small pack or paper band |
+| Box kit | 1 | | 1 | tuck box, rules sheet, PLC sheet, 4 feet of paracord, Good Turn coin |
+
+Quantities for a run of N Starters: N Cores, N/2 of every sampler (3N in all), N/12 of every trio, N box kits. For a first run of 300 Starters that is 300 Cores, 150 of each sampler, 25 of each trio.
+
+Kitting then follows a one-page **kit sheet** the printer (or Bucky at a table) builds from: six box variants so every Trail is in exactly three boxes, each variant 50 boxes, trios rotated so each variant carries two trios. Printers call this "assembly" or "kitting" and quote it per unit; if the quote is silly, order the parts and kit them at home, which also lets Bucky mix any Trails a Scout asks for at an event.
+
+**What the spec sheet says**, whichever ask:
+
+- **Card:** standard poker size, 63 × 88 mm (2.5 × 3.5 in). One card stock and one finish for everything, because samplers shuffle into the Core's Trail deck and a thicker or shinier card is a marked card. Pick the finish (linen or smooth, matte or gloss) from a physical sample first.
+- **One back.** Every card in the game has the same back, including Skills, Positions and Legacy. Only the Oath mat and the Rank cards may differ, and the Rank cards are better kept the same so a box has one back file.
+- **Card IDs.** Every card carries a set number in the bottom corner (SB-001 and up). The printer collates by file name, so the file name is the ID, and the collation list is a spreadsheet: ID, file name, quantity per deck, which stock item. The 163 Starter designs are 163 files; a card that appears in both the Core and a sampler is one file listed twice.
+- **Files:** print-ready PDF or PNG per face at 300 dpi with the printer's bleed (usually 3 mm) and no crop marks in the art. Keep text and badge art 3 mm inside the cut line.
+- **Collation:** fixed, never random, for the Core and the samplers. The trio can be fixed (twelve lists) or, at an offset printer, a "random 3 of 36" booster, which is cheaper to collate and makes the trio a true surprise.
+- **Packaging:** shrink-wrap the Core; wrap each sampler and trio; tuck box or two-piece box sized for 100 cards plus the paracord coil and two folded sheets. Box art shows three blank Trail color bars that the kit sheet fills with a sticker or a printed band per variant.
+- **Proofs:** a digital proof of every stock item and one physical sample of each before the run. Check that the sampler card stock matches the Core by shuffling them together.
+- **Quantity and printer.** Print-on-demand has no minimums and treats each stock item as a saved project, so it fits a first run of a few hundred Starters and lets the trio list change every month. Offset printing wants hundreds of each stock item before it is cheaper, and the nineteen stock items (1 Core, 6 samplers, 12 trios) make that a big first order; move to offset once a Trail sampler sells on its own.
 
 ### Packs: adding on and building
 
@@ -1155,9 +1190,10 @@ Packs are fixed, not random. A Scout knows what is in one before opening it, whi
 | **Heritage pack** | 36 | all 12 Heritage cards, all 12 Good Turns, a 12-card Law Track set | the history and the event clock |
 | **PLC pack** | 64 cards + 5 sheets | all 10 Tasks, 30 Slots, 24 Constraints, the five Plan sheets | Game Two on its own, for a troop that only wants the planning game |
 | **Legacy wave** (eight waves) | 12 each, 96 all | 11 retired badges and 1 Heritage or Twist per wave | the collector's chase; waves are also the Discovered pool at events |
+| **Trail sampler** (six, the same packs that go in Starters) | 10 each, 60 all six | 4 badges of the Trail, its Counselor, 1 Gear or Helper, 1 Weather or Good Turn, 1 Individual Quest, 1 youth and 1 adult Position | the cheapest add-on: fills in a Trail the Starter skipped; six plus a Core is a no-gaps Starter |
 | **Skill pack** (free) | 8 | random Skills weighted to the lower ranks | handed out, never sold; the commons that start the trading |
 
-Nine kinds of pack. A Scout who owns a Starter, the six Trail packs and the Trail to First Class pack holds every badge and every Skill: 103 + 180 + 28 = 311 cards, about the Troop Box without the fourth player's sets.
+Ten kinds of pack. A Scout who owns a Starter, the six Trail packs and the Trail to First Class pack holds every badge and every Skill: 100 + 180 + 28 = 308 cards, about the Troop Box without the fourth player's sets.
 
 ### Special sets: partner packs
 
@@ -1193,7 +1229,7 @@ Four of these are dated and printed per event; the rest are bulk. Singles are th
 
 | When | What |
 |---|---|
-| Once | Starters (3 themes), Troop Box, 9 kinds of pack, Crossover card, Good Turn coin |
+| Once | Starter Core, the six Trail samplers, the twelve Campfire trios, Troop Box, 10 kinds of pack, Crossover card, Good Turn coin |
 | Each Legacy wave (every ~3 months) | 12 cards; eight waves over two years |
 | Each Bucky event (about 12 a year) | that event's EARNED foils for every badge on its schedule, the Team Member event edition, Skill packs to hand out, one Lost-tier Legacy to hide |
 | Each partner event | the partner-earned editions for that day's badges |
