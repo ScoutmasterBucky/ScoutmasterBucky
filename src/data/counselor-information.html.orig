@@ -71,7 +71,7 @@
             <div
               data-particle_enable="false"
               data-particle-mobile-disabled="false"
-              class="elementor-element elementor-element-4c30b61 e-ecs-flex e-flex e-con-boxed e-con e-parent e-lazyloaded"
+              class="elementor-element elementor-element-4c30b61 e-ecs-flex e-flex e-con-boxed e-con e-parent"
               data-id="4c30b61"
               data-element_type="container"
               data-e-type="container"
@@ -647,7 +647,7 @@
             >
               <div class="elementor-widget-container">
                 <h5 class="elementor-heading-title elementor-size-default">
-                  Geocaching
+                  Gardening
                 </h5>
               </div>
             </div>
@@ -670,12 +670,18 @@
                 >
                   <div class="elementor-widget-container">
                     <p>
-                      The guide helps merit badge counselors support Scouts in
-                      completing Requirement 8, which offers four different
-                      options: Cache to Eagle, Travel Bug, Hiding a Geocache, or
-                      CITO (Cache In, Trash Out). It also gives practical
-                      advice, tips, and context to help counselors guide Scouts
-                      successfully.
+                      The Gardening merit badge counselor note highlights key
+                      safety considerations, supervision requirements, and best
+                      practices for working with gardening tools, pesticides and
+                      fertilizers, and, for Scouts who choose the beekeeping
+                      option, live honeybee hives. These resources are designed
+                      to help you provide a safe, engaging, and successful
+                      learning experience while ensuring activities align with
+                      Scouting America safety guidance. A quick review can help
+                      prevent injuries, protect Scouts from potential hazards
+                      such as allergic reactions and chemical exposure, and
+                      build confidence as you guide them through hands-on
+                      gardening projects.
                     </p>
                   </div>
                 </div>
@@ -691,6 +697,101 @@
                   <div
                     class="elementor-element elementor-element-e6c9db3 elementor-widget__width-auto elementor-widget elementor-widget-button"
                     data-id="e6c9db3"
+                    data-element_type="widget"
+                    data-e-type="widget"
+                    data-widget_type="button.default"
+                  >
+                    <div class="elementor-widget-container">
+                      <div class="elementor-button-wrapper">
+                        <a
+                          class="elementor-button elementor-button-link elementor-size-sm"
+                          href="https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Gardening%20Counselor%20Notes.pdf"
+                        >
+                          <span class="elementor-button-content-wrapper">
+                            <span class="elementor-button-text"
+                              >Download Document</span
+                            >
+                          </span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      data-particle_enable="false"
+      data-particle-mobile-disabled="false"
+      class="elementor-section elementor-top-section elementor-element elementor-element-d938523 linkJump elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+      data-id="d938523"
+      data-element_type="section"
+      data-e-type="section"
+    >
+      <div class="elementor-container elementor-column-gap-default">
+        <div
+          class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5637586"
+          data-id="5637586"
+          data-element_type="column"
+          data-e-type="column"
+        >
+          <div class="elementor-widget-wrap elementor-element-populated">
+            <div
+              class="elementor-element elementor-element-da4b9af elementor-widget elementor-widget-heading"
+              data-id="da4b9af"
+              data-element_type="widget"
+              data-e-type="widget"
+              data-widget_type="heading.default"
+            >
+              <div class="elementor-widget-container">
+                <h5 class="elementor-heading-title elementor-size-default">
+                  Geocaching
+                </h5>
+              </div>
+            </div>
+            <div
+              data-particle_enable="false"
+              data-particle-mobile-disabled="false"
+              class="elementor-element elementor-element-d50dc8a e-ecs-flex e-flex e-con-boxed e-con e-parent"
+              data-id="d50dc8a"
+              data-element_type="container"
+              data-e-type="container"
+              data-settings='{"ecs_container_type":"flex"}'
+            >
+              <div class="e-con-inner">
+                <div
+                  class="elementor-element elementor-element-7b7964e elementor-widget elementor-widget-text-editor"
+                  data-id="7b7964e"
+                  data-element_type="widget"
+                  data-e-type="widget"
+                  data-widget_type="text-editor.default"
+                >
+                  <div class="elementor-widget-container">
+                    <p>
+                      The guide helps merit badge counselors support Scouts in
+                      completing Requirement 8, which offers four different
+                      options: Cache to Eagle, Travel Bug, Hiding a Geocache, or
+                      CITO (Cache In, Trash Out). It also gives practical
+                      advice, tips, and context to help counselors guide Scouts
+                      successfully.
+                    </p>
+                  </div>
+                </div>
+                <div
+                  data-particle_enable="false"
+                  data-particle-mobile-disabled="false"
+                  class="elementor-element elementor-element-37cb0bd e-con-full e-ecs-flex e-flex e-con e-child"
+                  data-id="37cb0bd"
+                  data-element_type="container"
+                  data-e-type="container"
+                  data-settings='{"ecs_container_type":"flex"}'
+                >
+                  <div
+                    class="elementor-element elementor-element-4c9fbad elementor-widget__width-auto elementor-widget elementor-widget-button"
+                    data-id="4c9fbad"
                     data-element_type="widget"
                     data-e-type="widget"
                     data-widget_type="button.default"
@@ -797,6 +898,105 @@
                         <a
                           class="elementor-button elementor-button-link elementor-size-sm"
                           href="https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Note%20to%20Counselor%20-%20Home%20Repairs.pdf"
+                        >
+                          <span class="elementor-button-content-wrapper">
+                            <span class="elementor-button-text"
+                              >Download Document</span
+                            >
+                          </span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      data-particle_enable="false"
+      data-particle-mobile-disabled="false"
+      class="elementor-section elementor-top-section elementor-element elementor-element-e7ab1cc linkJump elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+      data-id="e7ab1cc"
+      data-element_type="section"
+      data-e-type="section"
+    >
+      <div class="elementor-container elementor-column-gap-default">
+        <div
+          class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f199242"
+          data-id="f199242"
+          data-element_type="column"
+          data-e-type="column"
+        >
+          <div class="elementor-widget-wrap elementor-element-populated">
+            <div
+              class="elementor-element elementor-element-862a2b9 elementor-widget elementor-widget-heading"
+              data-id="862a2b9"
+              data-element_type="widget"
+              data-e-type="widget"
+              data-widget_type="heading.default"
+            >
+              <div class="elementor-widget-container">
+                <h5 class="elementor-heading-title elementor-size-default">
+                  Painting
+                </h5>
+              </div>
+            </div>
+            <div
+              data-particle_enable="false"
+              data-particle-mobile-disabled="false"
+              class="elementor-element elementor-element-79428a1 e-ecs-flex e-flex e-con-boxed e-con e-parent"
+              data-id="79428a1"
+              data-element_type="container"
+              data-e-type="container"
+              data-settings='{"ecs_container_type":"flex"}'
+            >
+              <div class="e-con-inner">
+                <div
+                  class="elementor-element elementor-element-48936f2 elementor-widget elementor-widget-text-editor"
+                  data-id="48936f2"
+                  data-element_type="widget"
+                  data-e-type="widget"
+                  data-widget_type="text-editor.default"
+                >
+                  <div class="elementor-widget-container">
+                    <p>
+                      The Painting merit badge counselor note highlights key
+                      safety considerations, supervision requirements, and best
+                      practices for working with paints, chemicals, tools, and
+                      ladders. These resources are designed to help you provide
+                      a safe, engaging, and successful learning experience while
+                      ensuring activities align with Scouting America safety
+                      guidance. A quick review can help prevent injuries,
+                      protect Scouts from potential hazards, and build
+                      confidence as you guide them through hands-on painting
+                      projects.
+                    </p>
+                  </div>
+                </div>
+                <div
+                  data-particle_enable="false"
+                  data-particle-mobile-disabled="false"
+                  class="elementor-element elementor-element-d722622 e-con-full e-ecs-flex e-flex e-con e-child"
+                  data-id="d722622"
+                  data-element_type="container"
+                  data-e-type="container"
+                  data-settings='{"ecs_container_type":"flex"}'
+                >
+                  <div
+                    class="elementor-element elementor-element-5cbf722 elementor-widget__width-auto elementor-widget elementor-widget-button"
+                    data-id="5cbf722"
+                    data-element_type="widget"
+                    data-e-type="widget"
+                    data-widget_type="button.default"
+                  >
+                    <div class="elementor-widget-container">
+                      <div class="elementor-button-wrapper">
+                        <a
+                          class="elementor-button elementor-button-link elementor-size-sm"
+                          href="https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Painting%20Counselor%20Notes.pdf"
                         >
                           <span class="elementor-button-content-wrapper">
                             <span class="elementor-button-text"

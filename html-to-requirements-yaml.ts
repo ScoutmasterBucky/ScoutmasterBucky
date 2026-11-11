@@ -355,7 +355,7 @@ function processResources(
         }
 
         const match = text.match(
-            /\(\s*(app|pdf|photo|picture|playlist|podcast|video|web|webpage|website|website\s*\/\s*videos?|website with videos|website w\/ video)\s*\)/i
+            /\(\s*(app|pdf|photo|picture|playlist|podcast|video|web|webpage|website|website\s*\/\s*videos?|website with videos|website w\/ video|xlsx?)\s*\)/i
         );
         let type = '?';
 
@@ -398,6 +398,9 @@ function processResources(
                 `Found "photo" resource type near "${text.substring(0, 50)}...". This should be "image".`
             );
             type = 'image';
+        } else if (type === 'xls') {
+            processingFile.warn(`Found "xls" resource type that probably should be xlsx`);
+            type = 'xlsx';
         }
 
         text = rewrap(unwrap(text), depth + 1);

@@ -193,7 +193,7 @@
               width="96"
               height="96"
               data-src="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png"
-              class="attachment-large size-large wp-image-231895 ls-is-cached lazyloaded"
+              class="attachment-large size-large wp-image-231895 lazyloading"
               alt=""
               data-srcset="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png 96w, https://www.scouting.org/wp-content/uploads/2025/01/info@3x-74x74.png 74w"
               data-sizes="(max-width: 96px) 100vw, 96px"
@@ -374,22 +374,15 @@
             "
             sizes="(max-width: 1000px) 100vw, 1000px" /></noscript
         ><img
-          src="https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image.jpg"
+          src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201000%20666%22%3E%3C/svg%3E"
           decoding="async"
           width="1000"
           height="666"
           data-src="https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image.jpg"
-          class="attachment-full size-full wp-image-253779 lazyloaded"
+          class="lazyload attachment-full size-full wp-image-253779"
           alt=""
           data-srcset="https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image.jpg 1000w, https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image-300x200.jpg 300w, https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image-768x511.jpg 768w, https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image-74x49.jpg 74w"
           data-sizes="(max-width: 1000px) 100vw, 1000px"
-          sizes="(max-width: 1000px) 100vw, 1000px"
-          srcset="
-            https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image.jpg         1000w,
-            https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image-300x200.jpg  300w,
-            https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image-768x511.jpg  768w,
-            https://www.scouting.org/wp-content/uploads/2025/11/dance-overview-image-74x49.jpg     74w
-          "
         />
       </div>
     </div>

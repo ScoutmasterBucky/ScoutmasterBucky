@@ -349,10 +349,28 @@ async function downloadCounselorInformation(updated: UpdatedSingle) {
             selector: '[data-id="d6e33b5"] a',
         },
         {
+            key: 'gardening-counselor-guide',
+            url: indexUrl,
+            dest: 'download/gardening-counselor-guide.pdf',
+            selector: '[data-id="e6c9db3"] a',
+        },
+        {
             key: 'geocaching-counselor-guide',
             url: indexUrl,
             dest: 'download/geocaching-counselor-guide.pdf',
-            selector: '[data-id="e6c9db3"] a',
+            selector: '[data-id="4c9fbad"] a',
+        },
+        {
+            key: 'home-repairs-counselor-guide',
+            url: indexUrl,
+            dest: 'download/home-repairs-counselor-guide.pdf',
+            selector: '[data-id="e07a3d6"] a',
+        },
+        {
+            key: 'painting-counselor-guide',
+            url: indexUrl,
+            dest: 'download/painting-counselor-guide.pdf',
+            selector: '[data-id="5cbf722"] a',
         },
         {
             key: 'swimming-counselor-guidelines',

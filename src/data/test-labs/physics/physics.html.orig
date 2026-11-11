@@ -193,7 +193,7 @@
               width="96"
               height="96"
               data-src="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png"
-              class="attachment-large size-large wp-image-231895 ls-is-cached lazyloaded"
+              class="attachment-large size-large wp-image-231895 lazyloading"
               alt=""
               data-srcset="https://www.scouting.org/wp-content/uploads/2025/01/info@3x.png 96w, https://www.scouting.org/wp-content/uploads/2025/01/info@3x-74x74.png 74w"
               data-sizes="(max-width: 96px) 100vw, 96px"
@@ -387,23 +387,15 @@
             "
             sizes="(max-width: 1500px) 100vw, 1500px" /></noscript
         ><img
-          src="https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807.jpg"
+          src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201500%201409%22%3E%3C/svg%3E"
           decoding="async"
           width="1500"
           height="1409"
           data-src="https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807.jpg"
-          class="attachment-full size-full wp-image-247682 lazyloaded"
+          class="lazyload attachment-full size-full wp-image-247682"
           alt=""
           data-srcset="https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807.jpg 1500w, https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807-300x282.jpg 300w, https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807-1024x962.jpg 1024w, https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807-768x721.jpg 768w, https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807-74x70.jpg 74w"
           data-sizes="(max-width: 1500px) 100vw, 1500px"
-          sizes="(max-width: 1500px) 100vw, 1500px"
-          srcset="
-            https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807.jpg          1500w,
-            https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807-300x282.jpg   300w,
-            https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807-1024x962.jpg 1024w,
-            https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807-768x721.jpg   768w,
-            https://www.scouting.org/wp-content/uploads/2025/08/GettyImages-455434807-74x70.jpg      74w
-          "
         />
       </div>
     </div>
@@ -1099,6 +1091,8 @@
                 href="https://s3.amazonaws.com/www.rubegoldberg.org/documents/49239.jpg"
                 target="_blank"
                 rel="noopener"
+                class="fancybox"
+                data-fancybox="cl-group"
                 ><strong
                   >https://s3.amazonaws.com/www.rubegoldberg.org/documents/49239.jpg</strong
                 ></a

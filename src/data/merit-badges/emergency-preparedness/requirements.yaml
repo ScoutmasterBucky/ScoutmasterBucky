@@ -46,14 +46,11 @@
                 -   requirement: 4
                     text: Food poisoning
                     resources:
-                        -   href: https://youtu.be/VKw0cpNLALI
-                            text: Stomach Flu and Food Poisoning
-                            type: video
-                        -   href: https://www.youtube.com/watch?v=nf4R6XHCU4Q
-                            text: Safe Food Handling
+                        -   href: https://youtu.be/iguM_pqetzo
+                            text: Food Safety in Seconds
                             type: video
                         -   href: https://youtu.be/U7yq-GwbcgE
-                            text: How to Know If You Have Food Poisoning
+                            text: How To Know if You Have Food Poisoning
                             type: video
                 -   requirement: 5
                     text: Automobile crash
@@ -111,11 +108,8 @@
                 -   requirement: 12
                     text: Fire or explosion in a public place
                     resources:
-                        -   href: https://youtu.be/uXG31J68dcY
-                            text: How to Survive a Building Explosion
-                            type: video
                         -   href: https://youtu.be/P8Naa4pzDdo
-                            text: How to Survive a Burning High-Rise
+                            text: How To Survive a Burning High-Rise
                             type: video
                 -   requirement: 13
                     text: Violence in a public place
@@ -280,10 +274,6 @@
     children:
         -   requirement: a
             text: Live household electric wire
-            resources:
-                -   href: https://youtu.be/O2VpgB8Xrzs
-                    text: Rescue and First Aid for Electric Shock
-                    type: video
         -   requirement: b
             text: A structure filled with carbon monoxide
             resources:

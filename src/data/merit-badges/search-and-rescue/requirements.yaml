@@ -358,10 +358,6 @@
             children:
                 -   requirement: 1
                     text: Evaluating search urgency
-                    resources:
-                        -   href: https://www.criminaljustice.ny.gov/missing/docs/search-urgency-chart.pdf
-                            text: Urban Search Urgency Evaluation Form
-                            type: pdf
                 -   requirement: 2
                     text: Establishing confinement
                     resources:

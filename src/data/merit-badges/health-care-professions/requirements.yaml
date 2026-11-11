@@ -1,5 +1,4 @@
 # Need to be careful about the gaps that are inserted with the conversion tool
-# AUTO: WARNING: Found "website/video" resource type near "Choose a Career in Cytology...". This should be "website with videos".
 -   requirement: 1
     text: |-
         Select three of the professions from Group 1 listed below which interest
@@ -251,20 +250,13 @@
         <div class="gap"></div>
         <strong>Group 4:</strong>
         <div class="gap"></div>
-        (1) Biomedical Engineer (BME)
-        <div class="gap"></div>
-        (2) Medical Technologist
-        <div class="gap"></div>
-        (3) Phlebotomist
-        <div class="gap"></div>
-        (4) Radiology Technologist
-        <div class="gap"></div>
-        (5) Sonographer
-        <div class="gap"></div>
-        (6) Medical Records Specialist
-        <div class="gap"></div>
-        (7) Cytopathologist
-        <div class="gap"></div>
+        (1) Biomedical Engineer (BME)<br>
+        (2) Medical Technologist<br>
+        (3) Phlebotomist<br>
+        (4) Radiology Technologist<br>
+        (5) Sonographer<br>
+        (6) Medical Records Specialist<br>
+        (7) Cytopathologist<br>
         (8) Histotechnologist
     children:
         -   requirement: a
@@ -301,9 +293,6 @@
                 Describe to your counselor the educational and licensing
                 requirements for the professionals you selected.
             resources:
-                -   href: https://www.tiktok.com/@futurecheme/video/7353059059412585770
-                    text: Biomedical Engineering
-                    type: video
                 -   href: https://www.coursera.org/articles/medical-technologist
                     text: How To Become a Medical Technologist
                     type: website
@@ -323,9 +312,6 @@
                 -   href: https://preppy.org/how-to-become-a-medical-records-specialist/
                     text: How To Become a Medical Records Specialist
                     type: website
-                -   href: https://cytopathology.org/page/cytologycareer
-                    text: Choose a Career in Cytology
-                    type: website with videos
                 -   href: https://www.nsh.org/about/about-histotechnology/how-histotechnology
                     text: What It Takes to Be a Histotechnician
                     type: website

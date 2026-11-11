@@ -1,4 +1,9 @@
 # Requirement 2a needs manual handling
+# AUTO: WARNING: Resources section is not wrapped in italics near "Using the MyPlate food guide or the current USDA n..."
+# AUTO: WARNING: Resources section is not on a new line near "Using the MyPlate food guide or the current USDA n..."
+# AUTO: WARNING: Could not determine resource type for link with text "Meal Planner (XLS)..." and URL "https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Cooking/Blank_Menu_Template.xlsx". Please check this manually.
+# AUTO: WARNING: Resources section is not wrapped in italics near "Using the MyPlate food guide or the current USDA n..."
+# AUTO: WARNING: Resources section is not on a new line near "Using the MyPlate food guide or the current USDA n..."
 -   text: |-
         <i><b>NOTE:</b> Repeating Meals or Menus: The meals prepared for Cooking
         merit badge requirements 4, 5, and 6 will count only toward this merit
@@ -88,10 +93,6 @@
                 (3) Grains<br>
                 (4) Proteins<br>
                 (5) Dairy
-            resources:
-                -   href: https://www.myplate.gov/eat-healthy/what-is-myplate
-                    text: MyPlate Food Groups
-                    type: website
         -   requirement: b
             text: Explain why you should limit your intake of oils and sugars.
             resources:
@@ -104,10 +105,6 @@
                 based on your activity for five days. Then, based on the MyPlate
                 food guide, discuss with your counselor an appropriate meal plan
                 for yourself for one day.
-            resources:
-                -   href: https://www.myplate.gov/myplate-plan
-                    text: MyPlate Food Plan
-                    type: website
         -   requirement: d
             text: |-
                 Discuss your current eating habits with your counselor and what
@@ -196,28 +193,16 @@
                 allergies) and how you keep your foods safe and free from
                 cross-contamination. List the equipment and utensils needed to
                 prepare and serve these meals.
-            resources:
-                -   href: https://www.myplate.gov/myplate-kitchen
-                    text: MyPlate Kitchen
-                    type: website
         -   requirement: b
             text: |-
                 Find recipes for each meal. Create a shopping list for your
                 meals showing the amount of food needed to prepare for the
                 number of people you will serve. Determine the cost for each
                 meal.
-            resources:
-                -   href: https://www.myplate.gov/myplate-kitchen
-                    text: MyPlate Kitchen
-                    type: website
         -   requirement: c
             text: |-
                 Share and discuss your meal plan and shopping list with your
                 counselor.
-            resources:
-                -   href: https://www.myplate.gov/myplate-kitchen
-                    text: MyPlate Kitchen
-                    type: website
         -   requirement: d
             text: |-
                 Using at least five of the 10 cooking methods from requirement
@@ -257,19 +242,15 @@
                 and free from cross-contamination. List the equipment and
                 utensils needed to prepare and serve these meals.
             resources:
-                -   href: https://www.myplate.gov/resources/tools
-                    text: MyPlate Tools
-                    type: website
+                -   href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Cooking/Blank_Menu_Template.xlsx
+                    text: Meal Planner (XLS)
+                    type: xlsx
         -   requirement: b
             text: |-
                 Find or create recipes for the four meals, the snack, and the
                 dessert you have planned. Adjust menu items in the recipes for
                 the number to be served. Create a shopping list and budget to
                 determine the per-person cost.
-            resources:
-                -   href: https://www.myplate.gov/resources/tools
-                    text: MyPlate Tools
-                    type: website
         -   requirement: c
             text: |-
                 Share and discuss your menu plans and shopping list with your
@@ -340,9 +321,9 @@
                 the equipment and utensils needed to prepare and serve these
                 meals.
             resources:
-                -   href: https://www.myplate.gov/myplate-kitchen
-                    text: MyPlate Kitchen
-                    type: website
+                -   href: https://youtu.be/r7hQE1zp0uk
+                    text: Repackaging Food for Backpacking
+                    type: video
         -   requirement: b
             text: |-
                 Create a shopping list for your meals, showing the amount of

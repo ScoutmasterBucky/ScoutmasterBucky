@@ -24,6 +24,7 @@ const ResourceSchema: z.ZodSchema<Resource> = z.strictObject({
             'website w/ video',
             'website with video',
             'website with videos',
+            'xlsx'
         ])
         .optional(),
 });

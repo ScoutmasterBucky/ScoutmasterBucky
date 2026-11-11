@@ -1,4 +1,3 @@
-# 7(g) had ".." at the beginning - removed
 # AUTO: WARNING: Found URL ending with ".pdf" near "Where to Place AEDs..." with resource type "website". This should be "pdf".
 -   requirement: 1
     text: '<b>Handling a First Aid Emergency.</b> Do the following:'
@@ -106,12 +105,9 @@
                 href="/merit-badges/first-aid/"><i>First Aid</i> merit badge</a>
                 pamphlet or ones approved by your counselor, do the following:
             resources:
-                -   href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/First%20Aid/Personal%20Family%20Troop%20First%20Aid%20Kit%20Checklist.pdf
+                -   href: https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Requirement%20Resources/Emergency%20Preparedness/Personal%20Family%20Troop%20First%20Aid%20Kit%20Checklist%20Version%20Oct%202026.pdf
                     text: Personal, Family, and Troop First Aid Kit Checklist
                     type: pdf
-                -   href: https://scoutlife.org/video-audio/4937/first-aid-kit-buying-guide/
-                    text: First Aid Kit Checklists
-                    type: website
             children:
                 -   requirement: 1
                     text: |-
